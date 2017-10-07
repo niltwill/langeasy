@@ -1,6 +1,6 @@
 # LangEasy
 
-Please make sure you have the .NET Framework 4.0 (or later) installed.
+Please make sure you have the **.NET Framework 4.0** (or later) installed.
 
 LangEasy is a language learning helper application (for Windows). It can be used to memorize vocabulary, expressions or 
 even sentences. The program's main function is to learn one language; from the base language to the target 
