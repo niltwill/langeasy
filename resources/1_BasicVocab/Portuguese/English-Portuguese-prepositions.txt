@@ -1,0 +1,17 @@
+﻿English	Portuguese
+against	contra
+among	no meio de
+at	para
+at	para
+beside	ao lado de
+during	durante
+for	para
+into	em
+of	de
+on	na, no
+on	na, no
+since	desde
+to	sobre
+with	com
+with	com
+without	sem

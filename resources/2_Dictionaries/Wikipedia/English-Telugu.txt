@@ -1,0 +1,674 @@
+English	Telugu
+0 (number)	సున్న
+1 (number)	ఒకటి
+10 (number)	పది
+2 (number)	రెండు
+3 (number)	మూడు
+6 (number)	ఆరు
+7 (number)	ఏడు
+8 (number)	ఎనిమిది
+AIDS	ఎయిడ్స్
+Abdomen	ఉదరము
+Abkhazia	అబ్‌ఖజియా
+Acacia	తుమ్మ
+Acceleration	త్వరణము
+Acne vulgaris	మొటిమ
+Acupuncture	ఆక్యుపంక్చర్
+Adam Smith	ఆడం స్మిత్
+Adolf Hitler	ఎడాల్ఫ్ హిట్లర్
+Adrenal gland	అధివృక్క గ్రంధి
+Afghanistan	ఆఫ్ఘనిస్తాన్
+Africa	ఆఫ్రికా
+Agra	ఆగ్రా
+Agriculture	వ్యవసాయం
+Alan Turing	అలాన్ ట్యూరింగ్‌
+Albert Einstein	ఆల్బర్ట్ ఐన్‌స్టీన్
+Alexander Pushkin	అలెగ్జాండర్ పుష్కిన్
+Alexander the Great	అలెగ్జాండర్
+Alfred Nobel	ఆల్ ఫ్రెడ్ నోబెల్
+Algeria	అల్జీరియా
+Algorithm	అల్గారిథం
+Alkali metal	క్షార లోహము
+Aluminium	అల్యూమినియం
+Amino acid	ఎమైనో ఆమ్లాలు
+Amphibian	ఉభయచరము
+Anatomy	శరీర నిర్మాణ శాస్త్రము
+Andhra Pradesh	ఆంధ్ర ప్రదేశ్
+Angola	అంగోలా
+Animal	జంతువు
+Animal husbandry	పశు పోషణ
+Ankara	అంకారా
+Annelid	అనెలిడా
+Ant	చీమ
+Anton Chekhov	అంటోన్ చెకోవ్
+Apiaceae	అంబెల్లిఫెరె
+April	ఏప్రిల్
+April 14	ఏప్రిల్ 14
+Arabian Sea	అరేబియా సముద్రము
+Armenia	ఆర్మేనియా
+Artery	ధమని
+Arthritis	గౌటు
+Arthropod	ఆర్థ్రోపోడా
+Asbestos	రాతినార
+Asia	ఆసియా
+Assam	అసోం
+Asteraceae	ఆస్టరేసి
+Asteroid belt	ఆస్టెరాయిడ్ పట్టీ
+Asthma	ఉబ్బసము
+Astronaut	వ్యోమగామి
+Astronomy	ఖగోళ శాస్త్రము
+August	ఆగష్టు
+August 1	ఆగష్టు 1
+August 15	ఆగష్టు 15
+August 6	ఆగష్టు 6
+Australia	ఆస్ట్రేలియా
+Automobile	కారు
+Avicenna	ఇబ్నె సీనా
+Axe	గొడ్డలి
+Azerbaijan	అజర్‌బైజాన్
+Bacteria	బాక్టీరియా
+Bahrain	బహ్రయిన్
+Bamboo	వెదురు
+Banana	అరటి
+Bangalore	బెంగుళూరు
+Bangladesh	బంగ్లాదేశ్
+Barometer	భారమితి
+Bat	గబ్బిలం
+Bear	ఎలుగుబంటి
+Bed	పరుపు
+Bengal	బెంగాల్
+Benin	బెనిన్
+Bhutan	భూటాన్
+Bible	బైబిల్
+Big Bang	మహావిస్ఫోటం
+Bihar	బీహార్
+Bile	పైత్యరసం
+Bill Gates	బిల్ గేట్స్
+Biology	జీవ శాస్త్రము
+Bird	పక్షి
+Black	నలుపు
+Black hole	కాలబిలము
+Blog	బ్లాగు
+Blood	రక్తం
+Blood vessel	రక్తనాళాలు
+Blue	నీలము
+Bobby Fischer	బాబీ ఫిషర్
+Bone	ఎముక
+Boston	బోస్టన్
+Bot	మూస:Bot
+Botswana	బోత్సువానా
+Brahma	బ్రహ్మ
+Brahmaputra River	బ్రహ్మపుత్రా నది
+Brass	ఇత్తడి
+Brick	ఇటుక
+Bridge	వంతెన
+Bronze	కంచు
+Bruce Lee	బ్రూస్ లీ
+Brunei	బ్రూనై
+Buddhism	బౌద్ధ మతము
+Bumblebee	తుమ్మెద
+Burkina Faso	బర్కీనా ఫాసో
+Burma	మయన్మార్
+Bus	బస్సు
+Butter	వెన్న
+C (programming language)	సీ
+Calcium	కాల్షియమ్
+Calendar	కేలండర్
+California	కాలిఫోర్నియా
+Cambodia	కంబోడియా
+Cameroon	కామెరూన్
+Canada	కెనడా
+Canal	కాలువ
+Cape Verde	కేప్ వర్దె
+Carbohydrate	పిండిపదార్ధాలు
+Carbon	కార్బన్
+Cardamom	ఏలకులు
+Carnivorous plant	కీటకాహార మొక్కలు
+Carolus Linnaeus	కరోలస్ లిన్నేయస్
+Cauliflower	కాలీఫ్లవరు
+Cave	గుహ
+Cell (biology)	జీవకణం
+Cement	సిమెంటు
+Centimetre	సెంటీమీటరు
+Central African Republic	సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్
+Ceres (dwarf planet)	సెరిస్ (మరుగుజ్జు గ్రహం)
+Cestoda	బద్దెపురుగు
+Chad	చాద్
+Charlie Chaplin	చార్లీ చాప్లిన్
+Che Guevara	చే గెవారా
+Chemistry	రసాయన శాస్త్రము
+Chennai	చెన్నై
+Chess	చదరంగం (ఆట)
+Chickpea	శనగలు
+Child	పిల్లలు
+Cholera	కలరా
+Chordate	కార్డేటా
+Chromosome	వారసవాహిక
+Cloud	మేఘం
+Cnidaria	నిడేరియా
+Cockroach	బొద్దింక
+Coconut	కొబ్బరి
+Coffee	కాఫీ
+Colombo	కొలంబో
+Color	రంగు
+Comet	తోకచుక్క
+Common cold	జలుబు
+Communism	కమ్యూనిజం
+Comoros	కొమొరోస్
+Complex number	సంకీర్ణ సంఖ్యలు
+Computer	కంప్యూటరు
+Computer hardware	కంప్యూటరు హార్డువేరు
+Copper	రాగి
+Cricket	క్రికెట్
+Cuba	క్యూబా
+Cucumber	దోసకాయలు
+Cucurbitaceae	కుకుర్బిటేసి
+Curitiba	Curitiba
+Cyprus	సైప్రస్
+DNA	డీఆక్సీరైబో కేంద్రక ఆమ్లం
+Date Palm	ఖర్జూరం
+December	డిసెంబర్
+December 31	డిసెంబర్ 31
+December 8	డిసెంబర్ 8
+Definition	నిర్వచనము
+Delhi	ఢిల్లీ
+Democracy	ప్రజాస్వామ్యం
+Denmark	డెన్మార్క్
+Desert	ఎడారి
+Diabetes mellitus	మధుమేహం
+Diamond	వజ్రం
+Diarrhea	అతిసారం
+Dicotyledon	ద్విదళబీజాలు
+Dictionary	నిఘంటువు
+Disambiguation	వర్గం:అయోమయ నివృత్తి
+Disease	వ్యాధి
+Dog	కుక్క
+Donkey	గాడిద
+Door	తలుపు
+Dubai	దుబాయ్
+Eagle	గద్ద
+Ear	చెవి
+Earth	భూమి
+Earthquake	భూకంపం
+East Timor	తూర్పు తైమూర్
+Ecology	జీవావరణ శాస్త్రము
+Economics	ఆర్థిక శాస్త్రము
+Edmund Hillary	ఎడ్మండ్ హిల్లరీ
+Education	విద్య
+Eggplant	వంకాయ
+Eiffel Tower	ఈఫిల్ టవర్
+Electricity	విద్యుత్తు
+Electrolysis	విద్యుద్విశ్లేషణ
+Electron	ఎలక్ట్రాన్
+Electron microscope	ఎలక్ట్రాన్ సూక్ష్మదర్శిని
+Elephant	ఏనుగు
+Emu	ఈము
+Equator	భూమధ్య రేఖ
+Eris (dwarf planet)	ఎరిస్ (మరుగుజ్జు గ్రహం)
+Esophagus	అన్నవాహిక
+Europe	ఐరోపా
+Fabaceae	ఫాబేసి
+Fact	Template:మూలాలు అవసరం
+Fallopian tube	ఫెలోపియన్ నాళాలు
+Family (biology)	కుటుంబము (జీవశాస్త్రం)
+Family name	ఇంటి పేర్లు
+February	ఫిబ్రవరి
+February 12	ఫిబ్రవరి 12
+February 14	ఫిబ్రవరి 14
+February 2	ఫిబ్రవరి 2
+February 22	ఫిబ్రవరి 22
+February 29	ఫిబ్రవరి 29
+Fever	జ్వరం
+Fidel Castro	ఫిడెల్ కాస్ట్రో
+Field hockey	మైదాన హాకీ
+Film	సినిమా
+First aid	ప్రధమచికిత్స
+Fish	చేప
+Flatworm	ప్లాటీహెల్మింథిస్
+Flood	వరద
+Florida	ఫ్లోరిడా
+Flute	వేణువు
+Food	ఆహారం
+Football (soccer)	ఫుట్ బాల్
+Forest	అడవి
+Forestry	వన్య శాస్త్రము
+Fortification	కోట
+Friday	శుక్రవారము
+Full moon	పౌర్ణమి
+Fungus	శిలీంధ్రం
+Galaxy	గేలక్సీ
+Galileo Galilei	గెలీలియో గెలీలి
+Gallbladder	పిత్తాశయము
+Ganesha	వినాయకుడు
+Ganges	గంగా నది
+Gautama Buddha	గౌతమ బుద్ధుడు
+Genus	ప్రజాతి
+Geography	భూగోళ శాస్త్రము
+Geometry	జ్యామితి
+George Bernard Shaw	జార్జి బెర్నార్డ్ షా
+Georgia (U.S. state)	జార్జియా
+Germany	జెర్మనీ
+Gland	గ్రంధి
+Glasgow	గ్లాస్గో
+Glass	గాజు (పదార్ధం)
+Glasses	కళ్ళద్దాలు
+Globalization	ప్రపంచీకరణ
+Glucose	గ్లూకోస్
+Gnathostomata	నేతోస్టొమాటా
+Goa	గోవా
+God	దేవుడు
+Gold	బంగారం
+Golf	గోల్ఫ్
+Gout	గౌటు
+Great Wall of China	చైనా మహా కుడ్యము
+Gregorian calendar	గ్రెగోరియన్‌ కాలెండరు
+Gujarat	గుజరాత్
+Gymnosperm	వివృతబీజాలు
+Hadith	హదీసులు
+Hail	వడగళ్ళు
+Hajj	హజ్
+Halal	హలాల్
+Hanuman	హనుమంతుడు
+Head	తల
+Heart	గుండె
+Heavy water	భారజలం
+Helen Keller	హెలెన్ కెల్లర్
+Hell	నరకం
+Hexagon	షడ్భుజి
+Himalayas	హిమాలయాలు
+Hinduism	హిందూమతము
+History	చరిత్ర
+Homeopathy	హొమియోపతీ
+Honey	తేనె
+Hong Kong	హాంగ్‌కాంగ్
+Horn (anatomy)	కొమ్ము
+House	ఇల్లు
+Humerus	భుజాస్థి
+Hunger	ఆకలి
+Hyderabad	హైదరాబాదు
+Hydrogen	హైడ్రోజన్
+IPod	ఐపాడ్
+Imam	ఇమామ్
+India	భారత దేశము
+India	వర్గం:భారత దేశము
+Indian Ocean	హిందూ మహాసముద్రం
+Indira Gandhi	ఇందిరా గాంధీ
+Indonesia	ఇండోనేషియా
+Indra	ఇంద్రుడు
+Influenza	ఫ్లూ
+Insect	కీటకము
+Internet	ఇంటర్నెట్
+Iodine	అయోడిన్
+Iran	ఇరాన్
+Iraq	ఇరాక్
+Iron	ఇనుము
+Isaac Newton	ఐజాక్ న్యూటన్
+Islam	ఇస్లాం మతం
+Island	ద్వీపం
+Israel	ఇస్రాయెల్
+Italy	ఇటలీ
+Jainism	జైన మతము
+James Clerk Maxwell	జేమ్స్ క్లర్క్ మాక్స్‌వెల్
+January	జనవరి
+January 1	జనవరి 1
+January 19	జనవరి 19
+January 20	జనవరి 20
+January 6	జనవరి 6
+Japan	జపాన్
+Jaundice	పచ్చకామెర్లు
+Java (programming language)	జావా
+Jawaharlal Nehru	జవహర్‌లాల్ నెహ్రూ
+Jesus	యేసు
+Johannes Kepler	జోహాన్స్ కెప్లర్
+John Maynard Keynes	జాన్ మేనార్డ్ కీన్స్
+Joint	కీలు
+Jordan	జోర్డాన్
+Judaism	జుడాయిజం
+July	జూలై
+July 1	జూలై 1
+July 4	జూలై 4
+June	జూన్
+June 14	జూన్ 14
+June 21	జూన్ 21
+June 23	జూన్ 23
+June 24	జూన్ 24
+June 29	జూన్ 29
+June 3	జూన్ 3
+Jupiter	గురుడు
+Karl Marx	కార్ల్ మార్క్స్
+Karnataka	కర్ణాటక
+Kazakhstan	కజకస్తాన్
+Kidney	మూత్రపిండము
+Kilometre	కిలోమీటరు
+Kite	గాలిపటం
+Kiwi	కివి
+Knee	మోకాలు
+Knife	కత్తి
+Kolkata	కోల్కతా
+Krishna	శ్రీ కృష్ణుడు
+Kuiper belt	క్యూపర్ బెల్ట్
+Kuwait	కువైట్
+Kyrgyzstan	కిర్గిజిస్తాన్
+Lake	సరస్సు
+Lakshmi	లక్ష్మి
+Lamiaceae	లామియేసి
+Laos	లావోస్
+Larynx	స్వరపేటిక
+Laser	లేజర్
+Latitude	రేఖాంశం
+Lava	లావా
+Lead	సీసము
+Leaf	పత్రము
+Leap year	లీపు సంవత్సరము
+Lebanon	లెబనాన్
+Lens (optics)	కటకము
+Leonhard Euler	లియొనార్డ్ ఆయిలర్
+Lever	తులాదండము
+Library	గ్రంధాలయము
+Light	కాంతి
+Light-year	కాంతి సంవత్సరం
+Lightning	మెరుపు
+Liliaceae	లిలియేసి
+Lion	సింహం
+Lipid	కొవ్వు పదార్ధాలు
+Litre	లీటరు
+London	లండన్
+Los Angeles	లాస్ ఏంజలెస్
+Lunar eclipse	చంద్ర గ్రహణం
+Lung	ఊపిరితిత్తులు
+Macau	మకావు
+Macroeconomics	స్థూల ఆర్థిక శాస్త్రము
+Maharashtra	మహారాష్ట్ర
+Mahatma Gandhi	మహాత్మా గాంధీ
+Malaria	మలేరియా
+Malaysia	మలేషియా
+Maldives	మాల్దీవులు
+Malvaceae	మాల్వేసి
+Mammal	క్షీరదాలు
+Mandelbrot set	మేండెల్‌బ్రాట్ సెట్
+Mango	మామిడి
+Manipur	మణిపూర్
+Mao Zedong	మావో జెడాంగ్
+March 17	మార్చి 17
+March 19	మార్చి 19
+March 2	మార్చి 2
+March 25	మార్చి 25
+Marie Curie	మేరీ క్యూరీ
+Marriage	పెళ్ళి
+Martina Navratilova	మార్టినా నవ్రతిలోవా
+Massachusetts Institute of Technology	మసాచుసెట్స్ ఇన్సిట్యూట్ ఆఫ్ టెక్నాలజీ
+Match	అగ్గిపుల్ల
+Matter	పదార్ధము
+May	మే
+May 1	మే 1
+May 24	మే 24
+Measles	తట్టు
+Mecca	మక్కా
+Mercury (planet)	బుధుడు
+Metre	మీటరు
+Michigan	మిషిగన్
+Microeconomics	సూక్ష్మ అర్థ శాస్త్రము
+Microeconomics	వర్గం:సూక్ష్మ అర్థ శాస్త్రము
+Microscope	సూక్ష్మదర్శిని
+Milk	పాలు
+Milky Way	పాలపుంత
+Million	మిలియను
+Milton Friedman	మిల్టన్ ఫ్రీడ్‌మన్
+Minaret	మీనార్
+Minnesota	మిన్నసోటా
+Mollusca	మొలస్కా
+Mongolia	మంగోలియా
+Monica Seles	మోనికా సెలెస్
+Moon	చంద్రుడు
+Moscow	మాస్కో
+Mosque	మస్జిద్
+Mother	తల్లి
+Mother Teresa	మదర్ థెరీసా
+Mount Everest	ఎవరెస్టు పర్వతం
+Muhammad	మహమ్మద్‌
+Mumbai	ముంబై
+Municipality	పురపాలక సంఘము
+Muscat	మస్కట్
+Muscle	కండరము
+Music	భారతీయ సంగీతము
+Mutation	ఉత్పరివర్తనము
+Nail (fastener)	మేకు
+National anthem	జాతీయగీతం
+Natural gas	సహజ వాయువు
+Nelson Mandela	నెల్సన్ మండేలా
+Nematode	నెమటోడ
+Nepal	నేపాల్
+Neptune	నెప్ట్యూన్
+New Jersey	న్యూజెర్సీ
+New York City	న్యూయార్క్
+Nicolaus Copernicus	నికోలస్ కోపర్నికస్
+Night	రాత్రి
+Nitrogen	నత్రజని
+Nobel Prize	నోబెల్ బహుమతి
+Noble gas	ఉత్కృష్ట వాయువు
+North	ఉత్తరం
+North Korea	ఉత్తర కొరియా
+Nostradamus	నోస్ట్రడామస్
+November	నవంబర్
+November 1	నవంబర్ 1
+November 11	నవంబర్ 11
+November 2	నవంబర్ 2
+November 5	నవంబర్ 5
+Number	సంఖ్య
+Oasis	ఒయాసిస్సు
+Ocean	మహాసముద్రము
+October	అక్టోబర్
+October 12	అక్టోబర్ 12
+October 24	అక్టోబర్ 24
+Olympic Games	ఒలింపిక్ క్రీడలు
+Oman	ఒమన్
+Onion	ఉల్లిపాయ
+Oort cloud	ఊర్ట్ మబ్బు
+Operating system	ఆపరేటింగు సిస్టంలు
+Orange (fruit)	బత్తాయి
+Orca	ఓర్కా
+Organism	జీవి
+Orgasm	భావప్రాప్తి
+Orissa	ఒరిస్సా
+Ovary	అండాశయము
+Owl	గుడ్లగూబ
+Oxygen	ఆక్సిజన్
+Pakistan	పాకిస్తాన్
+Palestinian National Authority	పాలస్తీనా
+Pancreas	క్లోమము
+Parrot	చిలుక
+Parvati	పార్వతి
+Pathology	రోగ నిర్ణయ శాస్త్రము
+Peafowl	నెమలి
+Pearl	ముత్యము
+Pentagon	పంచభుజి
+People	వర్గం:ప్రజలు
+People's Republic of China	చైనా
+Percentage	శాతం
+Philippines	ఫిలిప్పీన్స్
+Phobia	ఫోబియా
+Phosphorus	భాస్వరము
+Physics	భౌతిక శాస్త్రము
+Pi	పై
+Pine	పైన్
+Pineapple	అనాస
+Pituitary gland	పియూష గ్రంధి
+Planet	గ్రహం
+Plant	మొక్క
+Pluto	ప్లూటో
+Poaceae	పోయేసి
+Polar bear	ధృవపు ఎలుగుబంటి
+Poliomyelitis	పోలియో
+Pollution	కాలుష్యం
+Pomegranate	దానిమ్మ
+Population	జనాభా
+Potato	బంగాళదుంప
+Profit	లాభం
+Programming language	ప్రోగ్రామింగు భాష
+Prostate	పౌరుష గ్రంథి
+Protein	మాంసకృత్తులు
+Proxima Centauri	ప్రాక్సిమా సెంటారీ
+Psoriasis	సోరియాసిస్
+Punctuation	విరామ చిహ్నములు
+Python (programming language)	పైథాన్ (కంప్యూటర్ భాష)
+Qatar	కతర్
+Quadrilateral	చతుర్భుజి
+RNA	రైబో కేంద్రక ఆమ్లం
+Rabindranath Tagore	రవీంద్రనాధ టాగూరు
+Rain	వర్షం
+Rama	రామావతారము
+Ramadan	రంజాన్
+Ramayana	రామాయణము
+Red blood cell	ఎర్ర రక్త కణం
+Religion	మతము
+Renaissance	రెనసాన్స్
+Reptile	సరీసృపాలు
+Republic of the Congo	కాంగో రిపబ్లిక్
+Road	రహదారి
+Root	వేరు
+Rose	గులాబి
+Ruby	కెంపు
+Russia	రష్యా
+Sahara	సహారా ఎడారి
+San Francisco	శాన్ ఫ్రాన్సిస్కో
+Sanskrit	సంస్కృతము
+Sapphire	నీలమణి
+Saturday	శనివారము
+Saturn	శని
+Saudi Arabia	సౌదీ అరేబియా
+Scissors	కత్తెర
+Sea level	సముద్రమట్టం
+Seed	విత్తనము
+September	సెప్టెంబర్
+September 11	సెప్టెంబర్ 11
+September 17	సెప్టెంబర్ 17
+September 29	సెప్టెంబర్ 29
+Serbia	సెర్బియా
+Shahadah	షహాద
+Sharia	షరియా
+Ship	ఓడ
+Shiva	శివుడు
+Shrub	పొద
+Sikkim	సిక్కిం
+Silicon	సిలికాన్
+Silver	వెండి
+Singapore	సింగపూరు
+Skull	కపాలం
+Small intestine	చిన్న ప్రేగు
+Snake	పాము
+Soap	సబ్బు
+Socrates	సోక్రటీసు
+Sodium	సోడియమ్
+Solanaceae	సొలనేసి
+Solar System	సౌరమండలము
+Solar eclipse	సూర్య గ్రహణం
+Sound	ధ్వని
+South Korea	దక్షిణ కొరియా
+Soviet Union	సోవియట్ యూనియన్
+Soybean	సోయా చిక్కుడు
+Spain	స్పెయిన్
+Species	జాతి
+Spinal cord	వెన్నుపాము
+Spleen	ప్లీహము
+Sponge	స్పంజిక
+Sport	క్రీడ
+Sri Lanka	శ్రీలంక
+St. Louis	సెయింట్ లూయిస్
+Star	నక్షత్రము (ఖగోళ)
+Steel	ఉక్కు
+Sternum	ఉరోస్థి
+Stomach	జీర్ణకోశం
+Submarine	జలాంతర్గామి
+Sudoku	సుడోకు
+Sufism	సూఫీ
+Suharto	సుహార్తో
+Sulfur	గంధకము
+Sun	సూర్యుడు
+Sunday	ఆదివారము
+Sura	సూరా
+Sweden	స్వీడన్
+Sweet potato	చిలగడదుంప
+Syria	సిరియా
+Table (furniture)	మేజా
+Taj Mahal	తాజ్ మహల్
+Tajikistan	తజికిస్తాన్
+Tajikistan	వర్గం:తజికిస్తాన్
+Tamil Nadu	తమిళనాడు
+Tashkent	తాష్కెంట్
+Taste	రుచి
+Tea	తేనీరు
+Technetium	టెక్నీషియమ్
+Telescope	టెలిస్కోపు
+Television	దూరదర్శిని
+Temperature	ఉష్ణోగ్రత
+Temple	దేవాలయం
+Ten Commandments	పది ఆజ్ఞలు
+Tennis	వర్గం:టెన్నిస్
+Thailand	థాయిలాండ్
+Theory	సిద్ధాంతము
+Thomas Edison	థామస్ అల్వా ఎడిసన్
+Thomas Malthus	థామస్ రాబర్ట్ మాల్థస్
+Thumb	బొటనవేలు
+Thursday	గురువారము
+Tiger	పులి
+Time zone	కాలమండలం
+Timur	తైమూర్ లంగ్
+Tin	తగరము
+Tomato	టమాటో
+Tongue	నాలుక
+Tree	చెట్టు
+Triangle	త్రిభుజం
+Trigonometry	త్రికోణమితి
+Tropic of Cancer	కర్కట రేఖ
+Trygve Lie	ట్రిగ్వేలీ
+Tsunami	సునామి
+Tuberculosis	క్షయ
+Tuesday	మంగళవారము
+Turkey	టర్కీ
+Turmeric	పసుపు
+UNESCO	యునెస్కో
+Umbrella	గొడుగు
+United Arab Emirates	యునైటెడ్ అరబ్ ఎమిరేట్స్
+United Nations	ఐక్యరాజ్య సమితి
+United States	అమెరికా సంయుక్త రాష్ట్రాలు
+Universe	విశ్వం
+University	విశ్వవిద్యాలయం
+Upanishad	ఉపనిషత్తు
+Uranus	యురేనస్
+Urdu	ఉర్దూ భాష
+Urea	యూరియా
+Uterus	గర్భాశయం
+Uttar Pradesh	ఉత్తర ప్రదేశ్
+Uzbekistan	ఉజ్బెకిస్తాన్
+Vaccine	టీకా
+Vagina	యోని
+Valley	లోయ
+Vein	సిర
+Venus	శుక్రుడు
+Vertebra	వెన్నుపూస
+Vertebral column	వెన్నెముక
+Vertebrate	సకశేరుకాలు
+Vietnam	వియత్నాం
+Village	గ్రామం
+Virginia	వర్జీనియా
+Virus	వైరస్
+Vitamin	విటమిన్
+Vitamin A	విటమిన్ ఎ
+Vladimir Lenin	లెనిన్
+Vomiting	వాంతి
+Walrus	వాల్‌రస్
+Water	నీరు
+Watermelon	పుచ్చ
+Weapon	ఆయుధం
+Wednesday	బుధవారము
+West	పడమర
+West Bengal	పశ్చిమ బెంగాల్
+Wheel	చక్రం
+Will (law)	వీలునామా
+William Shakespeare	విలియం షేక్‌స్పియర్
+World War II	రెండవ ప్రపంచ యుద్ధం
+Year	సంవత్సరము
+Yellow	పసుపు (రంగు)
+Yemen	యెమన్
+Yoga	యోగా
+Zoroastrianism	జొరాస్ట్రియన్ మతము

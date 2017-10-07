@@ -1,0 +1,77 @@
+French	﻿English
+autour	about
+au-dessus de	above
+encore	again
+presque	almost
+le long de	along
+déjà	already
+toujours	always
+approximativement	approximately
+comme	as
+devant	before
+avant	before
+derrière	behind
+entre	between
+passée	beyond
+par	by
+distinctement	clearly
+directement	directly
+bas	down
+tôt	early
+chaque	either
+assez	enough
+voire	even
+exactement	exactly
+enfin	finally
+abord	first
+avant	forward
+généralement	generally
+que voici	here
+ici	here
+cependant	however
+immédiatement	immediately
+dans	in
+vraiment	indeed
+intérieur	inside
+au lieu de	instead
+tard	late
+ensuite	later
+le moins	least
+peu	little
+juste	merely
+jamais	never
+non	not
+actuellement	now
+manifestement	obviously
+fréquemment	often
+une fois	once
+dehors	outside
+particulièrement	particularly
+peut-être	possibly
+plutôt	preferably
+probablement	probably
+vite	quickly
+réellement	really
+vraiment	really
+récemment	recently
+lentement	slowly
+ainsi	so
+seul	solely
+parfois	sometimes
+bientôt	soon
+encore	still
+tel	such
+subitement	suddenly
+certainement	surely
+alors	then
+là	there
+donc	therefore
+hui	today
+ensemble	together
+demain	tomorrow
+ce soir	tonight
+aussi	too
+haut	up
+normalement	usually
+très	very
+bien	well

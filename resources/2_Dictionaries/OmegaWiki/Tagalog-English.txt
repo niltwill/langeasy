@@ -1,0 +1,178 @@
+Tagalog	English
+Dagat Adriatic	Adriatic Sea
+Albania	Albania ; Republic of Albania
+Algeria	Algeria ; People's Democratic Republic of Algeria
+Andorra	Andorra ; Principality of Andorra
+Angola	Angola ; Republic of Angola
+Antarctica	Antarctica
+Antigua at Barbuda	Antigua and Barbuda
+Abril	April
+Arhentina	Argentina ; Argentine Republic
+Armenia ; ประเทศอาร์เมเนีย	Armenia
+Aruba	Aruba
+Australia	Australia ; Commonwealth of Australia
+Austria	Austria ; Republic of Austria
+Azerbaijan	Azerbaijan ; Republic of Azerbaijan
+Bahrain	Bahrain
+Kapuluang Balear	Balearic Islands
+Bangladesh	Bangladesh ; People's Republic of Bangladesh
+Belgrado	Belgrade
+Belize	Belize
+Bhutan	Bhutan ; Kingdom of Bhutan
+Bolivia	Bolivia ; Republic of Bolivia
+Borneo	Borneo ; Kalimantan
+Bosnia at Herzegovina	Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina
+Botswana	Botswana ; Republic of Botswana
+Brunei	Brunei ; Negara Brunei Darussalam
+Bulgaria	Bulgaria ; Republic of Bulgaria
+Burundi	Burundi ; Republic of Burundi
+Cairo	Cairo
+Cambodia	Cambodia ; Kingdom of Cambodia
+Cameroon	Cameroon ; Republic of Cameroon
+Canada	Canada
+Kastila ; Espanyol	Castilian ; Spanish ; Spanish
+Chad	Chad ; Republic of Chad
+Chile	Chile ; Republic of Chile
+Cyprus	Cyprus ; Republic of Cyprus
+Olandes	Dutch
+Silangang Timor	East Timor ; Democratic Republic of Timor-Leste
+El Salvador	El Salvador ; Republic of El Salvador
+ingles ; Ingles	English
+Eritrea	Eritrea
+Ethiopia	Ethiopia ; Federal Democratic Republic of Ethiopia
+Finland	Finland ; Republic of Finland
+Pransya	France
+Pranses	French ; French
+Gabon	Gabon ; Gabonese Republic
+Gambia	Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia
+Georgia	Georgia
+Aleman	German
+Aleman (Austria)	German (Austria)
+Aleman (Switzerland)	German (Switzerland)
+Alemanya	Germany ; Federal Republic of Germany
+Gresya	Greece ; Hellenic Republic
+Guam	Guam ; Guam ; Guam
+Haïti	Haiti ; Republic of Haiti
+Maligayang Bagong Taon	Happy New Year
+Netherlands	Holland ; Kingdom of the Netherlands ; The Netherlands
+Honduras	Honduras ; Republic of Honduras
+Hungary	Hungary ; Republic of Hungary
+Iceland	Iceland ; Republic of Iceland
+Indya	India ; Republic of India
+Indonesia	Indonesia ; Republic of Indonesia
+Iran	Iran ; Islamic Republic of Iran
+Irák	Iraq ; Republic of Iraq
+Israel	Israel ; State of Israel
+Italya	Italian Republic ; Italy
+Côte d’Ivoire	Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire
+Jakarta ; Indonesia	Jakarta ; Djakarta ; DKI Jakarta
+Jamaica	Jamaica
+Hapon	Japan ; State of Japan
+Jordan	Jordan ; Hashemite Kingdom of Jordan
+Hudaismo	Judaism
+Hunyo	June
+Kazakhstan	Kazakhstan ; Republic of Kazakhstan
+Kiribati	Kiribati ; Republic of Kiribati
+Kyrgyzstan	Kyrgyzstan ; Kyrgyz Republic
+Latvia	Latvia ; Republic of Latvia
+Lesotho	Lesotho ; Kingdom of Lesotho
+Liberia	Liberia ; Republic of Liberia
+Libya	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+Malawi	Malawi ; Republic of Malaŵi
+Malaysia	Malaysia
+Malta	Malta ; Republic of Malta
+Mauritania	Mauritania ; Islamic Republic of Mauritania
+Mayotte	Mayotte
+maligayang pasko	Merry Christmas
+Monaco	Monaco
+Montenegro	Montenegro
+Morocco	Morocco ; Kingdom of Morocco
+Myanmar ; Birmanya	Myanmar
+Namibia	Namibia
+New York	New York
+New Zealand	New Zealand
+Nicaragua	Nicaragua
+Pakistan	Pakistan ; Islamic Republic of Pakistan
+Panama	Panama
+Poland	Poland
+Portugal	Portugal
+Qatar	Qatar
+Republika ng Congo	Republic of the Congo ; Congo-Brazzaville
+Satúrno	Saturn
+Arabyang Saudi	Saudi Arabia ; Kingdom of Saudi Arabia
+Senegal	Senegal
+Serbya	Serbia
+Serbia at Montenegro	Serbia and Montenegro
+Slovakia	Slovakia
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Sweden	Sweden
+Switzerland	Switzerland
+Tagalog	Tagalog
+Tanzania	Tanzania
+Togo	Togo
+Uganda	Uganda ; Republic of Uganda
+Lungsod ng Vatica	Vatican City ; The Holy See ; State of the Vatican City
+Zambia	Zambia ; Republic of Zambia
+abseso	abscess
+mabalagsik	aggressive
+alkimiya	alchemy
+embahada	ambassador
+anime	anime
+langgam ; guyam	ant
+antithesis	antithesis
+asteroyd	asteroid
+astronomiya	astronomy
+astropisika	astrophysics
+beatipikasyon	beatification
+biyokimika	biochemistry
+biyolohiya	biology ; biological science
+alapaap	cloud
+kompuwesto	compound ; chemical compound
+parusang kamatayan	death penalty ; capital punishment ; death sentence
+aso	dog
+uminom ; inumin	drink ; gulp ; quaff ; sip
+siko	elbow
+ekwador	equator
+etika	ethics
+kalayaan	freedom ; liberty
+glikolisis	glycolysis
+gansa	goose
+panyo	handkerchief
+historiograpiya	historiography
+bahay	home ; home ; house
+pulut-pukyutan	honey
+pag-asa	hope
+parol	lantern
+makina nang tren	locomotive
+metapisika	metaphysics
+mikrópono ; mayk	microphone
+gatas	milk
+museo	museum
+katakataka	mysterious
+ilong	nose
+opisyal na wika	official language
+ópyo	opium
+orkestra	orchestra
+ulila	orphan
+oksigéno	oxygen
+parakaida	parachute
+pilosopiya	philosophy
+pisyolohiya	physiology
+kalapati	pigeon ; dove
+[olimero	polymer
+புரோமித்தியம்	promethium
+bumasa ; basahin	read
+bulutong	smallpox
+medyas	sock
+tiyan	stomach
+bagyó	storm ; tempest
+pamilihan	supermarket
+bukas	tomorrow
+puno	tree
+tropiko	tropics ; torrid zone
+uranyo	uranium
+suka	vinegar
+túbig	water
+agiw	web ; spider web
+balyéna	whale

@@ -1,0 +1,27 @@
+﻿English	Esperanto
+everybody	ĉiuj
+everything	cxio
+he	li
+her	sxia
+him	tema
+his	lia
+it	gxin
+me	mina
+my	minu
+our	nia
+she	ŝi
+that	tiu
+their	ilia
+them	ilin
+they	ili
+this	tiu cxi
+us	nin
+we	ni
+what	kio
+when	kiam
+which	kiu
+which	kiu
+who	kiu
+whose	kies
+you	vi
+your	via

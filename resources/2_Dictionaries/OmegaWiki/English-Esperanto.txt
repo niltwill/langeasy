@@ -1,0 +1,1270 @@
+English	Esperanto
+9 ; nine	naŭ
+Abidjan	Abiĝano
+Abkhazia	Abĥazio
+Abuja	Abuĝo
+Adriatic Sea	Adriatiko ; Adria Maro
+Aegean Sea	Egea Maro
+Afghanistan ; Transitional Islamic State of Afghanistan	Afganio
+Afrikaans	Afrikansa ; afrikansa
+Albania ; Republic of Albania	Albanio
+Algeria ; People's Democratic Republic of Algeria	Alĝerio
+American Samoa	Usona Samoo
+Amsterdam	Amsterdamo
+Andorra ; Principality of Andorra	Andoro
+Angola ; Republic of Angola	Angolo
+Anguilla	Angvilo
+Antarctica	Antarkto
+Antigua and Barbuda	Antigvo-Barbudo
+April	aprilo
+Arabic ; Standard Arabic	araba
+Aragonese ; Aragonese	aragona
+Argentina ; Argentine Republic	Argentino
+Aries	Ŝafo
+Arizona	Arizona
+Armenia	Armenio
+Armenian	armena
+Aruba	Arubo
+August	aŭgusto
+Australia ; Commonwealth of Australia	Aŭstralio
+Austria ; Republic of Austria	Aŭstrio
+Austria-Hungary ; Austro-Hungarian Empire	Aŭstrio-Hungario ; Danuba Monarkio
+Azerbaijan ; Republic of Azerbaijan	Azerbajĝano
+Bahamas ; Commonwealth of the Bahamas ; Bahama Islands	Bahamoj
+Bahrain	Barejno
+Balearic Islands	Balearoj
+Bangladesh ; People's Republic of Bangladesh	Bangladeŝo
+Barbados	Barbado
+Basque ; Basque	eŭska
+Bavaria	Bavario
+Beijing	Pekino
+Belarus ; Republic of Belarus	Belorusio
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	belorusa
+Belgium ; Kingdom of Belgium	Belgio
+Belgrade	Beogrado
+Belize	Belizo
+Belmopan	Belmopano
+Benin ; Benin ; Republic of Benin	Benino ; Benino
+Berlin	Berlino
+Bermuda	Bermudo
+Bethlehem	Bet-Leĥem
+Bhutan ; Kingdom of Bhutan	Butano
+Birmingham	Birmingham
+Bokmål	bokmål
+Bolivia ; Republic of Bolivia	Bolivio
+Bonn	Bonn
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosnio kaj Hercegovino
+Botswana ; Republic of Botswana	Bocvano
+Bouvet Island	Buvetinsulo
+Brazil	Brazilo
+Breton ; Breton	bretona lingvo ; bretona
+British Indian Ocean Territory ; BIOT	Brita Hindoceana Teritorio
+Brunei ; Negara Brunei Darussalam	Brunejo
+Bulgaria ; Republic of Bulgaria	Bulgario
+Bulgarian ; Bulgarian	bulgara
+Burkina Faso	Burkino
+Burundi ; Republic of Burundi	Burundo
+Cairo	Kairo ; Kairo ; Kairo
+Cambodia ; Kingdom of Cambodia	Kamboĝo
+Cameroon ; Republic of Cameroon	Kamerunio ; Kameruno
+Canada	Kanado
+Cape Verde ; Republic of Cape Verde	Kabo-Verdo
+Capricorn	Kaprikorno
+Caribbean Area ; Caribbean	Karibio
+Caribbean Sea	Kariba Maro
+Caspian Sea	Kaspia Maro
+Castilian ; Spanish ; Spanish	Hispana ; hispana
+Catalan ; Catalan	kataluna
+Cayman Islands	Kajmaninsuloj
+Central African Republic	Centr-Afrika Respubliko
+Chad ; Republic of Chad	Ĉado
+Chile ; Republic of Chile	Ĉilio
+Christmas	Kristnasko
+Christmas Island	Kristnaskinsulo
+Christmas tree	kristnaskarbo
+Chuvash ; Chuvash ; Chuwash ; Chovash ; Chavash ; Chttash	ĉuvaŝa
+Cologne	Kolonjo
+Colombia ; Republic of Colombia	Kolombio
+Comoros ; Union of the Comoros	Komoroj
+Cook Islands	Kukinsuloj
+Corfu	Korfuo
+Costa Rica ; Republic of Costa Rica	Kostariko
+Croatia ; Republic of Croatia	Kroatio
+Cuba ; Republic of Cuba	Kubo
+Cyprus ; Republic of Cyprus	Kipro
+Cyrillic alphabet	kirila ; cirila alfabeto
+Czech ; Czech	ĉeĥa
+Czech Republic ; Czechia	Ĉeĥio
+Dagestan	dagestano ; Dagestano
+Dakar	Dakaro
+Danish	dana
+December	decembro
+Democratic Republic of the Congo ; Congo-Kinshasa	Kongo Kinŝasa
+Denmark ; Kingdom of Denmark	Danio
+Djibouti ; Republic of Djibouti	Ĝibutio
+Dominica ; Commonwealth of Dominica	Dominiko
+Dominican Republic	Domingo
+Dutch	nederlanda
+EU ; European Union	Eŭropa Unio
+East Timor ; Democratic Republic of Timor-Leste	Orienta Timoro
+Easter	Pasko
+Ecuador ; Republic of Ecuador	Ekvadoro
+Egypt ; Arab Republic of Egypt	Egiptio
+Eiffel Tower	Eiffel-Turo
+El Salvador ; Republic of El Salvador	Salvadoro
+English	angla
+Epiphany	Epifanio
+Equatorial Guinea ; Republic of Equatorial Guinea	Ekvatora Gvineo
+Eritrea	Eritreo
+Esperanto ; Esperanto	Esperanto
+Estonia ; Republic of Estonia	Estonio
+Estonian	estona
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopio
+Falkland Islands	Falklandoj
+Faroe Islands	Ferooj
+February	februaro
+Fiji ; Republic of the Fiji Islands	Fiĝio
+Finland ; Republic of Finland	Finlando
+Finnish	finna
+Flanders ; Flemish region	Flandrio
+France	Francio
+French ; French	franca ; franca lingvo
+French Guiana	Franca Gviano
+French Polynesia	Franca Polinezio
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Francaj Sudaj Teritorioj
+Friday	vendredo
+Frisian ; Western Frisian	frisa
+GDP ; gross domestic product	Malneta Enlanda Produkto
+GDR ; German Democratic Republic	GDR ; Germana Demokratia Respubliko
+Gabon ; Gabonese Republic	Gabono
+Gaborone	Gaborono
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambio ; Gambio ; Gambio ; Gambio
+Georgia	Kartvelio
+Georgia	Georgio
+Georgian ; Georgian	kartvela
+German	geramana ; germana
+German	Germano
+German	germana
+German (Austria)	germanaAŭstrio
+German (Switzerland)	germana (Svislando)
+Germany ; Federal Republic of Germany	Germanio
+Ghana ; Republic of Ghana	Ganao
+Gibraltar	Ĝibraltaro
+Greece ; Hellenic Republic	Grekio
+Greek ; Greek	greka
+Greek alphabet	greka alfabeto
+Greenland	Groenlando
+Grenada	Grenado
+Guadeloupe	Gvadelupo
+Guam ; Guam ; Guam	Gvamo
+Guatemala ; Republic of Guatemala	Gvatemalo
+Guinea ; Republic of Guinea	Gvineo
+Guinea-Bissau ; Republic of Guinea-Bissau	Gvineo-Bisaŭo
+Gujarati ; Gujarati	guĝarata
+Guyana ; Republic of Guyana	Gujano
+H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)	H5N1
+Haiti ; Republic of Haiti	Haitio
+Hannukah	Ĥanuka
+Hanover	Hanovro
+Happy New Year	feliĉan novan jaron
+Hebrew	hebrea
+Hindi ; Hindi	hinda
+Holland ; Kingdom of the Netherlands ; The Netherlands	Nederlando
+Honduras ; Republic of Honduras	Honduro
+Hungarian	hungara
+Hungary ; Republic of Hungary	Hungario
+I	mi
+Iceland ; Republic of Iceland	Islando
+Icelandic	islanda
+Iliad	Iliado
+India ; Republic of India	Barato
+Indonesia ; Republic of Indonesia	Indonezio
+Indonesian	indonezia
+Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin	Interlingvao
+Iran ; Islamic Republic of Iran	Irano
+Iraq ; Republic of Iraq	Irako
+Ireland ; Republic of Ireland	Irlando
+Irish ; Irish ; Irish Gaelic ; Irish	irlanda
+Islam	islamo
+Israel ; State of Israel	Israelo
+Italian ; Italian	itala
+Italian Republic ; Italy	Italio
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Ebur-Bordo
+Jakarta ; Djakarta ; DKI Jakarta	Ĝakarto
+Jamaica	Jamajko
+January	januaro
+Japan ; State of Japan	Japanio
+Japanese ; Japanese	japana
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Jordanio
+Judaism	judismo
+July	julio
+June	junio
+Kazakh ; Kazakh	kazaĥa
+Kazakhstan ; Republic of Kazakhstan	Kazaĥio
+Kenya ; Republic of Kenya	Kenjo
+Khartoum	Ĥartumo
+Kiribati ; Republic of Kiribati	Kiribato
+Korean ; Korean	korea
+Kuwait ; State of Kuwait	Kuvajto
+Kyoto	Kioto
+Kyrgyzstan ; Kyrgyz Republic	Kirgizistano
+Lagos	Lagoso
+Laos ; Lao People's Democratic Republic	Laoso
+Latin ; Latin	latina ; Latino
+Latvia ; Republic of Latvia	Latvio
+Latvian ; Latvian	latva
+Lausanne	Laŭzano
+Lebanon ; Lebanese Republic	Libano
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Sankt-Peterburgo
+Leo	Leono
+Lesotho ; Kingdom of Lesotho	Lesoto
+Liberia ; Republic of Liberia	Liberio
+Libra	Pesilo
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libio
+Liechtenstein ; Principality of Liechtenstein	Liĥtenŝtejno
+Lithuania ; Republic of Lithuania	Litovio
+Lithuanian ; Lithuanian	litova
+London	Londono
+Lower Saxony	Malsupra Saksio
+Luxembourg ; Grand Duchy of Luxembourg	Luksemburgio
+Luxembourgish ; Luxemburgish ; Luxembourgian	luksemburga
+Macedonia ; Republic of Macedonia	Makedonio
+Madagascar ; Republic of Madagascar	Madagaskaro
+Malawi ; Republic of Malaŵi	Malavio
+Malaysia	Malajzio
+Maldives ; Republic of the Maldives	Maldivoj
+Mali ; Republic of Mali	Malio
+Malta ; Republic of Malta	Malto
+Maori	Maorio
+March	marto
+Marshall Islands ; Republic of the Marshall Islands	Marŝalaj Insuloj
+Martinique	Martiniko
+Massachusetts	Masaĉuseco
+Mauritania ; Islamic Republic of Mauritania	Maŭritanio ; Maŭritanujo
+Mauritius ; Republic of Mauritius	Maŭricio
+May	majo
+Mayotte	Majoto
+Mecca	Mekao
+Merry Christmas	ĝojan kristnaskon
+Merry Christmas and a happy New Year	Felican Kristnaskon kaj prosperan Novjaron
+Mexico ; United Mexican States	Meksiko
+Micronesia ; Federated States of Micronesia	Mikronezio
+Milan	Milano
+Milky Way ; Galaxy	Lakta Vojo ; Lakta vojo
+Moldova	Moldavio ; Moldavujo
+Monaco	Monako
+Monday	lundo
+Mongolia	Mongolio
+Montenegro	Montenegro
+Montserrat	Moncerato
+Morocco ; Kingdom of Morocco	Maroko
+Mount Fuji	Fuĵi-Monto
+Mozambique	Mozambiko
+Mumbai ; Bombay	Mumbajo
+Munich	Munkeno
+Myanmar	Mjanmao
+Nairobi	Najrobo
+Namibia	Namibio
+Nauru ; Republic of Nauru	Nauro
+Neapolitan ; Neapolitan	napola
+Nepal	Nepalo
+Nepali ; Nepali	nepala
+Neptune	Neptuno
+New Caledonia	Nov-Kaledonio
+New Year ; New Year's Day	novjaro
+New York	Nov-Jorkio
+New Zealand	Nov-Zelando
+Nicaragua	Nikaragvo
+Niger	Niĝero
+Nigeria	Nigerio ; Niĝerio
+Niue	Niuo
+North Korea ; Democratic People's Republic of Korea	Nord-Koreujo
+Norway ; Kingdom of Norway	Norvegio
+Norwegian	norvega
+November	novembro
+Novial	Novialo
+Nynorsk	Nynorsk
+October	oktobro
+Oman ; Sultanate of Oman	Omano
+Orleans	Orléans
+Oslo	Oslo
+Pakistan ; Islamic Republic of Pakistan	Pakistano
+Palau	Belaŭo ; Palaŭo
+Panama	Panamo
+Papua New Guinea	Papuo-Nov-Gvineo
+Paraguay	Paragvajo
+Paris	Parizo
+People's Republic of China ; China	Ĉinio
+Persian ; Western Farsi ; Farsi	persa
+Peru ; Republic of Peru	Peruo
+Philadelphia	Filadelfio
+Philippines	Filipinoj
+Poland	Polio ; Pollando
+Polish ; Polish	pola
+Portugal	Portugalio
+Portuguese ; Portuguese	portugala
+Puerto Rico	Portoriko
+Qatar	Kataro
+Republic of the Congo ; Congo-Brazzaville	Kongo Brazavila
+Romania	Rumanio
+Romanian ; Romanaian	rumana
+Russia ; Russian Federation	Rusio
+Russian ; Russian	rusa
+Saint-Pierre and Miquelon	Sankta-Piero kaj Mikelono
+Sakhalin ; Saghalien	Saĥaleno
+Samoa	Samoo
+San Marino	San-Marino
+Sanskrit ; Sanskrit	Sanskrito
+Sapir–Whorf hypothesis	hipotezo de Sapir-Whorf
+Saturday	sabato
+Saturn	Saturno
+Saudi Arabia ; Kingdom of Saudi Arabia	Saŭda Arabio
+Seine	Sejno
+Senegal	Senegalio ; Senegalo
+September	septembro
+Serbia	Serbio
+Serbia and Montenegro	Serbio kaj Montenegro
+Seychelles ; Republic of Seychelles	Sejŝeloj
+Sicilian ; Sicilian	sicilia
+Sierra Leone	Siera-Leono
+Singapore	Singapuro
+Slovak ; Slovak	slovaka
+Slovakia	Slovakio
+Slovene ; Slovenian ; Slovenian	slovena
+Slovenia	Slovenio
+Sochi	Soĉi
+Solomon Islands	Salomonoj
+South Africa	Sud-Afriko ; Respubliko de Sud-Afriko
+South Korea ; Republic of Korea	Sud-Koreio
+Spain	Hispanio
+Sri Lanka	Lanko ; Sri-Lanko
+Sudan	Sudano
+Sun King	Reĝo-Suno
+Sunday	dimanĉo
+Suriname	Surinamo
+Sweden	Svedio
+Swedish	sveda
+Switzerland	Svislando
+Syria ; Syrian Arab Republic	Sirio
+Taiwan	Tajvano
+Tajik	taĝika
+Tajikistan	Taĝikio
+Tanzania	Tanzanio
+Tehran	Teherano
+Tennessee	Tenesio
+Thai ; Thai	taja
+Thailand	Tajlando
+The Hague	Hago
+Thuringia	Turingio
+Thursday	ĵaŭdo
+Togo	Togolo ; Togolando
+Tokyo	Tokio
+Tonga	Tongo
+Tuesday	mardo
+Tunisia	Tunizio
+Turkey	Turkio ; Turkujo
+Turkish ; Turkish	turka
+Turkmenistan	Turkmenio
+Uganda ; Republic of Uganda	Ugando
+Ukraine	Ukrainio
+Ukrainian ; Ukrainian	ukraina
+United Arab Emirates	Unuiĝintaj Arabaj Emirlandoj
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Unuiĝinta Regno
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	United States ; Unuiĝintaj Ŝtatoj de Ameriko
+Urdu ; Urdu	urduo
+Vaduz	Vaduzo
+Vatican City ; The Holy See ; State of the Vatican City	Vatikanurbo
+Venezuela	Venezuelo
+Venice	Venecio
+Vietnamese ; Vietnamese	vjetnama
+Volapük	volapuko
+Volga	Volgo
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Valiso kaj Futuno
+Washington	Vaŝingtonio
+Wednesday ; quarta-feira	merkredo
+Welsh ; Welsh	kimra
+Wikipedia	Vikipedio
+Wiktionary	Vikivortaro
+Wyoming	Vajomingo
+Yemen ; Republic of Yemen	Jemeno
+Zambia ; Republic of Zambia	Zambio
+Zanzibar	Zanzibaro
+Zimbabwe ; Republic of Zimbabwe	Zimbabvo
+abacus	abako
+abasement	humiligo
+abbreviation	mallongigo
+abhor ; loathe ; detest	abomeni
+abolitionist	aboliciisto
+abrasive	abrazia
+abscess	absceso
+absolutely	nepre
+acceptance ; credence	akcepto
+accident	akcidento
+accordion ; squeeze box ; piano accordion	akordiono
+acne	akneo
+acorn	glano
+acoustic insulation	akustika izolado
+acquisition	akirado
+actinium	aktinio
+activist	aktivulo
+addition	adicio
+adjective ; describing word	adjektivo
+adjust	alĝustigi
+adoption	adopto
+advance	anticipado
+adventure	aventuro
+aggressive	agresa
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agorafobio
+alarm clock	vekhorloĝo
+albinism	albinismo
+alchemist	alkemiisto
+alchemy	alkemio
+alcoholism	alkoholismo
+allegory	alegorio
+allotropy	alotropo
+alloy	alojo
+almond	migdalo
+almost	preskaux
+alongside ; amongst ; with	kun
+alphabet	alfabeto
+aluminium	aluminio
+amalgam	amalgamo
+ambassador	ambasadoro
+ambitious	ambicia
+ambulance	ambulanco
+americium	americio
+amethyst	ametisto
+anagram	anagramo
+analogous	analoga
+analogy	analogio
+anarchism	anarkiismo
+anarchy	anarkio
+and	kaj
+and ; as well as ; in addition to ; together with ; too	kaj
+animal	animalo
+anise	anizo
+anniversary	datreveno
+ant	ormiko
+antelope	antilopa
+anthropologist	antropologo
+anthropology	antropologio
+antibiotic	antibiotiko
+antimony	antimono
+antiparticle	antipartiklo
+antithesis	antitezo
+antonym	antonimo
+anvil	amboso
+anytime	ĉiam
+apartheid	apartismo
+apathy	apatio
+aphorism	aforismo
+apostle	apostolo
+apple	pomo
+apricot	abrikoto
+apron	antaŭtuko
+aquarium	akvario
+archduke	arkiduko
+archeologist ; archaeologist	arkeologo
+archer ; archer	pafarkisto
+archetype	arketipo
+architect	arkitekto
+archive	arkivo
+argon	argono
+argument	kverelo
+arithmetic ; arithmetics	aritmetiko
+arm	brako
+armistice	armistico
+armpit	akselo
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	adapti
+arrival	alveno
+arrow	sago
+arsenic	arseno
+arsonist	incendianto
+arthritis	artrito
+artichoke	artisoko
+article	artikolo
+artist ; creative person	artisto
+asparagus	asparago
+asphalt	asfalto
+aspirin	aspirino
+assumption ; supposition	supozo
+astatine	astato
+asteroid	asteroido
+asthma	astmo
+astrologer	astrologo
+astrometry	astrometrio
+astronomer	astronomo
+astronomy	astronomio
+astrophysics	astrofiziko
+asymmetric ; asymmetrical	nesimetria
+asymptote	asimptoto
+atheist	ateisto
+atoll	atolo
+atom	atomo
+atomic mass	atommaso
+attack	atako
+auction	aŭkcio
+avaricious	avida
+axiom	aksiomo
+baboon	paviano
+bacon	lardo
+badminton	badmintono
+bag ; pocket ; steal	ŝteli
+bagpipes	sakŝalmo
+baker	bakisto
+ballot	elektado
+banana	banano
+bankruptcy	bankroto
+barium	bario
+barley	hordeo
+barometer	barometro
+baseball ; baseball game	basbalo
+bean ; edible bean	fabo
+bear	urso
+beatification	beatigo
+beaver	kastoro
+bed	lito
+bee	abelo
+beekeeper ; apiculturist	abelbredisto
+beer	biero
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	umbiliko
+berkelium	berkelio
+beryllium ; glucinium	berilio
+between	inter
+bibliographic information	bibliograafiline informatsioon
+big ; large	granda
+bilateral	duflanka
+bile	galo
+biochemistry	biokemio
+biodegradation	biodegradado
+biodiversity	biodiverseco
+bird	birdo
+birth ; birth ; birth ; childbirth ; childbirth ; childbirth ; parturition	naskiĝo
+birthday	naskiĝtago
+bishop	rpiskopo ; episkopo
+bismuth	bismuto
+black ; dark	malhela
+blackbird	merlo
+blind	blinda
+blister	veziko
+blog ; weblog ; web log	blogo
+blood	sango
+blue	blua
+boat	garbostako ; boato
+bohrium	borio
+bonsai	bonsajo
+boron	boro
+botany	botaniko
+botany ; phytology	botaniko
+boundary	limo
+bow	arko
+branch	krifo
+bread	pano
+breakfast	matenmango
+broader term ; broader terms ; hypernym ; holonym	hiperonimo
+broccoli	brokolo
+bromine	bromo
+bull	virbovo ; taŭro
+butter	butero
+butterfly	papilio ; papilio
+button ; clit ; clitoris	klitoro
+buy ; purchase	aĉeti
+cactus	kakto
+cadmium	kadmio
+caesium	cezio
+caffeine	kafeino
+calcium	kalcio
+calendar	kalendaro
+caliber	kalibro
+californium	kaliforniumo
+calligraphy	kaligrafio
+camel	kamelo
+camera	fotilo ; fotografilo ; fotoaparato
+candle	kandelo
+car ; automobile	aŭto ; aŭtomobilo
+carbon	karbono
+carbon dioxide	karbona dioksido
+carbonate	karbonato
+cardinal	kardinalo
+career	kariero
+castle	kastelo
+cat	kato
+category	kategorio
+cauliflower	florbrasiko
+celery	celerio
+cell ; cell	ĉelo
+cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο	galvana pilo
+cephalopod	kapopieduloj
+cerium	cerio
+chair	seĝo
+champagne	ĉampano
+chapter	ĉapitro
+characteristic	karakteriza
+cheers ; thank you ; thanks	dankon
+cheese	fromaĝo
+cheetah ; chetah	gepardo
+chemical element ; element	kemia elemento
+chemist ; pharmacist	apotekisto
+chemist's ; chemist's shop ; pharmacy	apoteko
+chemistry	kemio
+cherry	ĉerizo
+chess	ŝako
+chicken	koko
+child	infano
+chimpanzee	ĉimpanzo
+chlorine	kloro
+cholesterol	kolesterolo
+chromium	kromo
+cigar	cigaro
+clarinet	klarneto
+cloud	nubo
+cobalt	kobalto
+cockroach	blato
+coffee	kafo
+coin ; money	monero
+come	veni
+comet	kometo
+communism	komunismo
+compound ; chemical compound	kemia kombinaĵo
+condom ; prophylactic ; rubber ; safe ; safety	kondomo
+consonant	konsonanto
+constellation	stelfiguro
+consume ; eat ; swallow	manĝi
+copper	kupro
+cow	bovino
+creativity ; inventiveness	kreemeco
+crossword	krucvortenigmo
+crucifix	krucifikso
+crystal	kristalo
+cucumber	kukumo
+curium	kuriumo
+currency	valuto
+dandelion	leontodo
+darmstadtium	darmŝtatio
+database	datumbazo
+daughter	filino
+deaf	surda
+death penalty ; capital punishment ; death sentence	mortpuno
+debit	atribui ; debeti
+decision	decido
+declaration ; statement	deklaracio
+defendant ; accused	akuzito
+deliver	akuŝi
+demography	demografio
+dendrochronology ; tree-ring dating	dendrokronologio
+dengue fever	dengo
+dentist	dentisto
+desert	dezerto
+deuterium	deŭterio
+dialect	dialekto
+diarrhea	diareo
+diary	taglibro
+dictionary	vortaro
+difficult	malfacila
+digestion	digesto
+diocese ; diocese	diocezo
+discount	rabato
+discrimination	diskriminacio ; diskrimino
+disinfectant	seninfektigo
+divorce	divorco
+dog	hundo
+dolphin	delfeno
+donation	donaco
+door	pordo
+draught animal	tibesto
+dress	robo
+dress ; clothe	vesti
+drink ; gulp ; quaff ; sip	trinki
+drinking water	trinkakvo
+dromedary	dromedaro
+drum kit	drumo
+drunk ; drunkard ; boozer	ebriulo
+dry	seka
+dubnium	dubnio
+duck	anaso
+dysprosium	disprozio
+ear	orelo
+early	frue
+earth's crust ; crust ; Earth's crust	terkrusto
+earthquake	tertremo ; sismo
+easy ; piece of cake ; like shooting fish in a barrel	facila
+eat	manĝi
+edible	manĝebla
+effort ; exertion	strebo
+egg	ovo
+eight	ok
+einsteinium	ejnstejnio
+ejaculation	ejakulo
+elbow	kubuto
+elder ; elderberry	sambuko
+electric power	elektra povumo
+electromagnetism	electromagnetismo
+electron	elektrono
+elephant	elefanto
+embassy ; diplomatic mission	ambasadorejo
+emergency	urĝaĵo
+employment ; employment ; job ; job ; occupation ; work ; work	profesio ; laboro ; okupo
+empty	malplena
+encephalitis	encefalito
+enemy	malamiko
+enjoy your meal ; have a nice meal	bonan apetiton
+enter	eniri
+entrepreneur	entreprenisto
+ephemeral	efemera
+epicentre	surcentro
+epigram	epigramo
+epilepsy	epilepsio
+equation	ekvacio
+equator	ekvatoro
+erbium	erbio
+ethics	etiko
+ethnography	etnografio
+europium	eŭropio
+exception	escepto
+executioner	ekzekutisto
+explicit	eksplicita
+explosion	eksplodo
+eye	okulo
+eyebrow	brovo
+facility	facileco
+fascism	faŝismo
+fat ; obese	obeza
+father	patro
+female ; woman	Virino
+fermium	fermio
+ferry	pramo
+fertilisation ; fecundation	fekundigo
+finger	fingro
+firework	artfajraĵo
+first	unua
+five	kvin
+flea	pulo
+flint ; flintstone	siliko
+fluorine	fluoro
+flute	fluto
+fog	nebulo
+foot	piedo
+football	futbalo
+foreign	fremda
+fossil	fosilio
+four	kvar
+fracture	frakturo
+francium	franciumo
+fraud	fraŭdo
+freedom ; liberty	libereco
+fuel cell	fuelpilo
+full	plena
+fundamental	fundamenta
+gadolinium	gadolinio
+gallium	galiumo
+gangrene	gangreno
+garage	garaĝo
+gardener	ĝardenisto
+genealogy	genealogio
+general	generalo
+geography	geografio
+geranium	geranio
+germanium	germaniumo
+geyser	gejsero
+giraffe	ĝirafo
+gland	glando
+glass	vitro
+glycolysis	glikolizo
+gold	oro
+gong	gongo
+gonorrhea	gonoreo
+good evening	bonan vesperon
+goose	ansero
+gorilla	gorilo
+grammer ; grammar	gramatiko
+grandfather	avo
+granite	granito
+grape	vinbero
+guillotine ; guillotine ; guillotine	gilotino
+guinea pig	kobajo
+gull	mevo
+haematology	hematologio
+haemorrhage ; bleeding	hemoragio
+hafnium	hafnio
+haiku	hajko
+hair	hararo
+hairdresser ; barber	frizisto
+hallucination	halucino
+handkerchief	naztuko
+hard disk drive ; hard disk ; HD	diskaparato ; durdisko
+harvest	rikolto
+hassium	hasio
+hate ; hatred	malamo
+he	li
+heart	koro
+heathen ; infidel ; pagan	pagano
+heavy	peza
+hedgehog	erinaco
+hedonism	hedonismo
+hegemony	hegemonio
+helicopter	helikoptero
+helium	heliumo
+here	ĉi tie
+heroin	heroino
+heron	ardeo
+hierarchy	hierarkio
+historiography	historiografio
+holmium	holmio
+home ; home ; house	domo
+homonym	homonimo
+honey	mielo
+hope	espero
+horizon	horizonto
+hormone	hormono
+horse	ĉevalo
+hostage	ostaĝo
+hour	horo
+huckleberry ; blueberry	mirtelo
+human population	loĝantaro
+hundred	cent
+husband ; spouse	edzo
+hydrogen	hidrogeno
+hyponym ; narrower terms ; narrower term	hiponimo
+ice	glacio
+iceberg	glacimonto
+independence	sendependeco
+indium	indio
+individual	individuo
+infection	infekto
+infectious disease ; communicable diseases	infekta malsano
+inflation	inflacio
+influenza ; flu	gripo ; influenco
+instrument ; musical instrument	muzika instrumento
+iodine	jodo
+ion	jono
+iridium	iridio
+iron	fero
+jade	jado
+jaguar	jaguaro
+joint ; articulation	artiko
+journal ; mag ; magazine ; periodical	revuo
+journalist	ĵurnalisto ; gazetisto
+judo	judo
+karate	karateo
+kettle	boligisto
+keyboard	klavaro
+kidney	reno
+kilogram	kilogramo
+kleptomania	kleptomanio
+knife	tranĉilo
+kokosnoot ; coconut	kokoso
+krypton	kriptono
+language	lingvo
+lantern	lanterno
+lanthanum	lantano
+laugh	ridi
+lavender ; lavander	lavendo
+law	legxo
+lawrencium	laŭrencio
+lawyer	advokato
+lead	plumbo
+leap year	superjaro
+leg	kruro
+lemon	citrono
+lens	lenso
+leopard	leopardo
+lethargy ; sluggishness ; languor	letargio
+letter	litero
+liberalism	liberalismo
+librarian	bibliotekisto
+library	biblioteko
+lifeguard	bangardisto
+limestone	kalkoŝtono
+lion	leono
+lip	lipo
+lithium	litio
+little finger ; pinkie	malgranda fingro
+liver	hepato
+locomotive	lokomotivo
+logic	logiko
+long	longa
+lottery	loterio
+love	amo
+love	ami
+lung	pulmo
+lutetium	lutecio
+lynx	linko
+mackerel	skombro
+macroscopic	makroskopa
+magnesium	magnezio
+malaria	malario
+mandarin ; Mandarin ; Standard Mandarin	mandarena
+manganese	mangano
+mango	mango
+mason ; bricklayer ; stonemason	masonisto
+mass	maso
+mausoleum	maŭzoleo
+mayonnaise	majonezo
+mayor	urbestro
+meitnerium	mejtnerio
+melody ; tune	melodio
+mendelevium	mendelevio
+meningitis	meningito
+merchant	komercisto
+mercury	hidrargo
+metallurgy	metalurgio
+metaphysics	metafiziko
+meteorite	meteorito
+methanol	metanolo
+metronome	metronomo
+microphone	mikrofono
+milk	lakto
+millet	milio
+miniskirt ; mini-skirt	minijupo
+minute	minuto
+mistral	mistralo
+molar ; tooth	dento
+molybdenum	molibdeno
+moon ; Luna ; Moon	luno
+moon ; moon ; satelite ; satelite	luno
+morphine	morfino
+motet	moteto
+mother	patrino
+mother-in-law ; mother in law	bopatrino
+mule	mulo
+museum	muzeo
+music	muziko
+musquito ; mosquito	kulo ; moskito
+mysterious	mistera
+nadir	nadiro
+name ; proper name ; proper noun	nomo
+nappy	vindotuko
+natural science	naturscienco
+neodymium	neodimo
+neologism	neologismo
+neon	neono
+nepotism	nepotismo
+neptunium	neptunio
+neurology	neŭrologio
+new ; novel	nova
+newspaper	gazeto ; ĵurnalo
+nickel	nikelo
+niobium	niobio
+nitrogen	azoto ; nitrogeno
+no	ne
+nobelium	nobelio
+nose	nazo
+nosotros ; we	ni
+nostril	naztruo
+nothing	nenio
+noun ; substantive	substantivo
+nuclear power plant	nuklea centralo ; nuklea energi-centralo ; atomelektrejo
+nutcracker	nuksorompilo
+obesity	trodikiĝo
+obey	obei
+observation	observo
+obsolete	senvaloriĝinta
+obstacle ; obstruction	obstaklo
+oceanography	oceanografio
+octave	okto
+octopus	polpo
+official language	oficiala lingvo
+ohm	omo
+oligarchy	oligarkio
+olive	olivo
+omega	Omego
+one	unu
+onion	cepo
+ontology	ontologio
+opera	opero
+ophthalmology	oftalmologio
+opium	opio
+optics	optiko
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimismo
+or	aŭ
+orange	oranĝo
+orchestra	orkestro
+orchid	orkideo
+ornithology	ornitologio
+orphan	orfo
+orthography	ortografía
+osmium	osmio
+ostrich	struto
+owner	proprietulo
+oxygen	oksigeno
+oyster	ostro
+ozone	ozono
+pacifist	pacifisto
+paediatrician	pediatro
+page	paĝo
+palaeontology	paleontologio
+palladium	paladio
+palm	palmo
+pancreas	pankreato
+pandemic	pandemio
+parachute	paraŝuto
+parrot	papago
+pathology	patologia
+peace	paco
+pear	piro
+pedestrian zone ; pedestrian area ; car-free zone ; auto-free zone ; pedestrianised zone	piedira zono
+pencil	krajono
+penguin	pingveno
+peninsula	duoninsulo
+people	uloj
+perineum	perineo
+periodic table	perioda tabelo
+person	persono
+petition	peto
+pheasant	fazano
+philology	filologio
+philosophy	filozofio
+phishing	ŝteltruko
+phobia	fobio
+phone ; telephone	telefono
+phonetics	fonetiko
+phosphorus	fosforo
+photon	fotono
+physiology	fiziologio
+pigeon ; dove	kolombo
+pituitary gland	hipofizo
+pity ; compassion	kunpasiono ; kompato
+pizza	pico
+place ; location	loko
+placenta	placento
+plane	ebeno
+planet	planedo
+platinum	plateno
+platitude ; cliche ; cliché	kliŝo
+plutonium ; plutonium ; plutonium	plutonio
+polar bear	arkta urso ; blanka urso
+pollen	poleno
+pollution	poluado
+polonium	polonio
+polymer	polimero
+pomegranate	granato
+porcelain	porcelano
+positron	pozitrono
+possession	posedo
+posterity	posteularo
+postman	leterportisto ; leteristo
+potassium	kalio
+potato ; patato	terpomo
+power (physics) ; power	povumo
+pragmatics	pragmatiko
+praseodymium	prazeodimo
+pregnancy	gravedeco
+prelate	prelato
+prisoner of war ; POW ; PoW ; PW	militkaptito
+problem	problemo
+promethium	prometio
+pronunciation	prononco
+prostate	prostato
+protactinium	protaktinio
+psychiatrist	psikiatro
+public transport	publika transporto
+putsch ; coup d'état	ŝtatrenverso
+pyrolysis	pirolizo
+queen	reĝino
+question	demando
+rabbi	rabeno
+rabbit	kuniklo
+radiology	radiologio
+radium	radiumo
+radon	radono
+rainbow	ĉielarko
+read	legi
+recipe	recepto
+recorder	bekfluto
+red kite	ruĝa milvo
+referendum ; plebiscite	referendumo
+renaissance	renesanco
+rhenium	renio
+rhino ; rhinoceros	rinocero
+rhodium	rodio
+rice	rizo
+roentgenium	rentgenio
+rosary	rozario
+rubidium	rubidio
+ruby	rubeno
+ruthenium	rutenio
+rutherfordium	ruterfordio
+sahara	saharo
+sailing ship	velŝipo
+samarium	samario
+sardine	sardino
+satellite	satelito
+scandium	skandio
+screw	ŝraŭbo
+screwdriver	ŝraŭbturnilo
+sculptor	skulptisto
+seaborgium	seborgio
+selenium	seleno
+sell	vendi
+semantics	semantiko
+semiconductor	semikonduktaĵo
+semiotics ; semiology	semiotiko
+server	servilo
+sew	kudri
+sextant	sekstanto
+shark	ŝarko
+sheep	ŝafo
+short ; small	malgranda
+sign language	gestlingvo
+silicon	silicio
+silver	arĝento
+skeleton	skeleto
+skull	kranio
+slipper	pantoflo
+slow	malrapida
+smallpox	variolo
+smile	rideto
+smoke	fumo
+soap	sapo
+sodium	sodio
+solar power station	sunelektrejo
+species	speco
+spider	araneo ; spino
+spider	araneo
+spinach	spinaco
+spoon	kulero
+star	stelo
+stork	cikonio
+storm ; tempest	ŝtormo
+story	rakonto
+strange ; odd	stranga
+strategic	strategia
+strawberry	frago
+strontium	stroncio
+sugar	sukero
+suicide	sinmortigo
+sulphur	sulfuro
+sulphur dioxide	sulfura dioksido
+supernova	supernovao
+surgeon	kirurgo
+surgery	kirurgio
+surprise	surprizi
+sword	glavo
+synagogue	sinagogo
+syndrome	sindromo
+syntax	sintakso
+syphilis	sifiliso
+syringe	injektilo
+table	tablo
+tailor	tajloro
+takeover	regŝanĝo
+tantalum	tantalo
+tea	teo
+teach	instrui ; lernigi
+technetium	teknecio
+television	televido
+tellurium	teluro
+ten	dek
+terbium	terbio
+terminology	terminologio
+terracotta ; terracotta ; terracotta ; terra cotta	terakoto
+terrorism	terorismo
+terrorist	teroristo
+testosterone	testosterono
+thallium	talio
+theology	teologio
+therapy	terapio
+thermodynamics	termodinamiko
+thirst	soifo
+thorium	torio
+thousand	mil
+three	tri
+thulium	tulio
+thumb	polekso
+thunder	tondro
+tiger	tigro
+timezone	horzono
+tin	stano
+titanium	titano
+tobacco	tabako
+toe	piedfingro ; digito
+tomato	tomato
+tomorrow	morgaŭ
+tongue	lango
+topography	topografio
+topology	topologio
+torpedo	torpedo
+traditional	tradicia
+train	trajno
+translate ; interpret	traduki
+translation	traduko
+tree	arbo
+triangle	triangulo
+trigonometry	trigonometrio
+trolley bus ; trolleybus	trolebuso
+trombone	trombono
+trophy	trofeo
+trumpet	trumpeto
+truth	vero
+tulip	tulipo
+tunafish	tinuso
+tundra	tundro
+tungsten	tungsteno
+tunnel	galerio ; tunelo
+turkey	meleagro
+twin	ĝemelo
+two	du
+university ; university ; academy	universitato ; universitato
+ununbium	ununbio
+ununhexium	ununheksio
+ununoctium	ununoktio
+ununpentium	ununpentio
+ununquadium	ununkvadio
+ununseptium	ununseptio
+ununtrium	ununtrio
+uranium	uranio
+urbanisation	urbanizado
+user	uzanto
+vaccination	vakcinado
+vacuum cleaner	polvosuĉilo
+valuable	altvalora
+vampire	vampiro
+vanadium	vanado
+vegetable	legomo
+veteran	veterano
+veterinarian	veterinaro
+veterinarian ; veterinary	veterinaro
+viable ; viable ; feasible	farebla
+vinegar	vinagro
+vineyard	vitejo
+volleyball	flugpilkado
+walrus	rosmaro
+wasp	vespo
+water	akvo
+weather	vetero
+web ; spider web	araneaĵo
+weekend	semajnfino
+whale	baleno
+wheelchair	rulseĝo
+white	blanka ; blanko
+white	blanka
+wife ; spouse	edzino
+wiki	vikio
+willow	saliko
+wind	vento
+window	fenestro
+wine	vino
+winter	vintro
+wizard ; sorcerer ; magician	sorĉisto ; magiisto
+wolf	lupo
+wood	arbaro
+word	vorto
+workplace	laborejo
+world war	mondmilito
+wound	vundo
+write	skribi
+xenon	ksenono
+xylophone	ksilofono
+y'all ; you ; you lot ; yous	vi
+yacht	jaĥto
+year ; solar year	jaro
+yellow	flava
+ytterbium	iterbio
+yttrium	itrio
+zebra	zebro
+zero ; null	nulo
+zinc	zinko
+zirconium	zirkonio
+zoology	zoologio
+Åland Islands	Alando

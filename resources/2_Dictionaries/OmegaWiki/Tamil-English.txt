@@ -1,0 +1,272 @@
+Tamil	English
+ஆப்பிரிக்கான்ஸ	Afrikaans
+ஆல்ப்ஸ்	Alps
+அங்கோலா	Angola ; Republic of Angola
+அண்டார்டிக்கா	Antarctica
+ஏப்ரல	April
+ภาษาอาหรับ	Arabic ; Standard Arabic
+அர்ஜென்டினா	Argentina ; Argentine Republic
+ஆகஸ்டு	August
+அவுஸ்திரேலியா ; ஆஸ்திரேலியா	Australia ; Commonwealth of Australia
+ஆஸ்திரியா	Austria ; Republic of Austria
+பஹ்ரேய்ன்	Bahrain
+வங்காளதேசம்	Bangladesh ; People's Republic of Bangladesh
+பெலாரஸ்	Belarus ; Republic of Belarus
+பெல்சியம்	Belgium ; Kingdom of Belgium
+பெல்கிரேடு	Belgrade
+பூட்டான்	Bhutan ; Kingdom of Bhutan
+பொலிவியா	Bolivia ; Republic of Bolivia
+பொசுனியாவும் எர்செகோவினாவும்	Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina
+பிரேசில்	Brazil
+புருண்டி	Burundi ; Republic of Burundi
+கம்போடியா	Cambodia ; Kingdom of Cambodia
+கனடா	Canada
+கரிபியக் கடல்	Caribbean Sea
+ஸ்பேனிஷ	Castilian ; Spanish ; Spanish
+சிலி	Chile ; Republic of Chile
+கொலம்பியா	Colombia ; Republic of Colombia
+சுராவேசியன்	Croatian ; Croation
+கியூபா	Cuba ; Republic of Cuba
+செக	Czech ; Czech
+டேனிஷ	Danish
+டென்மார்க்	Denmark ; Kingdom of Denmark
+ஈபெல் கோபுரம்	Eiffel Tower
+ஆங்கிலம்	English
+பிஜி	Fiji ; Republic of the Fiji Islands
+பின்லாந்து	Finland ; Republic of Finland
+பின்னிஷ்	Finnish
+பிரான்ஸ்	France
+பிரென்ச்	French ; French
+பிரெஞ்சு கினீயா	French Guiana
+ஜார்ஜியன்	Georgian ; Georgian
+ஜெர்மன் மொழி	German
+கிரேக்கம்	Greek ; Greek
+கிரெகொரியின் நாட்காட்ட	Gregorian calendar
+கிரெனடா	Grenada
+குவாம்	Guam ; Guam ; Guam
+ஹீப்ரூ	Hebrew
+ஹிந்தி	Hindi ; Hindi
+நெதர்லாந்து	Holland ; Kingdom of the Netherlands ; The Netherlands
+ஹங்கேரியன்	Hungarian
+ஐஸ்லாந்து	Iceland ; Republic of Iceland
+இந்தியா	India ; Republic of India
+இந்தோனேசியா	Indonesia ; Republic of Indonesia
+இந்தோனீசியன்	Indonesian
+ஈரான்	Iran ; Islamic Republic of Iran
+இராக்	Iraq ; Republic of Iraq
+இசுரேல்	Israel ; State of Israel
+இத்தாலியன்	Italian ; Italian
+இத்தாலி	Italian Republic ; Italy
+யமேக்கா	Jamaica
+ஜனவரி	January
+ஜப்பான்	Japan ; State of Japan
+ஜப்பானி	Japanese ; Japanese
+ஜூன்	June
+கன்னடம்	Kannada ; Kannada
+கார்த்தௌம்	Khartoum
+கோரியன்	Korean ; Korean
+மேசிடோனியன்	Macedonian ; Macedonian
+மடகாஸ்கர்	Madagascar ; Republic of Madagascar
+மலாவி	Malawi ; Republic of Malaŵi
+மலையாளம்	Malayalam ; Malayalam
+மலேசியா	Malaysia
+மராத்தி	Marathi ; Marāthi ; Marāthi ; MarÄthi
+மசாசுசெற்ஸ்	Massachusetts
+மிலன்	Milan
+மல்டோவா	Moldova
+மொனாகோ	Monaco
+மொண்டெனேகுரோ	Montenegro
+ஃவூஜி மலை	Mount Fuji
+மும்பை	Mumbai ; Bombay
+மியான்மார்	Myanmar
+நியூசிலாந்து	New Zealand
+நோர்வே	Norway ; Kingdom of Norway
+நவம்பர்	November
+அக்டோபர்	October
+ஒக்லகோமா	Oklahoma
+பாகிஸ்தான்	Pakistan ; Islamic Republic of Pakistan
+பனாமா	Panama
+பப்புவா நியூ கினி	Papua New Guinea
+பெரு	Peru ; Republic of Peru
+போலிஷ்	Polish ; Polish
+போர்த்துகல்	Portugal
+போர்ச்சுகீஸ	Portuguese ; Portuguese
+பஞ்சாபி	Punjabi ; Panjabi
+கட்டார்	Qatar
+ருமேனியா	Romania
+ரொமேனியன	Romanian ; Romanaian
+ருஸ்சியன்	Russian ; Russian
+சமஸ்கிருதம்	Sanskrit ; Sanskrit
+சவூதி அரேபியா	Saudi Arabia ; Kingdom of Saudi Arabia
+செனகல்	Senegal
+சுலொவேகியன்	Slovak ; Slovak
+சுலொவேனியன	Slovene ; Slovenian ; Slovenian
+தென்னாபிரிக்கா ; தென்னாபிக்க குடியரச	South Africa
+ஸ்பெயின்	Spain
+இலங்கை	Sri Lanka
+சூடான்	Sudan
+ஸ்வீடிஷ ; சுவீடிய மொழ	Swedish
+சுவிஸர்லாந்து	Switzerland
+தமிழ்	Tamil ; Tamil
+டாடர்	Tatar ; Tatar
+டெஹரான்	Tehran
+தெலுங்கு	Telugu ; Telugu
+தாய	Thai ; Thai
+தாய்லாந்து	Thailand
+ரொறன்ரோ	Toronto
+துர்கிஷ்	Turkish ; Turkish
+உகாண்டா	Uganda ; Republic of Uganda
+உருது	Urdu ; Urdu
+வத்திக்கான் நகர	Vatican City ; The Holy See ; State of the Vatican City
+வெனீசூலா	Venezuela
+வியட்னாமீஸ்	Vietnamese ; Vietnamese
+வாலூன	Walloon ; Walloon
+சிம்பாப்வே	Zimbabwe ; Republic of Zimbabwe
+அக்டினியம்	actinium
+கலப்புலோகம்	alloy
+அலுமினியம்	aluminium
+அம்பர்	amber
+அமெரிகியம்	americium
+எறும்பு	ant
+ஆண்ட்டிமனி	antimony
+ஆர்கன்	argon
+பாசாணம்	arsenic
+வானியல்	astronomy
+வானியற்பியல்	astrophysics
+பேரியம்	barium
+பார்லி	barley
+பீவர்	beaver
+தொப்புள்	belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus
+வெளிரியம்	beryllium ; glucinium
+மிதிவண்டி	bicycle ; bike ; cycle
+பிஸ்மத்	bismuth
+படகு	boat
+பொன்சாய்	bonsai
+போரான்	boron
+புரோமின்	bromine
+பட்டாம்பூச்சி	butterfly
+காட்மியம்	cadmium
+சீரிலியம்	caesium
+கல்சியம்	calcium
+கரிமம்	carbon
+சீரியம்	cerium
+கோழி	chicken
+சிம்ப்பன்சி	chimpanzee
+குளோரின்	chlorine
+குரோமியம்	chromium
+உடை	clothing ; apparel
+மேகம்	cloud
+மென்வெள்ளி	cobalt
+வால்வெள்ளி	comet
+செப்பு	copper
+படிகம	crystal
+டாம்ஸ்ராட்டியம்	darmstadtium
+டெங்கு காய்ச்சல்	dengue fever
+அகரமுதலி	dictionary
+கதவு	door
+டப்னியம்	dubnium
+முட்டை	egg
+ஐன்ஸ்டீனியம்	einsteinium
+மின்காந்தவியல்	electromagnetism
+யானை	elephant
+சமன்பாடு	equation
+யூரோப்பியம்	europium
+கண்	eye
+விரல்	finger
+ஃவுளூரின்	fluorine
+காற்பந்தாட்டம்	football
+கடோலினியம்	gadolinium
+காலியம்	gallium
+சாம்பலியம்	germanium
+தங்கம்	gold
+கோல்ஃப்	golf
+கொணோறியா	gonorrhea
+ஹப்னியம்	hafnium
+ஹஸ்ஸியம்	hassium
+ஹீலியம்	helium
+ஹொல்மியம்	holmium
+வீடு	home ; home ; house
+தேன்	honey
+குதிரை	horse
+ஹைட்ரஜன்	hydrogen
+இண்டியம்	indium
+இசைக்கருவி	instrument ; musical instrument
+அயோடின்	iodine
+இரிடியம்	iridium
+இரும்பு	iron
+மூத்திரபிண்டம்	kidney
+கிருப்டான்	krypton
+லாந்த்தனம்	lanthanum
+ஈயம்	lead
+லித்தியம்	lithium
+வெட்டுக்கிளி	locust
+மிளிரியம்	lutetium
+வல்லகுவம்	magnesium
+மாங்கனீசு	manganese
+மாம்பழம்	mango
+மெண்டலேவியம்	mendelevium
+பாதரசம்	mercury
+விண்கல்	meteorite
+பால	milk
+போன்றீயம்	molybdenum
+நியோடைமியம்	neodymium
+ஒளிரியம்	neon
+நெருப்பியம்	neptunium
+நிக்கல்	nickel
+களங்கன்	niobium
+நைட்ரஜன்	nitrogen
+நோபெலியம்	nobelium
+ஆட்சி மொழி	official language
+வெங்காயம்	onion
+ஒஸ்மியம்	osmium
+ஆக்ஸிஜன்	oxygen
+தொல்லுயிரியல்	palaeontology
+பலேடியம்	palladium
+கணையம்	pancreas
+மெய்யியல்	philosophy
+பாஸ்பரஸ்	phosphorus
+துருவக் கரட	polar bear
+சூழ்பொருளியல்	pragmatics
+பிரசியோடைமியம்	praseodymium
+புரொட்டக்டினியம்	protactinium
+கேள்வி	question
+ரேடியம்	radium
+வானவில்	rainbow
+ரெனியம்	rhenium
+ரோடியம்	rhodium
+ருபீடியம்	rubidium
+ருத்தேனியம்	ruthenium
+ருதெர்போர்டியம்	rutherfordium
+சஹாரா	sahara
+சமாரியம்	samarium
+செலீனியம்	selenium
+குறியியல்	semiotics ; semiology
+சிலிக்கான்	silicon
+வெள்ளி	silver
+பெரியம்மை	smallpox
+சோடியம்	sodium
+கடு௩்கோபம் ; புயல்	storm ; tempest
+ஸ்ட்ரோன்ஷியம்	strontium
+கந்தகம்	sulphur
+சிபிலிசு	syphilis
+தந்தாலம்	tantalum
+டெக்னீசியம்	technetium
+டெலூரியம்	tellurium
+டென்னிஸ்	tennis
+தல்லியம்	thallium
+வெப்பஇயக்கவியல்	thermodynamics
+நேர வலயம	timezone
+வெள்ளீயம்	tin
+டைட்டேனியம்	titanium
+மரம்	tree
+கோப்பை	trophy
+டங்க்ஸ்டன்	tungsten
+யுரேனியம்	uranium
+வனேடியம்	vanadium
+தண்ணீர்	water
+கோதுமை	wheat
+செனான்	xenon
+யிற்றியம்	yttrium
+வரிக்குதிரை	zebra
+வன்தங்கம்	zirconium
+விலங்கியல்	zoology

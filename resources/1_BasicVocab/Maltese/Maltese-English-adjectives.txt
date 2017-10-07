@@ -1,0 +1,148 @@
+Maltese	﻿English
+ħażin	bad
+sabiħ, gustuż	beautiful
+kbir	big
+nadif	clean
+kiesaħ	cold
+korrett	correct
+skur	dark
+diffiċli, tqil	difficult
+maħmuġ, mniġġeż	dirty
+mgħaġġel	fast
+tajjeb	good
+kbir	great
+tal-biża, tal-ġenn	great
+ferħan, hieni	happy
+b'saħħtu, f'saħħtu	healthy
+tqil	heavy
+għoli	high
+jaħraq, jikwi	hot
+xellugi	left
+ħafif	light
+insinjifikanti, trivjali	little
+twil	long
+qrib, viċin	near
+ġdid	new
+miftuħ	open
+lemini	right
+bil-ponta	sharp
+ta' bil-mod	slow
+għartab	soft
+b'saħħtu, qawwi	strong
+żbaljat	wrong
+aċituż	acid
+kollu	all
+kull, liema jkun	any
+awtomatku	automatic
+morr	bitter
+ileqq, jgħajjat	bright
+mkisser, miksur	broken
+żgur	certain
+rħis	cheap
+kimiku	chemical
+ċar	clear
+mgħaluq	closed
+tal-kulur	color
+tas-soltu, komuni	common
+komuni	common
+perfett, sħieħ	complete
+apposta, koxjenti	conscious
+kiefer, krudil	cruel
+korrenti	current
+delikat, fin	delicate
+tal-biki, iġiblek ħasra	deplorable
+differenti	different
+differenti	different
+l-isfel, mniżżel	down
+nixef	dry
+bikri, kmieni	early
+elettriku	electric
+ugwali, ndaqs	equal
+żewġ	even
+nofs-u-nofs	even
+kull	every
+eċċellenti	excellent
+falz	fake
+falz	false
+l-bogħod	far
+oħxon, smin	fat
+xaħmi	fat
+iebes, ferm	firm
+l-ewwel	first
+fiss	fixed
+ċatt, mwitti	flat
+stranjier, barrani	foreign
+dgħajjef, delikat	fragile
+b'xejn, gratis	free
+spissi, frekwenti	frequent
+ta' quddiem	front
+mimli	full
+sħieħ	full
+futur, tal-ġejjieni	future
+ġenerali	general
+interessanti	interesting
+l-aħħar	last
+tard	late
+tad-dieta	light
+likwidu	liquid
+għoli, jgħajjat	loud
+baxx	low
+metaliku	metal
+militari	military
+infiniteżmali, żgħir tikka	minute
+ħafna	much
+dejjaq	narrow
+naturali	natural
+neċessarju, bżonnjuż	necessary
+l-ebda	no
+normali	normal
+mitfi	off
+mixgħul, mqabbad	on
+oppost, ta' faċċata	opposite
+ieħor	other
+parallel	parallel
+li għadda, tal-passat	past
+fiżiku	physical
+politku	political
+msejjken, miskin	poor
+possibli	possible
+tal-preżent, ta' issa	present
+privat	private
+probabbli	probable
+kwiet, ħiemed	quiet
+lest	ready
+regulari	regular
+risponsabbli	responsible
+iebes, riġidu	rigid
+aħrax, mħatteb	rough
+tond, ċirculari	round
+sejf, bla periklu	safe
+l-istess	same
+it-tieni	second
+bil-moħbi, klandestin	secret
+separat	separate
+serju	serious
+qasir	short
+sieket, silenżjuż	silent
+tal-fidda	silver
+elementari, sempliċi	simple
+żgħir, ċkejken	small
+lixx	smooth
+solidu	solid
+ħafif, skars	sparse
+speċjali, eċċezzjonali	special
+kwadru	square
+iwaħħal, idellek	sticky
+dritt	straight
+mhux tas-soltu, stramb	strange
+ta' f'daqqa	sudden
+ħelu	sweet
+twil	tall
+mgħaqud	thick
+rqiq	thin
+issikkat, dejjaq	tight
+veru	true
+ta' taħt	under
+tas-soltu, komuni	usual
+sħun	warm
+mxarrab	wet

@@ -1,0 +1,208 @@
+German	﻿English
+andere, anders	another
+schlecht	bad
+elementar, fundamental	basic
+schön	beautiful
+beste	best
+besser	better
+groß	big
+rein, sauber	clean
+kalt	cold
+korrekt, richtig	correct
+dunkel	dark
+schwer, schwierig	difficult
+schmutzig, unrein	dirty
+schnell	fast
+gut, lieb	good
+groß	great
+toll, großartig	great
+glücklich	happy
+gesund	healthy
+schwer	heavy
+hoch	high
+warm	hot
+signifikant, wichtig	important
+linke, links	left
+leicht	light
+klein	little
+lang	long
+neben	near
+neu	new
+nett	nice
+geöffnet, ofen	open
+echt, wahr	real
+recht, rechts	right
+scharf	sharp
+ähnlich	similar
+langsam	slow
+weich	soft
+stark	strong
+schwach	weak
+falsch, fehlerhaft	wrong
+sauer	acid
+nach	after
+vor	ago
+alles	all
+ein, beliebig	any
+automatisch	automatic
+vorhanden	available
+bitter, herb	bitter
+ermüdend, langweilig	boring
+beide	both
+hell, klar	bright
+kaputt	broken
+zentral	central
+gewiss, sicher	certain
+billig	cheap
+chemisch	chemical
+deutlich, klar	clear
+geschlossen, ungeöffnet	closed
+farben, Farb-	color
+geläufig	common
+gemeinsam	common
+vollendet, vollständig	complete
+bewusst	conscious
+barbarisch	cruel
+gegenwärtig, geläufig	current
+gefährlich	dangerous
+zart, zierlich	delicate
+beklagenswert, kläglich	deplorable
+anders	different
+anders, ungleich	different
+unten	down
+trocken	dry
+jede, jeder	each
+früh	early
+leicht	easy
+wirtschaftlich	economic
+sparsam, ökonomisch	economic
+elektrisch, elektrischer	electric
+gleich	equal
+gerade	even
+eben	even
+alle, jede	every
+ausgezeichnet	excellent
+unecht, falsch	fake
+falsch	false
+entfernt, fern	far
+dick, gras	fat
+fettig, speckig	fat
+wenig	few
+abschließend, final	final
+finanziell	financial
+fest, hart	firm
+erst	first
+gegeben, angegeben	fixed
+eben, flach	flat
+folgend, nächste	following
+ausländisch, fremd	foreign
+vorig, früher	former
+brüchig, gebrechlich	fragile
+frei, kostenlos	free
+häufig	frequent
+frisch	fresh
+vordere	front
+voll	full
+ganz, gesamt	full
+weiter	further
+künftig	future
+allgemein	general
+industriell	industrial
+interessant	interesting
+international	international
+zuletzt, letzte	last
+spät, verzögert	late
+legal	legal
+diät, kalorienarm	light
+flüssig	liquid
+lokal	local
+laut	loud
+niedrig	low
+glücklich	lucky
+wesentlich, primär	main
+hauptsächlich	major
+viele	many
+metallisch	metal
+militärisch	military
+winzig	minute
+modern	modern
+mehr	more
+viel	much
+eng	narrow
+national	national
+natürlich	natural
+erforderlich, notwendig	necessary
+nächst	next
+kein	no
+normal	normal
+aus	off
+an, eingeschaltet	on
+entgegengesetzt, gegenüberliegend	opposite
+original, originell	original
+ander, sonstig	other
+eigen	own
+parallel	parallel
+besondere	particular
+vergangen	past
+persönlich	personal
+körperlich, physisch	physical
+politisch	political
+arm, armselig	poor
+populär	popular
+möglich	possible
+gegenwärtig	present
+früher	previous
+privat	private
+mutmaßlich, wahrscheinlich	probable
+professionell	professional
+öffentlich	public
+leise	quiet
+bereit	ready
+rezent	recent
+regelmäßig, regelrecht	regular
+verantwortlich	responsible
+starr	rigid
+derb, rau	rough
+kreisförmig, kreisrund	round
+sicher	safe
+derselbe	same
+zweite	second
+geheim	secret
+abgesondert, getrennt	separate
+ernst	serious
+festgelegt, festgesetzt	set
+mehrere	several
+kurtz	short
+geräuschlos, still	silent
+silbern	silver
+einfach	simple
+einzeln, einzelne	single
+klein	small
+glatt	smooth
+fest	solid
+spärlich	sparse
+außergewöhnlich, ungewöhnlich	special
+spezifisch	specific
+quadratisch, viereckig	square
+empfindlich, heikel	squeamish
+normal, standardmäßig	standard
+klebrig, pappig	sticky
+direkt, gerade	straight
+merkwürdig	strange
+elegant	stylish
+plötzlich, unvermittelt	sudden
+süß	sweet
+gross	tall
+dicht, dick	thick
+dünn	thin
+dicht	tight
+richtig, wahr	true
+mies, hässlich	ugly
+unter	under
+ungebräuchlich, ungewohnt	unusual
+üblich	usual
+üblich	usual
+verschieden	various
+warm	warm
+feucht, nass	wet
+vollständig	whole

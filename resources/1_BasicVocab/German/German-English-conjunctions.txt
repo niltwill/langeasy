@@ -1,0 +1,8 @@
+German	﻿English
+und	and
+weil	because
+weil	for
+wenn	if
+oder	or
+als	than
+bis	until

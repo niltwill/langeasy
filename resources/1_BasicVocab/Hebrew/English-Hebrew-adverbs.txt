@@ -1,0 +1,81 @@
+﻿English	Hebrew
+about	γύρω
+above	πάνω από
+again	πάλι
+almost	σχεδόν
+along	κατά μήκος
+already	ήδη
+always	πάντα
+approximately	περίπου
+as	καθώς
+before	πριν
+before	προτού
+behind	πίσω
+between	μεταξύ
+beyond	πέραν
+by	μπροστά από
+clearly	σαφής
+directly	κατευθείαν
+down	κάτω
+early	νωρίς
+either	είδε ... είδε
+enough	αρκετά
+even	ακόμα
+exactly	ακριβώς
+finally	τελευταίος
+first	πρώτα
+forward	μπροστά
+generally	γενικά
+here	εδώ
+here	εδώ
+however	ωστόσο
+immediately	αμέσως
+in	σε
+indeed	πραγματικός
+inside	μέσα
+instead	αντί
+late	αργός
+later	μετά
+least	ο λιγότερος
+little	λίγο
+merely	μόνο
+more	περισσότερος
+never	ποτέ
+not	δεν
+now	τώρα
+obviously	προφανώς
+often	συχνά
+once	κάποτε
+outside	έξω
+particularly	ιδιαίτερα
+please	παρακαλώ
+possibly	ίσως
+preferably	ο πιο αγαπημένος
+probably	μάλλον
+quickly	γρήγορος
+really	πραγματικά
+really	πραγματικά
+recently	πρόσφατα
+slowly	αργά
+so	έτσι
+solely	μόνος
+sometimes	μερικές φορές
+soon	σύντομα
+still	ακόμη
+such	τέτοιος
+suddenly	ξαφνικός
+surely	σίγουρα
+then	μετά
+there	εκεί
+therefore	άρα
+through	μέσα από
+today	σήμερα
+together	μαζί
+tomorrow	αύριο
+tonight	απόψε
+too	και
+up	πάνω
+usually	κανονικά
+very	πολύ
+well	καλά
+why	γιατί

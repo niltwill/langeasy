@@ -1,0 +1,432 @@
+English	Swahili
+Abidjan	Abidjan
+Afrikaans	Kiafrikans
+April	Aprili
+August	Agosti
+Bahrain	Bahrain
+Bangladesh ; People's Republic of Bangladesh	Bangla Desh
+Belgium ; Kingdom of Belgium	Ubelgiji
+Botswana ; Republic of Botswana	Botswana
+British Indian Ocean Territory ; BIOT	Eneo la Uingereza katika Bahari Hindi
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Bulgarian ; Bulgarian	Kibulgaria
+Burundi ; Republic of Burundi	Burundi
+Caribbean Sea	Bahari ya Karibi
+Castilian ; Spanish ; Spanish	Kihispania
+Catalan ; Catalan	Kikatalan
+Chad ; Republic of Chad	Chad
+Chile ; Republic of Chile	Chile
+Croatian ; Croation	Kikroashia
+Cyrillic alphabet	Kikyrili
+Danish	Kidenmarki
+December	Desemba
+Dominican Republic	Jamhuri ya Dominika
+East Timor ; Democratic Republic of Timor-Leste	Timor ya Mashariki
+Easter	Pasaka
+Egypt ; Arab Republic of Egypt	Misri
+El Salvador ; Republic of El Salvador	El Salvador
+English	Kiingereza
+Eritrea	Eritrea
+Estonian	Kiestonia
+February	Februari
+Finnish	Kifinlandia
+France	Ufaransa
+French ; French	Kifaransa
+Friday	Ijumaa
+Gaborone	Gaborone
+Georgia	Georgia
+Germany ; Federal Republic of Germany	Ujerumani
+Ghana ; Republic of Ghana	Ghana
+Greece ; Hellenic Republic	Ugiriki
+Grenada	Grenada
+Gujarati ; Gujarati	Kigujarati
+Haiti ; Republic of Haiti	Haiti
+Happy New Year	Heri kwa mwaka mpya
+Hebrew	Kiyahudi
+Hindi ; Hindi	Kihindi
+Holland ; Kingdom of the Netherlands ; The Netherlands	Uholanzi
+Honduras ; Republic of Honduras	Honduras
+Hungarian	Kihungari
+Iceland ; Republic of Iceland	Iceland
+Icelandic	Kiaislandi
+Indonesian	Kiindonesia
+Iran ; Islamic Republic of Iran	Uajemi
+Italian ; Italian	Kiitaliano
+Jakarta ; Djakarta ; DKI Jakarta	Jakarta
+Jamaica	Jamaika
+January	Januari
+Japan ; State of Japan	Japani
+Japanese ; Japanese	Kijapani
+July	Julai
+June	Juni
+Kenya ; Republic of Kenya	Jamhuri ya Kenya
+Khartoum	Khartoum
+Khmer ; Central Khmer	Kikhmeri
+Kyrgyzstan ; Kyrgyz Republic	Kirgizia
+Latvian ; Latvian	Kilatvia
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libya
+Lithuanian ; Lithuanian	kilithuania
+Malaysia	Malaysia
+March	Machi
+Martinique	Martinique
+Mauritania ; Islamic Republic of Mauritania	Mauritania
+May	Mei
+Monday	Jumatatu
+Montenegro	Montenegro
+Morocco ; Kingdom of Morocco	Moroko
+Myanmar	Myanmar
+Nairobi	Nairobi
+Namibia	Namibia
+Norway ; Kingdom of Norway	Norwei
+November	Novemba
+October	Oktoba
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Poland	Poland
+Polish ; Polish	Kipolandi
+Portugal	Ureno
+Portuguese ; Portuguese	Kireno
+Qatar	Qatar
+Ramadan	Ramadhani
+Romanian ; Romanaian	Kiromania
+Russian ; Russian	Kirusi
+Saint-Pierre and Miquelon	Saint-Pierre na Miquelon
+Saturday	Jumamosi
+September	Septemba
+Slovak ; Slovak	Kislovakia
+Slovakia	Slovakia
+Slovene ; Slovenian ; Slovenian	Kislovenia
+South Africa	Afrika Kusini
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Sunday	Jumapili
+Swahili	Kiswahili
+Sweden	Uswidi
+Swedish	Kisweden
+Switzerland	Uswisi
+Tanzania	Tanzania
+Thursday	Alhamisi
+Togo	Togo
+Tuesday	Jumanne
+Turkey	Uturuki
+Turkish ; Turkish	Kituruki
+Uganda ; Republic of Uganda	Uganda
+Ukrainian ; Ukrainian	Kiukrania
+Vatican City ; The Holy See ; State of the Vatican City	Vatikani
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Wallis na Futuna
+Wednesday ; quarta-feira	Jumatano
+Zambia ; Republic of Zambia	Zambia
+Zanzibar	Unguja
+Zulu	Kizulu
+age	umri
+air	hewa
+aircraft	ndege
+alloy	aloi
+aluminium	alumini
+animal	mnyama
+ant	sisimizi
+apartheid	ukaburu
+arrow	mshale
+ash	jivu
+astatine	astatini
+baboon	nyani
+baker	mwokaji
+banana	ndizi
+beak ; mouth	kinywa
+bed	kitanda
+beehive	mzinga
+beer	bia
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	kitovu
+beryllium ; glucinium	berili
+beverage ; drink	soda ; kinywaji
+beverage ; drink	soda
+bicycle ; bike ; cycle	baisikeli
+big ; large	-kubwa
+bishop	askofu
+bismuth	bismuthi
+blood	damu
+book	kitabu
+boron	boroni
+boy	mvulana
+bread	bofulo ; mkate
+breakfast	chamshakinywa
+bridge	daraja
+bromine	bromi
+bus ; coach	basi
+butter	siagi
+buy ; purchase	kununua ; nunua
+cadmium	cadimi
+caesium	caesi
+calcium	kalisi
+camouflage	kamaflaji
+candle	mshumaa
+capital	mji mkuu
+car ; automobile	gari
+cat	paka
+chair	kiti
+cheese	chizi
+chemist's ; chemist's shop ; pharmacy	duka la madawa
+child	mtoto
+chlorine	chlorini
+chromium	chromi
+church	kanisa
+cigarette	sigareti
+city	mji
+clarinet	filimbi
+coast	pwani
+cobalt	kobalti
+colina ; hill ; loma	kilima
+colour ; colour ; colo(u)r	rangi
+come	kuja
+consume ; eat ; swallow	kula
+copper	shaba
+crocodile	mamba
+cucumber	tango
+darmstadtium	darmstadti
+dentist	mganga wa meno
+diarrhea	harisha
+dictionary	kamusi
+disease ; illness ; affliction	ugonjwa
+do	fanya
+dog	mbwa
+donation	kipaji
+donkey ; ass	punda
+door	mlango
+drink ; gulp ; quaff ; sip	kunywa
+drunk ; drunkard ; boozer	mlevi
+dry	-kavu
+ear	sikio
+egg	yai
+electronic mail ; email ; e-mail	emeli
+elephant	tembo
+employment ; employment ; job ; job ; occupation ; work ; work	kazi
+enemy	adui
+enter	kuingia
+erosion	mmomonyoko
+export	pakia ; safirisha
+eye	jicho
+eyebrow	usi
+face	uso
+farm	shamba
+father	baba
+feather	unyonya
+female ; woman	mwanamke
+field ; land ; land ; acre ; patch	shamba
+finger	kidole
+fire	moto
+fish	samaki
+flower ; bloom ; blossom	ua
+fluorine	florini
+food	chakula
+fork	uma
+francium	fransi
+freedom ; liberty	uhuru
+frog	chura
+gallium	gali
+game	mchezo
+geography	jiografia
+germanium	gerimani
+giraffe	twiga
+girl	msichana
+glass	bilauri
+glasses ; spectacles	miwani
+gold	dhahabu
+gorilla	nyani
+grandfather	babu
+grass	majani
+hafnium	hafni
+hair	nywele
+hairdresser ; barber	kinyozi
+handkerchief	kitambaa
+harbour	bandari
+head	kichwa
+heat	joto
+heavy	-zito
+helium	heli
+home ; home ; house	nyumba
+honey	asali
+hope	matumaini
+hour	saa
+hunger ; hunger ; hunger	ujaa
+husband ; spouse	mume
+hydrogen	hidrojeni
+ice	barafu
+ink	wino
+insect	mdudu
+iodine	iodini
+iron	chuma
+island ; isle	kisiwa
+jackal	mbweha
+joint ; articulation	kiungo
+kilogram	kilogramu
+knife	kisu
+kokosnoot ; coconut	nazi
+krypton	kriptoni
+laboratory	maabara
+labour	kazi
+lake	ziwa
+language	lugha
+lantern	chemli
+laugh	cheka
+lawyer	mwanasheria
+lead	risasi
+leather	ngozi
+leg	mguu
+lemon	limau
+leopard	chui
+library	maktaba
+lion	simba
+lithium	lithi
+locust	nzige
+love	mapenzi
+male ; man	mwanamume
+man	mtu ; mwanadamu
+mango	embe
+meat	nyama
+mercury	zebaki
+metropolis	jiji
+microphone	mikrofoni
+milk	maziwa
+minute	dakika
+molar ; tooth	jino
+month	mwezi
+moon ; moon ; satelite ; satelite	mwezi
+mother	mama
+motorcycle ; motorbike	pikipiki
+mountain	mlima
+mumps	matubwitubwi
+music	muziki
+musician	mpiga muziki
+mysterious	kidube
+name ; proper name ; proper noun	jina
+napkin	pumkini
+neighbour ; vecino	jirani
+neon	neoni
+neptunium	neptuni
+new ; novel	-pya
+nickel	nikeli
+niobium	niobi
+nitrogen	nitrojeni
+noise ; noise, vibrations ; racket	kelele
+nose	pua
+obstacle ; obstruction	kizuio
+onion	kitunguu
+or	au
+orange	chungwa
+orphan	mfiwa
+ostrich	mbuni
+owner	mwenye
+oxygen	oksijeni
+palladium	paladi
+paper	katarasi
+people	watu
+phone ; telephone	simu
+phosphorus	posferi
+platinum	platini
+poison	sumu
+politics	siaza
+polonium	poloni
+post office	afisi ya posta
+potassium	kali
+potato ; patato	kiazi
+pregnancy	mimba
+price	bei
+question	swali
+radio	redio
+radium	radi
+radon	radoni
+rain	mvua
+read	soma
+religion	dini
+rhino ; rhinoceros	kifaru
+rhodium	rodi
+rice	mchele ; mpunga
+river	mto
+roentgenium	roentgeni
+rutherfordium	rutherfordi
+salary	mshahara
+salt	chumvi
+sand	mchanga
+school	shule
+sea	bahari
+selenium	seleni
+sell	uza
+shark	papa
+sheep	kondoo
+shepherd	mchungaji
+ship	meli
+shoe	kiatu
+shop	duka
+short ; small	-dogo
+silver	fedha
+skeleton	mifupa
+sleep	usingizi
+slipper	kandambili
+snake	nyoka
+snow	theluji
+soap	sabuni
+sodium	natiri
+sound	mlio
+spider	buibui
+spoon	kijiko ; mwiko
+square	soko
+storm ; tempest	dhoruba ; tufani
+story	kisa
+strontium	stronti
+sugar	sukari
+suicide	kujiua
+sulphur	sulfuri
+summer	kaskazi
+syringe	sirinji
+table	meza
+tailor	mshona
+teach	fundisha
+teacher	mwalimu
+technetium	tekineti
+tellurium	teluri
+thallium	tali
+thank you	shukrani
+thirst	kiu
+tin	stani
+titanium	titani
+tomato	nyanya
+tomorrow	kesho
+tongue	ulimi
+torpedo	topito
+train	treni ; garimoshi
+translation	tafsiri
+travel	safiri
+tree	mti
+triangle	pembetatu
+trophy	kikombe
+trousers	suruali
+truth	kweli
+turkey	bata mzinga
+ununhexium	ununheksi
+uranium	urani
+valuable	a tunu
+vanadium	vanadi
+vegetable	mboga
+village	kijiji
+wall	ukuta
+wasp	nyuki
+water	maji
+water well	kisima
+web ; spider web	utambi
+weed	gugu
+week	wiki ; juma
+weekend	wikiendi
+wife ; spouse	mke
+wind	upepo
+window	dirisha
+wizard ; sorcerer ; magician	mchawi
+wool	manyonya
+wound	kidonda
+write	andika
+xenon	xenoni
+yeast	chacha
+yellow	manjano
+yttrium	ytri
+zinc	zinki
+zirconium	zirikoni

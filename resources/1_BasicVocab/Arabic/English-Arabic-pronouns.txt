@@ -1,0 +1,36 @@
+﻿English	Arabic
+anyone	أحد
+anything	أي شيء
+everybody	الكل
+everything	كل شيء
+he	هو
+her	ـها
+herself	نفسها
+him	ـه
+himself	نفسه
+his	ـه
+it	هو/هي - لغير العاقل
+itself	نفسه/نفسها - لغير العاقل
+me	ـي
+my	ـي
+our	ـنا
+she	هي
+that	ذلك / تلك
+their	ـهم
+them	ـهم
+these	هؤلاء / هذه
+they	هم
+this	هذا / هذه
+those	أولئك / هذه
+us	ـنا
+we	نحن
+what	ماذا / ما
+when	متى
+which	أي
+which	أي
+who	مَن
+whom	الذي
+whose	لمن
+you	أنتَ / أنتِ
+your	ـك
+yourself	نفسك

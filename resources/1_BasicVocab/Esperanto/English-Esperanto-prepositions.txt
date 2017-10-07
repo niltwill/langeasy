@@ -1,0 +1,16 @@
+﻿English	Esperanto
+against	vastu
+among	inter
+at	sur
+at	sur
+beside	apud
+during	dum
+for	vastu
+into	vastu
+on	sur
+on	sur
+since	ekde
+to	al
+with	kun
+with	kun
+without	sen

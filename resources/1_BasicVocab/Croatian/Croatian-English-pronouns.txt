@@ -1,0 +1,35 @@
+Croatian	﻿English
+bilo tko	anyone
+bilo što, išta	anything
+svatko	everybody
+sve	everything
+on	he
+njen	her
+se, sebe	herself
+mu, njemu	him
+se, sebe	himself
+njegov	his
+to	it
+se, sebe	itself
+mene	me
+moj	my
+naš	our
+ona	she
+onaj	that
+njihov	their
+ih, njih	them
+ovi	these
+oni	they
+ovaj	this
+oni	those
+nas	us
+mi	we
+što	what
+kada	when
+koji	which
+koji	which
+tko	who
+kome	whom
+čiji	whose
+ti	you
+tvoj	your

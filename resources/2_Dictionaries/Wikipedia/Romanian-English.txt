@@ -1,0 +1,5456 @@
+Romanian	English
+0 (cifră)	0 (number)
+1	1
+10	10
+100	100
+Categorie:100	100
+1000	1000
+Categorie:1000	1000
+101	101
+105	105
+11	11
+110	110
+115	115
+12	12
+Categorie:12	12
+120	120
+125	125
+13	13
+130	130
+135	135
+14	14
+Categorie:14	14
+140	140
+144	144
+145	145
+15	15
+150	150
+Anii 1530	1530s
+155	155
+16	16
+Categorie:16	16
+160	160
+165	165
+17	17
+Categorie:17	17
+170	170
+1728	1728
+Categorie:1728	1728
+175	175
+Anii 1750	1750s
+Categorie:Anii 1750	1750s
+Anii 1760	1760s
+Categorie:Anii 1760	1760s
+Anii 1770	1770s
+Categorie:Anii 1770	1770s
+Anii 1780	1780s
+Categorie:Anii 1780	1780s
+Anii 1790	1790s
+Categorie:Anii 1790	1790s
+18	18
+180	180
+Anii 1820	1820s
+Categorie:Anii 1820	1820s
+Anii 1830	1830s
+Categorie:Anii 1830	1830s
+Anii 1840	1840s
+Categorie:Anii 1840	1840s
+Anii 1850	1850s
+Anii 1860	1860s
+Categorie:Anii 1860	1860s
+Anii 1870	1870s
+Categorie:Anii 1870	1870s
+Anii 1880	1880s
+Categorie:Anii 1880	1880s
+Anii 1890	1890s
+Categorie:Anii 1890	1890s
+19	19
+190	190
+Anii 1900	1900s
+Categorie:Anii 1900	1900s
+Anii 1920	1920s
+Categorie:Anii 1920	1920s
+Anii 1930	1930s
+Categorie:Anii 1930	1930s
+Anii 1940	1940s
+Categorie:Anii 1940	1940s
+Anii 1950	1950s
+Categorie:Anii 1950	1950s
+Anii 1960	1960s
+Categorie:Anii 1960	1960s
+Anii 1970	1970s
+Categorie:Anii 1970	1970s
+Anii 1980	1980s
+Categorie:Anii 1980	1980s
+Anii 1990	1990s
+Categorie:Anii 1990	1990s
+2	2
+20	20
+200	200
+21	21
+22	22
+23	23
+24	24
+24 (serial tv)	24 (TV series)
+25	25
+26	26
+27	27
+28	28
+29	29
+3	3
+30	30
+300	300
+31	31
+32	32
+33	33
+34	34
+35	35
+36	36
+37	37
+38	38
+39	39
+4	4
+40	40
+400	400
+41	41
+42	42
+43	43
+44	44
+45	45
+46	46
+47	47
+48	48
+49	49
+5	5
+50	50
+500	500
+Categorie:500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+6 (cifră)	6 (number)
+60	60
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (cifră)	7 (number)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+80	80
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+A	A
+Az	A (Cyrillic)
+ABC (dezambiguizare)	ABC
+SIDA	AIDS
+Aachen	Aachen
+Aalborg	Aalborg
+Aare	Aar
+Århus	Aarhus
+Aaron	Aaron
+Abac	Abacus
+Abadan	Abadan
+Abreviere	Abbreviation
+Abel Tasman	Abel Tasman
+Grup abelian	Abelian group
+Aberdeen	Aberdeen
+Abidjan	Abidjan
+Abhazia	Abkhazia
+Aboliţionism	Abolitionism
+Avort	Abortion
+Avraam	Abraham
+Abraham Lincoln	Abraham Lincoln
+Absint	Absinthe
+Zero absolut	Absolute zero
+Absolutism	Absolutism (European history)
+Arta abstractă	Abstract art
+Expresionism abstract	Abstract expressionism
+Abstracţie	Abstraction
+Abu Dhabi	Abu Dhabi
+Abuja	Abuja
+Acacia	Acacia
+Premiul Oscar	Academy Award
+Acapulco	Acapulco
+Acordeon	Accordion
+Contabilitate	Accountancy
+Categorie:Contabilitate	Accountancy
+Accra	Accra
+Cazul acuzativ	Accusative case
+Acetaldehidă	Acetaldehyde
+Acid acetic	Acetic acid
+Acetonă	Acetone
+Acetilenă	Acetylene
+Acheron	Acheron
+Coada şoricelului	Achillea millefolium
+Ahile	Achilles
+Acizi	Acid
+Ploaie acidă	Acid rain
+Aconcagua	Aconcagua
+Achenă	Acorn
+Acustică	Acoustics
+Categorie:Acustică	Acoustics
+Acre	Acre (state)
+Acropolă	Acropolis
+Actinide	Actinide
+Actiniu	Actinium
+Actor	Actor
+Faptele Apostolilor	Acts of the Apostles
+Acupunctură	Acupuncture
+Ad hominem	Ad hominem
+Adam Smith	Adam Smith
+Adana	Adana
+Dependenţă	Addiction
+Addis Abeba	Addis Ababa
+Adelaide	Adelaide
+Aden	Aden
+Adenozintrifosfat	Adenosine triphosphate
+Adjectiv	Adjective
+Amiral	Admiral
+Adolescenţă	Adolescence
+Adolf Eichmann	Adolf Eichmann
+Adolf Hitler	Adolf Hitler
+Adonis	Adonis
+Marea Adriatică	Adriatic Sea
+Postul Crăciunului	Advent
+Adverb	Adverb
+Publicitate	Advertising
+Marea Egee	Aegean Sea
+Aeneas	Aeneas
+Eneida	Aeneid
+Eol	Aeolus
+Aerodinamică	Aerodynamics
+Eschil	Aeschylus
+Esop	Aesop
+Estetică	Aesthetics
+Afix	Affix
+Afganistan	Afghanistan
+Categorie:Afganistan	Afghanistan
+Africa	Africa
+Categorie:Africa	Africa
+Afroamericani	African American
+Limba afrikaans	Afrikaans
+Agamemnon	Agamemnon
+Agar-agar	Agar
+Agat	Agate
+Agnatha	Agnatha
+Agnosticism	Agnosticism
+Agora	Agora
+Agra	Agra
+Agricultură	Agriculture
+Categorie:Agricultură	Agriculture
+Agrigento	Agrigento
+Aikidō	Aikido
+Ain	Ain
+Forţă aeriană	Air force
+Airbus	Airbus
+Aerodină	Aircraft
+Categorie:Avioane	Aircraft
+Portavion	Aircraft carrier
+Aeroport	Airport
+Ajax	Ajax
+Aiax din Salamina	Ajax (mythology)
+Ajax (programare)	Ajax (programming)
+Akhenaten	Akhenaten
+Akira Kurosawa	Akira Kurosawa
+Al Gore	Al Gore
+Al-Qaida	Al-Qaeda
+Alabama (stat SUA)	Alabama
+Categorie:Statul Alabama, SUA	Alabama
+Alan Turing	Alan Turing
+Alanină	Alanine
+Alaska (stat SUA)	Alaska
+Categorie:Statul Alaska, SUA	Alaska
+Alban Berg	Alban Berg
+Albania	Albania
+Categorie:Albania	Albania
+Albany, New York	Albany
+Diomedeidae	Albatross
+Albedo	Albedo
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Speer	Albert Speer
+Alberta	Alberta
+Albinism	Albinism
+Album (muzică)	Album
+Albuquerque, New Mexico	Albuquerque
+Alchimie	Alchemy
+Categorie:Alchimie	Alchemy
+Alcooli	Alcohol
+Băutură alcoolică	Alcoholic beverage
+Aldous Huxley	Aldous Huxley
+Alexandr Soljeniţîn	Aleksandr Solzhenitsyn
+Alep	Aleppo
+Insulele Aleutine	Aleutian Islands
+Alexander Fleming	Alexander Fleming
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Hamilton	Alexander Hamilton
+Alexander Pope	Alexander Pope
+Aleksandr Puşkin	Alexander Pushkin
+Alexandru cel Mare	Alexander the Great
+Alexandre Dumas	Alexandre Dumas
+Alexandria, Egipt	Alexandria
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Dreyfus	Alfred Dreyfus
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Alfred North Whitehead	Alfred North Whitehead
+Alfred Russel Wallace	Alfred Russel Wallace
+Alfred cel Mare	Alfred the Great
+Algă	Algae
+Algebră	Algebra
+Categorie:Algebră	Algebra
+Algeria	Algeria
+Categorie:Algeria	Algeria
+Alger (oraş)	Algiers
+Algoritm	Algorithm
+Alhambra	Alhambra
+Metal alcalin	Alkali metal
+Alcaloid	Alkaloid
+Alcan	Alkane
+Alchenă	Alkene
+Alchină	Alkyne
+Allah	Allah
+Alegorie	Allegory
+Alergie	Allergy
+Aliteraţie	Alliteration
+Alofon	Allophone
+Allosaurus	Allosaurus
+Aliaj	Alloy
+Almatî	Almaty
+Alfa (literă)	Alpha (letter)
+Alfa Centauri	Alpha Centauri
+Alfabet	Alphabet
+Alpi	Alps
+Alsacia	Alsace
+Altar (religie)	Altar
+Munţii Altai	Altay Mountains
+Curent alternativ	Alternating current
+Categorie:Terapii alternative	Alternative medicine
+Terapii alternative	Alternative medicine
+Aluminiu	Aluminium
+Alvar Aalto	Alvar Aalto
+Boala Alzheimer	Alzheimer's disease
+Amaryllidaceae	Amaryllidaceae
+Amaterasu	Amaterasu
+Amazon (fluviu)	Amazon River
+Chihlimbar	Amber
+Ambroziu de Milano	Ambrose
+Amedeo Avogadro	Amedeo Avogadro
+Ursus americanus	American Black Bear
+Războiul civil american	American Civil War
+Războiul de independenţă al Statelor Unite ale Americii	American Revolutionary War
+Samoa americană	American Samoa
+ASCII	American Standard Code for Information Interchange
+Americiu	Americium
+Amerigo Vespucci	Amerigo Vespucci
+Ametist	Amethyst
+Amidă	Amide
+Amină	Amine
+Aminoacizi	Amino acid
+Amman	Amman
+Amoniac	Ammonia
+Amper	Ampere
+Amfetamină	Amphetamine
+Amfibian	Amphibian
+Amfiteatru	Amphitheatre
+Amsterdam	Amsterdam
+Categorie:Amsterdam	Amsterdam
+Ammon	Amun
+Amur (râu)	Amur
+Anabaptism	Anabaptist
+Anaheim, California	Anaheim
+Geometrie analitică	Analytic geometry
+Anarhism	Anarchism
+Categorie:Anarhism	Anarchism
+Anarhie	Anarchy
+Anatole France	Anatole France
+Categorie:Anatomie	Anatomy
+Anatomie	Anatomy
+Anaxagora	Anaxagoras
+Anaximandru	Anaximander
+Ancoră	Anchor
+Anchorage, Alaska	Anchorage
+Limba greacă veche	Ancient Greek
+Andaluzia	Andalusia
+Marea Andaman	Andaman Sea
+Anders Celsius	Anders Celsius
+Anzii Cordilieri	Andes
+Andhra Pradesh	Andhra Pradesh
+Andorra	Andorra
+Categorie:Andorra	Andorra
+Andrea Palladio	Andrea Palladio
+Andrei Saharov	Andrei Sakharov
+Andrei Tarkovsky	Andrei Tarkovsky
+Andrew Jackson	Andrew Jackson
+Andrew Johnson	Andrew Johnson
+Andromeda	Andromeda
+Andromeda (constelaţie)	Andromeda (constellation)
+Andromeda (prinţesă)	Andromeda (mythology)
+Andromeda (galaxie)	Andromeda Galaxy
+Andy Warhol	Andy Warhol
+Anemie	Anemia
+Angara	Angara River
+Înger	Angel
+Cascada Angel	Angel Falls
+Ângulo	Angle
+Angola	Angola
+Categorie:Angola	Angola
+Anguilla	Anguilla
+Moment cinetic	Angular momentum
+Boethius	Anicius Manlius Severinus Boethius
+Anilină	Aniline
+Regn Animalia	Animal
+Animaţie	Animation
+Anime	Anime
+Animism	Animism
+Anason	Anise
+Ankara	Ankara
+Annapolis, Maryland	Annapolis
+Anne Boleyn	Anne Boleyn
+Vierme inelat	Annelid
+Buna-Vestire	Annunciation
+Anseriformes	Anseriformes
+Categorie:Anseriformes	Anseriformes
+Furnică	Ant
+Antakya	Antakya
+Antalia	Antalya
+Antananarivo	Antananarivo
+Antarctica	Antarctica
+Antares	Antares
+Anthony Hopkins	Anthony Hopkins
+Antrax	Anthrax
+Antropologie	Anthropology
+Categorie:Antropologie	Anthropology
+Antroposofie	Anthroposophy
+Antibiotic	Antibiotic
+Antigen	Antigen
+Antigona	Antigone
+Antigua şi Barbuda	Antigua and Barbuda
+Antimaterie	Antimatter
+Stibiu	Antimony
+Antipapă	Antipope
+Antisemitism	Antisemitism
+Categorie:Antisemitism	Antisemitism
+Maşina Pneumatică (constelaţie)	Antlia
+Antoine Lavoisier	Antoine Lavoisier
+Anton Cehov	Anton Chekhov
+Antonio Stradivarius	Antonio Stradivari
+Antonio Vivaldi	Antonio Vivaldi
+Antonim	Antonym
+Anvers	Antwerp
+Anvers (provincie)	Antwerp (province)
+Anubis	Anubis
+Anus	Anus
+Aorta	Aorta
+Apatit	Apatite
+Afazie	Aphasia
+Aforism	Aphorism
+Afrodita	Aphrodite
+Apiaceae	Apiaceae
+Apollo (mitologie)	Apollo
+Apollo (dezambiguizare)	Apollo (disambiguation)
+Programul Apollo	Apollo program
+Categorie:Programul Apollo	Apollo program
+Apendicită	Appendicitis
+Matematică aplicată	Applied mathematics
+Aprilie	April
+14 aprilie	April 14
+Apulia	Apulia
+Pasărea Paradisului (constelaţie)	Apus
+Aqaba	Aqaba
+Aqua regia	Aqua regia
+Acvamarin	Aquamarine
+Acvariu	Aquarium
+Vărsătorul (constelaţie)	Aquarius (constellation)
+Apeduct	Aqueduct
+Vulturul (constelaţie)	Aquila (constellation)
+Aquitania	Aquitaine
+Altarul (constelaţie)	Ara (constellation)
+Arab	Arab
+Liga Arabă	Arab League
+Peninsula Arabică	Arabian Peninsula
+Alfabetul arab	Arabic alphabet
+Limba arabă	Arabic language
+Araceae	Araceae
+Aragon	Aragon
+Marea Aral	Aral Sea
+Aram Haciaturian	Aram Khachaturian
+Arcadia	Arcadia
+Arcangelo Corelli	Arcangelo Corelli
+Arheologie	Archaeology
+Categorie:Arheologie	Archaeology
+Archaeopteryx	Archaeopteryx
+Arhiepiscop	Archbishop
+Arhimede	Archimedes
+Arhitect	Architect
+Arhitectură	Architecture
+Categorie:Arhitectură	Architecture
+Oceanul Arctic	Arctic Ocean
+Ardeni	Ardennes
+Ardennes	Ardennes (department)
+Ar	Are
+Suprafaţă	Area
+Palmier	Arecaceae
+Ares	Ares
+Argentina	Argentina
+Categorie:Argentina	Argentina
+Argon	Argon
+Argos	Argos
+Arianism	Arianism
+Berbecul (constelaţie)	Aries (constellation)
+Aristarh din Samos	Aristarchus of Samos
+Aristocraţie	Aristocracy
+Aristofan	Aristophanes
+Aristotel	Aristotle
+Aritmetică	Arithmetic
+Categorie:Aritmetică	Arithmetic
+Progresie (matematică)	Arithmetic progression
+Arius	Arius
+Arizona (stat SUA)	Arizona
+Categorie:Statul Arizona, SUA	Arizona
+Arkansas (stat SUA)	Arkansas
+Categorie:Statul Arkansas, SUA	Arkansas
+Arles	Arles
+Armenia	Armenia
+Categorie:Armenia	Armenia
+Limba armeană	Armenian language
+Armură	Armour
+Armata terestră	Army
+Arnhem	Arnhem
+Râul Arno	Arno River
+Arnold Schoenberg	Arnold Schoenberg
+Hidrocarbură aromatică	Aromatic hydrocarbon
+Arras	Arras
+Arsen	Arsenic
+Artă	Art
+Art Deco	Art Deco
+Art Nouveau	Art Nouveau
+Istoria artei	Art history
+Artemis	Artemis
+Artropode	Arthropod
+Arthur Holly Compton	Arthur Compton
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Miller	Arthur Miller
+Arthur Rimbaud	Arthur Rimbaud
+Arthur Schopenhauer	Arthur Schopenhauer
+Inteligenţă artificială	Artificial intelligence
+Categorie:Inteligenţă artificială	Artificial intelligence
+Artilerie	Artillery
+Categorie:Artilerie	Artillery
+Categorie:Artă	Arts
+Arturo Toscanini	Arturo Toscanini
+Aruba	Aruba
+Azbest	Asbestos
+Asclepios	Asclepius
+Asexualitate	Asexuality
+Asgard	Asgard
+Assurbanipal	Ashurbanipal
+Asia	Asia
+Categorie:Asia	Asia
+Asmara	Asmara
+Aspartam	Aspartame
+Aspirină	Aspirin
+Assam	Assam
+Limbaj de asamblare	Assembly language
+Asiria	Assyria
+Categorie:Asiria	Assyria
+Astana	Astana
+Astatiniu	Astatine
+Asteraceae	Asteraceae
+Asteroid	Asteroid
+Centura de asteroizi	Asteroid belt
+Astm bronşic	Asthma
+Astigmatism	Astigmatism (eye)
+Astrahan	Astrakhan
+Xenobiologie	Astrobiology
+Astrologie	Astrology
+Categorie:Astrologie	Astrology
+Astrometrie	Astrometry
+Astronaut	Astronaut
+Astronom	Astronomer
+Unitate astronomică	Astronomical unit
+Astronomie	Astronomy
+Categorie:Astronomie	Astronomy
+Portal:Astronomie	Astronomy
+Astrofizică	Astrophysics
+Categorie:Astrofizică	Astrophysics
+Assuan	Aswan
+Asimptotă	Asymptote
+Atacama	Atacama Desert
+Categorie:Ateism	Atheism
+Atena (zeiţă)	Athena
+Atena	Athens
+Categorie:Atletism	Athletics
+Atletism	Athletics (track and field)
+Atlanta, Georgia	Atlanta
+Oceanul Atlantic	Atlantic Ocean
+Categorie:Oceanul Atlantic	Atlantic Ocean
+Atlantida	Atlantis
+Atlas (satelit)	Atlas (moon)
+Munţii Atlas	Atlas Mountains
+Presiune atmosferică	Atmospheric pressure
+Atom	Atom
+Masă atomică	Atomic mass
+Unitate atomică de masă	Atomic mass unit
+Număr atomic	Atomic number
+Categorie:Fizică atomică	Atomic physics
+Fizică atomică	Atomic physics
+Atreu	Atreus
+Atropină	Atropine
+Attica	Attica
+Attila	Attila the Hun
+Auckland	Auckland
+August	August
+1 august	August 1
+15 august	August 15
+6 august	August 6
+August Strindberg	August Strindberg
+Augusta, Maine	Augusta
+Auguste Comte	Auguste Comte
+Auguste Rodin	Auguste Rodin
+Augustin de Hipona	Augustine of Hippo
+Cezar August	Augustus
+Vizitiul (constelaţie)	Auriga (constellation)
+Aurora (dezambiguizare)	Aurora
+Auroră polară	Aurora (astronomy)
+Austin, Texas	Austin
+Australia	Australia
+Dolar australian	Australian dollar
+Australopithecus	Australopithecus
+Austria	Austria
+Categorie:Austria	Austria
+Imperiul Austro-Ungar	Austria-Hungary
+Scriitor	Author
+Automobilism	Auto racing
+Autobiografie	Autobiography
+Automobil	Automobile
+Sistem nervos vegetativ	Autonomic nervous system
+Autotrof	Autotroph
+Toamnă	Autumn
+Auvergne	Auvergne (region)
+Avalanşă	Avalanche
+Avangardă	Avant-garde
+Avatar	Avatar
+Ovăz	Avena
+Averroes	Averroes
+Avesta	Avesta
+Transport aerian	Aviation
+Avicenna	Avicenna
+Avignon	Avignon
+Legea lui Avogadro	Avogadro's law
+Axiomă	Axiom
+Axon	Axon
+Ayn Rand	Ayn Rand
+Azerbaidjan	Azerbaijan
+Categorie:Azerbaidjan	Azerbaijan
+Azore	Azores
+Azteci	Aztec
+Azurit	Azurite
+B	B
+BASIC	BASIC
+Baal	Baal
+Babuin	Baboon
+Babilon	Babylon
+Bacterie	Bacteria
+Categorie:Bacterie	Bacteria
+Badminton	Badminton
+Marea Baffin	Baffin Bay
+Insula Baffin	Baffin Island
+Bagdad	Baghdad
+Categorie:Bahamas	Bahamas
+Bahrain	Bahrain
+Categorie:Bahrain	Bahrain
+Baja California (stat Mexic)	Baja California
+Baku	Baku
+Bilanţ	Balance sheet
+Baldur	Baldr
+Insulele Baleare	Balearic Islands
+Balenă	Baleen whale
+Bali	Bali
+Munţii Balcani	Balkan Mountains
+Războaiele balcanice	Balkan Wars
+Balcani	Balkans
+Minge	Ball
+Categorie:Balet	Ballet
+Marea Baltică	Baltic Sea
+Baltimore, Maryland	Baltimore
+Banană	Banana
+Republică bananieră	Banana republic
+Bengaluru	Bangalore
+Bangkok	Bangkok
+Bangladesh	Bangladesh
+Categorie:Bangladesh	Bangladesh
+Banjul	Banjul
+Bancă (instituţie financiară)	Bank
+Categorie:Bănci	Banks
+Botez	Baptism
+Bisericile Baptiste	Baptist
+Bar	Bar (unit)
+Barbados	Barbados
+Barbra Streisand	Barbra Streisand
+Barcelona	Barcelona
+Categorie:Barcelona	Barcelona
+Bari	Bari
+Bariu	Barium
+Orz	Barley
+Baron	Baron
+Baroc	Baroque
+Barranquilla	Barranquilla
+Baril de petrol	Barrel (unit)
+Bazalt	Basalt
+Bază (chimie)	Base (chemistry)
+Baseball	Baseball
+Basel	Basel
+Basidiomycota	Basidiomycota
+Busuioc	Basil
+Vasile cel Mare	Basil of Caesarea
+Bazilică	Basilica
+Basilicata	Basilicata
+Basiliskos	Basiliscus
+Vasilisc	Basilisk
+Baschet	Basketball
+Basra	Basra
+Chitară bas	Bass guitar
+Normandia de Jos	Basse-Normandie
+Bastet	Bast (mythology)
+Bastilia	Bastille
+Chiroptere	Bat
+Bath	Bath
+Batman	Batman
+Baton Rouge, Louisiana	Baton Rouge
+Bătălia de la Austerlitz	Battle of Austerlitz
+Bătălia Angliei	Battle of Britain
+Bătălia de la Hastings	Battle of Hastings
+Bătălia de la Marathon	Battle of Marathon
+Bătălia de la Termopile	Battle of Thermopylae
+Bătălia de la Verdun	Battle of Verdun
+Bătălia de la Waterloo	Battle of Waterloo
+Bătălia de pe Somme (1916)	Battle of the Somme
+Bauhaus	Bauhaus
+Bauxită	Bauxite
+Bavaria	Bavaria
+Categorie:Bavaria	Bavaria
+Dafin	Bay Laurel
+Golful Bengal	Bay of Bengal
+Bayer AG	Bayer
+Baionetă	Bayonet
+Bayonne	Bayonne
+Beagle	Beagle
+Urs	Bear
+Marea Beaufort	Beaufort Sea
+Scara Beaufort	Beaufort scale
+Castor (animal)	Beaver
+Becquerel	Becquerel
+Pat	Bed
+Beda Venerabilul	Bede
+Beduini	Bedouin
+Albină	Bee
+Categorie:Apicultură	Beekeeping
+Bere	Beer
+Categorie:Bere	Beer
+Behaviorism	Behaviorism
+Beijing	Beijing
+Beirut	Beirut
+Belarus	Belarus
+Categorie:Belarus	Belarus
+Belfast	Belfast
+Belgia	Belgium
+Categorie:Belgia	Belgium
+Belgrad	Belgrade
+Belize	Belize
+Categorie:Belize	Belize
+Belerofon	Bellerophon
+Belo Horizonte	Belo Horizonte
+Benelux	Benelux
+Bengal	Bengal
+Benin	Benin
+Categorie:Benin	Benin
+Benito Mussolini	Benito Mussolini
+Benjamin Franklin	Benjamin Franklin
+Benjamin Harrison	Benjamin Harrison
+Beowulf	Beowulf
+Bergen, Norvegia	Bergen
+Marea Bering	Bering Sea
+Strâmtoarea Bering	Bering Strait
+Berkeliu	Berkelium
+Berkshire	Berkshire
+Berlin	Berlin
+Insulele Bermude	Bermuda
+Categorie:Bermuda	Bermuda
+Triunghiul Bermudelor	Bermuda Triangle
+Berna	Berne
+Bernhard Riemann	Bernhard Riemann
+Bacă	Berry
+Bertolt Brecht	Bertolt Brecht
+Bertrand Russell	Bertrand Russell
+Beril	Beryl
+Beriliu	Beryllium
+Betelgeuse	Betelgeuse
+Bethleem Efrata	Bethlehem
+Bette Davis	Bette Davis
+Bey	Bey
+Bhutan	Bhutan
+Categorie:Bhutan	Bhutan
+Biblia	Bible
+Categorie:Biblia	Bible
+Bicicletă	Bicycle
+Big Bang	Big Bang
+Bihar	Bihar
+Bill Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Billy Wilder	Billy Wilder
+Biochimie	Biochemistry
+Categorie:Biochimie	Biochemistry
+Biodiversitate	Biodiversity
+Biogeografie	Biogeography
+Portal:Biografie	Biography
+Biologie	Biology
+Categorie:Biologie	Biology
+Portal:Biologie	Biology
+Biomasă (ecologie)	Biomass
+Biom	Biome
+Biofizică	Biophysics
+Biosferă	Biosphere
+Categorie:Biotehnologie	Biotechnology
+Biotină	Biotin
+Mesteacăn	Birch
+Pasăre	Bird
+Birmingham, Alabama	Birmingham
+Bisexualitate	Bisexuality
+Bişkek	Bishkek
+Episcop	Bishop
+Nebun (şah)	Bishop (chess)
+Bismarck, North Dakota	Bismarck
+Bismarck	Bismarck (disambiguation)
+Bismut	Bismuth
+Bit	Bit
+Negru	Black
+Moartea neagră	Black Death
+Munţii Pădurea Neagră	Black Forest
+Marea Neagră	Black Sea
+Gaură neagră	Black hole
+Blaise Pascal	Blaise Pascal
+Blender	Blender (software)
+Blitzkrieg	Blitzkrieg
+Blog	Blog
+Sânge	Blood
+Plasmă (biologie)	Blood plasma
+Grupă sanguină	Blood type
+Albastru	Blue
+Balenă albastră	Blue Whale
+Muzică blues	Blues
+Mistreţ	Boar
+Barcă	Boat
+Bob Dylan	Bob Dylan
+Bob Marley	Bob Marley
+Robert Fischer	Bobby Fischer
+Bob	Bobsleigh
+Indicele masei corporale	Body mass index
+Culturism	Bodybuilding
+Boemia	Bohemia
+Bohriu	Bohrium
+Punct de fierbere	Boiling point
+Boise, Idaho	Boise
+Hrib	Boletus edulis
+Bolivia	Bolivia
+Categorie:Bolivia	Bolivia
+Bologna	Bologna
+Bolşevic	Bolshevik
+Bolzano	Bolzano
+Bombardier	Bomber
+Obligaţiune	Bond (finance)
+Os	Bone
+Bonn	Bonn
+Bonsai	Bonsai
+Carte	Book
+Estera (carte)	Book of Esther
+Cartea apocalipsei	Book of Revelation
+Bordeaux	Bordeaux
+Boris Pasternak	Boris Pasternak
+Boris Spasski	Boris Spassky
+Borneo	Borneo
+Bor (element)	Boron
+Bosnia şi Herţegovina	Bosnia and Herzegovina
+Categorie:Bosnia şi Herţegovina	Bosnia and Herzegovina
+Boson	Boson
+Bosfor	Bosporus
+Boston, Massachusetts	Boston
+Grădină botanică	Botanical garden
+Botanică	Botany
+Categorie:Botanică	Botany
+Botswana	Botswana
+Categorie:Botswana	Botswana
+Burghezie	Bourgeoisie
+Bourgogne	Bourgogne
+Box	Boxing
+Categorie:Box	Boxing
+Braga	Braga
+Brahma	Brahma
+Alfabetul Braille	Braille
+Creier	Brain
+Bram Stoker	Bram Stoker
+Brandenburg	Brandenburg
+Alamă	Brass
+Bratislava	Bratislava
+Braunschweig	Braunschweig
+Brazilia	Brazil
+Categorie:Brazilia	Brazil
+Brazzaville	Brazzaville
+Pâine	Bread
+Cancer mamar	Breast cancer
+Bremen	Bremen (state)
+Bremerhaven	Bremerhaven
+Brescia	Brescia
+Brest, Franţa	Brest
+Brest, Belarus	Brest
+Brest (dezambiguizare)	Brest
+Bretania	Bretagne
+Pod	Bridge
+Categorie:Poduri	Bridges
+Bridgetown	Bridgetown
+Brighton	Brighton
+Brindisi	Brindisi
+Brisbane	Brisbane
+Bristol	Bristol
+Columbia Britanică	British Columbia
+Imperiul Britanic	British Empire
+Insulele Britanice	British Isles
+Insulele Virgine Britanice	British Virgin Islands
+Categorie:Britanici	British people
+Brno	Brno
+Broccoli	Broccoli
+Brom	Bromine
+Bronz	Bronze
+Epoca Bronzului	Bronze Age
+Urs brun	Brown Bear
+Mişcare browniană	Brownian motion
+Bruce Lee	Bruce Lee
+Bruges	Bruges
+Brunei	Brunei
+Categorie:Brunei	Brunei
+Bruxelles	Brussels
+Bucureşti	Bucharest
+Palatul Buckingham	Buckingham Palace
+Richard Buckminster Fuller	Buckminster Fuller
+Hrişcă	Buckwheat
+Budapesta	Budapest
+Buddha	Buddha
+Budism	Buddhism
+Categorie:Budism	Buddhism
+Buddy Holly	Buddy Holly
+Buenos Aires	Buenos Aires
+Buffalo, New York	Buffalo
+Bujumbura	Bujumbura
+Bulgaria	Bulgaria
+Categorie:Bulgaria	Bulgaria
+Principiul lui Arhimede	Buoyancy
+Burkina Faso	Burkina Faso
+Categorie:Burkina Faso	Burkina Faso
+Birmania	Burma
+Categorie:Myanmar	Burma
+Bursa	Bursa
+Categorie:Burundi	Burundi
+Autobuz	Bus
+Categorie:Oameni de afaceri	Businesspeople
+Butan	Butane
+Unt	Butter
+Bydgoszcz	Bydgoszcz
+Categorie:Imperiul Bizantin	Byzantine Empire
+C	C
+C (limbaj de programare)	C (programming language)
+Clive Staples Lewis	C. S. Lewis
+CD (dezambiguizare)	CD (disambiguation)
+CHAOS	CHAOS (Linux distribution)
+CN Tower	CN Tower
+Cobol	COBOL
+Cactaceae	Cactus
+Cadmiu	Cadmium
+Dalta (constelaţie)	Caelum
+Cesiu	Caesium
+Cafeină	Caffeine
+Cairo	Cairo
+Calabria	Calabria
+Calais	Calais
+Calcit	Calcite
+Calciu	Calcium
+Carbonat de calciu	Calcium carbonate
+Oxid de calciu	Calcium oxide
+Calculator	Calculator
+Caldera	Caldera
+California (stat SUA)	California
+Categorie:Statul California, SUA	California
+Californiu	Californium
+Caligula	Caligula
+Caligrafie	Calligraphy
+Calliope	Calliope
+Callisto (satelit)	Callisto (moon)
+Calorie	Calorie
+Calvados	Calvados
+Calvin Coolidge	Calvin Coolidge
+Calypso (mitologie)	Calypso (mythology)
+Cambogia	Cambodia
+Categorie:Cambodgia	Cambodia
+Cambrian	Cambrian
+Cambridge	Cambridge
+Cambridge, Massachusetts	Cambridge
+Cămilă	Camel
+Camerun	Cameroon
+Campania	Campania
+Canada	Canada
+Categorie:Canada	Canada
+Dolar canadian	Canadian dollar
+Insulele Canare	Canary Islands
+Categorie:Insulele Canare	Canary Islands
+Canberra	Canberra
+Cancer	Cancer
+Racul (constelaţie)	Cancer (constellation)
+Candelă	Candela
+Lumânare	Candle
+Canide	Canidae
+Câinele Mare	Canis Major
+Câinele Mic (constelaţie)	Canis Minor
+Cannes	Cannes
+Canibalism	Cannibalism
+Tun	Cannon
+Canon	Canon (company)
+Canopus	Canopus
+Canterbury	Canterbury
+Limba cantoneză	Cantonese (linguistics)
+Condensator	Capacitor
+Kaapstad	Cape Town
+Republica Capului Verde	Cape Verde
+Capitală	Capital
+Capital	Capital (economics)
+Pedeapsa cu moartea	Capital punishment
+Capitalism	Capitalism
+Cappadocia	Cappadocia
+Capricornul (constelaţie)	Capricornus
+Capsicum	Capsicum
+Caracalus caracal	Caracal
+Caracas	Caracas
+Caravaggio	Caravaggio
+Carbon	Carbon
+Circuitul carbonului în natură	Carbon cycle
+Dioxid de carbon	Carbon dioxide
+Monoxid de carbon	Carbon monoxide
+Acid carbonic	Carbonic acid
+Acid carboxilic	Carboxylic acid
+Carburator	Carburetor
+Cardiff	Cardiff
+Cardinal	Cardinal (Catholicism)
+Cardinalul Richelieu	Cardinal Richelieu
+Cardiologie	Cardiology
+Categorie:Cardiologie	Cardiology
+Caraibe	Caribbean
+Marea Caraibelor	Caribbean Sea
+Caricatură	Caricature
+Carena (constelaţie)	Carina (constellation)
+Carl David Anderson	Carl David Anderson
+Carl Gustav Jung	Carl Jung
+Carl Maria von Weber	Carl Maria von Weber
+Carl Orff	Carl Orff
+Carnaval	Carnival
+Carnivore	Carnivora
+Dinastia Carolingiană	Carolingian dynasty
+Carl Linné	Carolus Linnaeus
+Munţii Carpaţi	Carpathian Mountains
+Carson City, Nevada	Carson City
+Coordonate carteziene	Cartesian coordinate system
+Cartagina	Carthage
+Cartografie	Cartography
+Categorie:Cartografie	Cartography
+Cary Grant	Cary Grant
+Casablanca	Casablanca
+Marea Caspică	Caspian Sea
+Casandra	Cassandra
+Cassiopeia (constelaţie)	Cassiopeia (constellation)
+Fontă	Cast iron
+Cetate (edificiu)	Castle
+Rocadă	Castling
+Casus belli	Casus belli
+Pisică de casă	Cat
+Catalonia	Catalonia
+Categorie:Catalonia	Catalonia
+Catafractă	Cataphract
+Catherine Parr	Catherine Parr
+Catherine de Aragon	Catherine of Aragon
+Gaius Valerius Catullus	Catullus
+Caucaz	Caucasus
+Categorie:Caucaz	Caucasus
+Munţii Caucaz	Caucasus Mountains
+Cauză	Causality
+Cavalerie	Cavalry
+Peşteră	Cave
+Cayenne	Cayenne
+Insulele Cayman	Cayman Islands
+Cedru	Cedar
+Categorie:Astromecanică	Celestial mechanics
+Sferă cerească	Celestial sphere
+Celulă	Cell (biology)
+Nucleul celulei	Cell nucleus
+Ciment	Cement
+Neozoic	Cenozoic
+Recensământ	Census
+Centaur	Centaur
+Centaurul (constelaţie)	Centaurus
+Centimetru	Centimetre
+Africa Centrală	Central Africa
+Republica Centrafricană	Central African Republic
+America Centrală	Central America
+Central Intelligence Agency	Central Intelligence Agency
+Central Park	Central Park
+Puterile Centrale	Central Powers
+Sistemul nervos central	Central nervous system
+Centru (Franţa)	Centre
+Centriol	Centriole
+Secol	Century
+Cefeu (constelaţie)	Cepheus (constellation)
+Cerber	Cerberus
+Ceres	Ceres
+Ceres (planetă pitică)	Ceres (dwarf planet)
+Ceres (zeiţă)	Ceres (mythology)
+Ceriu	Cerium
+Cetaceu	Cetacea
+Balena (constelaţie)	Cetus
+Ciad	Chad
+Categorie:Ciad	Chad
+Scaun	Chair
+Calcedon (mineral)	Chalcedony
+Cameleonul (constelaţie)	Chamaeleon
+Champagne-Ardenne	Champagne-Ardenne
+Tunelul Canalului Mânecii	Channel Tunnel
+Haos	Chaos (mythology)
+Carol cel Mare	Charlemagne
+Charleroi	Charleroi
+Charles, Prinţ de Wales	Charles
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles Fourier	Charles Fourier
+Charles Lindbergh	Charles Lindbergh
+Charles Peirce	Charles Peirce
+Charles Thomson Rees Wilson	Charles Thomson Rees Wilson
+Charles de Gaulle	Charles de Gaulle
+Carol cel Pleşuv	Charles the Bald
+Charleston, West Virginia	Charleston
+Charlie Chaplin	Charlie Chaplin
+Charlotte, North Carolina	Charlotte
+Charon (satelit)	Charon (moon)
+Charon (mitologie)	Charon (mythology)
+Chartres	Chartres
+Che Guevara	Che Guevara
+Cecenia	Chechnya
+Brânză	Cheese
+Ghepard	Cheetah
+Celiabinsk	Chelyabinsk
+Legătură chimică	Chemical bond
+Element chimic	Chemical element
+Formulă chimică	Chemical formula
+Chimie	Chemistry
+Categorie:Chimie	Chemistry
+Portal:Chimie	Chemistry
+Chemnitz	Chemnitz
+Chennai	Chennai
+Cernobîl	Chernobyl
+Silicolit	Chert
+Heruvim	Cherub
+Şah (joc)	Chess
+Categorie:Şah	Chess
+Deschidere (şah)	Chess opening
+Chester Alan Arthur	Chester A. Arthur
+Cheyenne, Wyoming	Cheyenne
+Chiang Kai-Shek	Chiang Kai-shek
+Chicago, Illinois	Chicago
+Varicelă	Chickenpox
+Năut	Chickpea
+Chihuahua (stat Mexic)	Chihuahua
+Copil	Child
+Chile	Chile
+Categorie:Chile	Chile
+Himera	Chimera (mythology)
+Categorie:China	China
+Insula Chios	Chios
+Chiron	Chiron
+Clor	Chlorine
+Cloroform	Chloroform
+Clorofilă	Chlorophyll
+Cloroplast	Chloroplast
+Ciocolată	Chocolate
+Holeră	Cholera
+Colesterol	Cholesterol
+Chongqing	Chongqing
+Chordata	Chordate
+Christchurch	Christchurch
+Christiaan Huygens	Christiaan Huygens
+Christian Dior	Christian Dior
+Creştinism	Christianity
+Categorie:Creştinism	Christianity
+Crăciun	Christmas
+Categorie:Crăciun	Christmas
+Pom de Crăciun	Christmas tree
+Cristofor Columb	Christopher Columbus
+Christopher Marlowe	Christopher Marlowe
+Crom	Chromium
+Cromozom	Chromosome
+Categorie:Cronologie	Chronology
+Chuck Berry	Chuck Berry
+Biserică (instituţie)	Church
+Biserică (edificiu)	Church (building)
+Biserica Anglicană	Church of England
+Marcus Tullius Cicero	Cicero
+Cidru	Cider
+Scorţişoară	Cinnamon
+Circe	Circe
+Compasul (constelaţie)	Circinus
+Aparatul cardiovascular	Circulatory system
+Circumcizie	Circumcision
+Circ	Circus
+Acid citric	Citric acid
+Război civil	Civil war
+Civilizaţie	Civilization
+Clark Gable	Clark Gable
+Clasă (dezambiguizare)	Class
+Clasă (biologie)	Class (biology)
+Mecanică clasică	Classical mechanics
+Muzică cultă	Classical music
+Categorie:Muzică clasică	Classical music
+Clasicism	Classicism
+Claude Monet	Claude Monet
+Claude Shannon	Claude Shannon
+Claudio Monteverdi	Claudio Monteverdi
+Claudius	Claudius
+Clement Attlee	Clement Attlee
+Cler	Clergy
+Cleveland, Ohio	Cleveland
+Climă	Climate
+Categorie:Climă	Climate
+Climatologie	Climatology
+Categorie:Climatologie	Climatology
+Depresie (boală)	Clinical depression
+Clio	Clio
+Clitoris	Clitoris
+Ceas	Clock
+Nor	Cloud
+Cuişoare	Clove
+Trifolium	Clover
+Clovis I	Clovis I
+Cărbune	Coal
+Cobalt	Cobalt
+Cocaină	Cocaine
+Cocteil	Cocktail
+Cocotier	Coconut
+Insulele Cocos	Cocos (Keeling) Islands
+Codeină	Codeine
+Cafea	Coffee
+Psihologie cognitivă	Cognitive psychology
+Monedă	Coin
+Războiul Rece	Cold War
+Categorie:Războiul Rece	Cold War
+Colin Powell	Colin Powell
+Köln	Cologne
+Columbia	Colombia
+Categorie:Columbia	Colombia
+Colombo	Colombo
+Culoare	Color
+Colorado (stat SUA)	Colorado
+Categorie:Statul Colorado, SUA	Colorado
+Fluviul Colorado	Colorado River
+Colosseum	Colosseum
+Colosul din Rodos	Colossus of Rhodes
+Porumbelul (constelaţie)	Columba (constellation)
+Columbia, South Carolina	Columbia
+Columbia (dezambiguizare)	Columbia
+Columbia (fluviu)	Columbia River
+Columbus, Ohio	Columbus
+Părul Berenicei (constelaţie)	Coma Berenices
+Comedie	Comedy
+Cometă	Comet
+Virgulă	Comma (punctuation)
+Commedia dell'arte	Commedia dell'arte
+Categorie:Comerţ	Commerce
+Gripă	Common cold
+Comunitatea Statelor Independente	Commonwealth of Independent States
+Categorie:Comunicaţii	Communication
+Comunicaţii	Communication
+Comunism	Communism
+Categorie:Comunism	Communism
+Insulele Comore	Comoros
+Compact Disc	Compact Disc
+Busolă	Compass
+Concurenţă	Competition
+Număr complex	Complex number
+Compozitor	Composer
+Număr compus	Composite number
+Lingvistică computaţională	Computational linguistics
+Computer	Computer
+Monitor	Computer display
+Fişier	Computer file
+Hardware	Computer hardware
+Program (informatică)	Computer program
+Programare	Computer programming
+Informatică	Computer science
+Categorie:Informatică	Computer science
+Software	Computer software
+Virus informatic	Computer virus
+Proiectare asistată de calculator	Computer-aided design
+Diluţie	Concentration
+Concord, New Hampshire	Concord
+Beton	Concrete
+Dirijor	Conducting
+Con	Cone (geometry)
+Statele Confederate ale Americii	Confederate States of America
+Confederaţie	Confederation
+Pocăinţă (taină)	Confession
+Mir (taină)	Confirmation
+Conflict	Conflict
+Confucianism	Confucianism
+Confucius	Confucius
+Congo (dezambiguizare)	Congo
+Congo (fluviu)	Congo River
+Conică	Conic section
+Connecticut (stat SUA)	Connecticut
+Categorie:Statul Connecticut, SUA	Connecticut
+Conchistador	Conquistador
+Consens	Consensus
+Conservatorism	Conservatism
+Consoană	Consonant
+Constantin cel Mare	Constantine I
+Constantinopol	Constantinople
+Constelaţie	Constellation
+Constituţie	Constitution (political)
+Consul	Consul
+Continent	Continent
+Platformă continentală	Continental shelf
+Bridge	Contract bridge
+Bucătărie	Cooking
+Ora universală coordonată	Coordinated Universal Time
+Copenhaga	Copenhagen
+Cupru	Copper
+Drepturi de autor	Copyright
+Coral	Coral
+Corint	Corinth
+Cornwall	Cornwall
+Coroana Boreală (constelaţie)	Corona Borealis
+Corporaţie	Corporation
+Corsica	Corsica
+Corindon	Corundum
+Corbul (constelaţie)	Corvus (constellation)
+Radiaţia cosmică de fond	Cosmic microwave background radiation
+Radiaţie cosmică	Cosmic ray
+Cosmologie	Cosmology
+Categorie:Cosmologie	Cosmology
+Costa Rica	Costa Rica
+Categorie:Costa Rica	Costa Rica
+Cotonou	Cotonou
+Cotopaxi	Cotopaxi
+Bumbac	Cotton
+Coulomb (unitate)	Coulomb
+Legea lui Coulomb	Coulomb's law
+Conciliul de la Calcedon	Council of Chalcedon
+Conciliul de la Efes	Council of Ephesus
+Conciliul Tridentin	Council of Trent
+Contrapunct (muzică)	Counterpoint
+Ţară	Country
+Country	Country music
+Coventry	Coventry
+Crab	Crab
+Nebuloasa Crabului	Crab Nebula
+Cupa (constelaţie)	Crater (constellation)
+Creaţionism	Creationism
+Cremona	Cremona
+Cretacic	Cretaceous
+Creta (insulă)	Crete
+Crichet	Cricket
+Crimeea	Crimea
+Războiul Crimeii	Crimean War
+Drept Penal	Criminal law
+Criminologie	Criminology
+Croaţia	Croatia
+Categorie:Croaţia	Croatia
+Crocodil	Crocodile
+Cruce	Cross
+Produs vectorial a doi vectori	Cross product
+Cuvinte încrucişate	Crossword
+Scoarţă terestră	Crust (geology)
+Crustacee	Crustacean
+Crucea Sudului (constelaţie)	Crux
+Criptografie	Cryptography
+Cristalografie	Crystallography
+Cuba	Cuba
+Categorie:Cuba	Cuba
+Cub	Cube
+Metru cub	Cubic metre
+Cubism	Cubism
+Cuculiformes	Cuculiformes
+Castravete	Cucumber
+Cucurbitaceae	Cucurbitaceae
+Revoluţia Culturală	Cultural Revolution
+Cultură	Culture
+Categorie:Cultură	Culture
+Cumbria	Cumbria
+Cumulus	Cumulus cloud
+Curitiba	Curitiba
+Curiu	Curium
+Curling	Curling
+Categorie:Monedă	Currency
+Cuzco	Cusco
+Cyan	Cyan
+Cianură	Cyanide
+Cybele	Cybele
+Cibernetică	Cybernetics
+Cyberpunk	Cyberpunk
+Insulele Ciclade	Cyclades
+Categorie:Ciclism	Cycling
+Lebăda (constelaţie)	Cygnus (constellation)
+Cilindru (geometrie)	Cylinder (geometry)
+Cyperaceae	Cyperaceae
+Cipru	Cyprus
+Categorie:Cipru	Cyprus
+Alfabetul chirilic	Cyrillic alphabet
+Cyrus al II-lea cel Mare	Cyrus the Great
+Citoplasmă	Cytoplasm
+Citoschelet	Cytoskeleton
+Cehia	Czech Republic
+Categorie:Republica Cehă	Czech Republic
+Cehoslovacia	Czechoslovakia
+Categorie:Cehoslovacia	Czechoslovakia
+D	D
+D. H. Lawrence	D. H. Lawrence
+ADN	DNA
+DOS	DOS
+DVD	DVD
+Teckel	Dachshund
+Dadaism	Dada
+Dahlia	Dahlia
+Dakar	Dakar
+Dalai Lama	Dalai Lama
+Dallas, Texas	Dallas
+Dalmaţia	Dalmatia
+Baraj	Dam
+Damasc	Damascus
+Dans	Dance
+Daniel Bernoulli	Daniel Bernoulli
+Daniel Defoe	Daniel Defoe
+Dante Alighieri	Dante Alighieri
+Dunăre	Danube
+Daphne	Daphne
+Dardanele	Dardanelles
+Materia întunecată	Dark matter
+Darmstadtiu	Darmstadtium
+Darwin (Northern Territory)	Darwin
+Darwin (dezambiguizare)	Darwin
+Das Kapital	Das Kapital
+Data mining	Data mining
+Structură de date	Data structure
+Bază de date	Database
+Cazul dativ	Dative case
+Daugavpils	Daugavpils
+David (Israel)	David
+David Hilbert	David Hilbert
+David Hume	David Hume
+David Livingstone	David Livingstone
+David Ricardo	David Ricardo
+Cupa Davis	Davis Cup
+Zi	Day
+Diacon	Deacon
+Marea Moartă	Dead Sea
+Manuscrisele de la Marea Moartă	Dead Sea scrolls
+Mătrăgună	Deadly nightshade
+Moarte	Death
+Categorie:Moarte	Death
+Decenii	Decade
+Decembrie	December
+31 decembrie	December 31
+8 decembrie	December 8
+Decius	Decius (emperor)
+Deco	Deco
+Raţionament deductiv	Deductive reasoning
+Definiţie	Definition
+Grad (dezambiguizare)	Degree
+Grad centezimal	Degree (angle)
+Deimos (satelit)	Deimos (moon)
+Deism	Deism
+Delaware (stat SUA)	Delaware
+Categorie:Statul Delaware, SUA	Delaware
+Delft	Delft
+Delhi	Delhi
+Dell, Inc.	Dell
+Delphi, Grecia	Delphi
+Delfinul (constelaţie)	Delphinus
+Potop	Deluge (mythology)
+Demetra	Demeter
+Democraţie	Democracy
+Partidul Democrat, SUA	Democratic Party (United States)
+Republica Democrată Congo	Democratic Republic of the Congo
+Categorie:Republica Democrată Congo	Democratic Republic of the Congo
+Democrit	Democritus
+Demografie	Demography
+Demostene	Demosthenes
+Deng Xiaoping	Deng Xiaoping
+Denis Diderot	Denis Diderot
+Danemarca	Denmark
+Categorie:Danemarca	Denmark
+Dennis Gabor	Dennis Gabor
+Densitate	Density
+Carie dentară	Dental caries
+Categorie:Stomatologie	Dentistry
+Stomatologie	Dentistry
+Denver, Colorado	Denver
+Derivată	Derivative
+Des Moines, Iowa	Des Moines
+Deşert	Desert
+Categorie:Deşerturi	Deserts
+Erasmus din Rotterdam	Desiderius Erasmus
+Categorie:Design	Design
+Determinant (matematică)	Determinant
+Determinism	Determinism
+Detroit, Michigan	Detroit
+Deuteriu	Deuterium
+Psihologia dezvoltării	Developmental psychology
+Driver	Device driver
+Devon	Devon
+Devonian	Devonian
+Punct de rouă	Dew point
+Dacca	Dhaka
+Dharma	Dharma
+Dhaulagiri	Dhaulagiri
+Diabet zaharat	Diabetes mellitus
+Semn diacritic	Diacritic
+Dialect	Dialect
+Dialectică	Dialectic
+Materialism dialectic	Dialectical materialism
+Diamant	Diamond
+Diana, Prinţesă de Wales	Diana
+Diana (zeiţă)	Diana (mythology)
+Dictatură	Dictatorship
+Dicţionar	Dictionary
+Motor diesel	Diesel engine
+Dietrich Bonhoeffer	Dietrich Bonhoeffer
+Ecuaţie diferenţială	Differential equation
+Difracţie	Diffraction
+Categorie:Aparatul digestiv	Digestive system
+Digital subscriber line	Digital subscriber line
+Dijon	Dijon
+Mărar	Dill
+Dimensiune	Dimension
+Dinozaur	Dinosaur
+Dieceză	Diocese
+Diocleţian	Diocletian
+Diodă	Diode
+Dionis	Dionysus
+Difterie	Diphtheria
+Diftong	Diphthong
+Diplodocus	Diplodocus
+Diplomaţie	Diplomacy
+Categorie:Diplomaţie	Diplomacy
+Categorie:Dezambiguizare	Disambiguation
+Disc jockey	Disc jockey
+Boală	Disease
+Distilare	Distillation
+Divergenţă	Divergence
+Divorţ	Divorce
+Dimitri Mendeleev	Dmitri Mendeleev
+Dmitri Şostakovici	Dmitri Shostakovich
+Nipru	Dnieper River
+Dnipropetrovsk	Dnipropetrovsk
+Doctor al Bisericii	Doctor of the Church
+Insulele Dodecaneze	Dodecanese
+Dodoma	Dodoma
+Câine	Dog
+Doha	Doha
+Dolar	Dollar
+Dolmen	Dolmen
+Dolomit (mineral)	Dolomite
+Domeniu internet	Domain name
+Dom	Dome
+Domesticire	Domestication
+Dominica	Dominica
+Ordinul dominican	Dominican Order
+Republica Dominicană	Dominican Republic
+Domiţian	Domitian
+Don (Rusia)	Don River (Russia)
+Donatello	Donatello
+Donato Bramante	Donato Bramante
+Doneţk	Donetsk
+Măgar	Donkey
+Efectul Doppler	Doppler effect
+Peştele de Aur (constelaţie)	Dorado
+Ordinul doric	Doric order
+Doris Lessing	Doris Lessing
+Dortmund	Dortmund
+Douala	Douala
+Contrabas	Double bass
+Douglas MacArthur	Douglas MacArthur
+Dover, Delaware	Dover
+Dover	Dover
+Sindrom Down	Down syndrome
+Dragonul (constelaţie)	Draco (constellation)
+Dracula	Dracula
+Dragon	Dragon
+Dramă	Drama
+Vis	Dream
+Dresda	Dresden
+Secetă	Drought
+Dependenţă	Drug addiction
+Tobă	Drum
+Dubai	Dubai
+Dublin	Dublin
+Dubniu	Dubnium
+Dubrovnik	Dubrovnik
+Duke Ellington	Duke Ellington
+Duke University	Duke University
+Dună	Dune
+Dunkerque	Dunkirk
+Durban	Durban
+Duşanbe	Dushanbe
+Dustin Hoffman	Dustin Hoffman
+Categorie:Olandezi	Dutch people
+Dwight David Eisenhower	Dwight D. Eisenhower
+Dinamică	Dynamics (physics)
+Dinamită	Dynamite
+Distopie	Dystopia
+E	E
+E (constantă matematică)	E (mathematical constant)
+E-mail	E-mail
+Ernst Theodor Amadeus Hoffmann	E. T. A. Hoffmann
+ETA	ETA
+Ureche	Ear
+Otariidae	Eared seal
+Phocidae	Earless seal
+Pământ	Earth
+Categorie:Pământ	Earth
+Ştiinţele Pământului	Earth science
+Cutremur	Earthquake
+Est	East
+Republica Democrată Germană	East Germany
+East Sussex	East Sussex
+Timorul de Est	East Timor
+Categorie:Timorul de Est	East Timor
+Paşti	Easter
+Biserica Ortodoxă	Eastern Orthodox Church
+Ebro	Ebro
+Echidnă	Echidna
+Eclipse	Eclipse (software)
+Ecliptică	Ecliptic
+Ecologie	Ecology
+Categorie:Ecologie	Ecology
+Econometrie	Econometrics
+Economie	Economics
+Categorie:Economie	Economics
+Economie	Economy
+Ecosistem	Ecosystem
+Ecuador	Ecuador
+Categorie:Ecuador	Ecuador
+Conciliu ecumenic	Ecumenical council
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edinburgh	Edinburgh
+Adrianopol	Edirne
+Edmond Halley	Edmond Halley
+Edmonton	Edmonton
+Edmund Burke	Edmund Burke
+Edmund Hillary	Edmund Hillary
+Edmund Husserl	Edmund Husserl
+Eduard Buchner	Eduard Buchner
+Educaţie	Education
+Categorie:Educaţie	Education
+Edvard Grieg	Edvard Grieg
+Edvard Munch	Edvard Munch
+Edward Jenner	Edward Jenner
+Eduard Confesorul	Edward the Confessor
+Edwin Hubble	Edwin Hubble
+Vânătă	Eggplant
+Egipt	Egypt
+Categorie:Egipt	Egypt
+Liră egipteană	Egyptian pound
+Egiptologie	Egyptology
+Turnul Eiffel	Eiffel Tower
+Eindhoven	Eindhoven
+Einsteiniu	Einsteinium
+El Greco	El Greco
+El Paso, Texas	El Paso
+El Salvador	El Salvador
+Categorie:El Salvador	El Salvador
+Elam	Elam
+Râul Elba	Elbe
+Eleanor Roosevelt	Eleanor Roosevelt
+Alegere	Election
+Sarcină electrică	Electric charge
+Câmp electric	Electric field
+Chitară electrică	Electric guitar
+Motor electric	Electric motor
+Categorie:Electrotehnică	Electrical engineering
+Electrotehnică	Electrical engineering
+Rezistenţă electrică	Electrical resistance
+Electroliză	Electrolysis
+Radiaţie electromagnetică	Electromagnetic radiation
+Electromagnetism	Electromagnetism
+Categorie:Electromagnetism	Electromagnetism
+Electron	Electron
+Microscop electronic	Electron microscope
+Electronegativitate	Electronegativity
+Electronică	Electronics
+Categorie:Electronică	Electronics
+Elegie	Elegy
+Element	Element
+Particulă elementară	Elementary particle
+Elefant (animal)	Elephant
+Elf	Elf
+Elia Kazan	Elia Kazan
+Elias Canetti	Elias Canetti
+Sfântul Ilie	Elijah
+Elizabeth Taylor	Elizabeth Taylor
+Ella Fitzgerald	Ella Fitzgerald
+Elipsă	Ellipse
+Ulmus	Elm
+Elvis Presley	Elvis Presley
+Embriologie	Embryology
+Smarald	Emerald
+Emilia-Romagna	Emilia-Romagna
+Emir	Emir
+Categorie:Emoţie	Emotion
+Empedocle	Empedocles
+Împărat	Emperor
+Empire State Building	Empire State Building
+Empirism	Empiricism
+Emulsie	Emulsion
+Enciclopedie	Encyclopedia
+Endocrinologie	Endocrinology
+Categorie:Endocrinologie	Endocrinology
+Energie	Energy
+Categorie:Energie	Energy
+Energie	Energy (society)
+Inginer	Engineer
+Inginerie	Engineering
+Anglia	England
+Categorie:Anglia	England
+Canalul Mânecii	English Channel
+Războiul civil englez	English Civil War
+Limba engleză	English language
+Categorie:Englezi	English people
+Englezi	English people
+Enki	Enki
+Enrico Caruso	Enrico Caruso
+Enrico Fermi	Enrico Fermi
+Categorie:Divertisment	Entertainment
+Entalpie	Enthalpy
+Entomologie	Entomology
+Categorie:Entomologie	Entomology
+Entropie	Entropy
+Categorie:Mediu înconjurător	Environment
+Mediu înconjurător	Environment
+Enzimă	Enzyme
+Eocen	Eocene
+Eos	Eos
+Epictet	Epictetus
+Epicur	Epicurus
+Epidemie	Epidemic
+Epidemiologie	Epidemiology
+Epigrafie	Epigraphy
+Epimetheus	Epimetheus (mythology)
+Adrenalină	Epinephrine
+Epir	Epirus (periphery)
+Epistola lui Pavel către galateni	Epistle to the Galatians
+Epistola lui Pavel către romani	Epistle to the Romans
+Ecuaţie	Equation
+Ecuator	Equator
+Guineea Ecuatorială	Equatorial Guinea
+Equidae	Equidae
+Echinocţiu	Equinox
+Equisetum	Equisetum
+Erasure	Erasure
+Erato	Erato
+Eratosthenes	Eratosthenes
+Erbiu	Erbium
+Erebus	Erebus
+Ericaceae	Ericaceae
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Eris (planetă pitică)	Eris (dwarf planet)
+Eris (mitologie)	Eris (mythology)
+Categorie:Eritreea	Eritrea
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Werner von Siemens	Ernst Werner von Siemens
+Eros	Eros (mythology)
+Eroziunea solului	Erosion
+Erotism	Erotica
+Erwin Rommel	Erwin Rommel
+Viteză de eliberare	Escape velocity
+Escatologie	Eschatology
+Isfahan	Esfahan
+Esofag	Esophagus
+Esperanto	Esperanto
+Categorie:Esperanto	Esperanto
+Espoo	Espoo
+Eseu	Essay
+Essen	Essen
+Essex	Essex
+Esteri	Ester
+Categorie:Estonia	Estonia
+Etan	Ethane
+Etanol	Ethanol
+Eter	Ether
+Etică	Ethics
+Categorie:Etică	Ethics
+Etiopia	Ethiopia
+Categorie:Etiopia	Ethiopia
+Etologie	Ethology
+Etimologie	Etymology
+Eucalipt	Eucalyptus
+Frângerea pâinii	Eucharist
+Euclid	Euclid
+Geometrie euclidiană	Euclidean geometry
+Eugene O'Neill	Eugene O'Neill
+Eucariote	Eukaryote
+Eufemism	Euphemism
+Eufrat	Euphrates
+Eurasia	Eurasia
+Viezure	Eurasian Badger
+Euripide	Euripides
+Euro	Euro
+Europa (satelit)	Europa (moon)
+Europa (mitologie)	Europa (mythology)
+Europa	Europe
+Categorie:Europa	Europe
+Banca Centrală Europeană	European Central Bank
+Comunitatea Europeană	European Community
+Uniunea Europeană	European Union
+Categorie:Uniunea Europeană	European Union
+Europiu	Europium
+Eusebiu din Cezareea	Eusebius of Caesarea
+Euterpe	Euterpe
+Eva Braun	Eva Braun
+Evanescence	Evanescence
+Evangelista Torricelli	Evangelista Torricelli
+Evaporare	Evaporation
+Artiodactyla	Even-toed ungulate
+Existenţialism	Existentialism
+Exodul (capitol biblic)	Exodus
+Funcţie exponenţială	Exponential function
+Expresionism	Expressionism
+Ochi	Eye
+Ezra Pound	Ezra Pound
+F	F
+F. Scott Fitzgerald	F. Scott Fitzgerald
+Fabaceae	Fabaceae
+Fabulă	Fable
+Format:Necesită citare	Fact
+Fabrică	Factory
+Fado	Fado
+Categorie:Fagaceae	Fagaceae
+Utilizare cinstită	Fair use
+Zână	Fairy
+Basm	Fairy tale
+Falconiformes	Falconiformes
+Insulele Falkland	Falkland Islands
+Eroare logică	Fallacy
+Familie (biologie)	Family (biology)
+Genealogie	Family history
+Fantasy	Fantasy
+Orientul Îndepărtat	Far East
+Categorie:Insulele Feroe	Faroe Islands
+Fascism	Fascism
+Categorie:Fascism	Fascism
+Categorie:Modă	Fashion
+Modă	Fashion
+Post	Fasting
+Fatah	Fatah
+Faună	Fauna
+Fauvism	Fauvism
+Fax	Fax
+Frică	Fear
+Februarie	February
+12 februarie	February 12
+14 februarie	February 14
+2 februarie	February 2
+22 februarie	February 22
+29 februarie	February 29
+Revoluţia din Februarie	February Revolution
+FBI	Federal Bureau of Investigation
+Federal Reserve System	Federal Reserve System
+Federaţie	Federation
+Federico Fellini	Federico Fellini
+Fedora Core	Fedora (Linux distribution)
+Feldspat	Feldspar
+Felide	Felidae
+Felix Mendelssohn Bartholdy	Felix Mendelssohn
+Feminism	Feminism
+Feng Shui	Feng shui
+Fenicul	Fennel
+Fenris	Fenrir
+Schinduf	Fenugreek
+Fernando Magellan	Ferdinand Magellan
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermentaţie alcoolică	Fermentation (biochemistry)
+Fermion	Fermion
+Ferigă	Fern
+Ferrara	Ferrara
+Cornul Abundenţei	Fertile Crescent
+Fecundaţie	Fertilisation
+Feudalism	Feudalism
+Fiat	Fiat
+Numerele Fibonacci	Fibonacci number
+Fidel Castro	Fidel Castro
+Corp (matematică)	Field (mathematics)
+Patinaj artistic	Figure skating
+Fiji	Fiji
+File Allocation Table	File Allocation Table
+Fillipo Brunelleschi	Filippo Brunelleschi
+Categorie:Film	Film
+Film	Film
+Portal:Film	Film
+Regizor de film	Film director
+Categorie:Finanţe	Finance
+Finlanda	Finland
+Categorie:Finlanda	Finland
+Pompier	Firefighter
+Firewall	Firewall (networking)
+Firmware	Firmware
+Primul conciliu de la Constantinopol	First Council of Constantinople
+Primul conciliu de la Niceea	First Council of Nicaea
+Prima cruciadă	First Crusade
+Întâia epistolă a lui Pavel către corinteni	First Epistle to the Corinthians
+Primul ajutor	First aid
+Limba maternă	First language
+Peşte	Fish
+Categorie:Peşti	Fish
+Fiord	Fjord
+Drapel	Flag
+Flamenco	Flamenco
+Flandra	Flanders
+Memorie Flash	Flash memory
+Flatulenţă	Flatulence
+Vierme lat	Flatworm
+Purice	Flea
+Limba flamandă	Flemish (linguistics)
+Silex	Flint
+Inundaţie	Flood
+Dischetă	Floppy disk
+Florenţa	Florence
+Florence Nightingale	Florence Nightingale
+Florida (stat SUA)	Florida
+Categorie:Statul Florida, SUA	Florida
+Floare	Flower
+Magnoliophyta	Flowering plant
+Fluid	Fluid
+Mecanica fluidelor	Fluid mechanics
+Fluorină	Fluorite
+Flaut	Flute
+Diptera	Fly
+Ceaţă	Fog
+Muzică folk	Folk music
+Picior (unitate)	Foot (unit of length)
+Fotbal	Football (soccer)
+Categorie:Fotbal	Football (soccer)
+Categorie:Cluburi de fotbal	Football (soccer) clubs
+Categorie:Fotbalişti	Football (soccer) players
+Palatul Imperial Chinezesc	Forbidden City
+Forţă	Force
+Pădure	Forest
+Silvicultură	Forestry
+Formaldehidă	Formaldehyde
+Acid formic	Formic acid
+Cuptorul (constelaţie)	Fornax
+Fort Worth, Texas	Fort Worth
+Fortran	Fortran
+Fosilă	Fossil
+Combustibil fosil	Fossil fuel
+Pendul Foucault	Foucault pendulum
+Fântână	Fountain
+Serie Fourier	Fourier series
+Cruciada a patra	Fourth Crusade
+Vulpe	Fox
+Fractal	Fractal
+Franţa	France
+Categorie:Franţa	France
+Francis Bacon (filozof)	Francis Bacon
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francis Ford Coppola	Francis Ford Coppola
+Francisc I al Austriei	Francis II
+Francisc de Assisi	Francis of Assisi
+Ordinul franciscan	Franciscan
+Francisco Franco	Francisco Franco
+Francisco de Goya	Francisco Goya
+Francisco Pizarro	Francisco Pizarro
+Franciu	Francium
+Războiul franco-prusac	Franco-Prussian War
+Frank Lloyd Wright	Frank Lloyd Wright
+Frank Sinatra	Frank Sinatra
+Frankfort, Kentucky	Frankfort
+Frankfurt pe Main	Frankfurt
+Categorie:Frankfurt	Frankfurt
+Frankfurt an der Oder	Frankfurt (Oder)
+Frankfurt (dezambiguizare)	Frankfurt (disambiguation)
+Franklin Pierce	Franklin Pierce
+Frans Hals	Frans Hals
+Franz Kafka	Franz Kafka
+Franz Liszt	Franz Liszt
+Franz Schubert	Franz Schubert
+Fred Astaire	Fred Astaire
+Frederic I, Împărat Roman	Frederick I
+Frederic al II-lea, Împărat Roman	Frederick II
+Frederick Sanger	Frederick Sanger
+Frederick Soddy	Frederick Soddy
+Fredericton, New Brunswick	Fredericton
+Free State	Free State
+Francmasonerie	Freemasonry
+Freeware	Freeware
+Polinezia franceză	French Polynesia
+Revoluţia franceză	French Revolution
+Categorie:Revoluţia franceză	French Revolution
+Categorie:Francezi	French people
+Frecvenţă	Frequency
+Frescă	Fresco
+Fresno, California	Fresno
+Freya	Freyja
+Freyr	Freyr
+Vineri	Friday
+Fridtjof Nansen	Fridtjof Nansen
+Friedrich Engels	Friedrich Engels
+Provincia Frizia	Friesland
+Frigg	Frigg
+Fritz Haber	Fritz Haber
+Friuli-Veneţia Giulia	Friuli-Venezia Giulia
+Fruct	Fruit
+Categorie:Fructe	Fruit
+Fucking, Austria	Fucking
+Combustibil	Fuel
+Pilă de combustie	Fuel cell
+Fugă (muzică)	Fugue
+Fukuoka	Fukuoka
+Funcţie (matematică)	Function (mathematics)
+Categorie:Categorii	Fundamental
+Fundamentalism religios	Fundamentalism
+Regn Fungi	Fungus
+Muzică funk	Funk
+Categorie:Mobilier	Furniture
+Mobilier	Furniture
+Futurism	Futurism (art)
+Logica fuzzy	Fuzzy logic
+Fiodor Dostoievski	Fyodor Dostoevsky
+G	G
+GIMP	GIMP
+GNOME	GNOME
+GNU	GNU
+Gabon	Gabon
+Categorie:Gabon	Gabon
+Gaborone	Gaborone
+Arhanghelul Gabriel	Gabriel
+Gabriel Lippmann	Gabriel Lippmann
+Gaetano Donizetti	Gaetano Donizetti
+Gaia	Gaia (mythology)
+Galatia	Galatia
+Galaxie	Galaxy
+Galenus	Galen
+Galenă	Galena
+Galiţia	Galicia (Central Europe)
+Galicia	Galicia (Spain)
+Galileo (sondă spaţială)	Galileo (spacecraft)
+Galileo Galilei	Galileo Galilei
+Galeră	Galley
+Galliformes	Galliformes
+Categorie:Galliformes	Galliformes
+Galon	Gallon
+Gamal Abdel Nasser	Gamal Abdel Nasser
+Joc de noroc	Gambling
+Joc	Game
+Teoria jocului	Game theory
+Radiaţie gamma	Gamma ray
+Gange	Ganges
+Ganca	Ganja
+Gansu	Gansu
+Ganymede (satelit)	Ganymede (moon)
+Gap	Gap
+Grădină	Garden
+Eden	Garden of Eden
+Grădinărit	Gardening
+Gargui	Gargoyle
+Usturoi	Garlic
+Granat	Garnet
+Garonne	Garonne
+Benzină	Gasoline
+Galia	Gaul
+Gautama Siddhartha	Gautama Buddha
+Fâşia Gaza	Gaza Strip
+Roată dinţată	Gear
+Geb	Geb
+Gheişă	Geisha
+Piatră preţioasă	Gemstone
+Genă	Gene
+Genealogie	Genealogy
+Categorie:Genealogie	Genealogy
+General	General Officer
+Geneza	Genesis
+Cod genetic	Genetic code
+Genetică	Genetics
+Categorie:Genetică	Genetics
+Geneva	Geneva
+Cazul genitiv	Genitive case
+Genova	Genoa
+Genocid	Genocide
+Categorie:Genocid	Genocide
+Genom	Genome
+Genotip	Genotype
+Gen (biologie)	Genus
+Geodezie	Geodesy
+Categorie:Geodezie	Geodesy
+Geoffrey Chaucer	Geoffrey Chaucer
+Geografie	Geography
+Categorie:Geografie	Geography
+Portal:Geografie	Geography
+Categorie:Geologie	Geology
+Geologie	Geology
+Geometrie	Geometry
+Categorie:Geometrie	Geometry
+Geomorfologie	Geomorphology
+Categorie:Geomorfologie	Geomorphology
+Geofizică	Geophysics
+Geopolitică	Geopolitics
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+George Berkeley	George Berkeley
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+Georg Friedrich Händel	George Frideric Handel
+George Gershwin	George Gershwin
+George Harrison	George Harrison
+George Lucas	George Lucas
+George Orwell	George Orwell
+George Paget Thomson	George Paget Thomson
+George Stephenson	George Stephenson
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georges Bizet	Georges Bizet
+Georges Braque	Georges Braque
+Georgia (stat SUA)	Georgia (U.S. state)
+Categorie:Statul Georgia, SUA	Georgia (U.S. state)
+Georgia	Georgia (country)
+Categorie:Georgia	Georgia (country)
+Gerald Ford	Gerald Ford
+Ciobănesc german	German Shepherd Dog
+Limba germană	German language
+Categorie:Limba germană	German language
+Marca germană	German mark
+Germaniu	Germanium
+Germania	Germany
+Categorie:Germania	Germany
+Gestapo	Gestapo
+Ghana	Ghana
+Categorie:Ghana	Ghana
+Gent	Ghent
+Ghetou	Ghetto
+Giacomo Puccini	Giacomo Puccini
+Ailuropoda melanoleuca	Giant Panda
+Gibraltar	Gibraltar
+Ghilgameş	Gilgamesh
+Ghimbir	Ginger
+Ginkgo	Ginkgo
+Giordano Bruno	Giordano Bruno
+Giorgio Vasari	Giorgio Vasari
+Giorgio de Chirico	Giorgio de Chirico
+Giotto di Bondone	Giotto di Bondone
+Giovanni Boccaccio	Giovanni Boccaccio
+Girafă	Giraffe
+Girolamo Savonarola	Girolamo Savonarola
+Gironde	Gironde
+Giuseppe Garibaldi	Giuseppe Garibaldi
+Giuseppe Verdi	Giuseppe Verdi
+Glandă	Gland
+Glasgow	Glasgow
+Sticlă	Glass
+Planor	Glider
+Global Positioning System	Global Positioning System
+Încălzirea globală	Global warming
+Anghinare	Globe artichoke
+Gloucestershire	Gloucestershire
+Glucoză	Glucose
+Gluon	Gluon
+Glicerină	Glycerol
+Glicogen	Glycogen
+Gnathostomata	Gnathostomata
+Gnais	Gneiss
+Gnosticism	Gnosticism
+Go	Go (board game)
+Goa	Goa
+Capră	Goat
+Deşertul Gobi	Gobi Desert
+Dumnezeu	God
+Aur	Gold
+Golda Meir	Golda Meir
+Pajură	Golden Eagle
+Podul Golden Gate	Golden Gate Bridge
+Hoarda de Aur	Golden Horde
+Golden Retriever	Golden Retriever
+Aparatul Golgi	Golgi apparatus
+Gomel	Gomel
+Google	Google
+Googol	Googol
+Gorgone	Gorgon
+Evanghelie	Gospel
+Evanghelia după Luca	Gospel of Luke
+Göteborg	Gothenburg
+Arhitectură gotică	Gothic
+Arhitectură gotică	Gothic architecture
+Gottlieb Daimler	Gottlieb Daimler
+Guvern	Government
+Grace Kelly	Grace Kelly
+Gradient	Gradient
+Graffiti	Graffiti
+Graham Greene	Graham Greene
+Gramatică	Grammar
+Granada	Granada
+Grand Canyon	Grand Canyon
+Granit	Granite
+Categorie:Design grafic	Graphic design
+GUI	Graphical user interface
+Gravitaţie	Gravitation
+Graviton	Graviton
+Lup cenuşiu	Gray Wolf
+Graz	Graz
+Marea Barieră de Corali	Great Barrier Reef
+Marea Britanie	Great Britain
+Marea criză economică	Great Depression
+Marile Lacuri	Great Lakes
+Marele Zid Chinezesc	Great Wall of China
+Londra Mare	Greater London
+Grecia	Greece
+Categorie:Grecia	Greece
+Alfabetul grec	Greek alphabet
+Focul grecesc	Greek fire
+Mitologie greacă	Greek mythology
+Categorie:Mitologie greacă	Greek mythology
+Verde	Green
+Efect de seră	Greenhouse effect
+Groenlanda	Greenland
+Greenwich (burg)	Greenwich
+Gregor Mendel	Gregor Mendel
+Calendarul gregorian	Gregorian calendar
+Grenoble	Grenoble
+Greta Garbo	Greta Garbo
+Gri	Grey
+Produs intern brut	Gross domestic product
+Grup	Group
+Grup (matematică)	Group (mathematics)
+Grupele tabelului periodic	Group (periodic table)
+Grover Cleveland	Grover Cleveland
+Groznîi	Grozny
+Cocorul (constelaţie)	Grus (constellation)
+Guadalajara	Guadalajara
+Guadelupa	Guadeloupe
+Guam	Guam
+Guangdong	Guangdong
+Guangzhou	Guangzhou
+Categorie:Guatemala	Guatemala
+Ciudad de Guatemala	Guatemala City
+Guayaquil	Guayaquil
+Guernsey	Guernsey
+Guglielmo Marconi	Guglielmo Marconi
+Guillaume Apollinaire	Guillaume Apollinaire
+Ghilotină	Guillotine
+Guineea	Guinea
+Guineea-Bissau	Guinea-Bissau
+Chitară	Guitar
+Gujarat	Gujarat
+Gulag	Gulag
+Curentul Golfului	Gulf Stream
+Războiul din Golf	Gulf War
+Golful Aden	Gulf of Aden
+Golful Aqaba	Gulf of Aqaba
+Golful Finlandei	Gulf of Finland
+Golful Guineii	Gulf of Guinea
+Golful Mexic	Gulf of Mexico
+Golful Oman	Gulf of Oman
+Golful Riga	Gulf of Riga
+Complotul Prafului de Puşcă	Gunpowder Plot
+Gustav Klimt	Gustav Klimt
+Gustav Ludwig Hertz	Gustav Ludwig Hertz
+Gustav Mahler	Gustav Mahler
+Gustave Courbet	Gustave Courbet
+Gustave Flaubert	Gustave Flaubert
+Guy de Maupassant	Guy de Maupassant
+Categorie:Guyana	Guyana
+Gimnastică	Gymnastics
+Gips	Gypsum
+Giroscop	Gyroscope
+H	H
+H. G. Wells	H. G. Wells
+HIV	HIV
+HyperText Markup Language	HTML
+Habitat	Habitat
+Hades	Hades
+Hadrian (împărat)	Hadrian
+Hemofilie	Haemophilia
+Hagia Sophia	Hagia Sophia
+Haifa	Haifa
+Haiku	Haiku
+Grindină	Hail
+Haiti	Haiti
+Categorie:Haiti	Haiti
+Dezintegrare	Half-life
+Halle (Saale)	Halle
+Halucinaţie	Hallucination
+Halogen	Halogen
+Hamas	Hamas
+Hamburg	Hamburg
+Categorie:Hamburg	Hamburg
+Hamburger	Hamburger
+Hamlet	Hamlet
+Secera şi ciocanul	Hammer and sickle
+Hammurabi	Hammurabi
+Hampshire	Hampshire
+Grenadă	Hand grenade
+Grădinile suspendate ale Semiramidei	Hanging Gardens of Babylon
+Hannah Arendt	Hannah Arendt
+Hannibal	Hannibal
+Hanoi	Hanoi
+Hanovra	Hanover
+Hans Albrecht Bethe	Hans Bethe
+Hans Christian Andersen	Hans Christian Andersen
+Liga Hanseatică	Hanseatic League
+Hanuka	Hanukkah
+Harare	Harare
+Duritate	Hardness
+Harmonia	Harmony
+Harold Pinter	Harold Pinter
+Harpie	Harpy
+Harrisburg, Pennsylvania	Harrisburg
+Hartford, Connecticut	Hartford
+Normandia de Sus	Haute-Normandie
+Havana	Havana
+Hawaii (stat SUA)	Hawaii
+Categorie:Statul Hawaii, SUA	Hawaii
+Cap (anatomie)	Head
+Sănătate	Health
+Categorie:Sănătate	Health
+Inimă	Heart
+Căldură	Heat
+Rai	Heaven
+Heavy metal	Heavy metal music
+Apă grea	Heavy water
+Hebe	Hebe (mythology)
+Hebei	Hebei
+Alfabetul ebraic	Hebrew alphabet
+Calendarul ebraic	Hebrew calendar
+Hecate	Hecate
+Hectar	Hectare
+Hector	Hector
+Hector Berlioz	Hector Berlioz
+Arici	Hedgehog
+Heimdall	Heimdall
+Heinrich Hertz	Heinrich Hertz
+Heinrich Himmler	Heinrich Himmler
+Heinrich Schliemann	Heinrich Schliemann
+Elena (mitologie)	Helen
+Helena, Montana	Helena
+Elicopter	Helicopter
+Helios	Helios
+Heliu	Helium
+Iad (religie)	Hell
+Helmut Schmidt	Helmut Schmidt
+Helsinki	Helsinki
+Hematit	Hematite
+Hematologie	Hematology
+Categorie:Hematologie	Hematology
+Hemoglobină	Hemoglobin
+Antoine Henri Becquerel	Henri Becquerel
+Henri Bergson	Henri Bergson
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henry (unitate)	Henry (unit)
+Henry Cavendish	Henry Cavendish
+Henry David Thoreau	Henry David Thoreau
+Henry Fonda	Henry Fonda
+Henry Ford	Henry Ford
+Henry James	Henry James
+Henry Kissinger	Henry Kissinger
+Henry Miller	Henry Miller
+Henry Moore	Henry Moore
+Henry Purcell	Henry Purcell
+Hefaistos	Hephaestus
+Hera	Hera
+Heracle	Heracles
+Heraclit	Heraclitus
+Heraldică	Heraldry
+Categorie:Heraldică	Heraldry
+Herat	Herat
+Herbert Hoover	Herbert Hoover
+Herbert Marcuse	Herbert Marcuse
+Herbert Spencer	Herbert Spencer
+Heracles	Hercules
+Hercule (constelaţie)	Hercules (constellation)
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermann Minkowski	Hermann Minkowski
+Hermann von Helmholtz	Hermann von Helmholtz
+Hermafrodit	Hermaphrodite
+Hermeneutică	Hermeneutics
+Hermes	Hermes
+Heron din Alexandria	Hero of Alexandria
+Irod cel Mare	Herod the Great
+Herodot	Herodotus
+Heroină	Heroin
+Hertfordshire	Hertfordshire
+Hertz	Hertz
+Hesiod	Hesiod
+Hessa	Hesse
+Categorie:Hessa	Hesse
+Hestia	Hestia
+Heterosexualitate	Heterosexuality
+Heterotrof	Heterotroph
+Sistem hexazecimal	Hexadecimal
+Hexagon	Hexagon
+Hideki Yukawa	Hideki Yukawa
+Hieronymus Bosch	Hieronymus Bosch
+Spaţiu Hilbert	Hilbert space
+Himalaya	Himalayas
+Hindukuş	Hindu Kush
+Hinduism	Hinduism
+Categorie:Hinduism	Hinduism
+Hiparh	Hipparchus
+Hippocrate	Hippocrates
+Jurământul lui Hippocrate	Hippocratic Oath
+Hirohito	Hirohito
+Hiroşima	Hiroshima
+Hispaniola	Hispaniola
+Histologie	Histology
+Categorie:Histologie	Histology
+Istoriografie	Historiography
+Istorie	History
+Categorie:Istorie	History
+Portal:Istorie	History
+Ho Şi Min	Ho Chi Minh
+Ho Şi Min (oraş)	Ho Chi Minh City
+Hobart	Hobart
+Hobby	Hobby
+Hollywood	Hollywood
+Holocen	Holocene
+Holografie	Holography
+Graal	Holy Grail
+Sfântul Imperiu Roman	Holy Roman Empire
+Categorie:Sfântul Imperiu Roman	Holy Roman Empire
+Duhul Sfânt	Holy Spirit
+Homeopatie	Homeopathy
+Homeostazie	Homeostasis
+Homer	Homer
+Homo erectus	Homo erectus
+Homo habilis	Homo habilis
+Homofobie	Homophobia
+Homosexualitate	Homosexuality
+Honduras	Honduras
+Categorie:Honduras	Honduras
+Miere	Honey
+Hong Kong	Hong Kong
+Honiara	Honiara
+Honolulu, Hawaii	Honolulu
+Quintus Horatius Flaccus	Horace
+Horatio Nelson	Horatio Nelson
+Horizonte	Horizon
+Hormon	Hormone
+Cal	Horse
+Horus	Horus
+Hosni Mubarak	Hosni Mubarak
+Oră	Hour
+Clepsidră	Hourglass
+Houston, Texas	Houston
+Howard Carter (arheolog)	Howard Carter (archaeologist)
+Hugo Capet	Hugh Capet
+Hughenot	Huguenot
+Om	Human
+Umanism	Humanism
+Categorie:Ştiinţe umane	Humanities
+Umiditate	Humidity
+Categorie:Umor	Humor
+Umor	Humour
+Humphrey Bogart	Humphrey Bogart
+Humus	Humus
+Hunan	Hunan
+Războiul de 100 de Ani	Hundred Years' War
+Ungaria	Hungary
+Categorie:Ungaria	Hungary
+Vânătoare	Hunting
+Hyderabad, India	Hyderabad
+Hidra (constelaţie)	Hydra (constellation)
+Hidrocarbură	Hydrocarbon
+Energie hidraulică	Hydroelectricity
+Hidrogen	Hydrogen
+Acid cianhidric	Hydrogen cyanide
+Hidrologie	Hydrology
+Categorie:Hidrologie	Hydrology
+Reacţia de hidroliză	Hydrolysis
+Hidrosferă	Hydrosphere
+Hidra Australă (constelaţie)	Hydrus
+Hyaenidae	Hyena
+Categorie:Igienă	Hygiene
+Categorie:Hymenoptera	Hymenoptera
+Hymenoptera	Hymenoptera
+Hiperbolă	Hyperbola
+Hiperbolă (figură de stil)	Hyperbole
+Hyperion (satelit)	Hyperion (moon)
+Hipertext	Hypertext
+HTTP	Hypertext Transfer Protocol
+Hypnos	Hypnos
+Hipnoză	Hypnosis
+Hipotalamus	Hypothalamus
+Ipoteză	Hypothesis
+I	I
+Ieoh Ming Pei	I. M. Pei
+IPod	IPod
+Ian Fleming	Ian Fleming
+Iapetus (satelit)	Iapetus (moon)
+Iapetus	Iapetus (mythology)
+Peninsula iberică	Iberian Peninsula
+Ibuprofen	Ibuprofen
+Gheaţă	Ice
+Hochei pe gheaţă	Ice hockey
+Aisberg	Iceberg
+Islanda	Iceland
+Categorie:Islanda	Iceland
+Ihtiologie	Ichthyology
+Icoana	Icon
+Iconoclasm	Iconoclasm
+Idaho (stat SUA)	Idaho
+Categorie:Statul Idaho, SUA	Idaho
+Idealism	Idealism
+Ideologie	Ideology
+Ido	Ido
+Ignaţiu de Loyola	Ignatius of Loyola
+Igor Stravinski	Igor Stravinsky
+Iliada	Iliad
+Illinois (stat SUA)	Illinois
+Categorie:Statul Illinois, SUA	Illinois
+Iliria	Illyria
+Immanuel Kant	Immanuel Kant
+Sistemul imunitar	Immune system
+Imunologie	Immunology
+Imperialism	Imperialism
+Impresionism	Impressionism
+Incest	Incest
+Ţol	Inch
+India	India
+Categorie:India	India
+Oceanul Indian	Indian Ocean
+Categorie:Oceanul Indian	Indian Ocean
+Indiana (stat SUA)	Indiana
+Categorie:Statul Indiana, SUA	Indiana
+Indianapolis, Indiana	Indianapolis
+Indira Gandhi	Indira Gandhi
+Indiu	Indium
+Indonezia	Indonesia
+Categorie:Indonezia	Indonesia
+Indra	Indra
+Bobină	Inductor
+Indulgenţă (creştinism)	Indulgence
+Indianul (constelaţie)	Indus (constellation)
+Revoluţia industrială	Industrial Revolution
+Industrie	Industry
+Categorie:Industrie	Industry
+Inegalitate	Inequality
+Inerţie (fizică)	Inertia
+Infanterie	Infantry
+Boală infecţioasă	Infectious disease
+Infinit	Infinity
+Inflaţie	Inflation
+Informaţie	Information
+Tehnologia informaţiei	Information technology
+Infraroşu	Infrared
+Ingmar Bergman	Ingmar Bergman
+Ingrid Bergman	Ingrid Bergman
+Mongolia Interioară	Inner Mongolia
+Innsbruck	Innsbruck
+Chimie anorganică	Inorganic chemistry
+Categorie:Chimie anorganică	Inorganic chemistry
+Inchiziţie	Inquisition
+Insectă	Insect
+Insectivore	Insectivora
+Instituţie	Institution
+Insulină	Insulin
+Asigurare	Insurance
+Număr întreg	Integer
+Integrală	Integral
+Circuit integrat	Integrated circuit
+Proprietate intelectuală	Intellectual property
+Inteligenţă	Intelligence
+Coeficient de inteligenţă	Intelligence quotient
+Rachetă balistică intercontinentală	Intercontinental ballistic missile
+Interferenţă	Interference
+Interlingua	Interlingua
+International Civil Aviation Organization	International Civil Aviation Organization
+Fondul Monetar Internaţional	International Monetary Fund
+Sistemul internaţional de unităţi	International System of Units
+Categorie:Drept internaţional	International law
+Internet	Internet
+Categorie:Internet	Internet
+Internet Explorer	Internet Explorer
+Lagăr de concentrare	Internment
+Interpretor	Interpreter (computing)
+Io (satelit)	Io (moon)
+Io (mitologie)	Io (mythology)
+Iod	Iodine
+Ion	Ion
+Marea Ionică	Ionian Sea
+Iowa (stat SUA)	Iowa
+Categorie:Statul Iowa, SUA	Iowa
+Iran	Iran
+Categorie:Iran	Iran
+Războiul Iran-Irak	Iran-Iraq War
+Irak	Iraq
+Categorie:Irak	Iraq
+Irlanda (insulă)	Ireland
+Categorie:Irlanda	Ireland
+Iridiu	Iridium
+Iris	Iris (mythology)
+Marea Irlandei	Irish Sea
+Categorie:Irlandezi	Irish people
+Fier	Iron
+Epoca Fierului	Iron Age
+Cortina de fier	Iron Curtain
+Iron Maiden	Iron Maiden
+Număr iraţional	Irrational number
+Irtiş	Irtysh River
+Isac (personaj biblic)	Isaac
+Isaac Asimov	Isaac Asimov
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isadora Duncan	Isadora Duncan
+Ismael	Ishmael
+Isis	Isis
+Islam	Islam
+Categorie:Islam	Islam
+Islamabad	Islamabad
+Insulă	Island
+Insula Man	Isle of Man
+Isle of Wight	Isle of Wight
+Izotop	Isotope
+Israel	Israel
+Categorie:Israel	Israel
+Istanbul	Istanbul
+Istm	Isthmus
+Istmul Panama	Isthmus of Panama
+Peninsula Italică	Italian Peninsula
+Italo Calvino	Italo Calvino
+Italia	Italy
+Categorie:Italia	Italy
+Itaca	Ithaca
+Ivan Lendl	Ivan Lendl
+Ivan Pavlov	Ivan Pavlov
+Ivan Turgheniev	Ivan Turgenev
+J	J
+Jerome David Salinger	J. D. Salinger
+Jack Kerouac	Jack Kerouac
+Jack Lemmon	Jack Lemmon
+Jack London	Jack London
+Jackson, Mississippi	Jackson
+Jackson Pollock	Jackson Pollock
+Jacksonville, Florida	Jacksonville
+Iacob (personaj biblic)	Jacob
+Jacques Cartier	Jacques Cartier
+Jacques Derrida	Jacques Derrida
+Jacques Offenbach	Jacques Offenbach
+Jaguar	Jaguar
+Jainism	Jainism
+Jakarta	Jakarta
+Dschalalabad	Jalalabad
+Jamaica	Jamaica
+Categorie:Jamaica	Jamaica
+Iacov cel Mare (apostol)	James
+James Abram Garfield	James A. Garfield
+James Bond	James Bond
+James Buchanan	James Buchanan
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Franck	James Franck
+James Joyce	James Joyce
+James Knox Polk	James K. Polk
+James Madison	James Madison
+James Monroe	James Monroe
+James Naismith	James Naismith
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+Jan Hus	Jan Hus
+Jan van Eyck	Jan van Eyck
+Jane Austen	Jane Austen
+Jane Fonda	Jane Fonda
+Jane Seymour	Jane Seymour
+Janis Joplin	Janis Joplin
+Ienicer	Janissary
+Ianuarie	January
+1 ianuarie	January 1
+19 ianuarie	January 19
+20 ianuarie	January 20
+6 ianuarie	January 6
+Ianus (zeu)	Janus (mythology)
+Japonia	Japan
+Categorie:Japonia	Japan
+Iason	Jason
+Java (dezambiguizare)	Java (disambiguation)
+Java (limbaj de programare)	Java (programming language)
+Jawaharlal Nehru	Jawaharlal Nehru
+Jazz	Jazz
+Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres
+Jean Piaget	Jean Piaget
+Jean Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jean-Philippe Rameau	Jean-Philippe Rameau
+Jeddah	Jeddah
+Jefferson City, Missouri	Jefferson City
+YHWH	Jehovah
+Organizaţia Religioasă Martorii lui Iehova	Jehovah's Witnesses
+Jena	Jena
+Jeremy Bentham	Jeremy Bentham
+Jerez de la Frontera	Jerez de la Frontera
+Ierihon	Jericho
+Ieronim	Jerome
+Insula Jersey	Jersey
+Ierusalim	Jerusalem
+Iisus din Nazaret	Jesus
+Motor cu reacţie	Jet engine
+Evrei	Jew
+Jihad	Jihad
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Ioana d'Arc	Joan of Arc
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Diderik van der Waals	Johannes Diderik van der Waals
+Johann Gutenberg	Johannes Gutenberg
+Johannes Kepler	Johannes Kepler
+Johannes Vilhelm Jensen	Johannes Vilhelm Jensen
+Johannesburg	Johannesburg
+John Adams	John Adams
+John Bardeen	John Bardeen
+Jean Calvin	John Calvin
+Ioan Chrysostom	John Chrysostom
+John Dalton	John Dalton
+John Galsworthy	John Galsworthy
+John Herschel	John Herschel
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Major	John Major
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John Napier	John Napier
+John Quincy Adams	John Quincy Adams
+John Ruskin	John Ruskin
+John Steinbeck	John Steinbeck
+John Stuart Mill	John Stuart Mill
+John Tyler	John Tyler
+John Wayne	John Wayne
+John Wycliff	John Wycliffe
+John von Neumann	John von Neumann
+Johnny Cash	Johnny Cash
+Jonathan Swift	Jonathan Swift
+Iordania	Jordan
+Categorie:Iordania	Jordan
+Râul Iordan	Jordan River
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Goebbels	Joseph Goebbels
+Joseph Haydn	Joseph Haydn
+Joseph Schumpeter	Joseph Schumpeter
+Joseph Smith, Jr.	Joseph Smith
+Iosif Vissarionovici Stalin	Joseph Stalin
+Joule	Joule
+Categorie:Jurnalism	Journalism
+Jurnalism	Journalism
+Jurnalist	Journalist
+Iovian	Jovian
+Joystick	Joystick
+Iudaism	Judaism
+Categorie:Iudaism	Judaism
+Iuda Iscarioteanul	Judas Iscariot
+Judo	Judo
+Jujutsu	Jujutsu
+Jules Verne	Jules Verne
+Calendarul iulian	Julian calendar
+Iulian Apostatul	Julian the Apostate
+Iulius Cezar	Julius Caesar
+Iulie	July
+1 iulie	July 1
+4 iulie	July 4
+Iunie	June
+14 iunie	June 14
+21 iunie	June 21
+23 iunie	June 23
+24 iunie	June 24
+29 iunie	June 29
+3 iunie	June 3
+Juneau, Alaska	Juneau
+Ienupăr	Juniper
+Iuno (mitologie)	Juno (mythology)
+Jupiter (planetă)	Jupiter
+Categorie:Jupiter	Jupiter
+Jupiter (dezambiguizare)	Jupiter (disambiguation)
+Jupiter (zeu)	Jupiter (mythology)
+Jurasic	Jurassic
+Iustinian I cel Mare	Justinian I
+Iutlanda	Jutland
+K	K
+K2	K2
+KGB	KGB
+Cabala	Kabbalah
+Kabul	Kabul
+Deşertul Kalahari	Kalahari Desert
+Kampala	Kampala
+Kandahar	Kandahar
+Cangur	Kangaroo
+Kansas (stat SUA)	Kansas
+Categorie:Statul Kansas, SUA	Kansas
+Kansas City, Missouri	Kansas City
+Marea Kara	Kara Sea
+Karachi	Karachi
+Karakorum	Karakoram
+Karate-dō	Karate
+Karl Barth	Karl Barth
+Karl Jaspers	Karl Jaspers
+Karl Marx	Karl Marx
+Karl Popper	Karl Popper
+Karma	Karma
+Karnataka	Karnataka
+Katharine Hepburn	Katharine Hepburn
+Kathmandu	Kathmandu
+Katowice	Katowice
+Kaunas	Kaunas
+Kazahstan	Kazakhstan
+Categorie:Kazahstan	Kazakhstan
+Kazan	Kazan
+Kazimir Malevici	Kazimir Malevich
+Kelvin	Kelvin
+Kent	Kent
+Kentucky (stat SUA)	Kentucky
+Categorie:Statul Kentucky, SUA	Kentucky
+Kenya	Kenya
+Categorie:Kenya	Kenya
+Nucleu (sistem de operare)	Kernel (computer science)
+Cetonă	Ketone
+Tastatură	Keyboard (computing)
+Habarovsk	Khabarovsk
+Harkiv	Kharkiv
+Khartoum	Khartoum
+Khufu	Khufu
+Kibuţ	Kibbutz
+Rinichi	Kidney
+Kiev	Kiev
+Kigali	Kigali
+Kilogram	Kilogram
+Kilometru	Kilometre
+Kilometru pe oră	Kilometres per hour
+Kimono	Kimono
+Energie cinetică	Kinetic energy
+Rege (şah)	King (chess)
+Regele Artur	King Arthur
+Regele Lear	King Lear
+Regn	Kingdom (biology)
+Kinshasa	Kinshasa
+Kiribati	Kiribati
+Categorie:Kiribati	Kiribati
+Kirkuk	Kirkuk
+Knesset	Knesset
+Cal (şah)	Knight (chess)
+Cnossos	Knossos
+Nod (unitate de măsură)	Knot (speed)
+Knut Hamsun	Knut Hamsun
+Koala	Koala
+Kobe, Hyogo	Kobe
+Calcutta	Kolkata
+Konqueror	Konqueror
+Konrad Adenauer	Konrad Adenauer
+Coreea	Korea
+Categorie:Coreea	Korea
+Kosovo	Kosovo
+Krakatau	Krakatoa
+Kremlin (citadelă)	Kremlin
+Krishna	Krishna
+Kripton	Krypton
+Ku Klux Klan	Ku Klux Klan
+Kuala Lumpur	Kuala Lumpur
+Kublai	Kublai Khan
+Centura Kuiper	Kuiper belt
+Kuomintang	Kuomintang
+Kurdistan	Kurdistan
+Kursk	Kursk
+Kurt Vonnegut	Kurt Vonnegut
+Kurt Waldheim	Kurt Waldheim
+Kuweit	Kuwait
+Categorie:Kuweit	Kuwait
+Kuweit (oraş)	Kuwait City
+KwaZulu-Natal	KwaZulu-Natal
+Kyoto	Kyoto
+Kârgâzstan	Kyrgyzstan
+Categorie:Kârgâzstan	Kyrgyzstan
+L	L
+L'Aquila	L'Aquila
+La Paz	La Paz
+La Plata	La Plata
+La Spezia	La Spezia
+LaTeX	LaTeX
+Partidul Laburist (Regatul Unit)	Labour Party (UK)
+Labrador Retriever	Labrador Retriever
+Şopârla (constelaţie)	Lacerta
+Acid lactic	Lactic acid
+Lady Jane Grey	Lady Jane Grey
+Lagomorfe	Lagomorpha
+Lagos	Lagos
+Lahore	Lahore
+Lac	Lake
+Lacul Baikal	Lake Baikal
+Lacul Balaton	Lake Balaton
+Lacul Constanţa	Lake Constance
+Lacul Erie	Lake Erie
+Lacul Geneva	Lake Geneva
+Lacul Huron	Lake Huron
+Lacul Ilmen	Lake Ilmen
+Lacul Ladoga	Lake Ladoga
+Lacul Nyasa	Lake Malawi
+Lacul Michigan	Lake Michigan
+Lacul Onega	Lake Onega
+Lacul Ontario	Lake Ontario
+Lacul Superior	Lake Superior
+Lacul Tanganyika	Lake Tanganyika
+Lacul Victoria	Lake Victoria
+Lakshmi	Lakshmi
+Lamiaceae	Lamiaceae
+Lancashire	Lancashire
+Limbă	Language
+Languedoc-Roussillon	Languedoc-Roussillon
+Lansing, Michigan	Lansing
+Lantanide	Lanthanide
+Lantan	Lanthanum
+Laos	Laos
+Categorie:Laos	Laos
+Marea Laptev	Laptev Sea
+Larix	Larch
+Larvă	Larva
+Laringe	Larynx
+Las Vegas, Nevada	Las Vegas
+Laser	Laser
+Limba latină	Latin
+America Latină	Latin America
+Alfabetul latin	Latin alphabet
+Latitudine	Latitude
+Letonia	Latvia
+Categorie:Letonia	Latvia
+Laurasia	Laurasia
+Lausanne	Lausanne
+Lavă	Lava
+Drept	Law
+Categorie:Drept	Law
+Lawrenciu	Lawrencium
+Avocat	Lawyer
+Lazio	Lazio
+Le Corbusier	Le Corbusier
+Le Havre	Le Havre
+Plumb	Lead
+Frunză	Leaf
+Liga Naţiunilor	League of Nations
+Turnul din Pisa	Leaning Tower of Pisa
+An bisect	Leap year
+Liban	Lebanon
+Categorie:Liban	Lebanon
+Leda	Leda (mythology)
+Leeds	Leeds
+Leicester	Leicester
+Leiden	Leiden
+Leipzig	Leipzig
+Lămâie	Lemon
+Roiniţă	Lemon balm
+Lena	Lena River
+Lungime	Length
+Păresimi	Lent
+Linte (plantă)	Lentil
+Leul (constelaţie)	Leo (constellation)
+Leon I (împărat)	Leo I (emperor)
+Lev Davidovici Troţki	Leon Trotsky
+Leonard Bernstein	Leonard Bernstein
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Leonid Brejnev	Leonid Brezhnev
+Lepră	Leprosy
+Lepton	Lepton
+Iepurele (constelaţie)	Lepus (constellation)
+Lesbiană	Lesbian
+Lesotho	Lesotho
+Categorie:Lesotho	Lesotho
+Leto	Leto
+Levant	Levant
+Lewis Carroll	Lewis Carroll
+Lhotse	Lhotse
+Liberalism	Liberalism
+Liberia	Liberia
+Balanţa (constelaţie)	Libra (constellation)
+Bibliotecă	Library
+Bibliologie şi ştiinţa informării	Library science
+Libreville	Libreville
+Libia	Libya
+Minciună	Lie
+Liechtenstein	Liechtenstein
+Categorie:Liechtenstein	Liechtenstein
+Viaţă	Life
+Categorie:Viaţă	Life
+Lumină	Light
+LED	Light-emitting diode
+An-lumină	Light-year
+Far	Lighthouse
+Trăsnet	Lightning
+Liguria	Liguria
+Liliaceae	Liliaceae
+Lille	Lille
+Lima	Lima
+Limerick	Limerick
+Limită (matematică)	Limit (mathematics)
+Limnologie	Limnology
+Limousin	Limousin (region)
+Lincoln, Nebraska	Lincoln
+Lincoln (dezambiguizare)	Lincoln
+Lincolnshire	Lincolnshire
+Dreaptă (matematică)	Line (mathematics)
+Algebră liniară	Linear algebra
+Categorie:Algebră liniară	Linear algebra
+Lingua franca	Lingua franca
+Lingvistică	Linguistics
+Categorie:Lingvistică	Linguistics
+Linux	Linux
+Categorie:Linux	Linux
+Linz	Linz
+Leu	Lion
+Lipide	Lipid
+Lemn dulce	Liquorice
+Lisabona	Lisbon
+Lise Meitner	Lise Meitner
+LISP	Lisp (programming language)
+Literatură	Literature
+Categorie:Literatură	Literature
+Portal:Literatură	Literature
+Litiu	Lithium
+Litosferă	Lithosphere
+Lituania	Lithuania
+Categorie:Lituania	Lithuania
+Litru	Litre
+Cucuvea	Little Owl
+Liverpool	Liverpool
+Titus Livius	Livy
+Şopârlă	Lizard
+Ljubljana	Ljubljana
+Local Area Network	Local area network
+Loch Ness	Loch Ness
+Monstrul din Loch Ness	Loch Ness Monster
+Locomotivă	Locomotive
+Logaritm	Logarithm
+Logică	Logic
+Categorie:Logică	Logic
+Poartă logică	Logic gate
+Loire	Loire
+Loara	Loire River
+Loki	Loki
+Lolita	Lolita
+Lombardia	Lombardy
+Londra	London
+Categorie:Londra	London
+Long Beach, California	Long Beach
+Long Island	Long Island
+Săritura în lungime	Long jump
+Lope de Vega	Lope de Vega
+Rugăciunea Domnească	Lord's Prayer
+Lorena	Lorraine (region)
+Los Angeles, California	Los Angeles
+Lot (departament)	Lot (department)
+Difuzor	Loudspeaker
+Louis Aragon	Louis Aragon
+Louis Armstrong	Louis Armstrong
+Louis Pasteur	Louis Pasteur
+Ludovic cel Pios	Louis the Pious
+Ludovic al II-lea al Franţei	Louis the Stammerer
+Louisiana (stat SUA)	Louisiana
+Categorie:Statul Louisiana, SUA	Louisiana
+Louisville, Kentucky	Louisville
+Muzeul Louvre	Louvre
+Dragoste	Love
+Germana de jos	Low German
+Saxonia Inferioară	Lower Saxony
+Luanda	Luanda
+Lublin	Lublin
+Lucerna	Lucerne
+Luciano Pavarotti	Luciano Pavarotti
+Lucifer	Lucifer
+Titus Lucretius Carus	Lucretius
+Ludwig Boltzmann	Ludwig Boltzmann
+Ludwig Mies van der Rohe	Ludwig Mies van der Rohe
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Luftwaffe	Luftwaffe
+Luigi Galvani	Luigi Galvani
+Luigi Pirandello	Luigi Pirandello
+Luminescenţă	Luminescence
+Eclipsă de Lună	Lunar eclipse
+Lund	Lund
+Pulmon	Lung
+Lupul (constelaţie)	Lupus (constellation)
+Lusaka	Lusaka
+Luteranism	Lutheranism
+Luxemburg	Luxembourg
+Categorie:Luxemburg	Luxembourg
+Luxemburg (oraş)	Luxembourg (city)
+Luxor, Egipt	Luxor
+Linxul (constelaţie)	Lynx (constellation)
+Lynx	Lynx (web browser)
+Lyon	Lyon
+Lira (constelaţie)	Lyra
+Acid lisergic dietilamid	Lysergic acid diethylamide
+Lizozom	Lysosome
+M	M
+Teoria M	M-theory
+MS-DOS	MS-DOS
+Macao	Macau
+Macbeth	Macbeth
+Macedonia Antică	Macedon
+Mitralieră	Machine gun
+Traducere automată	Machine translation
+Machu Picchu	Machu Picchu
+Macintosh	Macintosh
+Macroeconomie	Macroeconomics
+Categorie:Macroeconomie	Macroeconomics
+Madagascar	Madagascar
+Categorie:Madagascar	Madagascar
+Madeira	Madeira
+Madison, Wisconsin	Madison
+Madonna	Madonna (entertainer)
+Madrid	Madrid
+Madrid (comunitate autonomă)	Madrid (autonomous community)
+Mafia (organizaţie)	Mafia
+Magenta	Magenta
+Maghreb	Maghreb
+Pătrat magic	Magic square
+Magmă	Magma
+Magna Charta Libertatum	Magna Carta
+Magneziu	Magnesium
+Câmp magnetic	Magnetic field
+Magnetism	Magnetism
+Categorie:Magnetism	Magnetism
+Magnetit	Magnetite
+Maharashtra	Maharashtra
+Mahatma Gandhi	Mahatma Gandhi
+Mahayana	Mahayana
+Poştă	Mail
+Moise Maimonide	Maimonides
+Main	Main
+Format:Articol principal	Main
+Maine (stat SUA)	Maine
+Categorie:Statul Maine, SUA	Maine
+Mainframe	Mainframe computer
+Porumb	Maize
+Maior (grad)	Major
+Makalu	Makalu
+Malachit	Malachite
+Malarie	Malaria
+Categorie:Malawi	Malawi
+Malaezia	Malaysia
+Categorie:Malaezia	Malaysia
+Maldive	Maldives
+Categorie:Maldive	Maldives
+Mali	Mali
+Categorie:Mali	Mali
+Malta	Malta
+Categorie:Malta	Malta
+Limba malteză	Maltese language
+Malvaceae	Malvaceae
+Mamifer	Mammal
+Mamut	Mammoth
+Management	Management
+Managua	Managua
+Manama	Manama
+Lamantin	Manatee
+Manchester	Manchester
+Manciuria	Manchuria
+Limba mandarină	Mandarin (linguistics)
+Mandarin	Mandarin orange
+Mulţimea lui Mandelbrot	Mandelbrot set
+Mangan	Manganese
+Mango	Mango
+Mangrove	Mangrove
+Manhattan	Manhattan
+Proiectul Manhattan	Manhattan Project
+Maniheism	Manichaeism
+Manila	Manila
+Manipur	Manipur
+Manitoba	Manitoba
+Manierism	Mannerism
+Mannheim	Mannheim
+Mantova	Mantua
+Manuscris	Manuscript
+Mao Zedong	Mao Zedong
+Maoism	Maoism
+Hartă	Map
+Acer	Maple
+Maputo	Maputo
+Marmură	Marble
+Marc Chagall	Marc Chagall
+Marcel Duchamp	Marcel Duchamp
+Marcel Marceau	Marcel Marceau
+Marcel Proust	Marcel Proust
+Martie	March
+17 martie	March 17
+19 martie	March 19
+2 martie	March 2
+25 martie	March 25
+Marche	Marche
+Marco Polo	Marco Polo
+Marc Aureliu	Marcus Aurelius
+Marcus Vipsanius Agrippa	Marcus Vipsanius Agrippa
+Marduk	Marduk
+Margaret Mead	Margaret Mead
+Margaret Mitchell	Margaret Mitchell
+Margaret Thatcher	Margaret Thatcher
+Maria Callas	Maria Callas
+Insulele Mariane	Mariana Islands
+Maria Antoaneta	Marie Antoinette
+Marie Curie	Marie Curie
+Mariehamn	Mariehamn
+Marilyn Monroe	Marilyn Monroe
+Mario Vargas Llosa	Mario Vargas Llosa
+Marc Antoniu	Mark Antony
+Mark Twain	Mark Twain
+Marketing	Marketing
+Categorie:Marketing	Marketing
+Limbaj de marcare	Markup language
+Marlene Dietrich	Marlene Dietrich
+Marchizul de Sade	Marquis de Sade
+Marrakech	Marrakech
+Marte	Mars (disambiguation)
+Marte (zeu)	Mars (mythology)
+Marsilia	Marseille
+Insulele Marshall	Marshall Islands
+Planul Marshall	Marshall Plan
+Marsupiale	Marsupial
+Martin Heidegger	Martin Heidegger
+Martin Luther	Martin Luther
+Martin Luther King	Martin Luther King
+Martin Scorsese	Martin Scorsese
+Martin Van Buren	Martin Van Buren
+Martinica	Martinique
+Martir	Martyr
+Fraţii Marx	Marx Brothers
+Marxism	Marxism
+Maria din Nazaret	Mary (mother of Jesus)
+Maria Magdalena	Mary Magdalene
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Maryland (stat SUA)	Maryland
+Categorie:Statul Maryland, SUA	Maryland
+Mashhad	Mashhad
+Masă	Mass
+Massachusetts (stat SUA)	Massachusetts
+Categorie:Statul Massachusetts, SUA	Massachusetts
+Massachusetts Institute of Technology	Massachusetts Institute of Technology
+Masturbare	Masturbation
+Mata Hari	Mata Hari
+Chibrit	Match
+Materialism	Materialism
+Matematică	Mathematics
+Categorie:Matematică	Mathematics
+Portal:Matematică	Mathematics
+Matrice (matematică)	Matrix (mathematics)
+Materie	Matter
+Matterhorn	Matterhorn
+Mauna Kea	Mauna Kea
+Maurice Ravel	Maurice Ravel
+Mauritania	Mauritania
+Mauritius	Mauritius
+Categorie:Mauritius	Mauritius
+Max Born	Max Born
+Max Ernst	Max Ernst
+Max Planck	Max Planck
+Max Weber	Max Weber
+Maximian	Maximian
+Ecuaţiile lui Maxwell	Maxwell's equations
+Mai	May
+1 mai	May 1
+24 mai	May 24
+Mayenne	Mayenne
+McCarthism	McCarthyism
+Rujeolă	Measles
+Măsură (matematică)	Measure (mathematics)
+Carne	Meat
+Mecca	Mecca
+Categorie:Inginerie mecanică	Mechanical engineering
+Categorie:Mecanică	Mechanics
+Medeea	Medea
+Familia Medici	Medici
+Medicină	Medicine
+Categorie:Medicină	Medicine
+Meditaţie	Meditation
+Marea Mediterană	Mediterranean Sea
+Medusa	Medusa
+Suricată	Meerkat
+Meioză	Meiosis
+Meister Eckhart	Meister Eckhart
+Mekong	Mekong
+Mel Gibson	Mel Gibson
+Melanezia	Melanesia
+Melodie	Melody
+Melpomene	Melpomene
+Punct de topire	Melting point
+Memorie	Memory
+Memphis, Tennessee	Memphis
+Memphis, Egipt	Memphis
+Menahem Begin	Menachem Begin
+Menelau	Menelaus
+Meningită	Meningitis
+Platoul (constelaţie)	Mensa (constellation)
+Boală mentală	Mental disorder
+Mentă	Mentha
+Mercantilism	Mercantilism
+Mercur (dezambiguizare)	Mercury
+Mercur	Mercury (element)
+Mercur (zeu)	Mercury (mythology)
+Mercur (planetă)	Mercury (planet)
+Meridiano	Meridian (geography)
+Meritocraţie	Meritocracy
+Dinastia Merovingiană	Merovingian
+Meryl Streep	Meryl Streep
+Mezon	Meson
+Mesopotamia	Mesopotamia
+Categorie:Mesopotamia	Mesopotamia
+Mezozoic	Mesozoic
+ARN mesager	Messenger RNA
+Messina	Messina
+Metabolism	Metabolism
+Metadata	Metadata
+Metal	Metal
+Metaloid	Metalloid
+Metalurgie (industrie)	Metallurgy
+Categorie:Metalurgie	Metallurgy
+Roci metamorfice	Metamorphic rock
+Metaforă	Metaphor
+Metafizică	Metaphysics
+Categorie:Metafizică	Metaphysics
+Meteorit	Meteorite
+Categorie:Meteorologie	Meteorology
+Meteorologie	Meteorology
+Metru	Metre
+Spaţiu metric	Metric space
+Meuse (departament)	Meuse
+Meuse	Meuse River
+Mexic	Mexico
+Categorie:Mexic	Mexico
+Ciudad de México	Mexico City
+Miami	Miami
+Mică	Mica
+Arhanghelul Mihail	Michael (archangel)
+Michael Faraday	Michael Faraday
+Michel Ney	Michel Ney
+Michelangelo Buonarroti	Michelangelo
+Michigan (stat SUA)	Michigan
+Categorie:Statul Michigan, SUA	Michigan
+Mick Jagger	Mick Jagger
+Mickey Mouse	Mickey Mouse
+Microbiologie	Microbiology
+Categorie:Microbiologie	Microbiology
+Microeconomie	Microeconomics
+Categorie:Microeconomie	Microeconomics
+Micronezia	Micronesia
+Microorganism	Microorganism
+Microfon	Microphone
+Microprocesor	Microprocessor
+Microscop	Microscope
+Microscopul (constelaţie)	Microscopium
+Microunde	Microwave
+Evul Mediu	Middle Ages
+Categorie:Evul Mediu	Middle Ages
+Orientul Mijlociu	Middle East
+Categorie:Orientul Mijlociu	Middle East
+Miguel de Cervantes	Miguel de Cervantes
+Mihail Bakunin	Mikhail Bakunin
+Mihail Glinka	Mikhail Glinka
+Mihail Sergheevici Gorbaciov	Mikhail Gorbachev
+Milano	Milan
+Milă	Mile
+Miles Davis	Miles Davis
+Lapte	Milk
+Calea Lactee	Milky Way
+Millard Fillmore	Millard Fillmore
+Milenii	Millennium
+Milipede	Millipede
+Milton Friedman	Milton Friedman
+Milwaukee, Wisconsin	Milwaukee
+Mineral	Mineral
+Mineralogie	Mineralogy
+Categorie:Mineralogie	Mineralogy
+Minerva	Minerva
+Dinastia Ming	Ming Dynasty
+Minimalism	Minimalism
+Minerit	Mining
+Minneapolis, Minnesota	Minneapolis
+Minnesota (stat SUA)	Minnesota
+Categorie:Statul Minnesota, SUA	Minnesota
+Minotaur	Minotaur
+Minsk	Minsk
+Minut	Minute
+Miocen	Miocene
+Miracol	Miracle
+Oglindă	Mirror
+Mişna	Mishnah
+Categorie:Statul Mississippi, SUA	Mississippi
+Fluviul Mississippi	Mississippi River
+Missouri (stat SUA)	Missouri
+Categorie:Statul Missouri, SUA	Missouri
+Mitocondrie	Mitochondrion
+Mnemosyne	Mnemosyne
+Telefon mobil	Mobile phone
+Modem	Modem
+Modernism	Modernism
+Modest Petrovici Musorgski	Modest Mussorgsky
+Modulaţie	Modulation
+Mogadishu	Mogadishu
+Ursitoare (Moirae)	Moirae
+Mucegai	Mold
+Republica Moldova	Moldova
+Categorie:Republica Moldova	Moldova
+Mol	Mole (unit)
+Categorie:Biologie moleculară	Molecular biology
+Moleculă	Molecule
+Molise	Molise
+Moluscă	Mollusca
+Cocteil Molotov	Molotov cocktail
+Molibden	Molybdenum
+Mombasa	Mombasa
+Monaco	Monaco
+Categorie:Monaco	Monaco
+Monarhie	Monarchy
+Categorie:Monarhii	Monarchy
+Luni	Monday
+Ban (monedă)	Money
+Mongolia	Mongolia
+Categorie:Mongolia	Mongolia
+Herpestidae	Mongoose
+Monica Seleş	Monica Seles
+Monism	Monism
+Monopol	Monopoly
+Monopoly	Monopoly (game)
+Monoteism	Monotheism
+Monotreme	Monotreme
+Doctrina Monroe	Monroe Doctrine
+Mons	Mons
+Muson	Monsoon
+Mont Blanc	Mont Blanc
+Montana (stat SUA)	Montana
+Categorie:Statul Montana, SUA	Montana
+Monte Carlo	Monte Carlo
+Muntenegru	Montenegro
+Categorie:Muntenegru	Montenegro
+Monterrey	Monterrey
+Montevideo	Montevideo
+Montgomery, Alabama	Montgomery
+Lună (timp)	Month
+Montpelier, Vermont	Montpelier
+Montréal	Montreal
+Montserrat	Montserrat
+Lună	Moon
+Elan	Moose
+Moravia	Moravia
+Maroc	Morocco
+Categorie:Maroc	Morocco
+Morfem	Morpheme
+Morfină	Morphine
+Morfologie	Morphology
+Morfologie (gramatică)	Morphology (linguistics)
+Alfabetul Morse	Morse code
+Moscova	Moscow
+Moselle	Moselle
+Moise	Moses
+Moshe Dayan	Moshe Dayan
+Moschee	Mosque
+Ţânţar	Mosquito
+Mossad	Mossad
+Mosul	Mosul
+Mamă	Mother
+Maica Tereza	Mother Teresa
+Motocicletă	Motorcycle
+Muntele Athos	Mount Athos
+Etna	Mount Etna
+Everest	Mount Everest
+Fuji	Mount Fuji
+Kilimanjaro	Mount Kilimanjaro
+Muntele McKinley	Mount McKinley
+Olimp (mitologie)	Mount Olympus
+Pinatubo	Mount Pinatubo
+Mount Rushmore	Mount Rushmore
+Mount St. Helens	Mount St. Helens
+Vezuviu	Mount Vesuvius
+Munte	Mountain
+Trecătoare	Mountain pass
+Maus	Mouse (computing)
+Mozambic	Mozambique
+Mahomed	Muhammad
+Muhammad Ali	Muhammad Ali
+Dud	Mulberry
+Catâr	Mule
+Mumbai	Mumbai
+München	Munich
+Municipiile României	Municipality
+Murmansk	Murmansk
+Murray Gell-Mann	Murray Gell-Mann
+Banană	Musa (genus)
+Musca (constelaţie)	Musca
+Sistemul muscular	Muscle
+Muze	Muse
+Muzeu	Museum
+Muzică	Music
+Categorie:Muzică	Music
+Instrument muzical	Musical instrument
+Muschetă	Musket
+Mustelide	Mustelidae
+Mutaţie genetică	Mutation
+Categorie:Myanmar	Myanmar
+Micene	Mycenae
+Micologie	Mycology
+Categorie:Micologie	Mycology
+Misticism	Mysticism
+Mit	Myth
+Mitologie	Mythology
+Categorie:Mitologie	Mythology
+N	N
+N'Djamena	N'Djamena
+NASDAQ	NASDAQ
+Organizaţia Tratatului Atlanticului de Nord	NATO
+Categorie:NATO	NATO
+Nadine Gordimer	Nadine Gordimer
+Nadir	Nadir
+Nagasaki	Nagasaki
+Nagoya, Aichi	Nagoya
+Limba nahuatl	Nahuatl
+Nairobi	Nairobi
+Deşertul Namib	Namib Desert
+Namibia	Namibia
+Categorie:Namibia	Namibia
+Namur	Namur (city)
+Nancy	Nancy
+Nanga Parbat	Nanga Parbat
+Nanjing	Nanjing
+Nanotehnologie	Nanotechnology
+Nantes	Nantes
+Neapole	Naples
+Războaie napoleoniene	Napoleonic Wars
+Narcis	Narcissus (mythology)
+Nashville, Tennessee	Nashville
+Nassau	Nassau
+Naţiune	Nation
+National Security Agency	National Security Agency
+Naţionalism	Nationalism
+Categorie:Naţionalism	Nationalism
+Gaz natural	Natural gas
+Număr natural	Natural number
+Selecţie naturală	Natural selection
+Natură	Nature
+Categorie:Natură	Nature
+Nudism	Naturism
+Nauru	Nauru
+Categorie:Nauru	Nauru
+Milă marină	Nautical mile
+Nazaret	Nazareth
+Germania Nazistă	Nazi Germany
+NSDAP	Nazi Party
+Categorie:Nazism	Nazism
+Omul de Neanderthal	Neanderthal
+Nebraska (stat SUA)	Nebraska
+Categorie:Statul Nebraska, SUA	Nebraska
+Nabucodonosor	Nebuchadrezzar II
+Nebuloasă	Nebula
+Neckar	Neckar
+Nefertiti	Nefertiti
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Nematode	Nematode
+Nemesis	Nemesis (mythology)
+Neodim	Neodymium
+Neologism	Neologism
+Neon	Neon
+Neoplatonism	Neoplatonism
+Nepal	Nepal
+Categorie:Nepal	Nepal
+Nephthys	Nephthys
+Neptun (planetă)	Neptune
+Nero	Nero
+Nerva	Nerva
+Sistem nervos	Nervous system
+Olanda	Netherlands
+Categorie:Ţările de Jos	Netherlands
+Antilele Olandeze	Netherlands Antilles
+Neurologie	Neurology
+Categorie:Neurologie	Neurology
+Neuron	Neuron
+Neurotransmiţător	Neurotransmitter
+Neutrino	Neutrino
+Neutron	Neutron
+Neva	Neva River
+Nevada (stat SUA)	Nevada
+Categorie:Statul Nevada, SUA	Nevada
+Neville Chamberlain	Neville Chamberlain
+New Brunswick	New Brunswick
+Noua Caledonie	New Caledonia
+New Delhi	New Delhi
+Noua Anglie	New England
+Noua Guinee	New Guinea
+New Hampshire (stat SUA)	New Hampshire
+Categorie:Statul New Hampshire, SUA	New Hampshire
+New Jersey (stat SUA)	New Jersey
+Categorie:Statul New Jersey, SUA	New Jersey
+New Mexico (stat SUA)	New Mexico
+Categorie:Statul New Mexico, SUA	New Mexico
+New Orleans, Louisiana	New Orleans
+New South Wales	New South Wales
+Noul Testament	New Testament
+Novo Mundo	New World
+Anul Nou	New Year
+New York (stat SUA)	New York
+Categorie:Statul New York, SUA	New York
+New York (dezambiguizare)	New York (disambiguation)
+New York (oraş)	New York City
+Categorie:New York	New York City
+New York Stock Exchange	New York Stock Exchange
+Noua Zeelandă	New Zealand
+Newark, New Jersey	Newark
+Terranova (insulă)	Newfoundland (island)
+Newfoundland şi Labrador	Newfoundland and Labrador
+Newport	Newport
+Newton	Newton
+Niacină	Niacin
+Cascada Niagara	Niagara Falls
+Nicaragua	Nicaragua
+Categorie:Nicaragua	Nicaragua
+Nisa	Nice
+Simbolul niceno-constantinopolitan	Nicene Creed
+Petrović Njegoš	Nicholas
+Nichel	Nickel
+Nicolaus Copernic	Nicolaus Copernicus
+Nicosia	Nicosia
+Nicotină	Nicotine
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niger	Niger
+Categorie:Niger	Niger
+Nigeria	Nigeria
+Noapte	Night
+Privighetoare	Nightingale
+Nihilism	Nihilism
+Nijmegen	Nijmegen
+Nike, Inc.	Nike
+Nike	Nike (mythology)
+Nikita Sergheevici Hruşciov	Nikita Khrushchev
+Nikola Tesla	Nikola Tesla
+Nilul	Nile
+Ninive	Nineveh
+Ninja	Ninja
+Niobiu	Niobium
+Nirvana	Nirvana
+Acid azotic	Nitric acid
+Azot	Nitrogen
+Nitroglicerină	Nitroglycerin
+Njord	Njord
+Noam Chomsky	Noam Chomsky
+Premiul Nobel	Nobel Prize
+Categorie:Premiul Nobel	Nobel Prize
+Nobeliu	Nobelium
+Regalitatea şi nobilimea rusă	Nobility
+Categorie:Nobilime	Nobility
+Gaz nobil	Noble gas
+Popoare migratoare	Nomad
+Cazul nominativ	Nominative case
+Nemetal	Nonmetal
+Norfolk	Norfolk
+Insula Norfolk	Norfolk Island
+Echerul (constelaţie)	Norma (constellation)
+Norman Mailer	Norman Mailer
+Normandia	Normandy
+Mitologie nordică	Norse mythology
+Categorie:Mitologie nordică	Norse mythology
+Nord	North
+Africa Nordică	North Africa
+America de Nord	North America
+Categorie:America de Nord	North America
+North Carolina (stat SUA)	North Carolina
+Categorie:Statul North Carolina, SUA	North Carolina
+North Dakota (stat SUA)	North Dakota
+Categorie:Statul North Dakota, SUA	North Dakota
+Coreea de Nord	North Korea
+Categorie:Coreea de Nord	North Korea
+Polul Nord	North Pole
+Marea Nordului	North Sea
+North Yorkshire	North Yorkshire
+Europa de Nord	Northern Europe
+Emisfera nordică	Northern Hemisphere
+Irlanda de Nord	Northern Ireland
+Insulele Mariane de Nord	Northern Mariana Islands
+Northern Territory	Northern Territory
+Ştiucă	Northern pike
+Teritoriile de Nordvest	Northwest Territories
+Norvegia	Norway
+Categorie:Norvegia	Norway
+Marea Norvegiei	Norwegian Sea
+Nas	Nose
+Nostradamus	Nostradamus
+Nouakchott	Nouakchott
+Substantiv	Noun
+Nova Scoţia	Nova Scotia
+Novaia Zemlia	Novaya Zemlya
+Roman (literatură)	Novel
+Noiembrie	November
+1 noiembrie	November 1
+11 noiembrie	November 11
+2 noiembrie	November 2
+5 noiembrie	November 5
+Novosibirsk	Novosibirsk
+Fizică nucleară	Nuclear physics
+Energie nucleară	Nuclear power
+Armă nucleară	Nuclear weapon
+Acid nucleic	Nucleic acid
+Nucleotidă	Nucleotide
+Număr	Number
+Categorie:Numere	Numbers
+Numidia	Numidia
+Numismatică	Numismatics
+Nunavut	Nunavut
+Nürnberg	Nuremberg
+Nucşoară	Nutmeg
+Nimfe	Nymph
+Nymphaeaceae	Nymphaeaceae
+Nyx	Nyx (mythology)
+O	O
+OPEC	OPEC
+Oakland, California	Oakland
+Oază	Oasis
+Obi	Ob River
+Obelisc	Obelisk
+Obsidian	Obsidian
+Briciul lui Occam	Occam's razor
+Ocean	Ocean
+Curent marin	Ocean current
+Oceania	Oceania
+Oceanidele	Oceanid
+Oceanus	Oceanus
+Octantul (constelaţie)	Octans
+Octombrie	October
+12 octombrie	October 12
+24 octombrie	October 24
+Revoluţia din Octombrie	October Revolution
+Caracatiţă	Octopus
+Odă	Ode
+Odra	Oder River
+Odessa	Odessa
+Odin	Odin
+Odiseu	Odysseus
+Odiseea	Odyssey
+Oedip (mitologie)	Oedipus
+Offside (fotbal)	Offside (football)
+Ohio (stat SUA)	Ohio
+Categorie:Statul Ohio, SUA	Ohio
+Ohm	Ohm
+Legea lui Ohm	Ohm's law
+Pictură în ulei	Oil painting
+Oklahoma (stat SUA)	Oklahoma
+Categorie:Statul Oklahoma, SUA	Oklahoma
+Oklahoma City, Oklahoma	Oklahoma City
+Oktoberfest	Oktoberfest
+Limba slavonă	Old Church Slavonic
+Vechiul Testament	Old Testament
+Oligarhie	Oligarchy
+Oligocen	Oligocene
+Oligopol	Oligopoly
+Oliver Cromwell	Oliver Cromwell
+Oliver Stone	Oliver Stone
+Olivină	Olivine
+Olympia, Washington	Olympia
+Olympia, Grecia	Olympia
+Olimpism	Olympic Games
+Omaha, Nebraska	Omaha
+Oman	Oman
+Categorie:Oman	Oman
+Omsc	Omsk
+Ceapă	Onion
+Onomastica	Onomastics
+Ontario	Ontario
+Categorie:Ontario	Ontario
+Ontologie	Ontology
+Norul lui Oort	Oort cloud
+Opal	Opal
+Operă (gen muzical)	Opera
+Opera (web browser)	Opera (Internet suite)
+Sistem de operare	Operating system
+Ofiucus (constelaţie)	Ophiuchus
+Fibră optică	Optical fiber
+Iluzie optică	Optical illusion
+Optică	Optics
+Categorie:Optică	Optics
+Optimizare	Optimization (mathematics)
+Felaţie	Oral sex
+Orhidee	Orchidaceae
+Ordin (biologie)	Order (biology)
+Ordinul benedictin	Order of Saint Benedict
+Oregon (stat SUA)	Oregon
+Categorie:Statul Oregon, SUA	Oregon
+Organ	Organ (anatomy)
+Orgă	Organ (music)
+Organite celulare	Organelle
+Chimie organică	Organic chemistry
+Categorie:Chimie organică	Organic chemistry
+Compus organic	Organic compound
+Organism	Organism
+Organizaţie	Organization
+Orgasm	Orgasm
+Origami	Origami
+Origene	Origen
+Orion (constelaţie)	Orion (constellation)
+Orissa	Orissa
+Orlando, Florida	Orlando
+Ornitologie	Ornithology
+Categorie:Ornitologie	Ornithology
+Orfeu	Orpheus
+Orson Welles	Orson Welles
+Ortografie	Orthography
+Osaka	Osaka
+Osama bin Laden	Osama bin Laden
+Oscar Wilde	Oscar Wilde
+Oscilaţie	Oscillation
+Osiris	Osiris
+Oslo	Oslo
+Osman I	Osman I
+Osmiu	Osmium
+Osteoporoză	Osteoporosis
+Ostrava	Ostrava
+Otho	Otho
+Ottawa	Ottawa
+Otto Hahn	Otto Hahn
+Otto I, Împărat Roman	Otto I
+Otto von Bismarck	Otto von Bismarck
+Imperiul Otoman	Ottoman Empire
+Categorie:Imperiul Otoman	Ottoman Empire
+Publius Ovidius Naso	Ovid
+Oviedo	Oviedo
+Bufniţă	Owl
+Oxford	Oxford
+Număr de oxidare	Oxidation state
+Oxid	Oxide
+Oxigen	Oxygen
+Ozon	Ozone
+P	P
+PAL	PAL
+PH	PH
+Pablo Neruda	Pablo Neruda
+Pablo Picasso	Pablo Picasso
+Oceanul Pacific	Pacific Ocean
+Categorie:Oceanul Pacific	Pacific Ocean
+Pacifism	Pacifism
+Padova	Padua
+Categorie:Pictură	Painting
+Pakistan	Pakistan
+Categorie:Pakistan	Pakistan
+Palatul Versailles	Palace of Versailles
+Palau	Palau
+Categorie:Palau	Palau
+Paleocen	Paleocene
+Paleolitic	Paleolithic
+Paleontologie	Paleontology
+Palermo	Palermo
+Palestina	Palestine
+Categorie:Palestina	Palestine
+Autoritatea Naţională Palestiniană	Palestinian National Authority
+Limba pali	Pali
+Palindrom	Palindrome
+Paladiu	Palladium
+Palmyra	Palmyra
+Pamir	Pamir Mountains
+Pan (mitologie)	Pan (mythology)
+Panama	Panama
+Canalul Panama	Panama Canal
+Ciudad de Panamá	Panama City
+Pancreas	Pancreas
+Pandora	Pandora
+Panteism	Pantheism
+Panteonul din Roma	Pantheon
+Papua Noua Guinee	Papua New Guinea
+Paracelsus	Paracelsus
+Paraşută	Parachute
+Paradigmă	Paradigm
+Parapantism	Paragliding
+Paraguay	Paraguay
+Categorie:Paraguay	Paraguay
+Paralelogram	Parallelogram
+Paramaribo	Paramaribo
+Parapsihologie	Parapsychology
+Paris	Paris
+Categorie:Paris	Paris
+Paris (mitologie)	Paris (mythology)
+Parlament	Parliament
+Parmenide	Parmenides
+Parsec	Parsec
+Pătrunjel	Parsley
+Fizica particulelor	Particle physics
+Categorie:Fizica particulelor	Particle physics
+Pascal	Pascal
+Pascal (limbaj de programare)	Pascal (programming language)
+Pascal (unitate)	Pascal (unit)
+Pesah	Passover
+Paşaport	Passport
+Pasteurizare	Pasteurization
+Patagonia	Patagonia
+Fitopatologie	Pathology
+Patras	Patras
+Patriarh	Patriarch
+Patriotism	Patriotism
+Paul Gauguin	Paul Gauguin
+Paul Heyse	Paul Johann Ludwig von Heyse
+Paul Klee	Paul Klee
+Paul McCartney	Paul McCartney
+Paul Newman	Paul Newman
+Paul Verlaine	Paul Verlaine
+Pavel (apostol)	Paul the Apostle
+Paul von Hindenburg	Paul von Hindenburg
+Principiul de excluziune	Pauli exclusion principle
+Păunul (constelaţie)	Pavo (constellation)
+Pion (şah)	Pawn (chess)
+Pays de la Loire	Pays de la Loire
+Pacea Westfalică	Peace of Westphalia
+Arachis	Peanut
+Perlă	Pearl
+Pearl Harbor	Pearl Harbor
+Turbă	Peat
+Categorie:Pedagogie	Pedagogy
+Pedofilie	Pedophilia
+Stejar	Pedunculate Oak
+Pegas	Pegasus
+Pegas (constelaţie)	Pegasus (constellation)
+Peloponez	Peloponnese
+Războiul peloponesiac	Peloponnesian War
+Creion	Pencil
+Pendul gravitaţional	Pendulum
+Penelopa	Penelope
+Pinguin	Penguin
+Penicilină	Penicillin
+Peninsulă	Peninsula
+Pennsylvania (stat SUA)	Pennsylvania
+Categorie:Statul Pennsylvania, SUA	Pennsylvania
+Pentagon (geometrie)	Pentagon
+Pentagramă	Pentagram
+Rusalii	Pentecost
+Biserica Penticostală	Pentecostalism
+Categorie:Biografii	People
+Republica Populară Chineză	People's Republic of China
+Pepin cel Scurt	Pepin the Short
+Pepsi-Cola	Pepsi
+Instrument de percuţie	Percussion instrument
+Percy Bysshe Shelley	Percy Bysshe Shelley
+Perestroika	Perestroika
+Parfum	Perfume
+Pericle	Pericles
+Perioadele tabelului periodic	Period (periodic table)
+Tabelul periodic al elementelor	Periodic table
+Perm	Perm
+Permian	Permian
+Pernambuco	Pernambuco
+Perpetuum mobile	Perpetual motion
+Persefona	Persephone
+Persepolis	Persepolis
+Perseu	Perseus
+Perseu (constelaţie)	Perseus (constellation)
+Imperiul Persan	Persian Empire
+Golful Persic	Persian Gulf
+Personal digital assistant	Personal digital assistant
+Perth	Perth
+Peru	Peru
+Categorie:Peru	Peru
+Pesticid	Pesticide
+Pierre Abélard	Peter Abelard
+Peter Paul Rubens	Peter Paul Rubens
+Peter Sellers	Peter Sellers
+Francesco Petrarca	Petrarch
+Petrol	Petroleum
+Faraon	Pharaoh
+Farmacologie	Pharmacology
+Faringe	Pharynx
+Fenol	Phenol
+Fenomenologie	Phenomenology
+Fenotip	Phenotype
+Philadelphia, Pennsylvania	Philadelphia
+Filatelie	Philately
+Categorie:Filatelie	Philately
+Filip al II-lea al Macedoniei	Philip II of Macedon
+Filip al II-lea al Spaniei	Philip II of Spain
+Philipp Lenard	Philipp Lenard
+Filipine	Philippines
+Categorie:Filipine	Philippines
+Categorie:Filologie	Philology
+Piatra filozofală	Philosopher's stone
+Filozofie	Philosophy
+Categorie:Filozofie	Philosophy
+Portal:Filozofie	Philosophy
+Phnom Penh	Phnom Penh
+Phobos (satelit)	Phobos (moon)
+Fenicia	Phoenicia
+Phoenix, Arizona	Phoenix
+Phoenix (dezambiguizare)	Phoenix
+Phoenix (constelaţie)	Phoenix (constellation)
+Pasărea Phoenix	Phoenix (mythology)
+Phoenix Mars Lander	Phoenix (spacecraft)
+Fonem	Phoneme
+Fonetică	Phonetics
+Fonologie	Phonology
+Acid fosforic	Phosphoric acid
+Fosfor	Phosphorus
+Fotografie	Photography
+Categorie:Fotografie	Photography
+Foton	Photon
+Fotosinteză	Photosynthesis
+Categorie:Chimie fizică	Physical chemistry
+Fizică	Physics
+Categorie:Fizică	Physics
+Portal:Fizică	Physics
+Fiziologie	Physiology
+Categorie:Fiziologie	Physiology
+Pi	Pi
+Pian	Piano
+Picardia	Picardie
+Pictorul (constelaţie)	Pictor
+Pidgin	Pidgin (software)
+Piemont	Piedmont
+Pierre, South Dakota	Pierre
+Pierre Curie	Pierre Curie
+Pierre de Fermat	Pierre de Fermat
+Piet Mondrian	Piet Mondrian
+Pieter Zeeman	Pieter Zeeman
+Pigment	Pigment
+Plzeň	Pilsen
+Pinaceae	Pinaceae
+Pindar	Pindar
+Pin (arbore)	Pine
+Ping	Ping
+Pinipede	Pinniped
+Pirat	Piracy
+Pisa	Pisa
+Peştii (constelaţie)	Pisces (constellation)
+Piston	Piston
+Pittsburgh, Pennsylvania	Pittsburgh
+Pixel	Pixel
+Pizza	Pizza
+Plagiat	Plagiarism
+Planetă	Planet
+Nebuloasă planetară	Planetary nebula
+Plancton	Plankton
+Regn Plantae	Plant
+Plasmă	Plasma (physics)
+Plasmidă	Plasmid
+Tectonica plăcilor	Plate tectonics
+Platină	Platinum
+Platon	Plato
+Ornitorinc	Platypus
+Playboy	Playboy
+Pleistocen	Pleistocene
+Plevna	Pleven
+Plinius	Pliny the Elder
+Pliniu cel Tânăr	Pliny the Younger
+Pliocen	Pliocene
+Plotin	Plotinus
+Plutarh	Plutarch
+Pluto (planetă pitică)	Pluto
+Pluto	Pluto (disambiguation)
+Plutoniu	Plutonium
+Plymouth	Plymouth
+Pneumonie	Pneumonia
+Pad	Po River
+Poaceae	Poaceae
+Podcasting	Podcast
+Poezie	Poetry
+Categorie:Poezie	Poetry
+Pogrom	Pogrom
+Substanţe toxice	Poison
+Poitiers	Poitiers
+Poitou-Charentes	Poitou-Charentes
+Poker	Poker
+Polonia	Poland
+Categorie:Polonia	Poland
+Urs polar	Polar bear
+Partid politic	Political party
+Politologie	Political science
+Om politic	Politician
+Politică	Politics
+Categorie:Politică	Politics
+Polenizare	Pollination
+Poluare	Pollution
+Poloniu	Polonium
+Poligon	Polygon
+Poliedru	Polyhedron
+Polyhymnia	Polyhymnia
+Polimer	Polymer
+Polinezia	Polynesia
+Polinom	Polynomial
+Politeism	Polytheism
+Policlorură de vinil	Polyvinyl chloride
+Rodie	Pomegranate
+Pomelo	Pomelo
+Pompeii	Pompeii
+Cneus Pompeius Magnus	Pompey
+Pop art	Pop art
+Muzică pop	Pop music
+Papă	Pope
+Papa Alexandru al VI-lea	Pope Alexander VI
+Plop (arbore)	Poplar
+Populaţie	Population
+Pornografie	Pornography
+Port	Port
+Port Moresby	Port Moresby
+Port-au-Prince	Port-au-Prince
+Portland	Portland
+Porto	Porto
+Portsmouth	Portsmouth
+Portugalia	Portugal
+Categorie:Portugalia	Portugal
+Poseidon	Poseidon
+Pozitron	Positron
+Mărci poştale	Postage stamp
+Cod poştal	Postal code
+Postmodernism	Postmodernism
+Potasiu	Potassium
+Nitrat de potasiu	Potassium nitrate
+Cartof	Potato
+Potsdam	Potsdam
+Liră sterlină	Pound sterling
+Limita sărăciei	Poverty
+Putere	Power (physics)
+Centrală electrică	Power station
+Pretor	Praetor
+Praga	Prague
+Categorie:Praga	Prague
+Rugăciune	Prayer
+Precesie	Precession
+Precipitaţii (meteorologie)	Precipitation (meteorology)
+Sarcină	Pregnancy
+Preistorie	Prehistory
+Categorie:Preistorie	Prehistory
+Preşedinte	President
+Preşedinte al Statelor Unite ale Americii	President of the United States
+Presiune	Pressure
+Pretoria	Pretoria
+Priam	Priam
+Preţ	Price
+Preot	Priest
+Primate	Primate
+Categorie:Primate	Primates
+Număr prim	Prime number
+Prince Edward Island	Prince Edward Island
+Principiul relativităţii	Principle of relativity
+Prion	Prion
+Prismă (corp)	Prism (geometry)
+Prismă (optică)	Prism (optics)
+Prizonier de război	Prisoner of war
+Prix Goncourt	Prix Goncourt
+Probabilitate	Probability
+Teoria probabilităţilor	Probability theory
+Procyonidae	Procyonidae
+Limbaj de programare	Programming language
+Procariot	Prokaryote
+Prolog	Prolog
+Prometeu	Prometheus
+Pronume	Pronoun
+Propagandă	Propaganda
+Propan	Propane
+Proroc	Prophet
+Proză	Prose
+Prostată	Prostate
+Protactiniu	Protactinium
+Protectorat	Protectorate
+Proteină	Protein
+Reforma Protestantă	Protestant Reformation
+Protestantism	Protestantism
+Regn Protozoa	Protist
+Categorie:Regnul Protista	Protista
+Proton	Proton
+Protozoar	Protozoa
+Providence, Rhode Island	Providence
+Prun	Prunus
+Prusia	Prussia
+Pseudonim	Pseudonym
+Categorie:Pseudoştiinţă	Pseudoscience
+Pseudoştiinţă	Pseudoscience
+Psihiatrie	Psychiatry
+Psihanaliză	Psychoanalysis
+Psihologie	Psychology
+Categorie:Psihologie	Psychology
+Ptah	Ptah
+Pterozaur	Pterosaur
+Ptolemeu	Ptolemy
+Pubertate	Puberty
+Domeniul public	Public domain
+Relaţii cu publicul	Public relations
+Puerto Rico	Puerto Rico
+Pola, Croaţia	Pula
+Pulsar	Pulsar
+Punjab (India)	Punjab (India)
+Categorie:Punk	Punk
+Muzică punk	Punk rock
+Pupilă	Pupil
+Pupa (constelaţie)	Puppis
+Phenian	Pyongyang
+Munţii Pirinei	Pyrenees
+Pirită	Pyrite
+Victorie à la Pirus	Pyrrhic victory
+Pitagora	Pythagoras
+Python	Python (programming language)
+Busola (constelaţie)	Pyxis
+Q	Q
+Qatar	Qatar
+Categorie:Qatar	Qatar
+Dinastia-Quing	Qing Dynasty
+Patrulater	Quadrilateral
+Chestor	Quaestor
+Mecanică cuantică	Quantum mechanics
+Quark	Quark
+Cuarţ	Quartz
+Quasar	Quasar
+Cuaternar	Quaternary
+Cuaternion	Quaternion
+Provincia Québec	Quebec
+Categorie:Provincia Quebec, Canada	Quebec
+Oraşul Québec	Quebec City
+Regină (şah)	Queen (chess)
+Queensland	Queensland
+Quetzalcoatl	Quetzalcoatl
+Gutui	Quince
+Quito, Ecuador	Quito
+R	R
+RAF	RAF (disambiguation)
+RAID	RAID
+ARN	RNA
+Ra	Ra
+Rabat	Rabat
+Rabin	Rabbi
+Rabindranath Tagore	Rabindranath Tagore
+Enot	Raccoon Dog
+Rasism	Racism
+RADAR	Radar
+Radian	Radian
+Categorie:Radio	Radio
+Radiotelescop	Radio telescope
+Radiaţie	Radioactive decay
+Radiu	Radium
+Rază	Radius
+Radon	Radon
+Ploaie	Rain
+Curcubeu	Rainbow
+Rainer Maria Rilke	Rainer Maria Rilke
+Raleigh, North Carolina	Raleigh
+Ralph Waldo Emerson	Ralph Waldo Emerson
+Rama	Rama
+Ramayana	Ramayana
+Ramses cel Mare	Ramesses II
+Memorie cu acces aleator	Random access memory
+Ranunculaceae	Ranunculaceae
+Rafael	Raphael
+Arhanghelul Rafael	Raphael (archangel)
+Categorie:Sisteme de metrou	Rapid transit
+Zmeur	Raspberry
+Număr raţional	Rational number
+Struthioniformes	Ratite
+Ravenna	Ravenna
+Rawalpindi	Rawalpindi
+Ray Bradbury	Ray Bradbury
+Număr real	Real number
+Recife	Recife
+Dreptunghi	Rectangle
+Redresor	Rectifier
+Recursivitate	Recursion
+Roşu	Red
+Rote Armee Fraktion	Red Army Faction
+Marea Roşie	Red Sea
+Eritrocit	Red blood cell
+Referendum	Referendum
+Refracţie	Refraction
+Regenţă	Regent
+Reggae	Reggae
+Regina, Saskatchewan	Regina
+Regiune	Region
+Reims	Reims
+Relativism	Relativism
+Categorie:Relativitate	Relativity
+Religie	Religion
+Categorie:Religie	Religion
+Rembrandt van Rijn	Rembrandt
+Renaşterea	Renaissance
+Reptilă	Reptile
+Republică	Republic
+Republica Chineză	Republic of China
+Republica Irlanda	Republic of Ireland
+Categorie:Irlanda	Republic of Ireland
+Republica Congo	Republic of the Congo
+Partidul Republican, SUA	Republican Party (United States)
+Rezistor	Resistor
+Reticulul (constelaţie)	Reticulum
+Retină	Retina
+Retinol	Retinol
+Revoluţie	Revolution
+Rhea (satelit)	Rhea (moon)
+Rhea (mitologie)	Rhea (mythology)
+Rin	Rhine
+Rinocer	Rhinoceros
+Ro (literă)	Rho (letter)
+Rhode Island (stat SUA)	Rhode Island
+Categorie:Statul Rhode Island, SUA	Rhode Island
+Rodos	Rhodes
+Rodiu	Rhodium
+Romb	Rhombus
+Rimă	Rhyme
+Rhythm and blues	Rhythm and blues
+Ribozom	Ribosome
+Orez	Rice
+Richard Feynman	Richard Feynman
+Richard Nixon	Richard Nixon
+Richard Wagner	Richard Wagner
+Richmond, Virginia	Richmond
+Riga	Riga
+Ascensie dreaptă	Right ascension
+Inel (matematică)	Ring (mathematics)
+Ringo Starr	Ringo Starr
+Rio de Janeiro	Rio de Janeiro
+Râu	River
+Tamisa	River Thames
+Riyadh	Riyadh
+Drum	Road
+Roald Amundsen	Roald Amundsen
+Robert Andrews Millikan	Robert Andrews Millikan
+Robert Boyle	Robert Boyle
+Robert De Niro	Robert De Niro
+Robert Falcon Scott	Robert Falcon Scott
+Robert Hooke	Robert Hooke
+Robert Koch	Robert Koch
+Robert Louis Stevenson	Robert Louis Stevenson
+Robert Oppenheimer	Robert Oppenheimer
+Robert Redford	Robert Redford
+Robert Schumann	Robert Schumann
+Robot	Robot
+Piatră	Rock (geology)
+Rock 'n' roll	Rock and roll
+Muzică rock	Rock music
+Categorie:Muzică Rock	Rock music
+Rachetă	Rocket
+Munţii Stâncoşi	Rocky Mountains
+Rococo	Rococo
+Rozătoare	Rodent
+Roger Bacon	Roger Bacon
+Biserica Romano-Catolică	Roman Catholic Church
+Imperiul Roman	Roman Empire
+Republica Romană	Roman Republic
+Drept roman	Roman law
+Listă de zei romani	Roman mythology
+Categorie:Mitologie romană	Roman mythology
+România	Romania
+Categorie:România	Romania
+Limba retoromană	Romansh
+Romantism	Romanticism
+Roma	Rome
+Categorie:Roma	Rome
+Ronald Reagan	Ronald Reagan
+Turn (şah)	Rook (chess)
+Roosevelt (dezambiguizare)	Roosevelt
+Rădăcină	Root
+Rosa Parks	Rosa Parks
+Rosaceae	Rosaceae
+Rosales	Rosales
+Rosario	Rosario
+Rosa	Rose
+Roseau	Roseau
+Piatra din Rosetta	Rosetta Stone
+Roş haŞana	Rosh Hashanah
+Rostock	Rostock
+Rotterdam	Rotterdam
+Ruter	Router
+Canotaj	Rowing (sport)
+Royal Society	Royal Society
+Gumă	Rubber
+Rubidiu	Rubidium
+Rublă (dezambiguizare)	Ruble
+Zmeur	Rubus idaeus
+Rubin	Ruby
+Ruby	Ruby (programming language)
+Rudolf Diesel	Rudolf Diesel
+Rudolf Hess	Rudolf Hess
+Rudolf Steiner	Rudolf Steiner
+Rudyard Kipling	Rudyard Kipling
+Rugby	Rugby football
+Rusia	Russia
+Categorie:Rusia	Russia
+Biserica Ortodoxă Rusă	Russian Orthodox Church
+Revoluţia Rusă din 1917	Russian Revolution (1917)
+Războiul ruso-japonez	Russo-Japanese War
+Ruteniu	Ruthenium
+Rutherford Birchard Hayes	Rutherford B. Hayes
+Rutherfordiu	Rutherfordium
+Ruanda	Rwanda
+Categorie:Ruanda	Rwanda
+Secară	Rye
+S	S
+Taină (sacrament)	Sacrament
+Sacramento (California)	Sacramento
+Saddam Hussein	Saddam Hussein
+Safari (browser)	Safari (web browser)
+Săgeata (constelaţie)	Sagitta
+Săgetătorul (constelaţie)	Sagittarius (constellation)
+Deşertul Sahara	Sahara
+Andrei (apostol)	Saint Andrew
+Gheorghe din Cappadocia	Saint George
+Sfântul Kitts şi Nevis	Saint Kitts and Nevis
+Fluviul Sf. Laurenţiu	Saint Lawrence River
+Sfânta Lucia	Saint Lucia
+Insula Sfântul Martin	Saint Martin
+Nicolae de Mira	Saint Nicholas
+Sfântul Patrick	Saint Patrick
+Saint Paul, Minnesota	Saint Paul
+Petru (apostol)	Saint Peter
+Sankt Petersburg	Saint Petersburg
+Categorie:Sankt Petersburg	Saint Petersburg
+Sfântul Vincent şi Grenadine	Saint Vincent and the Grenadines
+Saladin	Saladin
+Salem, Oregon	Salem
+Salerno	Salerno
+Salman Rushdie	Salman Rushdie
+Sare de bucătărie	Salt
+Salt Lake City, Utah	Salt Lake City
+Salvador (Bahia)	Salvador
+Salzburg	Salzburg
+Salzburg (land)	Salzburg (state)
+Samara, Rusia	Samara
+Samarkand	Samarkand
+Samoa	Samoa
+Samuel Beckett	Samuel Beckett
+Samuel F. B. Morse	Samuel F. B. Morse
+Samuel Taylor Coleridge	Samuel Taylor Coleridge
+Samurai	Samurai
+San Antonio, Texas	San Antonio
+San Diego, California	San Diego
+San Francisco, California	San Francisco
+San Jose, California	San Jose
+San Juan, Puerto Rico	San Juan
+San Marino	San Marino
+Categorie:San Marino	San Marino
+Oraşul San Marino	San Marino
+San Salvador	San Salvador
+Nisip	Sand
+Sandro Botticelli	Sandro Botticelli
+Gresie	Sandstone
+Sandviş	Sandwich
+Limba sanscrită	Sanskrit
+Moş Crăciun	Santa Claus
+Santa Fe, New Mexico	Santa Fe
+Santiago de Chile	Santiago
+Santiago (dezambiguizare)	Santiago
+Santiago de Cuba	Santiago de Cuba
+Santo Domingo	Santo Domingo
+Santos	Santos (Săo Paulo)
+Safir	Sapphire
+Sappho	Sappho
+Sapporo, Hokkaidō	Sapporo
+Sarajevo	Sarajevo
+Saratov	Saratov
+Sardinia	Sardinia
+Sari	Sari
+Zarin	Sarin
+Saskatchewan	Saskatchewan
+Satanism	Satanism
+Satiră	Satire
+Saturn (planetă)	Saturn
+Categorie:Planeta Saturn	Saturn
+Saturn (dezambiguizare)	Saturn (disambiguation)
+Satir	Satyr
+Arabia Saudită	Saudi Arabia
+Categorie:Arabia Saudită	Saudi Arabia
+Saul Bellow	Saul Bellow
+Savană	Savanna
+Saxonia	Saxony
+Categorie:Saxonia	Saxony
+Scandinavia	Scandinavia
+Categorie:Scandinavia	Scandinavia
+Omoplat	Scapula
+Escaut	Scheldt
+Schizofrenie	Schizophrenia
+Scolastică	Scholasticism
+Şcoală	School
+Schutzstaffel	Schutzstaffel
+Ştiinţă	Science
+Categorie:Ştiinţă	Science
+Science fiction	Science fiction
+Categorie:Science fiction	Science fiction
+Metodă ştiinţifică	Scientific method
+Scorpion	Scorpion
+Scorpionul (constelaţie)	Scorpius
+Scoţia	Scotland
+Categorie:Scoţia	Scotland
+Pinus sylvestris	Scots Pine
+Limba scoţiană	Scottish Gaelic
+Scrabble	Scrabble
+Şurub	Screw
+Sculptorul (constelaţie)	Sculptor (constellation)
+Sculptură	Sculpture
+Categorie:Sculptură	Sculpture
+Mare	Sea
+Vidră de mare	Sea Otter
+Marea Azov	Sea of Azov
+Marea Japoniei	Sea of Japan
+Marea Marmara	Sea of Marmara
+Marea Ohotsk	Sea of Okhotsk
+Echinoide	Sea urchin
+Motor de căutare	Search engine
+Sears Tower	Sears Tower
+Seattle, Washington	Seattle
+Secundă	Second
+Cruciada a doua	Second Crusade
+Conciliul Vatican II	Second Vatican Council
+Principiul al doilea al termodinamicii	Second law of thermodynamics
+Roci sedimentare	Sedimentary rock
+Sămânţă	Seed
+Segovia	Segovia
+Sena (râu)	Seine
+Seismologie	Seismology
+Categorie:Seismologie	Seismology
+Selene	Selene
+Seleniu	Selenium
+Semantică	Semantics
+Punct şi virgulă	Semicolon
+Senat	Senate
+Senegal	Senegal
+Categorie:Senegal	Senegal
+Seul	Seoul
+Seppuku	Seppuku
+Septembrie	September
+11 septembrie	September 11
+Atentatele din 11 septembrie 2001	September 11
+17 septembrie	September 17
+29 septembrie	September 29
+Septuaginta	Septuagint
+Şir (matematică)	Sequence
+Serbia	Serbia
+Categorie:Serbia	Serbia
+Serbia şi Muntenegru	Serbia and Montenegro
+Categorie:Serbia şi Muntenegru	Serbia and Montenegro
+Iobag	Serfdom
+Serghei Rahmaninov	Sergei Rachmaninoff
+Serie (matematică)	Series (mathematics)
+Şarpele (constelaţie)	Serpens
+Server	Server (computing)
+Mulţime	Set
+Seth	Set (mythology)
+Sevastopol	Sevastopol
+Războiul de Şapte Ani	Seven Years' War
+SARS	Severe acute respiratory syndrome
+Sevilia	Seville
+Sextant	Sextant
+Act sexual	Sexual intercourse
+Categorie:Sexualitate	Sexuality
+ITS	Sexually transmitted disease
+Seychelles	Seychelles
+Shanghai	Shanghai
+Shareware	Shareware
+Rechin	Shark
+Sheffield	Sheffield
+Sherlock Holmes	Sherlock Holmes
+Shetland	Shetland
+Scut	Shield
+Şintoism	Shinto
+Navă	Ship
+Shiva	Shiva
+Shogi	Shogi
+Shogun	Shogun
+Crevete	Shrimp
+Arbust	Shrub
+Siberia	Siberia
+Husky Siberian	Siberian Husky
+Sichuan	Sichuan
+Sicilia	Sicily
+Categorie:Sicilia	Sicily
+Sierra Leone	Sierra Leone
+Categorie:Sierra Leone	Sierra Leone
+Sigmund Freud	Sigmund Freud
+Sigrid Undset	Sigrid Undset
+Sikhism	Sikhism
+Sikkim	Sikkim
+Silezia	Silesia
+Siliciu	Silicon
+Silicon Valley	Silicon Valley
+Bioxid de siliciu	Silicon dioxide
+Drumul mătăsii	Silk Road
+Argint	Silver
+Simone de Beauvoir	Simone de Beauvoir
+Peninsula Sinai	Sinai Peninsula
+Sinclair Lewis	Sinclair Lewis
+Singapore	Singapore
+Categorie:Singapore	Singapore
+Sirenă	Siren
+Sirius	Sirius
+Capela Sixtină	Sistine Chapel
+Sisif	Sisyphus
+Sitcom	Situation comedy
+Războiul de Şase Zile	Six-Day War
+Categorie:Sistemul osos	Skeletal system
+Scepticism	Skepticism
+Piele (anatomie)	Skin
+Skopje	Skopje
+Craniu	Skull
+Skylab	Skylab
+Zgârie-nori	Skyscraper
+Sclavie	Slavery
+Slayer	Slayer
+Somn	Sleep
+Slovacia	Slovakia
+Categorie:Slovacia	Slovakia
+Slovenia	Slovenia
+Categorie:Slovenia	Slovenia
+Smog	Smog
+Smolensk	Smolensk
+Şarpe	Snake
+Snooker	Snooker
+Zăpadă	Snow
+Săpun	Soap
+Psihologie socială	Social psychology
+Socialism	Socialism
+Categorie:Socialism	Socialism
+Categorie:Societate	Society
+Ordinul iezuit	Society of Jesus
+Sociolingvistică	Sociolinguistics
+Sociologie	Sociology
+Categorie:Sociologie	Sociology
+Socrate	Socrates
+Sodiu	Sodium
+Bicarbonat de sodiu	Sodium bicarbonate
+Hidroxid de sodiu	Sodium hydroxide
+Sofia	Sofia
+Categorie:Software	Software
+Sol (strat al Pământului)	Soil
+Solanaceae	Solanaceae
+Categorie:Solanaceae	Solanaceae
+Sistem solar	Solar System
+Celulă solară	Solar cell
+Energie solară	Solar energy
+Solid	Solid
+Solidaritatea	Solidarity
+Solomon	Solomon
+Insulele Solomon	Solomon Islands
+Solon	Solon
+Diluanţi	Solvent
+Somalia	Somalia
+Categorie:Somalia	Somalia
+Somerset	Somerset
+Somme	Somme
+Sonată	Sonata
+Cântec	Song
+Cântarea Cântărilor	Song of Solomon
+Sonet	Sonnet
+Sophia Loren	Sophia Loren
+Sofocle	Sophocles
+Sorbona	Sorbonne
+Sunet	Sound
+Sud	South
+Categorie:Africa de Sud	South Africa
+America de Sud	South America
+Categorie:America de Sud	South America
+South Carolina (stat SUA)	South Carolina
+Categorie:Statul South Carolina, SUA	South Carolina
+Marea Chinei de Sud	South China Sea
+South Dakota (stat SUA)	South Dakota
+Categorie:Statul South Dakota, SUA	South Dakota
+Coreea de Sud	South Korea
+Categorie:Coreea de Sud	South Korea
+Polul Sud	South Pole
+Asia de Sud Est	Southeast Asia
+Suveranitate	Sovereignty
+Uniunea Sovietică	Soviet Union
+Categorie:Uniunea Sovietică	Soviet Union
+Soia	Soybean
+Staţie spaţială	Space station
+Spania	Spain
+Categorie:Spania	Spain
+Spam	Spam (electronic)
+Războiul civil spaniol	Spanish Civil War
+Categorie:Spanioli	Spanish people
+Războiul Spaniolo-American	Spanish-American War
+Sparta	Sparta
+Teoria relativităţii restrânse	Special relativity
+Specie (biologie)	Species
+Spectroscopie	Spectroscopy
+Viteză	Speed
+Viteza luminii	Speed of light
+Spencer Tracy	Spencer Tracy
+Sfinx	Sphinx
+Păianjen	Spider
+Spin	Spin (physics)
+Măduva spinării	Spinal cord
+Splină	Spleen
+Split	Split
+Spongieri	Sponge
+Sport	Sport
+Râul Spree	Spree
+Primăvară	Spring (season)
+Springfield, Illinois	Springfield
+Spyware	Spyware
+Pătrat	Square (geometry)
+Metru pătrat	Square metre
+Veveriţă	Squirrel
+Sri Lanka	Sri Lanka
+Categorie:Sri Lanka	Sri Lanka
+Saint Louis, Missouri	St. Louis
+Stalinism	Stalinism
+Universitatea Stanford	Stanford University
+Stanley Kubrick	Stanley Kubrick
+Stea	Star
+Amidon	Starch
+Stat	State
+Statistică matematică	Statistics
+Categorie:Statistică	Statistics
+Statuia Libertăţii din New York	Statue of Liberty
+Stavanger	Stavanger
+Abur	Steam
+Oţel	Steel
+Stefan Zweig	Stefan Zweig
+Stegosaurus	Stegosaurus
+Stendhal	Stendhal
+Stephen Hawking	Stephen Hawking
+Stepă	Steppe
+Steradian	Steradian
+Steroid	Steroid
+Steven Spielberg	Steven Spielberg
+Sting	Sting
+Bursă	Stock exchange
+Stockholm	Stockholm
+Stoa	Stoicism
+Epoca de piatră	Stone Age
+Stonehenge	Stonehenge
+Strâmtoarea Gibraltar	Strait of Gibraltar
+Strâmtoarea Ormuz	Strait of Hormuz
+Strâmtoarea Magellan	Strait of Magellan
+Strâmtoarea Messina	Strait of Messina
+Categorie:Strâmtori	Straits
+Strasbourg	Strasbourg
+Stres	Stress (medicine)
+Teoria Corzilor	String theory
+Accident vascular cerebral	Stroke
+Stronţiu	Strontium
+Structuralism	Structuralism
+Format:Ciot	Stub
+Student	Student
+Chedi	Stupa
+Sturmabteilung	Sturmabteilung
+Stuttgart	Stuttgart
+Styx	Styx
+Africa Subsahariană	Sub-Saharan Africa
+Subcultură	Subculture
+Sublimare	Sublimation (chemistry)
+Submarin	Submarine
+Sudan	Sudan
+Categorie:Sudan	Sudan
+Sudoku	Sudoku
+Canalul Suez	Suez Canal
+Zahăr	Sugar
+Suharto	Suharto
+Achmed Sukarno	Sukarno
+Sulawesi	Sulawesi
+Sulf	Sulfur
+Iperită	Sulfur mustard
+Acid sulfuric	Sulfuric acid
+Sumatra	Sumatra
+Sumer	Sumer
+Vară	Summer
+Soare	Sun
+Categorie:Soare	Sun
+Sun Iat-sen	Sun Yat-sen
+Duminică	Sunday
+Supercomputer	Supercomputer
+Supraconductibilitate	Superconductivity
+Superman	Superman
+Supernovă	Supernova
+Curtea Supremă de Justiţie a Statelor Unite ale Americii	Supreme Court of the United States
+Sura	Sura
+Chirurgie	Surgery
+Categorie:Chirurgie	Surgery
+Surinam	Suriname
+Suprarealism	Surrealism
+Surrey	Surrey
+Susan Sontag	Susan Sontag
+Sushi	Sushi
+Suva	Suva
+Svalbard	Svalbard
+Rândunică	Swallow
+Lebădă	Swan
+Svastică	Swastika
+Swaziland	Swaziland
+Categorie:Swaziland	Swaziland
+Suedia	Sweden
+Categorie:Suedia	Sweden
+Categorie:Elveţieni	Swiss people
+Elveţia	Switzerland
+Categorie:Elveţia	Switzerland
+Sabie	Sword
+Sydney	Sydney
+Silabă	Syllable
+Sylvia Plath	Sylvia Plath
+Simfonie	Symphony
+Sinagogă	Synagogue
+Sinonim	Synonym
+Sifilis	Syphilis
+Siracuza, Sicilia	Syracuse
+Siria	Syria
+Categorie:Siria	Syria
+T	T
+T. E. Lawrence	T. E. Lawrence
+T. S. Eliot	T. S. Eliot
+Tenis de masă	Table tennis
+Tabu	Taboo
+Tacit	Tacitus
+Taekwondo	Taekwondo
+Râul Tajo	Tagus
+Tahiti	Tahiti
+Taijiquan	Tai chi chuan
+Taipei	Taipei
+Taiwan	Taiwan
+Taj Mahal	Taj Mahal
+Tadjikistan	Tajikistan
+Categorie:Tadjikistan	Tajikistan
+Talc	Talc
+Taliban	Taliban
+Tallahassee, Florida	Tallahassee
+Tallinn	Tallinn
+Talmud	Talmud
+Tamil Nadu	Tamil Nadu
+Tampa, Florida	Tampa
+Tampere	Tampere
+Dinastia Tang	Tang Dynasty
+Tanger	Tangier
+Tango	Tango (dance)
+Tanc	Tank
+Tantal (chimie)	Tantalum
+Tanzania	Tanzania
+Categorie:Tanzania	Tanzania
+Taoism	Taoism
+Tapir	Tapir
+Tarn	Tarn
+Tarhon	Tarragon
+Tartarus	Tartarus
+Tartu	Tartu
+Taşkent	Tashkent
+Tasmania	Tasmania
+Taurul (constelaţie)	Taurus (constellation)
+Taxă	Tax
+Categorie:Fiscalitate	Taxation
+Taximetru	Taxicab
+Taxonomie	Taxonomy
+Tbilisi	Tbilisi
+Ceai	Tea
+Technetiu-99m	Technetium
+Techno	Techno
+Tehnologie	Technology
+Categorie:Tehnologie	Technology
+Tegucigalpa	Tegucigalpa
+Teheran	Tehran
+Tel Aviv	Tel Aviv
+Telecomunicaţii	Telecommunication
+Telegrafie	Telegraphy
+Telepatie	Telepathy
+Telefon	Telephone
+Telescop	Telescope
+Telescopul (constelaţie)	Telescopium
+Televiziune	Television
+Categorie:Televiziune	Television
+Telur	Tellurium
+Temperatură	Temperature
+Templu	Temple
+Templul zeiţei Artemis din Efes	Temple of Artemis
+Cele zece porunci	Ten Commandments
+Tenerife	Tenerife
+Tennessee (stat SUA)	Tennessee
+Categorie:Statul Tennessee, SUA	Tennessee
+Tennessee Williams	Tennessee Williams
+Tenis de câmp	Tennis
+Categorie:Tenis	Tennis
+Tenzing Norgay	Tenzing Norgay
+Terbiu	Terbium
+Terpsichore	Terpsichore
+Terorism	Terrorism
+Categorie:Terorism	Terrorism
+Tertulian	Tertullian
+Testicul	Testicle
+Testosteron	Testosterone
+Thetys	Tethys (mythology)
+THC	Tetrahydrocannabinol
+Texas (stat SUA)	Texas
+Categorie:Statul Texas, SUA	Texas
+Thailanda	Thailand
+Categorie:Thailanda	Thailand
+Thales din Milet	Thales
+Thalia (muză)	Thalia
+Thanatos	Thanatos
+Ziua Recunoştinţei	Thanksgiving
+Ziua Recunoştinţei	Thanksgiving (Canada)
+Ziua Recunoştinţei	Thanksgiving (United States)
+Ziua Recunoştinţei	Thanksgiving (disambiguation)
+Gambia	The Gambia
+Categorie:Gambia	The Gambia
+Haga	The Hague
+The Star-Spangled Banner	The Star-Spangled Banner
+Teatru	Theatre
+Categorie:Teatru	Theatre
+Teba	Thebes
+Teba, Egipt	Thebes
+Themis	Themis
+Teocraţie	Theocracy
+Teodolit	Theodolite
+Theodor Mommsen	Theodor Mommsen
+Theodore Roosevelt	Theodore Roosevelt
+Teodosiu I	Theodosius I
+Teologie	Theology
+Teoremă	Theorem
+Teorie	Theory
+Teoria relativităţii	Theory of relativity
+Termodinamică	Thermodynamics
+Categorie:Termodinamică	Thermodynamics
+Termometru	Thermometer
+Tezeu	Theseus
+Salonic	Thessaloniki
+Tesalia	Thessaly
+Tiamină	Thiamine
+Think tank	Think tank
+Războiul de Treizeci de Ani	Thirty Years' War
+Toma de Aquino	Thomas Aquinas
+Thomas Alva Edison	Thomas Edison
+Thomas Hardy	Thomas Hardy
+Thomas Hobbes	Thomas Hobbes
+Thomas Jefferson	Thomas Jefferson
+Robert Malthus	Thomas Malthus
+Thomas Mann	Thomas Mann
+Thomas Morus	Thomas More
+Thomas Paine	Thomas Paine
+Thor	Thor
+Toriu	Thorium
+Thot	Thoth
+Tracia	Thrace
+Tucidide	Thucydides
+Pulgar	Thumb
+Turingia	Thuringia
+Categorie:Turingia	Thuringia
+Joi	Thursday
+Thymus	Thyme
+Timină	Thymine
+Tianjin	Tianjin
+Tibru	Tiber
+Tiberius	Tiberius
+Tibet	Tibet
+Cantonul Ticino	Ticino
+Maree	Tide
+Tigru (râu)	Tigris
+Tombouctou	Timbuktu
+Timp	Time
+Categorie:Timp	Time
+Time (revistă)	Time (magazine)
+Fus orar	Time zone
+Timor	Timor
+Timur Lenk	Timur
+Staniu	Tin
+Tirana	Tirana
+Ţesut	Tissue (biology)
+Titan (dezambiguizare)	Titan (disambiguation)
+Titan (satelit)	Titan (moon)
+Titan (mitologia greacă)	Titan (mythology)
+Titania (satelit)	Titania (moon)
+Titan	Titanium
+Tiziano Vecellio	Titian
+Titus Flavius Vespasianus	Titus
+Tivoli	Tivoli
+Tocantins	Tocantins (state)
+Tocoferol	Tocopherol
+Togo	Togo
+Tokio	Tokyo
+Toledo	Toledo
+Toluen	Toluene
+Tom Hanks	Tom Hanks
+Tom şi Jerry	Tom and Jerry
+Roşie	Tomato
+Tonga	Tonga
+Limbă (anatomie)	Tongue
+Tonă	Tonne
+Tony Blair	Tony Blair
+Periuţă de dinţi	Toothbrush
+Topaz	Topaz
+Topeka, Kansas	Topeka
+Categorie:Topologie	Topology
+Torah	Torah
+Tornadă	Tornado
+Toronto	Toronto
+Tortură	Torture
+Totalitarism	Totalitarianism
+Toulon	Toulon
+Toulouse	Toulouse
+Turul Franţei	Tour de France
+Turism	Tourism
+Categorie:Turism	Tourism
+Tours	Tours
+Turnul Babel	Tower of Babel
+Turnul Londrei	Tower of London
+Oraş	Town
+Toxicitate	Toxicity
+Toxicologie	Toxicology
+Jucărie	Toy
+Toyota	Toyota
+Tractor	Tractor
+Sindicat	Trade union
+Tragedie	Tragedy
+Tren	Train
+Gară	Train station
+Traian	Trajan
+Tramvai	Tram
+Număr transcendent	Transcendental number
+Transformator	Transformer
+Tranzistor	Transistor
+Transliterare	Transliteration
+Transmission Control Protocol	Transmission Control Protocol
+Categorie:Transport	Transportation
+Transilvania	Transylvania
+Trapez	Trapezoid
+Tratat	Treaty
+Tratatul de la Versailles	Treaty of Versailles
+Arbore	Tree
+Trento	Trento
+Trenton, New Jersey	Trenton
+Triunghi	Triangle
+Triunghiul (constelaţie)	Triangulum
+Triunghiul Austral (constelaţie)	Triangulum Australe
+Triasic	Triassic
+Afluent	Tributary
+Triceratops	Triceratops
+Trier	Trier
+Funcţie trigonometrică	Trigonometric function
+Trigonometrie	Trigonometry
+Categorie:Trigonometrie	Trigonometry
+Trinidad-Tobago	Trinidad and Tobago
+Trinitrotoluen	Trinitrotoluene
+Sfânta Treime	Trinity
+Tripoli	Tripoli
+Tritiu	Tritium
+Triton (satelit)	Triton (moon)
+Arc de Triumf	Triumphal arch
+Calul troian	Trojan Horse
+Războiul troian	Trojan War
+Trol	Troll
+Troll	Troll (Internet)
+Troleibuz	Trolleybus
+Trondheim	Trondheim
+Troţkism	Trotskyism
+Troia	Troy
+Autocamion	Truck
+Doctrina Truman	Truman Doctrine
+Adevăr	Truth
+Trygve Lie	Trygve Lie
+Triptofan	Tryptophan
+Ţar	Tsar
+Tsunami	Tsunami
+Tuaregi	Tuareg
+Tucanul (constelaţie)	Tucana
+Tucson, Arizona	Tucson
+Marţi	Tuesday
+Lalea	Tulip
+Tundră	Tundra
+Wolfram (element)	Tungsten
+Tunis	Tunis
+Tunisia	Tunisia
+Tunel	Tunnel
+Turbină	Turbine
+Torino	Turin
+Maşină Turing	Turing machine
+Turcia	Turkey
+Categorie:Turcia	Turkey
+Turkmenistan	Turkmenistan
+Categorie:Turkmenistan	Turkmenistan
+Broască ţestoasă	Turtle
+Toscana	Tuscany
+Tuvalu	Tuvalu
+Categorie:Tuvalu	Tuvalu
+Tycho Brahe	Tycho Brahe
+Maşină de scris	Typewriter
+Tirol (land)	Tyrol (state)
+Marea Tireniană	Tyrrhenian Sea
+U	U
+UNESCO	UNESCO
+Ufa	Ufa
+Uganda	Uganda
+Ucraina	Ukraine
+Categorie:Ucraina	Ukraine
+Ulaanbaatar	Ulan Bator
+Ulster	Ulster
+Raze ultraviolete	Ultraviolet
+Ulysses S. Grant	Ulysses S. Grant
+Umbria	Umbria
+Principiul incertitudinii	Uncertainty principle
+Şomaj	Unemployment
+Obiect zburător neidentificat	Unidentified flying object
+Uniform Resource Locator	Uniform Resource Locator
+Emiratele Arabe Unite	United Arab Emirates
+Categorie:Emiratele Arabe Unite	United Arab Emirates
+Regatul Unit	United Kingdom
+Categorie:Regatul Unit	United Kingdom
+Organizaţia Naţiunilor Unite	United Nations
+Categorie:Organizaţia Naţiunilor Unite	United Nations
+UNICEF	United Nations Children's Fund
+Statele Unite ale Americii	United States
+Categorie:Statele Unite ale Americii	United States
+United States Air Force	United States Air Force
+Congresul Statelor Unite ale Americii	United States Congress
+Constituţia Statelor Unite ale Americii	United States Constitution
+Camera Reprezentanţilor a Statelor Unite ale Americii	United States House of Representatives
+United States Navy	United States Navy
+Senatul Statelor Unite ale Americii	United States Senate
+Insulele Virgine Americane	United States Virgin Islands
+Dolar american	United States dollar
+Univers	Universe
+Universitate	University
+Universitatea Chicago	University of Chicago
+UNIX	Unix
+Ununbiu	Ununbium
+Ununtriu	Ununtrium
+Uppsala	Uppsala
+Ur	Ur
+Uracil	Uracil
+Munţii Ural	Ural Mountains
+Urania	Urania
+Uraniu	Uranium
+Uranus (planetă)	Uranus
+Categorie:Uranus	Uranus
+Uranus (mitologie)	Uranus (mythology)
+Limba urdu	Urdu
+Ursa Mare	Ursa Major
+Ursa Mică (constelaţie)	Ursa Minor
+Uruguay	Uruguay
+Categorie:Uruguay	Uruguay
+Utah (stat SUA)	Utah
+Categorie:Statul Utah, SUA	Utah
+Uter	Uterus
+Utilitarism	Utilitarianism
+Utrecht	Utrecht (city)
+Utrecht (provincie)	Utrecht (province)
+Uttar Pradesh	Uttar Pradesh
+Uzbekistan	Uzbekistan
+Categorie:Uzbekistan	Uzbekistan
+V	V
+Vaccin	Vaccine
+Vid	Vacuum
+Vaduz	Vaduz
+Vagin	Vagina
+Valence	Valence
+Valencia	Valencia
+Ziua îndrăgostiţilor	Valentine's Day
+Walhalla	Valhalla
+Walkirie	Valkyrie
+Valletta	Valletta
+Vanadiu	Vanadium
+Vancouver	Vancouver
+Vanir	Vanir
+Vanuatu	Vanuatu
+Categorie:Vanuatu	Vanuatu
+Var (departament)	Var (department)
+Varna	Varna
+Cormofit	Vascular plant
+Vatican	Vatican City
+Categorie:Vatican	Vatican City
+Vector (spaţial)	Vector (spatial)
+Legumă	Vegetable
+Vegetarianism	Vegetarianism
+Velele (constelaţie)	Vela (constellation)
+Veneto	Veneto
+Venezuela	Venezuela
+Categorie:Venezuela	Venezuela
+Veneţia	Venice
+Venus (planetă)	Venus
+Venus (zeiţă)	Venus (mythology)
+Verb	Verb
+Vermont (stat SUA)	Vermont
+Categorie:Statul Vermont, SUA	Vermont
+Verona	Verona
+Versailles	Versailles
+Vertebrata	Vertebrate
+Vespasian	Vespasian
+Vesta	Vesta (mythology)
+Vicepreşedinte al Statelor Unite ale Americii	Vice President of the United States
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Victoria, Seychelles	Victoria
+Victoria, Columbia Britanică	Victoria
+Cascada Victoria	Victoria Falls
+Jocuri video	Video game
+Viena	Vienna
+Vienne	Vienne
+Vietnam	Vietnam
+Categorie:Vietnam	Vietnam
+Războiul din Vietnam	Vietnam War
+Vikingi	Viking
+Vilfredo Pareto	Vilfredo Pareto
+Sat	Village
+Vilnius	Vilnius
+Vincent Van Gogh	Vincent van Gogh
+Vincenzo Bellini	Vincenzo Bellini
+Violă	Viola
+Vioară	Violin
+Publius Vergilius Maro	Virgil
+Virginia (stat SUA)	Virginia
+Categorie:Statul Virginia, SUA	Virginia
+Virginia Woolf	Virginia Woolf
+Fecioara (constelaţie)	Virgo (constellation)
+Virus	Virus
+Viscozitate	Viscosity
+Vişnu	Vishnu
+Vistula	Vistula
+Vitamină	Vitamin
+Retinol	Vitamin A
+Vitamina B6	Vitamin B6
+Vitamina C	Vitamin C
+Vittorio De Sica	Vittorio De Sica
+Vivien Leigh	Vivien Leigh
+Vladimir Ilici Lenin	Vladimir Lenin
+Vladimir Nabokov	Vladimir Nabokov
+Vladimir Putin	Vladimir Putin
+Vladivostok	Vladivostok
+Cazul vocativ	Vocative case
+Vodkă	Vodka
+Peştele Zburător (constelaţie)	Volans
+Vulcan (geografie)	Volcano
+Categorie:Vulcanologie	Volcanology
+Volga	Volga River
+Volgograd	Volgograd
+Volei	Volleyball
+Volt	Volt
+Tensiune electrică	Voltage
+Voltaire	Voltaire
+Volum	Volume
+Vaudou	Voodoo
+Vocală	Vowel
+Vulcan (zeu)	Vulcan (mythology)
+Latina vulgară	Vulgar Latin
+Biblia Vulgata	Vulgate
+Vulpea (constelaţie)	Vulpecula
+Vulvă	Vulva
+W	W
+William Somerset Maugham	W. Somerset Maugham
+WYSIWYG	WYSIWYG
+Ţara Galilor	Wales
+Morsă	Walrus
+Walt Disney	Walt Disney
+Walt Whitman	Walt Whitman
+Walter Gropius	Walter Gropius
+Război	War
+Crimă de război	War crime
+Războiul celor Două Roze	Wars of the Roses
+Varşovia	Warsaw
+Washington, DC	Washington
+Washington (stat SUA)	Washington
+Washington (dezambiguizare)	Washington (disambiguation)
+Vasili Kandinski	Wassily Kandinsky
+Apă	Water
+Categorie:Apă	Water
+Polo pe apă	Water polo
+Cascadă	Waterfall
+Afacerea Watergate	Watergate scandal
+Watt	Watt
+Watt-oră	Watt-hour
+Undă	Wave
+Lungime de undă	Wavelength
+Armă	Weapon
+Browser	Web browser
+Pagină Web	Web page
+Website	Website
+Săptămână	Week
+Greutate	Weight
+Weimar	Weimar
+Republica de la Weimar	Weimar Republic
+Sudare	Welding
+Wellington	Wellington
+Wernher von Braun	Wernher von Braun
+Râul Weser	Weser River
+Vest	West
+Bengalul de Vest	West Bengal
+Berlinul de Vest	West Berlin
+Germania de Vest	West Germany
+West Sussex	West Sussex
+West Virginia (stat SUA)	West Virginia
+Imperiul Roman de Apus	Western Roman Empire
+Sahara Occidentală	Western Sahara
+Catedrala Westminster	Westminster Abbey
+Balenă	Whale
+Grâu	Wheat
+Roată	Wheel
+Whisky	Whisky
+Casa Albă	White House
+Marea Albă	White Sea
+Leucocită	White blood cell
+Pitică albă	White dwarf
+Wicca	Wicca
+Wiesbaden	Wiesbaden
+Pisică sălbatică	Wildcat
+Wilhelm Ostwald	Wilhelm Ostwald
+William Blake	William Blake
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Gladstone	William Gladstone
+William Golding	William Golding
+William Harvey	William Harvey
+William Henry Harrison	William Henry Harrison
+William Herschel	William Herschel
+William Howard Taft	William Howard Taft
+Wilhelm I al Germaniei	William I
+Wilhelm al II-lea al Germaniei	William II
+William McKinley	William McKinley
+William Rowan Hamilton	William Rowan Hamilton
+William Shakespeare	William Shakespeare
+William Bradford Shockley	William Shockley
+William Wordsworth	William Wordsworth
+William Ockham	William of Ockham
+Salcie	Willow
+Willy Brandt	Willy Brandt
+Energie eoliană	Wind power
+Windhoek	Windhoek
+Moară de vânt	Windmill
+Vin	Wine
+Winnipeg, Manitoba	Winnipeg
+Winston Churchill	Winston Churchill
+Iarnă	Winter
+Jocuri Olimpice de iarnă	Winter Olympic Games
+Categorie:Jocurile Olimpice de iarnă	Winter Olympic Games
+Wisconsin (stat SUA)	Wisconsin
+Categorie:Statul Wisconsin, SUA	Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Wolfgang Pauli	Wolfgang Pauli
+Femeie	Woman
+Lemn	Wood
+Woodrow Wilson	Woodrow Wilson
+Woody Allen	Woody Allen
+Worcestershire	Worcestershire
+Cuvînt	Word
+Procesor de text	Word processor
+Banca Mondială	World Bank
+Organizaţia Mondială a Sănătăţii	World Health Organization
+World Trade Center	World Trade Center
+Organizaţia Mondială a Comerţului	World Trade Organization
+Primul Război Mondial	World War I
+Categorie:Primul război mondial	World War I
+Al Doilea Război Mondial	World War II
+Categorie:Al doilea război mondial	World War II
+World Wide Web	World Wide Web
+Categorie:World Wide Web	World Wide Web
+Război mondial	World war
+Vierme	Worm
+Gaură de vierme	Wormhole
+Scriitor	Writer
+Wuhan	Wuhan
+Wyoming (stat SUA)	Wyoming
+X	X
+Radiaţie X	X-ray
+Xenon	Xenon
+Xenofan	Xenophanes
+Xenofobie	Xenophobia
+Xenofon	Xenophon
+Xinjiang	Xinjiang
+Y	Y
+YHWH	Yahweh
+Universitatea Yale	Yale University
+Ialta	Yalta
+Conferinţa de la Ialta	Yalta Conference
+Yangon	Yangon
+Yangtze	Yangtze River
+Yasser Arafat	Yasser Arafat
+An	Year
+Categorie:Ani	Years
+Galben	Yellow
+Fluviul Galben	Yellow River
+Marea Galbenă	Yellow Sea
+Parcul Naţional Yellowstone	Yellowstone National Park
+Yemen	Yemen
+Categorie:Yemen	Yemen
+Enisei	Yenisei River
+Erevan	Yerevan
+Yggdrasil	Yggdrasil
+Yo-yo	Yo-yo
+Yoga	Yoga
+Iaurt	Yoghurt
+Yokohama	Yokohama
+Iom Kipur	Yom Kippur
+Războiul de Yom Kippur	Yom Kippur War
+York	York
+Parcul Naţional Yosemite	Yosemite National Park
+Yterbiu	Ytterbium
+Ytriu	Yttrium
+Dinastia Yuan	Yuan Dynasty
+Iugoslavia	Yugoslavia
+Categorie:Iugoslavia	Yugoslavia
+Yukon	Yukon
+Yunnan	Yunnan
+Iuri Gagarin	Yuri Gagarin
+Z	Z
+Zachary Taylor	Zachary Taylor
+Zagreb	Zagreb
+Zambezi	Zambezi
+Zambia	Zambia
+Categorie:Zambia	Zambia
+Zanzibar	Zanzibar
+Zaragoza	Zaragoza
+Zealand	Zealand
+Zebră	Zebra
+Zen	Zen
+Zenit	Zenith
+Zenon (împărat)	Zeno (emperor)
+Zenon din Eleea	Zeno of Elea
+Zeus	Zeus
+Zeus	Zeus (disambiguation)
+Zimbabwe	Zimbabwe
+Categorie:Zimbabwe	Zimbabwe
+Zinc	Zinc
+Sionism	Zionism
+Zirconiu	Zirconium
+Zodiac	Zodiac
+Zoologie	Zoology
+Categorie:Zoologie	Zoology
+Zarathustra	Zoroaster
+Zoroastrism	Zoroastrianism

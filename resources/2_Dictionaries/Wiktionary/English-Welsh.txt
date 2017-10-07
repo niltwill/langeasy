@@ -1,0 +1,1975 @@
+English	Welsh
+A	bom atomig
+Abkhaz	Abcaseg
+Adam and Eve	Adda ac Efa
+Afghanistan	Affganistan
+Afrikaans	Affricaneg
+Alan	Alawn, Alun
+Albania	Albania (f)
+Alexander	Alec
+Algeria	Algeria
+Alps	Alpau, Yr Alpau
+American bison	bual
+Andorra	Andorra
+Ankara	Ankara
+April	Ebrill (m)
+Argentina	Ariannin (f)
+Armageddon	Armagedon
+Armenia	Armenia
+Asia	Asia
+Athens	Athen
+August	Awst (m)
+Australia	Awstralia
+Australian Capital Territory	Tiriogaeth Prifddinas Awstralia
+Austria	Awstria (f)
+Azerbaijan	Aserbaijan, Azerbaijan
+Bahrain	Bahrain
+Balearic Islands	Ynysoedd Balearig
+Baltic Sea	Môr Baltig (m)
+Bambara	Bambara
+Beijing	Beijing
+Belarus	Belarws, Rwsia Wen
+Belarusian	Belarwsiyn
+Belgium	Gwlad Belg (f)
+Belorussian	Belarwsiyn
+Berlin	Berlin (f)
+Bethlehem	Bethlehem
+Bhutan	Bhutan
+Bible	Beibl
+Black Death	Pla Du
+Black Sea	Môr Du
+Bosnia and Herzegovina	Bosna a Hercegovina
+Bosphorus	Bosphorus
+Boxing Day	Gŵyl San Steffan (f); Dydd San Steffan (m)
+Brazil	Brasil
+Breton	Llydaweg
+Bristol	Bryste (f)
+Briton	Brython
+Brittany	Llydaw
+Bronze Age	Yr Oes Efydd
+Brussels	Brwsel
+Bulgarian	Bwlgaraidd
+California	Califfornia
+Cambridge	Caergrawnt (f)
+Canada	Canada
+Canada goose	Gŵydd Canada
+Canary Islands	Ynysoedd Dedwydd
+Cape Verde	Cabo Verde
+Cardiff	Caerdydd (f)
+Carthage	Carthago
+Catalan	Catalaneg
+Catholicism	Catholigiaeth
+China	Tsieina
+Chinese	Tsieineeg, Tseineg
+Christ	Crist, Iesu Grist
+Christmas	Nadolig
+Christmas Eve	Noswyl Nadolig (f)
+Christmas tree	coeden Nadolig
+Christopher	Cristoffer
+Coca	Coca-Cola
+Constantine	Cystenian
+Constantinople	Caergystennin
+Cornish	Cernyweg
+Cornwall	Cernyw (f)
+Crimean Tatar	Tatareg Crimea
+Croatian	Croataidd
+Czech	Tsieceg
+Czech Republic	Y Weriniaeth Tsiec
+Daniel	Daniel (m)
+Danish	Daneg
+Danube	Afon Donwy
+David	Dafydd; Dewi
+December	Rhagfyr (m)
+Denmark	Denmarc (f)
+Dhivehi	divehi
+Dublin	Dulyn (f)
+Dutch	iseldireg
+Dutchman	Iseldirwr (m)
+Earth	y Ddaear
+Easter	Pasg
+Edinburgh	Caeredin (f)
+Edmonton	Edmonton
+Egypt	Aifft (f)
+England	Lloegr (f)
+English	Saesneg
+English Channel	Môr Udd (m)
+Englishman	Sais (m)
+Englishwoman	Saesnes (f)
+Estonia	Estonia
+Europe	Ewrop (f)
+European	Ewropeaidd
+Excalibur	Caledfwlch
+Faroese	Ffaroes
+February	Chwefror
+Finland	y Ffindir (m)
+Formula One	Fformiwla Un
+France	Ffrainc (f)
+Francis	Ffransis
+French	Ffrangeg
+Friday	dydd Gwener (m)
+GDP	CMC
+Gaza Strip	Llain Gaza
+George	Siôrs, Siôr, Siors, Siorys
+German	Almaenwr (m)
+Germany	Almaen (f)
+Ghent	Gent
+Goa	Goa
+God knows	Duw a wyr
+Great Britain	Prydain Fawr
+Great Lakes	Llynnoedd Mawr
+Great Pyramid of Giza	Pyramidau'r Aifft
+Greece	Groeg (f)
+Greek	Groeg
+Greek Orthodox Church	Eglwys Uniongred Groeg
+Greenland	Ynys Las (f)
+Gujarati	Gwjarati
+Halloween	Nos Galan Gaeaf (f); Nos Glangaea
+Happy Easter	Pasg Hapus
+Hebrides	Ynysoedd Heledd
+Henry	Harri
+Hindi	hindi
+Holocaust	yr Holocost
+Holy Ghost	Ysbryd Glân (m)
+Holy Spirit	Ysbryd Glân (m)
+Hong Kong	Hong Kong
+Hugh	Huw
+Hungary	Hwngari
+I	mi; fi
+I hate you	dwi'n dy gasau
+I must go	mae'n rhaid i mi fynd
+Iceland	Gwlad yr Iâ
+India	India
+Indian Ocean	Cefnfor India; Cefnfor India
+Indonesia	Indonesia
+Internet	Rhyngrwyd
+Iraq	Irac
+Ireland	Iwerddon (f)
+Irish	Gwyddelod; Gwyddyl
+Irish Sea	Môr Iwerddon (m)
+Islamic	Islamaidd
+Isle of Man	Ynys Manaw
+Italian	Eidaleg
+Italy	Eidal (f)
+Jabberwock	Siaberwoc
+Jack	Jac
+Jamaica	Jamaica
+James	Iago (m)
+Jane	Siân
+January	Ionawr (f) 
+Japan	Japan
+Jerusalem	Jeriwsalem
+Jesus	Iesu
+Jesus Christ	Iesu Grist (m)
+Jewish	Iddewaidd
+John	Ioan (m); Ieuan (m); Siôn (m)
+Joseph	Joseff (m)
+Joshua	Josua (m)
+Judges	Barnwyr
+July	Gorffennaf (m)
+June	Mehefin (m)
+Jupiter	Iau (m)
+Justin	Iestyn
+Kannada	kannada
+Karnataka	Karnataka
+Kazakhstan	Casacstan
+Khartoum	Khartoum
+Klingon	klingon
+LGBT	LHDT
+LOL	CAYU
+Lady	Arglwyddes, Boneddiges, Bonesig
+Latin	Lladin
+Latvia	Latfia
+Lent	grawys (m)
+Leo	Leo
+Lithuania	Lithwania
+Liverpool	Lerpwl (f)
+London	Llundain (f)
+Luke	Luc (m)
+Lyons	Lyon
+Magna Carta	Magna Carta
+Manchester	Manceinion (f)
+Manx Gaelic	Manaweg (m)
+Manx cat	cath gota (f); cath Ynys Manaw (f)
+Maoism	maoaeth
+March	Mawrth (m)
+Mark	Marc (m)
+Mars	Mawrth
+Mary	Mair (f)
+Matthew	Mathew (m); Yr Efengyl yn ôl Sant Mathew (f)
+May	Mai (m)
+Mediterranean Sea	Y Môr Canoldir
+Member of Parliament	Aelod Seneddol
+Mercury	Mercher (m)
+Merry Christmas	Nadolig Llawen
+Merry Christmas and a Happy New Year	Nadolig llawen a blwyddyn newydd dda
+Mexico	Mexico; Mecsico
+Michael	Mihangel
+Middle East	Dwyrain Canol
+Miss	bonesig
+Monday	dydd Llun (m)
+Moon	lleuad; lloer
+Moscow	Moskva (f)
+Moses	Moses (m)
+Mount Everest	Mynydd Everest
+Mr	Mr
+Mr.	Mr
+Muhammad	Muhammad
+Muslim	Mwslim (n), Mwslimaidd (a)
+Namibia	Namibia
+Naypyidaw	Naypyidaw
+Neptune	Neifion
+New Jersey	New Jersey
+New South Wales	De Cymru Newydd
+New York	Efrog Newydd (f); Talaith Efrog Newydd (f)
+New York City	Dinas Efrog Newydd
+New Zealand	Seland Newydd
+North Sea	Môr y Gogledd
+Norway	Norwy
+Norwegian	Norwyeg
+November	Tachwedd (m)
+Occitan	Ocitan
+October	Hydref
+Olympic Games	Gemau Olympaidd
+Ouagadougou	Ouagadougou
+Our Lady	Ein Harglwyddes
+Oxford	Rhydychen (f)
+Pacific Ocean	Y Cefnfor Tawel
+Patras	Patras
+Patrick	Padrig (m)
+Paul	Phaul
+Pichilemu	Pichilemu
+Pisces	Pysgod
+Poland	Gwlad Pwyl
+Polish	Pwyleg
+Portugal	Portwgal (f)
+Portuguese	Portiwgaleg
+Pythagoras	Pythagoras
+Quechua	Cetshwa
+Red Sea	Môr Coch
+Richard	Rhisiart
+Roman	Ymerodraeth
+Roman Empire	Yr Ymerodraeth Rufeinig
+Romania	Rwmania (f)
+Rome	Rhufain
+Russia	Rwsia (f)
+Russian	Rwsieg
+Russian Federation	Ffederasiwn Rwsia
+Ruth	Ruth (f)
+Sanskrit	Sansgrit
+Santa Claus	Siôn Corn
+Saturday	dydd Sadwrn (m)
+Saturn	Sadwrn (m)
+Scandinavia	Llychlyn
+Scheldt	Afon Schelde
+Scotland	Alban (f)
+Scottish Gaelic	Gaeleg yr Alban
+September	Medi (m)
+Serbian	Serbeg
+Snow White	Eirâ Gwyn
+Socinian	Sociniaid
+Solar System	Cysawd yr Haul
+South Africa	De Affrica
+South Ossetia	De Ossetia
+Soviet Union	Undeb Sofietaidd
+Spain	Sbaen (f)
+Spanish	Sbaeneg
+Sparta	Sparta
+Sri Jayawardenepura Kotte	Sri Jayawardenapura Kotte
+Stone Age	Oes y Cerrig
+Sudan	Swdan, Siwdan
+Sun	Haul
+Sunday	Dydd Sul
+Sweden	Sweden
+T	crys-t (m)
+Tallinn	Tallinn
+Tanganyika	Llyn Tanganyika
+Tanzania	Tanzania
+Tel Aviv	Tel Aviv
+Telugu	telugu
+Thai	Tai
+Thailand	Gwlad Thai
+Thames	Afon Tafwys
+The Hague	Den Haag
+Thomas	Tomos
+Thursday	dydd Iau (m)
+Trinity	Trindod (m)
+Tuesday	dydd Mawrth (m)
+Turkmenistan	Twrcmenistan
+Twin Towers	Canolfan Masnach y Byd
+Ukraine	Wcráin
+Ukrainian	Iwcranaidd
+United Kingdom	Teyrnas Unigol (f)
+United States of America	Unol Daleithiau America
+Uranus	Wranws
+Venus	Gwener (f)
+Victor	Gwythyr
+Vishnu	Vishnu
+Wales	Cymru (f)
+Wednesday	dydd Mercher
+Welsh	Cymreig
+Welshman	Cymro
+Western Europe	Gorllewin Ewrop
+Western Sahara	Gorllewin Sahara
+Wikipedia	wicipedia
+Wiktionary	Wiciadur
+William	Gwilym, Gwillim
+World Wide Web	Gwe Fyd-Eang (f)
+Yangtze	Afon Yangtze
+Yaoundé	Yaoundé
+Yerevan	Yerevan
+Zeeland	Sealand
+a lot	llawer
+a.m.	y.b.
+abandon	gadael
+abase	darostwng, iselhau
+abbot	abad (m)
+abduct	cipio
+abhor	сashau
+ability	gallu
+abolish	diddymu
+abort	erthylu
+abortion	erthylu (c)
+above	uwchben
+acid	asidig
+acoustic guitar	gitâr acwstig; gitâr clybodig
+act	deddf
+actinium	actiniwm
+activity	gweithgaredd (m)
+adapt	addasu
+add	ychwanegu
+addition	ychwanegiad (m)
+address	cyfeiriad (m); cyfeiriadau
+adjustment	cyweiriad (m)
+administrative	gweinyddol
+admiration	edmygedd
+admire	edmygu
+admit	gadael i mewn
+advantage	mantais (f); manteision
+aeroplane	awyren (f)
+again	eto
+age	yr
+aggressive	gormesol
+ago	yn ôl
+aid	cymorthwyo
+air	aer
+airplane	awyren (f)
+al	Al-Qaeda
+alarm clock	cloc larwm
+album	albwm (m)
+alder	gwern
+alive	byw
+all	pob; holl
+all rights reserved	cedwir pob hawl
+aluminium	alwminiwm
+amber	ambr
+ambulance	ambiwlans (m)
+americium	americiwm
+ampersand	ampersand
+anaconda	neidr (f)
+and	(italbrac'preconsonantal) a#Welsh'a, (italbrac'prevocalic) ac#Welsh'ac
+angel	angel (m); angyles (f)
+animal	anifail (m); (m)
+ankle	migwrn (m)
+answer	ateb
+ant	morgrugyn ('collective', morgrug)
+antimony	antimoni
+antonym	gwrthwynebair
+anus	anws
+apologize	ymddiheurio
+appear	ymddangos
+apple	coeden afalau, (lit.)afallen
+apple tree	coeden afalau, (lit.) afallen
+appreciate	gwerthfawrogi
+approach	nesáu (at)
+appropriate	priodol
+apricot	bricyllen (f); bricyll
+apron	ffedog
+aqueduct	pont cario dŵr; traphont
+archangel	archangel (m)
+archer	saethydd (m); saethyddion
+archery	saethyddiaeth (f)
+architecture	pensaernïaeth
+argent	gwynn
+argon	argon (g'cy)
+arm	braich
+arrange	trefnu
+arrest	arestio
+arrow	saeth (f)
+arsenic	ársenig
+ash	lludw (m)
+ashtray	(m)
+ask	gofyn; holi; ceisio
+ass	tin (f)
+astatine	astatin
+asterisk	seren (f)
+astronomy	seryddiaeth (f)
+at	wrth; ger; yn
+at sign	malwen, malwoden
+atheism	anffyddiaeth
+atomic bomb	bom atomig
+atomic number	rhif atomig (m)
+atonement	iawn (m)
+attend	mynychu
+attention	ystyriaeth (f)
+attentive	astud; sylwgar
+attic	taflod (f)
+audio	sain
+aunt	modryb (f)
+autumn	hydref
+baby	baban (m)
+babysitter	gwarchodwr banbanod
+bacon	cig moch
+bad	drwg
+badger	mochyn daear (m); broch
+badminton	badminton (m)
+bag	cwdyn (m)
+baker	pobydd
+bakery	becws (m)
+bald	moel
+balloon	balŵn
+banana	banana (m); ffrwchnedd (m)
+banjo	banjô (g'cy)
+banknote	papur punt
+barium	bariwm
+bark	cyfarthiad (m)
+barley	haidd (m) 'collective', barlys (m) 'or' (f) 'collective'
+barn owl	tylluan wen
+basalt	basalt
+basket	basged
+basketball	pêl fasged
+bat	bat (m'f)
+bathroom	ystafell ymolchi (m)
+battering ram	dyrnhwrdd
+battle	cad
+bay	bae (m)
+bayonet	bidog (m)
+be	(rendered by verb form)
+beach	traeth (m), -au (p)
+bean	ffa
+bear	arth (m)
+beard	barf
+beautiful	hardd; prydferth
+beauty	harddwch (m); prydferthwch (m)
+beaver	afanc, llostlydan
+because	achos
+bed	gwely
+bedroom	ystafell wely (f), llofft (f)
+bee	gwenynen (f); gwenyn 
+beech	ffawydd (f)
+beer	cwrw
+beetle	chwilen
+believe	credu
+berkelium	berkeliwm
+beryllium	berilliwm
+best	gorau
+best regards	dymuniadau gorau, cofion cynnes
+better	gwell
+better late than never	gwell hwyr na hwyrach
+between	rhwng
+bicycle	beic (m)
+big	mawr
+bike	beic modur (m)
+bile	bustl (m)
+binomial nomenclature	enw deuenwol
+biological	biolegol
+biology	bioleg (f)
+bipolar disorder	anhwylder deubegwn
+bird	aderyn (m)
+birds of a feather flock together	adar o'r unlliw hedant i'r unlle
+birth	genedigaeth (f)
+birthday	penblwydd (m)
+birthmark	man geni (m)
+biscuit	bisged
+bishop	esgob (m)
+bismuth	bismwth
+bitch	gast; llwynoges
+bitter	chwerw
+black	du
+black grouse	grugiar ddu
+black pudding	gwaedogen (f)
+black woodpecker	cnocell ddu; coblyn du
+blackberry	mwyaren (f)
+blackbird	mwyalchen
+blacksmith	gof
+blanket	flanced
+bleed	gwaedu
+blog	blogio
+blond	penfelyn
+blood	gwaed (m)
+blood is thicker than water	gwaed yn dewach na dŵr
+bloody	gwaedlyd
+blue	glas
+boarding school	ysgol breswyl (f)
+boat	cwch, bad (m)
+body	corff
+bodybuilding	corfflunio
+bomb	bom (m)
+bone	blew pysgodyn (n'p)
+book	cosbi; bwcio
+bookmark	llyfrnod (m)
+bookshop	siop lyfrau (f)
+boron	boron
+bottle	potel (f)
+boundary	ffin (f)
+bovine spongiform encephalopathy	Enseffalopathi Sbyngffurf Buchol; Ymenyddglwyf Sbungfurff Gwartheg; Clefyd y Gwartheg Gwallgof
+bow	bwa (m)
+bowling	bowlio (m)
+box	bocs
+boy	bachgen (m); bechgyn
+brain	ymennydd
+bran	eisin
+bread	bara (m)
+breakfast	borefwyd (m)
+bream	merfog
+breath	anadl (m); anadlau
+breathe	anadlu
+breeze	awel (f); awelon
+brew	bragu
+brewery	bracty (m); bractai
+bridge	pont; pontydd
+bright	hoyw
+broadband	band llydan
+broadcast	darllediad (m)
+bromine	bromin
+bronze	efydd (m)
+broom	banadl
+brother	brawd
+brown	brown
+bucket	bwced (m)
+buckwheat	gwenith yr haidd
+building	adeiladu
+bull	tarw (m)
+bus	bws (m)
+bush	llwyn (m)
+busy	prysur
+but	ac eithrio
+butterfly	pili-pala; iâr fach yr haf; glöyn byw
+buzzard	bwncath
+by the Grace of God	Trwy Ras Duw
+by the way	gyda llaw
+cabbage	bresych(en)
+cadmium	cadmiwm
+caesium	cesiwm
+cake	teisen (f)
+calcium	calsiwm
+calf	llo (m)
+californium	califforniwm
+camel	camel (m)
+camouflage	cuddliw (m)
+camp	gwersyll (m)
+can	can (m)
+canal	camlas
+cancer	cancr
+candle	cannwyll (f)
+canoe	ceufad, canŵ
+capercaillie	grugiar y coed
+capital	cyfalaf
+capital city	prifddinas (f)
+capon	capwllt; capwrn
+car	cerbyd, car
+car park	parciau cehr
+caramel	caramel (m)
+carbohydrate	carbohydrad (m)
+carbon	carbon
+cardinal number	rhif prifol
+carpenter	saer coed (m)
+carpet	carped (m)
+carrot	moron
+cartridge	cetris
+cashew	cashiw
+cashew nut	cnau cashiw (f)
+castle	caer (f); castell (m)
+cat	cath (f)
+cathedral	eglwys gadeiriol (f)
+cauldron	crochan (m)
+cause	achosi
+cave	ogof
+cedar	cedrwydd
+cello	soddgrwth (m)
+cellular	cellog (m)
+census	cyfrifiad (m)
+centaur	dynfarch (m)
+centipede	neidr gantroed
+century	canrif (f)
+cerium	ceriwm
+chain	cadwyn (f)
+chair	cadair (f); ystôl (f)
+chamois	gafrewig
+champion	hyrwyddwr
+championship	bencampwriaeth
+change	amnewid
+chapel	betws (m); capel (m)
+chase	erlid
+cheers	iechyd da
+cheese	caws (m)
+chess	gwyddbwyll (m); sies (m)
+chewing gum	gwm cnoi (m)
+chicken	cyw, iâr, cyw iâr
+child	plentyn dan oed
+children	plant
+chimpanzee	tsimpansî
+chive	cenin sifi (f)
+chlorine	clorin
+chocolate	siocled
+choice	dewis
+choir	côr
+choose	dewis
+chord	cord
+chromium	cromiwm
+church	eglwys (f); llan (f)
+cider	osai (m); afalwy
+cigarette	sigarét (f)
+circle	cylch (m)
+citadel	chadarnle (m)
+citizen	dinesydd (m)
+citizenship	dinasyddiaeth (f)
+city	caer (f); dinas (f)
+clarinet	clarinét
+classification	dosbarthiad
+cliff	garth
+climate change	newid hinsawdd
+climb	dringo
+clipboard	clipfwrdd (m)
+clock	cloc (m)
+clockwise	clocwedd
+clothes	dillad
+cloud	cwmwl (m); cymylau (m)
+clutch	cydiwr
+coal	glo (m)
+coast	arfordir, goror, mordir
+cobalt	cobalt
+cobbler	crydd (m)
+cockroach	chwilod duon
+coconut	cnau coco
+coffee	ffa coffi
+coin	bathu
+cold	anghynnes, oeraidd
+cold war	y rhyfel oer
+collection	Casgliad (f)
+colon	colon (m)
+colonel	gyrnol
+color	lliw (f)
+columbine	troed-y-golomen
+combat	brwydr (f)
+come	dod
+common gull	y gweunydd
+common kestrel	cudyll coch
+communism	comiwnyddiaeth
+compact disc	cryno ddisg
+compass	cwmpawd (m)
+complain	achwyn
+component	darn (m)
+computer	cyfrifiadur (m)
+computer science	cyfrifiadureg (f)
+concept	cysyniad (m)
+condemn	condemnio
+confectionery	cyffaith
+connective tissue	meinwe cyswllt
+consist	cynnwys
+continent	cyfandir (m)
+continental shelf	sgafell gyfandirol (f)
+conversation	sgwrs (m)
+cooperate	cydweithio
+copernicium	coperniciwm
+copper	copor
+copy	copïo; efelychu
+copyright	hawlfraint (f)
+correct	cywir
+cottage	tyddyn
+countable	rhifadwy
+country	gwlad
+countryside	cefn gwlad (m)
+county	sir (f)
+courage	hyfdra (m)
+courtyard	cwrt
+cousin	cefnder; cyfnither
+cow	buwch (f)
+crab	cranc (m)
+creator	crëwr
+cricket	criced (m)
+criminal	troseddwr (m)
+crimson	rhudd
+criticise	beirniadu
+crow	brân (f)
+crown	coron (f)
+crown princess	tywysoges goron
+cruel	creulon
+crystal	crisial (m)
+cuckoo	cog
+culture	diwylliant (m)
+curium	curiwm
+currency	arian breiniol
+curse	rhegi
+curtain	llen (f); llenni (f)
+cushion	clustog (m); clustogau (m)
+customer	cwsmer (m)
+cycling	beicio (m)
+daffodil	cenhinen Bedr (f)
+dagger	bidog (m); bidogau
+dale	dyffryn; dôl
+damage	amharu
+dance	dawnsio
+danger	perygl (m)
+dangerous	peryglus
+dark	tywyll
+darkness	tywyllwch
+darling	cariad (m)
+dash	ystremp (f); ystrempiau
+date	oed (m)
+date palm	palmwydden ddatys
+daughter	merch-yng-nghyfraith (f)
+dawn	sylweddoli
+day	dydd (m); dwthwn (m)
+dazzle	dallu
+deaf	byddar (m); byddair
+dear	annwyl
+decade	degawd (m)
+deer	carw
+definite	pendant
+delete	dileu
+delicious	blasus
+democracy	democratiaeth
+demon	cythraul
+dentist	deintydd
+deodorant	diaroglydd (m)
+depression	dirwasgiad
+desert	anialwch, diffeithdir
+deuterium	dewteriwm
+dew	gwlith
+dialect	tafodiaith (f)
+dialectology	tafodieitheg
+diarrhea	dolur rhydd (m)
+diary	dyddiadur
+dictionary	geiriadur (m)
+die	marw
+difficult	anodd
+dildo	cala goeg (f)
+dingo	dingo
+dinosaur	deinosor
+diploma	tystysgrif
+discover	darganfod
+discussion	trafodaeth
+disease	clefyd; afiechyd
+ditch	ffos (f)
+dobra	dobra
+doctor	meddyg (m)
+dodecahedron	dodecahedron
+dog	ci (m)
+donate	rhoi
+donation	cyfraniad
+donkey	asyn
+door	drws
+dormouse	pathew
+double bass	bas dwbl (m); basgrwth (m)
+dough	toes
+doughnut	toesen (m)
+dove	colomen (f)
+dragon	draig (f)
+dragonfly	gwas y neidr (m)
+dream	breuddwydio
+driver	gyrrwr
+drizzle	glaw mân
+dromedary	camel rhedeg
+droplet	defnyn (m)
+drunk	meddw; wedi; meddwi
+dry	sychu
+duchy	dugiaeth
+duck	hwyad (f); hwyaden (f)
+dynamite	deinameit (f)
+dyslexia	dyslecsia
+dysprosium	dysprosiwm
+e	e-bost (m)
+each	pob#Welsh'pob
+eagle	eryr
+eagle owl	tylluan fawr, tylluan eryraidd
+earl	iarll (m)
+early	yn fore; cynnar
+earth	daear (f)
+earthquake	daeargryn
+east	tua'r dwyrain
+easy	rhwydd
+eco	eco-
+ecology	ecoleg
+economics	economeg
+educate	addysgu
+education	addysg (f)
+eel	llysywen (m)
+effeminate	merchetaidd
+egg	ŵy (m)
+eight	wyth
+eighteen	deunaw (vigesimal, traditional), un deg wyth (decimal)
+eighth	wythfed ('abbreviation' 8fed)
+eighty	pedwar ugain 'vigesimal, traditional', wyth deg 'decimal'
+einsteinium	einsteiniwm
+electrician	trydanwr (m)
+electricity	trydan
+elephant	eliffant
+eleven	unarddeg 'vigesimal, traditional', un deg un 'decimal'
+eleven hundred	cant a mil
+eleventh	unfed ar ddeg ('abbreviation' 11ed)
+elm	llwyfen (f)
+emperor	ymerawdwr
+encyclopedia	gwyddoniadur (m)
+end	diwedd
+engineer	peiriannwr (m); peiriannydd (m)
+enough	gwala
+enter	cofnodi
+entertain	diddori
+enthusiastic	brwdfrydig
+equal	cydraddol
+erbium	erbiwm
+ermine	carlwm
+essay	traethawd (m)
+estuary	aber
+et al.	ac eraill
+eukaryote	ewcaryot
+euro	ewro (m)
+europium	ewropiwm
+evening	noswaith, hwyr, noson (occasion)
+event	digwyddiad (m)
+every	pob
+everything	popeth
+examination	arholiad (m)
+example	enghraifft
+explode	ffrwydro
+exploit	gweithio
+express	mynegi
+expression	mynegyn (m)
+eye	llygad
+eye for an eye, a tooth for a tooth	llygad am lygad a dant am ddant
+eyebrow	ael (f)
+face	wyneb
+fact	ffaith (f)
+fair	teg
+fairy	tylwyth teg
+falcon	hebog (m)
+fallow deer	danas
+false	anwir, anghywir
+family	teulu (m)
+fan	cefnogwr (m)
+farewell	ffarwel
+farm	ffarm (f)
+farmer	amaethwr (m); ffermwr (m); hwsmon (m)
+fart	rhech (m)
+fashion	ffasiwn (m)
+fast	ympryd (m)
+fast food	prydau parod
+fat	braster (m)
+father	tad
+fear	ofn
+feast	gŵyl (f)
+feat	cyflawniad
+feel	feel
+feeling	teimlad, greddf
+female	benywaidd
+ferment	eplesu
+fermium	ffermiwm
+fern	rhedynen (f)
+ferret	ffured
+festival	gŵyl (m)
+fever	twymyn
+fiancé	dyweddi (m); darpar ŵr (m)
+fiancée	dyweddi (f); darpar wraig (f)
+field marshal	Cadlywydd maes
+fifteen	pymtheg (vigesimal, traditional), un deg pump (decimal)
+fifth	pumed ('abbreviation' 5ed)
+fifty	hanner cant 'vigesimal, traditional', pum deg 'decimal'
+fight	brwydro
+finch	pinc (m); llinos (f)
+finger	bys (m)
+fir	ffynidwydden
+fire	tanio
+first	cyntaf <!--('abbreviation:' 1af)-->
+fish	pysgodyn (m); pysgod
+five	pump
+five hundred	pum cant
+flee	ffoi
+flesh	cnawd
+flint	callestr
+flood	llifogydd
+flour	blawd (m)
+flower	blodyn (m)
+fluent	rhugl
+fluorine	fflworin
+fly	cleren (f)
+foal	ebol (m)
+fog	caddug (m)
+foot	clwyf y traed a’r genau
+football	pêl-droed
+for	am
+for sale	ar werth
+forefinger	mynegfys
+forehead	talcen (m)
+foreign	tramor
+forget	anghofio
+fork	fforc (f); fforch (f)
+fort	amddiffynfa (f)
+fortress	caer (f)
+fortune	darogan
+forty	deugain 'vigesimal, traditional', pedwar deg 'decimal'
+foundation	sylfaen
+four	pedwar (m); pedair (f)
+fourteen	deusaith (m)
+fourth	pedwaredd ('abbreviation' 4edd), pedwerydd ('abbreviation' 4ydd)
+fox	cadno (m); llwynog (m)
+francium	ffransiwm
+french fries	sglodion
+friendly fire	saethu cyfeillgar
+frog	broga (m); llyffant (m)
+from	oddi
+frost	heth (f); tywydd barugog (m)
+fuck	ffwcio; ffwrcho; cnuchio; ffwrchio
+fuel	tanwydd (m)
+full	llawn
+full moon	lleuad lawn
+funeral	angladdol
+fungus	ffwng
+gadolinium	gadoliniwm
+galaxy	Y Llwybr Llaethog
+gall bladder	coden fustl
+gallium	galiwm
+game	gêm
+gamete	gamet (m)
+gangrene	madredd (m)
+garden	gardd
+gas	nwy
+gay	siriol, llawen
+gem	gem (f)
+geography	daearyddiaeth
+geometry	geometreg (f)
+germanium	germaniwm
+get drunk	meddwi
+giraffe	jiráff (m)
+girl	benyw (f); merch (f)
+glacier	rhewlif
+glass	gwydr
+go	mynd
+goat	gafr (f)
+goblin	coblyn
+god	duw (m)
+gold	aur
+golden eagle	eryr euraid
+golf	golff (m)
+gondola	gondola
+good	blasus
+good afternoon	prynhawn da
+good luck	pob lwc
+good morning	bore da
+good night	nos da
+goodbye	hwyl fawr (have fun)
+goods	nwydd (m)
+goose	gŵydd (m)
+goshawk	gwalch marth (m)
+government	llywodraeth (m)
+grammar	gramadeg
+grass	lawnt (f)
+graveyard	claddfa, mynwent (f)
+gravy	saws (m)
+grease	saim (m)
+great	mawr
+great spotted woodpecker	cnocell fraith fwyaf
+great tit	titw mawr
+green	glas
+green tea	te gwyrdd (m)
+green woodpecker	cnocell werdd
+grey	llwyd
+grey heron	crëyr glas
+greylag goose	gwÿdd wyllt
+griffon vulture	fwltur, fultur
+gross domestic product	cynnyrch mewnwladol crynswth (m)
+group	twr
+grove	celli (f)
+guilt	euogrwydd
+guinea fowl	iâr gini, combác, cochwat
+guinea pig	mochyn cwta
+gull	gwylan
+gunpowder	powdwr gwn
+gymnasium	campfa (f)
+haemorrhage	gwaedlif (m)
+hafnium	haffniwm
+hair	gwallt
+hajj	hajj
+hamburger	byrger
+hamlet	pentref bach#Welsh'bach (m)
+hammer	morthwylio
+hamster	bochdew
+hand	llaw (f)
+handbook	llawlyfr (m)
+handsome	golygus
+happy birthday	penblwydd hapus
+harbour	harbwr (m)
+hare	ysgyfarnog (f), sgwarnog (f)
+harp	telyn (f)
+harvestman	medelwr, teiliwr
+hat	het (f)
+hate	casáu
+hatred	casineb (m)
+have	bod; rhaid; i
+hawk	gwalch (m)
+hay fever	clefyd y gwair (m)
+hazel	cyll (f)
+hazelnut	cneuen gyll (f)
+he	ef; fe; fo
+head	pen (m)
+headmaster	prifathro (m)
+headphones	clustffonau
+healthy	iach
+hearse	elorgerbyd
+heart	calon
+heather	grug
+heavenly body	corff wybrennol (m)
+heavy	trwm
+hedge	clawdd
+hedgehog	draenog
+helium	heliwm
+hello	helo?
+hemoglobin	haemoglobin (m); hemoglobin (m)
+here	yma; hyd yma
+heritage	etifeddiaeth (f)
+hero	arwr, gwron
+heron	crëyr
+hi	siwmae
+hierarchical	hierarchaidd
+highway	priffordd (f)
+hill	bryn (m)
+him	fe
+hippopotamus	afonfarch; hipopotamws
+history	hanes (cyfrifiadurol)
+hoarfrost	barrug (m)
+hockey	hoci
+holly	celyn, celynen
+holmium	holmiwm
+homesickness	hiraeth (m)
+homosexuality	gwrywgydiaeth
+honey	mêl
+hope	gobeithio
+horizon	gorwel
+hornet	cacynen (f); cacwn
+horse	ceffyl
+hospital	ysbyty (m)
+hot	balŵn aer cynnes
+hotel	gwesty
+hour	awr (f)
+house	tŷ (m); annedd (m)
+how	sut
+how are you	sut wyt ti? (informal), sut 'dach chi? (formal)
+how much	faint
+hug	cofleidiad (m)
+humanism	dyneiddiaeth
+humid	llaith
+hundred	cant
+hungry	newynog
+hunt	hela
+hurricane	gyrwynt (m), corwynt (m)
+husband	gŵr (m)
+hussar	hwsâr (g'cy)
+hydrogen	hydrogen
+ibex	alpafr
+ice	iâ (m); rhew (m)
+ice cream	hufen; iâ
+iceberg	eisberg, mynydd iâ
+if	os#Welsh'os, pe#Welsh'pe, ('subjunctive', 'i.e.', "if" and "only if")
+igneous rock	craig igneaidd
+illness	salwch
+immigrant	mewnfudwr
+important	pwysig
+improve	gwella
+in love	mewn cariad
+index	dangoseg, ddangoseg, fynegai, mynegai, nangoseg
+indium	indiwm
+influenza	ffliw
+information	gwybodaeth (f)
+injury	anaf (m); anafiad (m); anap (m); cam (m); camwy (m); niwed (m); sarhad (m)
+inorganic	anorganig
+insanity	gorffwylltra
+insect	pryfyn
+intend	bwriadu
+intense	dwys
+interesting	diddorol
+intestine	coluddyn (m)
+iodine	ïodin
+iridium	iridiwm
+iron	haearn
+is	ydi/ydy in identification sentences/questions, mae
+island	ynys (f)
+it	ef (m); hi (f)
+jackdaw	jac-y-do, jac-do
+jam	jam (m)
+jay	sgrech y coed
+jeans	jîns
+jellyfish	sglefren fôr
+job	tasg (f)
+journal	dyddlyfr (m)
+journalism	newyddiaduraeth
+journalist	newyddiadurwr (m)
+journey	teithio
+juice	sudd (m)
+jump	neidio; ysboncio
+just	newydd
+keep	gorthwr (m)
+kestrel	cudyll coch
+ketchup	sôs coch
+key	allweddol
+keyboard	allweddell (f)
+kick	cicio
+kill	lladd
+kiln	odyn (f)
+kind	caredig
+king	brenin (m)
+kiss	cusanu
+kitchen	cegin (f)
+kitten	cath fach (f)
+knee	glin
+knife	cyllell (f)
+knight	marchog (m)
+knock	cnocio
+know	medru
+knowledge	adnabyddiaeth
+krypton	krupton
+lack	yn eisiau
+lad	bachgen (m)
+lady	arglwyddes (f)
+ladybird	buwch goch gota (f)
+ladybug	buwch goch gota (f)
+lake	llyn (m)
+lamb	cig oen (m)
+lamp	lamp (f)
+language	iaith (f)
+lanthanum	lanthanwm
+large	braisg, mawr
+large intestine	coluddyn mawr (m)
+lark	ehedydd
+last year	llynedd
+lather	seboni, trochioni; golchi
+laurel	llawryf (m); llawryfoedd
+lawrencium	lawrenciwm
+lead	plwm
+least weasel	bronwen, gwenci
+leave	seibiant, gwyliau
+lecturer	darlithydd (m)
+leek	cenhinen (f)
+length	hyd
+lesser spotted woodpecker	cnocell fraith leiaf
+lesson	gwers (f)
+letter	llythyren (f)
+liar	celwyddgi
+library	llyfrgell (f)
+life	bywyd
+light	golau
+light year	blwyddyn golau
+lightning	mellt, lluched
+like	serchu
+limestone	calchfaen
+linguist	ieithydd (m)
+linguistics	ieithyddiaeth (f)
+lion	llew
+lip	gwefus (f); min (m)
+lipstick	minlliw (m)
+liquid	hylif; hylifol
+liquor	gwirod (m)
+listen	gwrando
+literature	llên
+lithium	lithiwm
+litre	litr
+little	bach
+little boy	bachgennyn (m); bachgenyn (m)
+little girl	merchig (f); geneth (f); genethig (f)
+little owl	tylluan fach
+live	byw
+lively	byw
+liver	afu (m); iau (m)
+lizard	madfall (f)
+loaf	torth (f)
+lobster	cimwch (m); cimychiaid
+lock	cudyn (m)
+long	tylluan gorniog
+longing	hiraeth (m)
+lord	arglwydd (m)
+love	dwli ar
+luckily	yn; ffodus; lwcus
+lukewarm	llugoer
+lutetium	lwtetiwm
+lymph	gwaedlyn (m)
+lynx	lyncs
+lyre	telyn gron (f)
+machine	peiriant
+magazine	cylchgrawn (m)
+magnesium	magnesiwm
+magpie	pioden
+maid	merch (f); geneth (f); rhiain (f); morwyn (f)
+maiden	merch (f); rhiain (f); morwyn (f); geneth (f)
+make	gorfodi
+mallard	hwyaden wyllt
+mammal	mamal (m)
+man	gŵr (m); dyn (m)
+manager	rheolwr (m); goruchwyliwr (m); trefnwr (m)
+mandarin duck	hwyaden gribog
+mane	mwng
+manganese	manganîs
+many	llawer
+mare	caseg (f)
+marmalade	marmalêd
+marmot	twrlla, marmot
+marry	priodi
+marsh	cors (f)
+marten	bele
+martyr	merthyr (m)
+massacre	llofruddiaeth
+mathematical	mathemategol
+mathematics	mathemateg
+mattress	matras (f)
+maximum	uchafswm
+meaning	ystyr (m)
+meat	cig (m)
+median	canolrif (m)
+meet	cwrdd (â)
+melt	toddi
+mendelevium	mendelefiwm
+mentor	mentor
+menu	dewislen (f)
+mercury	mercwri
+mermaid	môr-forwyn (f)
+mess	annibendod (m)
+microprocessor	microbrosesydd
+microwave oven	popty microdon; popty meicrodon; popty ping
+middle	canol (f)
+middle class	dosbarth canol (m)
+midnight	canol nos
+mild	mwyn
+milk	llaeth; llefrith (m)
+milkmaid	llaethferch (f)
+milkshake	ysgytlaeth (m)
+milliard	mil miliwn
+million	miliwn
+mince	briwgig (m)
+mine	cloddfa (f)
+mineral water	dŵr mineral (m)
+minute	munud
+miracle	gwyrth
+miraculous	gwyrth
+miscarriage	chamesgoriad; gamweinyddu
+mission	cenhadaeth (f)
+mistletoe	(m)
+mole	gwadd (f); twrch daear (m)
+molybdenum	molybdenwm
+moment	Hyn o bryd
+money	arian (f)
+monk	mynach (m)
+monkey	mwnci (m)
+monster	anghenfil (m); angenfilod
+month	mis
+moon	lleuad
+moor	gwaun (f)
+morality	moes
+morning	bore
+morpheme	morffem
+mosquito	mosgito (m); mosgitos
+moss	mwsogl
+mother	mam
+motor	modur (m)
+motorcycle	beic modur (m)
+mouflon	mwfflon
+mountain	mynydd
+mountainous	mynyddog
+mouse	llygoden (f); llygod
+mud	llaca (m); llaid (m); llwtra (m)
+mug	mẁg (m); mwgaid (m)
+murder	lladd
+muscle	cyhyryn (m)
+muscular	gyhyrog
+muse	awen (f)
+museum	amgueddfa
+mushroom	madarchen
+music	cerddoriaeth (f)
+musical instrument	offeryn cerddorol
+muskrat	mwsglygoden; llygoden fwsg
+mustard	mwstard (m)
+my name is	... ydw i; .... ydy f'enw i
+mysterious	cyfriniol; rhiniol
+mystery	dirgelwch (f)
+mythology	mytholeg
+nail	ewin (m)
+naked	noeth
+name	enw
+narrow	cul
+nautical	morwrol
+necklace	gwddfdorch (f)
+negative	negyddol
+neodymium	neodymiwm
+neon	neon
+neptunium	neptwniwm
+nest	nyth
+neutron	niwtron
+never	byth
+new	ifanc
+news	newyddion
+newspaper	papur newydd (m); (m)
+next to	ar bwys; ger
+nickel	nicel
+night	nos (f)
+nightingale	eos
+nightjar	gwalch y nos (m)
+nightmare	hunllef (f)
+nine	naw
+nineteen	pedwar ar bymtheg 'm (vigesimal, traditional)', pedair ar bymtheg 'f (vigesimal)', un deg naw (decimal)
+ninety	deg ar pedwar ugain '(vigesimal, traditional)', naw deg '(decimal)'
+ninth	nawfed ('abbreviation' 9ed)
+niobium	niobiwm
+nitrogen	nitrogen
+no	dim
+no smoking	dim ysmygu
+nobelium	nobeliwm
+nonsense	lol (f)
+noodle	nwdl
+north	gogledd (m)
+nose	trwyn (m)
+nostalgia	hiraeth (m)
+not	dim
+noun	enw
+novel	nofel (f)
+novelist	nofelydd (m)
+nucleus	niwclews (m); cnewyllyn (m)
+nut	nyten
+oak	(coed) derw
+oak tree	derwen
+oasis	gwerddon
+oat	ceirchen (f); ceirch
+obedience	ufudd-dod
+obey	ufuddhau
+occult	yr Ocwlt
+ocean	cefnfor (m)
+ochre	ocr (f)
+octopus	octopws, cymdeithas, nieidiol, wythgoes
+oesophagus	oesoffagws (m)
+officer	swyddog (m)
+often	yn aml
+oil	olew
+old	hen
+olive tree	olewydden
+omnipotent	hollalluog
+on behalf of	tros
+one	coeg; unllygeidiog; coegog
+one hundred one	cant ag un
+open	agored
+operating system	system weithredu
+operation	ymgyrch
+opinion	barn
+opposite	cyferbyn
+orange	oren; melyngoch
+orchid	tegeirian
+ore	mwyn (m)
+organ	organ (m)
+organism	organeb (f)
+organize	trefnu
+orgasm	orgasm
+orphan	amddifad
+orthodoxy	orthodoxy
+osmium	osmiwm
+ostrich	estrys
+other	arall
+otter	dyfrgi
+our	ein
+ovary	ofari
+owl	tylluan (f)
+owner	perchennog (m)
+ox	ych (m)
+oxygen	ocsigen; ócsigen
+oyster	llymarch (m); llymeirch
+page	tudalen (f)
+pain	poen (m)
+painting	darlun
+pale	gwelwi
+palladium	paladiwm
+pancreas	cefndedyn (m)
+paper	dogfen (f)
+parliament	senedd
+partridge	petrisen
+password	cyfrinair
+pasta	pasta
+pavement	palmant (m)
+peace	heddwch; llonydd; llonyddwch
+peacock	paun
+peanut	cneuen ddaear
+pee	pisiad
+penis	pidyn; cala
+penny	ceiniog
+people	pobl
+peregrine falcon	hebog tramor
+perineum	perinewm
+perish	aballu
+perpendicular	perpendiciwlar
+person	person (m); unigolyn (m)
+petty	mân
+pheasant	ffesant
+phobia	ffobia
+phoenix	ffenics (m)
+phone	ffonio
+phosphorus	ffósfforws
+photocopier	llun-gopïwr
+photocopy	llungopïo
+photograph	llun (m); ffotograff (m)
+photography	ffotograffiaeth
+photosynthesis	ffotosynthesis
+physical	ffisegol
+picture	sinema (f)
+piece	darn (m)
+pig	mochyn (m)
+pigeon	colomen
+piglet	porchell
+pilgrimage	pererindod
+pillow	clustog
+pimple	tosyn (m)
+pin	pin
+pine	pinwydden (f); pinwydd; pîn
+pineapple	pinafal (m)
+pink	pinc
+pirate	copïwr anghyfreithlon
+pit	pant (m)
+pizza	pitsa
+plant	planhigyn; planhigion
+plate	plât
+platform	platfform (m)
+platinum	platinwm
+play	drama (f)
+please	os gwelwch yn dda
+pleasure	bodd (m); boddhâd (m); hyfrydwch (m); mwynhâd (m); mwyniant (m); pleser (m)
+plutonium	plwtoniwm
+pocket money	arian poced
+podcast	podlediad (m)
+poet	bardd (m)
+poison	gwenwyn (m)
+polar bear	arth wen
+polecat	ffwlbart
+police	heddlu (m)
+polonium	poloniwm
+pomegranate	grawnafal
+pony	merlen (f); merlod
+pool	pwll (m)
+pope	pab
+porcelain	porslen
+porpoise	llamhidydd (m)
+porridge	uwd (m)
+portable	cludadwy
+postcard	cerdyn post
+postpone	gohirio
+potable	yfadwy
+potassium	potasiwm
+potato	taten (f)
+pottery	crochenwaith (m)
+pound	punt (f)
+powerful	pwerus
+praseodymium	praseodiwm
+prawn	corgimwch (m)
+prefix	rhagddodiaid (m)
+pregnancy	beichiogiad
+pregnant	beichiog
+pressure	gwasgedd (m)
+previous	blaenorol
+priest	offeiriad (m)
+prime number	rhif cysefin
+primrose	briallen
+principality	tywysogaeth (f)
+prison	carchar (m)
+pristine	cyntefig, gwyryfol
+problem	problem (f)
+project	prosiect (m)
+promethium	promethiwm
+pronoun	rhagenw (m)
+pronunciation	cynaniad
+prophet	proffwyd (m)
+prostitute	putain (f)
+protactinium	protoactiniwm
+protect	amddiffyn
+proverb	dihareb (f)
+public	cyhoedd
+puffin	pâl
+pumice	pwmis (m)
+pump	pwmp
+pure	pur
+purity	gwyryd (m)
+purple	porffor, piws
+quail	sofliar
+quarry	cloddfa (f)
+quay	cei (m)
+queen	brenhines
+quotidian	beunyddiol
+rabbit	cwningen
+race	hil
+railway station	gorsaf (f), gorsaf rheilffordd (f)
+rain cats and dogs	bwrw hen wragedd â ffyn
+rainbow	enfys, bwa'r Drindod, bwa'r arch
+random	ar hap
+rape	treisio
+raspberry	mafonen (f)
+rat	llygoden fawr (f)
+rather	eithaf
+raven	cigfran
+read	darllen
+reader	darllenydd (m)
+ready	parod
+recent	diweddar
+recipe	resipi (f)
+rectum	rhefr (m)
+red	rhudd; coch
+red deer	carw coch
+redhead	cochen (f); cochyn (m)
+reflection	adlewyrchiad (m)
+regime	cyfundrefn (f)
+region	ardal (f)
+release	gollwng
+religion	crefydd
+remember	cofio
+remote control	teclyn troi
+repeat	ailadrodd
+representative	cynrychiolydd (m)
+reproduction	atgenhedlu
+reptile	ymlusgiad
+respect	parch (m)
+restaurant	bwyty
+revenge	dialedd
+rhenium	rheniwm
+rhodium	rhodiwm
+rice	reis (m)
+ride	mynd, teithio
+right	reit
+ritual	defod
+river	afon (f)
+road	ffordd (f)
+robin	robin goch
+rock dove	colomen y graig
+roe deer	iwrch
+roof	to (m)
+rook	castell
+rooster	ceiliog (m)
+rope	rhaff (f)
+rose	rhosyn (m)
+rubidium	rwbidiwm
+rudder	llyw (m)
+rugby	rygbi (m)
+run	rhedeg
+ruthenium	rwtheniwm
+rutherfordium	rutherffordiwm
+safe	diogel
+sail	hwyl
+sailboat	llong hwylio (f)
+sailing ship	llong hwylio
+salmon	eog
+samarium	samariwm
+sand	tywod (m)
+sandstone	tywodfaen
+sandwich	brechdan
+sarcasm	coegni
+satellite	lloeren
+sauce	saws (m)
+saucepan	sosban (f)
+save	cynilo, arbed, neilltuo
+saying	dywediad (m)
+scab	cramen (f)
+scandium	scandiwm
+scar	craith (f)
+scarecrow	bwgan brain (m)
+school	ysgol (f)
+schooner	sgwner
+scion	blaguryn
+screech owl	tylluan wen
+screenshot	sgrînlun (m)
+scythe	pladur
+sea	môr; gweilgi
+second	amrantiad (m)
+secret	cyfrin, dirgel
+secretary	ysgrifenydd (m); ysgrifenyddes (f)
+see	deall
+seed	had; hadau
+seldom	anfynych
+select	dewis; dethol
+selenium	seleniwm
+senate	senedd
+senator	Seneddwr
+sentence	dedfrydu
+separate	gwahan
+serious	o ddifri'
+service	gweinidogaeth (f)
+session	sesiwn (f)
+seven	saith
+seven hundred and fifty	saith cant a hanner 'vingesimal, traditional', saith cant pum deg 'decimal' ('noun, adjective or both?')
+seventeen	dau ar bymtheg 'm (vigesimal, traditional)', dwy ar bymtheg 'f (vigesimal)', un deg saith (decimal)
+seventh	seithfed ('abbreviation' 7ed)
+seventy	deg ar thrigain 'vigesimal, traditional', saith deg 'decimal'
+sexology	rhywoleg
+shadow	cysgod
+shark	morgi
+she	asen (f)
+sheep	dafad (f); defaid
+shepherd	bugail (m)
+shine	disgleirio
+ship	llong (f)
+shirt	crys (m)
+shit	cachu
+shoe	esgid; esgidiau
+shop	siop (f)
+short	byr
+short story	stori fer (f)
+shoulder	ysgwydd (f); palfais (f)
+shoulder blade	palfais (f)
+shrew	llyg (f)
+shrine	cysegrfan
+shut	cau
+shut up	cau dy geg
+sickle	cryman
+sign	arwydd (m)
+silicon	silicon
+silver	arian
+sin	pechu
+sing	canu
+sister	chwaer (f)
+six	chwech
+sixteen	un ar bymtheg '(vigesimal, traditional)', un deg chwech '(decimal)'
+sixth	chweched ('abbreviation' 6ed)
+sixty	trigain 'vigesimal, traditional', chwe' deg 'decimal'
+skeleton	sgerbwd
+skin	croeni
+skirt	sgert
+skull	penglog
+skylark	ehedydd
+sleep	cwsg (m)
+slow	araf
+small	bach; ieuanc; ifanc
+small intestine	coluddyn bach
+smile	gwenu
+smoke	mwgyn
+snail	malwoden
+snake	neidr (f)
+sneeze	tisian
+snooker	snwcer
+snout	trwyn (m)
+snow	eira
+snowflake	pluen eira (f)
+soap	sebon
+soccer	pêl-droed (m)
+sodium	sodiwm
+soft	tyner
+software	meddalwedd (f)
+solder	sodr (m)
+soldier	milwr (m)
+solution	toddiant, hydoddiant
+sometimes	weithiau
+son	mab
+sonnet	soned
+soon	yn fuan
+south	de
+sow	hadu
+space shuttle	gwennol ofod (f)
+sparrow	aderyn
+sparrow hawk	gwalch glas
+speaker	seinydd (m)
+special	arbennig
+specialist	arbenigwr
+spectacles	sbectol
+speech	lleferydd (f)
+sperm	sberm (m)
+sphere	sffêr (m)
+spider	corryn (m), pryf copyn (m)
+spiderweb	gwe'r pryf copyn
+spirit level	lefel ysbryd
+spoon	llwy
+sport	chwaraeon
+spouse	priod
+spring	gwanwyn (m)
+spruce	sbriwsen
+squirrel	gwiwer (f)
+stable	sefydlog
+stage	llwyfan
+stairs	grisiau (f)
+stallion	march (m)
+stanza	pennill (m)
+star	seren
+starling	drudwen
+station	gorsaf
+statue	statud (m)
+status	statws (m)
+steel	dur (m)
+stepfather	llysdad (m)
+stomach	bola
+stone	llabyddio
+stork	ciconia
+storm	cwthwm (m); storm (f); storom (f); tymestl (f); ystorm (f)
+stranger	dieithryn
+straw	gwelltyn (m)
+strawberry	mefusen (f)
+stream	nant
+street	heol (f)
+string	llinyn (m)
+stronghold	cadarnle
+strontium	strontiwm
+study	astudiaeth (f)
+submarine	llong danfor; suddlong
+substitute	amnewid
+suffer	dioddef
+suffering	dioddefaint (m)
+sugar	siwgr (m)
+suicide	hunanladdwr (m); hunanladdwraig (f)
+sulfur	sylffwr (m)
+summer	haf
+sun	haul (m)
+sunflower	blodyn haul
+sunset	machlud haul
+supernatural	goruwchnaturiol
+superstar	archseren (f)
+sura	sŵra
+surface	arwyneb
+surgery	llawdriniaeth (f)
+surname	cyfenw (m)
+swallow	llyncu
+swan	alarch (m)
+swear	melltithio; rhegi
+sweat	chwysu
+sweet	melys
+sweet potato	tatws melys (f)
+swim	nofio
+swimming pool	pwll nofio
+syllabus	maes llafur (m)
+symbol	symbol (f)
+symbolically	symbolaidd
+symphony	symffoni (f)
+synonym	cyfystyr (m)
+synopsis	crynodeb
+system	system (m) 
+table	bwrdd (m)
+tadpole	grifft (m); penbwl (m)
+tailor	teiliwr (m)
+tale	chwedl (f)
+tank	tank; tanc
+tantalum	tantalwm
+tap water	dŵr tap
+task	tasg (f)
+tavern	tafarn
+tawny owl	tylluan frech
+tax	treth (f)
+taxi	tacsi (m)
+taxonomy	tacsonomeg (f)
+tea	trwyth
+teacher	athro (m); athrawes (f); dysgwr (m)
+team	tîm (m)
+technetium	technetiwm
+teenager	llefnyn
+telephone	teliffon
+telephone number	rhif ffôn
+television	teledu (m)
+tellurium	telwriwm
+temperature	tymheredd
+template	templed (m); patrymlun (m)
+temple	teml
+ten	deg
+tent	lluest; lluesty; pabell; pall
+tenth	degymau (m'p)
+terbium	terbiwm
+terrorism	terfysgaeth
+tetrahydrocannabinol	tetrahydrocannabinol
+text	neges destun
+thallium	thaliwm
+than	na
+thank you	diolch
+thankful	diolchgar
+thanks	diolch
+that	hwnnw; yna
+the	y; yr; 'r
+theft	lladrad (m)
+then	bryd hynny
+there	yna
+there is	mae
+they	hwy; hwynt; nhw
+thick	tew
+thief	lleidr (m)
+thimble	gwniadur (m)
+thing	peth (m)
+think	meddwl
+third	trydydd ('abbreviation' 3ydd)
+thirsty	sychedig
+thirteen	tri ar ddeg 'm (vigesimal, traditional)', tair ar ddeg 'f (vigesimal)', un deg tri (decimal)
+thirty	dri deg un
+this	hwn; yma
+thorium	thoriwm
+thou	ti
+thousand	mil
+three	tri (m); tair (f)
+thrice	tair-gwaith
+thulium	thwliwm
+thunder	daranau
+tiger	teigr (m)
+tilde	tild (m)
+till	tan
+time	amser
+tin	tùn
+tiny	bach, pitw, mân
+titanium	titaniwm
+today	heddiw
+toe	bys troed
+tofu	toffw (m)
+toilet	toiled (m)
+tomato	tomato (m)
+tongue	tafod
+too	rhy
+tooth	dant
+torch	fflachlamp (f)
+tornado	gyrwynt (m)
+tower	tŵr (m)
+town	tref (f)
+toy	tegan (m)
+tradition	traddodiad (m)
+train	treinio; ymarfer
+translate	cyfieithu
+translator	cyfieithydd
+tree	coeden, pren, colfen (colloquial)
+trench	ffos (f)
+triangle	triongl (m)
+tripod	trybedd (f)
+troll	ellyll
+troops	milwyr (m)
+trout	brithyll
+truck	lori (f)
+trumpet	utganu
+truth	gwir
+try	profi
+tsunami	tsunami
+tuna	tiwna (m)
+tungsten	twngsten
+tunnel	twnnel (m)
+turbine	tyrbin (m)
+turkey	twrci
+turtle dove	turtur
+twelve	deuddeg (vigesimal, traditional), un deg dau (decimal)
+twenty	ugain '(vigesimal, traditional)', dau ddeg 'm (decimal)', dwy ddeg 'f (decimal)'
+twice	dwy-waith
+twin	gefell (m); gefeilles (f)
+two	dau (m); dwy (f)
+two hundred	dau gant
+two thousand	dwy fil
+typhoon	teiffŵn
+ugly	hyll
+understand	deall
+unicorn	uncorn (m)
+uniform	unffurf
+university	prifysgol
+unless	oni
+unpleasant	annymunol
+unreal	afreal
+uranium	uraniwm
+urban	trefol
+us	ni
+useful	buddiol
+valley	cwm (m)
+vampire	fampir
+van	fan (f)
+vanadium	vanadiwm
+vandalism	fandaliaeth (f)
+vegan	fegan; figan; cigwrthodwr caeth (m); llysfwytäwr caeth (m)
+vegetarian	llysieuwr (m); llysieuwraig (f)
+velvet	melfed
+verb	berf
+vertical	fertigol
+video game	'n fideo herwhela (f)
+village	llan (f); pentref (m)
+violet	fioled (f)
+virus	feirws
+vixen	llwynoges
+volcano	llosgfynydd
+volleyball	pêl-foli
+vulture	fwltur, fultur
+waiting room	ystafell aros
+walk	cerdded
+wall	murio
+wallet	gwaled (f)
+wallpaper	papur wal (m)
+walnut	cneuen Ffrengig (f)
+wanker	haliwr
+want	eisiau
+war	rhyfel (m)
+wart	dafaden (f)
+watch	edrych
+water	dŵr (m)
+waterfall	rhaeadr, pistyll, sgwd
+wave	ton (f); gwaneg
+wax	cŵyr (m)
+way	ffordd (f)
+we	ni, ninnau '(emphatic)'
+weak	gwan
+weapon	arf (m); erfyn (m)
+weather	tywydd (m)
+web	gwe
+web site	gwefan (m); safwe
+wedding	priodas (m)
+wedding cake	cacen briodas (f)
+week	wythnos
+weekend	penwythnos (m)
+welcome	i'w groesawu (m), i'w chroesawu (f), i'w croesawu (p)
+well	bobol bach
+wench	merch (f)
+werewolf	bleidd-ddyn
+west	gorllewin (m)
+western	gorllewinol
+what	beth
+wheat	gwenith (m)
+wheel	olwyn (f)
+wheelchair	cadair olwyn (f)
+when	pryd
+where	man; ble
+wherefore	paham
+whip	chwip
+whirlpool	trobwll (m)
+whiskey	chwisgi
+whisper	sibrwd
+white	gwyn; gwen
+who	pwy
+whole	holl; cyfan
+whom	y
+whore	hwren, gast (f), putain (f)
+why	paham
+wide	llydan
+wife	gwraig (f)
+wiki	wici
+wild boar	baedd gwyllt
+wild goose	gŵydd wyllt
+wildcat	cath wyllt
+wind	awel; gwynt
+window	ffenest (f)
+wine	gwin
+winner	enillydd
+winter	gaeaf (m)
+wireless	diwifr
+wise	cymen
+wisent	ych gwyllt
+wish	dymuno
+witch	dewines (f); gwrach
+with	â
+without	heb
+wizard	dewin (m); swynwr
+wolf	blaidd (m)
+woman	benyw (f); dynes (f)
+wood	coed
+woodpecker	cnocell
+woodpigeon	ysguthan
+wool	gwlân (m)
+word	gair
+work	gwaith
+world	byd (m)
+worm	abwydyn (m)
+worry	pryder
+write	llocio
+writing	ysgrif
+xenon	xenon
+yam	iam (m)
+yawn	dylyfu gên
+yeah	iah (pronounced "ee-ah")
+year	blwyddyn
+yellow	melyn
+yesterday	doe
+yoghurt	iogwrt (m)
+you	ti; di; chi; chwi
+young	ieuanc; ifanc
+your	eich
+ytterbium	yterbiwm
+yttrium	ytriwm
+zero	sero (m)
+zinc	zinc
+zirconium	zirconiwm
+zoologist	söolegwr (m); söolegwraig (f); söolegydd (m)

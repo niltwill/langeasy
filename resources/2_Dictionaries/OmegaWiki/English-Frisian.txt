@@ -1,0 +1,267 @@
+English	Frisian
+Afrikaans	Afrikaansk
+Albania ; Republic of Albania	Albaanje
+Algeria ; People's Democratic Republic of Algeria	Algerije
+Andorra ; Principality of Andorra	Andorra
+Antarctica	Antarktika
+April	april
+Arabic ; Standard Arabic	Arabysk
+Armenia	Armeenje
+Austria ; Republic of Austria	Eastenryk
+Azerbaijan ; Republic of Azerbaijan	Azerbeidzjan
+Bahrain	Barein
+Bangladesh ; People's Republic of Bangladesh	Banglades
+Belize	Belize
+Bhutan ; Kingdom of Bhutan	Bûtan
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosnje
+Brunei ; Negara Brunei Darussalam	Brûnei
+Bulgaria ; Republic of Bulgaria	Bulgarije
+Bulgarian ; Bulgarian	Bulgaarsk
+Cambodia ; Kingdom of Cambodia	Kambodja
+Canada	Kanada
+Castilian ; Spanish ; Spanish	Spaansk
+Catalan ; Catalan	Katalaansk
+Chile ; Republic of Chile	Sily
+Christmas	Kryst
+Christmas tree	krystbeam
+Corfu	Korfoe
+Croatian ; Croation	Kroätysk
+Czech ; Czech	Tsjechysk
+Czech Republic ; Czechia	Tsjechje
+Danish	Deensk
+Democratic Republic of the Congo ; Congo-Kinshasa	Demokratyske Republyk Kongo
+Denmark ; Kingdom of Denmark	Denemark
+Dutch	Nederlânsk
+EU ; European Union	Jeropeeske Uny
+East Timor ; Democratic Republic of Timor-Leste	East Timor
+Easter	Peaske
+Egypt ; Arab Republic of Egypt	Egypte
+English	Ingelsk
+Estonia ; Republic of Estonia	Estlân
+February	febrewaris
+Finland ; Republic of Finland	Finlân
+Finnish	Finsk
+Flanders ; Flemish region	Flaanderen
+Flevoland	Flevolân
+France	Frankryk
+French ; French	Frânsk
+Frisian ; Western Frisian	Frysk
+Georgia	Geörgje
+German	Dútsk
+Germany ; Federal Republic of Germany	Dútslân
+Greece ; Hellenic Republic	Grikelân
+Greek ; Greek	Gryksk
+Happy New Year	Sege in't nije jier
+Hebrew	Hebrieusk
+Holland ; Kingdom of the Netherlands ; The Netherlands	Nederlân
+Hungarian	Hongaarsk
+Hungary ; Republic of Hungary	Hongarije
+I	ik
+Icelandic	Yslânsk
+India ; Republic of India	Yndia
+Indonesia ; Republic of Indonesia	Yndoneezje
+Indonesian	Yndonesysk
+Iran ; Islamic Republic of Iran	Iran
+Ireland ; Republic of Ireland	Ierlân
+Israel ; State of Israel	Israel
+Italian ; Italian	Italjaansk
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Ivoarkust
+Japanese ; Japanese	Japansk
+Jordan ; Hashemite Kingdom of Jordan	Jordaanje
+July	july
+June	juny ; simmermoanne
+Kazakhstan ; Republic of Kazakhstan	Kazakstan
+Korean ; Korean	Koreaansk
+Kyrgyzstan ; Kyrgyz Republic	Kirgyzje
+Laos ; Lao People's Democratic Republic	Laos
+Latvia ; Republic of Latvia	Letlân
+Latvian ; Latvian	Letsk
+Limburgish ; Limburgian	Limburchsk
+Lower Saxony	Nedersaksen
+Macedonia ; Republic of Macedonia	Masedoanje
+Malaysia	Maleizje
+Malta ; Republic of Malta	Malta
+Mauritania ; Islamic Republic of Mauritania	Mauritaanje
+Merry Christmas	noflike krystdagen
+Moldova	Moldaavje
+Monaco	Monako
+Montenegro	Montenegro
+Morocco ; Kingdom of Morocco	Marokko
+Myanmar	Birma
+Norway ; Kingdom of Norway	Noarwegen
+November	novimber
+Novial	Novial
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Panama	Panama
+Poland	Poalen
+Polish ; Polish	Poalsk
+Portugal	Portegal
+Portuguese ; Portuguese	Portugeesk
+Qatar	Katar
+Romanian ; Romanaian	Rûmeensk
+Saturn	Saturnus
+Saudi Arabia ; Kingdom of Saudi Arabia	Saûdy-Araabje
+Serbia	Servje
+Serbia and Montenegro	Servje en Montenegro
+Slovak ; Slovak	Slowaaksk
+Slovakia	Slowakije
+Slovene ; Slovenian ; Slovenian	Sloweensk
+Swedish	Sweedsk
+Switzerland	Switserlân
+Taiwan	Taiwan
+Turkey	Turkije
+Vatican City ; The Holy See ; State of the Vatican City	Fatikaanstêd
+Venus	Venus
+Vietnamese ; Vietnamese	Fiëtnameesk
+Welsh ; Welsh	Welsk
+acorn	ikel
+actinium	actinium
+adjective ; describing word	eigenskipswurd
+alarm clock	needklok
+americium	americium
+angel	ingel
+ant	miammel
+argon	argon
+arrow	pylk
+arsenic	arsenikum
+bagpipes	doedelsek
+banana	banaan
+beaver	bever
+bed	bêd
+bee	bier
+beer	bier
+beryllium ; glucinium	beryllium
+biochemistry	biogemy
+bismuth	bismut
+blue	blau
+boron	boar
+bromine	broom
+bull	bolle
+bullet	kûgel
+cadmium	cadmium
+caesium	cesium
+calcium	kalsium
+calendar	kalinder
+carbon	koalstof
+chlorine	gloor
+cobalt	kobalt
+come	komme
+cow	ko
+crude oil	ierdoalje
+curium	curium
+dermatology	dermatology
+dog	hûn
+dolphin	dolfyn
+dromedary	drommedaris
+dubnium	dubnium
+edible	ytber
+einsteinium	einsteinium
+elder ; elderberry	flear
+equator	evener
+europium	europium
+ferry	fear
+fluorine	fluor
+francium	Frânsk
+gadolinium	gadolinium
+gallium	gallium
+germanium	germanium
+goose	goes
+grape	drúf
+hafnium	hafnium
+handkerchief	bûsdoek
+hassium	hassium
+he	er ; hy
+hedgehog	ychelbaarch
+helium	helium
+holmium	holmium
+home ; home ; house	hûs
+horse	hynder
+hydrogen	wetterstof
+iodine	joadium
+iridium	iridium
+krypton	krypton
+lanthanum	lanthaan
+lawrencium	lawrencium
+lead	lead
+leap year	skrikkeljier
+leg	skonk
+lemon	sitroen
+lithium	lithium
+little finger ; pinkie	pink
+lutetium	lutetium
+lynx	lynks
+magnesium	magnesium
+manganese	mangaan
+mayor	boargemaster
+meitnerium	meitnerium
+mendelevium	mendelevium
+mercury	kwik
+microphone	mikrofoan
+milk	molke
+molybdenum	molybdeen
+napkin	servet
+neodymium	neodymium
+neptunium	neptunium
+niobium	niobium
+nitrogen	stikstof
+nobelium	nobelium
+nosotros ; we	wy
+noun ; substantive	haadwurd
+obstacle ; obstruction	ôfsluting
+ophthalmology	eachhielkunde
+osmium	osmium
+ostrich	strúsfûgel
+oxygen	soerstof
+oyster	oester
+palladium	palladium
+pear	par
+pencil	poatlead
+pheasant	fazant
+philosophy	filosofy
+phone ; telephone	telefoan
+physiology	physiologie ; fysiology
+polymer	polymear
+postman	postrinder
+praseodymium	praseodymium
+preposition	ferhâldingswurd
+promethium	promethium
+protactinium	protactinium
+rabbit	knyn
+rainbow	reinbôge
+rhenium	rhenium
+rhodium	rhodium
+rice	rys
+ruthenium	ruthenium
+rutherfordium	rutherfordium
+samarium	samarium
+secret	geheim
+sex ; gender	slachte ; geslacht
+sheep	skiep
+silicon	silisium
+slipper	pantoffel
+sodium	natrium
+star	stjer
+stomach	mage
+strontium	strontium
+sulphur	swevel
+supermarket	supermerk
+tantalum	tantaal
+technetium	technetium
+thallium	thallium
+thumb	tomme
+timezone	tiidsône
+tin	tin
+titanium	titaan
+toe	tean
+together	gear
+translate ; interpret	oersette
+tree	beam
+trout	forel
+turkey	kalkoen
+volleyball	follybal
+water	wetter
+willow	wylgebeam
+wood	hout
+yttrium	yttrium
+zero ; null	nul
+zirconium	zirkonium

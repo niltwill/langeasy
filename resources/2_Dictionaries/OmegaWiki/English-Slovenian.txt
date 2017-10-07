@@ -1,0 +1,4806 @@
+English	Slovenian
+9 ; nine	devet ; devet
+AIDS	AIDS
+AOX value	vrednost adsorbljivih organskih halogenov ; vrednost AOX
+ASEAN ; Association of Southeast Asian Nations	ASEAN ; Zveza držav Jugovzhodne Azije
+Aegean Sea	Egejsko morje
+Afghanistan ; Transitional Islamic State of Afghanistan	Afganistan
+Africa	Afrika
+Afrikaans	Afrikaans ; Afrikanščina
+Albania ; Republic of Albania	Albanija
+Algeria ; People's Democratic Republic of Algeria	Ljudska demokratična republika Alžirija ; Alžirija
+American Samoa	Ameriška Samoa
+Americas	Severna, Srednja in Južna Amerika
+Ames test	Amesov preskus
+Amsterdam	Amsterdam
+Andorra ; Principality of Andorra	Andora
+Angola ; Republic of Angola	Angola
+Anguilla	Angvila
+Antarctic Ocean ; Southern Ocean	Južni ocean
+Antarctic ecosystem	antarktični ekosistem
+Antarctica	Antarktika
+Antigua and Barbuda	Antigva in Barbuda
+April	apríl
+Arctic Ocean	Severno ledeno morje
+Arctic ecosystem	arktični ekosistem
+Argentina ; Argentine Republic	Argentina
+Arizona	Arizona
+Armenia	Armenija
+Articulata	členjenost
+Aruba	Aruba
+Asia	Azija
+Athens	Atene
+August	avgúst
+Australia ; Commonwealth of Australia	Avstralija
+Austria ; Republic of Austria	Avstrija
+Austria-Hungary ; Austro-Hungarian Empire	Avstro-Ogrska
+Azerbaijan ; Republic of Azerbaijan	Azerbajdžan
+BBS ; bulletin board system	elektronska oglasna deska
+Bahamas ; Commonwealth of the Bahamas ; Bahama Islands	Bahami
+Bahrain	Bahrajn
+Bangladesh ; People's Republic of Bangladesh	Bangladeš
+Basque ; Basque	baskovščina
+Beijing	Peking
+Belarus ; Republic of Belarus	Belorusija
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	beloruščina ; beloruščina ; beloruščina ; beloruščina ; beloruščina
+Belgium ; Kingdom of Belgium	Belgija
+Belgrade	Beograd
+Belize	Belize
+Bengali ; Bengali	bengalščina
+Berlin	Berlin
+Bermuda	Bermuda
+Berne	Bern
+Bhutan ; Kingdom of Bhutan	Butan
+Black Sea	Črno morje
+Bolivia ; Republic of Bolivia	Bolivija
+Bonn	Bonn
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosna in Hercegovina
+Bosnian ; Bosnian	bosanščina
+Botswana ; Republic of Botswana	Bocvana
+Brazil	Brazilija
+Breton ; Breton	bretonščina
+Brunei ; Negara Brunei Darussalam	Brunej
+Brussels	Bruselj
+Bulgaria ; Republic of Bulgaria	Bolgarija
+Bulgarian	Bolgar
+Bulgarian ; Bulgarian	bolgarščina
+Burundi ; Republic of Burundi	Burundi
+CD-ROM	zgoščenka
+CD-ROM search service	storitev iskanja na zgoščenkah
+CFC ; chlorofluorocarbon	CFC ; klorofluoroogljikovodik
+CFC and halons prohibition	prepoved uporabe CFC in halonov
+Cambodia ; Kingdom of Cambodia	Kambodža
+Cameroon ; Republic of Cameroon	Kamerun
+Canada	Kanada
+Cape Verde ; Republic of Cape Verde	Kapverdski otoki
+Caribbean Area ; Caribbean	karibsko območje
+Caribbean Sea	Karibsko morje
+Caspian Sea	Kaspijsko morje
+Catalan ; Catalan	katalonščina
+Cayman Islands	Kajmanski otoki
+Central Africa	Osrednja Afrika
+Central America	Srednja Amerika
+Central Asia	Osrednja Azija
+Chad ; Republic of Chad	Čad
+Chihuahua ; chihuahua	čivava
+Chile ; Republic of Chile	Čile
+Christmas	Božič
+Christmas tree	božično drevo
+Colombia ; Republic of Colombia	Kolumbija
+Community act	akt Skupnosti
+Community budget	proračun EU
+Community finance	denarna sredstva Evropske unije
+Community law	zakonodaja Skupnosti
+Community legal system	pravni sistem Skupnosti
+Community ruling	odločitev Skupnosti
+Comoros ; Union of the Comoros	Komori
+Copenhagen	Kobenhaven
+Court of Justice of the European Communities	Sodišče Evropskih skupnosti, Evropsko sodišče
+Croatia ; Republic of Croatia	Hrvaška
+Croatian ; Croation	hrvaščina
+Cuba ; Republic of Cuba	Kuba
+Cyprus ; Republic of Cyprus	Ciper
+Czech ; Czech	češčina
+Czech Republic ; Czechia	Češka
+DDT ; dichloro-diphenyl-trichloroethane	DDT ; dikloro-difenil-trikloretan
+DNA ; deoxyribonucleic acid	DNK
+December	december
+Democratic Republic of the Congo ; Congo-Kinshasa	:Demokratična republika Kongo ; Demokratična republika Kongo
+Denmark ; Kingdom of Denmark	Danska
+Down syndrome ; Down’s syndrome	Downov sindrom
+Dutch	nizozemščina
+EC Council of Ministers	Svet ministrov Evropske unije
+EC Treaty	Pogodba o Evropski skupnosti
+EC directive	smernica/direktiva EU
+EC directive on biocides	smernica/direktiva EU o biocidih
+EC directive on waste disposal	smernica/direktiva EU o odlaganju odpadkov
+EC directive on water protection	smernica/direktiva EU o varstvu vode
+EC ecolabel	ekološka oznaka EU
+EC policy	politika EU
+EC regulation	predpis EU
+EC regulation on eco-management and audit	predpis EU o okoljskem upravljanju in pregledih v podjetjih
+EC regulation on existing chemicals	predpis EU o obstoječih kemikalijah
+EIA (local)	presoja vplivov na okolje
+EIA ; environmental impact assessment	presoja vplivov na okolje ; PVO
+EIA directive	smernica o PVO (presojah vplivov na okolje)
+EIA law	zakon o PVO (presojah vplivov na okolje)
+EU ; European Union	Evropska unija
+EU Council	Svet Evropske unije
+Earth-Sun relationship	razmerje med Zemljo in Soncem
+East Africa	Vzhodna Afrika
+East Timor ; Democratic Republic of Timor-Leste	Vzhodni Timor
+East-West relations	odnosi med Vzhodom in Zahodom
+East-West trade	trgovina med Vzhodom in Zahodom
+Eastern Asia ; East Asia	Vzhodna Azija
+Eastern Europe	Vzhodna Evropa
+Egypt ; Arab Republic of Egypt	Egipt
+El Salvador ; Republic of El Salvador	Salvadoria
+England	Anglija
+English garden	angleški vrt
+Equatorial Guinea ; Republic of Equatorial Guinea	Ekvatorialna Gvineja
+Erevan ; Yerevan	Erevan ; Erivan ; Erebuni
+Eritrea	Eritreja
+Estonia ; Republic of Estonia	Estonija
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopija
+Euratom	Evropska skupnost za jedrsko energijo
+Europe	Evropa
+European Commission	Evropska komisija
+European Communities	Evropske skupnosti
+European Court of Justice	Evropsko sodišče pravice
+European Environment Agency	EEA ; Evropska agencija za okolje
+European Environmental Council	Evropski svet za okolje
+European Monetary Fund	Evropski denarni sklad
+European Monetary System ; EMS	Evropski denarni sistem
+European Parliament	Evropski parlament
+European nature reserve	evropski naravni rezervat
+European standard	evropski standard/normativ
+Faroe Islands	Ferski otoki
+Fiji ; Republic of the Fiji Islands	Fidži
+Finland ; Republic of Finland	Finska
+Finnish	finščina
+Flanders ; Flemish region	Flandrija
+France	Francija
+French ; French	francoščina
+French Guiana	Francoska Gvajana
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Francoske južne in antarktične dežele
+French formal garden	francoski vrt
+Frenchman	Francoz
+GDP ; gross domestic product	bruto domači proizvod
+GDR ; German Democratic Republic	NDR ; Nemška demokratična republika
+GIS digital format	digitalni GIS format
+GIS digital system	digitalni GIS sistem
+GIS digital technique	digitalna tehnika GIS
+GIS laboratory	laboratorij za GIS
+Gabon ; Gabonese Republic	Gabon
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambija
+Georgia	Gruzija
+Georgia	Georgia
+German	nemščina
+German (Austria)	nemščina (Avstrija)
+German (Switzerland)	nemščina (Švica)
+Germany ; Federal Republic of Germany	Nemčija
+Ghana ; Republic of Ghana	Gana
+Gibraltar	Gibraltar
+Global Environment Facility ; GEF	Svetovni sklad za okolje
+Great Britain ; Britain	Velika Britanija
+Greece ; Hellenic Republic	Grčija
+Greenland	Grenlandija
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam ; Guam ; Guam	Guam
+Hanover	Hannover
+Happy New Year	Srečno novo leto
+Hebrew	Hebrejščina
+Hindi ; Hindi	hindijščina
+Holland ; Kingdom of the Netherlands ; The Netherlands	Nizozemska
+Honduras ; Republic of Honduras	Honduras
+Hungary ; Republic of Hungary	Madžarska
+IMCO code	kodeks Medvladne svetovalne organizacije za pomorstvo
+IMF ; International Monetary Fund	Mednarodni denarni sklad
+ISO standard	ISO standard
+Iceland ; Republic of Iceland	Islandija
+Iliad	Iliada
+India ; Republic of India	Indija
+Indian Ocean	Indijski ocean
+Indonesia ; Republic of Indonesia	Indonezija
+Indre	Indre
+International Court of Justice	mednarodno sodišče
+Internet	medmrežje, internet ; internet
+Iran ; Islamic Republic of Iran	Iran
+Iraq ; Republic of Iraq	Irak
+Ireland ; Republic of Ireland	Irska
+Irish ; Irish ; Irish Gaelic ; Irish	irščina
+Islam	islam
+Isle of Man ; Isle of Mann ; Mann	Man ; Otok Man
+Israel ; State of Israel	Izrael
+Italian ; Italian	italijanščina
+Italian Republic ; Italy	Italija
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Slonokoščena obala
+Jamaica	Jamajka
+Japan ; State of Japan	Japonska
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Jordanija
+Judaism	judaízem ; judovstvo ; žídovstvo
+June	júnij
+Jupiter	Jupiter
+Kazakhstan ; Republic of Kazakhstan	Kazahstan
+Kenya ; Republic of Kenya	Kenija
+Kiribati ; Republic of Kiribati	Kiribati
+Krakow ; Cracow	Krakov
+Kyoto	Kjoto
+Kyrgyzstan ; Kyrgyz Republic	Kirgizistan
+Latin ; Latin	latinščina
+Latvia ; Republic of Latvia	Latvija
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Sankt Peterburg
+Lesotho ; Kingdom of Lesotho	Lesoto
+Liberia ; Republic of Liberia	Liberija
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libija
+Liechtenstein ; Principality of Liechtenstein	Lihtenštajn ; Kneževina Líhtenštajn
+Lithuania ; Republic of Lithuania	Litva
+Lithuanian ; Lithuanian	litovščina
+Lower House	spodnji dom, poslanska zbornica
+Macedonia ; Republic of Macedonia	Makedonija
+Macedonian ; Macedonian	makedonščina
+Malawi ; Republic of Malaŵi	Malavi
+Malayalam ; Malayalam	malajalščina
+Malaysia	Malezija
+Maldives ; Republic of the Maldives	Maldivi
+Mali ; Republic of Mali	Mali
+Malta ; Republic of Malta	Malta
+March	márec
+Marshall Islands ; Republic of the Marshall Islands	Marshallovi otoki
+Martinique	Martinik
+Mauritania ; Islamic Republic of Mauritania	Mavretanija
+May	máj
+Mecca	Meka
+Mediterranean Area	Sredozemlje
+Mediterranean Sea	Sredozemsko morje
+Mediterranean climate	sredozemsko podnebje
+Mediterranean forest	sredozemski gozd
+Mediterranean wood	sredozemski gozd, makija
+Mercury	Merkur
+Mexico ; United Mexican States	Mehika
+Milan	Milano
+Milky Way ; Galaxy	Naša Galaksija ; Mlečna pot ; Mlečna cesta ; Rimska cesta
+Moldova	Moldavija
+Monaco	Monako
+Montenegro	Črna gora
+Montserrat	Montserrat
+Morocco ; Kingdom of Morocco	Maroko
+Moscow	Moskva
+Mozambique	Mozambik
+Munich	Monakovo ; München
+Myanmar	Mjanmar
+NIMBY aptitude ; NIMBY attitude	odnos "ne na mojem dvorišču"
+NOEL	Kratica za "raven brez opaznih vplivov"
+Nairobi	Nairobi
+Namibia	Namibija
+Naples	Neapelj
+Nepali ; Nepali	nepalščina
+Neptune	Neptun
+New Caledonia	Nova Kaledonija
+New York	New York
+New Zealand	Nova Zelandija
+Nicaragua	Nikaragva
+Nigeria	Nigerija
+Niue	Niue
+North Africa	Severna Afrika
+North America	Severna Amerika
+North Atlantic Ocean	Severni Atlantski ocean
+North-South relationship	odnos med Severom in Jugom
+Northern Ireland	Severna Irska
+Norway ; Kingdom of Norway	Norveška
+Novial	novial
+Oceania	Oceanija
+Oslo	Oslo
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Papua New Guinea	Papua Nova Gvineja
+Parliament	parlament, skupščina
+People's Republic of China ; China	Kitajska
+Philippines	Filipini
+Phobos	Fobos
+Poland	Poljska
+Polish ; Polish	poljščina
+Portugal	Portugalska
+Puerto Rico	Portoriko ; Порторико
+Pyrrhic victory	pirova zmaga
+Qatar	Katar
+Republic of the Congo ; Congo-Brazzaville	Republika Kongo
+Romania	Romunija
+Romanian ; Romanaian	romunščina
+Russia ; Russian Federation	Rusija ; Ruska federacija
+Russian ; Russian	ruščina
+San Marino	San Marino
+Saudi Arabia ; Kingdom of Saudi Arabia	Savdska Arabija
+Scotland	Škotska
+Seine	Sena
+Senegal	Senegal
+September	septêmber
+Serbia	Srbija
+Serbia and Montenegro	Srbija in Črna gora
+Serbian ; Serbian	srbščina
+Seychelles ; Republic of Seychelles	Sejšeli
+Slovakia	Slovaška
+Slovene ; Slovenian ; Slovenian	slovenščina
+Slovenia	Slovenija
+Solomon Islands	Salomonovi otoki
+South Africa	Južna Afrika ; Južnoafriška republika
+South America	Južna Amerika
+Southeast Asia	Jugovzhodna Azija
+Southern Asia ; South Asia	Južna Azija
+Spain	Španija
+Sri Lanka	Šrilanka
+Sudan	Sudan
+Sun King	Sončni kralj
+Suriname	Surinam
+Sweden	Švedska
+Swedish	švedščina
+Switzerland	Švica
+Syria ; Syrian Arab Republic	Sirija
+Tanzania	Tanzanija
+Tehran	Teherán
+Tennessee	Tennessee
+Thailand	Tajska
+The Hague	Haag
+Togo	Togo
+Tokyo	Tokio
+Tunisia	Tunizija
+Turkey	Turčija
+Turkish ; Turkish	Turščina
+UN ; United Nations	Združeni narodi
+Uganda ; Republic of Uganda	Uganda
+Ukraine	Ukrajina
+United Arab Emirates	Združeni arabski emirati
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Združeno kraljestvo Velike Britanije in Severne Irske
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Združene države Amerike ; Združene države ; ZDA
+Uranus	Uran
+Utah	Utah
+Vaduz	Vaduz
+Vatican City ; The Holy See ; State of the Vatican City	Vatikan
+Venezuela	Venezuela
+Venice	Benetke
+Venus	Venera
+Vienna	Dunaj
+Volapük	volapik
+Wales	Wales
+Western Asia ; Southwest Asia	Zahodna Azija
+Western Europe	Zahodna Evropa
+Wiktionary	Wikislovar
+World Wide Web ; WWW	svetovni splet
+Wyoming	Wyoming
+Yemen ; Republic of Yemen	Jemen
+Yugoslavia	Jugoslavija
+Zambia ; Republic of Zambia	Zambija
+Zanzibar	Zanzibar
+Zimbabwe ; Republic of Zimbabwe	Zimbabve
+aAmplitude ; amplitude	amplituda
+aback	osupel
+abandoned industrial site	opuščena industrijska lokacija
+abandoned vehicle ; car wreck	zapuščeno vozilo
+abiotic environment	neživo okolje
+abiotic factor	abiotski dejavnik
+abortive	neuspešen
+absorption	absorpcija
+acceleration	pospešek
+acceptable daily intake	dopustna dnevna doza
+acceptable risk level	sprejemljiva raven tveganja
+acceptance ; credence	sprejemanje
+access road	dovoz, dovozna cesta/pot
+access to administrative documents	dostop do upravnih dokumentov
+access to culture	dostop do sredstev javnega obveščanja
+access to information	dostop do informacij, dostop do podatkov ; dostop do informacij ; dostop do podatkov
+access to the courts	dostop do sodišč, dostop do sodnega varstva
+accident	nesreča ; nezgoda, nesreča ; nezgoda
+accident source ; cause of the accident	vzrok nesreče
+accidental release of organisms	naključno sproščanje GS organizmov
+accordion ; squeeze box ; piano accordion	harmonika
+accounting	računovodstvo
+accounting system	računovodski sistem
+accumulator	akumulator ; baterija
+acid	kislina
+acid deposition	kisle padavine
+acid rain	kisel dež
+acidification	zakisovanje
+acidity	kislost
+acidity degree	stopnja kislosti
+acoustic comfort	zvočno ugodje
+acoustic filter ; audio filter	zvočni filter
+acoustic insulation	zvočna izolacija
+acoustic level ; sound pressure level	raven zvoka
+acoustic property	zvočne lastnosti
+acoustical quality	akustična kakovost
+acoustics	akustika
+acquisition	pridobitev
+act ; deed	dejanje ; ravnanje
+actinide	aktinidi
+actinium	aktinij
+action group ; action committee	delovna skupina
+activated carbon	aktivno oglje
+activated sludge	aktivno blato
+active participation	aktivna udeležba
+active population	aktivno prebivalstvo
+adaptation period	obdobje prilagajanja
+addition	seštevanje
+additional packaging	dodatna embalaža
+additive	aditiv, dodatek živilom
+adequate food supply	ustrezna oskrba s hrano
+adhesive	adheziv, lepilo ; lepilo ; adheziv
+adjective ; describing word	pridevnik
+adjust	prilagoditi
+administration ; direction ; management	uprava ; upravljanje, vodenje, uprava, administracija ; upravljanje ; vodenje ; administracija
+administrative body ; administrative organ	upravni organ
+administrative boundary	administrativna meja
+administrative competence ; administrative ability	upravna pristojnost ; upravna usposobljenost, upravna pristojnost ; upravna usposobljenost
+administrative deed	dokument ; upravni akt/dokument/listina ; upravni akt ; listina
+administrative fiat	upravna odredba
+administrative instructions	upravni napotki
+administrative law	upravno pravo
+administrative occupation	upravna dejavnost
+administrative organisation	upravna organizacija/organiziranost
+administrative procedure	upravni postopek
+administrative sanction	kazenski ukrep
+adoption	posvojitev
+adsorption	adsorpcija
+adult	odrasla oseba
+adult education	izobraževanje odraslih
+advertisement ; promotion	oglas ; reklama
+advice	nasvet, obvestilo/sporočilo ; obvestilo ; nasvet ; sporočilo
+aeration	zračenje
+aerial	antena
+aerial photograph	letalski posnetek
+aerial photography	letalska fotografija
+aerobic process	aerobni proces
+aerobic treatment	aerobno čiščenje
+aerobiology	aerobiologija
+aerodynamic noise	aerodinamični hrup
+aerosol	aerosol
+aesthetics	estetika
+afforestation ; tree planting ; afforestment	pogozdovanje
+afterburning ; afterburning ; afterburner	naknadno zgorevanje
+age	starost
+aggressive	nasilen
+aggressor ; assailant ; attacker ; assaulter	napadalec
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agorafobija
+agreement	pogodba
+agreement	dogovor, sporazum, pogodba
+agreement	dogovor, sporazum ; sporazum ; dogovor
+agri-foodstuff	živilskopredelovalna industrija
+agricultural biotechnology	biotehnologija v kmetijstvu
+agricultural building	kmečko poslopje
+agricultural disaster	katastrofa v kmetijstvu
+agricultural ecology ; agroecology	ekologija kmetijstva
+agricultural economics	agrarna ekonomika
+agricultural effluent	odpadek iz kmetijstva
+agricultural engineering	kmetijsko inženirstvo
+agricultural equipment	kmetijska oprema, kmetijska mehanizacija
+agricultural equipment ; agricultural machinery ; farm machinery	kmetijska mehanizacija, kmetijski stroji ; kmetijska mehanizacija ; kmetijski stroji ; kmetijska oprema
+agricultural exploitation	kmetijska raba (površin)
+agricultural hydraulics	hidromelioracije
+agricultural land	kmetijska površina
+agricultural landscape	kmetijska pokrajina
+agricultural legislation	kmetijska zakonodaja
+agricultural management	kmetijsko gospodarjenje
+agricultural method	metoda kmetijske pridelave
+agricultural pest	kmetijski škodljivci
+agricultural planning	kmetijsko načrtovanje
+agricultural policy	kmetijska politika
+agricultural pollution	onesnaženje iz kmetijstva
+agricultural product	kmetijski pridelek/proizvod
+agricultural production ; farm production ; agricultural output	kmetijska pridelava
+agricultural real estate	kmetijske nepremičnine
+agricultural storage	skladiščenje kmetijskih pridelkov
+agricultural structure	kmetijska oprema in poslopja
+agricultural undervaluation	podcenjevanje kmetijstva
+agricultural waste	kmetijski odpadki, odpadki iz kmetijstva ; kmetijski odpadki ; odpadki iz kmetijstva
+agriculture	kmetijstvo
+agriculture ; agriculture	kmetijstvo ; kmetijstvo
+agriculture and cattle industry	veliki kmetijski obrati
+agriculture framework plan	okvirni kmetijski načrt
+agritourism	turizem na kmetiji
+agrochemical	agrokemično sredstvo
+agroforestry	gozdno kmetijstvo
+agroindustry	agroživilska industrija
+agrometeorology	agrometeorologija
+agronomic value	agronomska vrednost
+agronomy	agronomija
+agrosystem	agrosistem
+aid policy	politika nudenja pomoči
+air	zrak
+air conditioning ; AC ; air-conditioning	klimatizacija
+air movement	gibanje zraka
+air pollutant	onesnaževalo zraka
+air pollution	onesnaženje zraka
+air quality	kakovost zraka
+air quality control	spremljanje kakovosti zraka
+air quality management	ukrepi za varstvo zraka
+air quality monitoring	monitoring kakovosti zraka
+air sac ; alveolus	alveol, pljučni mešiček ; alveol ; pljučni mešiček
+air safety	ukrepi za varnost v zraku
+air temperature	temperatura zraka
+air traffic	zračni promet
+air traffic law	zakon o zračnem prometu
+air transportation	zračni prevoz/transport ; zračni prevoz ; zračni transport
+air-water interaction	interakcija zrak-voda
+airborne noise	hrup gibanja zraka
+aircraft	zračno plovilo
+aircraft noise	letalski hrup
+airmail	letalska pošta
+airport	letališče
+airspace planning	načrtovanje zračnega prometa
+alarm ; alert ; warning	preplah, alarm ; preplah ; alarm
+albinism	albinizem
+alchemist	alkimist
+alchemy	alkimija
+alcohol	alkohol
+alcoholism	alkoholizem
+alga	alga
+algal bloom	cvetenje alg
+algicide ; algaecide	algicid ; uničevalec alg
+alibi	alibi
+alicyclic compound	aliciklična spojina
+alicyclic hydrocarbon	aliciklični ogljikovodik
+alignment	trasa
+aliphatic compound	alifatska spojina
+aliphatic hydrocarbon	alifatski ogljikovodik
+alkali soil	alkalna tla
+alkaline ; element of group I ; alkaline metal ; alkali metal	alkalijske kovine ; element 1. skupine
+alkaline battery	alkalna baterija
+alkane ; paraffin ; methane series ; alkane series	alkan
+alkyl compound	alkilna spojina
+all-terrain vehicle	terensko vozilo
+allergen	alergen ; dražilo
+allergy	alergija
+allocation ; allotment ; resource allotment	dodelitev, razporeditev, razporejanje ; dodelitev ; razporeditev ; razporejanje
+allocation plan	načrt uravnoteženosti potreb in naravnih virov, bilanca
+allotropy	alotropia
+allowance	dodatek/nadomestilo za stroške
+alloy	zlitina
+alluvial plain	aluvialna ravnica
+alluvion ; flood ; overflowing ; inundation	poplava
+almanac	almanah
+almost	skoraj
+alpha radiation	sevanje alfa
+alphabet	abecéda
+alternative material	alternativni/nadomestni material
+alternative technology	alternativna/nadomestna tehnologija
+altitude	nadmorska višina
+alumina	aluminijev oksid, boksit
+aluminium	aluminij
+aluminium container	aluminijast zabojnik
+aluminium content	vsebnost aluminija
+aluminium industry	industrija aluminija
+amalgam	amalgam
+amber	jantar
+americium	americij
+amethyst	ametist
+amine	amin
+amino acid	aminokislina
+ammonia	amoniak
+ammonification	amonifikacija
+ammonium	amonij
+amphibian	dvoživke (Amphibia) ; dvoživke
+amphitheatre	amfiteater
+amusement park	zabaviščni park
+anaerobic process	anaerobni proces
+anaerobic treatment	anaerobno čiščenje
+anagram	anagram
+analogy	analogija
+analysis	analiza
+analysis programme	program analize
+analytical chemistry	analitična kemija
+analytical equipment	analitična oprema
+analytical method	analitična metoda
+anarchism	anarhizem
+anatomy	anatomija
+angiosperm ; flowering plant	cvetnica ; kritosemenke (Angiospermae) ; kritosemenke
+angling ; fishing ; line-fishing	ribarjenje (na trnek) ; ribarjenje na trnek ; ribarjenje
+animal	žival
+animal behaviour	vedenje živali
+animal biology	biologija živali
+animal conservatory	živalski rezervat
+animal corridor	živalski koridor
+animal damage	škoda, ki jo povzročijo živali
+animal disease	bolezen živali
+animal displacement	gibanje živali
+animal ecology	ekologija živali
+animal excrement	živalski iztrebek
+animal experiment	poskus na živali
+animal foodstuff	živalska hrana, krmilo
+animal for slaughter	klavna živina
+animal habitat	živalski habitat
+animal heritage	živalska dediščina
+animal husbandry	vzreja živali
+animal manure	hlevski gnoj
+animal migration	selitev/migracija živali
+animal noise	hrup živali
+animal nutrition	prehrana/prehranjevanje živali
+animal physiology	fiziologija živali
+animal population	živalska populacija
+animal product	proizvod živalskega izvora
+animal production	živinorejska proizvodnja
+animal protection	varstvo živali
+animal reproduction	razmnoževanje živali
+animal resource	živalski vir
+animal rights	pravice živali
+animal shelter	zavetišče za živali
+animal species	živalska vrsta
+animal species reintroduction	ponovna naselitev živalskih vrst
+animal trade	trgovina z živalmi
+animal waste	živalski odpadki
+anime	anime
+anion	anion
+anise	janež
+ankle ; talocrural joint	gleženj
+annelid	kolobarniki (Annelida) ; kolobarniki
+anniversary	obletnica
+ant	mravlja
+antagonism	antagonizem (nasprotno delovanje) ; antagonizem
+antelope	antilopa
+anthropic activity	človekova dejavnost
+anthropologic reserve	antropološki rezervat ; antropološko zavarovano območje
+antibiotic	antibiotik
+antibody	protitelo
+anticipation of danger	varstvo pred nesrečami
+antifouling agent	sredstvo proti obraščanju
+antimony	antimon
+antipollution incentive	finančni inštrumenti za zmanjševanje onesnaževanja
+antiquated plant	zastarel obrat
+antiseismic regulation	protipotresni predpis
+antonym	antonim
+anytime	vedno ; zmeraj
+apartheid	apartheid
+apartment block	stanovanjski blok
+apiculture ; beekeeping	čebelarstvo
+apoptosis	apoptoza
+appeal	pritožba, priziv ; pritožba ; priziv
+appeal procedure	pritožbeni/prizivni postopek
+applied ecology	aplikativna/uporabna ekologija
+applied nutrition	aplikativna/uporabna prehrana
+applied research	aplikativna raziskava
+applied science	aplikativna/uporabna znanost
+appraisal	ocenitev, ocena, cenitev
+approach	dostop ; pristop ; vstop
+appropriate technology	ustrezna tehnologija
+approval ; approbation	odobritev ; odobritev, potrditev ; potrditev
+approval of installations	gradbeno dovoljenje
+apricot	marelica
+aquaculture	akvakultura
+aquamarine	akvamarinas
+aquarium	akvarij
+aquatic animal	vodna žival
+aquatic ecology	vodna ekologija
+aquatic ecosystem	vodni ekosistem
+aquatic environment	vodno okolje
+aquatic mammal	vodni sesalec
+aquatic organism	vodni organizem
+aquatic plant	vodna rastlina
+aqueduct	akvedukt
+aquifer	vodonosnik
+arable farming	poljedelstvo
+arboretum	arboretum
+arboriculture	arborikultura, gojenje dreves ; arborikultura ; gojenje dreves
+archaeological	arheološki
+archaeological site	arheološko najdišče
+archaeology ; archeology ; archæology	arheologija
+archipelago	otočje, arhipelag ; otočje ; arhipelag
+architecture	arhitektura
+area of potential pollution	potencialno onesnaženo območje
+area under stress	preobremenjeno območje
+argon	argon
+arid land	sušno območje
+aristocracy	aristokracija
+armament	oborožitev ; vojna oprema
+armament conversion	sprememba oborožitve/vojaške opreme
+armed forces	oborožene sile
+armoury	orožarna
+armpit	pazduha
+aromatic compound	aromatična spojina
+aromatic hydrocarbon	aromatični ogljikovodik
+aromatic substance	aromatična snov
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	prilagajati ; adaptirati
+arrangement for a deposit on packaging	plačilo za rabljeno embalažo
+arrowhead	konica puščice
+arsenic	arzen
+arson	požig
+art	umetnost
+artery	arterija
+artful	prekanjen
+arthropod	členonožci (Arthropoda) ; členonožci
+artificial lake	umetno jezero
+artificial reproductive technique	postopek umetne reprodukcije
+artificial satellite	umetni satelit
+asbestos	azbest
+asbestos cement	azbestna malta
+asbestosis	azbestoza
+ascendancy	vpliv
+ascent	vzpon
+ascertain	ugotoviti
+ascetic	askéta
+ash	pepel
+ashamed	sram
+ashen	prsten
+ashore	na obalo
+ashtray	pepelnik
+asleep	speč
+asphalt	asfalt
+aspiration	stremljenje
+assassin ; assassinator	vrah ; morilec
+assay	določitev kemične sestave snovi
+assemble ; get together ; gather	zbrati
+assent	privolitev
+assent	odobriti
+assert	trditi
+assert	terjati
+assertive	samozavesten
+assignment	naloga
+assimilate	vsrkati
+assimilation	asimilacija
+assist	asistirati
+association	zveza, združenje
+assorted	raznovrsten
+astatine	astat
+asterisk	zvezdica
+asteroid	asteroid
+asthenosphere	astenosfera
+astonish	presenetiti
+astonishing	presenetljiv
+astonishment	začudenje
+astound	osupniti
+astride	okobal
+astride	v razkoraku
+astrology ; star divination	astrologija
+astrometry	astrometrija
+astronautics	astronavtika
+astronomy	astronomija
+asymmetric ; asymmetrical	asimetrično
+asymptote	asimptota
+atheist	ateist
+atlas	atlas
+atmosphere	ozračje, atmosfera ; ozračje ; atmosfera
+atmospheric aerosol	atmosferski aerosol
+atmospheric chemistry	atmosferska kemija
+atmospheric circulation	kroženje zraka
+atmospheric component	sestavina zraka
+atmospheric composition	kemična sestava zraka
+atmospheric correction	atmosferski popravek
+atmospheric emission	emisije v zrak
+atmospheric fallout	usedanje prašnih delcev
+atmospheric layering	plasti ozračja
+atmospheric monitoring	monitoring ozračja, spremljanje stanja v ozračju
+atmospheric ozone	atmosferski ozon
+atmospheric particulate	lebdeči delci
+atmospheric physics	atmosferska fizika
+atmospheric pollution	onesnaženje zraka
+atmospheric precipitation ; precipitation	padavine
+atmospheric process	proces v ozračju
+atmospheric science	vede o ozračju (meteorologija, klimatologija)
+atmospheric structure	plasti ozračja
+atoll	atol
+atractive	privlačen
+atrazine	atrazin
+atrocity	grozota
+attached	navezan
+attachment	navezanost
+attachment	priključek
+attack	napad
+attain	doseči
+attend	skrbeti za
+attend	udeležiti se
+attend	prisluhniti
+attend	ukvarjati se
+attendant	čuvaj
+attentive	pozoren
+attic	podstrešje
+attire	obleka
+attire	obleči
+attitude	poza
+attract	privlačiti
+attribute	lastnost, atribut ; lastnost ; atribut
+audacious	drzen
+audio-visual presentation	avdio-vizualna predstavitev
+audiovisual equipment	avdiovizualna oprema
+audiovisual media	avdiovizualna sredstva
+audit	pregled (finančnega poslovanja), revizija
+augment	povečati
+auspicious	obetaven
+authorisation	odobritev ; pooblastilo
+authoritarian	avtoritaren
+authoritative	pooblaščen
+authority body	organ oblasti, vladni organ
+authorship	avtorstvo
+autocracy	samodrštvo
+autoecology	ekologija vrst
+automobile industry	avtomobilska industrija
+autopsy	obdukcija
+available	prost
+avalanche	plaz
+avalanche protection	zaščita pred plazovi
+avert	preprečiti
+avert	odvrniti
+aviation law	zakon o zračnem prometu
+aviculture	vzreja ptic
+avid	željan
+avifauna	ptice določenega območja
+awe	strahospoštovanje
+awhile	hipec
+background level	ozadje
+background noise	hrup ozadja
+background radiation	radioaktivno sevanje ozadja
+bacterial bed	bakterijska plast
+bactericide	baktericid
+bacteriological pollution	bakteriološko onesnaženje
+bacteriology	bakteriologija
+bacterium	bakterija
+baking powder	pecilni prašek
+balance	bilanca ; izravnava ; saldo ; stanje
+balance of matter	ravnovesje snovi
+balancing of interests	usklajevanje interesov
+ballad	balada
+ballroom	plesna dvorana
+banana	banana
+bank	breg
+bank protection	varstvo obrežij
+banking	bančništvo, bančno poslovanje
+barium	barij
+barley	ječmen
+barometer	barometer
+baron	baron
+barrier beach	zemeljska kosa, sipina
+barrier reef	koralni greben
+base	baza
+baseline monitoring	dolgoročni monitoring
+basic food requirement	osnovna potreba po hrani
+basicity	bazičnost
+basidiomycete	prostotrosnice (Basidiomycetes)
+basketball ; basketball game	košarka
+bassoon	fagot
+bastardisation of fauna	križanje živalskih vrst
+bastardisation of flora	križanje rastlinskih vrst
+batch process	serijski proces
+bathing freshwater	kopane sladke vode
+bathing seawater	kopalne morske vode
+bathing water	kopalne vode
+battery	baterija
+battery disposal	odlaganje baterij
+bay	zaliv
+beach	plaža
+beach cleansing	čiščenje obale
+bean ; edible bean	fižol
+beatification	beatifikacija
+beaver	bober
+bee	čebele
+bee conservation	varstvo čebel
+beef cattle	govedo za prirejo mesa
+beer	pivo
+beetle	hrošči (Coleoptera)
+behaviour	vedenje
+behaviour of substances	reaktivnost snovi
+behaviour pattern	vedenjski vzorec
+behavioural science	preučevanje obnašanja organizmov
+beneficial organism	koristen organizem
+benthic division	bentoško območje
+benthos	bentos, organizmi na morskem dnu ; bentos ; organizmi na morskem dnu
+benzene	benzen
+benzopyrene	benzopiren
+berkelium	berkelij
+beryllium ; glucinium	berilij
+beta radiation	sevanje beta
+beverage ; drink	pijača
+beverage industry	proizvodnja pijač
+bibliographic information	bibliografska informacija ; bibliografska informacije
+bibliographic information system	bibliografski informacijski sistem
+bibliography	bibliografija
+bicycle ; bike ; cycle	kolo
+big game	velike prostoživeče živali
+bilateral convention	bilateralna konvencija
+bile	žolč
+bilge oil	odpadno olje v podladju
+bilge water	kalužna voda
+bio-availability	biorazpoložljivost
+bioaccumulation	bioakumulacija
+bioaccumulative pollutant	bioakumulacijsko onesnaževalo
+biochemical method	biokemijska metoda
+biochemical oxygen demand	biološka potreba po kisiku
+biochemical process	biokemijski proces
+biochemical substance	biokemična snov
+biochemistry	biokemija
+biocide	biocid
+bioclimatology	bioklimatologija
+biocoenosis	biocenoza
+bioconcentration factor	faktor biokoncentracije
+biodegradability	biorazgradljivost
+biodegradable pollutant	biorazgradljivo onesnaževalo
+biodegradation	biorazgradnja
+biodiversity	biotska raznovrstnost
+bioethics	bioetika
+biofiltration	biofiltracija
+biofuel	biogorivo
+biogas	bioplin
+biogeochemical cycle	biogeokemijski cikel
+biogeographical region	biogeografska regija
+biogeography	biogeografija
+biological analysis	biološka analiza
+biological attribute	biološka lastnost/značilnost
+biological contamination	biološka kontaminacija
+biological cycle	biološki cikel/ciklus
+biological development	biološki razvoj
+biological effect	biološki učinek/vpliv, biološka posledica
+biological effect of pollution	biološki vpliv/učinek onesnaženja
+biological engineering	biološko inženirstvo
+biological heritage	biološka dediščina
+biological indicator	biološki indikator/kazalec
+biological monitoring	biološki monitoring
+biological pest control	biološko zatiranje škodljivcev
+biological pollutant	biološko onesnaževalo
+biological pollution	biološko onesnaženje
+biological process	biološki proces
+biological production	biološka proizvodnja
+biological reserve ; wildlife reserve	biološki rezervat
+biological resource	biološki viri
+biological test	biološki preskus
+biological treatment	biološko čiščenje odpadnih vod
+biological waste gas purification	biološko čiščenje odpadnih plinov
+biological waste treatment	biološka obdelava odpadkov
+biological wastewater treatment	biološko čiščenje odpadnih vod
+biological water balance	biološko vodno ravnovesje
+biological weapon	biološko orožje
+biology ; biological science	biologija
+bioluminescence	bioluminiscenca
+biomarker	biološki kazalec
+biomass	biomasa
+biomass energy	energija biomase
+biome	biom
+biophysics	biofizika
+bioreactor	bioreaktor
+biorhythm	bioritem
+biosafety	biološka varnost
+biosphere	biosfera
+biosphere reserve	biosferno območje
+biosynthesis	biosinteza
+biotechnological hazard	biotehnološka nevarnost
+biotechnology	biotehnologija
+biotic factor	biotski dejavnik
+biotic index	biotski indeks/kazalec
+biotope	biotop
+biotope network	mreža biotopov
+biotope order	uredba o biotopih
+biotope protection	varstvo biotopa
+bird	ptice ; ptiči
+bird of prey	ptica roparica
+bird sanctuary	ptičji rezervat
+bird species	ptičja vrsta
+birth control	kontracepcija, nadzorovanje rojstev ; kontracepcija ; nadzorovanje rojstev
+bishop	škof
+bismuth	bizmut
+bitumen	bitumen
+black coal ; black coal ; black coal ; anthracite coal	črni premog
+blackbird	kos
+blast furnace	plavž
+bleaching agent	belilo
+bleaching clay	belilna glina
+bleaching process	beljenje
+blind	slep
+blog ; weblog ; web log	blog
+blood	kri
+blue	moder
+blue-green alga ; cyanobacteria	modrozelena cepljivka
+boating	čolnarjenje
+bocage	sistem zaprtih polj
+bog	barje
+boiler	kotel, grelec
+boiling point	vrelišče
+book	knjiga
+bookkeeping	knjigovodstvo
+border	meja
+boron	bor
+botanical conservatory	rastlinski rezervat
+botanical garden	botanični vrt
+botany ; phytology	botanika
+bottle cap	zamašek
+boundary crossing	prečkanje meje
+boundary layer	mejna plast
+bow	lok
+brackish water	brakična voda
+branch	veja
+branch of activity	vrsta dejavnosti
+bread	krúh
+breast milk	materino mleko
+breeding	gojenje rastlin ; vzreja živali ; vzreja živali, gojenje rastlin
+breeding bird	starševska ptica
+breeding technique	tehnologija reje
+brick	opeka
+bridge	most
+bring	prinesti
+broad-leaved tree	listavec
+bromine	brom
+brooding	valjenje
+brook	potok
+brushwood	grmovje
+bryophyte	mahovi (Bryophyta) ; mahovi
+bubble policy (emissions trading) ; bubble policy	politika mehurčka (trgovanje z emisijami) ; politika mehurčka
+budget	proračun, finančni načrt, predračun
+budget policy	proračunska politika
+bug ; põrnikas	stenice (Heteroptera) ; stenice
+building	zgradba, stavba, poslopje ; zgradba ; stavba ; poslopje
+building area	zazidalno območje
+building component	gradbena sestavina
+building destruction	rušenje zgradb
+building industry	gradbeništvo
+building land	zazidljivo zemljišče
+building material	gradbeni material
+building materials industry	industrija gradbenega materiala
+building permit	gradbeno dovoljenje
+building planning	gradbeno načrtovanje
+building regulation	gradbeni predpis
+building related illness ; sick building syndrome	sindrom bolnih zgradb
+building restoration	obnova, restavriranje zgradb
+building service	gradbena storitev
+building site	gradbišče
+building site preparation	priprava gradbišča
+building technology	gradbena tehnologija
+building waste	gradbeni odpadki
+built drainage system	drenažni ali osuševalni sistem
+built environment	grajeno okolje
+built structure	grajeni objekt
+built-up area	pozidano območje, strnjeno naselje ; pozidano območje ; strnjeno naselje
+bulb cultivation	gojenje čebulic
+bulky waste	kosovni odpadki
+bull	бык
+bullet	krogla
+bumblebee	čmrlj
+bureaucratisation	birokratizacija
+bus ; coach	avtobus
+bus station	avtobusna postaja
+bush clearing	odstranjevanje grmovja
+business	delo ; poklic ; posel/delo, dejavnost/poklic, podjetje/firma ; posel ; dejavnost ; podjetje ; firma
+business activity	poslovna dejavnost
+business classification	klasifikacija podjetij
+business economics	poslovna ekonomija/ekonomika
+business organisation	poslovna organizacija
+business policy	poslovna politika
+butcher	mesar
+butter	maslo
+butterfly	metulji
+button-cell battery	baterija v obliki gumba, gumb baterija
+buy ; purchase	kupiti
+buy ; purchase	nakup
+by-catch	stranski ulov
+by-product	stranski produkt
+cable	kabel
+cadmium	kadmij
+caesium	cezij
+caffeine	kofein
+calcium	kalcij
+calcium content	vsebnost kalcija
+calculation	izračunavanje, preračunavanje, izračun ; izračunavanje ; preračunavanje ; izračun
+calculation method	metoda izračunavanja
+caliber	kaliber
+calibration	kalibracija
+californium	kalifornij
+camel	kamela
+camera	fotoaparat ; fotográfski aparát
+camp ; military camp ; army camp ; campsite	kamp ; kamp, tabor ; tabor
+camping ; camping ground	kamp
+camping site	kamp, urejen prostor za taborjenje
+canal	kanal
+canal lock	zapornica
+cancer	rak
+cancer risk	tveganje obolelosti za rakom
+canid	pes
+canyon	kanjon
+car ; automobile	avtomobil
+car park	parkirišče
+car tyre	avtomobilska pnevmatika
+carbohydrate	ogljikov hidrat
+carbon	ogljik
+carbon dioxide	ogljikov dioksid
+carbon dioxide tax	davek na ogljikov dioksid
+carbon monoxide	ogljikov monoksid
+carbonate	karbonat
+carcass disposal	odlaganje živalskih trupel
+carcinogen	rakotvoren
+carcinogenicity	rakotvornost
+carcinogenicity test	preskus za rakotvornost
+cardinal	kardinal
+cardiology	kardiologija
+cardiovascular disease	kardiovaskularna bolezen, bolezen srca in ožilja ; kardiovaskularna bolezen ; bolezen srca in ožilja
+cardiovascular system	kardiovaskularni sistem, sistem srca in ožilja ; kardiovaskularni sistem ; sistem srca in ožilja
+carnivore	mesojed, karnivor
+carry-over effect	učinek prenosa
+cartography	kartografija
+case ; lawsuit ; trial	sodni proces, sodna obravnava ; sodna obravnava ; sodni proces
+cash crop	pridelek za trg
+castle	grad
+catalysis	kataliza
+catalyst	katalizator
+catalytic converter	avtomobilski katalizator
+catapult	katapult
+catastrophe	katastrofa
+catch yield	ulov
+catchment	(vodni) zbiralnik
+catchment area	zbirno območje
+category of endangered species	ogrožena vrsta
+cation	kation
+cattle	govedo, goveja živina
+cause-effect relation	razmerje med vzrokom in posledico
+cave	jama
+cell ; cell	celica ; celica
+cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο	galvanski člen
+cellulose	celuloza
+cellulose industry	celulozna industrija
+cement	cement
+cement industry	cementna industrija
+cement manufacture	proizvodnja cementa
+census survey	popis prebivalstva
+central government	osrednja vlada
+central park area	osrednje območje parka
+centralisation	centralizacija
+centrifugation	centrifugiranje
+cephalopod	glavonožci (Cephalopoda) ; glavonožci
+ceramics	keramika
+ceramics industry	keramična industrija
+cerium	cerij
+certification	potrdilo
+cetacean	kiti (Cetacea) ; kiti ; Cetacea ; veľryby
+chair	stol
+chalk	kreda
+champagne	šampanjec
+change in value	sprememba vrednosti
+channelling	sistem vodov
+charcoal	oglje
+chart	zapisnik
+chart ; nautical chart	karta
+cheese	sir
+chelicerate	pipalkarji (Chelicherata)
+chemical	kemikalija
+chemical addition	adicija
+chemical analysis	kemijska analiza
+chemical composition	kemična sestava
+chemical contamination	kemična kontaminacija
+chemical corrosivity	korozivnost
+chemical decontamination	kemična dekontaminacija
+chemical element ; element	kemični element
+chemical fallout	usedanje delcev
+chemical fertiliser	umetno gnojilo
+chemical in the environment	prisotnost kemikalij v okolju
+chemical industry	kemična industrija
+chemical installation	obrat kemične proizvodnje
+chemical measurement of pollution	kemične meritve onesnaženosti
+chemical oxygen demand	kemična potreba po kisiku
+chemical pest control	kemično zatiranje škodljivcev
+chemical plant	kemična tovarna
+chemical policy	kemijska politika
+chemical pollutant	kemično onesnaževalo
+chemical pollution	kemično onesnaženje
+chemical process	kemijski proces
+chemical product	kemični izdelek
+chemical property	kemična lastnost
+chemical reaction	kemijska reakcija
+chemical reduction	kemična redukcija
+chemical risk	kemično tveganje
+chemical structure	kemična struktura
+chemical treatment	kemična obdelava
+chemical waste	kemični odpadki
+chemical weapon	kemično orožje
+chemicals act	zakon o kemikalijah
+chemisorption	kemijska adsorpcija
+chemistry	kemija
+chess	šah
+chestnut	kostanj
+child	otrok
+chimney	dimnik
+chimney height	višina dimnika
+chipmunk	vrsta severnoameriške veverice
+chiropteran	netopir
+chloride	klorid
+chlorinated hydrocarbon	klorirani ogljikovodik
+chlorination	kloriranje
+chlorine	klor
+chlorophenol	klorofenol
+chlorophyll	klorofil
+chlorosis	kloroza (pomanjkanje klorofila) ; kloroza
+chordate	strunarji (Chordata) ; strunarji
+chorology	horologija
+chromatographic analysis	kromatografska analiza
+chromatography	kromatografija
+chromium	krom
+chrysophyta	zlatorjave in oranžnorumene alge (Chrysophyta)
+church	cerkev
+cigarette	cigareta
+cinematographic film	film
+circular mail	okrožnica
+citizen	državljan, meščan, občan ; državljan ; meščan ; občan
+citizen awareness	ozaveščenost državljanov
+citizen initiative	državljanska pobuda
+citizen rights	državljanske pravice
+city	mesto
+city centre	mestno središče
+civil air traffic	civilni zračni promet
+civil engineering	gradbeništvo
+civil law	civilno/zasebno pravo, rimsko pravo
+civil safety	varnost ljudi
+civilian protection	zaščita civilnega prebivalstva
+claim for restitution	zahtevek za povračilo
+clarinet	klarinet
+classification	razvrstitev
+clay	glina
+clean air area	območje čistega zraka
+clean air car	vozilo, ki ne onesnažuje zraka
+clean technology	čista tehnologija
+cleaning up	melioracija
+cleanliness	čistoča ; čistost
+cleansing department	komunalna služba
+clearing sludge	aktivno blato
+cliff	klif
+climate	podnebje ; podnebje, klima ; klima
+climate protection	varstvo podnebja
+climate resource	podnebni vir
+climate type	podnebni tip
+climatic alteration	spreminjanje podnebja
+climatic change ; climate change	podnebne spremembe
+climatic effect	podnebni vpliv
+climatic experiment	podnebni poskus/eksperiment
+climatic zone	podnebni pas
+climatology	klimatologija
+climax	klimaks
+climbing plant (wall) ; climbing plant	plezalka
+clinical symptom	klinični simptom
+cloning	kloniranje
+closing down	zaprtje
+closing down of firm	zaprtje podjetja
+clothing ; apparel	oblačila, obleke ; oblačila ; obleke
+clothing industry	industrija oblačil, konfekcijska industrija
+cloud	oblak
+co-incineration	sosežig
+co-operation	sodelovanje
+co-operation policy	politika sodelovanja
+co-operation principle	načelo sodelovanja
+co-ordinate system	koordinatni sistem
+co-ordination	usklajevanje, koordinacija
+coagulation	kosmičenje
+coal	premog
+coal industry	premogovništvo
+coal liquefaction	utekočinjanje premoga
+coal mining	premogovništvo
+coal refining	rafiniranje premoga
+coal technology	predelava premoga
+coal-based energy	energija premoga
+coal-fired power plant	termoelektrarna
+coast	obala
+coast protection	varstvo obale
+coastal area	obalno območje
+coastal development	razvoj obalnih območij
+coastal ecosystem	obalni ekosistem
+coastal environment	obalno okolje
+coastal fishing	priobalni ribolov
+coastal pollution	onesnaženje obale
+coastal water	obalno morje
+coastal zone planning	prostorsko načrtovanje na obalnih območjih
+coastguard	obalna straža
+coating	premaz
+cobalt	kobalt
+cockroach	ščurek
+code	kodeks, zbirka pravil/zakonov, zakonik
+code of practice	kodeks, pravila obnašanja
+codification	kodifikacija
+coelenterate	ožigalkarji (Cnidaria) in rebrače (Ctenophora)
+coffee	kava
+cogeneration	kogeneracija
+coin ; money	kovanec
+coke	koks
+cold	mraz
+coliform bacterium	koliformna bakterija
+colina ; hill ; loma	grič
+collective wastewater treatment	skupno čiščenje odpadne vode
+colloid	koloid
+colloidal state	koloidno stanje
+colonisation	kolonizacija ; poselitev
+colour ; colour ; colo(u)r	barva ; barva ; barva
+colour composition	barvna sestava
+colourimetry	kolorimetrija
+colubrid	goži (Colubridae)
+combination effect	sinergijski učinek
+combined cycle-power station	kogeneracija električne energije
+combined sewer system	kombinirani sistem kanalizacije
+combined transport	kombinirani prevoz
+combined waste water	mešane odpadne vode (komunalne, industrijske, meteorne)
+combustibility	gorljivost
+combustion engine	motor z notranjim zgorevanjem
+combustion gas	izpušni plin
+combustion residue	ostanek pri zgorevanju
+comet	komet
+commercial fishery	komercialni ribolov
+commercial law	trgovinsko pravo, gospodarsko pravo
+commercial noise	hrup gospodarskih dejavnosti
+commercial traffic	trgovinski promet
+commercial transaction	posel, kupčija
+commercial vehicle	vozilo za prevoz blaga
+commercialisation	komercializacija
+common agreement	skupni dogovor
+common agricultural policy ; common agricultural policy of the EU	skupna kmetijska politika
+common commercial policy	skupna/enotna trgovinska politika
+common tariff policy	skupna/enotna carinska politika
+communications	komunikacije
+communications industry	komunikacije (dejavnost)
+communications policy	komunikacijska politika
+communications system	komunikacijski sistem
+communism	komunizem
+community facility ; public facility	javna zgradba/oprema/storitev
+community-pays principle	načelo, po katerem plača skupnost
+commuter traffic	dnevna migracija
+compaction	zgoščevanje ; zgoščevanje, kompaktiranje ; kompaktiranje
+company policy	politika podjetja/družbe
+company structure	struktura podjetja
+comparative law	primerjalno pravo
+comparative test	primerjalni preskus
+comparison	primerjava
+compensation	nadomestilo ; nadomestilo (škode), odškodnina, povračilo, kompenzacija ; odškodnina ; nadomestilo škode ; kompenzacija ; povračilo
+compensation for damage	odškodnina, nadomestilo za škodo
+compensatory measure	kompenzacijski ukrep
+compensatory tax	kompenzacijski davek
+competition	tekmovalnost
+competition law	zakon o omejevanju konkurence
+competitive examination	izbirni preskus
+competitiveness	konkurenčnost, konkurenčna sposobnost
+complex formation	tvorba kompleksa
+complexing agent	snov, sposobna tvoriti kompleks
+composite pollution	kombinirano onesnaženje
+composition of population	sestava prebivalstva
+compost	kompost
+compostable waste	odpadki, primerni za kompostiranje
+composting	kompostiranje
+composting by producer	kompostiranje, ki ga izvaja proizvajalec
+compression	stiskanje ; stiskanje, kompresija ; kompresija
+compressor	kompresor
+concentration	koncentracija
+concept of environment	okoljski koncept
+concession	dovoljenje ; koncesija, dovoljenje, izključna pravica ; koncesija ; izključna pravica
+concrete	beton
+concrete products industry	proizvodnja betonskih izdelkov
+condensation (process) ; condensation	kondenzacija ; kondenzacija (proces)
+conductivity ; electrical conductivity	prevodnost
+conflict	konflikt, spor ; konflikt ; spor
+conflict of aims	nasprotje/nasprotnost ciljev, križanje ciljev
+conflict of interests	nasprotje/nasprotnost interesov, križanje interesov
+conflicting use	sporna uporaba/raba
+congress	kongres, zbor
+conifer	iglavec
+coniferous forest	iglasti gozd
+coniferous tree	iglavec
+conservation	ohranjanje, konzerviranje ; ohranjanje ; konzerviranje
+conservation of monuments	ohranjanje spomenikov
+conservation policy	politika ohranjanja
+constitution	ustava
+constitutional law	ustavno pravo, ustavni zakon
+construction equipment	gradbena oprema
+construction noise	hrup gradbenih dejavnosti
+construction policy	gradbena politika
+construction technology	gradbena tehnologija
+construction with recycled material	gradnja z recikliranim materialom
+construction work	gradbene dejavnosti
+consultancy	svetovanje
+consultation	posvetovanje, konzultacija ; posvetovanje ; konzultacija
+consumer behaviour	vedenje potrošnika/kupca
+consumer goods	blago/izdelki za široko porabo
+consumer group	potrošniška skupina
+consumer information	potrošniške informacije
+consumer product	potrošniški izdelek
+consumer protection	varstvo potrošnikov
+consumer waste	gospodinjski odpadki
+consumption	poraba, potrošnja ; poraba ; potrošnja
+consumption pattern	vzorec/model porabe ; vzorec ; model porabe
+container	kontejner ; zabojnik
+containment (nuclear industry) ; containment	zadrževalni hram (jedrski reaktor) ; zadrževalni hram
+contaminated soil	onesnažena tla
+contamination	onesnaženje
+continent	celina ; kontinent
+continental climate	celinsko/kontinentalno podnebje
+continental shelf	celinska polica
+continuing education	stalno/permanentno izobraževanje
+continuous load	stalna obremenitev
+contour farming	kmetijska pridelava na terasah
+contract	pogodba ; pogodba, sporazum ; sporazum
+control measure	nadzorni ukrep, nadzor
+controlled burning	nadzorovano požiganje
+controlled hunting zone	območje nadzorovanega lova
+controlling authority	nadzorna pristojnost, upravna pristojnost
+conurbation	somestje, konurbacija ; somestje ; konurbacija
+convention	konvencija ; mednarodni sporazum
+conventional energy	konvencionalna energija
+cooling	hlajenje
+cooling oil	hladilno olje
+cooling tower	hladilni stolp
+cooling water	hladilna voda
+copper	baker
+coppice	panjevec
+coppice with standards	panjevec s semenjaki, srednji gozd
+coral	korala
+coral reef	koralni greben
+coral reef lagoon	laguna za koralnim grebenom
+core meltdown	taljenje jedra
+cork	pluta
+corridor	koridor ; prehod
+corrosion	korozija
+corrosion inhibitor	inhibitor korozije
+cosmetic industry	kozmetična industrija
+cosmic radiation	kozmično sevanje
+cosmology	kozmologija
+cost	strošek, proizvodni stroški ; proizvodni stroški ; strošek
+cost increase	zvišanje stroškov
+cost reduction	znižanje stroškov
+cost-benefit	stroški in koristi
+cost-benefit analysis	analiza stroškov in koristi
+cotton	bombaž
+country ; nation ; state	država
+country lodge	koča, brunarica
+county	okrožje, okraj ; okraj ; okrožje
+court	sodišče
+court of justice	sodišče
+cove	zajeda, soteska ; zajeda ; soteska
+covering ; roofing	prekritje
+cow	krava
+craft ; arts and crafts	obrt
+credit	posojilo, kredit
+credit assistance	kreditna pomoč
+credit policy	kreditna politika
+creek	zalivček
+crime	zločin, kaznivo dejanje ; zločin ; kaznivo dejanje
+criminal law	kazensko pravo
+criminal law procedure	kazenski postopek
+criminal liability	kazenska odgovornost
+criminality	kriminaliteta
+crisis management	krizno upravljanje
+critical level	kritična koncentracija
+critical load	kritična obremenitev
+crocodile	krokodil
+crop production	pridelava poljščin
+crop protection	zaščita pridelka
+crop rotation	kolobarjenje
+crop treatment	kemična zaščita pridelka
+crossing place	prehod (čez cesto itd.)
+crossing place for animals	prehod za živali
+crossword	križanka
+crude oil	surova nafta
+cruising	križarjenje
+crustacean	raki (Crustacea)
+cryptogam	kritosemenka, brezcvetnica ; kritosemenka ; brezcvetnica
+crystal	kristal
+crystallisation	kristalizacija
+crystallography	kristalografija
+cultivated plant	kulturna rastlina
+cultivation ; tillage	gojenje rastlin
+cultivation method	tehnologija obdelovanja
+cultivation of agricultural land	obdelovanje kmetijske zemlje
+cultivation system	sistem obdelave tal
+cultural development	kulturni razvoj
+cultural facility	kulturna ustanova
+cultural heritage	kulturna dediščina
+cultural indicator	kulturni indikator/kazalec
+cultural policy	kulturna politika
+culture	kultura
+curium	kirij
+curriculum	življenjepis
+customs	carinske dajatve
+customs regulation	carinski predpis
+customs tariff	carinska tarifa
+cutting	sečnja
+cutting ; cutting (vegetative propagation)	sečnja
+cyanate	cianat
+cyanide	cianid
+cycle path	kolesarska pot
+cyclone	ciklon
+cytology	citologija
+cytotoxicity	citotoksičnost
+dairy farm	mlečna kmetija
+dairy industry	mlečna industrija
+dairy product	mlečni proizvod
+dam	jez
+dam draining	spuščanje vode iz akumulacije
+damage	škoda
+damage assessment	ocenitev škode
+damage from military manoeuvres	škoda, ki jo povzročijo vojaški manevri
+damage insurance	škodno zavarovanje
+damage prevention	preprečevanje škode
+dance	ples
+danger analysis	analiza nevarnosti
+dangerous goods	nevarno blago
+dangerous goods law	zakon o nevarnem blagu
+dangerous goods regulation	predpis o nevarnem blagu
+dangerous installation	nevarne naprave/objekti
+dangerous materials transport	prevoz nevarnih snovi
+darmstadtium	darmštatij
+data acquisition	pridobivanje podatkov
+data analysis	analiza podatkov
+data carrier	nosilec podatkov
+data centre	podatkovno središče, podatkovni center
+data exchange	izmenjava podatkov
+data on the state of the environment	podatki o stanju okolja
+data processing	obdelava podatkov
+data processing law	zakon o obdelavi podatkov
+data processing system	sistem obdelave podatkov
+data protection	varstvo/varovanje podatkov
+data recording technique	tehnika beleženja/evidentiranja podatkov
+database	baza podatkov ; podatkovna baza
+dating	datiranje
+dazzle	zaslepiti
+de-inking	razbarvanje, deinking
+death penalty ; capital punishment ; death sentence	smrtna kazen
+debit	bremeniti
+debt	dolg
+debt service	odplačevanje dolga
+decay product	razpadni produkt
+decentralisation	decentralizacija
+dechlorination	dekloriranje
+decibel	decibel
+deciduous forest ; deciduous wood	listopadni gozd
+deciduous tree	listavec
+decision	odločitev
+decision making support	podpora pri sprejemanju odločitev
+decision process	proces odločanja
+decision-support system	sistem za podporo pri odločanju
+declaration of public utility	širši družbeni interes
+decomposition	razpad
+decontamination	dekontaminacija
+decree	odredba, dekret, odlok, odločba ; odredba ; dekret ; odlok ; odločba
+deep sea	globoko morje
+deep sea fishing	ribolov na odprtem morju
+deep sea mining	črpanje nafte v globokem morju
+deep-sea disposal	odlaganje v globoko morje
+deer	jeleni (Cervidae) ; jeleni
+defence	obramba, odgovor na tožbo ; obramba ; odgovor na tožbo
+defoliation	odpadanje listja/iglic, defoliacija
+deforestation	izsekavanje, krčenje gozdov ; izsekavanje ; krčenje gozdov
+degradability	razgradljivost
+degradation	razgradnja
+degradation of natural resources	propadanje/degradacija naravnih virov
+degradation of the environment	degradacija okolja
+degradation product	produkt razgradnje
+degreasing	razmaščevanje
+dehydrated sludge	dehidrirano blato
+delegated management	upravljanje s prenosom pooblastil
+delta	delta
+demand	povpraševanje
+demesnial water	javna voda
+democracy	demokracija
+demographic development	demografski razvoj
+demographic evolution	demografski razvoj
+demography	demografija
+demolition business	rušenje
+demolition waste	gradbeni odpadki (iz rušenja starih objektov)
+demonstrability	dokaznost, nazornost
+dendrochronology ; tree-ring dating	dendrokronologija
+dendrometry	dendrometrija
+denitrification	denitrifikacija
+denitrification of waste gas	denitrifikacija odpadnih plinov
+density	gostota
+deposition	usedanje
+deregulation	deregulacija
+dermatology	dermatologija
+desalination	razsoljevanje
+desalination plant	obrat za razsoljevanje
+desert	puščava
+desert climate	puščavsko podnebje
+desert locust	puščavska kobilica
+desertification	širjenje puščavskih razmer, širjenje puščav
+desertification control	preprečevanje širjenja puščav
+design (project) ; design ; project design	načrt (projekt)
+desk study	teoretična raziskava/študija
+desorption	desorpcija
+destination of transport	cilj, destinacija
+desulphurisation	razžvepljevanje, odžvepljevanje ; razžvepljevanje ; odžvepljevanje
+desulphurisation of fuel	razžvepljevanje/odžvepljevanje goriva
+detection	detekcija, odkritje, preiskava ; detekcija ; odkritje ; preiskava
+detector	detektor
+detergent	detergent, čistilno sredstvo
+determination method	metoda določanja
+deterrence	svarilo, opomin
+deterrent	ovira
+detoxification	razstrupitev
+deuterium	devterij
+developed country	razvita država
+developing country	država v razvoju
+development aid	razvojna pomoč
+development area	območje v razvoju
+development co-operation	razvojno sodelovanje
+development model	razvojni model
+development pattern	razvojni vzorec
+development plan	razvojni načrt
+devolution	prenos odgovornosti na podrejene
+dialysis	dializa
+diary	dnevnik
+diatom	kremenaste alge (Diatomeae)
+dictionary	slovar
+didactics	didaktika
+diesel engine	dizelski motor
+diesel fuel ; diesel	dizelsko gorivo
+differentiation	diferenciacija
+diffuse pollution	razpršeno onesnaženje
+diffuse source	razpršeni vir
+diffusion	razprševanje
+digested sludge	pregnito blato
+digester	gnilišče
+digestion	prebava
+digestion	anaerobna presnova ; gnitje
+digital image processing technique	digitalna tehnika obdelave slik
+digital land model	digitalni model reliefa
+digitising	digitalizacija
+diluted acid	razredčena kislina
+dioxin	dioksin
+dipteran	dvokrilec
+direct discharger	onesnaževalec z neposrednim izpustom
+directive	smernica, direktiva
+disabled person	invalid
+disaster	katastrofa ; nesreča
+disaster cleanup operation	sanacija posledic nesreče/katastrofe
+disaster contingency plan	načrt ravnanja ob nesreči/katastrofi
+disaster control service	služba za varstvo pred nesrečami
+disaster preparedness	pripravljenost v primeru nesreč
+disaster prevention	preprečevanje nesreč
+disaster relief	odpravljanje posledic nesreč
+disaster zone	območje katastrofe/nesreče
+discharge regime	rečni pretok
+discrimination	diskriminacija ; diskriminácia
+disease ; illness ; affliction	bolezen
+disease cause	povzročitelj bolezni
+disinfectant	dezinfekcijsko sredstvo
+disinfection	dezinfekcija
+dispatch note	obvestilo o odpremi, odpremnica, paketni list
+dispersion	disperzija
+dispersion calculation	izračun razpršitve
+displaced person	pregnanec, razseljena oseba
+disposal of the dead	odstranjevanje trupel
+disposal of warfare materials	odstranjevanje vojnega materiala
+dissolution	razkroj, raztopitev
+dissolved organic carbon	raztopljeni organski ogljik
+dissolved oxygen	raztopljeni kisik
+distillation	destilacija
+distortion of competition	motenje konkurence, izkrivljanje konkurenčnosti
+distribution	širjenje onesnaženja
+distribution area	območje razširjenosti
+distributive trade	trgovina, prodajna dejavnost
+district heating	daljinsko ogrevanje
+district heating plant	toplarna
+disused military site	opuščeno vojaško območje
+ditch	jarek
+division	deljenje
+doctrine	doktrina
+document	dokument
+document lending	izposoja (knjižničnega) gradiva
+document type	vrsta dokumenta
+documentary film	dokumentarni film
+documentary system	dokumentarni sistem
+documentation	dokumentacija
+documentation centre	dokumentacijski center
+dog	pes
+dolphin	delfin
+domestic appliance	gospodinjski aparat
+domestic fuel	gorivo za ogrevanje gospodinjstev
+domestic fuel oil	kurilno olje za ogrevanje gospodinjstev
+domestic noise	hrup iz gospodinjstev
+domestic pollution	onesnaženje iz gospodinjstev
+domestic trade	notranja trgovina
+domestic waste	gospodinjski odpadki
+domestic waste landfill	odlagališče komunalnih odpadkov
+domestic waste water	odpadna voda iz gospodinjstev
+domesticated animal	udomačena žival
+donkey ; ass	osel
+door	vrata
+dosage	doziranje ; odmerjanje količin
+dose	doza
+dose-effect relationship	razmerje doza-učinek
+draft legislation	osnutek zakonodaje
+dragonfly	kačji pastir
+drainage	odtok, odvodnja
+drainage system	drenažni sistem
+drainage water	padavinska voda
+draining	izsuševanje
+draught animal	vprežna žival
+dredged material	material, odstranjen z morskega ali rečnega dna
+dredging	poglabljanje (morskega, rečnega) dna
+dress	obleka
+drift net fishing	ribolov z visečimi mrežami
+drilling	vrtanje
+drilling for oil	naftna vrtina
+drilling installation	vrtalna naprava
+drinking water	pitna voda
+drinking water protection area	območje varovanja pitne vode, vodovarstveno območje
+drinking water supply	oskrba s pitno vodo
+drinking water treatment	čiščenje pitne vode
+dromedary	dromedar
+drought	suša
+drought control	ukrepi za zmanjševanje posledic suše
+drug	zdravilo
+dry	suh ; suha ; suho
+dry cleaning	kemično čiščenje
+dry deposition	suho usedanje
+dry farming	ekstenzivno kmetijstvo v sušnih območjih
+dry lawn	suhi travnik
+drying	sušenje
+drying out	izsuševanje
+dual economy	dualno gospodarstvo
+dual waste management	dvojni sistem ravnanja z odpadno embalažo
+duck	raca
+dumping	odlaganje (odpadkov) - črna odlagališča, smetišča
+dune	peščena sipina
+durable goods	obstojno blago
+duration of sunshine	trajanje sončnega obsevanja
+dust	prah
+dust removal	odstranjevanje prahu
+dwelling	bivališče
+dye	barva, barvilo
+dyke	nasip
+dyke reinforcement	utrjevanje nasipov
+dysprosium	disprozij
+ear	uho
+early	zgodaj
+early warning system	sistem zgodnjega opozarjanja
+earth ; Earth ; the world ; Blue Planet	Zemlja
+earth science	vede o Zemlji
+earth's crust ; crust ; Earth's crust	zemeljska skorja
+earthquake	potres
+earthworm	deževnik, mnogoščetinci (Oligochaeta)
+earwig	strigalica (Dermaptera) ; strigalica
+easement	služnost, služnostna pravica
+echinoderm	iglokožci (Echinodermata)
+eco-paediatrics	ekopediatrija
+ecocatastrophe	ekološka katastrofa
+ecodevelopment	ekološki razvoj
+ecolabel	ekonalepka
+ecolabelling	ekološko označevanje
+ecological abundance	ekološko obilje
+ecological adaptation	ekološka prilagoditev
+ecological assessment	ocena ekoloških razmer
+ecological balance	ekološko ravnovesje
+ecological bookkeeping	ekološko knjigovodstvo
+ecological carrying capacity	ekološka nosilnost (sprejemljivost okolja)
+ecological community	ekološka združba
+ecological factor	ekološki dejavnik, ekološki faktor ; ekološki dejavnik ; ekološki faktor
+ecological inequality	ekološka neenakost
+ecological niche	ekološka niša
+ecological parameter	ekološki parameter
+ecological stocktaking	okoljski pregled (v podjetju)
+ecologically sensitive area	ekološko občutljivo območje
+ecologist movement	ekološko gibanje
+ecology	ekologija
+ecomarketing	ekološko trgovanje
+ecomuseum	ekomuzej
+economic activity	gospodarska dejavnost
+economic analysis	ekonomska analiza
+economic competition	gospodarska konkurenca
+economic concentration	ekonomska koncentracija
+economic data	ekonomski podatki
+economic development	gospodarski razvoj
+economic forecasting	ekonomsko predvidevanje
+economic geography	ekonomska geografija
+economic growth	gospodarska rast
+economic incentive	gospodarska spodbuda
+economic instrument	ekonomski inštrument
+economic management instrument	inštrument ekonomskega upravljanja
+economic plan	gospodarski načrt
+economic planning	gospodarsko načrtovanje
+economic policy	gospodarska politika
+economic region	gospodarska/ekonomska regija
+economic rights	ekonomske/gospodarske pravice
+economic science ; economics	ekonomija
+economic sector	gospodarski sektor
+economic situation	gospodarske razmere
+economic structure	gospodarska struktura in infrastruktura
+economic support	ekonomska podpora
+economic system	gospodarski/ekonomski sistem
+economic theory	ekonomska teorija
+economic trend	gospodarski trend, gospodarsko gibanje ; gospodarski trend ; gospodarsko gibanje
+economic viability	sposobnost/zmožnost ekonomskega preživetja
+economical-ecological efficiency	ekonomsko-ekološka učinkovitost
+economy	ekonomija ; gospodarstvo, ekonomija ; gospodarstvo
+ecophysiology	ekofiziologija
+ecosystem	ekosistem
+ecosystem analysis	analiza ekosistema
+ecosystem degradation	poslabšanje/uničenje ekosistema
+ecosystem research	raziskovanje ekosistemov
+ecosystem type	vrsta ekosistema
+ecotourism	ekoturizem
+ecotoxicity	ekotoksičnost
+ecotoxicological evaluation	ekotoksikološka ocena
+ecotoxicology	ekotoksikologija
+ecotype	ekotip
+ecozone	ekološko območje, ekocona
+edaphology	edafologija
+edible	užiten
+edible fat	jedilne maščobe
+education	izobraževanje
+education policy	izobraževalna politika
+educational institution	izobraževalna ustanova
+educational path	učna pot
+educational planning	načrtovanje izobraževanja
+educational system	izobraževalni sistem
+effect	vpliv, posledica, učinek ; vpliv ; posledica
+effect on health	vpliv na zdravje
+effect on man	vpliv na človeka
+effect on the environment ; environmental consequence	okoljska posledica ; vpliv na okolje
+efficiency criterion	kriterij učinkovitosti
+efficiency level	stopnja učinkovitosti
+effluent	odplaka
+egg	jajce
+einsteinium	ajnštajnij
+elasticity	elastičnost
+elder ; elderberry	bèzeg
+elderly person	starejša oseba
+electric battery	električni akumulator
+electric line ; power line	električni vodi, energetski vodi
+electric power	električna moč
+electric power plant	elektrarna
+electric power supply	oskrba z električno energijo
+electric vehicle	vozilo na električni pogon
+electrical engineering	elektroinženiring
+electrical goods industry	industrija električnih izdelkov
+electrical industry	proizvodnja električne energije
+electricity	elektrika
+electricity company	podjetje za proizvodnjo in distribucijo električne energije
+electricity consumption	poraba električne energije
+electricity generation	proizvodnja električne energije
+electricity generation cost	stroški proizvodnje električne energije
+electricity supply industry	oskrba z električno energijo
+electrokinetics	elektrokinetika
+electrolysis	elektroliza
+electromagnetism	elektrika in magnetizem
+electronic information network	elektronsko informacijsko omrežje
+electronic mail ; email ; e-mail	elektronska pošta
+electronic material	elektronski material
+electronic scrap	elektronski odpadki
+electronic scrap regulation	predpis o elektronskih odpadkih
+electronics	elektronika
+electrosmog	elektrosmog
+electrotechnical equipment	elektrotehnična oprema
+electrotechnical industry	elektrotehnična industrija
+element of group 0 ; noble gas	element skupine 0
+element of group II (alkaline earth metals) ; alkaline earth metal ; element of group II	element 2. skupine (zemljoalkalijske kovine) ; element 2. skupine ; zemljoalkalijske kovine
+element of group III	element 3. skupine
+element of group IV	element 4. skupine
+element of group V	element 5. skupine
+element of group VI	element 6. skupine
+element of group VII ; halogen	element 7. skupine
+emancipation	emancipacija
+embassy ; diplomatic mission	veleposlaništvo
+embryo	zarodek
+embryogenesis	embriogeneza, razvoj zarodka
+emergency law	zakon o izrednih razmerah
+emergency plan	načrt ravnanja v izrednih razmerah
+emergency relief	pomoč v izrednih razmerah
+emergency shelter	zatočišče/zavetišče za ljudi v izrednih razmerah
+emission	emisija
+emission control	omejevanje emisij
+emission data	podatki o emisijah
+emission factor	emisijski faktor
+emission forecast	predvidevanje emisij
+emission reduction	zmanjšanje emisij
+emission reduction banking	beleženje zmanjšanja emisij (trgovanje z emisijami)
+emission register	register emisij
+emission situation	stanje na področju emisij
+emission source	emisijski vir
+emission standard	emisijski standard
+emission to water	emisije v vodo
+employment	zaposlitev, služba
+employment ; employment ; job ; job ; occupation ; work ; work	poklic ; zaposlitev
+employment and environment	zaposlenost in okolje
+employment level effect	učinek stopnje zaposlenosti
+employment structure	zaposlitvena struktura
+empty	prazen
+emulsification	emulgiranje
+emulsion	emulzija
+encapsulation	enkapsulacija
+encyclopaedia	enciklopedija
+end-of-pipe technology	tehnologija odpravljanja posledic
+endangered animal species	ogrožena živalska vrsta
+endangered plant species	ogrožena rastlinska vrsta
+endemic species	endemična vrsta
+endocrine system	endokrini sistem
+endocrinology	endokrinologija
+enemy	sovražnik
+energy	energija
+energy balance	energijska bilanca
+energy consumption	poraba energije
+energy conversion	pretvorba energije
+energy demand	energetske potrebe
+energy dissipation	izguba energije
+energy distribution system	sistem za distribucijo energije
+energy economics	energetika
+energy efficiency	energijska učinkovitost
+energy industry	energetika
+energy legislation	energetska zakonodaja
+energy management	gospodarjenje/upravljanje z energijo
+energy market	energetski trg
+energy policy	energetska politika
+energy process	energetski proces
+energy production	proizvodnja energije
+energy resource	energetski vir, vir energije
+energy saving	varčevanje z energijo
+energy source	energetski vir, vir energije
+energy source material	energetski vir
+energy storage	energetske zaloge
+energy supply	oskrba z energijo
+energy technology	energetska tehnologija
+energy type	vrsta energije
+energy utilisation ; energy use	izkoriščanje energije
+enforcement	izvršitev, uveljavitev ; izvršitev ; uveljavitev
+engine	stroj, motor
+engineering	inženirstvo
+engineering work	inženirsko delo
+enlargement policy	politika širitve
+enlargement programme	program širitve
+enriched uranium	obogateni uran
+enrichment	obogatitev
+enterovirus	enterovirus
+environment	okolje
+environment friendly	okolju prijazen
+environment market	okoljski trg
+environmental accident	okoljska nezgoda/nesreča
+environmental accounting	okoljsko računovodstvo
+environmental administration institution	upravna inštitucija/organ za okolje ; upravna inštitucija ; organ za okolje
+environmental analysis	okoljska analiza
+environmental anxiety	zaskrbljenost zaradi stanja okolja
+environmental aspect of human settlements	okoljski vidik naselij
+environmental assessment	okoljska presoja/ocena
+environmental assessment criterion	kriterij okoljske presoje/ocene
+environmental auditing	okoljski pregled
+environmental awareness	okoljska ozaveščenost
+environmental change	spremembe v okolju
+environmental chemicals legislation	zakonodaja, ki ureja prisotnost kemikalij v okolju
+environmental chemistry	okoljska kemija
+environmental citizenship	okoljsko državljanstvo
+environmental compatibility	okoljska neoporečnost
+environmental consequence	okoljska posledica
+environmental conservation	ohranjanje okolja
+environmental contingency planning	načrt ravnanja v primeru ekoloških nesreč
+environmental control	ukrepi za varstvo okolja
+environmental cost	okoljski stroški
+environmental crime	okoljski kriminal
+environmental criminal law	okoljsko kazensko pravo
+environmental criminality	okoljski kriminal
+environmental criterion	okoljski kriterij
+environmental culture	okoljska kultura
+environmental damage	škoda, povzročena v okolju, okoljska škoda
+environmental data	podatki o okolju
+environmental development	razvoj na področju varstva okolja
+environmental economic valuation	ekonomsko vrednotenje/ocena (na področju varstva okolja)
+environmental economics	okoljska ekonomija/ekonomika
+environmental economics of firms	okoljska ekonomika podjetij
+environmental economy issue	okoljskogospodarska vprašanja
+environmental education	okoljsko izobraževanje
+environmental engineering	okoljsko inženirstvo
+environmental enterprise	podjetje za okoljsko svetovanje
+environmental ethics	okoljska etika
+environmental friendly procurement	sonaravna preskrba
+environmental fund	okoljski sklad
+environmental hazard	okoljsko tveganje
+environmental health	higiena okolja
+environmental health hazard	okoljsko zdravstveno tveganje
+environmental health impact assessment	ocena vplivov okolja na zdravje
+environmental health protection	varovanje zdravja pred vplivi okolja
+environmental history	okoljska zgodovina
+environmental impact	vpliv na okolje
+environmental impact of agriculture	vpliv kmetijstva na okolje
+environmental impact of aquaculture	vpliv akvakulture na okolje
+environmental impact of energy	vpliv energetike na okolje
+environmental impact of fishing	vpliv ribištva na okolje
+environmental impact of forestry	vpliv gozdarstva na okolje
+environmental impact of households	vpliv gospodinjstev na okolje
+environmental impact of industry	vpliv industrije na okolje
+environmental impact of recreation	vpliv rekreacije na okolje
+environmental impact of tourism	vpliv turizma na okolje
+environmental impact of transport	vpliv prometa na okolje
+environmental impact statement	poročilo o vplivih na okolje
+environmental impact study	študija vplivov na okolje
+environmental incentive	okoljska spodbuda
+environmental index	seznam okoljske literature
+environmental indicator	okoljski kazalec, okoljski indikator
+environmental industry	dejavnosti za varstvo okolja
+environmental informatics	okoljska informatika
+environmental information	okoljske informacije
+environmental information network	mreža okoljskih informacij
+environmental information system	okoljski informacijski sistem
+environmental investment	okoljska naložba
+environmental law	zakon s področja varstva okolja
+environmental law enforcement	uveljavljanje okoljske zakonodaje
+environmental legislation	okoljska zakonodaja
+environmental legislation on agriculture	okoljska zakonodaja na področju kmetijstva
+environmental legislative process	okoljski zakonodajni proces
+environmental liability	okoljska odgovornost
+environmental licence	okoljska licenca (trgovanje z emisijami)
+environmental management	ravnanje z okoljem
+environmental medicine	okoljska medicina
+environmental misconduct	okolju neustrezno ravnanje
+environmental monitoring	okoljski monitoring, spremljanje stanja v okolju
+environmental noise	hrup okolja
+environmental occupation	poklic na področju varstva okolja
+environmental perception	zaznavanje okolja
+environmental plan	načrt varstva okolja
+environmental planning	okoljsko načrtovanje
+environmental policy	okoljska politika ; politika varstva okolja, okoljska politika
+environmental policy instrument	inštrument okoljske politike
+environmental pollution	onesnaženje okolja
+environmental priority	okoljska prioriteta
+environmental problem solving	reševanje okoljskih problemov
+environmental programme	okoljski program
+environmental protection	varovanje/zaščita okolja
+environmental protection agency	agencija/urad za varstvo okolja ; agencija za varstvo okolja ; urad za varstvo okolja
+environmental protection association	društvo za varstvo okolja
+environmental protection cost	stroški varstva okolja
+environmental protection in the enterprise	ukrepi za varstvo okolja v podjetju
+environmental protection order	odredba/uredba o varstvu okolja
+environmental protection organisation	organizacija za varstvo okolja
+environmental protection regulation	predpisi s področja varstva okolja
+environmental protection technology	okolju primerna tehnologija
+environmental psychology	okoljska psihologija
+environmental quality	kakovost okolja
+environmental quality criterion	kriterij kakovosti okolja
+environmental quality objective	cilj kakovosti okolja
+environmental quality standard	standard/normativ zdravega življenjskega okolja
+environmental report	okoljsko poročilo
+environmental research	okoljska raziskava/študija
+environmental risk	okoljsko tveganje
+environmental risk assessment	ocena okoljskega tveganja
+environmental science	okoljska znanost
+environmental security	okoljska varnost
+environmental specimen bank	okoljska banka vzorcev/primerkov
+environmental statement (eco-audit) ; environmental statement ; eco-audit	okoljska ocena (okoljski pregled) ; okoljski pregled ; okoljska ocena
+environmental statistics	statistični podatki o okolju
+environmental stock exchange	okoljska borza
+environmental study	presoja vplivov na okolje
+environmental subsidy	okoljska subvencija
+environmental sustainable architecture	okolju prijazna arhitektura
+environmental tax	okoljski davek
+environmental teaching	okoljsko izobraževanje
+environmental technology	okoljska tehnologija
+environmental terminology	okoljska terminologija
+environmental training	okoljsko usposabljanje, usposabljanja na področju varstva okolja
+environmental warfare	okoljska/ekološka vojna
+environmentalism	teorija o okolju
+environmentally dangerous substance	okolju nevarna snov
+environmentally friendly management	sonaravno ravnanje z okoljem
+environmentally friendly product	okolju primeren (sonaraven) izdelek
+environmentally related disease	z okoljem povezana bolezen
+environmentally responsible behaviour	odgovorno vedenje do okolja
+environmentally unfriendly firm	okolju neprilagojeno podjetje
+enzyme	encim
+epicentre	epicenter
+epidemic	epidemija
+epidemiology	epidemiologija
+equation	enačba
+equator	ekvator
+equatorial climate	ekvatorialno podnebje
+equine	konji (Equidae)
+equipment	oprema
+equivalent dose	ekvivalentna doza
+erbium	erbij
+ergonomics	ergonomija
+erosion	erozija
+erosion control	preprečevanje erozije
+estate rental	oddaja nepremičnine v najem
+estimate	ocena
+estuarine biology	biologija rečnih ustij
+estuarine conservation area	zavarovano območje rečnega ustja
+estuary	rečno ustje, estuar
+estuary pollution	onesnaženje rečnih ustij
+etching	jedkanje
+etching substance	jedka snov, jedkovina
+ethanol	etanol
+ether	eter
+ethics	etika, morala ; etika ; morala
+ethnology	etnologija
+ethology	etologija
+europium	evropij
+eutrophication	evtrofikacija
+evaluation	vrednotenje
+evaluation criterion	kriterij vrednotenja
+evaluation method	metoda vrednotenja
+evaluation of technology	vrednotenje tehnologije
+evaporation	izhlapevanje, evaporacija
+evapotranspiration	evapotranspiracija
+evolution	razvoj, evolucija
+exact science	eksaktna veda/znanost
+excavated hole	(izkopana) jama ; jama
+excavation (process) ; excavation ; earthworks ; digging	izkopavanje, izkop (proces) ; izkopavanje ; izkop
+excavation heap	kup (izkopanega materiala)
+excavation side	pobočje izkopa
+excavation site	mesto izkopa
+exceptional tax	izredni davek, izredna dajatev
+excessive height of chimney stacks	previsoki dimniki
+exchange policy	trgovinska politika
+executive order	izvršna odredba/uredba
+exhaust device	izpuh
+exhaust gas	izpušni plin
+exhibit	predstavitev, razstava
+existing chemical	obstoječa kemikalija
+exotic species	tujerodne vrste
+expenditure	izdatek, odhodek, (s stroški povezana) poraba ; izdatek ; odhodek ; poraba
+experiment	poskus, eksperiment
+experimental study	eksperimentalna študija/raziskava
+expert system	ekspertni sistem
+exploitation of underground water	črpanje podtalnice
+exploration	raziskovanje, preučevanje
+explosion	eksplozija
+explosive	razstrelivo, eksploziv
+export	izvoz
+export licence	izvozno dovoljenje
+export of hazardous wastes	izvoz nevarnih odpadkov
+exposure	izpostavljenost
+expropriation	razlastitev
+extensive cattle farming	ekstenzivna živinoreja
+externality	zunanji stroški
+extinct species	izumrle vrste
+extinction (ecological) ; extinction	izumrtje
+extraction	izlužitev, ekstrakcija ; izlužitev ; ekstrakcija
+extractive industry	ekstraktivna industrija
+eye	oko
+eyebrow	obrv
+fabric	tkanina, blago ; blago ; tkanina
+factor market	tržni dejavnik
+factory farming	farmska reja
+faecal bacterium	fekalna bakterija
+fallout	usedanje
+fallow area	površine v prahi
+family	družina
+family law	družinsko pravo
+family planning	načrtovanje družine
+famine	lakota
+farm	farma ; kmetija
+farm animal	živina na kmetiji
+farm building	kmečka hiša
+farm price	cena kmetijskega proizvoda/storitve
+farming technique	kmetijska tehnika
+fast reactor	hitri reaktor
+fast traffic	hitri promet
+fault	prelom
+fauna	živalstvo, favna ; živalstvo ; favna
+fauna restoration	ponovna vzpostavitev naravnega stanja
+federal authority	zvezna uprava, upravni organ
+federal government	zvezna vlada
+federal law	zvezni zakon
+fee	plačilo (za storitev), honorar ; plačilo ; honorar
+feeding of animals	hranjenje/krmljenje živali
+feeling for nature	zavest o naravi
+felid	mačke (Felidae) ; mačke
+female ; woman	ženska
+fen	nizko barje
+fermentation	fermentacija
+fern	praprot
+ferry	trajekt
+fertiliser	umetno gnojilo
+fertiliser law	zakon o uporabi umetnih gnojil
+fibre	vlakno
+fibreglass	stekleno vlakno
+field ; land ; land ; acre ; patch	polje
+field damage	škoda na polju
+field experiment	terenski poskus, poskus na terenu
+field study	terenska študija
+filling material	polnilo
+filling station	bencinska črpalka
+film	film
+filter	filter
+filter cake	filtrna pogača
+filtration	filtriranje
+final storage	dokončno uskladiščenje
+finances	denarna sredstva, finance, denarno gospodarstvo/poslovanje
+financial aid	finančna pomoč
+financial assistance	finančna podpora, finančna pomoč
+financial compensation	finančna izravnava ; finančna kompenzacija ; finančno nadomestilo
+financial contribution	finančni prispevek
+financial fund	finančni sklad
+financial instrument	finančni inštrument
+financial law	zakon o financah
+financial management	finančno gospodarjenje
+financial market	finančni trg
+financing	financiranje
+fine	globa, denarna kazen ; globa ; denarna kazen
+fine dust	drobni prah
+finger	prst ; prst
+fire	ogenj, požar ; požar ; ogenj
+fire precaution	protipožarni varnostni ukrepi
+fire protection	varstvo pred požari
+fire safety requirement	požarna varnost
+fire service	požarna služba
+fireproofing agent	ognjevzdržna/negorljiva snov
+firing	žganje
+firm ; corporation ; enterprise ; company ; venture	podjetje, firma ; podjetje ; firma
+fish	riba
+fish disease	ribja bolezen
+fish farming	ribogojstvo
+fish kill	pomor rib
+fish stock	ribje zaloge
+fish toxicity	strupenost rib
+fisheries management	upravljanje na področju ribištva in predelave rib
+fisheries structure	ribolovna struktura
+fishery	ribištvo ; ribištvo in predelava rib
+fishery economics	ribolovna ekonomija
+fishery policy	ribolovna politika
+fishery resource	ribji viri
+fishing	ribolov
+fishing ground	ribolovno območje
+fishing industry	ribiška industrija
+fishing law	zakon o ribištvu
+fishing licence	ribolovno dovoljenje
+fishing preserve	ribolovni rezervat
+fishing vessel	ribiška ladja
+fitting (plumbing) ; fitting ; plumbing equipment ; plumbing fixtures	vodovodna napeljava
+flag of convenience	zastava ugodnosti
+flammable product	gorljiv izdelek
+flaring	sežig odpadnih plinov
+flavouring	ekstrakt, začimba, dišava
+flea	bolha
+flexible approach to environmental protection	fleksibilen pristop k varstvu okolja
+flint ; flintstone	kremen
+flocculant	flokulant
+flocculation	flokulacija
+flood	poplava
+flood control	preprečevanje poplav
+flood forecast	napovedovanje poplav
+flood protection	varstvo pred poplavami
+flood runoff	poplavni odtok
+flooding	poplavljanje
+flora (biology) ; flora	rastlinstvo, flora
+flora (document) ; flora	rastlinstrvo, flora (dokument)
+flora restoration	vzpostavitev prvotne vegetacije
+flotation	flotacija
+flow	tok
+flow field	tokovno polje
+flower ; bloom ; blossom	cvet
+flowering plant	cvetnica
+flowing water	tekoča voda
+flue gas	izpušni plin
+fluidics	fluidika
+fluidisation	vrtinčenje
+fluidised bed	zvrtinčena plast
+fluoridation	fluoriranje
+fluorine	fluor
+flushing	izpiranje
+fluvial resource	rečni vir pitne vode
+fly ash	elektrofiltrski pepel
+foaming agent	penilo
+fodder ; provender ; forage	živinska krma
+fodder plant	krmna rastlina
+fog	megla
+foliage	listje
+folk tradition	ljudski običaji
+folklore	folklora
+food	hrana
+food additive	živilski aditiv
+food chain	prehranjevalna veriga
+food commerce	trgovina s hrano
+food contamination	zastrupitev hrane
+food hygiene	prehrambna higiena
+food industry	prehrambna industrija
+food irradiation	obsevanje hrane
+food pollutant	onesnaževalo živil
+food preservation	konzerviranje hrane
+food processing industry	živilskopredelovalna industrija
+food production (agriculture) ; food production	(kmetijsko) pridelovanje hrane, proizvodnja hrane ; proizvodnja hrane ; pridelovanje hrane
+food quality	kakovost hrane
+food requirement	potreba po hrani
+food science	veda o živilih
+food storage	državne rezerve hrane
+food technology	prehrambna tehnologija
+food transport	prevoz hrane
+foodstuff	živilo
+footpath	steza, pot
+forage contamination	zastrupljanje/kontaminacija krme
+forage crop	krmne rastline
+forage law	zakon o krmi
+ford	brod
+forecast	napoved, predvidevanje
+foreclosure	sodna razglasitev zapadlosti hipoteke
+foreign economic relations	mednarodni ekonomski odnosi
+foreign policy	zunanja politika
+foreign trade	zunanja trgovina/menjava
+forest	gozd
+forest biological reserve	gozdni biološki rezervat
+forest cover destruction	uničevanje gozdov
+forest damage	škoda v gozdovih
+forest deterioration	propadanje gozdov
+forest ecology	ekologija gozda
+forest ecosystem	gozdni ekosistem
+forest exploitation	izkoriščanje gozda
+forest fire	gozdni požar
+forest industry	gozdarstvo
+forest management	gospodarjenje z gozdovi
+forest pest	gozdni škodljivec
+forest policy	gozdarska politika
+forest product	gozdni proizvod
+forest production	pridobivanje gozdnih proizvodov
+forest protection	varstvo gozdov
+forest reserve	gozdni rezervat
+forest resource	gozdni vir
+forestry	gozdarstvo
+forestry economics	gozdarska ekonomija
+forestry law	zakon o gozdarstvu
+forestry legislation	gozdarska zakonodaja
+forestry practice	gozdarske aktivnosti
+forestry unit	gozdarska enota
+fork	vilice
+form of government	oblika vladavine, politična ureditev
+forwarding agent	odpravnik, špediter
+fossil	fosil
+fossil fuel	fosilno gorivo
+fouling growth	obraščanje (ladijskih trupov)
+fountain	vodnjak
+four stroke engine	štiritaktni motor
+framework legislation	okvirna zakonodaja
+francium	francij
+free movement of capital	prosti pretok kapitala
+free trade	prosta trgovina
+freedom	svoboda
+freedom ; liberty	svoboda
+freight transport	prevoz/transport blaga
+freon	freon
+freshwater	sladka voda
+freshwater degradation	poslabšanje kakovosti sladke vode
+freshwater ecosystem	sladkovodni ekosistem
+freshwater organism	sladkovodni organizem
+freshwater pollution	onesnaženje sladke vode
+freshwater resource	sladkovodni vir
+frog	žaba (Ranidae) ; žaba
+frost	slana
+fruit	sadež, sadje ; sadež ; sadje
+fruit cultivation	sadjarstvo
+fruit tree	sadno drevo
+fuel	gorivo
+fuel additive	dodatek gorivu
+fuel alcohol	pogonski alkohol
+fuel composition	kemična sestava goriva
+fuel consumption	poraba goriva
+fuel oil	kurilno olje
+fuel tank installation	rezervoar za gorivo
+fuel wood	les za kurjavo, drva
+full	poln
+fume	dim
+fumigation	zaplinjevanje
+functional substance	funkcionalna snov
+fungicide	fungicid
+fungus	goba
+fur	kožuh, kožuhovina
+fur animal	kožuhar
+furan	furan
+furnace	peč
+furniture	oprema ; pohištvo, oprema ; pohištvo
+furniture industry	pohištvena industrija, industrija pohištva
+furriery	krznarstvo
+gadolinium	gadolinij
+gallbladder	žolčnik
+gallinacean	kure (Galliformes)
+gallium	galij
+galvanisation	galvanizacija
+game	igra
+game	lovski plen
+gamma radiation	sevanje gama
+garage	garaža
+garden	vrt
+garden waste	vrtni odpadki
+gas	plin
+gas chromatography	plinska kromatografija
+gas company	plinarna
+gas engine	plinski motor
+gas liquefaction	utekočinjenje plina
+gas mixture	plinska mešanica
+gas network	plinovodno omrežje
+gas pipeline	plinovod
+gas powered plant	plinska elektrarna
+gas purification	čiščenje dimnih plinov
+gas reservoir	plinski rezervoar
+gas supply	oskrba s plinom
+gaseous air pollutant	plinasto onesnaževalo zraka
+gaseous state	plinasto stanje
+gasification	uplinjanje
+gasohol	mešanica bencina in alkohola
+gasoline engine	bencinski motor
+gastropod	polži (Gastropoda)
+gaswork	plinarna
+gene	gen
+genealogy	rodoslovje
+general	splošno
+general administrative order	splošna upravna odredba
+general chemistry	splošna kemija
+general education	splošna izobrazba
+genetic diversity	genska raznovrstnost
+genetic effect	vpliv na gene
+genetic engineering	gensko inženirstvo
+genetic engineering legislation	zakonodaja o genskem inženirstvu
+genetic information	genske informacije
+genetic modification	gensko spreminjanje
+genetic pool ; gene pool	genski fond
+genetic resource	genski vir
+genetic variation	genska sprememba
+genetically modified organism	gensko spremenjeni organizem
+genetics	genetika
+genotoxicity	genotoksičnost
+geo-referenced data	geolocirani podatki
+geo-referenced information	geolocirane (georeferencirane) informacije
+geodesy	geodezija
+geogenic factor	geogeni dejavnik
+geographic information system	geografski informacijski sistem
+geographical distribution of population	geografska razporeditev prebivalstva
+geographical projection	kartografska projekcija
+geography	geografija
+geological disaster	geološka katastrofa
+geological process	geološki proces
+geology	geologija
+geometric correction	geometrični popravek
+geomorphic process	geomorfološki proces
+geomorphology	geomorfologija
+geophysical environment	geofizikalno okolje
+geophysics	geofizika
+geotechnics	geotehnika
+geotechnology	geotehnologija
+geothermal energy	geotermalna energija
+germ	mikrob
+germ plasm	dednina
+germanium	germanij
+germination	kalitev, klitje ; kalitev ; klitje
+giraffe	žirafa
+glacier	ledenik
+glaciology	glaciologija
+gland	žleza
+glass	steklo
+glass industry	industrija steklenih izdelkov
+glaze	poledica
+global aspect	globalni vidik
+global convention	svetovno srečanje, svetovni sporazum
+global model	globalni/svetovni model
+global warming	segrevanje ozračja
+glossary	slovar, slovarček, glosar
+glue	lepilo
+goal of individual economic business	cilj podjetja
+gold	zlato
+golf	golf
+gong	gong
+gonorrhea	gonoreja
+good management	dobro gospodarjenje/upravljanje
+goods	blago, izdelki ; blago ; izdelki
+goods and services	blago in storitve
+goose	gos
+government (cabinet)	vlada (kabinet)
+government advisory body	svetovalni organ vlade
+government building	vladna stavba/palača, sedež vlade
+government liability	odgovornost vlade
+government policy	vladna politika
+grain	žito
+graminaceous plant	žito
+grammer ; grammar	slovnica
+granulometry	granulometrija
+grass	trava
+grass fire	traviščni požar
+grasshopper	kobilica
+grassland	travišče
+gravel	prod, gramoz ; prod ; gramoz
+gravel extraction	pridobivanje gramoza
+gravel pit	gramoznica
+graviton	graviton
+grazing	paša
+green building	ekohiša
+green corridor	zeleni koridor
+green manure	podorina
+green revolution	zelena revolucija
+green space	zelene površine
+green tide	zelena plima
+green vegetable	zelenjava
+greenhouse cultivation	gojenje rastlin v rastlinjakih
+greenhouse effect	učinek tople grede
+greenhouse gas	toplogredni plin
+gridding	mreža
+grinding	drobljenje ; mletje
+gross national product	bruto nacionalni/narodni proizvod
+groundwater	podtalnica
+groundwater endangering	ogrožanje podtalnice
+groundwater extraction	črpanje podtalnice
+groundwater pollution	onesnaženje podtalnice
+groundwater protection	varstvo podtalnice, varovanje podtalnice
+groundwater quality	kakovost podtalnice
+group behaviour	skupinsko vedenje
+gulf	zaliv, rokav
+gull	galeb
+gymnosperm	golosemenke (Gymnospermae)
+gypsum	sadra
+habitat	habitat, življenjski prostor ; življenjski prostor ; habitat
+habitat destruction	uničenje habitata
+haematology	hematologija
+hafnium	hafnij
+haiku	haiku
+hail	toča
+half-life	razpolovna doba
+haloform	haloform
+halogenated biphenyl	halogeniran bifenil
+halogenated compound	halogenirana spojina
+halogenated hydrocarbon	halogeniran ogljikovodik
+halogenated phenol	halogeniran fenol
+halogenated pollutant	halogenirano onesnaževalo
+handicraft	rokodelstvo, obrt
+handicraft business	rokodelska/obrtna dejavnost
+handkerchief	robec
+harbour	pristanišče, luka ; pristanišče ; luka
+hard-to-dispose-of waste	problematični odpadki
+hardness	trdota
+harmonisation of law	uskladitev zakonodaje
+harvest	pridelek ; pridelek, žetev ; žetev
+hazard	nevarnost
+hazard area	območje tveganja
+hazard of pollutants	nevarnost zaradi onesnaževal
+hazardous chemical export	izvoz nevarnih kemikalij
+hazardous substance	nevarna snov
+hazardous substances legislation	zakonodaja o nevarnih snoveh
+hazardous waste	nevarni odpadki
+hazardous waste dump	odlagališče nevarnih odpadkov
+hazardous working material	nevarna snov
+haze	meglica
+headland	rt
+headland	ozara
+health	zdravje
+health care	zdravstveno varstvo
+health care profession	zdravstveno varstvo
+health effect of noise	vpliv hrupa na zdravje
+health facility	zdravstvena služba ; zdravstveni dom
+health hazard	nevarnost za zdravje
+health legislation	zdravstvena zakonodaja
+health regulation	zdravstveni predpisi
+health service	zdravstvena storitev
+health-environment relationship	razmerje med zdravjem in okoljem
+health-related biotechnology	biotehnologija za zdravje
+hearing	sluh
+hearing acuity	ostrina sluha
+hearing impairment	slušna okvare, slušne motnje
+hearing procedure	zaslišanje, obravnava
+hearing protection	varovanje sluha
+hearing system	slušni sistem
+heat	toplota
+heat and power station	termoelektrarna-toplarna
+heat pump	toplotna črpalka
+heat storage	skladiščenje toplote
+heat supply	oskrba s toploto
+heater	grelec
+heathland	resava
+heating	ogrevanje
+heating plant	toplarna
+heavy goods vehicle traffic	promet/transport težkih tovornjakov
+heavy metal	težka kovina
+heavy metal load	obremenitev s težkimi kovinami
+hedge	živica, živa meja
+hedgehog	jež
+helicopter	helikopter
+helium	helij
+herbicide	herbicid
+herbivore ; plant eater	rastlinojed, herbivor ; rastlinojed ; herbivor
+heron	čaplja
+heterocyclic compound	heterociklična spojina
+high mountain	visoka gora
+high tide water	plima
+high voltage line	visokonapetostni vod
+high-rise building	visoka zgradba
+high-speed railway	hitra železnica
+high-speed train	hitri vlak
+higher education	višje in visokošolsko izobraževanje
+highway	avtocesta ; avtomobilska cesta, avtocesta ; avtomobilska cesta
+hiking trail	pešpot
+historic centre	staro mestno jedro
+historical evolution	zgodovinski razvoj
+historical monument	zgodovinski spomenik
+historical research	zgodovinska raziskava
+historical site	zgodovinski kraj
+history	zgodovina
+holiday ; opor-garai	dopust ; počitnice ; praznik ; prost dan
+holiday camp	počitniški tabor, počitniško naselje
+holmium	holmij
+home ; home ; house	hiša
+home garden	hišni vrt
+homeostasis	homeostaza
+homepage	domača stran
+homologation	homologacija
+honey	med
+hope	upanje
+horizon	obzorje
+hormone	hormon
+horse	konj
+horticulture	vrtnarstvo, hortikultura
+hospital ; clinic	bolnišnica ; klinika
+hospital waste	bolnišnični odpadki
+hostage	talec
+hot water	vroča voda
+hotel industry	hotelska dejavnost
+hour	ura
+household	gospodinjstvo
+household chemical	kemikalija za uporabo v gospodinjstvu
+household expenditure	stroški gospodinjstva
+household goods	gospodinjski predmeti, gospodinjske potrebščine, gospodinjska oprema
+housing	stanovanje, prebivališče ; stanovanje ; prebivališče
+housing density	gostota stanovanj
+housing improvement	stanovanjska obnova
+housing legislation	stanovanjska zakonodaja
+housing programme	program stanovanjske izgradnje
+housing quality standard	standard kakovosti stanovanj
+human body	človeško telo
+human disease	človeška bolezen
+human ecology	ekologija človeka
+human habitat	človekov habitat
+human health	človekovo zdravje ; zdravje ljudi
+human migration	migracije/preseljevanje ljudi
+human physiology	fiziologija človeka
+human population	prebivalci, prebivalstvo
+human rights	človekove pravice
+human science	vede o človeku
+human settlement	naselje
+human settlement management	upravljanje naselij
+human-made disaster	nesreča/katastrofa, ki jo povzroči človek
+humanitarian aid	humanitarna pomoč
+humus	humus
+hundred	sto
+hunger ; hunger ; hunger	glad
+hunting	lov
+hunting licence	dovoljenje za lov
+hunting reserve	lovski rezervat
+hurricane	orkan
+hybridisation	križanje, hibridizacija
+hydraulic construction	vodnogospodarski objekt
+hydraulic engineering	hidrotehnika
+hydraulics	hidravlika
+hydrobiology	hidrobiologija
+hydrocarbon	ogljikovodik
+hydrocarbon storage tank	rezervoar za ogljikovodike
+hydrochloric acid ; muriatic acid	solna kislina
+hydroculture	hidrokultura
+hydroelectric energy	hidroenergija
+hydroelectric power plant	hidroelektrarna
+hydrogen	vodik
+hydrogen sulphide	vodikov sulfid
+hydrogeology	hidrogeologija
+hydrographic basin	povodje, porečje
+hydrographic network	hidrografska mreža
+hydrography	hidrografija
+hydrologic balance	hidrološko ravnovesje
+hydrologic cycle	hidrološki cikel
+hydrologic disaster	hidrološka nesreča, hudourniška katastrofa
+hydrologic flow	hidrološke značilnosti območja
+hydrology	hidrologija
+hydrolysis	hidroliza
+hydrometeorology	hidrometeorologija
+hydrometry	hidrometrija
+hydrosphere	hidrosfera
+hyena	hijena
+hygiene	higiena
+hymenopteran	kožokrilci (Hymenoptera) ; kožokrilci
+hypertext	hipertekst
+ice	led
+ice hockey	hokej na ledu
+ice pack	območje plavajočega/skladastega ledu na morski gladini
+iceberg	ledena gora
+ideology	ideologija
+image classification	razčlenjevanje slik
+image enhancement	izboljšanje kakovosti slike
+image filtering	filtriranje slik
+image processing digital system	digitalni sistem obdelave slik
+image registration	registracija slike
+immission	imisija
+immission control	ukrepi za zmanjševanje imisij
+immission control law	zakon o zmanjševanju imisij
+immission damage	škoda zaradi imisij
+immission forecast	predvidevanje imisij
+immission limit	imisijska meja
+immission load	obremenitev z imisijami, imisijska obremenitev
+immune system	imunski sistem
+immunity	imunost
+immunoassay	imunološki preskus
+immunological disease	bolezen imunskega sistema
+immunology	imunologija
+impact assessment	presoja vplivov na okolje
+impact minimisation	zmanjševanje vplivov, minimizacija vplivov
+impact prevention	preprečevanje vplivov (na okolje)
+impact reversal	preobrat/sprememba vplivov
+impact source	vir vplivov (na okolje)
+impactor	impaktor
+implementation law	izvedbeni zakon
+import	uvoz
+import licence	uvozno dovoljenje
+impoverishment	osiromašenje, obubožanje, izčrpanje ; osiromašenje ; obubožanje ; izčrpanje
+impregnating agent	impregnacijska snov
+impregnation	impregnacija
+improvement of efficiency	izboljšanje učinkovitosti
+impulsive noise	kratkotrajni hrup
+in situ	na lokaciji
+in vitro assay	laboratorijski poskus, laboratorijska analiza
+in vivo assay	poskus v telesu
+incentive fund	sklad za spodbude
+incentive tax	davčna spodbuda
+incidental pollution	onesnaženje ob nesrečah
+incineration	sežiganje
+incineration of waste	sežiganje odpadkov
+incineration residue	ostanki pri sežigu odpadkov
+incinerator	sežigalnica
+income	dohodek, prihodek
+income tax	davek na dohodek, dohodnina
+incorporation	ustanovitev/registracija (družbe, firme) ; ustanovitev ; registracija
+indefinite legal concept	nedoločenost (v pogodbah, sporazumih itd.)
+indemnity	odškodnina, nadomestilo škode, povračilo škode ; odškodnina ; nadomestilo škode ; povračilo škode
+index	indeks, kazalo ; indeks ; kazalo
+indexing of documentation	indeksiranje dokumentacije
+indicator	kazalec, indikator
+indicator of environmental quality	kazalec/indikator kakovosti okolja
+indigenous knowledge	poznavanje lokalnih razmer
+indigenous technology	domača tehnologija
+indirect discharger	posredni/indirektni onesnaževalec
+indium	indij
+individual	posameznik
+individual wastewater treatment	notranji sistem zbiranja, obdelave in ponovne rabe odpade vode
+indoor air pollution	onesnaženje zraka v zaprtih prostorih
+indoor environment	zunanje okolje
+industrial activity	industrijska dejavnost
+industrial area	industrijsko območje
+industrial association	industrijska združba
+industrial building	industrijsko poslopje
+industrial crop	industrijska rastlina
+industrial development	industrijski razvoj
+industrial dumping	odlaganje industrijskih odpadkov
+industrial economics	industrijsko gospodarstvo
+industrial effluent	industrijske odplake
+industrial emission	industrijske emisija, emisije iz industrije
+industrial environment	industrijsko okolje
+industrial environmental policy	okoljska politika v industriji
+industrial equipment	industrijska oprema
+industrial installation	industrijski obrat
+industrial legislation	zakonodaja s področja industrije
+industrial manufacturing	industrijska proizvodnja
+industrial material	industrijski material
+industrial medicine	medicina dela
+industrial noise	industrijski hrup
+industrial planning	načrtovanje industrijskih dejavnosti
+industrial plant (building) ; industrial plant	industrijski/proizvodni obrat ; industrijski ; proizvodni obrat
+industrial plant (organism) ; industrial plant	industrijska rastlina
+industrial policy	industrijska politika
+industrial pollution	industrijsko onesnaženje
+industrial process	industrijski proces
+industrial product	industrijski izdelek, industrijski proizvod
+industrial production	industrijska proizvodnja
+industrial production statistics	statistični podatki o industrijski proizvodnji
+industrial property right	pravica industrijske lastnine (patenti, zaščiteni modeli, blagovne znamke)
+industrial safety	industrijska varnost, varnost industrijskih objektov in naprav
+industrial site	industrijska lokacija
+industrial sludge	industrijska gošča
+industrial society	industrijska družba
+industrial structure	struktura industrije
+industrial waste	industrijski odpadki
+industrial waste gas	industrijski odpadni plin
+industrial waste water	industrijska odpadna voda
+industrial wasteland	neuporabno industrijsko zemljišče
+industrial zoning	določanje površin za gospodarsko dejavnost
+industrialisation	industrializacija
+industry	industrija
+inert waste	neaktivni, inertni odpadki
+inertisation	stabilizacija in zgostitev odpadkov
+infant	majhen otrok
+infant mortality	smrtnost/umrljivost dojenčkov
+infection	okužba, infekcija
+infectious disease	infekcijska bolezen
+infestation of crops	napad škodljivcev na pridelek, infestacija pridelka
+infestation of food	napad škodljivcev na živila, infestacija živil
+infiltration	pronicanje
+inflammable substance	vnetljiva snov
+inflow	dotok meteorne vode (kanalizacija) ; dotok meteorne vode
+info ; information	informacija ; informacije ; podatki
+informal negotiation	neformalna pogajanja
+informatics ; computer science ; information science	informatika
+information centre	informacijsko središče
+information clearing-house	informacijsko središče
+information exchange	izmenjava informacij
+information infrastructure	informacijska infrastruktura
+information kit	informacijsko gradivo
+information network	informacijsko omrežje
+information processing	obdelava podatkov
+information service	informacijska/informativna služba ; informacijska služba ; informativna služba
+information source	vir informacij
+information system	informacijski sistem
+information technology ; IT	informacijska tehnologija
+information technology industry	informacijska tehnologija (dejavnost)
+information transfer	prenos informacij
+infraction	kršitev (zakona, pogodbe), zloraba (pravice) ; kršitev ; zloraba
+infrared radiation	infrardeče sevanje
+infrasound	infrazvok
+infrastructure	infrastruktura
+inhabitant	prebivalec
+initial training	začetno izobraževanje
+injury	poškodba
+ink	črnilo
+inland fishery	ribolov v sladkih vodah
+inland navigation	notranja plovba
+inland water	vode na kopnem
+inland waterways transport	prevoz/transport po notranjih plovnih poteh (rekah, kanalih ali jezerih)
+innovation	novost, inovacija ; inovacija ; novost
+inorganic chemistry	anorganska kemija
+inorganic fertiliser	anorgansko gnojilo
+inorganic pollutant	anorgansko onesnaževalo
+inorganic substance	anorganska snov
+insect	žuželke (Insecta) ; žuželke
+insecticide	insekticid
+insectivore	žužkojedi (Insectivora) ; žužkojedi
+insoluble substance	netopna snov
+inspection	(inšpekcijski) pregled ; pregled
+inspection of records	pregled poslovnih knjig
+inspection service	inšpekcijska služba
+installation optimisation	optimizacija objektov in naprav
+installation requiring approval	inštalacije, za katere je potrebno soglasje
+installation restoration	obnova, restavriranje (zgradb)
+institutional activity	institucionalna dejavnost
+institutional structure	institucionalna struktura
+institutionalisation	inštitucionalizacija
+instrument ; musical instrument	instrument ; inštrument
+instrument manufacture	izdelava inštrumentov
+instrumentation	izdelava in uporaba inštrumentov
+insulation	izolacija
+insurance	zavarovanje
+insurance business	zavarovalništvo
+insurance coverage	zavarovalniško kritje
+integral natural reserve	območje integralnega varstva narave, strogi naravni rezervat
+integrated environmental protection technology	integrirana tehnologija varstva okolja
+integrated management	integralno upravljanje
+integrated pest control	celovito zatiranje škodljivcev
+integrated pollution control	celovit nadzor in preprečevanje onesnaževanja
+intensive animal husbandry	intenzivna živinoreja
+intensive farming	intenzivno kmetijstvo
+inter-library loan	medknjižnična izposoja
+interaction of pesticides	vzajemno delovanje pesticidov, interakcija pesticidov
+interchange of electronic data	izmenjava elektronskih podatkov
+interdisciplinary research	interdisciplinarno raziskovanje, interdisciplinarna raziskava
+interest	obresti
+interest group	interesna skupina
+interim decision	začasna odločitev
+interlaboratory comparison	medlaboratorijska primerjava
+intermediate goods	polizdelki
+intermittent noise	občasni hrup
+internal European market	notranji evropski trg
+internal migration	notranje migracije
+internalisation of external costs	internalizacija zunanjih stroškov
+international agreement	mednarodni sporazum, mednarodni dogovor
+international assistance	mednarodna podpora
+international balance	mednarodno ravnovesje
+international co-operation	mednarodno sodelovanje
+international competitiveness	mednarodna konkurenčnost
+international conflict	mednarodni konflikt
+international convention	mednarodna konvencija
+international distribution	svetovna razporeditev
+international division of labour	mednarodna delitev dela
+international economic law	mednarodni gospodarski zakon
+international environmental relations	mednarodni okoljski odnosi
+international harmonisation	mednarodno usklajevanje
+international law	mednarodno pravo
+international organisation	mednarodna organizacija
+international politics	mednarodna politika
+international relations	mednarodni odnosi
+international safety	mednarodna varnost
+international standardisation	mednarodna standardizacija
+international trade	mednarodna trgovina
+international transaction	mednarodna transakcija, zunanjetrgovinski posel
+international watercourse	mednarodni vodotok
+internationally important ecosystem	ekosistem mednarodnega pomena
+internet search service	storitev iskanja po internetu
+internet service provider ; ISP ; Internet access provider ; Internet service provider	ponudnik medmrežnih storitev
+interpolation	interpolacija
+interpretation method	metoda interpretacije
+intertidal zone	območje plimovanja
+intervention fund	intervencijski sklad
+intervention in nature and landscape	sanacijski poseg v naravo in pokrajino
+intervention on land	ukrepanje na kopnem
+intoxication	zastrupitev
+introduction of animal species	vnašanje živalskih vrst
+introduction of plant species	vnašanje rastlinskih vrst
+inventory	inventar, seznam, popis
+inventory of forest damage	popis škode v gozdu
+inversion	inverzija, obrat ; inverzija ; obrat
+inversion layer	inverzijska plast
+invertebrate	nevretenčar
+investment	naložba, investicija
+iodine	jod
+ion	ion
+ion exchange	ionska izmenjava
+ion exchanger	ionski izmenjevalec
+ionising radiation	ionizirno sevanje
+ionosphere	ionosfera
+iridium	iridij
+iron	železo
+iron and steel industry	železarstvo in jeklarstvo
+iron industry	črna metalurgija
+iron scrap	železni odpadki
+ironwork industry	predelava železa in jekla
+irradiation	obsevanje
+irreversibility of the phenomenon	nepovratnost
+irrigation	umetno namakanje
+irrigation farming	namakalno kmetijstvo
+irrigation system	namakalni sistem
+island ; isle	otok
+island ecosystem	otoški ekosistem
+isomer	izomer
+isotope	izotop
+ivory	slonovina
+jackal	šakal
+jaguar	jaguar
+jazz	jazz
+joint debtor	solidarni dolžnik
+joint implementation	skupna izvedba
+journalist	novinar
+judgement (sentence) ; sentence ; judgement	obsodba, sodba, razsodba, sklep sodišča ; obsodba ; sodba ; razsodba ; sklep sodišča
+judicial assistance	pravna pomoč
+judicial body	sodni organ
+judicial system	sodni sistem
+judiciary rule	sodno pravilo, pravna norma
+judo	judo
+juridical act	sodni akt
+jurisdiction	jurisdikcija, pravna/sodna pristojnost
+jurisprudence	pravo
+justice	pravičnost/zakonitost, pravosodje/sodstvo/sodna oblast
+karst	kras
+kerosene	kerozin
+knight ; knight	skakač
+krypton	kripton
+labelling	označevanje
+laboratory	laboratorij
+laboratory experiment	laboratorijski poskus
+laboratory research	laboratorijska raziskava
+laboratory technique ; laboratory techniques	laboratorijska tehnika
+laboratory test	laboratorijski preskus
+laboratory waste	laboratorijski odpadki
+labour	delo
+labour force	delovna sila
+labour law	delovna zakonodaja
+labour market	trg delovne sile
+labour relations	delovna razmerja, odnosi med delavci in delodajalci
+lacquer	lak
+lagoon	laguna
+lagooning	čiščenje z laguno
+lake	jezero
+lake basin	jezerska kotanja
+lake pollution	onesnaženje jezer
+lamp ; light	luč, svetilka ; luč ; svetilka
+land	površje ; zemlja ; zemljišče
+land allotment	parcelacija
+land clearing	čiščenje/trebljenje zemljišča
+land conservation	ohranjanje/varstvo površin
+land consolidation	komasacija
+land cover	pojavi na zemeljskem površju
+land development	prostorski razvoj
+land disposal	odlaganje odpadkov na/v zemljo
+land ecology	ekologija kopnega
+land forming	oblikovanje površja
+land mammal	kopenski sesalec
+land management and planning	gospodarjenje z zemljišči in načrtovanje
+land occupation	raba zemljišč
+land planning	načrtovanje rabe zemljišč
+land pollution	onesnaženje tal
+land reclamation	melioracija
+land register	zemljiška knjiga, kataster
+land restoration	sanacija tal za rabo
+land restoration in mountain areas	sanacija tal v gorskih območjih
+land setup	oblikovanje regionalne politike, regionalno planiranje in usklajevanje
+land tax	zemljiški davek
+land transportation	kopenski prevoz/transport, prevoz po kopnem
+land use	raba tal
+land use classification	razvrstitev (klasifikacija) rabe tal
+land use plan	načrt rabe tal
+land use planning	načrtovanje rabe tal
+land use regime	zemljiškoposestno razmerje
+land value	vrednost zemljišča
+land-based activity	aktivnost na kopnem
+land-based marine pollution	onesnaževanje morja s kopnega
+land-management intervention area	območje, potrebno prostorske ureditve
+landfill	odlagališče odpadkov ; odlagališče odpadkov, deponija ; deponija
+landfill base sealing	tesnenje odlagališčnega dna
+landfill covering	prekritje deponije
+landfill degasification	odplinjevanje deponije
+landfill gas	deponijski plin
+landfill leachate	deponijske izcedne vode
+landform	reliefna oblika
+landscape	pokrajina, krajina
+landscape after mining	rudarska pokrajina/krajina
+landscape alteration	spreminjanje pokrajine/krajine
+landscape architecture	krajinska arhitektura
+landscape component	pokrajinski/krajinski element ; pokrajinski ; krajinski element
+landscape conservation	ohranjanje pokrajine/krajine
+landscape conservation policy	politika ohranjanja pokrajine/krajine
+landscape consumption	obsežnejši poseg v krajino
+landscape ecology	pokrajinska ekologija
+landscape management	izvajanje ukrepov za ohranjanje pokrajine/krajine
+landscape planning	krajinsko načrtovanje
+landscape protection	varstvo pokrajine/krajine
+landscape protection area	zavarovano krajinsko območje
+landscape utilisation	izraba pokrajine
+landslide	zemeljski plaz
+large combustion plant	velika zgorevalna naprava
+laser ; Light Amplification by Stimulated Emission of Radiation	laser
+latitude	zemljepisna/geografska širina
+laundering	pranje in likanje
+law	zakon, zakonitost ; zakon ; zakonitost
+law	zakonodaja
+law ; law (science)	pravo
+law amendment	zakonsko dopolnilo, novela/amandma (zakona)
+law branch	veja prava
+law draft	osnutek zakona
+law enforcement	izvajanje zakona
+law relating to prisons	zakon o zaporih
+lawrencium	lavrencij
+leaching	izpiranje
+lead	svinec
+lead compound	svinčeva spojina
+lead level in blood	vsebnost svinca v krvi
+lead-in-petrol law	zakon o vsebnosti svinca v bencinu
+leaf	list
+leakage	iztekanje (tekočine), uhajanje (plina), pronicanje ; pronicanje ; iztekanje ; uhajanje
+lease	najem, zakup ; najem ; zakup
+leather	usnje
+leather industry	usnjarska industrija
+legal basis	pravna osnova, zakonska podlaga
+legal form of organisations	pravna oblika organizacij
+legal procedure	pravni postopek
+legal profession	pravniški poklic, pravna stroka
+legal regulation	pravni predpis
+legal remedy	pravno sredstvo
+legal system	pravni sistem
+legal text	pravni dokument
+legally protected right	zakonita pravica
+legislation	zakonodaja, (vsi) zakoni, pravni predpisi
+legislation on pollution	zakonodaja o onesnaževanju okolja
+legislative authority	zakonodajna oblast
+legislative competence	zakonodajna pristojnost, zakonodajna kompetenca
+legislative information	informacije o zakonodaji, pravne informacije
+legislative procedure	zakonodajni postopek
+legislature	zakonodajno telo
+leisure activity	prostočasna dejavnost, dejavnost/aktivnost v prostem času, hobi
+leisure centre	rekreacijsko središče
+leisure time	prosti čas
+lemon	limona
+leopard	leopard
+lepidopteran	metulji (Lepidoptera)
+less developed country	manj razvita država
+letter	črka
+leukaemia	levkemija
+level of education	stopnja izobrazbe
+levy	obdavčenje, obdavčitev, pobiranje davkov/dajatev ; obdavčitev ; obdavčenje ; pobiranje davkov ; pobiranje dajatev
+lexicon	leksikon ; leksikon, slovar ; slovar
+liability	(pogodbena) obveznost, odgovornost ; odgovornost ; obveznost
+liability legislation	zakonodaja o prevzemu odgovornosti
+library	knjižnica
+library service	knjižnična storitev
+licencing procedure	postopek izdaje dovoljenj/licenc, postopek licenciranja
+lichen	lišaj
+life cycle	življenjski cikel
+life science	vede o živih organizmih, biološke vede
+life-cycle management	nadzor nad življenjskim ciklom izdelka
+lifestyle	življenjski slog/stil
+light	svetloba, luč ; svetloba ; luč
+lighting	razsvetljava
+lignite	lignit
+lignite mining	pridobivanje lignita
+lime	apno
+limestone	apnenec
+limit value	mejna vrednost
+limnology	limnologija
+line	črta
+line source	linijski vir (onesnaženja)
+linear source of sound	linijski vir zvoka
+liner material	tesnilna plast
+linguistics	jezikoslovje ; lingvístika
+lion	lev
+lip	ustnica
+lipid	lipid
+lipophilic substance	lipofilna snov
+lipstick	šminka
+liquefied gas	utekočinjeni plin
+liquid	tekočina
+liquid manure	gnojnica in gnojevka
+liquid state	tekoče stanje
+liquid waste	tekoči odpadki
+literature	književnost, literatura ; književnost ; literatura
+literature data bank	banka podatkov o literaturi
+literature evaluation	literarna ocena/kritika
+literature study	literarna študija
+lithium	litij
+lithosphere	litosfera
+litigation	pravni spor, proces, pravdni/sodni postopek ; sodni postopek ; pravni spor ; proces ; pravdni
+litter	odpadki ; stelja (za živino) ; stelja
+little finger ; pinkie	mezinec
+littoral	območje plimovanja ; območje plimovanja, litoral ; litoral
+liver	jetra
+livestock	živina
+livestock breeding	vzreja živine
+livestock farming	živinoreja
+living condition	življenjske razmere, življenjski pogoji
+living environment	bivalno okolje
+living space	življenjski prostor
+living standard	življenjski standard
+lizard	kuščariji (Lacertidae)
+load bearing capacity	maksimalna obremenitev, nosilnost
+local afforestation	lokalno pogozdovanje
+local authority	lokalna uprava
+local development	lokalni razvoj
+local finance	lokalne finance
+local government	lokalna oblast/uprava
+local government policy	lokalna politika
+local heat supply	lokalna oskrba s toploto
+local passenger service	krajevni potniški promet
+local recreation	lokalna rekreacija
+local resource utilisation	raba lokalnih virov
+local traffic	lokalni/krajevni promet
+location of industries	lociranje industrije
+locomotive	lokomotiva
+lodging	stanovanje, namestitev, oddajanje sob ; stanovanje ; namestitev ; oddajanje sob
+long-distance traffic	medkrajevni promet
+long-distance transport	medkrajevni prevoz/transport
+long-term effect	dolgotrajni učinek/vpliv, dolgotrajna posledica
+long-term experiment	dolgotrajni poskus/eksperiment, dolgoročni poskus/eksperiment
+longitude	zemljepisna/geografska dolžina
+lorry	tovornjak, kamion ; tovornjak ; kamion
+loss	izguba
+loss of biotope	uničenje biotopa
+lottery	loterija
+loudness	glasnost, hrupnost
+low flow	nizek vodostaj
+low-cost housing	solidarnostna/socialna stanovanja
+low-level flight	nizek polet
+low-level technology	enostavna tehnologija
+lubricant	mazivo
+luminosity	svetilnost
+lunch ; lunch ; lunch ; lunch ; luncheon	južina ; južina ; južina ; južina ; južina ; obed ; obed ; obed ; obed ; obed
+lung	pljuča
+lye	lug
+lymphatic system	limfni sistem
+lysimetry	lizimetrija
+machine manufacture	proizvodnja strojev, strojegradnja
+machinery ; mechanism	stroji
+mackerel	skuša
+macroeconomic goal	makroekonomski cilj
+macroeconomics	makroekonomija
+macrophyte	makrofit
+magnesium	magnezij
+magnetic tape	magnetni trak
+magnetism	magnetizem
+maintenance (technical) ; maintenance	vzdrževanje (opreme, strojev) ; vzdrževanje
+maintenance of environment	vzdrževanje/ohranjanje okolja
+major accident	velika/huda nezgoda, katastrofa
+major risk	hudo tveganje
+major risk installation	naprave/objekti z visoko stopnjo tveganja
+malaria	malarija
+malformation	spačenost, skaženost
+malnutrition	nezadostna/slaba prehrana
+mammal	sesalec
+man	človek
+man-made climate change	podnebne spremembe, ki jih povzroča človek
+management	upravljanje, vodenje, gospodarjenje, ravnanje
+management accounting	računovodstvo
+management contract	pogodba o upravljanju, individualna pogodba za vodilne delavce
+management of natural resources	gospodarjenje z naravnimi viri
+management plan	načrt upravljanja, načrt gospodarjenja ; načrt upravljanja ; načrt gospodarjenja
+management technique	metoda vodenja/upravljanja
+mandarin ; Mandarin ; Standard Mandarin	mandarinščina
+mandate	pooblastilo, ukaz, naročilo
+manganese	mangan
+mangrove	mangrova
+manpower	(človeška) moč, delovna sila/delavci
+manufacturing activity	proizvodna dejavnost
+manufacturing trade	trgovina za namen proizvodnje
+manure	gnoj
+manure production	proizvodnja gnoja
+map	karta ; zemljevid
+map chart	karta ; zemljevid
+mapping	kartiranje
+mapping of lichens	kartiranje lišajev
+maquis	makija
+marble	marmor
+mare	kobila
+marginal land	zemljišče z mejno donosnostjo
+mariculture	marikultura
+marina	marina, majhno pristanišče ; marina ; majhno pristanišče
+marine biology	biologija morja
+marine ecology	ekologija morja
+marine ecosystem	morski ekosistem
+marine engineering	ladijsko strojništvo, ladijska strojegradnja
+marine environment	morsko okolje
+marine fauna	morska favna
+marine fishery	morski ribolov
+marine geology	geologija morja
+marine mammal	morski sesalec
+marine monitoring	monitoring morja (spremljanje onesnaženosti morja)
+marine organism	morski organizem
+marine park	vodni park
+marine pollution	onesnaženje morja
+marine reserve	morski rezervat
+marital status	zakonski stan
+maritime law	pomorsko pravo
+maritime navigation	pomorska plovba
+maritime transport	pomorski prevoz, pomorski transport
+marker	sledilna snov, sledilo
+market ; marketplace	trg ; trg, tržišče ; tržišče
+market economy	tržna ekonomija, blagovno-denarno gospodarstvo
+market form	struktura trga
+market gardening	komercialno sadjarstvo in vrtnarstvo
+market price	tržna cena
+market research	tržna raziskava
+market study	tržna raziskava
+marketing	trženje, marketing ; trženje ; marketing
+marsh	barje
+marsupial	vrečarji (Marsupialia) ; vrečarji
+masonry	zidarstvo
+mass media	sredstva javnega obveščanja
+mass recreation	množična rekreacija
+mass transport	snovni pretok
+material ; materials	materiali ; snov, material
+material life cycle	življenjski cikel materialov
+materials science	veda o gradivih
+mathematical analysis	matematična analiza
+mathematical method	matematična metoda
+maximum admissible concentration	najvišja dopustna koncentracija
+maximum immission concentration	maksimalna koncentracija imisij
+mayonnaise	majoneza
+meadow	travnik
+means of agricultural production	produkcijska sredstva v kmetijstvu
+means of communication	komunikacijska sredstva
+measuring	meritev, merjenje
+measuring instrument	merilni instrument
+measuring method	merilna metoda
+measuring programme	program meritev/merjenja
+meat	meso
+mechanical equipment	strojna/mehanska oprema
+mechanical industry	strojna industrija
+mechanical vibration	tresenje
+medical science	medicina ; medicina (znanost)
+medicinal plant	zdravilna rastlina
+medicine ; medicine (practice)	medicina
+melody ; tune	melodija
+melting	topljenje
+membrane	opna, membrana ; opna ; membrana
+mendelevium	mendelevij
+meningitis	meningitis
+merchant	trgovec
+merchant shipping	redni ladijski prevoz
+mercury	živo srebro
+metabolism	metabolizem, presnavljanje, presnova ; metabolizem ; presnavljanje ; presnova
+metabolite	metabolit, produkt presnove ; metabolit ; produkt presnove
+metainformation	metapodatek, metapodatki
+metal	kovina
+metal oxide	kovinski oksid
+metal product	kovinski izdelek
+metal products industry	industrija/proizvodnja kovinskih izdelkov, kovinska industrija
+metal waste	kovinski odpadki
+metallic mineral	kovinski mineral
+metallurgical industry	metalurgija, kovinarstvo
+metallurgy	metalurgija
+metaphysics	metafizika
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	meteor ; meteor ; meteor ; meteor ; meteor
+meteorite	meteorit
+meteorological disaster	vremenska ujma
+meteorological parameter	meteorološki parameter
+meteorological phenomenon	meteorološki pojav
+meteorological research	meteorološka raziskava
+meteorology	meteorologija, vremenoslovje
+methane ; marsh gas ; methyl hydride	metan ; metilhidrid
+methanisation	pridobivanje metana
+methanol	metanol
+method	metoda
+methodology	metodologija
+metrology	metrologija, meroslovje
+metropolis	prestolnica, glavno mesto, metropola ; prestolnica ; glavno mesto ; metropola
+micro-organism	mikroorganizem
+microbiological analysis	mikrobiološka analiza
+microbiology	mikrobiologija
+microclimate	mikroklima
+microclimatology	mikroklimatologija
+microcomputer	mikroračunalnik
+microecosystem	mikroekosistem
+microelectronics ; microminiaturization ; microsystem electronics	mikroelektronika
+microfiltration	mikrofiltracija
+micropollutant	mikroonesnaževalo
+microscopy	mikroskopija
+microwave	mikroval
+migrant labour	migracijska delovna sila
+migratory bird	ptica selivka
+migratory fish	ribe selivke
+military activities	vojaške dejavnosti/aktivnosti
+military air traffic	vojaški zračni promet
+military aspects	vojaški vidiki
+military equipment	vojaška oprema
+military zone	vojaška cona, vojaško območje
+milk	mleko
+mill	mlin
+mine	rudnik
+mine filling	zasipavanje rudnikov
+mineral	mineral
+mineral conditioner	mineralno sredstvo za izboljšanje lastnosti tal
+mineral deposit	mineralno nahajališče
+mineral extraction	pridobivanje mineralov
+mineral fibre	mineralno vlakno
+mineral industry	pridobivanje nekovinskih mineralnih surovin
+mineral matter	mineralna snov
+mineral oil	mineralno olje
+mineral pollution	onesnaževanje v rudarstvu
+mineral resource	mineralni viri, mineralne zaloge
+mineral waste	mineralni odpadki
+mineral water	mineralna voda
+mineralisation	mineralizacija
+mineralogy	mineralogija
+minimal cost planning	načrtovanje (proizvodnje, storitev) z minimalnimi stroški
+minimisation of damage	zmanjševanje škode
+mining district	rudarsko območje
+mining industry	rudarstvo
+mining law	zakon o rudarstvu
+mining product	rudarski proizvod
+mining regulation	predpis o rudarski dejavnosti
+mining site restoration ; mine reclamation	sanacija opuščenega rudnika
+mining waste	odpadki rudarjenja, jalovina
+minister competence	pristojnost ministra
+ministerial decree	ministrska odredba, odlok, odločba
+ministry	ministrstvo
+ministry ; ministry building	ministrska stavba, ministrstvo ; ministrstvo ; ministrska stavba
+minor	mladoletnik
+minority	manjšina
+minute	minuta
+miscellaneous product	različni izdelki
+miscibility	mešljivost
+mist	meglica
+mite	pršica
+mitigation measure	omilitveni ukrep
+mitosis	mitoza
+mixed farming	mešano kmetijstvo
+mixed forest	mešani gozd
+mixed use area	območje različne rabe
+mixing	mešanje
+mobile home	mobilno bivališče
+mode of transportation	način prevoza/transporta
+model	model
+modelling	modeliranje
+moisture	vlaga
+molecular biology	molekularna biologija
+mollusc	mehkužec
+molybdenum	molibden
+monetary assessment	ovrednotenje finančnega premoženja
+monetary economics	denarno/blagovno gospodarstvo
+monetary relations	denarni/monetarni odnosi
+money market	denarni trg
+monitoring	monitoring, monitorstvo, spremljanje, opazovanje ; monitoring ; monitorstvo ; spremljanje ; opazovanje
+monitoring criterion	kriterij monitoringa
+monitoring data	podatki, pridobljeni z monitoringom
+monitoring equipment	oprema za monitoring
+monitoring network	mreža opazovalnih postaj
+monitoring station	opazovalna postaja
+monitoring technique	tehnika monitoringa
+monopoly	monopol
+monument	spomenik
+morphine	morfin
+morphology	morfologija
+mortality	smrtnost, umrljivost
+mosaic	mozaik
+mosque	mošeja
+moss	mah
+motet	motet
+mother-in-law ; mother in law	tašča
+motor fuel	motorno gorivo
+motor vehicle	motorno vozilo
+motor vehicle exhaust gas	izpušni plin iz motornega vozila
+motor vehicle industry	industrija motornih vozil
+motor vehicle pollution	onesnaževanje iz motornih vozil
+motorcycle ; motorbike	motorno kolo
+motorway ; pike ; expressway ; freeway ; state highway ; superhighway ; throughway ; thruway	avtocesta
+mountain	gora
+mountain climate	gorsko podnebje
+mountain forest	višinski gozd
+mountain management	gospodarjenje z gorami
+mountain protection	varstvo gora
+mountain range	gorovje
+mountain resort	gorsko letovišče
+mountainous area	gorato območje
+mowing	košnja
+mud	blato
+mud flat	blatna ravnica
+mulch	mulčenje
+multilateral agreement	večstranski (multilateralni) sporazum
+multimedia technology	večpredstavnostna tehnologija
+multinational firm	večnacionalna družba, multinacionalka
+multispectral scanner	multispektralni skener
+municipal cleansing service	komunalna dejavnost
+municipal dumping	komunalna deponija
+municipal environment plan	občinski okoljski načrt
+municipal environmental policy	občinska okoljska politika
+municipal law	občinska zakonodaja
+municipal level	občinska raven
+municipal waste	komunalni odpadki
+municipal water distribution system	oskrba z vodo
+municipal water management	občinsko gospodarjenje z vodo
+municipality	občina
+muscular system	mišični sistem
+museum	muzej
+mushroom	goba
+music	glasba
+musical	muzikal
+musician	glasbenik
+musquito ; mosquito	komar
+mussel farming	gojenje školjk, školjkarstvo
+mustelid	kune (Mustelidae)
+mutagen	mutagen
+mutagenicity	mutagenost
+mutagenicity testing	preskušanje mutagenosti
+mutant	mutant
+mutated micro-organisms release	sproščanje/vnos mutiranih mikroorganizmov
+mutation	mutacija
+mycete	micelij, podgobje ; micelij ; podgobje
+mycology	mikologija
+mycorrhiza	mikoriza
+myth	mit
+nadir	podnožišče
+nappy	plenica
+national accounting	narodnogospodarsko računovodstvo
+national boundary	državna meja
+national economy	nacionalno/narodno gospodarstvo
+national environmental accounting	državno okoljsko računovodstvo
+national fishing reserve	državno ribolovno območje
+national legislation	državna zakonodaja
+national park	narodni park
+national planning	državno načrtovanje
+nationalisation	nacionalizacija
+natural area	naravno območje
+natural areas protection	varstvo naravnih območij
+natural disaster	naravna nesreča/katastrofa
+natural environment	naravno okolje
+natural fertiliser	naravno gnojilo
+natural fibre	naravno vlakno
+natural forest	naravni gozd
+natural gas	zemeljski plin
+natural gas exploration	iskanje zemeljskega plina
+natural gas extraction	črpanje (pridobivanje) zemeljskega plina ; črpanje zemeljskega plina
+natural hazard	nevarnost naravnih nesreč
+natural heritage	naravna dediščina
+natural heritage assessment	ocena naravne dediščine
+natural material	naravna snov, naravni material
+natural monument	naravni spomenik
+natural park	naravni park
+natural radioactivity	naravna radioaktivnost
+natural regeneration	naravna regeneracija
+natural resource	naravni vir
+natural resource conservation	ohranjanje naravnih virov
+natural risk	naravno tveganje
+natural risk analysis	analiza naravnega tveganja
+natural risks prevention	preprečevanje naravnih nesreč
+natural scenery	naravna pokrajina
+natural science	naravoslovje
+natural stone	naravni drag kamen
+natural value	naravna vrednota
+nature conservation	ohranjanje narave
+nature conservation legislation	zakonodaja o ohranjanju narave
+nature conservation organisation	organizacija za ohranjanje narave
+nature conservation programme	program ohranjanja narave
+nature protection	varstvo narave
+nature reserve	naravni rezervat
+nausea	slabost
+navigation	navigacija
+navigational hazard	nevarnost za plovbo
+necrosis	nekroza
+need	potreba
+neighbourhood noise	hrup okolice
+nematode	gliste (Nematoda)
+neodymium	neodim
+neon	neon
+neoplasm ; tumour	tumor
+neptunium	neptunij
+nervous system	živčni sistem
+nesting	gnezdenje
+nesting area	gnezdišče
+netting policy (emissions trading) ; netting policy	politika mreženja (trgovanje z emisijami)
+neurotoxicity	nevrotoksičnost
+neutralisation	nevtralizacija
+new community	nova skupnost
+new installation	nova naprava/oprema, nov objekt
+new material	novi material, tehnološko izpopolnjen material
+new technology	nova tehnologija
+newsgroup	novičarska skupina
+newsletter	glasilo, bilten
+nickel	nikelj
+niobium	niobij
+nitrate	nitrat
+nitrification	nitrifikacija
+nitro compound	dušikova spojina
+nitrogen	dušik
+nitrogen cycle	kroženje dušika
+nitrogen dioxide	dušikov dioksid
+nitrogen fixation	vezava dušika
+nitrogen monoxide	dušikov monoksid
+nitrogen oxide	dušikov oksid
+nitrogen oxides	dušikovi oksidi
+nitrogenous fertiliser	dušikovo gnojilo
+nitrosamine	nitrozamin
+noise	hrup
+noise ; noise, vibrations ; racket	hrup
+noise abatement	ukrepi za zmanjševanje hrupa
+noise analysis	analiza hrupa
+noise barrier	protihrupna pregrada
+noise control	zmanjševanje hrupa
+noise disturbance ; noise pollution	motnje, ki jih povzroča hrup
+noise emission	emisije hrupa
+noise emission levy	dajatev na obremenjevanje s hrupom
+noise exposure plan	načrt izpostavljenosti hrupu
+noise immission	imisija hrupa
+noise legislation	zakonodaja s področja hrupa
+noise level	raven hrupa
+noise measurement	meritev hrupa
+noise pollutant	vir hrupa
+noise pollution	obremenjevanje s hrupom
+noise protection	varstvo pred hrupom
+noise reduction	zmanjšanje hrupa
+noise spectrum	spekter hrupa
+noise-free technology	brezhrupna tehnologija
+nomad	nomad
+nomenclature	nomenklatura
+non-biodegradable pollutant	biološko nerazgradljivo onesnaževalo
+non-built-up area	nepozidano območje
+non-conventional energy	nekonvencionalna energija
+non-demesnial water	zasebna voda
+non-durable goods	neobstojno blago
+non-ferrous metal	barvna kovina
+non-ferrous metal industry	barvna metalurgija
+non-governmental organisation	nevladna organizacija (NVO)
+non-ionising radiation	neionizirno sevanje
+non-metal	nekovina
+non-metallic mineral	nekovinski mineral
+non-polluting energy source	vir energije, ki ne onesnažuje
+non-polluting fuel	gorivo, ki ne onesnažuje
+non-renewable energy resource	neobnovljiv vir energije
+non-renewable resource	neobnovljivi naravni viri
+non-residential building	nestanovanjska zgradba
+non-returnable container	nevračljiva embalaža
+non-target organism	neciljni organizem
+non-volatile substance	nehlapna snov
+norm	norma, pravilo, standard, normativ ; standard ; normativ ; norma ; pravilo
+nose	nos
+note	nota
+nothing	nič
+notice	objava ; obvestilo ; oglas
+notification	obvestilo, prijava, notifikacija
+noun ; substantive	podstatné meno
+nuclear accident	jedrska nesreča
+nuclear debate	razprave o jedrski energiji
+nuclear energy	jedrska energija
+nuclear energy legislation	zakonodaja s področja jedrske energije
+nuclear energy use	raba jedrske energije
+nuclear explosion (accident) ; nuclear explosion	jedrska eksplozija (nesreča) ; jedrska eksplozija
+nuclear facility	jedrski obrat
+nuclear fission	cepitev jedra
+nuclear fuel	jedrsko gorivo
+nuclear fuel element	(jedrske) gorivne palice ; gorivne palice ; jedrske gorivne palice
+nuclear fusion	zlitje jedra
+nuclear hazard	jedrska nevarnost
+nuclear physics	jedrska fizika
+nuclear power plant	jedrska elektrarna
+nuclear reaction	jedrska reakcija
+nuclear reactor	jedrski reaktor
+nuclear research centre	center za jedrske raziskave
+nuclear risk	jedrsko tveganje
+nuclear safety	jedrska varnost
+nuclear test	jedrski poskus
+nuclear weapon	jedrsko orožje
+nucleic acid	nukleinska kislina
+nursery (plant breeding) ; nursery ; plant nursery	drevesnica ; rastlinjak, drevesnica ; rastlinjak
+nutrient	hranilna snov, hranilo
+nutrient balance	prehransko ravnovesje
+nutrient content	vsebnost hranilnih snovi
+nutrient cycle	kroženje hranilnih snovi
+nutrient medium	prehranski posrednik
+nutrient removal	odstranjevanje hranilnih snovi
+nutrition	prehrana ; prehranjevanje
+nutritive value of food	hranilna vrednost hrane
+oak	hrast
+obesity	debelost
+obey	ubogati
+objection	nasprotovanje ; ugovor
+obligation to inform	obveznost informiranja
+obligation to label	obveznost označevanja
+observation satellite	opazovalni satelit
+occupational disease	poklicna bolezen
+occupational health	zdravje na delovnem mestu
+occupational health care	varovanje zdravja na delovnem mestu
+occupational medicine	medicina dela
+occupational safety	varstvo pri delu
+occupational safety regulation	predpisi o varstvu pri delu
+occupational status	zaposlitveni status
+ocean ; sea ; body of water ; bounding main	ocean
+ocean circulation	kroženje vode v oceanih
+ocean current	oceanski tok
+ocean dumping	odlaganje odpadkov v oceane
+ocean exploitation	izkoriščanje oceanov
+ocean temperature	temperatura oceanske vode
+ocean-air interface	stik med oceani in ozračjem
+oceanic climate	oceansko podnebje
+oceanography	oceanografija
+odour	smrad
+off-peak travelling	potovanje izven konic
+off-site	zunaj lokacije
+offence against the environment	kaznivo dejanje na področju varstva okolja
+office	urad, pisarna
+official duty	uradna dolžnost
+official hearing	uradno zaslišanje
+official language	uradni jezik
+offset policy (emissions trading)	kompenzacijska politika (trgovanje z emisijami)
+offshore mining	priobalno črpanje nafte
+oil and fat industry	industrija maščob in olj
+oil binding agent	absorbent olja
+oil boom	plavajoči lovilec nafte
+oil disaster	razlitje nafte
+oil exploration	iskanje nafte
+oil extraction	črpanje nafte
+oil pipeline	naftovod
+oil pollution	onesnaženje z nafto
+oil pollution abatement	ukrepi za zmanjšanje onesnaženja z nafto
+oil production (chain)	predelava nafte
+oil recovery vessel	plovilo za lovljenje nafte
+oil refinery	rafinerija nafte
+oil residue recuperation	zbiranje ostankov nafte
+oil slick	naftni madež
+oil spill	razlitje nafte
+oil tanker	tanker za prevoz nafte
+oil-based energy	energija, pridobljena iz nafte
+old hazardous site	nevarna opuščena lokacija
+old landfill site	staro odlagališče odpadkov
+olfactory pollution	obremenjevanje s smradom
+olive	oliva
+olive oil mill wastewater	odpadna voda iz mlinov za oljčno olje
+on-line service	storitev na zvezi
+on-site wastewater treatment	čiščenje odpadne vode na lokaciji
+oncology	onkologija
+onion	čebula
+ontogenesis ; ontogenesis ; ontogeny	ontogeneza ; ontogeneza
+ontology	ontologija
+open lawn	odprta jasa
+open sea	odprto morje
+open sea fishing	ribolov na odprtem morju
+opencast mining ; open-pit mining	odprti/dnevni kop
+opera	opera
+operating data	operativni podatki
+operetta	opereta
+ophthalmology	oftalmologija
+opinion ; stance	mnenje, stališče ; mnenje ; stališče
+opinion survey	javnomnenjska raziskava
+oral sex	oralni seks
+orange	pomaranča
+orchestra	orkester
+orchid	orhideja
+order	odredba ; uredba ; ukaz
+order	odredba, uredba, ukaz ; odredba ; uredba ; ukaz
+ordinance	uredba, predpis, odredba
+ore	ruda
+organ	organ
+organelle	organel
+organic carbon	organski ogljik
+organic chemistry	organska kemija
+organic farming	organsko kmetijstvo
+organic matter	organska snov
+organic nitrogen	organski dušik
+organic pollutant	organsko onesnaževalo
+organic pollution	organsko onesnaženje
+organic solvent	organsko topilo
+organic substance	organska snov
+organic waste	organski odpadki
+organisation (law)	organizacija
+organisation of teaching	izobraževalna organizacija
+organisation of the legal system	organiziranost pravnega sistema
+organism	organizem
+organochlorine compound	organoklorova spojina
+organohalogen compound	organohalogena spojina
+organoleptic property	organoleptična lastnost
+organometallic compound	organokovinska spojina
+organonitrogen compound	organodušikova spojina
+organooxygen compound	organokisikova spojina
+organophosphorous compound	organofosforjeva spojina
+organosulphur compound	organožveplova spojina
+ornithology	ornitologija
+orography	orografija
+orthography	pravopis
+orthopteran	ravnokrilci (Orthoptera)
+osmium	osmij
+osmosis	osmoza
+ostrich	noj
+outer space (allocation plan) ; outer space	neurbanizirani prostor
+ovary	jajčnik
+oven	peč
+overburden	krovna plast
+overexploitation	čezmerno izkoriščanje (črpanje) ; čezmerno izkoriščanje
+overfertilisation	čezmerno gnojenje
+overfishing	čezmeren ribolov
+overflow (outlet)	preliv
+overgrazing	čezmerna paša
+overhead power line	daljnovod
+overpopulation	prenaseljenost
+overturn (limnology)	obratna termična plastovitost (limnologija)
+overwintering	prezimovanje
+ovine	ovca
+ownership	lastništvo
+oxidation	oksidacija
+oxidation-reduction	oksidacija-redukcija
+oxide	oksid
+oxidisable material	snov, ki lahko oksidira
+oxidising agent	oksidant
+oxygen	kisik
+oxygen content	vsebnost kisika
+oxygenation	okisičenje, oksigenacija
+oyster	ostrige
+oyster farming	gojenje ostrig
+ozone	ozon
+ozone depletion potential	faktor škodljivosti za ozon
+ozone layer	ozonska plast
+ozone layer depletion	tanjšanje ozonske plasti
+ozonisation	ozonizacija
+packaging	embalaža
+packaging waste	odpadna embalaža
+packing industry	proizvodnja embalaže
+paediatrician	pediater ; otroški zdravnik
+paint	barva
+paint room	barvarna, lakirnica
+paint shop	trgovina z barvami
+painting business	barvanje
+palaeoclimatology	paleoklimatologija
+palaeoecology	paleoekologija
+palaeontology	paleontologija
+palindrome	palindrom
+palladium	paladij
+palm	palma
+palm	dlan
+pandemic	pandemija
+paper	papir
+paper industry	papirna industrija
+parabola	parabola
+parachute	padalo
+parameter	parameter
+parasite	parazit
+parasitology	parazitologija
+parking provision	parkirni prostor
+parliamentary debate	parlamentarna razprava
+parliamentary report	parlamentarno poročilo
+parrot	papagaj
+partially halogenated chlorofluorohydrocarbon	delno halogeniran klorofluoroogljikovodik
+participation	udeležba
+particle	delec
+particle separator	ločevalec delcev
+party ; political party	politična stranka
+passenger transport	potniški promet
+paste-like waste	muljasti odpadki
+pasture	pašnik
+patent	patent
+path	steza, pot
+pathogen	patogen
+pathogenic organism	patogeni organizem
+pathologic effect	patološki učinek
+pathology	patologija
+patrimonial management	patrimonialno upravljanje
+pattern recognition	razpoznavanje vzorcev
+pay policy	plačilna politika
+peace	mir
+peacekeeping	vzdrževanje miru, mirovne operacije
+pear	hruška
+peat	šota
+peat extraction	pridobivanje šote
+pedagogy	pedagogika
+pedestrian zone ; pedestrian area ; car-free zone ; auto-free zone ; pedestrianised zone	cona za pešce
+pedosphere	pedosfera
+penalty	kazen
+penalty for environmental damage	kazen za povzročitev okoljske škode
+pencil	svinčnik
+penguin	pingvin
+peninsula	polotok
+pentachlorophenol	pentaklorofenol
+per capita data	podatki na prebivalca
+percolating water	gravitacijska voda
+periodic table	periodni sistem elementov
+peripheral park area	robno območje parka
+periphyton	perifiton
+periurban space	primestno območje
+permeability	prepustnost
+permissible exposure limit	dopustna meja izpostavljenosti
+permission	dovoljenje
+peroxyacetylnitrate	peroksiacetilnitrat, PAN
+persistant organic pollutant	obstojno organsko onesnaževalo
+persistence	obstojnost
+persistence of pesticides	obstojnost pesticidov
+person	oseba
+personal responsibility	osebna odgovornost
+pest	škodljivec
+pest control	zatiranje škodljivcev
+pest infestation	invazija škodljivcev
+pesticide	pesticid
+pesticide control standard	standard za nadzor nad pesticidi
+pet	domača žival, hišni ljubljenček
+petition right	pravica do peticije/vloge
+petrochemical	petrokemični proizvod
+petrochemical industry	petrokemična industrija
+petrol	bencin
+petroleum	nafta
+petroleum consumption	poraba nafte
+petroleum industry	naftna industrija
+phanerogam ; spermatophyte	semenka, cvetnica
+pharmaceutical industry	farmacevtska industrija
+pharmaceutical waste	farmacevtski odpadki
+pharmacokinetics	farmakokinetika
+pharmacology	farmakologija
+pheasant	fazan
+phenol	fenol
+pheromone	feromon
+philology	filologija
+philosophy	filozofija
+phishing	phishing
+phone ; telephone	telefon
+phosphate	fosfat
+phosphate removal	odstranjevanje fosfatov
+phosphate substitute	nadomestek za fosfate
+phosphatic fertiliser	fosfatno gnojilo
+phosphorus	fosfor
+photo ; photograph	fotografija
+photochemical agent	fotokemični agens
+photochemical oxidant	fotokemični oksidant
+photochemical pollution	fotokemično onesnaženje
+photochemical product	fotokemični produkt
+photochemical reaction	fotokemična reakcija
+photochemical smog	fotokemični smog
+photodegradation	fotorazgradljivost
+photogrammetry	fotogrametrija
+photography	fotografija
+photosynthesis	fotosinteza
+physical alteration	fizikalna sprememba
+physical chemistry	fizikalna kemija
+physical conditions	fizikalne razmere
+physical geography	fizična geografija
+physical measurement of pollution	fizikalne meritve onesnaženosti
+physical planning	prostorsko načrtovanje
+physical pollutant	fizikalno onesnaževalo
+physical pollution	fizikalno onesnaženje
+physical process	fizikalni proces
+physical property	fizikalna lastnost
+physical science	fizikalne vede
+physical treatment	fizikalna obdelava
+physicochemical analysis	fizikalnokemična analiza
+physicochemical process	fizikalno-kemični proces
+physicochemical purification	fizikalno-kemično čiščenje
+physicochemical treatment	fizikalno-kemijska obdelava
+physics	fizika
+physiology	fiziologija
+phytomass	rastlinska biomasa
+phytopathology	fitopatologija
+phytoplankton	fitoplankton
+phytosanitary treatment	fitosanitarno čiščenje vode
+phytosociology	fitosociologija
+phytotoxicity	strupenost/toksičnost rastlin, fitotoksičnost
+pickling plant	obrat za dekapiranje
+pigeon ; dove	golob
+piggery	svinjak
+pike ; spear	kopje
+pilot plant	pilotni obrat
+pilot project	pilotni projekt
+pilotage	pilotiranje
+pinniped	plavutonožci (Pinnipedia)
+pino ; pine	bor
+pipe	cev
+pipeline	cevovod
+pituitary gland	hipofiza
+pixel	točka ; točka, piksel ; piksel
+plain	ravan ; ravnica ; ravnina
+plan	načrt
+plane source	ploskovni vir onesnaženja
+plankton	plankton
+planning	načrtovanje
+planning law	zakonodaja s področja (prostorskega) načrtovanja
+planning measure	načrtovalski ukrep
+planning permission	dovoljenje za načrtovanje
+plant	rastlina
+plant biology	biologija rastlin
+plant breeding	gojenje rastlin
+plant community	rastlinska združba
+plant component	del rastline
+plant disease	rastlinska bolezen
+plant ecology	ekologija rastlin
+plant equipment	proizvodna oprema
+plant heritage	rastlinska dediščina
+plant physiology	fiziologija rastlin
+plant population	rastlinska populacija
+plant production	rastlinska proizvodnja
+plant protection	zaščita rastlin
+plant protection product	sredstvo za zaščito rastlin
+plant reproduction	razmnoževanje rastlin
+plant resource	rastlinski vir
+plant selection	selekcija rastlin
+plant species	rastlinska vrsta
+plant species reintroduction	ponovna naselitev rastlinskih vrst
+plant textile fibre	rastlinsko tekstilno vlakno
+plant trade	trgovanje z rastlinami
+planting	sajenje
+plasma technology	tehnologija plazme
+plastic	plastika
+plastic waste	plastični odpadki
+platinum	platina
+pleasure cruising	križarjenje
+plutonium ; plutonium ; plutonium	plutonij ; plutonij ; plutonij
+point	točka
+point source	točkovni vir onesnaženja
+poison	strup
+poisoning	zastrupitev
+polar region	polarno območje
+polder	polder
+police	policija
+police law	zakon o policiji
+police power	policija
+policy	politika ; politika, usmeritev, strategija ; usmeritev ; strategija
+policy guideline	smernica za politiko
+policy instrument	inštrument politike
+policy integration	politika povezovanja/vključevanja
+policy planning	načrtovanje politike
+political counselling	politično svetovanje
+political doctrine	politična doktrina
+political ecology	politična ekologija
+political geography	politična geografija
+political ideology	politična ideologija
+political organisation	politična organizacija
+political power	politična moč
+politics	politika
+pollen	pelod
+pollutant	onesnaževalo
+pollutant absorption	absorpcija onesnaževal
+pollutant accumulation	akumulacija onesnaževal
+pollutant analysis	analiza onesnaževal
+pollutant assessment	ocena/presoja onesnaževal
+pollutant concentration	koncentracija onesnaževal
+pollutant degradation	razgradnja onesnaževal
+pollutant deposition	usedanje onesnaževal
+pollutant dispersion	širjenje onesnaževal
+pollutant distribution	porazdelitev onesnaževal
+pollutant elimination	odstranjevanje onesnaževal
+pollutant emission	emisije onesnaževal
+pollutant evolution	razvoj onesnaževala
+pollutant exposure	izpostavljenost onesnaževalom
+pollutant flow	gibanje/tok onesnaževal
+pollutant formation	nastajanje onesnaževal
+pollutant immission	imisije onesnaževal
+pollutant immobilisation	imobilizacija onesnaževal
+pollutant migration	širjenje onesnaženja
+pollutant monitoring	monitoring onesnaženja
+pollutant pathway	pot onesnaževala
+pollutant reduction	zmanjševanje onesnaženja
+pollutant remobilisation	ponovna mobilizacija onesnaževal
+polluted matter	onesnažena snov
+polluted site	onesnažen predel
+polluter-pays principle	načelo "onesnaževalec plača"
+pollution	onesnaženje ; onesnaževanje
+pollution abatement	zmanjševanje onesnaženja
+pollution abatement equipment	oprema za zmanjševanje onesnaženja
+pollution abatement waste	odpadki od zmanjševanja onesnaženja
+pollution control	ukrepi za zmanjševanje onesnaženja
+pollution control equipment	oprema za omejevanje onesnaževanja
+pollution control investment	naložba za preprečevanje onesnaževanja ali za izboljšanje okolja
+pollution control measure	ukrep za preprečevanje onesnaževanja
+pollution control technology	tehnologija za zmanjševanje onesnaževanja
+pollution cost	stroški onesnaženja
+pollution effect	vpliv onesnaženja
+pollution indicator	kazalec/indikator onesnaženja
+pollution insurance	zavarovanje za primer onesnaženja
+pollution liability	odgovornost za onesnaženje
+pollution load	obremenjenost zaradi onesnaženja
+pollution measurement	meritve onesnaženja
+pollution monitoring	monitoring (spremljanje, opazovanje) onesnaževanja
+pollution norm	normativ onesnaženja
+pollution prevention	preprečevanje onesnaževanja
+pollution risk	tveganje onesnaženja
+pollution type	vrsta onesnaženja
+polybrominated biphenyl	polibromirani bifenil
+polychlordibenzo-p-dioxin	poliklordibenzo - p - dioksin
+polychlorinated biphenyl	poliklorirani bifenil, PCB
+polychlorinated dibenzofuran	poliklorirani dibenzofuran
+polychlorinated terphenyl	poliklorirani terfenil
+polycyclic aromatic hydrocarbon	policiklični aromatski ogljikovodik, PAH
+polycyclic hydrocarbon	policiklični ogljikovodik
+polyethylene terephtalate	polietilen tereftalat (PET)
+polygon	poligon, mnogokotnik
+polymer	polimer
+polymerisation	polimerizacija
+polyvinyl chloride	polivinil klorid
+pond	ribnik
+pool ; puddle ; puddle	mlaka
+pope	papež
+population	populacija
+population density	gostota prebivalstva
+population dynamics	gibanje prebivalstva
+population ecology	populacijska ekologija
+population growth	rast prebivalstva
+population movement	gibanje prebivalstva
+population structure	struktura prebivalstva
+population trend	demografski trend
+porcelain	porcelano
+poriferan	spužve (Porifera)
+posidonia ; neptunegrass	pozejdonka
+positron	pozitron
+post-treatment	dodatno čiščenje
+potash	pepelika
+potassium	kalij
+potassium fertiliser	kalijevo gnojilo
+potato ; patato	krompir
+poultry	perutnina
+poultry farming	perutninarstvo
+poverty	revščina
+power (physics) ; power	moč
+power company	podjetje za proizvodnjo in distribucijo električne energije
+power station	elektrarna
+power station derating	dekomisija elektrarne
+power-heat relation	razmerje med močjo in toploto
+praseodymium	prazeodim
+pre-emption	predkup, predkupna pravica ; predkup ; predkupna pravica
+pre-emption zone	območje s predkupno pravico
+precautionary principle	načelo previdnosti
+precipitation ; precipitation (chemical)	precipitacija, usedanje ; usedanje ; precipitacija
+precipitation enhancement	povečanje količine padavin
+precision engineering	inženirstvo precizne tehnike
+predator	plenilec
+prefabricated building	montažni objekt
+preliminary proceedings	preliminarni postopki
+premium	(zavarovalna) premija ; premija
+preparation for market	priprava za vstop na trg
+prescription	priposestvovanje
+preservation of evidence	hranjenje dokazov
+preservative	konzervans, sredstvo za konzerviranje
+preserve	konzervirana hrana, konzerva
+press	tisk
+pressing	stiskanje
+pressure	tlak, pritisk
+pressure equipment	tlačna oprema
+pressure group	interesna skupina, lobi
+prevention measure	preprečevalni ukrep
+prevention of forest fires	preprečevanje gozdnih požarov
+preventive health measure	preventivni zdravstveni ukrep
+preventive information	preventivne informacije
+price	cena
+prices policy	cenovna politika
+pricing policy of resources	politika določanja cen naravnih virov
+primary education	osnovno šolstvo
+primary energy consumption	poraba primarne energije
+primary forest	prvotni gozd, naravni gozd
+primary sector	primarni sektor
+primary treatment	primarno čiščenje
+primate	primat
+prime number ; prime	praštevilo
+principle of sustainability	načelo trajnosti
+printing work	tiskanje
+prisoner of war ; POW ; PoW ; PW	vojni ujetnik
+private car	osebno vozilo
+private domain	zasebna lastnina
+private forest	zasebni gozd
+private household	gospodinjstvo
+private international law	mednarodno zasebno pravo
+private law	zasebno pravo
+private sector	zasebni sektor
+private transport	prevoz z zasebnimi vozili
+privatisation	privatizacija
+proboscidean	trobčarji (Proboscidea)
+procaryote	prokarioti (Prokaryota)
+procedural law	procesno pravo
+process analysis	analiza procesa
+process technology	procesna tehnologija
+process water	tehnološka voda
+processed agricultural produce	predelani kmetijski pridelek
+processed foodstuff	obdelana živila
+processing	obdelava, predelava
+producer liability	odgovornost proizvajalca
+product	izdelek, proizvod
+product advertising	oglaševanje
+product comparison	primerjava izdelkov
+product evaluation	ocenjevanje/vrednotenje izdelkov
+product identification	označevanje izdelkov
+product information	informacije o izdelku
+product liability	odgovornost za izdelke
+product life cycle	življenjski cikel izdelka
+product standard	standard za izdelke
+production policy	proizvodna politika
+productivity	storilnost, produktivnost
+productivity trend	gibanje storilnosti
+profit	dobiček
+prognostic data	prognostični podatki
+programme	program
+progress line	tokovni diagram
+prohibition	prepoved
+project	projekt
+promethium	prometij
+promotion of trade and industry	pospeševanje trgovine in industrije
+propagation process	proces širjenja
+propellant	pogonski plin
+properties of materials	lastnosti materialov
+property protection	varovanje lastnine
+propulsion technique	tehnika gibanja
+prosecution	sodni postopek, kazenskopravni pregon, tožba ; sodni postopek ; kazenskopravni pregon ; tožba
+prosperity	blaginja, napredek ; blaginja ; napredek
+prostate	prostata
+protected area	zavarovano območje
+protected landscape	zavarovana pokrajina/krajina
+protected marine zone	zavarovano morsko območje
+protected species	zavarovana vrsta
+protection from neighbours	zaščita pred sosedi
+protection of animals	varstvo živali
+protection of birds	varovanje ptic
+protection of species	varovanje vrst
+protection system	sistem varovanja
+protective measure	zaščitni ukrep
+protein ; poly peptide	beljakovina ; protein
+protein product	proteinski izdelek
+protocol	protokol
+protozoan	praživali
+province	provinca, pokrajina
+provincial/regional authority (D) ; regional authority ; provincial authority	regionalna oblast/uprava
+provincial/regional law (D) ; regional legislation	regionalni zakon
+pruning	klestenje, obrezovanje
+psychic effect	psihični učinek
+psychological effect	psihološki učinek
+psychological stress	psihološka preobremenitev
+psychology	psihologija
+psychosomatic effect	psihosomatski učinek/vpliv
+psychosomatic illness	psihosomatska bolezen
+public	javnost
+public access to land	javna dostopnost površin
+public action	delovanje v imenu javnosti
+public aid	pomoč/podpora javnosti
+public attendance	udeležba javnosti
+public awareness campaign	kampanja ozaveščanja javnosti
+public bath	javno kopališče
+public benefit inquiry	preiskava o javnem interesu
+public building	javna zgradba
+public contract	javna pogodba
+public debt	javni dolg
+public discussion	javna razprava
+public domain	javna/družbena lastnina, dobrine v splošni rabi
+public expenditure	javna poraba
+public finance	javne finance
+public financing	javno financiranje
+public function	javna funkcija
+public health	splošno zdravstveno varstvo
+public hearing	javna obravnava
+public information	javne informacije
+public inquiry	preiskava o javnem interesu
+public institution	javna ustanova/inštitucija
+public institution of administrative nature	upravna javna ustanova
+public institution of industrial and commercial nature	gospodarska javna ustanova
+public international law	mednarodno javno pravo
+public law	javno pravo
+public maritime domain	javno morje
+public opinion	javno mnenje
+public opinion polling	javnomnenjska raziskava
+public park	javni park
+public participation	udeležba javnosti
+public procurement	javne nabave
+public prosecutor's office	javno/državno tožilstvo
+public relations	odnosi z javnostjo
+public sector	javni sektor
+public transport	javni prevoz
+public transport vehicle	javno prometno sredstvo
+public utility	komunalna služba/podjetje
+public waterways domain	javne vode
+public works	javna dela
+public-private partnership	partnerstvo med javnim in zasebnim sektorjem
+pulmonary disease	pljučna bolezen
+pump	črpalka
+pumping	črpanje
+purification	prečiščevanje, čiščenje
+purification facility	čistilna naprava
+purification plant	čistilna naprava
+purification through the soil	čiščenje skozi tla
+purifying power	samočistilna sposobnost
+purin	purin
+pyralene	piralen
+pyrolysis	piroliza
+quadrilateral	četverokotnik
+quality assurance	zagotavljanje kakovosti
+quality certification	certifikat kakovosti
+quality control	ugotavljanje in zagotavljanje kakovosti
+quality objective	cilj visoke kakovosti
+quality of life	kakovost življenja
+quality standard	standard kakovosti
+quarry	kamnolom
+quarrying	pridobivanje kamna
+quartering	razčetverjenje
+queen	kraljica
+question	vprašanje
+rabbit	králik
+race relations	odnosi med rasami
+racking	dekantiranje
+radar	radar
+radiation ; radiations	sevanje
+radiation damage	škoda, ki jo povzroči sevanje
+radiation dose	radiacijska doza, doza obsevanja ; radiacijska doza ; doza obsevanja
+radiation effect	vpliv sevanja
+radiation exposure	izpostavljenost sevanju
+radiation physics	fizika sevanja
+radiation protection	zaščita pred sevanjem
+radiation protection law	zakon o zaščiti pred sevanjem
+radiation sickness	radiacijska bolezen
+radio	radio
+radio programme	radijski program
+radioactive contamination	radioaktivna kontaminacija
+radioactive decontamination	radioaktivna dekontaminacija
+radioactive dumping	odlaganje radioaktivnih odpadkov
+radioactive emission	emisije radioaktivnih snovi ; radioaktivne emisije
+radioactive fallout	radioaktivne padavine/usedline
+radioactive pollutant	radioaktivno onesnaževalo
+radioactive substance	radioaktivna snov
+radioactive tracer	radioaktivno sledilo
+radioactive waste ; nuclear waste	radioaktivni odpadki
+radioactivity ; radioactive decay	radioaktivnost
+radioelement	radioaktivni element
+radionuclide	radionuklid
+radium	radij
+radon	radon
+rag	tekstilni odpadek
+rail traffic	železniški promet
+rail transport	železniški prevoz
+railroad vehicle ; carriage ; wagon	železniško vozilo
+railway	železnica
+railway network	železniško omrežje
+railway station	železniška postaja
+rain	dež
+rain forest	deževni gozd
+rain water	deževnica
+rain water sewer system	kanalizacija za meteorno vodo
+rainbow	mavrica
+rainout	kondenzacija
+raising a site	zvišanje terena
+random test	preskušanje naključno izbranih vzorcev, naključni preskus
+rape	oljna repica
+rapid test	hitri preskus
+rapid transit train	hitri medmestni vlak
+rare species	redka vrsta
+raster	raster
+raster to vector	vektorizacija
+rate	hitrost ; hitrost, stopnja ; stopnja
+raw material	surovina
+raw material consumption	poraba surovin
+raw material securing	zagotavljanje surovin
+raw water	neprečiščena voda
+reaction kinetics	reakcijska kinetika
+reactor	reaktor
+reactor safety	reaktorska varnost
+read	brati
+reality	resničnost
+reasonableness	razumnost
+reclamation industry	predelava odpadkov
+recombinant DNA technology	rekombinantna DNA tehnologija
+recommendation	priporočilo
+recorder	kljunasta flavta
+recording of substances	beleženje snovi
+recovery of landscape	revitalizacija/sanacija pokrajine
+recovery plan	načrt ponovne vzpostavitve, revitalizacijski/sanacijski načrt
+recreation	rekreacija
+recreational area	rekreacijsko območje
+recyclability	primernost za recikliranje
+recyclable plastic	plastika, primerna za recikliranje
+recycled material	reciklirani material
+recycled paper	reciklirani papir
+recycling	recikliranje
+recycling management and waste law	zakon o recikliranju in odpadkih
+recycling potential	možnosti za recikliranje
+recycling ratio	stopnja recikliranja
+red kite	rjavi škarnik ; rdeči škarnjek ; rjavi škarjek
+red tide	rdeča plima
+redress	povračilo/nadomestilo škode, odškodnina
+reed	trsje
+reef	čer
+reference service	referenčne storitve
+referendum ; plebiscite	plebiscit
+referral information	referenčne informacije
+referral information system	referenčni informacijski sistem
+refinery	rafinerija
+refining	rafiniranje
+reflection	odboj
+reflectometry	reflektometrija
+reforestation	pogozdovanje
+refrigerant	hladilo
+refrigeration	hlajenje
+refrigeration industry	hladilna industrija
+refrigerator	hladilnik
+refrigerator ; fridge	hladilnik
+refuge	pribežališče, refugij ; pribežališče ; refugij
+refugee	begunec
+refuse collection vehicle	vozilo za zbiranje odpadkov
+refuse derived fuel	gorivo iz odpadkov
+refuse shredder	drobilec odpadkov
+refuse-sludge compost	kompost iz blata čistilnih naprav
+regeneration	obnova, regeneracija
+region	regija
+regional authority	regionalna oblast/uprava
+regional convention	regionalna konvencija
+regional development	regionalni razvoj
+regional law	regionalni zakon ; regionalni zakon, regionalna zakonodaja ; regionalna zakonodaja
+regional natural park	regijski naravni park
+regional plan	regionalni načrt
+regional planning	regionalno načrtovanje
+regional regulation	regionalni predpis
+regional statistics	regionalna statistika
+regional structure	regionalna struktura
+registered site	razglašeno zavarovano območje
+registration	registracija, vpis v register, prijava ; registracija ; vpis v register ; prijava
+registration obligation	obveznost registracije
+registration proceeding	postopek registracije
+regulation	predpis, ukrep, uredba ; uredba ; predpis ; ukrep
+regulation of agricultural production	predpis o kmetijski proizvodnji
+regulation on maximum permissible limits	zakonodaja o najvišjih dopustnih mejah
+regulative law	regulativna zakonodaja
+rehousing	nova/nadomestna stanovanjska gradnja
+reintroduction	ponovno uvajanje/naseljevanje
+relational database	relacijska podatkovna baza
+release of organisms	vnos/naselitev organizmov
+relief (land)	relief
+religion	vera, religija ; religija ; vera
+remote sensing	daljinsko zaznavanje, zaznavanje na daljavo
+remote sensing centre	center za daljinsko zaznavanje
+removal	odstranitev
+renaissance	renesansa
+renaturation	renaturacija
+renewable energy source	obnovljiv vir energije
+renewable raw material	obnovljiva surovina
+renewable resource	obnovljiv naravni vir
+repair business	popravljalne storitve
+replacement	nadomestilo
+replacement cost	nadomestitveni stroški
+report on the state of the environment	poročilo o stanju okolja
+report to the minister	poročilo ministru
+reporting process	proces informiranja/obveščanja/poročanja
+representation	zastopanje
+repression	uporaba prisilnih ukrepov
+reprocessing	predelava za ponovno uporabo
+reproduction	razmnoževanje, reprodukcija
+reproductive manipulation	reproduktivna manipulacija
+reptile ; reptile ; reptile	plazilci (Reptilia) ; plazilci (Reptilia) ; plazilci (Reptilia)
+rescue service	reševalna služba
+rescue system	reševalni sistem
+research	raziskava ; raziskovanje
+research centre	raziskovalno središče
+research of the effects	preučevanje vplivov
+research policy	raziskovalna politika
+research project	raziskovalni projekt
+reserve	rezervat
+reservoir	akumulacija/zadrževalnik
+residential area	stanovanjsko naselje/območje
+residential area with traffic calmings	stanovanjsko območje s hitrostnimi ovirami
+residential building	stanovanjska zgradba
+residual amount of water	preostala voda
+residual pesticide	ostanki pesticidov
+residual risk	preostalo tveganje
+residual waste	preostali odpadki
+residual waste sludge	ostanki odpadnega blata
+residue analysis	analiza ostankov
+residue of grinding	ostanki pri mletju
+residue recycling	recikliranje ostankov
+resin	smola
+resinous plant	smolnata rastlina
+resistance (biological) ; resistance	odpornost, rezistenca
+resolution	odločitev ; resolucija ; sklep
+resolution ; resolution (parameter)	ločljivost, resolucija
+resorption	vpijanje
+resource ; resources	(naravni) vir ; viri
+resource appraisal	ocena (razpoložljivih) virov
+resource conservation	ohranjanje/varovanje virov
+resource exploitation	izkoriščanje virov
+resource reserve	zaloge virov
+resource utilisation	raba naravnih virov
+resources management	gospodarjenje z viri
+respiration	dihanje
+respiratory air	vdihani in izdihani zrak
+respiratory disease	bolezen dihal
+respiratory system	dihalni sistem
+retaining reservoir	vodna akumulacija
+reverse osmosis	reverzna osmoza
+rhenium	renij
+rhino ; rhinoceros	nosorog
+rhodium	rodij
+rice	riž
+rising sea level	dviganje morske gladine
+risk communication	izmenjava informacij o okoljskem tveganju
+river	reka
+river bed	rečna struga
+river water	rečna voda
+road	cesta
+road network	cestno omrežje
+road salt	sol za posipavanje cest
+rock	kamnina
+rodent	glodalci (Rodentia)
+rolling noise	hrup avtomobilskih pnevmatik
+roof ; roof ; roof	streha
+root	korenina
+rose	vrtnica
+rotary furnace	rotacijska peč
+route	pot, smer, proga, trasa ; trasa ; pot ; smer ; proga
+rubber	guma ; kavčuk
+rubidium	rubidij
+ruby	rubin
+rural area	podeželsko območje
+ruthenium	rutenij
+rutherfordium	rutherfordij
+sacrifice	žrtev
+safety ; security	varnost
+safety measure	varnostni ukrep
+sahara	sahara
+salamander	močerad
+salmon	losos
+salt	sol
+salt water	slana voda
+samarium	samarij
+sand	pesek
+sand dune	peščena sipina
+sanitary fitting	sanitarna oprema, sanitarije
+satellite	satelit
+sawdust	žaganje, žagovina
+saxophone	saksofon
+scandium	skandij
+school	šola
+science	veda ; znanost
+scientific co-operation	znanstveno sodelovanje
+scientific dispute	znanstvena razprava
+scientific research	znanstvena raziskava
+screw	vijak
+screwdriver	izvijač
+sea	morje ; morje
+sea level	morska gladina
+sea water	morska voda
+seaborgium	siborgij
+seashore	morska obala
+season	letni čas
+secondary education	srednješolsko izobraževanje
+secret	skriven
+sediment	usedlina, sediment ; usedlina ; sediment
+sedimentation (geology) ; sedimentation	usedanje ; usedanje (geologija)
+sedimentology	sedimentologija
+seed	seme
+seismic activity	potresna aktivnost
+seismic sea wave ; tsunami	potresni morski val
+selenium	selen
+semi-metal	polkovina
+semiconductor	polprevodnik
+separator	separator
+server	strežnik ; strežnik ; strežnik ; strežnik ; strežnik ; strežnik ; strežnik ; strežnik ; strežnik
+sew	šiti
+sewage farm	polje za čiščenje odpadne vode
+sheep	ovca
+shellfish ; shellfish	školjke (Bivalvia) ; školjke
+ship	ladja
+shoe	čevelj
+shop	trgovina, prodajalna
+shopping centre	nakupovalno središče
+shrub	grm, grmičje
+side effect	stranski učinek
+silicon	silicij
+silt	mulj
+silver	srebro
+simulation	simulacija
+ski run	smučišče
+skiing	smučanje
+skin	koža
+skull	lobanja
+slag	žlindra
+slaughter	klati
+slaughter-house	klavnica
+slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles	klavnica
+sleep	spanec ; spanje
+sleep disturbance	motnje spanca
+slipper	copati
+slope	pobočje
+sludge	blato
+smog	smog
+smog warning	opozorilo o onesnaženosti s smogom
+smoke	dim
+smoking	kajenje
+snake	kače (Ophidia) ; kače
+snow	sneg
+snowslide	snežni plaz
+soaking	namočenje, prepojitev ; namočenje ; prepojitev
+soap	milo
+social behaviour	socialno/družbeno vedenje
+social group	družbena skupina
+social protection	socialna zaščita
+social psychology	socialna psihologija
+social science	družbene vede
+social survey	družbena analiza/raziskava
+social welfare	socialno skrbstvo, družbena blaginja
+society	družba
+socioeconomic aspect of human settlements	družbenogospodarski vidik naselij
+sociology	sociologija
+sodium	natrij
+software	programska oprema, softver ; programska oprema ; softver
+software development	razvoj programske opreme
+soil	tla ; tla, prst, zemlja ; zemlja ; prst
+soil fertilisation	gnojenje tal
+soil fertility	rodovitnost tal/prsti
+soil science	pedologija
+solar cell	sončna celica
+solar collector	sončni zbiralnik
+solar energy	sončna energija
+solar energy technology	tehnologija sončne energije
+solar power station	sončna elektrarna
+solar radiation	sončno sevanje
+solubility	topnost
+solvent	solvent, topilo
+songbird	ptica pevka
+soot	saje
+sorption	sorpcija
+sound	zvok
+sound measurement	merjenje jakosti/ravni zvoka
+space ; space ; space (interplanetary) ; interplanetary space	medplanetarni prostor, vesolje ; vesolje ; medplanetarni prostor
+space travel	vesoljski polet
+spasmodic croup	spazmodični krup
+species	vrsta
+speech	govor, nagovor ; govor ; nagovor
+speed	hitrost
+spider	pajek
+spider	pajki (Araneae) ; pajek ; pajki
+spinach	špinača
+sport	šport
+spring ; spring (hydrology, land)	izvir (hidrologija, tla) ; izvir
+spring water	izvirska voda
+square	trg
+stage	oder
+standard	standard, normativ ; standard ; normativ
+staple food	osnovna hrana, osnovno živilo
+star	zvezda
+starch	škrob
+station	postaja, postajališče ; postaja ; postajališče
+statistics	statistika
+steam generator	generator pare
+steel	jeklo
+sterilisation	sterilizacija
+steroid	steroid
+stocking	skladiščenje
+stone	kamen
+stork	štorklja
+storm ; tempest	nevihta ; vihar
+story	zgodba
+stove	peč
+strawberry	jagoda
+stress	stres
+strontium	stroncij
+subject ; topic	predmet, tema ; predmet ; tema
+submarine	podmornica
+subsidence	posedanje
+subsidy	subvencija
+suburb	predmestje
+sugar	sladkor
+suicide	samomor
+sulphur	žveplo
+sulphur concentration	koncentracija žvepla
+sulphur dioxide	žveplov dioksid
+supply	ponudba
+supply and demand	ponudba in povpraševanje
+surface tension	površinska napetost
+surgery	kirurgija
+swans, geese and ducks	labodi, gosi in race (Anatidae) ; labodi, gosi in race
+sweet	sladek
+sweetener	sladilo
+sword	meč
+symbiosis	simbioza, sožitje
+synagogue	sinagoga
+syndrome	sindrom
+synecology	sinekologija
+syphilis	sifilis
+table	miza
+tadpole ; polliwog	paglavec
+tanker	cisterna (tovornjak)
+tanker ; tanker (ship)	tanker (ladja) ; tanker
+tannin	tanin
+tantalum	tantal
+target group	ciljna skupina
+tax	davek, taksa
+taxonomy	taksonomija
+tea	čaj
+teach	učiti
+teaching	poučevanje
+technetium	tehnecij
+technology	tehnologija
+technology transfer	prenos tehnologije
+telecommunications ; telecommunication	telekomunikacije
+telemetry	telemetrija
+television	televizija
+television programme	televizijski program
+tellurium	telur
+temperature	temperatura
+tennis	tenis
+teratogen	teratogena snov
+terbium	terbij
+terminology	izrazje, terminologija ; terminologija ; izrazje
+termite	termit
+territory	območje, ozemlje ; ozemlje ; območje
+tertiary sector	storitveni sektor
+test	preizkus ; preskus ; test
+textile industry	tekstilna industrija
+textile plant	tekstilna rastlina
+thallium	talij
+theocracy	teokracija
+theology	teologija
+therapy	terapija, zdravljenje ; terapija ; zdravljenje
+thermal equipment	termalna oprema
+thermal power plant	termoelektrarna
+thermodynamics	termodinamika
+thesis	teza
+thumb	palec
+thunderstorm	neurje ; nevihta
+tidal power station	elektrarna na plimovanje
+tidal water	voda pod vplivom plimovanja
+tiger	tiger
+timber forest	lesnoproizvodni gozd
+time	čas, obdobje ; obdobje ; čas
+timezone	časovni pas
+tin	kositer
+tissue	tkivo
+titanium	titan
+titanium dioxide	titanov dioksid
+toad	krastače (Bufonidae)
+tobacco	tobak
+toe	prst ; prst
+together	skupaj
+tomato	paradižnik
+tomorrow	jutri
+topography	topografija
+topology	topologija
+tornado	tornado
+torpedo	torpedo
+tortoise	kopenska želva
+tourism	turizem
+toxic metal	strupena kovina
+toxic substance	strupena/toksična snov
+toxicity	strupenost, toksičnost ; strupenost ; toksičnost
+toxicology	toksikologija
+toxin	toksin
+trace element	sledni element
+tracheophyte ; vascular plant	praprotnice in cvetnice
+trade	trgovanje ; trgovina
+trade and consumption	prodaja in potrošnja
+trades union	sindikat
+traffic	promet
+traffic noise	prometni hrup
+train	vlak
+training	izobraževanje, usposabljanje
+training centre	izobraževalno središče
+trajectory	pot izstrelka, trajektorija
+transition element ; transition metal	prehodni element
+transpiration	transpiracija
+transport	transport
+transport ; transportation	prevoz
+travel	potovanje
+treaty	meddržavni sporazum
+tree	drevo
+tritium	tritij
+trolley bus ; trolleybus	trolejbus
+trophic level	trofični nivo
+trophy	trofeja
+tropical forest	tropski gozd
+tropical plant	tropska rastlina
+tropical rain forest	tropski deževni gozd
+tropics ; torrid zone	tropi, tropski pas ; tropi ; tropski pas
+trousers	hlače
+trout	postrv
+trumpet	trobenta
+truth	resnica
+tulip	tulipan
+tundra	tundra
+tungsten	volfram
+tunnel	predor
+turbidity	kalnost, motnost
+turbine	turbina
+turkey	puran
+twin	dvojček
+typhoon	tajfun
+tyre	pnevmatika
+ultraviolet radiation	ultravijolično sevanje
+underground railway	podzemna železnica
+underground train	podzemni vlak
+unemployment	brezposelnost
+ungulate	kopitarji (Ungulata)
+university ; university ; academy	univerza ; univerza
+ununoctium	ununoktij
+upbringing	vzgoja
+uranium	uran
+urbanisation	urbanizacija
+urine	seč
+ursid	medved
+useful	uporaben
+valley	dolina
+valuable	vredno
+vanadium	vanadij
+vandalism	vandalizem
+vapour pressure	parni tlak
+vector	vektor
+vegetable	zelenjava
+vegetable oil	rastlinsko olje
+vehicle	vozilo
+ventilation	prezračevanje
+verb	glagol
+vertebrate	vretenčar
+veteran	veteran
+veterinarian ; veterinary	živinozdravník
+village	vas
+vinasse	usedlina pri destilaciji melase
+vinegar	kis
+virology	virologija
+virus	virus
+viscosity	viskoznost
+vitamin	vitamin
+vocabulary	slovar
+volatile substance	hlapna snov
+volatility	hlapnost
+volcanic eruption	ognjeniški izbruh
+volcanism	vulkanizem
+volcano	ognjenik, vulkan ; ognjenik ; vulkan
+volleyball	odbojka
+voting	glasovanje
+vulcanisation	vulkanizacija
+wall	zid
+walrus	mrož
+war	vojna
+warm-blooded animal	toplokrvna žival
+waste	odpadek
+waste bin	zabojnik za odpadke
+waste disposal act	zakon o odstranjevanju odpadkov
+waste dump	odlagališče odpadkov
+waste paper	odpadni papir
+waste water	odpadna voda
+waste water purification	čiščenje odpadne vode
+water	voda
+water ; body of water	voda
+water aeration	prezračevanje vode
+water cost	stroški oskrbe z vodo
+water desalination	razsoljevanje vode
+water flea	vodna bolha
+water level	vodostaj
+water mill	mlin
+water protection legislation	zakonodaja o varstvu vode
+water pump	vodna črpalka
+water reservoir	vodni zbiralnik, vodna akumulacija
+water resource	vodni vir
+water salination	zasoljevanje vode
+water supply	oskrba z vodo
+water treatment	čiščenje vode
+water well	vodnjak
+waterfall	slap
+waterfowl	vodne ptice
+watershed	razvodnica, razvodje ; razvodnica ; razvodje
+weapon	orožje
+weather	vreme
+weed	plevel
+weight	teža
+welding	varjenje
+well	izvir, vrelec ; izvir ; vrelec
+whale	kiti (Cetacea) ; kiti
+whaling	kitolov
+whey	sirotka
+white	bel
+wild animal	prostoživeča žival
+wild fauna ; wildlife ; wild animals	prostoživeče živali
+wild plant	prostorastoča rastlina
+wildlife ; 野生生物	prostoživeče živali in rastline
+willow	vrba
+wind	veter
+wind power	energija vetra
+windmill	mlin na veter
+window	okno
+wine	vino ; víno
+witch	čarovnica
+wolf	volk
+wood	gozd
+wood	les
+wood product	lesni proizvod
+wool	volna
+word	beseda
+work accident	nesreča pri delu
+workplace	delovno mesto
+world	svet
+world heritage site	območje svetovne dediščine
+world war	svetovna vojna
+wound	rana
+write	pisati
+wrongful act	nedopustno/nezakonito dejanje
+xenon	ksenon
+xylophone	ksilofon
+yacht	jahta
+yeast	kvas
+yield	letina ; pridelek
+yield	donos
+young	mladič
+ytterbium	iterbij
+zero ; null	nič
+zinc	cink
+zirconium	cirkonij
+zodiac	zodiak
+zoological garden	živalski vrt
+zoology	zoologija
+zoonosis	zoonoza
+Åland Islands	Åland
+återställande ; rehabilitation	sanacija

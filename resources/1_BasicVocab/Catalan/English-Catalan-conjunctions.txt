@@ -1,0 +1,7 @@
+﻿English	Catalan
+and	i
+because	perquè, ja que
+for	car, perquè
+if	si
+or	o, o bé
+than	que

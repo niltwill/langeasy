@@ -1,0 +1,993 @@
+﻿English	Russian
+black	чёрный
+blue	голубой
+brown	коричневый
+gray	серый
+green	зелёный
+orange	оранжевый
+pink	розоватый, розовый
+red	красный
+violet	фиолетовый, тёмно-лиловый
+white	белый
+yellow	жёлтый
+couple	пара
+eight	восемь
+eighteen	восемнадцать
+eighty	восемьдесят
+eleven	одиннадцать
+fifteen	пятнадцать
+fifty	пятьдесят
+first	первый
+five	пять
+forty	сорок
+four	четыре
+fourteen	четырнадцать
+hundred	сто
+million	миллион
+nine	девять
+nineteen	девятнадцать
+ninety	девяносто
+nothing	нуль, ничто
+one	один
+seven	семь
+seventeen	семнадцать
+seventy	семьдесят
+six	шесть
+sixteen	шестнадцать
+sixty	шестьдесят
+ten	десять
+third	третий
+thirteen	тринадцать
+thirty	тридцать
+thousand	тысяча
+thousand	тысяча
+three	три
+twenty	двадцать
+two	два
+arm	рука
+back	большой чан, спина
+beak	клюв
+blood	кровь
+body	торс
+bone	кость
+brain	мозг
+breath	дыхание
+cell	ячейка, клетка
+chest	грудь
+chest	грудная клетка, грудь
+chin	подбородок
+ear	ухо
+eye	глаз
+face	лицо
+finger	палец
+foot	подошва
+forehead	лоб, чело
+gene	ген
+hair	волосы
+hair	волос, ворс
+hand	рука
+head	голова
+heart	сердце
+knee	колено
+leg	нога
+lip	губа
+mouth	уста, рот
+muscle	мускул, мышца
+nail	ноготь
+neck	шея, горло
+nerve	нерв
+nose	нос
+skin	кожа
+stomach	желудок
+tail	хвост
+throat	глотка, зев
+thumb	большой палец
+toe	палец на ноге
+tongue	язык
+tooth	зуб
+wing	крыло
+ant	муравей
+bear	медведь
+bee	пчела
+bird	птица
+cat	кот, кошка
+cow	корова
+dog	собака
+elephant	слон
+fish	рыба
+fly	муха
+goat	козёл, коза
+horse	лошадь, конь
+insect	насекомые
+lion	лев
+monkey	обезьяна
+pig	свинья
+sheep	овца
+snake	змея
+afternoon	время после полудня
+age	возраст
+April	апрель
+August	август
+autumn	осень
+beginning	старт
+century	век
+date	дата, число
+day	день
+December	декабрь
+end	конец
+evening	вечер
+February	февраль
+Friday	пятница
+future	будущее
+hour	час
+January	январь
+July	июль
+June	июнь
+May	май
+midnight	полночь
+minute	минута
+moment	момент, миг
+moment	момент, мгновение
+Monday	понедельник
+month	месяц
+morning	утро
+night	ночь
+November	ноябрь
+now	сейчас
+October	октябрь
+past	прошлое
+pause	перерыв, пауза
+period	период
+present	настоящее
+Saturday	суббота
+season	времена года
+second	секунда
+September	сентябрь
+spring	весна
+summer	лето
+Sunday	воскресенье
+Thursday	четверг
+today	сегодняшний день, сегодня
+tomorrow	завтрашний день, завтра
+Tuesday	вторник
+Wednesday	среда
+week	неделя
+weekend	выходных
+while	момент
+winter	зима
+year	год
+bread	хлеб
+breakfast	завтрак
+butter	масло
+cake	сладкое, пирожное
+cheese	сыр
+chocolate	шоколад
+egg	яйцо
+food	блюдо, питание
+fruit	фрукты
+lunch	обед
+meal	блюдо, еда
+meat	мясо
+oil	масло
+rice	рис
+salad	салат
+salt	соль
+sandwich	сандвич, бутерброд
+sauce	соус
+soup	суп
+sugar	сахар
+sweet	сладость
+beer	пиво
+coffee	кофе
+drink	напиток
+milk	молоко
+milkshake	коктейль
+tea	чай
+water	вода
+wine	вино
+apple	яблоко
+apricot	абрикос
+banana	банан
+blackberry	ежевика
+cherry	вишня
+lemon	лимон
+nut	орех
+orange	апельсин
+peach	персик
+pear	груша
+pineapple	ананас
+plum	слива
+raspberry	малина
+strawberry	земляника
+bean	боб
+cabbage	капуста
+carrot	морковь
+cucumber	огурец
+garlic	чеснок
+olive	маслина
+onion	лук
+parsnip	пастернак
+pea	горох
+potato	картофелина
+radish	редиска
+tomato	помидор, томат
+baby	ребёнок
+birth	рождение
+birthday	день рождения
+boy	мальчик, парень
+brother	брат
+child	ребёнок
+daughter	дочь
+death	смерть
+family	семья
+father	папа, отец
+friend	друг
+girl	девушка, девочка
+grandfather	дедушка
+human	лицо, человек
+husband	муж
+life	жизнь
+man	мужчина, человек
+marriage	брак
+mother	мамочка
+neighbor	сосед
+parent	родитель
+person	лицо, человек
+relationship	родство
+sister	сестра
+son	сын
+wedding	брак
+wedding	брак
+wife	жена
+woman	женщина
+address	адрес
+bathroom	ванная
+bedroom	спальня
+brick	кирпич
+door	дверь, створка
+floor	настил, пол
+floor	этаж
+garage	гараж
+garden	сад
+gate	ворота, калитка
+hall	прихожая, вестибюль
+home	жилище, дом
+house	дом
+kitchen	кухня
+roof	крыша
+room	комната
+shower	душ
+step	ступень
+toilet	уборная, туалет
+wall	стена
+well	колодец
+window	окно
+bed	кровать, постель
+carpet	ковёр
+chair	стул
+cupboard	шкаф
+curtain	занавеска
+desk	письменный стол
+furniture	мебель
+seat	кресло
+shelf	полка
+sink	лохань
+table	стол
+bag	сумка, сумочка
+boot	ботинок
+cloth	ткань
+clothing	одежда
+coat	пальто, пиджак
+collar	воротник, туфля
+hat	шляпа
+jacket	куртка, пиджак
+jewel	драгоценность
+ring	кольцо
+shirt	рубашка
+shoe	ботинок
+skirt	юбка
+sock	носок, гольфы = чулки до колен
+suitcase	чемодан
+tie	галстук
+air	воздух
+animal	животное
+branch	ветвь
+evolution	эволюция, развитие
+farm	ферма
+field	поле
+fire	огонь, пламя
+flower	цветок
+forest	лес
+grass	трава
+leaf	листва
+life	жизнь
+lightning	молния
+moisture	влажность
+nature	природа
+plant	растение
+root	корень
+sex	пол
+sky	небо
+sleep	сон
+smell	запах
+smoke	дым
+spring	источник
+stem	стебель
+stream	поток
+tree	дерево
+wave	волна
+weather	погода
+world	свет, мир
+airport	аэродром, аэропорт
+bank	банк
+bridge	мост
+building	здание
+capital	столица
+castle	замок, кремль
+church	церковь, храм
+cinema	кино, кинотеатр
+city	мегаполис
+factory	завод
+flat	квартира
+hospital	больница
+hotel	гостиница, отель
+library	библиотека
+park	парк, сад
+prison	тюрьма, заточение
+restaurant	ресторан
+road	дорога, путь
+school	школа
+station	станция
+street	улица
+structure	стройка
+subway	метро
+supermarket	супермаркет, универсам
+theater	театр
+town	город
+university	университет, вуз
+village	деревня
+accident	несчастный случай, авария
+boat	лодка
+bus	автобус
+car	автомобиль, машина
+curve	povorod
+express	экспресс
+flight	летание, полёт
+journey	поездка
+passenger	пассажир
+plane	самолёт
+ship	судно, корабль
+skid	буксовка
+track	рельс
+train	поезд
+transport	перевозка, транспорт
+actor	актёр
+actress	актриса
+businessman	бизнесмен
+expert	специалист
+general	генерал
+journalist	журналист, газетный сотрудник
+judge	судья
+leader	лидер
+minister	министр
+musician	музыкант
+photographer	фотограф
+pilot	пилот
+policeman	милиционер
+politician	политик
+president	президент
+professional	профессионал
+representative	заместитель
+sailor	матрос, моряк
+scientist	учёный
+secretary	секретарь, секретарша
+servant	слуга
+soldier	солдат
+writer	писатель
+bank	берег
+beach	пляж
+current	течение, поток
+direction	направление
+Earth	Земля
+east	выход
+height	высота
+hill	взгорье, холм
+island	остров
+lake	озеро
+land	земля, почва
+map	карта
+Moon	месяц
+north	север
+plain	равнина
+region	район
+river	река
+sea	море
+south	юг
+space	космос
+star	звезда
+sun	солнце
+west	запад
+cloud	облако
+dew	роса
+fog	туман
+frost	иней
+rain	дождь
+rainbow	радуга
+snow	снег
+storm	буря
+thunder	гром
+wind	ветер
+acid	кислота
+chemical	химикат
+chemical element	элемент
+coal	уголь
+cotton	хлопок
+dust	пыль
+earth	земля
+fat	жир
+glass	стекло
+glue	клей
+grain	зерно
+ice	лёд
+iron	железо
+leather	кожа
+liquid	жидкость
+matter	вещество
+metallic element	металл
+oil	нефть
+poison	яд, отрава
+powder	порошок
+sand	песок
+silk	шёлк, шелк
+soap	мыло
+steel	сталь
+wood	дерево
+wool	волна, шерсть
+bag	мешок
+basket	корзина
+bottle	бутылка
+box	коробка
+can	консерва
+cup	чашка
+drawer	ящик
+envelope	конверт
+glass	стакан
+plate	тарелка
+bell	колокол
+button	кнопка
+gun	оружие
+hammer	молоток
+hook	крючок
+key	ключ
+lock	замок
+match	спичка
+nail	гвоздь
+needle	иголка, игла
+pump	насос
+rope	канат
+scissors	ножницы
+spring	пружина
+stamp	печать, штемпель
+whip	бич
+addition	сложение
+angle	угол
+area	пространство
+center	центр
+circle	круг
+curve	кривая, дуга
+degree	степень
+degree	уровень
+difference	разница
+distance	расстояние
+division	разделение
+edge	кромка, край
+element	элемент
+function	функция
+half	половина
+limit	граница, лимит
+line	черта, линия
+net	сплетение
+order	порядок
+outside	наружность, внешность
+percent	процент
+point	точка
+purpose	намерение, цель
+result	результат
+root	корень
+rule	правило, предписание
+set	множество
+side	сторона
+square	квадрат
+square	вторая степень
+substitution	замена
+surface	поверхность
+total	итог, сумма
+ability	способность
+act	дело
+action	поступок, действие
+activity	деятельность
+addition	дополнение
+amount	количество
+attack	набег
+attempt	надсада
+attitude	точка зрения
+back	задняя страница
+behavior	поведения
+bit	кусок
+blow	удар
+break	пауза, перерыв
+campaign	кампания
+case	случай
+chance	возможность
+change	перемена
+choice	выбор
+condition	состояние
+connection	подключение
+connection	соединение
+crack	брешь
+crush	раздробление
+cut	срез
+damage	поломка
+danger	опасность
+death	смерть
+decoration	декорация
+defense	оборона
+destruction	разрушение
+detail	подробность, деталь
+dominance	перевес
+drop	капля
+duty	повинность
+effort	старание
+fall	падение
+feature	способность
+fight	борьба
+front	передняя часть
+hit	удар
+hole	дыра
+increase	рост
+increase	прирост
+internet	интернет
+jolt	удар
+kick	пинок
+kind	вид
+knot	узел
+list	перечень
+majority	большинство
+matter	дело
+mind	ум, мысль
+operation	действие
+opposite	противоположность
+outburst	извержение
+part	часть
+part	часть
+personality	характер
+piece	кусок
+place	место
+position	позиция, положение
+power	сила
+practice	практика
+project	проект
+property	способность
+quality	качество
+quiet	спокойствие
+reach	досягаемость
+report	рапорт
+responsibility	ответственность
+rest	отдых
+return	возврат
+rise	подъём
+risk	риск
+seat	место
+serial	сериал, многосерийный фильм
+set	комплект
+silence	тишина
+situation	ситуация
+slice	кусок
+state	состояние
+step	шаг, поступь
+stop	остановить
+taste	вкус
+thing	предмет, вещь
+top	верхушка
+touch	прикосновение
+treatment	обхождение
+tremble	дрожание
+trick	трюк
+type	тип
+use	употребление
+way	способ
+wear	износ
+whole	целое
+will	воля
+wish	желание
+art	искусство
+artist	художник
+band	оркестр
+brush	щётка
+color	краска
+concert	концерт
+design	проект
+diversity	разнообразность, разнообразие
+entertainment	веселье, развлечение
+hit	хит
+image	имидж
+ink	чернила
+invention	изобретение, измышление
+manner	способ, метод
+movie	фильм, кинокартина
+museum	музей
+music	музыка
+note	нота
+orchestra	оркестр
+paint	краска
+painting	картина
+paper	бумага
+pen	ручка
+pencil	карандаш
+picture	изображение
+poem	стихотворение, поэма
+poetry	поэзия
+rhythm	ритм
+shape	конфигурация, форма
+singer	певец
+song	песня
+stage	сцена
+style	стиль
+vogue	мода
+account	счёт
+advantage	преимущество
+advertisement	пропаганда, реклама
+advice	совет
+agreement	соглашение, договор
+attention	внимание
+authority	авторитет
+banknote	банкнот, кредитный билет
+bargain	сделка
+brand	марка
+business	коммерция, бизнес
+businesswoman	предприниматель
+capital	капитал
+change	мелочь
+cheque	чек
+committee	комитет, комиссия
+company	предприятие
+competition	конкуренция, соревнование
+complaint	нарекание
+contract	контракт
+copy	копия
+cost	расход
+council	совет
+course	курс
+customer	покупатель, заказчик
+demand	потребность
+department	отделение
+difficulty	трудность
+director	директор
+economy	хозяйство, экономика
+environment	окружение
+experience	опыт
+firm	фирма, торговый дом
+form	формуляр
+group	группа
+help	помощь, содействие
+holiday	каникулы
+income	оклад, заработок
+industry	промышленность
+insurance	страховка
+interest	процент
+invoice	фактура, счёт
+job	дело, труда
+law	закон
+leave	отпуск
+loss	утрата, пропадание
+management	руководство, предводительство
+mark	марка
+market	рынок, базар
+material	материал
+mean	среднее
+meeting	встреча
+money	деньги
+occupation	профессия, работа
+offer	предложение
+office	офис, контора
+officer	чиновник
+operation	операция
+owner	собственник, владелец
+package	пакет
+payment	плата, платёж
+plan	план
+price	стоимость, цена
+problem	проблема
+product	продукт
+profit	прибыль, нажива
+property	имущество
+rate	расценка, тариф
+rest	остаток
+reward	оплата
+right	право
+sale	продажа, сбыт
+section	секция, отделение
+section	секция, участок
+service	услуга
+share	акция
+shop	лавка, магазин
+show	шоу
+skill	искусство
+staff	персонал
+structure	структура
+success	успех
+support	поддержка, опора
+table	таблица
+tax	налогообложение, налог
+team	команда
+trade	занятие, торговля
+value	ценность
+work	работа
+worker	рабочий
+announcement	провозглашение, объявление
+answer	ответ
+approval	одобрение, согласие
+argument	аргумент
+book	книга
+call	звонок, зов
+character	знак
+controversy	спор
+cry	крик, возглас
+data	сведениe, информация
+decision	заключение, решение
+dictionary	словарь
+discussion	диспут, прения
+doubt	сомнение, неуверенность
+experience	впечатление
+feeling	ощущение
+humor	юмор
+idea	мысль
+information	сведениe, информация
+interest	интерес
+interview	разговор, беседа
+language	язык
+language	язык
+letter	буква
+letter	письмо
+lie	ложь
+look	вид, взгляд
+magazine	журнал
+mail	почта
+memory	память
+memory	воспоминание
+mistake	ошибка
+name	имя
+newspaper	газета
+note	заметка
+number	количество, число
+opinion	мнение, суждение
+page	страница
+pronunciation	произношение
+proposal	предложение
+protest	протест
+question	вопрос
+reaction	реакция
+reason	основание, мотив
+relation	соотношение
+request	просьба
+secret	секрет, тайна
+sentence	предложение
+sign	знак
+speech	язык
+spelling	правописание, орфография
+standard	критерий
+statement	утверждения
+subject	сюжет, тема
+suggestion	проект
+voice	голос
+word	слово
+writing	почерк
+good day	добрый день (dóbryj den’)
+good luck	удачи (udáči!), желаю удачи (želáju udáči!)
+hello	привет
+how are you	как дела (kak delá?), как поживаешь (kak poživáješ?)
+many thanks	большое спасибо (bol’šóje spasíbo)
+no	нет
+thank you very much	большое спасибо (bol’šóje spasíbo!), благодарю (blagodarjú!)
+yes	да
+Britain	Англия, Великобритания
+China	китай
+Czech Republic	Чехия, Чешская Республика
+France	Франция
+Germany	Германия
+India	Индия
+Italy	Италия
+Japan	Япония
+Spain	Испания
+United States of America	США, Соединенные Штаты Америки
+camera	камера
+camera	фотоаппарат
+cellular phone	мобильный телефон, мобильник
+clock	часы
+computer	компьютер
+elevator	лифт
+engine	двигатель
+instrument	инструмент, орудие
+machine	станок
+oven	печь
+television	телевизор
+watch	часы
+class	ранг, класс
+education	образование
+education	воспитание
+education	образование
+examination	экзамен
+grade	отметка
+knowledge	знание
+student	студент, ученик
+teacher	учитель
+training	обучение
+fear	страх
+hate	ненависть
+love	любовь
+pleasure	удовольствие
+promise	надежда
+shock	шок
+care	попечение
+cold	простуда, насморк
+cough	кашель
+disease	болезнь
+doctor	врач, доктор
+health	здоровье
+menstruation	менструация
+nurse	медсестра, няня
+operation	операция
+pain	боль
+patient	пациент, больной
+stitch	стежок
+blade	лезвие
+board	доска
+card	карточка
+chain	цепь
+club	дубинка
+cover	крышка
+feather	перо
+flag	флаг
+frame	рамка
+handle	ручка
+menu	меню
+nut	гайка
+pin	булавка
+pipe	труба
+postage	почтовая марка
+present	подарок
+sail	парус
+scroll	круг
+seed	зерно, семя
+stick	палка
+stone	скала
+ticket	билет
+wheel	колесо
+wire	провод
+balance	баланц
+bulk	количество
+charge	заряд
+energy	энергия
+light	свет
+mass	масса
+measurement	измерение
+mirror	зеркало
+movement	движение
+pressure	давление
+process	процесс
+size	размер
+sound	звук
+steam	пар
+strength	сила
+time	время
+unit	единица
+weight	вес
+boyfriend	поклонник
+date	встреча, свидание
+girlfriend	девочка, поклонница
+guest	гость
+honey	дорогой, дорогая
+kiss	поцелуй
+party	вечеринка
+sex	секс
+smile	улыбка
+surprise	сюрприз
+visit	визит
+alternative	альтернатива
+biology	биология
+cause	причина
+chemistry	химия
+comparison	сравнение
+consequence	последствие
+control	проверка
+discipline	дисциплина
+discovery	находка
+discovery	находка
+event	событие
+evidence	улика
+example	пример
+fact	факт
+issue	проблема
+kernel	суть
+method	способ, метод
+model	модель, макет
+phase	фаза
+procedure	процесс, процедура
+production	производство
+program	программа
+project	проект
+range	диапазон
+research	исследование
+research	обследование
+science	наука
+society	общество
+system	система
+technology	технология
+theory	теория
+trend	тенденция
+trouble	проблема
+user	пользователь
+army	армия
+base	военная база
+club	клуб
+company	общество
+contest	соревнование, состязание
+country	страна
+court	суд
+crime	преступление
+culture	культура
+democracy	демократия, республика
+dominion	господство
+election	выборы
+existence	существование
+female	женщина
+government	правительство
+history	история
+individual	индивидуум
+institution	учреждение
+king	король
+male	самец
+member	член
+nation	народ, нация
+news	новость
+noise	шум, гам
+order	приказ, команда
+organization	организация
+pass	удоствоверение
+passport	паспорт
+peace	мир
+people	люди, народ
+police	полиция
+policy	политика
+population	население
+public	общественность
+punishment	наказание
+religion	вероисповедание
+religion	религия
+state	страна
+title	надпись, заголовок
+union	союз
+war	война
+will	воля
+will	завещание
+award	награда
+ball	мяч
+baseball	бейсбол
+bike	велосипед
+championship	чемпионат
+competitor	соперник
+cup	кубок
+football	футбол
+game	игра
+goal	гол
+goal	цель
+gold	золото
+golf	гольф
+jump	скачок, прыжок
+match	матч
+player	игрок
+record	рекорд
+silver	серебро
+tennis	теннис
+throw	бросание
+win	победа

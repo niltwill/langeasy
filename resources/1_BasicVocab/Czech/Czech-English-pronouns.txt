@@ -1,0 +1,35 @@
+Czech	﻿English
+kdokoli	anyone
+cokoli	anything
+všichni	everybody
+vše	everything
+on	he
+její	her
+sebe	herself
+jemu	him
+sebe	himself
+jeho	his
+to	it
+samo, samo sebe	itself
+mně	me
+můj	my
+náš, naše	our
+ona	she
+tamten	that
+jejich	their
+oni	them
+tyto, tyhle	these
+oni	they
+ten, ta	this
+ty	those
+nás	us
+my	we
+co	what
+kdy	when
+který	which
+který	which
+kdo	who
+od koho, komu	whom
+čí	whose
+ty, Vy	you
+tvůj, tvé	your

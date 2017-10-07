@@ -1,0 +1,208 @@
+Catalan	﻿English
+ésser	be
+debutar	begin
+rompre, trencar	break
+comprar	buy
+tancar	close
+venir	come
+dansar	dance
+dibuixar	draw
+beure	drink
+menjar	eat
+caure	fall
+percebre, sentir	feel
+trobar	find
+tirar	fire
+volar	fly
+seguir	follow
+oblidar	forget
+obtenir, rebre	get
+donar	give
+haver, tenir	have
+assabentar-se de, exaudir	hear
+acudir	help
+esperançar, esperar	hope
+saltar	jump
+besar	kiss
+riure	laugh
+aprendre	learn
+jaure, jeure	lie
+mentir	lie
+escoltar	listen
+mirar	look
+perdre	lose
+estimar	love
+fer	make
+caure, encertar	meet
+bellugar, moure	move
+necessitar	need
+oferir	offer
+obrir	open
+pagar	pay
+sonar	play
+estirar, tirar	pull
+pondre	put
+llegir	read
+recordar	remember
+dir	say
+vendre	sell
+cantar	sing
+seure	sit
+somriure	smile
+nedar	swim
+parlar	talk
+comprendre, entendre	understand
+utilitzar	use
+esperar	wait
+escriure	write
+allotjar	accept
+acusar	accuse
+aconseguir, assolir	achieve
+fer	act
+afegir	add
+influir	affect
+accedir a, acceptar	agree
+permetre	allow
+anular	announce
+disputar	argue
+arribar	arrive
+demanar, posar qüestions	ask
+atacar	attack
+evitar	avoid
+viure	be
+dur, portar	bear
+bategar, batre	beat
+obtenir, rebre	become
+creure	believe
+agafar, corroir	bite
+aportar, portar	bring
+construir	build
+cridar	call
+curar, tenir cura de	care
+traginar	carry
+canviar	change
+elegir, triar	choose
+netejar	clean
+comparar	compare
+contenir	contain
+continuar, fer durar	continue
+coure	cook
+tossir	cough
+plorar	cry
+decidir	decide
+descriure	describe
+dibuixar	design
+voler	desire
+desenvolupar	develop
+morir	die
+dividir	divide
+dubtar	doubt
+dirigir	drive
+alenar	encourage
+acabar	end
+gaudir	enjoy
+entrar	enter
+fundar	establish
+superar	exceed
+existir	exist
+esperar	expect
+explicar	explain
+combatre	fight
+descobrir	find
+acabar, finir	finish
+perdonar	forgive
+alliberar	free
+up capitular	give
+crèixer	grow
+ocórrer	happen
+odiar	hate
+camuflar	hide
+aguantar, mantenir	hold
+identificar	identify
+ferir	injure
+presentar	introduce
+presentar	introduce
+lligar	join
+tenir	keep
+matar	kill
+aterrar	land
+conduir	lead
+deixar	let
+elevar	lift
+carregament	load
+tancar amb clau	lock
+semblar	look
+perdre	lose
+administrar	manage
+cartejar-se, enllaçar-se	match
+tenir la intenció de	mean
+mesurar	measure
+mencionar	mention
+deixar passar, desatendre	miss
+manar, ordenar	order
+posseir	own
+pelar	peel
+ginebre	plow
+emmetzinar	poison
+preparar	prepare
+premsar	press
+impedir	prevent
+imprimir	print
+aprofitar-se	profit
+protestar	protest
+demostrar, provar	prove
+publicar	publish
+agambar	raise
+apreciar, avaluar	rate
+aconseguir, assolir	reach
+obtenir, rebre	receive
+gravar	record
+reduir	reduce
+reflectir	reflect
+negar	refuse
+rellevar, substituir	replace
+respondre	reply
+informar, referir	report
+presentar	represent
+demanar	request
+honorar	respect
+descobrir	reveal
+arriscar	risk
+dirigir, dominar	rule
+estalviar	save
+veure	see
+considerar	see
+enviar	send
+servir	serve
+cosir	sew
+xisclar	shout
+mostrar	show
+fer flaire, fer olor	smell
+olorar	smell
+estar dret, estar en algun	stand
+quedar, restar	stay
+robar	steal
+parar	stop
+estudiar	study
+patir, sofrir	suffer
+proposar	suggest
+lliurar	supply
+donar suport, estintolar	support
+sorprendre	surprise
+tastar	taste
+ensenyar	teach
+assajar, provar	test
+agrair	thank
+llençar	throw
+comerciar	trade
+anar	travel
+curar	treat
+decebre, enganyar	trick
+assajar, provar	try
+girar	turn
+visitar	visit
+caminar, marxar	walk
+escalfar	warm
+llavar	wash
+veure	watch
+guanyar	win

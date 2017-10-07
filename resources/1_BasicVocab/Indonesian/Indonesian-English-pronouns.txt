@@ -1,0 +1,28 @@
+Indonesian	﻿English
+apa saja	anything
+setiap orang	everybody
+segalanya	everything
+dia,	he
+miliknya	her
+dirinya	herself
+dia	him
+miliknya	his
+itu	it
+dirinya	itself
+saya	me
+milik saya	my
+milik kami	our
+dia (perempuan)	she
+itu	that
+milik mereka	their
+mereka	them
+mereka	they
+ini	this
+kami	we
+apa	what
+kapan	when
+yang	which
+yang	which
+siapa	who
+siapa	whom
+(familiar) kalian	you

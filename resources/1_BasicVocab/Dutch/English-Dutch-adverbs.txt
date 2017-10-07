@@ -1,0 +1,81 @@
+﻿English	Dutch
+about	om
+above	boven
+again	opnieuw, nogmaals
+almost	bijna
+along	langs
+already	al, reeds
+always	altijd
+approximately	ongeveer
+as	als
+before	0
+before	voor
+behind	na
+between	0
+beyond	overheen
+by	langs
+clearly	0
+directly	direct, recht
+down	0
+early	vroeg
+either	beide
+enough	genoeg
+even	zelfs
+exactly	precies
+finally	ten slotte
+first	eerste
+forward	vooruit
+generally	0
+here	hier
+here	hier
+however	echter
+immediately	onmiddellijk
+in	binnen
+indeed	0
+inside	binnenin
+instead	in
+late	laat
+later	0
+least	minst
+little	beetje
+merely	slechts, alleen maar
+more	meer
+never	nooit
+not	niet
+now	nu, momenteel
+obviously	duidelijk
+often	vaak, dikwijls
+once	eens
+outside	buiten
+particularly	bijzonder
+please	alstublieft (polite), alsjeblief (casual)
+possibly	misschien, wellicht
+preferably	0
+probably	waarschijnlijk
+quickly	schielijk, snel
+really	echt
+really	waarlijk
+recently	onlangs
+slowly	traag, traagjes
+so	zozeer
+solely	alleen
+sometimes	soms, op een keer
+soon	binnenkort
+still	nog
+such	zodanig
+suddenly	plotseling
+surely	zeker
+then	toen
+there	daar, daarheen
+therefore	daarom
+through	0
+today	vandaag
+together	samen
+tomorrow	morgen
+tonight	vannacht, vanavond
+too	ook, eveneens
+up	opwaarts
+usually	gewoonlijk
+very	heel, zeer
+well	goed, uitstekend
+why	waarom

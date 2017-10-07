@@ -1,0 +1,17 @@
+﻿English	French
+against	contre
+among	dans
+at	contre
+at	contre
+beside	auprès de
+during	durant
+for	pour
+into	dans
+of	de
+on	à
+on	à
+since	depuis
+to	vers
+with	avec
+with	avec
+without	sans

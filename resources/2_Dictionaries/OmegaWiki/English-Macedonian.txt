@@ -1,0 +1,263 @@
+English	Macedonian
+Abidjan	Абиџан
+Algeria ; People's Democratic Republic of Algeria	Алжир
+American Samoa	Американска Самоа
+Andorra ; Principality of Andorra	Андора
+Angola ; Republic of Angola	Ангола
+Argentina ; Argentine Republic	Аргентина
+Armenia	Јерменија
+Aruba	Аруба
+Austria ; Republic of Austria	Австрија
+Bahrain	Бахрaин
+Bangladesh ; People's Republic of Bangladesh	Бангладеш
+Belgium ; Kingdom of Belgium	Белгија
+Belize	Белизе
+Bolivia ; Republic of Bolivia	Боливија
+Botswana ; Republic of Botswana	Боцвана
+Brunei ; Negara Brunei Darussalam	Брунеи
+Bulgaria ; Republic of Bulgaria	Бугарија
+Burundi ; Republic of Burundi	Бурунди
+Cambodia ; Kingdom of Cambodia	Камбоџа
+Cameroon ; Republic of Cameroon	Камерун
+Caribbean Sea	Карипско Море
+Chad ; Republic of Chad	Чад
+Chile ; Republic of Chile	Чиле
+Croatia ; Republic of Croatia	Хрватска
+Cuba ; Republic of Cuba	Куба
+Cyprus ; Republic of Cyprus	Кипар
+Dakar	Дакар
+Dominican Republic	Доминиканска Република
+EU ; European Union	Европска Унија
+East Timor ; Democratic Republic of Timor-Leste	Источен Тимор
+Egypt ; Arab Republic of Egypt	Египет
+El Salvador ; Republic of El Salvador	Ел Салвадор
+Eritrea	Еритреја
+Estonia ; Republic of Estonia	Естонија
+Ethiopia ; Federal Democratic Republic of Ethiopia	Етиопија
+Faroe Islands	Фарски Острови
+Fiji ; Republic of the Fiji Islands	Фиџи
+Finland ; Republic of Finland	Финска
+France	Франција
+Gaborone	Габороне
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Гамбија
+Georgia	Грузија
+Greece ; Hellenic Republic	Грција
+Greenland	Гренланд
+Grenada	Гренада
+Guadeloupe	Гвадалупе
+Guatemala ; Republic of Guatemala	Гватемала
+Haiti ; Republic of Haiti	Хаити
+Holland ; Kingdom of the Netherlands ; The Netherlands	Холандија
+Honduras ; Republic of Honduras	Хондурас
+Hungary ; Republic of Hungary	Унгарија
+India ; Republic of India	Индија
+Iran ; Islamic Republic of Iran	Иран
+Israel ; State of Israel	Израел
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Брегот на Слоновата Коска
+Jamaica	Јамајка
+Japan ; State of Japan	Јапонија
+Jordan ; Hashemite Kingdom of Jordan	Јордан
+Kazakhstan ; Republic of Kazakhstan	Казахстан
+Kyrgyzstan ; Kyrgyz Republic	Киргистан
+Lagos	Лагос
+Latvia ; Republic of Latvia	Латвија
+Lesotho ; Kingdom of Lesotho	Лесото
+Liberia ; Republic of Liberia	Либерија
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Либија
+Lower Saxony	Долна Саксонија
+Macedonian ; Macedonian	Македонски
+Madagascar ; Republic of Madagascar	Мадагаскар
+Malawi ; Republic of Malaŵi	Малави
+Malaysia	Малезија
+Malta ; Republic of Malta	Малта
+Mauritania ; Islamic Republic of Mauritania	Мавританија
+Milan	Милано
+Milky Way ; Galaxy	Млечен пат
+Moldova	Молдавија
+Monaco	Монако
+Montenegro	Црна Гора
+Morocco ; Kingdom of Morocco	Мароко
+Mozambique	Мозамбик
+Myanmar	Мијанмар
+Nairobi	Најроби
+Namibia	Намибија
+New York	Њујорк
+New Zealand	Нов Зеланд
+Nicaragua	Никарагва
+Nigeria	Гватемала
+Norway ; Kingdom of Norway	Норвешка
+Pakistan ; Islamic Republic of Pakistan	Пакистан
+Panama	Панама
+People's Republic of China ; China	Кина
+Poland	Полска
+Puerto Rico	Порторико
+Pyrrhic victory	пирова победа
+Qatar	Катар
+Romania	Романија
+Saudi Arabia ; Kingdom of Saudi Arabia	Саудиска Арабија
+Senegal	Сенегал
+Serbia	Србија
+Slovakia	Словачка
+Sudan	Судан
+Switzerland	Швајцарија
+Tanzania	Танзанија
+Thuringia	Тирингија
+Togo	Того
+Turkey	Турција
+Uganda ; Republic of Uganda	Уганда
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Соединети Американски Дрзави
+Vatican City ; The Holy See ; State of the Vatican City	Ватикан
+actinium	актиниум
+alcoholism	алкохолизам
+alloy	легура
+aluminium	алуминиум
+americium	америциум
+anarchy	анархија
+ant	мрава
+argon	аргон
+aristocracy	аристократија
+arsenic	арсен
+astronomy	астрономија
+astrophysics	астрофизика
+asymptote	асимптота
+atomic mass	атомска маса
+beaver	дабар
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	папук
+beryllium ; glucinium	берилиум
+biochemistry	биохемија
+bismuth	бисмут
+blackbird	кос
+blue	сина
+boron	бор
+bromine	бром
+cadmium	кадмиум
+caesium	цезиум
+calcium	калциум
+carbon	jаглерод
+chlorine	хлор
+chromium	хром
+cobalt	кобалт
+comet	комета
+compound ; chemical compound	xемиско соединение
+copper	бакар
+cow	крава
+crystal	кристал
+curium	кириум
+democracy	демократија
+dog	пес
+dromedary	дромедар
+dubnium	дубниум
+einsteinium	аjнштаjниум
+electron	електрон
+equator	екватор
+europium	европиум
+fertilisation ; fecundation	оплодување
+fluorine	флуор
+flute	Флејта ; флејта
+gadolinium	гадолиниум
+gallium	галиум
+genotype	генотип
+germanium	германиум
+giraffe	жирафа
+glycolysis	гликолиза
+gold	злато
+goose	гуска
+guinea pig	заморец
+gull	галеб
+hafnium	хафниум
+haiku	хаику
+hassium	хасиум
+hedgehog	еж
+helium	хелиум
+holmium	холмиум
+hormone	хормони
+horse	коњ
+hydrogen	водород
+hyena	хиена
+ideology	идеологија
+indium	индиум
+iodine	јод
+iridium	иридиум
+iron	железо
+kilogram	килограм
+krypton	криптон
+lanthanum	лантан
+lead	олово
+lithium	литиум
+lutetium	лутециум
+lynx	рис
+manganese	манган
+mayor	градоначалник
+mendelevium	менделевиум
+mercury	жива
+metaphysics	метафизика
+mitosis	митоза
+molybdenum	молибден
+musical	мјузикл
+nappy	пелена
+natural science	природни науки
+neodymium	неодимиум
+neon	неон
+neptunium	нептуниум
+niobium	ниобиум
+nitrogen	азот
+nobelium	нобелиум
+official language	официјален јазик
+oligopoly	олигопол
+ontogenesis ; ontogenesis ; ontogeny	онтогенеза
+operetta	оперета
+organelle	органела
+orthography	правопис
+osmium	осмиум
+ostrich	ноj
+oxygen	кислород
+palaeontology	палеонтологија
+palladium	паладиум
+pancreas	панкреас
+penguin	пингвин
+peninsula	полуостров
+pheasant	фазан
+philology	филологија
+philosophy	философија
+phosphorus	фосфор
+physiology	физиологија
+pigeon ; dove	гулаб
+polymer	полимер
+pomegranate	калинка
+potassium	калиум
+praseodymium	празеодимиум
+promethium	прометиум
+prostate	простата
+protactinium	протактиниум
+rhenium	рениум
+rubidium	рубидиум
+ruthenium	рутениум
+rutherfordium	радерфордиум
+samarium	самариум
+scandium	скандиум
+selenium	селен
+sheep	овца
+siemens	сименс
+silicon	силициум
+sodium	натриум
+strontium	стронциум
+sulphur	сулфур
+surgery	хирургија
+syphilis	сифилис
+tantalum	тантал
+tea	чај
+technetium	технециум
+thallium	талиум
+theocracy	теократија
+theology	теологија
+thyroid	штитна жлезда
+timezone	временска зона
+titanium	титан
+trout	пастрмка
+urine	мочка ; урина
+whale	кит
+window	пенџер
+yttrium	итриум
+zebra	зебра
+zinc	цинк
+zirconium	циркониум

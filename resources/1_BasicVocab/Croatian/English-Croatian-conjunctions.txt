@@ -1,0 +1,9 @@
+﻿English	Croatian
+and	i
+because	budući da, jer
+for	zbog
+if	ako
+or	ili
+than	nego
+until	do, sve dok
+whenever	uvijek

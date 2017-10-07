@@ -1,0 +1,3952 @@
+English	Latin
+1	1
+1 (number)	Unus
+10	10
+10 (number)	Decem
+100	100
+100 (number)	Centum
+1000	1000
+1000 (number)	Mille
+101	101
+105	105
+11	11
+11 (number)	Undecim
+110	110
+115	115
+12	12
+12 (number)	Duodecim
+120	120
+125	125
+13	13
+13 (number)	Tredecim
+130	130
+135	135
+14	14
+14 (number)	Quattuordecim
+140	140
+144	144
+145	145
+15	15
+15 (number)	Quindecim
+150	150
+1530s	Decennium 154
+155	155
+16	16
+16 (number)	Sedecim
+160	160
+165	165
+17	17
+17 (number)	Septendecim
+170	170
+1728	1728
+175	175
+1750s	Decennium 176
+1760s	Decennium 177
+1770s	Decennium 178
+1780s	Decennium 179
+1790s	Decennium 180
+18	18
+18 (number)	Duodeviginti
+180	180
+1820s	Decennium 183
+1830s	Decennium 184
+1840s	Decennium 185
+1850s	Decennium 186
+1860s	Decennium 187
+1870s	Decennium 188
+1880s	Decennium 189
+1890s	Decennium 190
+19	19
+19 (number)	Undeviginti
+190	190
+1900s	Decennium 191
+1920s	Decennium 193
+1930s	Decennium 194
+1940s	Decennium 195
+1950s	Decennium 196
+1960s	Decennium 197
+1970s	Decennium 198
+1980s	Decennium 199
+1990s	Decennium 200
+2	2
+2 (number)	Duo
+20	20
+20 (number)	Viginti
+200	200
+21	21
+21 (number)	Viginti unus
+22	22
+22 (number)	Viginti duo
+23	23
+23 (number)	Viginti tres
+24	24
+24 (number)	Viginti quattuor
+25	25
+25 (number)	Viginti quinque
+26	26
+26 (number)	Viginti sex
+27	27
+27 (number)	Viginti septem
+28	28
+28 (number)	Duodetriginta
+29	29
+29 (number)	Undetriginta
+3	3
+3 (number)	Tres
+30	30
+30 (number)	Triginta
+300	300
+31	31
+32	32
+33	33
+34	34
+35	35
+36	36
+37	37
+38	38
+39	39
+4	4
+4 (number)	Quattuor
+40	40
+400	400
+41	41
+42	42
+42 (number)	Quadraginta et duo
+43	43
+44	44
+45	45
+46	46
+47	47
+48	48
+49	49
+5	5
+5 (number)	Quinque
+50	50
+500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+6 (number)	Sex
+60	60
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (number)	Septem
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+8 (number)	Octo
+80	80
+80 (number)	Octoginta
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+9 (number)	Novem
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+A	A
+ABC	ABC
+AIDS	SCDI
+Aachen	Aquisgranum
+Aar	Abrinca (flumen)
+Aarhus	Aarhusium
+Abacus	Abacus
+Abbot	Abbas
+Abbreviation	Abbreviatio
+Abel Tasman	Abel Tasman
+Aberdeen	Aberdonia
+Abkhazia	Abasci
+Abortion	Abortus
+Abraham	Abraham
+Abraham Lincoln	Abrahamus Lincoln
+Absolute value	Magnitudo absoluta
+Abuja	Abugia
+Acacia	Acacia
+Academy Award	Praemia Academiae
+Acceleration	Acceleratio
+Accipitridae	Accipitridae
+Accordion	Harmonica diductilis
+Accra	Accra
+Accusative case	Accusativus
+Acetaldehyde	Ethanal
+Acetic acid	Acidum aceticum
+Acetone	Acetonum
+Acetylene	Ethinum
+Achilles	Achilles
+Acid	Acidum
+Acne vulgaris	Acne
+Acorn	Glans (fructus)
+Acre	Ager (mensura)
+Acre (state)	Acre
+Actinium	Actinium
+Actor	Actor
+Acts of the Apostles	Actus Apostolorum
+Adam	Adam
+Adam Smith	Adamus Smith
+Addis Ababa	Neanthopolis
+Addition	Additio
+Adelaide	Adelhaidis
+Adige	Athesis
+Adjective	Adiectivum
+Adolf Eichmann	Adolphus Eichmann
+Adolf Hitler	Adolfus Hitler
+Adrenal gland	Glandula adrenalis
+Adriatic Sea	Hadriaticum
+Advent	Adventus
+Adverb	Adverbium
+Aegean Sea	Mare Aegaeum
+Aeneas	Aeneas
+Aeneid	Aeneis
+Aeschylus	Aeschylus
+Aesop	Aesopus
+Aesthetics	Aesthetica
+Affix	Affixum
+Afghanistan	Afgania
+Afghanistan	Categoria:Afgania
+Africa	Africa
+Africa	Categoria:Africa
+Afrikaans	Lingua Africana
+Agamemnon	Agamemnon
+Agar	Agar
+Agate	Achates
+Agatha Christie	Agatha Christie
+Agnatha	Agnatha
+Agriculture	Agricultura
+Agriculture	Categoria:Agricultura
+Agrigento	Agrigentum
+Ain	Addua (praefectura Franciae)
+Airbus	Laophorium aerium
+Aircraft	Aeroplanum
+Airport	Aeroportus
+Al Gore	Albertus Arnoldus Gore
+Al-Qaeda	Alcaeda
+Alabama	Alabama
+Alabama	Categoria:Alabama
+Alaska	Alasca
+Alban Berg	Albanus Berg
+Albania	Albania
+Albania	Categoria:Albania
+Albert Camus	Albertus Camus
+Albert Einstein	Albertus Einstein
+Albert Schweitzer	Albertus Schweitzer
+Albert Speer	Albertus Speer
+Alberta	Alberta
+Alchemy	Alchemia
+Alcohol	Alcohol
+Alcoholism	Alcoholismus
+Aldehyde	Aldehydum
+Aleksandr Solzhenitsyn	Alexander Solzhenitsyn
+Aleppo	Beroea (Syria)
+Aleutian Islands	Insulae Aleutiae
+Alexander	Alexander
+Alexander Fleming	Alexander Fleming
+Alexander Pope	Alexander Pope
+Alexander Pushkin	Alexander Puskin
+Alexander the Great	Alexander Magnus
+Alexandre Dumas	Alexander Dumas (pater)
+Alexandria	Alexandria Magna
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Hitchcock	Alfredus Hitchcock
+Alfred Russel Wallace	Alfredus Russel Wallace
+Alfred the Great	Alfredus (rex Anglorum)
+Algae	Alga
+Algebra	Algebra
+Algebra	Categoria:Algebra
+Algeria	Algerium
+Algeria	Categoria:Algerium
+Algiers	Algeria
+Alkali metal	Metallum alkalicum
+Alkane	Alcanum
+Alkene	Alkenum
+Alkyne	Alkinum
+Allosaurus	Allosaurus
+Alpha (letter)	Alpha
+Alpha Centauri	Alpha Centauri
+Alphabet	Abecedarium
+Alps	Alpes
+Alps	Categoria:Alpes
+Alsace	Elisatia
+Altar	Altare
+Altay Mountains	Altai
+Aluminium	Aluminium
+Alvar Aalto	Alvar Aalto
+Amazon River	Amazonum flumen
+Amber	Succinum
+Ambrose	Ambrosius
+Amedeo Avogadro	Amadeus Avogadro
+American Civil War	Bellum Civile Americanum
+American Samoa	Samoa Americana
+Americium	Americium
+Amerigo Vespucci	Americus Vespucius
+Amethyst	Amethystus
+Amino acid	Acidum aminicum
+Amphibian	Amphibia
+Amphitheatre	Amphitheatrum
+Amphora	Amphora
+Amsterdam	Amstelodamum
+Amun	Amun
+Anabaptist	Anabaptistae
+Anagram	Anagramma
+Anarchism	Anarchismus
+Anarchy	Anarchia
+Anatole France	Anatolius France
+Anatomy	Categoria:Anatomia
+Anatomy	Anatomia
+Anaxagoras	Anaxagoras
+Anaximander	Anaximander
+Anchor	Ancora
+Anchorage	Ancoraria (Alasca)
+Ancient Greek	Lingua Graeca Antiqua
+Andalusia	Vandalitia
+Anders Celsius	Andreas Celsius
+Andes	Andes
+Andorra	Andorra
+Andorra	Categoria:Andorra
+Andrea Palladio	Andreas Palladius
+Andrei Sakharov	Andreas Sacharov
+Andrew Jackson	Andreas Jackson
+Andrew Johnson	Andreas Johnson
+Andrew Lloyd Webber	Andreas Lloyd Webber
+Andromeda	Andromeda (discretiva)
+Andromeda (constellation)	Andromeda (sidus)
+Andy Warhol	Andreas Warhol
+Anemia	Anaemia
+Angel	Angelus
+Angola	Angolia
+Angola	Categoria:Angolia
+Anicius Manlius Severinus Boethius	Anicius Manlius Torquatus Severinus Boethius
+Animal	Animalia
+Anime	Anime
+Ankara	Ancyra
+Annapolis	Annapolis
+Anne Boleyn	Anna Bolina
+Annelid	Annelida
+Anno Domini	Anno Domini
+Annunciation	Annuntiatio
+Anseriformes	Anseriformes
+Ant	Formica
+Antakya	Antiochia
+Antalya	Attalea
+Antananarivo	Antananarivo
+Antarctica	Antarctica
+Anthony Hopkins	Antonius Hopkins
+Anthropology	Anthropologia
+Anthropology	Categoria:Anthropologia
+Antigone	Antigone
+Antigua and Barbuda	Antiqua et Barbuda
+Antimony	Stibium
+Antipope	Antipapa
+Antisemitism	Antisemitismus
+Antisemitism	Categoria:Antisemitismus
+Antlia	Antlia (sidus)
+Antoine Lavoisier	Antonius Laurentius Lavoisier
+Anton Bruckner	Antonius Bruckner
+Antonio Stradivari	Antonius Stradivarius
+Antonio Vivaldi	Antonius Vivaldi
+Antwerp	Antwerpium
+Antwerp (province)	Antverpia (provincia)
+Anubis	Anubis
+Anus	Anus
+Aorta	Aorta
+Ape	Hominideae
+Aphrodite	Aphrodite
+Apia	Apia
+Apiaceae	Apiaceae
+Apocrypha	Apocrypha
+Apollo	Apollo
+Apple	Malum
+Apricot	Prunus armeniaca
+April	Aprilis
+April 14	14 Aprilis
+April Fools' Day	Ludificatio Calendarum Aprilium
+Apulia	Apulia
+Apus	Apus (sidus)
+Aquamarine	Aquamarina
+Aquarium	Aquarium
+Aquarius (constellation)	Aquarius (sidus)
+Aqueduct	Aquae ductus
+Aquila (constellation)	Aquila (sidus)
+Aquitaine	Aquitania (regio Franciae)
+Ara (constellation)	Ara (sidus)
+Arab	Arabes
+Arabian Peninsula	Arabia
+Arabic language	Lingua Arabica
+Araceae	Araceae
+Arachnid	Arachnida
+Aragon	Aragonia
+Aral Sea	Mare Aral
+Aram Khachaturian	Aram Khachaturian
+Arcadia	Arcadia (nomus Graeciae)
+Arcangelo Corelli	Archangelus Corelli
+Arch	Arcus (architectura)
+Archaeology	Archaeologia
+Archangel	Archangelus
+Archbishop	Archiepiscopus
+Archean	Aeon Archaicus
+Archimedes	Archimedes
+Archipelago	Archipelagus
+Architecture	Architectura
+Architecture	Categoria:Architectura
+Archive	Archivum
+Archosaur	Archosauria
+Arctic Ocean	Oceanus Arcticus
+Arctic fox	Alopex lagopus
+Ardennes (department)	Arduenna (praefectura Franciae)
+Argentina	Argentina
+Argentina	Categoria:Argentina
+Argon	Argon
+Argos	Argos
+Arianism	Arianismus
+Aries (constellation)	Aries (sidus)
+Aristophanes	Aristophanes
+Aristotle	Aristoteles
+Arithmetic	Arithmetica
+Arizona	Arizona
+Arizona	Categoria:Arizona
+Arkansas	Arcansia
+Arles	Arelate
+Armadillo	Dasypodidae
+Armenia	Armenia
+Arminius	Arminius
+Army	Exercitus
+Arnhem	Arecanum
+Arnold Schoenberg	Arnoldus Schoenberg
+Arras	Nemetacum
+Arsenic	Arsenicum
+Art	Ars
+Artemis	Artemis
+Artemisia absinthium	Absinthium
+Artery	Arteria
+Arthropod	Arthropoda
+Arthur Conan Doyle	Arthurus Conan Doyle
+Arthur Rimbaud	Arthurus Rimbaud
+Arthur Schopenhauer	Arthurus Schopenhauer
+Arthur Wellesley	Arthurus Wellesley
+Arts	Categoria:Ars
+Arturo Toscanini	Arturus Toscanini
+Asclepius	Aesculapius
+Asgard	Asgard
+Ash Wednesday	Dies Cinerum
+Asia	Asia
+Asia	Categoria:Asia
+Asmara	Asmara
+Assyria	Assyria
+Astana	Astana
+Astatine	Astatinum
+Asteraceae	Asteraceae
+Asteroid	Asteroides
+Asteroid belt	Cingulum asteroidum
+Asthma	Asthma bronchiale
+Astrakhan	Astrachanum
+Astronaut	Astronauta
+Astronomer	Astronomus
+Astronomical unit	Unitas astronomica
+Astronomy	Astronomia
+Astronomy	Categoria:Astronomia
+Athena	Athena
+Athens	Athenae
+Atlanta	Atlanta (Georgia)
+Atlantic Ocean	Oceanus Atlanticus
+Atlantis	Atlantis insula
+Atlas (disambiguation)	Atlas (discretiva)
+Atlas (mythology)	Atlas (mythologia)
+Atoll	Atolu
+Atom	Atomus
+Atomic number	Numerus atomicus
+Atreus	Atreus
+Attica	Attica
+Attila the Hun	Attila
+Auckland	Aucopolis
+August	Augustus
+August 1	1 Augusti
+August 15	15 Augusti
+August 6	6 Augusti
+August Strindberg	Augustus Strindberg
+Augusta	Augusta (Cenomannica)
+Auguste Rodin	Augustus Rodin
+Augustine of Hippo	Augustinus
+Augustus	Gaius Iulius Caesar Octavianus Augustus
+Auriga (constellation)	Auriga (sidus)
+Aurora	Aurora (discretiva)
+Austin	Austinopolis
+Australia	Australia
+Australia	Categoria:Australia
+Australopithecus	Australopithecus
+Austria	Austria
+Austria	Categoria:Austria
+Austria-Hungary	Imperium Austro-Hungaricum
+Autism	Autismus
+Automobile	Autocinetum
+Autumn	Autumnus
+Auvergne (region)	Arvernia
+Avalanche	Labina nivis
+Avant-garde	Prima acies (artis)
+Avena	Avena
+Averroes	Averroes
+Aviation	Categoria:Aerinavigatio
+Avicenna	Avicenna
+Avignon	Avenio
+Avocado	Persea americana
+Axe	Securis
+Axiom	Axioma
+Axon	Axon
+Ayn Rand	Ayn Rand
+Azerbaijan	Adrabigania
+Azores	Azores
+Aztec	Azteci
+B	B
+BASIC	Basic
+Babylon	Babylon
+Backgammon	Nerdiludium
+Bacteria	Bacterium
+Bactrian Camel	Camelus bactrianus
+Baghdad	Bagdatum
+Bahrain	Baharina
+Baja California	California Inferior
+Baku	Baku
+Balearic Islands	Insulae Baleares
+Balkan Mountains	Haemus
+Balkan Wars	Bella Balcanica
+Balkans	Paeninsula Balcanica
+Ball	Pila
+Baltic Sea	Mare Balticum
+Baltimore	Baltimora
+Bamako	Bamako
+Bamboo	Bambuseae
+Banana	Banana
+Bangalore	Bengalurus
+Bangkok	Bangkok
+Bangladesh	Bangladesha
+Bangui	Bangui
+Banjul	Banjul
+Bank	Argentaria
+Baptism	Baptismus
+Barbados	Barbata
+Barcelona	Barcino
+Bari	Barium (urbs Italica)
+Barium	Barium (elementum)
+Barley	Hordeum
+Baroque	Barocus
+Baryon	Baryon
+Base (chemistry)	Alkalium
+Baseball	Basipila
+Basel	Basilia (urbs)
+Basil	Basilicum
+Basil of Caesarea	Basilius Magnus
+Basilica	Basilica
+Basilicata	Lucania
+Basiliscus	Flavius Basiliscus
+Basketball	Ludus canistri
+Bass guitar	Cithara gravis
+Basse-Normandie	Normannia Inferior
+Bast (mythology)	Bubastis dea
+Bat	Chiroptera
+Bath	Aquae Sulis
+Batman	Vir Vespertilianus
+Baton Rouge	Rubribaculum
+Battle of Lepanto (1571)	Proelium Lepantinum
+Battle of Waterloo	Proelium Waterlooense
+Bavaria	Bavaria
+Bavaria	Categoria:Bavaria
+Bayonne	Baiona
+Beach	Litus
+Beak	Rostrum (beccus)
+Bear	Ursidae
+Bed	Lectus
+Bede	Beda
+Bee	Apidae
+Beech	Fagus
+Beer	Cervisia
+Beetle	Coleoptera
+Beijing	Pechinum
+Beirut	Berytus
+Belarus	Ruthenia Alba
+Belarus	Categoria:Ruthenia Alba
+Belgium	Belgia
+Belgium	Categoria:Belgia
+Belgrade	Belgradum
+Belisarius	Flavius Belisarius
+Belize	Beliza
+Bell (instrument)	Campana
+Belo Horizonte	Urbs Pulchri Horizontis
+Benin	Beninum
+Benito Mussolini	Benitus Mussolini
+Benjamin Britten	Beniaminus Britten
+Benjamin Disraeli	Beniaminus Disraeli
+Benjamin Franklin	Beniaminus Franklin
+Benjamin Harrison	Beniamin Harrison
+Beowulf	Beowulf
+Bergen	Berga
+Berkelium	Berkelium
+Berkshire	Comitatus Berceriensis
+Berlin	Berolinum
+Berlin	Categoria:Berolinum
+Bermuda	Bermuda
+Berne	Berna (urbs)
+Bertolt Brecht	Bertoldus Brecht
+Beryl	Beryllus
+Beryllium	Beryllium
+Beta (letter)	Beta
+Bethlehem	Bethleem
+Bey	Beigus
+Bhutan	Butania
+Bible	Biblia
+Bible	Categoria:Biblia
+Bicycle	Birota
+Big Bang	Fragor Maximus
+Bile	Bilis
+Bill Clinton	Gulielmus Clinton
+Bill Gates	Gulielmus Gates
+Biochemistry	Biochemia
+Biography	Biographia
+Biology	Biologia
+Biology	Categoria:Biologia
+Biotechnology	Biotechnologia
+Birch	Betula
+Bird	Aves
+Bishop	Episcopus
+Bishop (chess)	Episcopus (scacci)
+Bismuth	Bisemutum
+Bissau	Bissau
+Bithynia	Bithynia
+Bivalvia	Bivalvia
+Black	Niger (color)
+Black Forest	Nigra silva
+Black Sea	Pontus Euxinus
+Black hole	Gurges ater
+Blackbird	Merula
+Blaise Pascal	Blasius Pascalis
+Bloemfontein	Anthopege
+Blood	Sanguis
+Blood vessel	Vas sanguineum
+Blue	Caeruleus
+Boar	Sus scrofa
+Board game	Ludus tabularis
+Boat	Linter
+Bob Dylan	Robertus Zimmerman
+Bob Marley	Robertus Marley
+Bobby Fischer	Robertus Fischer
+Bohemia	Bohemia
+Bohrium	Bohrium
+Bolivia	Bolivia
+Bolivia	Categoria:Bolivia
+Bologna	Bononia
+Bolzano	Bauzanum
+Bomb	Pyrobolus
+Bombyx mori	Bombyx
+Bone	Os (ossis - anatomia)
+Bone marrow	Medulla ossium
+Bonn	Bonna
+Book	Liber (litterae)
+Book of Esther	Liber Esther
+Book of Joshua	Liber Iosue
+Book of Judges	Liber Iudicum
+Book of Numbers	Liber Numeri
+Book of Revelation	Apocalypsis Ioannis
+Book of Ruth	Liber Ruth
+Bordeaux	Burdigala
+Boron	Borium
+Bosnia and Herzegovina	Bosnia et Herzegovina
+Bosnia and Herzegovina	Categoria:Bosnia et Herzegovina
+Boson	Boson
+Bosporus	Bosporus
+Boston	Bostonia
+Botany	Botanica
+Botany	Categoria:Botanica
+Botswana	Botsuana
+Botswana	Categoria:Botsuana
+Bourgogne	Burgundia (regio Franciae)
+Bouvet Island	Insula Bouvet
+Bovid	Bovidae
+Bow (weapon)	Arcus (arma)
+Braga	Bracara Augusta
+Brandenburg	Brandenburgum
+Brassicaceae	Brassicaceae
+Bratislava	Bratislava
+Braunschweig	Brunsvicum
+Brazil	Brasilia
+Brazil	Categoria:Brasilia
+Brazzaville	Brazzaville
+Bread	Panis
+Breast	Mamma
+Breast cancer	Cancer mammae
+Bremen	Brema
+Bremen (state)	Urbs Hanseatica Brema
+Brescia	Brixia
+Brest	Brestia
+Brest	Bressicia
+Bretagne	Britannia Minor
+Bridge	Pons
+Brighton	Bristelmestuna
+Brindisi	Brundisium
+Brisbane	Brisbana
+Bristol	Bristolium
+British Columbia	Columbia Britannica
+British Empire	Imperium Britannicum
+British people	Categoria:Britanni
+Brno	Bruna
+Bromine	Bromum
+Bronze Age	Aenea aetas
+Brown	Aquilus
+Brown Bear	Ursus arctos
+Bruges	Brugae
+Brunei	Bruneium
+Brussels	Bruxellae
+Bubonic plague	Pestis
+Bucharest	Bucaresta
+Budapest	Aquincum
+Buddhism	Buddhismus
+Buddhism	Categoria:Religio Buddhistica
+Buenos Aires	Bonaëropolis
+Buffalo	Bufalum
+Bujumbura	Buiumbura
+Bulgaria	Bulgaria
+Bulgaria	Categoria:Bulgaria
+Burkina Faso	Burkina
+Burma	Birmania
+Bus	Laophorium
+Businesspeople	Categoria:Magistri officinarum
+Buster Keaton	Buster Keaton
+Butane	Butanum
+Butter	Butyrum
+Butterfly	Papilio
+Bydgoszcz	Bydgostia
+C	C
+C (programming language)	C (lingua programmandi)
+Cabaret	Cabaret
+Cadmium	Cadmium
+Cadmus	Cadmus
+Caelum	Caelum (sidus)
+Caesium	Caesium
+Cairo	Cairus
+Calabria	Calabria
+Calais	Caletum
+Calcium	Calcium
+Calculator	Computator
+Calculus	Calculus
+Calendar	Calendarium
+California	California
+California	Categoria:California
+Californium	Californium
+Caligula	Caligula
+Caliph	Calipha
+Calligraphy	Calligraphia
+Calliope	Calliope
+Callisto (moon)	Callisto (satelles)
+Callisto (mythology)	Callisto
+Calvados	Calvados (praefectura Franciae)
+Calvin Coolidge	Calvinus Coolidge
+Calypso (mythology)	Calypso
+Cambodia	Cambosia
+Cambrian	Aevum Cambricum
+Cambridge	Cantabrigia
+Cambridge	Cantabrigia iuxta Flumen Carolanum
+Cambridge (disambiguation)	Cantabrigia (discretiva)
+Camel	Camelus
+Cameroon	Cameronia
+Cameroon	Categoria:Cameronia
+Campania	Campania
+Canada	Canada
+Canada	Categoria:Canada
+Canal	Fossa
+Canary Islands	Canariae Insulae
+Canberra	Canberra
+Cancer	Cancer (morbus)
+Cancer (constellation)	Cancer (sidus)
+Candle	Cereus
+Canidae	Canidae
+Canis Major	Canis Maior (sidus)
+Canis Minor	Canis Minor (sidus)
+Cannabis	Cannabis
+Cannes	Canoe (Francia)
+Canterbury	Cantuaria
+Canute the Great	Cnuto (rex Anglorum)
+Capacitor	Condensatrum
+Cape Canaveral	Promunturium Cannaveralium
+Cape Horn	Hornanum caput
+Cape Town	Urbs Promontorii
+Cape Verde	Promontorium Viride
+Cape of Good Hope	Promontorium Bonae Spei
+Capital	Caput (urbs)
+Capital (economics)	Capitale
+Capitalism	Capitalismus
+Capricornus	Capricornus (sidus)
+Capsicum	Capsicum
+Caracal	Caracal
+Caracas	Caracae
+Caravaggio	Michael Angelus Merisi Caravaggius
+Carbohydrate	Saccharidum
+Carbon	Carbonium
+Carbon dioxide	Dioxydum carbonis
+Carbon monoxide	Monoxidum Carbonis
+Carbonic acid	Acidum carbonicum
+Carboniferous	Aevum Carboniferum
+Carboxylic acid	Acidum carboxylicum
+Cardinal (Catholicism)	Cardinalis
+Cardinal Richelieu	Armandus Ioannes Plessaeus de Richelieu
+Cardiology	Cardiologia
+Cardiovascular system	Categoria:Vasa sanguinea
+Caribbean Sea	Mare Caribicum
+Carina (constellation)	Carina (sidus)
+Carl Maria von Weber	Carolus Maria de Weber
+Carl Orff	Carolus Orff
+Carnival	Carnelevarium
+Carnivora	Carnivora
+Carolus Linnaeus	Carolus Linnaeus
+Carrot	Carota
+Cartagena	Carthago Nova
+Carthage	Karthago
+Cartography	Categoria:Cartographia
+Cary Grant	Cary Grant
+Caryophyllales	Caryophyllales
+Cashew	Cassuvium
+Casino	Aleatorium
+Caspian Sea	Mare Caspium
+Cassiopeia (constellation)	Cassiopeia (sidus)
+Castile (historical region)	Castella
+Castling	Adrochatio
+Cat	Feles
+Catalonia	Catalonia
+Catalonia	Categoria:Catalonia
+Catfish	Siluriformes
+Cathedral	Cathedralis
+Catherine Parr	Catharina Parra
+Catherine of Aragon	Catharina Aragonensis
+Cattle	Bos
+Catullus	Gaius Valerius Catullus
+Caucasus	Caucasus
+Caucasus Mountains	Caucasus
+Cave	Spelunca
+Cayenne	Caienna
+Cecil Rhodes	Caecilius Ioannes Rhodes
+Cedar	Cedrus
+Celery	Apium
+Cell (biology)	Cellula
+Cemetery	Coemeterium
+Cenozoic	Aera Caenozoica
+Census	Census
+Centaur	Centaurus
+Centaurus	Centaurus (sidus)
+Centimetre	Centimetrum
+Central African Republic	Respublica Africae Mediae
+Central bank	Argentaria centralis
+Central processing unit	Processorium centrale
+Centre	Centrum (regio Franciae)
+Century	Saeculum
+Cephalopod	Cephalopoda
+Cepheus (constellation)	Cepheus (sidus)
+Cerberus	Cerberus
+Cereal	Frumentum
+Cerebellum	Cerebellum
+Ceres	Ceres
+Ceres (dwarf planet)	Ceres (planetula)
+Ceres (mythology)	Ceres (dea)
+Cerium	Cerium
+Cesare Borgia	Caesar Borgia
+Cestoda	Cestoda
+Cetacea	Cetacea
+Cetus	Cetus (sidus)
+Chad	Tzadia
+Chalcedony	Calcedonius
+Chamaeleon	Chamaeleon (sidus)
+Champagne-Ardenne	Campania et Arduenna
+Chaos (mythology)	Chaos
+Charlemagne	Carolus Magnus
+Charles	Carolus Princeps Cambriae
+Charles Baudelaire	Carolus Baudelarius
+Charles Darwin	Carolus Robertus Darwin
+Charles Dickens	Carolus Dickens
+Charles de Gaulle	Carolus de Gaulle
+Charles the Bald	Carolus Calvus
+Charleston	Carolopolis (Virginia Occidentalis)
+Charlie Chaplin	Carolinus Chaplin
+Charlotte	Carlotta (Carolina Septentrionalis)
+Charon (moon)	Charon (satelles)
+Charon (mythology)	Charon (mythologia)
+Chartres	Autricum
+Che Guevara	Ernestus Guevara
+Cheese	Caseus
+Cheetah	Acinonyx
+Chemical bond	Vinculum chemicum
+Chemical element	Elementum
+Chemistry	Chemia
+Chemistry	Categoria:Chemia
+Chemnitz	Chemnicium
+Cherry	Cerasus (pomum)
+Chert	Silex
+Cherub	Cherubim
+Chess	Scacci
+Chess	Categoria:Scacci
+Chester A. Arthur	Cestria Alanus Arthur
+Chestnut	Castanea
+Cheyenne	Cheyenna
+Chi (letter)	Chi
+Chicago	Sicagum
+Chicken	Gallus
+Chickenpox	Varicella
+Chihuahua	Chihuahua
+Chile	Chilia
+Chile	Categoria:Chilia
+China	Categoria:Sina
+China	Sina
+Chios	Chios
+Chitin	Chitina
+Chlorine	Chlorum
+Chocolate	Socolata
+Cholera	Cholera
+Chondrichthyes	Chondrichthyes
+Chordate	Chordata
+Christiaan Huygens	Christianus Hugenius
+Christianity	Religio Christiana
+Christianity	Categoria:Religio Christiana
+Christmas	Christi Natalis
+Christmas	Categoria:Sollemnia natalicia Iesu Christi
+Christmas Eve	Vesper Sanctus
+Christmas tree	Arbor natalicia
+Christopher Columbus	Christophorus Columbus
+Christopher Marlowe	Christophorus Marlowe
+Chromium	Chromium
+Church	Ecclesia
+Church of England	Ecclesia Anglica
+Cicero	Marcus Tullius Cicero
+Ciconiiformes	Ciconiiformes
+Cider	Sicera
+Cigarette	Sigarellum
+Cinderella	Cinerella
+Circe	Circe
+Circinus	Circinus (sidus)
+Circle	Circulus
+Circulatory system	Apparatus circulatorius
+Circumcision	Circumcisio
+Circus	Circus
+Cirrhosis	Cirrhosis hepatis
+Citrus	Citrus
+Civil war	Bellum civile
+Class (biology)	Classis (Taxon)
+Classical mechanics	Mechanica Newtoniana
+Claude Monet	Claudius Monet
+Claudio Monteverdi	Claudius Monteverdi
+Claudius	Claudius (imperator)
+Clavicle	Clavicula
+Clement Attlee	Clemens Attlee
+Cleveland	Cleveterra
+Clinical depression	Depressio (psychiatria)
+Clio	Clio
+Clitoris	Clitoris
+Clock	Horologium
+Clock Tower	Magnus Beniaminus
+Clothing	Vestimenta
+Cloud	Nubes
+Clove	Syzygium aromaticum
+Clovis I	Chlodovechus
+Cnidaria	Cnidaria
+Coat of arms	Insigne
+Cobalt	Cobaltum
+Cockroach	Blattodea
+Coffea	Coffea
+Coffee	Coffeum
+Colchis	Colchis
+Cold War	Bellum Frigidum
+Cologne	Colonia Agrippina
+Colombia	Columbia
+Colombia	Categoria:Columbia
+Colombo	Colombo (urbs)
+Color	Color
+Colorado	Coloratum
+Colorado River	Coloratense Flumen
+Colosseum	Amphitheatrum Flavium
+Columba (constellation)	Columba (sidus)
+Columbia	Columbia (discretiva)
+Columbia River	Columbia (flumen)
+Columbia University	Universitas Columbiae
+Columbidae	Columba (avis)
+Columbus	Columbus (Ohium)
+Columbus	Columbus
+Coma Berenices	Coma Berenices (sidus)
+Comedy	Comoedia
+Comenius	Iohannes Amos Comenius
+Comet	Cometes
+Commonwealth of Independent States	Independentium Civitatum Foederatio
+Commonwealth of Nations	Consortio Populorum
+Communism	Communismus
+Comoros	Insulae Comorianae
+Compact Disc	Discus compactus
+Compass	Pyxis nautica
+Compass (drafting)	Circinus
+Complex number	Numerus complexus
+Composer	Compositor
+Computer	Computatrum
+Computer display	Monitorium
+Computer science	Informatica
+Computer science	Categoria:Informatica
+Computer software	Res informatica
+Computing	Categoria:Informatica
+Conakry	Conakri
+Confederate States of America	Civitates Confoederatae Americae
+Confession	Confessio
+Confucius	Confucius
+Congo River	Congo (flumen)
+Connecticut	Connecticuta
+Conquistador	Conquisitatores Hispani
+Conservatism	Conservatismus
+Constantine I	Constantinus I
+Constantinople	Constantinopolis
+Constellation	Sidus
+Consul	Consul
+Continent	Continens
+Cooperative	Societas cooperativa
+Coordinated Universal Time	UTC
+Copenhagen	Hafnia
+Copper	Cuprum
+Corinth	Corinthus
+Cork (city)	Corcagia
+Cormorant	Phalacrocorax carbo
+Cornell University	Universitas Cornelliana
+Cornwall	Cornubia
+Corona Borealis	Corona Borealis (sidus)
+Corsica	Corsica
+Corvidae	Corvidae
+Corvus (constellation)	Corvus (sidus)
+Cosmic microwave background radiation	Radiatio Cosmica Microondica Prisca
+Cosmology	Cosmologia
+Costa Rica	Ora Opulenta
+Cougar	Puma
+Council of Chalcedon	Concilium Chalcedonense
+Council of Ephesus	Concilium Ephesinum
+Council of Trent	Concilium Tridentinum
+Coyote	Coiotes
+Crab	Cancer
+Crater (constellation)	Crater (sidus)
+Creationism	Creationismus
+Cremona	Cremona
+Cretaceous	Aevum Cretaceum
+Crete	Creta
+Cricket	Criccetius lusus
+Cricket (insect)	Gryllus
+Crimea	Crimaea
+Croatia	Croatia
+Croatia	Categoria:Croatia
+Crocodile	Crocodylidae
+Crocodilia	Crocodilia
+Cronus	Cronus
+Cross	Crux
+Crossbow	Manuballista (sensu stricto)
+Crossword	Crucigramma
+Crow	Corvus
+Crux	Crux (sidus)
+Cryptography	Cryptographia
+Cryptography	Categoria:Cryptographia
+Crystal	Crystallum
+Cuba	Cuba
+Cuba	Categoria:Cuba
+Cubic metre	Metrum cubicum
+Cucumber	Cucumis sativus
+Cucurbitaceae	Cucurbitaceae
+Cumbria	Cumbria
+Cupressaceae	Cupressaceae
+Curitiba	Curitiba
+Curium	Curium
+Currency	Categoria:Monetae
+Cusco	Cuscum
+Cybele	Cybele
+Cyclades	Cyclades
+Cycling	Birotatio
+Cyclops	Cyclops
+Cygnus (constellation)	Cygnus (sidus)
+Cyperaceae	Cyperaceae
+Cyprus	Cyprus
+Cyprus	Categoria:Cyprus
+Cyrillic alphabet	Abecedarium Cyrillicum
+Cyrus the Great	Cyrus II (rex Persarum)
+Czech Republic	Res publica Bohemica
+Czech Republic	Categoria:Tzekia
+Czechoslovakia	Bohemoslovacia
+D	D
+D. W. Griffith	David Wark Griffith
+DNA	Acidum desoxyribonucleicum
+DVD	Discus varius digitalis
+Daedalus	Daedalus
+Dakar	Dakar
+Dalai Lama	Dalai Lama
+Dallas	Dallasium
+Dam	Moles (agger)
+Damascus	Damascus
+Dance	Saltatio
+Daniel Defoe	Daniel Defoe
+Dante Alighieri	Dantes Alagherius
+Danube	Danubius
+Dark matter	Materia nigra
+Darmstadtium	Darmstadtium
+Darwin	Darwin (discretiva)
+Dative case	Dativus
+David	David (Rex)
+David Hume	David Humius
+Day	Dies
+Days	Categoria:Dies
+Deacon	Diaconus
+Dead Sea	Mare Mortuum
+Deadly nightshade	Solanum
+Death	Mors
+Decade	Decennium
+December	December
+December 31	31 Decembris
+December 8	8 Decembris
+Decius (emperor)	Decius
+Declination	Declinatio (astronomia)
+Deer	Cervidae
+Deimos (moon)	Dimos (satelles)
+Delaware	Delevaria
+Delft	Delphi (urbs Bataviae)
+Delphi	Delphi (urbs Graeciae)
+Delphinus	Delphinus (sidus)
+Delta (letter)	Delta
+Demeter	Demeter
+Democracy	Democratia
+Democratic Party (United States)	Factio Democratica (CFA)
+Democratic Republic of the Congo	Respublica Popularis Congensis
+Democritus	Democritus
+Demon	Daemon
+Demosthenes	Demosthenes
+Denis Diderot	Dionysius Diderot
+Denmark	Dania
+Denmark	Categoria:Dania
+Density	Densitas et Spissitudo
+Denver	Denverium (Coloratum)
+Dermatology	Dermatologia
+Desert	Deserta
+Desiderius Erasmus	Desiderius Erasmus Roterodamus
+Detroit	Detroitum
+Deuteronomy	Deuteronomium
+Devon	Devonia
+Devonian	Aevum Devonianum
+Dhaka	Dacca
+Dialect	Dialectos
+Dialectic	Dialectica
+Diamond	Adamas
+Diana	Diana Francisca Spencer
+Diana (mythology)	Diana
+Diarrhea	Alvei profluvium
+Dice	Alea
+Dictatorship	Dictatura
+Dictionary	Lexicon
+Dietrich Bonhoeffer	Theodoricus Bonhoeffer
+Digestive system	Categoria:Apparatus digestorius
+Dijon	Divio
+Dill	Anethum
+Dinosaur	Dinosauria
+Diocese	Episcopatus
+Diocletian	Diocletianus
+Diode	Diodus
+Diphtheria	Diphtheria
+Disaccharide	Disaccharides
+Disambiguation	Categoria:Discretiva
+Disc jockey	Discimpositor
+Disease	Morbus
+Djibouti	Categoria:Dzibutum
+Djibouti (city)	Urbs Dzibutum
+Dmitri Mendeleev	Demetrius Mendeleev
+Dmitri Shostakovich	Demetrius Sostakovic
+Dnieper River	Danapris
+Doctor of the Church	Doctor Ecclesiae
+Dodecanese	Dodecanesus
+Dodoma	Dodoma
+Dog	Canis
+Dogma	Dogma
+Dolphin	Delphinus
+Dome	Cupola
+Domesday Book	Liber de Wintonia
+Dominican Order	Dominicani
+Dominican Republic	Respublica Dominicana
+Dominican Republic	Categoria:Respublica Dominicana
+Domitian	Domitianus
+Don River (Russia)	Tanais
+Donald Duck	Donaldus Anas
+Donatello	Donatellus Florentinus
+Donkey	Asinus
+Door	Ianua
+Dorado	Dorado (sidus)
+Doris Lessing	Dorothea Lessing
+Dortmund	Tremonia
+Douglas MacArthur	Douglas MacArthur
+Dover	Dubris
+Draco (constellation)	Draco (sidus)
+Dragon	Draco
+Draughts	Damicus ludus
+Dresden	Dresda
+Drink	Potio
+Dromedary	Camelus dromedarius
+Drought	Aritudo
+Dublin	Eblana
+Dubnium	Dubnium
+Dubrovnik	Ragusa
+Duck	Anas (avis)
+Dugong	Dugon
+Duke University	Universitas Dukiana
+Dunkirk	Dunquerca
+Duodenum	Duodenum
+Durban	Durbanum
+Dustin Hoffman	Dustin Hoffman
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dysprosium	Dysprosium
+E	E
+E (mathematical constant)	Numerus Euleri
+ETA	Euskadi Ta Askatasuna
+Eagle	Aquila
+Ear	Auris
+Earth	Tellus (planeta)
+Earth	Categoria:Terra
+Earthquake	Terrae motus
+East Germany	Res publica Democratica Germanica
+East Timor	Timoria Orientalis
+Easter	Pascha (festum Christianum)
+Eastern Orthodox Church	Ecclesiae Orthodoxae
+Ebola	Ebola febris haemorrhagica
+Ebro	Hiberus
+Eccentricity (mathematics)	Eccentricitas
+Ecclesiastes	Liber Ecclesiastes
+Echidna (mythology)	Echidna
+Eclipse	Defectio solis
+Ecology	Oecologia
+Economics	Oeconomia
+Economics	Categoria:Oeconomia
+Ecuador	Aequatoria
+Ecuador	Categoria:Aequatoria
+Ecumenical council	Oecumenicum Concilium
+Edgar Allan Poe	Edgarus Allan Poe
+Edinburgh	Edimburgum
+Edirne	Hadrianopolis
+Edmond Halley	Edmundus Halley
+Edmonton	Edmundopolis
+Edmund Burke	Edmundus Burke
+Edmund Hillary	Edmundus Hillary
+Edmund Husserl	Edmundus Husserl
+Edvard Grieg	Eduardus Grieg
+Edvard Munch	Eduardus Munch
+Edward Gibbon	Eduardus Gibbon
+Edward Jenner	Eduardus Iennerus
+Edward the Confessor	Eduardus Confessor (rex Anglorum)
+Eel	Anguilliformes
+Egg (biology)	Ovum
+Eggplant	Melongena
+Egypt	Aegyptus
+Egypt	Categoria:Aegyptus
+Eiffel Tower	Turris Eiffelia
+Einsteinium	Einsteinium
+El Cid	Rodericus Didaci
+El Greco	El Greco
+El Paso	Passus, Texiae
+El Salvador	Salvatoria
+Elbe	Albis
+Electric charge	Onus electricum
+Electric current	Fluxio electrica
+Electric guitar	Cithara electrica
+Electrochemistry	Electrochemia
+Electromagnetism	Physica electromagnetica
+Electron	Electron
+Electronics	Electronica
+Electronics	Categoria:Electronica
+Elegy	Poësis elegiaca
+Element	Elementum (discretiva)
+Elephant	Elephantidae
+Elevator	Teleferica
+Elf	Alfus
+Elias Canetti	Elias Canetti
+Elizabeth Taylor	Elizabeth Rosamunda Taylor
+Elm	Ulmus
+Elvis Presley	Elvis Presley
+Emerald	Smaragdus (lapis)
+Emilia-Romagna	Aemilia et Romania
+Emir	Amiralis
+Emma Goldman	Emma Goldman
+Emotion	Motus animi
+Empedocles	Empedocles
+Emperor	Imperator
+Empire State Building	Aedificium Civitatis Imperialis
+Encyclopedia	Encyclopaedia
+Energy	Energia
+Energy (society)	Energia
+England	Anglia
+England	Categoria:Anglia
+English Channel	Oceanus Britannicus
+English Civil War	Bellum Civile Anglicum
+English language	Lingua Anglica
+Enrico Caruso	Henricus Caruso
+Enrico Fermi	Henricus Fermi
+Entomology	Entomologia
+Enzyme	Enzymum
+Eos	Eos
+Ephesus	Ephesus
+Epic poetry	Poesis epica
+Epictetus	Epictetus
+Epicurus	Epicurus
+Epidemic	Epidemia
+Epigraphy	Epigraphia
+Epinephrine	Adrenalinum
+Epiphany (Christian)	Sollemnitas Epiphaniae Domini
+Epirus (periphery)	Epirus
+Epistemology	Epistemologia
+Epistle to the Galatians	Epistula ad Galatas
+Epistle to the Romans	Epistula ad Romanos
+Epsilon	Epsilon
+Equation	Aequatio
+Equator	Linea aequatorialis
+Equatorial Guinea	Guinea Aequatorensis
+Equidae	Equidae
+Erato	Erato
+Erbium	Erbium
+Erectile dysfunction	Impotentia erecti
+Ericaceae	Ericaceae
+Ericales	Ericales
+Eridanus (constellation)	Eridanus (sidus)
+Erik Satie	Ericus Satie
+Eris (dwarf planet)	Eris (planetula)
+Eris (mythology)	Eris
+Eritrea	Categoria:Erythraea
+Ernest Rutherford	Ernestus Rutherford
+Erwin Rommel	Ervinus Rommel
+Esfahan	Aspadana
+Esophagus	Oesophagus
+Esperanto	Esperanto
+Espoo	Espo
+Essen	Assindia
+Ester	Ester
+Estonia	Categoria:Estonia
+Eta (letter)	Eta (littera)
+Ethane	Ethanum
+Ethanol	Ethanol
+Ether	Aether (chemica)
+Ethics	Ethica
+Ethiopia	Aethiopia
+Ethiopia	Categoria:Aethiopia
+Ethnology	Categoria:Ethnologia
+Ethylene	Ethenum
+Etymology	Etymologia
+Eucalyptus	Eucalyptus
+Eucharist	Eucharistia
+Euclid	Euclides
+Eukaryote	Eucaryota
+Euphrates	Euphrates
+Eurasia	Eurasia
+Euripides	Euripides
+Euro	Euro
+Europa (moon)	Europa (satelles)
+Europe	Europa
+Europe	Categoria:Europa
+European Central Bank	Argentaria Europaea centralis
+European Magpie	Pica
+European Union	Unio Europaea
+European Union	Categoria:Unio Europaea
+Europium	Europium
+Eusebius of Caesarea	Eusebius Pamphili
+Euterpe	Euterpe
+Eva Braun	Eva Braun
+Evangelista Torricelli	Evangelista Torricellius
+Even-toed ungulate	Artiodactyla
+Evolution	Evolutio
+Excalibur	Caliburnus
+Existentialism	Exsistentialista
+Exodus	Liber Exodus
+Exponentiation	Potentia (mathematica)
+Eye	Oculus
+F	F
+Fabaceae	Fabaceae
+Face	Vultus
+Fado	Fatum (musica)
+Fagales	Fagales
+Falcon	Falco
+Falconiformes	Falconiformes
+Falkland Islands	Insulae Malvinae
+Family	Categoria:Familia
+Family (biology)	Familia (Taxon)
+Fascism	Fascismus
+Fascism	Categoria:Fascismus
+Fashion	Categoria:Mos vestis
+February	Februarius
+February 12	12 Februarii
+February 14	14 Februarii
+February 2	2 Februarii
+February 22	22 Februarii
+February 29	29 Februarii
+Feces	Faeces
+Federal Reserve System	Systema aerarium foederale
+Federico Fellini	Fridericus Fellini
+Felidae	Felidae
+Felix Mendelssohn	Felix Mendelssohn-Bartholdy
+Ferdinand II	Ferdinandus II
+Ferdinand Magellan	Ferdinandus Magellanus
+Ferdinand de Saussure	Ferdinandus de Saussure
+Fermion	Fermion
+Fermium	Fermium
+Ferrara	Ferraria
+Fever	Febris
+Fiat	Fiat
+Fidel Castro	Fidelis Castro
+Figure skating	Patinaticum
+Fiji	Viti
+Filippo Brunelleschi	Philippus Brunelleschi
+Film	Categoria:Cinematographia
+Film	Pellicula
+Film director	Moderator cinematographicus
+Finger	Digitus
+Finland	Finnia
+Finland	Categoria:Finnia
+Fir	Abies
+Fire	Ignis
+Firearm	Sclopetum
+First Council of Constantinople	Concilium Constantinopolitanum Primum
+First Council of Nicaea	Concilium Nicaenum Primum
+First Crusade	Prima Cruciata
+First Epistle to the Corinthians	Epistula I ad Corinthios
+Fish	Piscis
+Fish	Categoria:Pisces
+Flamenco	Flamencum
+Flanders	Flandria
+Flatworm	Platyhelminthes
+Flemish (linguistics)	Lingua Flandrica
+Flint	Silex
+Flood	Inundatio
+Florence	Florentia
+Florence Nightingale	Florentia Nightingale
+Florida	Florida
+Florida	Categoria:Florida
+Flower	Flos
+Flowering plant	Magnoliophyta
+Fly	Diptera
+Fog	Nebula (meteorologia)
+Food	Alimentum
+Food and Agriculture Organization	Organizatio Alimentaria et Agriculturalis
+Foot	Pes
+Football (soccer)	Pediludium
+Football (soccer) clubs	Categoria:Societates pediludii
+Football (soccer) players	Categoria:Pedilusores
+Force	Vis
+Forest	Silva
+Formaldehyde	Methanal
+Formic acid	Acidum formicum
+Fornax	Fornax (sidus)
+Fort Worth	Arx Vorthensis
+Fossil	Fossilia
+France	Francia
+France	Categoria:Francia
+Francis Bacon	Franciscus Baco
+Francis Drake	Franciscus Drakus
+Francis Ford Coppola	Franciscus Ford Coppola
+Francis II	Franciscus II
+Francis Poulenc	Franciscus Poulenc
+Francis of Assisi	Sanctus Franciscus Assisiensis
+Franciscan	Ordo Fratrum Minorum
+Francisco Franco	Franciscus Franco
+Francisco Goya	Franciscus Goya
+Francium	Francium
+Frank Sinatra	Franciscus Sinatra
+Frankfurt	Francofurtum ad Moenum
+Frankfurt	Categoria:Francofurtum ad Moenum
+Frankfurt (disambiguation)	Francofurtum
+Franklin Pierce	Franklinus Pierce
+Franz Kafka	Franciscus Kafka
+Franz Liszt	Franciscus Liszt
+Franz Schubert	Franciscus Petrus Schubert
+Frederick I	Fridericus I Barbarossa
+Frederick II	Fridericus II
+Fredericton	Fredericopolis
+Free State	Civitas Libera
+Free will	Liberum arbitrium
+Freedom (philosophy)	Libertas
+Freetown	Freetown
+French Polynesia	Polynesia Francogallica
+French Revolution	Res Novae Francicae
+French Revolution	Categoria:Rerum Francicarum eversio
+Frequency	Frequentia
+Fresno	Fraxinus
+Friday	Dies Veneris
+Friedrich Engels	Fridericus Engels
+Friesland	Frisia (provincia)
+Friuli-Venezia Giulia	Forum Iulii et Venetia Iulia
+Frog	Rana
+Fructose	Fructosium
+Fruit	Fructus
+Fugue	Fuga
+Fukuoka	Fucuoca
+Fundamental	Categoria:Omnia
+Fundamentalism	Fundamentalismus
+Fungi	Categoria:Fungi
+Fungus	Fungi
+Fyodor Dostoevsky	Theodorus Dostoevskij
+G	G
+Gabon	Gabonia
+Gaborone	Gaborone
+Gadolinium	Gadolinium
+Gaetano Donizetti	Caietanus Donizetti
+Galatia	Galatia
+Galaxy	Galaxias
+Galen	Claudius Galenus
+Galicia (Central Europe)	Galicia
+Galicia (Spain)	Gallaecia
+Galilee	Galileia
+Galileo Galilei	Galilaeus Galilaei
+Gallbladder	Vesica biliaris
+Galliformes	Galliformes
+Galliformes	Categoria:Galliformes
+Gallium	Gallium
+Galway	Galvia
+Game	Ludus
+Gamma	Gamma
+Ganesha	Ganesa
+Ganymede (moon)	Ganymedes (satelles)
+Gap	Vapincum
+Garden	Hortus
+Garlic	Allium
+Garonne	Garumna
+Gas	Gasium
+Gas giant	Gigas gasosus
+Gastrointestinal tract	Apparatus digestorius
+Gastropoda	Gastropoda
+Gaul	Gallia
+Gautama Buddha	Gautama Buddha
+Gaza	Gaza
+Gaza Strip	Lacinia Gazetica
+Gemini (constellation)	Gemini (sidus)
+Gemstone	Gemma (lapis)
+General relativity	Relativitas generalis
+Genesis	Liber Genesis
+Genetics	Genetica
+Genetics	Categoria:Genetica
+Geneva	Genava (urbs)
+Genitive case	Casus genetivus
+Genoa	Genua
+Geoffrey Chaucer	Galfridus Chaucer
+Geography	Geographia
+Geography	Categoria:Geographia
+Geology	Categoria:Geologia
+Geology	Geologia
+Geometry	Geometria
+Geopolitics	Geographia politica
+Georg Philipp Telemann	Georgius Philippus Telemann
+Georg Wilhelm Friedrich Hegel	Georgius Wilhelmus Fridericus Hegel
+George Berkeley	Georgius Berkeley
+George Bernard Shaw	Georgius Bernardus Shavius
+George Bush	Georgius Bush
+George Frideric Handel	Georgius Fridericus Handel
+George Orwell	Georgius Orwell
+George W. Bush	Georgius W. Bush
+George Washington	Georgius Washingtonius
+Georges Bizet	Georgius Bizet
+Georges Clemenceau	Georgius Clemenceau
+Georges Simenon	Georgius Simenon
+Georgetown	Georgiopolis
+Georgia (U.S. state)	Georgia (CFA)
+Georgia (country)	Georgia
+Georgia (country)	Categoria:Georgia
+Gerald Ford	Giraldus Ford
+German language	Lingua Theodisca
+Germanium	Germanium
+Germany	Germania
+Germany	Categoria:Germania
+Ghana	Gana
+Ghana	Categoria:Gana
+Ghent	Gandavum
+Ghost	Larva
+Giacomo Puccini	Iacobus Puccini
+Giant Panda	Panda maior
+Gibraltar	Calpe
+Gilgamesh	Gilgamus
+Ginkgo	Ginkgo
+Giordano Bruno	Iordanus Brunus
+Giorgio Vasari	Georgius Vasari
+Giovanni Boccaccio	Iohannes Boccacius
+Giraffe	Giraffa
+Girolamo Savonarola	Hieronymus Savonarola
+Gironde	Girundia (praefectura Franciae)
+Giuseppe Garibaldi	Iosephus Garibaldi
+Giuseppe Verdi	Iosephus Verdi
+Gladiator	Gladiator
+Gland	Glandula
+Glasgow	Glasgovia
+Glasnost	Glasnost
+Glass	Vitrum
+Global Positioning System	GPS (Systema localizationis globale)
+Glucagon	Glucagon
+Glucose	Glucosium
+Gluon	Gluon
+Gnathostomata	Gnathostomata
+Go (board game)	Igo
+Goat	Capra
+God	Deus
+Golan Heights	Golan
+Gold	Aurum
+Golden Eagle	Aquila chrysaetos
+Golden Retriever	Avifer aureus
+Gomel	Homel
+Good Friday	Dies Passionis Domini
+Google	Google
+Gospel	Evangelium
+Gospel of Luke	Evangelium secundum Lucam
+Gothenburg	Gothoburgum
+Gothic architecture	Architectura gothica
+Gotthold Ephraim Lessing	Gotthold Ephraim Lessing
+Grace Kelly	Gratia Patricia (principissa Monoecensis)
+Grammar	Ars grammatica
+Grammar	Categoria:Ars grammatica
+Grammatical gender	Genus verborum
+Granada	Granata
+Grape	Uva
+Grapefruit	Citrus paradisi
+Graphite	Graphitum
+Gravitation	Gravitas (physica)
+Graviton	Graviton
+Gray Wolf	Lupus
+Graz	Graecia (urbs)
+Great Britain	Britannia Maior
+Great Depression	Depressio oeconomica magna
+Great Lakes	Lacus Magni
+Great Wall of China	Murus Sinicus
+Great white shark	Carcharodon carcharias
+Greater Antilles	Antillae Magnae
+Greece	Graecia
+Greece	Categoria:Graecia
+Greek alphabet	Abecedarium Graecum
+Greek fire	Ignis Graecus
+Greek mythology	Mythologia Graeca
+Greek mythology	Categoria:Mythologia Graeca
+Green	Viridis
+Greenland	Groenlandia
+Greenwich	Grenovicum
+Gregor Mendel	Gregorius Mendel
+Gregorian calendar	Calendarium Gregorianum
+Grenoble	Gratianopolis
+Greta Garbo	Greta Garbo
+Grey	Canus
+Griffin	Gryps
+Griffon Vulture	Gyps fulvus
+Gross domestic product	Productus domesticus grossus
+Grover Cleveland	Grover Cleveland
+Grus (constellation)	Grus (sidus)
+Guadalajara	Guadalaxara
+Guadeloupe	Guadalupa
+Guam	Guama
+Guatemala	Categoria:Guatemala
+Guglielmo Marconi	Gulielmus Marconi
+Guinea	Guinea
+Guinea-Bissau	Guinea Bissaviensis
+Guitar	Cithara Hispanica
+Gulf War	Bellum Sinus Persici Alterum
+Gulf of Bothnia	Sinus Bothnicus
+Gulf of Mexico	Sinus Mexicanus
+Gustav Klimt	Gustavus Klimt
+Gustav Mahler	Gustavus Mahler
+Guy Fawkes	Guido Fawkes
+Guy de Maupassant	Guido de Maupassant
+Gynaecology	Gynaecologia et Obstetricia
+Gypsum	Gypsum
+Gyroscope	Gyroscopium
+H	H
+Hadean	Aeon Hadaicus
+Hadith	Hadit
+Hadrian	Hadrianus (imperator)
+Hadron	Hadron
+Hafnium	Hafnium
+Hagia Sophia	Sancta Sophia
+Haiku	Haicu
+Hail	Grando
+Hail Mary	Ave Maria
+Hair	Pilus
+Haiti	Haitia
+Haiti	Categoria:Haitia
+Halberd	Halebarda
+Halle	Salinae Saxonicae
+Halloween	Pervigilium Omnium Sanctorum
+Halogen	Halogenica
+Hamas	Hamas
+Hamburg	Hamburgum
+Hamlet	Amletus, Princeps Daniae
+Hammer	Malleus (instrumentum)
+Hammurabi	Hammurabi
+Hampshire	Hantonia
+Hamster	Cricetus
+Hand	Manus
+Hannibal	Hannibal
+Hanoi	Hanoi
+Hanover	Hannovera
+Hans Christian Andersen	Iohannes Christianus Andersen
+Hanseatic League	Hansa
+Hanukkah	Encaenia
+Harare	Hararensis Urbs
+Harpsichord	Clavicymbalum
+Harrisburg	Harrisburgum
+Harry Houdini	Henricus Houdini
+Hassium	Hassium
+Haute-Normandie	Normannia Superior
+Havana	Havana
+Hawaii	Havaii (civitas)
+Hazel	Corylus
+Head	Caput
+Health	Salus
+Heart	Cor
+Heaven	Caelum
+Heavy metal music	Metal (musica)
+Hebrew calendar	Calendarium Hebraicum
+Hector	Hector
+Hector Berlioz	Hector Berlioz
+Heinrich Himmler	Henricus Himmler
+Heinrich Schliemann	Henricus Schliemann
+Helen	Helena
+Helen Keller	Helena Keller
+Helena	Helenopolis (Montana)
+Helicopter	Helicopterum
+Helios	Helius
+Helium	Helium
+Hell	Infernus
+Helmut Schmidt	Helimutus Schmidt
+Helsinki	Helsinkium
+Hematology	Haematologia
+Henri Bergson	Henricus Bergson
+Henri Matisse	Henricus Matisse
+Henrik Ibsen	Henricus Ibsen
+Henry David Thoreau	Henricus David Thoreau
+Henry Fonda	Henricus Fonda
+Henry Ford	Henricus Ford
+Henry Kissinger	Henricus Kissinger
+Henry Purcell	Henricus Purcell
+Hepatitis	Hepatitis
+Hephaestus	Hephaestus
+Hera	Hera
+Heracles	Hercules
+Heraclitus	Heraclitus
+Herbert Hoover	Herbertus Hoover
+Hercules (constellation)	Hercules (sidus)
+Heresy	Haeresis
+Hermes	Hermes
+Hero of Alexandria	Heron Alexandrinus
+Herodotus	Herodotus
+Heron	Ardea (avis)
+Hertfordshire	Comitatus Hertfordiensis
+Hesiod	Hesiodus
+Hesse	Hassia
+Hesse	Categoria:Hassia
+Hestia	Hestia
+Hezbollah	Hizbullah
+Himalayas	Himalaia
+Hinduism	Hinduismus
+Hinduism	Categoria:Induismus
+Hippocrates	Hippocrates
+Hippopotamus	Hippopotamus
+Hirohito	Hirohitus
+Hiroshima	Hirosima
+Hispaniola	Hispaniola
+History	Historia
+History	Categoria:Historia
+Hobart	Hobart
+Hobbit	Hobbit (gens ficticia)
+Hollywood	Ruscisilva
+Holmium	Holmium
+Holy Roman Empire	Imperium Romanum Sacrum
+Holy Spirit	Spiritus Sanctus
+Homer	Homerus
+Hominidae	Hominidae
+Homo (genus)	Homo (genus)
+Homo erectus	Homo erectus
+Homo habilis	Homo habilis
+Homosexuality	Homophylophilia
+Honduras	Honduria
+Honduras	Categoria:Honduria
+Honey	Mel
+Hong Kong	Hongcongum
+Honolulu	Honolulu
+Horace	Quintus Horatius Flaccus
+Hormone	Hormon
+Horse	Equus
+Horus	Horus
+Hospital	Valetudinarium
+Hotel	Deversorium
+Hour	Hora
+House	Domus
+House (TV series)	Domus medicinae doctor
+House Mouse	Mus
+House Sparrow	Passer domesticus
+Houston	Hustonia (Texia)
+Hudson River	Hudsonicum
+Hugh Capet	Hugo Capetius
+Hugo Grotius	Hugo Grotius
+Huguenot	Huguenoti
+Human	Homo sapiens
+Humanism	Humanismus
+Humanities	Categoria:Scientia humana
+Humerus	Humerus
+Hundred Years' War	Bellum Centum Annorum
+Hungary	Hungaria
+Hungary	Categoria:Hungaria
+Hunger	Fames
+Hydra (constellation)	Hydra (sidus)
+Hydrogen	Hydrogenium
+Hydrogen peroxide	Hydrogenium peroxydatum
+Hydroxide	Hydroxidum
+Hydrus	Hydrus (sidus)
+Hymenoptera	Hymenoptera
+Hymn	Hymnus
+Hyperion (moon)	Hyperion (satelles)
+Hypertext	Hypertextus
+Hypothalamus	Hypothalamus
+I	I
+Iapetus (moon)	Iapetus (satelles)
+Iberian Peninsula	Iberia
+Ice	Glacies
+Iceland	Islandia
+Iceland	Categoria:Islandia
+Ichthyology	Ichthyologia
+Idaho	Idahum
+Ideology	Ideologia
+Ido	Ido
+Igloo	Iglu
+Ignatius of Loyola	Ignatius de Loyola
+Igor Stravinsky	Igor Stravinski
+Iliad	Ilias
+Illinois	Illinoesia
+Immanuel Kant	Immanuel Kantius
+Inch	Uncia
+India	India
+India	Categoria:India
+Indian Ocean	Oceanus Indicus
+Indiana	Indiana
+Indiana	Categoria:Indiana
+Indianapolis	Indianapolis
+Indium	Indium
+Indochina	Paeninsula Indosinensis
+Indonesia	Indonesia
+Indulgence	Indulgentia
+Indus (constellation)	Indus (sidus)
+Indus River	Indus (fluvius)
+Inertia	Inertia
+Infinitive	Infinitivus (grammatica)
+Infinity	Infinitas
+Inflammation	Inflammatio
+Ingmar Bergman	Ingmar Bergman
+Innsbruck	Pons Aeni
+Inorganic chemistry	Chemia Inorganica
+Insect	Insecta
+Insulin	Insulinum
+Integer	Numerus integer
+Interjection	Interiectio
+Interlingua	Interlingua
+International Date Line	Linea commutationis diei
+International Monetary Fund	Aerarium Monetarium Internationale
+International System of Units	Systema Internationale
+Internet	Interrete
+Internment	Castra ad captivos concludendos posita
+Intestine	Intestinum
+Invention	Inventum
+Invertebrate	Invertebrata
+Io (moon)	Io (satelles)
+Iodine	Iodium
+Ion	Ion
+Ionia	Ionia
+Ionian Sea	Ionium mare
+Iota	Iota
+Iowa	Iova
+Iran	Irania
+Iran	Categoria:Irania
+Iran-Iraq War	Bellum Sinus Persici Primum
+Iraq	Iraquia
+Iraq	Categoria:Iraquia
+Iridium	Iridium
+Iron	Ferrum
+Iron Maiden	Iron Maiden
+Irrational number	Numerus irrationalis
+Isaac	Isaac
+Isaac Asimov	Isaac Asimov
+Isaac Newton	Isaacus Newtonus
+Isis	Isis
+Islam	Religio Islamica
+Islam	Categoria:Religio Islamica
+Islamabad	Islamabada
+Island	Insula
+Isle of Man	Monapia
+Isle of Wight	Vecta
+Isoroku Yamamoto	Isorocus Iamamotus
+Israel	Israel (civitas)
+Israel	Categoria:Israel
+Istanbul	Categoria:Constantinopolis
+Italy	Italia
+Italy	Categoria:Italia
+Ithaca	Ithaca (insula)
+Ivan Pavlov	Ioannes Pavlov
+Ivory	Ebur
+J	J
+Jack Lemmon	Jack Lemmon
+Jacksonville	Iacsoniapolis, Floridae
+Jacques Cartier	Iacobus Cartier
+Jacques Derrida	Iacobus Derrida
+Jacques Offenbach	Iacobus Offenbach
+Jaguar	Onca
+Jakarta	Batavia (urbs)
+Jamaica	Iamaica
+James	Sanctus Iacobus Maior
+James A. Garfield	Iacobus Garfield
+James Bond	Iacobus Bond
+James Buchanan	Iacobus Buchanan
+James Cook	Iacobus Cook
+James Joyce	Iacobus Joyce
+James K. Polk	Iacobus Knox Polk
+James Madison	Iacobus Madison
+James Monroe	Iacobus Monroe
+James Prescott Joule	Iacobus Prescott Joule
+James Watt	Iacobus Watt
+Jan Hus	Ioannes Hus
+Jane Austen	Ioanna Austen
+Jane Fonda	Ioanna Fonda
+Jane Seymour	Iana Seimora
+January	Ianuarius
+January 1	1 Ianuarii
+January 19	19 Ianuarii
+January 20	20 Ianuarii
+January 6	6 Ianuarii
+Janus (mythology)	Ianus
+Japan	Iaponia
+Japan	Categoria:Iaponia
+Jason	Iason
+Jaundice	Icterus
+Java	Iava
+Jazz	Iazium
+Jean Cocteau	Ioannes Cocteau
+Jean Sibelius	Ioannes Iulius Christianus Sibelius
+Jean-Jacques Rousseau	Iohannes-Iacobus Rousseau
+Jean-Paul Sartre	Ioannes Paulus Sartre
+Jean-Philippe Rameau	Ioannes Philippus Rameau
+Jeddah	Iedda
+Jehovah	Iehovah
+Jehovah's Witnesses	Testes Iehovah
+Jellyfish	Scyphozoa
+Jena	Iena
+Jeremy Bentham	Ieremia Bentham
+Jerome	Hieronymus
+Jersey	Caesarea insula
+Jerusalem	Hierosolyma
+Jesus	Iesus
+Jew	Populus Iudaicus
+Jihad	Gihad
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Iacobus Earl Carter
+Joan of Arc	Ioanna de Arc
+Johann Sebastian Bach	Iohannes Sebastianus Bach
+Johann Wolfgang von Goethe	Ioannes Wolfgang Goethe
+Johannes Brahms	Iohannes Brahms
+Johannes Gutenberg	Iohannes Gutenberg
+Johannes Kepler	Iohannes Keplerus
+Johannesburg	Ioannisburgum
+John Adams	Ioannes Adams
+John Calvin	Ioannes Calvinus
+John Chrysostom	Iohannes Chrysostomus
+John Dalton	Ioannes Dalton
+John Lennon	Ioannes Lennon
+John Locke	Ioannes Lockius
+John Major	Ioannes Major
+John Maynard Keynes	Ioannes Meginhardus Keynes
+John Milton	Ioannes Miltonus
+John Quincy Adams	Ioannes Quintius Adams
+John Ruskin	Ioannes Ruskin
+John Stuart Mill	Ioannes Stuart Mill
+John Tyler	Ioannes Tyler
+John Wayne	Iohannes Wayne
+John Wycliffe	Ioannes Wicliffe
+John the Baptist	Sanctus Ioannes Baptista
+Jordan	Iordania
+Jordan River	Iordanus
+Jorge Luis Borges	Georgius Ludovicus Borges
+Joseph Goebbels	Iosephus Goebbels
+Joseph Haydn	Franciscus Iosephus Haydn
+Joseph Louis Gay-Lussac	Iosephus Aloisius Gaylussac
+Joseph Smith	Iosephus Smith
+Joseph Stalin	Iosephus Stalin
+Josephus	Flavius Iosephus
+Joule	Joulium
+Jovian	Iovianus
+Judaism	Religio Iudaica
+Judaism	Categoria:Religio Iudaica
+Judo	Ziudo
+Judy Garland	Judy Garland
+Jujutsu	Ziuziutum
+Jules Verne	Iulius Verne
+Julian calendar	Calendarium Iulianum
+Julian the Apostate	Flavius Claudius Iulianus
+Julius Caesar	Gaius Iulius Caesar
+July	Iulius
+July 1	1 Iulii
+July 4	4 Iulii
+June	Iunius
+June 14	14 Iunii
+June 21	21 Iunii
+June 23	23 Iunii
+June 24	24 Iunii
+June 29	29 Iunii
+June 3	3 Iunii
+Juneau	Iunellum
+Juniper	Juniperus
+Juno (mythology)	Iuno (mythologia)
+Jupiter	Iuppiter (planeta)
+Jupiter	Categoria:Iuppiter
+Jupiter (disambiguation)	Iuppiter
+Jupiter (mythology)	Iuppiter (deus)
+Jurassic	Aevum Iurassicum
+Justinian I	Iustinianus I
+Jutland	Cimbria
+K	K
+Kabul	Cabura
+Kamikaze	Camicaze
+Kampala	Kampala
+Kandahar	Alexandria Arachosia
+Kangaroo	Macropus
+Kansas	Kansia
+Kappa	Cappa
+Karachi	Karachi
+Karate	Carate
+Karl Barth	Carolus Barth
+Karl Jaspers	Carolus Theodorus Jaspers
+Karl Marx	Carolus Marx
+Karl Popper	Carolus Popper
+Karnataka	Carnatica
+Katharine Hepburn	Catharina Hepburn
+Kathmandu	Kathmandu
+Katowice	Katovicum
+Kaunas	Couna
+Kazakhstan	Casachia
+Kazan	Casanum
+Kelvin	Kelvin (unitas)
+Kent	Cantium
+Kentucky	Kentukia
+Kenya	Kenia
+Kenya	Categoria:Kenia
+Kernel (computer science)	Medulla
+Kerosene	Petroleum
+Ketone	Ketonum
+Keyboard (computing)	Claviatura
+Khan	Chanis
+Kharkiv	Charcovia
+Khartoum	Khartumensis Urbs
+Khufu	Cheops
+Kidney	Ren
+Kiev	Chiovia
+Kigali	Kigali
+Kilogram	Chiliogramma
+Kilometre	Chiliometrum
+King (chess)	Rex (scacci)
+King Arthur	Arthurus Rex
+King Lear	Leir Rex
+Kingston	Kingston (Iamaica)
+Kinshasa	Kinshasa
+Kiribati	Kiribati
+Kite	Draco volans papyreus
+Knee	Genu
+Knight (chess)	Eques (scacci)
+Knossos	Cnossus
+Knowledge	Scientia
+Koala	Phascolarctos cinereus
+Kolkata	Colcata
+Konrad Adenauer	Conradus Adenauer
+Korea	Corea
+Korea	Categoria:Corea
+Korean War	Bellum Coreanum
+Kosovo	Ager Merulensis
+Krypton	Krypton
+Kuala Lumpur	Kuala Lumpur
+Kuiper belt	Zona Kuiperi
+Kurt Vonnegut	Curtius Vonnegut
+Kurt Waldheim	Curtius Waldheim
+Kuwait	Cuvaitum
+KwaZulu-Natal	Zuluvia-Nativitas
+Kyoto	Kyotum
+Kyrgyzstan	Chirgisia
+L	L
+L'Aquila	Aquila (Italia)
+La Paz	Paxia
+La Spezia	Spedia
+Lacerta	Lacerta (sidus)
+Lactose	Lactosium
+Lagos	Lacupolis
+Lake	Lacus
+Lake Baikal	Lacus Baical
+Lake Constance	Lacus Bodamicus
+Lake Erie	Lacus Eriarum
+Lake Geneva	Lemanus Lacus
+Lake Huron	Lacus Huronorum
+Lake Ladoga	Lacus Ladoga
+Lake Michigan	Michiganus Lacus
+Lake Onega	Lacus Onega
+Lake Ontario	Lacus Ontario
+Lake Superior	Lacus Superior
+Lake Victoria	Lacus Victoria
+Lambda	Labda
+Lammergeier	Gypaetus barbatus
+Lancashire	Lancastriensis comitatus
+Language	Lingua
+Languedoc-Roussillon	Occitania et Ruscino
+Lanthanum	Lanthanum
+Laos	Laotia
+Larynx	Larynx
+Las Vegas	Campi
+Latin	Lingua Latina
+Latin America	America Latina
+Latin alphabet	Abecedarium Latinum
+Latitude	Latitudo geographica
+Latvia	Lettonia
+Latvia	Categoria:Lettonia
+Lausanne	Lausonium
+Lava	Lava
+Law	Ius
+Lawrencium	Lawrencium
+Lawyer	Causidicus
+Lazio	Latium
+Le Corbusier	Le Corbusier
+Le Havre	Franciscopolis
+Lead	Plumbum
+Leaf	Folium
+League of Nations	Societas Civitatum
+Leap year	Annus bisextilis
+Lebanon	Libanus
+Lebanon	Categoria:Libanus
+Leeds	Ledesia
+Lego	Lego
+Leiden	Lugdunum Batavorum
+Leipzig	Lipsia
+Lemon	Limon
+Lena River	Lena
+Length	Longitudo
+Lent	Quadragesima
+Leo (constellation)	Leo (sidus)
+Leo I (emperor)	Leo I (imperator)
+Leon Trotsky	Leo Trotski
+Leonardo da Vinci	Leonardus Vincius
+Leonhard Euler	Leonhardus Eulerus
+Leopard	Pardus
+Leprosy	Lepra
+Lepton	Lepton
+Lepus (constellation)	Lepus (sidus)
+Lesotho	Lesothum
+Lesotho	Categoria:Lesothum
+Leto	Latona
+Letter (alphabet)	Littera
+Leukemia	Leucaemia
+Lever	Vectis
+Leviticus	Liber Leviticus
+Lewis Carroll	Ludovicus Carroll
+Liberalism	Liberalismus
+Liberia	Liberia
+Libra (constellation)	Libra (sidus)
+Library	Bibliotheca
+Libreville	Libreville
+Libya	Libya
+Libya	Categoria:Libya
+Lichen	Lichen
+Liechtenstein	Lichtenstenum
+Life	Biota
+Light	Lux
+Light-year	Spatium lucis annuae
+Lighthouse	Pharus
+Lightning	Fulgur
+Liguria	Liguria
+Ligurian Sea	Mare Ligusticum
+Lille	Insula (urbs)
+Lilongwe	Lilongwe
+Lima	Lima
+Limousin (region)	Lemovicensis (regio Franciae)
+Lincoln	Lincolnia (Nebrasca)
+Lincolnshire	Comitatus Lincolniensis
+Lingua franca	Lingua franca
+Linguistics	Linguistica
+Linguistics	Categoria:Linguistica
+Linus Pauling	Linus Pauling
+Linux	Linux
+Linz	Lentia
+Lion	Leo
+Liqueur	Anisatum
+Lisbon	Olisipo
+Literature	Litterae
+Literature	Categoria:Litterae
+Lithium	Lithium
+Lithuania	Lituania
+Lithuania	Categoria:Lituania
+Litre	Litrum
+Liverpool	Liverpolium
+Livonia	Livonia
+Livy	Titus Livius
+Lizard	Lacertilia
+Ljubljana	Aemona
+Llama	Lama glama
+Locomotive	Machina vectrix
+Logarithm	Logarithmus
+Logic	Logica
+Logic	Categoria:Logica
+Loire	Liger (praefectura Franciae)
+Loire River	Liger
+Lolita	Lolita
+Lombardy	Langobardia
+London	Londinium
+London	Categoria:Londinium
+Long Beach	Litus Longum
+Long Island	Insula Longa
+Lord's Prayer	Pater noster
+Lorraine (region)	Lotharingia
+Los Angeles	Angelopolis
+Lot (department)	Oltis (praefectura Franciae)
+Louis Braille	Ludovicus Braille
+Louis Pasteur	Ludovicus Pasteur
+Louis the Pious	Ludovicus Pius
+Louis the Stammerer	Ludovicus II (rex Franciae)
+Louisiana	Ludoviciana
+Louisville	Ludovicopolis
+Louvre	Museum Lupariense
+Love	Amor
+Lower Saxony	Saxonia Inferior
+Luanda	Luanda
+Lucerne	Lucerna (urbs)
+Luciano Pavarotti	Lucianus Pavarotti
+Lucifer	Lucifer
+Lucretius	Lucretius
+Lucrezia Borgia	Lucretia Borgia
+Ludwig Boltzmann	Ludovicus Boltzmann
+Ludwig Wittgenstein	Ludovicus Wittgenstein
+Ludwig van Beethoven	Ludovicus van Beethoven
+Luigi Galvani	Aloisius Galvanus
+Luigi Pirandello	Ludovicus Pirandello
+Lund	Lunda
+Lung	Pulmo
+Lung cancer	Cancer pulmonum
+Lupus (constellation)	Lupus (sidus)
+Lusaka	Lusaca
+Lusitania	Lusitania (provincia Romana)
+Lutetium	Lutetium
+Luxembourg	Luxemburgum
+Luxembourg (city)	Luxemburgum (urbs)
+Luzon	Luconia
+Lydia	Lydia (regnum)
+Lymphatic system	Systema lymphaticum
+Lynx (constellation)	Lynx (sidus)
+Lyon	Lugdunum
+Lyra	Lyra (sidus)
+M	M
+Macbeth	Macbeth
+Macedonia (Greece)	Macedonia Graeca
+Machine	Machina
+Madagascar	Madagascaria
+Madagascar	Categoria:Madagascaria
+Madeira	Insulae Madeirae
+Madison	Madisonia
+Madonna (entertainer)	Madonna (cantrix)
+Madrid	Matritum
+Madrid (autonomous community)	Communitas Matriti
+Magic (paranormal)	Magia (ars)
+Magna Carta	Magna charta libertatum
+Magnesium	Magnesium
+Magnet	Magnes
+Magnoliopsida	Categoria:Magnoliopsida
+Mahatma Gandhi	Mahatma Gandhi
+Mail	Cursus publicus
+Maimonides	Maimonides
+Main	Moenus
+Maine	Cenomannica
+Maine	Categoria:Cenomannica
+Maize	Zea Mays
+Majorca	Maiorica
+Malabo	Malabo
+Malachite	Malachites
+Malaria	Malaria
+Malaysia	Malaesia
+Maldives	Insulae Maldivae
+Mali	Malium
+Mallard	Anas platyrhynchos
+Malta	Melita (res publica)
+Maltese language	Lingua Melitica
+Maltose	Maltosium
+Malvaceae	Malvaceae
+Mammal	Mammalia
+Mammoth	Mammuthus
+Managua	Managua
+Manama	Manama
+Manatee	Manatus
+Manchester	Mancunium
+Mandarin (linguistics)	Lingua Sinensis Mandarinica
+Manganese	Manganum
+Mango	Mangifera
+Manhattan	Comitatus Novum Eboracum
+Manila	Manila
+Manitoba	Manitoba
+Mannheim	Manhemium
+Mantua	Mantua
+Manuscript	Manuscriptum
+Mao Zedong	Mao Zedong
+Map	Tabula geographica
+Maputo	Maputo
+Marble	Marmor
+Marc Chagall	Marcus Chagall
+Marcel Proust	Marcellus Proust
+March	Martius
+March 17	17 Martii
+March 19	19 Martii
+March 2	2 Martii
+March 25	25 Martii
+Marche	Marchiae
+Marco Polo	Marcus Paulus Venetus
+Marcus Aurelius	Marcus Aurelius
+Marcus Junius Brutus	Marcus Iunius Brutus
+Marcus Vipsanius Agrippa	Marcus Vipsanius Agrippa
+Margaret Thatcher	Margarita Thatcher
+Maria Callas	Maria Callas
+Marie Antoinette	Maria Antonia Iosepha Ioanna Habsburgum
+Marie Curie	Maria Curie
+Mariehamn	Portus Mariae
+Marilyn Monroe	Marilyn Monroe
+Mark Antony	Marcus Antonius
+Mark Twain	Mark Twain
+Marlene Dietrich	Maria Magdalena Dietrich
+Marquis de Sade	Donatianus Alphonsus Franciscus de Sade
+Marriage	Matrimonium
+Mars	Categoria:Mars
+Mars (disambiguation)	Mars
+Mars (mythology)	Mars (deus)
+Marseille	Massilia
+Marshall Islands	Insulae Marsalienses
+Marsupial	Marsupialia
+Martin Buber	Martinus Buber
+Martin Heidegger	Martinus Heidegger
+Martin Luther	Martinus Lutherus
+Martin Luther King	Martinus Lutherus King Jr.
+Martin Scorsese	Martinus Scorsese
+Martin Van Buren	Martinus Van Buren
+Martinique	Martinica
+Martyr	Martyr
+Marx Brothers	Fratres Marx
+Marxism	Placita Marxiana
+Mary (mother of Jesus)	Virgo Maria
+Mary Magdalene	Maria Magdalena
+Maryland	Terra Mariae
+Maseru	Maseru
+Mass	Pondus et Massa
+Mass (liturgy)	Missa
+Massachusetts	Massachusetta
+Massachusetts Institute of Technology	Massachusettense Institutum Technologiae
+Masturbation	Masturbatio
+Mathematics	Mathematica
+Mathematics	Categoria:Mathematica
+Maundy Thursday	Dies Cenae Domini
+Mauritania	Mauretania
+Mauritius	Mauritia
+Max Bruch	Maximus Bruch
+Max Planck	Maximilianus Planck
+Max Weber	Maximilianus Weber
+Maximian	Maximianus
+Maxwell's equations	Aequationes Maxwellianae
+May	Maius
+May 1	1 Maii
+May 24	24 Maii
+Mayenne	Meduana (praefectura Franciae)
+Mayfly	Ephemeroptera
+Mbabane	Mbabane
+Mead	Hydromeli
+Measles	Morbillus
+Measurement	Mensura
+Meat	Caro
+Mecca	Mecca
+Medea	Medea (mythologia)
+Medici	Gens Medicaea
+Medicine	Medicina
+Medicine	Categoria:Medicina
+Medina	Medina
+Mediterranean Sea	Mare Mediterraneum
+Medusa	Medusa
+Meerkat	Suricata suricatta
+Meister Eckhart	Eckhartus de Hochheim
+Meitnerium	Meitnerium
+Mel Gibson	Mel Gibson
+Melanesia	Melanesia
+Melpomene	Melpomene
+Memphis	Memphis (Tennesia)
+Mendelevium	Mendelevium
+Menelaus	Menelaus
+Meningitis	Meningitis
+Mensa (constellation)	Mensa (sidus)
+Menstruation	Menstruatio
+Mercury	Mercurius
+Mercury (element)	Hydrargentum
+Mercury (mythology)	Mercurius (deus)
+Mercury (planet)	Mercurius (planeta)
+Meridian (geography)	Meridianus
+Meryl Streep	Maria Ludovica Streep
+Mesopotamia	Mesopotamia
+Mesopotamia	Categoria:Mesopotamia
+Mesozoic	Aera Mesozoica
+Messenger RNA	MRNA
+Messina	Messana
+Metal	Metallum
+Metaphysics	Metaphysica
+Metaphysics	Categoria:Metaphysica
+Metastasis	Metastasis
+Meteorology	Meteorologia
+Methanol	Methanol
+Metre	Metrum
+Meuse	Mosa (praefectura Franciae)
+Meuse River	Mosa
+Mexico	Mexicum
+Mexico	Categoria:Mexicum
+Mexico City	Mexicopolis
+Miami	Miamia
+Michael Faraday	Michael Faraday
+Michel Ney	Michael Ney
+Michelangelo	Michael Angelus Bonarotius
+Michigan	Michigania
+Microbiology	Microbiologia
+Microbiology	Categoria:Microbiologia
+Microprocessor	Processor
+Microscopium	Microscopium (sidus)
+Middle Ages	Medium Aevum
+Middle East	Oriens Medius
+Miguel de Cervantes	Michael de Cervantes
+Mikhail Gorbachev	Michael Gorbachev
+Milan	Mediolanum
+Military	Categoria:Res militaris
+Milk	Lac
+Milky Way	Via lactea
+Millard Fillmore	Milvardus Fillmore
+Millennium	Millennium
+Millimetre	Millimetrum
+Million	Decies centena milia
+Milton Friedman	Milton Friedman
+Milwaukee	Milvauchia
+Mindanao	Mindanao
+Mineral	Minerale
+Mineralogy	Categoria:Mineralogia
+Minerva	Minerva
+Minneapolis	Minneapolis (Minnesota)
+Minnesota	Minnesota
+Minnesota	Categoria:Minnesota
+Minotaur	Minotaurus
+Minsk	Minscum
+Minute	Minutum
+Mirror	Speculum
+Mississippi River	Missisippius Fluvius
+Missouri	Missuria
+Mitochondrion	Mitochondrium
+Mobile phone	Telephonum gestabile
+Mogadishu	Mogadiscio
+Moldova	Respublica Moldavica
+Molecular biology	Biologia molecularis
+Molecule	Molecula
+Molise	Molensis
+Mollusca	Mollusca
+Molybdenum	Molybdenum
+Monaco	Monoecus
+Monaco	Categoria:Monoecus
+Monarchy	Monarchia
+Monastery	Monasterium
+Monday	Dies lunae
+Money	Pecunia
+Mongolia	Mogolia
+Mongoose	Herpestidae
+Monopoly	Monopolium
+Monotheism	Religio monotheistica
+Monotreme	Monotremata
+Monrovia	Monrovia
+Mons	Mons (Vallonia)
+Mont Blanc	Rupes Alba
+Montana	Montana
+Montana	Categoria:Montana
+Monte Carlo	Mons Caroli
+Montenegro	Mons Niger
+Montenegro	Categoria:Mons Niger
+Monterrey	Monterrey
+Montevideo	Montevideo
+Month	Mensis
+Montreal	Mons Regius
+Montserrat	Montserrat
+Moon	Luna (satelles)
+Moose	Alces
+Moravia	Moravia (terra)
+Morocco	Marocum
+Morocco	Categoria:Marocum
+Mosaic	Opus Tessellatum
+Moscow	Moscua
+Moselle	Mosella (praefectura Franciae)
+Moses	Moyses
+Mosque	Meschita
+Mosquito	Culicidae
+Motet	Motetus
+Mother	Mater
+Mother Teresa	Mater Teresa
+Mount Ararat	Ararat
+Mount Etna	Aetna
+Mount Everest	Mons Everestis
+Mount Fuji	Mons Fusius
+Mount Olympus	Olympus mons
+Mount St. Helens	Mons Sanctae Helenae
+Mount Vesuvius	Vesuvius mons
+Mountain	Mons
+Mountain pass	Transitus
+Mouse	Mus
+Mouse (computing)	Mus (computatralis)
+Mozambique	Mozambicum
+Mu (letter)	My
+Muhammad	Machometus
+Muhammad Ali	Muhammad Ali
+Mumbai	Mumbai
+Munich	Monacum
+Municipality	Commune
+Muon	Myon
+Musca	Musca (sidus)
+Muscle	Musculus
+Muse	Musa
+Museum	Museum
+Mushroom	Fungi
+Music	Musica
+Music	Categoria:Musica
+Musical instrument	Instrumentum musicum
+Musician	Musicus
+Mustelidae	Mustelidae
+Mycenae	Mycenae
+Myocardial infarction	Infarctus cordis
+Mysticism	Mystica
+Mythology	Mythologia
+Mythology	Categoria:Mythologia
+N	N
+N'Djamena	N'Diamena
+NATO	OTAN
+Nagasaki	Nagasacium (urbs)
+Nagoya	Nagoia
+Nahuatl	Lingua Navatlaca
+Nail (anatomy)	Unguis
+Nail (fastener)	Clavus
+Nairobi	Nairobia
+Namibia	Namibia
+Namibia	Categoria:Namibia
+Namur (city)	Namurcum
+Nancy	Nanceium
+Nantes	Portus Namnetum
+Naples	Neapolis
+Napoleonic Wars	Bella Coitionum
+Nashville	Nasburgum
+Nation	Natio
+National anthem	Hymnus nationalis
+Natural number	Numerus naturalis
+Nature	Natura
+Nauru	Nauruna Insula
+Nauru	Categoria:Naurum
+Navy	Classis (nautica)
+Nazareth	Nazara
+Nazi Party	Nationalis Socialistica Laboratorum Factio Germanica
+Neanderthal	Homo neanderthalensis
+Nebraska	Nebrasca
+Nebula	Nebula (astronomia)
+Neckar	Neccarus
+Neil Armstrong	Nialus Armstrong
+Nematode	Nematoda
+Nemean Lion	Leo Nemaeus
+Nemesis (mythology)	Nemesis
+Neodymium	Neodymium
+Neolithic	Neolithicum
+Neologism	Neologismus
+Neon	Neon
+Neoplatonism	Neoplatonismus
+Nepal	Nepalia
+Neptune	Neptunus (planeta)
+Neptunium	Neptunium
+Nero	Nero Claudius Caesar Augustus Germanicus
+Nerva	Nerva
+Nervous system	Categoria:Systema nervosum
+Netherlands	Nederlandia
+Netherlands	Categoria:Nederlandia
+Netherlands Antilles	Antillae Nederlandiae
+Neuron	Neuron
+Neutron	Neutron
+Neutron star	Stella neutronica
+Nevada	Nivata
+Neville Chamberlain	Neville Chamberlain
+New Brunswick	Novum Brunsvicum
+New Caledonia	Nova Caledonia
+New Delhi	Dellium Novum
+New England	Nova Anglia
+New Guinea	Nova Guinea
+New Hampshire	Nova Hantonia
+New Hampshire	Categoria:Nova Hantescira
+New Jersey	Nova Caesarea
+New Mexico	Novum Mexicum
+New Orleans	Nova Aurelia
+New South Wales	Nova Cambria Australis
+New Testament	Novum Testamentum
+New York	Novum Eboracum
+New York	Categoria:Novum Eboracum
+New York City	Urbs Novum Eboracum
+New Zealand	Nova Zelandia
+New Zealand	Categoria:Nova Zelandia
+Newfoundland (island)	Terra Nova
+Newfoundland and Labrador	Terra Nova et Labrador
+Newport	Novus Burgus
+Newton	Newtonium
+Niamey	Niamey
+Nicaragua	Nicaragua
+Nice	Nicaea (Francia)
+Nicene Creed	Symbolum Nicaenum
+Nickel	Niccolum
+Nicolaus Copernicus	Nicolaus Copernicus
+Nicosia	Nicosia
+Niels Bohr	Nicolaus Bohr
+Niger	Niger
+Niger	Categoria:Niger
+Nigeria	Nigeria
+Nigeria	Categoria:Nigeria
+Night	Nox
+Nijmegen	Ulpia Noviomagus Batavorum
+Nikola Tesla	Nicolaus Tesla
+Nile	Nilus
+Nile crocodile	Crocodylus niloticus
+Niobium	Niobium
+Nitrogen	Nitrogenium
+Noah	Noe
+Noam Chomsky	Noam Chomsky
+Nobel Prize	Praemium Nobelianum
+Nobelium	Nobelium
+Nominative case	Nominativus
+Norfolk	Norfolcia
+Norfolk Island	Insula Norfolk
+Norma (constellation)	Norma (sidus)
+Normal distribution	Distributio normalis
+Norman Mailer	Norman Mailer
+Normandy	Normannia
+Norse mythology	Religio Germanica
+North America	America Septentrionalis
+North America	Categoria:America Septentrionalis
+North Carolina	Carolina Septentrionalis
+North Carolina	Categoria:Carolina Septentrionalis
+North Dakota	Dacota Septentrionalis
+North Dakota	Categoria:Dacota Septentrionalis
+North Korea	Respublica Populi Democratica Coreae
+North Pole	Polus septentrionalis
+North Sea	Mare Germanicum
+North Yorkshire	Isuria Septentrionalis
+Northern Ireland	Hibernia Septentrionalis
+Northern Ireland	Categoria:Hibernia Septentrionalis
+Northern Mariana Islands	Insulae Marianae Septentrionales
+Northern Territory	Australia Borealis
+Northwest Territories	Territoria Septentrio-occidentalia
+Norway	Norvegia
+Norway	Categoria:Norvegia
+Nose	Nasus
+Nostradamus	Michael Nostradamus
+Note	Sonus
+Nouakchott	Nouakchott
+Noun	Nomen (grammatica Latina)
+Nova Scotia	Nova Scotia
+Novaya Zemlya	Nova Zemla
+Novel	Mythistoria
+November	November
+November 1	1 Novembris
+November 11	11 Novembris
+November 2	2 Novembris
+November 5	5 Novembris
+Novial	Lingua Novial
+Novosibirsk	Novosibirscum
+Nu (letter)	Ny
+Nuclear power	Energia nuclearis
+Nuclear weapon	Bomba atomica
+Number	Numerus
+Numbers	Categoria:Numeri
+Numidia	Numidia
+Nunavut	Nunavut
+Nuremberg	Norimberga
+Nut (fruit)	Nux
+Nutrition	Categoria:Alimenta
+O	O
+Oak	Quercus
+Oakland	Quercupolis (California)
+Oasis	Oasis
+Oat	Avena sativa
+Oaxaca	Guaxaca
+Ob River	Obius
+Occam's razor	Novacula Guillelmi de Ockham
+Ocean	Oceanus
+Oceania	Oceania
+Oceania	Categoria:Oceania
+Oceanography	Oceanologia
+Octans	Octans (sidus)
+October	October
+October 12	12 Octobris
+October 24	24 Octobris
+October Revolution	Revolutio Octobris Russica
+Octopus	Octopus
+Oder River	Viadrus
+Odin	Othinus
+Odonata	Odonata
+Odysseus	Ulixes
+Odyssey	Odyssea
+Oedipus	Oedipus
+Ohio	Ohium
+Ohio	Categoria:Ohium
+Oklahoma	Oclahoma
+Oktoberfest	Festum Octobre
+Old Church Slavonic	Lingua Slavica Ecclesiastica
+Old Norse	Lingua Nordica Antiqua
+Old Testament	Vetus Testamentum
+Oligarchy	Oligarchia
+Olive	Olea
+Oliver Cromwell	Olivarius Cromwell
+Oliver Stone	Oliverius Stone
+Olympic Games	Olympia (certamina)
+Omaha	Omaha
+Oman	Omania
+Omega	Omega
+Omicron	Omicron
+Onion	Cepa
+Ontario	Ontario
+Ontario	Categoria:Ontario
+Ontology	Ontologia
+Opal	Opalus
+Opera	Theatrum lyricum
+Operating system	Systema administrativum computatrale
+Ophiuchus	Ophiuchus (sidus)
+Optics	Optica
+Oral sex	Coitus oralis
+Orange (fruit)	Citrus sinensis
+Orangutan	Pongo
+Orca	Orca
+Orchestra	Orchestra
+Order (biology)	Ordo (Taxon)
+Order of Saint Benedict	Ordo Sancti Benedicti
+Ordovician	Aevum Ordovicicum
+Oregano	Origanum vulgare
+Oregon	Oregonia
+Orestes (mythology)	Orestes
+Organ (music)	Organum tubulatum
+Organic chemistry	Chemia Organica
+Organic chemistry	Categoria:Chemica Organica
+Organization	Organizatio
+Orgasm	Orgasmus
+Origen	Origenes
+Orion (constellation)	Orion (sidus)
+Ornithology	Ornithologia
+Ornithology	Categoria:Ornithologia
+Orpheus	Orpheus
+Orson Welles	Orson Welles
+Orthography	Orthographia
+Osaka	Osaca
+Osama bin Laden	Usama bin Ladin
+Oscar Wilde	Anscharius Wilde
+Osiris	Osiris
+Oslo	Asloa
+Osmium	Osmium
+Osteichthyes	Osteichthyes
+Osteoporosis	Osteoporosis
+Ostrava	Ostravia
+Ostrich	Struthio
+Othello	Othello, Maurus Venetiae
+Otho	Otho
+Ottawa	Ottava
+Otto I	Otto I Magnus
+Otto von Bismarck	Otho de Bismarck
+Ottoman Empire	Imperium Ottomanicum
+Ottoman Empire	Categoria:Imperium Ottomanicum
+Ovary	Ovarium
+Ovid	Publius Ovidius Naso
+Oviedo	Ovetus
+Owl	Asio
+Oxford	Oxonia
+Oxide	Oxidum
+Oxygen	Oxygenium
+P	P
+PH	Pondus Hydrogenii
+Pablo Neruda	Paulus Neruda
+Pablo Picasso	Paulus Picasso
+Pacific Ocean	Oceanus Pacificus
+Padua	Patavium (urbs)
+Pakistan	Pakistania
+Pakistan	Categoria:Pakistania
+Palau	Belavia
+Paleolithic	Palaeolithicum
+Paleontology	Palaeontologia
+Paleozoic	Aera Palaeozoica
+Palermo	Panormus
+Palestine	Palaestina
+Pali	Pali
+Palindrome	Palindromus
+Palladium	Palladium
+Palm Sunday	Dominica in Palmis de passione Domini
+Palmyra	Palmyra
+Pan (mythology)	Pan (deus)
+Panama	Panama
+Panama Canal	Vicipaedia:Porta eruditionis/Scriptorium/Canalis Panamae
+Pancreas	Pancreas
+Pangaea	Pangaea
+Pantheism	Religio Pantheia
+Pantheon	Pantheon
+Panthera	Panthera
+Papal States	Status Pontificius
+Papua New Guinea	Papua Nova Guinea
+Papyrus	Papyrus (charta)
+Paracelsus	Paracelsus
+Paraguay	Paraguaia
+Paraguay	Categoria:Paraguaia
+Parallelogram	Parallelogramma
+Paramaribo	Paramaribo
+Paris	Lutetia
+Paris	Categoria:Lutetia
+Paris (mythology)	Paris (Mythologia)
+Parity (mathematics)	Numerus impar
+Parliament	Parlamentum
+Parmenides	Parmenides
+Parrot	Psittacus
+Parsley	Petroselinum
+Parthenon	Parthenon
+Particle physics	Physica particularum elementariarum
+Pascal (programming language)	Pascal
+Passerine	Passeriformes
+Passover	Pascha
+Passport	Syngraphus
+Patagonia	Patagonia
+Patras	Patrae
+Patriarch	Patriarcha
+Paul Klee	Paulus Klee
+Paul Newman	Paulus Newman
+Paul the Apostle	Paulus
+Paul von Hindenburg	Paulus de Hindenburg
+Pauli exclusion principle	Principium exclusionis Pauli
+Pavo (constellation)	Pavo (sidus)
+Pawn (chess)	Pedes (scacci)
+Pays de la Loire	Pagi Ligeris (regio Franciae)
+Peace	Pax
+Peace of Westphalia	Pax Westphalica
+Peach	Prunus persica
+Pear	Pyrus
+Pedagogy	Categoria:Paedagogia
+Pediatrics	Paediatria
+Pedunculate Oak	Quercus robur
+Pegasus	Pegasus (mythologia)
+Pegasus (constellation)	Pegasus (sidus)
+Peloponnese	Peloponnesus
+Peloponnesian War	Bellum Peloponnesiacum
+Penelope	Penelope
+Penguin	Sphenisciformes
+Peninsula	Paeninsula
+Pennsylvania	Pennsilvania
+Pennsylvania	Categoria:Pennsilvania
+Pentecost	Pentecostes
+People	Categoria:Homines
+People's Republic of China	Res Publica Popularis Sinarum
+Pepsi	Pepsi
+Peregrine Falcon	Falco peregrinus
+Pericles	Pericles
+Periodic table	Systema Periodicum
+Perm	Permia
+Permian	Aevum Permianum
+Perpetual motion	Perpetuum mobile
+Persepolis	Persepolis
+Perseus	Perseus
+Perseus (constellation)	Perseus (sidus)
+Persian Empire	Imperium Persarum
+Perth	Perthia
+Peru	Peruvia
+Peru	Categoria:Peruvia
+Peter Abelard	Petrus Abaelardus
+Peter Paul Rubens	Petrus Paulus Rubens
+Petrarch	Franciscus Petrarca
+Phanerozoic	Aeon Phanerozoicus
+Pharaoh	Pharao
+Pharynx	Pharynx
+Phase (matter)	Status aggregandi
+Phi (letter)	Phi
+Philadelphia	Philadelphia
+Philip II of Macedon	Philippus II (Macedonum rex)
+Philip II of Spain	Philippus II (rex Hispaniae)
+Philippines	Philippinae
+Philology	Philologia
+Philosopher's stone	Lapis philosophorum
+Philosophy	Philosophia
+Philosophy	Categoria:Philosophia
+Phnom Penh	Phnom Penh
+Phobos (moon)	Phobos (satelles)
+Phoenicia	Phoenices
+Phoenix	Phoenix (Arizona)
+Phoenix (constellation)	Phoenix (sidus)
+Phoenix (mythology)	Phoenix
+Phonetics	Phonetica
+Phonetics	Categoria:Phonetica
+Phonology	Phonologia
+Phosphoric acid	Acidum phosphoricum
+Phosphorus	Phosphorus
+Photon	Photon
+Photosynthesis	Photosynthesis
+Phylum	Phylum (Taxon)
+Physician	Medicus
+Physics	Physica
+Physics	Categoria:Physica
+Physiology	Physiologia
+Pi	Numerus pi
+Pi (letter)	Pi (littera Graeca)
+Piano	Clavile
+Picardie	Picardia
+Pictor	Pictor (sidus)
+Piedmont	Pedemontium
+Pierre de Fermat	Petrus de Fermat
+Pilsen	Pilsna
+Pindar	Pindarus
+Pine	Pinus
+Pineapple	Ananas comosus
+Pink	Puniceus
+Pisa	Pisae
+Pisces (constellation)	Pisces (sidus)
+Pittsburgh	Pittsburgum
+Pituitary gland	Glandula pituitaria
+Pizza	Placentula
+Planet	Planeta
+Planetary nebula	Planetaris nebula
+Plankton	Plancton
+Plant	Planta
+Platelet	Thrombociti
+Platinum	Platinum
+Plato	Plato
+Platypus	Ornithorhynchus
+Pliny the Elder	Gaius Plinius Secundus
+Pliny the Younger	Gaius Plinius Caecilius Secundus
+Plotinus	Plotinus
+Plovdiv	Philippopolis
+Plutarch	Plutarchus
+Pluto	Pluto (planetula)
+Pluto (disambiguation)	Pluto
+Plutonium	Plutonium
+Plymouth	Plimmuta
+Pneumonia	Pneumonia
+Po River	Padus
+Poetry	Poësis
+Poison	Venenum
+Poitiers	Pictavium
+Poitou-Charentes	Pictaviensis et Carantoni
+Poland	Polonia
+Poland	Categoria:Polonia
+Polar bear	Ursus maritimus
+Police	Vigil
+Politics	Civilitas
+Pollen	Pollen
+Polonium	Polonium
+Polyhymnia	Polyhymnia
+Polynesia	Polynesia
+Pomegranate	Punica malus
+Pompeii	Pompeii
+Pompey	Gnaeus Pompeius Magnus
+Pontius Pilate	Pontius Pilatus
+Pop music	Musica popularis
+Pope	Papa
+Pope Alexander VI	Alexander VI
+Poplar	Populus (genus plantarum)
+Pornography	Pornographia
+Port	Portus
+Port Louis	Portus Ludovici
+Port-au-Prince	Portus Principis
+Portland	Portlandia (Oregonia)
+Portland	Portlandia (discretiva)
+Porto	Portus Cale
+Portsmouth	Portus Magnus
+Portugal	Lusitania
+Portugal	Categoria:Lusitania
+Poseidon	Posidon
+Positron	Positron
+Postage stamp	Philatelista
+Postal code	Numerus cursualis
+Potassium	Kalium
+Potato	Patata
+Potsdam	Potestampium
+Poverty	Paupertas
+Praetor	Praetor
+Prague	Praga
+Praia	Praia
+Praseodymium	Praseodymium
+Prayer	Prex
+Precambrian	Superaeon Praecambricus
+Precipitation (meteorology)	Praecipitatio
+Prehistory	Praehistoricum aevum
+President	Praeses
+President of the United States	Praesidens Civitatum Foederatarum Americae
+Pretoria	Praetoria
+Priam	Priamus
+Price	Pretium
+Primate	Primates
+Prime number	Numerus primus
+Prince Edward Island	Insula Principis Eduardi
+Prince Philip	Princeps Philippus, dux Edimburgi
+Princeton University	Universitas Princetoniensis
+Programming language	Lingua programmandi
+Prokaryote	Procaryota
+Prometheus	Prometheus
+Promethium	Promethium
+Pronoun	Pronomen
+Propaganda	Propaganda
+Propane	Propanum
+Prophet	Propheta
+Prose	Prosa
+Prostate	Prostata
+Protactinium	Protactinium
+Protein	Proteinum
+Proterozoic	Aeon Proterozoicus
+Protestant Reformation	Reformatio
+Protestantism	Protestantes
+Proton	Proton
+Protozoa	Protozoa
+Providence	Providentia (Rhodensis Insula)
+Prussia	Borussia
+Psalms	Liber Psalmorum
+Psi (letter)	Psi
+Psychiatry	Psychiatria
+Psychology	Psychologia
+Psychology	Categoria:Psychologia
+Ptah	Phthas
+Ptolemy	Claudius Ptolemaeus
+Puberty	Pubertas
+Public domain	Dominium publicum
+Puerto Rico	Portus Dives
+Pula	Pietas Iulia
+Pulsar	Pulsar
+Pupil	Pupilla
+Puppis	Puppis (sidus)
+Pyongyang	Pyungyang
+Pyramid (geometry)	Pyramis (geometria)
+Pyrenees	Pyrenaei
+Pythagoras	Pythagoras
+Python (programming language)	Python
+Pyxis	Pyxis (sidus)
+Q	Q
+Qatar	Quataria
+Qing Dynasty	Domus Tsingiana
+Quadratic equation	Aequatio quadratica
+Quantum mechanics	Mechanica quantica
+Quarantine	Quadragena
+Quark	Quarcum
+Quasar	Quasar
+Quebec	Quebecum
+Quebec City	Urbs Quebeci
+Quechua	Lingua Quechua
+Queen (chess)	Regina (scacci)
+Queensland	Terra Reginae
+Quetzalcoatl	Quetzalcoatl
+Quito	Quitum
+R	R
+RAF (disambiguation)	RAF
+RNA	Acidum ribonucleicum
+Ra	Phre
+Rabat	Rabat
+Radium	Radium
+Radon	Radon
+Rain	Pluvia
+Rainbow	Arcus (caelestis)
+Rainer Maria Rilke	Rainierus Maria Rilke
+Ramayana	Ramayana
+Ramesses II	Ramses II
+Random access memory	RAM
+Raphael	Raphael Sanctius Urbinas
+Rat	Rattus
+Rational number	Numerus rationalis
+Ravenna	Ravenna
+Ray Bradbury	Raimundus Bradbury
+Read-only memory	ROM
+Real number	Numerus realis
+Recession	Recessio oeconomica
+Rectangle	Rectangulum
+Recycling	Anacyclismus
+Red	Ruber
+Red Army Faction	Cohors Exercitus Rubri
+Red Deer	Cervus
+Red Fox	Vulpes
+Red blood cell	Erythrocyti
+Reggae	Reggae
+Regina	Urbs Reginae
+Region	Regio
+Reims	Durocortorum
+Reincarnation	Metempsychosis
+Reindeer	Tarandrus
+Religion	Religio
+Religion	Categoria:Religiones
+Religious Society of Friends	Religiosa Amicorum Sodalitas
+Rembrandt	Rembrandus
+Renaissance	Renascentia litterarum
+Renaissance	Categoria:Renascentia
+Reptile	Reptilia
+Republic	Res Publica
+Republic of China	Respublica Sinarum
+Republic of Ireland	Hibernia (res publica)
+Republic of the Congo	Respublica Congensis
+Republican Party (United States)	Factio republicana (CFA)
+Requiem	Requiem
+Resistor	Restitorium
+Reticulum	Reticulum
+Revolution	Res novae
+Rhea (moon)	Rhea (satelles)
+Rhea (mythology)	Rhea
+Rhenium	Rhenium
+Rhetoric	Ars rhetorica
+Rhine	Rhenus
+Rhinoceros	Rhinoceros
+Rho (letter)	Rho
+Rhode Island	Rhodensis Insula
+Rhodes	Rhodus
+Rhodium	Rhodium
+Rib	Costa (anatomia)
+Ribosome	Ribosoma
+Rice	Oryza
+Richard Feynman	Ricardus Feynman
+Richard Nixon	Ricardus Nixon
+Richard Wagner	Wilhelmus Ricardus Wagner
+Riga	Riga
+Right ascension	Ascensio recta
+Ringo Starr	Ricardus Starkey
+Rio de Janeiro	Urbs Fluminensis
+Rio de Janeiro (state)	Flumen Ianuarii
+River	Flumen
+River Thames	Thamesis
+Riyadh	Riadum
+Road	Via
+Roald Amundsen	Rodoaldus Amundsen
+Robert Boyle	Robertus Boyle
+Robert Burns	Robertus Burns
+Robert De Niro	Robertus De Niro
+Robert Hooke	Robertus Hooke
+Robert Koch	Robertus Koch
+Robert Louis Stevenson	Robertus Ludovicus Stevenson
+Robert Oppenheimer	Robertus Oppenheimer
+Robert Owen	Robertus Owen
+Robert Redford	Robertus Redford
+Robert Schumann	Robertus Schumann
+Robot	Robotum
+Rock	Micatio Sinensis
+Rock music	Musica rockica
+Rock music	Categoria:Musica rock
+Rocky Mountains	Montes Saxosi
+Rodent	Rodentia
+Roentgenium	Roentgenium
+Roman Catholic Church	Ecclesia Catholica Romana
+Roman Empire	Imperium Romanum
+Roman Republic	Res publica Romana
+Roman calendar	Calendarium Romanum
+Roman law	Ius Romanum
+Roman legion	Legio Romana
+Roman mythology	Mythologia Romana
+Roman mythology	Categoria:Mythologia Romana
+Romania	Romania
+Romania	Categoria:Romania
+Romansh	Romancica lingua
+Rome	Roma
+Rome	Categoria:Roma
+Ronald Reagan	Ronaldus Reagan
+Roof	Tectum
+Rook (chess)	Turris (scacci)
+Rosa Parks	Rosa Parks
+Rosary	Rosarium (oratio)
+Rose	Rosa (planta)
+Rosh Hashanah	Exordium Anni (Iudaici)
+Rostock	Rostochium
+Rotterdam	Roterodamum
+Royal Society	Regalis Societas Londini
+Rubidium	Rubidium
+Ruby	Carbunculus
+Rudolf Hess	Rudolfus Hess
+Rugby football	harpastum
+Rupert Murdoch	Rupertus Murdoch
+Russia	Russia
+Russia	Categoria:Russia
+Ruthenium	Ruthenium
+Rutherford B. Hayes	Rutherfordia Birchard Hayes
+Rutherfordium	Rutherfordium
+Rwanda	Ruanda
+Rwanda	Categoria:Ruanda
+Rye	Secale
+S	S
+Sacrament	Sacramentum
+Sacramento	Sacramentum (California)
+Saddam Hussein	Saddamus Hussein
+Saffron	Safranum
+Sagitta	Sagitta (sidus)
+Sagittarius (constellation)	Sagittarius (sidus)
+Sahara	Sahara
+Saint	Sanctus
+Saint George	Sanctus Georgius
+Saint Lucia	Sancta Lucia (civitas)
+Saint Nicholas	Nicolaus Myrensis
+Saint Patrick	Sanctus Patricius
+Saint Paul	Sanctus Paulus (Minnesota)
+Saint Peter	Petrus
+Saint Petersburg	Petropolis
+Saladin	Saladinus
+Salerno	Salernum
+Saliva	Saliva
+Salt	Sal
+Salt (chemistry)	Sal
+Salzburg	Salisburgum
+Salzburg (state)	Salisburgum (civitas)
+Samara	Samara (Russia)
+Samarium	Samarium
+Samoa	Samoa
+Samoa	Categoria:Samoa
+Samuel Beckett	Samuel Beckett
+Samurai	Samurai
+San Antonio	Sanctus Antonius (Texia)
+San Diego	Didacopolis (California)
+San Francisco	Franciscopolis (California)
+San Jose	Sanctus Iosephus (California)
+San Marino	Res publica Sancti Marini
+San Salvador	San Salvador
+Sand	Harena
+Sandro Botticelli	Alexander Botticelli
+Sanskrit	Lingua Sanscrita
+Santa Fe	Sanctae Fidei fanum (CFA)
+Santiago	Sanctiacobi
+Sapphire	Sapphirus
+Sappho	Sappho
+Sapporo	Sapporia
+Sarah Bernhardt	Sara Bernhardt
+Sarajevo	Seraium
+Saratov	Saratovia
+Sardinia	Sardinia
+Saskatchewan	Saskatchewan
+Satan	Satanas
+Satire	Satura
+Saturday	Dies Saturni
+Saturn	Saturnus (planeta)
+Saturn	Categoria:Saturnus
+Saturn (disambiguation)	Saturnus
+Saturn (mythology)	Saturnus (deus)
+Satyr	Satyrus
+Saudi Arabia	Arabia Saudiana
+Saxony	Saxonia
+Saxony	Categoria:Saxonia
+Scandinavia	Scandinavia
+Scandium	Scandium
+Scapula	Scapula
+Scheldt	Scaldis
+Schizophrenia	Morbus dissidentiae phreneticae
+School	Schola
+Science	Scientia
+Science	Categoria:Scientia
+Science fiction	Mythistoriae rerum futurarum
+Scipio Africanus	Publius Cornelius Scipio Africanus
+Sciuridae	Sciurus
+Scorpion	Scorpio
+Scorpius	Scorpius
+Scotland	Scotia
+Scotland	Categoria:Scotia
+Scottish Gaelic	Lingua Scotica
+Scrabble	Scrabularum ludus
+Screw	Clavus
+Scrotum	Scrotum
+Sculptor (constellation)	Sculptor (sidus)
+Sculpture	Sculptura
+Sea	Mare
+Sea of Azov	Palus Maeotis
+Sea of Japan	Mare Iaponicum
+Seaborgium	Seaborgium
+Season	Tempora anni
+Seattle	Seattlum
+Second	Secundum
+Second Crusade	Secunda Cruciata
+Second Vatican Council	Concilium Vaticanum Secundum
+Segovia	Segovia
+Seine	Sequana
+Selene	Selene
+Selenium	Selenium
+Semen	Eiaculatum
+Semiconductor	Semiconductrum
+Senegal	Senegalia
+Senegal	Categoria:Senegalia
+Seoul	Seulum
+September	September
+September 11	11 Septembris
+September 11	11 Septembris 2001
+September 17	17 Septembris
+September 29	29 Septembris
+Septuagint	Septuaginta
+Serbia	Serbia
+Serbia	Categoria:Serbia
+Sergei Eisenstein	Sergius Eisenstein
+Serotonin	Serotoninum
+Serpens	Serpens (sidus)
+Set	Copia
+Set (mythology)	Seth
+Sevastopol	Sebastopolis
+Seville	Hispalis
+Sexual intercourse	Activitates eroticae
+Seychelles	Insulae Seisellenses
+Seychelles	Categoria:Insulae Seisellenses
+Shah	Sachus
+Shahadah	Sahada
+Shark	Selachimorpha
+Sherlock Holmes	Sherlock Holmes
+Shikoku	Sicocus
+Ship	Navis
+Shorthand	Stenographia
+Siberia	Siberia
+Sicily	Sicilia
+Sicily	Categoria:Sicilia
+Sierra Leone	Mons Leoninus
+Sigma	Sigma
+Sigmund Freud	Sigismundus Freud
+Sikhism	Sichismus
+Silesia	Silesia
+Silicon	Silicium
+Silicon dioxide	Silica
+Silurian	Aevum Siluricum
+Silver	Argentum
+Simone de Beauvoir	Simona de Beauvoir
+Sin	Peccatum
+Singapore	Singapura
+Siren	Sirenes
+Sirenia	Sirenia
+Sirius	Sirius
+Sistine Chapel	Aedicula Sixtina
+Six-Day War	Bellum Sex Dierum
+Skagerrak	Sinus Codanus
+Skateboard	Tabula subrotata
+Skeletal system	Categoria:Ossa
+Skepticism	Scepticismus
+Skin	Cutis
+Skopje	Scupi
+Skull	Calva
+Slash (musician)	Slash
+Slavery	Servitudo
+Slayer	Slayer
+Slovakia	Slovacia
+Slovenia	Slovenia
+Small intestine	Intestinum tenue
+Smolensk	Smolenscum
+Snake	Serpentes
+Snow	Nix
+Socialism	Socialismus
+Society	Categoria:Societas hominum
+Society	Societas hominum
+Society of Jesus	Societas Iesu
+Sociology	Sociologia
+Socrates	Socrates
+Sodium	Natrium
+Sodium chloride	Natrii Chloridum
+Sodium hydroxide	Lixivium
+Sofia	Serdica
+Solanaceae	Solanaceae
+Solar System	Systema solare
+Solar eclipse	Defectio solis
+Solar wind	Ventus solaris
+Solid	Solidus
+Solomon	Salomon (rex)
+Solomon Islands	Insulae Salomonicae
+Solon	Solon
+Somalia	Somalia
+Somalia	Categoria:Somalia
+Somerset	Comitatus Somersetensis
+Somme	Samara (praefectura Franciae)
+Song of Solomon	Canticum Canticorum
+Sophia Loren	Sophia Loren
+Sophism	Sophistae
+Sophocles	Sophocles
+Sorghum	Sorghum
+Soul	Anima
+Sound	Sonus (physica)
+South Africa	Categoria:Africa Australis
+South America	America Meridionalis
+South America	Categoria:America Meridionalis
+South Australia	Australia Australis
+South Carolina	Carolina Meridionalis
+South Dakota	Dacota Meridionalis
+South Dakota	Categoria:Dacota Meridionalis
+South Korea	Respublica Coreae
+South Pole	Polus australis
+Soviet Union	Unio Rerum Publicarum Socialisticarum Sovieticarum
+Soviet Union	Categoria:Unio Sovietica
+Soybean	Glycine (genus)
+Spain	Hispania
+Spain	Categoria:Hispania
+Spanish Civil War	Bellum Civile Hispanicum
+Spanish people	Categoria:Homines Hispaniae
+Sparta	Sparta
+Special relativity	Relativitas specialis
+Species	Species
+Speed of light	Celeritas luminis
+Spencer Tracy	Spencer Tracy
+Sphere	Sphaera
+Spider	Araneae
+Spinach	Spinacia oleracea
+Spinal cord	Medulla spinalis
+Spleen	Lien
+Split	Spalatum
+Sponge	Porifera
+Sport	Ludus athleticus
+Spree	Spreha
+Spring (season)	Ver
+Springfield	Campifons (Illinoesia)
+Squamata	Squamata
+Square (geometry)	Quadrum
+Square metre	Metrum quadratum
+Sri Lanka	Sri Lanca
+Stanford University	Universitas Stanfordiensis
+Star	Astrum
+Statistics	Statistica
+Statue of Liberty	Statua Libertatis
+Stavanger	Stavanger
+Steel	Chalybs
+Stefan Zweig	Stephanus Zweig
+Stegosaurus	Stegosaurus
+Stendhal	Stendhal
+Sternum	Sternum
+Steven Spielberg	Stephanus Spielberg
+Stock exchange	Bursa
+Stockholm	Holmia
+Stoicism	Stoicismus
+Stomach	Stomachus
+Stork	Ciconia (avis)
+Strait	Fretum
+Strait of Gibraltar	Fretum Gaditanum
+Strait of Magellan	Fretum Magellanicum
+Strasbourg	Argentoratum
+Strawberry	Fragaria
+String theory	Theoria Chordarum
+Stroke	Ictus (morbus)
+Strontium	Strontium
+Stub	Formula:Stipula
+Stuttgart	Stuttgartum
+Styx	Styx
+Subtraction	Subtractio
+Sucre	Sucre
+Sucrose	Saccharosium
+Sudan	Sudania
+Sudan	Categoria:Sudania
+Suez Canal	Fossa Clysmatena
+Suffix	Suffixum
+Sugar	Saccharon
+Suharto	Suharto
+Sulfur	Sulphur
+Sulfur mustard	Yperitum
+Sulfuric acid	Acidum sulphuricum
+Sultan	Sultanus
+Sumer	Sumer
+Summer	Aestas
+Sumo	Sumo (colluctatio)
+Sun	Sol
+Sunday	Dies solis
+Sundial	Horologium solarium
+Sunflower	Helianthus annuus
+Superconductivity	Superconductrum
+Superman	Superman
+Supernova	Supernova
+Supreme Court of the United States	Iudicium Summum Civitatum Foederatarum
+Suriname	Surinamia
+Suriname	Categoria:Surinamia
+Surrey	Surregia
+Susan Sontag	Susanna Sontag
+Swallow	Hirundo
+Swan	Olor
+Swastika	Crux gammata
+Swaziland	Suazia
+Sweden	Suecia
+Sweden	Categoria:Suecia
+Sweet potato	Ipomoea batatas
+Swimming	Natatio
+Swiss franc	Francus Helveticus
+Switzerland	Helvetia
+Switzerland	Categoria:Helvetia
+Sword	Gladius
+Sydney	Sydneium
+Syllable	Syllaba
+Synagogue	Synagoga
+Syntax	Syntaxis
+Syphilis	Syphilis
+Syracuse	Syracusae (Sicilia)
+Syria	Syria
+Syria	Categoria:Syria
+System	Systema
+T	T
+T. E. Lawrence	Thomas Eduardus Lawrence
+Tacitus	Cornelius Tacitus
+Taekwondo	Thequondo
+Tagus	Tagus
+Tahiti	Tahiti
+Taipei	Taipeium
+Taiwan	Taivania
+Tajikistan	Tadzikistania
+Tallahassee	Tallahassia
+Tallinn	Castrum Danorum
+Tangier	Tingis
+Tank	Autocurrus armatus
+Tantalum	Tantalum
+Tantalus	Tantalus
+Tanzania	Tanzania
+Tanzania	Categoria:Tanzania
+Taoism	Taoismus
+Tapir	Tapirus
+Tardigrade	Tardigrada
+Tarn	Tarnis (praefectura Franciae)
+Tartu	Tarbatum
+Tasmania	Tasmania
+Tasmanian Devil	Sarcophilus harrisii
+Tattoo	Compunctio
+Tau	Tau
+Taurus (constellation)	Taurus (sidus)
+Tax	Tributum
+Taxonomy	Taxinomia
+Tbilisi	Triphelis
+Tea	Thea
+Teacher	Magister
+Technetium	Technetium
+Techno	Musica Technica
+Technology	Technologia
+Technology	Categoria:Technologia
+Tegucigalpa	Tegucigalpa
+Tehran	Teheranum
+Tel Aviv	Telavivum
+Telephone	Telephonum
+Telescope	Telescopium
+Telescopium	Telescopium (sidus)
+Television	Televisio
+Television	Categoria:Televisio
+Tellurium	Tellurium
+Temperature	Temperatura thermodynamica
+Temple	Templum
+Ten Commandments	Decalogus
+Tennessee	Tennesia
+Tennessee	Categoria:Tennesia
+Tennis	Tenniludium
+Tenor	Tenor
+Terbium	Terbium
+Terpsichore	Terpsichore
+Terrorism	Tromocratia
+Terrorism	Categoria:Tromocratia
+Tertullian	Quintus Septimus Florens Tertullianus
+Testicle	Testis (membrum)
+Testosterone	Testosteronum
+Tetanus	Tetanus
+Tethys (moon)	Tethys (satelles)
+Texas	Texia
+Thailand	Thailandia
+Thailand	Categoria:Thailandia
+Thales	Thales Milesius
+Thalia	Thalia
+Thallium	Thallium
+Thanksgiving	Festum Gratias Agendi
+Thanksgiving (Canada)	Festum Gratias Agendi
+Thanksgiving (United States)	Festum Gratias Agendi
+Thanksgiving (disambiguation)	Festum Gratias Agendi
+The Gambia	Gambia
+The Hague	Haga
+The Star-Spangled Banner	Vexillum Stellis Punctatum
+Thebes	Thebae (Graecia)
+Themistocles	Themistocles
+Theodor Mommsen	Theodorus Mommsen
+Theodore Roosevelt	Theodorus Roosevelt
+Theodosius I	Theodosius I
+Theology	Theologia
+Theory of relativity	Theoria relativitatis
+Thermometer	Thermometrum
+Theseus	Theseus
+Thessaloniki	Thessalonica
+Thessaly	Thessalia
+Theta	Theta
+Thetis	Thetis
+Thirty Years' War	Bellum tricennale
+Thomas Aquinas	Sanctus Thomas Aquinas
+Thomas Edison	Thomas Edison
+Thomas Hardy	Thomas Hardy
+Thomas Hobbes	Thomas Hobbes
+Thomas Jefferson	Thomas Jefferson
+Thomas Malthus	Thomas Robertus Malthus
+Thomas Mann	Thomas Mann
+Thomas More	Sanctus Thomas Morus
+Thor	Thor
+Thorium	Thorium
+Thoth	Thoth
+Thought	Cogitatio
+Thrace	Thracia
+Thucydides	Thucydides
+Thulium	Thulium
+Thumb	Pollex (anatomia)
+Thuringia	Thuringia
+Thursday	Dies Iovis
+Thyme	Thymus (planta)
+Thyroid	Glandula thyreoidea
+Tiber	Tiberis
+Tiberius	Tiberius (imperator)
+Tibet	Tibetum
+Ticino	Ticinum (pagus)
+Tierra del Fuego	Terra Ignium
+Tiger	Tigris
+Tigris	Tigris (flumen)
+Time	Tempus
+Time	Categoria:Tempus
+Time zone	Zona temporalis
+Timur	Tamerlanes
+Tin	Stannum
+Tirana	Theranda
+Tissue (biology)	Textum (biologia)
+Titan (moon)	Titan (satelles)
+Titania (moon)	Titania (satelles)
+Titanium	Titanium
+Titian	Titianus Vecellii
+Titus	Titus (imperator)
+Tivoli	Tibur
+Tobacco	Tabacum
+Togo	Togum
+Tokyo	Tocio
+Toledo	Toletum
+Tomato	Lycopersicum
+Tonga	Tonga
+Tongue	Lingua (membrum)
+Tony Blair	Antonius Blair
+Tooth	Dens
+Tornado	Turbo
+Toronto	Torontum
+Tortoise	Testudinidae
+Toulon	Telo Martius
+Toulouse	Tolosa
+Tour de France	Circuitus Franciae
+Tours	Turonum
+Tower	Turris
+Town	Oppidum
+Toxicity	Venenum
+Tractor	Tractorium
+Trade union	Collegium opificum
+Tradition	Traditiones
+Tragedy	Tragoedia
+Train	Hamaxostichus
+Train station	Statio ferriviaria
+Trajan	Traianus
+Tram	Ferrivia strataria
+Transformer	Transformatrum
+Transistor	Transistrum
+Transportation	Categoria:Transportatio
+Transylvania	Transsilvania
+Treaty of Versailles	Foedus Versaliis sancitum (1919)
+Tree	Arbor
+Trento	Tridentum
+Trenton	Trentonia
+Triangle	Triangulum
+Triangulum	Triangulum (sidus)
+Triangulum Australe	Triangulum Australe (sidus)
+Triassic	Aevum Triassicum
+Triceratops	Triceratops
+Trier	Augusta Treverorum
+Trigonometry	Trigonometria
+Trilobite	Trilobita
+Trinidad and Tobago	Trinitas et Tabacum
+Trinity	Trinitas
+Tripoli	Tripolis Libysa
+Triskelion	Trisceles
+Triton (moon)	Triton (satelles)
+Trojan War	Bellum Troianum
+Trondheim	Tronthemium
+Tropic of Cancer	Cancri tropicus
+Tropic of Capricorn	Capricorni tropicus
+Troy	Ilium
+Truck	Autocinetum onerarium
+Truth	Veritas
+Tsar	Tzar
+Tuberculosis	Phthisis
+Tucana	Tucana (sidus)
+Tucson	Tucson
+Tuesday	Dies Martis
+Tulip	Tulipa
+Tungsten	Wolframium
+Tunis	Tunes
+Tunisia	Tunesia
+Tunisia	Categoria:Tunesia
+Turin	Taurinum
+Turkey	Turcia
+Turkey	Categoria:Turcia
+Turkmenistan	Turcomannia
+Turtle	Testudo (bestia)
+Tuscany	Tuscia
+Tuvalu	Tuvalu
+Tycho Brahe	Tycho Brahe
+Typhon	Typhon
+Typography	Typographia
+Tyrannosaurus	Tyrannosaurus
+Tyre	Tyrus
+Tyrrhenian Sea	Mare Tyrrhenicum
+U	U
+Uganda	Uganda
+Uganda	Categoria:Uganda
+Ukraine	Ucraina
+Ukraine	Categoria:Ucraina
+Ulysses S. Grant	Ulixes S. Grant
+Umbria	Umbria
+Unicorn	Unicornis
+Unidentified flying object	Ovi
+United Arab Emirates	Phylarchiarum Arabicarum Confoederatio
+United Kingdom	Britanniarum Regnum
+United Kingdom	Categoria:Britanniarum Regnum
+United Nations	Consociatio Nationum
+United States	Civitates Foederatae Americae
+United States	Categoria:Civitates Foederatae Americae
+United States Air Force	Civitatum Foederatarum Americae Aeris Exercitus
+United States House of Representatives	Camera Repraesentantum Civitatum Foederatarum
+United States Senate	Senatus Civitatum Foederatarum
+United States Virgin Islands	Virgines Insulae Americanae
+United States dollar	Dollarium (CFA)
+Universe	Universum
+University	Universitas
+University of Pennsylvania	Universitas Pennsylvaniensis
+Unix	Unix
+Ununbium	Ununbium
+Ununhexium	Ununhexium
+Ununpentium	Ununpentium
+Ununquadium	Ununquadium
+Ununtrium	Ununtrium
+Upanishad	Upanishad
+Uppsala	Upsalia (Suecia)
+Upsilon	Ypsilon
+Ural Mountains	Urales
+Urania	Urania (musa)
+Uranium	Uranium
+Uranus	Uranus (planeta)
+Uranus	Categoria:Uranus
+Uranus (mythology)	Uranus
+Urea	Urea
+Urine	Urina
+Ursa Major	Ursa Maior (sidus)
+Ursa Minor	Ursa Minor (sidus)
+Uruguay	Uruguaia
+Uruguay	Categoria:Uruguaia
+Utah	Uta
+Uterus	Uterus
+Utopia	Utopia
+Utrecht (city)	Traiectum ad Rhenum
+Uzbekistan	Usbecia
+V	V
+Vaduz	Dulcis vallis
+Vagina	Vagina
+Valence	Valentia (Francia)
+Valencia	Valentia
+Valletta	Valletta
+Vampire	Vampyrus
+Vanadium	Vanadium
+Vancouver	Vancuverium (Columbia Britannica)
+Vanuatu	Vanuatu
+Var (department)	Varus (praefectura Franciae)
+Varna	Odessus (Bulgaria)
+Vatican City	Civitas Vaticana
+Vatican City	Categoria:Civitas Vaticana
+Vegetable	Holus
+Vein	Vena
+Vela (constellation)	Vela (sidus)
+Velocity	Velocitas
+Veneto	Venetia (regio)
+Venezuela	Venetiola
+Venezuela	Categoria:Venetiola
+Venice	Venetia (urbs)
+Venus	Venus (planeta)
+Venus (disambiguation)	Venus
+Venus (mythology)	Venus (dea)
+Verb	Verbum (grammatica Latina)
+Vermont	Mons Viridis
+Verona	Verona
+Versailles	Versaliae
+Vertebra	Vertebra
+Vertebral column	Columna vertebralis
+Vertebrate	Vertebrata
+Vespasian	Vespasianus
+Vesta (mythology)	Vesta
+Vice President of the United States	Praeses vicarius Civitatum Foederatarum Americae
+Victor Hugo	Victor Hugo
+Victoria	Victoria (Insulae Seisellenses)
+Victoria (Australia)	Victoria (Australia)
+Vienna	Vindobona
+Vienna	Categoria:Vindobona
+Vienne	Vigenna (praefectura Franciae)
+Vientiane	Vientiane
+Vietnam	Vietnamia
+Vietnam	Categoria:Vietnamia
+Vietnam War	Bellum Indosinense II
+Viking	Vicingi
+Vilfredo Pareto	Vilfredus Pareto
+Vilnius	Vilna
+Vincent van Gogh	Vincentius van Gogh
+Vincenzo Bellini	Vincentius Bellini
+Vinegar	Acetum
+Violin	Fidiculae
+Virgil	Publius Vergilius Maro
+Virginia	Virginia
+Virginia	Categoria:Virginia
+Virgo (constellation)	Virgo (sidus)
+Virtue	Virtus
+Virus	Virus biologicum
+Vistula	Vistula
+Vitamin	Vitaminum
+Vittorio De Sica	Victorius De Sica
+Vivien Leigh	Viviana Leigh
+Vladimir Lenin	Vladimirus Lenin
+Vladimir Nabokov	Vladimirus Nabokov
+Vladimir Putin	Vladimirus Putin
+Vocative case	Vocativus
+Vodka	Vodca
+Volans	Volans (sidus)
+Volcano	Mons ignifer
+Volcanology	Categoria:Vulcanologia
+Volga River	Rha
+Volt	Voltium
+Voltage	Tensio electrica
+Voltaire	Voltarius
+Vomiting	Vomitus
+Vulcan (mythology)	Vulcanus (mythologia)
+Vulgar Latin	Sermo vulgaris
+Vulgate	Biblia Vulgata
+Vulpecula	Vulpecula (sidus)
+Vulva	Vulva
+W	W
+Wake Island	Wake (insula)
+Wales	Cambria
+Wales	Categoria:Cambria
+Walnut	Iuglans
+Walter Scott	Gualterus Scott
+War	Bellum
+War	Categoria:Bella
+War crime	Belli scelus
+Wars of the Roses	Bella Rosarum
+Warsaw	Varsovia
+Wart	Verruca
+Washington	Vasingtonia, D.C.
+Washington	Vasingtonia
+Washington	Categoria:Vasingtonia
+Wassily Kandinsky	Basilius Kandinsky
+Water	Aqua
+Waterfall	Aqua cadens
+Watermelon	Citrullus lanatus
+Watt	Wattium
+Weapon	Arma
+Weather	Status caeli
+Website	Situs interretialis
+Wednesday	Dies Mercurii
+Week	Hebdomas
+Weimar	Vimaria
+Weimar Republic	Res Publica Vimariana
+Wellington	Vellingtonia
+Werewolf	Lycanthropus
+Wernher von Braun	Wernher de Braun
+Weser River	Visurgis
+West Bank	Cisiordania
+West Virginia	Virginia Occidentalis
+Western Australia	Australia Occidentalis
+Western Sahara	Sahara Occidentalis
+Whale	Balaena
+Wheat	Triticum
+Wheel	Rota
+Whisky	Vischium
+White House	Domus Alba
+White blood cell	Leucocyti
+White dwarf	Pumilio alba
+Whitehorse	Equus Albus
+Wiesbaden	Aquae Mattiacae
+Wildcat	Felis silvestris
+William Blake	Gulielmus Blake
+William Butler Yeats	Gulielmus Butler Yeats
+William Gladstone	Gulielmus Ewart Gladstone
+William Harvey	Gulielmus Harvey
+William Henry Harrison	Gulielmus Henricus Harrison
+William Herschel	Gulielmus Herschel
+William Howard Taft	Gulielmus Howard Taft
+William I	Gulielmus I (Imperator Germaniae)
+William II	Gulielmus II (Imperator Germaniae)
+William McKinley	Gulielmus McKinley
+William Shakespeare	Gulielmus Shakesperius
+William of Ockham	Guillelmus de Ockham
+Willow	Salix
+Willy Brandt	Gulielmus Brandt
+Windhoek	Windhoek
+Wine	Vinum
+Wine	Categoria:Vinum
+Winston Churchill	Vinstonis Churchill
+Winter	Hiems
+Winter Olympic Games	Olympia Hiemalia
+Wisconsin	Visconsinia
+Wolfgang Amadeus Mozart	Wolfgangus Amadeus Mozart
+Wolfgang Pauli	Volfangus Pauli
+Woman	Mulier
+Wood	Lignum
+Woodrow Wilson	Woodrow Wilson
+Woody Allen	Woody Allen
+Worcestershire	Comitatus Vigorniensis
+Word	Verbum (grammatica generalis)
+World Bank	Argentaria Mundana
+World Trade Organization	Syndicatus Mercaturae Mundanae
+World War I	Bellum Orbis Terrarum I
+World War I	Categoria:Bellum Orbis Terrarum I
+World War II	Bellum Orbis Terrarum II
+World War II	Categoria:Bellum Orbis Terrarum II
+World Wide Web	Tela totius terrae
+Worm	Vermes
+Wyoming	Vyomina
+X	X
+Xenon	Xenon
+Xenophanes	Xenophanes
+Xenophon	Xenophon (scriptor)
+Xi	Xi
+Xinjiang	Uiguristania
+Y	Y
+Yahweh	Iehovah
+Yangon	Iangon
+Yasser Arafat	Iasser Arafat
+Year	Annus
+Yellow	Flavus
+Yemen	Iemenia
+Yenisei River	Ienisea
+Yerevan	Erevanum
+Yoghurt	Iogurtum
+Yom Kippur	Dies Expiationis
+York	Eboracum
+Ytterbium	Ytterbium
+Yttrium	Yttrium
+Yugoslavia	Iugoslavia
+Yugoslavia	Categoria:Iugoslavia
+Yukon	Yukon
+Yuri Gagarin	Georgius Gagarin
+Z	Z
+Zachary Taylor	Zacharias Taylor
+Zagreb	Zagrabia
+Zambia	Zambia
+Zambia	Categoria:Zambia
+Zaragoza	Caesaraugusta
+Zebra	Zebra
+Zen	Zen
+Zeno (emperor)	Zeno (imperator)
+Zeno of Citium	Zeno Citieus
+Zeta	Zeta
+Zeus	Zeus
+Zeus (disambiguation)	Zeus
+Zimbabwe	Zimbabua
+Zimbabwe	Categoria:Zimbabua
+Zinc	Zincum
+Zirconium	Zirconium
+Zodiac	Zodiacus
+Zombie	Cadaver animatum
+Zoology	Zoologia
+Zoology	Categoria:Zoologia
+Zoroaster	Zoroaster

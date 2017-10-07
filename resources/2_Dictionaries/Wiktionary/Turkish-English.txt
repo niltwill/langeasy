@@ -1,0 +1,2069 @@
+Turkish	English
+AIDS	AIDS
+Abican	Abidjan
+Abazaca; Abhazca	Abkhaz
+Abhazya	Abkhazia
+İbrahim; Ibram	Abraham
+Adem	Adam
+Afganistan	Afghanistan
+Afrika	Africa
+Afrikanca; Afrikaans; Afrikaner	Afrikaans
+Alaska	Alaska
+Arnavutluk	Albania
+İskender	Alexander
+Cezayir	Algeria
+Cezayir	Algiers
+Allah	Allah
+Alpler; Alp Dağları	Alps
+Amerikan; Amerikalı	American
+bizon	American bison
+Amsterdam	Amsterdam
+Amur	Amur
+Andorra	Andorra
+Eski İngilizce	Anglo
+Angola	Angola
+Ankara	Ankara
+Antarktika	Antarctica
+Antigua ve Barbuda	Antigua and Barbuda
+nisan	April
+Mısır Arap Cumhuriyeti	Arab Republic of Egypt
+Arapça	Arabic
+Kuzey Buz Denizi	Arctic Ocean
+Arjantin	Argentina
+Arhangelsk	Arkhangelsk
+Ermenistan	Armenia
+Ermeni; Ermenistanlı	Armenian
+Asklepios	Asclepius
+Asya	Asia
+Athena	Athena
+Atina	Athens
+Atlas Okyanusu	Atlantic Ocean
+ağustos	August
+Avustralya	Australia
+Avusturya	Austria
+Aymara	Aymara
+Azerbaycan	Azerbaijan
+Azerice; Azeri Türkçesi; Azerbaycan Türkçesi	Azeri
+Bahamalar	Bahamas
+Bahreyn	Bahrain
+Bakü	Baku
+Balear Adaları	Balearic Islands
+Baltık Denizi	Baltic Sea
+Bambara	Bambara
+Bangkok	Bangkok
+Bangladeş	Bangladesh
+Barbados	Barbados
+Başkurtça	Bashkir
+Pekin	Beijing
+Beyrut	Beirut
+Beyaz Rusya; Belarus	Belarus
+Beyaz Rusça; Belarusça	Belarusian
+Belçika	Belgium
+Belgrad	Belgrade
+Belize	Belize
+Beyaz Rusça	Belorussian
+Benin	Benin
+Berlin	Berlin
+Bermuda	Bermuda
+Bhutan	Bhutan
+Kitab-ı Mukaddes; Kutsal Kitap; İncil	Bible
+Karadeniz	Black Sea
+Bolivya	Bolivia
+Bosna	Bosnia
+Bosna-Hersek	Bosnia and Herzegovina
+İstanbul Boğazı	Bosphorus
+Botsvana	Botswana
+Brezilya	Brazil
+Bröton	Breton
+Bruney	Brunei
+Brüksel	Brussels
+Bükreş	Bucharest
+Buda	Buddha
+Bulgaristan	Bulgaria
+Bulgarca	Bulgarian
+Burkina Faso	Burkina Faso
+Bizans İmparatorluğu	Byzantine Empire
+Kaliforniya	California
+Kamboçya	Cambodia
+Kamerun	Cameroon
+Kanada	Canada
+Kartaca	Carthage
+Hazar denizi	Caspian Sea
+Katalanca	Catalan
+Kafkasya	Caucasus
+Orta Afrika Cumhuriyeti	Central African Republic
+Çad	Chad
+Şikago; Chicago	Chicago
+Şili	Chile
+Çin	China
+Çinli	Chinese
+Kişinev	Chisinau
+Hristiyan	Christian
+Hristiyanlık	Christianity
+Noel	Christmas
+Kristof	Christopher
+Külkedisi	Cinderella
+Coca-Cola	Coca
+Kolombiya	Colombia
+Bağımsız Devletler Topluluğu; BDT	Commonwealth of Independent States
+Kongo	Congo
+Konstantinopolis; Konstantiniye	Constantinople
+Kopenhag	Copenhagen
+Kosta Rika	Costa Rica
+Kırım	Crimea
+Hırvatistan	Croatia
+Hırvatça	Croatian
+Küba	Cuba
+Kıbrıs	Cyprus
+Kiril; Kiril alfabesi	Cyrillic
+Kiril alfabesi; Kiril abecesi	Cyrillic alphabet
+Çekçe	Czech
+Çek Cumhuriyeti	Czech Republic
+Çek Cumhuriyeti; Çekya	Czechia
+Çekoslovakya	Czechoslovakia
+Şam	Damascus
+Danca	Danish
+Tuna nehri, often abbreviated as Tuna	Danube
+Davut	David
+Lut Gölü	Dead Sea
+aralık; Kanuni Evvel 	December
+Danimarka	Denmark
+Cibuti	Djibouti
+Dominik Cumhuriyeti	Dominican Republic
+Donald Amca	Donald Duck
+Hollandalı	Dutch
+Dünya	Earth
+Doğu Timor	East Timor
+Paskalya	Easter
+Paskalya Adası	Easter Island
+Doğu Avrupa	Eastern Europe
+Edmonton	Edmonton
+Mısır	Egypt
+İngiltere	England
+İngiliz	English
+Ekvator Ginesi	Equatorial Guinea
+Eritre	Eritrea
+Esperanto	Esperanto
+Estonya	Estonia
+Etiyopya	Ethiopia
+Avrasya	Eurasia
+Avrupa	Europe
+Avrupa Birliği	European Union
+avrupa bizonu	European bison
+Uzak Doğu	Far East
+Faroe Adaları	Faroe Islands
+şubat	February
+Fiji	Fiji
+Finlandiya	Finland
+Fince	Finnish
+Fransa	France
+Fransızlar	French
+cuma	Friday
+GSYİH	GDP
+Gambiya	Gambia
+Gazze Şeridi	Gaza Strip
+Cenevre	Geneva
+Jorj	George
+Gürcistan	Georgia
+Gürcüce	Georgian
+alman	German
+Alman Çoban Köpeği	German Shepherd
+Almanya	Germany
+Gana	Ghana
+Gent	Ghent
+Cebelitarık	Gibraltar
+gnostisizm	Gnosticism
+Goa	Goa
+Tanrı	God
+Büyük Britanya	Great Britain
+Keops piramidi	Great Pyramid of Giza
+Yunanistan	Greece
+Yunan; Yunanistanlı	Greek
+Grönland	Greenland
+Guatemala	Guatemala
+Gine-Bissau	Guinea
+Gujarati	Gujarati
+Finlandiya Körfezi	Gulf of Finland
+Guyana	Guyana
+Haiti	Haiti
+mutlu Paskalya; hoş Paskalya	Happy Easter
+yeni yılın kutlu olsun; mutlu yıllar	Happy New Year
+İbranice	Hebrew
+Hizbullah	Hezbollah
+Hintçe; Hindu	Hindi
+Hitler	Hitler
+Hokkaido	Hokkaido
+Hollanda	Holland
+Nazi soykırımı	Holocaust
+Honduras	Honduras
+Hong Kong	Hong Kong
+Macar; Macaristanlı	Hungarian
+Macaristan	Hungary
+ben	I
+ben İngiliz'im; İngiliz'im	I am English
+bir sorum var	I have a question
+seni seviyorum; sana aşığım	I love you
+bir tercümana ihtiyacım var; bir çevirmene ihtiyacım var	I need an interpreter
+İzlanda	Iceland
+Hindistan	India
+Endonezya	Indonesia
+İnterlingua	Interlingua
+Uluslararası Fonetik Alfabesi	International Phonetic Alphabet
+İnternet; Genel Ağ	Internet
+İran	Iran
+Irak	Iraq
+İrlanda	Ireland
+İslam	Islam
+islamofobi; İslamofobi	Islamophobia
+İsrail	Israel
+İtalyan	Italian
+İtalya	Italy
+Jamaika	Jamaica
+ocak; Kanuni Sani 	January
+Japonya	Japan
+Japon	Japanese
+Kudüs	Jerusalem
+İsa	Jesus
+Hazreti İsa; İsa Mesih; İsa Peygamber	Jesus Christ
+Yahudi	Jew
+yahudı	Jewish
+Yahya,Can	John
+Ürdün	Jordan
+Yusuf	Joseph
+Musevilik; Yahudilik	Judaism
+temmuz	July
+haziran	June
+Erendiz; Jüpiter	Jupiter
+Kannada; dili	Kannada
+Karnataka	Karnataka
+Kazakistan; Kazakeli	Kazakhstan
+Kenya	Kenya
+Hartum	Khartoum
+Khmer	Khmer
+Kruşçev	Khrushchev
+Kiev	Kiev
+Kore	Korea
+Korece	Korean
+Kosova	Kosovo
+Kürtçe	Kurdish
+Kuveyt	Kuwait
+Kırgızistan	Kyrgyzstan
+Laos	Laos
+Latince	Latin
+Latin alfabesi; Latin abecesi	Latin alphabet
+Letonya	Latvia
+Letonca	Latvian
+Lübnan	Lebanon
+Lesotho	Lesotho
+Liberya	Liberia
+Libya	Libya
+Lihtenştayn	Liechtenstein
+Litvanya	Lithuania
+Londra	London
+Lüksemburg	Luxembourg
+Lyon	Lyons
+Makedonya	Macedonia
+Madrid	Madrid
+Magna Carta Libertatum	Magna Carta
+Malezya	Malaysia
+Maldivler	Maldives
+Malta	Malta
+insan	Man
+Kuzeydoğu Çin	Manchuria
+maoculuk	Maoism
+mart	March
+Mars	Mars
+Marshall Adaları	Marshall Islands
+Meryem	Mary
+Moritanya	Mauritania
+mayıs	May
+Akdeniz	Mediterranean Sea
+Merkür	Mercury
+mutlu Noeller	Merry Christmas
+Noeliniz ve yeni yılınız kutlu olsun	Merry Christmas and a Happy New Year
+Meksika	Mexico
+Mikail	Michael
+Orta Doğu	Middle East
+Minsk	Minsk
+bayan	Miss
+Moldova	Moldova
+Monako	Monaco
+pazartesi	Monday
+Moğolistan	Mongolia
+Moğol	Mongolian
+Karadağ	Montenegro
+Fas	Morocco
+Moskova	Moscow
+Musa	Moses
+Everest Dağı	Mount Everest
+Mozambik	Mozambique
+Muhammed; Muhammet; Muhammed peygamber	Muhammad
+Münih	Munich
+Müslüman	Muslim
+Myanmar; Birmanya	Myanmar
+NATO	NATO
+Dağlık Karabağ	Nagorno
+Namibya	Namibia
+Naypyidaw	Naypyidaw
+Nepal	Nepal
+Neptün	Neptune
+Hollanda	Netherlands
+Yeni Delhi	New Delhi
+Yeni Zelanda	New Zealand
+Nikaragua	Nicaragua
+Nijer	Niger
+Nijerya	Nigeria
+Kuzey Amerika	North America
+Kuzey Kore	North Korea
+Kuzey Avrupa	Northern Europe
+Kuzey İrlanda	Northern Ireland
+Norveç	Norway
+Norveççe	Norwegian
+kasım; Teşrini Sani 	November
+Okyanusya	Oceania
+ekim; Teşrini Evvel 	October
+Olimpiyat Oyunları	Olympic Games
+Umman	Oman
+Osmanlı İmparatorluğu; Osmanlı Devleti	Ottoman Empire
+Büyük Okyanus; Pasifik Okyanusu	Pacific Ocean
+Pakistan	Pakistan
+Filistin	Palestine
+Panama	Panama
+Papua Yeni Gine	Papua New Guinea
+Paris	Paris
+Farsça	Persian
+Peru	Peru
+Filipinler	Philippines
+Balık	Pisces
+Ülker	Pleiades
+Plüton	Pluto
+Polonya; Lehistan	Poland
+Lehçe	Polish
+Portekiz	Portugal
+Portekizli	Portuguese
+Prag	Prague
+Pisagor	Pythagoras
+Katar	Qatar
+Kızıldeniz	Red Sea
+Romalı	Roman
+Romanya	Romania
+Rumence	Romanian
+Roma	Rome
+Rusya	Russia
+Rus	Russian
+Rusya Federasyonu	Russian Federation
+Ruanda	Rwanda
+St. Petersburg	Saint Petersburg
+San Marino	San Marino
+Sanskrit	Sanskrit
+Noel Baba	Santa Claus
+Şeytan	Satan
+cumartesi	Saturday
+Satürn	Saturn
+Suudi Arabistan	Saudi Arabia
+İskoçya	Scotland
+Senegal	Senegal
+Seul	Seoul
+eylül	September
+Sırp; Sırbistanlı	Serb
+Sırbistan	Serbia
+Sırbistan-Karadağ	Serbia and Montenegro
+Sırp; Sırbistanlı	Serbian
+Şanghay	Shanghai
+şinto	Shinto
+Sibirya	Siberia
+Sicilya	Sicily
+Singapur	Singapore
+Slovakya	Slovakia
+Slovence	Slovene
+Slovenya	Slovenia
+Pamuk Prenses	Snow White
+Soçi	Sochi
+Sofya	Sofia
+Güneş sistemi	Solar System
+Somali	Somalia
+Sofokles	Sophocles
+Güney Afrika	South Africa
+Güney Amerika	South America
+Güney Asya	South Asia
+Güney Kore; Kore Cumhuriyeti	South Korea
+Güney Osetya	South Ossetia
+Güneydoğu Asya	Southeast Asia
+Sovyetler Birliği	Soviet Union
+İspanya	Spain
+İspanyol	Spanish
+Sparta	Sparta
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Süveyş Kanalı	Suez Canal
+pazar	Sunday
+Surinam	Suriname
+İsveç	Sweden
+İsveççe	Swedish
+İsviçre	Switzerland
+Suriye	Syria
+Tayvan	Taiwan
+Tacikistan	Tajikistan
+Tallinn	Tallinn
+Tanganika Gölü	Tanganyika
+Tanzanya	Tanzania
+Tiflis	Tbilisi
+Tahran	Tehran
+Tel Aviv	Tel Aviv
+On Emir (p)	Ten Commandments
+Tayca; Taylandca	Thai
+Tayland	Thailand
+Lahey	The Hague
+perşembe	Thursday
+Togo	Togo
+Erdel Beyliği	Transylvania
+salı	Tuesday
+Tunus	Tunisia
+Türkiye	Turkey
+Türkçe; Türk dili	Turkish
+Türkmenistan	Turkmenistan
+ABD	USA
+SSCB	USSR
+Uganda	Uganda
+Ukrayna	Ukraine
+Ukraynaca	Ukrainian
+Sovyet Sosyalist Cumhuriyetler Birliği	Union of Soviet Socialist Republics
+Birleşik Arap Emirlikleri	United Arab Emirates
+Birleşik Krallık	United Kingdom
+Birleşik Devletler	United States
+Amerika Birleşik Devletleri; Birleşik Devletler; ABD; Amerika	United States of America
+Uranüs	Uranus
+Uruguay	Uruguay
+Özbekistan	Uzbekistan
+valkür	Valkyrie
+Vatikan	Vatican City
+Venezuela	Venezuela
+Venüs	Venus
+Zafer Günü	Victory Day
+Viyana	Vienna
+Vietnam	Vietnam
+Vişnu	Vishnu
+Galler	Wales
+Varşova	Warsaw
+çarşamba	Wednesday
+Batı Avrupa	Western Europe
+Batı Sahra	Western Sahara
+Beyaz Saray	White House
+Beyazdeniz; Beyaz Deniz	White Sea
+Vikipedi	Wikipedia
+Vikisözlük	Wiktionary
+bayrak; sancak	Wiktionary:Usability/flag
+İkinci Dünya Savaşı; 2. Dünya Savaşı	World War II
+Wrocław	Wroclaw
+Yangtze	Yangtze
+Yekaterinburg	Yekaterinburg
+Sarıdeniz	Yellow Sea
+Yemen	Yemen
+Erivan	Yerevan
+Yugoslavya	Yugoslavia
+Zagreb	Zagreb
+Zambiya	Zambia
+Zerdüştçülük	Zoroastrianism
+aardvark	aardvark
+abaküs	abacus
+terk etmek	abandon
+başrahip	abbot
+kısaltma	abbreviation
+karın	abdomen
+mutlak sıfır	absolute zero
+akordiyon	accordion
+palamut	acorn
+aktinyum	actinium
+aktör	actor
+sıfat	adjective
+hayranlık	admiration
+belirteç; zarf	adverb
+reklam; ilan; duyuru	advertisement
+uçak, tayyare (obsolete)	aeroplane
+sonra	after
+öğleden sonra	afternoon
+yeniden; tekrar; gene	again
+yaş	age
+saldırgan	aggressive
+önce	ago
+tarım	agriculture
+hava	air
+hava taşıtı	aircraft
+uçak, tayyare (obsolete)	airplane
+havalimanı; havaalanı	airport
+El Kaide	al
+alkol	alcohol
+algoritma (m)	algorithm
+canlı	alive
+alkin	alkyne
+bütün	all
+tüm hakları saklıdır	all rights reserved
+timsah	alligator
+badem	almond
+neredeyse	almost
+alfabe; abece	alphabet
+alüminyum	aluminium
+her zaman	always
+ambulans	ambulance
+amerikyum	americium
+ampersand; ve imi	ampersand
+bir<!--"Küçük bir kebap, lütfen!" = "A small kebab, please!"-->	an
+anal seks	anal sex
+anarşızm	anarchism
+çıpa	anchor
+ve; ile; ma	and
+melek	angel
+öfke; kızgınlık	anger
+kızgın	angry
+hayvan	animal
+anime	anime
+yanıt; cevap	answer
+karınca	ant
+şarbon	anthrax
+antimon	antimony
+anüs; makat	anus
+örs	anvil
+elma	apple
+elma	apple tree
+kayısı; zerdali	apricot
+mimar	architect
+mimarlık	architecture
+gümüş	argent
+argon	argon
+kol	arm
+koltuk altı	armpit
+ordu	army
+ok	arrow
+arsenik	arsenic
+enginar	artichoke
+makale	article
+kül	ash
+dilemek	ask
+eşek	ass
+astat, asatatin	astatine
+asteroit	asteroid
+astronomik birim	astronomical unit
+gökbilim; astronomi	astronomy
+astrofizik	astrophysics
+-da; -de	at
+güzel a, özel a, salyangoz, koç, kuyruklu a, çengelli a	at sign
+ateizm (m)	atheism
+atom	atom
+patlıcan; badincan	aubergine
+hala 	aunt
+sonbahar; güz	autumn
+çığ	avalanche
+balta	axe
+eksen	axis
+bebek	baby
+çocuk bakıcısı	babysitter
+sırt	back
+kötü	bad
+porsuk	badger
+çanta; poşet; paket	bag
+gayda	bagpipes
+fırın	bakery
+balkon	balcony
+kel	bald
+top	ball
+balon	balloon
+muz	banana
+banka	bank
+barkod; bar kod	barcode
+baryum	barium
+arpa	barley
+peçeli baykuş	barn owl
+bazalt	basalt
+beyzbol	baseball
+sepet	basket
+basketbol; basket	basketball
+yarasa	bat
+banyo	bathroom
+pil; akü	battery
+harp	battle
+koy	bay
+olmak; var olmak	be
+kumsal; kıyı; plaj; sahil	beach
+gaga	beak
+fasulye	bean
+ayı	bear
+sakal	beard
+güzel	beautiful
+güzellik	beauty
+kastor; kunduz	beaver
+çünkü	because
+yatak	bed
+tahtakurusu	bedbug
+yatak odası	bedroom
+arı	bee
+kayın	beech
+bira	beer
+böcek	beetle
+başlamak	begin
+çan	bell
+göbek; karın	belly
+kemer	belt
+berkelyum	berkelium
+berilyum	beryllium
+daha iyi	better
+bisiklet	bicycle
+büyük	big
+gaga	bill
+biyokimya	biochemistry
+biyoloji	biology
+bipolar bozukluk	bipolar disorder
+huş	birch
+kuş	bird
+doğum günü	birthday
+bisküvi	biscuit
+fil	bishop
+bizmut	bismuth
+ısırmak	bite
+acı, keskin, acılı, yakıcı, sert, şiddetli; iliklere işleyen	bitter
+siyah; kara	black
+orman horozu	black grouse
+kara delik	black hole
+kara ağaçkakan	black woodpecker
+böğürtlen	blackberry
+karatavuk	blackbird
+battaniye	blanket
+kanamak [-ar]	bleed
+çok yaşa 	bless you
+kör; görme engelli; görmez; ama; gözsüz	blind
+web-kütüğü	blog
+kan	blood
+mavi; gök; kök	blue
+yaban domuzu	boar
+kayık; sandal	boat
+vücut; beden	body
+bomba	bomb
+afiyet olsun	bon appétit
+iyi yolculuklar; güle, güle	bon voyage
+kemik	bone
+kitap; betik	book
+kitabevi	bookshop
+çizme	boot
+bor	boron
+şişe	bottle
+yay	bow
+kutu; sandık	box
+boks	boxing
+oğlan	boy
+sütyen	bra
+beyin	brain
+dal	branch
+ekmek	bread
+kırılmak	break
+kahvaltı	breakfast
+meme	breast
+nefes almak; solumak	breathe
+tuğla	brick
+gelin	bride
+köprü	bridge
+brom	bromine
+erkek kardeş; kardeş; birader	brother
+kahverengi	brown
+fırça	brush
+kova	bucket
+bizonu	buffalo
+inşa; inşaat	building
+boğa	bull
+mermi; kurşun	bullet
+hezen arısı	bumblebee
+yanmak	burn
+otobüs	bus
+meşgul	busy
+ancak; fakat	but
+kasap	butcher
+tereyağı	butter
+kelebek	butterfly
+satın almak	buy
+şahin	buzzard
+lahana	cabbage
+(l'tr'kaktüs)	cactus
+kadmiyum	cadmium
+sezyum	caesium
+kafe	café
+kek	cake
+kalsiyum	calcium
+takvim	calendar
+dana; buzağı	calf
+kaliforniyum	californium
+deve; hecin	camel
+-ebilmek; -abilmek	can
+ark	canal
+kanarya	canary
+kanser	cancer
+mum	candle
+kenevir	cannabis
+kanyon	canyon
+çalihorozu	capercaillie
+anapara; anamal; sermaye; kapital	capital
+başkent	capital city
+kapitalizm	capitalism
+araba	car
+karamel; karamela	caramel
+karbon	carbon
+sazan	carp
+dülger; marangoz	carpenter
+halı; kilim	carpet
+havuç	carrot
+kast	caste
+kale	castle
+kedi	cat
+tırtıl	caterpillar
+karnabahar	cauliflower
+mağara	cave
+sedir	cedar
+tavan	ceiling
+hücre	cell
+cep telefonu	cell phone
+merkez	center
+santimetre; santim	centimetre
+kırkayak; çıya	centipede
+yüzyıl; asır	century
+seryum	cerium
+zincir	chain
+koltuk; iskemle; sandalye	chair
+dağ keçisi	chamois
+değişmek	change
+bölüm	chapter
+kovalamak; peşinden koşmak	chase
+ucuz	cheap
+yanak	cheek
+şerefe	cheers
+peynir	cheese
+çita	cheetah
+çek	cheque
+kiraz	cherry
+satranç	chess
+göğüs	chest
+kestane	chestnut
+çiğnemek	chew
+piliç; tavuk	chicken
+çocuk	child
+şempanze	chimpanzee
+çene	chin
+klor	chlorine
+çikolata	chocolate
+seçim	choice
+seçmek	choose
+akor	chord
+krom	chromium
+kilise	church
+sigara	cigarette
+sinema	cinema
+daire	circle
+kent; şehir	city
+klarnet	clarinet
+kil	clay
+temizlemek	clean
+klitoris	clitoris
+kapatmak; örtmek	close
+giysi; örtüler	clothes
+bulut	cloud
+sahil, deniz kenarı, deniz kıyısı, kıyı, kızak için uygun yokuş, kızakla yokuştan kayma	coast
+kobalt	cobalt
+horoz	cock
+hamam böceği	cockroach
+Hindistan cevizi	coconut
+morina	cod
+kahve	coffee
+tabut	coffin
+soğuk	cold
+soğuk savaş	cold war
+katılmak; toplamak	collect
+renk	color
+hasekiküpesi	columbine
+tarak	comb
+gelmek	come
+küçük gümüş martı; dalgıç	common gull
+komünizm; komünistlik	communism
+işletme	company
+pusula	compass
+bilgisayar	computer
+programlama dili	computer language
+yoldaş	comrade
+beton; dongu	concrete
+prezervatif; kondom	condom
+bağlaç	conjunction
+bağ doku	connective tissue
+kıta	continent
+sohbet; konuşma; muhabbet; diyalog	conversation
+bakır	copper
+dari; misir	corn
+koridor	corridor
+pamuk	cotton
+öksürmek	cough
+saymak	count
+taşra	country
+cesaret	courage
+inek	cow
+yengeç	crab
+turna	crane
+kaymak	cream
+suç	crime
+timsah	crocodile
+çarpı	cross
+bulmaca	crossword
+karga	crow
+zalim	cruel
+ağlamak	cry
+kristal	crystal
+küp	cube
+guguk	cuckoo
+hıyar; salatalık	cucumber
+kültür; medeniyet	culture
+am; amcık	cunt
+fincan; kase	cup
+küriyum	curium
+Akıntı	current
+perde	curtain
+bisiklet	cycling
+dans etmek	dance
+kepek	dandruff
+tehlikeli	dangerous
+karanlık	dark
+karanlık madde	dark matter
+karanlık	darkness
+veri	data
+randevu; buluşma	date
+hurma	date palm
+gelin	daughter
+gündüz	day
+ölü; ölmüş	dead
+sağır	deaf
+pahalı	dear
+ölüm	death
+geyik	deer
+lezzetli	delicious
+demokrasi	democracy
+demon	demon
+diş tabibi	dentist
+çöl	desert
+tatlı	dessert
+İblis; şeytan	devil
+şebnem; çiy; çiğ; kırağı; jale	dew
+lehçe	dialect
+ishal	diarrhea
+günlük	diary
+yarak; sik; çük; kobra; pipi	dick
+sözlük; lügat 	dictionary
+zar	die
+zor; güç	difficult
+yemek odası; yemek salonu; salamanje	dining room
+dinozor	dinosaur
+kirli	dirty
+münakaşa; tartışma; bahıs	discussion
+hastalık; sayrılık	disease
+yapmak; etmek	do
+İngilizce biliyor musun? (italbrac'informal)<!--this information does not belong here: literally means "Do you know English?")-->, İngilizce biliyor musunuz? (italbrac'formal)<!--this information does not belong here: literally means "Do you know English?")-->, İngilizce konuşabiliyor musun? (italbrac'informal)<!--this information does not belong here: literally means "Can you speak English?")-->, İngilizce konuşabiliyor musunuz? (italbrac'formal)<!--this information does not belong here: literally means "Can you speak English?")-->	do you speak English
+dobra	dobra
+doktor	doctor
+belgebilim	documentation
+köpek; it	dog
+dolar	dollar
+yunus	dolphin
+bağişlama	donation
+eşek, eşekmerkep	donkey
+kapı	door
+kakırca	dormouse
+şüphe; kuşku	doubt
+hamur	dough
+çörek	doughnut
+güvercin	dove
+düzine	dozen
+ejderha; ejder	dragon
+kızböceği; yusufçuk	dragonfly
+çizmek	draw
+rüya görmek; düş görmek	dream
+alkollü içecek, içki	drink
+hecin	dromedary
+damla	drop
+sarhoş	drunk
+ördek	duck
+dük	duke
+toz	dust
+görev	duty
+dinamit	dynamite
+disleksi	dyslexia
+disprosyum	dysprosium
+e-posta; e-mail; elektronik posta	e
+örneğin; mesela	e.g.
+her	each
+kartal; baz; şehbaz; şahbaz	eagle
+puhu	eagle owl
+kulak (n)	ear
+erken	early
+toprak	earth
+deprem; zelzele	earthquake
+yer solucanı	earthworm
+doğu, şark (obsolete)	east
+kolay	easy
+yemek	eat
+yankı	echo
+eko-	eco
+ekologi	ecology
+iktisat	economics
+değiştirmek ('lit.', to change)	edit
+eğitim	education
+yılan balığı	eel
+yumurta	egg
+patlıcan; badincan	eggplant
+sekiz	eight
+on sekiz	eighteen
+sekizinci ('abbreviations' 8'inci, 8.)	eighth
+seksen	eighty
+aynştaynyum	einsteinium
+boşalma; ejakülasyon	ejaculation
+dirsek	elbow
+cereyan; elektrik	electricity
+elektromanyetizma	electromagnetism
+elektron	electron
+fil	elephant
+on bir	eleven
+elf	elf
+sefarethane	embassy
+imparator	emperor
+boş	empty
+ansiklopedi	encyclopedia
+son	end
+düşman	enemy
+afiyet olsun	enjoy your meal
+girmek	enter
+epitel	epithelium
+denklem	equation
+erbiyum	erbium
+ereksiyon; sertleşme	erection
+as; kakım; ermin	ermine
+erotik; kösnül; şehvetli	erotic
+köken bilimi 	etymology
+avro	euro
+europyum	europium
+ötanazi	euthanasia
+akşam; suare	evening
+olay ufku	event horizon
+her	every
+herkes	everybody
+herkes	everyone
+her şey; herşey	everything
+kötücül; şeytani; şeytanî	evil
+örnek	example
+pahalı	expensive
+ifade	expression
+göz	eye
+göze göz, dişe diş	eye for an eye, a tooth for a tooth
+kaş	eyebrow
+kirpik	eyelash
+göz kapağı	eyelid
+yüz	face
+fabrika	factory
+peri	fairy
+doğan; gökdoğan	falcon
+düşmek	fall
+alageyik	fallow deer
+aile	family
+yelpaze	fan
+uzak	far
+çiftlik	farm
+ziraatçı, çiftçi, zari', zurra'	farmer
+osurmak	fart
+oruç tutmak	fast
+kaynata; kayınbaba; kayınpeder	father
+korkmak; ürkmek	fear
+tüy	feather
+federasyon	federation
+dişi	female
+feminizm	feminism
+fermiyum	fermium
+yaban, dağ gelinciği	ferret
+araba vapuru	ferry
+on beş	fifteen
+beşinci ('abbreviations' 5'inci, 5.)	fifth
+elli	fifty
+incir	fig
+savaşmak	fight
+film	film
+bulmak	find
+parmak	finger
+göknar	fir
+ateş	fire
+birinci, ilk <!--('abbreviation:' 1.)-->	first
+balık	fish
+yumruk	fist
+beş	five
+beş yüz	five hundred
+bayrak; sancak	flag
+alev	flame
+pire	flea
+kat	floor
+un	flour
+çiçeklenmek	flower
+flor	fluorine
+zurna; sipsi; flüt; flavta	flute
+uçmak	fly
+köpük	foam
+sis; duman	fog
+yiyecek; yemek; besin; aş	food
+şap; zoonoz	foot
+futbol	football
+işaret parmağı	forefinger
+alın	forehead
+yabancı	foreign
+yabancı; ecnebi	foreigner
+orman	forest
+unutmak	forget
+kale	fortress
+kırk	forty
+çeşme	fountain
+dört	four
+on dört	fourteen
+dördüncü ('abbreviations' 4'üncü, 4.)	fourth
+tilki	fox
+fransiyum	francium
+serbest bırakmak	free
+özgürlük	freedom
+ifade özgürlüğü	freedom of speech
+arkadaş; dost; ahbab	friend
+arkadaşlık	friendship
+kurbağa	frog
+-den; -dan; -ten; -tan	from
+meyve	fruit
+sikmek; becermek; düzmek	fuck
+dolu	full
+mantar	fungus
+gelecek	future
+gadolinyum	gadolinium
+safra kesesi	gall bladder
+galyum	gallium
+oyun	game
+çöp; süprüntü	garbage
+bahçe	garden
+sarımsak	garlic
+gaz	gas
+benzin; petrol	gasoline
+tamlayan 	genitive
+soykırım	genocide
+coğrafya	geography
+geometri	geometry
+germanyum	germanium
+kaynaç; gayzer	geyser
+hayalet; ruh; hortlak	ghost
+dev	giant
+hediye; armağan	gift
+zencefil	ginger
+zürafa	giraffe
+kız	girl
+vermek	give
+buzul	glacier
+bardak	glass
+eldiven	glove
+yapıştırıcı	glue
+gitmek	go
+kaleci	goalkeeper
+keçi	goat
+tanrı; ilah; tapilacak sey; put	god
+altın	gold
+kaya kartalı, altın kartal	golden eagle
+golf	golf
+belsoğukluğu; gonore	gonorrhea
+iyi	good
+tünaydın; iyi öğlenler; iyi günler	good afternoon
+iyi günler	good day
+iyi akşamlar	good evening
+iyi şanslar	good luck
+günaydın; iyi sabahlar	good morning
+iyi geceler	good night
+güle güle; hoşça kalın; Allah'a ısmarladık	goodbye
+mal	goods
+kaz	goose
+bektaşi üzümü	gooseberry
+hükümet	government
+gram	gram
+gramer; dil bilgisi	grammar
+torun	grandchild
+kız torun	granddaughter
+dede	grandfather
+büyükanne; nine	grandmother
+üzüm	grape
+çim	grass
+çekirge	grasshopper
+mezarlık; kabristan	graveyard
+orman alaca ağaçkakanı	great spotted woodpecker
+bas, tankara	great tit
+yeşil	green
+yeşil çay	green tea
+yeşil ağaçkakan	green woodpecker
+gri; boz	grey
+külrengi balıkçıl	grey heron
+kregždė	griffon vulture
+misafir	guest
+suç	guilt
+beçtavuğu	guinea fowl
+kobay	guinea pig
+gitar	guitar
+martı	gull
+barut	gunpowder
+çingene	gypsy
+hafniyum	hafnium
+dolu	hail
+kıl; tüy	hair
+hac; hacılık	hajj
+yarım	half
+çekiç	hammer
+hamak	hammock
+hamster, cırlak sıçan	hamster
+el	hand
+akşamdan kalmalık	hangover
+olmak; yer bulmak; meydana gelmek	happen
+mutluluk; saadet	happiness
+şanslı	happy
+doğum günün kutlu olsun (lit. 'May your birthday be happy'), nice mutlu yıllara (lit. 'To more happy years...')	happy birthday
+sert	hard
+sabit disk	hard drive
+tavşan	hare
+şapka; başlık	hat
+nefret etmek	hate
+nefret	hatred
+sahip olmak 	have
+atmaca	hawk
+saman, kuru ot	hay
+fındık	hazelnut
+o 	he
+baş; kafa	head
+sağlık	health
+duymak; işitmek	hear
+yürek; kalp	heart
+gökyüzü	heaven
+kirpi	hedgehog
+topuk	heel
+helikopter	helicopter
+helyum	helium
+cehennem; tamu	hell
+alo; efendim	hello
+yardım etmek	help
+kenevir; kendir	hemp
+tavuk	hen
+onun	her
+buraya	here
+kahraman	hero
+balıkçıl	heron
+merhaba; selam	hi
+tepe	hill
+su aygırı	hippopotamus
+onun	his
+tarih	history
+holmiyum	holmium
+ev; yurt	home
+homofobi	homophobia
+eşcinsellik; homoseksüellik	homosexuality
+bal	honey
+tırnak 	hoof
+ummak; umut etmek; ümit etmek	hope
+boynuz	horn
+eşek arısı	hornet
+at; beygir	horse
+hastane	hospital
+sıcak	hot
+otel	hotel
+saat	hour
+ev; hane	house
+nasıl	how
+nasılsınız? (formal), nasılsın? (informal)	how are you
+(genitive) + fiyatı nedir?, (genitive) + fiyatı ne kadar?, (nominative) + kaç para?, (nominative) + kaça?	how much does it cost
+kaç yaşındasın 	how old are you
+sarılma	hug
+insan; insanoglu 	human
+insan; insanoglu 	human being
+insan hakları	human rights
+hümanizm	humanism
+yüz	hundred
+aç	hungry
+avlamak 	hunt
+kasırga	hurricane
+koca; eş	husband
+hidrat	hydrate
+hidrojen	hydrogen
+sırtlan	hyena
+dağ keçisi	ibex
+buz; ayaz 	ice
+dondurma	ice cream
+aysberg; buzdağı	iceberg
+düşünce	idea
+salak	idiot
+eğer; -se; -sa; ise	if
+magmatik kayaçlar	igneous rock
+hasta	ill
+hastalık	illness
+önemli; mühim	important
+dizin; indeks	index
+indiyum	indium
+bilgi	information
+zarar	injury
+mürekkep	ink
+delılıq	insanity
+böcek (1), haşere (2)	insect
+insülin	insulin
+zeka	intelligence
+ilginç; enteresan	interesting
+içten yanmalı motor	internal combustion engine
+uluslararası; enternasyonal	international
+tercüman	interpreter
+iyot	iodine
+iridyum	iridium
+ütülemek	iron
+var	is
+ada; cezire	island
+o	it
+küçük karga	jackdaw
+alakarga	jay
+denizanası	jellyfish
+cihat	jihad
+gazetecilik	journalism
+haz; sevinç; keyif	joy
+meyve suyu	juice
+ardıç	juniper
+kanguru	kangaroo
+kerkenez	kestrel
+ketçap	ketchup
+anahtar; açar	key
+klavye	keyboard
+böbrek	kidney
+öldürmek	kill
+kilometre	kilometre
+papaz	king
+krallık	kingdom
+öpmek	kiss
+mutfak	kitchen
+uçurtma	kite
+diz	knee
+bıçak	knife
+at	knight
+tanımak	know
+koala	koala
+kripton	krypton
+uğur böceği	ladybird
+uğur böceği	ladybug
+göl	lake
+kuzu	lamb
+dil	language
+lantan	lanthanum
+melez; melezi	larch
+geniş	large
+lazer	laser
+son	last
+geçen yıl; geçen sene; bıldır 	last year
+lav	lava
+kanun	law
+lorentiyum	lawrencium
+avukat	lawyer
+tembel	lazy
+kurşun	lead
+yaprak	leaf
+artık yıl	leap year
+gelincik	least weasel
+deri	leather
+sülük	leech
+pırasa	leek
+sol	left
+bacak	leg
+limon	lemon
+uzunluk	length
+leopar; pars	leopard
+lezbiyen	lesbian
+küçük ağaçkakan	lesser spotted woodpecker
+ders	lesson
+mektup	letter
+marul	lettuce
+yalancı	liar
+kütüphane	library
+yalamak	lick
+yalan söylemek	lie
+hayat; ömür; yaşam	life
+hafif	light
+ışık yılı	light year
+fener, fener kulesi, deniz feneri	lighthouse
+yıldırım; şimşek	lightning
+hoşlanmak; sevmek	like
+zambak	lily
+dil bilimi; dilbilim; lisâniyat	linguistics
+aslan	lion
+dudak	lip
+duymak	listen
+literatür; edebiyat; yazın	literature
+lityum	lithium
+litre	litre
+küçük	little
+kukumav	little owl
+yaşamak	live
+karaciğer	liver
+kertenkele	lizard
+ıstakoz	lobster
+kulaklı orman baykuşu	long
+bakmak	look
+aramak	look for
+bit	louse
+sevgilim; aşkım	love
+alçak	low
+şans	luck
+ay tutulması	lunar eclipse
+akciğer	lung
+ut; lavta	lute
+lütesyum	lutetium
+vaşak	lynx
+makine dili	machine language
+uskumru	mackerel
+deli	mad
+magma	magma
+magnezyum	magnesium
+saksağan	magpie
+mısır	maize
+adam; erkek	man
+mangan	manganese
+mango	mango
+çok; pek çok; birçok	many
+harita	map
+akçaağaç; isfendan	maple
+kısrak	mare
+esrar	marijuana
+pazar	market
+dağ sıçanı	marmot
+sansar	marten
+mastürbasyon	masturbation
+kibrit	match
+dede	maternal grandfather
+matematik	mathematics
+döşek, yatak, şitle	mattress
+belki	maybe
+yemek; aş	meal
+et	meat
+ilaç	medicine
+karşılaşmak; rastlamak; rastlaşmak	meet
+kavun	melon
+hafıza; bellek	memory
+mendelevyum	mendelevium
+cıva	mercury
+mikroskop	microscope
+orta parmak	middle finger
+gece yarısı	midnight
+ebe	midwife
+süt	milk
+milyar	milliard
+kırkayak	millipede
+maden; maden ocağı	mine
+mineraloji	mineralogy
+nane	mint
+dakika	minute
+ayna	mirror
+hendek	moat
+mobil telefon :tr:mobil telefon'(tr), (n), cep telefonu :tr:cep telefonu'(tr), (n)	mobile phone
+köstebek	mole
+molekül	molecule
+molibden	molybdenum
+an	moment
+monarşi	monarchy
+manastır	monastery
+para	money
+rahip; ruhban	monk
+maymun	monkey
+ay	month
+ay	moon
+sabah	morning
+cami; mescit	mosque
+sivrisinek	mosquito
+yosun	moss
+güve	moth
+kaynana; kayınvalide; hanımanne	mother
+ana dili	mother tongue
+yaban koyunu; muflon	mouflon
+dağ	mountain
+fare	mouse
+bıyık	moustache
+ağız	mouth
+sinema; film	movie
+çamur	mud
+katır	mule
+cinayet; adam öldürme	murder
+kas; adale	muscle
+müze	museum
+mantar	mushroom
+müzik	music
+müzik aleti; enstrüman; çalgı	musical instrument
+müzisyen	musician
+misk sıçanı	muskrat
+hardal	mustard
+benim	my
+gizemli; esrarlı	mysterious
+gizem; esrar	mystery
+mitoloji	mythology
+çivi; mıh	nail
+çıplak	naked
+nam	name
+dar	narrow
+millet; ulus	nation
+milliyetçilik	nationalism
+nebula	nebula
+boyun	neck
+gerdanlık; kolye	necklace
+gereksinmek; gereksinim duymak; gereksinimi olmak; ihtiyaç duymak; ihtiyacı olmak; lazım olmak; gerekmek	need
+iğne	needle
+komşu	neighbour
+neodim	neodymium
+neon	neon
+neptünyum	neptunium
+yuva	nest
+ısırgan	nettle
+nötrino	neutrino
+asla	never
+yeni	new
+haberler	news
+gazete	newspaper
+nikel	nickel
+gece	night
+bülbül	nightingale
+kâbus	nightmare
+dokuz	nine
+on dokuz	nineteen
+doksan	ninety
+dokuzuncu ('abbreviations' 9'uncu, 9.)	ninth
+niyobyum	niobium
+meme başı; meme ucu; göğüs ucu; şişe emziği 	nipple
+azot	nitrogen
+hayır; ııh 	no
+kimse; hiç kimse	no one
+nobelyum	nobelium
+kimse	nobody
+yalın hal 	nominative case
+sivil toplum kuruluşu	non
+öldürmeme	nonkilling
+öğle	noon
+kuzey; şimal 	north
+burun	nose
+değil; -ma; -me	not
+defter	notebook
+hiç; hiç bir şey	nothing
+isim; ad	noun
+şimdi	now
+çıplak	nude
+sayı	number
+hemşire	nurse
+ceviz	nut
+meşe	oak tree
+kürek	oar
+itaat	obedience
+obezite	obesity
+obua	oboe
+okyanus	ocean
+ahtapot	octopus
+-in; -ın; -ün; -un	of
+tabii ki	of course
+ofis; büro; işyeri	office
+sık; sık sık	often
+yağ	oil
+yaşlı	old
+zeytin	olive
+evvel zaman içinde	once upon a time
+bir	one
+soğan	onion
+açık	open
+işletim sistemi	operating system
+görüş	opinion
+veya	or
+turuncu	orange
+organ	organ
+organizma	organism
+orgazm	orgasm
+yetim	orphan
+osmiyum	osmium
+deve kuşu	ostrich
+diğer; başka	other
+su samuru; lutr	otter
+bizim	our
+yumurtalık	ovary
+baykuş	owl
+öküz	ox
+oksijen	oxygen
+sayfa	page
+acı; ağrı	pain
+ressam	painter
+saray	palace
+palladyum	palladium
+aya; avuç içi	palm
+pankreas	pancreas
+pantolon	pants
+papaya	papaya
+kâğıt	paper
+paradoks	paradox
+papağan	parrot
+parça	part
+keklik	partridge
+parti; şölen	party
+pasaport; geçişlik	passport
+hala; yenge 	paternal aunt
+dede; büyükbaba	paternal grandfather
+piyon	pawn
+huzur	peace
+şeftali	peach
+tavuskuşu	peacock
+yer fıstığı	peanut
+armut	pear
+inci	pearl
+kalem	pen
+kalem, karakalem	pencil
+penguen	penguin
+penisilin	penicillin
+yarımada	peninsula
+penis; yarak; sik	penis
+halk	people
+karabiber	pepper
+faiz; yüzde	percent
+doğan; gökdoğan	peregrine falcon
+perestroika; perestroyka	perestroika
+belki, her halde	perhaps
+perine; apış arası	perineum
+periyodik tablo; periyodik cetvel	periodic table
+kişi	person
+benzin	petrol
+petrol	petroleum
+firavun	pharaoh
+eczane	pharmacy
+sülün	pheasant
+felsefeci; filozof	philosopher
+Anka; Zümrüdüanka; Simurg	phoenix
+fosfor	phosphorus
+fotoğraf	photograph
+fotosentez	photosynthesis
+fizik, doğam (doğa kuramı)	physics
+piyano	piano
+parça	piece
+domuz; hınzır	pig
+güvercin	pigeon
+domuz yavrusu [domuzcuk]	piglet
+yastık	pillow
+sivilce	pimple
+çam	pine
+ananas	pineapple
+pembe	pink
+korsan	pirate
+pizza	pizza
+gezegen	planet
+bitki; bitkiler	plant
+tanner	plate
+platin	platinum
+gagalı memeli	platypus
+oyun	play
+lütfen	please
+zevk	pleasure
+saban	plough
+erik	plum
+plütonyum	plutonium
+cep	pocket
+nazım; şiir; manzume; koşuk	poem
+şiir	poetry
+zehir; ağı	poison
+kutup ayısı	polar bear
+kokarca	polecat
+polis	police
+kibar; nazik	polite
+politika; siyaset	politics
+polonyum	polonium
+çokgen	polygon
+nar	pomegranate
+fakir; yoksul	poor
+papa	pope
+kavak	poplar
+liman	port
+postane	post office
+posta pulu	postage stamp
+kartpostal	postcard
+posta kodu	postcode
+postmodernizm	postmodernism
+potasyum	potassium
+patates	potato
+libre	pound
+güç	power
+praseodim	praseodymium
+dua	prayer
+hamilelik	pregnancy
+gebe; hamile	pregnant
+ilgeç	preposition
+sünnet derisi	prepuce
+cumhurbaşkanı	president
+güzel	pretty
+fiyat	price
+papaz; din adamı	priest
+başbakan	prime minister
+asal sayı	prime number
+sorun	problem
+programlama dilleri	programming language
+prometyum	promethium
+zamir	pronoun
+sesletim; telaffuz	pronunciation
+mal	property
+peygamber; nebi; resul; serdar-ı ekrem; Allah'ın elçisi; yalvaç	prophet
+orospu; fahişe; hayat kadını; lkj	prostitute
+protaktinyum	protactinium
+korumak	protect
+proton	proton
+atasözü	proverb
+bal kabağı	pumpkin
+köpek yavrusu	puppy
+mor, erguvani ('purple-coloured')	purple
+amcık; am	pussy
+piramit	pyramid
+bıldırcın	quail
+çeyrek	quarter
+vezir	queen
+soru	question
+tırnak işareti [«◌»] 'or' [“◌”]	quotation marks
+tavşan	rabbit
+rakun	raccoon
+radyo	radio
+radon	radon
+demiryolu	railway
+yağmur; baran	rain
+gökkuşağı, ebem kuşağı, peygamber kuşağı	rainbow
+tırmık	rake
+koç	ram
+ırza tecavüz; ırza geçme	rape
+ahududu; frambuaz	raspberry
+sıçan	rat
+kuzgun	raven
+okumak	read
+yeni	recent
+reçete	recipe
+dikdörtgen	rectangle
+kırmızı; al	red
+geyik	red deer
+Ren geyiği	reindeer
+akraba	relative
+din	religion
+hatırlamak; anımsamak	remember
+sürüngen	reptile
+cumhuriyet	republic
+intikam	revenge
+devrim; ihtilal	revolution
+renyum	rhenium
+gergedan	rhinoceros
+rodyum	rhodium
+pirinç	rice
+varlıklı; varsıl; zengin	rich
+tüfek	rifle
+doğru	right
+yüzük	ring
+yüzük parmağı	ring finger
+ırmak; nehir	river
+cadde; sokak	road
+robot	robot
+kaya güvercini	rock dove
+karaca	roe deer
+çatı; örtü	roof
+kale	rook
+yer; oda	room
+horoz	rooster
+kaynak	root
+halat	rope
+gül	rose
+rubidyum	rubidium
+ruble	ruble
+koşmak	run
+rutenyum	ruthenium
+rutherfordyum	rutherfordium
+çavdar	rye
+üzgün	sad
+aylık; maaş	salary
+salya; tükürük	saliva
+somon	salmon
+tuz	salt
+samaryum	samarium
+aynı	same
+kum	sand
+sandviç	sandwich
+salça	sauce
+sosis	sausage
+söylemek	say
+skandiyum	scandium
+yara izi	scar
+şizofreni	schizophrenia
+ekol	school
+ilim	science
+makas	scissors
+akrep	scorpion
+peçeli baykuş	screech owl
+skrotum	scrotum
+deniz; derya	sea
+martı	seagull
+fok	seal
+mevsim	season
+ikinci <!-- ('abbreviation' 2.) -->	second
+sır	secret
+görmek	see
+tohum; tane	seed
+selenyum	selenium
+satmak	sell
+meni; sperm; döl	semen
+göndermek; yollamak	send
+cümle; tümce	sentence
+hızmet	service
+yedi	seven
+on yedi	seventeen
+yedinci ('abbreviations' 7'nci, 7.)	seventh
+yetmiş	seventy
+cinsiyet	sex
+cinsel yönelim; cinsel tercih	sexual orientation
+gölge	shadow
+köpek balığı	shark
+keskin	sharp
+o 	she
+koyun	sheep
+çoban	shepherd
+kalkan	shield
+gemi	ship
+gömlek	shirt
+dışkılamak; boşaltım yapmak	shit
+kundura; ayakkabı	shoe
+dükkan; dükkân; mağaza	shop
+kir faresi	shrew
+hasta; sayrı	sick
+orak	sickle
+sessizlik	silence
+silisyum	silicon
+ipek	silk
+gümüş	silver
+basit; sade	simple
+günah	sin
+şarkı söylemek	sing
+şarkıcı; şantör (m); şantöz (f)	singer
+abla (italbrac'older), kız kardeş, bacı	sister
+oturmak	sit
+altı	six
+on altı	sixteen
+altıncı ('abbreviations' 6'ncı, 6.)	sixth
+altmış	sixty
+iskelet	skeleton
+cilt; deri	skin
+etek	skirt
+kafatası	skull
+cennet	sky
+tarla kuşu	skylark
+gökdelen	skyscraper
+köle; kul	slave
+uyku	sleep
+yavaş	slow
+küçük	small
+gülümsemek	smile
+duman	smoke
+salyangoz; sümüklüböcek	snail
+yılan	snake
+hapşırmak	sneeze
+bir tür bilardo	snooker
+kar	snow
+kar leoparı	snow leopard
+kar tanesi	snowflake
+sabun	soap
+futbol	soccer
+sosyalizm	socialism
+çorap	sock
+sodyum	sodium
+kanepe	sofa
+yazılım	software
+güneş rüzgarı	solar wind
+asker	soldier
+bir şey	something
+bazen; ara sıra	sometimes
+damat; güveyi	son
+şarkı	song
+birazdan; biraz sonra; şimdi; derhal; memnuniyetle	soon
+pardon; özür dilerim 	sorry
+ruh	soul
+ses	sound
+çorba	soup
+güney; cenup 	south
+uzay gemisi	spaceship
+uzayzaman	spacetime
+kürek; bel	spade
+serçe	sparrow
+konuşmak	speak
+gözlük	spectacles
+konuşma; söz	speech
+küre	sphere
+baharat	spice
+örümcek	spider
+ruh	spirit
+tükürmek	spit
+dalak	spleen
+kaşık	spoon
+spor	sport
+yay; zemberek	spring
+ladin	spruce
+ajan; casus	spy
+kare (n)	square
+kalamar	squid
+sincap	squirrel
+ayakta durmak	stand
+yıldız; yultuz	star
+sığırcık	starling
+durak; istasyon	station
+heykel	statue
+çelik; polat	steel
+mide	stomach
+taş	stone
+leylek	stork
+garip; tuhaf; yabancı	strange
+çilek	strawberry
+sokak	street
+ip	string
+stronsiyum	strontium
+öğrenci	student
+denizaltı	submarine
+emmek	suck
+aniden; ansızın; birden; birdenbire	suddenly
+şeker	sugar
+intihar	suicide
+kükürt	sulfur
+yaz	summer
+güneş	sun
+ayçiçeği; gündöndü; günebakan	sunflower
+soyadı; soy ismi	surname
+yutmak	swallow
+kuğu	swan
+tatlı	sweet
+tatlı patates	sweet potato
+tatlandırıcı	sweetener
+yüzmek	swim
+yüzme havuzu	swimming pool
+kılıç	sword
+kılıç balığı	swordfish
+enjektör; şırınga	syringe
+usul	system
+cetvel; tablo	table
+iribaş	tadpole
+tayga	taiga
+kuyruk	tail
+terzi	tailor
+almak	take
+yetenek	talent
+konuşmak	talk
+tank	tank
+tantal	tantalum
+dövme	tattoo
+alaca baykuş	tawny owl
+taksi	taxi
+çay	tea
+öğretmek	teach
+öğretmen; muallim 	teacher
+gözyaşı	tear
+teknetyum	technetium
+telefon etmek	telephone
+teleskop	telescope
+televizyon; sınalgı	television
+tellür	tellurium
+tapınak	temple
+on	ten
+çadır	tent
+onuncu ('abbreviations' 10'uncu, 10.)	tenth
+terbiyum	terbium
+terörizm	terrorism
+terörist; yıldırıcı	terrorist
+testis; haya	testicle
+talyum	thallium
+teşekkür ederim; mersi; teşekkürler	thank you
+çok teşekkürler; çok teşekkür ederim	thank you very much
+teşekkürler; teşekkür ederim	thanks
+(not used'tr)	the
+onların	their
+şurada (less distant), ora, orada (more distant)	there
+var (singular and plural)	there is
+onlar	they
+hırsız	thief
+uyluk; but	thigh
+yüksük	thimble
+şey	thing
+düşünmek	think
+üçüncü ('abbreviations' 3'üncü, 3.)	third
+susuzluk	thirst
+susuz	thirsty
+on üç	thirteen
+otuz	thirty
+bu	this
+toryum	thorium
+diken	thorn
+sen	thou
+düşünce	thought
+bin	thousand
+tire	thread
+üç	three
+tulyum	thulium
+başparmak (m)	thumb
+gök gürültüsü	thunder
+kaplan	tiger
+kere	time
+kalay	tin
+yorgun	tired
+titan; titanyum	titanium
+-e; -a; -ye; -ya	to
+tütün	tobacco
+bugün; günümüz; günümüzde	today
+birlikte; beraber	together
+tuvalet	toilet
+domates	tomato
+yarın	tomorrow
+dil	tongue
+çok; fazla	too
+diş; dişler	tooth
+diş fırçası	toothbrush
+meşale	torch
+kaplumbağa; tosbağa	tortoise
+dokunmak	touch
+turizm	tourism
+kule	tower
+ilçe; kasaba	town
+oyuncak	toy
+gelenek; töre	tradition
+tren; katar	train
+tramvay	tram
+tercüme etmek; terceme; çevirmek	translate
+çeviri; tercüme	translation
+çevirmen; tercüman	translator
+ağaç	tree
+üçgen	triangle
+pantolon	trousers
+alabalık	trout
+kamyon	truck
+gerçek	true
+trampet	trumpet
+çar	tsar
+tsunami	tsunami
+volfram; tungsten	tungsten
+hindi	turkey
+kaplumbağa; tosbağa	turtle
+üveyik	turtle dove
+on iki	twelve
+yirmi beş	twenty
+çift	twin
+iki	two
+iki yüz	two hundred
+tayfun	typhoon
+şemsiye	umbrella
+amca; dayı; enişte 	uncle
+anlamak	understand
+iç çamaşırı	underwear
+işsizlik	unemployment
+uzay; evren; cihan (n)	universe
+üniversite	university
+uranyum	uranium
+üretra	urethra
+çiş; idrar; sidik	urine
+kullanmak	use
+faydalı; yararlı	useful
+vajina	vagina
+vadi	valley
+vampir	vampire
+vanadyum	vanadium
+sebze	vegetable
+fiil; eylem	verb
+çok	very
+zafer	victory
+köy; nahiye	village
+sirke	vinegar
+mor	violet
+keman	violin
+bakir 	virgin
+virüs	virus
+vize	visa
+votka	vodka
+ses	voice
+yanardağ; volkan	volcano
+voleybol	volleyball
+volt	volt
+akbaba	vulture
+beklemek	wait
+garson	waiter
+yürümek	walk
+duvar; sur	wall
+mors	walrus
+istemek	want
+savaş; muharebe; harp; cenk 	war
+savaş gemisi	warship
+siğil	wart
+yıkamak	wash
+yaban arısı	wasp
+kol saatı	watch
+şelale	waterfall
+karpuz	watermelon
+dalga	wave
+balmumu; bal mumu	wax
+yol	way
+biz	we
+silah	weapon
+hava	weather
+düğün	wedding
+hafta	week
+hafta sonu	weekend
+hoşgeldin; hoşgeldiniz 	welcome
+iyi	well
+kurt adam	werewolf
+batı, garp (obsolete)	west
+ıslak	wet
+balina	whale
+ne	what
+saat kaç? (lit. 'hours how-many?')	what time is it
+buğday	wheat
+tekerlek	wheel
+nerede	where
+tuvalet nerede; lavabo nerede	where is the toilet
+kamçi	whip
+viski	whiskey
+beyaz; ak	white
+kim	who
+orospu, kaltak, şırfıntı, şıllık, kevaşe, fahişe, aşifte (or aşüfte)	whore
+neden; niçin	why
+vasi	wide
+dul	widow
+karı	wife
+yaban domuzu	wild boar
+yaban kedisi	wildcat
+söğüt	willow
+kazanmak	win
+rüzgar; yel	wind
+pencere; cam	window
+şarap	wine
+kanat	wing
+kış	winter
+akıllı	wise
+avrupa bizonu	wisent
+istemek; dilemek	wish
+cadı	witch
+ile; -le; -yle; -la; -yla	with
+-siz; -suz; -süz 	without
+kurt; böri	wolf
+kadın	woman
+odun	wood
+ağaçkakan	woodpecker
+yün	wool
+sözcük; kelime	word
+çalışmak	work
+bütün ülkelerin işçileri, birleşin!	workers of the world, unite
+Dünya; acun	world
+kurt	worm
+bilek	wrist
+yazmak	write
+ksenon	xenon
+zenofobi	xenophobia
+esnemek	yawn
+yıl; sene	year
+maya	yeast
+sarı	yellow
+evet	yes
+dün	yesterday
+yoga	yoga
+yoğurt	yoghurt
+yumurta sarısı	yolk
+siz	you
+genç	young
+sizin	your
+iterbiyum	ytterbium
+itriyum	yttrium
+zebra	zebra
+sıfır	zero
+çinko	zinc

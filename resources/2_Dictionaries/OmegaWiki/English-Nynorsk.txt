@@ -1,0 +1,383 @@
+English	Nynorsk
+Abidjan	Abidjan
+Afrikaans	afrikaans
+American Samoa	Amerikansk Samoa
+Angola ; Republic of Angola	Angola
+Anguilla	Anguilla
+Antarctica	Antarktis
+Apus	Paradisfuglen
+Aquarius	Vassmannen
+Aquila	Ørna
+Arabic ; Standard Arabic	arabisk
+Argentina ; Argentine Republic	Argentina
+Aries	Vêren
+Armenian	armensk
+Aruba	Aruba
+Austria ; Republic of Austria	Austerrike
+Bahrain	Bahrain
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Basque ; Basque	baskisk
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	kviterussisk
+Belize	Belize
+Bermuda	Bermuda
+Birmingham	Birmingham
+Black Sea	Svartehavet
+Bokmål	bokmål
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosnia-Hercegovina
+Botswana ; Republic of Botswana	Botswana
+Bouvet Island	Bouvetøya
+Breton ; Breton	bretonsk
+Brunei ; Negara Brunei Darussalam	Brunei
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Bulgarian ; Bulgarian	bulgarsk
+Burundi ; Republic of Burundi	Burundi
+Cambodia ; Kingdom of Cambodia	Kambodsja
+Cameroon ; Republic of Cameroon	Kamerun
+Cancer	Krepsen
+Cassiopeia	Kassiopeia
+Castilian ; Spanish ; Spanish	spansk
+Cayman Islands	Caymanøyane
+Christmas	Jul ; Jol ; jul ; jol
+Christmas tree	juletre
+Cyprus ; Republic of Cyprus	Republikken Kypros
+Czech ; Czech	tsjekkisk
+Czech Republic ; Czechia	Den tsjekkiske republikken
+Dakar	Dakar
+Danish	dansk
+Delaware	Delaware
+Dominican Republic	Den dominikanske republikken
+Dutch	nederlandsk
+EU ; European Union	Den europeiske unionen
+East Timor ; Democratic Republic of Timor-Leste	Aust-Timor
+Easter	Påske
+Egypt ; Arab Republic of Egypt	Den arabiske republikken Egypt
+Eiffel Tower	Eiffeltårnet
+El Salvador ; Republic of El Salvador	El Salvador
+English	engelsk
+Eritrea	Eritrea
+Esperanto ; Esperanto	esperanto
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopia
+Falkland Islands	Falklandsøyane
+Faroe Islands	Færøyane
+Finland ; Republic of Finland	Finland
+Finnish	finsk
+France	Frankrike
+French ; French	fransk
+French Guiana	Fransk Guyana
+Gabon ; Gabonese Republic	Gabon
+Gaborone	Gaborone
+Galician ; Galician	galisisk
+German	tysk
+German	tyskar
+German (Austria)	tysk (Austerrike)
+German (Switzerland)	tysk (Sveits)
+Germany ; Federal Republic of Germany	Sambandsrepublikken Tyskland
+Greenland	Grønland
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam ; Guam ; Guam	Guam
+Haiti ; Republic of Haiti	Haiti
+Hannukah	hanukká
+Holland ; Kingdom of the Netherlands ; The Netherlands	Nederland
+Honduras ; Republic of Honduras	Honduras
+Icelandic	islandsk
+India ; Republic of India	India
+Indonesia ; Republic of Indonesia	Indonesia
+Indre	Indre
+Iran ; Islamic Republic of Iran	Den islamske republikken Iran
+Israel ; State of Israel	Israel
+Italian ; Italian	italiensk
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Elfenbeinskysten ; Republikken Elfenbeinskysten
+Jakarta ; Djakarta ; DKI Jakarta	Jakarta
+Jamaica	Jamaica
+Japan ; State of Japan	Japan
+Japanese ; Japanese	japansk
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	et hasjimittiske kongeriket Jordan
+Judaism	jødedommen
+Kazakhstan ; Republic of Kazakhstan	Kasakhstan
+Kiribati ; Republic of Kiribati	Kiribati
+Kyrgyzstan ; Kyrgyz Republic	Kirgisistan
+Lagos	Lagos
+Laos ; Lao People's Democratic Republic	Den demokratiske folkerepublikken Laos
+Latvia ; Republic of Latvia	Latvia
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Libra	Vekta
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Den sosialistiske arabiske folkerepublikken Libya
+Lisbon	Lisboa
+Lower Saxony	Niedersachsen
+Macedonia ; Republic of Macedonia	Makedonia
+Malawi ; Republic of Malaŵi	Malawi
+Malayalam ; Malayalam	malayalam
+Malaysia	Malaysia
+Maldives ; Republic of the Maldives	Republikken Maldivane ; Maldivane
+Malta ; Republic of Malta	Malta
+Marathi ; Marāthi ; Marāthi ; MarÄthi	marathi
+Marshall Islands ; Republic of the Marshall Islands	Marshalløyane ; Republikken Marshalløyane
+Martinique	Martinique
+Mauritania ; Islamic Republic of Mauritania	Mauritania
+Mayotte	Mayotte
+Mecca	Mekka
+Mexico ; United Mexican States	Dei sameinte statane Mexico
+Milan	Milano
+Monaco	Monaco
+Montenegro	Montenegro
+Montserrat	Montserrat
+Morocco ; Kingdom of Morocco	Marokko
+Mount Fuji	Fuji-fjellet
+Namibia	Namibia
+Neapolitan ; Neapolitan	napolitansk-kalabresisk ; napolitansk
+New Zealand	Ny-Zealand ; New Zealand
+Nicaragua	Nicaragua
+Niue	Niue
+Norway ; Kingdom of Norway	Noreg ; Kongeriket Noreg
+Norwegian	norsk
+Nynorsk	nynorsk ; nynorsk
+Pakistan ; Islamic Republic of Pakistan	Pakistan ; Den islamske republikken Pakistan
+Panama	Panama
+Poland	Polen
+Polish ; Polish	polsk
+Portugal	Portugal
+Portuguese ; Portuguese	portugisisk
+Puerto Rico	Puerto Rico
+Rhône	Rhône
+Russian ; Russian	russisk
+Sapir–Whorf hypothesis	Sapir-Whorf-hypotesen
+Scorpio	Skorpionen
+Senegal	Senegal
+Serbia	Serbia
+Serbia and Montenegro	Serbia og Montenegro
+Serbian ; Serbian	serbisk
+Slovakia	Slovakia
+Slovene ; Slovenian ; Slovenian	slovensk
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Swedish	svensk
+Switzerland	v ; Sveits
+Syria ; Syrian Arab Republic	Syria ; Den arabiske republikken Syria
+Taiwan	Taiwan
+Tanzania	Tanzania
+Taurus	Tyren
+Telugu ; Telugu	telugu
+Thuringia	Thüringen
+Togo	Togo
+Toronto	Toronto
+Turkey	Tyrkia
+Uganda ; Republic of Uganda	Uganda
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Sambandsstatane ; dei amerikanske Sambandsstatane
+Vatican City ; The Holy See ; State of the Vatican City	Vatikanstaten
+Venus	Venus
+Welsh ; Welsh	walisisk ; kymrisk
+Yiddish	jiddisk ; jiddisch
+Zambia ; Republic of Zambia	Zambia
+aAmplitude ; amplitude	amplitude
+actinium	actinium
+alloy	legering
+almanac	almanakk
+aluminium	aluminium
+americium	americium
+amphetamine	amfetamin
+annelid	leddorm
+antimony	antimon
+apartheid	apartheid
+aquarium	akvarium
+argon	argon
+arsenic	arsen
+asphalt	asfalt
+astatine	astat
+barium	barium
+barley	bygg
+barometer	barometer
+berkelium	berkelium
+beryllium ; glucinium	beryllium
+bicycle ; bike ; cycle	sykkel
+bismuth	vismut
+blood plasma	blodplasma
+bohrium	bohrium
+boron	bor
+bromine	brom
+cadmium	kadmium
+caesium	cesium
+caffeine	koffein
+calcium	kalsium
+caliber	kaliber
+californium	californium
+carbon	karbon
+cerium	cerium
+chromium	krom
+climatic change ; climate change	klimaendring
+clothing ; apparel	klede
+cobalt	kobolt
+compound ; chemical compound	kjemisk sambinding
+constructed language ; artificial language	kunstspråk
+copper	kopar
+crystal	krystall
+curium	curium
+currency	valuta
+darmstadtium	darmstadtium
+death penalty ; capital punishment ; death sentence	dødsstraff
+dendrochronology ; tree-ring dating	årringsdatering ; treringsdatering ; dendrokronologi
+dialect	målføre
+dubnium	dubnium
+dysprosium	dysprosium
+egg	egg
+einsteinium	einsteinium
+elder ; elderberry	hyll
+equation	likning
+equator	ekvator
+erbium	erbium
+ethics	etikk
+europium	europium
+fermium	fermium
+ferry	ferje
+firework	fyrverkeri
+flint ; flintstone	flint
+fluorine	fluor
+francium	francium
+gadolinium	gadolinium
+gallium	gallium
+genealogy	slektsforsking
+germanium	germanium
+gold	gull
+gonorrhea	gonorré
+grammer ; grammar	grammatikk
+granite	granitt
+guillotine ; guillotine ; guillotine	giljotin
+hafnium	hafnium
+haiku	haiku
+hassium	hassium
+helium	helium
+heroin	heroin
+holmium	molmium ; holmium
+hormone	hormon
+hydrogen	hydrogen
+ideology	ideologi
+indium	indium
+iodine	jod
+iridium	iridium
+iron	jern
+jazz	jazz
+krypton	krypton
+language	språk
+lanthanum	lantan
+lawrencium	lawrencium
+lens	linse
+liberalism	liberalisme
+limnology	limnologi
+linguistics	lingvistikk
+lithium	litium
+lutetium	lutetium
+magnesium	magnesium
+mandarin ; Mandarin ; Standard Mandarin	mandarin
+manganese	mangan
+mayor	ordførar
+megabyte	megabyte
+meitnerium	meitnerium
+melody ; tune	melodie
+mendelevium	mendelevium
+mercury	kvikksølv
+metaphor	metafor
+methanol	metanol
+molybdenum	molybden
+moon ; moon ; satelite ; satelite	måne
+morphine	morfin
+mother-in-law ; mother in law	svigermor
+museum	museum
+musician	musikar
+nappy	bleie
+natural science	naturvitskap
+neodymium	neodym
+neon	neon
+neptunium	neptunium
+neurology	nevrologi
+nickel	nikkel
+niobium	niob
+nitrogen	nitrogen
+nobelium	nobelium
+not	ikkje
+noun ; substantive	substantiv
+octave	oktav
+official language	offisielt språk
+oligarchy	oligarki
+omega	omega
+ovary	eggstokk
+oxygen	oksygen
+palindrome	palindrom
+palladium	palladium
+pancreas	bukspyttkjertelen
+part of speech ; lexical category	ordklasse
+pathology	patologi
+peninsula	halvøy
+phosphorus	fosfor
+pike ; spear	spyd
+platinum	platina
+plutonium ; plutonium ; plutonium	plutonium
+polar bear	isbjørn
+polonium	polonium
+positron	positron
+potassium	kalium
+praseodymium	praseodym
+protactinium	protactinium
+psychiatrist	psykiater
+pyrolysis	pyrolyse
+rabbi	rabbinar
+radium	radium
+radon	radon
+rain	regn
+renaissance	renessansen
+rhenium	rhenium
+rhodium	rhodium
+roentgenium	roentgenium
+rubidium	rubidium
+ruthenium	ruthenium
+rutherfordium	rutherfordium
+samarium	samarium
+scandium	scandium
+seaborgium	seaborgium
+selenium	selen
+silicon	silisium
+silver	sølv
+smallpox	koppar
+sodium	natrium
+solar radiation	solstråling
+stage	scene
+strontium	strontium
+sulphur	svovel
+sword	sverd
+tantalum	tantal
+tea	te
+technetium	technetium
+tellurium	tellur
+terbium	terbium
+thallium	thallium
+theology	teologi
+thorium	thorium
+tin	tinn
+titanium	titan
+topography	topografi
+translation	omsetjing ; omsetting
+tropics ; torrid zone	tropane
+tundra	tundra
+tungsten	wolfram
+ununbium	ununbium
+ununhexium	ununhexium
+ununoctium	ununoctium
+ununpentium	ununpentium
+ununquadium	ununquadium
+ununseptium	ununseptium
+ununtrium	ununtrium
+uranium	yran
+vacuum cleaner	støvsugar
+vanadium	vanadium
+verb	verb
+vowel	vokal ; sjølvljod
+wheelchair	rullestol
+world war	verdskrig
+xenon	xenon
+ytterbium	ytterbium
+yttrium	yttrium
+zinc	sink
+zirconium	zirkonium
+zoology	zoologi
+Åland Islands	Åland

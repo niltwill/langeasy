@@ -1,0 +1,2072 @@
+English	Ido
+Abidjan	Abidjan
+Abu Dhabi	Abu Dhabi
+Afghanistan	Afganistan
+Africa	Afrika
+African	Afrikano
+Afrikaans	linguo Afrikaansa; Afrikaansa
+Al Jazeera	Al-Jazira
+Alberta	Alberta
+Algiers	Aljer
+Amsterdam	Amsterdam
+Andorra	Andora
+Ankara	Ankara
+April	aprilo
+Arabic	arab (m), araba (f)
+Arctic	arktiko
+Argentina	Arjentinia
+Argonaut	Argonauto
+Arkhangelsk	Arkangelsk
+Asia	Azia
+August	agosto
+Austria	Austria
+Aymara	aymarana linguo
+Azerbaijan	Azerbaijan
+Baku	Baku
+Balearic Islands	Baleari
+Beirut	Beirut
+Belarusian	Bielorusiana linguo
+Belgium	Belgia
+Bethlehem	Betlehem
+Black Sea	Nigra Maro
+Brussels	Bruxel
+Bucharest	Bucarest
+Cambodia	Kambodja
+Canada	Kanada
+Cape Verde	Kabverdo
+Caracalla	Caracalla
+Carthage	Kartago
+Caucasus	Kaukazia
+Celtic	Keltika
+Constantinople	Konstantinopolo
+Cornwall	Kornwal
+Cuban	Kubana
+Cyprus	Chipro
+December	decembro
+Denmark	Dania
+Dervish	dervisho
+Doric	dorico (m)
+Dutch	Nederlandana linguo; Nederlandana
+Easter Island	Pasko-Insulo
+Edmonton	Edmonton
+Egypt	Egiptia
+England	Anglia
+English	Angliana linguo
+Estonia	Estonia
+Euclidean geometry	euklidana spaco
+Faroe Islands	Faero
+February	februaro
+France	Francia
+French	Franciana
+Friday	venerdio
+GDP	KLP
+German	Germano; Germaniano
+Ghent	Gent
+Gibraltar	Gibraltar
+Hebrides	Hebridi
+Hong Kong	Hong Kong
+Hubble constant	konstanto di Hubble
+I	me#Ido'me
+I love you	me amas vu
+I need a drink	me bezonas drinkajo
+Iceland	Islando
+Ido	Ido
+Indonesia	Indonesia
+Internet	interneto
+Jamaica	Jamaika
+Jamaican	Jamaikana
+January	januaro
+Japan	Japonia
+Jerusalem	Jerusalem
+July	julio
+June	junio
+Khartoum	Khartoum
+Khrushchev	Hrushchev
+Kosovo	Kosovo
+Latin	Latina
+Latin alphabet	Latinal alfabeto
+Leo	Leono
+London	London#Ido'London
+Lucian	Luciano
+Man	homo
+Manchuria	Mandjuria
+Manitoba	Manitoba
+March	marto
+Maryland	Maryland
+May	mayo
+Mexico	Mexikia
+Monday	lundio
+Moscow	Moskva
+Mount Everest	Monto Everest
+Muhammad	Muhamad
+Möbius strip	Mobius-strio
+NATO	NATO
+Namibia	Namibia
+Netherlands	Nederlando
+New Delhi	Nova-Delhi
+New York City	Nova-York
+November	novembro
+October	oktobro
+Ottoman Empire	Otoman imperio
+Ouagadougou	Ouagadougou
+Pacific Ocean	Oceano Pacifiko
+Persian	Persiana
+Pleiades	Pleyado
+Pythagoras	Pitagoro
+Republic of Korea	La Republiko di Korea
+Romania	Rumania
+Rome	Roma
+Russia	Rusia
+Samosata	Samosata
+Sanskrit	Sanskrito
+Satanism	satanismo
+Saturday	saturdio
+September	septembro
+Spanish	Hispaniana; Hispana
+Sun	suno
+Sunday	sundio
+Sweden	Suedia
+TV	TV
+Taiwan	Taiwan
+Tallinn	Tallinn
+Tanzania	Tanzania
+Tbilisi	Tbilisi
+Thursday	jovdio
+Transylvania	Transilvania
+Tuesday	mardio
+Tunisia	Tunizia
+Turkey	Turki
+Venn diagram	Venn-diagramo
+Venus	Venero
+Virginia	Virginia
+Wednesday	merkurdio
+West Virginia	West-Virginia
+Wiktionary	Vikivortaro
+Wiktionary:Usability/flag	flago
+World War I	Unesma Mondo-Milito
+Xhosa	Xosa-linguo
+Yucatán	Yukatan-peninsulo
+abacus	abako
+abase	abasar
+abashed	shamigita
+abatis	abatajaro
+abbot	abado
+abdomen	abdomino
+abduct	abduktar
+abhor	abominar
+ablative	ablativo
+absinthe	#Ido'absinthe
+absurd	absurda
+abundant	abundanta
+academic	academiala
+accessory	acesora
+acclimatize	aklimatar
+accommodation	lojeyo
+accord	akordo
+accordion	akordeono
+accretion	naturala akumulo
+accretion disk	kreskodisko
+accuse	akuzar
+aconite	akonito
+acoustics	akustiko
+activist	aktivisto
+adapt	adaptar
+adder	vipero
+address	adreso
+adjective	adjektivo
+admiralty	admiralaro
+admire	admirar
+adrenaline	adrenalino
+adult	adulto
+adultery	adultero
+adverb	adverbo
+aerial	aerala
+aerolite	aerolito
+aeroplane	aeroplano
+aerosol	aerosolo
+aerostat	aerostato
+afterwards	pose
+again	ankore un foyo, ankorfoye
+agave	agavo
+agriculture	agrokultivo
+aim	skopo
+air	aero
+airport	aeroportuo
+al	Al-Kaida
+alanine	alanino
+alas	ve
+alcohol	alkoholo
+alcove	alkovo
+algebra	algebro
+algorithm	algoritmo
+alkaloid	alkaloido
+alkene	alkeno
+allele	alelo
+ally	helpanto
+almond	mandeliero
+almost	preske
+along	alonge
+alphabet	alfabeto
+already	ja
+also	anke
+aluminium	aluminio
+ambassador	ambasadisto
+ambergris	ambro
+ambidextrous	ambidextra
+amino acid	amin-acido
+ammonium	amonio
+among	inter
+anaconda	anakondo
+anagram	anagramo
+ancestor	ancestro
+ancestral	ancestrala
+ancient	antiqua; anciena
+and	e
+anecdote	anekdoto
+anemone	anemono
+anger	irato
+angry	iracoza
+animal	animalo
+ankle	stifto
+annelid	anelido
+annihilate	nihiligar
+annihilation	nihiligo
+annoy	jenar
+answer	repliko; solvo
+anthrax	antraxo
+anthropomorphism	antropomorfismo
+anti	anti-
+antibody	antikorpo
+antiparticle	antipartikulo
+antiquark	antiquarko
+antiquated	antiqua
+antique	antiqua
+any	irga (at all), ula (some)
+anybody	irgu
+anyone	irgu
+anything	irgo
+apartment	apartamento
+apathetic	apatioza
+apathy	apatio
+aphasia	afazio
+apologize	apologiar
+apothem	apotemo
+appear	aparar
+appreciate	apreciar
+apron	avantalo
+archduke	arkiduko
+archipelago	arkipelago; insularo
+architecture	arkitekturo
+areola	areolo
+arguable	argumentebla
+aristocrat	aristokrato
+arity	parametro 
+arm	brakio
+armchair	berjero
+armistice	armistico
+arrive	arivar
+arrogant	aroganta
+art	arto
+artery	arterio
+articulate	artikular
+artificial	artificala
+ascend	acensar
+asceticism	asketismo
+ash	cindro
+ashamed	shamanta
+ask	demandar
+asparagine	asparagino
+ass	asno; asnulo; asnino
+assiduous	asidua
+assign	asignar
+assistant	helpanto; helpero
+assonance	asonanco
+asterisk	steleto; asterisko
+astonish	astonar
+astronomical	astronomiala
+astrophysics	astrofiziko
+asymptote	asimptoto
+at	ye
+at home	heme
+ataraxia	ataraxio
+atavism	atavismo
+atelier	ateliero
+atmosphere	atmosfero
+atoll	atolo
+atom	atomo
+atomic	atomala
+atomic bomb	atom-bombo
+atomic nucleus	atomala nukleo
+atomic number	atomala nombro
+atrophy	atrofiar
+attach	atachar
+attaché	atasheo
+attendant	helpanto; helpero
+attic	atiko
+attitude	atitudo
+attribute	atribuar
+aubergine	berenjena; berenjeno
+aunt	onklino
+aurora	auroro
+autocrat	autokrato
+autodidact	autodidakto
+automatically	automatale
+autonomous	autonoma
+autumn	autono
+auxiliary	helpanto; helpero; helpilo; helpivo
+auxiliary verb	helpoverbo
+avalanche	avalancho
+avarice	avareso
+avaricious	avara
+aviation	aviaco
+axiom	axiomo
+axiomatic	axiomala
+axis	axo
+azalea	azaleo
+baboon	babuino
+baby	infanteto, bebeo
+bachelor	celibulo
+bacon	lardo
+bad	mala
+bagpipes	kornamuzo
+balance	bilanco
+balcony	balkono
+balderdash	stulto'stult-ajo
+ball	balo
+ballistics	balistiko
+balsam	balzamo
+baluster	balustrado
+balustrade	balustrado
+banana	banano
+bank	banko
+banker	bankisto
+baobab	baobabo
+barely	apene
+barley	hordeo
+barometer	barometro; baroskopo
+baron	barono; baronulo
+baroness	baronino
+barrier	barilo
+barrow	brueto
+basalt	bazalto
+base	bazo
+basement	basamento
+basilica	baziliko
+basin	baseno
+basketball	korbobalono
+bathe	balnar
+bathroom	balnochambro
+batik	batiko
+batter	pasto
+bayonet	bayoneto
+be	esar; esar
+be able to	povar
+beach	plajo
+bean	fabo
+beast	bestio
+beat	batar
+beautiful	bela
+because	pro ke
+because of	pro
+become	divenar
+bedbug	cimo
+bedroom	dormo-chambro
+beet	beto
+begin	komencar
+beige	beja
+believe	kredar
+below	sub
+belt	rimeno
+beryllium	berilio
+beside	apud
+besiege	asiejar
+better	plu bona, maxim
+between	inter
+beverage	drinkajo
+bibliophile	bibliofilo
+bicycle	biciklo
+big	granda
+big toe	haluxo
+bijection	bijekto
+billiards	biliardo
+binary star	duopla stelo
+bind	bindar
+biochemistry	biokemio
+biology	biologio
+bird	ucelo
+birth	akushar
+birthday	naskodio
+biscuit	bisquito
+bittern	butoro
+bizarre	bizara
+black	nigra
+black hole	nigra truo
+blackberry	moruso
+blame	blamar
+blank	vakua
+blanket	kovrilo
+blizzard	nivegoza tempesto
+blog	blogo
+blond	blonda
+blot	makulo
+blow	frapo
+blue	blua
+boat	batelo
+bohrium	borio
+bomb	bombo
+bomber	bombardaviono
+bony	ostala
+book	libro
+boomerang	bumerango
+boot	boto
+boring	enoyiganta, enoyigiva
+boron	borono
+both	ambe
+bottle	botelo
+boulevard	bulvardo
+bouquet	buketo
+bow	pruo
+box	ordinatro
+boy	yunulo
+boycott	boikotar
+bracelet	braceleto
+brain	cerebro
+brandish	brandisar
+brave	brava
+bravery	(quality) braveso, (act)bravajo
+brawl	disputachar
+bread	pano
+break	ruptar
+breakfast	fru-dejuneto
+bream	bremo
+breast	mamo
+breeze	brizo
+brick	briko
+bridge	ponto
+bridle	brido
+brochure	broshuro
+bronchus	bronkio
+bronze	bronzo
+brooch	brocho
+brother	bofratulo
+brotherhood	frateso
+brown	bruna
+brush	brosar
+brute	bruto
+buckle	buklo
+build	konstruktar
+building	edifico
+bulwark	remparo
+bumblebee	burdono
+bun	chiniono
+buoy	boyo
+burglar	rupto-furtisto
+burglary	rupto-furto
+burn	brular
+burst	erupto
+bust	busto
+busy	okupata
+butcher	karno-vendisto
+butt	kulo
+butter	butro
+buy	komprar
+by	per
+cabaret	kabareto
+cabbage	kaulo
+cache	cel-eyo
+cactus	kaktuso
+cage	kajo
+cake	kuko
+calamity	kalamitato
+calculation	kalkulo
+calculus	kalkulo
+calf	bovyuno
+call	telefonar
+calumny	kalumnio
+camel	kamelo
+camera	fotografilo
+canary	kanario
+candle	bujio
+candy	bonbono
+cannabis	kanabo
+cannibal	kanibalo; kanibalulo; kanibalino
+capable	kapabla
+capon	kapono
+caracal	karakalo
+caramel	karamelo
+carbohydrate	karbohidrato
+carbon	karbo
+carotene	karotino
+carpet	mato
+carrot	karoto
+cartography	kartografio
+castle	roquar
+castling	roquo
+cat	kato
+catastrophe	katastrofo
+category	kategorio
+caterpillar	raupo
+cathedral	katedralo
+cation	kationo
+cauldron	kaldrono
+cauliflower	florkaulo
+cause	igar, efektigar
+cavalry	kavalrio
+caviar	kaviaro
+cease	cesar
+cedar	cedro
+cedilla	cedilio
+ceiling	plafono
+celery	celerio
+celestial	cielala
+celestial body	astro
+celibate	celiba
+cellulose	celuloso
+census	censo
+centaur	centauro
+center	centro
+centrifuge	centrifugilo
+cerise	cerizo
+certainly	certe
+certificate	atesto
+chair	stulo
+chairperson	prezidanto
+chalcedony	kalcedono
+chameleon	kameleono
+chamois	chamo
+change	kambio
+chaos	kaoso
+chase	chasar
+cheap	chipa
+cheek	vango
+cheese	fromajo
+cheesy	fromajala; fromajoza; fromajatra
+cherry	cerizo
+chic	chika
+child	puero; infanto
+chin	mentono
+chisel	cizelagar
+chitin	chitino
+chocolate	chokolado
+cigarette	sigareto
+cinema	cinemo
+circle	cirklo
+circular	cirkulero
+circumflex	circuflexio
+city	urbo
+clam	muslo
+clan	klano
+class	klaso
+classic	klasika
+classical	klasika
+classical music	klasika muziko
+clavicle	klavikulo
+clean	netigar
+cleanliness	neteso
+clerk	klerko
+click	kliktar
+client	kliento
+climb	klimar
+close	proxim
+cloud	nubo
+clown	klauno
+coarse	kruda
+coat of arms	blazono
+cobra	kobro
+coca	kokao
+cockroach	blato
+coconut	kokoso
+cod	moruo
+coffee	kafeo
+cold	kolda
+cold war	kolda milito
+colourless	senkolora
+columbine	aquilegio
+combat	kombato
+come	venar
+comet	kometo
+common	komuna
+communism	komunismo
+complain	plendar
+comprehension	kompreno
+compute	kalkular
+computer	komputoro; ordinatro
+concept	koncepto
+conclude	konkluzar
+concupiscence	konkupicenco
+condemn	kondamnar
+cone	strobilo
+confident	certigeso
+conflagration	incendio
+conflict	konflikto
+congratulate	gratular
+constitution	konstituciono
+constrain	obligar, koaktar
+construction	konstruktado
+consul	konsulo
+contact	kontaktar
+contagion	kontagio
+content	kontenta
+cook	koquadar
+copier	duplikato
+copyright	autoryuro
+cork	korko
+cork oak	korkoquerko; korko-querko
+corn	cerealo
+cosmic	kosmala
+cosmology	kosmologio
+cosmos	kosmo
+cotton	kotono
+cougar	pumao
+count	konto
+counter	kontero
+country	ruro
+couple	kuplar
+courageous	kurajoza
+courteous	jentila
+crab	krabo
+crayfish	kankro
+create	krear
+crimson	karmezina
+crocus	croco
+crustacean	krustaceo
+cry	kriar
+cubism	kubismo
+cucumber	kukombro
+cuirass	kuraso
+culture	kulturo
+cumin	kumino
+cup	taso
+cupboard	armoro
+customer	kliento
+cyanide	cianido
+cycle	ciklo (m)
+cylinder	cilindro
+cypress	cipreso
+cytology	citologio
+cytoplasm	citoplasmo
+dam	aquobarilo
+damn	damnar
+dance	dansar
+dangerous	danjeroza
+darkness	tenebro
+daughter	filiino
+day	jorno
+daytime	jorno
+dead	mortinta
+dear	kara
+death	morto
+debate	debatar
+debris	eskombro
+decay	dekado
+decigram	decigramo
+decimetre	decimetro
+degenerate	degenerar
+deism	deismo
+delight	delekteso
+deluge	diluvio
+demagogue	demagogo
+democratic socialism	demokrata socialismo
+demographic	demografia
+demonology	demonologio
+demonstrate	demonstrar
+dentist	dentisto
+deprecate	desaprobar
+describe	deskriptar
+detach	des-ligar; detachar 
+detect	des-kovrar, des-vel-izar
+detonate	detonar
+devour	devorar
+diaphanous	diafana
+diatribe	diatribo
+dictionary	vortaro
+die	lud-kubo
+dieldrin	dieldrino
+differ	diferar
+difficult	desfacila
+digit	cifro
+dilemma	dilemo
+diligent	diligenta
+dinner	dineo
+dinosaur	dinosaurio
+diocese	diocezo
+dioxide	dioxido
+diploid	diploida
+diploma	diplomo
+disappear	desaparar
+disc	disko
+disc jockey	disk-jokeo
+discredit	des-kredit-izar
+discussion	diskuto; diskutado
+disease	malad-eso
+disgrace	deshonoro
+dish	manjajo
+dishonour	deshonoro
+disk	disko
+disloyal	desloyala
+disquietude	desquieteso; netranquileso
+dobra	dobra
+doctor	doktoro
+documentation	dokumentigo
+dodecahedron	dodekaedro
+dodo	dronto, dodoo
+doe	daimino
+dog	hundo; hundulo; hundino
+dogma	dogmato
+dominate	dominacar
+donate	donacar
+donation	donaco
+donkey	asno; asnulo; asnino
+door	pordo
+dose	dozo
+double	duopla
+doubt	dubar
+dough	pasto
+dove	kolombo
+dowry	doto; doario
+dragon	drako
+dragoon	dragono
+drama	dramato
+drastic	drastika
+draw	desegnar
+drawer	tir-kesto
+dream	sonjar
+drench	trempar; arozegar
+dress	robo
+dresser	komodo
+drink	drinkajo
+drive	vehar
+drop	guto
+dry	sika
+dugong	duyongo
+dune	duno
+dusty	polvoza
+dwelling	lojeyo
+dynamo	dinamo
+each	singla
+early	frue
+earwax	cerumeno
+easel	tresto
+east	esto
+easy	facila
+eat	manjar
+echidna	ekidno
+eclipse	eklipso
+ecliptic	ekliptiko
+eco	eko-
+ecology	ekologio
+economics	ekonomiko
+eczema	ekzemo
+edit	redaktar
+educate	edukar
+eel	anguilo
+egoism	egoismo
+egoist	egoisto
+egotist	egotisto
+eight	ok
+eighteen	dek ed ok
+eighth	okesma
+eighty	okadek
+elbow	kudo
+elder	sambuko
+election	elekto
+electricity	elektro
+electro	elektro-
+electrolysis	elektrolizo
+electrolyte	elektrolito
+electromagnetism	elektromagnetismo (m)
+electron	elektrono
+electronic	elektronika
+electronics	elektroniko
+ember	brezo
+embroider	brodar
+emotion	Emoco
+emperor	cezaro
+empty	vakua
+emu	emuo
+encyclopedia	enciklopedio
+end	finar
+enemy	enemiko
+energetic	energioza; energiala
+engine	mashino
+engineering	injeniorarto
+enjoy	juar
+enter	enirar
+enteritis	enterito
+entwine	interplektar
+epicycle	epiciklo
+epinephrine	adrenalino
+epithelium	epitelio
+equality	egaleso
+equation	equaciono
+era	ero
+erotic	erotika
+erythrocyte	eritrocito
+ethanol	etanolo
+ethnic group	rasala grupo
+ethnography	etnografio
+ethnology	etnologio
+ethology	etologio
+etymology	etimologio
+even	mem
+evening	vespero
+everyone	omnu
+everything	omno
+excellent	ecelanta
+excrement	exkremento
+exegesis	exegezo
+exoskeleton	exoskeleto
+exotic	exotika
+expensive	chera
+experience	experienco
+experimental	experimentala
+explode	explozigar
+exposition	expozo
+expressive	expresiva
+exquisite	bonega
+external	extera
+extreme	extrema
+extremely	extreme
+exuberant	abundanta
+eye	okulo
+eye for an eye, a tooth for a tooth	okulo po okulo e dento po dento
+fable	fablo
+face	edro
+factory	fabrikerio
+failure	fiasko
+faithful	fidela
+falcon	falkono
+fall	falar
+family	familio
+famine	famino
+fantastic	fantastika
+far	distanta
+farm	kultivar
+fat	graso
+fatal	fatala
+father	bopatro
+fear	timar
+feather	plumo
+febrile	febrala; febratra; febroza
+feel	sentar
+felt	felto
+female	femino
+feminism	feminismo
+fermion	fermiono
+ferocious	feroca
+few	poka
+field	feldo
+fierce	feroca
+fifth	kinesma
+fifty	kinadek
+film	filmo
+finger	fingro
+fir	abieto
+fire	fairo
+fire extinguisher	extingilo
+fire station	incendio-domo
+firearm	pafarmo
+first	unesma
+fish	fisho
+fishhook	angelo
+five	kin
+fjord	fyordo
+flag	flago
+flask	flakono
+flatulent	flatulenta; flatuoza; flatuema
+flesh	korpo
+floor	planko-sulo
+flour	farino
+flower	floro
+fluorine	fluoro
+fly	flugar
+foam	spumo
+follow	sequar
+food	nutrivo
+foot	pedo
+forbid	interdiktar
+force	mov-energio
+foreskin	prepuco
+forest	foresto
+forget	obliviar
+fork	forko
+fortune	fortuno
+forty	quaradek
+four	quardimensiona; 4-dimensiona
+fourth	quaresma
+fraud	fraudo
+fraudulent	frauda
+free	gratuita
+freedom	libereso
+freeze	frosto
+frequently	freque
+fresh	fresha
+friend	amiko; amikulo; amikino
+from	de
+frugal	frugala
+fruit	frukto
+fulcrum	apog-punto, pivoto
+function	funciono
+fury	furio
+fusion	fuziono
+future	futuro
+gaiter	getro
+galactic	galaxiala
+galaxy	galaxio
+game	ludo, ludajo
+game theory	ludo-teorio
+gamete	gameto
+gamut	kolor-serio
+garbage	eskombro
+garden	gardeno
+garlic	alio
+gauche	ne-habila
+gem	juvelo
+gene	geno
+general	generala
+generic	generala
+genome	genomo
+genre	genero
+genuine	autentika
+geography	geografio
+geologist	geologo
+geology	geologio
+geometric	geometriala
+geometry	geometrio
+gerontology	gerontologio
+gerund	gerundio
+get	aquirar
+ghost	fantomo
+giant	giganta
+gigantic	giganta
+girl	yunino
+give	donar
+glacier	glaciero
+gladiator	gladiatoro
+glitch	Impedo
+glove	ganto
+gluten	gluteno
+glycine	glicino
+glycogen	glikogeno
+gneiss	gneiso
+gnome	gnomo
+go	irar
+god	deo
+gold	oro
+golf	golfo
+gondola	gondolo
+good day	bona jorno
+good morning	bona matino
+goodbye	til rivido
+goodness	boneso
+goods	hav-ajo
+gooseberry	grozelo
+goulash	gulyasho
+grandchild	nepoto
+grandfather	avulo
+grandmother	avino
+grandparent	avo
+granite	granito
+grape	vit-bero
+grapefruit	pompelmuso
+graphic	grafika
+graphite	grafito
+grass	gazono
+graveyard	tombeyo; enterigeyo
+gravitation	gravitado
+gravity	gravitado
+grease	graso
+great	brava, tre bona
+greedy	avida
+green	verda
+greengrocer	frukto-vendisto
+greenish	verdatra
+greeting	saluto
+grenade	grenado
+grey	griza
+grieve	chagrenar
+gudgeon	gobio
+guess	divinar
+guild	gildo
+guinea pig	kobayo
+gum	jenjivo
+gun	fusilo
+gymnasium	gimnazio
+gynaecologist	ginekologo
+habitation	habito
+hadron	hadrono
+haematology	hematologio
+haiku	haiko
+hail	greluno
+hailstone	greluno
+halogen	halogeno
+hammer	martelo
+hand	manuo
+hang	pendar
+happen	eventar
+happy	felica
+hard	desfacila
+hardly	apene
+harpsichord	klavikordo
+harquebus	arkabuzo
+hat	chapelo
+have to	mustar
+hazard	hazardo
+he	volfulo
+head	kapo
+health care	sanesoflego
+hear	audar
+heatstroke	kalenturo
+heaven	cielo
+heavenly	cielala
+heavenly body	astro
+heavy	grava
+heliometer	heliometro
+helium	helio
+hellebore	heleboro
+help	helpar
+helper	helpanto; helpero; helpisto
+helpful	helpema
+hemisphere	misfero
+hemp	kanabo
+her	el, elu
+herb	herboro
+here	adhike
+heroin	heroeno
+heroine	heroino
+herring	haringo
+hexagon	hexagono
+high school	gimnazio
+hill	kolino
+him	il, ilu
+hindrance	impedo; impedivo
+histamine	histamino
+history	historio
+hit	frapo
+hoax	dup-igo
+hogshead	barelego
+home	hemo
+home page	hemopagino
+homily	homilio
+homonym	homonimo
+honor	honoro
+honour	honoro
+hope	esperar
+horizon	horizonto
+hormone	hormono
+hornbeam	karpino
+horse	kavalo
+horseradish	rafano
+horseshoe	kavalofero; hufofero
+hot	varmega
+hotel	hotelo
+hour	horo
+hourglass	sablo-horlojo
+house	domo
+hover	flugetar
+how	quale
+how are you	quale vu standas 
+how old are you	quante vu evas?
+huge	giganta
+hump	gibozeso
+humpback	gibozo; gibiero
+hundred	cent
+hungry	hungroza
+hurricane	uragano
+husband	spozulo
+hydrate	hidrato
+hydrogen	hidrogeno
+hydrology	hidrologio
+hyperlink	hiperligilo
+hypnosis	hipnoto; tranco
+hypnotic	hipnota; hipnotala
+hypnotism	hipnotismo
+hypnotist	hipnotisto; hipnotero; hipnotiganto
+hypochondriasis	hipokondrio
+hypotenuse	hipotenuzo
+hyssop	hisopo
+hysteria	histerio
+ice	glacio
+icosahedron	ikosaedro
+identifiable	identifikebla
+if	se
+iguana	iguano
+ill	malada
+illusion	iluziono
+illustration	ilustruro
+illustrious	famoza, glorioza
+immediately	quik
+imminent	minac-anta
+impediment	impedo; impedivo
+improve	bonigar
+in	en
+in fact	fakte
+in front of	avan
+include	inkluzar
+inconstant	nekonstanta; variema
+indeed	fakte
+index	indexo
+individual	individuo
+indulgence	induljenco
+industrial	industriala
+industry	industrio
+infarct	infarkto
+infinitive	infinitivo
+inflation	inflacio
+information	informo
+ingest	ingestar
+inhale	aspirar
+injection	injekto; injektado
+inn	albergo
+innocent	nekulpabla
+insect	insekto; insektulo; insektino
+insurance	asekuro
+integument	tegumento
+intelligence	inteligenteso
+intelligent	inteligenta
+intense	intensa
+interaction	interago
+interesting	interesanta
+internal combustion engine	motoro per interna explozo
+intervention	interveno
+intransitive	netransitiva
+intrude	tedar
+ion	iono
+iron	fero
+iron ore	fer-erco
+is	esas
+island	insulo
+islander	insulano; insulanulo; insulanino
+isobar	izobaro
+isomer	izomero
+isotherm	izotermo
+isotope	izotopo
+it	ol; olu
+its	olua
+jackdaw	chuvo
+jam	konfitajo
+jar	jaro
+jasper	jaspo
+jazz	jazo
+jellyfish	meduzo
+jewel	juvelo
+jockey	jokeo
+joy	joyo
+joyful	joyoza
+judo	judoo
+just	jus
+kangaroo	kanguruo
+kayak	kayako
+kepi	kepio
+keratin	keratino
+kestrel	falkono
+ketone	ketono
+keyboard	klavaro
+keyword	klefovorto
+kill	mortigar
+king	rejulo
+kitchen	koqueyo
+knead	petrisar
+knee	genuo
+knife	kultelo
+knight	kavaliero
+knock	frapar
+know	konocar
+koala	koalo
+laboratory	laboratorio
+labyrinth	labirinto
+lace	laco
+ladder	skalo
+lagoon	laguno
+lamp	lampo
+lamprey	lampredo
+lancet	lanceto
+land	lando
+landgrave	landgravo
+landscape	peizajo
+language	linguo
+lanthanum	lantano
+lapidation	ston-agar
+lapwing	vanelo
+large	granda
+last	durar
+late	tarda
+latitude	latitudo
+laud	laudar
+laundry	laverio
+lawn	gazoneyo
+lawn mower	gazonotondilo
+leader	chefo
+learn	lernar
+leather	ledro
+leave	livar
+leech	sanguisugo
+leek	porelo
+left	sinistra
+leg	gambo
+legume	legumo
+lemma	lemo
+lemon	citrono
+length	longeso
+leopard	leopardo
+lepton	leptono
+let	lasar
+letter	letro
+lettuce	latugo
+leucine	leucino
+liberty	libereso
+library	biblioteko
+lie	mentiar
+life	vivo
+light	lejera
+light year	lumyaro
+like	quale
+lime	kalko
+limit	limito
+linguistics	linguistiko
+link	ligilo
+lion	leono
+lipid	lipido
+lira	liro
+literature	literaturo
+lithium	litio
+litotes	litoto
+little	poka
+live	rezidar
+liver	hepato
+lizard	lacerto (m)
+long	longa
+longitude	longitudo
+look	regardar
+look at	regardar
+look for	serchar
+lord	kastelestro
+lose	perdar
+low	basa
+luck	chanco
+lukewarm	varmeta
+lunar	lunala
+lunch	dejuno
+luxuriant	abundanta
+lyre	liro
+lysine	lisin
+mackerel	makrelo
+macroeconomics	ekonomi makro
+mad	fola
+magazine	revuo
+mage	mago; magi
+magnanimity	grandanmeso
+magnesium	magnezio
+magpie	pigo; pigulo; pigino
+mailman	letro-portisto
+maize	maizo
+malicious	mal-vol-anta, maligna
+mallow	malvo
+mammal	mamifero
+man	viro
+manager	jeristo
+mandarin	mandarino; mandareno
+mandolin	mandolino
+many	multa
+mare	kavalino
+margarine	margarino
+marine	navaro
+marjoram	majorano
+market	merkato
+marmalade	konfitajo
+married	mariajita
+marsh	marsho
+marshmallow	malvavisko
+match	alumeto
+mathematical	matematikala
+mathematics	matematiko
+mauve	malva
+mayor	urbestro
+meat	karno
+mechanism	mekanismo
+median	mediano
+medieval	mezepoka
+melanin	melanino
+melanoma	melanomo
+melody	melodio
+melon	melono
+mentality	mento
+meow	miaular
+merry	joyoza
+message	mesajo
+messiah	mesio
+metal	metalo
+metallurgy	metalurgio
+metaphysics	metafiziko
+microbiology	mikrobiologio
+microscope	mikroskopo
+microwave	mikro-ondi
+midnight	nokto-mezo
+mile	milio
+milk	lakto
+milky	laktatra; laktea
+milliard	miliardo
+mind	mento
+mineralogy	mineralogio
+mirror	spegulo
+misery	mizero
+mitosis	mitoso
+mitre	mitro
+moat	fosato
+mode	modo
+modern	moderna
+molecular	molekulala
+molecule	molekulo
+mollusc	molusko
+money	pekunio
+monk	monako
+monomer	monomero
+monster	monstro
+month	monato
+moon	luno
+moraine	moreno
+morna	morna
+morning	matino
+morpheme	morfemo
+morphine	morfino
+morphology	morfologio
+mosque	moskeo
+mother	matro
+motor	motoro
+mountain	monto
+mouse	muso
+mouth	boko
+move	des-plas-izar, movar
+movie	filmo
+much	multa
+mud	fango
+mullein	verbasko
+mullet	surmuleto
+municipal	municip-ala
+mural	muralo
+muscle	imusklo
+music	muziko
+musket	musketo; fusilo
+mustard	mustardo
+my	mea
+mycology	mikologio
+myrrh	miro
+mysterious	misterioza
+mythology	mitologio
+nail	unglo
+name	nomo
+napalm	napalmo
+naphthalene	naftalino
+nation	naciono
+nature	naturo
+near	apud
+nebula	nebulozo
+necessary	necesa
+nectarine	nektarino
+need	bezono
+nematode	nematodo
+neon	neono
+nephew	nevulo
+nepotism	nepotismo
+nest	ucelonesto; nesto
+net	reto
+nettle	urtiko
+neuralgia	nevralgio
+neuron	neurono
+neutrino	neutrino
+neutron	neutrono
+never	nultempe
+nevertheless	tamen
+newspaper	jurnalo
+next	nexta
+nicotine	nikotino
+niece	nevino
+night	nokto
+nine	non
+ninety	nonadek
+ninth	nonesma
+nitrate	nitrato
+nitride	nitrido
+nitrogen	nitro
+no	nula
+no longer	nepluse
+nobody	nulu
+noise	bruiso
+noodle	nudelo
+north	norda
+nose	nazo
+not yet	ne ja
+notary	notario
+nothing	nulo
+noun	substantivo
+nuclear	nukleala
+nucleolus	nukleolo
+nucleus	nukleo
+number	numero
+nurse	flegisto
+nutmeg	muskadiero
+oak tree	querko
+obituary	nekrologo
+object	objecionar
+oboe	hoboyo
+obsidian	obsidiano
+obstacle	obstaklo
+ocarina	okarino
+occult	okulta
+occur	eventar
+ocean	oceano
+oceanography	oceanografio
+octane	oktano
+octopus	polpo
+odd	baroka
+of	pri
+of course	komprenende
+office	kontoro
+often	ofte
+ogre	ogro
+okra	okro
+old	olda
+oleander	rozlauro
+olive	olivo#Ido'olivo
+ombudsman	mediacanto
+omelette	omleto
+one	on
+onion	onyono
+only	nura
+onomastics	nom-aro
+onyx	onixo
+open	apertar
+operand	operacario
+or	od, o
+orange	oranja
+orbital	orbitala
+order	ordino
+organ	organo
+organism	organismo
+ornamental	ornementala
+osseous	ostala
+our	nia
+owe	debar
+oxygen	oxo
+package	paketo
+page	pagino, pajo
+paint	farbizar
+painting	pikturo
+paladin	paladino
+pale	paliso
+paleozoology	paleozoologio
+paletot	paltoto
+paper	papero
+parachute	parashuto; parafalo
+paragraph	paragrafo
+parasite	parazito
+parasitic	parazita; parazitala; parazitatra
+parent	genitoro; genitorulo; genitorino
+park	parko
+paronym	paronimo
+parrot	papagayo
+participation	parto-prenar
+particle	partikulo
+partisan	partisano
+pathology	patologio
+patriarch	patriarko
+pay	pagar
+pay attention	atencar
+pea	pizo
+peacock	pavono
+peanut	arakido
+pear	piro
+pebble	stono
+pectin	pektino
+pedagogy	pedagogio
+pedant	pedanto
+pederasty	pederasteso
+pen	plumo
+pencil	krayono
+penicillin	penicilino
+pentagon	pentagono
+pentagram	pentagramo
+pepper	pipro
+peptide	peptido
+perch	perko
+perestroika	perestroika
+pericarp	perikarpo
+perineum	perineo
+periodic table	periodala tabelo
+periscope	periskopo
+peritoneum	peritoneo
+permission	darfo
+personal	personala
+personnel	personaro
+peruke	peruko
+petroleum	petrolo
+phase	fazo
+philosophy	filozofio
+phosphate	fosfato
+photograph	fotografar
+photon	fotono
+physics	fiziko
+picture	imajo
+pie	torto
+pig	porko
+pigeon	kolombo; kolombulo; kolombino; kolombyuno; kolombeto
+pike	ezoko
+pincers	pinco; tenalio
+pistol	pistolo
+place	loko
+plane	plano
+planet	planeto
+plankton	planktono
+plant	plantacar
+plantation	plantacerio
+plasma	plasmo
+plastic	plastiko
+plate	plado
+platypus	ornitorinko
+plaza	placo
+please	voluntez
+plentiful	abundanta
+pliers	pinco; tenalio
+plum	plumo; plumiero
+pod	shelo
+poem	poemo
+poet	poeto
+poetry	poezio
+point	Pintar
+poison	toxiko; veneno
+polar	polara; polala
+police station	policeyo
+policeman	policisto
+polygon	poligono
+polyhedron	poliedro
+poor	nebona
+pope	papo
+poppy	papavero
+port	portuo
+portmanteau word	vort-ifar
+positron	antielektrono
+post office	posto-kontoro
+potato	terpomo
+power	povo
+praise	laudar
+predicate	predikato (m)
+prefix	prefixo
+prepuce	prepuco
+present	donacajo
+preserve	prezervar
+president	prezidanto
+prestigious	prestijo
+previous	antea
+prison	karcero
+probable	probabla
+progress	progresar
+promise	promisar
+pronoun	pronomo
+propel	propulsar
+propeller	helico
+proposition	propoziciono; propozajo
+prostitute	prostituco
+protect	protektar
+protist	protisto
+protium	protio
+protocol	protokolo
+proton	protono
+protoplanet	protoplanet
+proud	fiera
+proverb	proverbo
+provocative	provoko(-ul,-in)o
+pub	drinkerio
+pubis	pubio
+pullover	trikoturo
+pulsar	pulsaro
+punctuation	puntizado
+pure	pura
+purple	purpuro
+pus	puso
+push	pulsar
+pussy	kato'katyuno
+python	pitono
+quark	quarko
+quasar	quazaro
+queen	rejino
+quickly	rapide
+quiet	quieta
+quietly	silence
+quinine	quinino
+quotation marks	citohoketo
+quote	citar
+race	raso
+radio	radio
+radius	radiuso
+railing	pasaman.o
+rain	pluvar
+rainbow	cielarko; pluvarko
+rampart	remparo
+rarely	rare
+rash	impulsiva
+raspberry	frambo
+read	lektar
+reading	lektado
+reagent	reaktivo
+realism	realismo
+recreation	distrakto
+rectangle	rektangulo
+red	reda
+redshift	redesko
+refrigerator	frigorizilo
+regent	regento
+regolith	regolito
+rein	reino
+relative	relat-anta
+religion	religio
+reptile	reptero
+republic	republiko
+resin	rezino
+response	respondo
+rest	repozar
+restaurant	restorerio
+retort	retorto
+return	retroirar
+rhizome	rizomo
+rhombus	rombo
+rich	richa
+rifle	fusilo
+right	dextro
+ring	sonar
+risk	risko
+river	rivero
+rivulet	rivereto
+road	choseo, voyo
+robe	robo
+robot	roboto
+roof	tekto
+room	chambro
+rough	aspera
+round	cirkla; cirklala
+royal	rejala
+rubbish	eskombro
+rule	regulo
+run	kurar, hastar
+rusk	biskoto
+sacrilege	sakrilejo
+sad	trista
+saddle	selo
+saffron	safrano
+salience	centreso
+salmon	salmono
+salt	salo
+sandstone	greso
+saponin	saponino
+sardine	sardino
+sauce	sauco
+sausage	sociso
+scale	balanco
+scales	balanco
+scallop	petonklo
+scam	eskroko
+scan	skandar
+scarf	sharpo
+scarlet	skarlata
+scene	ceno
+scenery	peizajo
+schist	skisto
+scholarship	stipendio, erud-it-eso
+school	skolo
+science	cienco
+scissors	cizo
+scythe	falchilo
+sea	maro
+search	sercho
+season	sezono
+second	duesma
+secondary school	gimnazio
+secret	sekreta
+secretary	sekretario
+secretly	sekrete
+sedentary	sedentaria
+see	vidar
+seed	semar
+self	ipsa
+seller	vendisto
+send	sendar
+set theory	ensemblo-teorio
+seven	sep
+seventh	sepesma
+seventy	sepadek
+shame	shamo
+shameless	senshama
+shape	formacar
+shark	sharko
+sharp	akuta
+she	el, elu
+sheep	mutono
+shirt	kamizo
+shooting	pafado
+shop	butiko
+shopkeeper	butikisto
+short	kurta
+shout	klamar
+sick	malada
+side	latero
+sidewalk	trotuaro
+siege	asiejar
+sieve	sivo
+silence	silenco
+silently	silence
+silicon	siliko
+silkworm	silk-vermo
+silly	stulta
+similar	simila
+simple	simpla
+sine	sinuso
+sing	kantar
+sinus	sinuso
+siren	sireno
+sister	fratino
+sit	sidar
+site	situo
+six	sis
+sixth	sisesma
+sixty	sisadek
+skeleton	skeleto
+skin	pelo
+skirt	jupo
+sky	cielo
+slap	frapar
+sledgehammer	martelego
+sleek	glata
+sleep	dormo
+slow	lenta
+small	mikra
+smile	ridetar
+smoke	fumar#Ido'fumar
+smooth	glatigar
+snail	heliko
+snatch	kaptar
+snow	nivo
+soap	sapono
+society	socio
+sock	kalzeto
+sodium	natro
+soft	mola
+solar	sunala
+solar wind	sunala vento
+sole	soleo
+solenoid	solenoido
+solution	solvo
+solve	solvar
+someone	ulu
+something	ulo; kelko
+sometimes	kelkafoye
+son	filiulo
+song	kansono
+soon	balde
+soup	supo
+sovereign	rejo
+space	spaco
+spaceship	spaconavo; spaco-navo
+spacetime	spacotempo
+spark	cintilo
+speaker	parolanto
+special	specala
+spectacles	binoklo
+spiral	spiralo
+spite	despito
+spoon	kuliero
+spot	makulo
+spouse	spozo
+spring	printempo
+spruce	abieto
+staff	bastono
+stain	makulo
+stake	paliso
+stallion	kavalulo
+stand	stativo
+star	stelo
+start	komenco
+state	stando
+steel	stalo
+stevedore	stivisto
+still	ankore
+stocking	kalzo
+stomach	stomako
+stone	petro
+story	rakonto (italbrac'imaginary), naraco (italbrac'narrative)
+stove	furnelo
+strand	torono
+strawberry	frago
+streak	strio
+street	strado
+strength	forteso
+strike	frapar; batar
+string	kordeto
+stroke	frapo
+stupid	stupida
+stutter	balbutar
+style	stilo
+subsidy	subvenciono
+suddenly	subite
+suffix	sufixo
+sugar	sukro
+sulfide	sulfido
+sumac	sumako
+summary	rezumo
+summer	somero
+supercilious	superba
+support	suporto
+surface	surfaco
+surgery	kirurgio
+surjection	surjekto
+suspend	suspensar
+swallow	glutar
+swan	cigno
+swim	natar
+sword	armo
+syllogism	silogismo
+synthesis	sintezo
+synthetic	sintezala
+system	sistemo
+table	tablo
+tale	rakonto
+talk	parolar
+talkative	babilema
+tannin	tanino
+tapir	tapiro
+tarragon	estragono
+tart	tarto
+taste	gustar
+tauon	tauono
+tavern	taverno
+tea	teo
+teach	instruktar
+teacher	instruktisto
+technique	tekniko
+techno	tekno
+telegram	telegramo
+telephone	telefonilo
+telescope	teleskopo
+television	televidilo
+tell	dicar
+template	shablono
+temple	temporo
+tench	tencho
+tenth	dekesma
+terrorism	terorismo
+tetrarchy	tetrarchie
+text	texto
+than	kam
+thank you	danko; me dankas
+thanks	danko
+that	ta
+the	la; l'
+their	lia
+theism	teismo
+then	lore
+theologian	teologiisto
+theology	teologio
+therapy	terapio
+there	ibe
+thesaurus	tezauro
+they	lu
+thigh	Kruro
+thin	magra
+thing	kozo
+third	triesma
+thirsty	durstoza
+thirty	triadek
+this	ca
+thistle	cardono
+thoracic	torakala
+thorax	torako
+thought	penso
+thousand	mil
+three	tri
+thrombocytopenia	trombositopenia
+through	tra, per
+thumb	polexo
+thyme	timiano
+tights	kalzego
+time	tempo
+timid	timida
+tin	stano
+tired	fatigita
+tissue	texajo (m)
+to	a; ad
+today	hodie
+tomato	tomatiero
+tombac	tombako
+tombak	tombako
+tomorrow	morge
+tongue	lango
+tonsil	tonsilo
+too	tro
+topaz	topazo
+torrential	torentala; torentatra
+total	sumo
+toucan	tukano
+touch	tushar
+town	urbo
+toxic	toxika
+toxin	toxino
+toy	ludilo
+tractor	traktoro
+tradition	tradiciono
+traffic	trafiko
+train	treno
+trampoline	trampolino
+transgender	transgenro
+transition	transito
+translation	traduko
+translator	tradukisto; tradukistulo; tradukistino; tradukanto; tradukantulo; tradukantino
+transport	transporto
+trapeze	trapezo
+trapezium	trapezo
+trapezoid	trapezo
+treatment	terapio
+tree	arboro (m)
+trefoil	trifolio
+triangle	triangulo
+trident	tridento
+tripod	tripedo; stativo
+trite	triviala
+triumphal arch	triumf-arko
+trout	truto
+truck	kamiono
+try	esforcar
+tungsten	wolframo
+tunnel	tunelo
+turnip	napo
+turpentine	terpentino
+twelfth	duadekesma
+twenty	duadek
+twin	jemelo
+two	du
+typhoon	tifono
+typographical	imprimala
+tyre	bandajo
+tyrosine	tirozino
+ugly	leda
+umbrella	parapluvo
+uncle	onklulo
+unfortunate	desfortunoza
+unification	unigado
+universal	universala
+universe	universo
+university	universitato
+unnatural	nenaturala
+urethra	uretro
+urgent	urjanta
+us	ni
+use	uzar
+useless	neutila
+usurper	uzurpero; uzurpinto; uzurpanto
+vacation	vakanco
+vacuole	vakuolo
+vacuum	vakuo
+vagina	vagino
+valve	valvo
+vandalism	vandaleso; vandalajo
+vanilla	vanilo
+vapid	insipida
+vaporize	vaporigar
+vase	vazo
+vassal	vasalo
+vector	vektoro
+vengeance	venjo
+venom	veneno
+verb	verbo
+verse	verso
+versus	kontre
+vertex	vertico
+very	tre
+vessel	vazo
+vial	fialo
+victory	vinko
+view	spektar
+village	vilajo
+vine	vito#Ido'vito
+vinegar	vinagro
+vineyard	viteyo, vit-agro
+violet	violea
+viper	vipero
+visit	vizitar
+volcanic	volkanala
+volcano	volkano
+voyage	voyajo
+waist	tayo
+wait	vartar
+waiter	garsono
+walk	promenar
+wallet	burso
+want	dezirar, volar (want to)
+war	milito
+wash	lavar
+waste	nekultivita
+watch	regardar
+water	aquo
+watermelon	aquomelono
+wave	ondo
+way	voyo
+we	ni
+weak	debila
+weapon	armo
+wear	vestaro
+weather	vetero
+web	reto
+web page	retopagino
+web site	retosituo
+weed	mala herbo
+week	semano
+weight	pezo
+welcome	bonvenigar
+well	bona
+west	ocidento; westo
+wet	humida
+whale	baleno
+what is your name	quale vu nomesas?
+wheat	frumento
+wheel	roto
+wheelbarrow	brueto
+where	ube
+which	qua
+while	dum, dum ke
+whimsical	ridinda
+whisky	wiskio
+white	blanka
+who	qua, qui (p)
+whole	tota
+why	pro quo
+wide	larja
+wife	spozino
+wig	peruko
+willow	saliko
+win	ganar
+window	fenestro
+wine	vino
+winter	vintro
+wisdom	sajeso
+with	per
+woman	muliero; homino
+woodlouse	aselo
+woods	bosko
+woolen	lana
+woollen	lana
+word	vorto
+write	skribar
+writing	skribado
+xanthine	xantino
+yak	yako
+year	yaro
+yellow	flava
+yes	yes
+yesterday	hiere
+yew	taxuso
+yoghurt	yogurto
+you	(polite) vu
+young	yuna
+your	vua
+youth	yuno; yuneso
+zebra	zebro
+zephyr	zefiro
+zone	zono
+zoological	zoologiala

@@ -1,0 +1,28 @@
+Bulgarian	﻿English
+всеки	everybody
+всичко	everything
+той	he
+неин	her
+себе си	herself
+него	him
+негов	his
+то	it
+мен	me
+мой	my
+наш	our
+тя	she
+техен	their
+тях	them
+те	they
+ето (eto), това (tova)	this
+нас	us
+ние	we
+какво	what
+кога (kogá)	when
+кой (koj)	which
+кой (koj)	which
+кой	who
+кого	whom
+чий (čij)	whose
+ти (ti), ви (vi)	you
+твой (tvoj), ваш (vaš)	your

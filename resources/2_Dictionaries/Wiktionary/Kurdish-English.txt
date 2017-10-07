@@ -1,0 +1,1783 @@
+Kurdish	English
+AIDS	AIDS
+ئاده‌م; Adem	Adam
+afar	Afar
+Afganistan	Afghanistan
+afrîkansî; afrîkaansî	Afrikaans
+Skender (m)	Alexander
+جه‌زایر	Algeria
+(ku-Arab'خوا), (ku-Arab'خودا)	Allah
+Amerîka (f); ئه‌مریکا	America
+Andorra	Andorra
+Enqere	Ankara
+avrêl	April
+Aras; Araz	Araks
+Arjantîn	Argentina
+Harmegedon	Armageddon
+Ermenistan (f)	Armenia
+ئاسیا; Asya	Asia
+gelawêj meh	August
+Awistriya	Austria
+aymara	Aymara
+Azerbeycan	Azerbaijan
+Azırbaicani	Azeri
+Bexda (f)	Baghdad
+Derya Rojhelat	Baltic Sea
+پەکین (Pekîn)	Beijing
+Bêrût	Beirut
+Belarûsî	Belarusian
+به‌لجیکا	Belgium
+Derya Reş	Black Sea
+Bosna-Hersek	Bosnia and Herzegovina
+Tengava Stenbolê; Bosfor	Bosphorus
+Bruksel	Brussels
+Bulgarî, Bilgarî	Bulgarian
+Kabe	Caaba
+Qahîre	Cairo
+(ku-Arab'کامیرۆن)	Cameroon
+که‌نه‌دا	Canada
+Kartaca	Carthage
+Derya-ye Mazenderan	Caspian Sea
+چین	China
+Çînî, (ku-Arab'چینی)	Chinese
+xirîstî, file, (ku-Arab'مه‌سیحی)	Christian
+alfabeya kirîlî	Cyrillic alphabet
+Çekî	Czech
+Komara Çêkiyayê	Czech Republic
+Şam	Damascus
+Danîmarkî	Danish
+Daryûş	Darius
+Dawid	David
+Danîmarka	Denmark
+holendî	Dutch
+Misir, (ku-Arab'میسر)	Egypt
+inglîz, (ku-Arab'ئنگلیز)	English
+esperantoyî (f)	Esperanto
+Estonya	Estonia
+Firat (m)	Euphrates
+(ku-Arab'ئه‌وروپا)	Europe
+Hawa (f)	Eve
+Giravên Feroe	Faroe Islands
+reşemî	February
+Fînland	Finland
+Fînlendî	Finnish
+flamî (f)	Flemish
+فه‌ره‌نسا	France
+zimanê fransî	French
+(ku-Arab'هه‌ینی), (ku-Arab'جمعه‌)	Friday
+Şirîta Xazeyê	Gaza Strip
+جۆرج تاون; Corctawn	Georgetown
+elman; elmanî	German
+Gibraltar	Gibraltar
+(ku-Arab'خودا), (ku-Arab'خوا)	God
+یونان (Yunan)	Greece
+Yonanî, Yewnanî	Greek
+kalaallisut	Greenlandic
+Helsinkî (f)	Helsinki
+ez; min	I
+(ku-Arab'تۆم خۆش ئه‌وێ)	I love you
+وابزانم (wabzanim)	I think so
+xwezî	I wish
+Îsland	Iceland
+Îran	Iran
+(fa-Arab'عێراق) (Iraq)	Iraq
+Îslam 	Islam
+(ku-Arab'ئه‌سته‌مووڵ)	Istanbul
+Talyanî	Italian
+Jamaîka	Jamaica
+rêbendan	January
+Japon 	Japan
+(ku-Arab'جوله‌که‌)	Jew
+pûşber (f); hezîran (f); xezîran (f)	June
+Qazaxîstan	Kazakhstan
+کینیا	Kenya
+kurdî; کوردی	Kurdish
+کوردستان (f) (Kurdistan); Kurdistan (f)	Kurdistan
+(ku-Arab'لوبنانی)	Lebanese
+(ku-Arab'لوبنان)	Lebanon
+Liyon	Lyons
+mirov	Man
+بارام (baram)	Mars
+gulan	May
+Mazenderan	Mazandaran
+Deryaya Navîn	Mediterranean Sea
+Tîr	Mercury
+Mezrabotan (f); Mezopotamya (f)	Mesopotamia
+Meksîk	Mexico
+ڕۆژهه‌ڵاتی ناوه‌ڕاست	Middle East
+خوشکه (xushke)	Miss
+duşem, (ku-Arab'دووشه‌م), (ku-Arab'دووشه‌مه‌)	Monday
+Mosko; مۆسکۆ (Mosko)	Moscow
+Mihemed Pêxember	Muhammad
+Munih	Munich
+misilman, (ku-Arab'موسلمان)	Muslim
+NATO	NATO
+Namîbiya	Namibia
+(wîlayeta / eyaleta) Nû York (f), New York (f)	New York
+Nû York (f); New York (f)	New York City
+Nîl (m)	Nile
+Okyanûsa Mezin	Pacific Ocean
+پاکستان	Pakistan
+farisî; فارسی	Persian
+Portekîz	Portugal
+portugalî (m)	Portuguese
+ڕه‌مه‌زان	Ramadan
+(ku-Arab'ڕۆمانی)	Romanian
+Roma	Rome
+Rûsya	Russia
+شه‌مه‌	Saturday
+Salêna	Selena
+سربی (serbî)	Serb
+Sirbîstan û Karadag	Serbia and Montenegro
+serbî, (ku-Arab'سربی)	Serbian
+slavî	Slavic
+slovakî	Slovak
+pergala rojê (f); sîstema rojê (f)	Solar System
+spanî	Spanish
+Sparta	Sparta
+(ku-Arab'یه‌کشه‌م), (ku-Arab'یه‌کشه‌مه‌)	Sunday
+sinî (m) / (f)	Sunni
+Taywan	Taiwan
+Tacîkistan	Tajikistan
+Tanzanya	Tanzania
+Tiblîsî	Tbilisi
+Taran	Tehran
+pêncşem (f) 	Thursday
+سێشه‌م; سێشه‌مه‌	Tuesday
+tirkî	Turkish
+NY (Neteweyên Yekbûyî)	UN
+mızır amerîkayê	United States
+دەولەتێن یەکبوویییێن ئەمەریکایێ (Dewletên Yekbûyîyên Emerîkayê)	United States of America
+Ûzbêkistan	Uzbekistan
+Gelawêj	Venus
+vîkîng	Viking
+(ku-Arab'چوارشه‌م), (ku-Arab'چوارشه‌مه‌)	Wednesday
+Wîkîferheng, (ku-Arab'ویکیفه‌رهه‌نگ)	Wiktionary
+ala (f), (ku-Arab'ئاڵا)	Wiktionary:Usability/flag
+Yemen	Yemen
+Êrîvan	Yerevan
+Zerdeştî	Zoroastrianism
+زۆر	a lot
+avdest; abdest; awdest	abdest
+dorî, dorî	about
+زۆری (zori)	abundance
+(ku-Arab'وه‌رگرتن)	accept
+(ku-Arab'به‌گوێره‌ی), (ku-Arab'به‌پێی)	according to
+ئاس	ace
+(ku-Arab'ناسیار)	acquaintance
+(ku-Arab'په‌یداکردن)	acquire
+(ku-Arab'به‌رجووت)	acre
+taybeti	ad hoc
+بانگ (bang)	adhan
+(ku-Arab'به‌رێوبه‌رایه‌تی)	administration
+zina (f)	adultery
+(ku-Arab'ده‌رپه‌ڕین)	advent
+(ku-Arab'بۆزانین)	advertisement
+ئامۆژگار (amojgar)	advisor
+(ku-Arab'دوایی), (ku-Arab'دوای ئه‌وه‌), (ku-Arab'پاش ئه‌وه‌)	after
+(ku-Arab'له‌ دواییا), (ku-Arab'پاشان)	afterwards
+(ku-Arab'دیسان), (ku-Arab'هه‌مدیس), (ku-Arab'دوباره‌)	again
+(ku-Arab'ده‌س درێژی)	aggression
+ئاغا (agha)	agha
+ژان (jan)	agony
+یه‌ککه‌وتن (yekkewtin)	agreement
+کشتوکاڵ (kishtukal)	agriculture
+(ku-Arab'ده‌رد)	ailment
+hewa; هه‌وا	air
+(ku-Arab'فڕۆکه‌خانه‌)	airport
+El-Qaîde	al
+ئاخ (ax); هاوار (hawar); هه‌ی هاوار (hei hawar); داخاکه‌م (daxekem); ئه‌فسۆس (efsos)	alas
+كوردي: albîno	albino
+spîk (f); spîçk (f)	albumen
+زندوی (zindui)	alive
+(ku-Arab'هه‌مو)	all
+باش	all right
+(ku-Arab'داری چوالا)	almond
+به‌ڵام (belam)	although
+bafûn	aluminium
+(ku-Arab'هه‌موجار)	always
+balyoz; sefîr; ambasador	ambassador
+چه‌پ وڕاسته‌	ambidextrous
+baş 	ameliorate
+(ku-Arab'ده‌بۆ)	ammunition
+(ku-Arab'نێوان)	among
+yek; -ek; -yek	an
+نه‌خوێنده‌وار	analphabet
+با وباپیر (ba u bapír)	ancestor
+û	and
+(ku-Arab'گوڵاڵه‌)	anemone
+(ku-Arab'ڕق)	anger
+توڕه‌ (ture); زیز (ziz)	angry
+داخ (dax)	anguish
+(ku-Arab'حه‌یوانی)	animal
+(ku-Arab'له‌ناوبردن)	annihilate
+(ku-Arab'ده‌ربڕین)	announce
+(ku-Arab'جێ به‌جێ)	answer
+mûrî; mêrî; gêrik	ant
+(ku-Arab'هه‌رکه‌س)	anybody
+(ku-Arab'که‌س), (ku-Arab'هه‌رچیکه‌س)	anyone
+(ku-Arab'ده‌رپه‌ڕین)	appearance
+چه‌پڵه‌ (çeple)	applause
+sêv; سێو	apple
+(ku-Arab'نزیک که‌وتن)	approach
+(ku-Arab'نزیکه‌ی)	approximately
+mijmij 	apricot
+(ku-Arab'به‌رکۆشه‌), (ku-Arab'به‌رکۆژه‌), (ku-Arab'چاڕۆکه‌)	apron
+destik (m); çembil (m)	arm
+(ku-Arab'چه‌ک)	arms
+(ku-Arab'ئۆردوو), (ku-Arab'جاش)	army
+(ku-Arab'گرتن)	arrest
+(ku-Arab'گه‌یشتن)	arrive
+tîr (m)	arrow
+دارو	arsenic
+hindî, qasî, bi qasî, temetî	as
+(ku-Arab'به‌ زووترین کات)	as soon as possible
+şermezar; rûreş	ashamed
+(ku-Arab'قیرتاو)	asphalt
+ئاوات	aspiration
+qûn	ass
+asîstan	assistant
+Kurdish: li (Kurmanji), le (Soranî)	at
+(ku-Arab'ئه‌فسووس)	atlas
+ئه‌تۆم	atom
+ئاگاداری (agadari)	attention
+mezad (f)	auction
+جمهور	audience
+خاتۆ (xato); خان (xan)	aunt
+(ku-Arab'ئوتوموبیل), (ku-Arab'ترومبێل), (ku-Arab'سه‌یاره‌)	automobile
+payiz (f); پایز	autumn
+aşît (f), (ku-Arab'هه‌ره‌س)	avalanche
+به‌خه‌به‌ر (bexeber)	awake
+xelat	award
+ته‌ور	axe
+(ku-Arab'به‌چکه‌)	baby
+پشت	back
+(ku-Arab'بڕبڕه‌)	backbone
+(ku-Arab'جانتای پشت)	backpack
+به‌د	bad
+(ku-Arab'نانه‌وا), (ku-Arab'نانکار)	baker
+firrne (f), patinxane (f)	bakery
+terazû; hevsengî; yeksengî; balans; denge	balance
+gog (f); hol (f); top (f); tepik (f); تۆپ	ball
+بالۆن (balon)	balloon
+moz; مۆز	banana
+(ku-Arab'چه‌ته‌)	bandit
+په‌رچه‌م	bangs
+(ku-Arab'ئاڵا)	banner
+xwas, lingxwas, nigxwas, pêxwas, pîxwas	barefoot
+(fa-Arab'بحه‌پێ), (fa-Arab'بڕه‌وێ)	bark
+(ku-Arab'جۆ)	barley
+(ku-Arab'حامیه‌)	barrack
+(ku-Arab'بێبه‌ر)	barren
+meygêrr (m); badegêrr (m); saqî (m); meyxanevan (m) 	bartender
+(ku-Arab'بنکه‌)	base
+ژێرزه‌وی	basement
+(ku-Arab'ئاوده‌ست), (ku-Arab'ئاوده‌ستخانه‌)	bath
+بازار (bazar); باژێر (bajér)	bazaar
+(ku-Arab'مورو)	bead
+(ku-Arab'ده‌ندوک)	beak
+(ku-Arab'فاسولیا)	bean
+(ku-Arab'به‌رگرتن)	bear
+rih, rî, (ku-Arab'ڕیش)	beard
+(ku-Arab'خۆش), (ku-Arab'فێنک)	beautiful
+جوانی	beauty
+çimkî, ji ber ku, (ku-Arab'بۆ ئه‌وه‌), (ku-Arab'چونکه‌)	because
+(ku-Arab'له‌به‌ر)	because of
+(ku-Arab'قه‌ریۆڵه‌)	bed
+بیره‌ (bire)	beer
+(ku-Arab'له‌مه‌وپێش)	before
+(ku-Arab'ده‌ستپێکردن)	beginning
+(ku-Arab'پشت گرتن)	behind
+(ku-Arab'بڕوا)(ku-Arab'باوه‌ر)	belief
+زه‌نگ (zeng)	bell
+(ku-Arab'خۆشه‌ویست), (ku-Arab'نازدار)	beloved
+قایش	belt
+(ku-Arab'چه‌ماندن)	bend
+(ku-Arab'له‌ نێوان)	between
+(ku-Arab'به‌گ)	bey
+(ku-Arab'ده‌ندوک)	bill
+bilyar (f)	billiards
+دمبه‌ڵه‌	bingo
+دوربین	binoculars
+firrinde, balinde, çivîk, çûçik, teyr, tilûr, terewîl, (ku-Arab'باڵنده‌), (ku-Arab'ته‌یر)	bird
+(ku-Arab'مناڵبوون)	birth
+dêlegur 	bitch
+تاریک	black
+ئاسنگه‌ر (asinger)	blacksmith
+(ku-Arab'ده‌م)	blade
+(ku-Arab'گلپه‌)	blaze
+باع (baa); باڵاندن (balandin)	bleat
+kher be inshalla	bless you
+(ku-Arab'کوێر کردن)	blind
+(ku-Arab'گه‌ڕه‌ک)	block
+(ku-Arab'ده‌مار)	blood vessel
+(ku-Arab'گه‌شانه‌وه‌)	blossom
+(ku-Arab'فو)	blow
+(ku-Arab'پاپۆڕ)	boat
+bedenî; leşî; gewdeyî; cismî; cesedî; fizîkî; fizîkal; fiziyolojîk	bodily
+له‌ش	body
+(ku-Arab'کوڵاندن)	boil
+bombe (f); بۆمبا	bomb
+پرتووک (pirtûk); کتێب (kitêb)	book
+کتێبخانه‌ (kitébxane)	bookshop
+(ku-Arab'چه‌کمه‌)	boot
+بێزار	bored
+(ku-Arab'بێزاری)	boredom
+boron	boron
+(ku-Arab'هه‌ردو)	both
+kevan (m)	bow
+کاسه‌	bowl
+کور	boy
+(ku-Arab'بازن)	bracelet
+(ku-Arab'چرۆ), (ku-Arab'لق)	branch
+مارکه‌	brand
+(ku-Arab'ئازا), (ku-Arab'قاره‌مان)	brave
+زه‌ڕین (zerin)	bray
+rûqayim; bêşerm	brazen
+nan (m); نان	bread
+دڵ (dil)	breast
+(ku-Arab'هه‌ناسه‌)	breath
+(ku-Arab'به‌رتیل)	bribe
+bûk (f) 	bride
+زاوا (zawa)	bridegroom
+(ku-Arab'زیره‌ک)	bright
+(ku-Arab'گسک لێدان)	broom
+(ku-Arab'برا)	brother
+(ku-Arab'برایه‌تی)	brotherhood
+çakar, qehweyî, qehwerengî	brown
+بڵق کردن; بڵقه‌بڵق کردن	bubble
+(ku-Arab'دروستکردن)	build
+(ku-Arab'بیناکردن)	building
+bar (m), (ku-Arab'به‌ڵا)	burden
+سوتان (sootAn)	burn
+پاس	bus
+(ku-Arab'به‌ڵام), (ku-Arab'جگه‌)	but
+قه‌ساب	butcher
+(ku-Arab'قن)	butt
+که‌ره‌	butter
+په‌پوله	butterfly
+(ku-Arab'قن)	buttock
+(ku-Arab'دوگمه‌)	button
+pejirandin, qebûl kirin	buy
+tê re; di ber re	by
+ji ber; ezber	by heart
+(ku-Arab'کابینه‌ت)	cabinet
+rekeh (f); qefes (f); قه‌فه‌س	cage
+بانگ	call
+(ku-Arab'حوشتر)	camel
+به‌یبوون (beybun)	camomile
+(ku-Arab'حه‌مله‌)	campaign
+ئه‌توانی پێمان بڵێی؟ (etwani péman biléi?)	can you tell us
+berbijar; namzet; berendam; kandîdat	candidate
+(ku-Arab'نوقڵ)	candy
+top (f), moşek (f), sarox (f), (ku-Arab'لوله‌تۆپ)	cannon
+(ku-Arab'که‌ڵاو)	cap
+کاروان	caravan
+(ku-Arab'کاروانسه‌را)	caravanserai
+karbon	carbon
+mirar	carcass
+kardînal; metran	cardinal
+(ku-Arab'دارتاشی)	carpentry
+فه‌رش	carpet
+باربه‌ر (barber)	carrier
+(ku-Arab'گوێزه‌ر)	carrot
+(ku-Arab'داڕشتن)	cast
+قه‌ڵا	castle
+(ku-Arab'پشیله‌)	cat
+(ku-Arab'گرتن)	catch
+kewandin; dax	cauterize
+ئه‌شکه‌وت	cave
+agirbest (f)	ceasefire
+چه‌مه‌نتۆ	cement
+(ku-Arab'چه‌ق)	center
+زنجیر (zinjír)	chain
+(ku-Arab'گۆرین), (ku-Arab'گۆراندن)	change
+باته‌ک (batek)	character
+ئه‌فسوون کردن (efsún kirdin)	charm
+بێقیمه‌ت	cheap
+په‌نیر; penîr	cheese
+çek	cheque
+(ku-Arab'دار گێلاس)	cherry
+benîşt; qaçik 	chewing gum
+(ku-Arab'جوجک)	chick
+(ku-Arab'مریشک), (ku-Arab'مامر)	chicken
+نۆک (nok)	chickpea
+بچووک (biçûk); مناڵ (minall); منداڵ (mindall)	child
+(ku-Arab'مناڵی)	childhood
+(ku-Arab'چه‌ناگه‌)	chin
+(ku-Arab'چرکا)	chirp
+هه‌ڵبژارده‌ (helbjarde); بژاره‌ (bjare); سه‌رتڵ (sertl)	choice
+fetisandin	choke
+(ku-Arab'جگه‌ره‌)	cigarette
+دارچین 	cinnamon
+(ku-Arab'خڕ)	circle
+نارنج	citron
+nepenî; nehênî; dizîkî	clandestine
+چه‌پڵه‌ لێدان	clap
+(ku-Arab'ڕوون کردن)	clarify
+(ku-Arab'پۆل)	class
+; (ku-Arab'کلاسیکی)	classical
+(ku-Arab'چنگ), (ku-Arab'چرنووک)	claw
+(ku-Arab'ڕه‌وان)	clear
+زیره‌ک (zirek)	clever
+(ku-Arab'ئابوهه‌وا)	climate
+demjimêr (f), demjimêrk (f), seet (f)	clock
+(ku-Arab'نزیک)	close
+cil, kinc, cilûberg, libas, çek, (ku-Arab'به‌رگ) , (ku-Arab'جل)	clothes
+hewr; ewr	cloud
+kaşok (m)	club
+otobûs (f)	coach
+meyandin	coagulate
+kumirr 	coal
+(ku-Arab'سیسرک), (ku-Arab'سیسارک)	cockroach
+(ku-Arab'قاوه‌یی)	coffee
+(ku-Arab'داره‌ته‌رم)	coffin
+(ku-Arab'پاره‌لێدان)	coin
+(ku-Arab'سارد)	cold
+şerê sar	cold war
+(ku-Arab'کۆکردن)	collect
+mêtingeh (f); kolonî (f)	colony
+(ku-Arab'ره‌نگ کردن)	color
+rengîn, (ku-Arab'ئاڵوواڵا), (ku-Arab'ڕه‌نگاوڕه‌نگ)	colorful
+(ku-Arab'مه‌زن)	colossal
+(ku-Arab'بێڕه‌نگ)	colourless
+کارزان; ceng; şer; şerr	combat
+hatin, (ku-Arab'هاتن)	come
+(ku-Arab'گه‌ڕانه‌وه‌)	come back
+(ku-Arab'فه‌رمان)	command
+şirove (f); ravek (f); ravekirin (f); îzah (f); şerh (f); tefsîr (f); ron (f); komentar (f)	commentary
+ji ber kirin, ezber kirin, (ku-Arab'له‌به‌رکدن)	commit to memory
+komîte (f); deste (f); lijne (f); kom (f)	committee
+(ku-Arab'ئاواڵ), (ku-Arab'هاورێ)	companion
+şirket (f); pargîdanî (f); fîrma (f); kompanya (f); şirîke (f)	company
+(ku-Arab'پیشاندار), (ku-Arab'قبله‌نامه‌)	compass
+pêşbazî; pêşbirk; berêkane; misabiqe; hevrikî; hawirkan; riberiz; sîbaq; reqabet	competition
+gazin (f), gilî (f), rexne (f), şikayet (f), (ku-Arab'گله‌یی)	complaint
+(ku-Arab'مه‌فهوم)	concept
+له‌ باره‌ی (le barey)	concerning
+ئاهه‌نگ (aheng)	concert
+(ku-Arab'ڕه‌وشت)	conduct
+کۆنفرانس	conference
+(ku-Arab'به‌ره‌نگاربوونه‌وه‌)	confrontation
+زکماک (zikmak)	congenital
+(ku-Arab'پیرۆزبایی کردن)	congratulation
+(ku-Arab'پیرۆز)	congratulations
+kongrevan (mêr), kongresman	congressman
+(ku-Arab'په‌یوه‌ندی)	connection
+(ku-Arab'ده‌ستور)	constitution
+په‌یوه‌ند (peywend)	contact
+kontrol 	control
+(ku-Arab'چێشت حازرکردن)	cook
+perîn, gunhêlî'gunhêlî kirin, cot'cot bûn, gan	copulate
+kanêje (f)	cornflower
+cenaze; term; kelex	corpse
+به‌ها; نرخ	cost
+(ku-Arab'کووخ)	cottage
+(ku-Arab'لۆکه‌)	cotton
+(ku-Arab'ئه‌نجومه‌ن)	council
+ژماردن (jmardin)	count
+لادێ	countryside
+(ku-Arab'ده‌وڵه‌ت)	county
+(ku-Arab'جه‌م)	course
+دادگا	court
+(ku-Arab'حه‌وشه‌)	courtyard
+ئامۆزا (amoza)	cousin
+(ku-Arab'سهرقاپ)	cover
+(ku-Arab'مانگا)	cow
+tirsok; newêrek; bêcesaret; bêkulek; tirsonek; tirsoke	coward
+newêrekî; tirsokî; tirsonekî; bêcesaretî; bêcuretî	cowardice
+(ku-Arab'قرته‌)	crack
+قۆڵه‌نگ (qoleng)	crane
+afirîner, çêker, (ku-Arab'دروستکار)	creator
+زنده‌وه‌ر	creature
+جه‌ریمه‌	crime
+(ku-Arab'ڕه‌خنه‌گر)	critic
+(ku-Arab'ڕه‌خنه‌ گرتن)	criticise
+(ku-Arab'ڕه‌خنه‌)	criticism
+neheng	crocodile
+چه‌وت	crooked
+(ku-Arab'په‌ڕاندن)	cross
+(ku-Arab'قه‌له‌باڵغی)	crowd
+zalim; bêrehm	cruel
+(ku-Arab'گۆچان)	crutch
+(ku-Arab'هاوار), (ku-Arab'بانگ)	cry
+کشتوکاڵ کردن (kishtukal kirdin)	cultivate
+çande (f); kultûr (f); irf (f); edet (f)	culture
+mereq (f); hewes (f); balkêşî (f); tatêl (f); tatol (f); çavzêlkî (f); etir (f); xemxwerî (f)	curiosity
+lanet (f), nalet (f)	curse
+(ku-Arab'په‌رده‌)	curtain
+بالیف (balif)	cushion
+برین	cut
+(ku-Arab'بابه‌), (ku-Arab'باوکه‌)	daddy
+(ku-Arab'ڕۆژنامه‌)	daily
+(ku-Arab'به‌ربه‌ست)	dam
+(ku-Arab'په‌رێشان)	danger
+نازدار (nazdar); یار (yar); یاره‌ (yare)	darling
+رۆژ	day
+(ku-Arab'دوو سبه‌ی)	day after tomorrow
+(ku-Arab'پێرێ)	day before yesterday
+(ku-Arab'مردو)	dead
+که‌ڕ	deaf
+گران	dear
+mirin (f); merg (f); wefat (f); mewt (f); emrê Xwedê (m); مه‌رگ; مردن	death
+(ku-Arab'داروپه‌ردو)	debris
+(ku-Arab'قه‌رزار)	debt
+(ku-Arab'قه‌رزار)	debtor
+(ku-Arab'چاوبه‌ست), (ku-Arab'فڕوفێڵ)	deception
+بڕیار (biryar)	decision
+(ku-Arab'به‌یان)	declaration
+(ku-Arab'که‌م کردن)	decrease
+(ku-Arab'فه‌رمان)	decree
+(ku-Arab'کار), (ku-Arab'کرده‌وه‌)	deed
+(ku-Arab'قووڵی)	deep
+(ku-Arab'ئاسک)	deer
+(ku-Arab'عه‌یبدار)	defective
+(ku-Arab'به‌رگری)	defense
+(ku-Arab'به‌ربه‌ره‌کانی)	defiance
+(ku-Arab'پله‌)	degree
+(ku-Arab'دوای ئه‌خات)	delay
+(ku-Arab'گه‌یاندن)	deliver
+دیموکراتیه‌ت	democracy
+(ku-Arab'دیموکراتی)	democratic
+(ku-Arab'دان ساز)	dentist
+کۆچ کردن (koçkirdin); (bewerçun)	depart
+(ku-Arab'بێ به‌شکردن)	deprive
+dewrêş	dervish
+ده‌شت	desert
+(ku-Arab'ئاواتی دڵ)	desire
+(ku-Arab'چاره‌نووس)	destiny
+له‌ بار که‌وتن (le bar kewtin)	deteriorate
+(ku-Arab'ئاوه‌دان کردنه‌وه‌), (ku-Arab'ئاوه‌دانی)	development
+زاراو (zaraw)	dialect
+زگ چوون (zig çun)	diarrhea
+ferheng (f); peyvname (f); bêjename (f); qamûs (f); فه‌رهه‌نگ	dictionary
+مردن	die
+(ku-Arab'جیاوازی)	difference
+(ku-Arab'جیاواز)	different
+زه‌حمه‌ت (zehmet); گران (giran); سه‌خت (sext)	difficult
+زه‌حمه‌تی (zehmeti)	difficulty
+هه‌ڵکوڵین (helkulín); هه‌ڵقه‌ندن (helqendin); کوڵین (kolín); (kolandin)	dig
+dînar	dinar
+یه‌کسه‌ر (yekser)	directly
+(ku-Arab'کاربه‌ده‌ست)	director
+پیس	dirty
+(ku-Arab'لێقه‌ومان)	disaster
+(ku-Arab'دۆزینه‌وه‌)	discovery
+nakokî (f); nelihevî (f); newekhevî (f)	discrepancy
+نه‌خۆشی	disease
+ئاژاوه‌ (ajawe)	disturbance
+به‌ش	division
+gelo; aya; ma	do
+ده‌زانی؟ (dezani?); ئه‌زانی؟ (ezani?)	do you know
+ئنگلیزی قسه‌ئه‌که‌ی؟ (Englizi qise ekey?); ئنگلیزی دبێژی؟ (Englizi dibeji?)	do you speak English
+sernerm	docile
+(ku-Arab'دکتۆر)	doctor
+(ku-Arab'بووکه‌ شووشه‌)	doll
+(ku-Arab'ناوخۆ)	domestic
+که‌ر	donkey
+derî (m); dergeh (m); ده‌رگا; قاپی	door
+niqte, xal	dot
+guman (f); şik (f); şube (f); gûş (f); hulhul (f); şûf (f); گومان	doubt
+(ku-Arab'کۆتر)	dove
+(ku-Arab'ناوشار)	downtown
+next (m); qelen (m)	dowry
+ejdeha	dragon
+zencere	dragonfly
+(ku-Arab'دامه‌)	draughts
+(ku-Arab'خه‌وبینین)	dream
+به‌رگ	dress
+ajok (f)	driver
+nêrehing (m)	drone
+dilop; çip; çipik	drop
+tilyak (f); narkotîk (f)	drug
+(ku-Arab'وشک بوون)	dry
+مراوی (mirawî)	duck
+کول	dull
+بێمه‌عنا	dumb
+باڵابسته‌ (balabiste)	dwarf
+e-pirtûk	e
+her, heryek, hertişt, (ku-Arab'هه‌ریه‌ک)	each
+(ku-Arab'هه‌ڵۆ)	eagle
+guh, (ku-Arab'گوێ), (ku-Arab'گوێچک)	ear
+زوو (zu)	early
+guhar (f), guhark (f), (ku-Arab'گواره)	earring
+(ku-Arab'بوومه‌له‌رزه‌)	earthquake
+rojhilat, (ku-Arab'ڕۆژهه‌ڵات)	east
+زایه‌ڵه‌ (zayelle)	echo
+ئابووری (aburi)	economics
+aborînas (m)	economist
+(ku-Arab'بیرۆ)	eczema
+ده‌م	edge
+(ku-Arab'فه‌رمان)	edict
+taşandin 	educate
+په‌روه‌رده‌ (f) (perwerde); زانیاری (zanyari)	education
+مارماسی	eel
+(ku-Arab'ڕه‌نج)	effort
+zerik (f); zerdik (f); zere (f); zerde (f); zerk (f)	egg yolk
+heşt, (ku-Arab'هه‌شت)	eight
+(ku-Arab'هه‌ژده‌)	eighteen
+(ku-Arab'هه‌شته‌م)	eighth
+(ku-Arab'هه‌شتا)	eighty
+ئه‌ژنۆ	elbow
+(ku-Arab'هه‌ڵبژاردن)	election
+kareba (f); elektrîk (f); ceyran (f); کاره‌با	electricity
+ئه‌لیکترۆنی (elictroni)	electronic
+فیل	elephant
+bizî 	elm
+(ku-Arab'ڕزگاری)	emancipation
+sefaret (f); balyozxane (f); ambasad (f); konsolosxane (f)	embassy
+nexş	embroidery
+emperator; qeyser	emperor
+karker	employee
+(ku-Arab'چۆڵیی)	emptiness
+(ku-Arab'به‌تاڵ کردن)	empty
+dorpêç kirin	encompass
+qedandin, xilas kirin, temam kirin, kuta kirin, nehêlan, bi dawî anîn	end
+dijmin, (ku-Arab'دوژمن)	enemy
+(ku-Arab'ئه‌ندازیار)	engineer
+به‌س (bes); ته‌واو (tewaw)	enough
+(ku-Arab'چونه‌ژوره‌وه‌)	entrance
+(ku-Arab'پێرێ)	ereyesterday
+erotîk; şehwetî; seksî; pornografîk	erotic
+زانیار (zanyar)	erudite
+filitîn	escape
+(ku-Arab'جه‌وهه‌ر)	essence
+(ku-Arab'دامه‌زراندن), (ku-Arab'پێکهێنان)	establish
+(ku-Arab'پێکهێنان)	establishment
+ebedî; herherî; hetahetayî; bêdawî	eternal
+(ku-Arab'ئێواره‌)	evening
+(ku-Arab'هه‌مو)	every
+(ku-Arab'هه‌موکه‌س), (ku-Arab'هه‌مولا)	everybody
+نمونه‌	example
+(ku-Arab'نایاب)	excellent
+(ku-Arab'جگه ‌له‌)	except
+ببووره‌ (bibure)	excuse me
+(ku-Arab'بردن به‌ڕێوه‌)	execute
+(ku-Arab'بوون)	existence
+(ku-Arab'چاوه‌ڕوان)	expectation
+گران	expensive
+(ku-Arab'ئاشنا)	expertise
+(ku-Arab'مردو)	expired
+şirove kirin, îzah kirin, fesîh kirin, zelal kirin, ron kirin, şayesandin, şayes kirin, şayes dan, sêwer kirin, bas kirin, qal kirin, vegotin, derbirin, wesf dan, saloxandin, salox kirin, teswîr kirin, tesewir kirin	explain
+(ku-Arab'ده‌رخستن)	expression
+(ku-Arab'نایاب)	exquisite
+ڕاده‌ (rade)	extent
+(ku-Arab'کوژاندن)	extinguish
+چاو	eye
+برۆ (biro)	eyebrow
+برژانگ (birjang)	eyelash
+rû (m), serçav, dêm (m), (ku-Arab'ده‌موچاو)	face
+(ku-Arab'ڕوو به‌ ڕوو)	face to face
+(ku-Arab'کارگه‌), (ku-Arab'کارخانه‌)	factory
+(ku-Arab'ناوبانگ)	fame
+nêz; nêzîk	familiar
+malbatî	family
+xela (f)	famine
+باوه‌شێن کردن (baweshén kirdin)	fan
+جوتیار (jutyar)	farmer
+fis; kuş; piv; tirr	fart
+(ku-Arab'چه‌شن)	fashion
+(ku-Arab'زو)	fast
+(ku-Arab'چه‌وری)	fat
+چاره‌نووس (çarenus)	fate
+(ku-Arab'نیشتیمان)	fatherland
+فه‌توا	fatwa
+zembere (f), henef (f), mislik (f), henefî (f), henîfe (f)	faucet
+gengaz; mimkin; pêkan	feasible
+(ku-Arab'بێزار), (ku-Arab'هیلاک)	fed up
+(ku-Arab'لاواز)	feeble
+مێ	female
+(ku-Arab'به‌پیت)	fertile
+(ku-Arab'که‌م), (ku-Arab'که‌مێ)	few
+(ku-Arab'ده‌سگیران)	fiancé
+(ku-Arab'ڕاستگۆیی)	fidelity
+دڕنده‌	fierce
+pêncî, (ku-Arab'په‌نجا)	fifty
+(ku-Arab'چه‌په‌ڵ), (ku-Arab'بۆگه‌ن)	filthy
+(ku-Arab'دیتنه‌وه‌), (ku-Arab'دۆزینه‌وه‌)	find
+til (f), (ku-Arab'په‌نجه‌)	finger
+نینۆک	fingernail
+agir 	fire
+ئاگردان	fireplace
+یه‌که‌م (yekem)	first
+masîgirî (m)	fish
+مست	fist
+pênc, (ku-Arab'پێنج)	five
+ala (f), (ku-Arab'ئاڵا)	flag
+(ku-Arab'ئاگرگرتن)	flame
+فانیله	flannel
+kêç	flea
+(ku-Arab'ڕاکردن)	flee
+firr	flight
+ڕان	flock
+lehî; lêser; lês; avrabûn 	flood
+qat (f); tebeq (f)	floor
+ئارد	flour
+gul, kulîlk, (ku-Arab'گوڵ)	flower
+fluor	fluorine
+bilûr (f); ney (f); fîq (f); bilûl (f)	flute
+شه‌قه‌ (sheqe); فرته‌فرت (firtefirt)	flutter
+firrîn, (ku-Arab'فڕین)	fly
+(ku-Arab'که‌ف)	foam
+ئالیک (alik)	fodder
+(ku-Arab'پێچان), (ku-Arab'قه‌دکردن)	fold
+قاچ	foot
+wekî mînak	for example
+enî (f), (ku-Arab'ناوچه‌وان)	forehead
+(ku-Arab'بێگانه‌)	foreign
+(ku-Arab'بێشه‌ڵان), (ku-Arab'دارستان)	forest
+(ku-Arab'لێبوردن)	forgiveness
+چه‌تاڵ	fork
+(ku-Arab'به‌رتر), (ku-Arab'پێشو)	former
+Komara Yûgoslavî ya Kevnar a Makedonyayê	former Yugoslav Republic of Macedonia
+(ku-Arab'جاران)	formerly
+(ku-Arab'قه‌ڵا)	fortress
+çil, (ku-Arab'چل)	forty
+xwedî kirin; mezin kirin	foster
+چوار (çwar); چار (çar)	four
+رێوی	fox
+milbend; çarçev	frame
+fransiyûm	francium
+برازا (birazá)	fraternal nephew
+برازا (birazá)	fraternal niece
+ڕزگار کردن	free
+(ku-Arab'ئازادی), (ku-Arab'ڕزگاری)	freedom
+(ku-Arab'دۆستم)	friend
+(ku-Arab'دۆستایه‌تی)	friendship
+بۆق	frog
+به‌رهه‌م (berhem)	fruit
+gan	fuck
+mızır	fucking
+mazot	fuel
+(ku-Arab'هه‌وه‌س)	fun
+(ku-Arab'کار), (ku-Arab'کاروبار)	function
+(ku-Arab'چه‌ماوه‌ر)	funeral
+(ku-Arab'عه‌جایه‌ب), (ku-Arab'سه‌یر)	funny
+(ku-Arab'دواڕۆژ), (ku-Arab'پاشه‌ڕۆژ)	future
+(ku-Arab'لاروله‌نجه‌)	gait
+gulistan (f), baxçe (m), bax (m)	garden
+sîr (f); سیر	garlic
+(ku-Arab'به‌نزینخانه‌)	gas station
+(ku-Arab'کۆکردن)	gather
+(ku-Arab'به‌خشنده‌گی)	generosity
+(ku-Arab'بلیمه‌ت)	genius
+janr; şêwe; cûn; şêwaz; çeşît; tewr	genre
+hêja; rêzdar; birêz; mamoste; seyda; efendî	gentleman
+ده‌ بڕۆ (de birro)	get lost
+ده‌ بڕۆ (de birro)	get out of here
+(ku-Arab'دیاری)	gift
+ژن	girl
+dan; دان	give
+(ku-Arab'چاو بخشێنه‌)	glance
+şûşe (f), glas (f), belûr (f), cam (f), (ku-Arab'شووشه‌), (ku-Arab'جام)	glass
+(ku-Arab'ده‌ستکێش)	glove
+glîf	glyph
+çûn, (ku-Arab'چوون), (ku-Arab'ڕۆیشتن)	go
+(ku-Arab'گؤڵ کردن)	goal
+بزن (bizin)	goat
+زێڕنگه‌ر (zéringer)	goldsmith
+(ku-Arab'ڕۆژ باش)	good afternoon
+rojbaş	good day
+êvarbaş 	good evening
+(ku-Arab'به‌یانیت باش), beyanî baş	good morning
+(ku-Arab'شه‌و باش)	good night
+qaz; قاز	goose
+nevî; torin	grandchild
+باپیر (bapír)	grandfather
+داپیر; داپیره‌ (f)	grandmother
+(ku-Arab'گیا) (g'ku)	grass
+(ku-Arab'مه‌منون)	grateful
+قه‌بر; گۆڕ	grave
+چه‌و (çew); زیخ (zix)	gravel
+(ku-Arab'قه‌برستان), (ku-Arab'گۆڕستان)	graveyard
+(ku-Arab'باشه‌), (ku-Arab'زۆر چاکه‌)	great
+(ku-Arab'چاو برسی)	greedy
+بیبه‌ر	green pepper
+gur; gurg	grey wolf
+(ku-Arab'داخ)	grief
+(ku-Arab'ناڵا)	groan
+زاوا	groom
+(ku-Arab'کۆمه‌ڵ)	group
+temîn'temîn kirin, misoger'misoger kirin, garantî'garantî kirin	guarantee
+(ku-Arab'پاڕێزگار)	guardian
+(ku-Arab'مه‌زه‌نده‌)	guess
+(ku-Arab'میوان)	guest
+(ku-Arab'نه‌خشه‌)	guideline
+ده‌مانچه‌	gun
+(ku-Arab'کابرا)	guy
+tehwî; tawî	hackberry
+hedîs (f)	hadith
+(ku-Arab'تووک)	hair
+(ku-Arab'شانه‌)	hairbrush
+hejduk	hajduk
+(ku-Arab'حه‌ڵاڵ)	halal
+نیو	half
+(ku-Arab'کوتین)	hammer
+dest; ده‌ست	hand
+که‌له‌پچه‌	handcuffs
+ده‌سه‌سڕ; ده‌سته‌سڕ	handkerchief
+(ku-Arab'ده‌سک)	handle
+(ku-Arab'قۆز)	handsome
+rojbûna te pîroz (be)!	happy birthday
+قایم	hard
+(ku-Arab'ئاسته‌م), (ku-Arab'جارجار)	hardly
+(ku-Arab'ئه‌رک)	hardship
+ئاهه‌نگ (aheng)	harmony
+(ku-Arab'په‌له‌)	haste
+که‌ڵاو (kelaw)	hat
+قین (qín)	hatred
+hebûn; heyîn	have
+پووش	hay
+ew ('both male and female')	he
+ser	head
+سه‌رێشه‌ (saraesha)	headache
+(ku-Arab'که‌له‌)	headbutt
+(ku-Arab'باره‌گا)	headquarters
+(ku-Arab'له‌چک)	headscarf
+bîstin, guh lê bûn, (ku-Arab'بیستن)	hear
+dil (m); qelb (m)	heart
+Mirina masûlkeyên dil, Myokardînfarkt	heart attack
+(ku-Arab'تیژ)	heat
+ئاسمان 	heaven
+ژیژۆک (jijok)	hedgehog
+zewqyarî (f); hedonîzm (f)	hedonism
+باڵا (bala)	height
+hêlyûm	helium
+جه‌هه‌نه‌م	hell
+hewar 	help
+beng (m)	henbane
+(ku-Arab'له‌مه‌ودوا)	henceforth
+تا ئێره‌ (ta ére)	here
+قاره‌مان	hero
+(ku-Arab'قاره‌مانی)	heroism
+(ku-Arab'دوودڵ بوون)	hesitate
+(ku-Arab'مێباز) (male), (ku-Arab'نێرباز) (female)	heterosexual
+به‌رز	high
+(ku-Arab'گرد)	hill
+(ku-Arab'مێژوونووس)	historian
+dîrokî	historic
+(ku-Arab'مێژوو)	history
+(ku-Arab'چاڵ)	hole
+جه‌ژن	holiday
+mal, (ku-Arab'ماڵ)	home
+ماڵپه‌ر (mallperr)	home page
+hevdeng; homofon	homophone
+homoseksûalîte	homosexuality
+(ku-Arab'ڕۆڵه‌)	honey
+(ku-Arab'مێشهه‌نگوین)	honey bee
+(ku-Arab'مێشهه‌نگوین)	honeybee
+(ku-Arab'ئابڕوو)	honor
+(ku-Arab'ئابڕوو)	honour
+sim (m)	hoof
+ئومێد (oméd); هیوا (hiwa)	hope
+(ku-Arab'نا ئومێد)	hopeless
+(ku-Arab'ئاسۆ)	horizon
+زه‌رده‌واڵه‌ (zerdewale)	hornet
+nal (f)	horseshoe
+نه‌خۆشخانه‌; خه‌سته‌خانه‌	hospital
+(ku-Arab'میوانداری)	hospitality
+تیژ	hot
+seet, 60 deqe	hour
+xanî (m); خانوو (m)	house
+کابان (kaban)	housewife
+(ku-Arab'چه‌ن)	how many
+بایی چه‌نه‌؟ (bayi çene?)	how much does it cost
+her wiha; dîsa jî; lê	however
+(ku-Arab'لوره‌لور)	howl
+(ku-Arab'هه‌را)	hubbub
+quretî (f); pozbilindî (f)	hubris
+(ku-Arab'باوه‌ش گرتن)	hug
+mirov; meriv; ئاده‌میزاد	human being
+sed; سه‌د	hundred
+(ku-Arab'برسی)	hunger
+ڕاو	hunt
+خێرا	hurry
+sumbul	hyacinth
+hîdrojen	hydrogen
+کمتیار (kemtyar)	hyena
+(ku-Arab'بزنه‌کێوی)	ibex
+(ku-Arab'به‌فر)	ice
+(ku-Arab'بیروڕا)	idea
+(ku-Arab'بیرو باوه‌ر)	ideology
+(ku-Arab'ئه‌گه‌ر)	if
+xwezî	if only
+نه‌زانی	ignorance
+نه‌زان 	ignorant
+qedexe; memnûh	illegal
+(ku-Arab'نه‌خوێنده‌واری)	illiteracy
+(ku-Arab'نه‌خوێنده‌وار)	illiterate
+(ku-Arab'نه‌خۆشی)	illness
+(ku-Arab'ڕۆشنایی)	illumination
+نه‌مر	immortal
+amûr, alet, alav, hacet, halet, (ku-Arab'ئاڵات)	implement
+(ku-Arab'گرنگی)	importance
+(ku-Arab'گرتنه‌ ئه‌ستۆ)	in charge
+(ku-Arab'به‌رامبه‌ر), (ku-Arab'به‌رده‌م)	in front of
+(ku-Arab'?? ???????)	in order
+باداوه‌ (badawe)	in vain
+(ku-Arab'نا‌توانین)	inability
+arandin, azirandin, cixirandin, sîqilandin, tehrîk kirin, lê sor kirin, teşwîq kirin, engizandin, belişandin, <br>pîj kirin, ajawe kirin, provoke kirin, han dan, fît kirin, xiroşme kirin, cilixandin	incite
+(ku-Arab'پشت گوێخستن)	indifferent
+(ku-Arab'به‌ناچاری)	inexorably
+کافر	infidel
+navbendik; navgir	infix
+ئاگادان (agadan); تێگه‌یاندن (tégeyandin)	inform
+ئاگادار (agadar)	informant
+(ku-Arab'برین)	injury
+(ku-Arab'مه‌ره‌که‌ب)	ink
+ناو	inside
+له‌ جیاتی 	instead of
+(ku-Arab'ده‌زگا)	institution
+însulîn	insulin
+زیره‌ک (zirek)	intelligent
+entres (f)	interest
+(ku-Arab'هه‌ڵدان)	interrupt
+(ku-Arab'داگیرکردن)	invasion
+(ku-Arab'نه‌به‌ز)	invincible
+بارنامه‌ (barname)	invoice
+ئاسن; asin; hesin	iron
+(ku-Arab'چه‌قه‌ڵ)	jackal
+چاکه‌ت	jacket
+cîhad (f)	jihad
+(ku-Arab'گالته‌ کردن)	joke
+(ku-Arab'نوکته‌باز)	joker
+jûdo	judo
+(ku-Arab'شه‌ربه‌ت) (g'ku)	juice
+باز	jump
+داد (dad)	justice
+تکه‌	kebab
+(ku-Arab'چاپه‌ز)	kettle
+kilîl (m); kilîd (m); mift (m); enextar (m); کلیل	key
+پیتلێده‌ر (pítléder)	keyboard
+(ku-Arab'ڕفاندن)	kidnap
+(ku-Arab'گورچیله‌)	kidney
+(ku-Arab'خزم)	kin
+(ku-Arab'جۆڕ)	kind
+şah (m)	king
+مه‌مله‌که‌ت	kingdom
+(ku-Arab'چۆک)	knee
+(ku-Arab'چه‌کبوون)	kneel
+چه‌قۆ	knife
+چنین	knit
+(ku-Arab'گرێدان)	knot
+zanîn	know
+زانیاری (zanyari)	knowledge
+(ku-Arab'کرێکار)	laborer
+(ku-Arab'په‌یژه‌)	ladder
+xalxalok (f)	ladybug
+گۆشتی به‌رخ (goshti berx)	lamb
+(ku-Arab'نیشتن)	landing
+(ku-Arab'مولکدار), (ku-Arab'خاوه‌ن مولک)	landlord
+کۆڵان (kolan)	lane
+ziman; زمان	language
+کۆش	lap
+گه‌وره (gewre); زل (zil)	large
+کڵاوکوره‌	lark
+(ku-Arab'درێژ کێشان)	last
+پار	last year
+derneg, gîro, texîr, (ku-Arab'دره‌نگ)	late
+(ku-Arab'دوایی)	later
+(ku-Arab'پێکه‌نین)	laugh
+(ku-Arab'چیمه‌ن)	lawn
+پارێزه‌ر	lawyer
+قورقوشم	lead
+(ku-Arab'سه‌رۆک)	leader
+(ku-Arab'گه‌ڵا)	leaf
+(ku-Arab'پاڵدانه‌وه‌)	lean
+(ku-Arab'فێر بوون)	learn
+(ku-Arab'به‌جێی بێڵه‌)	leave
+ماوه‌	left
+لاق	leg
+ده‌رس	lesson
+(ku-Arab'درۆزن)	liar
+qepax (f)	lid
+(ku-Arab'درۆ کردن), (ku-Arab'درۆ گوتن)	lie
+jiyan (f), (ku-Arab'ژیان)	life
+(ku-Arab'سووک)	light
+saletîrêj	light year
+چه‌رخ	lighter
+fanûsgeh	lighthouse
+بروسکه‌ (bruske); تریشقه‌ (trishqe)	lightning
+geş; ron; zelal	limpid
+zimannasî	linguistics
+شێر	lion
+lêv (f); لێو	lip
+(ku-Arab'گوێگر)	listener
+lîtyûm	lithium
+(ku-Arab'لتر)	litre
+zindî	live
+(ku-Arab'جه‌رگ)	liver
+(ku-Arab'مارمێلکه‌)	lizard
+بار به‌ستین (bar bestin)	load
+lokomotîv (f)	locomotive
+(ku-Arab'کوله‌)	locust
+ته‌نها (tenha); بێکه‌س (békes)	lonely
+dirêj 	long
+(ku-Arab'سه‌یرکردن), (ku-Arab'ته‌مه‌شاکردن)	look
+(ku-Arab'چاو لێبوون), (ku-Arab'ئاگالێبوون)	look after
+شل	loose
+(ku-Arab'دۆڕاندن)	lose
+(ku-Arab'هایبه‌خت)	lottery
+nizm, (ku-Arab'نزم)	low
+شلتێن (shiltén)	lukewarm
+(ku-Arab'نان خواردنی نیوه‌ڕۆ)	lunch
+(ku-Arab'عوود) (g'ku)	lute
+(ku-Arab'توره‌), (ku-Arab'تۆراو), (ku-Arab'عادز)	mad
+magnezyûm	magnesium
+(ku-Arab'مه‌قناتیس)	magnet
+(ku-Arab'گه‌نمه‌شامی)	maize
+mêş kirin gamêş 	make a mountain out of a molehill
+(ku-Arab'گالته‌پێکردن), (ku-Arab'رابواردن)	make fun of
+(ku-Arab'له‌رزوتا)	malaria
+bedniyetî (f), belakirrî (f)	malevolence
+dagirtin; dagir kirin	man
+(ku-Arab'به‌رێوبردن)	manage
+(ku-Arab'پیاوه‌تی)	manliness
+(ku-Arab'پیاوانه‌)	manly
+gelek, (ku-Arab'گه‌لێک), (ku-Arab'زۆر)	many
+زۆر سوپاس (zor sopas)	many thanks
+tebel (f), xar (f), (ku-Arab'هه‌ڵمات)	marble
+bazar; بازار	market
+(ku-Arab'داخوازی)	marry
+زه‌لکاو (zelkaw)	marsh
+gemirandin (f); perixandin (f); mistdan (f); masaj (f)	massage
+destperkî (f)	masturbation
+(ku-Arab'مادی)	materialistic
+(ku-Arab'باپیر)	maternal grandfather
+(ku-Arab'داپیر), (ku-Arab'داپیره‌) (f)	maternal grandmother
+matematîk (f), jimarnasî (f), bîrkarî (f), jimêryarî (f), hesab (f)	mathematics
+doşek (f), mitêl (f), binrax (f), (ku-Arab'دۆشه‌گ)	mattress
+(ku-Arab'ڕه‌نگه‌), (ku-Arab'له‌وانه‌یه‌)	maybe
+منیش (mineesh)	me too
+(ku-Arab'ناهه‌موار)	mean
+(ku-Arab'پێواندن)	measure
+tib (f)	medicine
+کۆبونه‌وه‌	meeting
+ئاواز	melody
+gundor (m), petêx (m), xerûze (m), qomî (m), qire (m), qawin (m), (ku-Arab'کاڵه‌گ)	melon
+ئه‌ندام	member
+ji ber kirin, ezber kirin, (ku-Arab'له‌به‌رکردن)	memorize
+(ku-Arab'ناوهێنان)	mention
+بازرگان (bazirgan)	merchant
+(ku-Arab'نامه‌)	message
+(ku-Arab'مه‌تر)	meter
+میکرۆب	microbe
+میکرۆفۆن	microphone
+(ku-Arab'ناوه‌ند), (ku-Arab'ناوه‌ڕاست)	middle
+(ku-Arab'نیوه‌شه‌و)	midnight
+doşîn; dotin; دۆشین	milk
+(ku-Arab'ئاش)	mill
+(ku-Arab'ئاشه‌وان)	miller
+milyar	milliard
+هه‌زارپێ	millipede
+kurtedehmen, kurtedang, kurtedawên, kurtedaw, kurtetenore	miniskirt
+qeşe (m)	minister
+(ku-Arab'ئاوێنه‌)	mirror
+له‌ بار چوون (le bar çun)	miscarriage
+ziyander, zererder	mischievous
+(ku-Arab'لێقه‌ومان)	misfortune
+(ku-Arab'له‌ده‌سچون)	miss
+تۆپ	missile
+(ku-Arab'غه‌له‌ت کردن)	mistake
+(ku-Arab'تێکه‌ڵ بکه‌)	mix
+(ku-Arab'تێکه‌ڵاو)	mixed
+axîn (f); oxîn (f); ofîn (f)	moan
+telefona destan (f); telefona berîkê (f); telefona bêtêl (f); telefona mobîl (f)	mobile phone
+mode (f); trend (f)	mode
+koremişk	mole
+xilwet (f); peristgeh (f); pîrozgeh (f)	monastery
+پاره‌	money
+(ku-Arab'مه‌یمون) (g'ku)	monkey
+دێو	monster
+(ku-Arab'مانگانه‌)	monthly
+heyv; hîv	moon
+ئه‌خلاق (exlaq)	moral
+(ku-Arab'به‌یانی)	morning
+(ku-Arab'مێشوله‌)	mosquito
+زۆربه‌ (zorbe)	most
+dayik (f); دایک	mother
+(ku-Arab'دایکی)	motherhood
+(ku-Arab'شاخ), (ku-Arab'چیا), (ku-Arab'کێو)	mountain
+mişk (m)	mouse
+dev (m)	mouth
+جولاندن (culandin)	move
+(ku-Arab'جوولانه‌وه‌), (ku-Arab'بزووتنه‌وه‌), (ku-Arab'حه‌ره‌که‌ت)	movement
+(ku-Arab'قڕ)	mud
+tû (f), dartû (f)	mulberry
+(ku-Arab'مه‌لا)	mullah
+(ku-Arab'کوشت)	murder
+عه‌نتیکه‌ خانه‌; مووزه‌خانه‌	museum
+(ku-Arab'قارچک)	mushroom
+mit; kirr; bêdeng; bêpêjn	mute
+ناوم ... ه‌ (nawim ... e)	my name is
+(ku-Arab'مۆرت)	myrtle
+بزمار (bizmar)	nail
+mûçinkê nînokan	nail clipper
+ناو	name
+(ku-Arab'نێرگز)	narcissus
+(ku-Arab'نه‌ته‌وه‌یێتی), (ku-Arab'نیشتیمانی)	national
+neteweperwerî, welatperwerî, niştimanperwerî, welatparêzî, neteweparêzî, nasyonalîzm, neteweperistî, (ku-Arab'نه‌ته‌وه‌یی), (ku-Arab'وڵات پارێزی)	nationalism
+sirişt, xweza, xwerist, tebîet, natûr	nature
+(ku-Arab'ناڕه‌حه‌ت)	naughty
+(ku-Arab'هێلنج)	nausea
+navik (f)	navel
+(ku-Arab'نزیک)	near
+(ku-Arab'رێکوپێک)	neat
+پێویست	necessary
+(ku-Arab'پێویست)	necessity
+(ku-Arab'مل)	neck
+(ku-Arab'ملوانکه‌)	necklace
+بۆینباغ	necktie
+ده‌رزی	needle
+mizakere (f), danûstandin (f), guftûgo (f), gotûbêj (f), nîqaş (f), dêwan (f)	negotiation
+neon	neon
+(ku-Arab'هێلانه‌)	nest
+(ku-Arab'داو)	net
+(ku-Arab'ده‌نگوباس)	news
+rojname (f); nûçename (f); ڕۆژنامه‌	newspaper
+bilbil (m)	nightingale
+(ku-Arab'هیچ)	nil
+(ku-Arab'نۆزده‌)	nineteen
+(ku-Arab'نۆزده‌یه‌م)	nineteenth
+not, nod, nehwed, (ku-Arab'نه‌وه‌ت)	ninety
+(ku-Arab'نۆیه‌م)	ninth
+sermemik (m), serçiçik (m)	nipple
+nîtrojen	nitrogen
+na; ne	no
+(ku-Arab'بێ گومان)	no doubt
+موشکله‌ نیه‌ (mushkile niye)	no problem
+(ku-Arab'ده‌نگه‌ده‌گ)	noise
+(ku-Arab'قسه‌ی هیچوپوچ)	nonsense
+(ku-Arab'نیوه‌ڕۆ)	noon
+bakur, (ku-Arab'باکور)	north
+باکوری (bakuri)	northern
+(ku-Arab'لووت)	nose
+(ku-Arab'کونه‌لووت)	nostril
+نه‌ک	not
+نه‌خێر	not at all
+ده‌فته‌ر	notebook
+(ku-Arab'هیچ)	nothing
+(ku-Arab'مه‌فهوم)	notion
+ناو	noun
+ڕوت ('rrut')	nude
+نایلۆن	nylon
+(ku-Arab'به‌ڕوو)	oak tree
+dijûn (f); xeber (f); sixêf (f)	oath
+guhdarî	obedience
+oblast	oblast
+(ku-Arab'ده‌سکه‌وتن)	obtain
+جاربه‌جار; جاروبار	occasionally
+dagirî (f), dagirkerî (f), (ku-Arab'داگیری)	occupation
+(ku-Arab'ڕێکه‌وتن), (ku-Arab'ڕوودان)	occur
+دایره‌	office
+ئه‌فسه‌ر (efser)	officer
+گه‌لێ جار (gelé car); (zor car)باره‌ها (bareha)	often
+(ku-Arab'چه‌ورکردن)	oil
+بامێ (bamé); بامیه (bamye)	okra
+(ya/yê) berê, (ku-Arab'پێشو)	old
+pîremêr 	old man
+پیره‌ژن (pirejin); پیرێژن (poiréjin)	old woman
+darzeytûn (f), zeytûn (f)	olive
+(ku-Arab'یه‌ک)	one
+پیاز	onion
+کردنه‌وه‌	open
+sîstema şixulandinê	operating system
+چه‌وساندنه‌وه (çewsandinewe); زۆرداری (zordari)	oppression
+devkî	oral
+pirteqalî	orange
+(ku-Arab'ڕێکخراو)	organization
+orgazm	orgasm
+له‌ کاتی خۆییدا	originally
+هه‌تیو	orphan
+ئه‌گینا (egina)	otherwise
+firrne (f); ocax (f); tenûr (f); tebax (f)	oven
+(ku-Arab'ئه‌و به‌ر), (ku-Arab'ئه‌ولا)	over
+(ku-Arab'دوو سبه‌ی)	overmorrow
+kund; bu; pû; pepûk	owl
+oksîjen	oxygen
+(ku-Arab'لاپه‌ره‌), (ku-Arab'په‌ڕ)	page
+ده‌رد	pain
+boyax (f), boya (f), reng (m), (ku-Arab'بۆیه‌), (ku-Arab'ره‌نگ)	paint
+(ku-Arab'جووت)	pair
+pankreas	pancreas
+(ku-Arab'پانتۆڵ)	pants
+perr (m); kaxez (f); کاغه‌ز; قاقه‌ز	paper
+(ku-Arab'په‌ڕاشوت)	parachute
+هیچوپووچ	parasite
+په‌رله‌مان (perleman)	parliament
+به‌ش	part
+beşdar; pişkdar; tevlîbûyî	participant
+(ku-Arab'به‌شداری)	participation
+(ku-Arab'هاوبه‌ش)	partner
+kew (m); mêkew (f); nêrekew (m); çêlekew (m); که‌و	partridge
+پاشا (pāšā)	pasha
+(ku-Arab'مردن), (ku-Arab'عمری خوا)	pass
+باپیر	paternal grandfather
+(ku-Arab'نه‌نه‌) (f)	paternal grandmother
+(ku-Arab'ڕێ)	path
+ئارام; قنیات (qinyat)	patience
+(ku-Arab'نیشتیمان په‌روه‌ر)	patriot
+(ku-Arab'به‌ردڕێز)	pavement
+aştî (f)	peace
+xox (f); şeftalî	peach
+(ku-Arab'دار هه‌رمێ)	pear
+(ku-Arab'مرواری)	pearl
+زیخ (zix)	pebble
+پاک کردن	peel
+(ku-Arab'نووسین)	pen
+(ku-Arab'پێنووس)	pencil
+بیبه‌ر	pepper
+perestroyka (f)	perestroika
+bêkêmasîtî	perfection
+(ku-Arab'به‌ڵکوو), (ku-Arab'به‌شکوم), (ku-Arab'به‌شکوو), (ku-Arab'ڕه‌نگه‌)	perhaps
+(ku-Arab'ده‌م)	period
+(ku-Arab'ماوه‌دان)	permit
+(ku-Arab'چه‌وساندنه‌وه‌)	persecution
+(ku-Arab'به‌رده‌وام بوون)	persistent
+(ku-Arab'که‌سێک)	person
+ده‌رمانخانه‌	pharmacy
+پزشک	physician
+(ku-Arab'فیزیا)	physics
+pî (f)	pi
+(ku-Arab'سه‌یران)	picnic
+پارچه‌	piece
+(ku-Arab'به‌راز) (g'ku)	pig
+(ku-Arab'کۆتر)	pigeon
+kudik, berazok, xinzîrk	piglet
+(ku-Arab'پڵاو)	pilaf
+(ku-Arab'حه‌ب)	pill
+(ku-Arab'ده‌مبوس)	pin
+(ku-Arab'نوقورچ), (ku-Arab'قونجورکه‌)	pinch
+kac; darûk	pine
+(ku-Arab'ئاڵ), (ku-Arab'په‌مه‌یی)	pink
+(ku-Arab'په‌رستش)	pious
+mîz	piss
+(ku-Arab'پسته‌)	pistachio
+(ku-Arab'دانان)	place
+nebat; nebat	plant
+قاپ	plate
+بان	plateau
+yarî (f); lîstik (f)	play
+پێخۆشـحاڵ بوم به‌ ناسینت (péxoshhal bum be nasínit)	pleased to meet you
+(ku-Arab'کێڵان)	plough
+پڕژمار (pirrjimar)	plural
+گیرفان	pocket
+(ku-Arab'بوێژ)	poet
+(ku-Arab'نووک)	point
+nîşanderk (f)	pointer
+jehr kirin; jehr dan	poison
+pirgoşe	polygon
+darhinar (f), hinar (f)	pomegranate
+(ku-Arab'گۆم)	pond
+(ku-Arab'گوو کردن), (ku-Arab'ده‌س به‌ئاوگه‌یاندن)	poo
+(ku-Arab'گوو کردن)	poop
+خه‌راپ; بێ قیمه‌ت	poor
+(ku-Arab'چنار)	poplar
+گوڵاڵه‌ سووره‌	poppy
+به‌ش	portion
+شێوه‌	position
+(ku-Arab'پۆسته‌)	post office
+(ku-Arab'پوول)	postage stamp
+postmodernîzm	postmodernism
+قازان; مه‌نجه‌ڵ	pot
+sterlîn	pound sterling
+هه‌ژاری	poverty
+کاره‌با (kareba)	power
+(ku-Arab'کار به‌ده‌ست), (ku-Arab'به‌هێز)	powerful
+pesinandin, pesn dan, meth kirin	praise
+(ku-Arab'نوێژ), nivêj (f)	prayer
+دوو گیان (du gyan); جووت گیان (cut gyan); زگ (zig); باردار (bardar)	pregnant
+daçek (f)	preposition
+(ku-Arab'سه‌رۆک)	president
+(ku-Arab'پێشو), (ku-Arab'ڕابردو)	previous
+(ku-Arab'له‌مه‌وبه‌ر)	previously
+(ku-Arab'نرخ)	price
+میر	prince
+(ku-Arab'بیرو باوه‌ر)	principle
+(ku-Arab'ده‌رهێنان)	produce
+(ku-Arab'به‌رهه‌م)	production
+pîşe; meslek; mihne; hokar; kariyer; profesyon	profession
+(ku-Arab'قازانج)	profit
+پرۆگرام (program); به‌رنامه‌ (bername)	program
+(ku-Arab'قه‌ده‌غه‌)	prohibited
+(ku-Arab'پرۆژه‌)	project
+(ku-Arab'به‌ڵێندان)	promise
+(ku-Arab'گۆ کردن)	pronunciation
+پڕۆپه‌گانده‌	propaganda
+په‌سه‌ند	proper
+پێغه‌مبه‌ر; resûl; nebî; pêxember	prophet
+(ku-Arab'پێشنیار), (ku-Arab'پێشنیاز)	proposal
+(ku-Arab'داوای ده‌س کردن)	propose
+(ku-Arab'ئاسووده‌یی), (ku-Arab'به‌ختیاری), (ku-Arab'کامه‌رانی)	prosperity
+parastin 	protect
+parastin, sitirandin, sitar (f), pena (f), (ku-Arab'پاڕێزگاری), (ku-Arab'پاراستن)	protection
+(ku-Arab'حافیز), (ku-Arab'پاڕێزگار)	protector
+parêzgeh (f); wîlayet (f); eyalet (f); mihafize (f)	province
+(ku-Arab'چاپکردن)	publish
+(ku-Arab'ڕاکێشه‌)	pull
+ڕه‌سه‌ن (resen)	pure
+مۆر	purple
+nêm	pus
+(ku-Arab'پاڵ)	push
+pîton	python
+(ku-Arab'چۆنیی), (ku-Arab'چۆنێتیی)	quality
+(ku-Arab'بیستوپێنج سه‌نت)	quarter
+(ku-Arab'پرسیار)	question
+(ku-Arab'گورج)	quick
+(ku-Arab'به‌هه‌ڵه‌داوان), (ku-Arab'به‌ په‌له‌وه‌), (ku-Arab'به‌گورجی)	quickly
+(ku-Arab'وسکت)	quiet
+(ku-Arab'لێفه‌)	quilt
+(ku-Arab'نه‌ته‌وه‌)	race
+(ku-Arab'ڕادیۆ)	radio
+باران (baran)	rain
+keskesor (f); keskûala (f); qozeqer (f); bûka baranê (f)	rainbow
+مێوژ	raisin
+به‌ران	ram
+(ku-Arab'به‌خێرایی)	rapidly
+(ku-Arab'نایاب)	rare
+(ku-Arab'داڵ)	raven
+ئاماده‌	ready
+(ku-Arab'پێگه‌یشتن), (ku-Arab'په‌روه‌رده‌ کردن)	rear
+هۆ	reason
+(ku-Arab'له‌م چه‌ندانه‌دا)	recently
+(ku-Arab'پێشواز)	reception
+(ku-Arab'چاکبوونه‌وه‌)	recovery
+sor, al, (ku-Arab'سوور)	red
+(ku-Arab'ڕژێم)	regime
+(ku-Arab'ناوچه‌)	region
+(ku-Arab'فه‌رمان ڕه‌وایه‌تی)	reign
+(ku-Arab'په‌یوه‌ندی)	relation
+(ku-Arab'خزم)	relative
+rêjeyîtî (f), îzafiyet (f), realtîvîte (f), roletîvîzm (f), dîmanetî (f), dîmaneyîparêzî (f)	relativity
+(ku-Arab'به‌ردان)	release
+چار	relief
+دینی	religious
+(ku-Arab'مایه‌وه‌)	remain
+چاره‌سه‌ر	remedy
+(ku-Arab'بیرخستن)	remind
+(ku-Arab'جولاندن), (ku-Arab'لابردن)	remove
+(ku-Arab'کرێ گرتن)	rent
+(ku-Arab'چاککردنه‌وه‌)	repair
+(ku-Arab'نوێنه‌ر)	representative
+(ku-Arab'جمهوریه‌ت)	republic
+(ku-Arab'داوا کردن)	request
+(ku-Arab'ناڕه‌زایی)	resentment
+(ku-Arab'دانیشتن)	reside
+îqame (f)	residence permit
+(ku-Arab'ئه‌هل), (ku-Arab'خه‌لک), (ku-Arab'دانشتوان)	resident
+(ku-Arab'ڕێز گرتن)	respect
+hanasa	respiration
+وه‌ڵام (welam)	response
+بارکێشان (barkéshan)	responsibility
+karkenar; emekdar; malnişîn; xanenişîn; gandanket; teqawid	retiree
+(ku-Arab'گه‌ڕانه‌وه‌)	return
+یه‌کگرتنه‌وه‌ (yekgirtinewe)	reunification
+(ku-Arab'رێواس)	rhubarb
+(ku-Arab'چه‌و)	rib
+برنج	rice
+(ku-Arab'ئه‌نگوستیله‌), (ku-Arab'ئه‌موستیله‌)	ring
+(ku-Arab'ئاو تێوه‌ردان)	rinse
+گه‌ییو (geyíw)	ripe
+هه‌ڵسان	rise
+talanker, şelîner, keleş, rêbirr, korsan, eşqiya, heydûd, nijdevan, çete, rêgir	robber
+ûnûnûnyûm	roentgenium
+ده‌ور; dewr (f)	role
+با دان (ba dan)	roll
+(ku-Arab'بان), (ku-Arab'سه‌ربان)	roof
+ژوور (jur)	room
+(ku-Arab'که‌ڵه‌شێر)	rooster
+reh (m); rîş (m); kok (f); qurm (m); ڕه‌گ	root
+(ku-Arab'چه‌رخاندن), (ku-Arab'سوراندن)	rotate
+(ku-Arab'دڕ)	rough
+(ku-Arab'ڕیز)	row
+(ku-Arab'ڕاکردن)	run
+ژه‌نگ هه‌ڵهێنان (jeng helhénan)	rust
+açar; şilêl; çewder; tarîgan; baçîk; çexdar	rye
+(ku-Arab'له‌خۆبوردن), (ku-Arab'فیداکاری), (ku-Arab'پێناوکردن)	sacrifice
+meaş (m); miz (m); muçe (m); mehane (f); مه‌عاش	salary
+mezat (f)	sale
+(ku-Arab'لیک)	saliva
+tif kirin	salivate
+(ku-Arab'سوێر), (ku-Arab'خوێواو)	salt
+(ku-Arab'خوێدان)	salt shaker
+سماوه‌ر	samovar
+خۆڵ	sand
+pend (f), gotinên pêşiyan'gotina pêşiyan (f)	saw
+terazî (f)	scale
+terazî (f)	scales
+(ku-Arab'مل به‌ست)	scarf
+ئاڵ (al)	scarlet
+(ku-Arab'زانستی)	science
+مه‌قه‌س	scissors
+(ku-Arab'دوپشک) (g'ku)	scorpion
+قیژه	scream
+(ku-Arab'برغی)	screw
+(ku-Arab'ده‌ریا)	sea
+وه‌رز	season
+ئاسایش	security
+(ku-Arab'دیاره‌), (ku-Arab'وا دیاره‌)	seem
+(ku-Arab'به‌ده‌گمان)	seldom
+(ku-Arab'هه‌ڵبژاردن)	select
+خۆپه‌سه‌ندی (xo pesendí)	selfishness
+firotin, firoştin	sell
+تۆو; تۆماو; تۆم; sperma	semen
+şandin; hinartin	send
+hevok (f)	sentence
+Khzmet dekat	serve
+کونجی	sesame
+(ku-Arab'سووتاندن), (ku-Arab'ئاگرکردن)	set on fire
+(ku-Arab'دامه‌زراندن)	set up
+(ku-Arab'نیشتگه‌)	settlement
+heft, (ku-Arab'حه‌وت)	seven
+(ku-Arab'حه‌ڤده‌)	seventeen
+(ku-Arab'په‌ڕاندن)	sever
+(ku-Arab'دوورین)	sew
+zayend; cins; cinsiyet	sex
+guhnelî; perîn; têkiliyên zayendî; gan 	sexual intercourse
+şampo (f); شامپۆ	shampoo
+dêlegur (f)	she
+mî (ewe), mih (ewe), beran (ram), pez (both), berx (little), berindir (young), beyindir (young), (ku-Arab'مه‌ڕ)	sheep
+(ku-Arab'بریقه‌)	shine
+(ku-Arab'پاپۆڕ)	ship
+(ku-Arab'کراس)	shirt
+gû	shit
+(ku-Arab'له‌رزین)	shiver
+pêlav (f)	shoe
+دوکان	shop
+(ku-Arab'په‌نجه‌ره‌)	shop window
+(ku-Arab'دوکان دار)	shopkeeper
+(ku-Arab'کورته‌ چیرۆک)	short story
+(ku-Arab'خاکه‌ناز), (ku-Arab'بێڵ)	shovel
+(ku-Arab'پیشانگا)	show
+kefen	shroud
+" (ku-Arab'شه‌رم)	shyness
+(ku-Arab'نه‌خۆش)	sick
+(ku-Arab'نه‌خۆشی)	sickness
+ئاخ هه‌ڵکێشان (ax helkéshan)	sigh
+(ku-Arab'نیشانه‌)	sign
+(ku-Arab'بێده‌نگ)	silence
+sîlîsyûm	silicon
+(ku-Arab'ئاوریشم)	silk
+(ku-Arab'دڵ پاک)	sincere
+(ku-Arab'گۆرانی وتن)	sing
+(ku-Arab'گۆرانی بێژ)	singer
+قوم	sip
+(ku-Arab'کاک)	sir
+(ku-Arab'خوشک)	sister
+şeş, (ku-Arab'شه‌ش)	six
+(ku-Arab'شه‌ست)	sixty
+kakût	skeleton
+چه‌رم	skin
+کاپۆڵ (kapol)	skull
+(ku-Arab'ئاسمان)	sky
+balexane (f)	skyscraper
+(ku-Arab'زله‌ لێدان), (ku-Arab'چه‌پۆک لێدان)	slap
+(ku-Arab'به‌نده‌گی)	slavery
+xew (f), (ku-Arab'خه‌و), (ku-Arab'نوستن)	sleep
+(ku-Arab'قاش)	slice
+(ku-Arab'خلیسک)	slippery
+له‌سه‌ر خۆ	slowly
+(ku-Arab'بچووک)	small
+زیره‌ک	smart
+بۆنکردن	smell
+bişirîn; girrnijîn; bişkurrîn 	smile
+(ku-Arab'دوکه‌ڵ کردن)	smoke
+(ku-Arab'لووس)	smooth
+mar; مار	snake
+داو	snare
+به‌فر	snow
+(ku-Arab'کۆمه‌ڵایه‌تی)	society
+(ku-Arab'گۆره‌وی)	sock
+natrîyûm	sodium
+qenepe	sofa
+(ku-Arab'نه‌رم), (ku-Arab'هێمن)	soft
+باڵباز (balbaz)	soldier
+çare (f); hel (f); havil (f); çareserî (f)	solution
+(ku-Arab'نه‌ختێک), (ku-Arab'که‌مێک)	somewhat
+stiran (f); گۆرانی	song
+(ku-Arab'له‌م نزیکه‌)	soon
+خوشکه‌زا (xoshkazá)	sororal nephew
+خوشکه‌زا (xoshkazá)	sororal niece
+په‌شیمان	sorry
+تورش (tursh)	sour
+başûr, (ku-Arab'باشور)	south
+(ku-Arab'فه‌رمان ڕه‌وایی)	sovereignty
+mekok	space shuttle
+(ku-Arab'فراوان)	spacious
+merr (f); mer (f)	spade
+(ku-Arab'چه‌خماخه‌), (ku-Arab'پڕشنگ)	spark
+چۆله‌که‌; پاساری; beytik	sparrow
+(ku-Arab'که‌وچک)	spoon
+(ku-Arab'قاچ کردنه‌وه‌‌)	spread
+kanî, (ku-Arab'کانی) (g'ku)	spring
+sîxur; casûs; diznêr; xefnêr; şofar; spiyon	spy
+(ku-Arab'کودی)	squash
+(ku-Arab'سیمۆره‌)	squirrel
+qonax (f), merhele (f), gihanek (f), gihînek (f), faz (f), qedem (f), gav (f), (ku-Arab'قۆناغ)	stage
+(ku-Arab'په‌ڵه‌)	stain
+bistîk (f)	stalk
+stêr (m)	star
+(ku-Arab'ده‌سپێکردن)	start
+(ku-Arab'ئێستگه‌)	station
+peykel (m); heykel (m); senem (m); pût (m); kelwaş (m)	statue
+(ku-Arab'دزین)	steal
+(ku-Arab'لێژ)	steep
+زڕبرا (zir bira)	stepbrother
+زڕخوشک (zir xushk)	stepsister
+(ku-Arab'شله‌)	stew
+(ku-Arab'گێڕ)	stick
+(ku-Arab'هێشتا)	still
+(ku-Arab'پێوه‌دان)	sting
+(ku-Arab'دوورین)	stitch
+berik; kabik	stone
+(ku-Arab'ڕاوه‌سته‌), (ku-Arab'چاوه‌ڕێکه‌)	stop
+(ku-Arab'له‌قله‌ق), (ku-Arab'حاجی له‌قله‌ق)	stork
+(ku-Arab'چیرۆک)	story
+(ku-Arab'ڕێک)	straight
+ساکار (sakar)	straightforward
+کا	straw
+(ku-Arab'هێز)	strength
+(ku-Arab'به‌ند), (ku-Arab'په‌ت), (ku-Arab'ده‌زو)	string
+(ku-Arab'تێکۆشان)	strive
+گه‌ڕان	stroll
+(ku-Arab'به‌قوه‌ت)	strong
+(ku-Arab'بنکه‌)	stronghold
+(ku-Arab'که‌له‌ ڕه‌ق)	stubborn
+(ku-Arab'گه‌وج), (ku-Arab'بێ عه‌قڵ)	stupid
+بابه‌ت (babet)	subject
+ژێرده‌سته‌ (jérdeste)	subordinate
+ئابوونه‌ (abúne)	subscription
+mêjîn, mêtin, (ku-Arab'مژین)	suck
+له‌پڕ	suddenly
+(ku-Arab'جانتا)	suitcase
+(ku-Arab'ڕۆژ ئاوا)	sunset
+چاودێر (çawdér)	supervisor
+emeliyatker, kîrûrg, operator, cerah, birînsaz	surgeon
+dizîkî, nehînî, razberî	surreptitious
+bi dizîkî, bi nehînî, bi razberî	surreptitiously
+pejirandin; daqurtandin; daûrandin; dabilandin	swallow
+qû, qazquling	swan
+sixêf; dijûn; dijmîn; xeber; çêrr; zêf; zêv; mirqî; kufrî	swear word
+(ku-Arab'ئاره‌ق)	sweat
+destxweş	sweet
+(ku-Arab'مه‌له‌وانی)	swimming
+(ku-Arab'جۆلانه‌)	swing
+mase (f); mêze (f); مێز (méz)	table
+(ku-Arab'خه‌ت)	tail
+(ku-Arab'داکه‌نه‌)	take off
+(ku-Arab'گرتنه‌ده‌س)	take over
+(ku-Arab'چیرۆک)	tale
+(ku-Arab'دواندن), (ku-Arab'قسه‌)	talk
+(ku-Arab'زمان پاراو)	talkative
+qîr (f); qetran (f)	tar
+نیشان	target
+deq (f)	tattoo
+باج (bac)	tax
+(ku-Arab'پیاڵه‌یه‌کی چای)	tea
+مامۆستا	teacher
+(ku-Arab'چایخانه‌)	teahouse
+(ku-Arab'چاپه‌ز)	teapot
+(ku-Arab'دڕین)	tear
+(ku-Arab'گێڕان)	tell
+deh, (ku-Arab'ده‌)	ten
+چادر	tent
+شلتێن (shiltén)	tepid
+(ku-Arab'تاقیکردنه‌وه‌)	test
+gun (m); hêlik (m); گون	testicle
+testosteron	testosterone
+spas, (ku-Arab'سوپاس)	thank you
+زۆر سوپاس (zor sopas); زۆر مه‌منوون (sor mamnun)	thank you very much
+مه‌منون	thankful
+li mil'milê din, li alî dî	then
+îlahiyet (f)	theology
+germasipêr	thermosphere
+(ku-Arab'ئه‌مانه‌)	these
+ew	they
+سه‌خت	thick
+diz; دز	thief
+(ku-Arab'ڕان)	thigh
+hesibandin, (ku-Arab'به‌مه‌زه‌نده‌ی)	think
+sêzde	thirteen
+سی	thirty
+ئه‌مه (eme); ئه‌م (em)	this
+dîsa jî; her wiha	though
+hezar, hizar, (ku-Arab'هه‌زار)	thousand
+په‌ت	thread
+هه‌ڕه‌شه‌	threat
+(ku-Arab'سێ) (sê)	three
+قورگ (qurg); گه‌روو (gerú); گه‌لوو (gelú)	throat
+text (m)	throne
+(ku-Arab'هاوێشتن)	throw
+(ku-Arab'فڕێدان)	throw away
+(ku-Arab'بۆیه‌), (ku-Arab'چونکه‌)	thus
+(ku-Arab'پاک و ته‌میز)	tidy
+(ku-Arab'به‌ندکردن), (ku-Arab'به‌ستین)	tie
+پڵنگ	tiger
+karîte (m)	timber
+(ku-Arab'وه‌خت گرتن)	time
+نووک (núk)	tip
+(ku-Arab'هیلاک), (ku-Arab'ماندو)	tired
+(ku-Arab'ماندوێتی)	tiredness
+مه‌مک (memk)	tit
+(ku-Arab'ئه‌مرۆ)	today
+په‌نجه‌	toe
+ئاوده‌ست	toilet
+(ku-Arab'سبه‌ینێ)	tomorrow
+زمان (zman)	tongue
+ئاڵوو (alu)	tonsil
+bablîsok	tornado
+(ku-Arab'ده‌ست لێدان)	touch
+sc=ku-Arab	tournament
+bajarok	town
+پیشه‌	trait
+(ku-Arab'هه‌ڵگه‌ڕان)	transform
+(ku-Arab'وه‌رگێڕ)	translation
+qurm	tree trunk
+(ku-Arab'له‌رزین)	tremble
+سێگۆشه‌	triangle
+(ku-Arab'هه‌ڵخه‌ڵه‌تاندن), (ku-Arab'فێڵ کردن)	trick
+(ku-Arab'پانتۆڵ)	trousers
+kiyarik, (ku-Arab'دۆمه‌ڵان)	truffle
+qurm	trunk
+(ku-Arab'هه‌وڵ)	try
+tsunamî (f)	tsunami
+(ku-Arab'بووقه‌له‌موون), (ku-Arab'قه‌ل)	turkey
+(ku-Arab'سوڕانه‌وه‌), (ku-Arab'خولانه‌وه‌)	turn
+qumrî (f)	turtle dove
+bîst, (ku-Arab'بیست)	twenty
+(ku-Arab'دووجار)	twice
+ئاڵاندن (alandin)	twist
+du; دو	two
+(ku-Arab'جۆر), (ku-Arab'نه‌وع)	type
+گوان (guwan)	udder
+(ku-Arab'ناشرینی)	ugliness
+(ku-Arab'ناشرین)	ugly
+که‌پر	umbrella
+(ku-Arab'ده‌رپێ)	underpants
+gorrker, binaxker, definker	undertaker
+(ku-Arab'ده‌رپێ)	underwear
+(ku-Arab'بێکار)	unemployed
+بێ ئیشی; بێکاری	unemployment
+(ku-Arab'نه‌گبه‌ت)	unfortunate
+(ku-Arab'به‌داخه‌وه‌)	unfortunately
+یه‌کگرتن (yekgirtin)	unification
+zanko (f), zanîngeh (f), (ku-Arab'زانکۆ), (ku-Arab'دانیشتگا)	university
+(ku-Arab'نه‌ناسراو)	unknown
+(ku-Arab'مه‌گه‌ر)	unless
+(ku-Arab'ناخۆش)	unpleasant
+ûnûnbiyûm	ununbium
+ûnûnheksiyûm	ununhexium
+ûnûnkûadyûm	ununquadium
+به‌رز	up
+sernişîv; serberjêr; nixûm	upside down
+یورانیۆم (yuranuom)	uranium
+(ku-Arab'شارستانی)	urban
+pêşborî	urethra
+lezgîn (l)	urgent
+(ku-Arab'میزه‌ڵدان)	urinary bladder
+mîstin; mîz kirin	urinate
+میز	urine
+(ku-Arab'ئێمه‌)	us
+(ku-Arab'که‌ڵک)	use
+(ku-Arab'بێ سوود), (ku-Arab'بێ که‌ڵک)	useless
+زه‌وت کردن (zewt kirdin)	usurp
+(ku-Arab'چۆڵ)	vacant
+(ku-Arab'دۆڵ)	valley
+(ku-Arab'به‌نرخ)	valuable
+نرخ (nirx)	value
+ئاڵواڵا (aluwala); ره‌نگین (rengin)	variegated
+guldank (f); gulwaz (f); vazo (f)	vase
+xwîndarî (f)	vendetta
+(ku-Arab'کردار)	verb
+(ku-Arab'هه‌ڵبه‌ست)	verse
+(ku-Arab'دێ), (ku-Arab'گوند)	village
+سرکه	vinegar
+rez (m)	vineyard
+(ku-Arab'بنه‌وشه‌)	violet
+keman (f); kemançe (f); viyolîn (f)	violin
+دیار	visible
+volkan (m)	volcano
+(ku-Arab'ڕشانه‌وه‌)	vomit
+bagerr (f); babelîsk (f)	vortex
+(ku-Arab'هه‌ڵۆ)	vulture
+با دان (ba dan)	wag
+meaş (m); miz (m); muçe (m); destheq (f)	wage
+navteng (f); newq (f); که‌مه‌ر	waist
+(ku-Arab'چاوه‌ڕێ کردن)	wait
+(ku-Arab'ڕۆیشتن)	walk
+(ku-Arab'دارده‌ست)	walking stick
+دیوار	wall
+(ku-Arab'ئاواره‌)	wanderer
+ceng (f); şerr (m)	war
+(ku-Arab'گه‌رمی)	warmth
+بالوکه‌ (baluke)	wart
+زه‌رده‌واڵه‌ (zerdewale)	wasp
+ئاودان	water
+(ku-Arab'یه‌کجار)	way
+em; me	we
+çek; sîleh	weapon
+(ku-Arab'ماندو)	weary
+چنین	weave
+dawet (f); zemawend (f)	wedding
+میز کردن	wee
+ade	weed
+حه‌فته‌	week
+کێشان	weigh
+بیر	well
+(ku-Arab'ده‌س خۆش), (ku-Arab'له‌شت ساغ بێت)	well done
+ته‌ڕ	wet
+نه‌هه‌نگ	whale
+چی	what
+چه‌ن ڕۆژێکی خۆشه‌ (çen rrojeki xoshe); چی ڕۆژێکی خۆشه‌ (çi rrojeki xoshe)	what a lovely day
+ناوت چیه‌؟ (nawit çiye?); ناوی تۆ چیه‌؟ (nawi to çiye?)	what is your name
+سه‌عات چه‌نه‌؟ (seat çene?)	what time is it
+(ku-Arab'هه‌رچی)	whatever
+گه‌نم (m); (m)	wheat
+cihê	where
+خه‌لکی کوێی؟ (xelki kwéi?)	where are you from
+ئاوده‌سته‌که‌ له‌ کوێیه‌؟ (awdesteke le kwéye?)	where is the toilet
+(ku-Arab'که‌وا)	which
+(ku-Arab'ماوه‌)	while
+(ku-Arab'چرپان), (ku-Arab'چرپه‌چرپ)	whisper
+سپێناو	white
+kî; kê; کێ	who
+(ku-Arab'بۆ), (ku-Arab'له‌به‌ر چی)	why
+pan, pehn, fire, berfire, (ku-Arab'پان)	wide
+jin; kebanî; xanim; ژن; خێزان	wife
+تووتڕک (tútirk)	wild strawberry
+bî	willow
+(ku-Arab'بردنه‌وه‌)	win
+په‌نجه‌ره‌	window
+باده‌ (bade); مه‌ی (mey)	wine
+فڕین	wing
+zivistan, zistan, (ku-Arab'زستان)	winter
+(ku-Arab'هیوا)	wish
+(ku-Arab'له‌گه‌ڵ)	with
+(ku-Arab'له‌ناو)	within
+bê	without
+(ku-Arab'گورگ)	wolf
+jin; pîrek; afret; kilfet; ژن; ئافره‌ت	woman
+دار	wood
+(ku-Arab'وشه‌)	word
+(ku-Arab'ئیش)	work
+(ku-Arab'کرێکار)	worker
+(kirêkaranî dinya yekgirin !)	workers of the world, unite
+دنیا; dinya	world
+(ku-Arab'ترساندن)	worry
+peristin, (ku-Arab'په‌رستن)	worship
+(ku-Arab'هیچوپوچ)	worthless
+xezeb (f), gerûşe (f), hêrs (f), xişm (f), kerb (f), kîn (f), qîn (f)	wrath
+(ku-Arab'چرج)	wrinkle
+zend (m), meçek (m), bask (m)	wrist
+(ku-Arab'نوسین)	write
+(ku-Arab'نوسه‌ر)	writer
+(ku-Arab'نوسین)	writing
+باوێشک	yawn
+(ku-Arab'هاوار کردن)	yell
+zer,(ku-Arab'زه‌رد)	yellow
+(ku-Arab'هێشتا)	yet
+mast (m); ماست	yoghurt
+nîr (m)	yoke
+zerik (f); zerdik (f); zere (f); zerde (f); zerk (f)	yolk
+ey; hey; wey	you
+(ku-Arab'په‌روه‌ر)	zealous

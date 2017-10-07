@@ -1,0 +1,74 @@
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat\Evaluation>pushd
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat\Evaluation>cd..
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>echo THE FIRST RESULT IS THE BEST!!! 
+THE FIRST RESULT IS THE BEST!!!
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\chinese-big5.txt 
+zh_yue_cp950
+zh_classical_cp950
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\chinese-utf8.txt 
+zh_cp65001
+zh_yue_cp65001
+zh_classical_cp65001
+gan_cp65001
+ii_cp65001
+wuu_cp65001
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\russian-1200.txt 
+ru_cp1200
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\russian-1251.txt 
+ru_cp1251
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\russian-866.txt 
+ru_cp866
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\chinese2-1200.txt 
+zh_cp1200
+zh_yue_cp1200
+zh_classical_cp1200
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\chinese2-936-Simpl.txt 
+zh_cp51936
+zh_cp936
+zh_cp54936
+zh_yue_cp51936
+zh_yue_cp936
+zh_yue_cp54936
+zh_classical_cp51936
+zh_classical_cp936
+zh_classical_cp54936
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\chinese2-950-big5.txt 
+zh_yue_cp950
+zh_classical_cp950
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\chinese2-utf8.txt 
+zh_cp65001
+zh_yue_cp65001
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\nl-1200.txt 
+nl_cp1200
+nds_nl_cp1200
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\nl-1252.txt 
+nl_cp1252
+nl_cp855
+nl_cp850
+nl_cp858
+nl_cp10000
+nl_cp437
+nl_cp28591
+nl_cp28605
+nl_cp865
+nl_cp860
+nl_cp861
+nl_cp863
+nl_cp65001
+nl_cp20127
+
+c:\Users\Thomas\Documents\Visual Studio 2010\Projects\DetectLanguage\DetectLanguage\NTextCat>NTextCatLegacy.exe -noprompt  0<Evaluation\nl-utf8.txt 

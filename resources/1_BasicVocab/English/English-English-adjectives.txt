@@ -1,0 +1,216 @@
+English	English
+
+another, some other	another
+bad	bad
+basic	basic
+beautiful	beautiful
+best	best
+better	better
+big, large	big
+clean	clean
+cold	cold
+correct, right	correct
+dark	dark
+deep	deep
+difficult, hard	difficult
+dirty, soiled	dirty
+fast	fast
+good	good
+great	great
+great, bang-up	great
+happy	happy
+healthy, salubrious	healthy
+heavy	heavy
+high	high
+hot	hot
+important, significant	important
+left	left
+light	light
+little, petty	little
+long	long
+near, close	near
+new	new
+nice	nice
+open, unfastened	open
+real, existent	real
+right	right
+sharp	sharp
+similar	similar
+slow	slow
+soft	soft
+strong	strong
+weak	weak
+wrong, incorrect	wrong
+acid	acid
+after	after
+ago, agone	ago
+all	all
+any	any
+automatic	automatic
+available	available
+bitter	bitter
+boring, dull	boring
+both	both
+bright, vivid	bright
+broken	broken
+central	central
+certain, sure	certain
+cheap, inexpensive	cheap
+chemical, chemic	chemical
+clear	clear
+closed, shut	closed
+color, colour	color
+common	common
+common, mutual	common
+complete, consummate	complete
+conscious, witting	conscious
+cruel, barbarous	cruel
+current	current
+dangerous, unsafe	dangerous
+delicate	delicate
+deplorable, lamentable	deplorable
+different	different
+different	different
+different, unlike	different
+down	down
+dry	dry
+each	each
+early	early
+easy	easy
+economic	economic
+economic, economical	economic
+electric, electrical	electric
+equal	equal
+even	even
+even, fifty-fifty	even
+every	every
+excellent, first-class	excellent
+fake, false	fake
+false	false
+far	far
+fat	fat
+fat, fatty	fat
+few	few
+final, last	final
+financial, fiscal	financial
+firm, solid	firm
+first	first
+fixed	fixed
+flat, level	flat
+following, next	following
+foreign, strange	foreign
+former, erstwhile	former
+fragile, delicate	fragile
+free, complimentary	free
+frequent	frequent
+fresh	fresh
+front	front
+full	full
+full, total	full
+further, farther	further
+future	future
+general	general
+good, upright	good
+industrial	industrial
+interesting	interesting
+international	international
+last	last
+late	late
+legal	legal
+light, lite	light
+liquid	liquid
+local	local
+loud	loud
+low	low
+lucky	lucky
+main, chief	main
+major	major
+many	many
+metal, metallic	metal
+military	military
+minute, infinitesimal	minute
+modern	modern
+more, more than	more
+much	much
+narrow	narrow
+national	national
+natural	natural
+necessary	necessary
+next, adjacent	next
+no	no
+normal	normal
+off	off
+on	on
+opposite	opposite
+original	original
+other	other
+own, ain	own
+parallel	parallel
+particular	particular
+past	past
+personal	personal
+physical	physical
+political	political
+poor, miserable	poor
+popular, pop	popular
+possible	possible
+present	present
+previous, old	previous
+private	private
+probable, likely	probable
+professional	professional
+public	public
+quiet	quiet
+ready	ready
+recent	recent
+regular	regular
+responsible	responsible
+rigid, stiff	rigid
+rough, unsmooth	rough
+round, circular	round
+safe	safe
+same	same
+second, 2nd	second
+secret, undercover	secret
+separate	separate
+serious	serious
+set, laid	set
+several	several
+short	short
+silent, soundless	silent
+silver	silver
+simple	simple
+single	single
+small, little	small
+smooth	smooth
+social	social
+solid	solid
+sparse, thin	sparse
+special, especial	special
+specific	specific
+square	square
+squeamish	squeamish
+standard	standard
+sticky, gluey	sticky
+straight	straight
+strange, unusual	strange
+stylish, fashionable	stylish
+sudden	sudden
+sweet	sweet
+tall	tall
+thick	thick
+thin	thin
+tight	tight
+true	true
+ugly	ugly
+under, nether	under
+unusual	unusual
+used, secondhand	used
+useful, utile	useful
+usual	usual
+usual, common	usual
+various, diverse	various
+warm	warm
+wet	wet
+whole	whole
+wide, broad	wide

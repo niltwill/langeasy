@@ -1,0 +1,400 @@
+Piedmontese	English
+africans	Afrikaans
+Algerìa	Algeria ; People's Democratic Republic of Algeria
+àrab	Arabic ; Standard Arabic
+Armenia	Armenia
+armen	Armenian
+asturian	Astur-Leonese ; Asturian ; Asturian-Leonese ; Astur
+Azerbaigian	Azerbaijan ; Republic of Azerbaijan
+Bahrain	Bahrain
+Bangladesh	Bangladesh ; People's Republic of Bangladesh
+basch	Basque ; Basque
+bielarussi ; russi bianch	Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian
+Belize	Belize
+bengali	Bengali ; Bengali
+norvegèis bokmål	Bokmål
+Bòsnia ed Erzegòvina	Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina
+breton	Breton ; Breton
+Brunei	Brunei ; Negara Brunei Darussalam
+Bucarest	Bucharest
+Bulgarìa	Bulgaria ; Republic of Bulgaria
+bùlgar	Bulgarian
+bùlgar	Bulgarian ; Bulgarian
+Burundi	Burundi ; Republic of Burundi
+Ël Càiro	Cairo
+Mar dij Caràibi	Caribbean Sea
+castijan ; spagneul	Castilian ; Spanish ; Spanish
+catalan	Catalan ; Catalan
+Chihuahua	Chihuahua
+Cile	Chile ; Republic of Chile
+Còsta Rica ; Repùblica dla Còsta Rica	Costa Rica ; Republic of Costa Rica
+croàt	Croatian ; Croation
+cech	Czech ; Czech
+danèis	Danish
+Delaware	Delaware
+olandèis	Dutch
+eco-tichëtta CE	EC ecolabel
+Normativa UE ; Regolament dla UE	EC regulation
+Disposission comunitarie ant sël control e la gestion dl'anvironament	EC regulation on eco-management and audit
+Timor Est	East Timor ; Democratic Republic of Timor-Leste
+El Salvador	El Salvador ; Republic of El Salvador
+anglèis	English
+Eritrea	Eritrea
+esperanto	Esperanto ; Esperanto
+eston	Estonian
+Etiòpia	Ethiopia ; Federal Democratic Republic of Ethiopia
+Faròe	Faroe Islands
+Finlandia	Finland ; Republic of Finland
+finlandèis	Finnish
+fiamingh	Flemish
+Fransa	France
+fransèis	French ; French
+Frison ; frison	Frisian ; Western Frisian
+Gabòn	Gabon ; Gabonese Republic
+Geòrgia	Georgia
+georgian	Georgian ; Georgian
+tedësch ; alman	German
+Gibiltëra	Gibraltar
+Grecia	Greece ; Hellenic Republic
+grèch ; grech	Greek ; Greek
+Grenada	Grenada
+Gujarati	Gujarati ; Gujarati
+Haiti	Haiti ; Republic of Haiti
+bon ann	Happy New Year
+ebràich	Hebrew
+hindi	Hindi ; Hindi
+Honduras	Honduras ; Republic of Honduras
+ungherèis	Hungarian
+Ungherìa	Hungary ; Republic of Hungary
+Fond Monetari Antërnassional	IMF ; International Monetary Fund
+islandèis	Icelandic
+ido	Ido ; Ido
+India	India ; Republic of India
+Indonesia	Indonesia ; Republic of Indonesia
+antërlenga	Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin
+Internet ; Ìnternet	Internet
+Iran	Iran ; Islamic Republic of Iran
+irlandèis ; gaélich irlandèis	Irish ; Irish ; Irish Gaelic ; Irish
+italian ; talian	Italian ; Italian
+Italia ; Repùblica Italian-a	Italian Republic ; Italy
+Costa d'Avòri	Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire
+Giamàica	Jamaica
+Giapon	Japan ; State of Japan
+giaponèis ; giapo	Japanese ; Japanese
+Giordania	Jordan ; Hashemite Kingdom of Jordan
+Luj ; luj	July
+Kazakistan	Kazakhstan ; Republic of Kazakhstan
+khmer	Khmer ; Central Khmer
+coreàn	Korean ; Korean
+Kirghizistan	Kyrgyzstan ; Kyrgyz Republic
+latin	Latin ; Latin
+Letònia	Latvia ; Republic of Latvia
+leton	Latvian ; Latvian
+San Peroborgh	Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg
+Lesotho	Lesotho ; Kingdom of Lesotho
+Liberia	Liberia ; Republic of Liberia
+Libia	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+lituan	Lithuanian ; Lithuanian
+Bassa Sassònia	Lower Saxony
+Macedònia	Macedonia ; Republic of Macedonia
+massedon	Macedonian ; Macedonian
+Malawi	Malawi ; Republic of Malaŵi
+Malaysia	Malaysia
+maltèis	Maltese
+marathi	Marathi ; Marāthi ; Marāthi ; MarÄthi
+Mauritania	Mauritania ; Islamic Republic of Mauritania
+Bon Natal e Bon Ann neuv	Merry Christmas and a happy New Year
+Milan	Milan
+Moldavia	Moldova
+Prinsipà ëd Mònaco	Monaco
+Montnèigr	Montenegro
+Maròch	Morocco ; Kingdom of Morocco
+Myanmar	Myanmar
+Namibia	Namibia
+napoletan ; nàpoli	Neapolitan ; Neapolitan
+nepali	Nepali ; Nepali
+New York	New York
+Nicaragua	Nicaragua
+Norvegia	Norway ; Kingdom of Norway
+novial	Novial
+norvegèis Nynorsk ; norvegèis nunòrsch	Nynorsk
+osséan Passìfich	Pacific Ocean
+Pakistan	Pakistan ; Islamic Republic of Pakistan
+Panamà ; Pànama	Panama
+persian	Persian ; Western Farsi ; Farsi
+piemontèis	Piedmontese ; Piedmontese ; Piemontese ; Piemontese
+Polònia	Poland
+polonèis	Polish ; Polish
+Portugal	Portugal
+portughèis	Portuguese ; Portuguese
+Qatar	Qatar
+romen	Romanian ; Romanaian
+Roma	Rome
+russi	Russian ; Russian
+sànscrit	Sanskrit ; Sanskrit
+Arabia Saudita	Saudi Arabia ; Kingdom of Saudi Arabia
+Senegal ; Senegal	Senegal
+sicilian	Sicilian ; Sicilian
+slovach	Slovak ; Slovak
+Slovachia	Slovakia
+Slovèn ; sloven	Slovene ; Slovenian ; Slovenian
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+swahili	Swahili
+svedèis	Swedish
+Svìssera	Switzerland
+tagalògh	Tagalog
+tagich	Tajik
+tamil	Tamil ; Tamil
+Tanzania	Tanzania
+telugu	Telugu ; Telugu
+tai ; tailandèis	Thai ; Thai
+Turìngia	Thuringia
+turch	Turkish ; Turkish
+Uganda	Uganda ; Republic of Uganda
+ucrain	Ukrainian ; Ukrainian
+ordo	Urdu ; Urdu
+Sità dël Vatican	Vatican City ; The Holy See ; State of the Vatican City
+vietnamèis ; vietnamita	Vietnamese ; Vietnamese
+volapuch	Volapük
+valon	Walloon ; Walloon
+galèis	Welsh ; Welsh
+Ragnà	World Wide Web ; WWW
+Zambia	Zambia ; Republic of Zambia
+zòna andustrial abandonà ; zòna industrial abandonà ; area andustrial abandonà ; sit andustrial abandonà ; sit andustrial chità	abandoned industrial site
+umiliassion	abasement
+abreviassion	abbreviation
+cont	account
+acumulador ; batarìa ; baterìa ; batërìa ; acumulator	accumulator
+àcid	acid
+filtror acùstich ; fìlter acùstich ; filtror àudio ; fìlter àudio	acoustic filter ; audio filter
+isolament acùstich	acoustic insulation
+arvëddse	adieu ; bye ; cheerio ; farewell ; good day ; goodbye
+agetiv	adjective ; describing word
+ventura	adventure
+avèrb ; averb	adverb
+aerassion	aeration
+prossess aeròbich ; process aeròbich	aerobic process
+tratament aeròbich	aerobic treatment
+pòst-combustion	afterburning ; afterburning ; afterburner
+acòrd ; contrat	agreement
+biotecnologìa agrìcola	agricultural biotechnology
+paisagi agricol	agricultural landscape
+stocagi agrìcol	agricultural storage
+industria agrìcola e dl'anlevament	agriculture and cattle industry
+industria agraria	agroindustry
+aria	air
+aeroplan ; reoplan ; aéreo	aircraft
+batërìa alcalin-a ; batërìa manganes-alcalin-a ; baterìa alcalin-a ; baterìa manganes-alcalin-a ; sela alcalin-a ; sela manganes-alcalin-a	alkaline battery
+cun	alongside ; amongst ; with
+tecnologìa alternativa	alternative technology
+ambalagi n'alumini	aluminium container
+andustria dl'alumini ; industria dl'alumini	aluminium industry
+ambassador	ambassador
+ambissios	ambitious
+ambulansa	ambulance
+prossess anaeròbich ; process anaeròbich	anaerobic process
+tratament anaeròbich	anaerobic treatment
+Equipagiament d'anàlisi ; equipagiament d'anàlisi	analytical equipment
+animal ; bestia ; bes-cia	animal
+dëscàrich animal	animal waste
+furmija	ant
+ampiant antiquà ; anstalassion antiquà ; instalassion antiquà	antiquated plant
+tecnologìa aproprià	appropriate technology
+architetura	architecture
+archivi	archive
+assëlla	armpit
+adaté	arrange ; adapt ; adjust ; conform ; accommodate ; suit
+ariv	arrival
+articiòch	artichoke
+artìcol	article
+satélit artifissial ; satélit artificial	artificial satellite
+suposission	assumption ; supposition
+asma	asthma
+asta	auction
+andustria automobilìstica ; industria automobilìstica	automobile industry
+filtror baterial ; fìlter baterial ; filtror batérich ; fìlter batérich ; let ëd bateri	bacterial bed
+piva	bagpipes
+forné	baker
+elession	ballot
+banana	banana
+bancarota	bankruptcy
+baròmetro	barometer
+prossess a lòt ; process a partìe ; prossess a partìe ; process a lòt	batch process
+baterìa ; batërìa	battery
+avié	beehive
+beivanda	beverage ; drink
+andustria dël bèive ; industria dël bèive	beverage industry
+afel	bile
+biofiltragi	biofiltration
+efet biològich	biological effect
+angegnerìa biològica ; ingegnerìa biològica	biological engineering
+tratament biològich	biological treatment
+compleann	birthday
+top	black ; dark
+fré	blacksmith
+autforn	blast furnace
+bòrgn	blind
+scartari	blog ; weblog ; web log
+sangh	blood
+cioendari	bocage
+mojis	bog
+caudera ; caodera	boiler
+lìber	book
+nata	bottle cap
+confin	boundary
+fieul	boy
+setor d'atività ; branca d'atività	branch of activity
+culasiun	breakfast
+paròla pì general	broader term ; broader terms ; hypernym ; holonym
+costrussion	building
+imprèisa	business
+maslé ; bëcché	butcher
+cariera	career
+gat	cat
+categorìa	category
+sela eletrochìmica ; sela ; sela galvànica ; pila ; element ëd batërìa ; element eletrochìmich	cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο
+caraterìstich	characteristic
+ciresa	cherry
+alterassion climàtica	climatic alteration
+tinta ; color	colour ; colour ; colo(u)r
+vnì	come
+conferensa	conference
+caria continua	continuous load
+stat ; nassion	country ; nation ; state
+vaca	cow
+artisanerìa	craft ; arts and crafts
+creatività	creativity ; inventiveness
+base dat	database
+adebité	debit
+decision	decision
+acusà	defendant ; accused
+dentist	dentist
+mal fé	difficult
+Servissi ëd contròl dle disgrassie	disaster control service
+disinfetant	disinfectant
+divòrsi	divorce
+can	dog
+donassion	donation
+bèive	drink ; gulp ; quaff ; sip
+fàcil	easy ; piece of cake ; like shooting fish in a barrel
+mangé	eat
+economìa ; siensa econòmica	economic science ; economics
+mangé ; mangiòir ; mangiòira ; comestìbil	edible
+sfòrs	effort ; exertion
+pòsta eletrònica	electronic mail ; email ; e-mail
+emergensa	emergency
+mesté ; travaj	employment ; employment ; job ; job ; occupation ; work ; work
+statìstica anvironamental	environmental statistics
+ciàir	explicit
+öji	eye
+camp	field ; land ; land ; acre ; patch
+filtror ; fìlter	filter
+asienda ; imprèisa ; companìa ; sossietà ; società	firm ; corporation ; enterprise ; company ; venture
+andustria dël mangé ; industria dël mangé ; andustria alimentar ; industria alimentar	food industry
+tua forestal	forest protection
+fòssil	fossil
+fractura	fracture
+libertà	freedom ; liberty
+fondamental	fundamental
+andustria dij mòbij ; industria dij mòbij	furniture industry
+gadolini	gadolinium
+giardiné	gardener
+geografìa	geography
+geranio	geranium
+fija ; fija	girl
+bon-asèira	good evening
+sautamartin	grasshopper
+giss	gypsum
+fassolèt	handkerchief
+grev	heavy
+cioènda ; ciovenda	hedge
+adiù ; ciào ; ciàu	hello ; hey ; hi ; howdy
+Ambelessì ; sì ; ambelessì	here
+gerarchìa	hierarchy
+speransa	hope
+paròla pì spessificà	hyponym ; narrower terms ; narrower term
+analfabeta	illiterate
+independensa	independence
+prossess andustrial ; process andustrial ; prossess industrial ; process industrial	industrial process
+industria ; andustria	industry
+influensa	influenza ; flu
+anformàtica	informatics ; computer science ; information science
+anfrastrutura	infrastructure
+claviera	keyboard
+lavanda	lavender ; lavander
+amprende	learn
+letargh	lethargy ; sluggishness ; languor
+bagnin	lifeguard
+rossèt	lipstick
+strem ; stram	litter
+locomotiva	locomotive
+lotarìa	lottery
+bin	love
+vorej bin	love
+macroscòpich	macroscopic
+mango	mango
+coretor mineral ; condissioneur mineral	mineral conditioner
+mistral	mistral
+andustria dij veìcoj a motor ; industria dij veìcoj a motor	motor vehicle industry
+rat	mouse
+musicant ; musicista	musician
+salviëtta	napkin
+fassolèt	nappy
+necròsi	necrosis
+neuv	new ; novel
+ciaciarada	newsgroup
+nariss	nostril
+nòm ; sostantiv	noun ; substantive
+antrap	obstacle ; obstruction
+petrodot	oil pipeline
+portigal ; portugal	orange
+pediatr	paediatrician
+part dël discors	part of speech ; lexical category
+pas ; pas	peace
+pessimism	pessmism
+تقاضا نامه ; petission	petition
+telefon	phone ; telephone
+prossess fìsich ; process fìsich	physical process
+tubassion ; condotura ; tubo	pipeline
+compassion	pity ; compassion
+leu	place ; location
+polìtica	policy
+possess	possession
+nùmer prim	prime number ; prime
+anformassion dij prodot	product information
+psichiatra	psychiatrist
+lese	read
+dì	say
+servent	server
+negòssi ; botega	shop
+argent	silver
+lent	slow
+soris	smile
+teren ; tera	soil
+cuciar	spoon
+stòmi	stomach
+stòria	story
+stuva ; stùa ; brusador	stove
+chirurgh	surgeon
+terorism	terrorism
+andustria téssile ; industria téssile	textile industry
+atressadura térmica ; atressatura térmica	thermal equipment
+sèj	thirst
+tradussion	translation
+galeria	tunnel
+pito	turkey
+binel	twin
+utent	user
+usurpé	usurp
+vërdura	vegetable
+ventilassion	ventilation
+verb ; vèrb	verb
+depurassion dj'eve dë scàrich	waste water purification
+eva ; èiva ; aqua	water
+aerassion dl'eva	water aeration
+livel dl'eva	water level
+pèis	weight
+balen-a	whale
+fomna	wife ; spouse
+masca	witch

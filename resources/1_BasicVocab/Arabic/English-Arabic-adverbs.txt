@@ -1,0 +1,73 @@
+﻿English Arabic
+about	على، حول
+above	فوق
+again	مجدداً
+almost	على وشك
+along	بجانب (bijá:nib)
+already	سابِقاً، قبل الآن، قد، الآن
+approximately	تقريباً
+as	مثل
+before	أمام
+before	قبل
+behind	خلف، وراء
+between	بين
+by	عبر
+directly	مباشرة
+down	أسفل
+early	باكراً
+either	في أيٍ مِنهما
+enough	بشكل كافٍ
+even	حتى
+exactly	بالضبط
+finally	آخر واحد
+first	أولاً
+forward	نحو الأمام
+generally	بصورة عامه
+here	هنا
+here	إلى هنا
+however	رغم
+immediately	فوراً
+in	في
+indeed	حقـا: تستعمل للتوكيد
+inside	داخل
+instead	بدلا من
+late	متأخراً
+later	فيما بعد
+least	الأقل
+little	قليلاً
+merely	فقط
+more	أكثر (ʔakθar)
+never	ابداً
+not	لا
+now	حالياً
+obviously	كما يبدو بِوضوح
+often	تِكراراً
+outside	خارج
+please	من فضلك (min fáɖlak)
+possibly	ربما
+probably	من المحتمل
+really	فِي الواقِع، فِي الحقِيقة، فِعلاً
+really	جدا
+recently	مؤخرا
+slowly	ببطء
+so	جداً
+solely	وحده, وحيداً
+sometimes	أحيانا
+soon	قريبا، عما قريب
+still	دائماً
+such	هكذا
+suddenly	فجأة (faj’áa)
+surely	بالتأكيد
+then	ثم
+there	هناك
+therefore	لِذلِك
+today	اليوم
+together	معاً
+tomorrow	غداً
+tonight	الليلة (al-léila)
+too	أيضاً
+up	فوق
+usually	عادةً
+very	جداً
+well	جيداً
+why	لماذا (limaadhaa)

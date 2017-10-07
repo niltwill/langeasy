@@ -1,0 +1,2067 @@
+English	Italian
+AIDS	SIDA (f); AIDS
+Abidjan	Abidjan
+Abkhaz	abcaso (m); abcazico (m)
+Abkhazia	Abcasia (f); Abkhazia (f)
+Abraham	Abramo (m)
+Adam	Adamo
+Afghanistan	Afghanistan (m); Afganistan (m)
+Africa	(f)
+Afrikaans	afrikaans
+Alaska	Alaska (f)
+Albania	Albania (f)
+Alberta	Alberta (f)
+Alexander	Alessandro (m)
+Algeria	Algeria (f)
+Algiers	Algeri
+Alps	Alpi (m)
+America	America (f)
+American	americano (m); americana (f); statunitense (m)
+American bison	bisonte americano
+Amsterdam	Amsterdam (f)
+Amur	Amur
+Andorra	Andorra
+Andrew	Andrea
+Anglo	anglosassone (m), inglese antico (m)
+Angola	Angola (f)
+Ankara	Ankara (f)
+Antarctica	Antartide
+Antigua and Barbuda	Antigua e Barbuda
+April	aprile (m)
+Arabic	arabo
+Arctic Ocean	Oceano Artico (m)
+Argentina	Argentina
+Argonaut	argonauta (m)
+Armenia	Armenia (f)
+Armenian	armeno (m); armena (f)
+Asclepius	Asclepio
+Asia	Asia (f)
+Athena	Atena (f)
+Athens	Atene (f)
+Atlantic Ocean	Oceano Atlantico (m)
+August	agosto (m)
+Australia	Australia (f)
+Austria	Austria (f)
+Aymara	lingua aymara
+Azerbaijan	Azerbaigian (m)
+Azeri	azerbaigiano
+Bahamas	Bahama (f)
+Bahrain	Bahrain; Bahrein (m)
+Baku	Baku
+Balearic Islands	Isole Baleari (p)
+Baltic Sea	Mar Baltico (m)
+Bambara	bambara (f)
+Bangkok	Bangkok
+Bangladesh	Bangladesh (m)
+Barbados	Barbados (f)
+Bashkir	baškiro (m)
+Beijing	Pechino (f)
+Beirut	Beirut
+Belarus	Bielorussia (f)
+Belarusian	bielorusso (m)
+Belgium	Belgio (m)
+Belgrade	Belgrado (f)
+Belize	Belize
+Belorussian	bielorusso
+Berlin	Berlino (f)
+Bermuda	Bermuda (f'p)
+Bhutan	Bhutan
+Bible	Bibbia (f)
+Black Sea	Mar Nero (m)
+Bolivia	Bolivia
+Bosnia	Bosnia
+Bosnia and Herzegovina	Bosnia-Erzegovina (f); Bosnia ed Erzegovin (f)
+Bosphorus	Bosforo (m)
+Botswana	Botswana (f)
+Brazil	Brasile (m)
+Breton	bretone (m)
+Brunei	Brunei
+Brussels	Bruxelles (f)
+Bucharest	Bucarest (f)
+Buddhism	buddismo (m)
+Bulgaria	Bulgaria (f)
+Bulgarian	bulgaro
+Burkina Faso	Burkina Faso
+Byzantine Empire	Impero bizantino (m)
+Cambodia	Cambogia (f)
+Cameroon	Camerun
+Canada	Canada (m)
+Cape Verde	Capo Verde
+Carthage	Cartagine (f)
+Caspian Sea	Mar Caspio (m)
+Catalan	catalano
+Caucasus	Caucaso (m)
+Central African Republic	Repubblica Centrafricana
+Chad	Ciad
+Chicago	Chicago
+Chile	Cile
+China	Cina (f)
+Chinese	i cinesi (m'p)
+Chisinau	Chisinau; Chișinău
+Christ	Cristo (m)
+Christian	cristiano (m); cristiana (f)
+Christianity	cristianità (f); cristianesimo (m)
+Christmas	Natale (m)
+Christopher	Cristoforo
+Coca	Coca-Cola (f)
+Colombia	Colombia
+Commonwealth of Independent States	Comunità degli Stati Indipendenti (f); CSI (f)
+Constantinople	Costantinopoli
+Copenhagen	Copenhagen (f)
+Costa Rica	Costa Rica
+Croatia	Croazia
+Croatian	croato
+Cuba	Cuba (f)
+Cyprus	Cipro
+Cyrillic	cirillico (m)
+Cyrillic alphabet	alfabeto cirillico (m)
+Czech	ceco (m)
+Czech Republic	la repubblica Ceca (f)
+Czechia	Cechia (f)
+Czechoslovakia	Cecoslovacchia (f)
+Damascus	Damasco
+Danish	danese (m)
+Danube	Danubio
+Dead Sea	mar Morto (m)
+December	dicembre (m)
+Denmark	Danimarca
+Djibouti	Gibuti
+Dominican Republic	Repubblica Dominicana (f)
+Dutch	olandese (m); olandesi (m)
+Earth	(f)
+East Timor	Timor Est
+Easter	Pasqua (f)
+Easter Island	Isola di Pasqua (f)
+Eastern Europe	Europa orientale (f)
+Edmonton	Edmonton
+Egypt	Egitto (m)
+England	Inghilterra (f)
+English	inglese
+Esperanto	esperanto
+Estonia	Estonia
+Ethiopia	Etiopia (f)
+Eurasia	Eurasia (f)
+Europe	Europa
+European Union	Unione Europea
+European bison	bisonte europeo
+Far East	Estremo Oriente (m)
+Faroe Islands	le isole Faeroer (f'p)
+Faroese	faroese, faroico, faroense, faringio, feringio (all (m))
+February	febbraio (m)
+Fiji	Figi
+Finland	Finlandia (f)
+Finnish	finlandese
+France	Francia (f)
+French	i francesi (m'p)
+Friday	venerdì (m)
+GDP	PIL
+Ganges	Gange
+Gaza Strip	striscia di Gaza (f)
+Geneva	Ginevra (f)
+George	Giorgio, Iorio
+Georgia	Georgia (f)
+Georgian	georgiano (m)
+German	tedesco (m); (f)
+Germany	Germania (f)
+Ghana	Ghana
+Ghent	Gand
+Gibraltar	Gibilterra (f)
+Goa	Goa
+Great Britain	Gran Bretagna (f)
+Great Pyramid of Giza	Piramide di Cheope (f)
+Greece	Grecia (f)
+Greek	greco (m); greca (f)
+Greenland	Groenlandia (f)
+Guatemala	Guatemala
+Guinea	Guinea (f)
+Gujarati	Gujarati
+Gulf of Finland	golfo di Finlandia (m)
+Guyana	Guayana (f)
+Haiti	Haiti
+Happy New Year	felice anno nuovo
+Hebrew	ebraico (m)
+Hezbollah	Hezbollah
+Hokkaido	Hokkaido; Hokkaidō
+Holland	Olanda (f)
+Holocaust	olocausto (m)
+Holy Spirit	Spirito Santo (m)
+Honduras	Honduras
+Hong Kong	Hong Kong (f)
+Hungarian	ungherese
+Hungary	Ungheria (f)
+I	io
+I am English	sono inglese
+I have a question	ho una domanda
+I love you	Ti voglio bene (informal singular), Vi voglio bene (plural or formal)
+I need an interpreter	ho bisogno di un interprete
+Iceland	Islanda (f)
+India	India (f)
+Indian Ocean	Oceano Indiano (m)
+Indonesia	Indonesia (f)
+Interlingua	interlingua
+International Phonetic Alphabet	alfabeto fonetico internazionale (m)
+Internet	Internet (f)
+Iran	Iran (m)
+Iraq	Iraq#Itaian'Iraq (m)
+Ireland	Irlanda (f)
+Irish	irlandese (m); gaelico (m)
+Israel	Israele
+Italian	italiano
+Italy	Italia (f)
+Jamaica	Giamaica (f)
+January	gennaio (m)
+Japan	Giappone (m)
+Japanese	giapponese
+Jerusalem	Gerusalemme (f)
+Jesus	Gesù (m)
+Jesus Christ	Gesù Cristo (m)
+Jew	giudeo (m); giudea (f); ebreo (m); ebrea (f)
+Jewish	ebreo
+John	Giovanni
+Jordan	Giordania (f)
+Joseph	Giuseppe
+Judaism	judaisimo (m)
+July	luglio (m)
+June	giugno (m)
+Jupiter	Giove
+Karnataka	Karnataka
+Kazakhstan	Kazakistan (m); Kazakstan (m)
+Kenya	Kenya
+Khartoum	Khartum
+Khmer	khmer
+Khrushchev	Chruščëv (m)
+Kiev	Kijev
+Korea	Corea (f)
+Korean	coreano
+Kosovo	Kosovo (m); Kossovo (m); Cossovo (m)
+Kurdish	curdo
+Kuwait	il Kuwait (m)
+Kyrgyzstan	Kirghizistan
+Laos	Laos
+Latin	latino (m)
+Latvia	Lettonia
+Lebanon	(m)
+Liberia	Liberia (f)
+Libya	Libia (f)
+Liechtenstein	Liechtenstein
+Lisbon	Lisbona (f)
+Lithuania	Lituania (f)
+London	Londra (f)
+Luxembourg	Lussemburgo
+Lyons	Lione
+Macedonia	Macedonia (f); Repubblica di Macedonia (f)
+Magna Carta	Magna Carta (f)
+Malayalam	lingua malayalam (f)
+Malaysia	Malesia (f)
+Maldives	Maldive
+Malta	Malta (f)
+Manchuria	Manciuria (f)
+Maoism	maoismo (m)
+March	marzo (m)
+Mars	Marte (m)
+Marshall Islands	Isole Marshall (f)
+Mary	Maria
+Matthew	Matteo; Mattia
+Mauritius	Maurizio (f), l'isola di Maurizio (f), Mauritius
+May	maggio
+Mediterranean Sea	Mar Mediterraneo (m); Mediterraneo (m)
+Mercury	(il pianeta) Mercurio (m)
+Merry Christmas	buon Natale
+Merry Christmas and a Happy New Year	Buon Natale e felice Anno Nuovo
+Mexico	Messico (m)
+Michael	Michele
+Middle East	Medio Oriente
+Minsk	Minsk (m)
+Miss	signorina (f) 
+Moldova	Moldavia (f); Moldovia (f)
+Monaco	Monaco (f); Principato di Monaco (m)
+Monday	lunedì (m)
+Mongolia	Mongolia (f)
+Morocco	Marocco (m)
+Moscow	Mosca (f)
+Moses	Mosè
+Mount Everest	l’Everest (m), il monte Everest (m)
+Mozambique	Mozambico (m)
+Mrs	Sig.ra
+Muhammad	Maometto (m)
+Munich	Monaco (f); Monaco di Baviera (f)
+Muslim	musulmano (m); musulmana (f)
+Myanmar	Myanmar
+NATO	N.A.T.O.
+Namibia	Namibia
+Naypyidaw	Naypyidaw
+Nepal	Nepal (m)
+Neptune	Nettuno (m)
+Netherlands	Paesi Bassi; Olanda (f)
+New York City	New York (f); Nuova York (f)
+New Zealand	Nuova Zelanda (f)
+Nicaragua	Nicaragua
+Nicholas	Nicola; Niccolò
+Nigeria	Nigeria (f)
+North America	America del Nord (f)
+North Korea	Corea del Nord (f)
+Northern Europe	Europa settentrionale (f)
+Northern Ireland	Irlanda del Nord (f)
+Norway	Norvegia (f)
+November	novembre (m)
+Occitan	occitano
+Oceania	Oceania (f)
+October	ottobre (m)
+Olympic Games	giochi olimpici (m)
+Oman	Oman (m)
+Ottoman Empire	Impero ottomano (m)
+Pacific Ocean	Oceano Pacifico (m)
+Pakistan	Pakistan (m)
+Palestine	Palestina
+Papua New Guinea	Papua Nuova Guinea
+Paris	Parigi (f)
+Paul	Paolo
+Persian	persiano (m)
+Peru	Perù (m)
+Philippines	Filippine (f)
+Pisces	Pesci (m)
+Pleiades	Pleiadi
+Pluto	Plutone (m)
+Poland	Polonia (f)
+Polish	polacco (m)
+Portugal	Portogallo (m)
+Portuguese	portoghese
+Prague	Praga (f)
+Pythagoras	Pitagora
+Red Sea	Mar Rosso (m)
+Reykjavik	Reykjavik (f)
+Roman	romano (m); romana (f)
+Romania	Romania (f)
+Romanian	romeno (m)
+Rome	Roma (f)
+Russia	Russia
+Russian	russo
+Russian Federation	Russia; Federazione Russa
+Rwanda	Ruanda
+Saint Petersburg	San Pietroburgo (m)
+Sanskrit	sanscrito (m)
+Santa Claus	Babbo Natale (m)
+Satan	Satana
+Saturday	sabato (m)
+Saturn	Saturno (m)
+Saudi Arabia	Arabia Saudita (f)
+Scotland	Scozia (f)
+Senegal	Senegal
+Seoul	Seul (f)
+September	settembre (m)
+Serbia	Serbia (f)
+Serbia and Montenegro	Serbia e Montenegro
+Serbian	serbo (m); serba (f)
+Shanghai	Shanghai
+Shinto	shintoismo; scintoismo (m)
+Siberia	Siberia (f)
+Sicily	Sicilia (f)
+Singapore	Singapore (f)
+Slovakia	Slovacchia
+Slovene	sloveno (m)
+Slovenia	Slovenia (f)
+Snow White	Biancaneve (f)
+Sochi	Soči (m)
+Sofia	Sofia
+Solar System	sistema solare (m)
+Somalia	Somalia (f)
+South Africa	Sudafrica (f)
+South America	Sudamerica (f); America del sud (f)
+South Korea	Corea del Sud (f)
+South Ossetia	Ossezia del Sud (f)
+South Sudan	Sud Sudan (m)
+Southeast Asia	Sud-est asiatico
+Soviet Union	Unione Sovietica (f)
+Spain	Spagna (f)
+Spanish	spagnolo (m); spagnola (f)
+Sparta	Sparta
+Sri Lanka	Sri Lanka
+Sudan	Sudan (m)
+Suez Canal	Canale di Suez
+Sunday	domenica (f)
+Suriname	Suriname
+Sweden	Svezia (f)
+Swedish	svedese (m)
+Switzerland	Svizzera (f)
+Syria	Siria
+Taiwan	Taiwan
+Tajikistan	Tagikistan
+Tallinn	Tallinn
+Tanganyika	Lago Tanganica
+Tanzania	Tanzania (f)
+Tbilisi	Tbilisi
+Tehran	Teheran
+Tel Aviv	Tel Aviv (f)
+Ten Commandments	Decalogo (m)
+Thai	tailandese (m); thailandese (m)
+Thailand	Thailandia/Tailandia (f)
+The Hague	L'Aia (f)
+Thursday	giovedì (m)
+Transnistria	Transnistria (f)
+Transylvania	Transilvania (f)
+Tuesday	martedì (m)
+Tunisia	Tunisia (f)
+Turkey	Turchia (f)
+Turkish	turco (m)
+Turkmenistan	Turkmenistan
+USA	U.S.A. (m)
+Uganda	Uganda
+Ukraine	Ucraina (f)
+Ukrainian	ucraino (m)
+United Arab Emirates	Emirati Arabi Uniti (m)
+United Kingdom	Regno Unito (m)
+United States	Stati Uniti (m)
+United States of America	Stati Uniti d'America (m); (m) SUA
+Uranus	Urano (m)
+Uzbekistan	Uzbekistan (m)
+Valkyrie	valchiria (f)
+Vatican City	Stato della Città del Vaticano
+Venezuela	Venezuela (m)
+Venus	Venere
+Victory Day	Giorno della Vittoria (m)
+Vienna	Vienna (f)
+Vietnam	Vietnam
+Vishnu	Vishnu
+Wales	Galles
+Warsaw	Varsavia (f)
+Wednesday	mercoledì (m)
+Western Europe	Europa occidentale (f)
+Western Sahara	Sahara Occidentale (m)
+White House	Casa Bianca (f)
+White Sea	Mar Bianco (m)
+Wikipedia	Wikipedia
+Wiktionary	Wikizionario (m)
+Wiktionary:Usability/flag	bandiera (f)
+William	Guglielmo
+Wroclaw	Breslavia (f)
+Yangtze	fiume Azzurro (m)
+Yellow Sea	Mar Giallo
+Yemen	Yemen (m)
+Yerevan	Yerevan (m)
+Yugoslavia	Jugoslavia; Iugoslavia (f)
+Zagreb	Zagabria (f)
+Zambia	Zambia (m)
+Zoroastrianism	Zoroastrismo
+aardvark	oritteropo (m)
+abacus	abaco (m); pallottoliere (m)
+abandon	abbandonare
+abbot	abate
+abbreviation	abbreviazione (f)
+abdomen	addome (m)
+accordion	fisarmonica (f)
+acid	acido (m)
+acorn	ghianda (f)
+actinium	attinio (m)
+actor	attore (m); attrice (f)
+address	indirizzo (m)
+adjective	aggettivale
+admiration	ammirazione (f)
+adverb	avverbio (m)
+advertisement	annuncio (m); pubblicità (f)
+aeroplane	aereo (m); aeroplano (m); apparecchio (m); aeromobile (f)
+after	seguente
+afternoon	pomeriggio (m)
+again	di nuovo; ancora
+age	età (m)
+aggressive	aggressivo (m); aggressiva (f)
+agriculture	agricoltura (f)
+air	aria (f)
+aircraft	aeroplano (m); aereo (m); velivolo (m)
+airplane	aereo (m); aeroplano (m)
+airport	aeroporto (m)
+al	al-Qaida
+alcohol	alcol (m)
+algorithm	algoritmo
+alive	vivo (m)
+all	tutto (m); tutta (f)
+all rights reserved	tutti i diritti riservati
+alligator	alligatore (m)
+almond	mandorla (f)
+almost	quasi
+alphabet	alfabeto (m)
+already	già
+also	anche
+aluminium	alluminio (m)
+always	sempre
+am	sono
+amber	ambra (f)
+ambulance	ambulanza (f)
+americium	americio (m)
+ampersand	e commerciale (f) 
+an	un#Italian'un (m), uno#Italian'uno (m), una#Italian'una (f), un' (f) 'before a vowel'
+anal sex	sesso anale (m)
+anarchism	anarchismo (m)
+anchor	ancora (f); àncora (f)
+and	e#Italian'e ('optionally becoming' ed#Italian'ed 'before a vowel for euphony')
+angel	angelo (m)
+anger	ira (f); rabbia (f); collera (f)
+angry	arrabbiato
+animal	animale (m); bestia (f)
+anime	anime
+ankle	caviglia (f)
+answer	risposta (f)
+ant	formica (f)
+anthrax	antrace
+antimony	antimonio (m)
+antonym	antonimo (m)
+anus	ano (m)
+anvil	incudine (f)
+apple	mela (f)
+apple tree	melo (m)
+apricot	albicocca (f)
+archaeology	archeologia (f)
+architect	architetto (m)
+architecture	architettura (f)
+argent	argento (m)
+argon	argon (m); argo (m)
+arm	braccio (m)
+armpit	ascella (f)
+army	esercito (m)
+arrow	freccia (f)
+arsenic	arsenico (m)
+artichoke	carciofo (m)
+article	articolo (m); voce (f)
+ash	cenere (f)
+ask	chiedere; domandare
+ass	culo (m)
+astatine	astato (m)
+asteroid	asteroide (m); pianetino (m); planetoide
+astronomical unit	unità astronomica (f)
+astronomy	astronomia (f)
+astrophysics	astrofisica (f)
+at	a; in
+at sign	chiocciola
+atheism	ateismo
+atom	atomo (m)
+aubergine	melanzana (f)
+aunt	zia (f)
+autumn	autunno (m)
+avalanche	valanga (f); slavina (f)
+axe	ascia (f); accetta (f)
+axis	asse (m)
+baby	bambino (m); bambina (f); bimbo (m); bimba (f); bebè (m)
+babysitter	baby-sitter
+back	schiena (f); dorso (m)
+bad	cattivo
+badger	tasso (m)
+bag	sacco (m); busta (f)
+bagpipes	cornamusa (f); zampogna (f)
+bakery	panetteria (f); forno (m); panificio (m)
+balcony	balcone (m)
+bald	calvo (m); pelato (m)
+balloon	palloncino (m)
+banana	banana (f)
+bank	banca (f)
+barcode	codice a barre (m)
+barium	bario (m)
+bark	corteccia (f), scorza (f) (dialect)
+barley	orzo (m)
+barn owl	barbagianni
+basalt	basalto
+baseball	baseball (m)
+basket	cestino (m); cesto (m); canestro (m)
+basketball	pallacanestro (f)
+bat	pipistrello (m)
+bathroom	stanza da bagno (f); bagno (m)
+battery	pila (f)
+battle	battaglia (f)
+bay	baia (f); golfo (m)
+be	essere
+beach	spiaggia (f)
+beak	becco (m)
+bean	fagiolo (m)
+bear	orso (m)
+beard	barba (f)
+beautiful	bello
+beauty	bellezza (f)
+beaver	castoro (m)
+because	perché
+become	diventare
+bed	letto (m); giaciglio (m)
+bedroom	camera da letto (f); camera (f)
+bee	ape (f)
+beech	faggio (m)
+beef	manzo (m)
+beer	birra (f)
+beetle	scarafaggio (m); scarabeo (m)
+before	prima; innanzi
+begin	cominciare; iniziare
+behind	dietro
+bell	campana (f)
+belly	pancia (f); ventre (f)
+belt	cintura (f); cintola (f); cinghia (f)
+berkelium	berkelio (m)
+berry	bacca (f); coccola (f)
+beryllium	berillio (m)
+better	migliore, meglio di
+bicycle	bicicletta#Italian'bicicletta (f), bici#Italian'bici (f) (informal)
+big	grande
+bill	becco (m)
+billion	miliardo
+biochemistry	biochimica (f)
+biology	biologia (f)
+bipolar disorder	psicosi maniaco-depressiva
+birch	betulla (f)
+bird	uccello (m)
+birth	nascita (f); parto (m)
+birthday	compleanno (m)
+biscuit	biscotto (m); biscottino (m)
+bishop	alfiere (m)
+bismuth	bismuto (m)
+bitch	cagna (f); lupa 
+bite	mordere
+bitter	amaro (m); amara (f)
+black	nero
+black grouse	gallo forcello (m), fagiano di monte (m)
+black hole	buco nero (m)
+black woodpecker	picchio nero (m)
+blackberry	mora (f) (di rovo)
+blackbird	merlo (m)
+blanket	coperta (f)
+bleed	sanguinare
+bless you	salute 
+blind	cieco
+blog	diario in rete (m)
+blood	sangue (m)
+blue	(dark blue) blu (m); (sky blue) azzurro (m)
+boar	cinghiale (m)
+boat	barca (f); nave (f); battello (m)
+body	corpo (m)
+bohrium	bohrio (m)
+bomb	bomba (f)
+bon appétit	buon appetito
+bon voyage	buon viaggio
+bone	osso (m)
+book	libro (m)
+bookshop	libreria (f)
+boot	stivale (m)
+boron	boro (m)
+bottle	bottiglia (f)
+bow	arco (m)
+box	scatola (f)
+boy	bambino (m) (child); ragazzo (m) (teenager)
+bra	reggiseno (m); reggipetto (m)
+brain	cervello (m), cervella (f) (italbrac'when used as food)
+branch	ramo
+brave	coraggioso (m); ardito (m); baldo (m); audace (m); valoroso (m)
+bread	pane (m)
+break	rompere
+breakfast	colazione (f); prima colazione (f)
+breast	seno (m)
+breathe	respirare
+brick	mattone
+bride	fidanzata; sposa (f)
+bridge	ponte (m)
+bromine	bromo (m)
+broom	scopa (f); ramazza (f)
+brother	fratello (m) (1,2,3,4), confratello (m) (3,4)
+brush	spazzola (f); pennello (m)
+bucket	secchio (m)
+buffalo	bufalo (m)
+building	costruzione (f); edificazione (f)
+bull	toro (m)
+bullet	proiettile (m)
+bumblebee	bombo (m)
+burn	bruciare; ardere
+bus	autobus (m); pullman (m); corriera (f)
+busy	occupato
+but	ma; però; tuttavia
+butcher	macellaio (m)
+butter	burro (m)
+butterfly	farfalla (f)
+buy	comprare
+buzzard	poiana (f)
+cabbage	cavolo (m)
+cactus	cactus (m)
+cadmium	cadmio (m)
+caesium	cesio (m)
+café	caffè (m); caffetteria (f); bar (m)
+cake	torta (f); dolce (m)
+calcium	calcio (m)
+calendar	calendario (m)
+calf	vitello (m)
+californium	californio (m)
+camel	cammello (m)
+can	sapere; riuscire; essere capace; potere
+canal	canale (m)
+canary	canario (m); canarino domestico (m); canarino
+cancer	cancro (m)
+candle	candela (f)
+cannabis	canapa (f)
+canyon	gola (f)
+capercaillie	urogallo (m); gallo cedrone (m)
+capital	capitale (m)
+capital city	capitale (of nation) (f), capoluogo (of a state or 'regione') (m)
+capitalism	capitalismo (m)
+car	macchina (f); auto (f); automobile (f)
+carbon	carbonio (m)
+carpenter	carpentiere (m); falegname (m)
+carpet	tappeto (m); moquette
+carrot	carota (f)
+carry	portare
+castle	castello (m)
+cat	felino (m); felina (f)
+caterpillar	bruco (m)
+cauliflower	cavolfiore (m)
+cave	caverna (f); grotta (f)
+cedar	cedro (m)
+ceiling	soffitto (m)
+cell	cellula (f)
+cell phone	telefono cellulare (m); telefonino (m)
+center	centro (m)
+centimetre	centimetro (m)
+centipede	centopiedi (m)
+century	secolo (m)
+cerium	cerio (m)
+chain	catena (f)
+chair	sedia (f)
+chamois	camoscio (m)
+change	cambio (m); cambiamento (m); modifica (f)
+chaos	caos (m)
+chapter	capitolo (m)
+chase	inseguire; cacciare
+cheap	economico (m); economica (f)
+cheek	guancia (f)
+cheers	cin cin; alla salute; salute
+cheese	formaggio (m); cacio (m)
+cheetah	ghepardo (m)
+chemistry	chimica (f)
+cheque	assegno (m)
+cherry	ciliegia (f)
+chess	scacchi (m)
+chest	petto (m); torace; polmoni
+chestnut	castagna (f)
+chew	masticare
+chicken	pollo (m); gallo (m); gallina (f)
+child	bambino (m); bambina (f)
+chimpanzee	scimpanzé (m)
+chin	mento (m)
+chlorine	cloro (m)
+chocolate	cioccolato (m); cioccolata (f)
+choice	scelta (f)
+choir	coro (m)
+choose	scegliere; selezionare
+chord	accordo
+chromium	cromo (m)
+church	chiesa (f)
+cigarette	sigaretta (f)
+cinema	cinema (m)
+circle	cerchio (m)
+city	città (f)
+clarinet	clarino (m); clarinetto (m)
+clay	argilla (f); creta (f)
+clean	pulito
+clitoris	clitoride (m)
+clock	orologio (m)
+close	chiudere
+clothes	vestiti
+cloud	nuvola (f); nube (f)
+coast	costa; costiera; litorale
+cobalt	cobalto (m)
+cock	gallo (m)
+cockroach	blatta (f); scarafaggio (m)
+coconut	noce di cocco (f)
+coffee	caffè (m)
+coffin	bara (f); feretro (m); cassa da morto (f)
+coin	moneta (f)
+cold	raffreddore (m); influenza (f)
+cold war	guerra fredda (f)
+color	colore (m)
+columbine	colombina (f); aquilegia
+comb	pettine
+come	venire
+common gull	gavina
+communism	comunismo (m)
+compass	bussola (f)
+computer	calcolatore (m); computer (m); elaboratore (m)
+computer language	linguaggio di programmazione (m)
+concrete	calcestruzzo (m), (colloquial) cemento (m)
+condom	preservativo (m); profilattico (m); condom (m)
+conjunction	congiunzione (f)
+connective tissue	tessuto connettivo (m)
+conscience	coscienza (f)
+continent	continente (m)
+conversation	conversazione (f); dialogo (m); discorso (m)
+copper	rame (m)
+corn	granturco (m); granoturco (m); mais (m)
+corridor	corridoio (m)
+cotton	cotone (m)
+cough	tossire
+count	contare
+country	campo (f); campagna (f)
+courage	coraggio (m)
+cow	vacca (f); mucca (f)
+crab	granchio (m)
+crane	gru (f)
+cream	panna (f)
+cricket	grillo (m)
+crime	crimine (m); delitto (m)
+crocodile	coccodrillo (m)
+cross	croce (f); croce
+crossword	cruciverba (m), parole crociate (f'p)
+crow	cornacchia (f); corvo
+cruel	crudele
+cry	piangere
+crystal	cristallo (m)
+cube	cubo (m)
+cuckoo	cuculo (m); cucù (m)
+cucumber	cetriolo (m)
+culture	cultura (f)
+cunt	fica (f); figa (f); fregna (f)
+cup	tazza (f); coppa (f)
+curium	curio (m)
+current	corrente (m)
+curse	maledizione (f); maleficio (m)
+cycling	ciclismo (m)
+dance	ballare; danzare
+dangerous	pericoloso (m); pericolosa (f)
+dark	scuro; oscuro; fosco; tetro
+dark matter	materia oscura (f)
+darkness	oscurità (f)
+data	dato (m)
+date	incontro (m); appuntamento (m) 
+date palm	palma da dattero (f); palma da datteri (f)
+daughter	nuora (f)
+day	di
+dead	morto
+deaf	sordo (m); sorda (f)
+dear	caro; costoso
+death	morte (f)
+decade	decennio (m); decade (f)
+deer	cervo (m); alce (f); renna (f); daino (m); capriolo (m)
+delicious	squisito (m); delizioso (m)
+democracy	democrazia
+demon	demone (m); demonio (m)
+dentist	dentista
+desert	deserto
+devil	diavolo (m)
+dew	rugiada
+dialect	dialetto (m)
+diary	diario
+dick	pisello (m); cazzo (m); uccello (m); minchia (f)
+dictionary	dizionario (m)
+die	dado (m)
+difficult	difficile
+dig	scavare
+dining room	sala da pranzo (f)
+dinosaur	dinosauro
+dirty	sporco; sudicio; lurido; lercio
+discussion	discussione (f)
+disease	malattia (f)
+do	fare
+do you speak English	parli inglese? (italbrac'informal), parla inglese? (italbrac'formal), parlate inglese? (italbrac'formal or plural)
+doctor	dottore (m); dottoressa (f)
+documentation	documentazione (f)
+dog	cane (m)
+doll	bambola (f)
+dollar	dollaro (m)
+dolphin	delfino (m)
+donation	donazione (f)
+donkey	asino (m); somaro (m)
+door	porta (f); portiera (f); sportello (m); uscio
+dormouse	ghiro (m); moscardino (m)
+doubt	dubbio (m)
+dove	colomba (f); piccione (m)
+dozen	dozzina (f)
+dragon	drago (m); dragone (m); viverna
+dragonfly	libellula (f)
+dream	sognare
+dress	vestito (f); abito (m)
+drink	bevanda (f)
+dromedary	dromedario (m)
+drop	goccia (f)
+drum	batteria
+drunk	ubriaco; avvinazzato; ebbro; sborniato
+dry	secco; asciutto
+dubnium	dubnio (m)
+duck	anatra (f); papero (m)
+dust	polvere (f)
+duty	dovere (m)
+dyslexia	dislessia (f)
+dysprosium	disprosio (m)
+e	messaggio di posta elettronica; e-mail (f)
+e.g.	ad es. (ad esempio)
+each	ogni 
+eagle	aquila (f)
+eagle owl	gufo reale (m)
+ear	orecchio (m); orecchie (m)
+early	presto
+earth	terra (f)
+earthquake	terremoto (m); sisma (m)
+earthworm	lombrico
+east	est (m); oriente (m)
+easy	facile
+eat	mangiare
+echo	eco (f)
+eco	eco-
+ecology	ecologia (f)
+economics	economia (f)
+education	istruzione (f); educazione (f)
+eel	anguilla (m)
+egg	uovo (m)
+eight	otto
+eighteen	diciotto
+eighth	ottavo (m), ottava (f) ('before the noun') ('abbreviations' 8º (m), 8ª (f)); ('in names of monarchs and popes') ottavo (m), ottava (f) ('after the name') ('abbreviation' VIII)
+eighty	ottanta
+einsteinium	einstenio (m)
+ejaculation	eiaculazione (f)
+elbow	gomito (m)
+electricity	elettricità (f)
+electromagnetism	elettromagnetismo (m)
+electron	elettrone (m)
+electronics	elettronica (f)
+elephant	elefante (m)
+eleven	undici
+elf	elfo
+embassy	ambasciata (f)
+emperor	imperatore (m)
+empty	vuoto (m); vuota (f)
+encyclopedia	enciclopedia (f)
+end	fine (f)
+enemy	nemico (m)
+energy	energia (f)
+enjoy your meal	buon appetito
+enter	entrare
+epithelium	epitelio (m); tessuto epiteliale
+equation	equazione (f)
+erbium	erbio (m)
+erection	erezione (m)
+ermine	ermellino (m)
+erotic	erotico
+etymology	etimologia (f)
+euro	euro (m)
+europium	europio (m)
+euthanasia	eutanasia (f)
+evening	sera (f)
+event horizon	orizzonte degli eventi (m)
+every	ogni
+everybody	ciascuno
+everyone	ciascuno
+everything	tutto
+evil	malvagio (m)
+expensive	caro; costoso
+expression	espressione (f)
+eye	occhio (m)
+eye for an eye, a tooth for a tooth	occhio per occhio, dente per dente
+eyebrow	sopracciglio (m)
+eyelash	ciglio (m)
+eyelid	palpebra (f)
+face	faccia (f); viso (m); volto (m)
+falcon	falco (m); falcone (m)
+fall	cadere
+fallow deer	daino (m)
+family	famiglia (f)
+fan	ventaglio (m)
+far	lontano
+farm	fattoria (f); podere (m)
+farmer	agricoltore (m); fattore (m)
+fart	scoreggiare, fare un peto
+fast	digiuno (m)
+fat	grasso (m); obeso (m)
+father	suocero (m)
+fear	temere; aver paura di
+feather	piuma (f)
+federation	federazione (f)
+female	femminile
+feminism	femminismo (m)
+fermium	fermio (m)
+ferret	furetto (m)
+ferry	traghetto (m)
+fever	febbre (f)
+fifteen	quindici (m)
+fifth	quinto (m), quinta (f) ('before the noun') ('abbreviations' 5º (m), 5ª (f)); ('in names of monarchs and popes') quinto (m), quinta (f) ('after the name') ('abbreviation' V)
+fifty	cinquanta (f)
+fig	fico (m)
+fight	lottare; azzuffarsi; battersi
+film	film (m); pellicola (f)
+finger	dito (m); dita
+fir	abete (m)
+fire	fuoco (m)
+first	primo (m)
+fish	pesce (m)
+fist	pugno (m)
+five	cinque
+flag	bandiera (f)
+flame	fiamma (f)
+flea	pulce (f)
+floor	piano (m)
+flour	farina (f)
+flower	fiorire
+fluorine	fluoro (m)
+flute	flauto (m)
+fly	volare
+fog	nebbia (f)
+food	cibo (m); alimento (m)
+fool	imbecille (m); idiota (m); scemo (m); sciocco (m)
+foot	afta epizootica (f)
+football	calcio (m)
+for example	per esempio; ad esempio
+forefinger	indice (m)
+forehead	fronte (f)
+foreign	straniero (m); straniera (f)
+foreigner	straniero (m); straniera (f)
+forest	foresta (f); bosco; selva
+forget	dimenticare
+fork	forchetta (f)
+fortress	fortezza (f); rocca (f)
+forty	quaranta
+fountain	fontana
+four	quattro (m)
+fourteen	quattordici
+fourth	quarto (m), quarta (f) ('before the noun') ('abbreviations' 4º (m), 4ª (f)); ('in names of monarchs and popes') quarto (m), quarta (f) ('after the name') ('abbreviation' IV)
+fox	volpe (f)
+francium	francio (m)
+free	gratuito; gratis
+freedom	libertà
+freedom of speech	libertà di parola (f)
+friend	amico (m); amica (f)
+friendship	amicizia
+frog	rana (f)
+from	da#Italian'da ('which see for forms of "da" before a definite article'), di#Italian'di ('which see for forms of "di" before a definite article')
+fruit	frutta (f); frutto (m)
+fuck	scopare; trombare; fottere
+full	pieno
+fungus	fungo
+future	futuro; avvenire
+gadolinium	gadolinio (m)
+galaxy	galassia (f)
+gall bladder	cistifellea (f)
+gallium	gallio (m)
+game	gioco (m)
+garbage	immondizia (f); spazzatura (f); rifiuti
+garden	giardino (m)
+garlic	aglio (m)
+gas	gas (m)
+gasoline	benzina (f)
+genitive	caso genitivo (m)
+genocide	genocidio (m)
+geography	geografia (f)
+geometry	geometria (f)
+germanium	germanio (m)
+geyser	geyser (m)
+ghost	fantasma (m); spettro (m); spirito (m); larva (f); apparizione (f); ombra (f); simulacro (m) 
+giant	gigante (m); colosso (m)
+gift	regalo (m); dono (m); presente (m)
+ginger	zenzero (m)
+giraffe	giraffa (f)
+girl	bambina (f); (f)
+give	dare
+glacier	ghiacciaio (m)
+glass	bicchiere (m)
+glove	guanto (m)
+glue	colla (f)
+go	andare
+goat	capra (f)
+god	dio (m)
+gold	oro (m)
+golden eagle	aquila reale (f)
+golf	golf (m)
+gonorrhea	gonorrea (f)
+good	bene (m)
+good afternoon	buon pomeriggio; buongiorno
+good day	buon giorno; buongiorno
+good evening	buona sera
+good luck	buona fortuna; in bocca al lupo
+good morning	buon giorno; buongiorno
+good night	buona notte
+goodbye	arrivederci; arrivederla; ciao
+goose	oca (f)
+gooseberry	uva spina (f)
+goshawk	astore (m)
+government	governo (m)
+grammar	grammatica (f)
+grandchild	nipote (m)
+granddaughter	nipote (f)
+grandfather	nonno (m)
+grandmother	nonna (f)
+grape	uva (f)
+grass	erba (f); graminacea (f)
+grasshopper	cavalletta (f)
+graveyard	cimitero (m); camposanto (m)
+great spotted woodpecker	picchio rosso maggiore
+great tit	cinciallegra
+green	verde (m)
+green woodpecker	picchio verde (m)
+grey	grigio
+grey heron	airone cenerino (m); ardea cinerea (f)
+greylag goose	oca selvatica (f)
+griffon vulture	avvoltoio
+guest	ospite (m)
+guilt	colpa
+guinea fowl	faraona (f)
+guinea pig	cavia (f)
+guitar	chitarra (f)
+gull	gabbiano (m)
+gunpowder	polvere da sparo (f), polvere pirica (f)
+gypsy	zingaro (m); zingara (f)
+hafnium	afnio (m)
+hail	grandine (f)
+hair	peli (m)
+hajj	hajj (m)
+half	metà (f)
+hammer	martello (m)
+hammock	amaca (f)
+hamster	criceto (m)
+hand	mano (f)
+hangover	postumi dell'ubriachezza
+happen	accadere; succedere
+happiness	felicità (f); gioia (f)
+happy	felice (m); lieto (m); lieta (f)
+happy birthday	buon compleanno (standard)
+hard drive	disco rigido
+hare	lepre (f)
+hassium	hassio (m)
+hat	cappello (m)
+hate	odiare
+hatred	odio (m); risentimento (m)
+have	avere
+hawk	falco (m)
+hay	fieno (m)
+hazelnut	nocciola (f)
+he	lui; egli
+head	testa (f); capo (m)
+health	salute (f); sanità (f)
+hear	sentire; udire
+heart	cuore (m)
+heaven	cielo (m)
+heavy	pesante (m); pesanti
+hedgehog	riccio (m); porcospino (m)
+heel	tallone (m); calcagno (m)
+helicopter	elicottero (m)
+helium	elio (m)
+hell	inferno (m)
+hello	pronto
+help	aiuto!
+hemp	canapa (f)
+hen	gallina (f)
+her	il suo 'm sing', la sua 'f sing', i suoi (m'p), le sue (f'p)
+here	qua; qui
+hero	eroe (m)
+heron	airone (m)
+hi	ciao
+hill	collina (f)
+hippopotamus	ippopotamo (m)
+his	suo (m); sua (f); suoi; sue (f)
+history	storia (f)
+holmium	olmio (m)
+home	casa (f); focolare (m)
+homophobia	omofobia
+homosexuality	omosessualità (f)
+honey	miele (m)
+hoof	zoccolo (m)
+hope	sperare
+horn	corno (m); corna (f)
+horse	cavallo (m)
+hospital	ospedale (m)
+hot	(molto) caldo (m), (molto) calda (f)
+hotel	albergo (m); hotel (m)
+hour	ora (f)
+house	casa (f); casa
+how	come
+how are you	come stai? (informal), come sta? (formal)
+how many	quanti (m); quante (f)
+how much	quanto (m); quanta (f)
+how much does it cost	quanto costa?
+how old are you	quanti anni hai? (informal), quanti anni ha? (formal)
+hug	abbraccio (m)
+human	umano; essere umano
+human being	essere umano (m)
+human rights	diritti umani (m)
+humanism	umanesimo (m)
+hundred	cento (m)
+hungry	affamato
+hunt	cacciare
+husband	marito (m)
+hydrate	idrato (m)
+hydrogen	idrogeno (m)
+hyena	iena (f)
+ibex	stambecco (m)
+ice	ghiaccio (m)
+ice cream	gelato (m)
+iceberg	iceberg (m)
+if	se
+igneous rock	roccia magmatica (f)
+ill	malato
+important	importante
+in	in
+index	indice (m)
+indium	indio (m)
+information	informazione (f)
+injury	ferita (f); danno (m); lesione (f)
+ink	inchiostro (m)
+insect	insetto
+insulin	insulina (f)
+intelligence	intelligenza (f)
+interesting	interessante
+internal combustion engine	motore a scoppio (m)
+international	internazionale
+interpreter	interprete (m)
+iodine	iodio (m)
+iridium	iridio (m)
+iron	stirare
+is	è; sta
+island	isola (f)
+it	esso 
+jackdaw	taccola
+jay	ghiandaia (f)
+jellyfish	medusa (f)
+jihad	jihad (f)
+joy	gioia (f)
+juice	succo (m)
+juniper	ginepro (m)
+kangaroo	canguro (m)
+kestrel	gheppio (m)
+key	chiave (f)
+keyboard	tastiera (f)
+kidney	rene (m)
+kill	uccidere; ammazzare
+kilometre	chilometro (m)
+king	re (m)
+kingdom	regno (m); reame (m)
+kiss	baciare
+kitchen	cucina (f)
+kite	aquilone (m)
+knee	ginocchio
+knife	coltello (m)
+knight	cavallo (m)
+know	conoscere
+koala	koala (m)
+krypton	cripto (m); kripto (m); krypto (m)
+ladybird	coccinella (f)
+ladybug	coccinella (f)
+lake	lago (m)
+lamb	agnello (m); (m)
+land	terra (f)
+language	linguaggio (m)
+lanthanum	lantanio (m)
+large	grande
+lark	allòdola (f); lòdola (f); allodola (f)
+laser	laser (m)
+last year	l'anno scorso
+laugh	ridere
+lava	lava (f)
+law	legge (f)
+lawrencium	laurenzio (m)
+lawyer	avvocato (m); legale
+lazy	pigro
+lead	piombo (m)
+leaf	foglia (f)
+learn	imparare; apprendere
+least weasel	donnola (f)
+leather	cuoio (m)
+leech	sanguisuga (f)
+leek	porro (m)
+left	sinistro
+leg	gamba (f) (gloss'human), zampa (f) (gloss'animal), coscia (f) (gloss'chicken)
+lemon	limone (m)
+length	lunghezza (f)
+lesbian	lesbica (f)
+lesser spotted woodpecker	picchio rosso minore (m)
+lesson	lezione (f)
+letter	lettera (f)
+lettuce	lattuga (f)
+library	biblioteca (f)
+lie	mentire
+life	vita (f)
+light	illuminare
+light year	anno luce (m) 
+lighthouse	faro (m)
+lightning	fulmine (m); folgore (m); saetta (f); lampo (m)
+like	come
+lily	giglio (m)
+linguistics	linguistica (f)
+lion	leone (m)
+lip	labbro (m)
+listen	stare; in; ascolto; per; sentire
+literature	letteratura
+lithium	litio (m)
+litre	litro (m)
+little	piccolo
+little owl	civetta (f)
+live	abitare
+liver	fegato (m)
+lizard	lucertola (f)
+lobster	astice (m); aragosta (f)
+long	gufo comune
+look	guardare
+look for	cercare; ricercare
+louse	pidocchio (m)
+love	amore (m)
+low	basso (m); bassa (f)
+lung	polmone (m)
+lute	liuto (m)
+lutetium	lutezio (m)
+lynx	lince (f)
+machine language	linguaggio macchina (m); codice macchina (f)
+mackerel	sgombro (m)
+mad	pazzo; folle; matto; insano
+magma	magma (m)
+magnesium	magnesio (m)
+magpie	gazza (f)
+maize	granturco (m); granoturco (m); mais (m)
+mallard	anatra selvatica (f)
+mammal	mammifero (m)
+man	uomo
+manganese	manganese
+many	molti
+map	mappa (f)
+maple	acero (m)
+mare	cavalla (f)
+marijuana	erba (f); marijuana (f)
+marmot	marmotta
+marten	martora (f)
+masturbation	masturbazione (f)
+match	fiammifero (m)
+maternal grandfather	nonno materno
+mathematics	matematica (f)
+mattress	materasso (m)
+maybe	chissà
+meal	pasto (m)
+meat	carne (f)
+medicine	medicina (f); clinica (f)
+meet	incontrare
+meitnerium	meitnerio (m)
+melon	melone (m)
+memory	memoria (f)
+mendelevium	mendelevio (m)
+mercury	mercurio (m)
+metal	metallo
+microscope	microscopio (m)
+midnight	mezzanotte (f)
+midwife	ostetrica (f); levatrice (f)
+milk	mungere
+milliard	miliardo
+million	milione (m)
+millipede	millepiedi
+mind	mente (f)
+mine	miniera (f)
+mineralogy	mineralogia (f)
+mint	menta (f)
+minute	minuto (m)
+mirror	specchio (m)
+moat	fossato (m); fosso (m)
+mobile phone	cellulare (m), telefono cellulare (m), telefono mobile (m), telefonino (m)
+mole	talpa (f)
+molecule	molecola (f)
+molybdenum	molibdeno (m)
+moment	momento (m)
+monastery	monastero (m)
+money	denaro (m); soldi
+monk	monaco (m); frate (m)
+monkey	scimmia (f)
+month	mese (m)
+moon	satellite (m); luna (f)
+morning	mattina (f); mattino (m)
+mosque	moschea
+mosquito	zanzara (f)
+moss	muschio (m)
+moth	falena (f)
+mother	suocera (f)
+mother tongue	madrelingua (f)
+motorcycle	motocicletta (f); motociclo (m)
+mouflon	muflone (m)
+mountain	montagna (f); monte (m)
+mouse	mouse (m)
+moustache	baffi (m)
+mouth	bocca (f)
+movie	cinema (m); film (m)
+much	molto
+mud	fango (m)
+mule	mulo
+murder	assassinio (m); omicidio (m); delitto (m)
+muscle	muscolo (m)
+museum	museo (m)
+mushroom	fungo (m)
+music	musica (f)
+musician	musicista (m); musico (m)
+muskrat	topo muschiato (m)
+mustard	senape (f)
+my	mio (m)
+my name is	mi chiamo...
+mysterious	misterioso
+mystery	mistero (m)
+mythology	mitologia (f)
+nail	chiodo (m)
+naked	nudo
+name	fama (f); riputazione (f)
+narrow	stretto (m); stretta (f); angusto
+nature	natura (f)
+navel	ombelico (m); (m)
+nebula	nebulosa (f)
+neck	collo (m)
+necklace	collana (f)
+needle	ago (m)
+neighbour	vicino (m); vicina (f)
+neodymium	neodimio (m)
+neon	neon (m); neo (m)
+neptunium	nettunio (m)
+nest	nido (m)
+nettle	ortica (f)
+neutrino	neutrino (m)
+never	giammai; mai
+new	nuovo (m); nuova (f)
+news	telegiornale (m) (on television)
+newspaper	giornale (m); quotidiano (m)
+nickel	nichel, nickelio (m)
+niece	nipote (f)
+night	notte (f)
+nightingale	usignolo (m)
+nightmare	incubo (m) 
+nine	nove
+nineteen	diciannove
+ninety	novanta
+ninth	nono (m), nona (f) ('before the noun') ('abbreviations' 9º (m), 9ª (f)); ('in names of monarchs and popes') nono (m), nona (f) ('after the name') ('abbreviation' IX)
+niobium	niobio (m)
+nipple	capezzolo (1,2) (m), ugello (3) (m)
+nitrogen	azoto (m)
+no	no
+no smoking	vietato fumare
+nobelium	nobelio (m)
+nobody	nessuno
+non	organizzazione non governativa (f)
+nonkilling	nonuccidere (m)
+noon	mezzogiorno (m)
+north	nord; settentrione
+nose	naso (m)
+not	non
+notebook	blocco (m)
+nothing	non#Italian'non + 'verb' + niente
+noun	sostantivo (m); nome (m)
+now	adesso; ora
+nude	nudo
+number	numero (m)
+nurse	infermiere (m); infermiera (f)
+nut	noce (f)
+oak tree	quercia (f); (f)
+oar	remo (m)
+obedience	obbedienza (f)
+obesity	obesità
+oboe	oboe (m)
+ocean	oceano (m)
+octopus	piovra (f); polipo (m); polpo (m); ottopode
+of	di
+of course	certo; per forza; naturalmente
+office	ufficio (m)
+often	spesso
+oil	petrolio (m); benzina (f)
+old	vecchio
+olive	oliva (m)
+on	su
+once upon a time	c'era una volta
+one	uno 
+onion	cipolla (f)
+open	aperto; dischiuso
+operating system	sistema operativo (m)
+opinion	opinione (f); concetto (m); parere
+or	o; od 
+orange	arancio (m)
+organ	organo (m)
+organism	organismo (m)
+orgasm	orgasmo (m)
+orphan	orfano
+osmium	osmio (m)
+ostrich	struzzo (m)
+other	altro (m)
+otter	lontra (f)
+our	nostro (m)
+ovary	ovaia (f); ovaio (m); ovario (m)
+owl	gufo (m); civetta (f) 
+ox	bue (m)
+oxygen	ossigeno (m)
+page	pagina (f)
+pain	dolore (m)
+paint	vernice (f) (housepaint), colore (m), pittura (f) (regional)
+painter	pittore (m); pittrice (f)
+palace	palazzo (m)
+palladium	palladio (m)
+palm	palmo
+pancreas	pancreas (m)
+pants	calzoni (f); pantaloni (m)
+papaya	papaia (f)
+paper	carta (f)
+paradox	paradosso (m)
+park	parco (m)
+parliament	parlamento (m)
+parrot	pappagallo (m)
+part	parte (f)
+partridge	pernice (f)
+passport	passaporto (m)
+password	parola chiave (f); password (f)
+paternal aunt	zia (f)
+paternal grandfather	nonno paterno
+peace	pace (f)
+peach	pesca (f)
+peacock	pavone
+peanut	arachide (f)
+pear	pera (f)
+pen	penna (f)
+pencil	matita (f)
+penguin	pinguino (m)
+penicillin	penicillina (f)
+peninsula	penisola (f)
+penis	pene (m)
+people	popolo (m); nazione (f)
+pepper	pepe (m)
+percent	per cento
+peregrine falcon	falco pellegrino (m)
+perestroika	perestroika
+perhaps	forse
+perineum	perineo (m)
+periodic table	tavola periodica (f)
+person	persona (f)
+petrol	benzina (f)
+petroleum	petrolio (m)
+pharaoh	faraone (m)
+pharmacy	farmacia (f)
+pheasant	fagiano (m)
+philosopher	filosofo (m)
+phoenix	fenice (f)
+phone	telefono (m)
+phosphorus	fosforo (m)
+photograph	fotografia (f)
+photography	fotografia (f)
+physics	fisica (f)
+piano	pianoforte (m); piano (m)
+picture	quadro (m); immagine (f)
+pie	torta (f); crostata (f)
+piece	pezzo (m); porzione (f)
+pig	maiale (m); porco (m)
+pigeon	piccione (m); picciona (f); colombo (m); colomba (f)
+piglet	maialino (m); porcello
+pillow	guanciale (m)
+pimple	pustola, pustoletta, brufolo (m), foruncoloso (m)
+pin	spillo (m)
+pine	pino (m)
+pineapple	ananas (m); ananasso (m)
+pink	rosa
+pirate	pirata (m)
+pizza	pizza (f)
+place	luogo (m); posto (m); posizione (f)
+planet	pianeta (m)
+plant	pianta (f)
+plate	piatto (m)
+platinum	platino (m)
+platypus	ornitorinco (m)
+play	giocare
+please	per favore; per piacere 
+pleasure	piacere (m)
+plough	aratro (m)
+plum	prugna (f); susina (f)
+plutonium	plutonio (m)
+pocket	tasca (f)
+poem	poema (m); poesia (f)
+poetry	poesia (f)
+poison	veleno (m)
+polar bear	orso polare (m)
+polecat	puzzola (f)
+police	polizia (f)
+policeman	poliziotto (m); agente (m); gendarme (m); carabiniere
+polite	cortese; educato (m)
+politician	politico (m)
+politics	politica (f)
+polonium	polonio (m)
+polygon	poligono (m)
+pomegranate	melagrana (f)
+poor	povero (m); povera (f)
+pope	papa (m); pontefice (m)
+poplar	pioppo (m)
+pornography	pornografia (f)
+port	porto (m)
+post office	ufficio postale (m); posta (f)
+postage stamp	francobollo (m)
+postcard	cartolina
+postcode	codice postale (m)
+postmodernism	postmodernismo (m)
+potassium	potassio (m)
+pound	libbra (f)
+power	potenza (f)
+praseodymium	praseodimio (m)
+prayer	preghiera (f); orazione (f)
+pregnancy	gravidanza (f)
+pregnant	incinta 'f only', gravida 'f only'
+preposition	preposizione (f)
+prepuce	prepuzio (m)
+president	presidente (m)
+pretty	grazioso; carino
+price	prezzo (m)
+priest	prete (m); sacerdote (m)
+prime minister	primo ministro (m)
+prime number	numero primo (m)
+prison	prigione (f); carcere (m)
+problem	problema (m)
+promethium	promezio (m)
+pronoun	pronome (m)
+pronunciation	pronuncia (f)
+property	proprietà (f); beni (m)
+prostitute	prostituta (f)
+protactinium	protoattinio (m)
+protect	proteggere
+proton	protone
+proverb	proverbio (m)
+pumpkin	zucca (f)
+purple	porpora (m)
+quail	quaglia (f)
+quarter	quarto (m)
+queen	regina (f)
+question	domanda (f)
+quotation marks	virgolette (f'p) [«◌»]
+rabbit	coniglio (m)
+radio	(l'it'radio) (f)
+radon	radon (m); rado (m)
+railway	ferrovia (f)
+rain	piovere
+rainbow	arcobaleno (m); iride (f)
+rake	rastrello (m)
+ram	ariete (m); montone (m) 
+rape	stupro (m); violento (m)
+raspberry	lampone (m)
+rat	topo (m); sorcio (m); ratto (m)
+raven	corvo (m)
+read	leggere
+recent	recente
+rectangle	rettangolo (m)
+red	rosso (m)
+red deer	cervo nobile (m)
+refrigerator	frigorifero (m)
+reindeer	renna (f)
+relative	parente (m); congiunto (m)
+religion	religione (f)
+reptile	reptilia; rettile (m)
+republic	repubblica (f)
+restaurant	ristorante (m)
+revenge	vendetta (f); rivincita (f); rivalsa (f); ritorsione (f)
+revolution	rivoluzione (f)
+rhenium	renio (m)
+rhinoceros	rinoceronte (m)
+rhodium	rodio (m)
+rice	riso (m)
+rich	ricco (m); ricca (f)
+rifle	fucile (m)
+right	corretto
+ring	anello (m)
+ring finger	anulare (m)
+river	fiume; rivo (m)
+road	strada (f); via (f)
+robot	robot (m)
+rock dove	piccione selvatico (m)
+roe deer	capriolo (m)
+roof	tetto (m)
+rook	rocco (m); torre (f)
+room	stanza (f); camera (f); sala (f)
+rooster	gallo (m)
+root	radice (f)
+rope	corda (f); cavo (m)
+rose	rosa (f)
+rubidium	rubidio (m)
+ruble	rublo (m)
+run	correre
+ruthenium	rutenio (m)
+rutherfordium	rutherfordio (m)
+rye	segale (f)
+saliva	saliva (f)
+salmon	salmone (m)
+salt	sale (m)
+samarium	samario (m)
+same	stesso
+sand	sabbia (f); rena (f)
+sandwich	tramezzino (m); panino (m)
+sauce	salsa (f)
+sausage	salame (m); salume (m); insaccato (m)
+saw	sega (f)
+say	dire
+scandium	scandio (m)
+scar	cicatrice (f)
+schizophrenia	schizofrenia (f)
+school	facoltà (f)
+science	scienza (f)
+scissors	forbici (f)
+scorpion	scorpione
+scrotum	scroto
+sea	mare (m)
+seaborgium	seaborgio (m)
+seagull	gabbiano
+seal	foca (f)
+season	stagione (f)
+second	secondo (m)
+secret	segreto
+see	vedere
+seed	seme (m)
+selenium	selenio (m)
+sell	vendere
+semen	seme (m)
+send	inviare; mandare
+sentence	frase (f)
+service	servizio (m)
+seven	sette
+seventeen	diciassette
+seventh	settimo (m), settima (f) ('before the noun') ('abbreviations' 7º (m), 7ª (f)); ('in names of monarchs and popes') settimo (m), settima (f) ('after the name') ('abbreviation' VII)
+seventy	settanta (m)
+sex	sesso (m)
+sexual orientation	orientamento sessuale (m)
+shadow	ombra (f)
+shark	squalo (m); pescecane (m)
+she	lei; ella
+sheep	pecora (f)
+shepherd	pastore (m); pecoraio; pecoraro
+ship	nave (f)
+shirt	camicia (f)
+shit	cacare; cagare
+shoe	scarpa (f); calzatura (f)
+shop	magazzino (m); negozio (m)
+shore	riva (f)
+shoulder	spalla (f)
+shrew	toporagno (m)
+sick	ammalato (m); ammalata (f)
+sickle	falce (f)
+silence	silenzio (m)
+silicon	silicio (m)
+silk	seta (f)
+silver	argento (m)
+simple	semplice
+sin	peccato
+sing	cantare
+singer	cantante
+sister	sorella (f)
+sit	sedere; essere seduto
+six	sei
+sixteen	sedici (m)
+sixth	sesto (m), sesta (f) ('before the noun') ('abbreviations' 6º (m), 6ª (f)); ('in names of monarchs and popes') sesto (m), sesta (f) ('after the name') ('abbreviation' VI)
+sixty	sessanta
+skeleton	scheletro (m)
+skin	pelle (f)
+skirt	gonna
+skull	cranio (m); teschio (m)
+sky	cielo (m); paradiso (m)
+skylark	allodola (f)
+skyscraper	grattacielo (m)
+slave	schiavo (m); schiava (f)
+sleep	sonno (m)
+slow	lento (m); lenta (f)
+small	piccolo
+smell	odore
+smile	sorridere
+smoke	fumare
+snail	chiocciola (f); lumaca (f)
+snake	serpente (m); serpe (f); biscia (f)
+sneeze	starnutire
+snooker	biliardo (m)
+snow	neve (f)
+snowflake	fiocco di neve (m)
+soap	sapone (m)
+soccer	calcio (m)
+socialism	socialismo (m)
+sock	calza (f); calzino (m)
+sodium	sodio (m)
+sofa	divano (m); sofà (m)
+software	software (m)
+solar wind	vento solare (m)
+soldier	soldato (m)
+someone	qualcuno
+something	qualcosa
+sometimes	qualche volta; talvolta; a volte
+son	figlio (m)
+song	canzone (f)
+soon	presto; a breve
+sorry	scusi,scusa, mi scusi, mi scuso
+soul	anima (f)
+sound	suono (m)
+soup	minestra (f)
+sour	agro
+south	sud; mezzogiorno; meridione
+spacecraft	nave spaziale; astronave
+spaceship	astronave (f); nave spaziale (m)
+spacetime	spaziotempo (m)
+spade	pala; vanga (f)
+sparrow	passero (m)
+sparrow hawk	sparviero (m)
+speak	parlare
+spectacles	occhiali (m)
+sphere	sfera (f)
+spice	spezie (f)
+spider	ragno (m)
+spirit	spirito (m)
+spit	sputare
+spleen	milza (f)
+spoon	cucchiaio (m)
+sport	sport (m)
+spring	molla (f)
+spruce	peccio (m)
+spy	spia (f)
+square	piazza (f)
+squid	calamaro (m)
+squirrel	scoiattolo (m)
+stand	stare in piedi
+star	stella (f); star (f)
+starling	storno (m)
+station	stazione (f); fermata (f)
+statue	statua (f)
+steel	acciaio (m)
+stomach	stomaco (m)
+stone	pietra (f); sasso (m); sassolino (m)
+stork	cicogna (f)
+story	racconto (m); storia (f)
+strange	strano (m); strana (f)
+strawberry	fragola (f)
+street	strada (f); via (f)
+strength	forza (f); vigore (m); energia (f)
+string	spago (m); stringa (f); laccetto (m); legaccio (m)
+strong	forte
+strontium	stronzio (m)
+student	studente (m); studentessa
+submarine	sottomarino (m); sommergibile (m)
+suck	succhiare, suggere
+suddenly	all'improvviso; improvvisamente
+sugar	zucchero (m)
+suicide	suicidio (m)
+sulfur	zolfo (m)
+summer	estate (f)
+sun	sole (m)
+sunflower	girasole (m)
+surname	cognome (m)
+swallow	deglutire; inghiottire
+swan	cigno (m)
+sweet	dolce; zuccheroso
+sweet potato	patata dolce (f); patata americana (f); batata (f)
+sweetener	dolcificante (m)
+swim	nuotare
+swimming pool	piscina (f)
+sword	spada (f), brando (m) (italbrac'poetic)
+system	sistema (m)
+table	tavola (f); tavolo (m)
+tadpole	girino (m)
+taiga	taiga (f)
+tail	coda (f)
+take	prendere
+talent	talento (m)
+talk	parlare
+tank	carro armato (m)
+tantalum	tantalio (m)
+tattoo	tatuaggio (m)
+tawny owl	allocco
+taxi	taxi (m); tassì (m)
+tea	tè (m)
+teach	insegnare (1,2)
+teacher	insegnante (m); docente (m)
+tear	lacrima (f)
+technetium	tecnezio (m); tecneto (m)
+telephone	telefonare
+telescope	telescopio (m); cannocchiale (m)
+television	televisore (m)
+tellurium	tellurio (m)
+temple	tempio (m)
+ten	dieci
+tent	tenda (f)
+tenth	decimo (m), decima (f) ('before the noun') ('abbreviations' 10º (m), 10ª (f)); ('in names of monarchs and popes') decimo (m), decima (f) ('after the name') ('abbreviation' X)
+terbium	terbio (m)
+territory	territorio (m)
+terrorism	terrorismo (m)
+terrorist	terrorista (m)
+testicle	testicolo (m); coglione (m) 
+thallium	tallio (m)
+than	di; che
+thank you	grazie
+thank you very much	tante grazie, grazie mille <!--[sic]-->
+thanks	grazie
+that	quello (m); quella (f)
+the	il (m); lo (m); la (f); i (m); gli (m); le (f)
+their	loro
+there	là; ivi
+there is	c'è'c’è, (plural) ci sono
+they	essi; loro
+thief	ladro (m); ladra (f)
+thigh	coscia (f)
+thimble	ditale (m)
+thing	cosa (f)
+think	pensare; riflettere
+third	terzo (m), terza (f) ('abbreviations' 3º (m), 3ª (f)); ('in names of monarchs and popes') terzo (m), terza (f) ('after the name') ('abbreviation' III)
+thirst	sete (f)
+thirteen	tredici (m)
+thirty	trenta
+this	questo (m); questa (f)
+thorium	torio (m)
+thorn	spina (f); aculeo
+thou	tu
+thought	idea (f)
+thousand	mille (m)
+thread	filo (m)
+three	tre
+throat	gola (f)
+thulium	tulio (m)
+thumb	pollice (m); dito grosso (m)
+thunder	tuono (m)
+tiger	tigre (f)
+time	volta (f)
+tin	stagno (m)
+tired	stanco; esausto; fatto; distrutto; affaticato
+titanium	titanio (m)
+to	a; in; per
+toad	rospo (m)
+tobacco	tabacco (m)
+today	oggi; oggigiorno; attualmente
+toe	dito del piede (m); dito (m)
+together	insieme
+toilet	bagno (m), gabinetto (m), toilette (f), WC#Italian'WC (m), cesso (m) (slang), ritirata (f), toeletta (f) (rare), toletta (f) (rare)
+tomato	pomodoro (m)
+tomorrow	domani
+tongue	lingua (f)
+too	troppo
+tooth	dente (m)
+toothbrush	spazzolino da denti (m)
+tortoise	tartaruga (f)
+touch	toccare
+tourism	turismo (m)
+tower	torre (f)
+town	città (f)
+toy	giocattolo (m); balocco (m)
+tradition	tradizione (f)
+train	treno (m)
+tram	tram (m)
+translate	tradurre
+translation	traduzione (f)
+translator	traduttore (m); traduttrice (f)
+travel	viaggiare
+tree	albero (m)
+triangle	triangolo (m)
+tribe	tribù (f)
+trousers	calzoni (f); pantaloni (m); brache (f)
+truck	autocarro (m); camion (m)
+true	vero
+trumpet	tromba (f)
+tsar	zar (m)
+tsunami	tsunami#Italian'tsunami (m) (invariable), maremoto (m)
+tungsten	tungsteno (m); wolframio (m)
+turkey	tacchino (m)
+turtle	tartaruga (f)
+turtle dove	tortora (f)
+twelve	dodici
+twenty	ventitré
+twin	gemello (m)
+two	due
+two hundred	duecento
+typhoon	tifone
+umbrella	ombrello (m); parapioggia
+uncle	zio (m)
+understand	capire; comprendere; intendere
+unemployment	disoccupazione (f)
+university	università (f)
+uranium	uranio (m)
+urethra	uretra (f)
+urine	orina (f); urina (f)
+use	usare
+useful	utile
+vagina	vagina (f)
+valley	valle (f)
+vampire	vampiro
+vanadium	vanadio (m)
+vegetable	verdura (f)
+verb	verbo (m)
+very	molto
+victory	vittoria (f)
+village	villaggio (m); borgo (m)
+vinegar	aceto (m)
+violet	viola (m)
+violin	violino (m)
+virus	virus (m)
+visa	vista (f); nulla osta (f)
+vodka	vodka (f)
+voice	voce (f)
+volcano	vulcano (m)
+volleyball	pallavolo (f); palla a volo (f)
+volt	volt (m)
+vulture	avvoltoio (m); grifone (m) 
+wait	aspettare
+waiter	cameriere (m)
+wake up	svegliarsi
+walk	camminare; andare a piedi
+wall	muro (m); fortificazione (f)
+walrus	tricheco (m)
+want	volere
+war	guerra (f)
+warm	caldo
+wart	verruca (f); porro (m)
+wash	lavare
+wasp	vespa (f)
+watch	orologio (m)
+water	acqua (f)
+waterfall	cascata (f)
+watermelon	cocomero (m); anguria (f)
+wave	onda (f)
+wax	cera (f)
+way	via (f)
+we	noi; noialtri
+weapon	arma (f)
+weather	tempo (m)
+web site	sito web (m); sito (m)
+wedding	matrimonio (m); nozze (f); sposalizio (m)
+week	settimana (f)
+weekend	weekend#Italian'weekend (m), fine settimana (m) or (f)
+welcome	benvenuto! (m), benvenuta! (f), benvenuti! (p), benvenute! (f'p), salve
+well	bene
+werewolf	licantropo (m) 
+west	ovest; occidente; ponente
+wet	molle; bagnato (m); bagnata (f)
+whale	balena (f)
+what	che cosa; cosa
+what is your name	Come si chiama? (formal); Come ti chiami? (casual)
+what time is it	che ora è?, che ore sono?
+wheat	frumento (m); grano (m)
+wheel	ruota (f)
+when	quando
+where	dove
+where is the toilet	dov'è il bagno?, dov'è la toilette?
+whip	frusta (f); nerbo (m)
+whiskey	whisky (m)
+white	bianco (m)
+who	chi
+whole	intero
+whore	puttana; baldracca; prostituta; scrofa; troia; meretrice; zoccola; peripatetica; mignotta; sciacquetta
+why	perché
+wide	largo; ampio
+widow	vedova (f)
+wife	sposa (f); moglie (f)
+wild boar	cinghiale (m)
+wildcat	gatto selvatico (m)
+willow	salice (m)
+wind	vento (m)
+window	finestra (f)
+wine	vino (m)
+wing	ala (f)
+winter	inverno (m)
+wise	saggio
+wisent	bisonte europeo (m)
+wish	volere; desiderare
+witch	strega (f); fattucchiera (f)
+with	con
+without	senza
+wolf	lupo (m)
+woman	donna (f)
+wood	legno (m)
+woodpecker	picchio (m)
+wool	lana (f)
+word	parola (f); vocabolo (m); termine (m)
+work	lavorare
+workers of the world, unite	lavoratori di tutto il mondo, unitevi!; or proletari di tutti i paesi, unitevi!
+world	mondo (m)
+worm	verme (m)
+wrist	polso (m)
+write	scrivere
+writer	scrittore (m); scrittrice (f)
+xenon	xenon (m); xeno (m)
+xenophobia	xenofobia (f)
+yawn	sbadigliare
+year	anno (m)
+yeast	lievito (m)
+yellow	giallo (m)
+yes	sì
+yesterday	ieri (m)
+yoga	yoga
+yoghurt	yogurt (m)
+yolk	tuorlo (m)
+you	(polite) voi, (formal polite) Loro
+young	giovane
+your	vostro
+ytterbium	itterbio (m)
+yttrium	ittrio (m)
+zebra	zebra
+zero	zero (m)
+zinc	zinco (m)

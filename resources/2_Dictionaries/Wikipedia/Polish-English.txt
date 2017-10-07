@@ -1,0 +1,7369 @@
+Polish	English
+0 (liczba)	0 (number)
+1	1
+1 (liczba)	1 (number)
+10	10
+10 (liczba)	10 (number)
+100	100
+1000	1000
+1000 (liczba)	1000 (number)
+101	101
+105	105
+11	11
+11 (liczba)	11 (number)
+110	110
+115	115
+12	12
+12 (liczba)	12 (number)
+120	120
+125	125
+13	13
+13 (liczba)	13 (number)
+130	130
+135	135
+14	14
+14 (liczba)	14 (number)
+140	140
+144	144
+145	145
+15	15
+15 (liczba)	15 (number)
+150	150
+155	155
+16	16
+16 (liczba)	16 (number)
+160	160
+165	165
+17	17
+17 (liczba)	17 (number)
+170	170
+1728	1728
+175	175
+Lata 50. XVIII wieku	1750s
+Lata 60. XVIII wieku	1760s
+Lata 70. XVIII wieku	1770s
+Lata 80. XVIII wieku	1780s
+Lata 90. XVIII wieku	1790s
+18	18
+18 (liczba)	18 (number)
+180	180
+Lata 20. XIX wieku	1820s
+Lata 30. XIX wieku	1830s
+Lata 40. XIX wieku	1840s
+Lata 50. XIX wieku	1850s
+Lata 60. XIX wieku	1860s
+Lata 70. XIX wieku	1870s
+Lata 80. XIX wieku	1880s
+Lata 90. XIX wieku	1890s
+19	19
+19 (liczba)	19 (number)
+190	190
+Lata 1900-1909	1900s
+Lata 20. XX wieku	1920s
+Lata 30. XX wieku	1930s
+Lata 40. XX wieku	1940s
+Lata 50. XX wieku	1950s
+Lata 60. XX wieku	1960s
+Lata 70. XX wieku	1970s
+Lata 80. XX wieku	1980s
+Lata 90. XX wieku	1990s
+2	2
+2 (liczba)	2 (number)
+20	20
+20 (liczba)	20 (number)
+200	200
+21	21
+21 (liczba)	21 (number)
+22	22
+22 (liczba)	22 (number)
+23	23
+23 (liczba)	23 (number)
+24	24
+24 godziny	24 (TV series)
+24 (liczba)	24 (number)
+25	25
+25 (liczba)	25 (number)
+26	26
+26 (liczba)	26 (number)
+27	27
+27 (liczba)	27 (number)
+28	28
+28 (liczba)	28 (number)
+29	29
+29 (liczba)	29 (number)
+3	3
+3 (liczba)	3 (number)
+30	30
+30 (liczba)	30 (number)
+300	300
+31	31
+31 (liczba)	31 (number)
+32	32
+32 (liczba)	32 (number)
+33	33
+33 (liczba)	33 (number)
+34	34
+34 (liczba)	34 (number)
+35	35
+35 (liczba)	35 (number)
+36	36
+36 (liczba)	36 (number)
+37	37
+37 (liczba)	37 (number)
+38	38
+38 (liczba)	38 (number)
+39	39
+39 (liczba)	39 (number)
+4	4
+4 (liczba)	4 (number)
+40	40
+40 (liczba)	40 (number)
+400	400
+41	41
+41 (liczba)	41 (number)
+42	42
+42 (liczba)	42 (number)
+43	43
+43 (liczba)	43 (number)
+44	44
+45	45
+45 (liczba)	45 (number)
+46	46
+46 (liczba)	46 (number)
+47	47
+48	48
+49	49
+49 (liczba)	49 (number)
+5	5
+5 (liczba)	5 (number)
+50	50
+50 (liczba)	50 (number)
+500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+6 (liczba)	6 (number)
+60	60
+60 (liczba)	60 (number)
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (liczba)	7 (number)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+8 (liczba)	8 (number)
+80	80
+80 (liczba)	80 (number)
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+9 (liczba)	9 (number)
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+А (cyrylica)	A (Cyrillic)
+A cappella	A cappella
+ABC	ABC
+Zespół nabytego niedoboru odporności	AIDS
+Algol (język programowania)	ALGOL
+ATP (ujednoznacznienie)	ATP
+AZ Alkmaar	AZ (football club)
+Akwizgran	Aachen
+Aalborg	Aalborg
+Aare	Aar
+Mrównik	Aardvark
+Århus	Aarhus
+Aaron (postać biblijna)	Aaron
+Abakus (liczydło)	Abacus
+Abadan	Abadan
+Opat	Abbot
+Skrót	Abbreviation
+Odwłok	Abdomen
+Abel Tasman	Abel Tasman
+Grupa przemienna	Abelian group
+Aberdeen	Aberdeen
+Abidżan	Abidjan
+Abchazja	Abkhazia
+Kategoria:Abchazja	Abkhazia
+Abolicjonizm	Abolitionism
+Aborcja	Abortion
+Abraham (postać biblijna)	Abraham
+Abraham Lincoln	Abraham Lincoln
+Absynt	Absinthe
+Absolutna wielkość gwiazdowa	Absolute magnitude
+Wartość bezwzględna	Absolute value
+Zero bezwzględne	Absolute zero
+Absolutyzm władzy	Absolutism (European history)
+Abstrakcjonizm	Abstract art
+Ekspresjonizm abstrakcyjny	Abstract expressionism
+Abstrakcja (filozofia)	Abstraction
+Abu Zabi	Abu Dhabi
+Abu Zabi	Abu Dhabi (emirate)
+Abudża	Abuja
+Akacja	Acacia
+Nagroda Akademii Filmowej	Academy Award
+Acapulco	Acapulco
+Przyspieszenie	Acceleration
+Jastrzębiowate	Accipitridae
+Akordeon	Accordion
+Rachunkowość	Accountancy
+Kategoria:Rachunkowość	Accountancy
+Akra (Ghana)	Accra
+Biernik	Accusative case
+Aldehyd octowy	Acetaldehyde
+Kwas octowy	Acetic acid
+Aceton	Acetone
+Acetylocholina	Acetylcholine
+Etyn	Acetylene
+Acheron	Acheron
+Krwawnik pospolity	Achillea millefolium
+Achilles	Achilles
+Kwasy	Acid
+Kwaśny deszcz	Acid rain
+Trądzik młodzieńczy	Acne vulgaris
+Aconcagua	Aconcagua
+Żołądź (botanika)	Acorn
+Akustyka	Acoustics
+Kategoria:Akustyka	Acoustics
+Akr	Acre
+Akka	Acre
+Acre	Acre (state)
+Akropol	Acropolis
+Aktynowce	Actinide
+Aktyn	Actinium
+Aktor	Actor
+Dzieje Apostolskie	Acts of the Apostles
+Akupunktura	Acupuncture
+Argumentum ad hominem	Ad hominem
+Ada (informatyka)	Ada (programming language)
+Adam Smith	Adam Smith
+Adana	Adana
+Baobab	Adansonia
+Uzależnienie	Addiction
+Addis Abeba	Addis Ababa
+Dodawanie	Addition
+Adelajda	Adelaide
+Aden	Aden
+Adenina	Adenine
+Adenozynotrifosforan	Adenosine triphosphate
+Przemiana adiabatyczna	Adiabatic process
+Adyga	Adige
+Przymiotnik	Adjective
+Admirał	Admiral
+Dojrzewanie	Adolescence
+Adolf Eichmann	Adolf Eichmann
+Adolf Hitler	Adolf Hitler
+Adonis (mitologia grecka)	Adonis
+Adopcja	Adoption
+Nadnercze	Adrenal gland
+Morze Adriatyckie	Adriatic Sea
+Adsorpcja	Adsorption
+Dorosłość	Adult
+Adwent	Advent
+Przysłówek	Adverb
+Reklama	Advertising
+Morze Egejskie	Aegean Sea
+Eneasz (mitologia)	Aeneas
+Eneida	Aeneid
+Eol	Aeolus
+Aerodynamika	Aerodynamics
+Aerozol	Aerosol
+Ajschylos	Aeschylus
+Ezop	Aesop
+Estetyka	Aesthetics
+Zrostek	Affix
+Afganistan	Afghanistan
+Kategoria:Afganistan	Afghanistan
+Afryka	Africa
+Kategoria:Afryka	Africa
+Afroamerykanin	African American
+Język afrikaans	Afrikaans
+Agamemnon	Agamemnon
+Agar-agar	Agar
+Agat	Agate
+Agatha Christie	Agatha Christie
+Agresja (psychologia)	Aggression
+Bezżuchwowce	Agnatha
+Agnostycyzm	Agnosticism
+Agora	Agora
+Agorafobia	Agoraphobia
+Agra	Agra
+Rolnictwo	Agriculture
+Kategoria:Rolnictwo	Agriculture
+Agrigento	Agrigento
+Aikido	Aikido
+Ain (departament)	Ain
+Wojska lotnicze	Air force
+Airbus	Airbus
+Statek powietrzny	Aircraft
+Kategoria:Samoloty	Aircraft
+Lotniskowiec	Aircraft carrier
+Linie lotnicze	Airline
+Lotnisko	Airport
+Ajax	Ajax
+Ajaks Wielki	Ajax (mythology)
+AJAX	Ajax (programming)
+Echnaton	Akhenaten
+Akira Kurosawa	Akira Kurosawa
+Al Capone	Al Capone
+Al Gore	Al Gore
+Al-Kaida	Al-Qaeda
+Alabama	Alabama
+Kategoria:Alabama	Alabama
+Alan Shepard	Alan Shepard
+Alan Mathison Turing	Alan Turing
+Alanina	Alanine
+Alaska	Alaska
+Kategoria:Alaska	Alaska
+Alban Berg	Alban Berg
+Albania	Albania
+Kategoria:Albania	Albania
+Albany (Nowy Jork)	Albany
+Albatrosy	Albatross
+Albedo	Albedo
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Schweitzer	Albert Schweitzer
+Albert Speer (ojciec)	Albert Speer
+Alberta (prowincja Kanady)	Alberta
+Albinizm	Albinism
+Albit	Albite
+Album (wydawnictwo muzyczne)	Album
+Albuquerque (Nowy Meksyk)	Albuquerque
+Alchemia	Alchemy
+Kategoria:Alchemia	Alchemy
+Alkohole	Alcohol
+Napój alkoholowy	Alcoholic beverage
+Alkoholizm	Alcoholism
+Aldebaran	Aldebaran
+Aldehydy	Aldehyde
+Olsza	Alder
+Aldous Huxley	Aldous Huxley
+Alec Guinness	Alec Guinness
+Aleksander Sołżenicyn	Aleksandr Solzhenitsyn
+Aleppo	Aleppo
+Aleuty	Aleutian Islands
+Alexander	Alexander
+Alexander Fleming	Alexander Fleming
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Hamilton	Alexander Hamilton
+Alexander Pope	Alexander Pope
+Aleksander Puszkin	Alexander Pushkin
+Aleksander Macedoński	Alexander the Great
+Aleksander Dumas (ojciec)	Alexandre Dumas
+Aleksander Dumas (syn)	Alexandre Dumas
+Aleksandria	Alexandria
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Dreyfus	Alfred Dreyfus
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Alfred North Whitehead	Alfred North Whitehead
+Alfred Russel Wallace	Alfred Russel Wallace
+Alfred Wielki	Alfred the Great
+Glony	Algae
+Algebra	Algebra
+Kategoria:Algebra	Algebra
+Liczby algebraiczne	Algebraic number
+Algieria	Algeria
+Kategoria:Algieria	Algeria
+Algier	Algiers
+Algorytm	Algorithm
+Alhambra	Alhambra
+Ali ibn Abi Talib	Ali
+Metale alkaliczne	Alkali metal
+Alkaloidy	Alkaloid
+Alkany	Alkane
+Alkeny	Alkene
+Alkiny	Alkyne
+Allah	Allah
+Alegoria	Allegory
+Allel	Allele
+Allen Ginsberg	Allen Ginsberg
+Alergia	Allergy
+Aliteracja	Alliteration
+Alofon	Allophone
+Allozaur	Allosaurus
+Alotropia	Allotropy
+Stop metali	Alloy
+Almanach	Almanac
+Ałma-Ata	Almaty
+Migdałowiec zwyczajny	Almond
+Aloes	Aloe
+Alfa	Alpha (letter)
+Alfa Centauri	Alpha Centauri
+Promieniowanie alfa	Alpha particle
+Alfabet	Alphabet
+Alpy	Alps
+Kategoria:Alpy	Alps
+Alzacja	Alsace
+Altair	Altair
+Ołtarz	Altar
+Ałtaj	Altay Mountains
+Prąd przemienny	Alternating current
+Kategoria:Medycyna niekonwencjonalna	Alternative medicine
+Medycyna niekonwencjonalna	Alternative medicine
+Altruizm	Altruism
+Glin	Aluminium
+Tlenek glinu	Aluminium oxide
+Alvar Aalto	Alvar Aalto
+Choroba Alzheimera	Alzheimer's disease
+Muchomor czerwony	Amanita muscaria
+Muchomor zielonawy	Amanita phalloides
+Amarylkowate	Amaryllidaceae
+Amaterasu	Amaterasu
+Amazonka (rzeka)	Amazon River
+Ambasador	Ambassador
+Bursztyn	Amber
+Święty Ambroży	Ambrose
+Amadeo Avogadro	Amedeo Avogadro
+Amelia Earhart	Amelia Earhart
+Bizon	American Bison
+Baribal	American Black Bear
+Wojna secesyjna	American Civil War
+Wojna o niepodległość Stanów Zjednoczonych	American Revolutionary War
+Samoa Amerykańskie	American Samoa
+ASCII	American Standard Code for Information Interchange
+Futbol amerykański	American football
+Kategoria:Futbol amerykański	American football
+Ameryk	Americium
+Amerigo Vespucci	Amerigo Vespucci
+Ametyst	Amethyst
+Język amharski	Amharic
+Amidy	Amide
+Aminy	Amine
+Aminokwasy	Amino acid
+Amisze	Amish
+Amman	Amman
+Amperomierz	Ammeter
+Amoniak	Ammonia
+Amnezja organiczna	Amnesia
+Amnestia	Amnesty
+Amper	Ampere
+Amfetamina	Amphetamine
+Płazy	Amphibian
+Amfiteatr	Amphitheatre
+Amfora	Amphora
+Amplituda	Amplitude
+Amsterdam	Amsterdam
+Kategoria:Amsterdam	Amsterdam
+Amon (bóg egipski)	Amun
+Amur (rzeka)	Amur
+Anabaptyzm	Anabaptist
+Anagram	Anagram
+Anaheim	Anaheim
+Seks analny	Anal sex
+Geometria analityczna	Analytic geometry
+Anarchizm	Anarchism
+Kategoria:Anarchizm	Anarchism
+Anarchia	Anarchy
+Kaczkowate	Anatidae
+Anatole France	Anatole France
+Kategoria:Anatomia	Anatomy
+Anatomia	Anatomy
+Anaksagoras	Anaxagoras
+Anaksymander	Anaximander
+Kotwica	Anchor
+Anchorage (Alaska)	Anchorage
+Język grecki klasyczny	Ancient Greek
+Kategoria:Starożytność	Ancient history
+Andaluzja	Andalusia
+Morze Andamańskie	Andaman Sea
+Anders Celsius	Anders Celsius
+Andy	Andes
+Andhra Pradesh	Andhra Pradesh
+Andora	Andorra
+Kategoria:Andora	Andorra
+Andrea Palladio	Andrea Palladio
+Andriej Sacharow	Andrei Sakharov
+Andriej Tarkowski	Andrei Tarkovsky
+Andrew Jackson	Andrew Jackson
+Andrew Johnson (prezydent USA)	Andrew Johnson
+Andrew Lloyd Webber	Andrew Lloyd Webber
+Android	Android
+Andromeda	Andromeda
+Andromeda (gwiazdozbiór)	Andromeda (constellation)
+Andromeda (mitologia)	Andromeda (mythology)
+Galaktyka Andromedy	Andromeda Galaxy
+Andy Warhol	Andy Warhol
+Niedokrwistość	Anemia
+Anemometr	Anemometer
+Znieczulenie	Anesthesia
+Angara	Angara River
+Anioł	Angel
+Salto del Angel	Angel Falls
+Kąt płaski	Angle
+Anglikanizm	Anglicanism
+Angola	Angola
+Kategoria:Angola	Angola
+Anguilla	Anguilla
+Moment pędu	Angular momentum
+Prędkość kątowa	Angular velocity
+Anicius Manlius Severinus Boethius	Anicius Manlius Severinus Boethius
+Anilina	Aniline
+Zwierzęta	Animal
+Chów	Animal husbandry
+Anime	Anime
+Kategoria:Anime	Anime
+Animizm	Animism
+Biedrzeniec anyż	Anise
+Ankara	Ankara
+Annapolis	Annapolis
+Annapurna	Annapurna
+Anna Boleyn	Anne Boleyn
+Pierścienice	Annelid
+N.e.	Anno Domini
+Zwiastowanie	Annunciation
+Anoda	Anode
+Blaszkodziobe	Anseriformes
+Mrówkowate	Ant
+Antiochia	Antakya
+Antalya	Antalya
+Antananarywa	Antananarivo
+Antarktyda	Antarctica
+Kategoria:Antarktyda	Antarctica
+Antares	Antares
+Antena	Antenna (radio)
+Anthony Hopkins	Anthony Hopkins
+Wąglik	Anthrax
+Antropologia (nauka)	Anthropology
+Kategoria:Antropologia	Anthropology
+Antropozofia	Anthroposophy
+Antybiotyki	Antibiotic
+Przeciwciało	Antibody
+Antychryst	Antichrist
+Antycyklon	Anticyclone
+Antygen	Antigen
+Antygona (córka Edypa)	Antigone
+Antigua i Barbuda	Antigua and Barbuda
+Kategoria:Antigua i Barbuda	Antigua and Barbuda
+Antymateria	Antimatter
+Antymon	Antimony
+Przeciwutleniacze	Antioxidant
+Antypapież	Antipope
+Antysemityzm	Antisemitism
+Kategoria:Antysemityzm	Antisemitism
+Pompa (gwiazdozbiór)	Antlia
+Antofagasta	Antofagasta
+Antoine Lavoisier	Antoine Lavoisier
+Anton Bruckner	Anton Bruckner
+Anton Czechow	Anton Chekhov
+Antonio Stradivari	Antonio Stradivari
+Antonio Vivaldi	Antonio Vivaldi
+Antonim	Antonym
+Antwerpia	Antwerp
+Prowincja Antwerpia	Antwerp (province)
+Anubis	Anubis
+Odbyt	Anus
+Aorta człowieka	Aorta
+Apacze	Apache
+Apatyt	Apatite
+Małpy człekokształtne	Ape
+Afazja	Aphasia
+Aforyzm	Aphorism
+Afrodyta	Aphrodite
+Apia	Apia
+Selerowate	Apiaceae
+Apokryf	Apocrypha
+Jerzykowe	Apodiformes
+Apollo (mitologia)	Apollo
+Apollo	Apollo (disambiguation)
+Program Apollo	Apollo program
+Kategoria:Program Apollo	Apollo program
+Apoptoza	Apoptosis
+Appalachy	Appalachian Mountains
+Zapalenie wyrostka robaczkowego	Appendicitis
+Matematyka stosowana	Applied mathematics
+Morela	Apricot
+Kwiecień	April
+14 kwietnia	April 14
+Prima aprilis	April Fools' Day
+Apsyda (architektura)	Apse
+Apulia	Apulia
+Ptak Rajski (gwiazdozbiór)	Apus
+Akaba	Aqaba
+Woda królewska	Aqua regia
+Akwamaryn	Aquamarine
+Akwarium	Aquarium
+Wodnik (gwiazdozbiór)	Aquarius (constellation)
+Akwedukt	Aqueduct
+Orzeł (gwiazdozbiór)	Aquila (constellation)
+Akwitania	Aquitaine
+Ołtarz (gwiazdozbiór)	Ara (constellation)
+Arabowie	Arab
+Liga Państw Arabskich	Arab League
+Półwysep Arabski	Arabian Peninsula
+Morze Arabskie	Arabian Sea
+Alfabet arabski	Arabic alphabet
+Język arabski	Arabic language
+Obrazkowate	Araceae
+Pajęczaki	Arachnid
+Morze Arafura	Arafura Sea
+Aragonia	Aragon
+Jezioro Aralskie	Aral Sea
+Aram Chaczaturian	Aram Khachaturian
+Arkadia (kraina historyczna)	Arcadia
+Arcangelo Corelli	Arcangelo Corelli
+Łuk (architektura)	Arch
+Archeologia	Archaeology
+Kategoria:Archeologia	Archaeology
+Praptak	Archaeopteryx
+Archanioł	Archangel
+Arcybiskup	Archbishop
+Archaik	Archean
+Archetyp (psychologia)	Archetype
+Archimedes	Archimedes
+Archipelag	Archipelago
+Architekt	Architect
+Architektura	Architecture
+Kategoria:Architektura i budownictwo	Architecture
+Gady naczelne	Archosaur
+Arktyka	Arctic
+Koło podbiegunowe	Arctic Circle
+Ocean Arktyczny	Arctic Ocean
+Lis polarny	Arctic fox
+Ardeny	Ardennes
+Ardennes	Ardennes (department)
+Ar (jednostka miary)	Are
+Powierzchnia	Area
+Arekowate	Arecaceae
+Ares (bóg)	Ares
+Argentyna	Argentina
+Kategoria:Argentyna	Argentina
+Argon	Argon
+Argos	Argos
+Aria	Aria
+Ariadna	Ariadne
+Arianizm	Arianism
+Baran (gwiazdozbiór)	Aries (constellation)
+Arystarch z Samos	Aristarchus of Samos
+Arystokracja	Aristocracy
+Arystofanes	Aristophanes
+Arystoteles	Aristotle
+Arytmetyka	Arithmetic
+Kategoria:Arytmetyka	Arithmetic
+Ciąg arytmetyczny	Arithmetic progression
+Ariusz	Arius
+Arizona	Arizona
+Kategoria:Arizona	Arizona
+Arka Przymierza	Ark of the Covenant
+Arkansas	Arkansas
+Kategoria:Arkansas	Arkansas
+Arles	Arles
+Pancerniki	Armadillo
+Armenia	Armenia
+Kategoria:Armenia	Armenia
+Język ormiański	Armenian language
+Arminius	Arminius
+Zbroja	Armour
+Armia	Army
+Arnhem	Arnhem
+Arno (rzeka)	Arno River
+Arnold Schönberg	Arnold Schoenberg
+Węglowodory aromatyczne	Aromatic hydrocarbon
+Arkebuz	Arquebus
+Arras (Pas-de-Calais)	Arras
+Strzała	Arrow
+Arsen	Arsenic
+Sztuka	Art
+Art déco	Art Deco
+Secesja (sztuka)	Art Nouveau
+Kategoria:Historia sztuki	Art history
+Historia sztuki	Art history
+Artemida	Artemis
+Bylica	Artemisia (plant)
+Bylica piołun	Artemisia absinthium
+Tętnica	Artery
+Zapalenie stawów	Arthritis
+Stawonogi	Arthropod
+Arthur Holly Compton	Arthur Compton
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Miller	Arthur Miller
+Arthur Rimbaud	Arthur Rimbaud
+Arthur Schopenhauer	Arthur Schopenhauer
+Arthur Wellesley, 1. książę Wellington	Arthur Wellesley
+Sztuczna inteligencja	Artificial intelligence
+Kategoria:Sztuczna inteligencja	Artificial intelligence
+Artyleria	Artillery
+Kategoria:Artyleria	Artillery
+Artysta	Artist
+Kategoria:Sztuka	Arts
+Arturo Toscanini	Arturo Toscanini
+Aruba	Aruba
+Kategoria:Aruba	Aruba
+Azbest	Asbestos
+Asklepios	Asclepius
+Aseksualizm	Asexuality
+Asgard	Asgard
+Popielec	Ash Wednesday
+Aszurbanipal	Ashurbanipal
+Azja	Asia
+Kategoria:Azja	Asia
+Asmara	Asmara
+Aspartam	Aspartame
+Asfalt	Asphalt
+Kwas acetylosalicylowy	Aspirin
+Assam	Assam
+Zamach	Assassination
+Stowarzyszenie Narodów Azji Południowo-Wschodniej	Association of Southeast Asian Nations
+Asyria	Assyria
+Kategoria:Asyria	Assyria
+Astana	Astana
+Astat	Astatine
+Astrowate	Asteraceae
+Kategoria:Astrowate	Asteraceae
+Planetoida	Asteroid
+Pas planetoid	Asteroid belt
+Astenosfera	Asthenosphere
+Astma oskrzelowa	Asthma
+Astygmatyzm (oko)	Astigmatism (eye)
+Astrachań	Astrakhan
+Astrobiologia	Astrobiology
+Astrolabium	Astrolabe
+Astrologia	Astrology
+Kategoria:Astrologia	Astrology
+Astrometria	Astrometry
+Astronauta	Astronaut
+Astronom	Astronomer
+Jednostka astronomiczna	Astronomical unit
+Astronomia	Astronomy
+Kategoria:Astronomia	Astronomy
+Portal:Astronomia	Astronomy
+Astrofizyka	Astrophysics
+Kategoria:Astrofizyka	Astrophysics
+Asuan	Aswan
+Asymptota	Asymptote
+Asynchronous Transfer Mode	Asynchronous Transfer Mode
+Atakama	Atacama Desert
+Aton	Aten
+Kategoria:Ateizm	Atheism
+Atena	Athena
+Ateny	Athens
+Kategoria:Lekkoatletyka	Athletics
+Lekkoatletyka	Athletics (track and field)
+Atlanta	Atlanta
+Ocean Atlantycki	Atlantic Ocean
+Kategoria:Ocean Atlantycki	Atlantic Ocean
+Atlantyda	Atlantis
+Atlas	Atlas (disambiguation)
+Atlas (księżyc)	Atlas (moon)
+Atlas (mitologia)	Atlas (mythology)
+Atlas (góry)	Atlas Mountains
+Atmosfera fizyczna	Atmosphere (unit)
+Ciśnienie atmosferyczne	Atmospheric pressure
+Atol	Atoll
+Atom	Atom
+Zegar atomowy	Atomic clock
+Masa atomowa	Atomic mass
+Jednostka masy atomowej	Atomic mass unit
+Liczba atomowa	Atomic number
+Kategoria:Fizyka atomowa	Atomic physics
+Fizyka atomowa	Atomic physics
+Atreus	Atreus
+Atropina	Atropine
+Attyka (kraina historyczna)	Attica
+Attyla	Attila the Hun
+Au	Au
+Auckland	Auckland
+Aukcja (forma przetargu)	Auction
+Sierpień	August
+1 sierpnia	August 1
+15 sierpnia	August 15
+6 sierpnia	August 6
+August Strindberg	August Strindberg
+Augusta (Maine)	Augusta
+Auguste Comte	Auguste Comte
+Auguste Rodin	Auguste Rodin
+Augustyn z Hippony	Augustine of Hippo
+Oktawian August	Augustus
+Woźnica (gwiazdozbiór)	Auriga (constellation)
+Aurora	Aurora
+Zorza polarna	Aurora (astronomy)
+Austin (Teksas)	Austin
+Australazja	Australasia
+Australia	Australia
+Kategoria:Australia	Australia
+Dolar australijski	Australian dollar
+Australopiteki	Australopithecus
+Austria	Austria
+Kategoria:Austria	Austria
+Austro-Węgry	Austria-Hungary
+Autor	Author
+Autorytet	Authority
+Autyzm dziecięcy	Autism
+Wyścig samochodowy	Auto racing
+Autobiografia	Autobiography
+Bankomat	Automated teller machine
+Samochód	Automobile
+Autonomiczny układ nerwowy	Autonomic nervous system
+Samożywność	Autotroph
+Jesień	Autumn
+Owernia	Auvergne (region)
+Lawina	Avalanche
+Awangarda (sztuka)	Avant-garde
+Awatara	Avatar
+Owies	Avena
+Awerroes	Averroes
+Awesta	Avesta
+Kategoria:Lotnictwo	Aviation
+Lotnictwo	Aviation
+Awicenna	Avicenna
+Awinion	Avignon
+Smaczliwka	Avocado
+Prawo Avogadra	Avogadro's law
+Topór	Axe
+Aksjomat	Axiom
+Neuryt	Axon
+Ajatollah	Ayatollah
+Ayn Rand	Ayn Rand
+Azerbejdżan	Azerbaijan
+Kategoria:Azerbejdżan	Azerbaijan
+Azymut	Azimuth
+Azory	Azores
+Aztekowie	Aztec
+Azuryt	Azurite
+B	B
+BASIC	BASIC
+Baal	Baal
+Pawian	Baboon
+Babilon	Babylon
+Babilonia	Babylonia
+Tryktrak	Backgammon
+Bakterie	Bacteria
+Kategoria:Bakterie	Bacteria
+Bakteriofag	Bacteriophage
+Baktrian	Bactrian Camel
+Badminton	Badminton
+Morze Baffina	Baffin Bay
+Ziemia Baffina	Baffin Island
+Bagdad	Baghdad
+Kategoria:Bahamy	Bahamas
+Bahrajn	Bahrain
+Kategoria:Bahrajn	Bahrain
+Kalifornia Dolna	Baja California
+Bakława	Baklava
+Baku	Baku
+Bałałajka	Balalaika
+Bilans (rachunkowość)	Balance sheet
+Baldur	Baldr
+Baleary	Balearic Islands
+Fiszbinowce	Baleen whale
+Bali (wyspa)	Bali
+Stara Płanina	Balkan Mountains
+Wojny bałkańskie	Balkan Wars
+Półwysep Bałkański	Balkans
+Piłka	Ball
+Balet	Ballet
+Kategoria:Balet	Ballet
+Rakietowy pocisk balistyczny	Ballistic missile
+Długopis	Ballpoint pen
+Morze Bałtyckie	Baltic Sea
+Baltimore	Baltimore
+Bamako	Bamako
+Bambus	Bamboo
+Banan	Banana
+Republika bananowa	Banana republic
+Bangalore	Bangalore
+Bangkok	Bangkok
+Bangladesz	Bangladesh
+Kategoria:Bangladesz	Bangladesh
+Bangi	Bangui
+Bandżul	Banjul
+Bank	Bank
+Banknot	Banknote
+Kategoria:Banki	Banks
+Chrzest	Baptism
+Baptyzm	Baptist
+Bar (jednostka)	Bar (unit)
+Barbados	Barbados
+Kategoria:Barbados	Barbados
+Barbarzyńca	Barbarian
+Barbra Streisand	Barbra Streisand
+Barcelona	Barcelona
+Kategoria:Barcelona	Barcelona
+Morze Barentsa	Barents Sea
+Bari	Bari
+Bar (pierwiastek)	Barium
+Jęczmień	Barley
+Płomykówka	Barn Owl
+Jaskółka dymówka	Barn Swallow
+Barometr	Barometer
+Baron	Baron
+Barok	Baroque
+Barranquilla	Barranquilla
+Baryłka	Barrel (unit)
+Bariony	Baryon
+Bazalt	Basalt
+Zasady	Base (chemistry)
+Baseball	Baseball
+Kategoria:Baseball	Baseball
+Bazylea	Basel
+Bash	Bash
+Grzyby podstawkowe	Basidiomycota
+Bazylia pospolita	Basil
+Bazyli Wielki	Basil of Caesarea
+Bazylika	Basilica
+Basilicata	Basilicata
+Bazyliskus	Basiliscus
+Bazyliszek (stworzenie mityczne)	Basilisk
+Koszykówka	Basketball
+Kategoria:Koszykówka	Basketball
+Al-Basra (miasto)	Basra
+Gitara basowa	Bass guitar
+Dolna Normandia	Basse-Normandie
+Basseterre	Basseterre
+Fagot	Bassoon
+Bastet	Bast (mythology)
+Bastylia	Bastille
+Nietoperze	Bat
+Bath (Anglia)	Bath
+Batman	Batman
+Baton Rouge	Baton Rouge
+Kategoria:Nietoperze	Bats
+Batalion	Battalion
+Bateria ogniw	Battery (electricity)
+Bitwa pod Austerlitz	Battle of Austerlitz
+Bitwa o Anglię	Battle of Britain
+Bitwa pod Hastings	Battle of Hastings
+Bitwa pod Lepanto (1571)	Battle of Lepanto (1571)
+Bitwa pod Maratonem	Battle of Marathon
+Bitwa o Midway	Battle of Midway
+Bitwa pod Termopilami	Battle of Thermopylae
+Bitwa pod Trafalgarem	Battle of Trafalgar
+Bitwa pod Verdun	Battle of Verdun
+Bitwa pod Waterloo	Battle of Waterloo
+Ofensywa w Ardenach	Battle of the Bulge
+Bitwa nad Sommą	Battle of the Somme
+Pancernik	Battleship
+Bauhaus	Bauhaus
+Boksyt	Bauxite
+Bawaria	Bavaria
+Kategoria:Bawaria	Bavaria
+Wawrzyn szlachetny	Bay Laurel
+Zatoka Bengalska	Bay of Bengal
+Zatoka Biskajska	Bay of Biscay
+Bayer AG	Bayer
+Bagnet	Bayonet
+Bayonne	Bayonne
+Plaża	Beach
+Beagle (rasa psów)	Beagle
+Dziób (zoologia)	Beak
+Niedźwiedziowate	Bear
+Morze Beauforta	Beaufort Sea
+Skala Beauforta	Beaufort scale
+Castor	Beaver
+Bebop	Bebop
+Bekerel	Becquerel
+Łóżko	Bed
+Beda Czcigodny	Bede
+Beduin	Bedouin
+Pszczoły	Bee
+Buk	Beech
+Kategoria:Pszczelarstwo	Beekeeping
+Piwo	Beer
+Kategoria:Piwo	Beer
+Chrząszcze	Beetle
+Behawioryzm	Behaviorism
+Pekin	Beijing
+Bejrut	Beirut
+Białoruś	Belarus
+Kategoria:Białoruś	Belarus
+Belfast	Belfast
+Belgia	Belgium
+Kategoria:Belgia	Belgium
+Belgrad	Belgrade
+Belizariusz	Belisarius
+Belize	Belize
+Kategoria:Belize	Belize
+Dzwon (instrument)	Bell (instrument)
+Bellerofont	Bellerophon
+Taniec brzucha	Belly dance
+Belo Horizonte	Belo Horizonte
+Białucha (waleń)	Beluga
+Benelux	Benelux
+Bengal	Bengal
+Bengazi	Benghazi
+Benin	Benin
+Kategoria:Benin	Benin
+Benito Mussolini	Benito Mussolini
+Benjamin Britten	Benjamin Britten
+Benjamin Disraeli, 1. hrabia Beaconsfield	Benjamin Disraeli
+Benjamin Franklin	Benjamin Franklin
+Benjamin Harrison	Benjamin Harrison
+Benny Goodman	Benny Goodman
+Beowulf	Beowulf
+Bergen	Bergen
+Morze Beringa	Bering Sea
+Cieśnina Beringa	Bering Strait
+Berkel	Berkelium
+Berkshire (Anglia)	Berkshire
+Berlin	Berlin
+Kategoria:Berlin	Berlin
+Bermudy	Bermuda
+Kategoria:Bermudy	Bermuda
+Trójkąt Bermudzki	Bermuda Triangle
+Bernardo Bertolucci	Bernardo Bertolucci
+Berno	Berne
+Bernhard Riemann	Bernhard Riemann
+Jagoda (botanika)	Berry
+Bertolt Brecht	Bertolt Brecht
+Bertrand Russell	Bertrand Russell
+Beryl (minerał)	Beryl
+Beryl (pierwiastek)	Beryllium
+Beta	Beta (letter)
+Rozpad beta	Beta decay
+Betelgeza	Betelgeuse
+Betlejem	Bethlehem
+Bette Davis	Bette Davis
+Beverly Hills (Kalifornia)	Beverly Hills
+Bej	Bey
+Bhutan	Bhutan
+Kategoria:Bhutan	Bhutan
+Biblia	Bible
+Kategoria:Biblia	Bible
+Bibliografia	Bibliography
+Rower	Bicycle
+Wielki Wybuch	Big Bang
+Bihar	Bihar
+Bikini	Bikini
+Żółć	Bile
+Bill Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Billy Wilder	Billy Wilder
+Gwiazda podwójna	Binary star
+Lorneta	Binoculars
+Biochemia	Biochemistry
+Kategoria:Biochemia	Biochemistry
+Różnorodność biologiczna	Biodiversity
+Biogeografia	Biogeography
+Biografia	Biography
+Portal:Biografie	Biography
+Broń biologiczna	Biological warfare
+Biologia	Biology
+Kategoria:Biologia	Biology
+Portal:Biologia	Biology
+Biomasa	Biomass
+Biom	Biome
+Biometria	Biometrics
+Biofizyka	Biophysics
+Biopsja	Biopsy
+Biosfera	Biosphere
+Biotechnologia	Biotechnology
+Kategoria:Biotechnologia	Biotechnology
+Biotyna	Biotin
+Choroba afektywna dwubiegunowa	Bipolar disorder
+Brzoza	Birch
+Ptaki	Bird
+Birmingham (Alabama)	Birmingham
+Antykoncepcja	Birth control
+Biseksualizm	Bisexuality
+Biszkek	Bishkek
+Biskup	Bishop
+Goniec (szachy)	Bishop (chess)
+Bismarck (Dakota Północna)	Bismarck
+Bismarck	Bismarck (disambiguation)
+Bizmut	Bismuth
+Bissau	Bissau
+Bit	Bit
+Bitynia	Bithynia
+Małże	Bivalvia
+Barwa czarna	Black
+Czarna śmierć	Black Death
+Schwarzwald	Black Forest
+Kania czarna	Black Kite
+Morze Czarne	Black Sea
+Bocian czarny	Black Stork
+Ciało doskonale czarne	Black body
+Czarna dziura	Black hole
+Pieprz czarny	Black pepper
+Kos	Blackbird
+Blaise Pascal	Blaise Pascal
+Blender (program)	Blender (software)
+Ślepota	Blindness
+Blitzkrieg	Blitzkrieg
+Bloemfontein	Bloemfontein
+Blog	Blog
+Krew	Blood
+Osocze krwi	Blood plasma
+Ciśnienie tętnicze	Blood pressure
+Grupy krwi	Blood type
+Barwa niebieska	Blue
+Płetwal błękitny	Blue Whale
+Blues	Blues
+Dzik	Boar
+Gra planszowa	Board game
+Łódź (jednostka pływająca)	Boat
+Bob Dylan	Bob Dylan
+Bob Marley	Bob Marley
+Bobby Fischer	Bobby Fischer
+Bobsleje	Bobsleigh
+Bodhisattwa	Bodhisattva
+BMI (wskaźnik)	Body mass index
+Kulturystyka	Bodybuilding
+Czechy (kraina)	Bohemia
+Bohr (pierwiastek)	Bohrium
+Temperatura wrzenia	Boiling point
+Boise (Idaho)	Boise
+Borowik szlachetny	Boletus edulis
+Boliwia	Bolivia
+Kategoria:Boliwia	Bolivia
+Bollywood	Bollywood
+Bolonia	Bologna
+Bolszewicy	Bolshevik
+Bolzano	Bolzano
+Bomba	Bomb
+Samolot bombowy	Bomber
+Jedwabnik morwowy	Bombyx mori
+Obligacja	Bond (finance)
+Kość (anatomia)	Bone
+Szpik kostny	Bone marrow
+Bonn	Bonn
+Bonsai	Bonsai
+Książka	Book
+Księga Estery	Book of Esther
+Księga Jozuego	Book of Joshua
+Księga Sędziów	Book of Judges
+Księga Mormona	Book of Mormon
+Księga Liczb	Book of Numbers
+Apokalipsa Świętego Jana	Book of Revelation
+Księga Rut	Book of Ruth
+Algebra Boole'a	Boolean algebra (structure)
+Bumerang	Boomerang
+Bordeaux	Bordeaux
+Borys Godunow	Boris Godunov
+Borys Pasternak	Boris Pasternak
+Borys Spasski	Boris Spassky
+Borneo	Borneo
+Bor	Boron
+Bośnia i Hercegowina	Bosnia and Herzegovina
+Kategoria:Bośnia i Hercegowina	Bosnia and Herzegovina
+Bozon	Boson
+Bosfor	Bosporus
+Boston	Boston
+Herbatka bostońska	Boston Tea Party
+Szablon:Bot	Bot
+Ogród botaniczny	Botanical garden
+Botanika	Botany
+Kategoria:Botanika	Botany
+Botswana	Botswana
+Kategoria:Botswana	Botswana
+Butelka	Bottle
+Butlonos	Bottlenose Dolphin
+Burżuazja	Bourgeoisie
+Burgundia	Bourgogne
+Wyspa Bouveta	Bouvet Island
+Krętorogie	Bovid
+Łuk	Bow (weapon)
+Bokser (rasa psów)	Boxer (dog)
+Kategoria:Bokserzy	Boxers
+Boks	Boxing
+Kategoria:Boks	Boxing
+Prawo Boyle'a-Mariotte'a	Boyle's law
+Nawias	Bracket
+Braga	Braga
+Brahma	Brahma
+Brahmaputra	Brahmaputra River
+Alfabet Braille'a	Braille
+Kresomózgowie	Brain
+Burza mózgów	Brainstorming
+Bram Stoker	Bram Stoker
+Brandenburgia	Brandenburg
+Brandy	Brandy
+Mosiądz	Brass
+Kapustowate	Brassicaceae
+Biustonosz	Brassiere
+Bratysława	Bratislava
+Brunszwik	Braunschweig
+Brazylia	Brazil
+Kategoria:Brazylia	Brazil
+Brazzaville	Brazzaville
+Chleb	Bread
+Sutek	Breast
+Rak sutka	Breast cancer
+Brema	Bremen
+Brema (kraj związkowy)	Bremen (state)
+Bremerhaven	Bremerhaven
+Brescia	Brescia
+Brest	Brest
+Brześć	Brest
+Brest (ujednoznacznienie)	Brest
+Bretania	Bretagne
+Cegła	Brick
+Most	Bridge
+Kategoria:Mosty i wiadukty	Bridges
+Bridgetown	Bridgetown
+Brygada	Brigade
+Brighton (Anglia)	Brighton
+Brindisi	Brindisi
+Brisbane	Brisbane
+Bristol	Bristol
+Kolumbia Brytyjska	British Columbia
+Imperium brytyjskie	British Empire
+Wyspy Brytyjskie	British Isles
+Brytyjskie Wyspy Dziewicze	British Virgin Islands
+Kategoria:Brytyjczycy	British people
+Brno	Brno
+Broadway	Broadway (New York City)
+Brokuł	Broccoli
+Brom	Bromine
+Brązy	Bronze
+Epoka brązu	Bronze Age
+Brooklyn	Brooklyn
+Most Brookliński	Brooklyn Bridge
+Barwa brązowa	Brown
+Niedźwiedź brunatny	Brown Bear
+Ruchy Browna	Brownian motion
+Bruce Lee	Bruce Lee
+Brugia	Bruges
+Brunei	Brunei
+Kategoria:Brunei	Brunei
+Bruksela	Brussels
+Dżuma	Bubonic plague
+Bukareszt	Bucharest
+Buckingham Palace	Buckingham Palace
+Buckminster Fuller	Buckminster Fuller
+Gryka zwyczajna	Buckwheat
+Budapeszt	Budapest
+Budda	Buddha
+Buddyzm	Buddhism
+Kategoria:Buddyzm	Buddhism
+Buddy Holly	Buddy Holly
+Buenos Aires	Buenos Aires
+Buffalo (Nowy Jork)	Buffalo
+Budynek	Building
+Bużumbura	Bujumbura
+Bułgaria	Bulgaria
+Kategoria:Bułgaria	Bulgaria
+Trzmiel	Bumblebee
+Prawo Archimedesa	Buoyancy
+Biurokracja	Bureaucracy
+Burmistrz	Burgomaster
+Burkina Faso	Burkina Faso
+Kategoria:Burkina Faso	Burkina Faso
+Birma	Burma
+Kategoria:Birma	Burma
+Burka	Burqa
+Bursa (miasto)	Bursa
+Kategoria:Burundi	Burundi
+Autobus	Bus
+Magistrala (informatyka)	Bus (computing)
+Przedsiębiorstwo (ekonomia)	Business
+Kategoria:Przedsiębiorcy	Businesspeople
+Buster Keaton	Buster Keaton
+Butan	Butane
+Masło	Butter
+Motyle dzienne	Butterfly
+Efekt motyla	Butterfly effect
+Bydgoszcz	Bydgoszcz
+Bajt (informatyka)	Byte
+Kategoria:Bizancjum	Byzantine Empire
+C	C
+C (język programowania)	C (programming language)
+Clive Staples Lewis	C. S. Lewis
+CD	CD (disambiguation)
+CHAOS	CHAOS (Linux distribution)
+CN Tower	CN Tower
+COBOL	COBOL
+Kabaret	Cabaret
+Kakaowiec właściwy	Cacao
+Cache	Cache
+Kaktusowate	Cactus
+Kadm	Cadmium
+Kadmos	Cadmus
+Rylec (gwiazdozbiór)	Caelum
+Cez	Caesium
+Kofeina	Caffeine
+Kair	Cairo
+Ciasto	Cake
+Kalabria	Calabria
+Calais	Calais
+Kalcyt	Calcite
+Wapń	Calcium
+Węglan wapnia	Calcium carbonate
+Tlenek wapnia	Calcium oxide
+Kalkulator	Calculator
+Rachunek różniczkowy i całkowy	Calculus
+Kaldera	Caldera
+Kalendarz	Calendar
+Kaliber broni	Caliber
+Kalifornia	California
+Kategoria:Kalifornia	California
+Kaliforn	Californium
+Kaligula	Caligula
+Kalif	Caliph
+Kalifat	Caliphate
+Kaligrafia	Calligraphy
+Kalliope (mitologia)	Calliope
+Kallisto (księżyc)	Callisto (moon)
+Kallisto (mitologia)	Callisto (mythology)
+Kaloria	Calorie
+Calvados (departament)	Calvados
+Golgota	Calvary
+Calvin Coolidge	Calvin Coolidge
+Kalwinizm	Calvinism
+Kalipso (mitologia)	Calypso (mythology)
+Kambodża	Cambodia
+Kategoria:Kambodża	Cambodia
+Kambr	Cambrian
+Cambridge (miasto w Anglii)	Cambridge
+Cambridge (Massachusetts)	Cambridge
+Cambridge	Cambridge (disambiguation)
+Wielbłąd	Camel
+Camembert (ser)	Camembert (cheese)
+Aparat fotograficzny	Camera
+Kamerun	Cameroon
+Kategoria:Kamerun	Cameroon
+Kampania (region)	Campania
+Kanada	Canada
+Kategoria:Kanada	Canada
+Dolar kanadyjski	Canadian dollar
+Kanał wodny	Canal
+Wyspy Kanaryjskie	Canary Islands
+Kategoria:Wyspy Kanaryjskie	Canary Islands
+Canberra	Canberra
+Nowotwór złośliwy	Cancer
+Rak (gwiazdozbiór)	Cancer (constellation)
+Kandela	Candela
+Świeca	Candle
+Psowate	Canidae
+Wielki Pies	Canis Major
+Mały Pies	Canis Minor
+Marihuana	Cannabis (drug)
+Cannes	Cannes
+Kanibalizm	Cannibalism
+Armata	Cannon
+Kanadyjka (łódź)	Canoe
+Canon	Canon (company)
+Kanopus	Canopus
+Kantata	Cantata
+Canterbury	Canterbury
+Język kantoński	Cantonese (linguistics)
+Kanut Wielki	Canute the Great
+Pojemność elektryczna	Capacitance
+Kondensator	Capacitor
+Przylądek Canaveral	Cape Canaveral
+Przylądek Horn	Cape Horn
+Kapsztad	Cape Town
+Republika Zielonego Przylądka	Cape Verde
+Kategoria:Republika Zielonego Przylądka	Cape Verde
+Przylądek Dobrej Nadziei	Cape of Good Hope
+Stolica	Capital
+Kapitał (ekonomia)	Capital (economics)
+Kara śmierci	Capital punishment
+Kapitalizm	Capitalism
+Kapadocja	Cappadocia
+Koziorożec (gwiazdozbiór)	Capricornus
+Papryka	Capsicum
+Karakal	Caracal
+Caracas	Caracas
+Oskomian pospolity	Carambola
+Karat	Carat (mass)
+Karat	Carat (purity)
+Michelangelo Merisi da Caravaggio	Caravaggio
+Węglowodany	Carbohydrate
+Węgiel (pierwiastek)	Carbon
+Obieg węgla w przyrodzie	Carbon cycle
+Dwutlenek węgla	Carbon dioxide
+Tlenek węgla	Carbon monoxide
+Kwas węglowy	Carbonic acid
+Karbon (okres)	Carboniferous
+Kwasy karboksylowe	Carboxylic acid
+Gaźnik	Carburetor
+Gra karciana	Card game
+Kardamon	Cardamom
+Cardiff	Cardiff
+Kardynał	Cardinal (Catholicism)
+Armand Jean Richelieu	Cardinal Richelieu
+Kardiologia	Cardiology
+Kategoria:Kardiologia	Cardiology
+Kategoria:Układ krążenia człowieka	Cardiovascular system
+Karaiby	Caribbean
+Kategoria:Karaiby	Caribbean
+Morze Karaibskie	Caribbean Sea
+Karykatura	Caricature
+Kil (gwiazdozbiór)	Carina (constellation)
+Carl David Anderson	Carl David Anderson
+Carl Gustav Jung	Carl Jung
+Carl Lewis	Carl Lewis
+Carl Maria von Weber	Carl Maria von Weber
+Carl Orff	Carl Orff
+Karnawał	Carnival
+Drapieżne	Carnivora
+Zoofag	Carnivore
+Roślina mięsożerna	Carnivorous plant
+Karolingowie	Carolingian dynasty
+Karol Linneusz	Carolus Linnaeus
+Karpaty	Carpathian Mountains
+Marchew zwyczajna	Carrot
+Carson City (Nevada)	Carson City
+Cartagena (Hiszpania)	Cartagena
+Układ współrzędnych kartezjańskich	Cartesian coordinate system
+Iloczyn kartezjański	Cartesian product
+Kartagina	Carthage
+Kartografia	Cartography
+Kategoria:Kartografia	Cartography
+Cary Grant	Cary Grant
+Goździkowce	Caryophyllales
+Casablanca	Casablanca
+Nanercz zachodni	Cashew
+Kasyno	Casino
+Morze Kaspijskie	Caspian Sea
+Kasandra (mitologia)	Cassandra
+Kasjopeja (gwiazdozbiór)	Cassiopeia (constellation)
+Żeliwo	Cast iron
+System kastowy	Caste
+Kastylia	Castile (historical region)
+Zamek	Castle
+Roszada	Castling
+Castries (Saint Lucia)	Castries
+Casus belli	Casus belli
+Kot	Cat
+Katalonia	Catalonia
+Kategoria:Katalonia	Catalonia
+Katalizator	Catalysis
+Katafrakt	Cataphract
+Zaćma	Cataract
+Sumokształtne	Catfish
+Katarzy	Catharism
+Katedra (budynek)	Cathedral
+Katarzyna Parr	Catherine Parr
+Katarzyna Aragońska	Catherine of Aragon
+Katoda	Cathode
+Katolicyzm	Catholicism
+Krowa	Cattle
+Czapla złotawa	Cattle Egret
+Katullus	Catullus
+Kaukaz (kraina historyczna)	Caucasus
+Kategoria:Kaukaz	Caucasus
+Kaukaz (pasmo górskie)	Caucasus Mountains
+Kalafior	Cauliflower
+Przyczynowość	Causality
+Jazda	Cavalry
+Jaskinia	Cave
+Kawior	Caviar
+Kajenna	Cayenne
+Kajmany (wyspy)	Cayman Islands
+Cecil Rhodes	Cecil Rhodes
+Cedr	Cedar
+Seler zwyczajny	Celery
+Równik niebieski	Celestial equator
+Kategoria:Mechanika nieba	Celestial mechanics
+Mechanika nieba	Celestial mechanics
+Sfera niebieska	Celestial sphere
+Celibat	Celibacy
+Komórka	Cell (biology)
+Błona komórkowa	Cell membrane
+Jądro komórkowe	Cell nucleus
+Ściana komórkowa	Cell wall
+Wiolonczela	Cello
+Celuloza	Cellulose
+Skala Celsjusza	Celsius
+Cement	Cement
+Cmentarz	Cemetery
+Era kenozoiczna	Cenozoic
+Spis statystyczny	Census
+Centaur (mitologia)	Centaur
+Centaur (gwiazdozbiór)	Centaurus
+Środek masy	Center of mass
+Centymetr	Centimetre
+Afryka Środkowa	Central Africa
+Republika Środkowoafrykańska	Central African Republic
+Kategoria:Republika Środkowoafrykańska	Central African Republic
+Ameryka Centralna	Central America
+Centralna Agencja Wywiadowcza	Central Intelligence Agency
+Central Park	Central Park
+Państwa centralne	Central Powers
+Bank centralny	Central bank
+Ośrodkowy układ nerwowy	Central nervous system
+Procesor	Central processing unit
+Centre	Centre
+Centriola	Centriole
+Wiek	Century
+Głowonogi	Cephalopod
+Cefeusz (gwiazdozbiór)	Cepheus (constellation)
+Ceramika	Ceramic
+Cerber	Cerberus
+Zboża	Cereal
+Móżdżek	Cerebellum
+Ceres	Ceres
+1 Ceres	Ceres (dwarf planet)
+Ceres (mitologia)	Ceres (mythology)
+Cer	Cerium
+Cezar Borgia	Cesare Borgia
+Tasiemce	Cestoda
+Walenie	Cetacea
+Wieloryb (gwiazdozbiór)	Cetus
+Czad	Chad
+Kategoria:Czad	Chad
+Zięba	Chaffinch
+Krzesło	Chair
+Chalcedon (minerał)	Chalcedony
+Kameleon (gwiazdozbiór)	Chamaeleon
+Kozica	Chamois
+Szampan	Champagne (wine)
+Szampania-Ardeny	Champagne-Ardenne
+Eurotunel	Channel Tunnel
+Chaos (mitologia)	Chaos (mythology)
+Siewkowe	Charadriiformes
+Karol Wielki	Charlemagne
+Charleroi	Charleroi
+Karol Mountbatten-Windsor	Charles
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Karol Dickens	Charles Dickens
+Charles Fourier	Charles Fourier
+Charles Lindbergh	Charles Lindbergh
+Charles Sanders Peirce	Charles Peirce
+Charles Thomson Rees Wilson	Charles Thomson Rees Wilson
+Charles de Gaulle	Charles de Gaulle
+Karol II Łysy	Charles the Bald
+Charleston (Wirginia Zachodnia)	Charleston
+Charlie Chaplin	Charlie Chaplin
+Charlie Parker	Charlie Parker
+Charlotte (Karolina Północna)	Charlotte
+Czarodziejki	Charmed
+Charon (księżyc)	Charon (moon)
+Charon (mitologia)	Charon (mythology)
+Chartres	Chartres
+Szowinizm	Chauvinism
+Ernesto Guevara	Che Guevara
+Czeczenia	Chechnya
+Kategoria:Czeczenia	Chechnya
+Ser	Cheese
+Gepard	Cheetah
+Czelabińsk	Chelyabinsk
+Wiązanie chemiczne	Chemical bond
+Związki chemiczne	Chemical compound
+Pierwiastek chemiczny	Chemical element
+Inżynieria chemiczna	Chemical engineering
+Symbolika chemiczna	Chemical formula
+Reakcja chemiczna	Chemical reaction
+Broń chemiczna	Chemical warfare
+Chemia	Chemistry
+Kategoria:Chemia	Chemistry
+Portal:Chemia	Chemistry
+Chemnitz	Chemnitz
+Chemioterapia	Chemotherapy
+Madras	Chennai
+Czek	Cheque
+Czarnobyl	Chernobyl
+Wiśnia	Cherry
+Krzemień	Chert
+Cheruby	Cherub
+Szachy	Chess
+Kategoria:Szachy	Chess
+Otwarcie szachowe	Chess opening
+Chester Arthur	Chester A. Arthur
+Kasztan	Chestnut
+Guma do żucia	Chewing gum
+Cheyenne (Wyoming)	Cheyenne
+Chi (litera)	Chi (letter)
+Czang Kaj-szek	Chiang Kai-shek
+Chicago	Chicago
+Kura domowa	Chicken
+Ospa wietrzna	Chickenpox
+Ciecierzyca pospolita	Chickpea
+Chihuahua (stan)	Chihuahua
+Dziecko	Child
+Poród	Childbirth
+Chile	Chile
+Kategoria:Chile	Chile
+Chimborazo	Chimborazo (volcano)
+Chimera (mitologia)	Chimera (mythology)
+Szympans	Chimpanzee
+Kategoria:Chiny	China
+Chiny (ujednoznacznienie)	China
+Chios	Chios
+Chiron (mitologia)	Chiron
+Chityna	Chitin
+Chlor	Chlorine
+Chloroform	Chloroform
+Chlorofil	Chlorophyll
+Chloroplast	Chloroplast
+Czekolada	Chocolate
+Chór	Choir
+Cholera	Cholera
+Cholesterol	Cholesterol
+Ryby chrzęstnoszkieletowe	Chondrichthyes
+Chongqing	Chongqing
+Akord	Chord (music)
+Strunowce	Chordate
+Christchurch (Nowa Zelandia)	Christchurch
+Christiaan Huygens	Christiaan Huygens
+Christian Dior	Christian Dior
+Chrześcijaństwo	Christianity
+Kategoria:Chrześcijaństwo	Christianity
+Boże Narodzenie	Christmas
+Wigilia Bożego Narodzenia	Christmas Eve
+Choinka	Christmas tree
+Krzysztof Kolumb	Christopher Columbus
+Christopher Marlowe	Christopher Marlowe
+Chromatyna	Chromatin
+Chromatografia	Chromatography
+Chrom	Chromium
+Chromosom	Chromosome
+Kategoria:Chronologia	Chronology
+Chuck Berry	Chuck Berry
+Morze Czukockie	Chukchi Sea
+Kościół (organizacja)	Church
+Kościół (budynek)	Church (building)
+Cyceron	Cicero
+Brodzące	Ciconiiformes
+Cydr	Cider
+Papieros	Cigarette
+Kopciuszek (baśń)	Cinderella
+Cynober (minerał)	Cinnabar
+Cynamonowiec cejloński	Cinnamon
+Kirke (mitologia)	Circe
+Cyrkiel (gwiazdozbiór)	Circinus
+Okrąg	Circle
+Układ krwionośny człowieka	Circulatory system
+Obrzezanie	Circumcision
+Cyrk (rozrywka)	Circus
+Marskość wątroby	Cirrhosis
+Obywatelstwo	Citizenship
+Kwas cytrynowy	Citric acid
+Cykl kwasu cytrynowego	Citric acid cycle
+Cytrus	Citrus
+Wolne miasto	City-state
+Wojna domowa	Civil war
+Cywilizacja	Civilization
+Civilization	Civilization (computer game)
+Klarnet	Clarinet
+Clark Gable	Clark Gable
+Klasa	Class
+Klasa (biologia)	Class (biology)
+Klasa (programowanie obiektowe)	Class (computer science)
+Mechanika klasyczna	Classical mechanics
+Muzyka poważna	Classical music
+Klasycyzm	Classicism
+Claude Monet	Claude Monet
+Claude E. Shannon	Claude Shannon
+Claudio Monteverdi	Claudio Monteverdi
+Klaudiusz (cesarz)	Claudius
+Obojczyk (anatomia)	Clavicle
+Glina	Clay
+Klucz (muzyka)	Clef
+Clement Richard Attlee	Clement Attlee
+Kleopatra	Cleopatra (disambiguation)
+Duchowieństwo	Clergy
+Cleveland	Cleveland
+Klient-serwer	Client-server
+Klimat	Climate
+Kategoria:Klimat	Climate
+Zmiana klimatu	Climate change
+Klimatologia	Climatology
+Kategoria:Klimatologia	Climatology
+Depresja (choroba)	Clinical depression
+Klio	Clio
+Łechtaczka	Clitoris
+Zegar (czasomierz)	Clock
+Big Ben	Clock Tower
+Klonowanie	Cloning
+Kategoria:Ubrania	Clothing
+Odzież	Clothing
+Chmura	Cloud
+Goździki	Clove
+Koniczyna	Clover
+Chlodwig I	Clovis I
+Parzydełkowce	Cnidaria
+Węgle kopalne	Coal
+Wybrzeże	Coast
+Herb	Coat of arms
+Kobalt	Cobalt
+Kokaina	Cocaine
+Biedronkowate	Coccinellidae
+Kakadu	Cockatoo
+Karaczany	Cockroach
+Koktajl alkoholowy	Cocktail
+Kokos właściwy	Coconut
+Wyspy Kokosowe	Cocos (Keeling) Islands
+Kodeina	Codeine
+Kawowiec	Coffea
+Kawa	Coffee
+Kategoria:Kawa	Coffee
+Koniak	Cognac (drink)
+Psychologia poznawcza	Cognitive psychology
+Kognitywistyka	Cognitive science
+Moneta	Coin
+Cola	Cola
+Kolchida	Colchis
+Zimna wojna	Cold War
+Kategoria:Zimna wojna	Cold War
+Colin Powell	Colin Powell
+Kolaż	Collage
+Kolagen	Collagen
+Układ koloidalny	Colloid
+Kolonia (miasto)	Cologne
+Kolumbia	Colombia
+Kategoria:Kolumbia	Colombia
+Kolombo	Colombo
+Pułkownik (stopień wojskowy)	Colonel
+Kolonia (geografia polityczna)	Colony
+Barwa	Color
+Ślepota barw	Color blindness
+Kolorado	Colorado
+Kategoria:Kolorado	Colorado
+Kolorado (rzeka)	Colorado River
+Koloseum	Colosseum
+Kolos Rodyjski	Colossus of Rhodes
+Połozowate	Colubrid
+Gołąb (gwiazdozbiór)	Columba (constellation)
+Columbia (Karolina Południowa)	Columbia
+Kolumbia (ujednoznacznienie)	Columbia
+Kolumbia (rzeka)	Columbia River
+Uniwersytet Columbia	Columbia University
+Gołębiowate	Columbidae
+Kategoria:Gołębiowe	Columbiformes
+Gołębiowe	Columbiformes
+Columbus (Ohio)	Columbus
+Columbus	Columbus
+Śpiączka	Coma
+Warkocz Bereniki (gwiazdozbiór)	Coma Berenices
+Spalanie	Combustion
+Komedia	Comedy
+Jan Ámos Komenský	Comenius
+Kometa	Comet
+Przecinek	Comma (punctuation)
+Commedia dell'arte	Commedia dell'arte
+Kategoria:Handel	Commerce
+Figowiec pospolity	Common Fig
+Przeziębienie	Common cold
+Wspólnota Niepodległych Państw	Commonwealth of Independent States
+Wspólnota Narodów	Commonwealth of Nations
+Kategoria:Komunikacja	Communication
+Komunikacja interpersonalna	Communication
+Komunizm	Communism
+Kategoria:Komunizm	Communism
+Komory	Comoros
+Kategoria:Komory	Comoros
+Płyta kompaktowa	Compact Disc
+Kompania	Company (military unit)
+Kompas magnetyczny	Compass
+Cyrkiel (przyrząd)	Compass (drafting)
+Kompilator	Compiler
+CISC	Complex instruction set computer
+Liczby zespolone	Complex number
+Kompozytor	Composer
+Materiał kompozytowy	Composite material
+Liczby złożone	Composite number
+Lingwistyka komputerowa	Computational linguistics
+Tomografia komputerowa	Computed tomography
+Komputer	Computer
+Architektura komputera	Computer architecture
+Monitor (ekran)	Computer display
+Plik	Computer file
+Kategoria:Grafika komputerowa	Computer graphics
+Hardware	Computer hardware
+Kategoria:Sprzęt komputerowy	Computer hardware
+Sieć komputerowa	Computer network
+Program komputerowy	Computer program
+Programowanie	Computer programming
+Kategoria:Programowanie	Computer programming
+Informatyka	Computer science
+Kategoria:Informatyka	Computer science
+Oprogramowanie	Computer software
+Wirus komputerowy	Computer virus
+Komputerowe wspomaganie projektowania	Computer-aided design
+Kategoria:Informatyka	Computing
+Konakry	Conakry
+Stężenie (chemia)	Concentration
+Koncert	Concerto
+Concord (New Hampshire)	Concord
+Beton	Concrete
+Prezerwatywa	Condom
+Dyrygent	Conducting
+Stożek (geometria)	Cone (geometry)
+Skonfederowane Stany Ameryki	Confederate States of America
+Konfederacja	Confederation
+Sakrament pokuty i pojednania	Confession
+Bierzmowanie	Confirmation
+Konflikt interpersonalny	Conflict
+Konfucjanizm	Confucianism
+Konfucjusz	Confucius
+Kongo (ujednoznacznienie)	Congo
+Kongo (rzeka)	Congo River
+Krzywa stożkowa	Conic section
+Connecticut	Connecticut
+Kategoria:Connecticut	Connecticut
+Tkanka łączna	Connective tissue
+Konkwista	Conquistador
+Konsens	Consensus
+Zasada zachowania energii	Conservation of energy
+Konserwatyzm	Conservatism
+Spółgłoska	Consonant
+Konstantyn I Wielki	Constantine I
+Konstantynopol	Constantinople
+Gwiazdozbiór	Constellation
+Konstytucja	Constitution (political)
+Konsul rzymski	Consul
+Konsumpcja	Consumption (economics)
+Soczewka kontaktowa	Contact lens
+Kontynent	Continent
+Wędrówka kontynentów	Continental drift
+Szelf kontynentalny	Continental shelf
+Umowa	Contract
+Brydż	Contract bridge
+Konwekcja	Convection
+Sztuka kulinarna	Cooking
+Spółdzielnia	Cooperative
+Układ współrzędnych	Coordinate system
+Uniwersalny czas koordynowany	Coordinated Universal Time
+Kopenhaga	Copenhagen
+Miedź	Copper
+Prawo autorskie	Copyright
+Rożek angielski	Cor anglais
+Kraskowe	Coraciiformes
+Koral	Coral
+Morze Koralowe	Coral Sea
+Rafa	Coral reef
+Kolendra siewna	Coriander
+Korynt	Corinth
+Efekt Coriolisa	Coriolis effect
+Cork	Cork (city)
+Kormoranowate	Cormorant
+Rogówka	Cornea
+Uniwersytet Cornella	Cornell University
+Kornwalia	Cornwall
+Korona Północna	Corona Borealis
+Spółka kapitałowa	Corporation
+Korozja	Corrosion
+Korsyka	Corsica
+Korund	Corundum
+Korweta	Corvette
+Krukowate	Corvidae
+Kruk (gwiazdozbiór)	Corvus (constellation)
+Mikrofalowe promieniowanie tła	Cosmic microwave background radiation
+Promieniowanie kosmiczne	Cosmic ray
+Kosmologia	Cosmology
+Kategoria:Kosmologia	Cosmology
+Kostaryka	Costa Rica
+Kategoria:Kostaryka	Costa Rica
+Kotonu	Cotonou
+Cotopaxi	Cotopaxi
+Bawełna (włókno)	Cotton
+Puma	Cougar
+Kulomb	Coulomb
+Prawo Coulomba	Coulomb's law
+Sobór chalcedoński	Council of Chalcedon
+Sobór Efeski	Council of Ephesus
+Sobór trydencki	Council of Trent
+Kontrapunkt (muzyka)	Counterpoint
+Pays	Country
+Muzyka country	Country music
+Sąd	Court
+Wiązanie kowalencyjne	Covalent bond
+Coventry	Coventry
+Kojot	Coyote
+Kraby	Crab
+Mgławica Kraba	Crab Nebula
+Żurawie (ptaki)	Crane (bird)
+Puchar (gwiazdozbiór)	Crater (constellation)
+Cremona	Cremona
+Kreda (okres)	Cretaceous
+Kreta	Crete
+Krykiet	Cricket
+Świerszczowate	Cricket (insect)
+Przestępstwo	Crime
+Autonomiczna Republika Krymu	Crimea
+Wojna krymska	Crimean War
+Kategoria:Prawo karne	Criminal law
+Prawo karne	Criminal law
+Kryminologia	Criminology
+Kategoria:Kryminologia	Criminology
+Chorwacja	Croatia
+Kategoria:Chorwacja	Croatia
+Krokodylowate	Crocodile
+Krokodyle	Crocodilia
+Kronos	Cronus
+Krzyż	Cross
+Iloczyn wektorowy	Cross product
+Kusza	Crossbow
+Krzyżówka (zagadka)	Crossword
+Ukrzyżowanie	Crucifixion
+Krążownik	Cruiser
+Skorupa ziemska	Crust (geology)
+Skorupiaki	Crustacean
+Krzyż Południa (gwiazdozbiór)	Crux
+Kategoria:Kryptografia	Cryptography
+Ciało krystaliczne	Crystal
+Krystalografia	Crystallography
+Kategoria:Krystalografia	Crystallography
+Żebropławy	Ctenophore
+Kuba	Cuba
+Kategoria:Kuba	Cuba
+Sześcian (geometria)	Cube
+Metr sześcienny	Cubic metre
+Kubizm	Cubism
+Kukułkowe	Cuculiformes
+Ogórek	Cucumber
+Dyniowate	Cucurbitaceae
+Rewolucja kulturalna	Cultural Revolution
+Kultura	Culture
+Kategoria:Kultura	Culture
+Cumbria	Cumbria
+Cumulus	Cumulus cloud
+Cyprysowate	Cupressaceae
+Kurytyba	Curitiba
+Kiur (pierwiastek)	Curium
+Curling	Curling
+Kategoria:Waluty	Currency
+Waluta	Currency
+Curry	Curry
+Cuzco	Cusco
+Cyjan (kolor)	Cyan
+Cyjanki	Cyanide
+Sinice	Cyanobacteria
+Kybele	Cybele
+Cybernetyka	Cybernetics
+Cyberpunk	Cyberpunk
+Cyklady	Cyclades
+Kolarstwo	Cycling
+Kategoria:Rower	Cycling
+Cyklon	Cyclone
+Cyklop	Cyclops
+Łabędź (gwiazdozbiór)	Cygnus (constellation)
+Walec (bryła)	Cylinder (geometry)
+Ciborowate	Cyperaceae
+Karpiowate	Cyprinid
+Karpiokształtne	Cypriniformes
+Cypr (państwo)	Cyprus
+Kategoria:Cypr	Cyprus
+Cyrylica	Cyrillic alphabet
+Cyrus II Wielki	Cyrus the Great
+Mukowiscydoza	Cystic fibrosis
+Cytoplazma	Cytoplasm
+Cytozyna	Cytosine
+Cytoszkielet	Cytoskeleton
+Czechy	Czech Republic
+Kategoria:Czechy	Czech Republic
+Czechosłowacja	Czechoslovakia
+Kategoria:Czechosłowacja	Czechoslovakia
+D	D
+David Herbert Lawrence	D. H. Lawrence
+D.W.Griffith	D. W. Griffith
+Dichlorodifenylotrichloroetan	DDT
+Kwas deoksyrybonukleinowy	DNA
+DOS	DOS
+DVD	DVD
+Jamnik	Dachshund
+Dadaizm	Dada
+Dedal	Daedalus
+Sztylet	Dagger
+Dagerotyp	Daguerreotype
+Dalia (roślina)	Dahlia
+Dakar	Dakar
+Dalajlama	Dalai Lama
+Dallas	Dallas
+Dalmacja	Dalmatia
+Zapora wodna	Dam
+Damaszek	Damascus
+Taniec	Dance
+Kategoria:Taniec	Dance
+Mniszek (roślina)	Dandelion
+Daniel Bernoulli	Daniel Bernoulli
+Daniel Defoe	Daniel Defoe
+Daniel Ortega Saavedra	Daniel Ortega
+Korona duńska	Danish krone
+Dante Alighieri	Dante Alighieri
+Dunaj	Danube
+Dafne (mitologia)	Daphne
+Dar es Salaam	Dar es Salaam
+Dardanele	Dardanelles
+Darfur	Darfur
+Dardżyling	Darjeeling
+Ciemna materia	Dark matter
+Darmsztadt	Darmstadtium
+Darwin	Darwin
+Darwin (ujednoznacznienie)	Darwin
+Kapitał (Marks)	Das Kapital
+Dane	Data
+Eksploracja danych	Data mining
+Struktura danych	Data structure
+Baza danych	Database
+System zarządzania bazą danych	Database management system
+Palma daktylowa	Date Palm
+Celownik (przypadek)	Dative case
+Dyneburg	Daugavpils
+Dawid (król Izraela)	David
+David Hilbert	David Hilbert
+David Hume	David Hume
+David Livingstone	David Livingstone
+David Ricardo	David Ricardo
+Puchar Davisa	Davis Cup
+Dzień	Day
+Standard de facto	De facto
+Diakonat	Deacon
+Morze Martwe	Dead Sea
+Rękopisy z Qumran	Dead Sea scrolls
+Pokrzyk wilcza jagoda	Deadly nightshade
+Śmierć	Death
+Kategoria:Śmierć	Death
+Dziesięciolecie	Decade
+Grudzień	December
+31 grudnia	December 31
+8 grudnia	December 8
+Decybel	Decibel
+Dziesiętny system liczbowy	Decimal
+Trajan Decjusz	Decius (emperor)
+Deklinacja (astronomia)	Declination
+Deco	Deco
+Dekonstrukcja	Deconstruction
+Rozumowanie dedukcyjne	Deductive reasoning
+Jeleniowate	Deer
+Definicja	Definition
+Deflacja (ekonomia)	Deflation
+Stopień	Degree
+Stopień (kąt)	Degree (angle)
+Deimos (księżyc)	Deimos (moon)
+Deizm	Deism
+Delaware	Delaware
+Kategoria:Delaware	Delaware
+Delft	Delft
+Delhi	Delhi
+Dell	Dell
+Delfy	Delphi
+Delfin (gwiazdozbiór)	Delphinus
+Delta (ujednoznacznienie)	Delta
+Delta	Delta (letter)
+Potop	Deluge (mythology)
+Demagogia	Demagogy
+Demencja	Dementia
+Demeter	Demeter
+Demokracja	Democracy
+Partia Demokratyczna (USA)	Democratic Party (United States)
+Demokratyczna Republika Konga	Democratic Republic of the Congo
+Kategoria:Demokratyczna Republika Konga	Democratic Republic of the Congo
+Demokryt	Democritus
+Demografia	Demography
+Kategoria:Demografia	Demography
+Demon	Demon
+Demostenes (mówca grecki)	Demosthenes
+Deng Xiaoping	Deng Xiaoping
+Denga	Dengue fever
+Denis Diderot	Denis Diderot
+Dania	Denmark
+Kategoria:Dania	Denmark
+Dennis Gabor	Dennis Gabor
+Gęstość	Density
+Próchnica zębów	Dental caries
+Kategoria:Stomatologia	Dentistry
+Dentystyka	Dentistry
+Denver	Denver
+Pochodna funkcji	Derivative
+Dermatologia	Dermatology
+Des Moines (Iowa)	Des Moines
+Pustynia	Desert
+Kategoria:Pustynie	Deserts
+Erazm z Rotterdamu	Desiderius Erasmus
+Design	Design
+Desmond Tutu	Desmond Tutu
+Niszczyciel	Destroyer
+Wyznacznik	Determinant
+Determinizm	Determinism
+Detroit	Detroit
+Deuter	Deuterium
+Księga Powtórzonego Prawa	Deuteronomy
+Psychologia rozwoju człowieka	Developmental psychology
+Sterownik urządzenia	Device driver
+Devon	Devon
+Dewon	Devonian
+Rosa	Dew
+Temperatura punktu rosy	Dew point
+Klasyfikacja Dziesiętna Deweya	Dewey Decimal Classification
+Dhaka	Dhaka
+Dharma	Dharma
+Dhaulagiri	Dhaulagiri
+Cyjon	Dhole
+Cukrzyca	Diabetes mellitus
+Znaki diakrytyczne	Diacritic
+Dialekt	Dialect
+Dialektyka	Dialectic
+Materializm dialektyczny	Dialectical materialism
+Średnica	Diameter
+Diament	Diamond
+Diana Spencer	Diana
+Diana (bogini)	Diana (mythology)
+Biegunka	Diarrhea
+Diaspora	Diaspora
+Okrzemki	Diatom
+Kość do gry	Dice
+Dwuliścienne	Dicotyledon
+Dyktatura	Dictatorship
+Słownik	Dictionary
+Diego Rivera	Diego Rivera
+Olej napędowy	Diesel
+Silnik o zapłonie samoczynnym	Diesel engine
+Dietrich Bonhoeffer	Dietrich Bonhoeffer
+Równanie różniczkowe	Differential equation
+Dyfrakcja	Diffraction
+Dyfuzja	Diffusion
+Trawienie	Digestion
+Kategoria:Układ pokarmowy człowieka	Digestive system
+Cyfrowy aparat fotograficzny	Digital camera
+Fotografia cyfrowa	Digital photography
+DSL	Digital subscriber line
+Dijon	Dijon
+Koper (roślina)	Dill
+Wymiar (matematyka)	Dimension
+Dingo	Dingo
+Dinozaury	Dinosaur
+Diecezja	Diocese
+Dioklecjan	Diocletian
+Dioda	Diode
+Dionizos	Dionysus
+Błonica	Diphtheria
+Dwugłoska	Diphthong
+Diplodok	Diplodocus
+Dyplomacja	Diplomacy
+Kategoria:Dyplomacja	Diplomacy
+Dire Straits	Dire Straits
+Prąd stały	Direct current
+Disacharydy	Disaccharide
+Kategoria:Strony ujednoznaczniające	Disambiguation
+DJ	Disc jockey
+Dyskurs	Discourse
+Dyskryminacja (psychologia społeczna)	Discrimination
+Choroba	Disease
+Odległość	Distance
+Destylacja	Distillation
+Dywergencja	Divergence
+Dzielenie	Division (mathematics)
+Dywizja	Division (military)
+Rozwód	Divorce
+Dizzy Gillespie	Dizzy Gillespie
+Kategoria:Dżibuti	Djibouti
+Dżibuti (miasto)	Djibouti (city)
+Dmitrij Mendelejew	Dmitri Mendeleev
+Dymitr Szostakowicz	Dmitri Shostakovich
+Dniepr	Dnieper River
+Dniepropietrowsk	Dnipropetrovsk
+Doberman	Doberman Pinscher
+Doktor Kościoła	Doctor of the Church
+Dokument	Document
+Dwunastościan foremny	Dodecahedron
+Dodekanez	Dodecanese
+Dront dodo	Dodo
+Dodoma	Dodoma
+Pies domowy	Dog
+Dogmat	Dogma
+Ad-Dauha	Doha
+Dolar	Dollar
+Owca Dolly	Dolly (sheep)
+Dolmen	Dolmen
+Delfin	Dolphin
+Domena (biologia)	Domain (biology)
+Domena internetowa	Domain name
+Kopuła (architektura)	Dome
+Domesday Book	Domesday Book
+Domestykacja zwierząt	Domestication
+Dominika	Dominica
+Kategoria:Dominika	Dominica
+Dominikanie	Dominican Order
+Dominikana	Dominican Republic
+Kategoria:Dominikana	Dominican Republic
+Domicjan	Domitian
+Don Kichot (powieść)	Don Quixote
+Don	Don River (Russia)
+Kaczor Donald	Donald Duck
+Donatello	Donatello
+Donato Bramante	Donato Bramante
+Donieck	Donetsk
+Osioł	Donkey
+Drzwi	Door
+Dopamina	Dopamine
+Efekt Dopplera	Doppler effect
+Złota Ryba (gwiazdozbiór)	Dorado
+Porządek dorycki	Doric order
+Doris Lessing	Doris Lessing
+Dortmund	Dortmund
+Duala (miasto)	Douala
+Kontrabas	Double bass
+Douglas MacArthur	Douglas MacArthur
+Dover (Delaware)	Dover
+Dover	Dover
+Zespół Downa	Down syndrome
+Smok (gwiazdozbiór)	Draco (constellation)
+Drakula (powieść)	Dracula
+Smok	Dragon
+Dorzecze	Drainage basin
+Dramat	Drama
+Warcaby	Draughts
+Marzenia senne	Dream
+Drezno	Dresden
+Napój	Drink
+Dromader	Dromedary
+Susza	Drought
+Narkomania	Drug addiction
+Druid	Druid
+Bęben (muzyka)	Drum
+Dualizm (religia)	Dualism
+Dualizm (religia)	Dualism (philosophy of mind)
+Dubaj	Dubai
+Dublin	Dublin
+Dubn	Dubnium
+Dubrownik	Dubrovnik
+Diugoń	Dugong
+Diuk	Duke
+Duke Ellington	Duke Ellington
+Uniwersytet Duke'a	Duke University
+Wydma	Dune
+Dunkierka	Dunkirk
+Dwunastnica	Duodenum
+Durban	Durban
+Duszanbe	Dushanbe
+Dustin Hoffman	Dustin Hoffman
+Kategoria:Holendrzy	Dutch people
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dynamika (fizyka)	Dynamics (physics)
+Dynamit	Dynamite
+Dynastia	Dynasty
+Dysleksja	Dyslexia
+Dysproz	Dysprosium
+Antyutopia	Dystopia
+E	E
+Podstawa logarytmu naturalnego	E (mathematical constant)
+Poczta elektroniczna	E-mail
+Ernst Theodor Amadeus Hoffmann	E. T. A. Hoffmann
+ETA	ETA
+Orły	Eagle
+Ucho	Ear
+Uchatkowate	Eared seal
+Fokowate	Earless seal
+Ziemia	Earth
+Kategoria:Ziemia	Earth
+Nauki o Ziemi	Earth science
+Trzęsienie ziemi	Earthquake
+Wschód	East
+Afryka Wschodnia	East Africa
+Morze Wschodniochińskie	East China Sea
+Niemiecka Republika Demokratyczna	East Germany
+East Sussex	East Sussex
+Timor Wschodni	East Timor
+Kategoria:Timor Wschodni	East Timor
+Wielkanoc	Easter
+Cerkiew prawosławna	Eastern Orthodox Church
+Gorączka krwotoczna Ebola	Ebola
+Ebro	Ebro
+Ekscentryczność (fizyka)	Eccentricity (mathematics)
+Księga Koheleta	Ecclesiastes
+Echidna	Echidna (mythology)
+Szkarłupnie	Echinoderm
+Zaćmienie	Eclipse
+Eclipse	Eclipse (software)
+Ekliptyka	Ecliptic
+Nisza ekologiczna	Ecological niche
+Ekologia	Ecology
+Kategoria:Ekologia	Ecology
+Ekonometria	Econometrics
+Ekonomia	Economics
+Kategoria:Ekonomia	Economics
+Ekonomia	Economy
+Ekosystem	Ecosystem
+Ekwador	Ecuador
+Kategoria:Ekwador	Ecuador
+Sobór powszechny	Ecumenical council
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edynburg	Edinburgh
+Adrianopol	Edirne
+Edmund Halley	Edmond Halley
+Edmonton	Edmonton
+Edmund Burke	Edmund Burke
+Edmund Hillary	Edmund Hillary
+Edmund Husserl	Edmund Husserl
+Edo (miasto)	Edo
+Eduard Buchner	Eduard Buchner
+Edukacja	Education
+Kategoria:Oświata	Education
+Edvard Hagerup Grieg	Edvard Grieg
+Edvard Munch	Edvard Munch
+Edward Gibbon	Edward Gibbon
+Edward Jenner	Edward Jenner
+Edward Teller	Edward Teller
+Edward Wyznawca	Edward the Confessor
+Edwin Hubble	Edwin Hubble
+Węgorzokształtne	Eel
+Jajo (biologia)	Egg (biology)
+Psianka podłużna	Eggplant
+Egipt	Egypt
+Kategoria:Egipt	Egypt
+Funt egipski	Egyptian pound
+Egiptologia	Egyptology
+Wieża Eiffla	Eiffel Tower
+Eindhoven	Eindhoven
+Einstein (pierwiastek)	Einsteinium
+Ejakulacja	Ejaculation
+Cyd	El Cid
+El Greco	El Greco
+El Paso (Teksas)	El Paso
+Salwador	El Salvador
+Kategoria:Salwador	El Salvador
+Elam	Elam
+Łaba	Elbe
+Eleanor Roosevelt	Eleanor Roosevelt
+Wybory	Election
+Ładunek elektryczny	Electric charge
+Natężenie prądu elektrycznego	Electric current
+Pole elektryczne	Electric field
+Gitara elektryczna	Electric guitar
+Silnik elektryczny	Electric motor
+Kategoria:Elektrotechnika	Electrical engineering
+Elektrotechnika	Electrical engineering
+Rezystancja	Electrical resistance
+Elektryczność	Electricity
+Kategoria:Elektryczność	Electricity
+Elektrokardiografia	Electrocardiogram
+Elektrochemia	Electrochemistry
+Kategoria:Elektrochemia	Electrochemistry
+Elektroliza	Electrolysis
+Elektrolit	Electrolyte
+Promieniowanie elektromagnetyczne	Electromagnetic radiation
+Elektrodynamika klasyczna	Electromagnetism
+Kategoria:Elektromagnetyzm	Electromagnetism
+Elektron	Electron
+Mikroskop elektronowy	Electron microscope
+Elektroujemność	Electronegativity
+Elektronika	Electronics
+Kategoria:Elektronika	Electronics
+Elegia	Elegy
+Pierwiastek	Element
+Cząstka elementarna	Elementary particle
+Słoniowate	Elephant
+Winda	Elevator
+Elf (fantastyka)	Elf
+Elia Kazan	Elia Kazan
+Elias Canetti	Elias Canetti
+Eliasz (postać biblijna)	Elijah
+Elizabeth Taylor	Elizabeth Taylor
+Ella Fitzgerald	Ella Fitzgerald
+Elipsa (matematyka)	Ellipse
+Wielokropek	Ellipsis
+Wiąz	Elm
+Elvis Presley	Elvis Presley
+Embrion	Embryo
+Embriologia	Embryology
+Szmaragd	Emerald
+Emilia-Romania	Emilia-Romagna
+Emiliano Zapata	Emiliano Zapata
+Emily Dickinson	Emily Dickinson
+Emir	Emir
+Emma Goldman	Emma Goldman
+Emotikon	Emoticon
+Emocja	Emotion
+Empatia	Empathy
+Empedokles	Empedocles
+Cesarz	Emperor
+Pingwin cesarski	Emperor Penguin
+Imperium	Empire
+Empire State Building	Empire State Building
+Empiryzm	Empiricism
+Emu	Emu
+Emulator	Emulator
+Emulsja	Emulsion
+Encyklopedia	Encyclopedia
+Endemit	Endemism
+Układ hormonalny	Endocrine system
+Endokrynologia	Endocrinology
+Kategoria:Endokrynologia	Endocrinology
+Energia (fizyka)	Energy
+Kategoria:Energetyka	Energy
+Energia	Energy (society)
+Silnik	Engine
+Inżynier	Engineer
+Inżynieria	Engineering
+Anglia	England
+Kategoria:Anglia	England
+Kanał La Manche	English Channel
+Angielska wojna domowa	English Civil War
+Język angielski	English language
+Kategoria:Język angielski	English language
+Kategoria:Anglicy	English people
+Anglicy	English people
+Enki	Enki
+Enrico Caruso	Enrico Caruso
+Enrico Fermi	Enrico Fermi
+Kategoria:Rozrywki	Entertainment
+Entalpia	Enthalpy
+Entomologia	Entomology
+Kategoria:Entomologia	Entomology
+Entropia	Entropy
+Kategoria:Ochrona przyrody	Environment
+Środowisko	Environment
+Enzymy	Enzyme
+Eocen	Eocene
+Eon	Eon (geology)
+Eos	Eos
+Efez	Ephesus
+Epos	Epic poetry
+Epicentrum	Epicenter
+Epiktet	Epictetus
+Epikur	Epicurus
+Epidemia	Epidemic
+Epidemiologia	Epidemiology
+Epigrafika	Epigraphy
+Padaczka	Epilepsy
+Epimeteusz	Epimetheus (mythology)
+Adrenalina	Epinephrine
+Epifania	Epiphany (Christian)
+Epir	Epirus (periphery)
+Epistemologia	Epistemology
+List do Galatów	Epistle to the Galatians
+List do Rzymian	Epistle to the Romans
+Tkanka nabłonkowa	Epithelium
+Epsilon	Epsilon
+Równanie (matematyka)	Equation
+Równik	Equator
+Gwinea Równikowa	Equatorial Guinea
+Kategoria:Gwinea Równikowa	Equatorial Guinea
+Koniowate	Equidae
+Równonoc	Equinox
+Skrzyp	Equisetum
+Erasure	Erasure
+Erato	Erato
+Eratostenes	Eratosthenes
+Erb	Erbium
+Ereb	Erebus
+Impotencja	Erectile dysfunction
+Erekcja (fizjologia)	Erection
+Wrzosowate	Ericaceae
+Wrzosowce	Ericales
+Erydan (gwiazdozbiór)	Eridanus (constellation)
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Erik Satie	Erik Satie
+136199 Eris	Eris (dwarf planet)
+Eris	Eris (mythology)
+Kategoria:Erytrea	Eritrea
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Werner von Siemens	Ernst Werner von Siemens
+Eros	Eros (mythology)
+Erozja	Erosion
+Erotyka	Erotica
+Erwin Rommel	Erwin Rommel
+Prędkość ucieczki	Escape velocity
+Eschatologia	Eschatology
+Pałeczka okrężnicy	Escherichia coli
+Isfahan (miasto)	Esfahan
+Przełyk	Esophagus
+Esperanto	Esperanto
+Kategoria:Esperanto	Esperanto
+Szpiegostwo	Espionage
+Espoo	Espoo
+Espresso	Espresso
+Esej	Essay
+Essen	Essen
+Olejek eteryczny	Essential oil
+Essex	Essex
+Estry	Ester
+Kategoria:Estonia	Estonia
+Estrogeny	Estrogen
+Eta	Eta (letter)
+Akwaforta	Etching
+Etan	Ethane
+Alkohol etylowy	Ethanol
+Etery	Ether
+Ethernet	Ethernet
+Etyka	Ethics
+Kategoria:Etyka	Ethics
+Etiopia	Ethiopia
+Kategoria:Etiopia	Ethiopia
+Grupa etniczna	Ethnic group
+Etnografia	Ethnography
+Kategoria:Etnologia	Ethnology
+Etologia	Ethology
+Eten	Ethylene
+Etymologia	Etymology
+Eukaliptus	Eucalyptus
+Eucharystia (sakrament)	Eucharist
+Euklides	Euclid
+Geometria euklidesowa	Euclidean geometry
+Eugene O'Neill	Eugene O'Neill
+Jądrowce	Eukaryote
+Eunuch	Eunuch
+Eufemizm	Euphemism
+Eufrat	Euphrates
+Eurazja	Eurasia
+Borsuk	Eurasian Badger
+Eurypides	Euripides
+Euro	Euro
+Europa (księżyc)	Europa (moon)
+Europa (mitologia grecka)	Europa (mythology)
+Europa	Europe
+Kategoria:Europa	Europe
+Europejski Bank Centralny	European Central Bank
+Wspólnota Europejska	European Community
+Sroka	European Magpie
+Unia Europejska	European Union
+Kategoria:Unia Europejska	European Union
+Europ	Europium
+Euzebiusz z Cezarei	Eusebius of Caesarea
+Euterpe	Euterpe
+Eutanazja	Euthanasia
+Eva Braun	Eva Braun
+Evanescence	Evanescence
+Evangelista Torricelli	Evangelista Torricelli
+Parowanie	Evaporation
+Parzystokopytne	Even-toed ungulate
+Ewolucja biologiczna	Evolution
+Excalibur	Excalibur
+Kurs walutowy	Exchange rate
+Wykrzyknik	Exclamation mark
+Ekskomunika	Excommunication
+Władza wykonawcza	Executive (government)
+Ekshibicjonizm	Exhibitionism
+Egzystencjalizm (filozofia)	Existentialism
+Księga Wyjścia	Exodus
+Wartość oczekiwana	Expected value
+Eksperyment	Experiment
+Wybuch	Explosion
+Wystawa światowa	Expo (exhibition)
+Funkcja wykładnicza	Exponential function
+Potęga	Exponentiation
+Ekspresjonizm	Expressionism
+Wyginięcie	Extinction
+Oko	Eye
+Kategoria:Oko	Eye
+Ezra Pound	Ezra Pound
+F	F
+Francis Scott Fitzgerald	F. Scott Fitzgerald
+Bobowate	Fabaceae
+Bajka	Fable
+Twarz	Face
+Szablon:Fakt	Fact
+Silnia	Factorial
+Fabryka	Factory
+Plama słoneczna	Facula
+Fado	Fado
+Kategoria:Bukowate	Fagaceae
+Bukowce	Fagales
+Skala Fahrenheita	Fahrenheit
+Dozwolony użytek	Fair use
+Baśń	Fairy tale
+Sokoły	Falcon
+Szponiaste	Falconiformes
+Falklandy	Falkland Islands
+Sofizmat	Fallacy
+Jajowód	Fallopian tube
+Daniel (zwierzę)	Fallow Deer
+Falun Gong	Falun Gong
+Kategoria:Rodzina	Family
+Rodzina (biologia)	Family (biology)
+Genealogia	Family history
+Nazwisko	Family name
+Fantasy	Fantasy
+Farad	Farad
+Kategoria:Wyspy Owcze	Faroe Islands
+Faszyzm	Fascism
+Kategoria:Faszyzm	Fascism
+Kategoria:Moda	Fashion
+Moda (styl)	Fashion
+Fast food	Fast food
+Post	Fasting
+Al-Fatah	Fatah
+Kwasy tłuszczowe	Fatty acid
+Uskok	Fault (geology)
+Fauna	Fauna
+Fowizm	Fauvism
+Telefaks	Fax
+Strach	Fear
+Pióro	Feather
+Luty	February
+12 lutego	February 12
+14 lutego	February 14
+2 lutego	February 2
+22 lutego	February 22
+29 lutego	February 29
+Rewolucja lutowa 1917	February Revolution
+Kał	Feces
+Federal Bureau of Investigation	Federal Bureau of Investigation
+System Rezerwy Federalnej USA	Federal Reserve System
+Mikronezja	Federated States of Micronesia
+Kategoria:Mikronezja	Federated States of Micronesia
+Federacja	Federation
+Federico Fellini	Federico Fellini
+Fedora Core	Fedora (Linux distribution)
+Sprzężenie zwrotne	Feedback
+Skaleń	Feldspar
+Kotowate	Felidae
+Felix Mendelssohn-Bartholdy	Felix Mendelssohn
+Feminizm	Feminism
+Kategoria:Feminizm	Feminism
+Szermierka	Fencing
+Feng shui	Feng shui
+Fenkuł włoski	Fennel
+Fenrir	Fenrir
+Kozieradka pospolita	Fenugreek
+Ferdynand II Habsburg	Ferdinand II
+Ferdynand Magellan	Ferdinand Magellan
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermentacja	Fermentation (biochemistry)
+Fermentacja	Fermentation (food)
+Fermion	Fermion
+Ferm (pierwiastek)	Fermium
+Paprotniki	Fern
+Ferrara	Ferrara
+Prom	Ferry
+Żyzny Półksiężyc	Fertile Crescent
+Zapłodnienie	Fertilisation
+Nawozy	Fertilizer
+Płód	Fetus
+Feudalizm	Feudalism
+Gorączka	Fever
+Fiat	Fiat
+Ciąg Fibonacciego	Fibonacci number
+Postać literacka	Fictional character
+Fidel Castro	Fidel Castro
+Ciało (matematyka)	Field (mathematics)
+Hokej na trawie	Field hockey
+Samolot myśliwski	Fighter aircraft
+Łyżwiarstwo figurowe	Figure skating
+Fidżi	Fiji
+Kategoria:Fidżi	Fiji
+File Allocation Table	File Allocation Table
+FTP	File Transfer Protocol
+System plików	File system
+Filippo Brunelleschi	Filippo Brunelleschi
+Kategoria:Kinematografia	Film
+Film	Film
+Portal:Film	Film
+Reżyser	Film director
+Finwal	Fin Whale
+Kategoria:Finanse	Finance
+Finanse	Finance
+Palec ręki	Finger
+Finlandia	Finland
+Kategoria:Finlandia	Finland
+Jodła	Fir
+Ogień	Fire
+Broń palna	Firearm
+Straż pożarna	Firefighter
+Zapora sieciowa	Firewall (networking)
+Oprogramowanie wbudowane w urządzenie	Firmware
+Sobór Konstantynopolitański I	First Council of Constantinople
+Sobór Nicejski I	First Council of Nicaea
+I wyprawa krzyżowa	First Crusade
+1. List do Koryntian	First Epistle to the Corinthians
+Pierwsza pomoc	First aid
+Język ojczysty	First language
+Ryby	Fish
+Wędkarstwo	Fishing
+Kategoria:Wędkarstwo	Fishing
+Fiord	Fjord
+Flaga	Flag
+Wić	Flagellum
+Flamenco	Flamenco
+Flamingi	Flamingo
+Flandria	Flanders
+Pamięć Flash	Flash memory
+Gazy jelitowe	Flatulence
+Płazińce	Flatworm
+Pchły	Flea
+Język flamandzki	Flemish (linguistics)
+Krzemień	Flint
+Przerzutnik	Flip-flop (electronics)
+Powódź	Flood
+Dyskietka	Floppy disk
+Florencja	Florence
+Florence Nightingale	Florence Nightingale
+Floryda	Florida
+Kategoria:Floryda	Florida
+Mąka	Flour
+Kwiat	Flower
+Okrytonasienne	Flowering plant
+Płyn	Fluid
+Mechanika płynów	Fluid mechanics
+Fluoryt	Fluorite
+Flet	Flute
+Muchówki	Fly
+Mgła	Fog
+Kwas foliowy	Folic acid
+Muzyka folkowa	Folk music
+Folklor	Folklore
+Pokarm	Food
+Dodatek do żywności	Food additive
+Organizacja Narodów Zjednoczonych do spraw Wyżywienia i Rolnictwa	Food and Agriculture Organization
+Łańcuch pokarmowy	Food chain
+Stopa (anatomia)	Foot
+Stopa angielska	Foot (unit of length)
+Piłka nożna	Football (soccer)
+Kategoria:Piłka nożna	Football (soccer)
+Kategoria:Piłka nożna w krajach świata	Football (soccer) by country
+Kategoria:Kluby piłkarskie	Football (soccer) clubs
+Kategoria:Trenerzy piłkarscy	Football (soccer) managers
+Kategoria:Piłkarze	Football (soccer) players
+Zakazane Miasto	Forbidden City
+Siła	Force
+Las	Forest
+Leśnictwo (nauka)	Forestry
+Widelec	Fork
+Aldehyd mrówkowy	Formaldehyde
+Kwas mrówkowy	Formic acid
+Piec (gwiazdozbiór)	Fornax
+Fort Worth	Fort Worth
+Fortyfikacja	Fortification
+Fortran	Fortran
+Skamieniałości	Fossil
+Paliwa kopalne	Fossil fuel
+Wahadło Foucaulta	Foucault pendulum
+Fontanna	Fountain
+Szereg Fouriera	Fourier series
+IV wyprawa krzyżowa	Fourth Crusade
+Lis	Fox
+Fraktal	Fractal
+Ułamek	Fraction (mathematics)
+Francja	France
+Kategoria:Francja	France
+Francis Bacon (filozof)	Francis Bacon
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francis Ford Coppola	Francis Ford Coppola
+Franciszek II Habsburg	Francis II
+Francis Poulenc	Francis Poulenc
+Franciszek z Asyżu	Francis of Assisi
+Bracia mniejsi	Franciscan
+Francisco Franco	Francisco Franco
+Francisco Goya	Francisco Goya
+Francisco Pizarro	Francisco Pizarro
+Frans (pierwiastek)	Francium
+Wojna francusko-pruska	Franco-Prussian War
+Frank Lloyd Wright	Frank Lloyd Wright
+Frank Sinatra	Frank Sinatra
+Frankfort (Kentucky)	Frankfort
+Frankfurt nad Menem	Frankfurt
+Kategoria:Frankfurt nad Menem	Frankfurt
+Frankfurt nad Odrą	Frankfurt (Oder)
+Frankfurt	Frankfurt (disambiguation)
+Franklin Pierce	Franklin Pierce
+Frans Hals	Frans Hals
+Franz Kafka	Franz Kafka
+Ferenc Liszt	Franz Liszt
+Franz Schubert	Franz Schubert
+Fred Astaire	Fred Astaire
+Fryderyk I Barbarossa	Frederick I
+Fryderyk II Hohenstauf	Frederick II
+Frederick Sanger	Frederick Sanger
+Frederick Soddy	Frederick Soddy
+Fredericton	Fredericton
+Wolne Państwo	Free State
+Wolna wola	Free will
+Wolność	Freedom (philosophy)
+Wolność słowa	Freedom of speech
+Wolnomularstwo	Freemasonry
+Freetown	Freetown
+Freeware	Freeware
+Polinezja Francuska	French Polynesia
+Kategoria:Polinezja Francuska	French Polynesia
+Rewolucja francuska	French Revolution
+Kategoria:Rewolucja francuska	French Revolution
+Frank francuski	French franc
+Kategoria:Francuzi	French people
+Częstotliwość	Frequency
+Fresk	Fresco
+Woda słodka	Freshwater
+Fresno (Kalifornia)	Fresno
+Freja	Freyja
+Frejr	Freyr
+Tarcie (pojęcie fizyczne)	Friction
+Piątek	Friday
+Fridtjof Nansen	Fridtjof Nansen
+Fryderyk Engels	Friedrich Engels
+Fryzja (prowincja)	Friesland
+Fregata (okręt)	Frigate
+Frigg	Frigg
+Fritz Haber	Fritz Haber
+Friuli-Wenecja Julijska	Friuli-Venezia Giulia
+Płazy bezogonowe	Frog
+Fruktoza	Fructose
+Owoc	Fruit
+Kategoria:Owoce	Fruit
+Fucking	Fucking
+Paliwo	Fuel
+Ogniwo paliwowe	Fuel cell
+Fuga (muzyka)	Fugue
+Fukuoka	Fukuoka
+Funafuti	Funafuti
+Funkcja	Function (mathematics)
+Kategoria:Strona główna	Fundamental
+Oddziaływania podstawowe	Fundamental interaction
+Fundamentalizm	Fundamentalism
+Kategoria:Grzyby	Fungi
+Grzyby	Fungus
+Kolej linowo-terenowa	Funicular
+Funk	Funk
+Kategoria:Meble	Furniture
+Meble	Furniture
+Przyszłość	Future
+Futuryzm	Futurism (art)
+Logika rozmyta	Fuzzy logic
+Fiodor Dostojewski	Fyodor Dostoevsky
+G	G
+GIMP	GIMP
+GNOME	GNOME
+GNU	GNU
+Gabon	Gabon
+Kategoria:Gabon	Gabon
+Gaborone	Gaborone
+Archanioł Gabriel	Gabriel
+Gabriel Lippmann	Gabriel Lippmann
+Gadolin	Gadolinium
+Gaetano Donizetti	Gaetano Donizetti
+Gaja (mitologia)	Gaia (mythology)
+Galacja	Galatia
+Galaktyka	Galaxy
+Galen	Galen
+Galena	Galena
+Galicja	Galicia (Central Europe)
+Galicia	Galicia (Spain)
+Galilea	Galilee
+Galileo (sonda)	Galileo (spacecraft)
+Galileusz	Galileo Galilei
+Pęcherzyk żółciowy	Gallbladder
+Galera	Galley
+Grzebiące	Galliformes
+Kategoria:Grzebiące	Galliformes
+Gal	Gallium
+Galon (miara)	Gallon
+Galway	Galway
+Gamal Abdel Naser	Gamal Abdel Nasser
+Gry hazardowe	Gambling
+Gra	Game
+Teoria gier	Game theory
+Gamma	Gamma
+Promieniowanie gamma	Gamma ray
+Ganeśa	Ganesha
+Ganges	Ganges
+Gandża	Ganja
+Gansu	Gansu
+Ganimedes (mitologia)	Ganymede
+Ganimedes (księżyc)	Ganymede (moon)
+Gap	Gap
+Sad	Garden
+Eden (raj)	Garden of Eden
+Ogrodnictwo	Gardening
+Garfield	Garfield
+Rzygacz	Gargoyle
+Czosnek pospolity	Garlic
+Granat (minerał)	Garnet
+Garonna	Garonne
+Gaz	Gas
+Stała gazowa	Gas constant
+Gazowy olbrzym	Gas giant
+Benzyna	Gasoline
+Układ pokarmowy człowieka	Gastrointestinal tract
+Ślimaki	Gastropoda
+Galia	Gaul
+Budda Siakjamuni	Gautama Buddha
+Gej	Gay
+Gaza (Palestyna)	Gaza
+Strefa Gazy	Gaza Strip
+Koło zębate	Gear
+Geb	Geb
+Gejsza	Geisha
+Bliźnięta (gwiazdozbiór)	Gemini (constellation)
+Kamienie szlachetne	Gemstone
+Gen	Gene
+Genealogia	Genealogy
+Kategoria:Genealogia	Genealogy
+GATT	General Agreement on Tariffs and Trade
+Generał	General Officer
+Ogólna teoria względności	General relativity
+Księga Rodzaju	Genesis
+Kod genetyczny	Genetic code
+Inżynieria genetyczna	Genetic engineering
+Genetyka	Genetics
+Kategoria:Genetyka	Genetics
+Genewa	Geneva
+Dopełniacz (przypadek)	Genitive case
+Genua	Genoa
+Ludobójstwo	Genocide
+Genom	Genome
+Genotyp	Genotype
+Rodzaj (biologia)	Genus
+Geochemia	Geochemistry
+Geodezja	Geodesy
+Kategoria:Geodezja	Geodesy
+Geoffrey Chaucer	Geoffrey Chaucer
+Geografia	Geography
+Kategoria:Geografia	Geography
+Portal:Geografia	Geography
+Kategoria:Geologia	Geology
+Geologia	Geology
+Szereg geometryczny	Geometric progression
+Geometria	Geometry
+Kategoria:Geometria	Geometry
+Geomorfologia	Geomorphology
+Kategoria:Geomorfologia	Geomorphology
+Geofizyka	Geophysics
+Kategoria:Geofizyka	Geophysics
+Geopolityka	Geopolitics
+Georg Philipp Telemann	Georg Philipp Telemann
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+George Berkeley	George Berkeley
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+George Bush	George Bush
+Georg Friedrich Händel	George Frideric Handel
+George Gershwin	George Gershwin
+George Harrison	George Harrison
+George Lucas	George Lucas
+George Marshall	George Marshall
+George Orwell	George Orwell
+George Thomson	George Paget Thomson
+George Sand	George Sand
+George Stephenson	George Stephenson
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georges Bizet	Georges Bizet
+Georges Braque	Georges Braque
+Georges Clemenceau	Georges Clemenceau
+Georges Simenon	Georges Simenon
+Georgetown (Gujana)	Georgetown
+Georgia	Georgia (U.S. state)
+Kategoria:Georgia	Georgia (U.S. state)
+Gruzja	Georgia (country)
+Kategoria:Gruzja	Georgia (country)
+Gerald Ford	Gerald Ford
+Gerard Kuiper	Gerard Kuiper
+Owczarek niemiecki	German Shepherd Dog
+Język niemiecki	German language
+Kategoria:Język niemiecki	German language
+Marka niemiecka	German mark
+German	Germanium
+Niemcy	Germany
+Kategoria:Niemcy	Germany
+Geronimo (wódz Indian Chiricahua)	Geronimo
+Gestapo	Gestapo
+Gejzer	Geyser
+Ghana	Ghana
+Kategoria:Ghana	Ghana
+Gandawa	Ghent
+Getto	Ghetto
+Duch (spirytyzm)	Ghost
+Giacomo Puccini	Giacomo Puccini
+Panda wielka	Giant Panda
+Gibonowate	Gibbon
+Gibraltar	Gibraltar
+Kategoria:Gibraltar	Gibraltar
+Gigabajt	Gigabyte
+Gilgamesz	Gilgamesh
+Imbir lekarski	Ginger
+Miłorząb dwuklapowy	Ginkgo
+Giordano Bruno	Giordano Bruno
+Giorgio Vasari	Giorgio Vasari
+Giorgio de Chirico	Giorgio de Chirico
+Giotto di Bondone	Giotto di Bondone
+Giovanni Boccaccio	Giovanni Boccaccio
+Żyrafa	Giraffe
+Żyrafowate	Giraffidae
+Girolamo Savonarola	Girolamo Savonarola
+Gironde	Gironde
+Giuseppe Garibaldi	Giuseppe Garibaldi
+Giuseppe Verdi	Giuseppe Verdi
+Giza	Giza
+Lodowiec	Glacier
+Gladiator	Gladiator
+Gruczoł	Gland
+Glasgow	Glasgow
+Głasnost	Glasnost
+Szkło	Glass
+Okulary korekcyjne	Glasses
+Szybowiec	Glider
+Global Positioning System	Global Positioning System
+Globalne ocieplenie	Global warming
+Globalizacja	Globalization
+Karczoch zwyczajny	Globe artichoke
+Gloucestershire	Gloucestershire
+Glukagon	Glucagon
+Glukoza	Glucose
+Gluon	Gluon
+Kwas glutaminowy	Glutamic acid
+Gliceryna	Glycerol
+Glicyna	Glycine
+Glikogen	Glycogen
+Glikoliza	Glycolysis
+Żuchwowce	Gnathostomata
+Gnejs	Gneiss
+Gnostycyzm	Gnosticism
+Go	Go (board game)
+Goa	Goa
+Bramkarz	Goalkeeper
+Koza domowa	Goat
+Gobi	Gobi Desert
+Bóg	God
+Wzgórza Golan	Golan Heights
+Złoto	Gold
+Golda Meir	Golda Meir
+Orzeł przedni	Golden Eagle
+Most Golden Gate	Golden Gate Bridge
+Złota Orda	Golden Horde
+Golden Retriever	Golden Retriever
+Golf	Golf
+Kategoria:Golf	Golf
+Aparat Golgiego	Golgi apparatus
+Homel	Gomel
+Wielki Piątek	Good Friday
+Google	Google
+Kategoria:Google	Google
+Googol	Googol
+Gorgona (postać mitologiczna)	Gorgon
+Goryl	Gorilla
+Jastrząb gołębiarz	Goshawk
+Ewangelia	Gospel
+Ewangelia Łukasza	Gospel of Luke
+Göteborg	Gothenburg
+Gothic	Gothic
+Architektura gotycka	Gothic architecture
+Gotthold Ephraim Lessing	Gotthold Ephraim Lessing
+Gottlieb Daimler	Gottlieb Daimler
+Dna moczanowa	Gout
+Rada Ministrów	Government
+Grace Kelly	Grace Kelly
+Gradient (matematyka)	Gradient
+Graffiti	Graffiti
+Graham Greene (pisarz)	Graham Greene
+Gram	Gram
+Gramatyka	Grammar
+Kategoria:Gramatyka	Grammar
+Rodzaj gramatyczny	Grammatical gender
+Granada (miasto w Hiszpanii)	Granada
+Wielki Kanion Kolorado	Grand Canyon
+Wielki Szlem (tenis)	Grand Slam (tennis)
+Arcymistrz	Grandmaster (chess)
+Granit	Granite
+Winorośl	Grape
+Grejpfrut	Grapefruit
+Interfejs graficzny	Graphical user interface
+Grafit	Graphite
+Grawitacja	Gravitation
+Stała grawitacji	Gravitational constant
+Grawiton	Graviton
+Grej	Gray (unit)
+Wilk	Gray Wolf
+Graz	Graz
+Wielka Rafa Koralowa	Great Barrier Reef
+Wielka Brytania (wyspa)	Great Britain
+Perkoz dwuczuby	Great Crested Grebe
+Wielki kryzys	Great Depression
+Wielkie Jeziora Północnoamerykańskie	Great Lakes
+Wielkie Rowy Afrykańskie	Great Rift Valley
+Wielki Mur Chiński	Great Wall of China
+Żarłacz biały	Great white shark
+Wielkie Antyle	Greater Antilles
+Wielki Londyn	Greater London
+Największy wspólny dzielnik	Greatest common divisor
+Perkozy	Grebe
+Grecja	Greece
+Kategoria:Grecja	Greece
+Alfabet grecki	Greek alphabet
+Kategoria:Alfabet grecki	Greek alphabet
+Ogień grecki	Greek fire
+Mitologia grecka	Greek mythology
+Kategoria:Mitologia grecka	Greek mythology
+Barwa zielona	Green
+Szklarnia (ogrodnictwo)	Greenhouse
+Efekt cieplarniany	Greenhouse effect
+Gaz cieplarniany	Greenhouse gas
+Grenlandia	Greenland
+Kategoria:Grenlandia	Greenland
+Morze Grenlandzkie	Greenland Sea
+Greenpeace	Greenpeace
+Greenwich	Greenwich
+Czas uniwersalny	Greenwich Mean Time
+Gregor Mendel	Gregor Mendel
+Kalendarz gregoriański	Gregorian calendar
+Kategoria:Grenada	Grenada
+Grenoble	Grenoble
+Greta Garbo	Greta Garbo
+Szary	Grey
+Gęś gęgawa	Greylag Goose
+Gryf (mitologia)	Griffin
+Sęp płowy	Griffon Vulture
+Produkt krajowy brutto	Gross domestic product
+Grupa	Group
+Grupa (matematyka)	Group (mathematics)
+Grupa układu okresowego	Group (periodic table)
+Teoria grup	Group theory
+Grover Cleveland	Grover Cleveland
+Grozny	Grozny
+Żurawiowe	Gruiformes
+Żuraw (gwiazdozbiór)	Grus (constellation)
+Guadalajara (miasto w Meksyku)	Guadalajara
+Gwadelupa	Guadeloupe
+Guam	Guam
+Guangdong	Guangdong
+Kanton (Chiny)	Guangzhou
+Guanina	Guanine
+Guano	Guano
+Kategoria:Gwatemala	Guatemala
+Gwatemala (miasto)	Guatemala City
+Guayaquil	Guayaquil
+Guernsey	Guernsey
+Guglielmo Marconi	Guglielmo Marconi
+Gildia (historia)	Guild
+Guillaume Apollinaire	Guillaume Apollinaire
+Gilotyna	Guillotine
+Gwinea	Guinea
+Kategoria:Gwinea	Guinea
+Świnka morska	Guinea pig
+Gwinea Bissau	Guinea-Bissau
+Kategoria:Gwinea Bissau	Guinea-Bissau
+Gitara	Guitar
+Gujarat	Gujarat
+Gułag	Gulag
+Prąd Zatokowy	Gulf Stream
+I wojna w Zatoce Perskiej	Gulf War
+Zatoka Adeńska	Gulf of Aden
+Zatoka Akaba	Gulf of Aqaba
+Zatoka Botnicka	Gulf of Bothnia
+Zatoka Fińska	Gulf of Finland
+Zatoka Gwinejska	Gulf of Guinea
+Zatoka Meksykańska	Gulf of Mexico
+Zatoka Omańska	Gulf of Oman
+Zatoka Ryska	Gulf of Riga
+Zatoka Tajlandzka	Gulf of Thailand
+Mewy	Gull
+Proch	Gunpowder
+Spisek prochowy	Gunpowder Plot
+Gupik	Guppy
+Gustav Klimt	Gustav Klimt
+Gustav Ludwig Hertz	Gustav Ludwig Hertz
+Gustav Mahler	Gustav Mahler
+Gustave Courbet	Gustave Courbet
+Gustaw Flaubert	Gustave Flaubert
+Guy Fawkes	Guy Fawkes
+Guy de Maupassant	Guy de Maupassant
+Kategoria:Gujana	Guyana
+Gimnastyka	Gymnastics
+Nagonasienne	Gymnosperm
+Ginekologia	Gynaecology
+Gips	Gypsum
+Żyroskop	Gyroscope
+H	H
+Herbert George Wells	H. G. Wells
+Wirus zespołu nabytego braku odporności	HIV
+HTML	HTML
+Siedlisko (biologia)	Habitat
+Haker (slang komputerowy)	Hacker
+Hadeik	Hadean
+Hades	Hades
+Hadis	Hadith
+Hadrian	Hadrian
+Mur Hadriana	Hadrian's Wall
+Hadron	Hadron
+Hemofilia	Haemophilia
+Hafn	Hafnium
+Hagia Sofia	Hagia Sophia
+Hajfa	Haifa
+Haiku	Haiku
+Grad	Hail
+Zdrowaś Maryjo	Hail Mary
+Włos	Hair
+Haiti	Haiti
+Kategoria:Haiti	Haiti
+Pielgrzymki w islamie	Hajj
+Halal	Halal
+Halabarda	Halberd
+Czas połowicznego rozpadu	Half-life
+Halle (Saale)	Halle
+Halloween	Halloween
+Halucynacja	Hallucination
+Fluorowce	Halogen
+Hamas	Hamas
+Hamburg	Hamburg
+Kategoria:Hamburg	Hamburg
+Hamburger	Hamburger
+Hamlet	Hamlet
+Młotek	Hammer
+Sierp i młot	Hammer and sickle
+Hammurabi	Hammurabi
+Hampshire (Anglia)	Hampshire
+Chomik	Hamster
+Dynastia Han	Han Dynasty
+Dłoń	Hand
+Granat (broń)	Hand grenade
+Pistolet	Handgun
+Powieszenie	Hanging
+Wiszące ogrody Semiramidy	Hanging Gardens of Babylon
+Hannah Arendt	Hannah Arendt
+Hannibal	Hannibal
+Hanoi	Hanoi
+Hanower	Hanover
+Hans Bethe	Hans Bethe
+Hans Christian Andersen	Hans Christian Andersen
+Hanza	Hanseatic League
+Chanuka	Hanukkah
+Hanuman	Hanuman
+Szczęście	Happiness
+Harare	Harare
+Twardość	Hardness
+Harem	Harem
+Harlem (Nowy Jork)	Harlem
+Harmonijka ustna	Harmonica
+Harmonika (muzyka)	Harmony
+Harold Pinter	Harold Pinter
+Harfa	Harp
+Klawesyn	Harpsichord
+Harpia (mitologia)	Harpy
+Harriet Beecher Stowe	Harriet Beecher Stowe
+Harriet Tubman	Harriet Tubman
+Harrisburg (Pensylwania)	Harrisburg
+Harry Houdini	Harry Houdini
+Hartford (Connecticut)	Hartford
+Has	Hassium
+Nienawiść	Hatred
+Górna Normandia	Haute-Normandie
+Hawana	Havana
+Hawaje (stan w USA)	Hawaii
+Kategoria:Hawaje	Hawaii
+Leszczyna	Hazel
+Głowa	Head
+Głowa państwa	Head of state
+Zdrowie	Health
+Kategoria:Zdrowie	Health
+Serce	Heart
+Ciepło	Heat
+Silnik cieplny	Heat engine
+Niebo	Heaven
+Kategoria:Metal	Heavy metal
+Heavy metal	Heavy metal music
+Ciężka woda	Heavy water
+Hebe (mitologia)	Hebe (mythology)
+Hebei	Hebei
+Alfabet hebrajski	Hebrew alphabet
+Kalendarz żydowski	Hebrew calendar
+Hebrydy	Hebrides
+Hekate (mitologia)	Hecate
+Hektar	Hectare
+Hektor	Hector
+Hector Berlioz	Hector Berlioz
+Jeżowate	Hedgehog
+Hedonizm	Hedonism
+Hajmdal	Heimdall
+Heinrich Hertz	Heinrich Hertz
+Heinrich Himmler	Heinrich Himmler
+Heinrich Schliemann	Heinrich Schliemann
+Hel (bogini)	Hel (being)
+Helena Trojańska	Helen
+Helen Keller	Helen Keller
+Helena (Montana)	Helena
+Śmigłowiec	Helicopter
+Helios	Helios
+Hel	Helium
+Piekło	Hell
+Helmut Schmidt	Helmut Schmidt
+Helsinki	Helsinki
+Hematyt	Hematite
+Hematologia	Hematology
+Kategoria:Hematologia	Hematology
+Hemoglobina	Hemoglobin
+Żylaki odbytu	Hemorrhoid
+Henri Becquerel	Henri Becquerel
+Henri Bergson	Henri Bergson
+Henri Matisse	Henri Matisse
+Henryk Ibsen	Henrik Ibsen
+Henr	Henry (unit)
+Henry Cavendish	Henry Cavendish
+Henry David Thoreau	Henry David Thoreau
+Henry Fonda	Henry Fonda
+Henry Ford	Henry Ford
+Henry James	Henry James
+Henry Kissinger	Henry Kissinger
+Henry Miller	Henry Miller
+Henry Moore (rzeźbiarz)	Henry Moore
+Henry Purcell	Henry Purcell
+Zapalenie wątroby	Hepatitis
+Hefajstos	Hephaestus
+Hera	Hera
+Herakles	Heracles
+Heraklit	Heraclitus
+Heraldyka	Heraldry
+Kategoria:Heraldyka	Heraldry
+Herāt (miasto)	Herat
+Herbert Hoover	Herbert Hoover
+Herbert Marcuse	Herbert Marcuse
+Herbert Spencer	Herbert Spencer
+Herakles	Hercules
+Herkules (gwiazdozbiór)	Hercules (constellation)
+Herezja	Heresy
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermann Minkowski	Hermann Minkowski
+Hermann von Helmholtz	Hermann von Helmholtz
+Hermeneutyka	Hermeneutics
+Hermes	Hermes
+Bohater	Hero
+Heron z Aleksandrii	Hero of Alexandria
+Herod Wielki	Herod the Great
+Herodot	Herodotus
+Heroina	Heroin
+Czaplowate	Heron
+Mewa srebrzysta	Herring Gull
+Hertfordshire	Hertfordshire
+Herc	Hertz
+Hezjod	Hesiod
+Hesperydy	Hesperides
+Hesja	Hesse
+Kategoria:Hesja	Hesse
+Hestia	Hestia
+Heteroseksualizm	Heterosexuality
+Cudzożywność	Heterotroph
+Szesnastkowy system liczbowy	Hexadecimal
+Sześciokąt	Hexagon
+Hezbollah	Hezbollah
+Sen zimowy	Hibernation
+Hideki Yukawa	Hideki Yukawa
+Hieronim Bosch	Hieronymus Bosch
+Przestrzeń Hilberta	Hilbert space
+Himalaje	Himalayas
+Hindukusz	Hindu Kush
+Hinduizm	Hinduism
+Kategoria:Hinduizm	Hinduism
+Hipparchos z Nikei	Hipparchus
+Ruch hippisowski	Hippie
+Hipokrates	Hippocrates
+Przysięga Hipokratesa	Hippocratic Oath
+Hipopotam nilowy	Hippopotamus
+Hirohito	Hirohito
+Hiroszima	Hiroshima
+Haiti (wyspa)	Hispaniola
+Histydyna	Histidine
+Histologia	Histology
+Kategoria:Histologia	Histology
+Histony	Histone
+Historiografia	Historiography
+Historia	History
+Kategoria:Historia	History
+Portal:Historia	History
+Hồ Chí Minh	Ho Chi Minh
+Ho Chi Minh (miasto)	Ho Chi Minh City
+Hobart	Hobart
+Hobbit (rasa)	Hobbit
+Hobby	Hobby
+Katsushika Hokusai	Hokusai
+Święto	Holiday
+Hollywood	Hollywood
+Holm (pierwiastek)	Holmium
+Holocen	Holocene
+Holografia	Holography
+Graal	Holy Grail
+Święte Cesarstwo Rzymskie Narodu Niemieckiego	Holy Roman Empire
+Duch Święty	Holy Spirit
+Homeopatia	Homeopathy
+Homeostaza	Homeostasis
+Homer	Homer
+Człowiekowate	Hominidae
+Człowiek	Homo (genus)
+Homo erectus	Homo erectus
+Homo habilis	Homo habilis
+Homonim	Homonym
+Homofobia	Homophobia
+Homoseksualizm	Homosexuality
+Honduras	Honduras
+Kategoria:Honduras	Honduras
+Miód	Honey
+Trzmielojad	Honey Buzzard
+Hongkong	Hong Kong
+Kategoria:Hongkong	Hong Kong
+Honiara	Honiara
+Honolulu	Honolulu
+Szisza	Hookah
+Prawo Hooke'a	Hooke's law
+Dudek	Hoopoe
+Horacy (poeta)	Horace
+Horatio Nelson	Horatio Nelson
+Horyzont	Horizon
+Hormon	Hormone
+Róg (biologia)	Horn (anatomy)
+Róg (instrument muzyczny)	Horn (instrument)
+Horoskop	Horoscope
+Koń	Horse
+Koń parowy	Horsepower
+Horus	Horus
+Hosni Mubarak	Hosni Mubarak
+Szpital	Hospital
+Hotel	Hotel
+Godzina	Hour
+Klepsydra	Hourglass
+Dom	House
+Dr House	House (TV series)
+Mysz domowa	House Mouse
+Wróbel domowy	House Sparrow
+Houston	Houston
+Poduszkowiec	Hovercraft
+Howard Carter	Howard Carter (archaeologist)
+Prawo Hubble'a	Hubble's law
+Zatoka Hudsona	Hudson Bay
+Hudson (rzeka)	Hudson River
+Hugo Kapet	Hugh Capet
+Hugo Grocjusz	Hugo Grotius
+Hugenoci	Huguenot
+Człowiek rozumny	Human
+Humanizm	Humanism
+Kategoria:Nauki humanistyczne	Humanities
+Kość ramienna	Humerus
+Wilgotność powietrza	Humidity
+Kolibry	Hummingbird
+Kategoria:Humor	Humor
+Humor (postać komizmu)	Humour
+Humbak	Humpback Whale
+Humphrey Bogart	Humphrey Bogart
+Próchnica (gleba)	Humus
+Hunan	Hunan
+Wojna stuletnia	Hundred Years' War
+Węgry	Hungary
+Kategoria:Węgry	Hungary
+Głód	Hunger
+Polowanie	Hunting
+Hutu	Hutu
+Hybryda (biologia)	Hybrid
+Hajdarabad (Indie)	Hyderabad
+Hydra (gwiazdozbiór)	Hydra (constellation)
+Węglowodór	Hydrocarbon
+Kwas solny	Hydrochloric acid
+Elektrownia wodna	Hydroelectricity
+Wodór	Hydrogen
+Wiązanie wodorowe	Hydrogen bond
+Cyjanowodór	Hydrogen cyanide
+Nadtlenek wodoru	Hydrogen peroxide
+Hydrologia	Hydrology
+Kategoria:Hydrologia	Hydrology
+Hydroliza	Hydrolysis
+Hydrosfera	Hydrosphere
+Jon wodorotlenowy	Hydroxide
+Wąż Wodny (gwiazdozbiór)	Hydrus
+Hienowate	Hyena
+Kategoria:Higiena	Hygiene
+Błona dziewicza	Hymen
+Kategoria:Błonkoskrzydłe	Hymenoptera
+Błonkoskrzydłe	Hymenoptera
+Hymn	Hymn
+Hiperbola (matematyka)	Hyperbola
+Hiperbola (teoria literatury)	Hyperbole
+Hyperion (księżyc)	Hyperion (moon)
+Hyperion (mitologia)	Hyperion (mythology)
+Nadciśnienie tętnicze	Hypertension
+Hipertekst	Hypertext
+Hypertext Transfer Protocol	Hypertext Transfer Protocol
+Hypnos	Hypnos
+Hipnoza	Hypnosis
+Podwzgórze	Hypothalamus
+Hipoteza	Hypothesis
+I	I
+Ieoh Ming Pei	I. M. Pei
+IPod	IPod
+Ian Fleming	Ian Fleming
+Japet (księżyc)	Iapetus (moon)
+Japeton	Iapetus (mythology)
+Półwysep Iberyjski	Iberian Peninsula
+Ibuprofen	Ibuprofen
+Lód	Ice
+Epoka lodowa	Ice age
+Lody	Ice cream
+Hokej na lodzie	Ice hockey
+Kategoria:Hokej na lodzie	Ice hockey
+Góra lodowa	Iceberg
+Islandia	Iceland
+Kategoria:Islandia	Iceland
+Ichtiologia	Ichthyology
+Ikona	Icon
+Ikonoklazm	Iconoclasm
+Idaho	Idaho
+Kategoria:Idaho	Idaho
+Gaz doskonały	Ideal gas
+Idealizm	Idealism
+Element neutralny	Identity element
+Macierz jednostkowa	Identity matrix
+Ideologia	Ideology
+Ido	Ido
+Igloo	Igloo
+Ignacy Loyola	Ignatius of Loyola
+Skały magmowe	Igneous rock
+Igor Strawiński	Igor Stravinsky
+Wodospad Iguaçu	Iguazu Falls
+Iliada	Iliad
+Illinois	Illinois
+Kategoria:Illinois	Illinois
+Iliria	Illyria
+Skaner	Image scanner
+Imam	Imam
+Immanuel Kant	Immanuel Kant
+Układ odpornościowy	Immune system
+Immunologia	Immunology
+Kategoria:Immunologia	Immunology
+Imperializm	Imperialism
+Impresjonizm	Impressionism
+Kazirodztwo	Incest
+Cal	Inch
+Inch'ŏn	Incheon
+Równia pochyła	Inclined plane
+Niepodległość	Independence
+Indie	India
+Kategoria:Indie	India
+Ocean Indyjski	Indian Ocean
+Kategoria:Ocean Indyjski	Indian Ocean
+Indiana	Indiana
+Kategoria:Indiana	Indiana
+Indianapolis	Indianapolis
+Indira Gandhi	Indira Gandhi
+Ind	Indium
+Indochiny	Indochina
+Indonezja	Indonesia
+Kategoria:Indonezja	Indonesia
+Indra	Indra
+Indukcyjność	Inductance
+Rozumowanie indukcyjne	Inductive reasoning
+Cewka	Inductor
+Odpust	Indulgence
+Indianin (gwiazdozbiór)	Indus (constellation)
+Indus (rzeka)	Indus River
+Rewolucja przemysłowa	Industrial Revolution
+Przemysł (ekonomia)	Industry
+Kategoria:Przemysł	Industry
+Nierówność	Inequality
+Bezwładność	Inertia
+Piechota	Infantry
+Choroba zakaźna	Infectious disease
+Bezokolicznik	Infinitive
+Nieskończoność	Infinity
+Zapalenie	Inflammation
+Inflacja	Inflation
+Grypa	Influenza
+Informacja	Information
+Technologia informacyjna	Information technology
+Teoria informacji	Information theory
+Podczerwień	Infrared
+Ingmar Bergman	Ingmar Bergman
+Ingrid Bergman	Ingrid Bergman
+Mongolia Wewnętrzna	Inner Mongolia
+Innowacja	Innovation
+Innsbruck	Innsbruck
+Chemia nieorganiczna	Inorganic chemistry
+Kategoria:Chemia nieorganiczna	Inorganic chemistry
+Inkwizycja	Inquisition
+Owady	Insect
+Insektycydy	Insecticide
+Owadożerne	Insectivora
+Insulina	Insulin
+Ubezpieczenie (ubezpieczenia)	Insurance
+Liczby całkowite	Integer
+Układ scalony	Integrated circuit
+Prawo własności intelektualnej	Intellectual property
+Inteligencja (psychologia)	Intelligence
+Iloraz inteligencji	Intelligence quotient
+Międzykontynentalny pocisk balistyczny	Intercontinental ballistic missile
+Odsetki	Interest
+Interferencja	Interference
+Wykrzyknik (część mowy)	Interjection
+Interlingua	Interlingua
+Międzynarodowa Agencja Energii Atomowej	International Atomic Energy Agency
+Organizacja Międzynarodowego Lotnictwa Cywilnego	International Civil Aviation Organization
+Międzynarodowy Trybunał Sprawiedliwości	International Court of Justice
+Międzynarodowa linia zmiany daty	International Date Line
+Międzynarodowa Organizacja Pracy	International Labour Organization
+Międzynarodowy Fundusz Walutowy	International Monetary Fund
+Układ SI	International System of Units
+Kategoria:Prawo międzynarodowe	International law
+Organizacja międzynarodowa	International organization
+Internet	Internet
+Kategoria:Internet	Internet
+Internet Explorer	Internet Explorer
+Obóz koncentracyjny	Internment
+Interpreter	Interpreter (computing)
+Przekrój zbiorów	Intersection (set theory)
+Interwał	Interval (music)
+Jelito	Intestine
+Intranet	Intranet
+Wynalazek	Invention
+Bezkręgowce	Invertebrate
+Io (księżyc)	Io (moon)
+Io (nimfa)	Io (mythology)
+Jod	Iodine
+Jon	Ion
+Jonia	Ionia
+Morze Jońskie	Ionian Sea
+Wiązanie jonowe	Ionic bond
+Jonosfera	Ionosphere
+Jota (litera)	Iota
+Iowa	Iowa
+Kategoria:Iowa	Iowa
+Iran	Iran
+Kategoria:Iran	Iran
+Wojna iracko-irańska	Iran-Iraq War
+Irak	Iraq
+Kategoria:Irak	Iraq
+Irlandia (wyspa)	Ireland
+Kategoria:Irlandia	Ireland
+Ireneusz z Lyonu	Irenaeus
+Iryd	Iridium
+Tęczówka	Iris (anatomy)
+Iris (mitologia)	Iris (mythology)
+Irlandzka Armia Republikańska	Irish Republican Army
+Morze Irlandzkie	Irish Sea
+Kategoria:Irlandczycy	Irish people
+Żelazo	Iron
+Epoka żelaza	Iron Age
+Żelazna kurtyna	Iron Curtain
+Iron Maiden	Iron Maiden
+Ironia	Irony
+Liczby niewymierne	Irrational number
+Irredenta	Irredentism
+Irtysz	Irtysh River
+Izaak (postać biblijna)	Isaac
+Isaac Asimov	Isaac Asimov
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isadora Duncan	Isadora Duncan
+Izmael (syn Abrahama)	Ishmael
+Izyda	Isis
+Islam	Islam
+Kategoria:Islam	Islam
+Islamabad	Islamabad
+Kalendarz muzułmański	Islamic calendar
+Wyspa	Island
+Wyspa Man	Isle of Man
+Kategoria:Wyspa Man	Isle of Man
+Wight	Isle of Wight
+Izomeria	Isomer
+Isoroku Yamamoto	Isoroku Yamamoto
+Izotopy	Isotope
+Izrael	Israel
+Kategoria:Izrael	Israel
+Stambuł	Istanbul
+Kategoria:Stambuł	Istanbul
+Przesmyk	Isthmus
+Przesmyk Panamski	Isthmus of Panama
+Półwysep Apeniński	Italian Peninsula
+Italo Calvino	Italo Calvino
+Włochy	Italy
+Kategoria:Włochy	Italy
+Itaka	Ithaca
+Ivan Lendl	Ivan Lendl
+Iwan Pawłow	Ivan Pavlov
+Iwan Turgieniew	Ivan Turgenev
+Kość słoniowa	Ivory
+Liga Bluszczowa	Ivy League
+Iō-jima	Iwo Jima
+J	J
+Jerome David Salinger	J. D. Salinger
+James Matthew Barrie	J. M. Barrie
+Jack Kerouac	Jack Kerouac
+Jack Lemmon	Jack Lemmon
+Jack London	Jack London
+Kuba Rozpruwacz	Jack the Ripper
+Kawka	Jackdaw
+Jackson (Missisipi)	Jackson
+Jackson Pollock	Jackson Pollock
+Jacksonville (Floryda)	Jacksonville
+Jakub (postać biblijna)	Jacob
+Jacques Cartier	Jacques Cartier
+Jacques Derrida	Jacques Derrida
+Jacques Offenbach	Jacques Offenbach
+Żad	Jade
+Jaguar	Jaguar
+Dżinizm	Jainism
+Dżakarta	Jakarta
+Dżalalabad (miasto w Afganistanie)	Jalalabad
+Jamajka	Jamaica
+Kategoria:Jamajka	Jamaica
+Jakub Większy Apostoł	James
+James Garfield	James A. Garfield
+James Bond	James Bond
+James Buchanan (prezydent USA)	James Buchanan
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Franck	James Franck
+James Joyce	James Joyce
+James Polk	James K. Polk
+James Madison	James Madison
+James Monroe	James Monroe
+James Naismith	James Naismith
+James Joule	James Prescott Joule
+James Watt	James Watt
+Dżammu i Kaszmir	Jammu and Kashmir
+Jan Hus	Jan Hus
+Jan van Eyck	Jan van Eyck
+Jane Austen	Jane Austen
+Jane Fonda	Jane Fonda
+Jane Seymour (królowa)	Jane Seymour
+Janis Joplin	Janis Joplin
+Janczarzy	Janissary
+Styczeń	January
+1 stycznia	January 1
+19 stycznia	January 19
+20 stycznia	January 20
+6 stycznia	January 6
+Janus (księżyc)	Janus (moon)
+Janus (mitologia)	Janus (mythology)
+Japonia	Japan
+Kategoria:Japonia	Japan
+Jazon (mitologia)	Jason
+Żółtaczka (medycyna)	Jaundice
+Jawa	Java
+Java (ujednoznacznienie)	Java (disambiguation)
+Java	Java (programming language)
+Jawaharlal Nehru	Jawaharlal Nehru
+Jazz	Jazz
+Kategoria:Jazz	Jazz
+Jean Ingres	Jean Auguste Dominique Ingres
+Jean Cocteau	Jean Cocteau
+Jean Piaget	Jean Piaget
+Jean Baptiste Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jan Jakub Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jean-Philippe Rameau	Jean-Philippe Rameau
+Dżudda	Jeddah
+Jefferson City (Missouri)	Jefferson City
+Jefferson Davis	Jefferson Davis
+JHWH	Jehovah
+Świadkowie Jehowy	Jehovah's Witnesses
+Krążkopławy	Jellyfish
+Jena	Jena
+Jeremy Bentham	Jeremy Bentham
+Jerez de la Frontera	Jerez de la Frontera
+Jerycho	Jericho
+Hieronim ze Strydonu	Jerome
+Jersey	Jersey
+Jerozolima	Jerusalem
+Kategoria:Jerozolima	Jerusalem
+Jezus Chrystus	Jesus
+Silnik odrzutowy	Jet engine
+Żydzi	Jew
+Drumla	Jew's harp
+Dżihad	Jihad
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Joanna d'Arc	Joan of Arc
+Johann Bernoulli	Johann Bernoulli
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Diderik van der Waals	Johannes Diderik van der Waals
+Johannes Gutenberg	Johannes Gutenberg
+Jan Kepler	Johannes Kepler
+Johannes Jensen	Johannes Vilhelm Jensen
+Johannesburg	Johannesburg
+John Adams	John Adams
+John Bardeen	John Bardeen
+John Cage	John Cage
+Jan Kalwin	John Calvin
+Jan Chryzostom	John Chrysostom
+John Dalton	John Dalton
+John Dewey	John Dewey
+John Galsworthy	John Galsworthy
+John Herschel	John Herschel
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Major	John Major
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John Napier	John Napier
+John Quincy Adams	John Quincy Adams
+John Ruskin	John Ruskin
+John Steinbeck	John Steinbeck
+John Stuart Mill	John Stuart Mill
+John Tyler	John Tyler
+John Wayne	John Wayne
+John Wycliffe	John Wycliffe
+Jan Chrzciciel	John the Baptist
+John von Neumann	John von Neumann
+Johnny Cash	Johnny Cash
+Staw (anatomia)	Joint
+Jonathan Swift	Jonathan Swift
+Jordania	Jordan
+Kategoria:Jordania	Jordan
+Jordan (rzeka)	Jordan River
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Conrad	Joseph Conrad
+Joseph Goebbels	Joseph Goebbels
+Joseph Haydn	Joseph Haydn
+Joseph Louis Gay-Lussac	Joseph Louis Gay-Lussac
+Joseph Raymond McCarthy	Joseph McCarthy
+Joseph Priestley	Joseph Priestley
+Joseph Pulitzer	Joseph Pulitzer
+Joseph Schumpeter	Joseph Schumpeter
+Joseph Smith	Joseph Smith
+Józef Stalin	Joseph Stalin
+Józef Flawiusz	Josephus
+Dżul	Joule
+Kategoria:Dziennikarstwo	Journalism
+Dziennikarstwo	Journalism
+Dziennikarz	Journalist
+Jowian	Jovian
+Dżojstik	Joystick
+Judaizm	Judaism
+Kategoria:Judaizm	Judaism
+Judasz Iskariota	Judas Iscariot
+Judea	Judea
+Judo	Judo
+Judy Garland	Judy Garland
+Jujutsu	Jujutsu
+Juliusz Verne	Jules Verne
+Kalendarz juliański	Julian calendar
+Julian Apostata	Julian the Apostate
+Gajusz Juliusz Cezar	Julius Caesar
+Lipiec	July
+1 lipca	July 1
+4 lipca	July 4
+Czerwiec	June
+14 czerwca	June 14
+21 czerwca	June 21
+23 czerwca	June 23
+24 czerwca	June 24
+29 czerwca	June 29
+3 czerwca	June 3
+Juneau (Alaska)	Juneau
+Jałowiec	Juniper
+Junona	Juno (mythology)
+Jowisz	Jupiter
+Kategoria:Jowisz	Jupiter
+Jowisz (ujednoznacznienie)	Jupiter (disambiguation)
+Jowisz (mitologia)	Jupiter (mythology)
+Jura	Jurassic
+Justynian I Wielki	Justinian I
+Półwysep Jutlandzki	Jutland
+K	K
+K2	K2
+KGB	KGB
+Kaaba	Kaaba
+Kabała	Kabbalah
+Kabul	Kabul
+Kalahari	Kalahari Desert
+Kamczatka	Kamchatka Peninsula
+Kamikaze	Kamikaze
+Kampala	Kampala
+Kandahar	Kandahar
+Kangurowate	Kangaroo
+Kansas	Kansas
+Kategoria:Kansas	Kansas
+Kansas City	Kansas City
+Kappa (litera)	Kappa
+Morze Karskie	Kara Sea
+Karaczi	Karachi
+Karakorum	Karakoram
+Karaoke	Karaoke
+Karate	Karate
+Karen Blixen	Karen Blixen
+Karl Barth	Karl Barth
+Karl Jaspers	Karl Jaspers
+Karol Marks	Karl Marx
+Karl Popper	Karl Popper
+Karma	Karma
+Karnataka	Karnataka
+Katharine Hepburn	Katharine Hepburn
+Katmandu	Kathmandu
+Katowice	Katowice
+Kowno	Kaunas
+Kajak	Kayak
+Kazachstan	Kazakhstan
+Kategoria:Kazachstan	Kazakhstan
+Kazań	Kazan
+Kazimierz Malewicz	Kazimir Malevich
+Kelwin	Kelvin
+Kent	Kent
+Kentucky	Kentucky
+Kategoria:Kentucky	Kentucky
+Kenia	Kenya
+Kategoria:Kenia	Kenya
+Jądro systemu operacyjnego	Kernel (computer science)
+Nafta	Kerosene
+Keczup	Ketchup
+Ketony	Ketone
+Klawiatura	Keyboard (computing)
+Instrument klawiszowy	Keyboard instrument
+Chabarowsk	Khabarovsk
+Chan (władca)	Khan
+Charków	Kharkiv
+Chartum	Khartoum
+Czerwoni Khmerzy	Khmer Rouge
+Cheops	Khufu
+Kibuc	Kibbutz
+Nerka	Kidney
+Kijów	Kiev
+Kigali	Kigali
+Kilobajt	Kilobyte
+Kilogram	Kilogram
+Kilometr	Kilometre
+Kilometr na godzinę	Kilometres per hour
+Kimono	Kimono
+Przedszkole	Kindergarten
+Kinematyka	Kinematics
+Energia kinetyczna	Kinetic energy
+Król (szachy)	King (chess)
+Król Artur	King Arthur
+Król Lear	King Lear
+Królestwo (biologia)	Kingdom (biology)
+Kingston (miasto na Jamajce)	Kingston
+Kingstown	Kingstown
+Kinszasa	Kinshasa
+Kiribati	Kiribati
+Kategoria:Kiribati	Kiribati
+Kirkuk	Kirkuk
+Pocałunek	Kiss
+Latawiec	Kite
+Kiwi	Kiwi
+Staw kolanowy	Knee
+Kneset	Knesset
+Nóż	Knife
+Kawaler (tytuł szlachecki)	Knight
+Skoczek	Knight (chess)
+Knossos	Knossos
+Węzeł (jednostka prędkości)	Knot (speed)
+Wiedza	Knowledge
+Knut Hamsun	Knut Hamsun
+Koala	Koala
+Kobe	Kobe
+Półwysep Kolski	Kola Peninsula
+Kalkuta	Kolkata
+Waran z Komodo	Komodo dragon
+Konqueror	Konqueror
+Konrad Adenauer	Konrad Adenauer
+Korea	Korea
+Kategoria:Korea	Korea
+Wojna koreańska	Korean War
+Kosowo	Kosovo
+Kategoria:Kosowo	Kosovo
+Krakatau	Krakatoa
+Kreml	Kremlin
+Kryszna	Krishna
+Krypton (pierwiastek)	Krypton
+Ku Klux Klan	Ku Klux Klan
+Kuala Lumpur	Kuala Lumpur
+Kubilaj-chan	Kublai Khan
+Pas Kuipera	Kuiper belt
+Kumkwat	Kumquat
+Kung-fu	Kung fu (term)
+Kunlun	Kunlun Mountains
+Guomindang	Kuomintang
+Kura (rzeka)	Kura River
+Kurdystan	Kurdistan
+Kategoria:Kurdystan	Kurdistan
+Partia Pracujących Kurdystanu	Kurdistan Workers Party
+Kursk	Kursk
+Kurt Vonnegut	Kurt Vonnegut
+Kurt Waldheim	Kurt Waldheim
+Kuwejt	Kuwait
+Kategoria:Kuwejt	Kuwait
+Kuwejt (miasto)	Kuwait City
+KwaZulu-Natal	KwaZulu-Natal
+Kioto	Kyoto
+Kirgistan	Kyrgyzstan
+Kategoria:Kirgistan	Kyrgyzstan
+L	L
+L'Aquila	L'Aquila
+LAMP	LAMP (software bundle)
+La Paz (miasto w Boliwii)	La Paz
+La Plata (miasto)	La Plata
+La Spezia	La Spezia
+LaTeX	LaTeX
+Laboratorium	Laboratory
+Partia Pracy (brytyjska)	Labour Party (UK)
+Labrador Retriever	Labrador Retriever
+Jaszczurka (gwiazdozbiór)	Lacerta
+Kwas mlekowy	Lactic acid
+Laktoza	Lactose
+Lady Jane Grey	Lady Jane Grey
+Zajęczaki	Lagomorpha
+Lagos (Nigeria)	Lagos
+Lahaur	Lahore
+Leseferyzm	Laissez-faire
+Jezioro	Lake
+Bajkał	Lake Baikal
+Balaton	Lake Balaton
+Czad (jezioro)	Lake Chad
+Jezioro Bodeńskie	Lake Constance
+Erie (jezioro)	Lake Erie
+Eyre (jezioro)	Lake Eyre
+Jezioro Genewskie	Lake Geneva
+Huron (jezioro)	Lake Huron
+Ilmień	Lake Ilmen
+Ładoga	Lake Ladoga
+Niasa (jezioro)	Lake Malawi
+Michigan (jezioro)	Lake Michigan
+Onega (jezioro)	Lake Onega
+Ontario (jezioro)	Lake Ontario
+Jezioro Górne (Wielkie Jeziora Amerykańskie)	Lake Superior
+Tanganika (jezioro)	Lake Tanganyika
+Jezioro Wiktorii	Lake Victoria
+Lakszmi	Lakshmi
+Lambda	Lambda
+Jasnotowate	Lamiaceae
+Orłosęp brodaty	Lammergeier
+Minogi	Lamprey
+Lancashire	Lancashire
+Bezczaszkowce	Lancelet
+Składowisko odpadów	Landfill
+Język (mowa)	Language
+Langwedocja-Roussillon	Languedoc-Roussillon
+Lansing (Michigan)	Lansing
+Lantanowce	Lanthanide
+Lantan	Lanthanum
+Laos	Laos
+Kategoria:Laos	Laos
+Morze Łaptiewów	Laptev Sea
+Laptop	Laptop
+Modrzew	Larch
+Larwa	Larva
+Krtań	Larynx
+Las Vegas	Las Vegas
+Lascaux (Akwitania)	Lascaux
+Laser	Laser
+Tokarka	Lathe
+Łacina	Latin
+Ameryka Łacińska	Latin America
+Alfabet łaciński	Latin alphabet
+Szerokość geograficzna	Latitude
+Łotwa	Latvia
+Kategoria:Łotwa	Latvia
+Śmiech	Laughter
+Laurazja	Laurasia
+Lozanna	Lausanne
+Lawa	Lava
+Prawo	Law
+Kategoria:Prawo	Law
+Kategoria:Policja	Law enforcement
+Lorens	Lawrencium
+Adwokat	Lawyer
+Lacjum	Lazio
+Le Corbusier	Le Corbusier
+Hawr	Le Havre
+Ołów	Lead
+Liść	Leaf
+Liga Narodów	League of Nations
+Krzywa wieża w Pizie	Leaning Tower of Pisa
+Rok przestępny	Leap year
+Uczenie się	Learning
+Liban	Lebanon
+Kategoria:Liban	Lebanon
+Leda	Leda (mythology)
+Lee Harvey Oswald	Lee Harvey Oswald
+Leeds	Leeds
+Leworęczność	Left-handed
+Legenda	Legend
+Władza ustawodawcza	Legislature
+LEGO	Lego
+Leicester	Leicester
+Lejda	Leiden
+Lipsk	Leipzig
+Cytryna zwyczajna	Lemon
+Melisa lekarska	Lemon balm
+Lena (rzeka)	Lena River
+Soczewka	Lens (optics)
+Wielki Post	Lent
+Soczewica jadalna	Lentil
+Lew (gwiazdozbiór)	Leo (constellation)
+Leon I (cesarz bizantyjski)	Leo I (emperor)
+Lew Trocki	Leon Trotsky
+Leonard Bernstein	Leonard Bernstein
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Leonid Breżniew	Leonid Brezhnev
+Lampart	Leopard
+Motyle	Lepidoptera
+Trąd	Leprosy
+Lepton (mechanika kwantowa)	Lepton
+Zając (gwiazdozbiór)	Lepus (constellation)
+Lesbijka	Lesbian
+Lesotho	Lesotho
+Kategoria:Lesotho	Lesotho
+Małe Antyle	Lesser Antilles
+Leto	Leto
+Litera	Letter (alphabet)
+Białaczka	Leukemia
+Lewant	Levant
+Dźwignia	Lever
+Lewiatan (potwór)	Leviathan
+Księga Kapłańska	Leviticus
+Lewis Carroll	Lewis Carroll
+Leksykologia	Lexicology
+Lhasa	Lhasa
+Lhotse	Lhotse
+Liberalizm	Liberalism
+Kategoria:Liberalizm	Liberalism
+Tamilskie Tygrysy	Liberation Tigers of Tamil Eelam
+Liberia	Liberia
+Kategoria:Liberia	Liberia
+Waga (gwiazdozbiór)	Libra (constellation)
+Biblioteka	Library
+Bibliotekoznawstwo	Library science
+Libretto	Libretto
+Libreville	Libreville
+Libia	Libya
+Kategoria:Libia	Libya
+Porosty	Lichen
+Kłamstwo	Lie
+Liechtenstein	Liechtenstein
+Kategoria:Liechtenstein	Liechtenstein
+Podporucznik	Lieutenant
+Życie	Life
+Światło	Light
+Dioda elektroluminescencyjna	Light-emitting diode
+Rok świetlny	Light-year
+Zapalniczka	Lighter
+Latarnia morska	Lighthouse
+Piorun	Lightning
+Liguria	Liguria
+Morze Liguryjskie	Ligurian Sea
+Liliowate	Liliaceae
+Lilith	Lilith
+Lille	Lille
+Lilongwe	Lilongwe
+Lima	Lima
+Limerick	Limerick
+Wapień	Limestone
+Granica (matematyka)	Limit (mathematics)
+Limnologia	Limnology
+Limousin	Limousin (region)
+Lincoln (Nebraska)	Lincoln
+Lincoln	Lincoln
+Lincolnshire	Lincolnshire
+Prosta	Line (mathematics)
+Algebra liniowa	Linear algebra
+Kategoria:Algebra liniowa	Linear algebra
+Równanie liniowe	Linear equation
+Lingua franca	Lingua franca
+Językoznawstwo	Linguistics
+Kategoria:Językoznawstwo	Linguistics
+Linus Pauling	Linus Pauling
+Linux	Linux
+Kategoria:Linux	Linux
+Linz	Linz
+Lew	Lion
+Lipidy	Lipid
+Likier	Liqueur
+Ciecz	Liquid
+Wyświetlacz ciekłokrystaliczny	Liquid crystal display
+Lukrecja (roślina)	Liquorice
+Lizbona	Lisbon
+Lise Meitner	Lise Meitner
+LISP	Lisp (programming language)
+Literatura	Literature
+Kategoria:Literatura	Literature
+Portal:Literatura	Literature
+Lit (pierwiastek)	Lithium
+Litografia	Lithography
+Litosfera	Lithosphere
+Litwa	Lithuania
+Kategoria:Litwa	Lithuania
+Litr	Litre
+Pójdźka	Little Owl
+Liverpool	Liverpool
+Liwonia	Livonia
+Tytus Liwiusz	Livy
+Jaszczurki	Lizard
+Lublana	Ljubljana
+Lama	Llama
+Zapożyczenia językowe	Loanword
+Sieć lokalna	Local area network
+Loch Ness	Loch Ness
+Potwór z Loch Ness	Loch Ness Monster
+Lokomotywa	Locomotive
+Logarytm	Logarithm
+Logika	Logic
+Kategoria:Logika	Logic
+Bramka logiczna	Logic gate
+Logistyka	Logistics
+Logo (znak graficzny)	Logo
+Loire	Loire
+Loara	Loire River
+Loki	Loki
+Lolita	Lolita
+Lombardia	Lombardy
+Londyn	London
+Kategoria:Londyn	London
+Long Beach (Kalifornia)	Long Beach
+Long Island	Long Island
+Skok w dal	Long jump
+Sowa uszata	Long-eared Owl
+Lope de Vega	Lope de Vega
+Ojcze nasz	Lord's Prayer
+Lotaryngia	Lorraine (region)
+Los Angeles	Los Angeles
+Lot (departament)	Lot (department)
+Głośnik	Loudspeaker
+Louis Aragon	Louis Aragon
+Louis Armstrong	Louis Armstrong
+Louis Braille	Louis Braille
+Ludwik Pasteur	Louis Pasteur
+Ludwik I Pobożny	Louis the Pious
+Ludwik II Jąkała	Louis the Stammerer
+Luizjana	Louisiana
+Kategoria:Luizjana	Louisiana
+Louisville (Kentucky)	Louisville
+Luwr	Louvre
+Miłość	Love
+Język dolnoniemiecki	Low German
+Dolna Saksonia	Lower Saxony
+Luanda	Luanda
+Lublin	Lublin
+Lucerna	Lucerne
+Luciano Pavarotti	Luciano Pavarotti
+Lucyfer	Lucifer
+Lukrecjusz	Lucretius
+Lukrecja Borgia	Lucrezia Borgia
+Ludwig Boltzmann	Ludwig Boltzmann
+Ludwig Mies van der Rohe	Ludwig Mies van der Rohe
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Luftwaffe	Luftwaffe
+Luigi Galvani	Luigi Galvani
+Luigi Pirandello	Luigi Pirandello
+Lumen	Lumen (unit)
+Luminescencja	Luminescence
+Zaćmienie Księżyca	Lunar eclipse
+Lund (miasto)	Lund
+Płuco	Lung
+Rak płuca	Lung cancer
+Dwudyszne	Lungfish
+Wilk (gwiazdozbiór)	Lupus (constellation)
+Lusaka	Lusaka
+Luzytania	Lusitania
+Lutnia	Lute
+Lutet	Lutetium
+Luteranizm	Lutheranism
+Luks	Lux
+Luksemburg	Luxembourg
+Kategoria:Luksemburg	Luxembourg
+Luksemburg (miasto)	Luxembourg (city)
+Luksor	Luxor
+Luzon	Luzon
+Liczi chińskie	Lychee
+Lidia (kraina)	Lydia
+Układ limfatyczny	Lymphatic system
+Ryś (gwiazdozbiór)	Lynx (constellation)
+Lynx	Lynx (web browser)
+Lyon	Lyon
+Lutnia (gwiazdozbiór)	Lyra
+Dietyloamid kwasu lizergowego	Lysergic acid diethylamide
+Lizyna	Lysine
+Lizosom	Lysosome
+M	M
+M-teoria	M-theory
+MESSENGER	MESSENGER
+Multipurpose Internet Mail Extensions	MIME
+MS-DOS	MS-DOS
+Makau	Macau
+Makbet	Macbeth
+Starożytna Macedonia	Macedon
+Macedon (ujednoznacznienie)	Macedonia
+Macedonia (Grecja)	Macedonia (Greece)
+Liczba Macha	Mach number
+Maszyna	Machine
+Język maszynowy	Machine code
+Karabin maszynowy	Machine gun
+Tłumaczenie automatyczne	Machine translation
+Machu Picchu	Machu Picchu
+Macintosh	Macintosh
+Makroekonomia	Macroeconomics
+Kategoria:Makroekonomia	Macroeconomics
+Madagaskar	Madagascar
+Kategoria:Madagaskar	Madagascar
+Madera	Madeira
+Madison (Wisconsin)	Madison
+Madonna (piosenkarka)	Madonna (entertainer)
+Madryt	Madrid
+Madryt (wspólnota autonomiczna)	Madrid (autonomous community)
+Mafia	Mafia
+Czasopismo	Magazine
+Magenta (barwa)	Magenta
+Maghreb	Maghreb
+Magia	Magic (paranormal)
+Kwadrat magiczny (matematyka)	Magic square
+Linia Maginota	Maginot Line
+Magma	Magma
+Magna Charta Libertatum	Magna Carta
+Magnez	Magnesium
+Magnes	Magnet
+Pole magnetyczne	Magnetic field
+Obrazowanie rezonansu magnetycznego	Magnetic resonance imaging
+Magnetyzm	Magnetism
+Kategoria:Magnetyzm	Magnetism
+Magnetyt	Magnetite
+Lupa	Magnifying glass
+Kategoria:Magnoliopsida	Magnoliopsida
+Maharashtra	Maharashtra
+Mahatma Gandhi	Mahatma Gandhi
+Mahajana	Mahayana
+Poczta	Mail
+Mojżesz Majmonides	Maimonides
+Men	Main
+Szablon:Main	Main
+Maine (stan w USA)	Maine
+Kategoria:Maine	Maine
+Mainframe	Mainframe computer
+Budda Maitreja	Maitreya
+Kukurydza zwyczajna	Maize
+Major	Major
+Skala durowa	Major scale
+Majorka	Majorca
+Makalu	Makalu
+Malabo	Malabo
+Malachit	Malachite
+Pancerzowce	Malacostraca
+Malaria	Malaria
+Kategoria:Malawi	Malawi
+Półwysep Malajski	Malay Peninsula
+Tapir malajski	Malayan Tapir
+Malezja	Malaysia
+Kategoria:Malezja	Malaysia
+Malcolm X	Malcolm X
+Malediwy	Maldives
+Kategoria:Malediwy	Maldives
+Mali	Mali
+Kategoria:Mali	Mali
+Kaczka krzyżówka	Mallard
+Malta	Malta
+Kategoria:Malta	Malta
+Język maltański	Maltese language
+Maltoza	Maltose
+Ślazowate	Malvaceae
+Ssaki	Mammal
+Mamut	Mammoth
+Zarządzanie	Management
+Managua (miasto)	Managua
+Manama	Manama
+Manatowate	Manatee
+Manchester	Manchester
+Mandżuria	Manchuria
+Mandala	Mandala
+Języki mandaryńskie	Mandarin (linguistics)
+Mandarynka (roślina)	Mandarin orange
+Zbiór Mandelbrota	Mandelbrot set
+Mangan	Manganese
+Mango	Mango
+Namorzyny	Mangrove
+Manhattan	Manhattan
+Projekt Manhattan	Manhattan Project
+Manicheizm	Manichaeism
+Manila	Manila
+Manipur	Manipur
+Manitoba	Manitoba
+Manieryzm (sztuka)	Mannerism
+Mannheim	Mannheim
+Płaszcz ziemski	Mantle (geology)
+Mantra	Mantra
+Mantua	Mantua
+Manuel de Falla	Manuel de Falla
+Rękopis	Manuscript
+Mao Zedong	Mao Zedong
+Maoizm	Maoism
+Mapa	Map
+Klon (roślina)	Maple
+Maputo (miasto)	Maputo
+Bieg maratoński	Marathon
+Marmur	Marble
+Marc Chagall	Marc Chagall
+Marcel Duchamp	Marcel Duchamp
+Marcel Marceau	Marcel Marceau
+Marcel Proust	Marcel Proust
+Marzec	March
+17 marca	March 17
+19 marca	March 19
+2 marca	March 2
+25 marca	March 25
+Marche	Marche
+Marco Polo	Marco Polo
+Marek Aureliusz	Marcus Aurelius
+Marek Juniusz Brutus	Marcus Junius Brutus
+Marek Agrypa	Marcus Vipsanius Agrippa
+Marduk	Marduk
+Margaret Mead	Margaret Mead
+Margaret Mitchell	Margaret Mitchell
+Margaret Thatcher	Margaret Thatcher
+Maria Callas	Maria Callas
+Mariany	Mariana Islands
+Maria Antonina Austriaczka	Marie Antoinette
+Maria Skłodowska-Curie	Marie Curie
+Maarianhamina	Mariehamn
+Marilyn Monroe	Marilyn Monroe
+Mario Vargas Llosa	Mario Vargas Llosa
+Marek Antoniusz	Mark Antony
+Mark Twain	Mark Twain
+Rynek (ekonomia)	Market
+Marketing	Marketing
+Kategoria:Marketing	Marketing
+Język znaczników	Markup language
+Marlene Dietrich	Marlene Dietrich
+Donatien Alphonse François de Sade	Marquis de Sade
+Marrakesz	Marrakech
+Małżeństwo	Marriage
+Kategoria:Mars	Mars
+Mars (ujednoznacznienie)	Mars (disambiguation)
+Mars (mitologia)	Mars (mythology)
+Marsylia	Marseille
+Wyspy Marshalla	Marshall Islands
+Kategoria:Wyspy Marshalla	Marshall Islands
+Plan Marshalla	Marshall Plan
+Torbacze	Marsupial
+Martin Buber	Martin Buber
+Martin Heidegger	Martin Heidegger
+Marcin Luter	Martin Luther
+Martin Luther King	Martin Luther King
+Martin Scorsese	Martin Scorsese
+Martin Van Buren	Martin Van Buren
+Martina Navrátilová	Martina Navratilova
+Martynika	Martinique
+Martyrologia	Martyr
+Bracia Marx	Marx Brothers
+Marksizm	Marxism
+Kategoria:Marksizm	Marxism
+Maria z Nazaretu	Mary (mother of Jesus)
+Maria Magdalena	Mary Magdalene
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Maryland	Maryland
+Kategoria:Maryland	Maryland
+Maseru	Maseru
+Meszhed	Mashhad
+Masa (fizyka)	Mass
+Msza	Mass (liturgy)
+Liczba masowa	Mass number
+Massachusetts	Massachusetts
+Kategoria:Massachusetts	Massachusetts
+Massachusetts Institute of Technology	Massachusetts Institute of Technology
+Masturbacja	Masturbation
+Mata Hari	Mata Hari
+Zapałka	Match
+Materializm	Materialism
+Logika matematyczna	Mathematical logic
+Kategoria:Logika matematyczna	Mathematical logic
+Dowód (matematyka)	Mathematical proof
+Matematyka	Mathematics
+Kategoria:Matematyka	Mathematics
+Portal:Matematyka	Mathematics
+Macierz	Matrix (mathematics)
+Materia (fizyka)	Matter
+Matterhorn	Matterhorn
+Mauna Kea	Mauna Kea
+Mauna Loa	Mauna Loa
+Wielki Czwartek	Maundy Thursday
+Maurice Ravel	Maurice Ravel
+Mauretania	Mauritania
+Kategoria:Mauretania	Mauritania
+Mauritius	Mauritius
+Kategoria:Mauritius	Mauritius
+Max Born	Max Born
+Max Bruch	Max Bruch
+Max Ernst	Max Ernst
+Max Planck	Max Planck
+Max Weber	Max Weber
+Maksymian	Maximian
+Równania Maxwella	Maxwell's equations
+Maj	May
+1 maja	May 1
+24 maja	May 24
+Mayenne (departament)	Mayenne
+Jętki (owady)	Mayfly
+Sos majonezowy	Mayonnaise
+Burmistrz	Mayor
+Mbabane	Mbabane
+Maccartyzm	McCarthyism
+Miód pitny	Mead
+Odra (choroba)	Measles
+Miara (matematyka)	Measure (mathematics)
+Kategoria:Metrologia	Measurement
+Pomiar	Measurement
+Mięso	Meat
+Mekka	Mecca
+Inżynieria mechaniczna	Mechanical engineering
+Kategoria:Mechanika	Mechanics
+Mechanika	Mechanics
+Medea	Medea
+Mediana	Median
+Farmakoterapia	Medication
+Medyceusze	Medici
+Medycyna	Medicine
+Kategoria:Medycyna	Medicine
+Medyna	Medina
+Medytacja	Meditation
+Kategoria:Morze Śródziemne	Mediterranean
+Morze Śródziemne	Mediterranean Sea
+Meduza (mitologia)	Medusa
+Surykatka	Meerkat
+Megabajt	Megabyte
+Mejoza	Meiosis
+Johannes Eckhart	Meister Eckhart
+Meitner	Meitnerium
+Mekong	Mekong
+Mel Gibson	Mel Gibson
+Melanezja	Melanesia
+Melodia	Melody
+Melpomene	Melpomene
+Topnienie	Melting
+Temperatura topnienia	Melting point
+Mem	Meme
+Pamięć człowieka	Memory
+Memphis	Memphis
+Memfis	Memphis
+Menachem Begin	Menachem Begin
+Mendelew	Mendelevium
+Menelaos	Menelaus
+Zapalenie opon mózgowo-rdzeniowych	Meningitis
+Góra Stołowa (gwiazdozbiór)	Mensa (constellation)
+Cykl miesiączkowy	Menstrual cycle
+Menstruacja	Menstruation
+Zaburzenie psychiczne	Mental disorder
+Mięta	Mentha
+Merkantylizm	Mercantilism
+Wojsko najemne	Mercenary
+Merkury (ujednoznacznienie)	Mercury
+Rtęć	Mercury (element)
+Merkury (bóg)	Mercury (mythology)
+Merkury	Mercury (planet)
+Południk	Meridian (geography)
+Merytokracja	Meritocracy
+Syrena (mitologia)	Mermaid
+Merowingowie	Merovingian
+Meryl Streep	Meryl Streep
+Meskalina	Mescaline
+Mezolit	Mesolithic
+Mezony	Meson
+Mezopotamia	Mesopotamia
+Kategoria:Mezopotamia	Mesopotamia
+Mezosfera (warstwa atmosfery)	Mesosphere
+Era mezozoiczna	Mesozoic
+MRNA	Messenger RNA
+Pomazaniec	Messiah
+Mesyna	Messina
+Metabolizm	Metabolism
+Metadane	Metadata
+Metale	Metal
+Wiązanie metaliczne	Metallic bond
+Półmetale	Metalloid
+Metalurgia	Metallurgy
+Kategoria:Metalurgia	Metallurgy
+Skały metamorficzne	Metamorphic rock
+Metafora	Metaphor
+Metafizyka klasyczna	Metaphysics
+Przerzuty nowotworowe	Metastasis
+Rój meteorów	Meteor shower
+Meteoryt	Meteorite
+Meteoroid	Meteoroid
+Kategoria:Meteorologia i fizyka atmosfery	Meteorology
+Meteorologia	Meteorology
+Metadon	Methadone
+Metamfetamina	Methamphetamine
+Alkohol metylowy	Methanol
+Metionina	Methionine
+Metodyzm	Methodism
+3,4-metylenodioksymetamfetamina	Methylenedioxymethamphetamine
+Metis (księżyc)	Metis (moon)
+Metonimia	Metonymy
+Metr	Metre
+Przestrzeń metryczna	Metric space
+Meuse	Meuse
+Moza	Meuse River
+Meksyk	Mexico
+Kategoria:Meksyk	Mexico
+Meksyk (miasto)	Mexico City
+Miami	Miami
+Miki	Mica
+Michał Archanioł	Michael (archangel)
+Michael Faraday	Michael Faraday
+Michel Ney	Michel Ney
+Michał Anioł	Michelangelo
+Michigan	Michigan
+Kategoria:Michigan	Michigan
+Mick Jagger	Mick Jagger
+Myszka Miki	Mickey Mouse
+Mikrobiologia	Microbiology
+Kategoria:Mikrobiologia	Microbiology
+Mikroekonomia	Microeconomics
+Kategoria:Mikroekonomia	Microeconomics
+Mikronezja (wyspy)	Micronesia
+Mikroorganizm	Microorganism
+Mikrofon	Microphone
+Mikroprocesor	Microprocessor
+Mikroskop	Microscope
+Mikroskop (gwiazdozbiór)	Microscopium
+Mikrofale	Microwave
+Kuchenka mikrofalowa	Microwave oven
+Średniowiecze	Middle Ages
+Kategoria:Średniowiecze	Middle Ages
+Bliski Wschód	Middle East
+Dzień polarny	Midnight sun
+Migrena	Migraine
+Miguel de Cervantes	Miguel de Cervantes
+Mike Tyson	Mike Tyson
+Michał Bakunin	Mikhail Bakunin
+Michał Glinka	Mikhail Glinka
+Michaił Gorbaczow	Mikhail Gorbachev
+Mediolan	Milan
+Mila	Mile
+Miles Davis	Miles Davis
+Kategoria:Wojsko	Military
+Stopień wojskowy	Military rank
+Mleko	Milk
+Droga Mleczna	Milky Way
+Millard Fillmore	Millard Fillmore
+Tysiąclecie	Millennium
+Milimetr	Millimetre
+Milion	Million
+Dwuparce	Millipede
+Milton Friedman	Milton Friedman
+Milwaukee (Wisconsin)	Milwaukee
+Minaret	Minaret
+Mindanao	Mindanao
+Minerał	Mineral
+Woda mineralna	Mineral water
+Mineralogia	Mineralogy
+Kategoria:Mineralogia	Mineralogy
+Minerwa	Minerva
+Dynastia Ming	Ming Dynasty
+Minimalizm (sztuka)	Minimalism
+Górnictwo	Mining
+Minister (urząd)	Minister (government)
+Minneapolis (Minnesota)	Minneapolis
+Minnesota	Minnesota
+Kategoria:Minnesota	Minnesota
+Kultura minojska	Minoan civilization
+Skala molowa	Minor scale
+Minos	Minos
+Minotaur (mitologia)	Minotaur
+Mińsk	Minsk
+Minuta	Minute
+Miocen	Miocene
+Cud	Miracle
+Lustro	Mirror
+Miszna	Mishnah
+Kategoria:Missisipi	Mississippi
+Missisipi (rzeka)	Mississippi River
+Missouri (stan w USA)	Missouri
+Kategoria:Missouri	Missouri
+Missouri (rzeka)	Missouri River
+Mitochondrium	Mitochondrion
+Mnemosyne	Mnemosyne
+Telefon komórkowy	Mobile phone
+Modem	Modem
+Modernizm (sztuka)	Modernism
+Modest Musorgski	Modest Mussorgsky
+Modulacja	Modulation
+Mogadiszu	Mogadishu
+Mojry	Moirae
+Pleśń	Mold
+Mołdawia	Moldova
+Kategoria:Mołdawia	Moldova
+Mol	Mole (unit)
+Biologia molekularna	Molecular biology
+Kategoria:Biologia molekularna	Molecular biology
+Cząsteczka	Molecule
+Molise	Molise
+Mięczaki	Mollusca
+Butelka zapalająca	Molotov cocktail
+Molibden	Molybdenum
+Mombasa	Mombasa
+Pęd (fizyka)	Momentum
+Monako	Monaco
+Kategoria:Monako	Monaco
+Monarcha	Monarch
+Monarchia	Monarchy
+Klasztor	Monastery
+Poniedziałek	Monday
+Pieniądz	Money
+Mongolia	Mongolia
+Kategoria:Mongolia	Mongolia
+Mangustowate	Mongoose
+Monica Seles	Monica Seles
+Monizm	Monism
+Jednoliścienne	Monocotyledon
+Monomery	Monomer
+Monopol	Monopoly
+Monopoly	Monopoly (game)
+Cukry proste	Monosaccharide
+Glutaminian sodu	Monosodium glutamate
+Monoteizm	Monotheism
+Stekowce	Monotreme
+Doktryna Monroe'a	Monroe Doctrine
+Monrovia	Monrovia
+Mons	Mons
+Monsun	Monsoon
+Mont Blanc	Mont Blanc
+Montana	Montana
+Kategoria:Montana	Montana
+Monte Carlo	Monte Carlo
+Czarnogóra	Montenegro
+Kategoria:Czarnogóra	Montenegro
+Monterrey	Monterrey
+Montevideo	Montevideo
+Montgomery (Alabama)	Montgomery
+Miesiąc	Month
+Montpelier (Vermont)	Montpelier
+Montreal	Montreal
+Montserrat (wyspa)	Montserrat
+Księżyc	Moon
+Łoś	Moose
+Moralność	Morality
+Morawy	Moravia
+Maroko	Morocco
+Kategoria:Maroko	Morocco
+Morfem	Morpheme
+Morfina	Morphine
+Morfologia	Morphology
+Morfologia (językoznawstwo)	Morphology (linguistics)
+Alfabet Morse'a	Morse code
+Moździerz	Mortar (weapon)
+Mozaika	Mosaic
+Moskwa	Moscow
+Kategoria:Moskwa	Moscow
+Moselle	Moselle
+Mojżesz	Moses
+Mosze Dajan	Moshe Dayan
+Meczet	Mosque
+Komarowate	Mosquito
+Mchy	Moss
+Mossad	Mossad
+Mosul	Mosul
+Motet	Motet
+Matka	Mother
+Matka Teresa z Kalkuty	Mother Teresa
+Dzień Matki	Mother's Day
+Ruch (fizyka)	Motion (physics)
+Motocykl	Motorcycle
+Motto	Motto
+Ararat	Mount Ararat
+Athos	Mount Athos
+Etna	Mount Etna
+Mount Everest	Mount Everest
+Fudżi	Mount Fuji
+Kilimandżaro	Mount Kilimanjaro
+McKinley	Mount McKinley
+Olimp	Mount Olympus
+Pinatubo	Mount Pinatubo
+Mount Rushmore	Mount Rushmore
+Mount St. Helens	Mount St. Helens
+Wezuwiusz	Mount Vesuvius
+Góra	Mountain
+Rower górski	Mountain bike
+Przełęcz	Mountain pass
+Łańcuch górski	Mountain range
+Mysz	Mouse
+Mysz komputerowa	Mouse (computing)
+Mozambik	Mozambique
+Kategoria:Mozambik	Mozambique
+My (litera)	Mu (letter)
+Muezin	Muezzin
+Mahomet	Muhammad
+Muhammad Ali (bokser)	Muhammad Ali
+Morwa	Mulberry
+Muł (ssak)	Mule
+Multimedia	Multimedia
+Stwardnienie rozsiane	Multiple sclerosis
+Mnożenie	Multiplication
+Bombaj	Mumbai
+Mumia	Mummy
+Monachium	Munich
+Gmina (ujednoznacznienie)	Municipality
+Mion	Muon
+Murmańsk	Murmansk
+Prawa Murphy'ego	Murphy's law
+Murray Gell-Mann	Murray Gell-Mann
+Banan	Musa (genus)
+Mucha (gwiazdozbiór)	Musca
+Maskat	Muscat
+Mięsień	Muscle
+Muza	Muse
+Muzeum	Museum
+Owocnik	Mushroom
+Muzyka	Music
+Kategoria:Muzyka	Music
+MIDI	Musical Instrument Digital Interface
+Instrument muzyczny	Musical instrument
+Skala (muzyka)	Musical scale
+Muzyk	Musician
+Muzykologia	Musicology
+Muszkiet	Musket
+Łasicowate	Mustelidae
+Mutacja	Mutation
+Łabędź niemy	Mute Swan
+Kategoria:Birma	Myanmar
+Mykeny	Mycenae
+Mikologia	Mycology
+Kategoria:Mikologia	Mycology
+Zawał mięśnia sercowego	Myocardial infarction
+Krótkowzroczność	Myopia
+Wije	Myriapoda
+Mistycyzm	Mysticism
+Mit	Myth
+Mitologia	Mythology
+Kategoria:Mitologia	Mythology
+N	N
+Ndżamena	N'Djamena
+NASDAQ	NASDAQ
+NATO	NATO
+Kategoria:NATO	NATO
+Nadine Gordimer	Nadine Gordimer
+Nadir (astronomia)	Nadir
+Nagasaki	Nagasaki
+Nagoja	Nagoya
+Język nahuatl	Nahuatl
+Paznokieć	Nail (anatomy)
+Gwóźdź	Nail (fastener)
+Nairobi	Nairobi
+Namib	Namib Desert
+Namibia	Namibia
+Kategoria:Namibia	Namibia
+Namur (miasto)	Namur (city)
+Nancy	Nancy
+Nanga Parbat	Nanga Parbat
+Nankin	Nanjing
+Nanotechnologia	Nanotechnology
+Nantes	Nantes
+Napalm	Napalm
+Neapol	Naples
+Wojny napoleońskie	Napoleonic Wars
+Narcyz (mitologia grecka)	Narcissus (mythology)
+Nashville (Tennessee)	Nashville
+Nassau (Bahamy)	Nassau
+Nathaniel Hawthorne	Nathaniel Hawthorne
+Naród	Nation
+National Security Agency	National Security Agency
+Hymn państwowy	National anthem
+Park narodowy	National park
+Nacjonalizm	Nationalism
+Kategoria:Nacjonalizm	Nationalism
+Gaz ziemny	Natural gas
+Analiza języka naturalnego	Natural language processing
+Liczby naturalne	Natural number
+Nauki przyrodnicze	Natural science
+Dobór naturalny	Natural selection
+Natura	Nature
+Naturyzm	Naturism
+Nauru	Nauru
+Kategoria:Nauru	Nauru
+Mila morska	Nautical mile
+Kategoria:Nawigacja	Navigation
+Nawigacja	Navigation
+Marynarka wojenna	Navy
+Nazaret	Nazareth
+III Rzesza	Nazi Germany
+Kategoria:III Rzesza	Nazi Germany
+Narodowosocjalistyczna Niemiecka Partia Robotników	Nazi Party
+Kategoria:Nazizm	Nazism
+Neandertalczyk	Neanderthal
+Nebraska	Nebraska
+Kategoria:Nebraska	Nebraska
+Nabuchodonozor II	Nebuchadrezzar II
+Mgławica	Nebula
+Neckar	Neckar
+Krawat	Necktie
+Nefertiti	Nefertiti
+Pustynia Negew	Negev
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Nicienie	Nematode
+Lew nemejski	Nemean Lion
+Nemezis	Nemesis (mythology)
+Neodym	Neodymium
+Neolit	Neolithic
+Neologizm	Neologism
+Neon (pierwiastek)	Neon
+Neoplatonizm	Neoplatonism
+Nepal	Nepal
+Kategoria:Nepal	Nepal
+Neftyda	Nephthys
+Neptun	Neptune
+Neptun (pierwiastek)	Neptunium
+Nereida (księżyc)	Nereid (moon)
+Neron	Nero
+Nerwa	Nerva
+Układ nerwowy człowieka	Nervous system
+Kategoria:Układ nerwowy człowieka	Nervous system
+Gniazdo (etologia)	Nest
+Nestorianizm	Nestorianism
+Holandia	Netherlands
+Kategoria:Holandia	Netherlands
+Antyle Holenderskie	Netherlands Antilles
+Topologia sieci komputerowej	Network topology
+Neurologia	Neurology
+Kategoria:Neurologia	Neurology
+Neuron	Neuron
+Neuroprzekaźnik	Neurotransmitter
+Neutrino	Neutrino
+Neutron	Neutron
+Gwiazda neutronowa	Neutron star
+Newa	Neva River
+Nevada	Nevada
+Kategoria:Nevada	Nevada
+Neville Chamberlain	Neville Chamberlain
+Nowy Brunszwik	New Brunswick
+Nowa Kaledonia	New Caledonia
+Nowe Delhi	New Delhi
+Nowa Anglia	New England
+Nowa Gwinea	New Guinea
+New Hampshire	New Hampshire
+Kategoria:New Hampshire	New Hampshire
+New Jersey	New Jersey
+Kategoria:New Jersey	New Jersey
+Nowy Meksyk	New Mexico
+Kategoria:Nowy Meksyk	New Mexico
+Nowy Orlean	New Orleans
+Nowa Południowa Walia	New South Wales
+Nowy Testament	New Testament
+Nowy Świat (geografia)	New World
+Nowy Rok	New Year
+Nowy Jork (stan)	New York
+Kategoria:Nowy Jork (stan)	New York
+Nowy Jork (ujednoznacznienie)	New York (disambiguation)
+Nowy Jork	New York City
+Kategoria:Nowy Jork	New York City
+New York Stock Exchange	New York Stock Exchange
+Nowa Zelandia	New Zealand
+Kategoria:Nowa Zelandia	New Zealand
+Newark (New Jersey)	Newark
+Nowa Fundlandia	Newfoundland (island)
+Nowa Fundlandia i Labrador	Newfoundland and Labrador
+Newport (Walia)	Newport
+Niuton	Newton
+Witamina PP	Niacin
+Wodospad Niagara	Niagara Falls
+Niamey	Niamey
+Nikaragua	Nicaragua
+Kategoria:Nikaragua	Nicaragua
+Nicea	Nice
+Nicejsko-konstantynopolitańskie wyznanie wiary	Nicene Creed
+Dynastia Petrović Njegoš	Nicholas
+Nikiel	Nickel
+Nicolas Poussin	Nicolas Poussin
+Mikołaj Kopernik	Nicolaus Copernicus
+Nikozja	Nicosia
+Nikotyna	Nicotine
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niger	Niger
+Kategoria:Niger	Niger
+Niger (rzeka)	Niger River
+Nigeria	Nigeria
+Kategoria:Nigeria	Nigeria
+Słowik rdzawy	Nightingale
+Nihilizm	Nihilism
+Nijmegen	Nijmegen
+Nike (firma)	Nike
+Nike (mitologia)	Nike (mythology)
+Nikita Chruszczow	Nikita Khrushchev
+Nikola Tesla	Nikola Tesla
+Nil	Nile
+Krokodyl nilowy	Nile crocodile
+Niniwa	Nineveh
+Ninja	Ninja
+Niob	Niobium
+Nirwana	Nirvana
+Kwas azotowy(V)	Nitric acid
+Azot	Nitrogen
+Nitrogliceryna	Nitroglycerin
+Nix (księżyc)	Nix (moon)
+Njörðr	Njord
+Noe	Noah
+Noam Chomsky	Noam Chomsky
+Nagroda Nobla	Nobel Prize
+Kategoria:Nagroda Nobla	Nobel Prize
+Nobel (pierwiastek)	Nobelium
+Szlachta	Nobility
+Kategoria:Szlachta	Nobility
+Gazy szlachetne	Noble gas
+Nomada	Nomad
+Mianownik (przypadek)	Nominative case
+Niemetale	Nonmetal
+Norfolk (Anglia)	Norfolk
+Norfolk (terytorium)	Norfolk Island
+Węgielnica (gwiazdozbiór)	Norma (constellation)
+Rozkład normalny	Normal distribution
+Norman Mailer	Norman Mailer
+Normandia	Normandy
+Norny	Norn
+Mitologia nordycka	Norse mythology
+Kategoria:Mitologia nordycka	Norse mythology
+Północ	North
+Afryka Północna	North Africa
+Ameryka Północna	North America
+Kategoria:Ameryka Północna	North America
+Karolina Północna	North Carolina
+Kategoria:Karolina Północna	North Carolina
+Dakota Północna	North Dakota
+Kategoria:Dakota Północna	North Dakota
+Wyspa Północna (Nowa Zelandia)	North Island
+Korea Północna	North Korea
+Kategoria:Korea Północna	North Korea
+Biegun północny	North Pole
+Morze Północne	North Sea
+Gwiazda Polarna	North Star
+North Yorkshire	North Yorkshire
+Europa Północna	Northern Europe
+Półkula północna	Northern Hemisphere
+Irlandia Północna	Northern Ireland
+Kategoria:Irlandia Północna	Northern Ireland
+Mariany Północne	Northern Mariana Islands
+Terytorium Północne	Northern Territory
+Szczupak pospolity	Northern pike
+Terytoria Północno-Zachodnie	Northwest Territories
+Norwegia	Norway
+Kategoria:Norwegia	Norway
+Morze Norweskie	Norwegian Sea
+Korona norweska	Norwegian krone
+Nos	Nose
+Nostradamus	Nostradamus
+Nuta	Note
+Nawakszut	Nouakchott
+Rzeczownik	Noun
+Nowa Szkocja	Nova Scotia
+Nowa Ziemia	Novaya Zemlya
+Powieść	Novel
+Listopad	November
+1 listopada	November 1
+11 listopada	November 11
+2 listopada	November 2
+5 listopada	November 5
+Novial	Novial
+Nowosybirsk	Novosibirsk
+Ny (litera)	Nu (letter)
+Rozszczepienie jądra atomowego	Nuclear fission
+Reakcja termojądrowa	Nuclear fusion
+Fizyka jądrowa	Nuclear physics
+Kategoria:Fizyka jądrowa	Nuclear physics
+Energia jądrowa	Nuclear power
+Broń jądrowa	Nuclear weapon
+Kwasy nukleinowe	Nucleic acid
+Nukleony	Nucleon
+Nukleotydy	Nucleotide
+Liczba	Number
+Kategoria:Liczby	Numbers
+Numidia	Numidia
+Numizmatyka	Numismatics
+Kategoria:Numizmatyka	Numismatics
+Nunavut	Nunavut
+Norymberga	Nuremberg
+Orzech (botanika)	Nut (fruit)
+Muszkatołowiec korzenny	Nutmeg
+Kategoria:Odżywianie	Nutrition
+Nimfa (mitologia)	Nymph
+Grzybieniowate	Nymphaeaceae
+Nyks	Nyx (mythology)
+O	O
+OPEC	OPEC
+Oahu	Oahu
+Dąb	Oak
+Oakland (Kalifornia)	Oakland
+Oaza (geografia)	Oasis
+Owies	Oat
+Oaxaca	Oaxaca
+Ob	Ob River
+Obelisk	Obelisk
+Otyłość	Obesity
+Programowanie obiektowe	Object-oriented programming
+Obój	Oboe
+Obserwatorium astronomiczne	Observatory
+Obsydian	Obsidian
+Brzytwa Ockhama	Occam's razor
+Ocean	Ocean
+Prąd morski	Ocean current
+Oceania	Oceania
+Kategoria:Australia i Oceania	Oceania
+Okeanidy	Oceanid
+Oceanografia	Oceanography
+Kategoria:Oceanografia	Oceanography
+Okeanos	Oceanus
+Ósemkowy system liczbowy	Octal
+Oktant (gwiazdozbiór)	Octans
+Oktawa (interwał)	Octave
+Październik	October
+12 października	October 12
+24 października	October 24
+Rewolucja październikowa	October Revolution
+Ośmiornice	Octopus
+Oda (literatura)	Ode
+Odra	Oder River
+Odessa	Odessa
+Odyn	Odin
+Ważki	Odonata
+Odyseusz	Odysseus
+Odyseja	Odyssey
+Edyp	Oedipus
+Spalony (piłka nożna)	Offside (football)
+Ohio	Ohio
+Kategoria:Ohio	Ohio
+Om (jednostka)	Ohm
+Prawo Ohma	Ohm's law
+Olej	Oil
+Olej	Oil (disambiguation)
+Malarstwo olejne	Oil painting
+Okapi	Okapi
+Oklahoma	Oklahoma
+Kategoria:Oklahoma	Oklahoma
+Oklahoma City	Oklahoma City
+Oktoberfest	Oktoberfest
+Język staro-cerkiewno-słowiański	Old Church Slavonic
+Język staronordyjski	Old Norse
+Stary Testament	Old Testament
+Oligarchia	Oligarchy
+Oligocen	Oligocene
+Oligopol	Oligopoly
+Oliwka europejska	Olive
+Oliwa z oliwek	Olive oil
+Oliver Cromwell	Oliver Cromwell
+Oliver Stone	Oliver Stone
+Oliwiny	Olivine
+Olympia (Waszyngton)	Olympia
+Olimpia (miasto)	Olympia
+Igrzyska olimpijskie	Olympic Games
+Kategoria:Igrzyska olimpijskie	Olympics
+Omaha (Nebraska)	Omaha
+Oman	Oman
+Kategoria:Oman	Oman
+Omega	Omega
+Omikron	Omicron
+Omsk	Omsk
+Kategoria:Onkologia	Oncology
+Cebula zwyczajna	Onion
+Onomastyka	Onomastics
+Ontario (prowincja Kanady)	Ontario
+Kategoria:Ontario	Ontario
+Ontologia	Ontology
+Obłok Oorta	Oort cloud
+Opal (minerał)	Opal
+Adam Opel AG	Opel
+Opera (dzieło)	Opera
+Opera (program)	Opera (Internet suite)
+System operacyjny	Operating system
+Operetka	Operetta
+Wężownik (gwiazdozbiór)	Ophiuchus
+Opium	Opium
+Światłowód	Optical fiber
+Złudzenie optyczne	Optical illusion
+Optyka	Optics
+Kategoria:Optyka	Optics
+Optymalizacja (matematyka)	Optimization (mathematics)
+Seks oralny	Oral sex
+Barwa pomarańczowa	Orange (colour)
+Pomarańcza	Orange (fruit)
+Orangutan	Orangutan
+Oratorium	Oratorio
+Orbita	Orbit
+Orka	Orca
+Orkiestra	Orchestra
+Storczykowate	Orchidaceae
+Rząd (biologia)	Order (biology)
+Benedyktyni	Order of Saint Benedict
+Ordowik	Ordovician
+Lebiodka pospolita	Oregano
+Oregon	Oregon
+Kategoria:Oregon	Oregon
+Orestes (mitologia)	Orestes (mythology)
+Narząd	Organ (anatomy)
+Organy	Organ (music)
+Organellum	Organelle
+Chemia organiczna	Organic chemistry
+Kategoria:Chemia organiczna	Organic chemistry
+Związki organiczne	Organic compound
+Organizm	Organism
+Organizacja	Organization
+Organizacja Państw Amerykańskich	Organization of American States
+Orgazm	Orgasm
+Origami	Origami
+Orygenes	Origen
+Grzech pierworodny	Original sin
+Orinoko	Orinoco
+Orion (gwiazdozbiór)	Orion (constellation)
+Orisa	Orissa
+Orlando (Floryda)	Orlando
+Ornitologia	Ornithology
+Kategoria:Ornitologia	Ornithology
+Orfeusz	Orpheus
+Orson Welles	Orson Welles
+Ortografia	Orthography
+Osaka	Osaka
+Usama ibn Ladin	Osama bin Laden
+Oscar Wilde	Oscar Wilde
+Drgania	Oscillation
+Ozyrys (bóg)	Osiris
+Oslo	Oslo
+Osman I	Osman I
+Osm	Osmium
+Rybołów	Osprey
+Ryby kostnoszkieletowe	Osteichthyes
+Osteoporoza	Osteoporosis
+Ostrawa	Ostrava
+Struś	Ostrich
+Otello	Othello
+Marek Salwiusz Oton	Otho
+Ottawa	Ottawa
+Otto Hahn	Otto Hahn
+Otton I Wielki	Otto I
+Otto von Bismarck	Otto von Bismarck
+Imperium osmańskie	Ottoman Empire
+Uncja	Ounce
+Jajniki	Ovary
+Owidiusz	Ovid
+Oviedo	Oviedo
+Ovis	Ovis
+Komórka jajowa	Ovum
+Sowy	Owl
+Oksford	Oxford
+Stopień utlenienia	Oxidation state
+Tlenki	Oxide
+Tlen	Oxygen
+Oksymoron	Oxymoron
+Oksytocyna	Oxytocin
+Ozon (chemia)	Ozone
+Ozonosfera	Ozone layer
+P	P
+PAL	PAL
+Skala pH	PH
+Pablo Neruda	Pablo Neruda
+Pablo Picasso	Pablo Picasso
+Ocean Spokojny	Pacific Ocean
+Kategoria:Ocean Spokojny	Pacific Ocean
+Pacyfizm	Pacifism
+Padwa	Padua
+Pogaństwo	Paganism
+Kategoria:Malarstwo	Painting
+Pakistan	Pakistan
+Kategoria:Pakistan	Pakistan
+Pałac wersalski	Palace of Versailles
+Palau	Palau
+Kategoria:Palau	Palau
+Paleocen	Paleocene
+Paleolit	Paleolithic
+Paleontologia	Paleontology
+Kategoria:Paleontologia	Paleontology
+Paleozoik	Paleozoic
+Palermo	Palermo
+Palestyna	Palestine
+Kategoria:Autonomia Palestyńska	Palestine
+Organizacja Wyzwolenia Palestyny	Palestine Liberation Organization
+Autonomia Palestyńska	Palestinian National Authority
+Język pali	Pali
+Palindrom	Palindrome
+Pallad	Palladium
+Niedziela Palmowa	Palm Sunday
+Palmyra (miasto)	Palmyra
+Pamir	Pamir Mountains
+Pan (mitologia)	Pan (mythology)
+Panama	Panama
+Kategoria:Panama	Panama
+Kanał Panamski	Panama Canal
+Panama (miasto)	Panama City
+Trzustka	Pancreas
+Pandemia	Pandemic
+Pandora	Pandora
+Pangea	Pangaea
+Panteizm	Pantheism
+Panteon w Rzymie	Pantheon
+Panthera	Panthera
+Państwo Kościelne	Papal States
+Papua-Nowa Gwinea	Papua New Guinea
+Kategoria:Papua-Nowa Gwinea	Papua New Guinea
+Papirus	Papyrus
+Parabola (matematyka)	Parabola
+Paracelsus	Paracelsus
+Spadochron	Parachute
+Paradygmat	Paradigm
+Paradoks	Paradox
+Paralotniarstwo	Paragliding
+Paragwaj	Paraguay
+Kategoria:Paragwaj	Paraguay
+Paralaksa	Parallax
+Równoległobok	Parallelogram
+Paramaribo	Paramaribo
+Zespół paranoiczny	Paranoia
+Parafilia	Paraphilia
+Parapsychologia	Parapsychology
+Pasożytnictwo (biologia)	Parasitism
+Pergamin	Parchment
+Paryż	Paris
+Kategoria:Paryż	Paris
+Parys	Paris (mythology)
+Liczby parzyste i nieparzyste	Parity (mathematics)
+Choroba Parkinsona	Parkinson's disease
+Parlament	Parliament
+Parmenides	Parmenides
+Parodia	Parody
+Papugowe	Parrot
+Parsek	Parsec
+Pietruszka zwyczajna	Parsley
+Partenon	Parthenon
+Partia (kraina)	Parthia
+Fizyka cząstek elementarnych	Particle physics
+Kategoria:Fizyka cząstek elementarnych	Particle physics
+Parwati	Parvati
+Pascal	Pascal
+Pascal (język programowania)	Pascal (programming language)
+Paskal	Pascal (unit)
+Kategoria:Wróblowe	Passeriformes
+Wróblowe	Passerine
+Pesach	Passover
+Paszport	Passport
+Pasteryzacja	Pasteurization
+Patagonia	Patagonia
+Patent	Patent
+Fitopatologia	Pathology
+Patras	Patras
+Patriarcha	Patriarch
+Patrick White	Patrick White
+Patriotyzm	Patriotism
+Paul Gauguin	Paul Gauguin
+Paul Heyse	Paul Johann Ludwig von Heyse
+Paul Klee	Paul Klee
+Paul McCartney	Paul McCartney
+Paul Newman	Paul Newman
+Paul Verlaine	Paul Verlaine
+Paweł z Tarsu	Paul the Apostle
+Paul von Hindenburg	Paul von Hindenburg
+Reguła Pauliego	Pauli exclusion principle
+Paw (gwiazdozbiór)	Pavo (constellation)
+Pion (szachy)	Pawn (chess)
+Kraje Loary	Pays de la Loire
+Groch	Pea
+Pokój (polityka)	Peace
+Pokój westfalski 1648	Peace of Westphalia
+Brzoskwinia	Peach
+Orzech ziemny	Peanut
+Grusza	Pear
+Perła	Pearl
+Naval Base Pearl Harbor	Pearl Harbor
+Torf	Peat
+Pedagogika	Pedagogy
+Kategoria:Pedagogika	Pedagogy
+Pediatria	Pediatrics
+Pedofilia	Pedophilia
+Dąb szypułkowy	Pedunculate Oak
+Pegaz (mitologia)	Pegasus
+Pegaz (gwiazdozbiór)	Pegasus (constellation)
+Peloponez	Peloponnese
+Wojny peloponeskie	Peloponnesian War
+Ołówek	Pencil
+Wahadło	Pendulum
+Penelopa	Penelope
+Pingwiny	Penguin
+Penicyliny	Penicillin
+Półwysep	Peninsula
+Pensylwania	Pennsylvania
+Kategoria:Pensylwania	Pennsylvania
+Pięciokąt	Pentagon
+Pentagram	Pentagram
+Zesłanie Ducha Świętego	Pentecost
+Pentekostalizm	Pentecostalism
+Kategoria:Biografie	People
+Chińska Republika Ludowa	People's Republic of China
+Pepin Krótki	Pepin the Short
+Pepsi-Cola	Pepsi
+Peptydy	Peptide
+Procent	Percentage
+Spostrzeganie	Perception
+Okoniokształtne	Perciformes
+Instrument perkusyjny	Percussion instrument
+Percy Bysshe Shelley	Percy Bysshe Shelley
+Sokół wędrowny	Peregrine Falcon
+Pieriestrojka	Perestroika
+Perfumy	Perfume
+Perykles	Pericles
+Prawo okresowości Mendelejewa	Period (periodic table)
+Układ okresowy pierwiastków	Periodic table
+Perm (miasto)	Perm
+Wieczna zmarzlina	Permafrost
+Perm	Permian
+Permutacja	Permutation
+Pernambuco	Pernambuco
+Perpetuum mobile	Perpetual motion
+Persefona	Persephone
+Persepolis	Persepolis
+Perseusz (mitologia)	Perseus
+Perseusz (gwiazdozbiór)	Perseus (constellation)
+Zatoka Perska	Persian Gulf
+Palmtop	Personal digital assistant
+Perth	Perth
+Peru	Peru
+Kategoria:Peru	Peru
+Pestycydy	Pesticide
+Piotr Abelard	Peter Abelard
+Peter Paul Rubens	Peter Paul Rubens
+Peter Sellers	Peter Sellers
+Francesco Petrarca	Petrarch
+Ropa naftowa	Petroleum
+Petrologia	Petrology
+Fanerozoik	Phanerozoic
+Faraon	Pharaoh
+Farmakologia	Pharmacology
+Kategoria:Farmakologia	Pharmacology
+Gardło	Pharynx
+Stan skupienia materii	Phase (matter)
+Fenol	Phenol
+Fenomenologia	Phenomenology
+Fenotyp	Phenotype
+Fenyloalanina	Phenylalanine
+Fenyloketonuria	Phenylketonuria
+Phi	Phi (letter)
+Filadelfia	Philadelphia
+Filatelistyka	Philately
+Kategoria:Filatelistyka	Philately
+Filip II Macedoński	Philip II of Macedon
+Filip II Hiszpański	Philip II of Spain
+Fülöp Lénárd	Philipp Lenard
+Morze Filipińskie	Philippine Sea
+Filipiny	Philippines
+Kategoria:Filipiny	Philippines
+Filologia	Philology
+Kategoria:Filologia	Philology
+Kamień filozoficzny	Philosopher's stone
+Filozofia	Philosophy
+Kategoria:Filozofia	Philosophy
+Portal:Filozofia	Philosophy
+Phnom Penh	Phnom Penh
+Fobia	Phobia
+Fobos (księżyc)	Phobos (moon)
+Fenicja	Phoenicia
+Phoenix (Arizona)	Phoenix
+Feniks (ujednoznacznienie)	Phoenix
+Feniks (gwiazdozbiór)	Phoenix (constellation)
+Feniks	Phoenix (mythology)
+Phoenix (lądownik)	Phoenix (spacecraft)
+Fonem	Phoneme
+Fonetyka	Phonetics
+Fonologia	Phonology
+Fosforany	Phosphate
+Kwas fosforowy	Phosphoric acid
+Fosfor	Phosphorus
+Fotografia	Photography
+Kategoria:Fotografia	Photography
+Foton	Photon
+Fotosfera	Photosphere
+Fotosynteza	Photosynthesis
+Typ (biologia)	Phylum
+Chemia fizyczna	Physical chemistry
+Kategoria:Chemia fizyczna	Physical chemistry
+Lekarz	Physician
+Fizyka	Physics
+Kategoria:Fizyka	Physics
+Portal:Fizyka	Physics
+Fizjologia	Physiology
+Kategoria:Fizjologia	Physiology
+Pi	Pi
+Pi (litera)	Pi (letter)
+Fortepian	Piano
+Pikardia	Picardie
+Dzięciołowe	Piciformes
+Malarz (gwiazdozbiór)	Pictor
+Języki pidżynowe	Pidgin
+Pidgin (komunikator internetowy)	Pidgin (software)
+Piemont	Piedmont
+Pierre (Dakota Południowa)	Pierre
+Pierre Curie	Pierre Curie
+Pierre de Fermat	Pierre de Fermat
+Piet Mondrian	Piet Mondrian
+Pieter Zeeman	Pieter Zeeman
+Pigment	Pigment
+Pilzno	Pilsen
+Sosnowate	Pinaceae
+Pindar	Pindar
+Sosna	Pine
+Ananas jadalny	Pineapple
+Ping	Ping
+Barwa różowa	Pink
+Płetwonogie	Pinniped
+Pirat	Piracy
+Piza	Pisa
+Ryby (gwiazdozbiór)	Pisces (constellation)
+Tłok	Piston
+Pittsburgh	Pittsburgh
+Przysadka mózgowa	Pituitary gland
+Piksel	Pixel
+Pizza	Pizza
+Plagiat	Plagiarism
+Płaszczyzna	Plane (mathematics)
+Planeta	Planet
+Mgławica planetarna	Planetary nebula
+Plankton	Plankton
+Rośliny	Plant
+Plazma	Plasma (physics)
+Plazmid	Plasmid
+Tworzywa sztuczne	Plastic
+Plastyd	Plastid
+Teoria wędrówki płyt tektonicznych	Plate tectonics
+Trombocyt	Platelet
+Platyna	Platinum
+Platon	Plato
+Dziobak	Platypus
+Playboy	Playboy
+Karty do gry	Playing card
+Plejady	Pleiades (star cluster)
+Plejstocen	Pleistocene
+Plewen	Pleven
+Pliniusz Starszy	Pliny the Elder
+Pliniusz Młodszy	Pliny the Younger
+Pliocen	Pliocene
+Plotyn	Plotinus
+Płowdiw	Plovdiv
+Śliwa domowa	Plum
+Plutarch	Plutarch
+134340 Pluton	Pluto
+Pluton	Pluto (disambiguation)
+Pluton (pierwiastek)	Plutonium
+Plymouth (Anglia)	Plymouth
+Zapalenie płuc	Pneumonia
+Pad (rzeka)	Po River
+Wiechlinowate	Poaceae
+Podcasting	Podcast
+Poezja	Poetry
+Kategoria:Poezja	Poetry
+Pogrom	Pogrom
+Punkt (geometria)	Point (geometry)
+Trucizna	Poison
+Poitiers	Poitiers
+Poitou-Charentes	Poitou-Charentes
+Poker	Poker
+Polska	Poland
+Kategoria:Polska	Poland
+Niedźwiedź polarny	Polar bear
+Alfa Ursae Minoris	Polaris
+Policja	Police
+Choroba Heinego-Medina	Poliomyelitis
+Partia polityczna	Political party
+Politologia	Political science
+Kategoria:Politologia	Political science
+Polityk	Politician
+Polityka	Politics
+Kategoria:Polityka	Politics
+Pyłek	Pollen
+Zapylanie	Pollination
+Zanieczyszczenie środowiska	Pollution
+Polo (sport)	Polo
+Polon	Polonium
+Polietylen	Polyethylene
+Poligamia	Polygamy
+Wielokąt	Polygon
+Wielościan	Polyhedron
+Polihymnia	Polyhymnia
+Polimery	Polymer
+Polinezja	Polynesia
+Wielomian	Polynomial
+Politeizm	Polytheism
+Poli(chlorek winylu)	Polyvinyl chloride
+Granatowiec właściwy	Pomegranate
+Pomarańcza olbrzymia	Pomelo
+Pompeje	Pompeii
+Pompejusz	Pompey
+Poncjusz Piłat	Pontius Pilate
+Pop-art	Pop art
+Muzyka pop	Pop music
+Papież	Pope
+Papież Aleksander VI	Pope Alexander VI
+Topola	Poplar
+Populizm	Populism
+Porcelana	Porcelain
+Pornografia	Pornography
+Port morski	Port
+Port Louis	Port Louis
+Port Moresby	Port Moresby
+Port Vila	Port Vila
+Port of Spain	Port of Spain
+Port-au-Prince	Port-au-Prince
+Portland (Oregon)	Portland
+Portland	Portland
+Porto (miasto)	Porto
+Portret	Portrait
+Portsmouth	Portsmouth
+Portugalia	Portugal
+Kategoria:Portugalia	Portugal
+Posejdon	Poseidon
+Pozyton	Positron
+Znaczek pocztowy	Postage stamp
+Kod pocztowy	Postal code
+Postmodernizm (filozofia)	Postmodernism
+Potas	Potassium
+Azotan potasu	Potassium nitrate
+Ziemniak	Potato
+Energia potencjalna	Potential energy
+Poczdam	Potsdam
+Funt	Pound (mass)
+Funt szterling	Pound sterling
+Bieda	Poverty
+Moc	Power (physics)
+Elektrownia	Power station
+Pretor	Praetor
+Praga	Prague
+Kategoria:Praga	Prague
+Praia	Praia
+Prazeodym	Praseodymium
+Modlitwa	Prayer
+Prekambr	Precambrian
+Precesja	Precession
+Opad atmosferyczny	Precipitation (meteorology)
+Ciąża	Pregnancy
+Prehistoria	Prehistory
+Kategoria:Prehistoria	Prehistory
+Prezydent	President
+Prezydenci USA	President of the United States
+Ciśnienie	Pressure
+Pretoria	Pretoria
+Priam	Priam
+Cena (ekonomia)	Price
+Kapłan	Priest
+Naczelne	Primate
+Kategoria:Naczelne	Primates
+Południk zerowy	Prime Meridian
+Premier	Prime minister
+Liczby pierwsze	Prime number
+Wyspa Księcia Edwarda	Prince Edward Island
+Filip Mountbatten, książę Edynburga	Prince Philip
+Książę Walii	Prince of Wales
+Uniwersytet Princeton	Princeton University
+Teoria względności	Principle of relativity
+Druk	Printing
+Priony	Prion
+Graniastosłup	Prism (geometry)
+Pryzmat	Prism (optics)
+Zakład karny	Prison
+Jeniec wojenny	Prisoner of war
+Nagroda Goncourtów	Prix Goncourt
+Prawdopodobieństwo	Probability
+Teoria prawdopodobieństwa	Probability theory
+Kategoria:Rachunek prawdopodobieństwa	Probability theory
+Szopowate	Procyonidae
+Profesor	Professor
+Zysk (ekonomia)	Profit
+Programista	Programmer
+Język programowania	Programming language
+Rock progresywny	Progressive rock
+Projekt (zarządzanie)	Project
+Prokarioty	Prokaryote
+Prolog (język programowania)	Prolog
+Prometeusz (mitologia)	Prometheus
+Promet	Promethium
+Zaimek	Pronoun
+Propaganda	Propaganda
+Propan	Propane
+Prorok	Prophet
+Proza	Prose
+Prostata	Prostate
+Protaktyn	Protactinium
+Protektorat	Protectorate
+Białka	Protein
+Proterozoik	Proterozoic
+Reformacja	Protestant Reformation
+Protestantyzm	Protestantism
+Protisty	Protist
+Kategoria:Protisty	Protista
+Protokół	Protocol
+Proton	Proton
+Protisty zwierzęce	Protozoa
+Providence (Rhode Island)	Providence
+Proxima Centauri	Proxima Centauri
+Śliwa	Prunus
+Prusy (państwo)	Prussia
+Księga Psalmów	Psalms
+Pseudonim	Pseudonym
+Kategoria:Pseudonauka	Pseudoscience
+Pseudonauka	Pseudoscience
+Psi (litera)	Psi (letter)
+Łuszczyca	Psoriasis
+Psychiatria	Psychiatry
+Kategoria:Psychiatria	Psychiatry
+Psychoanaliza	Psychoanalysis
+Psychologia	Psychology
+Kategoria:Psychologia	Psychology
+Psychoza	Psychosis
+Psychoterapia	Psychotherapy
+Ptah	Ptah
+Pterozaury	Pterosaur
+Ptolemeusze	Ptolemaic dynasty
+Klaudiusz Ptolemeusz	Ptolemy
+Pokwitanie	Puberty
+Domena publiczna	Public domain
+Public relations	Public relations
+Portoryko	Puerto Rico
+Kategoria:Portoryko	Puerto Rico
+Pula	Pula
+Krążek linowy	Pulley
+Pulsar	Pulsar
+Pompa	Pump
+Interpunkcja	Punctuation
+Pendżab (stan w Indiach)	Punjab (India)
+Kategoria:Punk	Punk
+Źrenica	Pupil
+Rufa (gwiazdozbiór)	Puppis
+Pjongjang	Pyongyang
+Piramida	Pyramid
+Ostrosłup	Pyramid (geometry)
+Pireneje	Pyrenees
+Piryt	Pyrite
+Pyrrusowe zwycięstwo	Pyrrhic victory
+Pitagoras	Pythagoras
+Python	Python (programming language)
+Kompas (gwiazdozbiór)	Pyxis
+Q	Q
+Katar	Qatar
+Kategoria:Katar	Qatar
+Dynastia Qin	Qin Dynasty
+Mandżurska dynastia Qing	Qing Dynasty
+Równanie kwadratowe	Quadratic equation
+Czworokąt	Quadrilateral
+Kwestor	Quaestor
+Kwantowa teoria pola	Quantum field theory
+Mechanika kwantowa	Quantum mechanics
+Kategoria:Mechanika kwantowa	Quantum mechanics
+Kwarantanna (medycyna)	Quarantine
+Kwark	Quark
+Kwarc	Quartz
+Kwazar	Quasar
+Czwartorzęd	Quaternary
+Kwaterniony	Quaternion
+Quebec	Quebec
+Kategoria:Quebec	Quebec
+Québec (miasto)	Quebec City
+Język keczua	Quechua
+Hetman (szachy)	Queen (chess)
+Queens (dzielnica)	Queens
+Queensland	Queensland
+Quentin Tarantino	Quentin Tarantino
+Pytajnik	Question mark
+Quetzalcoatl	Quetzalcoatl
+Pigwa pospolita	Quince
+Quito	Quito
+R	R
+RAF	RAF (disambiguation)
+RAID	RAID
+Kwasy rybonukleinowe	RNA
+Re (bóg)	Ra
+Rabat (Maroko)	Rabat
+Rabin	Rabbi
+Rabindranath Tagore	Rabindranath Tagore
+Jenot	Raccoon Dog
+Rasa	Race
+Rachel Carson	Rachel Carson
+Rasizm	Racism
+Radar	Radar
+Radian	Radian
+Kategoria:Radio	Radio
+Radioteleskop	Radio telescope
+Radioaktywność	Radioactive decay
+Datowanie radiowęglowe	Radiocarbon dating
+Radiologia	Radiology
+Rad (pierwiastek)	Radium
+Promień	Radius
+Radon	Radon
+Deszcz	Rain
+Tęcza	Rainbow
+Rainer Maria Rilke	Rainer Maria Rilke
+Raleigh (Karolina Północna)	Raleigh
+Ralph Waldo Emerson	Ralph Waldo Emerson
+Rama (Bóg)	Rama
+Ramadan	Ramadan
+Ramajana	Ramayana
+Ramzes II	Ramesses II
+Pamięć o dostępie swobodnym	Random access memory
+Jaskrowate	Ranunculaceae
+Zgwałcenie	Rape
+Kapusta rzepak	Rapeseed
+Rafael Santi	Raphael
+Archanioł Rafael	Raphael (archangel)
+Kategoria:Metro	Rapid transit
+Malina (roślina)	Raspberry
+Szczur	Rat
+Liczby wymierne	Rational number
+Bezgrzebieniowce	Ratite
+Rawenna	Ravenna
+Rawalpindi	Rawalpindi
+Ray Bradbury	Ray Bradbury
+Pamięć tylko do odczytu	Read-only memory
+Liczby rzeczywiste	Real number
+Recesja (ekonomia)	Recession
+Recife	Recife
+Prostokąt	Rectangle
+Prostownik	Rectifier
+Rekurencja	Recursion
+Recykling	Recycling
+Barwa czerwona	Red
+Frakcja Czerwonej Armii	Red Army Faction
+Jeleń szlachetny	Red Deer
+Lis rudy	Red Fox
+Panda mała	Red Panda
+Morze Czerwone	Red Sea
+Krasnorosty	Red algae
+Erytrocyt	Red blood cell
+Czerwony karzeł	Red dwarf
+Czerwony olbrzym	Red giant
+Przesunięcie ku czerwieni	Redshift
+Przesunięcie ku czerwieni	Redshift (disambiguation)
+RISC	Reduced instruction set computer
+Referendum	Referendum
+Refrakcja	Refraction
+Współczynnik załamania	Refractive index
+Uchodźca	Refugee
+Regent	Regent
+Reggae	Reggae
+Pułk	Regiment
+Regina (Saskatchewan)	Regina
+Region (geografia)	Region
+Reims	Reims
+Reinkarnacja	Reincarnation
+Renifer	Reindeer
+Relacja (matematyka)	Relation (mathematics)
+Relatywizm	Relativism
+Kategoria:Teoria względności	Relativity
+Przekaźnik	Relay
+Religia	Religion
+Kategoria:Religie	Religion
+Kwakrzy	Religious Society of Friends
+Rembrandt	Rembrandt
+Renesans	Renaissance
+Kategoria:Renesans	Renaissance
+Rozmnażanie	Reproduction
+Gady	Reptile
+Republika	Republic
+Republika Chińska	Republic of China
+Irlandia	Republic of Ireland
+Kategoria:Irlandia	Republic of Ireland
+Kongo	Republic of the Congo
+Kategoria:Kongo	Republic of the Congo
+Partia Republikańska (USA)	Republican Party (United States)
+Requiem (muzyka)	Requiem
+Opornik	Resistor
+Układ oddechowy	Respiratory system
+Restauracja (lokal gastronomiczny)	Restaurant
+Sieć (gwiazdozbiór)	Reticulum
+Siatkówka (anatomia)	Retina
+Witamina A	Retinol
+Rewolucja	Revolution
+Rewolwer	Revolver
+Rea (księżyc)	Rhea (moon)
+Rea (mitologia)	Rhea (mythology)
+Ren (pierwiastek)	Rhenium
+Retoryka	Rhetoric
+Kategoria:Retoryka	Rhetoric
+Ren	Rhine
+Nosorożce	Rhinoceros
+Rho (litera)	Rho (letter)
+Rhode Island	Rhode Island
+Kategoria:Rhode Island	Rhode Island
+Rodos (wyspa)	Rhodes
+Rod (pierwiastek)	Rhodium
+Romb	Rhombus
+Rym	Rhyme
+Rytm	Rhythm
+Rhythm and blues	Rhythm and blues
+Żebra (anatomia)	Rib
+Witamina B2	Riboflavin
+Rybosom	Ribosome
+Ryż siewny	Rice
+Richard Feynman	Richard Feynman
+Richard Nixon	Richard Nixon
+Richard Strauss	Richard Strauss
+Richard Wagner	Richard Wagner
+Richard Wright (muzyk)	Richard Wright (musician)
+Richmond (Wirginia)	Richmond
+Ryga	Riga
+Rigel	Rigel
+Rektascensja	Right ascension
+Pierścień (matematyka)	Ring (mathematics)
+Ringo Starr	Ringo Starr
+Rio Grande (rzeka w Ameryce Północnej)	Rio Grande
+Rio de Janeiro	Rio de Janeiro
+Rio de Janeiro (stan)	Rio de Janeiro (state)
+Rzeka	River
+Tamiza	River Thames
+Rijad	Riyadh
+Droga (komunikacja)	Road
+Roald Amundsen	Roald Amundsen
+Robert A. Heinlein	Robert A. Heinlein
+Robert Millikan	Robert Andrews Millikan
+Robert Boyle	Robert Boyle
+Robert Burns	Robert Burns
+Robert De Niro	Robert De Niro
+Robert E. Lee	Robert E. Lee
+Robert Falcon Scott	Robert Falcon Scott
+Robert Hooke	Robert Hooke
+Robert Koch	Robert Koch
+Robert Louis Stevenson	Robert Louis Stevenson
+Julius Robert Oppenheimer	Robert Oppenheimer
+Robert Owen	Robert Owen
+Robert Redford	Robert Redford
+Robert Schumann	Robert Schumann
+Robin Hood	Robin Hood
+Robot	Robot
+Papier, kamień, nożyce	Rock
+Skała	Rock (geology)
+Rock and roll	Rock and roll
+Rock	Rock music
+Kategoria:Rock	Rock music
+Rakieta (lotnictwo)	Rocket
+Góry Skaliste	Rocky Mountains
+Rokoko	Rococo
+Gryzonie	Rodent
+Sarna	Roe Deer
+Roentgen (pierwiastek)	Roentgenium
+Roger Bacon	Roger Bacon
+Łaciński Kościół katolicki	Roman Catholic Church
+Cesarstwo rzymskie	Roman Empire
+Republika rzymska	Roman Republic
+Kalendarz rzymski	Roman calendar
+Prawo rzymskie	Roman law
+Legion	Roman legion
+Mitologia rzymska	Roman mythology
+Kategoria:Mitologia rzymska	Roman mythology
+Rumunia	Romania
+Kategoria:Rumunia	Romania
+Język romansz	Romansh
+Romantyzm	Romanticism
+Rzym	Rome
+Kategoria:Rzym	Rome
+Ronald Reagan	Ronald Reagan
+Dach	Roof
+Gawron	Rook (bird)
+Wieża (szachy)	Rook (chess)
+Roosevelt	Roosevelt
+Korzeń	Root
+Rosa Parks	Rosa Parks
+Różowate	Rosaceae
+Różowce	Rosales
+Rosario	Rosario
+Różaniec	Rosary
+Róża	Rose
+Roseau	Roseau
+Rozmaryn lekarski	Rosemary
+Kamień z Rosetty	Rosetta Stone
+Rosz ha-Szana	Rosh Hashanah
+Morze Rossa	Ross Sea
+Rostock	Rostock
+Wrotki (biologia)	Rotifer
+Rotterdam	Rotterdam
+Router	Router
+Wioślarstwo	Rowing (sport)
+Royal Air Force	Royal Air Force
+Royal Society	Royal Society
+Guma	Rubber
+Rubikon	Rubicon
+Rubid	Rubidium
+Rubel	Ruble
+Malina właściwa	Rubus idaeus
+Rubin	Ruby
+Ruby (język programowania)	Ruby (programming language)
+Rudolf Diesel	Rudolf Diesel
+Rudolf Hess	Rudolf Hess
+Rudolf Steiner	Rudolf Steiner
+Rudyard Kipling	Rudyard Kipling
+Rugby (sport)	Rugby football
+Rupert Murdoch	Rupert Murdoch
+Rosja	Russia
+Kategoria:Rosja	Russia
+Rosyjski Kościół Prawosławny	Russian Orthodox Church
+Rewolucje w Rosji 1917 roku	Russian Revolution (1917)
+Wojna rosyjsko-japońska	Russo-Japanese War
+Ruten	Ruthenium
+Rutherford Hayes	Rutherford B. Hayes
+Rutherford (pierwiastek)	Rutherfordium
+Rwanda	Rwanda
+Kategoria:Rwanda	Rwanda
+Żyto	Rye
+S	S
+SOAP	SOAP
+SOS	SOS
+Sakrament	Sacrament
+Sacramento (Kalifornia)	Sacramento
+Saddam Husajn	Saddam Hussein
+Safari (program)	Safari (web browser)
+Szafran	Saffron
+Strzała (gwiazdozbiór)	Sagitta
+Strzelec (gwiazdozbiór)	Sagittarius (constellation)
+Sahara	Sahara
+Żagiel	Sail
+Święty	Saint
+Andrzej Apostoł	Saint Andrew
+Święty Jerzy	Saint George
+Saint Kitts i Nevis	Saint Kitts and Nevis
+Kategoria:Saint Kitts i Nevis	Saint Kitts and Nevis
+Rzeka Świętego Wawrzyńca	Saint Lawrence River
+Saint Lucia	Saint Lucia
+Kategoria:Saint Lucia	Saint Lucia
+Sint Maarten (wyspa)	Saint Martin
+Mikołaj z Miry	Saint Nicholas
+Święty Patryk	Saint Patrick
+Saint Paul	Saint Paul
+Piotr Apostoł	Saint Peter
+Sankt Petersburg	Saint Petersburg
+Kategoria:Sankt Petersburg	Saint Petersburg
+Saint Vincent i Grenadyny	Saint Vincent and the Grenadines
+Kategoria:Saint Vincent i Grenadyny	Saint Vincent and the Grenadines
+Sake	Sake
+Saladyn	Saladin
+Salat	Salah
+Płazy ogoniaste	Salamander
+Salem (Oregon)	Salem
+Salerno	Salerno
+Ślina	Saliva
+Salman Rushdie	Salman Rushdie
+Łososiowate	Salmonidae
+Sól kuchenna	Salt
+Sole	Salt (chemistry)
+Salt Lake City	Salt Lake City
+Salvador	Salvador
+Salzburg	Salzburg
+Salzburg (kraj związkowy)	Salzburg (state)
+Samara (miasto)	Samara
+Samar	Samarium
+Samarkanda	Samarkand
+Samoa	Samoa
+Kategoria:Samoa	Samoa
+Samsara	Samsara
+Samuel Beckett	Samuel Beckett
+Samuel Finley Breese Morse	Samuel F. B. Morse
+Samuel Taylor Coleridge	Samuel Taylor Coleridge
+Samuraj	Samurai
+San Antonio (Teksas)	San Antonio
+San Diego	San Diego
+San Francisco	San Francisco
+San José (Kalifornia)	San Jose
+San Juan	San Juan
+San Marino	San Marino
+Kategoria:San Marino	San Marino
+San Marino (miasto)	San Marino
+San Salvador (miasto w Salwadorze)	San Salvador
+Piasek	Sand
+Sandro Botticelli	Sandro Botticelli
+Piaskowiec	Sandstone
+Kanapka	Sandwich
+Sanskryt	Sanskrit
+Święty Mikołaj (postać baśniowa)	Santa Claus
+Santa Fe (Nowy Meksyk)	Santa Fe
+Santiago de Chile	Santiago
+Santiago	Santiago
+Santiago de Cuba	Santiago de Cuba
+Santo Domingo	Santo Domingo
+Santos	Santos (Săo Paulo)
+Szafir	Sapphire
+Safona	Sappho
+Sapporo	Sapporo
+Sarah Bernhardt	Sarah Bernhardt
+Sarajewo	Sarajevo
+Saratów	Saratov
+Sarkofag	Sarcophagus
+Sardynka	Sardine
+Sardynia	Sardinia
+Sari (miasto w Iranie)	Sari
+Sarin	Sarin
+Saskatchewan	Saskatchewan
+Sztuczny satelita	Satellite
+Satyra	Satire
+Sobota	Saturday
+Saturn	Saturn
+Kategoria:Saturn	Saturn
+Saturn (ujednoznacznienie)	Saturn (disambiguation)
+Saturn (mitologia)	Saturn (mythology)
+Satyr	Satyr
+Sos	Sauce
+Arabia Saudyjska	Saudi Arabia
+Kategoria:Arabia Saudyjska	Saudi Arabia
+Saul Bellow	Saul Bellow
+Wędliny	Sausage
+Sawanna	Savanna
+Saksonia	Saxony
+Kategoria:Saksonia	Saxony
+Saksofon	Saxophone
+Skandynawia	Scandinavia
+Kategoria:Skandynawia	Scandinavia
+Półwysep Skandynawski	Scandinavian Peninsula
+Skand	Scandium
+Łopatka	Scapula
+Skalda	Scheldt
+Scheme	Scheme (programming language)
+Schizofrenia	Schizophrenia
+Scholastyka (filozofia)	Scholasticism
+Szkoła (oświata)	School
+Schutzstaffel	Schutzstaffel
+Nauka	Science
+Kategoria:Nauka	Science
+Fantastyka naukowa	Science fiction
+Metoda naukowa	Scientific method
+Naukowiec	Scientist
+Scjentologia	Scientology
+Scypion Afrykański Starszy	Scipio Africanus
+Nożyczki	Scissors
+Wiewiórkowate	Sciuridae
+Skorpiony	Scorpion
+Skorpion (gwiazdozbiór)	Scorpius
+Szkocja	Scotland
+Kategoria:Szkocja	Scotland
+Sosna zwyczajna	Scots Pine
+Język szkocki gaelicki	Scottish Gaelic
+Skauting	Scouting
+Scrabble	Scrabble
+Śruba (złącze)	Screw
+Wkrętak	Screwdriver
+Moszna (anatomia)	Scrotum
+Rzeźbiarz (gwiazdozbiór)	Sculptor (constellation)
+Rzeźba	Sculpture
+Kategoria:Rzeźba	Sculpture
+Morze	Sea
+Wydra morska	Sea Otter
+Ukwiał	Sea anemone
+Strzykwy	Sea cucumber
+Poziom morza	Sea level
+Morze Azowskie	Sea of Azov
+Morze Japońskie	Sea of Japan
+Morze Marmara	Sea of Marmara
+Morze Ochockie	Sea of Okhotsk
+Jeżowce	Sea urchin
+Seaborg	Seaborgium
+Konik morski	Seahorse
+Wyszukiwarka internetowa	Search engine
+Sears Tower	Sears Tower
+Pora roku	Season
+Seattle	Seattle
+Sekunda	Second
+II wyprawa krzyżowa	Second Crusade
+Sobór Watykański II	Second Vatican Council
+Druga zasada termodynamiki	Second law of thermodynamics
+Sekta	Sect
+Kategoria:Ochrona	Security
+Skały osadowe	Sedimentary rock
+Nasienie (botanika)	Seed
+Segowia	Segovia
+Sekwana	Seine
+Sejsmologia	Seismology
+Kategoria:Sejsmologia	Seismology
+Selene	Selene
+Selen	Selenium
+Seleukos I Nikator	Seleucus I Nicator
+Semantyka	Semantics
+Sperma	Semen
+Średnik	Semicolon
+Półprzewodniki	Semiconductor
+Semiotyka (językoznawstwo)	Semiotics
+Ludy semickie	Semitic
+Senegal	Senegal
+Kategoria:Senegal	Senegal
+Seul	Seoul
+Seppuku	Seppuku
+Wrzesień	September
+11 września	September 11
+Zamach na World Trade Center i Pentagon	September 11
+17 września	September 17
+29 września	September 29
+Septuaginta	Septuagint
+Ciąg (matematyka)	Sequence
+Serbia	Serbia
+Kategoria:Serbia	Serbia
+Serbia i Czarnogóra	Serbia and Montenegro
+Kategoria:Serbia i Czarnogóra	Serbia and Montenegro
+Pańszczyzna	Serfdom
+Siergiej Eisenstein	Sergei Eisenstein
+Siergiej Rachmaninow	Sergei Rachmaninoff
+Szereg (matematyka)	Series (mathematics)
+Seryna	Serine
+Serotonina	Serotonin
+Wąż (gwiazdozbiór)	Serpens
+Serwer	Server (computing)
+Zbiór	Set
+Set (bóg)	Set (mythology)
+Teoria mnogości	Set theory
+Kategoria:Teoria mnogości	Set theory
+Sewastopol	Sevastopol
+Wojna siedmioletnia	Seven Years' War
+SARS (choroba)	Severe acute respiratory syndrome
+Sewilla	Seville
+Płeć	Sex
+Seksizm	Sexism
+Sekstant	Sextant
+Stosunek płciowy	Sexual intercourse
+Kategoria:Seksualność	Sexuality
+Choroby przenoszone drogą płciową	Sexually transmitted disease
+Seszele	Seychelles
+Kategoria:Seszele	Seychelles
+Szach (władca)	Shah
+Szahada	Shahadah
+Szamanizm	Shamanism
+Szanghaj	Shanghai
+Akcja (prawo)	Share (finance)
+Shareware	Shareware
+Szariat	Sharia
+Rekiny	Shark
+Sheffield	Sheffield
+Sherlock Holmes	Sherlock Holmes
+Szetlandy	Shetland
+Tarcza (uzbrojenie)	Shield
+Sikoku	Shikoku
+Shintō	Shinto
+Statek wodny	Ship
+Śiwa	Shiva
+Shōgi	Shogi
+Shōgun	Shogun
+Stenografia	Shorthand
+Krewetki	Shrimp
+Krzew	Shrub
+Syberia	Siberia
+Siberian Husky	Siberian Husky
+Syczuan	Sichuan
+Sycylia	Sicily
+Kategoria:Sycylia	Sicily
+Simens	Siemens (unit)
+Sierra Leone	Sierra Leone
+Kategoria:Sierra Leone	Sierra Leone
+Sigma	Sigma
+Zygmunt Freud	Sigmund Freud
+Język migowy	Sign language
+Sigrid Undset	Sigrid Undset
+Sikhizm	Sikhism
+Sikkim	Sikkim
+Śląsk	Silesia
+Krzem	Silicon
+Dolina Krzemowa	Silicon Valley
+Ditlenek krzemu	Silicon dioxide
+Jedwab	Silk
+Jedwabny szlak	Silk Road
+Sylur	Silurian
+Srebro	Silver
+Simone de Beauvoir	Simone de Beauvoir
+Grzech	Sin
+Synaj (półwysep)	Sinai Peninsula
+Sinclair Lewis	Sinclair Lewis
+Singapur	Singapore
+Kategoria:Singapur	Singapore
+Singel (muzyka)	Single (music)
+Syrena (mitologia)	Siren
+Syreny	Sirenia
+Syriusz	Sirius
+Kaplica Sykstyńska	Sistine Chapel
+Syzyf	Sisyphus
+Siedzący Byk	Sitting Bull
+Sitcom	Situation comedy
+Wojna sześciodniowa	Six-Day War
+Skagerrak	Skagerrak
+Deskorolka	Skateboard
+Kategoria:Układ kostny człowieka	Skeletal system
+Sceptycyzm	Skepticism
+Skóra	Skin
+Skinhead	Skinhead
+Skopje	Skopje
+Czaszka	Skull
+Skylab	Skylab
+Wieżowiec	Skyscraper
+Slash	Slash (musician)
+Niewolnictwo	Slavery
+Slayer	Slayer
+Sen	Sleep
+Słowacja	Slovakia
+Kategoria:Słowacja	Slovakia
+Słowenia	Slovenia
+Kategoria:Słowenia	Slovenia
+Jelito cienkie	Small intestine
+Smog	Smog
+Smoleńsk	Smolensk
+Węże	Snake
+Snooker	Snooker
+Śnieg	Snow
+Mydła	Soap
+Psychologia społeczna	Social psychology
+Socjalizm	Socialism
+Kategoria:Socjalizm	Socialism
+Partia Socjalistyczna (Francja)	Socialist Party (France)
+Kategoria:Społeczeństwo	Society
+Społeczeństwo	Society
+Jezuici	Society of Jesus
+Socjolingwistyka	Sociolinguistics
+Socjologia	Sociology
+Kategoria:Socjologia	Sociology
+Sokrates	Socrates
+Sód	Sodium
+Wodorowęglan sodu	Sodium bicarbonate
+Chlorek sodu	Sodium chloride
+Wodorotlenek sodu	Sodium hydroxide
+Sofia	Sofia
+Softball	Softball
+Kategoria:Oprogramowanie	Software
+Gleba	Soil
+Psiankowate	Solanaceae
+Kategoria:Psiankowate	Solanaceae
+Układ Słoneczny	Solar System
+Kategoria:Układ Słoneczny	Solar System
+Ogniwo słoneczne	Solar cell
+Zaćmienie Słońca	Solar eclipse
+Energetyka słoneczna	Solar energy
+Wiatr słoneczny	Solar wind
+Ciało stałe	Solid
+Niezależny Samorządny Związek Zawodowy "Solidarność"	Solidarity
+Salomon (król Izraela)	Solomon
+Wyspy Salomona	Solomon Islands
+Kategoria:Wyspy Salomona	Solomon Islands
+Solon	Solon
+Przesilenie	Solstice
+Roztwór	Solution
+Rozpuszczalnik	Solvent
+Somalia	Somalia
+Kategoria:Somalia	Somalia
+Hrabstwo Somerset (Anglia)	Somerset
+Somme	Somme
+Sonata	Sonata
+Piosenka	Song
+Pieśń nad pieśniami	Song of Solomon
+Sonet	Sonnet
+Sophia Loren	Sophia Loren
+Sofiści	Sophism
+Sofokles	Sophocles
+Sopran	Soprano
+Sorbona	Sorbonne
+Sorgo	Sorghum
+Sortowanie	Sorting algorithm
+Dusza	Soul
+Dźwięk	Sound
+Zupa	Soup
+Kod źródłowy	Source code
+Południe	South
+Kategoria:Republika Południowej Afryki	South Africa
+Ameryka Południowa	South America
+Kategoria:Ameryka Południowa	South America
+Australia Południowa	South Australia
+Karolina Południowa	South Carolina
+Kategoria:Karolina Południowa	South Carolina
+Morze Południowochińskie	South China Sea
+Dakota Południowa	South Dakota
+Kategoria:Dakota Południowa	South Dakota
+Wyspa Południowa (Nowa Zelandia)	South Island
+Korea Południowa	South Korea
+Kategoria:Korea Południowa	South Korea
+Biegun południowy	South Pole
+Wietnam Południowy	South Vietnam
+Azja Południowo-Wschodnia	Southeast Asia
+Półkula południowa	Southern Hemisphere
+Suwerenność	Sovereignty
+Związek Socjalistycznych Republik Radzieckich	Soviet Union
+Kategoria:ZSRR	Soviet Union
+Soja	Soybean
+Przestrzeń	Space
+Program lotów wahadłowców	Space Shuttle
+Stacja orbitalna	Space station
+Statek kosmiczny	Spacecraft
+Spaghetti	Spaghetti
+Hiszpania	Spain
+Kategoria:Hiszpania	Spain
+Spam	Spam (electronic)
+Hiszpańska wojna domowa	Spanish Civil War
+Kategoria:Hiszpanie	Spanish people
+Wojna amerykańsko-hiszpańska	Spanish-American War
+Sparta	Sparta
+Włócznia	Spear
+Szczególna teoria względności	Special relativity
+Gatunek (biologia)	Species
+Spektroskopia	Spectroscopy
+Szybkość	Speed
+Prędkość światła	Speed of light
+Speleologia	Speleology
+Spencer Tracy	Spencer Tracy
+Kaszalot	Sperm Whale
+Rośliny nasienne	Spermatophyte
+Plemnik	Spermatozoon
+Sfera	Sphere
+Sfinks	Sphinx
+Przyprawa	Spice
+Pająki	Spider
+Spin (fizyka)	Spin (physics)
+Szpinak	Spinach
+Rdzeń kręgowy	Spinal cord
+Galaktyka spiralna	Spiral galaxy
+Śledziona	Spleen
+Split (miasto)	Split
+Gąbki	Sponge
+Sport	Sport
+Arkusz kalkulacyjny	Spreadsheet
+Sprewa	Spree
+Wiosna	Spring (season)
+Springfield (Illinois)	Springfield
+Spyware	Spyware
+Łuskonośne	Squamata
+Kwadrat	Square (geometry)
+Metr kwadratowy	Square metre
+Squash	Squash (sport)
+Wiewiórka	Squirrel
+Sri Lanka	Sri Lanka
+Kategoria:Sri Lanka	Sri Lanka
+Saint Louis (Missouri)	St. Louis
+Stadion	Stadium
+Witraż	Stained glass
+Stal nierdzewna	Stainless steel
+Stalinizm	Stalinism
+Standard Generalized Markup Language	Standard Generalized Markup Language
+Odchylenie standardowe	Standard deviation
+Uniwersytet Stanforda	Stanford University
+Stanley Kubrick	Stanley Kubrick
+Gwiazda	Star
+Gwiazda Dawida	Star of David
+Skrobia	Starch
+Rozgwiazdy	Starfish
+Państwo	State
+Staten Island	Staten Island
+Mechanika statystyczna	Statistical mechanics
+Statystyka	Statistics
+Kategoria:Statystyka	Statistics
+Statua Wolności	Statue of Liberty
+Stavanger	Stavanger
+Silnik parowy	Steam engine
+Stal	Steel
+Stefan Zweig	Stefan Zweig
+Steffi Graf	Steffi Graf
+Stegozaur	Stegosaurus
+Komórki macierzyste	Stem cell
+Stendhal	Stendhal
+Stephen Hawking	Stephen Hawking
+Step	Steppe
+Steradian	Steradian
+Mostek (anatomia człowieka)	Sternum
+Steroidy	Steroid
+Steven Spielberg	Steven Spielberg
+Sting	Sting
+Giełda	Stock exchange
+Sztokholm	Stockholm
+Stoicyzm	Stoicism
+Żołądek	Stomach
+Epoka kamienia	Stone Age
+Stonehenge	Stonehenge
+Bocianowate	Stork
+Sztorm (meteorologia)	Storm
+Cieśnina	Strait
+Cieśnina Gibraltarska	Strait of Gibraltar
+Ormuz (cieśnina)	Strait of Hormuz
+Cieśnina Magellana	Strait of Magellan
+Cieśnina Mesyńska	Strait of Messina
+Kategoria:Cieśniny	Straits
+Strasburg	Strasbourg
+Strategia organizacji	Strategy
+Stratygrafia	Stratigraphy
+Stratosfera	Stratosphere
+Poziomka	Strawberry
+Stres	Stress (medicine)
+Teoria strun	String theory
+Udar mózgu	Stroke
+Oddziaływanie silne	Strong interaction
+Stront	Strontium
+Strukturalizm (językoznawstwo)	Structuralism
+Szablon:Stub	Stub
+Student	Student
+Stupa	Stupa
+Sturmabteilung	Sturmabteilung
+Stuttgart	Stuttgart
+Styks	Styx
+Czarna Afryka	Sub-Saharan Africa
+Subkultura	Subculture
+Sublimacja (fizyka)	Sublimation (chemistry)
+Okręt podwodny	Submarine
+Podzbiór	Subset
+Odejmowanie	Subtraction
+Subversion	Subversion (software)
+Sucre (miasto)	Sucre
+Sacharoza	Sucrose
+Sudan	Sudan
+Kategoria:Sudan	Sudan
+Sudoku	Sudoku
+Kanał Sueski	Suez Canal
+Przyrostek	Suffix
+Sufizm	Sufism
+Cukier spożywczy	Sugar
+Suharto	Suharto
+Sukarno	Sukarno
+Celebes	Sulawesi
+Siarka	Sulfur
+Tlenek siarki(IV)	Sulfur dioxide
+Iperyt	Sulfur mustard
+Kwas siarkowy(VI)	Sulfuric acid
+Sułtan	Sultan
+Sumatra	Sumatra
+Sumer	Sumer
+Lato	Summer
+Sumo	Sumo
+Słońce	Sun
+Kategoria:Słońce	Sun
+Sun Jat-sen	Sun Yat-sen
+Niedziela	Sunday
+Zegar słoneczny	Sundial
+Słonecznik zwyczajny	Sunflower
+Sunnici	Sunni Islam
+Plama słoneczna	Sunspot
+Superkomputer	Supercomputer
+Nadprzewodnictwo	Superconductivity
+Superman	Superman
+Supernowa	Supernova
+Sąd Najwyższy Stanów Zjednoczonych	Supreme Court of the United States
+Sura (Koran)	Sura
+Napięcie powierzchniowe	Surface tension
+Chirurgia	Surgeon
+Chirurgia	Surgery
+Kategoria:Chirurgia	Surgery
+Surinam	Suriname
+Kategoria:Surinam	Suriname
+Surrealizm	Surrealism
+Surrey (Wielka Brytania)	Surrey
+Susan Sontag	Susan Sontag
+Sushi	Sushi
+Suva	Suva
+Svalbard	Svalbard
+Jaskółkowate	Swallow
+Łabędź	Swan
+Swastyka	Swastika
+Suazi	Swaziland
+Kategoria:Suazi	Swaziland
+Szwecja	Sweden
+Kategoria:Szwecja	Sweden
+Korona szwedzka	Swedish krona
+Batat	Sweet potato
+Pływanie	Swimming
+Kategoria:Pływanie	Swimming
+Frank szwajcarski	Swiss franc
+Kategoria:Szwajcarzy	Swiss people
+Szwajcaria	Switzerland
+Kategoria:Szwajcaria	Switzerland
+Miecz	Sword
+Sydney	Sydney
+Sylaba	Syllable
+Sylvia Plath	Sylvia Plath
+Symbioza	Symbiosis
+Symbol	Symbol
+Symfonia	Symphony
+Objaw (medycyna)	Symptom
+Synagoga	Synagogue
+Syndykat	Syndicate
+Synestezja	Synesthesia
+Synonim	Synonym
+Syntaktyka (językoznawstwo)	Syntax
+Syntezator	Synthesizer
+Kiła	Syphilis
+Syrakuzy	Syracuse
+Syria	Syria
+Kategoria:Syria	Syria
+System	System
+Systematyka (biologia)	Systematics
+T	T
+Thomas Edward Lawrence	T. E. Lawrence
+Thomas Stearns Eliot	T. S. Eliot
+Stół	Table (furniture)
+Tenis stołowy	Table tennis
+Tabu	Taboo
+Publiusz Korneliusz Tacyt	Tacitus
+Taekwondo	Taekwondo
+Tag (rzeka)	Tagus
+Tahiti	Tahiti
+Taijiquan	Tai chi chuan
+Ogon	Tail
+Tajpej	Taipei
+Kategoria:Tajwan	Taiwan
+Tajwan (wyspa)	Taiwan
+Tadź Mahal	Taj Mahal
+Tadżykistan	Tajikistan
+Kategoria:Tadżykistan	Tajikistan
+Talk	Talc
+Talibowie	Taliban
+Tallahassee (Floryda)	Tallahassee
+Tallinn	Tallinn
+Talmud	Talmud
+Tamil Nadu	Tamil Nadu
+Tampa (Floryda)	Tampa
+Tampere	Tampere
+Tanach	Tanakh
+Dynastia Tang	Tang Dynasty
+Tanger	Tangier
+Tango (taniec towarzyski)	Tango (dance)
+Czołg	Tank
+Tantal (pierwiastek)	Tantalum
+Tantal (mitologia)	Tantalus
+Tanzania	Tanzania
+Kategoria:Tanzania	Tanzania
+Taoizm	Taoism
+Tapiry	Tapir
+Niesporczaki	Tardigrade
+Tarn (departament)	Tarn
+Bylica estragon	Tarragon
+Tartar	Tartarus
+Tartu	Tartu
+Taszkent	Tashkent
+Morze Tasmana	Tasman Sea
+Tasmania	Tasmania
+Diabeł tasmański	Tasmanian Devil
+Smak (fizjologia)	Taste
+Tatuaż	Tattoo
+Tau	Tau
+Byk (gwiazdozbiór)	Taurus (constellation)
+Puszczyk	Tawny Owl
+Podatek	Tax
+Kategoria:Podatki	Taxation
+Taksówka	Taxicab
+Takson	Taxon
+Taksonomia	Taxonomy
+Cis pospolity	Taxus baccata
+Tbilisi	Tbilisi
+Herbata	Tea
+Kategoria:Herbaty	Tea
+Nauczyciel	Teacher
+Technet	Technetium
+Techno	Techno
+Technologia	Technology
+Kategoria:Technologia	Technology
+Tegucigalpa	Tegucigalpa
+Teheran	Tehran
+Tel Awiw-Jafa	Tel Aviv
+Telekomunikacja	Telecommunication
+Telegraf	Telegraphy
+Telepatia	Telepathy
+Telefon	Telephone
+Teleskop	Telescope
+Luneta (gwiazdozbiór)	Telescopium
+Telewizja	Television
+Kategoria:Telewizja	Television
+Tellur	Tellurium
+Temperatura	Temperature
+Świątynia	Temple
+Świątynia Artemidy w Efezie	Temple of Artemis
+Dekalog	Ten Commandments
+Teneryfa	Tenerife
+Tennessee	Tennessee
+Kategoria:Tennessee	Tennessee
+Tennessee Williams	Tennessee Williams
+Tenis	Tennis
+Kategoria:Tenis ziemny	Tennis
+Tenor	Tenor
+Tenzing Norgay	Tenzing Norgay
+Tequila	Tequila
+Terb	Terbium
+Termity	Termite
+Terpsychora	Terpsichore
+Planeta skalista	Terrestrial planet
+Terroryzm	Terrorism
+Kategoria:Terroryzm	Terrorism
+Tertulian	Tertullian
+Tesla (jednostka)	Tesla (unit)
+Jądro (anatomia)	Testicle
+Testosteron	Testosterone
+Tężec	Tetanus
+Tetyda (księżyc)	Tethys (moon)
+Tetyda (Tytanida)	Tethys (mythology)
+Czworościan	Tetrahedron
+Tetrahydrokannabinol	Tetrahydrocannabinol
+Czworonogie	Tetrapod
+Teksas	Texas
+Kategoria:Teksas	Texas
+Tkanina	Textile
+Tajlandia	Thailand
+Kategoria:Tajlandia	Thailand
+Tales z Miletu	Thales
+Talia (muza)	Thalia
+Tal	Thallium
+Tanatos (mitologia)	Thanatos
+Dzień Dziękczynienia	Thanksgiving
+Dzień Dziękczynienia	Thanksgiving (Canada)
+Dzień Dziękczynienia	Thanksgiving (United States)
+Dzień Dziękczynienia	Thanksgiving (disambiguation)
+Gambia	The Gambia
+Kategoria:Gambia	The Gambia
+Haga	The Hague
+Hymn Stanów Zjednoczonych Ameryki	The Star-Spangled Banner
+Teatr	Theatre
+Kategoria:Teatr	Theatre
+Tebe (księżyc)	Thebe (moon)
+Teby (Grecja)	Thebes
+Teby (Egipt)	Thebes
+Thea (mitologia)	Theia
+Temida (bogini)	Themis
+Temistokles	Themistocles
+Teokracja	Theocracy
+Teodolit	Theodolite
+Theodor Mommsen	Theodor Mommsen
+Theodore Roosevelt	Theodore Roosevelt
+Teodozjusz I Wielki	Theodosius I
+Teologia	Theology
+Kategoria:Teologia	Theology
+Twierdzenie	Theorem
+Teoria	Theory
+Teoria względności	Theory of relativity
+Theravada	Theravada
+Termodynamika	Thermodynamics
+Kategoria:Termodynamika	Thermodynamics
+Termometr	Thermometer
+Tezeusz	Theseus
+Saloniki	Thessaloniki
+Tesalia	Thessaly
+Theta	Theta
+Tetyda (mitologia)	Thetis
+Witamina B1	Thiamine
+Think tank	Think tank
+III wyprawa krzyżowa	Third Crusade
+Trzeci Świat	Third World
+Wojna trzydziestoletnia	Thirty Years' War
+Tomasz z Akwinu	Thomas Aquinas
+Thomas Alva Edison	Thomas Edison
+Thomas Hardy	Thomas Hardy
+Thomas Hobbes	Thomas Hobbes
+Thomas Jefferson	Thomas Jefferson
+Thomas Malthus	Thomas Malthus
+Thomas Mann	Thomas Mann
+Thomas More	Thomas More
+Thomas Paine	Thomas Paine
+Thomas Young	Thomas Young (scientist)
+Thor	Thor
+Tor (pierwiastek)	Thorium
+Thot	Thoth
+Myślenie	Thought
+Tracja	Thrace
+Tukidydes	Thucydides
+Tul	Thulium
+Kciuk	Thumb
+Turyngia	Thuringia
+Kategoria:Turyngia	Thuringia
+Czwartek	Thursday
+Wilk workowaty	Thylacine
+Macierzanka tymianek	Thyme
+Tymina	Thymine
+Tarczyca	Thyroid
+Tiencin	Tianjin
+Tyber	Tiber
+Tyberiusz	Tiberius
+Tybet (region)	Tibet
+Kategoria:Tybet	Tibet
+Ticino	Ticino
+Pływy morskie	Tide
+Ziemia Ognista (archipelag)	Tierra del Fuego
+Tygrys	Tiger
+Tygrys (rzeka)	Tigris
+Lipa (drzewo)	Tilia
+Timbuktu	Timbuktu
+Czas	Time
+Kategoria:Czas	Time
+Time (tygodnik)	Time (magazine)
+Strefa czasowa	Time zone
+Timor	Timor
+Timur	Timur
+Cyna	Tin
+Tirana	Tirana
+Tkanka	Tissue (biology)
+Sikorowate	Tit (bird)
+Tytan	Titan (disambiguation)
+Tytan (księżyc)	Titan (moon)
+Tytan (bóg)	Titan (mythology)
+Tytania (księżyc)	Titania (moon)
+Titanic (ujednoznacznienie)	Titanic (disambiguation)
+Tytan (pierwiastek)	Titanium
+Tycjan	Titian
+Tytus Flawiusz	Titus
+Tivoli (Włochy)	Tivoli
+Tytoń	Tobacco
+Tocantins (stan)	Tocantins (state)
+Witamina E	Tocopherol
+Tofu	Tofu
+Togo	Togo
+Kategoria:Togo	Togo
+Tokio	Tokyo
+Toledo (Hiszpania)	Toledo
+Toluen	Toluene
+Tom Hanks	Tom Hanks
+Tom i Jerry	Tom and Jerry
+Pomidor zwyczajny	Tomato
+Tona	Ton
+Tonga	Tonga
+Kategoria:Tonga	Tonga
+Język (anatomia)	Tongue
+Toni Morrison	Toni Morrison
+Tona	Tonne
+Tony Blair	Tony Blair
+Narzędzie	Tool
+Ząb (stomatologia)	Tooth
+Szczoteczka do zębów	Toothbrush
+Topaz	Topaz
+Topeka (Kansas)	Topeka
+Topologia	Topology
+Kategoria:Topologia	Topology
+Tora	Torah
+Tornado	Tornado
+Toronto	Toronto
+Torpeda	Torpedo
+Moment siły	Torque
+Żółwie lądowe	Tortoise
+Tortura	Torture
+Torus (matematyka)	Torus
+Totalitaryzm	Totalitarianism
+Tulon	Toulon
+Tuluza	Toulouse
+Tour de France	Tour de France
+Turystyka	Tourism
+Kategoria:Turystyka	Tourism
+Tours	Tours
+Wieża	Tower
+Wieża Babel	Tower of Babel
+Tower of London	Tower of London
+Miasto	Town
+Trucizna	Toxicity
+Toksykologia	Toxicology
+Zabawka	Toy
+Toyota	Toyota
+Ciągnik	Tractor
+Handel	Trade
+Związek zawodowy	Trade union
+Znak handlowy	Trademark
+Tradycja	Tradition
+Tragedia	Tragedy
+Pociąg	Train
+Dworzec kolejowy	Train station
+Trajan	Trajan
+Tramwaj	Tram
+Liczba przestępna	Transcendental number
+Transformator	Transformer
+Tranzystor	Transistor
+Transliteracja	Transliteration
+TCP	Transmission Control Protocol
+Kategoria:Transport	Transportation
+Transseksualizm	Transsexualism
+Siedmiogród	Transylvania
+Trapez	Trapezoid
+Umowa międzynarodowa	Treaty
+Traktat wersalski	Treaty of Versailles
+Drzewo	Tree
+Trydent	Trento
+Trenton (New Jersey)	Trenton
+Trójkąt	Triangle
+Trójkąt (gwiazdozbiór)	Triangulum
+Trójkąt Południowy	Triangulum Australe
+Trias	Triassic
+Dopływ	Tributary
+Triceratops	Triceratops
+Trewir	Trier
+Funkcje trygonometryczne	Trigonometric function
+Trygonometria	Trigonometry
+Kategoria:Trygonometria	Trigonometry
+Trylobity	Trilobite
+Trylogia	Trilogy
+Trynidad	Trinidad
+Trynidad i Tobago	Trinidad and Tobago
+Kategoria:Trynidad i Tobago	Trinidad and Tobago
+Trotyl	Trinitrotoluene
+Trójca Święta	Trinity
+Trypolis	Tripoli
+Triskelion	Triskelion
+Tryt	Tritium
+Tryton (księżyc)	Triton (moon)
+Tryton (mitologia)	Triton (mythology)
+Łuk triumfalny	Triumphal arch
+Koń trojański	Trojan Horse
+Wojna trojańska	Trojan War
+Koń trojański (informatyka)	Trojan horse (computing)
+Troll	Troll
+Trollowanie	Troll (Internet)
+Trolejbus	Trolleybus
+Puzon	Trombone
+Trondheim	Trondheim
+Strefa międzyzwrotnikowa	Tropics
+Troposfera	Troposphere
+Trockizm	Trotskyism
+Troja	Troy
+Samochód ciężarowy	Truck
+Doktryna Trumana	Truman Doctrine
+Trąbka	Trumpet
+Prawda	Truth
+Trygve Lie	Trygve Lie
+Tryptofan	Tryptophan
+Car	Tsar
+Tsunami	Tsunami
+Tuaregowie	Tuareg
+Tuba	Tuba
+Trufla (grzyb)	Tuber (genus)
+Gruźlica	Tuberculosis
+Tukan (gwiazdozbiór)	Tucana
+Tucson	Tucson
+Wtorek	Tuesday
+Tulipan	Tulip
+Guz (medycyna)	Tumor
+Tundra	Tundra
+Wolfram	Tungsten
+Osłonice	Tunicate
+Tunis	Tunis
+Tunezja	Tunisia
+Kategoria:Tunezja	Tunisia
+Tunel (budownictwo)	Tunnel
+Turbina	Turbine
+Turyn	Turin
+Maszyna Turinga	Turing machine
+Turcja	Turkey
+Kategoria:Turcja	Turkey
+Turkmenistan	Turkmenistan
+Kategoria:Turkmenistan	Turkmenistan
+Ostryż długi	Turmeric
+Żółwie	Turtle
+Toskania	Tuscany
+Tuvalu	Tuvalu
+Kategoria:Tuvalu	Tuvalu
+Tux	Tux
+Tycho Brahe	Tycho Brahe
+Maszyna do pisania	Typewriter
+Tyfon	Typhon
+Typografia	Typography
+Kategoria:Typografia	Typography
+Tyranozaur	Tyrannosaurus
+Tyr (miasto)	Tyre
+Tyrol (kraj związkowy)	Tyrol (state)
+Morze Tyrreńskie	Tyrrhenian Sea
+U	U
+UNESCO	UNESCO
+Ufa (miasto)	Ufa
+Uganda	Uganda
+Kategoria:Uganda	Uganda
+Ukraina	Ukraine
+Kategoria:Ukraina	Ukraine
+Ułan Bator	Ulan Bator
+Ulster	Ulster
+Ultradźwięki	Ultrasound
+Ultrafiolet	Ultraviolet
+Ulysses Grant	Ulysses S. Grant
+Parasol	Umbrella
+Umbria	Umbria
+Zasada nieoznaczoności	Uncertainty principle
+Bezrobocie	Unemployment
+Jednorożec	Unicorn
+UFO	Unidentified flying object
+Uniform Resource Locator	Uniform Resource Locator
+Suma zbiorów	Union (set theory)
+Zjednoczone Emiraty Arabskie	United Arab Emirates
+Kategoria:Zjednoczone Emiraty Arabskie	United Arab Emirates
+Zjednoczona Republika Arabska	United Arab Republic
+Wielka Brytania	United Kingdom
+Kategoria:Wielka Brytania	United Kingdom
+Organizacja Narodów Zjednoczonych	United Nations
+Kategoria:Organizacja Narodów Zjednoczonych	United Nations
+UNICEF	United Nations Children's Fund
+Stany Zjednoczone	United States
+Kategoria:Stany Zjednoczone	United States
+United States Air Force	United States Air Force
+Kongres Stanów Zjednoczonych	United States Congress
+Konstytucja Stanów Zjednoczonych	United States Constitution
+Izba Reprezentantów Stanów Zjednoczonych	United States House of Representatives
+West Point	United States Military Academy
+United States Navy	United States Navy
+Senat Stanów Zjednoczonych	United States Senate
+Wyspy Dziewicze Stanów Zjednoczonych	United States Virgin Islands
+Dolar amerykański	United States dollar
+Wszechświat	Universe
+Uniwersytet	University
+Uniwersytet Chicagowski	University of Chicago
+Uniwersytet Pensylwanii	University of Pennsylvania
+Unix	Unix
+Kategoria:Unix	Unix
+Ununbium	Ununbium
+Ununhexium	Ununhexium
+Ununpentium	Ununpentium
+Ununquadium	Ununquadium
+Ununtrium	Ununtrium
+Upaniszady	Upanishad
+Uppsala	Uppsala
+Ipsylon	Upsilon
+Ur (miasto)	Ur
+Uracyl	Uracil
+Ural (góry)	Ural Mountains
+Urania	Urania
+Uran (pierwiastek)	Uranium
+Uran	Uranus
+Kategoria:Uran	Uranus
+Uranos	Uranus (mythology)
+Język urdu	Urdu
+Mocznik	Urea
+Mocz	Urine
+Wielka Niedźwiedzica	Ursa Major
+Mała Niedźwiedzica	Ursa Minor
+Urugwaj	Uruguay
+Kategoria:Urugwaj	Uruguay
+Utah	Utah
+Kategoria:Utah	Utah
+Macica	Uterus
+Utylitaryzm	Utilitarianism
+Utopia (termin)	Utopia
+Utrecht	Utrecht (city)
+Utrecht (prowincja)	Utrecht (province)
+Uttar Pradesh	Uttar Pradesh
+Uzbekistan	Uzbekistan
+Kategoria:Uzbekistan	Uzbekistan
+Szczepionka	Vaccine
+Wakuola	Vacuole
+Próżnia	Vacuum
+Lampa elektronowa	Vacuum tube
+Vaduz	Vaduz
+Pochwa (anatomia)	Vagina
+Valence (Drôme)	Valence
+Wartościowość	Valence (chemistry)
+Walencja	Valencia
+Walencja (ujednoznacznienie)	Valencia
+Walentina Tierieszkowa	Valentina Tereshkova
+Walentynki	Valentine's Day
+Walhalla	Valhalla
+Walkirie	Valkyrie
+Valletta	Valletta
+Dolina	Valley
+Wampir	Vampire
+Wanad	Vanadium
+Vancouver (Kolumbia Brytyjska)	Vancouver
+Vancouver (wyspa)	Vancouver Island
+Wandalizm	Vandalism
+Wanowie	Vanir
+Vanuatu	Vanuatu
+Kategoria:Vanuatu	Vanuatu
+Var (departament)	Var (department)
+Wariancja	Variance
+Warna	Varna
+Rośliny naczyniowe	Vascular plant
+Watykan	Vatican City
+Kategoria:Watykan	Vatican City
+Wektor	Vector (spatial)
+Wega	Vega
+Warzywa	Vegetable
+Wegetarianizm	Vegetarianism
+Żyła	Vein
+Żagiel (gwiazdozbiór)	Vela (constellation)
+Welociraptor	Velociraptor
+Prędkość	Velocity
+Wenecja Euganejska	Veneto
+Wenezuela	Venezuela
+Kategoria:Wenezuela	Venezuela
+Wenecja	Venice
+Wenus	Venus
+Wenus (ujednoznacznienie)	Venus (disambiguation)
+Wenus (bogini)	Venus (mythology)
+Czasownik	Verb
+Vermont	Vermont
+Kategoria:Vermont	Vermont
+Werona	Verona
+Wersal	Versailles
+Kręg	Vertebra
+Kręgosłup	Vertebral column
+Kręgowce	Vertebrate
+Wespazjan	Vespasian
+Westa	Vesta (mythology)
+Weto	Veto
+Wiceprezydenci Stanów Zjednoczonych	Vice President of the United States
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Victoria (Seszele)	Victoria
+Victoria (Kolumbia Brytyjska)	Victoria
+Wiktoria	Victoria
+Wiktoria (stan Australii)	Victoria (Australia)
+Wodospady Wiktorii	Victoria Falls
+Gry komputerowe i wideo	Video game
+Wiedeń	Vienna
+Kategoria:Wiedeń	Vienna
+Vienne (departament)	Vienne
+Wientian	Vientiane
+Wietnam	Vietnam
+Kategoria:Wietnam	Vietnam
+Wojna wietnamska	Vietnam War
+Wikingowie	Viking
+Vilfredo Pareto	Vilfredo Pareto
+Wieś	Village
+Wilno	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Vincenzo Bellini	Vincenzo Bellini
+Ocet	Vinegar
+Altówka	Viola
+Przemoc	Violence
+Skrzypce	Violin
+Wergiliusz	Virgil
+Wyspy Dziewicze	Virgin Islands
+Wirginia	Virginia
+Kategoria:Wirginia	Virginia
+Virginia Woolf	Virginia Woolf
+Dziewictwo	Virginity
+Panna (gwiazdozbiór)	Virgo (constellation)
+Pamięć wirtualna	Virtual memory
+Rzeczywistość wirtualna	Virtual reality
+Cnota	Virtue
+Wirusy	Virus
+Lepkość	Viscosity
+Wisznu	Vishnu
+Wisła	Vistula
+Witaminy	Vitamin
+Witamina A	Vitamin A
+Witamina B6	Vitamin B6
+Witamina D	Vitamin D
+Witamina K	Vitamin K
+Vittorio De Sica	Vittorio De Sica
+Vitus Bering	Vitus Bering
+Vivien Leigh	Vivien Leigh
+Włodzimierz Lenin	Vladimir Lenin
+Władimir Nabokow	Vladimir Nabokov
+Władimir Putin	Vladimir Putin
+Władywostok	Vladivostok
+Wołacz	Vocative case
+Wódka	Vodka
+Ryba Latająca (gwiazdozbiór)	Volans
+Wulkan	Volcano
+Kategoria:Wulkanizm	Volcanology
+Wulkanologia	Volcanology
+Wołga	Volga River
+Wołgograd	Volgograd
+Piłka siatkowa	Volleyball
+Kategoria:Piłka siatkowa	Volleyball
+Wolt	Volt
+Napięcie elektryczne	Voltage
+Voltaire	Voltaire
+Objętość (matematyka)	Volume
+Wymioty	Vomiting
+Voodoo	Voodoo
+Samogłoska	Vowel
+Wulkan (bóg)	Vulcan (mythology)
+Wulgata	Vulgate
+Lisek (gwiazdozbiór)	Vulpecula
+Srom	Vulva
+W	W
+William Somerset Maugham	W. Somerset Maugham
+WYSIWYG	WYSIWYG
+Wahhabizm	Wahhabism
+Wake	Wake Island
+Walia	Wales
+Kategoria:Walia	Wales
+Orzech (roślina)	Walnut
+Mors	Walrus
+Walt Disney	Walt Disney
+Walt Whitman	Walt Whitman
+Walter Gropius	Walter Gropius
+Walter Scott	Walter Scott
+Wojna	War
+Kategoria:Wojny	War
+Zbrodnie wojenne	War crime
+Wojna o sukcesję hiszpańską	War of the Spanish Succession
+Wojna Dwóch Róż	Wars of the Roses
+Warszawa	Warsaw
+Brodawka	Wart
+Pralka	Washing machine
+Waszyngton	Washington
+Waszyngton (stan w USA)	Washington
+Kategoria:Waszyngton (stan)	Washington
+Waszyngton (ujednoznacznienie)	Washington (disambiguation)
+Wasilij Kandinskij	Wassily Kandinsky
+Odpady	Waste
+Woda	Water
+Kategoria:Woda	Water
+Piłka wodna	Water polo
+Wodospad	Waterfall
+Afera Watergate	Watergate scandal
+Kawon	Watermelon
+Wat	Watt
+Kilowatogodzina	Watt-hour
+Fala	Wave
+Długość fali	Wavelength
+Woski	Wax
+Oddziaływanie słabe	Weak interaction
+Broń	Weapon
+Pogoda	Weather
+Przeglądarka internetowa	Web browser
+Strona internetowa	Web page
+Kamera internetowa	Webcam
+Weber (jednostka)	Weber (unit)
+Serwis internetowy	Website
+Środa	Wednesday
+Tydzień	Week
+Ciężar	Weight
+Podnoszenie ciężarów	Weightlifting
+Weimar	Weimar
+Republika Weimarska	Weimar Republic
+Połączenia spawane	Welding
+Wellington (Nowa Zelandia)	Wellington
+Wilkołak	Werewolf
+Wernher von Braun	Wernher von Braun
+Wezera	Weser River
+Zachód (kierunek)	West
+Afryka Zachodnia	West Africa
+Zachodni Brzeg	West Bank
+Bengal Zachodni	West Bengal
+Berlin Zachodni	West Berlin
+West Sussex	West Sussex
+Wirginia Zachodnia	West Virginia
+Kategoria:Wirginia Zachodnia	West Virginia
+Australia Zachodnia	Western Australia
+Cesarstwo zachodniorzymskie	Western Roman Empire
+Sahara Zachodnia	Western Sahara
+Kategoria:Sahara Zachodnia	Western Sahara
+Opactwo Westminsterskie	Westminster Abbey
+Wieloryb	Whale
+Pszenica	Wheat
+Koło (technika)	Wheel
+Whisky	Whisky
+Biały Dom	White House
+Morze Białe	White Sea
+Leukocyt	White blood cell
+Biały karzeł	White dwarf
+Whitehorse	Whitehorse
+Wicca	Wicca
+Sieć rozległa	Wide area network
+Wiesbaden	Wiesbaden
+Żbik	Wildcat
+Wilhelm Ostwald	Wilhelm Ostwald
+Testament	Will (law)
+William Blake	William Blake
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Ewart Gladstone	William Gladstone
+William Golding	William Golding
+William Harvey	William Harvey
+William Henry Harrison	William Henry Harrison
+William Herschel	William Herschel
+William H. Taft	William Howard Taft
+Wilhelm I Hohenzollern	William I
+Wilhelm II Hohenzollern	William II
+William James	William James
+William McKinley	William McKinley
+William Rowan Hamilton	William Rowan Hamilton
+William Szekspir	William Shakespeare
+William Shockley	William Shockley
+William Wordsworth	William Wordsworth
+William Ockham	William of Ockham
+Wierzba	Willow
+Willy Brandt	Willy Brandt
+Instrument dęty	Wind instrument
+Energia wiatru	Wind power
+Windhuk	Windhoek
+Wiatrak	Windmill
+Okno	Window
+Wino	Wine
+Winnipeg	Winnipeg
+Winston Churchill	Winston Churchill
+Zima	Winter
+Zimowe igrzyska olimpijskie	Winter Olympic Games
+Kategoria:Zimowe igrzyska olimpijskie	Winter Olympic Games
+Wisconsin	Wisconsin
+Kategoria:Wisconsin	Wisconsin
+Wolfgang Amadeusz Mozart	Wolfgang Amadeus Mozart
+Wolfgang Pauli	Wolfgang Pauli
+Kobieta	Woman
+Drewno (technika)	Wood
+Woodrow Wilson	Woodrow Wilson
+Instrument dęty drewniany	Woodwind instrument
+Woody Allen	Woody Allen
+Worcestershire	Worcestershire
+Wyraz	Word
+Procesor tekstu	Word processor
+Świat	World
+Bank Światowy	World Bank
+Światowa Organizacja Zdrowia	World Health Organization
+Światowa Organizacja Meteorologiczna	World Meteorological Organization
+World Trade Center	World Trade Center
+Światowa Organizacja Handlu	World Trade Organization
+I wojna światowa	World War I
+Kategoria:I wojna światowa	World War I
+II wojna światowa	World War II
+Kategoria:II wojna światowa	World War II
+World Wide Web	World Wide Web
+Kategoria:World Wide Web	World Wide Web
+Robaki	Worm
+Tunel czasoprzestrzenny	Wormhole
+Pisarz	Writer
+Pismo	Writing system
+Wuhan	Wuhan
+Wyoming	Wyoming
+Kategoria:Wyoming	Wyoming
+Promieniowanie rentgenowskie	X-ray
+Szczerbaki	Xenarthra
+Ksenon	Xenon
+Ksenofanes	Xenophanes
+Ksenofobia	Xenophobia
+Ksenofont	Xenophon
+Ksi	Xi
+Sinkiang	Xinjiang
+Ksylofon	Xylophone
+Y	Y
+Jahwe	Yahweh
+Jak	Yak
+Yakuza	Yakuza
+Uniwersytet Yale'a	Yale University
+Jałta	Yalta
+Konferencja jałtańska	Yalta Conference
+Rangun	Yangon
+Jangcy	Yangtze River
+Jard	Yard
+Jaser Arafat	Yasser Arafat
+Rok	Year
+Drożdże	Yeast
+Barwa żółta	Yellow
+Huang He	Yellow River
+Morze Żółte	Yellow Sea
+Park Narodowy Yellowstone	Yellowstone National Park
+Jemen	Yemen
+Kategoria:Jemen	Yemen
+Jenisej	Yenisei River
+Erywań	Yerevan
+Yeti	Yeti
+Yggdrasil	Yggdrasil
+Jojo (zabawka)	Yo-yo
+Joga	Yoga
+Jogurt	Yoghurt
+Yoko Ono	Yoko Ono
+Jokohama	Yokohama
+Jom Kippur	Yom Kippur
+Wojna Jom Kippur	Yom Kippur War
+York	York
+Park Narodowy Yosemite	Yosemite National Park
+Moduł Younga	Young's modulus
+Iterb	Ytterbium
+Itr	Yttrium
+Dynastia Yuan	Yuan Dynasty
+Jugosławia	Yugoslavia
+Kategoria:Jugosławia	Yugoslavia
+Jukon (terytorium Kanady)	Yukon
+Junnan	Yunnan
+Jurij Gagarin	Yuri Gagarin
+Z	Z
+Zachary Taylor	Zachary Taylor
+Zagrzeb	Zagreb
+Zambezi	Zambezi
+Zambia	Zambia
+Kategoria:Zambia	Zambia
+Zanzibar	Zanzibar
+Saragossa	Zaragoza
+Zelandia (wyspa)	Zealand
+Zen	Zen
+Zenit (astronomia)	Zenith
+Zenon Izauryjczyk	Zeno (emperor)
+Zenon z Kition	Zeno of Citium
+Zenon z Elei	Zeno of Elea
+Dzeta	Zeta
+Zeus	Zeus
+Zeus	Zeus (disambiguation)
+Ziggurat	Ziggurat
+Zimbabwe	Zimbabwe
+Kategoria:Zimbabwe	Zimbabwe
+Cynk	Zinc
+Syjonizm	Zionism
+Cyrkon (pierwiastek)	Zirconium
+Zodiak	Zodiac
+Zombie	Zombie
+Ogród zoologiczny	Zoo
+Zoologia	Zoology
+Kategoria:Zoologia	Zoology
+Zaratusztra	Zoroaster
+Zaratusztrianizm	Zoroastrianism
+Zulusi	Zulu

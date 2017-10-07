@@ -1,0 +1,136 @@
+English	Yiddish
+9 ; nine	נײַן
+April	אַפּריל
+Arabic ; Standard Arabic	אַראַביש
+August	אױגוסט
+Bulgarian ; Bulgarian	בולגאַריש
+Chinese	כינעזיש
+Czech ; Czech	טשעכיש
+December	דעצעמבער
+Dutch	האָלענדיש
+Europe	אײראָפּע
+February	פֿעברואַר
+France	פֿראַנקרײַך
+French ; French	פֿראַנצײזיש
+Friday	פֿרײַטיק
+German	דײַטש
+Greek ; Greek	גריכיש
+Hebrew	העברעיִש
+Italian ; Italian	איטאַליעניש
+January	יאַנואַר
+Japanese ; Japanese	יאַפּאַניש
+Judaism	ייִדישקײט
+July	יולי
+June	יוני
+March	מאַרץ ; יוני
+May	מײַ
+Monday	מאָנטיק
+Munich	מינכן
+November	נאָװעמבער
+October	אָקטאָבער
+People's Republic of China ; China	כינע
+Saturday	שבת
+September	סעפּטעמבער
+Serbian ; Serbian	סערביש
+Sunday	זונטיק
+Thai ; Thai	טײַלענדיש
+Thursday	דאָנערשטיק
+Tuesday	דינסטיק
+Turkish ; Turkish	טערקיש
+UN ; United Nations	די פֿאַראײניקטע פֿעלקער
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	פֿ׳ש ; פֿש׳אַ ; די פֿאַראײניקטע שטאַטן
+Wednesday ; quarta-feira	מיטװאָך
+Wikipedia	ɛntˢɪklɔpɛdyɛ ; װיקיפּעדיע
+Yiddish	ייִדיש
+adjective ; describing word	אַדיעקטיװ
+administration ; direction ; management	אָנפֿירונג ; אַדמיניסטראַציע
+adverb	אַדװערב
+alphabet	אלף־בית
+anatomy	אַנאַטאָמיע
+and	און
+and ; as well as ; in addition to ; together with ; too	און
+article	אַרטיקל
+ash	אַש
+aye ; yeah ; yep ; yes	יאָ
+beak ; mouth	שנאָבל
+big ; large	גרױס
+bird	פֿױגל
+birthday	געבורטסטאָג ; געבױרן־טאָג
+black	שװאַרץ
+blacksmith	שמיד ; קאָװעל
+blood	בלוט
+book	בוך
+botany ; phytology	באָטאַניק
+boy	ייִנגל ; בחור
+butter	פּוטער
+butterfly	פֿלאַטערל
+capital	הױפּטשטאָט
+cheese	קעז
+child	קינד
+computer	קאָמפּיוטער
+country ; nation ; state	מלוכה ; מדינה ; מדינה ; שטאַט
+daughter	טאָכטער
+day ; daytime	טאָג
+dictionary	װערטערבוך
+dog	הונט
+eight	אַכט
+employment ; employment ; job ; job ; occupation ; work ; work	טועכץ ; פּראָפֿעסיע ; פֿאַך
+encyclopaedia	ענציקלאָפּעדיע
+family	משפּחה
+father	טאַטע
+female ; woman	פֿרױ
+film	פֿילם
+five	פֿינעף ; פֿינף
+flower ; bloom ; blossom	בלי ; צװיט
+four	פֿיר
+general	אַלגעמײן
+general	גענעראַל
+geography	געאָגראַפֿיע
+girl	מײדל
+grandfather	זײדע
+grass	גראָז
+heavy	שװער
+here	דאָ
+info ; information	ידיעה ; אינפֿאָרמאַציע
+judgement (sentence) ; sentence ; judgement	זאַץ
+kilogram	קילאָ ; קילאָגראַם
+language	שפּראַך ; לשון ; מוטערשפּראַך ; מאַמע־לשון
+letter	אות
+literature	ליטעראַטור
+male ; man	מאַנספּאַרשױן ; מאַנצביל
+man	מענטש
+mathematics	מאַטעמאַטיק
+milk	מילך
+mill	מיל
+month	חודש
+mother	מאַמע
+no	נײן
+notice	באַמערק
+noun ; substantive	סובסטאַנטיוו
+one	אײנס
+physics	פֿיזיק
+pity ; compassion	דערבאַרעמען ; רחמנות
+policy	פּאָליטיק
+politics	פּאָליטיק
+question	פֿרעג
+region	ראַיאָן ; קאַנט ; געגנט
+research	פֿאָרשונג
+science	װיסנשאַפֿט
+short ; small	קלײן
+sociology	סאָציאָלאָגיע
+spleen	מילץ
+sport	ספּאָרט
+technology	טעכנאָלאָגיע
+temperature	טעמפּעראַטור
+ten	צען
+test	פּראָבע ; פּרוּװ
+three	דרײַ
+time	צײַט
+two	צװײ
+verb	װערב
+vocabulary	װערטער־אוצר ; װאָקאַבולאַר
+week	vɔx ; װאָך
+weight	געװיכט
+white	װײַס
+word	װאָרט
+zero ; null	נול

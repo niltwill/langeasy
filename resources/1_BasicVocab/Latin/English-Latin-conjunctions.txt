@@ -1,0 +1,8 @@
+﻿English	Latin
+and	et
+because	quod
+for	pro, propter
+if	si
+or	aut
+than	quam
+until	usque

@@ -1,0 +1,35 @@
+﻿English	Slovak
+anything	hocičo
+everybody	každý
+everything	čokoľvek
+he	on
+her	jej
+herself	sa
+him	jemu
+himself	seba
+his	jeho
+it	to
+itself	sa
+me	ja
+my	môj
+our	náš
+she	ona
+that	ten / tá / to m/f/n, tamten / tamtá / tamto m/f/n distant (lit., that there)
+their	ich
+them	ich
+these	tieto
+they	oni
+this	tento (m), táto (f)
+those	ty
+us	nás
+we	my
+what	to
+when	kedy
+which	ktorý
+which	ktorý
+who	kto
+whom	s kým
+whose	čí
+you	ty, vy
+your	tvoj, váš
+yourself	sa

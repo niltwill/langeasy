@@ -1,0 +1,5 @@
+﻿English	Maltese
+and	u
+for	għal, minħabba
+if	jekk
+or	jew

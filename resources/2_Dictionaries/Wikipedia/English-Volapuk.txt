@@ -1,0 +1,1039 @@
+English	Volapuk
+1000	1000
+1728	1728
+A	A
+Aachen	Aachen
+Aalborg	Aalborg
+Aarhus	Århus
+Aberdeen	Aberdeen (Skotän)
+Abidjan	Abidjan
+Abkhazia	Labkasän
+Abu Dhabi	Äbu Saby
+Abu Dhabi (emirate)	Äbu Saby
+Acapulco	Acapulco
+Accra	Accra
+Acre (state)	Acre
+Adelaide	Adelaide
+Afghanistan	Lafganistän
+Agrigento	Agrigento
+Ain	Ain
+Akira Kurosawa	Akira Kurosawa
+Alabama	Alabama
+Alan Turing	Alan Turing
+Alaska	Alaska
+Albania	Lalbanän
+Albany	Albany (New York)
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Alberta	Alberta
+Albuquerque	Albuquerque
+Alexander Pushkin	Alexander Pujkin
+Alfred Hitchcock	Alfred Hitchcock
+Algeria	Laljerän
+Algiers	Cäsair
+Amman	Amman
+Amsterdam	Amsterdam
+Anaheim	Anaheim
+Anchorage	Anchorage (Alaska)
+Andorra	Landorän
+Andy Warhol	Andy Warhol
+Angola	Langolän
+Ankara	Ankara
+Annapolis	Annapolis (Maryland)
+Antakya	Antakya
+Antigua and Barbuda	Lantigeän e Barbudeän
+Antofagasta	Antofagasta
+Anton Bruckner	Anton Bruckner
+Anton Chekhov	Anton Cehov
+Antonio Vivaldi	Antonio Vivaldi
+Antwerp	Antwerpen (zif)
+Antwerp (province)	Antwerpen (provin)
+Apia	Apia
+Apollo (disambiguation)	Apollo
+Applied mathematics	Matemat pajäfüköl
+April	Prilul
+April 14	Prilul 14
+Arcangelo Corelli	Arcangelo Corelli
+Archaeology	Vönotav
+Archimedes	Arkimedes
+Ardennes (department)	Ardennes
+Argentina	Largäntän
+Argentina	Klad:Largäntän
+Aristotle	Aristoteles
+Arizona	Arizona
+Arkansas	Arkansas
+Arles	Arles
+Armenia	Larmeniyän
+Armenia	Klad:Larmeniyän
+Arnhem	Arnhem
+Arras	Arras
+Arthur Rimbaud	Arthur Rimbaud
+Arts	Klad:Lekans
+Asia	Siyop
+Astana	Astana
+Astronomy	Stelav
+Atlanta	Atlanta
+Au	Au
+August	Gustul
+August 1	Gustul 1
+August 15	Gustul 15
+August 6	Gustul 6
+Augusta	Augusta (Maine)
+Aurora	Aurora
+Austin	Austin (Texas)
+Australia	Laustralän
+Austria	Lösterän
+Avignon	Avignon
+Azerbaijan	Lasärbäcän
+B	B
+Baghdad	Bagdad
+Bahrain	Bahruäns
+Baku	Bakı
+Baltimore	Baltimore (Maryland)
+Bangalore	Bangalore
+Bangladesh	Bangladejän
+Bangladesh	Klad:Bangladejän
+Banjul	Banjul
+Barbados	Barbadeän
+Barbados	Klad:Barbadeän
+Barcelona	Barcelona (Spanyän)
+Bari	Bari
+Barranquilla	Barranquilla
+Basel	Basel
+Bath	Bath (Linglän)
+Baton Rouge	Baton Rouge
+Bavaria	Bayän
+Bayonne	Bayonne (Fransän)
+Beer	Bir
+Beirut	Bäyrut
+Belarus	Belarusän
+Belarus	Klad:Belarusän
+Belgium	Belgän
+Belgium	Klad:Belgän
+Belgrade	Beograd
+Belize	Belisän
+Belize	Klad:Belisän
+Belo Horizonte	Belo Horizonte
+Benghazi	Bängasi
+Benin	Beninän
+Benin	Klad:Beninän
+Bergen	Bergen (Norgän)
+Berkshire	Berkshire
+Berlin	Berlin
+Berne	Bern
+Beverly Hills	Beverly Hills (California)
+Bhutan	Butän
+Bhutan	Klad:Butän
+Biology	Lifav
+Birmingham	Birmingham (Alabama)
+Bismarck	Bismarck (North Dakota)
+Bismarck (disambiguation)	Bismarck
+Blaise Pascal	Blaise Pascal
+Bloemfontein	Bloemfontein
+Boise	Boise
+Bolivia	Bolivän
+Bologna	Bologna
+Bolzano	Bolzano
+Bonn	Bonn
+Bordeaux	Bordeaux
+Bosnia and Herzegovina	Bosnän e Härzegovän
+Bosnia and Herzegovina	Klad:Bosnän e Härzegovän
+Boston	Boston
+Bot	Samafomot:Bot
+Botany	Planav
+Botswana	Zvanän
+Braga	Braga
+Brandenburg	Brandänburgän
+Bratislava	Bratislava
+Braunschweig	Braunschweig
+Brazil	Brasilän
+Bremen	Bremen
+Bremen (state)	Bremen (fedalän)
+Bremerhaven	Bremerhaven
+Brescia	Brescia
+Brest	Brest (Fransän)
+Bridgetown	Bridgetown
+Brindisi	Brindisi
+Brisbane	Brisbane
+Bristol	Bristol
+British Columbia	British Columbia
+Brno	Brno
+Bruges	Brugge
+Brunei	Brunän
+Brussels	Brussel (zif)
+Bucharest	Bucureşti
+Budapest	Budapest
+Buenos Aires	Buenos Aires
+Buffalo	Buffalo (New York)
+Bulgaria	Bulgarän
+Burkina Faso	Burkinän
+Burma	Mianmarän
+Burma	Klad:Mianmarän
+Bursa	Bursa
+Bydgoszcz	Bydgoszcz
+C	C
+Cairo	Kahirä
+Calais	Calais (Fransän)
+California	California
+Calvados	Calvados
+Cambodia	Kambocän
+Cambrian	Kambrium
+Cambridge	Cambridge
+Cambridge	Cambridge (Massachusetts)
+Cambridge (disambiguation)	Cambridge (Telplänov)
+Cameroon	Kamerunän
+Canada	Kanadän
+Canada	Klad:Kanadän
+Canberra	Canberra
+Cannes	Cannes
+Canterbury	Canterbury
+Cape Town	Cape Town
+Cape Verde	Kabovärduäns
+Capital	Cifazif
+Caracas	Caracas
+Carolus Linnaeus	Carolus Linnaeus
+Carson City	Carson City (Nevada)
+Central African Republic	Zänoda-Frikop
+Ceres	Ceres
+Chad	Tjadän
+Charleroi	Charleroi
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charleston	Charleston (West Virginia)
+Charlie Chaplin	Charlie Chaplin
+Charlotte	Charlotte (North Carolina)
+Chartres	Chartres
+Chelyabinsk	Tsyelyabinsk
+Chemistry	Kiemav
+Chemnitz	Chemnitz
+Chennai	Chennai
+Chess	Cög
+Chess	Klad:Cög
+Cheyenne	Cheyenne (Wyoming)
+Chicago	Chicago
+Chile	Cilän
+Christchurch	Christchurch (Nula-Seleäns)
+Christopher Columbus	Cristoforo Colombo
+Cleveland	Cleveland (Ohio)
+Cologne	Köln
+Colombia	Kolumbän
+Colorado	Colorado
+Columbia	Columbia (South Carolina)
+Columbia	Columbia
+Columbus	Columbus (Ohio)
+Columbus	Columbus
+Comoros	Komoruäns
+Comoros	Klad:Komoruäns
+Concord	Concord (New Hampshire)
+Congo	Congo
+Connecticut	Connecticut
+Copenhagen	København
+Cork (city)	Corcaigh
+Cornwall	Cornwall
+Costa Rica	Kostarikän
+Coventry	Coventry
+Cremona	Cremona
+Croatia	Kroasän
+Cuba	Kubeän
+Cuba	Klad:Kubeän
+Cumbria	Cumbria
+Curitiba	Curitiba
+Cusco	Cusco
+Cyprus	Sipreän
+Czech Republic	Tsyegän
+D	D
+Dallas	Dallas (Texas)
+Damascus	Dimäjk
+Dante Alighieri	Dante Alighieri
+Darwin	Darwin
+Daugavpils	Daugavpils
+Day	Del
+December	Dekul
+December 31	Dekul 31
+December 8	Dekul 8
+Delaware	Delaware
+Delft	Delft
+Delhi	Delhi
+Delta	Delta
+Democratic Republic of the Congo	Kongoän (Repüblikän Demokratik)
+Denmark	Danän
+Denmark	Klad:Danän
+Denver	Denver (Colorado)
+Des Moines	Des Moines
+Detroit	Detroit
+Devon	Devon
+Dhaka	Dhaka
+Dijon	Dijon
+Disambiguation	Klad:Telplänovapads
+Dmitri Mendeleev	Dmitriy Mendeleyev
+Dnipropetrovsk	Dnipropetrovsk
+Doha	Däuha
+Dominica	Dominikeän
+Dominican Republic	Repüblikän Dominiganik
+Donatello	Donatello
+Donetsk	Donetsk
+Dortmund	Dortmund
+Dover	Dover (Delaware)
+Dover	Dover
+Dresden	Dresden
+Dublin	Baile Átha Cliath
+Dubrovnik	Dubrovnik
+Dunkirk	Dunkerque
+Durban	Durban
+E	E
+East Sussex	East Sussex
+East Timor	Lofüda-Timoreän
+Economics	Konömav
+Ecuador	Lekvadorän
+Edgar Allan Poe	Edgar Allan Poe
+Edinburgh	Edinburgh
+Edmonton	Edmonton
+Education	Dugäl
+Egypt	Lägüptän
+Eindhoven	Eindhoven
+El Paso	El Paso (Texas)
+El Salvador	Salvadorän
+Elvis Presley	Elvis Presley
+Engineering	Kaenalav
+England	Linglän
+England	Klad:Linglän
+English language	Linglänapük
+Enrico Fermi	Enrico Fermi
+Equatorial Guinea	Kveatora-Gineyän
+Ernest Rutherford	Ernest Rutherford
+Esperanto	Sperantapük
+Espoo	Espoo
+Essen	Essen (Nordrhein-Westfalen)
+Essex	Essex
+Ethiopia	Lätiopän
+Euclid	Eukleides
+Europe	Klad:Yurop
+F	F
+February	Febul
+February 12	Febul 12
+February 14	Febul 14
+February 2	Febul 2
+February 22	Febul 22
+February 29	Febul 29
+Federico Fellini	Federico Fellini
+Ferdinand Magellan	Fernão de Magalhães
+Ferrara	Ferrara
+Fiji	Ficiyuäns
+Finland	Suomiyän
+Flag	Stän
+Florence	Firenze
+Florida	Florida
+Fort Worth	Fort Worth
+France	Fransän
+Francisco Goya	Francisco Goya
+Frank Lloyd Wright	Frank Lloyd Wright
+Frankfort	Frankfort (Kentucky)
+Frankfurt	Frankfurt len Main
+Frankfurt (Oder)	Frankfurt len Oder
+Frankfurt (disambiguation)	Frankfurt
+Franz Kafka	Franz Kafka
+Franz Schubert	Franz Schubert
+Fredericton	Fredericton
+Free State	Libatatiän
+Freetown	Freetown
+Fresno	Fresno (California)
+Friesland	Friesland
+Fyodor Dostoevsky	Fyodor Mihailovic Dostoyevskiy
+G	G
+Gabon	Gabunän
+Galileo Galilei	Galileo Galilei
+Galway	Gaillimh
+Gap	Gap (Fransän)
+Gardening	Gadam
+Genealogy	Genealog
+Geneva	Genève
+Genoa	Genova
+Geoffrey Chaucer	Geoffrey Chaucer
+Geography	Taledav
+Geology	Talav
+Geometry	Klad:Geomet
+Georg Philipp Telemann	Georg Philipp Telemann
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+George Frideric Handel	Georg Friedrich Händel
+George Lucas	George Lucas
+Georgetown	Georgetown (Gvayän)
+Georgia (U.S. state)	Georgia
+Georgia (country)	Grusiyän
+Georgia (country)	Klad:Grusiyän
+Germany	Deutän
+Germany	Klad:Deutän
+Ghana	Ganän
+Ghent	Ghent
+Giacomo Puccini	Giacomo Puccini
+Giordano Bruno	Giordano Bruno
+Giuseppe Verdi	Giuseppe Verdi
+Glasgow	Glasgow
+Gloucestershire	Gloucestershire
+Gomel	Homyel
+Gothenburg	Göteborg
+Graz	Graz
+Greece	Grikän
+Grenoble	Grenoble
+Guatemala	Klad:Gvatemän
+Guatemala City	Ciudad de Guatemala
+Guayaquil	Guayaquil
+Guinea	Gineyän
+Guinea-Bissau	Gineyän-Bisauän
+Gustav Mahler	Gustav Mahler
+H	H
+Haiti	Haitiyän
+Haiti	Klad:Haitiyän
+Halle	Halle (Sachsen-Anhalt)
+Hamburg	Hamburg
+Hampshire	Hampshire
+Hanover	Hannover
+Hans Christian Andersen	Hans Christian Andersen
+Harrisburg	Harrisburg (Pennsylvania)
+Hartford	Hartford (Connecticut)
+Havana	La Habana
+Hawaii	Hawaii
+Hector Berlioz	Hector Berlioz
+Helena	Helena (Montana)
+Helsinki	Helsinki
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henry Ford	Henry Ford
+Hermann Hesse	Hermann Hesse
+Hertfordshire	Hertfordshire
+Hesse	Hesän
+History	Jenav
+Holiday	Zeladel
+Hollywood	Hollywood
+Homer	Homeros
+Honduras	Hondurän
+Honiara	Honiara
+Honolulu	Honolulu
+Horace	Horatius
+Houston	Houston
+Hungary	Macarän
+Hyderabad	Haidarabad
+I	I
+I. M. Pei	Ieoh Ming Pei
+Iceland	Lisladeän
+Idaho	Idaho
+Ido	Ido
+Igor Stravinsky	Igor Stravinskiy
+Illinois	Illinois
+Immanuel Kant	Immanuel Kant
+India	Lindän
+Indiana	Indiana
+Indianapolis	Indianapolis
+Indonesia	Lindäna-Seänuäns
+Ingmar Bergman	Ingmar Bergman
+Innsbruck	Innsbruck
+Interlingua	Interlingua
+Internet	Vüresod
+Iowa	Iowa
+Iran	Lirän
+Iran	Klad:Lirän
+Iraq	Lirakän
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isle of Wight	Isle of Wight
+Israel	Yisraelän
+Istanbul	İstanbul
+Italy	Litaliyän
+Italy	Klad:Litaliyän
+J	J
+Jackson	Jackson (Mississippi)
+Jackson Pollock	Jackson Pollock
+Jacksonville	Jacksonville (Florida)
+Jacques Cartier	Jacques Cartier
+Jamaica	Camekeän
+James Cook	James Cook
+James Joyce	James Joyce
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+January	Yanul
+January 1	Yanul 1
+January 19	Yanul 19
+January 20	Yanul 20
+January 6	Yanul 6
+Japan	Yapän
+Jean Sibelius	Jean Sibelius
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jeddah	Ciddä
+Jefferson City	Jefferson City (Missouri)
+Jena	Jena
+Jerusalem	Hierusalem
+Jimi Hendrix	Jimi Hendrix
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Gutenberg	Johannes Gutenberg
+Johannes Kepler	Johannes Kepler
+Johannesburg	Johannesburg
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John von Neumann	John von Neumann
+Jordan	Yordän
+Jorge Luis Borges	Jorge Luis Borges
+July	Yulul
+July 1	Yulul 1
+July 4	Yulul 4
+June	Yunul
+June 14	Yunul 14
+June 21	Yunul 21
+June 23	Yunul 23
+June 24	Yunul 24
+June 29	Yunul 29
+June 3	Yunul 3
+Juneau	Juneau (Alaska)
+K	K
+Kampala	Kampala
+Kansas	Kansas
+Kansas City	Kansas City (Missouri)
+Kappa	Kappa
+Kathmandu	Kathmandau
+Katowice	Katowice
+Kaunas	Kaunas
+Kazakhstan	Kazakistän
+Kazakhstan	Klad:Kazakistän
+Kazan	Kazan
+Kent	Kent
+Kentucky	Kentucky
+Kenya	Kenyän
+Kharkiv	Kharkiv
+Kiev	Küyiv
+Kingston	Kingston (Camekeän)
+Kiribati	Kiribasuäns
+Kolkata	Kolkata
+Kuala Lumpur	Kuala Lumpur
+Kuwait	Kovätän
+Kuwait City	Kuväyt
+KwaZulu-Natal	Suluvän-Nataliän
+Kyrgyzstan	Kirgistän
+Kyrgyzstan	Klad:Kirgistän
+L	L
+L'Aquila	L'Aquila
+La Paz	La Paz
+La Plata	La Plata
+La Spezia	La Spezia
+Lancashire	Lancashire
+Language	Pük
+Lansing	Lansing (Michigan)
+Laos	Laosän
+Las Vegas	Las Vegas
+Latvia	Latviyän
+Laurasia	Laurasiyop
+Lausanne	Lausanne
+Le Corbusier	Le Corbusier
+Le Havre	Le Havre
+Lebanon	Lubnän
+Leeds	Leeds
+Leicester	Leicester
+Leiden	Leiden
+Leipzig	Leipzig
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Lesotho	Sutuvän
+Liberia	Liberän
+Libreville	Libreville
+Libya	Lübän
+Libya	Klad:Lübän
+Liechtenstein	Ligtänstän
+Light-year	Litayel
+Lille	Lille (Fransän)
+Lilongwe	Lilongwe
+Lima	Lima
+Limerick	Luimneach
+Lincoln	Lincoln (Nebraska)
+Lincolnshire	Lincolnshire
+Linz	Linz
+Lisbon	Lisboa
+Lithuania	Lietuvän
+Liverpool	Liverpool
+Ljubljana	Ljubljana
+Loire	Loire
+London	London
+Long Beach	Long Beach (California)
+Lord's Prayer	Pleked Söla
+Los Angeles	Los Angeles
+Lot (department)	Lot
+Louis Pasteur	Louis Pasteur
+Louisiana	Louisiana
+Louisville	Louisville (Kentucky)
+Lower Saxony	Dona-Saxän
+Lublin	Lublin
+Lucerne	Luzern
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Lund	Lund
+Luxembourg	Luxämburgän
+Lyon	Lyon
+M	M
+Macedonia	Macedonia
+Madagascar	Malagaseän
+Madison	Madison (Wisconsin)
+Madrid	Madrid
+Maine	Maine
+Malaysia	Malaysiyän
+Maldives	Maldivuäns
+Mali	Maliyän
+Malta	Malteän
+Manama	Mänamä
+Manchester	Manchester
+Manila	Maynila
+Manitoba	Manitoba
+Mannheim	Mannheim
+Mantua	Mantova
+Marcel Proust	Marcel Proust
+March	Mäzul
+March 17	Mäzul 17
+March 19	Mäzul 19
+March 2	Mäzul 2
+March 25	Mäzul 25
+Marco Polo	Marco Polo
+Marie Curie	Marie Curie
+Marilyn Monroe	Marilyn Monroe
+Mark Twain	Mark Twain
+Marlene Dietrich	Marlene Dietrich
+Marseille	Marseille
+Marshall Islands	Marjaluäns
+Marx Brothers	Blodef: Marx
+Maryland	Maryland
+Massachusetts	Massachusetts
+Mata Hari	Mata Hari
+Mathematics	Matemat
+Mauritania	Mauritän
+Mauritius	Maurizeän
+Max Planck	Max Planck
+May	Mayul
+May 1	Mayul 1
+May 24	Mayul 24
+Mayenne	Mayenne
+Measurement	Mafam
+Mecca	Mäkkä
+Medicine	Sanav
+Medina	Mädinä
+Memphis	Memphis (Tennessee)
+Mesopotamia	Mesopotän
+Metaphysics	Metafüd
+Mexico	Mäxikän
+Mexico City	Ciudad de México
+Miami	Miami
+Michael Faraday	Michael Faraday
+Michelangelo	Michelangelo
+Michigan	Michigan
+Miguel de Cervantes	Miguel de Cervantes
+Milan	Milano
+Milwaukee	Milwaukee
+Minneapolis	Minneapolis (Minnesota)
+Minnesota	Minnesota
+Minsk	Minsk
+Missouri	Missouri
+Moldova	Moldovän
+Monaco	Monakän
+Mongolia	Mongolän
+Monrovia	Monrovia
+Mons	Mons
+Montana	Montana
+Montenegro	Montenegrän
+Monterrey	Monterrey
+Montevideo	Montevideo
+Montgomery	Montgomery
+Montpelier	Montpelier (Vermont)
+Montreal	Montréal
+Moon	Mun
+Morocco	Marokän
+Moscow	Moskva
+Mozambique	Mosambikän
+Mumbai	Mumbai
+Munich	München
+Muscat	Mäskat
+Music	Klad:Musig
+N	N
+NATO	NBNL
+Nairobi	Nairobi
+Namibia	Namibiyän
+Namibia	Klad:Namibiyän
+Nancy	Nancy
+Nantes	Nantes
+Naples	Napoli
+Nashville	Nashville (Tennessee)
+Natural science	Natanolavs
+Nauru	Naureän
+Nebraska	Nebraska
+Neil Armstrong	Neil Armstrong
+Nepal	Nepalän
+Netherlands	Nedän
+Nevada	Nevada
+New Brunswick	New Brunswick
+New Hampshire	New Hampshire
+New Jersey	New Jersey
+New Mexico	New Mexico
+New Orleans	New Orleans
+New York	New York (tat)
+New York (disambiguation)	New York
+New York City	New York (zif)
+New Zealand	Nula-Seleäns
+Newark	Newark (New Jersey)
+Newfoundland and Labrador	Newfoundland e Labrador
+Nicaragua	Nikaraguvän
+Nicaragua	Klad:Nikaraguvän
+Nice	Nice
+Nicolaus Copernicus	Nicolaus Copernicus
+Niels Henrik Abel	Niels Henrik Abel
+Nigeria	Nigeriyän
+Nijmegen	Nijmegen
+Nikola Tesla	Nikola Tesla
+Norfolk	Norfolk
+North Carolina	North Carolina
+North Dakota	North Dakota
+North Korea	Nolüda-Koreyän
+North Yorkshire	North Yorkshire
+Northwest Territories	Northwest Territories
+Norway	Norgän
+Norway	Klad:Norgän
+Nouakchott	Nävakjut
+Nova Scotia	Nova Scotia
+November	Novul
+November 1	Novul 1
+November 11	Novul 11
+November 2	Novul 2
+November 5	Novul 5
+Novial	Novial
+Novosibirsk	Novosibirsk
+Nunavut	Nunavut
+Nuremberg	Nürnberg
+O	O
+Oakland	Oakland
+Oceanography	Seanakaedav
+October	Tobul
+October 12	Tobul 12
+October 24	Tobul 24
+Odessa	Odesa
+Ohio	Ohio
+Oklahoma	Oklahoma
+Oklahoma City	Oklahoma City
+Olympia	Olympia
+Omaha	Omaha
+Oman	Lomän
+Omsk	Omsk
+Ontario	Ontario
+Opera	Lop
+Ordovician	Lordovig
+Oregon	Oregon
+Orlando	Orlando (Florida)
+Oscar Wilde	Oscar Wilde
+Oslo	Oslo
+Ostrava	Ostrava
+Ottawa	Ottawa
+Ovid	Ovidius
+Oxford	Oxford
+P	P
+Pablo Picasso	Pablo Picasso
+Padua	Padova
+Pakistan	Pakistän
+Pakistan	Klad:Pakistän
+Palau	Palauvuäns
+Paleontology	Fösilav
+Paleozoic	Paleozoig
+Palermo	Palermo
+Panama	Panamän
+Papua New Guinea	Papuveän Nula-Gineyän
+Paraguay	Paragvän
+Paris	Paris
+Pennsylvania	Pennsylvania
+Perm	Perm
+Perth	Perth
+Peru	Peruvän
+Peru	Klad:Peruvän
+Peter Paul Rubens	Peter Paul Rubens
+Philadelphia	Philadelphia
+Philippines	Filipuäns
+Philosophy	Filosop
+Phnom Penh	Phnum Pénh
+Phoenix	Phoenix (Arizona)
+Phoenix	Phoenix
+Physics	Füsüd
+Pierre	Pierre
+Pilsen	Plzeň
+Pisa	Pisa
+Pittsburgh	Pittsburgh
+Pleven	Pleven
+Plovdiv	Plovdiv
+Poitiers	Poitiers
+Poland	Polän
+Poland	Klad:Polän
+Politics	Klad:Bolit
+Port Louis	Port Louis
+Port Vila	Port Vila
+Port of Spain	Port of Spain
+Port-au-Prince	Port-au-Prince
+Portland	Portland (Oregon)
+Portland	Portland
+Porto	Porto
+Portsmouth	Portsmouth
+Portugal	Portugän
+Portugal	Klad:Portugän
+Potsdam	Potsdam
+Prague	Praha
+Praia	Praia
+Prince Edward Island	Prince Edward Island
+Providence	Providence
+Proxima Centauri	Proxima Centauri
+Puerto Rico	Puertorikeäns
+Pyongyang	Pyöngyang
+Pythagoras	Püthagoras
+Q	Q
+Qatar	Katarän
+Quebec	Québec
+Quebec City	Québec (zif)
+Quito	Quito
+R	R
+Raleigh	Raleigh (North Carolina)
+Raphael	Raffaello
+Ravenna	Ravenna
+Recife	Recife
+Reims	Reims
+Religion	Rel
+Rembrandt	Rembrandt
+Republic	Repüblikän
+Republic of China	Tayvän
+Republic of Ireland	Lireyän
+Republic of the Congo	Kongoän (Repüblikän)
+Rhode Island	Rhode Island
+Richard Wagner	Richard Wagner
+Richmond	Richmond (Virginia)
+Riga	Rīga
+Rio de Janeiro	Rio de Janeiro
+Rio de Janeiro (state)	Rio de Janeiro (tat)
+Riyadh	Riyad
+Roald Amundsen	Roald Amundsen
+Robert Schumann	Robert Schumann
+Romania	Rumän
+Rome	Roma
+Roosevelt	Roosevelt
+Rostock	Rostock
+Rotterdam	Rotterdam
+Rudolf Hess	Rudolf Hesse
+Russia	Rusän
+Rwanda	Ruandän
+S	S
+Sacramento	Sacramento (California)
+Saint Kitts and Nevis	Saluda-Kiteän e Neviseän
+Saint Paul	St. Paul (Minnesota)
+Saint Petersburg	Sankt-Peterburg
+Saint Vincent and the Grenadines	Saluda-Vinsenteän e Grenadineäns
+Salem	Salem (Oregon)
+Salerno	Salerno
+Salt Lake City	Salt Lake City
+Salvador	Salvador
+Salzburg	Salzburg (Lösterän)
+Samara	Samara
+Samoa	Samovuäns
+Samoa	Klad:Samovuäns
+Samuel Beckett	Samuel Beckett
+San Antonio	San Antonio (Texas)
+San Diego	San Diego
+San Francisco	San Francisco
+San Jose	San Jose (California)
+San Juan	San Juan (Puertorikeäns)
+San Marino	Sanmarinän
+San Marino	San Marino
+San Salvador	San Salvador
+Sandro Botticelli	Sandro Botticelli
+Santa Fe	Santa Fe (New Mexico)
+Santiago	Santiago de Chile
+Santiago de Cuba	Santiago de Cuba
+Santos (Săo Paulo)	Santos
+Sappho	Sappho
+Sarah Bernhardt	Sarah Bernhardt
+Sarajevo	Sarajevo
+Saratov	Saratov
+Saskatchewan	Saskatchewan
+Saudi Arabia	Sauda-Larabän
+Saxony	Saxän
+Scotland	Skotän
+Seattle	Seattle
+Senegal	Senegalän
+Seoul	Söul
+September	Setul
+September 11	Setul 11
+September 17	Setul 17
+September 29	Setul 29
+Serbia	Särbän
+Serbia	Klad:Särbän
+Set theory	Konletateor
+Seville	Sevilla
+Seychelles	Säceluäns
+Seychelles	Klad:Säceluäns
+Sheffield	Sheffield
+Sierra Leone	Sieraleonän
+Silurian	Silur
+Simone de Beauvoir	Simone de Beauvoir
+Singapore	Singapurän
+Skopje	Skopje
+Slovakia	Slovakiyän
+Slovakia	Klad:Slovakiyän
+Slovenia	Sloveniyän
+Slovenia	Klad:Sloveniyän
+Sofia	Sofiya
+Solomon Islands	Salomonuäns
+Somalia	Somalän
+Somerset	Somerset
+Somme	Somme
+Sophocles	Sophokles
+South Africa	Klad:Sulüda-Frikopän
+South Carolina	South Carolina
+South Dakota	South Dakota
+South Korea	Sulüda-Koreyän
+Spain	Spanyän
+Split	Split
+Springfield	Springfield (Illinois)
+Sri Lanka	Sri-Lankän
+St. Louis	Saint Louis (Missouri)
+Stanley Kubrick	Stanley Kubrick
+Stavanger	Stavanger
+Steven Spielberg	Steven Spielberg
+Stockholm	Stockholm
+Strasbourg	Strasbourg
+Stuttgart	Stuttgart
+Sudan	Sudän
+Suffix	Poyümot
+Sun	Sol
+Suriname	Surinän
+Surrey	Surrey
+Swaziland	Svasiyän
+Sweden	Svedän
+Sweden	Klad:Svedän
+Switzerland	Jveizän
+Sydney	Sydney
+Syracuse	Siracusa
+Syria	Süriyän
+T	T
+Tajikistan	Tacikistän
+Tallahassee	Tallahassee
+Tallinn	Tallinn
+Tampa	Tampa (Florida)
+Tampere	Tampere
+Tanzania	Tansanän
+Tarn	Tarn
+Tartu	Tartu
+Tashkent	Toshkent
+Tbilisi	Tbilisi
+Technology	Klad:Kaenav
+Tehran	Tehran
+Tennessee	Tennessee
+Texas	Texas
+Thailand	Tayän
+The Gambia	Gambiyän
+Thessaloniki	Thessaloniki
+Thomas Aquinas	Thomas Aquinas
+Thomas Edison	Thomas Edison
+Thuringia	Türinän
+Time	Klad:Timastabäds
+Tirana	Tirana
+Tivoli	Tivoli (Litaliyän)
+Tocantins (state)	Tocantins
+Togo	Togoän
+Tonga	Tonguäns
+Topeka	Topeka (Kansas)
+Toronto	Toronto
+Toulon	Toulon
+Toulouse	Toulouse
+Tours	Tours
+Trento	Trento
+Trenton	Trenton (New Jersey)
+Trier	Trier
+Trinidad	Trinidad (Bolivän)
+Trinidad and Tobago	Trinidadeän e Tobageäns
+Tripoli	Tarabulus
+Trondheim	Trondheim
+Troy	Ilio
+Tucson	Tucson
+Tunisia	Tunisän
+Turin	Torino
+Turkey	Türkän
+Turkmenistan	Turkmenän
+Tuvalu	Tuvaluäns
+Tycho Brahe	Tycho Brahe
+Tyrannosaurus	Tyrannosaurus
+U	U
+Ufa	Ufa
+Uganda	Lugandayän
+Ukraine	Lukrayän
+Ukraine	Klad:Lukrayän
+United Arab Emirates	Lemiräns Pebalöl Larabänik
+United Kingdom	Regän Pebalöl
+United States	Lamerikän
+Uppsala	Uppsala
+Uruguay	Luruguyän
+Utah	Utah
+Utrecht (city)	Utrecht (zif)
+Utrecht (province)	Utrecht (provin)
+Uzbekistan	Lusbekän
+V	V
+Vaduz	Vaduz
+Valence	Valence
+Valencia	Valencia (Spanyän)
+Valletta	Valletta
+Vancouver	Vancouver
+Vanuatu	Vanuatuäns
+Vanuatu	Klad:Vanuatuäns
+Var (department)	Var
+Varna	Varna
+Vatican City	Vatikän
+Venezuela	Venesolän
+Venezuela	Klad:Venesolän
+Venice	Venezia
+Vermont	Vermont
+Verona	Verona
+Versailles	Versailles
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Victoria	Victoria (Säceluäns)
+Victoria	Victoria (British Columbia)
+Vienna	Wien
+Vienne	Vienne
+Vientiane	Viengtjan
+Vietnam	Vietnamän
+Vietnam	Klad:Vietnamän
+Vilnius	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Virgil	Publius Vergilius Maro
+Virginia	Virginia
+Vladimir Nabokov	Vladimir Nabokov
+Volgograd	Volgograd
+Voltaire	Voltaire
+Walt Disney	Walt Disney
+Warsaw	Warszawa
+Washington	Washington
+Washington	Washington (tat)
+Water	Vat
+Weimar	Weimar
+Wellington	Wellington (Nula-Seleäns)
+West Sussex	West Sussex
+West Virginia	West Virginia
+Western Sahara	Vesüda-Saharän
+Wiesbaden	Wiesbaden
+William Butler Yeats	William Butler Yeats
+William Shakespeare	William Shakespeare
+William Wordsworth	William Wordsworth
+Windhoek	Windhoek
+Winnipeg	Winnipeg
+Wisconsin	Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Worcestershire	Worcestershire
+World	Vol
+Wyoming	Wyoming
+X	X
+Y	Y
+Yemen	Yämän
+Yerevan	Yerevan
+York	York
+Yukon	Yukon
+Yuri Gagarin	Yuriy Gagarin
+Z	Z
+Zagreb	Zagreb
+Zambia	Zambiyän
+Zaragoza	Zaragoza
+Zimbabwe	Zimbabiyän
+Zoology	Nimav

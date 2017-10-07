@@ -1,0 +1,9 @@
+﻿English	Italian
+and	e
+because	perché
+for	perché
+if	se
+or	o
+than	che
+until	fino a
+whenever	ogni qual volta

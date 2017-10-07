@@ -1,0 +1,42 @@
+﻿English	Maltese
+above	'il fuq
+again	darb' oħra
+almost	kważi
+approximately	xi, bejn wieħed u ieħor
+as	daqs
+before	'il quddiem
+before	qabel
+between	bejn
+by	minn ħdejn
+directly	dritt
+down	'l isfel
+early	qmieni
+enough	biżżejjed
+even	anki
+first	l-ewwel
+forward	'l quddiem, 'il quddiem
+here	hawn
+here	hawn
+however	ma dan kollu
+immediately	mil-ewwel
+in	'il ġewwa
+inside	ġewwa
+late	tard
+later	wara
+little	ftit
+merely	biss
+not	mhux
+now	issa
+slowly	bil-mod
+so	daqshekk, wisq
+solely	kompletament, biss
+still	għadu
+then	mbagħad
+there	hemm
+today	illum
+together	flimkien
+tomorrow	għada
+up	'il fuq
+very	ħafna, veru
+well	tajjeb
+why	ghaliex

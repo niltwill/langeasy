@@ -1,0 +1,46 @@
+Norwegian	﻿English
+ovenfor	above
+atter	again
+nesten	almost
+alt	already
+støtt	always
+omkring	approximately
+som	as
+før	before
+bak	behind
+imellom	between
+hinsides	beyond
+forbi	by
+enten	either
+nok	enough
+nettopp	exactly
+for det første	first
+ikke desto mindre	however
+med en gang	immediately
+inn	in
+innenfor	inside
+lite	little
+kun	merely
+aldri	never
+ikke	not
+tydeligvis	obviously
+ofte	often
+engang	once
+særlig	particularly
+kanskje	possibly
+sannsynligvis	probably
+virkelig	really
+nylig	recently
+så	so
+alene	solely
+snart	soon
+ennå	still
+den slags	such
+sikkert	surely
+så	then
+der	there
+derfor	therefore
+i dag	today
+i morgen	tomorrow
+også	too
+opp	up

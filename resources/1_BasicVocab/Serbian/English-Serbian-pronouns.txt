@@ -1,0 +1,3 @@
+﻿English	Serbian
+what	šta
+who	ko

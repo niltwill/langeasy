@@ -1,0 +1,273 @@
+﻿English	Spanish
+be	ser
+begin	comenzar, empezar
+break	partir, quebrar
+buy	adquirir, comprar
+close	cerrar, tapar
+come	llegar, venir
+cut	cortar
+dance	bailar, saltar
+do	ejercer
+draw	dibujar, trazar
+drink	beber, tomar
+eat	comer
+fall	caer, derrumbarse
+feel	palpar
+find	encontrar, recuperar
+fire	disparar
+fly	volar
+follow	seguir, continuar
+forget	olvidar, ignorar
+get	conseguir, obtener
+give	dar
+have	tener
+hear	oír
+help	ayudar, asistir
+hope	esperar
+jump	saltar, brincar
+kiss	besar
+know	conocer, saber
+laugh	reír
+learn	aprender
+lie	yacer
+lie	mentir
+like	simpatizar, considerar
+listen	escuchar, sentir
+look	contemplar, admirar
+lose	perder
+love	amar, querer
+make	meter
+meet	encontrar
+move	desplazar, mover
+need	necesitar, precisar
+offer	ofrecer
+open	abrir
+pay	abonar, pagar
+play	jugar, tocar
+pull	arrastrar, estirar
+push	apretar, empujar
+put	poner
+read	leer
+remember	recordar, avisar
+run	correr
+say	decir, manifestar
+sell	vender
+sing	cantar
+sit	sentar
+smile	sonreír
+swim	nadar
+take	coger, tomar
+talk	decir, hablar
+understand	coger, comprender
+use	emplear, usar
+wait	esperar
+write	escribir
+accept	aceptar, querer
+accuse	acusar
+achieve	alcanzar, lograr
+act	actuar, hacer
+add	agregar, añadir
+add	sumar
+admit	admitir, reconocer
+affect	afectar, conmover
+agree	coincidir, consentir
+allow	dejar, permitir
+announce	anunciar, proclamar
+argue	debatir, discutir
+arrive	llegar, arribar
+ask	preguntar, solicitar
+attack	asaltar, atacar
+avoid	evitar, excusar
+be	durar, existir
+bear	llevar, traer
+beat	vencer
+become	convertirse
+behave	funcionar
+believe	considerar, creer
+benefit	beneficiar
+bite	morder
+bring	acarrear, llevar
+build	construir, edificar
+burn	arder, incendiar
+call	llamar, telefonear
+care	importar, concernirse
+carry	cargar, transportar
+catch	cazar
+cause	causar, hacer
+change	alterar, cambiar
+choose	coger, escoger
+classify	clasificar, separar
+clean	limpiar, pulir
+compare	comparar
+connect	conectar, acoplar
+contain	contener, incluir
+continue	continuar, avanzar
+control	controlar
+cook	preparar, cocer
+copy	copiar, recrear
+cough	toser
+crush	aplastar
+crush	aplastar, machacar
+cry	llorar
+decide	decidir, determinar
+deliver	entregar, librar
+describe	describir, explicar
+design	diseñar
+desire	desear, querer
+develop	desarrollar
+die	expirar, fallecer
+discover	descubrir
+discuss	discutir
+dislike	desagradar, caer mal
+divide	dividir, partir
+doubt	dudar
+drive	conducir, manejar
+embrace	comprender, cubrir
+encourage	animar, estimular
+end	acabar, cesar
+enhance	acrecentar
+enjoy	disfrutar, gustar
+enter	entrar, penetrar
+establish	constituir, instaurar
+estimate	calcular, echar
+exceed	superar
+exist	existir, haber
+expect	aguardar, contar
+explain	explicar, contar
+express	expresar, indicar
+fight	luchar, pelear
+fill	llenar, abarrotar
+find	descubrir, detectar
+find	out averiguar, determinar
+finish	completar
+flush	igualar
+forgive	perdonar, excusar
+free	liberar, eximir
+give	up desistir
+grow	crecer, progresar
+happen	ocurrir, pasar
+hate	detestar, odiar
+hide	esconder, ocultar
+hold	aguantar, sostener
+identify	identificar
+imply	implicar, suponer
+include	incluir
+increase	aumentar, incrementar
+injure	herir, torturar
+introduce	introducir
+introduce	presentar
+join	acoplar, reunir
+keep	conservar, mantener
+kick	patada
+kill	matar
+land	aterrizar
+last	durar
+lead	conducir, llevar
+leave	abandonar, dejar
+let	dejar, consentir
+lift	alzar, elevar
+limit	limitar
+load	cargar
+lock	cerrar
+look	parecer
+lose	perder
+manage	manejar, tratar
+marry	casarse
+match	corresponder
+mean	representar, significar
+mean	pensar, fraguar
+measure	medir
+mention	aludir, citar
+miss	perder
+miss	fallar
+name	llamar
+operate	controlar, operar
+order	encargar
+own	poseer, tener
+pass	on ceder, dar
+peel	pelar, mondar
+plan	planificar
+please	agradar, complacer
+plow	arar, binar
+poison	envenenar
+polish	abrillantar
+prepare	disponer, preparar
+press	apretar, presionar
+prevent	estorbar, impedir
+print	imprimir, moldear
+process	procesar, tratar
+profit	beneficiarse
+protest	protestar, reclamar
+prove	mostrar
+publish	publicar, sacar
+raise	criar, asistir
+rate	clasificar
+reach	alcanzar, ganar
+receive	recibir
+record	grabar, registrar
+reduce	cortar, recortar
+reflect	reflejar
+refuse	rechazar, declinar
+remove	quitar, sacar
+render	devolver, entregar
+replace	reemplazar
+reply	responder
+report	informar, relatar
+represent	corresponder, representar
+request	pedir, solicitar
+respect	honrar, venerar
+rest	reposar
+reveal	declarar, manifestar
+risk	arriesgar, aventurar
+round	off redondear
+rule	gobernar, regir
+save	ahorrar
+save	salvar, sacar
+see	ver
+see	considerar, ver
+send	echar, enviar
+serve	ejercer
+sew	coser
+share	compartir
+shout	gritar, llamar
+show	exhibir, mostrar
+smash	aplastar
+smell	oler
+smell	oler
+smell	oler, olfatear
+smoke	fumar
+spend	pasar
+stand	alzar, levantar
+stay	permanecer, mantener
+steal	afanar, quitar
+stop	detener
+study	estudiar
+suffer	soportar, sufrir
+suggest	proponer, sugerir
+supply	facilitar, proporcionar
+support	apoyar, respaldar
+suppose	suponer
+surprise	sorprender
+taste	probar
+teach	enseñar, instruir
+test	ensayar, examinar
+thank	agradecer
+think	discurrir, pensar
+throw	lanzar, echar
+title	autorizar, titular
+trade	comerciar
+train	enseñar
+travel	ir
+treat	cuidar, tratar
+trick	embaucar
+try	intentar, pretender
+turn	girar, rotar
+visit	ver, visitar
+walk	andar, caminar
+warm	calentar
+wash	lavar
+watch	ver
+wear	llevar, vestir
+weigh	pesar
+win	ganar, triunfar
+wish	desear

@@ -1,0 +1,8 @@
+﻿English	Slovak
+and	a
+because	pretože
+for	pretože
+if	ak
+or	alebo
+than	ako
+until	až do

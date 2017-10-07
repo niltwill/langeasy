@@ -1,0 +1,117 @@
+Sanskrit	English
+अल्जीरिया	Algeria ; People's Democratic Republic of Algeria
+अंगोला	Angola ; Republic of Angola
+अर्जन्टीना	Argentina ; Argentine Republic
+आर्मीनिया	Armenia
+असमिया	Assamese ; Assamese
+अजर्बैजान	Azerbaijan ; Republic of Azerbaijan
+बहरैन	Bahrain
+बाङगला	Bengali ; Bengali
+बोलिविया	Bolivia ; Republic of Bolivia
+बोत्सवाना	Botswana ; Republic of Botswana
+ब्रूनै	Brunei ; Negara Brunei Darussalam
+बुल्गारिया	Bulgaria ; Republic of Bulgaria
+बुरुंडी	Burundi ; Republic of Burundi
+केमेरून	Cameroon ; Republic of Cameroon
+केनडा	Canada
+चिले	Chile ; Republic of Chile
+एक्वाडोर	Ecuador ; Republic of Ecuador
+एल-साल्वाडोर	El Salvador ; Republic of El Salvador
+एरिट्रिया	Eritrea
+ईथ्योपिया	Ethiopia ; Federal Democratic Republic of Ethiopia
+फ्रांस	France
+गाबोन	Gabon ; Gabonese Republic
+हेटी	Haiti ; Republic of Haiti
+हांडूरस	Honduras ; Republic of Honduras
+हंगरी	Hungary ; Republic of Hungary
+आइसलैंड	Iceland ; Republic of Iceland
+इन्दोनेशिया	Indonesia ; Republic of Indonesia
+जमैका	Jamaica
+कजाकस्थान	Kazakhstan ; Republic of Kazakhstan
+किरिबाटी	Kiribati ; Republic of Kiribati
+लायबीरिया	Liberia ; Republic of Liberia
+लिबिया	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+मडगास्कर	Madagascar ; Republic of Madagascar
+मलावी	Malawi ; Republic of Malaŵi
+मलयाळम्‌	Malayalam ; Malayalam
+मलयेशिया	Malaysia
+माली	Mali ; Republic of Mali
+मोल्दोवा	Moldova
+मोराको	Morocco ; Kingdom of Morocco
+मोजम्बीक	Mozambique
+बम्बई	Mumbai ; Bombay
+म्यन्मार	Myanmar
+नमीबिया	Namibia
+निकारगुवा	Nicaragua
+नार्वे	Norway ; Kingdom of Norway
+ओक्‍लाहोमा	Oklahoma
+पानामा	Panama
+चीन	People's Republic of China ; China
+पुर्तगाल	Portugal
+समोआ	Samoa
+संस्कृतम्	Sanskrit ; Sanskrit
+स्लोवाकिया	Slovakia
+श्रीलङ्का	Sri Lanka
+टंजानिया	Tanzania
+टोगो	Togo
+जाम्बिया	Zambia ; Republic of Zambia
+अंगीकरणं	acceptance ; credence
+अर्जनम्	acquisition
+प्राग्दत्तमूल्यं	advance
+घटिका	alarm clock
+रुग्णवाहनं	ambulance
+पिपीलिका	ant
+नृवंशसास्त्री	anthropologist
+आगति	arrival
+फेनाश्मन	arsenic
+अनीश्वरवादिन्	atheist
+निर्वाचनं	ballot
+ऋणशोधनासमर्थ्य	bankruptcy
+भूमिगृहं	basement
+नाभि	belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus
+राजधानी	capital
+अध्याय	chapter
+मेघ	cloud
+जालं	cobweb
+भ्रष्टाचारः	corruption
+गौ	cow
+प्रत्यर्थिन्	defendant ; accused
+राजनयिक	diplomat
+अनुमानं	estimate
+अपवाद	exception
+वाचाल	explicit
+सुगमता	facility
+स्वतंत्रता	freedom ; liberty
+हंसी	goose
+अज्ञानिन्	illiterate
+स्वातंत्र्य	independence
+तन्द्रिका	lethargy ; sluggishness ; languor
+दुग्ध	milk
+वरकं	nappy
+नासिका	nostril
+वेधशाला	observatory
+अप्रचलित	obsolete
+अफेनं	opium
+परिष्यूतम्	parachute
+याचिका	petition
+स्थानं	place ; location
+हल	plough
+स्वामित्वं	possession
+राजपुत्र	prince
+परिसंपति	property ; asset
+माणिक्यं	ruby
+रजतं	silver
+प्लीहन्	spleen
+समर संबंधिन्	strategic
+गंधिकः	sulphur
+आतङ्कवाद	terrorism
+सहस्र	thousand
+परंपरीण	traditional
+ग्रस्	usurp
+रोगद्रव्यनिवेशनं	vaccination
+अपातकन्दुक	volleyball
+जल	water
+जालं	web ; spider web
+साक्षिन्	witness
+क्रीड़ानौका	yacht
+राशिचक्रं	zodiac

@@ -1,0 +1,8 @@
+﻿English	French
+and	et
+because	parce que
+for	car
+if	si
+or	ou
+than	que
+until	jusque

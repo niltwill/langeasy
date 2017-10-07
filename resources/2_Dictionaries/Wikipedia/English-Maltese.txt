@@ -1,0 +1,359 @@
+English	Maltese
+1750s	Category:1750s
+1760s	Category:1760s
+1770s	Category:1770s
+1790s	Category:1790s
+1820s	Category:1820s
+1830s	Category:1830s
+1840s	Category:1840s
+1860s	Category:1860s
+1870s	Category:1870s
+1880s	Category:1880s
+1890s	Category:1890s
+1900s	Category:1900s
+1920s	Category:1920s
+1930s	Category:1930s
+1940s	Category:1940s
+1950s	Category:1950s
+1960s	Category:1960s
+1970s	Category:1970s
+1980s	Category:1980s
+1990s	Category:1990s
+60	60
+AIDS	AIDS
+Aardvark	Orikteropu
+Achilles	Akille
+Acts of the Apostles	Atti ta' l-Appostli
+Adolf Hitler	Adolf Hitler
+Aegean Sea	Baħar Eġew
+Aeneas	Enea
+Aeneid	Enejide
+Affix	Affiss
+Africa	Afrika
+Agriculture	Category:Agrikoltura
+Alan Turing	Alan Turing
+Albania	Albanija
+Alcoholism	Alkoħoliżmu
+Allah	Alla
+Alphabet	Alfabett
+American Civil War	Gwerra Ċivili Amerikana
+Andorra	Andorra
+Andrea Palladio	Andrea Palladio
+Anno Domini	WK
+Anthropology	Antropoloġija
+Anthropology	Category:Antropoloġija
+Apollo	Apollo (divinità)
+April	April
+Archaeology	Category:Arkeoloġija
+Archimedes	Arkimede
+Architecture	Category:Arkitettura
+Aristotle	Aristotile
+Asia	Asja
+Asteroid	Asterojde
+Astrology	Astroloġija
+Astronomy	Astronomija
+Astronomy	Category:Astronomija
+Atheism	Category:Ateiżmu
+Atlantic Ocean	Oċean Atlantiku
+August	Awissu
+Augustine of Hippo	Santu Wistin
+Australia	Awstralja
+Austria	Awstrija
+Basketball	Baskitbol
+Belfast	Belfast
+Belgium	Belġju
+Belgrade	Belgrad
+Berlin	Berlin
+Bible	Bibbja
+Bill Gates	Bill Gates
+Biology	Bijoloġija
+Biology	Category:Bioloġija
+Bit	Bit
+Black	Iswed
+Black Death	Pesta s-Sewda
+Black hole	Toqba sewda
+Blog	Blogg
+Blood	Demm
+Blue	Ikħal
+Boat	Dgħajsa
+Bologna	Bolonja
+Bolzano	Bolzano
+Botany	Category:Botanika
+Brandy	Brendi
+Bratislava	Bratislava
+British Empire	Imperu Brittanniku
+Buddhism	Buddiżmu
+Buddhism	Category:Buddiżmu
+Bulgaria	Bulgarija
+Calligraphy	Kalligrafija
+Capital	Belt Kapitali
+Caravaggio	Michelangelo Merisi da Caravaggio
+Carbon	Karbonju
+Carthage	Kartaġiniżi
+Casablanca	Casablanca
+Cat	Qattus
+Celestial sphere	Sfera ċelesti
+Chemical element	Element Kimiku
+Chemistry	Kimika
+Chemistry	Category:Kimika
+Chemistry	Portal:Kimika
+Child	Tifel
+Cholera	Kolera
+Christianity	Kristjaneżmu
+Christianity	Category:Kristjaneżmu
+Christopher Columbus	Kristofru Kolombu
+Classical mechanics	Mekkanika Klassika
+Claudio Monteverdi	Claudio Monteverdi
+Comet	Kometa
+Composer	Kompożitur
+Computer	Kompjuter
+Constellation	Kostellazzjoni
+Cork (city)	Cork
+Croatia	Kroazja
+Culture	Kultura
+Curitiba	Curitiba
+Cyprus	Ċipru
+Czech Republic	Repubblika Ċeka
+Dante Alighieri	Dante Alighieri
+Death	Mewt
+December	Diċembru
+Dementia	Demenzja
+Denmark	Danimarka
+Differential equation	Ekwazzjonijiet Differenzjali
+Disambiguation	Category:Diżambigwazzjoni
+Domain (biology)	Dominju
+Dublin	Dublin
+Dugong	Dugongu
+Earth	Art
+Eclipse	Eklissi
+Ecology	Category:Ekoloġija
+Electricity	Category:Elettriċità
+Electronics	Category:Elettronika
+Encyclopedia	Enċiklopedija
+Entomology	Entomoloġija
+Entomology	Category:Entomoloġija
+Euclid	Ewklide
+Euro	Ewro
+Europe	Ewropa
+Europe	Category:Ewropa
+European Union	Unjoni Ewropea
+Family (biology)	Familja
+February	Frar
+Fencing	Fencing
+Film	Ċinema
+Finance	Category:Finanza
+Finland	Finlandja
+Football (soccer)	Futbol
+Football (soccer)	Category:Futbol
+Fourier series	Serje ta’ Fourier
+France	Franza
+Francis of Assisi	San Franġisk t'Assisi
+Francisco Goya	Francisco Goya
+Franz Schubert	Franz Schubert
+French Revolution	Rivoluzzjoni Franċiża
+Function (mathematics)	Funzjonijiet (Matematika)
+Galileo Galilei	Galileo Galilei
+Gallbladder	Marrara
+Galway	Galway
+Gastrointestinal tract	Sistema diġestiva
+Genus	Ġeneru
+Geography	Ġeografija
+Geography	Category:Ġeografija
+Geometry	Ġometrija
+Germany	Ġermanja
+Germany	Category:Ġermanja
+Giuseppe Verdi	Giuseppe Verdi
+Glass	Ħġieġ
+Goalkeeper	Gowler
+Greece	Greċja
+Greek mythology	Mitoloġija Griega
+Green	Aħdar
+Greenpeace	Greenpeace
+Guy de Maupassant	Guy de Maupassant
+H. G. Wells	H. G. Wells
+Hanseatic League	Lega Anżejatika
+Heart	Qalb
+Hector	Ettore
+Hector Berlioz	Hector Berlioz
+Hera	Era (mitoloġija)
+Hero	Eroj
+Hinduism	Category:Induiżmu
+History	Storja
+History	Category:Storja
+Homer	Omeru
+Horse	Żiemel
+Hydrogen	Idroġenu
+Iceland	Iżlanda
+Ideology	Ideoloġija
+Ido	Lingwa Ido
+Iliad	Ilijade
+Immanuel Kant	Immanuel Kant
+India	Indja
+Indian Ocean	Oċean Indjan
+Integral	L-Integral
+Iron	Ħadid
+Islam	Islam
+Islam	Category:Islam
+Italy	Italja
+Italy	Category:Italja
+January	Jannar
+January 1	1 ta' Jannar
+Jesus	Ġesù Kristu
+Johann Sebastian Bach	Johann Sebastian Bach
+Judaism	Category:Ġudaiżmu
+July	Lulju
+June	Ġunju
+June 23	23 ta' Ġunju
+Juno (mythology)	Ġunone
+Jupiter	Ġove (pjaneta)
+Jupiter (mythology)	Ġove (mitoloġija)
+Karl Marx	Karl Marx
+Katowice	Katowice
+Kidney	Kilwa
+Kuiper belt	Faxxa ta' Kuiper
+Lagomorpha	Lagomorfu
+Leonardo da Vinci	Leonardo da Vinci
+Light-year	Sena dawl
+Limestone	Ġebla tal-ġir
+Linguistics	Lingwistika
+Linguistics	Category:Lingwistika
+Lion	Iljun
+Literature	Letteratura
+Literature	Category:Letteratura
+Lithuania	Litwanja
+Ludwig van Beethoven	Ludwig van Beethoven
+Lung	Pulmun
+Malaria	Malarja
+Malta	Malta
+Malta	Category:Malta
+Maltese language	Lingwa Maltija
+Mammal	Mammiferu
+Manatee	Lamantin
+March	Marzu
+March 19	19 ta' Marzu
+Marie Curie	Marie Curie
+Mars (disambiguation)	Marte
+Mathematics	Matematika
+Mathematics	Category:Matematika
+Mathematics	Portal:Matematika
+May	Mejju
+May 1	1 ta' Mejju
+Mecca	Mekka
+Medicine	Mediċina
+Mediterranean Sea	Baħar Mediterran
+Mercury	Merkurju
+Mercury (planet)	Merkurju (pjaneta)
+Metre	Metru
+Miguel de Cervantes	Miguel de Cervantes
+Mikhail Gorbachev	Mikhail Gorbachev
+Moldova	Moldova
+Moon	Qamar
+Morocco	Marokk
+Mosul	Mosul
+Mount Etna	Etna
+Mount Vesuvius	Vesuvju
+Muhammad	Muħammed
+Museum	Mużew
+Music	Mużika
+Music	Category:Mużika
+Natural science	Xjenza Naturali
+Neolithic	Neolitiku
+Netherlands	Olanda
+New Zealand	New Zealand
+Nitrogen	Ażotu
+Northern Ireland	Irlanda ta' Fuq
+November	Novembru
+Novial	Novial
+Oceania	Oċeanja
+October	Ottubru
+Odyssey	Odissea
+Order (biology)	Ordni
+Organic chemistry	Kimika Organika
+Oscar Wilde	Oscar Wilde
+Ottoman Empire	Imperu Ottoman
+Pacific Ocean	Oċean Paċifiku
+Pangaea	Pangea
+Paul the Apostle	Pawlu minn Tarsu
+Periodic table	Tavla Perjodika
+Philosophy	Category:Filosofija
+Phoenicia	Feniċi
+Phonology	Fonoloġija
+Physics	Category:Fiżika
+Planet	Pjaneta
+Plovdiv	Plovdiv
+Poland	Polonja
+Poland	Category:Polonja
+Politics	Category:Politika
+Polo	Pulu
+Portugal	Portugall
+Prague	Praga
+Psychology	Psikoloġija
+Psychology	Category:Psikoloġija
+Rabat	Rabat (Marokk)
+Red	Aħmar
+Red Sea	Baħar l-Aħmar
+Religion	Reliġjon
+Religion	Category:Reliġjon
+Republic of Ireland	Repubblika ta' l-Irlanda
+Roman Empire	Imperu Ruman
+Romania	Rumanija
+Russia	Russja
+Sahara	Saħara
+Sail	Qlugħ
+Satanism	Sataniżmu
+Saturn	Saturnu (pjaneta)
+Saturn (disambiguation)	Saturnu
+Science	Xjenza
+Science	Category:Xjenza
+Sculpture	Skultura
+Sculpture	Category:Skultura
+September	Settembru
+Serbia	Serbja
+Serbia and Montenegro	Serbja u Montenegro
+Sirenia	Baqra tal-baħar
+Slovakia	Category:Slovakkja
+Slovenia	Slovenja
+Snake	Serp
+Sociology	Soċjoloġija
+Sociology	Category:Soċjoloġija
+Solar System	Sistema Solari
+Solar System	Category:Sistema solari
+Solar eclipse	Eklissi solari
+South Korea	Korea t'Isfel
+Spain	Spanja
+Species	Speċi
+Spider	Brimba
+Sport	Sport
+State	Pajjiżi
+Sun	Xemx
+Supernova	Supernova
+Sweden	Żvezja
+Taxon	Takson
+Television	Category:Televiżjoni
+Thanksgiving	Jum ir-Ringrazzjament
+Thanksgiving (Canada)	Jum ir-Ringrazzjament
+Thanksgiving (United States)	Jum ir-Ringrazzjament
+Thanksgiving (disambiguation)	Jum ir-Ringrazzjament
+Theatre	Teatru
+Theatre	Category:Teatru
+Theology	Category:Teoloġija
+Titan (mythology)	Titan
+Transportation	Category:Trasport
+Trojan War	Gwerra ta' Trojja
+Troy	Trojja
+Tuberculosis	Tuberkulożi
+United Kingdom	Renju Unit
+United Nations	Ġnus Magħquda
+United States	Stati Uniti
+United States	Category:Stati Uniti
+Valletta	Valletta
+Venus	Venere (pjaneta)
+Venus (mythology)	Venere (mitoloġija)
+Virgil	Virġilju
+Warsaw	Varsavja
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Woman	Mara
+World War II	Tieni Gwerra Dinjija
+Yellow	Isfar
+Zagreb	Zagreb
+Zeus	Żews

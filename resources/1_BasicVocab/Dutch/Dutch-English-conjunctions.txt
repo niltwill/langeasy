@@ -1,0 +1,8 @@
+Dutch	﻿English
+en	and
+omdat	because
+want	for
+als	if
+of	or
+dan	than
+tot	until

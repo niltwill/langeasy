@@ -1,0 +1,214 @@
+Spanish	﻿English
+diferente, distinto	another
+malo	bad
+básico, basilar	basic
+bello, bonito	beautiful
+mejor	best
+mejor	better
+gran, grande	big
+limpio, nítido	clean
+frío, helado	cold
+acertado, correcto	correct
+oscuro, sombrío	dark
+profundo, ahuecado	deep
+difícil, duro	difficult
+sucio, asqueroso	dirty
+rápido, veloz	fast
+bueno	good
+grande, vasto	great
+bárbaro, brutal	great
+contento, feliz	happy
+sano	healthy
+pesado	heavy
+alto	high
+acalorado	hot
+importante	important
+izquierdo	left
+ligero, ágil	light
+insignificante, pequeño	little
+extenso, largo	long
+cercano	near
+nuevo	new
+agradable, bonito	nice
+abierto	open
+existente, real	real
+derecho	right
+agudo, afilado	sharp
+parecido, semejante	similar
+lento	slow
+blando, muelle	soft
+fuerte	strong
+débil	weak
+incorrecto, erróneo	wrong
+ácido	acid
+acerca de	after
+hace	ago
+todo	all
+cualquier	any
+automático	automatic
+disponible	available
+amargo	bitter
+gris, aburridor	boring
+ambos	both
+brillante, vivo	bright
+roto	broken
+central	central
+seguro, cierto	certain
+barato	cheap
+químico	chemical
+claro	clear
+cerrado	closed
+de color, en colores	color
+común	common
+común, mutuo	common
+completo	complete
+consciente	conscious
+atroz, bárbaro	cruel
+vigente	current
+peligroso	dangerous
+delicado	delicate
+lamentable, penoso	deplorable
+diferente	different
+diferente, distinto	different
+diferente, distinto	different
+abajo, debajo	down
+seco	dry
+cada	each
+temprano	early
+fácil	easy
+económico	economic
+económico	economic
+eléctrico	electric
+igual	equal
+par	even
+nivelado	even
+cada	every
+excelente, magnífico	excellent
+artificial, falso	fake
+falso	false
+distante, lejano	far
+gordo	fat
+gordo	fat
+pocos	few
+final, último	final
+fiscal, financiero	financial
+consistente, firme	firm
+primero	first
+fijo	fixed
+liso, llano	flat
+siguiente, próximo	following
+extranjero, extraño	foreign
+antiguo, anterior	former
+delicado, frágil	fragile
+gratuito	free
+habitual	frequent
+fresco, helado	fresh
+delantero	front
+lleno	full
+absoluto, completo	full
+más	further
+futuro	future
+general	general
+justo, recto	good
+industrial	industrial
+interesante	interesting
+internacional	international
+último	last
+tardío, pausado	late
+legal, oficial	legal
+dietético	light
+líquido	liquid
+local	local
+fuerte	loud
+bajo	low
+afortunado	lucky
+primordial, principal	main
+principal	major
+muchos	many
+metálico	metal
+militar	military
+diminuto	minute
+moderno	modern
+más	more
+mucho	much
+estrecho	narrow
+nacional	national
+natural	natural
+necesario	necessary
+inmediato	next
+ningún	no
+común, corriente	normal
+desconectado, desenchufado	off
+en funcionamiento, en operación	on
+contrario	opposite
+original	original
+otro	other
+propio	own
+paralelo	parallel
+particular	particular
+pasado	past
+individual, particular	personal
+físico	physical
+político	political
+miserable, pobre	poor
+popular	popular
+posible, realizable	possible
+actual, presente	present
+anterior	previous
+personal, particular	private
+posible, probable	probable
+profesional	professional
+público	public
+silencioso	quiet
+listo	ready
+reciente	recent
+regular	regular
+responsable	responsible
+rígido, tieso	rigid
+áspero	rough
+redondo	round
+seguro	safe
+mismo	same
+segundo	second
+oculto, secreto	secret
+separado	separate
+serio	serious
+determinado	set
+varios	several
+corto, breve	short
+silencioso, callado	silent
+plata, argento	silver
+elemental, simple	simple
+solo	single
+menudo, pequeño	small
+liso, llano	smooth
+social	social
+sólido	solid
+claro, disperso	sparse
+especial, excepcional	special
+específico	specific
+cuadrado, cuadro	square
+quisquilloso	squeamish
+estándar	standard
+glutinoso	sticky
+recto, derecho	straight
+insólito	strange
+elegante	stylish
+repentino	sudden
+dulce, pastel	sweet
+alto	tall
+espeso	thick
+delgado	thin
+apretado	tight
+verdadero	true
+desagradable, horrible	ugly
+bajo, inferior	under
+excepcional, extraordinario	unusual
+empleado	used
+útil, aprovechable	useful
+común, habitual	usual
+corriente	usual
+diverso, vario	various
+cálido	warm
+húmedo	wet
+entero	whole

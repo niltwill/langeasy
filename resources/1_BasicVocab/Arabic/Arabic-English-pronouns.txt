@@ -1,0 +1,35 @@
+Arabic	﻿English
+أحد	anyone
+أي شيء	anything
+الكل	everybody
+كل شيء	everything
+هو	he
+ـها	her
+نفسها	herself
+ـه	him
+نفسه	himself
+ـه	his
+هو/هي - لغير العاقل	it
+نفسه/نفسها - لغير العاقل	itself
+ـي	me
+ـي	my
+ـنا	our
+هي	she
+ذلك / تلك	that
+ـهم	their
+ـهم	them
+هؤلاء / هذه	these
+هم	they
+هذا / هذه	this
+أولئك / هذه	those
+ـنا	us
+نحن	we
+ماذا / ما	what
+متى	when
+أي	which
+أي	which
+مَن	who
+الذي	whom
+لمن	whose
+أنتَ / أنتِ	you
+ـك	your

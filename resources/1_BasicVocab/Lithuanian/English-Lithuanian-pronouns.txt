@@ -1,0 +1,21 @@
+﻿English	Lithuanian
+everything	viskas
+he	jis
+herself	savęs
+itself	save
+my	mano
+our	mūsų
+she	ji
+that	tas
+they	jie (m), jos (f)
+us	mus
+we	mes
+what	tai
+which	kuris
+which	kuris
+who	kas
+whom	ką
+whose	kieno
+you	jūs
+your	tavo
+yourself	save

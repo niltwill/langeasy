@@ -1,0 +1,80 @@
+Dutch	﻿English
+om	about
+boven	above
+opnieuw, nogmaals	again
+bijna	almost
+langs	along
+al, reeds	already
+altijd	always
+ongeveer	approximately
+als	as
+0	before
+voor	before
+na	behind
+0	between
+overheen	beyond
+langs	by
+0	clearly
+direct, recht	directly
+0	down
+vroeg	early
+beide	either
+genoeg	enough
+zelfs	even
+precies	exactly
+ten slotte	finally
+eerste	first
+vooruit	forward
+0	generally
+hier	here
+hier	here
+echter	however
+onmiddellijk	immediately
+binnen	in
+0	indeed
+binnenin	inside
+in	instead
+laat	late
+0	later
+minst	least
+beetje	little
+slechts, alleen maar	merely
+meer	more
+nooit	never
+niet	not
+nu, momenteel	now
+duidelijk	obviously
+vaak, dikwijls	often
+eens	once
+buiten	outside
+bijzonder	particularly
+alstublieft (polite), alsjeblief (casual)	please
+misschien, wellicht	possibly
+0	preferably
+waarschijnlijk	probably
+schielijk, snel	quickly
+echt	really
+waarlijk	really
+onlangs	recently
+traag, traagjes	slowly
+zozeer	so
+alleen	solely
+soms, op een keer	sometimes
+binnenkort	soon
+nog	still
+zodanig	such
+plotseling	suddenly
+zeker	surely
+toen	then
+daar, daarheen	there
+daarom	therefore
+0	through
+vandaag	today
+samen	together
+morgen	tomorrow
+vannacht, vanavond	tonight
+ook, eveneens	too
+opwaarts	up
+gewoonlijk	usually
+heel, zeer	very
+goed, uitstekend	well

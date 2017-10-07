@@ -1,0 +1,8 @@
+﻿English	Swedish
+and	och
+because	emedan
+for	för
+if	om
+or	eller
+than	än
+until	till

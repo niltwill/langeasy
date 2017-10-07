@@ -1,0 +1,248 @@
+﻿English	Slovak
+be	byť
+begin	začať
+break	zlomiť
+buy	kúpiť
+close	zavrieť
+come	prísť
+cut	strihať
+dance	tancovať
+do	uplatniť
+draw	maľovať
+drink	piť
+eat	jesť
+fall	byť
+feel	hmatať
+find	nájsť
+fire	vypáliť
+fly	letieť
+follow	nasledovať
+forget	zabudnúť
+get	dostať
+give	dať
+have	mať
+hear	počuť
+help	pomáhať
+hope	dúfať
+jump	skákať
+kiss	pobozkať
+laugh	smiať sa
+learn	učiť sa
+lie	ležať
+lie	klamať
+like	mať rád
+listen	vypočuť
+look	pozrieť
+lose	stratiť
+love	milovať
+make	urobiť
+meet	stretnúť sa
+move	pohybovať
+need	potrebovať
+offer	ponúknuť
+open	otvoriť
+pay	splatiť
+play	hrať sa
+pull	vytiahnuť
+push	strčiť
+put	položiť
+read	čítať
+remember	spomenúť si
+run	bežať
+say	povedať
+sell	predať
+sing	spievať
+sit	sedieť
+smile	usmievať sa
+take	vziať
+talk	hovoriť
+understand	pochopiť
+use	využiť
+wait	počkať
+write	písať
+accept	prijať
+accuse	obžalovať
+achieve	dosiahnuť
+act	jednať
+add	sčítať
+admit	uznať
+affect	pôsobiť
+agree	súhlasiť
+allow	dovoliť
+announce	oznámiť
+argue	hádať sa
+arrive	prísť
+ask	spýtať sa
+attack	napadnúť
+avoid	vyhnúť sa
+be	žiť
+bear	niesť
+beat	prekonať
+become	stať sa
+behave	počínať si
+believe	veriť
+benefit	prospech
+bring	priniesť
+build	stavať
+burn	vyhorieť
+call	zavolať
+carry	prenášať
+catch	zachytiť
+cause	dosiahnuť
+change	upraviť
+choose	vybrať si
+classify	považovať
+clean	umyť
+compare	prirovnať
+contain	obsahovať
+continue	pokračovať
+control	riadiť
+cook	variť
+copy	kopírovať
+cough	kašlať
+crush	stlačiť
+cry	plakať
+decide	rozhodnúť
+describe	opísať
+design	navrhnúť
+desire	chcieť
+develop	vyvolať
+die	umrieť
+discover	objaviť
+discuss	diskutovať
+divide	deliť
+doubt	pochybovať
+drive	viesť auto
+embrace	zahrnúť
+encourage	povzbudiť
+end	skončiť
+enhance	zvýšiť
+enjoy	tešiť sa
+enter	vstúpiť
+establish	založiť
+estimate	odhadnúť
+exceed	presahovať
+exist	existovať
+expect	očakávať
+explain	vysvetliť
+fight	zápasiť
+fill	naplniť
+find	zistiť
+finish	skončiť
+flush	vyrovnať
+forgive	odpustiť
+free	oslobodiť
+give	up vzdať sa
+grow	rásť
+happen	stať sa
+hate	nenávidieť
+hide	skrývať
+hold	držať
+identify	identifikovať
+include	zahŕňať
+increase	narastať
+injure	zraniť
+introduce	predstaviť
+join	spojiť
+keep	udržiavať
+kick	kopnúť
+kill	zabiť
+land	pristáť
+last	vydržať
+lead	sprevádzať
+leave	nechať
+let	dovoliť
+lift	zdvihnúť
+limit	obmedziť
+load	nabiť
+lock	zamknúť
+look	vyzerať
+lose	stratiť
+manage	trénovať
+marry	oženiť sa
+match	hodiť sa
+mean	zamýšľať
+measure	odmerať
+mention	zmieniť sa
+miss	zmeškať
+miss	minúť
+name	volať
+order	nariadiť
+own	mať
+pass	on odovzdať
+peel	bieliť
+plan	plánovať
+please	potešiť
+plow	orať
+poison	otráviť
+polish	vyleštiť
+prepare	pripraviť
+press	stlačiť
+prevent	zabrániť
+print	tlačiť
+process	spracovať
+protest	protestovať
+prove	dokázať
+publish	vydať
+raise	vychovať
+rate	hodnotiť
+reach	dosiahnuť
+receive	dostať
+record	nahrať
+reduce	znížiť
+reflect	odrážať
+refuse	odmietnuť
+remove	odstrániť
+render	vrátiť
+replace	vymeniť
+reply	odpovedať
+report	hlásiť
+represent	zastupovať
+request	žiadať
+respect	ctiť
+reveal	prezradiť
+risk	riskovať
+rule	vládnuť
+save	šetriť
+save	zachrániť
+see	vidieť
+see	považovať
+send	poslať
+serve	slúžiť
+sew	prišiť
+shout	kričať
+show	ukázať
+smell	voňať
+smell	zapáchať
+smell	cítiť
+spend	stráviť
+stand	stáť
+stay	zostať
+steal	ukradnúť
+stop	zastaviť
+study	študovať
+suffer	trpieť
+suggest	navrhnúť
+supply	vybaviť
+support	podporiť
+surprise	prekvapiť
+taste	ochutnať
+teach	vyučovať
+test	skúšať
+thank	ďakovať
+throw	vrhnúť
+title	nazvať
+trade	obchodovať
+train	vycvičiť
+travel	ísť
+treat	zaobchádzať
+try	pokúsiť sa
+turn	točiť sa
+visit	navštíviť
+walk	ísť
+wash	umývať
+watch	pozorovať
+wear	nosiť
+weigh	vážiť
+win	dosiahnuť
+wish	priať si

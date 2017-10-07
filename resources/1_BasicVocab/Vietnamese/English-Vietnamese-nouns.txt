@@ -1,0 +1,846 @@
+﻿English	Vietnamese
+black	không sữa
+blue	(màu) xanh (blue or green), xanh lam
+brown	màu nâu
+gray	xám
+green	non
+orange	cam
+pink	màu hồng
+violet	màu tím
+white	trắng
+yellow	màu vàng
+couple	hai người
+eight	tám
+five	số năm
+million	triệu
+nine	chín
+nothing	không có gì
+one	một
+ten	mười
+third	số thứ ba
+thousand	một nghìn
+thousand	con số một nghìn
+three	ba, ba
+two	hai
+arm	cánh tay
+back	cái lưng
+blood	máu
+body	thân người
+bone	bộ xương
+brain	bộ não
+breath	hơi thở
+cell	tế bào
+chin	cằm
+ear	tai
+eye	mắt
+face	mặt
+finger	ngón tay
+forehead	trán
+gene	gen
+hair	tóc
+hair	lông
+hand	bàn tay
+head	cái đầu
+heart	tim
+knee	đầu gối
+leg	chân
+lip	môi
+mouth	miệng
+muscle	cơ bắp
+nail	móng
+neck	cổ
+nerve	dây thần kinh
+nose	mũi
+skin	da
+stomach	dạ dày
+tail	đuôi
+throat	cổ họng
+thumb	ngón tay cái
+tongue	lưỡi
+tooth	răng
+wing	cánh
+ant	con kiến
+bear	con gấu
+bee	con ong
+bird	con chim
+cat	con mèo
+cow	bò cái
+dog	con chó
+elephant	con voi
+fish	cá
+fly	con ruồi
+goat	con dê
+horse	ngựa
+insect	côn trùng
+lion	sư tử
+monkey	con khỉ
+pig	lợn đực thiến
+sheep	con cừu
+snake	con rắn
+afternoon	buổi chiều
+age	chín ngấu
+April	Tháng tư
+August	tháng tám
+autumn	mùa thu
+beginning	sự bắt đầu
+century	thế kỷ
+date	ngày tháng
+day	ngày
+December	Tháng mười hai
+evening	buổi tối
+February	Tháng hai
+Friday	Thứ Sáu
+hour	giờ
+January	Tháng một
+July	Tháng bảy
+June	Tháng sáu
+May	Tháng năm
+midnight	nửa đêm
+minute	phút
+moment	một chốc lát
+Monday	Thứ Hai
+morning	buổi sáng
+night	đêm
+November	Tháng mười một
+now	hiện nay
+October	Tháng mười
+past	quá khứ
+pause	lúc tạm nghỉ
+period	giai đoạn
+Saturday	Thứ Bảy
+season	mùa
+second	giây
+September	Tháng chín
+spring	mùa xuân
+summer	mùa hè
+Sunday	Chủ nhật
+Thursday	Thứ Năm
+Tuesday	Thứ Ba
+Wednesday	Thứ Tư
+week	tuần
+weekend	ngày cuối tuần
+while	một lúc
+winter	mùa đông
+year	năm
+bread	bánh mỳ
+breakfast	bữa sáng
+butter	bơ
+cheese	pho mát
+chocolate	sô cô la
+egg	quả trứng
+food	lương thực
+fruit	quả
+lunch	bữa trưa
+meal	bữa ăn
+meat	thịt
+oil	dầu
+salad	rau trộn dầu giấm
+salt	muối
+sandwich	xăng-duýt
+sauce	nước chấm
+soup	xúp
+sugar	đường
+sweet	tính chất ngọt
+beer	rượu bia
+coffee	cà phê
+drink	đồ uống
+milk	sữa
+milkshake	sữa khuấy
+tea	trà
+water	nước
+wine	rượu
+apple	quả táo
+banana	quả chuối
+cherry	quả anh đào
+lemon	quả chanh
+nut	quả hạch
+orange	quả cam
+peach	cây đào
+pear	quả lê
+pineapple	quả dứa
+plum	quả mận
+raspberry	quả mâm xôi
+strawberry	quả
+bean	đậu
+cabbage	cải bắp
+carrot	củ cà rốt
+cucumber	quả dưa chuột
+garlic	cây tỏi
+olive	quả ô liu
+onion	củ hành
+parsnip	cây củ cải vàng
+radish	cây củ cải
+tomato	cà chua
+baby	trẻ sơ sinh
+birthday	sinh nhật
+boy	con trai
+brother	anh
+daughter	con gái
+death	chết
+family	gia đình
+father	cha
+friend	bạn
+girl	con gái
+grandfather	ông bà
+human	con người
+husband	người chồng
+man	đàn ông
+marriage	kết hôn
+mother	mẹ
+neighbor	người láng giềng
+parent	cha
+person	người
+relationship	mối quan hệ
+sister	chị
+son	con trai
+wedding	đám cưới
+wife	vợ
+woman	người đàn bà đã có chồng
+address	địa chỉ
+brick	gạch
+door	cái cửa
+floor	sàn nhà
+floor	tầng
+garden	vườn
+gate	cổng
+hall	hành lang
+home	nhà
+house	căn nhà
+kitchen	bếp
+roof	mái nhà
+room	phòng
+shower	sự tắm dưới vòi hoa sen
+step	bậc
+toilet	nhà vệ sinh
+wall	bức tường
+well	giếng
+window	cửa sổ
+bed	giường
+carpet	thảm
+chair	ghế
+cupboard	tủ
+curtain	màn cửa
+desk	bàn viết
+furniture	đồ dùng trong nhà
+shelf	giá
+sink	bồn rửa bát
+table	cái bàn
+bag	túi
+cloth	vải
+clothing	quần áo
+coat	áo choàng
+collar	cổ áo
+hat	mũ
+jacket	áo vét
+jewel	đá quý
+ring	cái nhẫn
+shirt	áo sơ mi
+shoe	giày
+skirt	váy
+sock	miếng lót giày
+suitcase	va li
+tie	ca vát
+air	không khí
+animal	động vật
+branch	cành cây
+evolution	sự tiến triển
+farm	trại
+field	đồng ruộng
+fire	ngọn lửa
+flower	hoa
+forest	rừng
+grass	cỏ
+leaf	lá cây
+life	sự sống
+lightning	chớp
+nature	tự nhiên
+plant	thực vật
+root	rễ cây
+sex	giới tính
+sky	trời
+sleep	giấc
+smell	mùi
+smoke	khói
+spring	nguồn gốc
+stem	thân
+stream	dòng
+tree	cây
+weather	thời tiết
+world	Thế giới
+airport	sân bay nhỏ
+bank	ngân hàng
+bridge	cầu
+building	công trình xây dựng
+capital	thủ đô
+castle	lâu đài
+church	nhà thờ
+cinema	rạp chiếu bóng
+city	đô thị
+factory	nhà máy
+flat	căn hộ
+hospital	bệnh viện
+hotel	khách sạn
+library	thư viện
+park	công viên
+prison	nhà tù
+restaurant	nhà hàng
+road	đường giao thông
+school	trường học
+station	trạm
+street	đường phố
+structure	sự xây dựng
+subway	xe điện ngầm
+supermarket	siêu thị
+theater	nhà hát
+town	thị trấn
+university	trường đại học
+accident	tai nạn
+boat	thuyền
+bus	xe buýt
+car	xe ô tô
+express	tàu tốc hành
+flight	sự bay
+journey	quãng đường
+passenger	hành khách
+plane	máy bay
+ship	tàu thủy
+track	thanh ray
+train	xe lửa
+actor	diễn viên
+businessman	nhà doanh nghiệp
+expert	chuyên gia
+general	tướng
+journalist	nhà báo
+judge	quan tòa
+leader	người lãnh đạo
+minister	bộ trưởng
+musician	nhà soạn nhạc
+pilot	phi công
+policeman	nhân viên cảnh sát
+politician	chính trị gia
+president	tổng thống
+professional	chuyên nghiệp
+representative	người đại diện của doanh nghiệp
+sailor	thủy thủ
+scientist	nhà khoa học
+secretary	thư kí
+servant	người hầu
+soldier	người lính
+writer	tác giả
+beach	bãi biển
+direction	hướng
+Earth	Trái Đất
+east	hướng đông
+height	độ cao so với mặt nước biển
+hill	đồi
+island	hòn đảo
+lake	hồ
+land	đất
+map	bản đồ
+Moon	mặt trăng
+north	hướng bắc
+plain	đồng bằng
+river	dòng sông
+sea	biển
+south	miền nam
+star	ngôi sao
+sun	mặt trời
+west	hướng tây
+cloud	mây
+dew	sương
+fog	sương mù
+frost	sự đông giá
+rainbow	cầu vồng
+snow	tuyết
+storm	cơn giông tố
+thunder	sấm
+wind	gió
+acid	a-xít
+chemical	hóa chất
+chemical element	nguyên tố hóa học
+coal	than đá
+dust	bụi
+earth	trái đất
+fat	mỡ
+glass	thuỷ tinh
+glue	keo
+iron	sắt
+leather	da
+liquid	chất lỏng
+matter	chất
+metallic element	kim loại
+oil	dầu mỏ
+poison	chất độc
+powder	bột
+sand	cát
+silk	tơ
+soap	xà bông
+steel	thép
+wood	gỗ
+bag	bao, bao (1)
+basket	cái rổ
+bottle	chai lọ
+box	hộp
+cup	tách
+drawer	ngăn kéo
+envelope	phong bì
+glass	cái cốc
+plate	cái đĩa
+bell	cái chuông
+button	nút
+gun	súng
+hammer	đầu cần
+hook	cái móc
+key	chìa khóa
+lock	khóa cửa
+match	diêm
+nail	cái đinh
+needle	kim khâu
+pump	máy bơm
+rope	dây chão
+scissors	kéo
+spring	lò xo
+stamp	dấu
+whip	roi da
+addition	tính cộng
+angle	góc
+area	diện tích
+circle	hình tròn
+curve	đường cong
+degree	độ
+degree	mức
+distance	khoảng cách
+division	sự phân chia
+edge	đường viền
+element	nguyên tố
+function	chức năng
+limit	ranh giới
+line	đường kẻ
+net	mạng lưới
+percent	tỷ lệ phần trăm
+point	chấm nhỏ
+purpose	mục đích
+result	kết quả
+rule	qui định
+set	tập hợp
+side	mép
+square	hình vuông
+square	bình phương
+surface	mặt
+total	lượng
+ability	khả năng
+act	việc làm
+action	hành động
+activity	sự nhanh nhẹn
+addition	người hoặc vật thêm vào
+attack	sự tấn công
+attempt	sự nỗ lực
+back	đằng sau
+behavior	cách cư xử
+bit	miếng
+blow	cú đánh
+break	sự gián đoạn
+campaign	chiến dịch
+case	vụ kiện
+chance	cơ hội
+change	sự thay đổi
+choice	quyền lựa chọn
+condition	điều kiện
+crack	vết nứt
+cut	cắt
+damage	sự hư hại
+danger	sự nguy hiểm
+decoration	sự trang trí
+destruction	sự tàn phá
+dominance	kiểm soát
+drop	giọt
+effort	sự nỗ lực
+fall	sụp đổ
+feature	đặc điểm
+fight	trận đánh
+front	đằng trước
+hit	cú đánh
+hole	lỗ thủng
+increase	sự phát triển
+internet	internet
+kick	cú đá
+kind	hình thức
+knot	nút
+list	danh sách
+majority	đa số
+matter	chủ đề
+mind	trí tuệ
+operation	quá trình hoạt động
+opposite	điều trái ngược
+outburst	sự nổ ra
+part	một phần
+piece	mẩu
+place	nơi chốn
+position	vị trí
+power	sức mạnh
+practice	thực hành
+project	nhiệm vụ
+property	tính chất
+quality	chất lượng
+quiet	sự trầm lặng
+report	báo cáo
+responsibility	trách nhiệm
+rest	sự nghỉ ngơi
+return	sự trở lại
+rise	sự đi lên
+risk	mối nguy hiểm
+set	bộ
+silence	sự tĩnh lặng
+situation	tình hình
+state	tình trạng
+step	tiếng bước chân
+taste	vị giác
+top	đỉnh cao nhất
+touch	sự chạm
+treatment	sự đối xử
+trick	sự lừa dối
+type	loại
+use	việc dùng
+wear	mòn
+whole	trọn vẹn
+wish	nhu cầu
+art	mỹ thuật
+artist	hoạ sĩ
+band	ban nhạc
+brush	bàn chải
+color	màu sắc
+concert	buổi hòa nhạc
+design	bản thiết kế
+diversity	sự đa dạng
+entertainment	trò tiêu khiển
+hit	việc thành công
+image	quan điểm
+ink	mực viết
+manner	lề thói hay cách làm cái gì
+movie	màng
+museum	bảo tàng
+music	âm nhạc
+note	nốt
+orchestra	dàn nhạc
+paint	sơn
+painting	bức hoạ
+paper	giấy
+pen	cái bút
+pencil	cái bút chì
+picture	ảnh
+poem	bài thơ
+poetry	thi ca
+rhythm	nhịp điệu
+singer	ca sĩ
+song	bài hát
+stage	sân khấu
+style	văn phong
+vogue	thời trang
+account	tài khoản
+advantage	sự thuận lợi
+advertisement	bài quảng cáo
+advice	lời khuyên
+attention	sự chú ý
+authority	quyền lực
+banknote	hối phiếu
+bargain	sự mặc cả
+brand	nhãn mác
+business	công ty
+capital	tiền vốn
+change	tiền lẻ
+cheque	séc
+company	công ty
+competition	những người cạnh tranh
+complaint	lời buộc tội
+contract	bản hợp đồng
+council	hội đồng
+course	bài học
+customer	khách hàng
+demand	nhu cầu
+department	bộ
+difficulty	sự khó khăn
+director	người quản lý
+economy	kinh tế
+environment	môi trường
+experience	kinh nghiệm
+firm	hãng
+form	tờ khai
+group	nhóm
+help	sự trợ giúp
+holiday	thời gian nghỉ
+income	thu nhập
+industry	ngành công nghiệp
+insurance	bảo hiểm
+interest	lợi tức
+invoice	bản kê khai
+job	việc làm
+law	pháp luật
+leave	sự được phép nghỉ
+loss	số tiền bị mất
+management	hướng dẫn
+mark	vật dùng để đánh dấu
+market	chợ
+material	nguyên vật liệu
+mean	trung độ
+meeting	họp
+money	tiền
+occupation	nghề nghiệp
+offer	lời mời
+officer	viên chức
+operation	thao tác, vận hành
+owner	chủ nhân
+payment	việc trả công
+plan	kế hoạch
+price	giá tiền
+problem	vấn đề khó khăn
+profit	lợi nhuận
+property	tài sản
+rate	mức
+rest	người/vật còn lại
+reward	phần thưởng
+right	quyền
+sale	sự bán
+service	sự phục vụ
+share	cổ phần
+shop	cửa hàng
+skill	sự khéo léo
+staff	nhân viên
+support	sự chống đỡ
+table	biểu
+tax	thuế
+team	đội
+trade	thương mại
+value	giá trị
+work	nỗ lực
+worker	thường là công nhân làm việc chân tay
+announcement	thông báo
+answer	câu trả lời
+argument	lý lẽ
+book	sách
+call	cuộc gọi điện thoại
+character	ký tự
+controversy	sự cãi nhau
+cry	lời kêu gọi
+data	dữ liệu
+decision	quyết định
+dictionary	từ điển
+discussion	sự thảo luận
+doubt	sự nghi ngờ
+experience	sự từng trải
+feeling	tình cảm
+humor	biết đùa
+idea	ý nghĩ
+interest	sự chú ý
+interview	cuộc phỏng vấn
+language	ngôn ngữ
+language	tiếng nói của một đất nước
+letter	chữ cái
+letter	thư
+lie	lời nói dối
+look	cách nhìn
+magazine	tạp chí
+mail	thư từ
+memory	trí nhớ
+memory	những kỷ niệm
+mistake	sai lầm
+name	tên
+newspaper	báo
+number	số
+opinion	ý kiến
+page	trang sách
+pronunciation	sự phát âm
+proposal	sự đề xuất
+protest	sự phản đối
+question	câu hỏi
+reason	lý do
+relation	mối quan hệ
+request	lời yêu cầu
+sentence	câu
+speech	ngôn ngữ
+spelling	việc viết chính tả
+standard	tiêu chuẩn
+statement	sự bày tỏ
+subject	chủ đề
+suggestion	sự gợi ý
+voice	giọng nói
+word	từ
+writing	chữ viết
+good day	xin chào buổi ngày
+good luck	chúc may mắn
+hello	xin chào
+how are you	bạn khỏe không, bạn có khỏe không
+many thanks	cảm ơn nhiều, cảm ơn lắm
+no	không
+yes	vâng
+Britain	Vương quốc Liên hiệp Anh và Bắc Ireland
+China	Trung Hoa đại lục
+Czech Republic	Cộng hòa Séc
+France	Pháp
+Germany	Đức
+India	Ấn Độ
+Italy	Ý
+Japan	Nhật Bản
+Spain	Tây Ban Nha
+United States of America	Hoa Kỳ
+camera	quay phim
+camera	máy ảnh
+cellular phone	máy bộ đàm
+clock	đồng hồ
+computer	máy tính
+elevator	thang máy
+engine	máy
+instrument	dụng cụ
+machine	cỗ máy
+oven	lò nướng
+television	vô tuyến
+watch	đồng hồ đeo tay
+class	hạng
+education	giáo dục
+education	sự giáo dục
+grade	hạng
+knowledge	sự hiểu biết
+student	sinh viên
+teacher	giáo viên
+training	khóa huấn luyện
+fear	sự sợ hãi
+hate	sự căm thù
+love	yêu thích
+pleasure	điều thú vị
+shock	tình trạng cực kì yếu đuối
+care	sự trông nom
+cold	cảm lạnh
+cough	sự ho
+disease	bệnh
+doctor	bác sỹ
+health	sức khỏe
+menstruation	chu kỳ kinh nguyệt
+nurse	y tá
+operation	sự hoạt động
+pain	đau
+patient	bệnh nhân
+stitch	mũi khâu
+chain	dây xích
+club	dùi cui
+feather	lông vũ
+flag	cờ
+frame	khung
+handle	quai
+postage	bưu phí
+present	món quà
+sail	cánh buồm
+scroll	cuộn
+seed	hạt
+stick	cái gậy
+stone	đá
+ticket	vé
+wheel	bánh xe
+wire	dây kim loại
+balance	sự cân bằng
+bulk	tầm vóc lớn
+charge	điện tích
+energy	năng lực
+light	ánh sáng
+mass	khối
+measurement	sự đo lường
+mirror	gương
+movement	sự vận động
+pressure	áp lực
+process	quy trình
+size	quy mô
+steam	hơi nước
+strength	lực
+time	thời gian được tính bằng đơn vị năm
+unit	số nguyên nhỏ nhất
+boyfriend	bạn trai
+date	cuộc hẹn
+guest	khách
+honey	người yêu quý
+kiss	nụ hôn
+party	bữa tiệc
+smile	nụ cười
+surprise	sự ngạc nhiên
+visit	sự viếng thăm
+alternative	sự lựa chọn
+biology	sinh vật học
+cause	nguyên nhân
+chemistry	hóa học
+comparison	sự so sánh
+consequence	hậu quả
+control	sự quản lý
+discipline	sự rèn luyện
+discovery	khám phá
+event	sự kiện
+evidence	bằng chứng
+example	mẫu
+fact	sự việc
+issue	vấn đề
+kernel	bản chất
+method	phương pháp
+phase	thời kỳ
+procedure	thủ tục
+production	sản xuất
+program	chương trình
+project	dự án
+range	phạm vi
+research	cuộc nghiên cứu
+research	cuộc điều tra
+science	khoa học
+society	xã hội
+system	hệ thống
+technology	công nghệ
+theory	lý thuyết
+trend	khuynh hướng
+trouble	điều rắc rối
+user	người sử dụng
+alternative	sự lựa chọn
+biology	sinh vật học
+cause	nguyên nhân
+chemistry	hóa học
+comparison	sự so sánh
+consequence	hậu quả
+control	sự quản lý
+discipline	sự rèn luyện
+discovery	khám phá
+event	sự kiện
+evidence	bằng chứng
+example	mẫu
+fact	sự việc
+issue	vấn đề
+kernel	bản chất
+method	phương pháp
+phase	thời kỳ
+procedure	thủ tục
+production	sản xuất
+program	chương trình
+project	dự án
+range	phạm vi
+research	cuộc nghiên cứu
+research	cuộc điều tra
+science	khoa học
+society	xã hội
+system	hệ thống
+technology	công nghệ
+theory	lý thuyết
+trend	khuynh hướng
+trouble	điều rắc rối
+user	người sử dụng
+award	bằng danh dự
+ball	quả bóng
+baseball	bóng chày
+bike	xe đạp
+championship	danh hiệu quán quân
+competitor	đối thủ cạnh tranh
+cup	cúp
+football	môn bóng đá
+game	trò chơi
+goal	bàn thắng
+goal	nơi đến
+gold	vàng
+golf	môn đánh gôn
+jump	bước nhảy
+player	người chơi
+record	kỷ lục
+silver	bạc
+tennis	quần vợt
+throw	sự ném
+win	sự chiến thắng

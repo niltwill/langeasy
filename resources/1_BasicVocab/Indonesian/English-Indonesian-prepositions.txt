@@ -1,0 +1,14 @@
+﻿English	Indonesian
+against	bertentangan
+among	di tengah
+at	kepada
+at	kepada
+during	selama
+for	kepada
+into	ke dalam
+of	milik
+since	sejak
+to	ke, sampai, hingga, kepada
+with	dengan
+with	dengan
+without	tanpa

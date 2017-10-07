@@ -1,0 +1,2047 @@
+English	Croatian
+AIDS	Sindrom stečene imunodeficijencije (m)
+Abidjan	Abidžan (m); Abidjan (m)
+Abkhaz	abhazijski
+Abkhazia	Abhazija (f)
+Abu Dhabi	Abu Dhabi (m)
+Achilles	Ahil (m); Ahilej (m)
+Achilles tendon	Ahilova tetiva (f)
+Adriatic Sea	Jadransko more (n)
+Aegean Sea	Egejsko more
+Afghanistan	Afganistan (m)
+Africa	Afrika (f)
+Afrikaans	afrikaans (m); afrikanski jezik
+Alaska	Aljaska (f)
+Albania	Albanija (f)
+Albanian	albanski
+Alexander	Aleksandar
+Algeria	Alžir (m)
+Algiers	Alžir
+Alps	Alpe (f)
+American	američki
+American Samoa	Američka Samoa
+American bison	američki bizon
+Amharic	amharski
+Amsterdam	Amsterdam
+Amur	Amur (m)
+Andorra	Andora (f)
+Andrew	Andrija
+Angkor Wat	Angkor Wat
+Angola	Angola (f)
+Antarctica	Antarktika (f)
+Antigua and Barbuda	Antigva i Barbuda
+April	travanj (m); april (m)
+Arab	Arapin (m); Arapkinja (f)
+Arab Republic of Egypt	Arapska Republika Egipat
+Arabic	arapski (m)
+Arctic Ocean	Arktički ocean (m)
+Ares	Ares (m)
+Argonaut	Argonauti
+Arkhangelsk	Arhangelsk
+Armenia	Armenija (f)
+Armenian	armenski
+Asclepius	Asklepije
+Asia	Azija (f)
+Athens	Atena (f)
+Atlantic Ocean	Atlantski ocean (m)
+August	kolovoz (m)
+Australia	Australija (f)
+Australian	Australac (m); Australka (f); Australijanac (m); Australijanka (f)
+Austria	Austrija (f)
+Aymara	Aymara; ajmarski jezik
+Azerbaijan	Azerbajdžan
+Azeri	azerski jezik (m); azerbejdžanski jezik (m)
+Baghdad	Bagdad (m)
+Bahamas	Bahami
+Bahrain	Bahrein
+Baku	Baku
+Balearic Islands	Baleari
+Bambara	bambara
+Barbados	Barbados (m)
+Barents Sea	Barentsovo more
+Bashkir	baškirski
+Basque	Bask (m); Baskijka (f)
+Beirut	Bejrut
+Belarus	Bjelorusija
+Belarusian	beloruski; bjeloruski jezik (m)
+Belgium	Belgija (f)
+Belize	Belize (m)
+Benin	Benin (m)
+Berlin	Berlin
+Bermuda	Bermudi
+Big Bang	Veliki prasak (m)
+Bitola	Bitolj
+Black Death	doba kuge
+Black Sea	Crno more (n)
+Bolivia	Bolivija (f)
+Bosnia and Herzegovina	Bosna i Hercegovina (f)
+Bosphorus	Bospor (m)
+Botswana	Bocvana (f)
+Brazil	Brazil (m)
+Breton	Bretonski
+British Columbia	Britanska Kolumbija (f)
+British Virgin Islands	Britanski Djevičanski otoci
+Brunei	Brunej (m)
+Brussels	Bruxelles
+Bucharest	Bukurešt (m)
+Budapest	Budimpešta (f)
+Buddha	Buda (m)
+Buddhism	budizam (m)
+Bulgaria	Bugarska (f)
+Bulgarian	bugarin (m); bugarka (f)
+Burkina Faso	Burkina Faso (f)
+Burma	Burma (f)
+California	Kalifornija (f)
+Cameroon	Kamerun (m)
+Canadian	Kanađanin (m); Kanađanka (f)
+Cape Verde	Zelenortska Republika (f)
+Caribbean Sea	Karipsko more
+Carthage	Kartaga (f)
+Caspian Sea	Kaspijsko more
+Catalan	katalonski
+Caucasus	Kavkaz (m)
+Central Asia	Srednja Azija; Središnja Azija; Centralna Azija
+Central Europe	Srednja Europa (f)
+Chile	Čile (m)
+China	Kina (f)
+Chinese	kinezi
+Christadelphian	kristadelfijanac (m)
+Christian	kršćanin (m); kršćanka (f)
+Christianity	kršćanstvo (n)
+Christmas tree	božićno drvce
+Cinderella	Pepeljuga (f)
+Cleopatra	Kleopatra
+Comoros	Komori (m)
+Congo	Demokratska Republika Kongo (f); Kongo-Kinshasa
+Constantinople	Konstantinopol (m)
+Copenhagen	Kopenhagen
+Costa Rica	Kostarika (f)
+Crimea	Krim (m)
+Crimean Tatar	krimskotatarski
+Cuba	Kuba (f)
+Cyprus	Cipar
+Czech	Čeh (m); Čehinja (f)
+Czech Republic	Češka Republika (f)
+Czechia	Češka (f); Republika Češka (f)
+Czechoslovakia	Čehoslovačka (f)
+Damascus	Damask (m)
+Dane	Danac (m); Dankinja (f)
+Danish	danski
+Danube	Dunav (m)
+David	Kralj David
+Dead Sea	Mrtvo more (n)
+December	prosinac (m)
+Denmark	Danska (f)
+Diaspora	dijaspora
+Djibouti	Džibuti (m)
+Dominica	Dominika (f)
+Dominican Republic	Dominikanska Republika (f)
+Donald Duck	Paško Patak
+Dutch	Nizozemac (m); Nizozemka (f)
+East Timor	Istočni Timor (m)
+Easter	Uskrs, Vazam
+Easter Island	Uskršnji otoci
+Eastern Europe	Istočna Europa (f)
+Egypt	Egipat (m)
+El Salvador	Salvador (m)
+England	Engleska (f)
+English	engleski (m)
+English Channel	Engleski kanal
+Equatorial Guinea	Ekvatorska Gvineja (f)
+Eritrea	Eritreja (f)
+Estonia	Estonija
+Estonian	estonski (m)
+Ethiopia	Etiopija (f)
+Eurasia	Eurazija (f); Euroazija (f)
+Europe	Europa (f)
+European	europski
+European bison	europski bizon
+Eve	Eva (f)
+Falkland Islands	Falklandski Otoci
+Far East	Daleki istok
+February	veljača (f); februar (m)
+Fiji	Fidži (m)
+Finland	Finska (f)
+Finnish	finski (m)
+France	Francuska (f)
+Francis	Franjo
+Frederick	Fridrik
+French	Francuzi (m)
+Friday	petak (m)
+GDP	BDP
+Gabon	Gabon (m)
+Gambia	Gambija (f)
+Ganges	Gang
+Gaza Strip	Pojas Gaze (m)
+German	njemački
+Germany	Njemačka (f)
+Ghana	Gana (f)
+Gibraltar	Gibraltar (m)
+Gnosticism	gnosticizam (m)
+God	Bog (m)
+Good Friday	Veliki petak (m)
+Great Britain	Velika Britanija (f)
+Great Pyramid of Giza	Keopsova piramida (f)
+Greece	Grčka (f)
+Greek	grčki
+Greenland	Grenland (m)
+Guatemala	Gvatemala (f)
+Guinea	Gvineja Bisau (f)
+Gulf of Finland	Finski zaljev
+Happy Easter	Sretan Uskrs
+Hertzsprung	Hertzsprung-Russellov dijagram (m)
+Hezbollah	Hezbollah
+Hokkaido	Hokkaido
+Holocaust	Holokaust
+Hungarian	Mađar (m); Mađarica (f)
+Hungary	Mađarska (f)
+Hypnos	Hipno
+I	ja
+I think therefore I am	Mislim, dakle postojim; Mislim, dakle jesam
+Iceland	Island (m)
+Icelandic	islandski
+Icelandish	islandski
+India	Indija (f)
+Indian	Indijac (m); Indijka (f)
+Indian Ocean	Indijski ocean
+Indonesia	Indonezija (f)
+Interlingua	interlingva
+International Phonetic Alphabet	međunarodna fonetska abeceda (f)
+Iran	Iran (m)
+Iraq	Irak (m)
+Ireland	Irska (f)
+Irish	irski
+Islamic Republic of Pakistan	Islamska Republika Pakistan
+Isle of Man	Otok Man (m)
+Istanbul	Istanbul (m); Carigrad (m)
+Italian	Talijan (m); Talijanka (f)
+Italy	Italija (f)
+Jainism	džainizam (m)
+Jamaica	Jamajka
+January	siječanj; jȁnuār (m)
+Japan	Japan (m)
+Japanese	Japanac (m); Japanka (f)
+Jesus	Isus (m)
+Jesus Christ	Isus Krist (m)
+Jew	Židov (m); Židovka (f)
+Jewish	židovski#Croatian'židovski (m)
+John	Ivan
+Jordan	Jordan (m)
+Joseph	Josip
+Judaism	judaizam (m)
+July	srpanj (m)
+June	lipanj
+Jupiter	Jupiter (m)
+Kaliningrad	Kalinjingrad (m)
+Karachi	Karači (m)
+Karelian	Karelijanski
+Kenya	Kenija (f)
+Khrushchev	Hruščov
+Kiev	Kijev (m)
+Korea	Koreja (f)
+Kurdish	kurdski (m)
+Kuwait	Kuvajt (m)
+LGBT	LGBT
+Laocoön	Laokont
+Laos	Laos (m)
+Latin	latinski
+Latin alphabet	latinica (f)
+Latvia	Letonija (f)
+Lebanon	Libanon (m)
+Leo	Lav
+Lesotho	Lesoto (m)
+Liberia	Liberija (f)
+Libya	Libija (f)
+Liechtenstein	Lihtenštajn (m)
+Lisbon	Lisabon (m)
+Little Red Riding Hood	Crvenkapa (f); Crvenkapica (f)
+London	London
+Luxembourg	Luksemburg (m)
+Lyons	Lyon
+Macedonia	Makedonija (f)
+Macedonian	makedonski (m)
+Madagascar	Madagaskar (m)
+Magna Carta	Magna charta libertatum (f)
+Malawi	Malavi (m)
+Malayalam	malajalam 
+Malaysia	Malezija (f)
+Maldives	Maldivi (m)
+Mali	Mali
+Malta	Malta (f)
+Manchuria	Mandžurija (f)
+Manx cat	Manska mačka
+Maoism	maoizam (m)
+March	ožujak
+Marshall Islands	Maršalovi Otoci
+Matthew	Matej; Matija
+Mauritania	Mauretanija (f)
+Mauritius	Mauricijus (m)
+May	svibanj (m)
+Mecca	Meka (f)
+Mediterranean Sea	Sredozemno more
+Mercury	Merkur (m)
+Merry Christmas and a Happy New Year	Čestit Božić i Sretna Nova godina!
+Mexico	Meksiko (m)
+Michael	Mihovil (m)
+Middle East	Srednji istok (m)
+Minsk	Minsk (m)
+Miss	gospođica 
+Moldova	Moldavija (f)
+Monaco	Monako (m)
+Monastir	Bitolj
+Monday	ponedjeljak (m)
+Mongolia	Mongolija (f)
+Mongolian	mongolski
+Moon	Mjesec#Croatian'Mjesec (m)
+Morocco	Maroko (m)
+Moscow	Moskva (f)
+Mozambique	Mozambik (m)
+Mr	g.; gosp.
+Munich	München (m); Monakov (m); Monakovo (n)
+Muslim	muslimanski (m); muslimanski (f); muslimanski (n)
+Myanmar	Mianmar (m); Mjanma (f)
+NATO	NATO
+Nagorno	Gorski Karabah (m)
+Namibia	Namibija (f)
+Naypyidaw	Naypyidaw
+Nepal	Nepal (m)
+Netherlands	Nizozemska (f)
+New Guinea	Nova Gvineja (f)
+Nicaragua	Nikaragva (f)
+Nicholas	Nikola; Niko
+Niger	Niger (m)
+Nigeria	Nigerija (f)
+North Korea	Sjeverna Koreja (f)
+North Sea	Sjeverno more
+Northern Europe	Sjeverna Europa (f)
+Northern Territory	Sjeverni teritorij
+Norway	Norveška (f)
+Norwegian	Norvežanin (m); Norvežanka (f)
+November	studeni (m)
+Oceania	Oceanija (f)
+October	listopad (m)
+Odyssey	Odiseja (f)
+Olympic Games	Olimpijske igre
+Pacific Ocean	Tihi ocean (m)
+Paraguay	Paragvaj (m)
+Paul	Pavao (m)
+Persephone	Perzefona (f)
+Persian	perzijski (m); farsi (m)
+Peru	Peru
+Pichilemu	Pičilemu
+Pleiades	Messier 45
+Poland	Poljska (f)
+Polish	poljski
+Portuguese	Portugalac (m); Portugalka (f)
+Prague	Prag (m)
+Proto	proto-indo-europski
+Pythagoras	Pitagora (m)
+Qatar	Katar (m)
+Quidditch	metloboj (m)
+Red Sea	Crveno more
+Republic of Korea	Republika Koreja (f)
+Roma	Romi
+Roman	Rimsko
+Roman Empire	Rimsko Carstvo
+Romania	Rumunjska (f)
+Romanian	rumunjski
+Rome	Rim (m)
+Rosetta Stone	Kamen iz Rosette (m)
+Russia	Rusija (f)
+Russian	Rus (m); Ruskinja (f)
+Rwanda	Ruanda (f)
+Saint Petersburg	Sankt Peterburg (m)
+San Marino	San Marino (m)
+Sanskrit	sanskrt (m)
+Sardinia	Sardinija (f)
+Saturday	subota (f)
+Saturn	Saturn
+Saudi Arabia	Saudijska Arabija (f)
+Scotland	Škotska (f)
+Sea of Japan	Japansko more (n)
+Senegal	Senegal (m)
+September	rujan (m)
+Serb	Srbin (m); Srpkinja (f)
+Serbia and Montenegro	Srbija i Crna Gora (f)
+Serbian	srbijanski
+Seychelles	Sejšeli (m)
+Shinto	šintoizam
+Sierra Leone	Sijera Leone (f)
+Singapore	Singapur (m)
+Skopje	Skoplje (n)
+Slovakia	Slovačka (f)
+Slovene	slovenski (m)
+Slovenia	Slovenija (f)
+Snow White	Snjeguljica (f)
+Somalia	Somalija (f)
+Sophocles	Sofoklo (m)
+Sorbian	lužičkosrpski (m)
+South Africa	Južnoafrička Republika 
+South Korea	Južna Koreja (f)
+Southeast Asia	Jugoistočna Azija (f)
+Southern Europe	Južna Europa (f)
+Southern Ocean	Južni ocean
+Soviet	sovjetski
+Soviet Union	Sovjetski Savez (m)
+Spain	Španjolska (f)
+Spanish	španjolski
+Sparta	Sparta
+Sri Jayawardenepura Kotte	Sri Jayawardenepura Kotte
+Sri Lanka	Šri Lanka (f)
+Stalin	Staljin (m)
+Stalinism	staljinizam (m)
+Sudan	Sudan (m)
+Suez Canal	Sueski kanal (m)
+Sunday	nedjelja (f); nedelja (f)
+Swahili	svahili#Croatian'svahili (m)
+Swaziland	Svazi (m)
+Swede	Šveđanin (m); Šveđanka (f)
+Sweden	Švedska (f)
+Swedish	švedski
+Switzerland	Švicarska (f)
+Sydney	Sidnej (m)
+Syria	Sirija (f)
+T	majica (f)
+Taiwan	Tajvan (m)
+Tajik	tadžički (m)
+Tajikistan	Tadžikistan (m)
+Tanganyika	Tanganjika
+Tanzania	Tanzanija (f)
+Tbilisi	Tbilisi
+Telugu	telugu 
+Ten Commandments	deset Božjih zapovijedi
+Thai	tajski, Tai
+Thailand	Tajland (m)
+Thanatos	Tanatos (m)
+Thomas	Toma; Tomislav; Tomo
+Thursday	četvrtak
+Togo	Togo (m)
+Trinidad and Tobago	Trinidad i Tobago
+Trotskyism	trockizam (m)
+Tuesday	utorak (m)
+Twin Towers	Svjetski trgovački centar (m)
+UFO	NLO
+USA	SAD
+USSR	SSSR
+Uganda	Uganda (f)
+Ukraine	Ukrajina (f)
+Ukrainian	ukrajinski
+United Arab Emirates	Ujedinjeni Arapski Emirati (m)
+United Kingdom	Ujedinjeno Kraljevstvo (n)
+United States of America	Sjedinjene Američke Države (f)
+Vatican City	vatikan (m); grad (m)
+Venus	Venera
+Vienna	Beč (m)
+Vietnam	Vijetnam (m)
+Vietnamese	vijetnamski
+Vishnu	Višnu
+Warsaw	Varšava (f)
+Wednesday	srijeda (f)
+Welsh	velški
+Western Europe	Zapadna Europa (f)
+Western Sahara	Zapadna Sahara (f)
+White House	Bijela kuća (f)
+White Sea	Bijelo more
+Wiktionary:Usability/flag	zastava (f); stijeg (m)
+William	Vilim
+Wroclaw	Wrocław
+Yangtze	Jangce
+Yaoundé	Yaounde
+Yellow Sea	Žuto more (n)
+Yemen	Jemen (m)
+Yerevan	Erevan (m)
+Yiddish	jidiš
+Yucatán	Yucatán
+Zagreb	Zagreb
+Zambia	Zambija (f)
+Zealand	Zeland
+Zimbabwe	Zimbabve (m)
+Zoroastrianism	zoroastrijanizam (m); zoroastrizam (m); zaratustrizam (m)
+a little	malo
+abbreviation	abrevijacija (f); kratica (f)
+absolute zero	apsolutna nula (f)
+accordion	harmonika (f)
+accusative	akuzativ (m)
+acid	kiseo
+actinium	aktinij
+actor	glumac (m); glumica (f)
+actress	glumica (f)
+acupuncture	akupunktura (f)
+ad hoc	ad hoc
+address	adresa (f)
+adjective	pridjev (m)
+admiration	divljenje (n)
+adult	punoljetstvo
+advertisement	reklama
+aeroplane	zrakoplov (m); avion (m)
+after	iza; za
+afternoon	popodne (n)
+afterwards	kasnije; poslije; potom
+again	opet
+age	dob (f)
+aggressive	agresivan; nasilan; nasrtljiv
+air	zrak (m)
+aircraft	zrakoplov (m); letjelica (f)
+airplane	avion (m); zrakoplov (m)
+airport	aerodrom (m); zračna luka (f)
+al	al-Qaeda (f)
+alchemist	alkemičar (m)
+alcohol	alkohol (m)
+algebra	algebra (f)
+algorithm	algoritam (m)
+alkyne	alkin (m)
+all	sav
+alligator	aligator (m)
+almond	badem (m)
+almost	skoro
+alone	sam
+alphabet	abeceda (f); alfabet (m)
+although	iako; premda; mada; makar
+aluminium	aluminij
+always	uvijek; stalno; neprestano
+am	sam; jesam
+ambassador	veleposlanik (m); veleposlanica (f)
+amber	jantar (m)
+americium	americij
+ampersand	žig; pečatni znak; združenje; labava veza
+amphibian	amfibija (f); vodozemac (m)
+anagram	anagram (m)
+analysis	analiza (f)
+anarchism	anarhizam (m)
+anarchy	anarhija (f)
+anatomy	anatomija (f)
+ancestor	predak (m)
+ancient	drevan; antički; prastar
+and	i
+angel	anđeo (m)
+animal	životinja (f)
+anime	anime
+ankle	gležanj (m)
+anteater	mravojed
+antelope	antilopa (f)
+antimony	antimon
+antonym	antonim (m); nasuprotnica (f)
+apartment	stan (m)
+apostrophe	apostrof (m); izostavnik (m)
+apron	pregača (f); kecelja (f); fertun (m)
+archaeology	arheologija (f)
+archipelago	arhipelag (m)
+architecture	arhitektura (f)
+argent	srebro (n)
+argon	argon (m)
+arm	ruka
+arrow	strelica (f)
+arsenic	arsen
+art	umjetnost (f)
+artist	umjetnik (m); umjetnica (f)
+ash	pepeo (m)
+ashtray	pepeljara (f)
+ask	moliti
+asshole	seronja (m); šupak; šupčina
+astatine	astat
+astronomy	astronomija (f); zvjezdoznanstvo (n)
+at least	barem; najmanje
+at sign	manki
+atheism	ateizam (m)
+atmosphere	atmosfera (f)
+atomic bomb	atomska bomba (f)
+attention	pažnja; pozornost
+attic	tavan (m)
+aunt	tetka (f)
+author	autor (m); autorica (f)
+automobile	automobil (m)
+autumn	jesen (f)
+avalanche	snježna lavina
+avocado	avokado
+axis	osa (f)
+babysitter	dadilja
+bachelor	neženja (m)
+back	leđa
+bacon	slanina (f)
+bad	zao (m); zla (f); zlo (n); (m) zločesta (f); zločesto (n)
+badger	jazavac (m)
+bagpipes	gajde (f)
+baker	pekar (m); pekarica (f)
+bakery	pekara (f); pekarnica (f)
+bald	ćelav
+ballpoint pen	kemijska olovka (f)
+bank	banka (f)
+barcode	crtični kôd; barkôd
+barium	barij
+bark	kora (f)
+barley	ječam (m)
+barn owl	kukuvija drijemavica
+baseball	bejzbol (m)
+basement	podrum (m)
+basket	korpa (f); koš (m); košara (f)
+bat	šišmiš (m)
+bathroom	kupaonica (m)
+bathtub	kada (f)
+battle	bitka (f); boj (m)
+bay	zaljev (m); uvala (f)
+bayonet	bajunet (m); bajuneta (f)
+be	biti
+beak	kljun (m)
+bean	grah (m)
+beard	brada (f)
+beast	zvijer (f)
+beauty	ljepotica
+beaver	dabar (m)
+bed	krevet (m); postelja (f)
+bedroom	spavaonica (f)
+beech	bukva (f)
+beef	govedina (f); teletina (f); junetina (f)
+beeswax	voskovarina (f), pčelinji vosak (m)
+before	pred
+beige	bež (m)
+belt	pojas (m); pas (m); opasač (m)
+berkelium	berkelij
+beryl	beril
+beryllium	berilij (m)
+better	bolji (m); bolje
+beverage	napitak
+bicycle	bicikl (m)
+big	velik (m); masivan; golem (m); monumentalan (m); ogroman (m)
+bill	kljun (m)
+billion	milijarda
+binomial nomenclature	dvojno nazivlje (n)
+biochemistry	biokemija (f)
+biography	biografija (f); životopis (m)
+biology	biologija (f)
+bipolar disorder	bipolarni afektivni poremećaj
+birch	breza (f)
+birthmark	mladež (m)
+biscuit	biskvit
+bishop	lovac (m)
+bismuth	bizmut
+bite	gristi; ugristi
+bitter	grk; gorak; trpak; opor
+black	crna (f)
+black grouse	mali tetrijeb
+black hole	crna rupa (f)
+black woodpecker	crna žuna
+blackberry	kupina (f)
+blackbird	kos
+blacksmith	kovač (m); kovačica (f)
+blanket	ćebe
+blog	blog (m)
+blue	plava (f)
+blueberry	borovnica (f); borovnica (f)
+boar	vepar (m)
+boat	čamac (m); brodica (f)
+body	tijelo (n)
+bohrium	bohrij
+bon appétit	dobar tek
+bone	kost (f)
+book	bukirati; predbilježiti
+bookshop	knjižara (f)
+boot	čizma (f)
+boring	dosadan
+boron	bor
+bottle	boca (f)
+bottom	dno (n)
+bow	gudalo (n)
+bowl	zdjela (f)
+boxing	Boks
+boy	dječak (m)
+bra	grudnjak
+brain	mozak (m)
+branch	grana (f)
+break	lomiti
+breakfast	doručak (m)
+bream	deverika (f)
+breast	grudi (f)
+bribe	mito (n)
+brick	cigla (f)
+bride	nevjesta (f); mlada (f)
+bridge	most (m)
+bring	donijeti; donositi; nositi; ponijeti; dovesti; dovoditi; dofurati
+bromine	brom
+broom	metla (f)
+brother	zet (m), svak (m), šogor (m)
+buffalo	bivol (m)
+building	gradnja (f); izgradnja (f)
+burn	opeklina (f); (f)
+bush	grm (m)
+busy	prometan
+but	osim
+butcher	mesar (m)
+butter	maslac (m)
+butterfly	leptir (m)
+button	gumb (m); dugme (n)
+buzzard	škanjac (m)
+by the Grace of God	milošću Božjom, Božjom milošću
+cabbage	kupus (m), zelje (n)
+cactus	kaktus (m)
+cadmium	kadmij
+caesium	cezij
+café	kavana (f)
+cake	kolač (m)
+calcium	kalcij
+calendar	kalendar (m)
+calf	tele (n)
+californium	kalifornij
+caliph	kalif (m)
+call	zvati
+camel	deva (f)
+camouflage	kamuflaža (f)
+can	smjeti
+cancer	rak (m)
+candle	svijeća (f)
+candlestick	svijećnjak (m); čirak (m)
+capercaillie	tetrijeb
+capital city	glavni grad (m)
+car	auto (m); automobil (m)
+carbon	ugalj (m)
+carboxylic acid	karboksilna kiselina
+carefree	bezbrižan
+carp	šaran (m)
+carpenter	tesar (m); stolar (m)
+carpet	tepih (m); ćilim (m)
+carrot	mrkva (f)
+carry	nositi
+case	padež (m)
+cash	gotovina (f)
+caste	kasta
+castle	dvorac (m)
+cat	mačka (f)
+cathedral	katedrala (f)
+cause	uzrok (m)
+caviar	kavijar (m)
+cedar	cedar (m)
+cell phone	mobitel (m)
+cello	violončelo (m)
+cement	cement (m)
+century	stoljeće (n); vijek (m)
+cerium	cerij
+chalk	kreda (f)
+chamois	divokoza
+championship	prvenstvo
+chance	šansa; mogućnost
+chaos	haos (m)
+chapter	poglavlje (n); glava (f)
+cheek	obraz (m)
+cheers	uzdravlje
+cheese	sir (m)
+cheetah	gepard (m)
+chemistry	kemija (f)
+cherry	(sweet cherry) trešnja#Croatian'trešnja (f), (sour cherry) višnja#Croatian'višnja (f)
+chess	šah (m)
+chest	prsa (f)
+chestnut	kesten (m)
+chew	žvakati
+chick	pile (n)
+chicken	piletina (f)
+child	čedo (n); dijete (n)
+chimpanzee	čimpanza
+chin	brada
+chisel	dlijeto (n)
+chlorine	klor
+chocolate	čokolada (f)
+choice	izbor (m)
+choose	izabrati; odabrati
+chord	akord (m)
+church	crkva (f)
+cigar	cigara (f)
+cigarette	cigareta (f)
+circle	kružnica (f)
+citizen	državljanin (m); državljanka (f)
+city	grad
+clairvoyance	pronicljivost, vidovitost
+clarinet	klarinet (m)
+claw	kandža (f); pandža (f)
+clean	čistiti
+clinical psychology	klinička psihologija
+clock	sat (m)
+clothes	odjeća (f)
+clown	klaun
+club	klub (m)
+coast	obala
+cobalt	kobalt
+cock	kukuriku#Croatian'kukuriku
+cockroach	žohar (m)
+coconut	kokos (m); kokosov orah (m)
+coffin	lijes (m)
+cognitive psychology	kognitivna psihologija
+coin	novčić (m); kovanica (f)
+collection	zbirka (f)
+colon	dvotočka (f); dvotočje (n)
+colonel	pukovnik (m); pukovnica (f)
+colonialism	kolonijalizam
+columbine	pakujac
+comb	češalj (m)
+comedy	komedija (f)
+common gull	burni galeb
+company	tvrtka; kompanija; poduzeće
+compass	kompas (m); busola (f)
+complex number	kompleksni broj (m)
+computer	računalo (n); kompjutor (m)
+computer language	programski jezik (m)
+comrade	drug
+concrete	beton (m)
+cone	šišarka (f)
+conference	konferencija (f); sjednica (f)
+congratulations	čestitke
+conjunction	veznik (m)
+connective tissue	vezivno tkivo
+conscience	savjest (f)
+consonant	suglas (m); suglasnik (m)
+continental drift	pomicanje kontinenata (n)
+continental shelf	epikontinentalni pojas (m)
+cook	kuhar (m); kuharica (f)
+copper	bakar (m)
+corn	kukuruz (m)
+corner	kut (m)
+corpse	leš (m)
+corridor	koridor (m)
+corvette	korveta (f)
+country	selo (n)
+cow	krava (f)
+crab	rak (m)
+cranberry	brusnica (f)
+crane	dizalica (f)
+cream	kajmak (m); vrhnje (m)
+create	stvoriti
+cricket	cvrčak (m)
+crime	zločin (m)
+crocodile	krokodil (m)
+cross	križ (m)
+crossword	križaljka (f)
+crow	vrana (f)
+crystal	kristal (m)
+cube	kocka (f)
+cubism	kubizam (m)
+cuckoo	kukavica (f)
+cucumber	krastavac (m)
+culture	kultura (f)
+cunt	pička (f)
+cup	šalica (f)
+curium	kurij
+current	struja (f)
+customer	kupac (m); mušterija (f)
+cute	sladak (m)
+cycling	biciklizam (m)
+cypress	čempres (m)
+damage	šteta (f)
+dance	plesati
+dandelion	maslačak (m)
+danger	opasnost (f)
+dangerous	opasan (n)
+dark	tama (f); mrak
+darkness	tama (f)
+data	podatci
+database	baza podataka (f)
+date	datula, urma, hurma (f)
+date palm	datulja (f)
+dative case	dativ (m)
+daughter	kćer (f); kćerka (f); kći (f)
+dawn	svanuti
+deaf	gluh
+death	smrt (f)
+decision	odluka (f)
+declension	deklinacija (f); sklonidba (f)
+deep	dubok (m), duboka (f), duboko (n)
+deer	jelen (m)
+degree	stupanj (m)
+democracy	demokracija (f)
+demon	(l'hr'demon) (m)
+dentist	zubar (m)
+depression	depresija (f)
+desire	želja (f); žudnja (f)
+dessert	desert (m); poslastica (f)
+devil	vrag (m)
+dialect	narječje (n); dijalekt (m)
+diary	beležnica
+dick	kurac; kurčina; kita; pimpek; penis
+dictionary	rječnik (m)
+die	kocka (f)
+dig	kopati
+dinosaur	dinosaur (m)
+dirty	nečist
+discussion	diskusija; rasprava (f); raspra (f)
+disease	bolest (f)
+disgust	gađenje (n)
+do	činiti
+doctor	doktor (m); doktorica (f)
+documentation	dokumentacija
+dog	pas (m)
+doll	lutka (f)
+dollar	dolar (m)
+dolphin	delfin (m)
+donation	poklon
+donkey	magarac (m); tovar (m)
+dormouse	puh
+dove	golub (m); golubica (f)
+download	preuzimanje, skidanje
+dozen	tucet (m)
+dragon	zmaj (m); zmajica (f); zmajevi
+dragonfly	vilinski konjic (m)
+drawer	ladica (f)
+dream	sanjati; snivati; nadati
+dress	odijevati
+drink	piće (n)
+driver	vozač (m); vozačica (f)
+dromedary	dromedar (m)
+drop	kap (f)
+drought	suša (f)
+drum	bubanj (m)
+dubnium	dubnij
+dung	gnoj (m), gnojivo (n)
+dust	prah (m)
+duty	dužnost (f); dužnost; zaduženje
+dyslexia	disleksija
+dysprosium	disprozij
+each	svaki (m); svaka (f); svako (n)
+eagle	orao (m)
+eagle owl	sova ušara
+ear	uho (n)
+earth	zemlja (f)
+earthquake	potres (m)
+earthworm	(kišna) glista (f)
+east	istok (m)
+eclipse	pomrčina (f)
+eco	eko-
+ecology	ekologija (f)
+economics	ekonomija (f)
+edit	urediti
+education	izobrazba (f); naobrazba (f)
+eel	jegulja (f)
+egg	jaje (n)
+eight	osam
+eighteen	osamnaest
+eighty	osamdeset
+einsteinium	einsteinij
+ejaculation	ejakulacija (f)
+electricity	elektricitet (m)
+electron	elektron (m)
+electronics	elektronika
+elephant	slon (m); slonica (f)
+elevator	dizalo (n); lift (m)
+elf	vilenjak, patuljak
+elk	jelen (m)
+embassy	ambasada (f); veleposlanstvo (n)
+empty	isprazniti
+end	svršiti
+engine	motor (m)
+engineer	inženjer (m)
+enjoy your meal	dobar tek
+enter	ući; ulaziti
+enthusiasm	entuzijazam (m); zanos (m); ushit (m)
+envelope	omotnica (f); koverta (f)
+envy	zavist (f); ljubomora (f)
+epididymis	pasjemenik
+epithelium	epitelno tkivo
+equation	jednadžba (f)
+era	era (f)
+erbium	erbij
+ermine	zerdav
+etymology	etimologija (f)
+eukaryote	eukariot (m)
+europium	europij
+euthanasia	eutanazija (f)
+evening	večer (f)
+every	svaki#Croatian'svaki
+everybody	svi
+everything	sve (n)
+evil	zlo (n)
+exclamation mark	uskličnik (m)
+exist	postojati; egzistirati; opstojati; bivstvovati
+existence	egzistencija (f); postojanje (n)
+experience	iskusiti
+expired	mrtav
+explain	objasniti
+expression	izraz (m)
+eye	oko (n)
+eyebrow	obrva (f)
+eyelash	trepavica (f); trepavice
+eyelid	vjeđa (f); kapak (m); vjeđe; kapci
+face	lice (n)
+factory	tvornica (f)
+fairy	víla (f)
+fairy tale	bajka (f)
+faith	vjera (f)
+falcon	sokol (m)
+fall	padati
+fallow deer	jelen lopatar
+family	porodica (f)
+fascism	fašizam (m)
+fat	salo (n)
+father	otac
+fatherland	otadžbina (f); domovina (f)
+fear	bojati (se)
+feather	pero (n)
+feed	hraniti
+female	ženka(f) (2)
+feminism	feminizam (m)
+fermium	fermij
+ferret	tvor
+ferry	skela (f)
+few	malo
+fiancé	zaručnik (m); vjerenik (m)
+field	polje (n)
+fifteen	petnest
+fifty	pedeset
+fig	smokva (f)
+fight	boriti
+fighter plane	borbeni zrakoplovi
+file	fascikl (m); datoteka (f)
+finger	prst (m)
+fir	jela (f)
+fire	peć (f)
+firefly	krijesnica (f)
+fish	riba (f)
+flag	zastava (f); stijeg (m)
+flame	plamen (m)
+flat	ravan
+flea	buha (f)
+flock	jato (n)
+flood	poplava (f); potop (m)
+floor	kat (m)
+flour	brašno (n)
+flower	cvijet (m)
+fluorine	fluor
+flute	frula (f), flauta (f)
+fly	letjeti
+foal	ždrijebe (n)
+foam	pjena
+fog	magla (f)
+follow	slijediti; pratiti
+food	hrana (f)
+fool	budala (m); glupan (m)
+foot	noga
+football	američki nogomet (m)
+ford	gaz (m); brod (m)
+forehead	čelo (n)
+forest	šuma (f)
+forget	nezaboravak (m)
+fork	vile (f)
+former Yugoslav Republic of Macedonia	bivša jugoslavenska Republika Makedonija
+fortress	utvrda (f); tvrđava; tvrđa (f)
+forty	četrdeset
+fountain	fontana
+four	četiri
+francium	francij
+freckle	pjega (f)
+free	slobodan; otvoren
+freedom	sloboda (f)
+friend	dečko (m); djevojka (f)
+fuck	jebote!
+full	pun
+function	funkcija (f)
+fungus	gljiva (f)
+funnel	lijevak (m)
+furniture	namještaj (m)
+future	budućnost (f)
+gadolinium	gadolinij
+gall bladder	žuč (m)
+gallium	galij (m)
+game	igra (f)
+garbage	otpad; smeće
+garden	vrt (m)
+garlic	češnjak (m); bijeli luk (m)
+gas	plin (m)
+gasoline	benzin
+gem	dragulj (m)
+general	općenit; sveopći; načelan
+genitive	genitiv (m)
+genocide	genocid (m)
+geography	geografija (f); zemljopis (m)
+geology	geologija (f)
+geometry	geometrija (f)
+germanium	germanij
+ghost	duh (m); avet (m); sablast (m); fantom (m); utvara (f)
+giant	div (m)
+giraffe	žirafa
+girlfriend	cura (f); djevojka (f)
+give	dati
+glacier	ledenjak (m); glečer (m)
+glass	čaša (f)
+global warming	globalno zatopljenje (n)
+glove	rukavica (f)
+glue	ljepilo (n)
+gnaw	glodati
+go	ići
+goal	gol (m); vrata (f)
+goalkeeper	vratar (m), vratarka (f), golman (m), golmanica (f)
+god	bog
+gold	zlato (n)
+goldfish	zlatna ribica#Croatian'zlatna ribica (f)
+goldsmith	zlatar (m)
+golf	golf (m)
+gondola	gondola (f)
+gonorrhea	gonoreja (f)
+good	dobar
+good day	dobar dan
+good morning	dobro jutro
+good night	laku noć
+goodbye	do viđenja
+goods	roba (f)
+google	googlati, guglati
+gooseberry	ogrozd (m)
+goshawk	jastreb kokošar
+government	vlada (f)
+grammar	gramatika (f); slovnica (f)
+grandchild	unuk (m); unuka (f)
+granddaughter	unuka (f)
+grandfather	djed (m)
+grandmother	baba (f)
+grandson	unuk (m)
+grape	grožđe (n'p) '(collective)'
+grapefruit	grejpfrut (m); limunika (f)
+grass	trava (f)
+grasshopper	skakavac (m)
+graveyard	groblje (n)
+great spotted woodpecker	veliki djetao
+great tit	sjenica velika
+green tea	zeleni čaj (m)
+green woodpecker	zelena žuna
+grey heron	siva čaplja
+greylag goose	divlja guska
+griffon vulture	jeloglavi sup
+guest	gost (m)
+guilt	krivnja (f)
+guinea fowl	biserka (f)
+guinea pig	zamorac (m)
+guitar	gitara (f)
+gull	galeb
+gunpowder	barut (m)
+hafnium	hafnij
+hail	tuča (f)
+hair	dlaka (f); vlas (f) (single human hair filament only)
+hajj	hadž (m); hadžiluk (m)
+half	polovina (f)
+halva	alva (f); halva (f)
+hamlet	zaselak (m)
+hammer	čekić (m); čekić
+hand	kazaljka (f)
+handball	rukomet (m)
+handkerchief	maramica (f)
+happiness	sreća
+happy	sretan (m)
+happy birthday	sretan rođendan
+hard	tvrd
+hard drive	tvrdi disk
+hare	zec (m)
+harp	harfa (f)
+harquebus	arkebuza
+hassium	hassij
+hat	šešir (m); klobuk (m)
+hate	mrziti
+hatred	mržnja (f)
+have	imati
+hawk	jastreb (m)
+hazelnut	lješnjak (m)
+head	glava (f)
+health	zdravlje (n)
+hear	čuti; slušati
+heart	srce (n)
+heart attack	infarkt miokarda
+heaven	nebesa (n); nebo (n)
+heavy	težak
+heel	peta (f)
+helicopter	helikoper (m)
+helium	helij (m)
+hell	pakao (m)
+hello	halo 
+help	upomoć; pomoć
+hemp	konoplja (f)
+hen	kokoška (f); kokoš (f)
+hero	junak (m)
+heterosexuality	heteroseksualnost (f)
+hexagon	šesterokut
+hi	halo; bok
+hide	kriti
+high	visok
+hill	brdo (n); brijeg (m)
+hitherto	dosad; dosada; dotad; dotada
+holmium	holmij
+home	domovina (f)
+homeland	domovina (f)
+homework	domaća zadaća (f); domaći rad (m); domaći uradak (m)
+homophobia	homofobija (f)
+hoof	kopito (n)
+hope	nadati (se)
+hornet	stršljen#Croatian'stršljen (m)
+horseradish	vrtni hren
+horseshoe	potkova (f)
+hospital	bolnica (f)
+hot	vruć
+hour	sat (m); ura (f); čas (m)
+house	kuća (f)
+how	kako
+how are you	kako si? ('informal or singular'), kako ste? ('formal or plural')
+hug	zagrljaj
+human being	čovjek (m)
+human rights	ljudska prava (n)
+humanism	humanizam (m)
+hungry	gladan
+husband	muž (m); suprug (m)
+hydrogen	vodik (m)
+ibex	kozorog (m)
+ice	led (m)
+ice cream	sladoled (m)
+idiot	idiot (m)
+igneous rock	magmatske stijene
+illness	bolest (f)
+immediately	odmah; smjesta
+important	važan
+impossible	nemoguć; nemoguće; nije moguće
+improve	poboljšati
+independence	neovisnost (f); nezavisnost (f)
+independent	neovisan; nezavisan; samostalan
+index	kazalo (n); pokazatelj (m); indeks (m)
+indium	indij
+inflation	inflacija (f)
+injury	povrjeda (f); rana (f)
+ink	tinte
+insanity	ludilo
+insect	kukac (m)
+insulin	inzulin
+insurgent	pobunjenik (m)
+integer	cijeli broj (m)
+intelligence	inteligencija (f)
+internal combustion engine	motor s unutrašnjim sagorijevanjem (m)
+interpreter	tumač (m); interpreter (m)
+invisible	nevidljiv
+iodine	jod
+iridium	iridij
+iron	glačalo (n)
+is	je; jest
+island	otok (m)
+it	ono
+ivory	slonovača (f); bjelokost (f)
+jay	šojka
+jihad	džihad (m)
+journalism	novinarstvo (n)
+journalist	novinar (m); novinarka (f)
+judge	sudac (m)
+juice	sok (m)
+jungle	džungla (f)
+juniper	kleka#Croatian'kleka (f)
+just	samo
+kangaroo	klokan (m); klokanica (f)
+kestrel	sokol (m)
+ketchup	kečap (m)
+key	ključ (m)
+keyboard	tipkovnica (f)
+killer	ubojica (m)
+kingdom	carstvo (n)
+kiss	poljubac (m)
+kitchen	kuhinja (f)
+knee	koljeno (n)
+knight	konj (m); skakač (m)
+know	znati; poznavati
+knowledge	znanje (n)
+koala	koala (f)
+krypton	kripton
+laboratory	laboratorij (m)
+ladybug	bubamara (f)
+lake	jezero (n)
+lamb	janje (n)
+lammergeyer	kostoberina (m)
+lampshade	abažur; sjenilo (n)
+land	kopno (n)
+language	jezik (m)
+lanthanum	lantan
+larch	ariš (m)
+lark	ševa
+laugh	smijeh (m)
+lava	lava (f)
+lawrencium	lawrencij
+lazy	lijen (m); lijena (f)
+lead	olovo
+leader	vođa (m); vođe
+leaf	list (m)
+leap year	prijestupna godina (f)
+least weasel	lasica
+leather	koža (f)
+leech	pijavica (f)
+left	lijevi
+leg	noga
+lemon balm	matičnjak (m)
+length	duljina (f); dužina (f)
+leprosy	guba (f)
+lesbian	lezbijka (f)
+lesser spotted woodpecker	mali djetao
+let	pustiti; dozvoliti
+letter	pismo (n)
+liar	lažov (m); lažljivac (m)
+liberty	sloboda
+library	knjižnica (f); biblioteka (f)
+lichen	lišaj (m)
+lick	lizati; liznuti
+lid	poklopac (m)
+lie	laž (f); neistina (f)
+life	život (m)
+lift	lift (m)
+light	osvijetliti
+lighter	upaljač (m)
+lighthouse	svjetionik (m)
+lightning	munja (f)
+limestone	vapnenac
+linguist	lingvist (m); lingvistica (f); jezikoslovac (m)
+linguistics	lingvistika (f); jezikoslovlje (n)
+lion	lav (m)
+lioness	lavica (f)
+lipstick	ruž (m)
+listen	čuti
+lithium	litij (m)
+little	malo
+little owl	sivi čuk
+living room	dnevna soba (f)
+lizard	gušter
+lobster	hlap (m)
+logarithm	logaritam (m)
+logic	logika (f)
+long	mala ušara
+louse	uš (f)
+love	voljeti; ljubiti
+luck	sreća (f)
+lullaby	uspavanka
+lung	pluća (n)
+lute	lutnja (f)
+lutetium	lutecij
+lynx	ris
+lyre	lira (f)
+machine	stroj (m)
+machine gun	mitraljez (m)
+mackerel	skuša (f)
+mad	lud
+magma	lava (f)
+magnesium	magnezij
+magnetism	magnetizam (m)
+magpie	svraka (f)
+mailman	poštar (m); listonoša (m); pismonoša (m)
+mallard	divlja patka
+mammal	sisavac (m)
+man	čovjek
+many	mnogo
+many thanks	puno hvala
+maple	javor (m)
+mare	kobila (f)
+marmot	svizac
+marsh	močvara (f)
+marten	kuna (f)
+martial art	borilačke vještine
+masturbation	samozadovoljavanje (n); masturbacija (f); rukoblud (m)
+maternal aunt	tetka (f)
+maternal grandfather	djed (m)
+maternal uncle	ujak (m)
+mathematics	matematika (f)
+mayonnaise	majoneza (f)
+mayor	gradonačelnik (m); gradonačelnica (f)
+meal	obrok (m); jelo (n)
+meat	meso (n)
+mechanics	mehanika (f)
+medal	medalja (f)
+medicine	medicina (f)
+meitnerium	meitnerij
+melody	melodija (f)
+member	član (m)
+memory	pamćenje (n)
+mendelevium	mendelevij
+menstruation	menstruacija (f)
+mercury	živa
+mermaid	sirena (f)
+metal	metal (m); kovina (f)
+methionine	metionin (m)
+microbe	mikrob (m)
+microorganism	mikroorganizam (m)
+microscope	mikroskop (m); sitnozor (m)
+middle finger	srednjak; srednji prst
+midnight	ponoć (f)
+midwife	babica
+milk	musti
+milkmaid	muzilja (f)
+mill	mlin (m)
+millet	proso (f)
+milliard	milijarda
+mine	mina (f)
+mineralogy	mineralogija (f)
+minion	ljubimac
+mint	metvica (f)
+mirror	zrcalo (n); ogledalo (n)
+mistake	grješka (f)
+misunderstand	pogrešno razumjeti
+mole	madež (m)
+molecule	molekula (f)
+mollusc	mekušac (m)
+molybdenum	molibden
+moment	moment (n); momentat (n); trenutak (n)
+monarchy	monarhija
+monastery	manastir (m); samostan (m)
+monk	redovnik (m)
+monkey	majmun (m)
+monotheism	monoteizam (m); jednoboštvo (n)
+month	mjesec (m)
+moon	mjesec (m)
+morality	etika
+morning	jutro (n)
+mosquito	komarac (m)
+moss	mahovina (f)
+moth	moljac (m)
+mother	majka; mati; mater (f)
+motherfucker	mamojebac
+motor	motor (m)
+mouflon	muflon
+mountain	planina (f); gora (f)
+mouse	miš (m)
+moustache	brkovi (m'p)
+mouth	ušće (n)
+much	mnogo
+mud	blato (n); glib (m)
+mulberry	dud (m); murva (f)
+murder	ubiti; umoriti
+murderer	ubojica (m)
+muscle	mišica
+mushroom	gljiva (f)
+music	glazba (f)
+musical instrument	glazbene instrumente
+musician	glazbenik (m)
+muskrat	mošusni štakor; bizamski štakor
+my name is	zovem se...; ja sam...; moje ime je...; ime mi je...
+myrrh	mirha (f)
+mysterious	zagonetan; tajanstven
+mystery	misterij (m)
+mythology	mitologija (f)
+name	ugled (m)
+nature	priroda (f)
+navy	mornarica (f)
+necktie	kravata (f)
+necromancy	nekromancija (f)
+needle	igla (f)
+neighbour	susjed (m); susjeda (f)
+neodymium	neodimij
+neon	neon
+nephew	sinovac
+neptunium	neptunij
+nest	gnijezdo (n)
+net	mreža (f)
+never	nikada; nikad
+nevertheless	usprkos tome
+new	nov (m)
+news	vijesti (f)
+nickel	nikal
+niece	nećakinja (f)
+nine	devet
+nineteen	devetnaest
+ninety	devedeset
+niobium	niobij
+nit	gnjida (f)
+nitrogen	dušik
+no one	nitko
+nobelium	nobelij
+nobody	nitko
+noise	buka (f)
+nonkilling	neubijanje
+nonsense	besmislica (f); glupost (f)
+noon	podne (n)
+north	sjever
+nostril	nozdrva (f)
+not	ne
+nothing	ništa
+noun	imenica (f)
+novel	roman (m)
+nude	gol
+number	broj (m)
+nut	orah
+oak	hrastovina (f)
+oak tree	hrast (m)
+oat	zob (m)
+obedience	pokornost (f)
+obesity	pretilost (f); gojaznost (f)
+object	objekt (m); predmet (m)
+occult	okultizam
+ocean	ocean (m)
+octopus	hobotnica (f)
+oesophagus	grkljan (m)
+of	od
+office	ured (m)
+oh my God	O moj bože
+oil	nafta (f)
+olive	maslina (f)
+onion	crni luk (m), crveni luk (m)
+opera	opera (f)
+opinion	mišljenje (n); nazor (m)
+opium	opijum (m)
+or	ili
+ore	ruda (f)
+organ	organ (m)
+orgasm	orgazam (m)
+osmium	osmij
+ostrich	noj
+ovary	jajnik (m); ovarij (m)
+owl	sova (f)
+ox	vol (m)
+oxygen	kisik
+page	stranica (f); strana (f)
+pain	bol (m); muka (f)
+painter	slikar (m); slikarica (f)
+pair of compasses	šestar (m)
+palladium	paladij (m)
+palm tree	palma
+pancreas	gušterača (f)
+paper	papir (m)
+paradox	paradoks
+parapsychology	parapsihologija (f)
+parrot	papagaj (m); papiga (f)
+parsley	peršin (m)
+partridge	skvržulja (f)
+pasha	paša (m)
+passenger	putnik (m); putnica (f)
+passport	putovnica (f)
+password	lozinka (f); geslo (n)
+paternal aunt	tetka (f)
+paternal grandfather	djed (m)
+paternal uncle	stric (m)
+path	put; staza
+patience	strpljenje (n); strpljivost (f)
+patient	pacijent (m); pacijentica (f); pacijentkinja (f)
+pawn	pješak (m)
+pea	grašak (m)
+peace	mir (m)
+peach	breskva (f)
+peacock	paun (m)
+peanut	kikiriki
+pen	pero (n); kemijska olovka (f)
+penguin	pingvin (m)
+peninsula	poluotok (m)
+people	narod (m)
+pepper	papar (m)
+percent	posto; postotak (m)
+period	točka (f)
+periodic table	periodni sustav elemenata (m)
+person	osoba (f)
+petroleum	nafta (f)
+pheasant	fazan (m)
+philosopher	filozof (m); filozofkinja (f)
+philosophy	filozofija (f)
+phoenix	feniks (m); žar-ptica (f)
+photograph	fotografija (f)
+photography	fotografija (f)
+physics	fizika (f)
+picture	fotografija (f); slika (f); fotka (f)
+piece	komad (m)
+pig	svinja (f)
+piglet	prase (n); odojak (m) 
+pike	štuka (f)
+pillow	jastuk (m), poduška (f) (archaic)
+pimp	svodnik
+pin	pribadača
+pine	bor (m), pinija (f)
+pistachio	trišlja (f), pistać (m)
+pistol	pištolj (m)
+place	mjesto (n)
+plane	strug (m); rende
+planet	planet (m)
+plant	biljka (f)
+plate	tanjir (m)
+platinum	platina
+platypus	čudnovati kljunaš (m)
+play	predstava (f)
+please	zadovoljiti; ugoditi
+pleasure	užitak (m); zadovoljstvo (n)
+plough	orati
+plum	šljiva (f)
+plural	množina (f); plural (m)
+plutonium	plutonij
+pocket	džep (m)
+poem	pjesma (f); poema (f)
+poet	pjesnik (m); pjesnikinja (f)
+poetry	pjesništvo (n); poezija (f)
+polar bear	sjeverni medvjed, bijeli medvjed, polarni medvjed (m)
+polecat	tvor
+police	policija (f); milicija (f)
+policeman	policajac (m); policajka (f); milicajac (m); milicajka (f)
+polite	uljudan; odgojen
+politics	politika (f)
+polonium	polonij
+polygon	mnogokut
+polytheism	politeizam (m); mnogoboštvo (n)
+pond	jezerce (n); ribnjak (m)
+poor	siromašan
+pope	papa (m)
+poplar	topola (f); jablan (m)
+poppy	mak (m)
+porcelain	porcelan (m)
+porcupine	dikobraz (m)
+pork	svinjetina (f)
+possible	moguć
+postage stamp	poštanska marka
+postcard	razglednica (f)
+potassium	kalij
+potato	krumpir (m)
+poverty	siromaštvo (n); neimaština (f)
+praseodymium	praseodimij
+prayer	molitva
+prefix	prefiks (m); predmetak (m)
+pregnancy	trudnoća (f), bremenitost (f)
+preposition	prijedlog (m), prepozicija (f)
+president	predsjednik (m)
+priest	svećenik (m)
+prime minister	premijer (m); premijerka (f); premijeri
+prime number	prosti broj (m)
+prince	princ (m)
+printer	pisač (m); printer (m)
+prison	zatvor
+problem	problem (m)
+professor	profesor (m); profesorica (f)
+programming language	programski jezik
+project	projekt (m)
+promethium	prometij
+property	vlasništvo (n); svojina (f)
+prophet	prorok (m); proročica (f)
+protactinium	protaktinij
+proverb	poslovica (f)
+pumice	plovučac
+pumpkin	buča (f); bundeva (f)
+pupil	zjenica (f); zjena (f)
+pus	gnoj (m)
+push	potisnuti
+put	staviti
+pyjamas	pidžama (f)
+pyramid	piramida (f)
+python	piton (m); udav (m); boa (f)
+quail	prepelica (f)
+quarter	četvrt
+question mark	upitnik (m)
+quiet	tih
+rabbi	rabin (m)
+race	trka (f)
+racism	rasizam (m)
+radon	radon (m)
+railway	željeznica (f)
+rain	kišiti
+rake	grablje (f)
+ram	ovan (m)
+rape	silovanje (n)
+raspberry	malina (f)
+rat	štakor
+raven	gavran
+raw	sirov
+ray	zraka (f); zrak
+reason	razlog (m)
+recent	nedavni
+rectangle	pravokutnik (m)
+red	crvena (f)
+refrigerator	hladnjak (m)
+relative	rod (m)
+remember	sjećati se
+reptile	gmazovi
+republic	republika (f)
+restaurant	restoran (m); gostionica (f)
+revenge	osveta (f); odmazda (f)
+revolution	revolucija (f)
+rhenium	renij
+rhinoceros	nosorog (m)
+rhodium	rodij
+rib	rebro (n)
+rice	riža (f)
+rich	bogat; imućan
+rifle	puška (f)
+right	desnica (f)
+ring finger	prstenjak
+river	rijeka (f)
+road	cesta (f); put (m)
+robin	crvendać
+rock	stijena (f)
+rock dove	divlji golub, pečinar
+rodent	glodavac (m)
+roe deer	srna
+roof	krov (m)
+rook	top (m); kula (f)
+room	prostor (m)
+rooster	pijetao (m)
+root	korijen (m)
+rope	uže (n)
+rose	ruža (f)
+rotten	gnjio; truo
+rubidium	rubidij
+rule	pravilo
+ruthenium	rutenij
+rutherfordium	rutherfordij
+sabre	sablja (f)
+sack	vreća (f)
+sacrifice	žrtva (f)
+sad	žalostan
+sail	jedro (n)
+sailing ship	jedrenjak (m)
+sailor	mornar (m)
+salad	salata (f)
+saliva	slina (f)
+salt	sol (f)
+samarium	samarij
+sauce	umak (m)
+sausage	kobasica (f)
+save	spasiti
+saxophone	saksofon (m)
+say	reći; kazati
+scales	vaga (f)
+scandium	skandij
+scar	ožiljak (m)
+scarlet	crven
+school	fakultet (m); sveučilište (n)
+science	znanost (f)
+scissors	škare (f); nožice (f)
+screech owl	kukuvija drijemavica (f)
+scythe	kosa (f)
+sea	more (n)
+seaborgium	seaborgij
+seagull	galeb (m)
+seaweed	morski#Croatian'morska trava#Croatian'trava (f)
+second	drugi (m); druga (f); drugo (n)
+secret	tajni; skrovit
+secretary	tajnik (m); tajnica (f)
+seldom	rijetko
+selenium	selenij
+send	slati
+sentence	rečenica (f)
+serious	ozbiljan; važan; značajan
+service	eksploatacija (f)
+set	skup
+seven	sedam
+seven deadly sins	sedam smrtnih grijeha
+seventy	sedamdeset
+sew	šivati
+sex	seks (m)
+shadow	sjena (f)
+shame	sram (m); stid (m)
+shark	morski pas (m)
+she	ona
+sheep	ovca (f), ovan (m), janje (n) (lamb)
+shield	štit (m)
+ship	brod (m); lađa (f)
+shirt	košulja (f); majica (f)
+shit	govno (n)
+shoe	cipela (f); postola (f)
+shop	dućan (m)
+shore	obala (f)
+shovel	lopata (f)
+show	pokazati, demostrirati
+shrew	rovka (f)
+shrine	svetište (n)
+sideburns	zaliske#Croatian'zaliske
+sieve	sito (n); rešeto (n)
+silicon	silicij
+silk	svila (f)
+silkworm	dudov svilac (m)
+silver	srebro (n)
+similar	sličan
+sing	pjevati
+sister	svast (f); svastika (f)
+sit	sjediti
+sit down	sjesti
+sixty	šezdeset
+skeleton	skelet
+ski	skija (f)
+skirt	suknja (f)
+skull	lubanja (f)
+sky	nebo (n)
+skylark	poljska ševa (f)
+skyscraper	neboder (m)
+sleep	san (m)
+sloth	ljenjivac (m), tipavac (m)
+smile	nasmiješiti; osmjehnuti
+smith	kovač (m); kovačica (f)
+sneeze	kihnuti
+snow	snijeg (m)
+snow leopard	snježni leopard (m)
+snowman	snjegović (m)
+soap	sapun (m)
+soccer	nogomet (m)
+socialism	socijalizam (m)
+society	društvo (n)
+sodium	natrij
+software	(f) programska podrška (f)
+soldier	vojnik (m); vojnikinja (f); vojak (m)
+someone	neko
+something	nešto (n)
+somewhere	negdje
+son	zet
+son of a bitch	kujin sin (m)
+soup	juha (f)
+south	jug (m)
+spaceship	svemirski brod
+spade	lopata (f); ašov (m)
+sparrow	vrabac
+sparrow hawk	kobac
+speed	brzina (f)
+sphere	kugla (f)
+spider	pauk (m)
+spiderweb	paučina (f)
+spinach	špinat (m)
+spit	pljuvati
+spleen	slezena (f)
+spoon	žlica (f); kašika (f)
+sport	sport (m); šport (m)
+spouse	suprug (m); supruga (f)
+spring	opruga (f)
+spruce	smreka (f)
+spy	špijun (m); špijunka (f); uhoda (m)
+squid	lignja (f)
+stairs	stepenik
+stake	kolac (m)
+stallion	ždrijebac (m); pastuh (m)
+starling	čvorak
+station	kolodvor
+statistics	statistika (f)
+steamship	parobrod (m)
+steel	čelik (m)
+stepfather	poočim (m); očuh (m)
+stomach	želudac (m); stomak (m)
+stone	stijena
+stork	roda (f)
+story	priča (f)
+strange	neobičan; čudan; čudnovat
+strawberry	jagoda (f)
+stream	potok (m)
+strength	snaga (f)
+strong	snažan; jak
+strontium	stroncij
+suffix	sufiks (m); dometak (m)
+sugar cane	šećerna trska (f)
+suicide	samoubojica (m)
+suitcase	kofer
+sulfur	sumpor (m)
+summer	ljeto (n)
+sun	sunce (n)
+sunflower	suncokret (m)
+superstition	praznovjerje (n); praznovjerica (f); sujevjerje (n)
+supper	večera (f)
+swallow	lastavica (f); lasta (f)
+swamp	močvara (f)
+swan	labud (m)
+swastika	svastika (f)
+sweet	sladak
+sweet potato	batat (m)
+sweetener	zaslađivač
+swim	plivati
+swimsuit	kupaći kostim
+switch	prekidač (m)
+swordfish	sabljarka, iglun (f)
+syringe	injekcija (f)
+system	sistem (m); sustav (m)
+table	stol (m)
+tadpole	punoglavac (m)
+taiga	tajga
+tailor	krojač (m); krojačica (f)
+take	uzeti; zgrabiti; ščepati; prigrliti
+tank	tenk (m)
+tantalum	tantal
+taste	probati
+tattoo	tetovaža (f)
+tawny owl	šumska sova
+tax	porez (m)
+taxi	taksi (m)
+teach	učiti
+teacher	učitelj (m); učiteljica (f); nastavnik (m); nastavnica (f)
+teaspoon	žličica (f)
+technetium	tehnecij
+teenager	tinejdžer (m)
+telepathy	telepatija
+telephone	telefonirati
+telescope	teleskop (m)
+television	televizor (m)
+tellurium	telurij
+temperature	temperatura (f)
+temple	hram (m)
+ten	deset
+tent	šator (m)
+terbium	terbij
+terrorism	terorizam (m)
+terrorist	terorist (m); teroristkinja (f)
+textbook	udžbenik
+thallium	talij
+thank you	hvala; mnogo hvala; veoma hvala; zahvaljujem; mnogo Vam hvala
+thank you very much	hvala lijepa
+theater	teatar (m)
+there	tamo
+thermosphere	termosfera (f)
+they	oni
+thick	debeo
+thief	lopov (m); tat (m)
+thimble	naprstak (m)
+thing	stvar (f)
+think	misliti
+third	treći
+thirst	žeda (f)
+thirsty	žedan
+thirty	trideset i jedan
+this	ovaj
+thither	tamo
+thorium	torij
+thorn	trn (m)
+thou	ti
+thread	nit (f)
+throne	presto (m)
+thulium	tulij
+thumb	palac (m)
+thunder	grmljavina (f); grom (m)
+tiger	tigar (m)
+time	put (m)
+tin	kositar; kalaj
+tired	umoran
+tit	sjenica
+titanium	titanij
+toad	krastača (f)
+tobacco	duhan (m)
+today	danas
+together	zajedno
+tomato	rajčica (f)
+tomorrow	sutra (n)
+tongue	jezik (m)
+tonight	noćas
+too	također
+toothpaste	zubna pasta
+tornado	tornado (m)
+tortoise	kornjača (f)
+touch	dirati; taknuti
+tourism	turizam (m)
+town	grad (m)
+toy	igračka (f)
+tractor	traktor (m)
+trade	trgovina (f)
+tradition	tradicija (f)
+train	vlak (m)
+tram	tramvaj (m)
+translate	prevesti
+translator	prevoditelj (m)
+travel	putovati
+tree	drvo (n)
+triangle	trokut (m)
+tribe	pleme (n)
+tricycle	tricikl (f)
+trident	trozubac
+trout	pastrva (f)
+truck	kamion
+true	istinit; pravi
+trunk	stablo (n); deblo (n)
+try	pokušati
+tsunami	cunami (m)
+tulip	lala (f); tulipan (m)
+tungsten	volfram
+turkey	puran
+turquoise	tirkiz (m)
+turtle	kornjača (f)
+turtle dove	grlica (f)
+twenty	dvadeset i devet
+twin	blizanac (m)
+tyre	guma (f)
+umbrella	kišobran (m); (m)
+uncle	stric (m); ujak (m) 
+unicorn	jednorog (m)
+university	sveučilište (n); univerzitet (m)
+uranium	uranij
+urethra	mokraćna cijev
+useful	upotrebljiv
+user	korisnik (m)
+vacuum	vakuum (m); vakum (m)
+valley	dolina (f)
+value	vrijednost (f)
+value added tax	porez na dodanu vrijednost (m)
+vampire	vampir
+vanadium	vanadij
+vandalism	vandalizam (m)
+vegetable	biljka (f); biljka (f)
+vegetarian	vegetarijanac (m); vegetarijanka (f)
+vehicle	vozilo (n)
+vein	žila (f)
+verb	glagol (m)
+vertebrate	kralješnjak (m)
+video game	video igre (f)
+village	selo (n)
+vinegar	ocat
+violet	ljubičica (f)
+violin	violina (f)
+virus	virus (m)
+visa	viza (f)
+visible	vidljiv; vidan; uočljiv
+visit	posjetiti
+volcano	vulkan (m)
+volt	volt (m)
+vulture	lešinar (m); sup (m)
+wait	čekati
+waiter	konobar (m); konobarica (f)
+wake up	probuditi se
+walk	hodati
+walnut	orah (m)
+walrus	morž (m)
+want	htjeti
+war	rat (m)
+warm	topao (m), topla (f), toplo (n)
+warship	ratni brod (m)
+wart	bradavica (f)
+wash	umiti
+wasp	osa (f)
+watch	gledati
+water	zalijevati
+waterfall	vodopad (m); slap (m); buk (m)
+wave	val (m); talas (m)
+wax	vosak (m)
+way	put (m)
+we	mi
+weapon	oružje (n)
+weasel	lasica (f)
+weather	vrijeme (n)
+wedding	svadba (f)
+weed	korov (m)
+week	tjedan (m)
+weekend	vikend (m)
+weep	plakati
+welcome	dobrodošli!
+well	dobro
+werewolf	vukodlak (m)
+wet	mokar (m)
+what	što
+what time is it	koliko je sati?
+wheat	pšenica (f)
+where	gdje
+where is the toilet	gdje je zahod
+whip	bič (m)
+whisky	viski (m)
+whistle	zviždaljka (f)
+white	bijela
+who	tko
+whore	kurva
+why	zašto
+wide	širok
+wild boar	divlja svinja
+wildcat	divlja mačka
+willow	vrba (f)
+window	prozor
+wine	vino (n)
+wing	krilo (n)
+winter	zima (f)
+wipe	brisati
+wire	žica (f)
+wise	mudar
+wisent	europski bizon
+witch	vještica (f); vještac (m)
+with	s; sa
+without	bez
+wolf	vuk (m); vučica (f)
+wood	drvo (n)
+woodpecker	žuna (f); djetao (n)
+word	riječ (f)
+workers of the world, unite	proleteri svih zemalja, ujedinite se!
+worm	crv (m)
+wrist	zglavak (m), bilo
+writer	pisac (m); spisatelj (m); spisateljica (f)
+wrong	pogrješan; kriv
+xenon	ksenon
+yawn	zijevati
+yeah	ja
+yellow	žut; žuta (f)
+yoghurt	jogurt (m)
+yoke	igo (n); jaram (m)
+yolk	žumanjak (m)
+you	vi
+young	mlad
+your	tvoj; vaš
+ytterbium	iterbij
+yttrium	itrij
+zebra	zebra (f)
+zero	nula
+zinc	cink
+zirconium	cirkonij
+zoology	zoologija (f)

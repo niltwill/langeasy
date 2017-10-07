@@ -1,0 +1,209 @@
+﻿English	Catalan
+be	ésser
+begin	debutar
+break	rompre, trencar
+buy	comprar
+close	tancar
+come	venir
+dance	dansar
+draw	dibuixar
+drink	beure
+eat	menjar
+fall	caure
+feel	percebre, sentir
+find	trobar
+fire	tirar
+fly	volar
+follow	seguir
+forget	oblidar
+get	obtenir, rebre
+give	donar
+have	haver, tenir
+hear	assabentar-se de, exaudir
+help	acudir
+hope	esperançar, esperar
+jump	saltar
+kiss	besar
+laugh	riure
+learn	aprendre
+lie	jaure, jeure
+lie	mentir
+listen	escoltar
+look	mirar
+lose	perdre
+love	estimar
+make	fer
+meet	caure, encertar
+move	bellugar, moure
+need	necessitar
+offer	oferir
+open	obrir
+pay	pagar
+play	sonar
+pull	estirar, tirar
+put	pondre
+read	llegir
+remember	recordar
+say	dir
+sell	vendre
+sing	cantar
+sit	seure
+smile	somriure
+swim	nedar
+talk	parlar
+understand	comprendre, entendre
+use	utilitzar
+wait	esperar
+write	escriure
+accept	allotjar
+accuse	acusar
+achieve	aconseguir, assolir
+act	fer
+add	afegir
+affect	influir
+agree	accedir a, acceptar
+allow	permetre
+announce	anular
+argue	disputar
+arrive	arribar
+ask	demanar, posar qüestions
+attack	atacar
+avoid	evitar
+be	viure
+bear	dur, portar
+beat	bategar, batre
+become	obtenir, rebre
+believe	creure
+bite	agafar, corroir
+bring	aportar, portar
+build	construir
+call	cridar
+care	curar, tenir cura de
+carry	traginar
+change	canviar
+choose	elegir, triar
+clean	netejar
+compare	comparar
+contain	contenir
+continue	continuar, fer durar
+cook	coure
+cough	tossir
+cry	plorar
+decide	decidir
+describe	descriure
+design	dibuixar
+desire	voler
+develop	desenvolupar
+die	morir
+divide	dividir
+doubt	dubtar
+drive	dirigir
+encourage	alenar
+end	acabar
+enjoy	gaudir
+enter	entrar
+establish	fundar
+exceed	superar
+exist	existir
+expect	esperar
+explain	explicar
+fight	combatre
+find	descobrir
+finish	acabar, finir
+forgive	perdonar
+free	alliberar
+give	up capitular
+grow	crèixer
+happen	ocórrer
+hate	odiar
+hide	camuflar
+hold	aguantar, mantenir
+identify	identificar
+injure	ferir
+introduce	presentar
+introduce	presentar
+join	lligar
+keep	tenir
+kill	matar
+land	aterrar
+lead	conduir
+let	deixar
+lift	elevar
+load	carregament
+lock	tancar amb clau
+look	semblar
+lose	perdre
+manage	administrar
+match	cartejar-se, enllaçar-se
+mean	tenir la intenció de
+measure	mesurar
+mention	mencionar
+miss	deixar passar, desatendre
+order	manar, ordenar
+own	posseir
+peel	pelar
+plow	ginebre
+poison	emmetzinar
+prepare	preparar
+press	premsar
+prevent	impedir
+print	imprimir
+profit	aprofitar-se
+protest	protestar
+prove	demostrar, provar
+publish	publicar
+raise	agambar
+rate	apreciar, avaluar
+reach	aconseguir, assolir
+receive	obtenir, rebre
+record	gravar
+reduce	reduir
+reflect	reflectir
+refuse	negar
+replace	rellevar, substituir
+reply	respondre
+report	informar, referir
+represent	presentar
+request	demanar
+respect	honorar
+reveal	descobrir
+risk	arriscar
+rule	dirigir, dominar
+save	estalviar
+see	veure
+see	considerar
+send	enviar
+serve	servir
+sew	cosir
+shout	xisclar
+show	mostrar
+smell	fer flaire, fer olor
+smell	olorar
+stand	estar dret, estar en algun
+stay	quedar, restar
+steal	robar
+stop	parar
+study	estudiar
+suffer	patir, sofrir
+suggest	proposar
+supply	lliurar
+support	donar suport, estintolar
+surprise	sorprendre
+taste	tastar
+teach	ensenyar
+test	assajar, provar
+thank	agrair
+throw	llençar
+trade	comerciar
+travel	anar
+treat	curar
+trick	decebre, enganyar
+try	assajar, provar
+turn	girar
+visit	visitar
+walk	caminar, marxar
+warm	escalfar
+wash	llavar
+watch	veure
+win	guanyar
+wish	desitjar

@@ -1,0 +1,273 @@
+﻿English	Dutch
+be	[wij] zijn, [ik] ben
+begin	beginnen, [wij] beginnen
+break	breken, [wij] breken
+buy	verwerven, [wij] kopen
+close	sluiten, dichtklappen
+come	komen, [wij] komen
+cut	snijden, afsnijden
+dance	dansen
+do	uitoefenen, [wij] beoefenen
+draw	tekenen, [wij] tekenen
+drink	drinken, [wij] drinken
+eat	eten, [wij] eten
+fall	vallen, [wij] vallen
+feel	tasten, [wij] tasten
+find	vinden, [wij] vinden
+fire	vuren, afvuren
+fly	vliegen, [wij] vliegen
+follow	volgen, [wij] voortvloeien
+forget	vergeten, [wij] vergeten
+get	verkrijgen, [wij] verkrijgen
+give	geven, overhandigen
+have	hebben, [wij] hebben
+hear	horen, [wij] horen
+help	helpen, [wij] helpen
+hope	hopen, [wij] hopen
+jump	springen, [wij] springen
+kiss	kussen, zoenen
+know	0, [wij] weten
+laugh	lachen, [wij] lachen
+learn	leren, [wij] leren
+lie	liggen, [wij] liggen
+lie	liegen, [wij] liegen
+like	houden van, graag hebben
+listen	beluisteren, [wij] beluisteren
+look	kijken, [wij] kijken
+lose	verliezen, [wij] verliezen
+love	houden van, [wij] houden van
+make	doen, [wij] doen
+meet	ontmoeten, [wij] ontmoeten
+move	verroeren, [wij] verroeren
+need	hebben, [wij] hebben
+offer	aanbieden, [wij] aanbieden
+open	openen, [wij] openen
+pay	betalen, [wij] betalen
+play	spelen, [wij] spelen
+pull	trekken, [wij] trekken
+push	duwen, [wij] duwen
+put	zetten, [wij] zetten
+read	lezen, [wij] lezen
+remember	onthouden, [wij] herinneren
+run	rennen, lopen
+say	vertellen, zeggen
+sell	verkopen, [wij] verkopen
+sing	zingen
+sit	zitten, [wij] zitten
+smile	glimlachen, [wij] glimlachen
+swim	zwemmen, [wij] zwemmen
+take	pakken, oppakken
+talk	praten, spreken
+understand	verstaan, begrijpen
+use	gebruiken, [wij] gebruiken
+wait	wachten, afwachten
+write	schrijven, [wij] schrijven
+accept	aanvaarden, [wij] nemen aan
+accuse	beschuldigen, [wij] beschuldigen
+achieve	bereiken, [wij] bereiken
+act	handelen, [wij] handelen
+add	bijvoegen, toevoegen
+add	optellen, [wij] tellen op
+admit	erkennen, [wij] erkennen
+affect	invloed hebben op
+agree	afspreken, overeenstemmen
+allow	toelaten, [wij] laten toe
+announce	aankondigen, [wij] kondigen aan
+argue	redetwisten, ruzie
+arrive	aankomen, [wij] aankomen
+ask	vragen, [wij] vragen
+attack	aanvallen, [wij] tackelen
+avoid	vermijden, [wij] vermijden
+be	leven, [wij] leven
+bear	dragen, torsen
+beat	overwinnen, [wij] overwinnen
+become	worden, [wij] worden
+behave	0
+believe	geloven, [wij] geloven
+benefit	ten goede komen aan, goed doen
+bite	bijten, [wij] bijten
+bring	halen, [wij] halen
+build	bouwen, [wij] bouwen
+burn	afbranden, [wij] branden af
+call	roepen, schreeuwen
+care	0, [wij] geven om
+carry	dragen, [wij] dragen
+catch	opvangen, [wij] opvangen
+cause	teweegbrengen, [wij] teweegbrengen
+change	veranderen, aanpassen
+choose	kiezen, [wij] kiezen
+classify	classificeren, [wij] classificeren
+clean	schoonmaken, [wij] maken schoon
+compare	vergelijken, [wij] vergelijken
+connect	0, [wij] connectie leggen
+contain	bevatten, [wij] bevatten
+continue	voortzetten, [wij] voortzetten
+control	beheersen, beheren
+cook	koken, [wij] koken
+copy	kopiëren, [wij] kopiëren
+cough	hoesten, [wij] hoesten
+crush	verpletteren, [wij] verpletteren
+crush	knijpen, [wij] knijpen
+cry	huilen, [wij] huilen
+decide	beslissen, [wij] beslissen
+deliver	0
+describe	beschrijven, [wij] beschrijven
+design	ontwerpen, [wij] ontwerpen
+desire	willen, [wij] willen
+develop	ontwikkelen, [wij] ontwikkelen
+die	sterven, [wij] overlijden
+discover	ontdekken, [wij] vinden
+discuss	bespreken, [wij] bespreken
+dislike	0
+divide	verdelen, [wij] verdelen
+doubt	twijfelen, [wij] twijfelen
+drive	besturen, [wij] mennen
+embrace	bevatten, [wij] bevatten
+encourage	aanmoedigen, [wij] moedigen aan
+end	eindigen, [wij] eindigen
+enhance	verhogen, [wij] verhogen
+enjoy	genieten, [wij] plezier hebben
+enter	binnengaan, [wij] gaan binnen
+establish	oprichten, [wij] aanleggen
+estimate	veronderstellen, gissen
+exceed	overtreffen, [wij] overtreffen
+exist	bestaan, [wij] bestaan
+expect	verwachten, [wij] afwachten
+explain	uitleggen, verklaren
+express	0, uitdrukken
+fight	vechten, [wij] vechten
+fill	vullen, [wij] vullen
+find	ontdekken
+find	out 0, uitzoeken
+finish	afwerken, beëindigen
+flush	gelijkmaken, [wij] maken gelijk
+forgive	vergeven
+free	verlossen, [wij] verlossen
+give	up zich overgeven
+grow	groeien, [wij] groeien
+happen	gebeuren, [wij] gebeuren
+hate	haten, [wij] haten
+hide	verbergen
+hold	0, vasthouden
+identify	opsporen, [wij] identificeren
+imply	0, invloed hebben op
+include	bevatten, toevoegen
+increase	stijgen, [wij] stijgen
+injure	verwonden, kwetsen
+introduce	0
+introduce	voorstellen, [wij] stellen voor
+join	verbinden, [wij] verbinden
+keep	houden, [wij] houden
+kick	trappen, [wij] trappen
+kill	doden, [wij] doden
+land	aan land gaan
+last	0, [wij] overleven
+lead	leiden, [wij] leiden
+leave	laten, [wij] laten
+let	liet, [wij] laten
+lift	optrekken, optillen
+limit	beperken, [wij] beperken
+load	laden, [wij] laden
+lock	sluiten, afsluiten
+look	er uitzien, eruitzien
+lose	verliezen, [wij] verliezen
+manage	leiden, [wij] leiden
+marry	trouwen, huwen
+match	corresponderen, [wij] corresponderen
+mean	bedoelen, [wij] betekenen
+mean	van plan zijn
+measure	meten, [wij] meten
+mention	noemen, [wij] citeren
+miss	missen, [wij] missen
+miss	missen, [wij] missen
+name	noemen, [wij] noemen
+operate	bedienen, [wij] bedienen
+order	ordenen, bevelen
+own	bezitten, [wij] bezitten
+pass	on 0, [wij] geven
+peel	schillen, [wij] schillen
+plan	plannen, [wij] plannen
+please	0
+plow	ploegen, [wij] ploegen
+poison	vergiftigen, [wij] vergiftigen
+polish	polijsten, oppoetsen
+prepare	voorbereiden, [wij] voorbereiden
+press	drukken, [wij] drukken
+prevent	voorkomen, [wij] voorkomen
+print	afdrukken, [wij] drukken af
+process	verwerken, [wij] verwerken
+profit	verdienen, winst maken
+protest	protesteren, [wij] protesteren
+prove	bewijzen, [wij] bewijzen
+publish	uitgeven, uitbrengen
+raise	fokken, grootbrengen
+rate	schatten, [wij] beoordelen
+reach	bereiken, [wij] bereiken
+receive	ontvangen, [wij] ontvangen
+record	opnemen, [wij] nemen op
+reduce	verlagen, [wij] reduceren
+reflect	spiegelen, [wij] spiegelen
+refuse	weigeren, [wij] afwijzen
+remove	verwijderen, [wij] verwijderen
+render	retourneren, [wij] teruggeven
+replace	vervangen, [wij] vervangen
+reply	antwoorden, [wij] antwoorden
+report	rapporteren, [wij] rapporteren
+represent	vertegenwoordigen, [wij] vertegenwoordigen
+request	verlangen, [wij] verlangen
+respect	eerbiedigen, [wij] respecteren
+rest	0
+reveal	onthullen, [wij] onthullen
+risk	wagen, [wij] wagen
+round	off afronden, [wij] afronden
+rule	regeren, [wij] regeren
+save	besparen, [wij] sparen
+save	redden, [wij] redden
+see	zien, aanschouwen
+see	beschouwen, [wij] beschouwen
+send	op de post doen, [wij] posten
+serve	dienen, uitgevoerd hebben
+sew	naaien, [wij] naaien
+share	delen, [wij] delen
+shout	schreeuwen, [wij][wij] schreeuwen
+show	tonen, laten zien
+smash	slaan, [wij] slaan
+smell	ruiken, geuren
+smell	stinken, [wij] stinken
+smell	ruiken, [wij] ruiken
+smoke	roken, [wij] roken
+spend	doorbrengen, [wij] brengen door
+stand	staan, [wij] staan
+stay	blijven, [wij] blijven
+steal	stelen, ontvreemden
+stop	stoppen, [wij] stoppen
+study	studeren, instuderen
+suffer	lijden, [wij] lijden
+suggest	voorstellen, [wij] stellen voor
+supply	voorzien, [wij] bestellen
+support	steunen, [wij] steunen
+suppose	0, [wij] veronderstellen
+surprise	verrassen, [wij] verrassen
+taste	smaken, [wij] smaken
+teach	aanleren, leren
+test	proberen, [wij] proberen
+thank	bedanken, [wij] bedanken
+think	0, [wij] denken
+throw	werpen, gooien
+title	betitelen, [wij] betitelen
+trade	handel, [wij] handelen
+train	trainen, opleiden
+travel	lopen, [wij] lopen
+treat	behandelen, [wij] behandelen
+trick	beetnemen, [wij] nemen beet
+try	pogen, proberen
+turn	draaien, [wij] draaien
+visit	bezoeken, opzoeken
+walk	lopen, wandelen
+warm	warmen, [wij] warmen
+wash	wassen, [wij] wassen
+watch	kijken, [wij] kijken
+wear	aanhebben, [wij] dragen
+weigh	wegen
+win	winnen, [wij] behalen
+wish	wensen, [wij] wensen

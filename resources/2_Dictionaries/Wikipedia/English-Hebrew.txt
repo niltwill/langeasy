@@ -1,0 +1,6899 @@
+English	Hebrew
+0 (number)	0 (מספר)
+1	1
+1 (number)	1 (מספר)
+10	10
+10 (number)	10 (מספר)
+100	100
+100 (number)	100 (מספר)
+1000	1000
+1000 (number)	1000 (מספר)
+101	101
+105	105
+11	11
+11 (number)	11 (מספר)
+110	110
+115	115
+12	12
+12 (number)	12 (מספר)
+120	120
+125	125
+13	13
+13 (number)	13 (מספר)
+130	130
+135	135
+14	14
+14 (number)	14 (מספר)
+140	140
+144	144
+145	145
+15	15
+15 (number)	15 (מספר)
+150	150
+155	155
+16	16
+16 (number)	16 (מספר)
+160	160
+165	165
+17	17
+17 (number)	17 (מספר)
+170	170
+1728	1728
+175	175
+18	18
+18 (number)	18 (מספר)
+180	180
+19	19
+19 (number)	19 (מספר)
+190	190
+1900s	העשור הראשון של המאה ה-20
+1920s	שנות ה-20 של המאה ה-20
+1930s	שנות ה-30 של המאה ה-20
+1940s	שנות ה-40 של המאה ה-20
+1950s	שנות ה-50 של המאה ה-20
+1960s	שנות ה-60 של המאה ה-20
+1970s	שנות ה-70 של המאה ה-20
+1980s	שנות ה-80 של המאה ה-20
+1990s	שנות ה-90 של המאה ה-20
+2	2
+2 (number)	2 (מספר)
+20	20
+20 (number)	20 (מספר)
+200	200
+21	21
+21 (number)	21 (מספר)
+22	22
+22 (number)	22 (מספר)
+23	23
+23 (number)	23 (מספר)
+24	24
+24 (TV series)	24 (סדרת טלוויזיה)
+24 (number)	24 (מספר)
+25	25
+25 (number)	25 (מספר)
+26	26
+26 (number)	26 (מספר)
+27	27
+27 (number)	27 (מספר)
+28	28
+28 (number)	28 (מספר)
+29	29
+29 (number)	29 (מספר)
+3	3
+3 (number)	3 (מספר)
+30	30
+30 (number)	30 (מספר)
+300	300
+31	31
+31 (number)	31 (מספר)
+32	32
+32 (number)	32 (מספר)
+33	33
+33 (number)	33 (מספר)
+34	34
+34 (number)	34 (מספר)
+35	35
+35 (number)	35 (מספר)
+36	36
+36 (number)	36 (מספר)
+37	37
+37 (number)	37 (מספר)
+38	38
+38 (number)	38 (מספר)
+39	39
+39 (number)	39 (מספר)
+4	4
+4 (number)	4 (מספר)
+40	40
+40 (number)	40 (מספר)
+400	400
+41	41
+41 (number)	41 (מספר)
+42	42
+42 (number)	42 (מספר)
+43	43
+43 (number)	43 (מספר)
+44	44
+45	45
+45 (number)	45 (מספר)
+46	46
+46 (number)	46 (מספר)
+47	47
+48	48
+49	49
+49 (number)	49 (מספר)
+5	5
+5 (number)	5 (מספר)
+50	50
+50 (number)	50 (מספר)
+500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+6 (number)	6 (מספר)
+60	60
+60 (number)	60 (מספר)
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (number)	7 (מספר)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+8 (number)	8 (מספר)
+80	80
+80 (number)	80 (מספר)
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+9 (number)	9 (מספר)
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+A	A
+A (Cyrillic)	А
+A cappella	א-קפלה
+AIDS	איידס
+ALGOL	ALGOL
+AZ (football club)	א.ז. אלקמאר
+Aachen	אאכן
+Aalborg	אלבורג
+Aar	ארה (נהר)
+Aardvark	שנבוב
+Aarhus	אורהוס
+Aaron	אהרן
+Abacus	חשבונייה
+Abadan	אבאדאן
+Abdomen	בטן
+Abel Tasman	אבל ינזון טסמן
+Abelian group	חבורה אבלית
+Aberdeen	אברדין (סקוטלנד)
+Abidjan	אבידג'אן
+Abkhazia	אבחזיה
+Abkhazia	קטגוריה:אבחזיה
+Abolitionism	התנועה לביטול העבדות
+Abortion	הפלה מלאכותית
+Abraham	אברהם
+Abraham Lincoln	אברהם לינקולן
+Absinthe	אבסינת
+Absolute magnitude	בהירות מוחלטת
+Absolute value	ערך מוחלט
+Absolute zero	האפס המוחלט
+Absolutism (European history)	אבסולוטיזם פוליטי
+Abstract art	אמנות מופשטת
+Abstract expressionism	אקספרסיוניזם מופשט
+Abstraction	הפשטה
+Abu Dhabi	אבו דאבי
+Abu Dhabi (emirate)	אבו דאבי
+Abuja	אבוג'ה
+Acacia	שיטה
+Academy Award	פרס אוסקר
+Acceleration	תאוצה
+Accipitridae	נציים
+Accordion	אקורדיון
+Accountancy	חשבונאות
+Accountancy	קטגוריה:חשבונאות
+Accra	אקרה
+Acetic acid	חומצה אצטית
+Acetone	אצטון
+Acetylcholine	אצטילכולין
+Achilles	אכילס
+Acid	חומצה
+Acid rain	גשם חומצי
+Acne vulgaris	אקנה
+Aconcagua	אקונקגואה
+Acoustics	אקוסטיקה
+Acoustics	קטגוריה:אקוסטיקה
+Acre	אקר
+Acre	עכו
+Acre (state)	אקרי (ברזיל)
+Acropolis	אקרופוליס
+Actinide	אקטיניד
+Actinium	אקטיניום
+Actor	שחקן
+Acts of the Apostles	מעשי השליחים
+Acupuncture	דיקור סיני
+Ad hominem	אד הומינם
+Ada (programming language)	עדה (שפת תכנות)
+Adam Smith	אדם סמית
+Adana	אדנה
+Addiction	התמכרות
+Addis Ababa	אדיס אבבה
+Adelaide	אדלייד
+Aden	עדן
+Adenine	אדנין
+Adenosine triphosphate	ATP
+Adige	אדיג'ה
+Adjective	שם תואר
+Admiral	אדמירל
+Adolescence	התבגרות
+Adolf Eichmann	אדולף אייכמן
+Adolf Hitler	אדולף היטלר
+Adonis	אדוניס
+Adoption	אימוץ
+Adrenal gland	בלוטת יותרת הכליה
+Adriatic Sea	הים האדריאטי
+Adult	בגרות
+Advent	הציפייה
+Advertising	פרסום
+Aegean Sea	הים האגאי
+Aeneas	איניאס
+Aeneid	איניאידה
+Aeolus	איולוס
+Aerodynamics	אווירודינמיקה
+Aerosol	תרסיס
+Aeschylus	אייסכילוס
+Aesop	איזופוס
+Aesthetics	אסתטיקה
+Affix	מוספית
+Afghanistan	אפגניסטן
+Afghanistan	קטגוריה:אפגניסטן
+Africa	אפריקה
+Africa	קטגוריה:אפריקה
+African American	אמריקאים אפריקאים
+Afrikaans	אפריקאנס
+Agamemnon	אגממנון
+Agar	אגר
+Agate	אגט
+Agatha Christie	אגאתה כריסטי
+Agnatha	חסרי לסתות
+Agnosticism	אגנוסטיות
+Agora	אגורה (מקום כינוס)
+Agoraphobia	אגורפוביה
+Agra	אגרה (הודו)
+Agriculture	חקלאות
+Agriculture	קטגוריה:חקלאות
+Agrigento	אגריג'נטו
+Aikido	אייקידו
+Air force	חיל אוויר
+Airbus	איירבוס
+Aircraft	כלי טיס
+Aircraft	קטגוריה:כלי טיס
+Aircraft carrier	נושאת מטוסים
+Airline	חברת תעופה
+Airport	שדה תעופה
+Ajax	Ajax
+Ajax (mythology)	איאס
+Ajax (programming)	AJAX (תכנות)
+Akhenaten	אחנתון
+Akira Kurosawa	אקירה קורוסאווה
+Al Capone	אל קפונה
+Al Gore	אל גור
+Al-Qaeda	אל-קאעידה
+Alabama	אלבמה
+Alabama	קטגוריה:אלבמה
+Alan Shepard	אלן שפרד
+Alan Turing	אלן טיורינג
+Alanine	אלנין
+Alaska	אלסקה
+Alaska	קטגוריה:אלסקה
+Alban Berg	אלבן ברג
+Albania	אלבניה
+Albania	קטגוריה:אלבניה
+Albany	אולבני
+Albatross	אלבטרוסיים
+Albedo	אלבדו
+Albert Abraham Michelson	אלברט אברהם מייקלסון
+Albert Camus	אלבר קאמי
+Albert Einstein	אלברט איינשטיין
+Albert Schweitzer	אלברט שווייצר
+Albert Speer	אלברט שפר
+Alberta	אלברטה
+Alberta	קטגוריה:אלברטה
+Albinism	לבקנות
+Albite	אלביט (מינרל)
+Album	אלבום מוזיקה
+Albuquerque	אלבקרקי
+Alchemy	אלכימיה
+Alchemy	קטגוריה:אלכימיה
+Alcohol	כוהל
+Alcoholic beverage	משקה חריף
+Alcoholism	אלכוהוליזם
+Aldehyde	אלדהיד
+Aldous Huxley	אלדוס האקסלי
+Alec Guinness	אלק גינס
+Aleksandr Solzhenitsyn	אלכסנדר סולז'ניצין
+Aleppo	חאלב
+Alexander	אלכסנדר (פירושונים)
+Alexander Fleming	אלכסנדר פלמינג
+Alexander Graham Bell	אלכסנדר גרהם בל
+Alexander Hamilton	אלכסנדר המילטון
+Alexander Pope	אלכסנדר פופ
+Alexander Pushkin	אלכסנדר פושקין
+Alexander the Great	אלכסנדר הגדול
+Alexandre Dumas	אלכסנדר דיומא האב
+Alexandre Dumas	אלכסנדר דיומא הבן
+Alexandria	אלכסנדריה
+Alexis de Tocqueville	אלכסיס דה טוקוויל
+Alfred Dreyfus	אלפרד דרייפוס
+Alfred Hitchcock	אלפרד היצ'קוק
+Alfred Nobel	אלפרד נובל
+Alfred North Whitehead	אלפרד נורת' וייטהד
+Alfred Russel Wallace	אלפרד ראסל וולאס
+Alfred the Great	אלפרד הגדול
+Algae	אצות
+Algebra	אלגברה
+Algebra	קטגוריה:אלגברה
+Algebraic number	מספר אלגברי
+Algeria	אלג'יריה
+Algeria	קטגוריה:אלג'יריה
+Algiers	אלג'יר
+Algorithm	אלגוריתם
+Alhambra	אלהמברה
+Ali	עלי בן אבי טאלב
+Alkali metal	מתכת אלקלית
+Alkaloid	אלקלואיד
+Alkane	אלקאן
+Alkene	אלקן
+Alkyne	אלקין
+Allah	אללה
+Allegory	אלגוריה
+Allele	אלל
+Allen Ginsberg	אלן גינסברג
+Allergy	אלרגיה
+Alliteration	אליטרציה
+Allophone	אלופון
+Allosaurus	אלוזאור
+Allotropy	אלוטרופיה
+Alloy	סגסוגת
+Almanac	אלמנך (ספרות)
+Almaty	אלמטי
+Almond	שקד מצוי
+Alpha (letter)	אלפא
+Alpha Centauri	אלפא קנטאורי
+Alphabet	אלפבית
+Alps	הרי האלפים
+Alps	קטגוריה:הרי האלפים
+Alsace	אלזס
+Altair	אלטאיר
+Altar	מזבח
+Alternating current	זרם חילופין
+Alternative medicine	קטגוריה:רפואה אלטרנטיבית
+Alternative medicine	רפואה אלטרנטיבית
+Altruism	זולתנות
+Aluminium	אלומיניום
+Aluminium oxide	אלומינה
+Alvar Aalto	אלבר אלטו
+Alzheimer's disease	אלצהיימר
+Amanita phalloides	אמנית המוות
+Amaryllidaceae	נרקיסיים
+Amazon River	אמזונאס (נהר)
+Ambassador	שגריר
+Amber	ענבר
+Ambrose	אמברוזיוס
+Amedeo Avogadro	אמדאו אבוגדרו
+Amelia Earhart	אמיליה ארהארט
+American Bison	ביזון אמריקאי
+American Black Bear	דוב שחור אמריקני
+American Civil War	מלחמת האזרחים האמריקנית
+American Revolutionary War	מלחמת העצמאות של ארצות הברית
+American Samoa	סמואה האמריקנית
+American Standard Code for Information Interchange	ASCII
+American football	פוטבול
+American football	קטגוריה:פוטבול
+Americium	אמריציום
+Amerigo Vespucci	אמריגו וספוצ'י
+Amethyst	אחלמה
+Amharic	אמהרית
+Amide	אמיד
+Amine	אמין
+Amino acid	חומצת אמינו
+Amish	אמיש
+Amman	עמאן
+Ammeter	מד זרם
+Ammonia	אמוניה
+Amnesia	אמנזיה
+Ampere	אמפר
+Amphetamine	אמפטמין
+Amphibian	דו-חיים
+Amphitheatre	אמפיתיאטרון
+Amphora	אמפורה
+Amplitude	משרעת
+Amsterdam	אמסטרדם
+Amsterdam	קטגוריה:אמסטרדם
+Amur	אמור (נהר)
+Anabaptist	אנבפטיזם
+Anagram	אנגרמה
+Anaheim	אנהיים
+Analytic geometry	גאומטריה אנליטית
+Anarchism	אנרכיזם
+Anarchism	קטגוריה:אנרכיזם
+Anarchy	אנרכיה
+Anatidae	ברווזיים
+Anatole France	אנטול פרנס
+Anatomy	קטגוריה:אנטומיה
+Anatomy	אנטומיה
+Anaxagoras	אנכסגורס
+Anaximander	אנכסימנדרוס
+Anchor	עוגן
+Anchorage	אנקורג'
+Ancient history	קטגוריה:העת העתיקה
+Andalusia	אנדלוסיה
+Andaman Sea	ים אנדמן
+Anders Celsius	אנדרס צלזיוס
+Andes	הרי האנדים
+Andhra Pradesh	אנדרה פראדש
+Andorra	אנדורה
+Andorra	קטגוריה:אנדורה
+Andrea Palladio	אנדראה פלדיו
+Andrei Sakharov	אנדריי סחרוב
+Andrei Tarkovsky	אנדריי טרקובסקי
+Andrew Jackson	אנדרו ג'קסון
+Andrew Johnson	אנדרו ג'ונסון
+Andrew Lloyd Webber	אנדרו לויד ובר
+Android	אנדרואיד
+Andromeda	אנדרומדה (פירושונים)
+Andromeda (constellation)	אנדרומדה (קבוצת כוכבים)
+Andromeda (mythology)	אנדרומדה
+Andromeda Galaxy	גלקסיית אנדרומדה
+Andy Warhol	אנדי וורהול
+Anemia	אנמיה
+Anemometer	מד מהירות רוח
+Anesthesia	הרדמה
+Angara River	אנגרה (נהר)
+Angel	מלאך
+Angel Falls	מפל אנחל
+Angle	זווית
+Angola	אנגולה
+Angola	קטגוריה:אנגולה
+Anguilla	אנגווילה
+Angular momentum	תנע זוויתי
+Angular velocity	מהירות זוויתית
+Anicius Manlius Severinus Boethius	בואתיוס
+Animal	בעלי חיים
+Animal husbandry	גידול בעלי חיים
+Animation	הנפשה
+Anime	אנימה (הנפשה)
+Anime	קטגוריה:אנימה
+Animism	אנימיזם
+Anise	אניס
+Ankara	אנקרה
+Annapolis	אנאפוליס
+Annapurna	אנאפורנה
+Anne Boleyn	אן בוליין
+Anno Domini	ספירת הנוצרים
+Annunciation	הבשורה למרים
+Anorexia nervosa	אנורקסיה נרבוזה
+Anseriformes	אווזאים
+Anseriformes	קטגוריה:אווזאים
+Ant	נמליים
+Antakya	אנטיוכיה
+Antalya	אנטליה
+Antananarivo	אנטננריבו
+Antarctica	אנטארקטיקה
+Antarctica	קטגוריה:אנטארקטיקה
+Antares	אנטארס
+Antenna (radio)	אנטנה
+Anthony Hopkins	אנתוני הופקינס
+Anthrax	גחלת
+Anthropology	אנתרופולוגיה
+Anthropology	קטגוריה:אנתרופולוגיה
+Anthroposophy	אנתרופוסופיה
+Antibiotic	אנטיביוטיקה
+Antibody	נוגדן
+Antichrist	אנטיכריסט
+Anticyclone	אנטי ציקלון
+Antigen	אנטיגן
+Antigone	אנטיגונה
+Antigua and Barbuda	אנטיגואה וברבודה
+Antigua and Barbuda	קטגוריה:אנטיגואה וברבודה
+Antimatter	אנטי-חומר
+Antimony	אנטימון
+Antioxidant	נוגד חמצון
+Antipope	אנטי-אפיפיור
+Antisemitism	אנטישמיות
+Antisemitism	קטגוריה:אנטישמיות
+Antoine Lavoisier	אנטואן לבואזיה
+Anton Bruckner	אנטון ברוקנר
+Anton Chekhov	אנטון צ'כוב
+Antonio Stradivari	אנטוניו סטרדיווארי
+Antonio Vivaldi	אנטוניו ויוואלדי
+Antwerp	אנטוורפן
+Anubis	אנוביס
+Anus	פי הטבעת
+Aorta	אב העורקים
+Apache	אפאצ'י (שבט)
+Apatite	אפטיט
+Ape	הומינואידים
+Aphasia	אפאזיה
+Aphrodite	אפרודיטה
+Apia	אפיה (עיר)
+Apiaceae	סוככיים
+Apodiformes	סיסאים
+Apollo	אפולו
+Apollo program	תוכנית אפולו
+Apollo program	קטגוריה:תוכנית אפולו
+Apoptosis	אפופטוזה
+Appalachian Mountains	הרי האפלצ'ים
+Appendicitis	דלקת התוספתן
+Apple	תפוח
+Applied mathematics	מתמטיקה שימושית
+Apricot	משמש
+April	אפריל
+April 14	14 באפריל
+April Fools' Day	אחד באפריל
+Apse	אפסיס
+Apulia	פוליה
+Aqaba	עקבה
+Aqua regia	מי מלך
+Aquamarine	אקוומרין
+Aquarium	אקווריום
+Aquarius (constellation)	דלי (קבוצת כוכבים)
+Aqueduct	אמת מים
+Aquila (constellation)	נשר (קבוצת כוכבים)
+Aquitaine	אקיטן
+Ara (constellation)	מזבח (קבוצת כוכבים)
+Arab	ערבים
+Arab League	הליגה הערבית
+Arabian Peninsula	חצי האי ערב
+Arabian Sea	הים הערבי
+Arabic alphabet	אלפבית ערבי
+Arabic language	ערבית
+Arachnid	עכבישניים
+Arafura Sea	ים אראפורה
+Aragon	אראגון
+Aral Sea	ימת אראל
+Aram Khachaturian	אראם חאצ'טוריאן
+Arcadia	ארקאדיה
+Arcangelo Corelli	ארכאנג'לו קורלי
+Arch	קשת (מבנה)
+Archaeology	ארכאולוגיה
+Archaeology	קטגוריה:ארכיאולוגיה
+Archaeopteryx	ארכיאופטריקס
+Archbishop	ארכיבישוף
+Archean	ארכאיקון
+Archetype	ארכיטיפ
+Archimedes	ארכימדס
+Archipelago	ארכיפלג
+Architect	אדריכל
+Architecture	אדריכלות
+Architecture	קטגוריה:אדריכלות
+Archive	ארכיון
+Archosaur	ארכוזאוריה
+Arctic	האזור הארקטי
+Arctic Circle	החוג הארקטי
+Arctic Ocean	אוקיינוס הקרח הצפוני
+Arctic fox	שועל שלג
+Ardennes	ארדנים
+Area	שטח
+Arecaceae	דקליים
+Ares	ארס (מיתולוגיה)
+Argentina	ארגנטינה
+Argentina	קטגוריה:ארגנטינה
+Argon	ארגון (יסוד)
+Argos	ארגוס
+Aria	אריה (מוזיקה)
+Ariadne	אריאדנה
+Arianism	האריאניות
+Aries (constellation)	טלה (קבוצת כוכבים)
+Aristarchus of Samos	אריסטרכוס מסמוס
+Aristocracy	אריסטוקרטיה
+Aristophanes	אריסטופאנס
+Aristotle	אריסטו
+Arithmetic	אריתמטיקה
+Arithmetic	קטגוריה:אריתמטיקה
+Arithmetic progression	סדרה חשבונית
+Arizona	אריזונה
+Arizona	קטגוריה:אריזונה
+Ark of the Covenant	ארון הברית
+Arkansas	ארקנסו
+Arkansas	קטגוריה:ארקנסו
+Arles	ארל
+Armadillo	ארמדיליים
+Armenia	ארמניה
+Armenia	קטגוריה:ארמניה
+Armenian language	ארמנית
+Arminius	ארמיניוס
+Armour	שריון
+Army	צבא
+Arnhem	ארנהם
+Arno River	ארנו
+Arnold Schoenberg	ארנולד שנברג
+Aromatic hydrocarbon	ארומטיות
+Arras	אראס
+Arrow	חץ
+Arsenic	ארסן
+Art	אמנות
+Art Deco	אר דקו
+Art Nouveau	אר נובו
+Art history	תולדות האמנות
+Artemis	ארטמיס
+Artemisia (plant)	לענה
+Artery	עורק
+Arthritis	דלקת פרקים
+Arthropod	פרוקי רגליים
+Arthur Compton	ארתור קומפטון
+Arthur Conan Doyle	ארתור קונאן דויל
+Arthur Miller	ארתור מילר
+Arthur Rimbaud	ארתור רמבו
+Arthur Schopenhauer	ארתור שופנהאואר
+Arthur Wellesley	ארתור ולסלי, הדוכס הראשון מוולינגטון
+Artificial intelligence	בינה מלאכותית
+Artillery	ארטילריה
+Artillery	קטגוריה:ארטילריה
+Artist	אמן (אמנות)
+Arts	קטגוריה:אמנות
+Arturo Toscanini	ארטורו טוסקניני
+Aruba	ארובה (טריטוריה)
+Aruba	קטגוריה:ארובה
+Asbestos	אזבסט
+Asclepius	אסקלפיוס
+Asexuality	א-מיניות
+Asgard	אסגארד
+Ash Wednesday	יום רביעי של האפר
+Ashurbanipal	אשורבניפל
+Asia	אסיה
+Asia	קטגוריה:אסיה
+Asmara	אסמרה
+Aspartame	אספרטם
+Asphalt	אספלט
+Aspirin	אספירין
+Assam	אסאם
+Assassination	התנקשות
+Assembly language	שפת סף
+Association of Southeast Asian Nations	איגוד מדינות דרום-מזרח אסיה
+Assyria	אשור
+Assyria	קטגוריה:אשור
+Astana	אסטנה
+Astatine	אסטטין
+Asteraceae	מורכבים
+Asteraceae	קטגוריה:מורכבים
+Asteroid	אסטרואיד
+Asteroid belt	חגורת האסטרואידים
+Asthma	אסתמה
+Astigmatism (eye)	אסטיגמציה
+Astrakhan	אסטרחן
+Astrobiology	אסטרוביולוגיה
+Astrolabe	אצטרולב
+Astrology	אסטרולוגיה
+Astrology	קטגוריה:אסטרולוגיה
+Astronaut	טייס חלל
+Astronomer	אסטרונום
+Astronomical unit	יחידה אסטרונומית
+Astronomy	אסטרונומיה
+Astronomy	קטגוריה:אסטרונומיה
+Astronomy	פורטל:מדעי החלל
+Astrophysics	אסטרופיזיקה
+Astrophysics	קטגוריה:אסטרופיזיקה
+Aswan	אסואן
+Asymptote	אסימפטוטה
+Asynchronous Transfer Mode	ATM
+Atacama Desert	מדבר אטקמה
+Athena	אתנה
+Athens	אתונה
+Athletics	קטגוריה:אתלטיקה
+Athletics (track and field)	אתלטיקה
+Atlanta	אטלנטה
+Atlantic Ocean	האוקיינוס האטלנטי
+Atlantic Ocean	קטגוריה:האוקיינוס האטלנטי
+Atlantis	אטלנטיס
+Atlas (disambiguation)	אטלס
+Atlas (mythology)	אטלס (מיתולוגיה)
+Atlas Mountains	הרי האטלס
+Atmosphere (unit)	אטמוספירה (מידה)
+Atmospheric pressure	לחץ אטמוספירי
+Atoll	אטול
+Atom	אטום
+Atomic clock	שעון אטומי
+Atomic mass	משקל אטומי
+Atomic mass unit	דלטון
+Atomic number	מספר אטומי
+Atomic physics	קטגוריה:פיזיקה אטומית
+Atomic physics	פיזיקה אטומית
+Atreus	אטראוס
+Atropine	אטרופין
+Attica	אטיקה
+Attila the Hun	אטילה ההוני
+Auckland	אוקלנד (ניו זילנד)
+Auction	מכירה פומבית
+August	אוגוסט
+August 1	1 באוגוסט
+August 15	15 באוגוסט
+August 6	6 באוגוסט
+August Strindberg	יוהן אוגוסט סטרינדברג
+Augusta	אוגוסטה (מיין)
+Auguste Comte	אוגוסט קונט
+Auguste Rodin	אוגוסט רודן
+Augustine of Hippo	אוגוסטינוס
+Augustus	אוגוסטוס קיסר
+Auriga (constellation)	עגלון (קבוצת כוכבים)
+Aurora	אורורה
+Aurora (astronomy)	זוהר הקוטב
+Austin	אוסטין
+Australia	אוסטרליה
+Australia	קטגוריה:אוסטרליה
+Australian dollar	דולר אוסטרלי
+Australopithecus	אוסטרלופיתקוס
+Austria	אוסטריה
+Austria	קטגוריה:אוסטריה
+Austria-Hungary	האימפריה האוסטרו-הונגרית
+Author	סופר
+Authority	סמכות
+Autism	אוטיזם
+Autobiography	אוטוביוגרפיה
+Automated teller machine	כספומט
+Automobile	מכונית
+Autonomic nervous system	מערכת העצבים האוטונומית
+Autotroph	אוטוטרוף
+Autumn	סתיו
+Auvergne (region)	אוברן
+Avalanche	מפולת שלגים
+Avant-garde	אוונגרד
+Avatar	אוואטר
+Avena	שיבולת שועל
+Averroes	אבן רושד
+Aviation	קטגוריה:תעופה
+Aviation	תעופה
+Avicenna	אבן סינא
+Avignon	אביניון
+Avocado	אבוקדו
+Axe	גרזן
+Axiom	אקסיומה
+Axon	אקסון (סיב עצבי)
+Ayatollah	אייתוללה
+Ayn Rand	איין ראנד
+Azerbaijan	אזרבייג'ן
+Azerbaijan	קטגוריה:אזרבייג'ן
+Azimuth	אזימוט
+Azores	האיים האזוריים
+Aztec	אצטקים
+Azurite	אזוריט
+B	B
+BASIC	BASIC
+Baal	בעל (אל)
+Baboon	בבון
+Babylon	בבל
+Backgammon	שש בש
+Bacteria	חיידקים
+Bacteria	קטגוריה:חיידקים אמיתיים
+Bacteriophage	בקטריופאג'
+Bactrian Camel	גמל דו דבשתי
+Badminton	בדמינטון
+Baffin Bay	מפרץ באפין
+Baghdad	בגדאד
+Bahrain	בחריין
+Bahrain	קטגוריה:בחריין
+Baja California	באחה קליפורניה
+Baklava	בקלווה
+Baku	באקו
+Balalaika	בללייקה (כלי נגינה)
+Balance sheet	מאזן
+Baldr	בלדר
+Balearic Islands	האיים הבלאריים
+Baleen whale	לווייתני מזיפות
+Bali	באלי
+Balkan Mountains	הרי הבלקן
+Balkans	חבל הבלקן
+Ball	כדור משחק
+Ballet	בלט
+Ballet	קטגוריה:בלט
+Ballistic missile	טיל בליסטי
+Baltic Sea	הים הבלטי
+Baltimore	בולטימור
+Bamako	במקו
+Bamboo	חזרן
+Banana	בננה
+Banana republic	רפובליקת בננות
+Bangalore	בנגלור
+Bangkok	בנגקוק
+Bangladesh	בנגלדש
+Bangladesh	קטגוריה:בנגלדש
+Bangui	בנגי
+Banjul	בנג'ול
+Bank	בנק
+Banknote	שטר כסף
+Banks	קטגוריה:בנקים
+Baptism	טבילה לנצרות
+Baptist	בפטיזם
+Bar (unit)	בר (מידה)
+Barbados	ברבדוס
+Barbados	קטגוריה:ברבדוס
+Barbarian	ברברים (מונח)
+Barbra Streisand	ברברה סטרייסנד
+Barcelona	ברצלונה
+Barcelona	קטגוריה:ברצלונה
+Barents Sea	ים ברנץ
+Bari	בארי (עיר)
+Barium	בריום
+Barley	שעורה
+Barn Owl	תנשמת לבנה
+Barn Swallow	סנונית הרפתות
+Barometer	ברומטר
+Baron	ברון
+Baroque	בארוק
+Barranquilla	ברנקייה
+Barrel (unit)	חבית (יחידת מידה)
+Baryon	באריון
+Basalt	בזלת
+Base (chemistry)	בסיס (כימיה)
+Baseball	כדור בסיס
+Baseball	קטגוריה:בייסבול
+Basel	באזל
+Bash	Bourne-again shell
+Basidiomycota	פטריות בסיסה
+Basil	ריחן (צמח)
+Basil of Caesarea	בזיליוס הגדול
+Basilica	בזיליקה
+Basilicata	בזיליקטה
+Basilisk	בסיליסק
+Basketball	כדורסל
+Basketball	קטגוריה:כדורסל
+Basra	בצרה
+Bass guitar	גיטרה בס
+Basse-Normandie	נורמנדי תחתית
+Basseterre	באסטר
+Bassoon	בסון
+Bastille	בסטיליה
+Bat	עטלפים
+Bath	באת'
+Batman	באטמן
+Baton Rouge	באטון רוז'
+Bats	קטגוריה:עטלפים
+Battalion	גדוד
+Battery (electricity)	סוללה חשמלית
+Battle of Austerlitz	קרב אוסטרליץ
+Battle of Britain	הקרב על בריטניה
+Battle of Hastings	קרב הייסטינגס
+Battle of Lepanto (1571)	קרב לפנטו
+Battle of Marathon	קרב מרתון
+Battle of Midway	קרב מידוויי
+Battle of Thermopylae	קרב תרמופילאי
+Battle of Trafalgar	קרב טרפלגר
+Battle of Verdun	קרב ורדן
+Battle of Waterloo	קרב ווטרלו
+Battle of the Bulge	קרב הארדנים
+Battle of the Somme	הקרב על הסום
+Battleship	אוניית מערכה
+Bauhaus	באוהאוס
+Bauxite	בוקסיט
+Bavaria	בוואריה
+Bavaria	קטגוריה:בוואריה
+Bay Laurel	ער אציל
+Bay of Bengal	מפרץ בנגל
+Bay of Biscay	מפרץ ביסקאיה
+Bayonet	כידון רובה
+Bayonne	ביון (עיר)
+Beach	חוף
+Beagle	ביגל
+Beak	מקור
+Bear	דוביים
+Beaufort scale	סולם בופור
+Beaver	בונה (בעל חיים)
+Bebop	בי בופ
+Becquerel	בקרל
+Bed	מיטה
+Bede	בדה ונרביליס
+Bedouin	בדואים
+Bee	דבורה (חרק)
+Beech	אשור (עץ)
+Beer	בירה
+Beer	קטגוריה:בירה
+Beetle	חיפושיות
+Behaviorism	ביהביוריזם
+Beijing	בייג'ינג
+Beirut	ביירות
+Belarus	בלארוס
+Belarus	קטגוריה:בלארוס
+Belfast	בלפאסט
+Belgium	בלגיה
+Belgium	קטגוריה:בלגיה
+Belgrade	בלגרד
+Belisarius	בליזריוס
+Belize	בליז
+Belize	קטגוריה:בליז
+Bell (instrument)	פעמון
+Bellerophon	בלרופון
+Belly dance	מחול מזרחי
+Belo Horizonte	בלו הוריזונטה
+Beluga	לבנתן לבן
+Benelux	בנלוקס
+Bengal	בנגל
+Benghazi	בנגאזי
+Benin	בנין
+Benin	קטגוריה:בנין
+Benito Mussolini	בניטו מוסוליני
+Benjamin Britten	בנג'מין בריטן
+Benjamin Disraeli	בנימין ד'יזראלי
+Benjamin Franklin	בנג'מין פרנקלין
+Benjamin Harrison	בנג'מין הריסון
+Benny Goodman	בני גודמן
+Beowulf	ביאוולף
+Bergen	ברגן
+Bering Sea	ים ברינג
+Bering Strait	מצר ברינג
+Berkelium	ברקליום
+Berkshire	ברקשייר
+Berlin	ברלין
+Berlin	קטגוריה:ברלין
+Bermuda	ברמודה
+Bermuda	קטגוריה:ברמודה
+Bermuda Triangle	משולש ברמודה
+Bernardo Bertolucci	ברנרדו ברטולוצ'י
+Berne	ברן
+Bernhard Riemann	ברנרד רימן
+Berry	פירות יער
+Bertolt Brecht	ברטולט ברכט
+Bertrand Russell	ברטראנד ראסל
+Beryl	בריל
+Beryllium	בריליום
+Beta (letter)	בטא
+Beta decay	קרינת בטא
+Betelgeuse	ביטלג'וז
+Bethlehem	בית לחם
+Bette Davis	בטי דייוויס
+Beverly Hills	בוורלי הילס
+Bey	ביי
+Bhutan	בהוטן
+Bhutan	קטגוריה:בהוטן
+Bible	ביבליה
+Bibliography	ביבליוגרפיה
+Bicycle	אופניים
+Big Bang	המפץ הגדול
+Bihar	ביהר
+Bikini	ביקיני
+Bill Clinton	ביל קלינטון
+Bill Gates	ביל גייטס
+Billy Wilder	בילי ויילדר
+Binary star	כוכב כפול
+Binoculars	משקפת
+Biochemistry	ביוכימיה
+Biochemistry	קטגוריה:ביוכימיה
+Biodiversity	מגוון ביולוגי
+Biography	ביוגרפיה
+Biography	פורטל:אישים
+Biological warfare	לוחמה ביולוגית
+Biology	ביולוגיה
+Biology	קטגוריה:ביולוגיה
+Biology	פורטל:ביולוגיה
+Biomass	ביומסה
+Biome	ביומה
+Biometrics	ביומטריה
+Biophysics	ביופיזיקה
+Biopsy	ביופסיה
+Biosphere	אקולוגיה#.D7.94.D7.91.D7.99.D7.95.D7.A1.D7.A4.D7.A8.D7.94
+Biotechnology	ביוטכנולוגיה
+Biotechnology	קטגוריה:ביוטכנולוגיה
+Biotin	ביוטין
+Bipolar disorder	הפרעה דו-קוטבית
+Birch	שדר
+Bird	עופות
+Birmingham	ברמינגהאם (אלבמה)
+Birth control	פיקוח ילודה
+Bisexuality	ביסקסואליות
+Bishkek	בישקק
+Bishop	בישוף
+Bishop (chess)	רץ (שחמט)
+Bismarck	ביסמרק (דקוטה הצפונית)
+Bismarck (disambiguation)	ביסמרק (פירושונים)
+Bismuth	ביסמוט
+Bissau	ביסאו
+Bit	סיבית
+Bithynia	ביתיניה
+Bivalvia	צדפות
+Black	שחור
+Black Death	המוות השחור
+Black Forest	היער השחור
+Black Kite	דיה מצויה
+Black Sea	הים השחור
+Black Stork	חסידה שחורה
+Black body	קרינת גוף שחור
+Black hole	חור שחור
+Black pepper	פלפל שחור
+Blackbird	שחרור
+Blaise Pascal	בלז פסקל
+Blender (software)	בלנדר (תוכנת גרפיקה)
+Blindness	עיוורון
+Blitzkrieg	מלחמת בזק
+Bloemfontein	בלומפונטיין
+Blog	בלוג
+Blood	דם
+Blood plasma	פלזמה (דם)
+Blood pressure	לחץ דם
+Blood type	סוג דם
+Blue	כחול
+Blue Whale	לווייתן כחול
+Blues	בלוז
+Boar	חזיר בר
+Board game	משחק לוח
+Boat	סירה
+Bob Dylan	בוב דילן
+Bob Marley	בוב מארלי
+Bobby Fischer	בובי פישר
+Body mass index	BMI
+Bodybuilding	פיתוח גוף
+Bohemia	בוהמיה
+Bohrium	בוהריום
+Boiling point	נקודת רתיחה
+Boise	בויסי
+Bolivia	בוליביה
+Bolivia	קטגוריה:בוליביה
+Bollywood	בוליווד
+Bologna	בולוניה
+Bolzano	בולצנו
+Bomb	מטען חבלה
+Bomber	מפציץ
+Bombyx mori	טוואי המשי
+Bond (finance)	איגרת חוב
+Bone	עצם
+Bone marrow	מוח עצם
+Bonn	בון
+Bonsai	בונסאי
+Book	ספר
+Book of Esther	מגילת אסתר
+Book of Joshua	ספר יהושע
+Book of Judges	ספר שופטים
+Book of Numbers	במדבר
+Book of Revelation	חזון יוחנן
+Book of Ruth	מגילת רות
+Boolean algebra (structure)	אלגברה בוליאנית
+Boomerang	בומרנג
+Bordeaux	בורדו
+Boris Godunov	בוריס גודונוב
+Boris Pasternak	בוריס פסטרנק
+Boris Spassky	בוריס ספאסקי
+Borneo	בורנאו
+Boron	בורון
+Bosnia and Herzegovina	בוסניה והרצגובינה
+Bosnia and Herzegovina	קטגוריה:בוסניה והרצגובינה
+Boson	בוזון
+Bosporus	בוספורוס
+Boston	בוסטון
+Boston Tea Party	מסיבת התה של בוסטון
+Bot	תבנית:בוט
+Botanical garden	גן בוטני
+Botany	בוטניקה
+Botany	קטגוריה:בוטניקה
+Botswana	בוטסואנה
+Botswana	קטגוריה:בוטסואנה
+Bottle	בקבוק
+Bottlenose Dolphin	דולפינן
+Bourgeoisie	בורגנות
+Bourgogne	בורגון
+Bouvet Island	בובה (אי)
+Bovid	פריים
+Bow (weapon)	חץ וקשת
+Bowling	כדורת
+Boxer (dog)	בוקסר (כלב)
+Boxers	קטגוריה:מתאגרפים
+Boxing	איגרוף
+Boxing	קטגוריה:איגרוף
+Boyle's law	חוק בויל-מריוט
+Bracket	סוגריים
+Brahma	ברהמה
+Brahmaputra River	בראהמאפוטרה
+Braille	כתב ברייל
+Brain	מוח
+Brainstorming	סיעור מוחות
+Bram Stoker	ברם סטוקר
+Brandenburg	ברנדנבורג
+Brandy	ברנדי
+Brass	פליז
+Brassicaceae	מצליבים
+Brassiere	חזייה
+Bratislava	ברטיסלאבה
+Braunschweig	בראונשווייג
+Brazil	ברזיל
+Brazil	קטגוריה:ברזיל
+Brazzaville	ברזוויל
+Bread	לחם
+Breast	שד (איבר)
+Breast cancer	סרטן השד
+Bremen	ברמן
+Brest	ברסט ליטובסק
+Brest	ברסט
+Bretagne	ברטאן
+Brick	לבנה (בנייה)
+Bridge	גשר
+Bridges	קטגוריה:גשרים
+Bridgetown	ברידג'טאון
+Brigade	חטיבה
+Brighton	ברייטון
+Brindisi	ברינדיזי
+Brisbane	בריזביין
+Bristol	בריסטול
+British Columbia	קולומביה הבריטית
+British Empire	האימפריה הבריטית
+British Isles	האיים הבריטיים
+British Virgin Islands	איי הבתולה הבריטיים
+British people	קטגוריה:בריטים
+Brno	ברנו
+Broadway (New York City)	ברודוויי
+Broccoli	ברוקולי
+Bromine	ברום
+Bronze	ארד
+Bronze Age	תקופת הברונזה
+Brooklyn	ברוקלין
+Brooklyn Bridge	גשר ברוקלין
+Brown	חום (צבע)
+Brown Bear	דוב חום
+Brownian motion	תנועה בראונית
+Bruce Lee	ברוס לי
+Bruges	ברוז'
+Brunei	ברוניי
+Brunei	קטגוריה:ברוניי
+Brussels	בריסל
+Bubonic plague	דבר
+Bucharest	בוקרשט
+Buckingham Palace	ארמון בקינגהאם
+Buckminster Fuller	באקמינסטר פולר
+Buckwheat	כוסמת
+Budapest	בודפשט
+Buddhism	בודהיזם
+Buddhism	קטגוריה:בודהיזם
+Buddy Holly	באדי הולי
+Buenos Aires	בואנוס איירס
+Buffalo	באפלו
+Building	מבנה
+Bujumbura	בוג'ומבורה
+Bulgaria	בולגריה
+Bulgaria	קטגוריה:בולגריה
+Buoyancy	חוק ארכימדס
+Bureaucracy	ביורוקרטיה
+Burgomaster	ראש עירייה
+Burkina Faso	בורקינה פאסו
+Burkina Faso	קטגוריה:בורקינה פאסו
+Burma	מיאנמר
+Burma	קטגוריה:מיאנמר
+Burqa	בורקה
+Bursa	בורסה (עיר)
+Burundi	קטגוריה:בורונדי
+Bus	אוטובוס
+Business	עסקים
+Businesspeople	קטגוריה:אנשי עסקים
+Buster Keaton	באסטר קיטון
+Butane	בוטאן
+Butter	חמאה
+Butterfly effect	אפקט הפרפר
+Bydgoszcz	בידגושץ'
+Byte	בית (מחשב)
+Byzantine Empire	קטגוריה:האימפריה הביזנטית
+C	C
+C (programming language)	C (שפת תכנות)
+C. S. Lewis	ק.ס. לואיס
+CN Tower	מגדל סי אן
+COBOL	COBOL
+Cabaret	קברט
+Cacao	קקאו (עץ)
+Cache	זיכרון מטמון
+Cactus	צבריים
+Cadmium	קדמיום
+Cadmus	קדמוס
+Caesium	צסיום
+Caffeine	קפאין
+Cairo	קהיר
+Cake	עוגה
+Calabria	קלבריה
+Calais	קאלה
+Calcite	קלציט
+Calcium	סידן
+Calcium carbonate	סידן פחמתי
+Calcium oxide	סיד
+Calculator	מחשבון
+Calculus	חשבון אינפיניטסימלי
+Caldera	קלדרה
+Calendar	לוח שנה
+Caliber	קליבר
+California	קליפורניה
+California	קטגוריה:קליפורניה
+Californium	קליפורניום
+Caligula	קליגולה
+Calligraphy	קליגרפיה
+Calliope	קאליופה
+Callisto (moon)	קליסטו (ירח)
+Callisto (mythology)	קליסטו (מיתולוגיה)
+Calorie	קלוריה
+Calvary	גבעת הגולגולתא
+Calvin Coolidge	קלווין קולידג'
+Calvinism	קלוויניזם
+Calypso (mythology)	קליפסו (דמות מיתולוגית)
+Cambodia	קמבודיה
+Cambodia	קטגוריה:קמבודיה
+Cambrian	קמבריון
+Cambridge	קיימברידג'
+Cambridge	קיימברידג' (מסצ'וסטס)
+Cambridge (disambiguation)	קיימברידג' (פירושונים)
+Camel	גמל
+Camembert (cheese)	קממבר
+Camera	מצלמה
+Cameroon	קמרון
+Cameroon	קטגוריה:קמרון
+Campania	קמפניה
+Canada	קנדה
+Canada	קטגוריה:קנדה
+Canadian dollar	דולר קנדי
+Canal	תעלה
+Canary Islands	האיים הקנריים
+Canary Islands	קטגוריה:האיים הקנריים
+Canberra	קנברה
+Cancer	סרטן (מחלה)
+Cancer (constellation)	סרטן (קבוצת כוכבים)
+Candela	קנדלה
+Candle	נר
+Canidae	כלביים
+Canis Major	כלב גדול
+Canis Minor	כלב קטן
+Cannabis	קנאביס
+Cannabis (drug)	מריחואנה
+Cannes	קאן
+Cannibalism	קניבליזם
+Cannon	תותח
+Canoe	קאנו
+Canon (company)	קנון
+Canopus	קאנופוס
+Cantata	קנטטה
+Canterbury	קנטרברי
+Canute the Great	קאנוט הגדול
+Capacitor	קבל
+Cape Horn	כף הורן
+Cape Town	קייפטאון
+Cape Verde	כף ורדה
+Cape of Good Hope	כף התקווה הטובה
+Capital	עיר בירה
+Capital (economics)	הון
+Capital punishment	עונש מוות
+Capitalism	קפיטליזם
+Cappadocia	קפדוקיה
+Capricornus	גדי (קבוצת כוכבים)
+Capsicum	פלפלת
+Caracal	קרקל
+Caracas	קראקס
+Carambola	קרמבולה
+Carat (mass)	קרט (יחידת משקל)
+Carat (purity)	קרט (יחידת משקל)
+Caravaggio	קאראווג'ו
+Carbohydrate	פחמימה
+Carbon	פחמן
+Carbon dioxide	פחמן דו-חמצני
+Carbon monoxide	פחמן חד-חמצני
+Carbonic acid	חומצה פחמתית
+Carboniferous	קרבון
+Carboxylic acid	חומצה קרבוקסילית
+Carburetor	מאייד
+Card game	משחק קלפים
+Cardamom	הל
+Cardiff	קארדיף
+Cardinal (Catholicism)	חשמן
+Cardinal Richelieu	הקרדינל רישלייה
+Cardiology	קרדיולוגיה
+Cardiovascular system	קטגוריה:מערכת הדם
+Caribbean	האיים הקאריביים
+Caribbean	קטגוריה:הים הקריבי
+Caribbean Sea	הים הקריבי
+Caricature	קריקטורה
+Carina (constellation)	שדרית (קבוצת כוכבים)
+Carl David Anderson	קארל דייוויד אנדרסון
+Carl Jung	קרל גוסטב יונג
+Carl Lewis	קרל לואיס
+Carl Maria von Weber	קרל מריה פון ובר
+Carl Orff	קארל אורף
+Carnival	קרנבל
+Carnivora	טורפים (סדרת יונקים)
+Carnivore	טורפים (ביולוגיה)
+Carnivorous plant	צמחים טורפים
+Carolingian dynasty	השושלת הקרולינגית
+Carolus Linnaeus	קארולוס ליניאוס
+Carpathian Mountains	הרי הקרפטים
+Carrot	גזר
+Carson City	קרסון סיטי
+Cartagena	קרטחנה (ספרד)
+Cartesian coordinate system	מערכת צירים קרטזית
+Cartesian product	מכפלה קרטזית
+Carthage	קרתגו
+Cartography	קרטוגרפיה
+Cartography	קטגוריה:קרטוגרפיה
+Cary Grant	קרי גרנט
+Caryophyllales	ציפורנאים
+Casablanca	קזבלנקה
+Cashew	קשיו
+Casino	קזינו
+Caspian Sea	הים הכספי
+Cassandra	קסנדרה
+Cassiopeia (constellation)	קסיופאה
+Cast iron	יצקת
+Caste	קאסטה
+Castile (historical region)	קסטיליה
+Castle	טירה (מבצר)
+Castling	הצרחה
+Castries	קסטריס
+Casus belli	עילה למלחמה
+Cat	חתול
+Catalonia	קטלוניה
+Catalonia	קטגוריה:קטלוניה
+Catalysis	זרז
+Cataphract	קטפרקט
+Cataract	קטרקט
+Catharism	קתרים
+Cathedral	קתדרלה
+Catherine Parr	קתרין פאר
+Catherine of Aragon	קתרינה, נסיכת אראגון
+Catholicism	נצרות קתולית
+Cattle	פרה
+Cattle Egret	אנפית בקר
+Caucasus	קווקז
+Caucasus	קטגוריה:קווקז
+Caucasus Mountains	הרי הקווקז
+Cauliflower	כרובית
+Causality	סיבתיות
+Cavalry	חיל פרשים
+Cave	מערה
+Caviar	קוויאר
+Cayenne	קאיין
+Cayman Islands	איי קיימן
+Cecil Rhodes	ססיל רודז
+Cedar	ארז
+Celery	סלרי
+Celestial sphere	כיפת השמים
+Cell (biology)	תא
+Cell membrane	קרום התא
+Cell nucleus	גרעין התא
+Cell wall	דופן התא
+Cello	צ'לו
+Cellulose	תאית
+Celsius	מעלות צלזיוס
+Cement	צמנט
+Cemetery	בית קברות
+Cenozoic	קנוזואיקון
+Census	מפקד אוכלוסין
+Centaur	קנטאור
+Centaurus	קנטאור (קבוצת כוכבים)
+Center of mass	מרכז מסה
+Central Africa	מרכז אפריקה
+Central African Republic	הרפובליקה המרכז-אפריקאית
+Central African Republic	קטגוריה:הרפובליקה המרכז אפריקאית
+Central America	אמריקה המרכזית
+Central Intelligence Agency	CIA
+Central Park	סנטרל פארק
+Central Powers	מעצמות המרכז
+Central bank	בנק מרכזי
+Central nervous system	מערכת העצבים המרכזית
+Central processing unit	מעבד
+Centre	סאנטר
+Centriole	צנטריול
+Century	מאה (זמן)
+Cephalopod	ראש רגלאים
+Cepheus (constellation)	קפיאוס (קבוצת כוכבים)
+Cerberus	קרברוס (מיתולוגיה)
+Cereal	דגנים
+Cerebellum	המוח הקטן
+Ceres	קרס
+Ceres (dwarf planet)	קרס (כוכב לכת ננסי)
+Cerium	צריום
+Cesare Borgia	צ'זארה בורג'ה
+Cetacea	לווייתנאים
+Chad	צ'אד
+Chad	קטגוריה:צ'אד
+Chair	כיסא
+Chalcedony	כלקדון (מינרל)
+Chamaeleon	זיקית (קבוצת כוכבים)
+Champagne (wine)	שמפניה
+Channel Tunnel	מנהרת התעלה
+Chaos (mythology)	כאוס (מיתולוגיה)
+Charadriiformes	חופמאים
+Charlemagne	קרל הגדול
+Charleroi	שרלרואה
+Charles	צ'ארלס, נסיך ויילס
+Charles Baudelaire	שארל בודלר
+Charles Darwin	צ'ארלס דרווין
+Charles Dickens	צ'ארלס דיקנס
+Charles Fourier	שארל פורייה
+Charles Lindbergh	צ'ארלס לינדברג
+Charles Peirce	צ'ארלס פרס
+Charles Thomson Rees Wilson	צ'ארלס וילסון (פיזיקאי)
+Charles de Gaulle	שארל דה גול
+Charles the Bald	שארל הקירח
+Charleston	צ'ארלסטון (וירג'יניה המערבית)
+Charlie Chaplin	צ'רלי צ'פלין
+Charlie Parker	צ'ארלי פרקר
+Charlotte	שארלוט (קרוליינה הצפונית)
+Charmed	מכושפות
+Charon (moon)	כארון (ירח)
+Charon (mythology)	כארון
+Chartres	שארטר
+Chauvinism	שוביניזם
+Che Guevara	ארנסטו צ'ה גווארה
+Chechnya	צ'צ'ניה
+Chechnya	קטגוריה:צ'צ'ניה
+Cheese	גבינה
+Cheetah	ברדלס
+Chelyabinsk	צ'ליאבינסק
+Chemical bond	קשר כימי
+Chemical compound	תרכובת
+Chemical element	יסוד כימי
+Chemical engineering	הנדסת כימיה
+Chemical formula	כתיב כימי
+Chemical reaction	תגובה כימית
+Chemical warfare	נשק כימי
+Chemistry	כימיה
+Chemistry	קטגוריה:כימיה
+Chemistry	פורטל:כימיה
+Chemnitz	קמניץ
+Chemotherapy	כימותרפיה
+Chennai	צ'נאי
+Cheque	המחאה
+Chernobyl	צ'רנוביל
+Cherry	דובדבן
+Chert	צור (סלע)
+Cherub	כרוב (תנ"ך)
+Chess	שחמט
+Chess	קטגוריה:שחמט
+Chess opening	פתיחה (שחמט)
+Chester A. Arthur	צ'סטר ארתור
+Chewing gum	מסטיק
+Cheyenne	שאיין
+Chi (letter)	כי
+Chiang Kai-shek	צ'יאנג קאי שק
+Chicago	שיקגו
+Chicken	תרנגול הבית
+Chickenpox	אבעבועות רוח
+Chickpea	חימצה
+Child	ילדות
+Childbirth	לידה
+Chile	צ'ילה
+Chile	קטגוריה:צ'ילה
+Chimera (mythology)	כימרה
+Chimpanzee	שימפנזה
+China	קטגוריה:סין
+China	סין
+Chios	כיוס
+Chiron	כיירון
+Chitin	כיטין
+Chlorine	כלור
+Chloroform	כלורופורם
+Chlorophyll	כלורופיל
+Chloroplast	כלורופלסט
+Chocolate	שוקולד
+Choir	מקהלה
+Cholera	כולרה
+Cholesterol	כולסטרול
+Chondrichthyes	דגי סחוס
+Chongqing	צ'ונגצ'ינג
+Chord (music)	אקורד
+Chordate	מיתרניים
+Christchurch	קרייסטצ'רץ'
+Christiaan Huygens	כריסטיאן הויגנס
+Christianity	נצרות
+Christianity	קטגוריה:נצרות
+Christmas	חג המולד
+Christmas	קטגוריה:חג המולד
+Christmas Eve	ערב חג המולד
+Christmas tree	עץ חג המולד
+Christopher Columbus	כריסטופר קולומבוס
+Christopher Marlowe	כריסטופר מרלו
+Chromatin	כרומטין
+Chromatography	כרומטוגרפיה
+Chromium	כרום
+Chromosome	כרומוזום
+Chuck Berry	צ'אק ברי
+Chukchi Sea	ים צ'וקצ'י
+Church	כנסייה
+Church of England	הכנסייה האנגליקנית
+Cicero	מרקוס טוליוס קיקרו
+Ciconiiformes	חסידאים
+Cider	סיידר
+Cigarette	סיגריה
+Cinderella	סינדרלה
+Cinnabar	צינובר
+Cinnamon	קינמון
+Circe	קירקה
+Circle	מעגל
+Circulatory system	מחזור הדם
+Circumcision	מילה (ניתוח)
+Circus	קרקס
+Cirrhosis	שחמת הכבד
+Citizenship	אזרחות
+Citric acid	חומצה ציטרית
+Citric acid cycle	מעגל קרבס
+Citrus	הדרים
+City-state	עיר מדינה
+Civil war	מלחמת אזרחים
+Civilization	ציוויליזציה
+Civilization (computer game)	Civilization
+Clarinet	קלרנית
+Clark Gable	קלארק גייבל
+Class (biology)	מחלקה (טקסונומיה)
+Class (computer science)	מחלקה (תכנות)
+Classical mechanics	מכניקה קלאסית
+Classical music	מוזיקה קלאסית
+Classical music	קטגוריה:מוזיקה קלאסית
+Classicism	קלאסיציזם
+Claude Monet	קלוד מונה
+Claude Shannon	קלוד שאנון
+Claudio Monteverdi	קלאודיו מונטוורדי
+Claudius	קלאודיוס
+Clavicle	עצם הבריח
+Clay	חרסית
+Clef	מפתח (מוזיקה)
+Clement Attlee	קלמנט אטלי
+Cleveland	קליבלנד
+Client-server	שרת-לקוח
+Climate	אקלים
+Climate	קטגוריה:אקלים
+Climatology	קלימטולוגיה
+Clinical depression	דיכאון
+Clio	קליאו
+Clitoris	דגדגן
+Clock	שעון
+Clock Tower	ביג בן
+Cloning	שיבוט
+Clothing	קטגוריה:ביגוד
+Clothing	ביגוד
+Cloud	ענן
+Clove	ציפורן (תבלין)
+Clover	תלתן
+Clovis I	כלוביס הראשון
+Cnidaria	צורבים
+Coal	פחם
+Coat of arms	שלט אצולה
+Cobalt	קובלט
+Cocaine	קוקאין
+Coccinellidae	מושיתיים
+Cockatoo	קקדואיים
+Cockroach	תיקנאים
+Cocktail	קוקטייל
+Coconut	קוקוס
+Cocos (Keeling) Islands	איי קוקוס
+Codeine	קודאין
+Coffea	קפה (צמח)
+Coffee	קפה
+Coffee	קטגוריה:קפה
+Cognac (drink)	קוניאק
+Cognitive psychology	פסיכולוגיה קוגניטיבית
+Cognitive science	מדעים קוגניטיביים
+Coin	מטבע
+Cola	קולה (משקה)
+Colchis	קולכיס
+Cold War	המלחמה הקרה
+Cold War	קטגוריה:המלחמה הקרה
+Colin Powell	קולין פאוול
+Collage	קולאז'
+Collagen	קולגן
+Colloid	קולואיד
+Cologne	קלן
+Colombia	קולומביה
+Colombia	קטגוריה:קולומביה
+Colombo	קולומבו
+Colonel	קולונל
+Colony	קולוניה
+Color	צבע
+Color blindness	עיוורון צבעים
+Colorado	קולורדו
+Colorado	קטגוריה:קולורדו
+Colorado River	קולורדו (נהר)
+Colosseum	קולוסיאום
+Colossus of Rhodes	הקולוסוס מרודוס
+Colubrid	זעמניים
+Columba (constellation)	יונה (קבוצת כוכבים)
+Columbia	קולומביה (קרוליינה הדרומית)
+Columbia	קולומביה (פירושונים)
+Columbia River	קולומביה (נהר)
+Columbia University	אוניברסיטת קולומביה
+Columbiformes	קטגוריה:יונאים
+Columbiformes	יונאים
+Columbus	קולומבוס (אוהיו)
+Columbus	קולומבוס (פירושונים)
+Coma	תרדמת
+Coma Berenices	שערות ורוניקה
+Combustion	בעירה
+Comedy	קומדיה
+Comet	שביט
+Comma (punctuation)	פסיק
+Commedia dell'arte	קומדיה דל'ארטה
+Commerce	קטגוריה:מסחר
+Common Fig	תאנה
+Common cold	הצטננות
+Commonwealth of Independent States	מדינות חבר העמים
+Commonwealth of Nations	חבר העמים הבריטי
+Communication	קטגוריה:תקשורת
+Communication	תקשורת
+Communism	קומוניזם
+Communism	קטגוריה:קומוניזם
+Comoros	קומורו
+Comoros	קטגוריה:קומורו
+Compact Disc	תקליטור
+Company (military unit)	פלוגה
+Compass	מצפן
+Compass (drafting)	מחוגה
+Competition	תחרות
+Compiler	מהדר
+Complex number	מספר מרוכב
+Composite material	חומר מרוכב
+Composite number	מספר פריק
+Computational linguistics	בלשנות חישובית
+Computed tomography	טומוגרפיה ממוחשבת
+Computer	מחשב
+Computer display	צג
+Computer file	קובץ
+Computer graphics	קטגוריה:גרפיקה ממוחשבת
+Computer hardware	חומרה
+Computer network	רשת מחשבים
+Computer program	תוכנית מחשב
+Computer programming	תכנות מחשבים
+Computer programming	קטגוריה:תכנות
+Computer science	מדעי המחשב
+Computer science	קטגוריה:מדעי המחשב
+Computer software	תוכנה
+Computer virus	וירוס מחשב
+Conakry	קונאקרי
+Concentration	ריכוז (כימיה)
+Concerto	קונצ'רטו
+Concord	קונקורד (ניו המפשייר)
+Concrete	בטון
+Condom	קונדום
+Conducting	ניצוח
+Cone (geometry)	חרוט
+Confederate States of America	קונפדרציית המדינות של אמריקה
+Confederation	קונפדרציה
+Confession	וידוי (נצרות)
+Confirmation	קונפירמציה
+Conflict	קונפליקט
+Confucianism	קונפוציאניזם
+Confucius	קונפוציוס
+Congo	קונגו
+Congo River	קונגו (נהר)
+Conic section	חתכי חרוט
+Connecticut	קונטיקט
+Connecticut	קטגוריה:קונטיקט
+Conquistador	קונקיסטאדור
+Consensus	קונצנזוס
+Conservation of energy	חוק שימור האנרגיה
+Conservatism	שמרנות
+Consonant	עיצור
+Constantine I	קונסטנטינוס
+Constantinople	קונסטנטינופול
+Constellation	קבוצת כוכבים
+Constitution (political)	חוקה
+Consul	קונסול (רומא העתיקה)
+Contact lens	עדשות מגע
+Continent	יבשת
+Continental drift	נדידת היבשות
+Continental shelf	מדף יבשתי
+Contract	חוזה
+Contract bridge	ברידג'
+Cooking	בישול
+Cooperative	קואופרטיב
+Coordinate system	קואורדינטות
+Coordinated Universal Time	זמן אוניברסלי מתואם
+Copenhagen	קופנהגן
+Copper	נחושת
+Copyright	זכויות יוצרים
+Cor anglais	קרן אנגלית
+Coraciiformes	כחלאים
+Coral	אלמוגים
+Coral Sea	ים האלמוגים
+Coral reef	שונית אלמוגים
+Coriander	גד השדה
+Corinth	קורינתוס (עיר)
+Coriolis effect	כוח קוריוליס
+Cork (city)	קורק
+Cormorant	קורמורנים
+Cornea	קרנית
+Cornell University	אוניברסיטת קורנל
+Cornwall	קורנוול
+Corporation	תאגיד
+Corrosion	שיתוך
+Corsica	קורסיקה
+Corundum	קורונדום
+Corvette	קורבטה
+Corvidae	עורביים
+Cosmic microwave background radiation	קרינת רקע קוסמית
+Cosmic ray	קרינה קוסמית
+Cosmology	קוסמולוגיה
+Cosmology	קטגוריה:קוסמולוגיה
+Costa Rica	קוסטה ריקה
+Costa Rica	קטגוריה:קוסטה ריקה
+Cotonou	קוטונו
+Cotton	כותנה
+Cougar	פומה
+Coulomb	קולון
+Coulomb's law	חוק קולון
+Council of Chalcedon	ועידת כלקדון
+Council of Ephesus	ועידת אפסוס
+Counterpoint	קונטרפונקט
+Country music	קאנטרי
+Court	בית משפט
+Covalent bond	קשר קוולנטי
+Coventry	קובנטרי
+Coyote	זאב ערבות
+Crane (bird)	עגוריים
+Crater (constellation)	גביע (קבוצת כוכבים)
+Creationism	בריאתנות
+Cretaceous	קרטיקון
+Crete	כרתים
+Cricket	קריקט
+Cricket (insect)	צרצריים
+Crime	עבירה
+Crimea	חצי האי קרים
+Crimean War	מלחמת קרים
+Criminal law	קטגוריה:דיני עונשין
+Criminal law	משפט פלילי
+Criminology	קרימינולוגיה
+Criminology	קטגוריה:קרימינולוגיה
+Croatia	קרואטיה
+Croatia	קטגוריה:קרואטיה
+Crocodile	תניניים
+Crocodilia	תנינאים
+Cronus	קרונוס
+Cross	צלב
+Cross product	מכפלה וקטורית
+Crossbow	קשת מוצלבת
+Crossword	תשבץ
+Crow	עורב
+Crucifixion	צליבה
+Cruiser	סיירת (אונייה)
+Crust (geology)	קרום כדור הארץ
+Crustacean	סרטנאים
+Crux	הצלב הדרומי
+Cryptography	קריפטוגרפיה
+Cryptography	קטגוריה:הצפנה
+Crystal	גביש
+Crystallography	קריסטלוגרפיה
+Crystallography	קטגוריה:קריסטלוגרפיה
+Ctenophore	מסרקניים
+Cuba	קובה
+Cuba	קטגוריה:קובה
+Cube	קובייה
+Cubic metre	מטר מעוקב
+Cubism	קוביזם
+Cuculiformes	קוקיתאים
+Cucumber	מלפפון
+Cultural Revolution	מהפכת התרבות בסין
+Culture	תרבות
+Culture	קטגוריה:תרבות
+Cumbria	קאמבריה
+Cumulus cloud	קומולוס
+Curitiba	קוריטיבה
+Curium	קוריום
+Curling	קרלינג
+Currency	קטגוריה:מטבעות
+Currency	מטבע
+Curry	מאכלי קארי
+Curve	עקומה
+Cusco	קוסקו
+Cyan	ציאן
+Cyanide	ציאניד
+Cyanobacteria	כחוליות
+Cybernetics	קיברנטיקה
+Cyberpunk	סייברפאנק
+Cyclades	האיים הקיקלאדיים
+Cycling	קטגוריה:אופניים
+Cyclone	ציקלון
+Cyclops	קיקלופ
+Cygnus (constellation)	ברבור (קבוצת כוכבים)
+Cylinder (geometry)	גליל (גאומטריה)
+Cyprus	קפריסין
+Cyprus	קטגוריה:קפריסין
+Cyrillic alphabet	אלפבית קירילי
+Cyrus the Great	כורש
+Cystic fibrosis	סיסטיק פיברוזיס
+Cytoplasm	ציטופלזמה
+Cytosine	ציטוזין
+Cytoskeleton	שלד התא
+Czech Republic	צ'כיה
+Czech Republic	קטגוריה:צ'כיה
+Czechoslovakia	צ'כוסלובקיה
+Czechoslovakia	קטגוריה:צ'כוסלובקיה
+D	D
+D. H. Lawrence	דייוויד הרברט לורנס
+D. W. Griffith	דייוויד לוולין וורק גריפית'
+DDT	די די טי
+DNA	DNA
+DOS	DOS
+DVD	DVD
+Dada	דאדא
+Daedalus	דיידלוס
+Dagger	פגיון
+Daguerreotype	דאגרוטיפ
+Dahlia	דליה
+Dakar	דקר (עיר)
+Dalai Lama	דלאי לאמה
+Dallas	דאלאס
+Dalmatia	דאלמטיה
+Dam	סכר
+Damascus	דמשק
+Dance	ריקוד
+Dance	קטגוריה:מחול
+Daniel Bernoulli	דניאל ברנולי
+Daniel Defoe	דניאל דפו
+Daniel Ortega	דניאל אורטגה
+Dante Alighieri	דנטה אליגיירי
+Danube	דנובה
+Daphne	דפנה (מיתולוגיה)
+Dar es Salaam	דאר א-סלאם
+Dardanelles	דרדנלים
+Darfur	דארפור
+Darjeeling	דרג'ילינג
+Dark matter	חומר אפל
+Darmstadtium	דרמשטטיום
+Darwin	דרווין (הטריטוריה הצפונית)
+Data	נתונים
+Data mining	כריית מידע
+Data structure	מבנה נתונים
+Database	בסיס נתונים
+Database management system	מחולל יישומים
+Date Palm	תמר מצוי
+Daugavpils	דאוגבפילס
+David	דוד
+David Hilbert	דויד הילברט
+David Hume	דייוויד יום
+David Livingstone	דייוויד ליווינגסטון
+David Ricardo	דייוויד ריקארדו
+Davis Cup	גביע דייוויס
+Day	יממה
+Days	קטגוריה:ימות השנה
+De facto	דה פקטו
+Deacon	דיאקון
+Dead Sea	ים המלח
+Dead Sea scrolls	מגילות ים המלח
+Death	מוות
+Death	קטגוריה:מוות
+December	דצמבר
+December 31	31 בדצמבר
+December 8	8 בדצמבר
+Decibel	דציבל
+Decimal	השיטה העשרונית
+Decius (emperor)	דקיוס
+Deco	דקו
+Deconstruction	דקונסטרוקציה
+Deductive reasoning	דדוקציה
+Deer	אייליים
+Definition	הגדרה
+Deflation	דפלציה
+Degree	מעלה
+Degree (angle)	מעלה (זווית)
+Deimos (moon)	דימוס (ירח)
+Deism	דאיזם
+Delaware	דלאוור
+Delaware	קטגוריה:דלאוור
+Delft	דלפט
+Delhi	דלהי
+Dell	דל
+Delphi	דלפי
+Delphinus	דולפין (קבוצת כוכבים)
+Delta	דלתא (פירושונים)
+Delta (letter)	דלתא (אות)
+Deluge (mythology)	המבול
+Demagogy	דמגוגיה
+Dementia	שיטיון
+Demeter	דמטר
+Democracy	דמוקרטיה
+Democratic Party (United States)	המפלגה הדמוקרטית
+Democratic Republic of the Congo	הרפובליקה הדמוקרטית של קונגו
+Democratic Republic of the Congo	קטגוריה:הרפובליקה הדמוקרטית של קונגו
+Democritus	דמוקריטוס
+Demography	דמוגרפיה
+Demography	קטגוריה:דמוגרפיה
+Demon	שד (מיתולוגיה)
+Demosthenes	דמוסתנס
+Deng Xiaoping	דנג שיאופינג
+Denis Diderot	דני דידרו
+Denmark	דנמרק
+Denmark	קטגוריה:דנמרק
+Dennis Gabor	דניס גאבור
+Density	צפיפות החומר
+Dental caries	עששת
+Dentistry	קטגוריה:רפואת שיניים
+Dentistry	רפואת שיניים
+Denver	דנוור
+Derivative	נגזרת
+Dermatology	דרמטולוגיה
+Des Moines	דה מוין
+Desert	מדבר
+Deserts	קטגוריה:מדבריות
+Desiderius Erasmus	ארסמוס מרוטרדם
+Design	עיצוב
+Design	קטגוריה:עיצוב
+Desmond Tutu	דזמונד טוטו
+Destroyer	משחתת
+Determinant	דטרמיננטה
+Determinism	דטרמיניזם
+Detroit	דטרויט
+Deuterium	דאוטריום
+Deuteronomy	דברים
+Developmental psychology	פסיכולוגיה התפתחותית
+Device driver	מנהל התקן
+Devonian	דבון
+Dew	טל
+Dew point	נקודת הטל
+Dewey Decimal Classification	שיטת דיואי
+Dhaka	דאקה
+Dharma	דהרמה
+Dhole	דהול
+Diabetes mellitus	סוכרת
+Diacritic	סימן דיאקריטי
+Dialect	ניב (סיווג שפה)
+Dialectic	דיאלקטיקה
+Dialectical materialism	מטריאליזם דיאלקטי
+Diameter	קוטר
+Diamond	יהלום
+Diana	דיאנה, הנסיכה מוויילס
+Diana (mythology)	דיאנה (מיתולוגיה)
+Diarrhea	שלשול
+Diaspora	גלות
+Diatom	צורניות
+Dice	קוביית משחק
+Dicotyledon	דו-פסיגיים
+Dictatorship	דיקטטורה
+Dictionary	מילון
+Diego Rivera	דייגו ריברה
+Diesel	סולר
+Diesel engine	מנוע דיזל
+Dietrich Bonhoeffer	דיטריך בונהופר
+Differential equation	משוואה דיפרנציאלית
+Diffraction	עקיפה
+Diffusion	פעפוע
+Digestion	עיכול
+Digital	דיגיטלי/אנלוגי
+Digital photography	צילום דיגיטלי
+Digital subscriber line	DSL
+Dijon	דיז'ון
+Dill	שבת ריחני
+Dimension	ממד (מתמטיקה)
+Dingo	דינגו
+Dinosaur	דינוזאורים
+Diocese	דיוקסיה
+Diocletian	דיוקלטיאנוס
+Diode	דיודה
+Dionysus	דיוניסוס
+Diphtheria	דיפתריה
+Diphthong	דיפתונג
+Diplodocus	דיפלודוקוס
+Diplomacy	דיפלומטיה
+Dire Straits	דייר סטרייטס
+Direct current	זרם ישר
+Disaccharide	דו-סוכר
+Disambiguation	קטגוריה:פירושונים
+Disc jockey	DJ
+Discourse	שיח (מדעי החברה)
+Discrimination	אפליה
+Disease	מחלה
+Distillation	זיקוק
+Divergence	דיברגנץ
+Division (military)	אוגדה
+Divorce	גירושים
+Dizzy Gillespie	דיזי גילספי
+Djibouti	קטגוריה:ג'יבוטי
+Djibouti (city)	ג'יבוטי (עיר)
+Dmitri Mendeleev	דמיטרי מנדלייב
+Dmitri Shostakovich	דמיטרי שוסטקוביץ'
+Dnieper River	דנייפר
+Dnipropetrovsk	דניפרופטרובסק
+Doberman Pinscher	דוברמן פינצ'ר
+Doctor of the Church	מורי הכנסייה
+Dodecahedron	דודקהדרון
+Dodecanese	האיים הדודקאנסיים
+Dodo	דודו אפור
+Dodoma	דודומה
+Dog	כלב
+Dogma	דוגמה
+Doha	דוחה
+Dollar	דולר
+Dolly (sheep)	הכבשה דולי
+Dolmen	דולמן
+Dolomite	דולומיט (מינרל)
+Dolphin	דולפין
+Domain (biology)	על-ממלכה
+Domain name	שם תחום
+Dome	כיפה (מבנה)
+Domesday Book	ספר יום הדין
+Domestication	ביות
+Dominica	דומיניקה
+Dominica	קטגוריה:דומיניקה
+Dominican Order	דומיניקנים
+Dominican Republic	הרפובליקה הדומיניקנית
+Dominican Republic	קטגוריה:הרפובליקה הדומיניקנית
+Domitian	דומיטיאנוס
+Don Quixote	דון קישוט
+Don River (Russia)	דון (נהר)
+Donald Duck	דונאלד דאק
+Donatello	דונטלו
+Donato Bramante	דונטו ברמנטה
+Donetsk	דונצק
+Donkey	חמור הבית
+Door	דלת
+Dopamine	דופמין
+Doppler effect	אפקט דופלר
+Dorado	דג זהב (קבוצת כוכבים)
+Doric order	הסדר הדורי
+Doris Lessing	דוריס לסינג
+Dortmund	דורטמונד
+Double bass	קונטרבס
+Douglas MacArthur	דאגלס מקארתור
+Dover	דובר (דלאוור)
+Dover	דובר (אנגליה)
+Down syndrome	תסמונת דאון
+Draco (constellation)	דרקון (קבוצת כוכבים)
+Dracula	דרקולה (ספר)
+Dragon	דרקון
+Drainage basin	אגן ניקוז
+Drama	דרמה
+Draughts	דמקה
+Dream	חלום
+Dresden	דרזדן
+Drink	משקה
+Dromedary	גמל חד-דבשתי
+Drought	בצורת
+Drug addiction	התמכרות
+Druid	דרואידיות
+Drum	תוף
+Dualism	דואליזם
+Dualism (philosophy of mind)	דואליזם
+Dubai	דובאי
+Dublin	דבלין
+Dubnium	דובניום
+Dubrovnik	דוברובניק
+Dugong	תחש המשכן
+Duke Ellington	דיוק אלינגטון
+Duke University	אוניברסיטת דיוק
+Dune	חולית (דיונה)
+Dunkirk	דנקרק
+Duodenum	תריסריון
+Durban	דרבן (דרום אפריקה)
+Dushanbe	דושנבה
+Dustin Hoffman	דסטין הופמן
+Dutch people	קטגוריה:הולנדים
+Dwight D. Eisenhower	דווייט אייזנהאואר
+Dynamics (physics)	דינמיקה (מכניקה)
+Dynamite	דינמיט
+Dynasty	שושלת
+Dyslexia	דיסלקציה
+Dysprosium	דיספרוסיום
+Dystopia	דיסטופיה
+E	E
+E (mathematical constant)	E (קבוע מתמטי)
+E-mail	דואר אלקטרוני
+E. T. A. Hoffmann	א.ת.א. הופמן
+ETA	ETA
+Ear	אוזן
+Eared seal	אוטריים
+Earless seal	כלבי ים
+Earth	כדור הארץ
+Earth	קטגוריה:כדור הארץ
+Earth science	מדעי כדור הארץ
+Earthquake	רעידת אדמה
+East	מזרח
+East Africa	מזרח אפריקה
+East China Sea	ים סין המזרחי
+East Germany	גרמניה המזרחית
+East Timor	מזרח טימור
+East Timor	קטגוריה:מזרח טימור
+Easter	פסחא
+Eastern Orthodox Church	נצרות אורתודוכסית
+Ebola	אבולה
+Ebro	אברו
+Eccentricity (mathematics)	אקסצנטריות (מתמטיקה)
+Ecclesiastes	מגילת קהלת
+Echidna	קיפודניים
+Echidna (mythology)	אכידנה
+Echinoderm	קווצי עור
+Eclipse	ליקוי מאורות
+Eclipse (software)	Eclipse
+Ecliptic	מישור המילקה
+Ecological niche	גומחה אקולוגית
+Ecology	אקולוגיה
+Ecology	קטגוריה:אקולוגיה
+Econometrics	אקונומטריקה
+Economics	כלכלה
+Economics	קטגוריה:כלכלה
+Economy	כלכלה
+Ecosystem	מערכת אקולוגית
+Ecuador	אקוודור
+Ecuador	קטגוריה:אקוודור
+Ecumenical council	ועידה אקומנית
+Edgar Allan Poe	אדגר אלן פו
+Edgar Degas	אדגר דגה
+Edgar Rice Burroughs	אדגר רייס בורוז
+Edinburgh	אדינבורו
+Edirne	אדירנה
+Edmond Halley	אדמונד האלי
+Edmonton	אדמונטון
+Edmund Burke	אדמונד ברק
+Edmund Hillary	אדמונד הילרי
+Edmund Husserl	אדמונד הוסרל
+Eduard Buchner	אדוארד בוכנר
+Education	חינוך
+Education	קטגוריה:חינוך
+Edvard Grieg	אדוורד גריג
+Edvard Munch	אדוורד מונק
+Edward Gibbon	אדוארד גיבון
+Edward Jenner	אדוארד ג'נר
+Edward Teller	אדוארד טלר
+Edward the Confessor	אדוארד המוודה
+Edwin Hubble	אדווין האבל
+Eel	צלופחאים
+Egg (biology)	ביצה
+Eggplant	חציל
+Egypt	מצרים
+Egypt	קטגוריה:מצרים
+Egyptian pound	לירה מצרית
+Egyptology	אגיפטולוגיה
+Eiffel Tower	מגדל אייפל
+Einsteinium	איינשטייניום
+El Cid	אל סיד
+El Greco	אל גרקו
+El Salvador	אל סלוודור
+El Salvador	קטגוריה:אל סלוודור
+Elam	עילם
+Elbe	אלבה (נהר)
+Eleanor Roosevelt	אלינור רוזוולט
+Election	בחירות
+Electra	אלקטרה
+Electric charge	מטען חשמלי
+Electric current	זרם חשמלי
+Electric field	שדה חשמלי
+Electric guitar	גיטרה חשמלית
+Electric motor	מנוע חשמלי
+Electrical engineering	קטגוריה:הנדסת חשמל
+Electrical engineering	הנדסת חשמל
+Electrical resistance	מוליכות חשמלית
+Electricity	חשמל
+Electricity	קטגוריה:חשמל
+Electrocardiogram	אלקטרוקרדיוגרם
+Electrochemistry	אלקטרוכימיה
+Electrochemistry	קטגוריה:אלקטרוכימיה
+Electrolysis	אלקטרוליזה
+Electrolyte	אלקטרוליט
+Electromagnetic radiation	קרינה אלקטרומגנטית
+Electromagnetic spectrum	הספקטרום האלקטרומגנטי
+Electromagnetism	אלקטרומגנטיות
+Electromagnetism	קטגוריה:אלקטרומגנטיות
+Electron	אלקטרון
+Electron microscope	מיקרוסקופ אלקטרוני
+Electronegativity	אלקטרושליליות
+Electronics	אלקטרוניקה
+Electronics	קטגוריה:אלקטרוניקה
+Elegy	אלגיה
+Element	יסודות
+Elementary particle	חלקיק יסודי
+Elephant	פיליים
+Elevator	מעלית
+Elf	אלף (פנטזיה)
+Elia Kazan	איליה קאזאן
+Elias Canetti	אליאס קנטי
+Elijah	אליהו
+Elizabeth Taylor	אליזבת טיילור
+Ella Fitzgerald	אלה פיצג'רלד
+Ellipse	אליפסה
+Ellipsis	שלוש נקודות
+Elvis Presley	אלביס פרסלי
+Embryo	עובר#התפתחות עובר האדם
+Embryology	אמבריולוגיה
+Emerald	ברקת
+Emilia-Romagna	אמיליה-רומאניה
+Emily Dickinson	אמילי דיקנסון
+Emir	אמיר
+Emma Goldman	אמה גולדמן
+Emoticon	רגשון
+Emotion	רגש
+Emotion	קטגוריה:רגשות
+Empathy	אמפתיה
+Empedocles	אמפדוקלס
+Emperor	קיסר (תואר)
+Emperor Penguin	פינגווין קיסרי
+Empire	אימפריה
+Empire State Building	בניין אמפייר סטייט
+Empiricism	אמפיריציזם
+Emu	אמו
+Emulator	אמולציה
+Emulsion	חומר מתחלב
+Encyclopedia	אנציקלופדיה
+Endemism	אנדמיות
+Endocrine system	המערכת האנדוקרינית
+Endocrinology	אנדוקרינולוגיה
+Energy	אנרגיה
+Energy	קטגוריה:אנרגיה
+Energy (society)	אנרגיה
+Engine	מנוע
+Engineer	מהנדס
+Engineering	הנדסה
+Engineering	קטגוריה:הנדסה
+England	אנגליה
+England	קטגוריה:אנגליה
+English Channel	תעלת למאנש
+English Civil War	מלחמת האזרחים האנגלית
+English language	אנגלית
+English language	קטגוריה:אנגלית
+English people	אנגלים
+Enki	אנקי
+Enrico Caruso	אנריקו קארוזו
+Enrico Fermi	אנריקו פרמי
+Entertainment	קטגוריה:בידור
+Enthalpy	אנתלפיה
+Entomology	אנטומולוגיה
+Entropy	אנטרופיה
+Environment	קטגוריה:סביבה
+Environment	סביבה
+Enzyme	אנזים
+Eocene	איאוקן
+Eos	אאוס
+Ephesus	אפסוס
+Epic poetry	שירה אפית
+Epicenter	מוקד רעידת אדמה
+Epictetus	אפיקטטוס
+Epicurus	אפיקורוס
+Epidemiology	אפידמיולוגיה
+Epigraphy	אפיגרפיה
+Epilepsy	מחלת הנפילה
+Epimetheus (mythology)	אפימתאוס
+Epinephrine	אדרנלין
+Epiphany (Christian)	חג ההתגלות
+Epirus (periphery)	אפירוס
+Epistemology	תורת ההכרה
+Epithelium	אפיתל
+Epsilon	אפסילון
+Equation	משוואה
+Equator	קו המשווה
+Equatorial Guinea	גינאה המשוונית
+Equatorial Guinea	קטגוריה:גינאה המשוונית
+Equidae	סוסיים
+Equinox	נקודת השוויון
+Equisetum	שבטבט
+Erasure	אירייז'ר
+Erato	אראטו
+Eratosthenes	ארטוסתנס
+Erbium	ארביום
+Erebus	ארבוס (אל)
+Erectile dysfunction	אין-אונות
+Erection	זקפה
+Ericaceae	אברשיים
+Ericales	אברשאים
+Eridanus (constellation)	ארידנוס (קבוצת כוכבים)
+Erik Axel Karlfeldt	אריק אקסל קרלפלד
+Erik Satie	אריק סאטי
+Eris (dwarf planet)	אריס (כוכב לכת ננסי)
+Eris (mythology)	אריס (מיתולוגיה)
+Eritrea	קטגוריה:אריתריאה
+Ernest Hemingway	ארנסט המינגווי
+Ernest Rutherford	ארנסט רתרפורד
+Eros (mythology)	ארוס
+Erosion	שחיקה
+Erotica	ארוטיקה
+Erwin Rommel	ארווין רומל
+Escape velocity	מהירות מילוט
+Eschatology	אסכטולוגיה
+Escherichia coli	Escherichia coli
+Esfahan	אספהאן
+Esophagus	ושט
+Esperanto	אספרנטו
+Espionage	ריגול
+Espoo	אספו
+Essay	מסה (חיבור עיוני)
+Essen	אסן
+Essential oil	שמן אתרי
+Essex	אסקס
+Ester	אסטר
+Estonia	קטגוריה:אסטוניה
+Estrogen	אסטרוגן
+Eta (letter)	אטא
+Ethane	אתאן
+Ethanol	אתנול
+Ether	אתר (כימיה)
+Ethernet	Ethernet
+Ethics	פילוסופיה של המוסר
+Ethics	קטגוריה:אתיקה
+Ethiopia	אתיופיה
+Ethiopia	קטגוריה:אתיופיה
+Ethnic group	אתניות
+Ethnography	אתנוגרפיה
+Ethology	אתולוגיה
+Ethylene	אתן
+Etymology	אטימולוגיה
+Eucalyptus	אקליפטוס
+Euclid	אוקלידס
+Euclidean geometry	גאומטריה אוקלידית
+Eugene O'Neill	יוג'ין או'ניל
+Eukaryote	איקריוטיים
+Eunuch	סריס
+Euphemism	לשון נקייה
+Euphrates	פרת
+Eurasia	אירואסיה
+Eurasian Badger	גירית מצויה
+Euripides	אוריפידס
+Euro	אירו
+Europa (moon)	אירופה (ירח)
+Europa (mythology)	אירופה (מיתולוגיה)
+Europe	אירופה
+Europe	קטגוריה:אירופה
+European Central Bank	הבנק המרכזי האירופי
+European Magpie	עקעק זנבתן
+European Union	האיחוד האירופי
+European Union	קטגוריה:האיחוד האירופי
+Europium	אירופיום
+Eusebius of Caesarea	אוסביוס מקיסריה
+Euterpe	אוטרפה
+Euthanasia	המתת חסד
+Eva Braun	אווה בראון
+Evanescence	אוונסנס
+Evangelista Torricelli	אוונג'ליסטה טוריצ'לי
+Evaporation	התאיידות
+Even-toed ungulate	מכפילי פרסה
+Evolution	אבולוציה
+Excalibur	אקסקליבר
+Exclamation mark	סימן קריאה
+Excommunication	נידוי (הלכה)
+Exhibitionism	אקסהיביציוניזם
+Existentialism	אקזיסטנציאליזם
+Exodus	שמות
+Expected value	תוחלת
+Experiment	ניסוי
+Explosion	פיצוץ
+Expo (exhibition)	תערוכה עולמית
+Exponential function	פונקציה מעריכית
+Exponentiation	חזקה (מתמטיקה)
+Expressionism	אקספרסיוניזם
+Extinction	מינים נעלמים
+Eye	עין
+Ezra Pound	עזרא פאונד
+F	F
+F. Scott Fitzgerald	פרנסיס סקוט פיצג'רלד
+Fabaceae	קטניות
+Fable	משל
+Face	פנים
+Fact	תבנית:מקור
+Factorial	עצרת
+Factory	בית חרושת
+Facula	כתם שמש
+Fado	פאדו
+Fagaceae	קטגוריה:אלוניים
+Fahrenheit	מעלות פרנהייט
+Fair use	שימוש הוגן
+Fairy	פיה (פנטזיה)
+Fairy tale	מעשייה
+Falcon	בז
+Falconiformes	דורסי יום
+Falkland Islands	איי פוקלנד
+Fallacy	כשל לוגי
+Fallopian tube	חצוצרה (איבר)
+Fallow Deer	יחמור
+Falun Gong	פאלון גונג
+Family	קטגוריה:משפחה
+Family (biology)	משפחה (טקסונומיה)
+Family history	גנאלוגיה
+Family name	שם משפחה
+Fantasy	פנטזיה
+Far East	המזרח הרחוק
+Farad	פאראד
+Faroe Islands	קטגוריה:איי פארו
+Fascism	פשיזם
+Fascism	קטגוריה:פשיזם
+Fashion	קטגוריה:אופנה
+Fashion	אופנה
+Fast food	מזון מהיר
+Fasting	צום
+Fatah	פת"ח
+Fatty acid	חומצת שומן
+Fault (geology)	העתק
+Fauna	פאונה
+Fauvism	פוביזם
+Fax	פקס
+Fear	פחד
+Feather	נוצה
+February	פברואר
+February 12	12 בפברואר
+February 14	14 בפברואר
+February 2	2 בפברואר
+February 22	22 בפברואר
+February 29	29 בפברואר
+February Revolution	מהפכת פברואר
+Feces	צואה
+Federal Bureau of Investigation	FBI
+Federal Reserve System	פדרל ריזרב
+Federated States of Micronesia	מיקרונזיה
+Federated States of Micronesia	קטגוריה:מיקרונזיה
+Federico Fellini	פדריקו פליני
+Fedora (Linux distribution)	פדורה (הפצת לינוקס)
+Feedback	משוב
+Feldspar	פצלת השדה
+Felidae	חתוליים
+Felix Mendelssohn	פליקס מנדלסון-ברתולדי
+Feminism	פמיניזם
+Feminism	קטגוריה:פמיניזם
+Fencing	סיף
+Feng shui	פנג שווי
+Fennel	שומר פשוט
+Fenugreek	גרגרנית יוונית
+Ferdinand II	פרדיננד השני, קיסר האימפריה הרומית הקדושה
+Ferdinand Magellan	פרדיננד מגלן
+Ferdinand de Saussure	פרדינן דה סוסיר
+Fermentation (biochemistry)	תסיסה
+Fermentation (food)	תסיסה
+Fermion	פרמיון
+Fermium	פרמיום
+Fern	שרכאים
+Ferrara	פרארה
+Ferry	מעבורת
+Fertile Crescent	הסהר הפורה
+Fertilisation	הפריה
+Fertilizer	דשן
+Fetus	עובר
+Feudalism	פיאודליזם
+Fever	חום (תסמין)
+Fiat	פיאט
+Fibonacci number	סדרת פיבונאצ'י
+Fictional character	דמות ספרותית
+Fidel Castro	פידל קסטרו
+Field (mathematics)	שדה (מבנה אלגברי)
+Field hockey	הוקי שדה
+Fighter aircraft	מטוס קרב
+Fiji	פיג'י
+Fiji	קטגוריה:פיג'י
+File Allocation Table	File Allocation Table
+File Transfer Protocol	File Transfer Protocol
+File system	מערכת קבצים
+Filippo Brunelleschi	פיליפו ברונלסקי
+Film	קטגוריה:קולנוע
+Film	סרט קולנוע
+Film	פורטל:קולנוע
+Film director	במאי קולנוע
+Fin Whale	לווייתן מצוי
+Finance	מימון
+Finger	אצבע
+Fingerprint	טביעת אצבע
+Finland	פינלנד
+Finland	קטגוריה:פינלנד
+Fir	אשוח
+Fire	אש
+Firearm	היסטוריה של כלי הירי
+Firefighter	מכבי אש
+Firewall (networking)	חומת אש
+Firmware	קושחה
+First Council of Constantinople	ועידת קונסטנטינופוליס הראשונה
+First Council of Nicaea	ועידת ניקיאה
+First Crusade	מסע הצלב הראשון
+First language	שפת אם
+Fish	דג
+Fish	קטגוריה:דגים
+Fishing	דיג
+Fishing	קטגוריה:דיג
+Fjord	פיורד
+Flag	דגל
+Flagellum	שוטון
+Flamenco	פלמנקו
+Flamingo	פלמינגואים
+Flanders	פלנדריה
+Flash memory	זיכרון הבזק
+Flatulence	נפיחה
+Flatworm	תולעים שטוחות
+Flea	פרעושים
+Flint	צור (סלע)
+Flip-flop (electronics)	פליפ פלופ
+Flood	שיטפון
+Floppy disk	תקליטון
+Florence	פירנצה
+Florence Nightingale	פלורנס נייטינגייל
+Florida	פלורידה
+Florida	קטגוריה:פלורידה
+Flour	קמח
+Flower	פרח
+Flowering plant	בעלי פרחים
+Fluid mechanics	מכניקת הזורמים
+Fluorite	פלואוריט
+Flute	חליל
+Fly	זבובאים
+Fog	ערפל
+Folic acid	חומצה פולית
+Folk music	פולק
+Folklore	פולקלור
+Folklore	קטגוריה:פולקלור
+Food	מזון
+Food additive	תוסף מזון
+Food and Agriculture Organization	ארגון המזון והחקלאות
+Food chain	מארג מזון
+Foot	כף רגל
+Foot (unit of length)	רגל (יחידת מידה)
+Football (soccer)	כדורגל
+Football (soccer)	קטגוריה:כדורגל
+Football (soccer) by country	קטגוריה:כדורגל לפי מדינה
+Football (soccer) clubs	קטגוריה:קבוצות כדורגל
+Football (soccer) managers	קטגוריה:מאמני כדורגל
+Football (soccer) players	קטגוריה:כדורגלנים
+Forbidden City	העיר האסורה
+Force	כוח (פיזיקה)
+Forest	יער
+Forestry	יערנות
+Fork	מזלג
+Form of government	ממשל
+Formaldehyde	פורמלין
+Formic acid	חומצה פורמית
+Fornax	תנור (קבוצת כוכבים)
+Fort Worth	פורט וורת'
+Fortification	מוצב
+Fortran	FORTRAN
+Fossil	מאובן
+Fossil fuel	דלק מאובנים
+Foucault pendulum	מטוטלת פוקו
+Fountain	מזרקה
+Fourier series	טור פורייה
+Fourth Crusade	מסע הצלב הרביעי
+Fractal	פרקטל
+Fraction (mathematics)	שבר (מתמטיקה)
+France	צרפת
+France	קטגוריה:צרפת
+Francis Bacon	פרנסיס בייקון
+Francis Crick	פרנסיס קריק
+Francis Drake	פרנסיס דרייק
+Francis Ford Coppola	פרנסיס פורד קופולה
+Francis II	פרנץ השני, קיסר האימפריה הרומית הקדושה
+Francis Poulenc	פרנסיס פולנק
+Francis of Assisi	פרנציסקוס מאסיזי
+Franciscan	פרנציסקנים
+Francisco Franco	פרנסיסקו פרנקו
+Francisco Goya	פרנסיסקו דה גויה
+Francisco Pizarro	פרנסיסקו פיסרו
+Francium	פרנציום
+Franco-Prussian War	מלחמת צרפת פרוסיה
+Frank Lloyd Wright	פרנק לויד רייט
+Frank Sinatra	פרנק סינטרה
+Frankfort	פרנקפורט (קנטקי)
+Frankfurt	פרנקפורט
+Frankfurt	קטגוריה:פרנקפורט
+Frankfurt (Oder)	פרנקפורט על האודר
+Frankfurt (disambiguation)	פרנקפורט (פירושונים)
+Franklin Pierce	פרנקלין פירס
+Frans Hals	פרנס הלס
+Franz Kafka	פרנץ קפקא
+Franz Liszt	פרנץ ליסט
+Franz Schubert	פרנץ שוברט
+Fred Astaire	פרד אסטר
+Frederick I	פרידריך הראשון, קיסר האימפריה הרומית הקדושה
+Frederick II	פרידריך השני, קיסר האימפריה הרומית הקדושה
+Frederick Sanger	פרדריק סנגר
+Frederick Soddy	פרדריק סודי
+Free will	בחירה חופשית
+Freedom (philosophy)	חופש
+Freedom of speech	חופש הביטוי
+Freemasonry	הבונים החופשיים
+Freetown	פריטאון
+French Polynesia	פולינזיה הצרפתית
+French Polynesia	קטגוריה:פולינזיה הצרפתית
+French Revolution	המהפכה הצרפתית
+French Revolution	קטגוריה:המהפכה הצרפתית
+French franc	פרנק צרפתי
+French people	קטגוריה:צרפתים
+Frequency	תדירות
+Fresco	פרסקו
+Freshwater	מים מתוקים
+Freyja	פריה
+Friction	חיכוך
+Friday	יום שישי
+Fridtjof Nansen	פריטיוף ננסן
+Friedrich Engels	פרידריך אנגלס
+Frigate	פריגטה
+Fritz Haber	פריץ האבר
+Friuli-Venezia Giulia	פריולי-ונציה ג'וליה
+Frog	חסרי זנב
+Fructose	פרוקטוז
+Fruit	פרי
+Fruit	קטגוריה:פירות
+Fucking	פוקינג (כפר)
+Fuel	דלק
+Fuel cell	תא דלק
+Fugue	פוגה
+Funafuti	פנאפוטי
+Function (mathematics)	פונקציה
+Fundamental	קטגוריה:קטגוריות
+Fundamental interaction	כוחות היסוד
+Fundamentalism	פונדמנטליזם
+Fungi	קטגוריה:פטריות
+Fungus	פטריות
+Funicular	פוניקולר
+Funk	פאנק (Funk)
+Furniture	קטגוריה:ריהוט
+Future	עתיד
+Futurism (art)	פוטוריזם
+Fuzzy logic	לוגיקה עמומה
+Fyodor Dostoevsky	פיודור דוסטויבסקי
+G	G
+GIMP	GIMP
+GNOME	GNOME
+GNU	גנו (מערכת הפעלה)
+Gabon	גבון
+Gabon	קטגוריה:גבון
+Gaborone	גאבורון
+Gabriel	גבריאל
+Gabriel Lippmann	גבריאל ליפמן
+Gadolinium	גדוליניום
+Gaetano Donizetti	גאטנו דוניצטי
+Gaia (mythology)	גאיה
+Galatia	גלטיה
+Galaxy	גלקסיה
+Galen	קלאודיוס גלנוס
+Galena	גלנה
+Galicia (Central Europe)	גליציה
+Galicia (Spain)	גליסיה
+Galilee	הגליל
+Galileo (spacecraft)	גלילאו (גשושית)
+Galileo Galilei	גלילאו גליליי
+Gallbladder	כיס המרה
+Galley	ספינת משוטים
+Galliformes	תרנגולאים
+Galliformes	קטגוריה:תרנגולאים
+Gallium	גליום
+Gallon	גלון
+Gamal Abdel Nasser	גמאל עבד אל נאצר
+Gambling	הימור
+Game	משחק
+Game theory	תורת המשחקים
+Gamma	גמא (אות)
+Gamma ray	קרינת גמא
+Ganesha	גנש
+Ganges	גנגס
+Gansu	גאנסו
+Ganymede	גנימדס
+Ganymede (moon)	גנימד
+Garden	גן (נוי)
+Garden of Eden	גן עדן
+Gardening	גינון
+Garfield	גרפילד (קומיקס)
+Gargoyle	גרגויל
+Garlic	שום
+Garnet	גארנט
+Gas	גז
+Gas constant	קבוע הגזים
+Gas giant	ענק גזים
+Gasoline	בנזין
+Gastrointestinal tract	מערכת העיכול
+Gastropoda	חלזונות
+Gaul	גאליה
+Gautama Buddha	גאוטמה בודהה
+Gaza	עזה
+Gaza Strip	רצועת עזה
+Gear	גלגל שיניים
+Geb	גב (אל)
+Geisha	גיישה
+Gemini (constellation)	תאומים (קבוצת כוכבים)
+Gemstone	אבן חן
+Gene	גן (ביולוגיה)
+Genealogy	גנאלוגיה
+Genealogy	קטגוריה:גנאלוגיה
+General Agreement on Tariffs and Trade	גאט"ט
+General Officer	גנרל
+General relativity	תורת היחסות הכללית
+Genesis	בראשית
+Genetic code	הקוד הגנטי
+Genetic engineering	הנדסה גנטית
+Genetics	גנטיקה
+Genetics	קטגוריה:גנטיקה
+Geneva	ז'נבה
+Genoa	ג'נובה
+Genocide	רצח עם
+Genocide	קטגוריה:רצח עם
+Genome	גנום
+Genotype	גן (ביולוגיה)#.D7.9E.D7.95.D7.A9.D7.92.D7.99.D7.9D .D7.91.D7.A1.D7.99.D7.A1.D7.99.D7.99.D7.9D
+Genus	סוג (טקסונומיה)
+Geochemistry	גאוכימיה
+Geodesy	גאודזיה
+Geoffrey Chaucer	ג'פרי צ'וסר
+Geography	גאוגרפיה
+Geography	קטגוריה:גאוגרפיה
+Geography	פורטל:גאוגרפיה
+Geology	קטגוריה:גאולוגיה
+Geology	גאולוגיה
+Geometric progression	סדרה הנדסית
+Geometry	גאומטריה
+Geometry	קטגוריה:גאומטריה
+Geomorphology	גאומורפולוגיה
+Geomorphology	קטגוריה:גאומורפולוגיה
+Geophysics	גאופיזיקה
+Geophysics	קטגוריה:גאופיזיקה
+Geopolitics	גאופוליטיקה
+Georg Philipp Telemann	גאורג פיליפ טלמן
+Georg Wilhelm Friedrich Hegel	גיאורג וילהלם פרידריך הגל
+George Berkeley	ג'ורג' ברקלי
+George Bernard Shaw	ג'ורג' ברנרד שו
+George Bush	ג'ורג' בוש
+George Frideric Handel	גאורג פרידריך הנדל
+George Gershwin	ג'ורג' גרשווין
+George Harrison	ג'ורג' האריסון
+George Lucas	ג'ורג' לוקאס
+George Marshall	ג'ורג' מרשל
+George Orwell	ג'ורג' אורוול
+George Paget Thomson	ג'ורג' פג'ט תומסון
+George Sand	ז'ורז' סאנד
+George Stephenson	ג'ורג' סטיבנסון
+George W. Bush	ג'ורג' ווקר בוש
+George Washington	ג'ורג' וושינגטון
+Georges Bizet	ז'ורז' ביזה
+Georges Braque	ז'ורז' בראק
+Georges Clemenceau	ז'ורז' קלמנסו
+Georges Simenon	ז'ורז' סימנון
+Georgetown	ג'ורג'טאון (גיאנה)
+Georgia (U.S. state)	ג'ורג'יה
+Georgia (U.S. state)	קטגוריה:ג'ורג'יה
+Georgia (country)	גאורגיה
+Georgia (country)	קטגוריה:גאורגיה
+Gerald Ford	ג'רלד פורד
+German Shepherd Dog	רועה גרמני
+German language	גרמנית
+German mark	מרק גרמני
+Germanium	גרמניום
+Germany	גרמניה
+Germany	קטגוריה:גרמניה
+Geronimo	ג'רונימו
+Gestapo	גסטאפו
+Geyser	גייזר
+Ghana	גאנה
+Ghana	קטגוריה:גאנה
+Ghent	גנט
+Ghetto	גטו
+Ghost	רוח רפאים
+Giacomo Puccini	ג'אקומו פוצ'יני
+Giant Panda	פנדה ענק
+Gibbon	גיבונים
+Gibraltar	גיברלטר
+Gibraltar	קטגוריה:גיברלטר
+Gilgamesh	גילגמש
+Ginger	זנגביל
+Ginkgo	גינקגו דו-אונתי
+Giordano Bruno	ג'ורדנו ברונו
+Giorgio Vasari	ג'ורג'ו וזארי
+Giorgio de Chirico	ג'ורג'ו דה קיריקו
+Giotto di Bondone	ג'וטו די בונדונה
+Giovanni Boccaccio	ג'ובאני בוקאצ'ו
+Giraffe	ג'ירף
+Giraffidae	ג'ירפיים
+Girolamo Savonarola	ג'ירולמו סבונרולה
+Giuseppe Garibaldi	ג'וזפה גריבלדי
+Giuseppe Verdi	ג'וזפה ורדי
+Glacier	קרחון יבשתי
+Gladiator	גלדיאטור
+Gland	בלוטה
+Glasgow	גלאזגו
+Glasnost	גלאסנוסט
+Glass	זכוכית
+Glasses	משקפיים
+Glider	דאון
+Global Positioning System	GPS
+Global warming	התחממות עולמית
+Globalization	גלובליזציה
+Globe artichoke	ארטישוק
+Gloucestershire	גלוסטרשייר
+Glucagon	גלוקגון
+Glucose	גלוקוז
+Gluon	גלואון
+Glutamic acid	חומצה גלוטמית
+Glycerol	גליצרול
+Glycine	גליצין
+Glycogen	גליקוגן
+Glycolysis	גליקוליזה
+Gnathostomata	חולייתנים לסתניים
+Gnosticism	גנוסיס
+Go (board game)	גו
+Goa	גואה
+Goalkeeper	שוער
+Goat	עז הבית
+Gobi Desert	מדבר גובי
+God	אלוהים
+Golan Heights	רמת הגולן
+Gold	זהב
+Golda Meir	גולדה מאיר
+Golden Eagle	עיט זהוב
+Golden Gate Bridge	גשר שער הזהב
+Golden Horde	אורדת הזהב
+Golden Retriever	גולדן רטריבר
+Golf	גולף
+Golf	קטגוריה:גולף
+Golgi apparatus	גולג'י
+Gomel	הומל
+Good Friday	יום שישי הטוב
+Google	גוגל (חברה)
+Google	קטגוריה:גוגל
+Googol	גוגול
+Gorgon	גורגונה
+Gorilla	גורילה
+Gospel	בשורות
+Gospel of Luke	הבשורה על-פי לוקאס
+Gothenburg	גטבורג
+Gothic	גותי
+Gothic architecture	אדריכלות גותית
+Gotthold Ephraim Lessing	גוטהולד אפרים לסינג
+Gottlieb Daimler	גוטליב דיימלר
+Gout	שיגדון
+Government	ממשלה
+Grace Kelly	גרייס קלי
+Gradient	גרדיאנט
+Graffiti	גרפיטי
+Graham Greene	גרהם גרין
+Grammar	דקדוק
+Grammar	קטגוריה:דקדוק
+Grammatical gender	מין (בלשנות)
+Granada	גרנדה (ספרד)
+Grand Canyon	הפארק הלאומי גרנד קניון
+Grand Slam (tennis)	גראנד סלאם (טניס)
+Grandmaster (chess)	רב אמן (שחמט)
+Granite	גרניט
+Grapefruit	אשכולית
+Graphic design	קטגוריה:עיצוב גרפי
+Graphic design	עיצוב גרפי
+Graphite	גרפיט
+Gravitation	כבידה
+Gravitational constant	קבוע הכבידה
+Graviton	גרביטון
+Gray (unit)	גריי
+Gray Wolf	זאב מצוי
+Graz	גראץ
+Great Barrier Reef	שונית המחסום הגדולה
+Great Britain	בריטניה הגדולה
+Great Depression	השפל הגדול
+Great Lakes	הימות הגדולות
+Great Rift Valley	השבר הסורי-אפריקני
+Great Wall of China	החומה הסינית
+Great white shark	קרחה לבנה
+Greater Antilles	האנטילים הגדולים
+Greater London	לונדון רבתי
+Greatest common divisor	מחלק משותף מקסימלי
+Grebe	טבלניים
+Greece	יוון
+Greece	קטגוריה:יוון
+Greek alphabet	אלפבית יווני
+Greek alphabet	קטגוריה:אלפבית יווני
+Greek fire	אש יוונית
+Greek mythology	מיתולוגיה יוונית
+Greek mythology	קטגוריה:מיתולוגיה יוונית
+Green	ירוק
+Greenhouse	חממה
+Greenhouse effect	אפקט החממה
+Greenhouse gas	גז חממה
+Greenland	גרינלנד
+Greenland	קטגוריה:גרינלנד
+Greenland Sea	ים גרינלנד
+Greenpeace	גרינפיס
+Greenwich	גריניץ'
+Greenwich Mean Time	שעון גריניץ'
+Gregor Mendel	גרגור מנדל
+Gregorian calendar	הלוח הגרגוריאני
+Grenada	קטגוריה:גרנדה
+Grenoble	גרנובל
+Greta Garbo	גרטה גרבו
+Grey	אפור
+Griffin	גריפון
+Griffon Vulture	נשר מקראי
+Gross domestic product	תוצר מקומי גולמי
+Group (mathematics)	חבורה (מבנה אלגברי)
+Group (periodic table)	סדרה כימית
+Group theory	תורת החבורות
+Grover Cleveland	גרובר קליבלנד
+Grozny	גרוזני
+Gruiformes	עגוראים
+Grus (constellation)	עגור (קבוצת כוכבים)
+Guadalajara	גוודלחרה (מקסיקו)
+Guadeloupe	גוואדלופ
+Guam	גואם
+Guangdong	גואנגדונג
+Guangzhou	גואנגג'ואו
+Guanine	גואנין
+Guano	גואנו
+Guatemala	קטגוריה:גואטמלה
+Guatemala City	גואטמלה סיטי
+Guernsey	גרנזי
+Guglielmo Marconi	גוליילמו מרקוני
+Guild	גילדה
+Guillaume Apollinaire	גיום אפולינר
+Guillotine	גיליוטינה
+Guinea	גינאה
+Guinea	קטגוריה:גינאה
+Guinea-Bissau	גינאה ביסאו
+Guinea-Bissau	קטגוריה:גינאה ביסאו
+Guitar	גיטרה
+Gujarat	גוג'אראט
+Gulag	גולאג
+Gulf Stream	זרם הגולף
+Gulf War	מלחמת המפרץ
+Gulf of Aden	מפרץ עדן
+Gulf of Aqaba	מפרץ אילת
+Gulf of Bothnia	המפרץ הבוטני
+Gulf of Finland	המפרץ הפיני
+Gulf of Guinea	מפרץ גינאה
+Gulf of Mexico	מפרץ מקסיקו
+Gulf of Oman	מפרץ עומאן
+Gulf of Riga	מפרץ ריגה
+Gulf of Thailand	מפרץ תאילנד
+Gull	שחף
+Gunpowder	אבק שריפה
+Gunpowder Plot	מזימת אבק השריפה
+Guppy	גופי
+Gustav Klimt	גוסטב קלימט
+Gustav Mahler	גוסטב מאהלר
+Gustave Courbet	גוסטב קורבה
+Gustave Flaubert	גוסטב פלובר
+Guy Fawkes	גאי פוקס
+Guy de Maupassant	גי דה מופאסאן
+Guyana	קטגוריה:גיאנה
+Gymnastics	התעמלות
+Gymnosperm	חשופי זרע
+Gynaecology	גינקולוגיה
+Gypsum	גבס
+Gyroscope	גירוסקופ
+H	H
+H. G. Wells	הרברט ג'ורג' ולס
+HIV	HIV
+HTML	HTML
+Habitat	בית גידול
+Hacker	האקר
+Hadean	האדן
+Hades	האדס
+Hadith	חדית'
+Hadrian	אדריאנוס
+Hadrian's Wall	חומת אדריאנוס
+Hadron	האדרון
+Haemophilia	המופיליה
+Hafnium	הפניום
+Hagia Sophia	איה סופיה
+Haifa	חיפה
+Haiku	האיקו
+Hail	ברד
+Hail Mary	אווה מריה
+Hair	שיער
+Haiti	האיטי
+Haiti	קטגוריה:האיטי
+Hajj	חג'
+Halal	חלאל
+Halberd	האלברד
+Half-life	מחצית חיים
+Halloween	ליל כל הקדושים
+Hallucination	הזיה
+Halogen	הלוגן
+Hamas	חמאס
+Hamburg	המבורג
+Hamburger	המבורגר
+Hamlet	המלט
+Hammer	פטיש
+Hammer and sickle	הפטיש והמגל
+Hammurabi	חמורבי
+Hampshire	המפשייר
+Hand	כף יד
+Hand grenade	רימון יד
+Handgun	אקדח
+Hanging	תלייה
+Hanging Gardens of Babylon	הגנים התלויים בבבל
+Hannah Arendt	חנה ארנדט
+Hannibal	חניבעל
+Hanoi	האנוי
+Hanover	הנובר
+Hans Bethe	האנס בתה
+Hans Christian Andersen	הנס כריסטיאן אנדרסן
+Hanseatic League	ברית ערי הנזה
+Hanukkah	חנוכה
+Happiness	שמחה
+Harare	הארארה
+Hardness	קשיות
+Harem	הרמון
+Harlem	הארלם
+Harmonica	מפוחית פה
+Harmony	הרמוניה
+Harold Pinter	הרולד פינטר
+Harp	נבל (כלי נגינה)
+Harpsichord	צ'מבלו
+Harpy	הרפיה (מיתולוגיה)
+Harriet Beecher Stowe	הארייט ביצ'ר סטואו
+Harriet Tubman	הארייט טאבמן
+Harrisburg	האריסברג
+Harry Houdini	הארי הודיני
+Hartford	הרטפורד
+Hassium	האסיום
+Hatred	שנאה
+Haute-Normandie	נורמנדי עילית
+Havana	הוואנה
+Hawaii	הוואי
+Hawaii	קטגוריה:הוואי
+Head	ראש
+Head of state	ראש מדינה
+Health	בריאות
+Health	קטגוריה:בריאות
+Heart	לב האדם
+Heat	חום (פיזיקה)
+Heat engine	מנוע חום
+Heavy metal	קטגוריה:מטאל
+Heavy metal music	הבי מטאל
+Heavy water	מים כבדים
+Hebe (mythology)	הבה
+Hebei	הביי
+Hebrew alphabet	אלפבית עברי
+Hebrew calendar	הלוח העברי
+Hebrides	האיים ההברידיים
+Hectare	הקטאר
+Hector	הקטור
+Hector Berlioz	הקטור ברליוז
+Hedgehog	קיפוד
+Hedonism	נהנתנות
+Heimdall	היימדייל
+Heinrich Hertz	היינריך רודולף הרץ
+Heinrich Himmler	היינריך הימלר
+Heinrich Schliemann	היינריך שלימן
+Helen	הלנה
+Helen Keller	הלן קלר
+Helena	הלנה (מונטנה)
+Helicopter	מסוק
+Helios	הליוס
+Helium	הליום
+Hell	גיהנום
+Helmut Schmidt	הלמוט שמידט
+Helsinki	הלסינקי
+Hematite	המטיט
+Hematology	המטולוגיה
+Hematology	קטגוריה:המטולוגיה
+Hemoglobin	המוגלובין
+Hemorrhoid	טחורים
+Henri Becquerel	אנרי בקרל
+Henri Bergson	אנרי ברגסון
+Henri Matisse	אנרי מאטיס
+Henrik Ibsen	הנריק איבסן
+Henry (unit)	הנרי (השראות)
+Henry Cavendish	הנרי קוונדיש
+Henry David Thoreau	הנרי דייוויד תורו
+Henry Fonda	הנרי פונדה
+Henry Ford	הנרי פורד
+Henry James	הנרי ג'יימס
+Henry Kissinger	הנרי קיסינג'ר
+Henry Miller	הנרי מילר
+Henry Moore	הנרי מור
+Henry Purcell	הנרי פרסל
+Hepatitis	דלקת כבד
+Hephaestus	הפייסטוס
+Hera	הרה
+Heracles	הרקולס
+Heraclitus	הרקליטוס
+Heraldry	הרלדיקה
+Heraldry	קטגוריה:הרלדיקה
+Herbert Hoover	הרברט הובר
+Herbert Marcuse	הרברט מרקוזה
+Herbert Spencer	הרברט ספנסר
+Hercules	הרקולס
+Hercules (constellation)	הרקולס (קבוצת כוכבים)
+Heresy	כופר (אמונה דתית)
+Herman Melville	הרמן מלוויל
+Hermann Hesse	הרמן הסה
+Hermann Minkowski	הרמן מינקובסקי
+Hermann von Helmholtz	הרמן פון הלמהולץ
+Hermaphrodite	הרמפרודיט
+Hermeneutics	הרמנויטיקה
+Hermes	הרמס
+Hero	גיבור
+Hero of Alexandria	הרון מאלכסנדריה
+Herod the Great	הורדוס
+Herodotus	הרודוטוס
+Heroin	הרואין
+Heron	אנפתיים
+Hertz	הרץ
+Hesiod	הסיודוס
+Hesperides	הספרידות
+Hesse	הסה
+Hesse	קטגוריה:הסה
+Hestia	הסטיה
+Heterosexuality	הטרוסקסואליות
+Heterotroph	הטרוטרוף
+Hexadecimal	בסיס הקסדצימלי
+Hexagon	משושה
+Hezbollah	חיזבאללה
+Hibernation	תרדמה
+Hieronymus Bosch	הירונימוס בוש
+Hilbert space	מרחב הילברט
+Himalayas	הימלאיה
+Hindu Kush	הינדו-כוש
+Hinduism	הינדואיזם
+Hinduism	קטגוריה:הינדואיזם
+Hipparchus	היפרכוס
+Hippie	ילדי הפרחים
+Hippocrates	היפוקרטס
+Hippocratic Oath	שבועת הרופאים
+Hippopotamus	היפופוטם
+Hirohito	הירוהיטו
+Hiroshima	הירושימה
+Hispaniola	היספניולה
+Histidine	היסטידין
+Histology	היסטולוגיה
+Histology	קטגוריה:היסטולוגיה
+Histone	היסטון
+Historiography	היסטוריוגרפיה
+History	היסטוריה
+History	קטגוריה:היסטוריה
+History	פורטל:היסטוריה
+Ho Chi Minh	הו צ'י מין
+Ho Chi Minh City	הו צ'י מין סיטי
+Hobart	הובארט
+Hobbit	הוביט
+Holiday	חג
+Hollywood	הוליווד
+Holmium	הולמיום
+Holocene	הולוקן
+Holography	הולוגרפיה
+Holy Grail	הגביע הקדוש
+Holy Roman Empire	האימפריה הרומית הקדושה
+Holy Roman Empire	קטגוריה:האימפריה הרומית הקדושה
+Holy Spirit	(נצרות)רוח הקודש
+Homeopathy	הומאופתיה
+Homeostasis	הומאוסטזה
+Homer	הומרוס
+Hominidae	הומינידיים
+Homo (genus)	אדם (סוג)
+Homo erectus	הומו ארקטוס
+Homo habilis	הומו הביליס
+Homophobia	הומופוביה
+Homosexuality	הומוסקסואליות
+Honduras	הונדורס
+Honduras	קטגוריה:הונדורס
+Honey	דבש
+Honey Buzzard	איית צרעים
+Hong Kong	הונג קונג
+Hong Kong	קטגוריה:הונג קונג
+Honiara	הוניארה
+Honolulu	הונולולו
+Hookah	נרגילה
+Hooke's law	חוק הוק
+Hoopoe	דוכיפת
+Horace	הורטיוס
+Horatio Nelson	הוריישו נלסון
+Hormone	הורמון
+Horn (anatomy)	קרן (זואולוגיה)
+Horn (instrument)	קרן יער
+Horn of Africa	קרן אפריקה
+Horoscope	הורוסקופ
+Horse	סוס הבית
+Horse racing	מירוץ סוסים
+Horsepower	כוח סוס
+Horus	הורוס
+Hosni Mubarak	חוסני מובארכ
+Hospital	בית חולים
+Hotel	בית מלון
+Hour	שעה
+Hourglass	שעון חול
+House	בית מגורים
+House (TV series)	האוס (סדרת טלוויזיה)
+House Mouse	עכבר מצוי
+House Sparrow	דרור הבית
+Houston	יוסטון
+Hovercraft	רחפת
+Hubble's law	קבוע האבל
+Hudson Bay	מפרץ הדסון
+Hudson River	הדסון (נהר)
+Hugh Capet	איג קאפה, מלך צרפת
+Huguenot	הוגנוטים
+Human	האדם הנבון
+Humanism	הומניזם
+Humanities	קטגוריה:מדעי הרוח
+Humerus	עצם הזרוע
+Humidity	לחות
+Hummingbird	קוליבריים
+Humor	קטגוריה:הומור
+Humour	הומור
+Humpback Whale	לווייתן גדול סנפיר
+Humphrey Bogart	המפרי בוגרט
+Humus	הומוס
+Hunan	הונאן
+Hundred Years' War	מלחמת מאה השנים
+Hungary	הונגריה
+Hungary	קטגוריה:הונגריה
+Hunger	רעב
+Hunting	ציד
+Hutu	הוטו
+Hydra (constellation)	נחש מים (קבוצת כוכבים)
+Hydrocarbon	פחמימן
+Hydrochloric acid	חומצת מימן כלורי
+Hydroelectricity	תחנת כוח הידרואלקטרית
+Hydrogen	מימן
+Hydrogen bond	קשר מימן
+Hydrogen cyanide	מימן ציאנידי
+Hydrogen peroxide	מימן על-חמצני
+Hydrology	הידרולוגיה
+Hydrology	קטגוריה:הידרולוגיה
+Hydrolysis	הידרוליזה
+Hydrus	נחש מים קטן
+Hyena	צבועיים
+Hygiene	קטגוריה:היגיינה
+Hymen	קרום בתולים
+Hymenoptera	קטגוריה:דבוראים
+Hymenoptera	דבוראים
+Hyperbola	היפרבולה
+Hyperbole	הגזמה
+Hyperion (mythology)	היפריון
+Hypertext	היפרטקסט
+Hypertext Transfer Protocol	Hypertext Transfer Protocol
+Hypnos	היפנוס
+Hypnosis	היפנוזה
+Hypothalamus	היפותלמוס
+Hypothesis	השערה (מדע)
+I	I
+I. M. Pei	איי אם פיי
+IPod	IPod
+Ian Fleming	איאן פלמינג
+Iapetus (moon)	יאפטוס (ירח)
+Iapetus (mythology)	יאפטוס (מיתולוגיה)
+Iberian Peninsula	חצי האי האיברי
+Ibuprofen	איבופרופן
+Ice	קרח
+Ice age	עידן הקרח
+Ice cream	גלידה
+Ice hockey	הוקי קרח
+Ice hockey	קטגוריה:הוקי קרח
+Iceberg	קרחון ימי
+Iceland	איסלנד
+Iceland	קטגוריה:איסלנד
+Ichthyology	איכתיולוגיה
+Icon	איקונין
+Iconoclasm	איקונוקלאזם
+Idaho	איידהו
+Idaho	קטגוריה:איידהו
+Ideal gas	גז אידאלי
+Idealism	אידאליזם
+Identity element	איבר יחידה
+Identity matrix	מטריצת היחידה
+Ideology	אידאולוגיה
+Ido	אידו (שפה)
+Igloo	איגלו
+Igneous rock	סלע יסוד
+Igor Stravinsky	איגור סטרווינסקי
+Iguazu Falls	מפלי איגואסו
+Iliad	איליאדה
+Illinois	אילינוי
+Illinois	קטגוריה:אילינוי
+Illyria	איליריה
+Image scanner	סורק
+Imam	אימאם
+Immanuel Kant	עמנואל קאנט
+Immune system	מערכת החיסון
+Immunology	אימונולוגיה
+Immunology	קטגוריה:אימונולוגיה
+Imperialism	אימפריאליזם
+Impressionism	אימפרסיוניזם
+Incest	גילוי עריות
+Inch	אינץ'
+Incheon	אינצ'און
+Independence	עצמאות
+India	הודו
+India	קטגוריה:הודו
+Indian Ocean	האוקיינוס ההודי
+Indian Ocean	קטגוריה:האוקיינוס ההודי
+Indiana	אינדיאנה
+Indiana	קטגוריה:אינדיאנה
+Indianapolis	אינדיאנפוליס
+Indira Gandhi	אינדירה גנדי
+Indium	אינדיום
+Indochina	הודו-סין
+Indonesia	אינדונזיה
+Indonesia	קטגוריה:אינדונזיה
+Inductance	השראות
+Inductive reasoning	אינדוקציה
+Inductor	סליל השראה
+Indulgence	כתב מחילה
+Indus (constellation)	אינדיאני (קבוצת כוכבים)
+Indus River	אינדוס
+Industrial Revolution	המהפכה התעשייתית
+Industry	תעשייה
+Industry	קטגוריה:תעשייה
+Inequality	אי-שוויון
+Inertia	עקרון ההתמדה
+Infantry	חיל רגלים
+Infectious disease	מחלה זיהומית
+Infinitive	שם הפועל
+Infinity	אינסוף
+Inflammation	דלקת
+Inflation	אינפלציה
+Influenza	שפעת
+Information	מידע
+Information technology	טכנולוגיית המידע
+Information theory	תורת האינפורמציה
+Infrared	תת-אדום
+Infrastructure	תשתית
+Ingmar Bergman	אינגמר ברגמן
+Ingrid Bergman	אינגריד ברגמן
+Inner Mongolia	מונגוליה התיכונה
+Innsbruck	אינסברוק
+Inorganic chemistry	כימיה אי-אורגנית
+Inorganic chemistry	קטגוריה:כימיה אי-אורגנית
+Inquisition	אינקוויזיציה
+Insect	חרקים
+Insectivora	אוכלי חרקים
+Insulin	אינסולין
+Insurance	ביטוח
+Integer	מספר שלם
+Integral	אינטגרל
+Integrated circuit	מעגל משולב
+Intellectual property	קניין רוחני
+Intelligence	אינטליגנציה
+Intelligence quotient	מנת משכל
+Intercontinental ballistic missile	טיל בליסטי בין-יבשתי
+Interest	ריבית
+Interference	התאבכות
+Interlingua	אינטרלינגואה
+International Atomic Energy Agency	הסוכנות הבינלאומית לאנרגיה אטומית
+International Civil Aviation Organization	הארגון הבינלאומי לתעופה אזרחית
+International Court of Justice	בית הדין הבינלאומי לצדק
+International Date Line	קו התאריך הבינלאומי
+International Labour Organization	ארגון העבודה הבינלאומי
+International Monetary Fund	קרן המטבע הבינלאומית
+International System of Units	מערכת היחידות הבינלאומית
+International law	קטגוריה:משפט בינלאומי
+International organization	ארגון בינלאומי
+Internet	אינטרנט
+Internet	קטגוריה:אינטרנט
+Internet Explorer	Internet Explorer
+Internment	מחנה ריכוז
+Interpreter (computing)	מפרש (תוכנה)
+Intersection (set theory)	חיתוך (מתמטיקה)
+Interval (music)	מרווח (מוזיקה)
+Intestine	מעיים
+Intranet	אינטראנט
+Invention	המצאה
+Invertebrate	חסרי חוליות
+Io (moon)	איו (ירח)
+Io (mythology)	איו (מיתולוגיה)
+Iodine	יוד
+Ion	יון
+Ionia	איוניה
+Ionian Sea	הים היוני
+Ionic bond	קשר יוני
+Ionosphere	יונוספירה
+Iota	יוטא
+Iowa	איווה
+Iowa	קטגוריה:איווה
+Iran	איראן
+Iran	קטגוריה:איראן
+Iran-Iraq War	מלחמת איראן-עיראק
+Iraq	עיראק
+Iraq	קטגוריה:עיראק
+Ireland	אירלנד (אי)
+Irenaeus	אירנאוס
+Iridium	אירידיום
+Iris (anatomy)	קשתית
+Iris (mythology)	איריס
+Irish Republican Army	IRA
+Irish Sea	הים האירי
+Irish people	קטגוריה:אירים
+Iron	ברזל
+Iron Age	תקופת הברזל
+Iron Curtain	מסך הברזל
+Iron Maiden	איירון מיידן
+Irony	אירוניה
+Irrational number	מספר אי רציונלי
+Irredentism	אירידנטה
+Irtysh River	אירטיש
+Isaac	יצחק
+Isaac Asimov	אייזק אסימוב
+Isaac Bashevis Singer	יצחק בשביס-זינגר
+Isaac Newton	אייזק ניוטון
+Isadora Duncan	איזדורה דנקן
+Ishmael	ישמעאל
+Isis	איזיס
+Islam	אסלאם
+Islam	קטגוריה:אסלאם
+Islamabad	איסלמבאד
+Islamic calendar	הלוח המוסלמי
+Island	אי
+Isle of Man	האי מאן
+Isle of Man	קטגוריה:האי מאן
+Isomer	איזומר
+Isoroku Yamamoto	איסורוקו יאממוטו
+Isotope	איזוטופ
+Israel	ישראל
+Israel	קטגוריה:ישראל
+Istanbul	איסטנבול
+Istanbul	קטגוריה:איסטנבול
+Isthmus	מצר יבשה
+Italian Peninsula	חצי האי האפניני
+Italo Calvino	איטלו קאלווינו
+Italy	איטליה
+Italy	קטגוריה:איטליה
+Ithaca	איתקה
+Ivan Lendl	איוון לנדל
+Ivan Pavlov	איוואן פבלוב
+Ivan Turgenev	איוון טורגנייב
+Ivory	שנהב
+Ivy League	ליגת הקיסוס
+Iwo Jima	איוו ג'ימה
+J	J
+J. D. Salinger	ג'רום דייוויד סלינג'ר
+J. M. Barrie	ג'יימס מתיו ברי
+Jack Kerouac	ג'ק קרואק
+Jack Lemmon	ג'ק למון
+Jack London	ג'ק לונדון
+Jack the Ripper	ג'ק המרטש
+Jackdaw	קאק
+Jackson	ג'קסון (מיסיסיפי)
+Jackson Pollock	ג'קסון פולוק
+Jacksonville	ג'קסונוויל
+Jacob	יעקב
+Jacques Cartier	ז'ק קרטייה
+Jacques Derrida	ז'אק דרידה
+Jacques Offenbach	ז'ק אופנבך
+Jade	ירקן
+Jaguar	יגואר
+Jainism	ג'ייניזם
+Jakarta	ג'קרטה
+Jamaica	ג'מייקה
+Jamaica	קטגוריה:ג'מייקה
+James	יעקב בן זבדי
+James A. Garfield	ג'יימס גרפילד
+James Bond	ג'יימס בונד
+James Buchanan	ג'יימס ביוקנן
+James Clerk Maxwell	ג'יימס קלרק מקסוול
+James Cook	ג'יימס קוק
+James Franck	ג'יימס פרנק
+James Joyce	ג'יימס ג'ויס
+James K. Polk	ג'יימס פולק
+James Madison	ג'יימס מדיסון
+James Monroe	ג'יימס מונרו
+James Naismith	ג'יימס נייסמית'
+James Prescott Joule	ג'יימס ג'ול
+James Watt	ג'יימס ואט
+Jammu and Kashmir	ג'אמו וקשמיר
+Jan Hus	יאן הוס
+Jan van Eyck	יאן ואן אייק
+Jane Austen	ג'יין אוסטן
+Jane Fonda	ג'יין פונדה
+Jane Seymour	ג'יין סימור
+Janis Joplin	ג'ניס ג'ופלין
+Janissary	יניצ'רים
+January	ינואר
+January 1	1 בינואר
+January 19	19 בינואר
+January 20	20 בינואר
+January 6	6 בינואר
+Janus (mythology)	יאנוס
+Japan	יפן
+Japan	קטגוריה:יפן
+Jason	יאסון (מיתולוגיה)
+Jaundice	צהבת
+Java	ג'אווה
+Java (programming language)	Java
+Jawaharlal Nehru	ג'ווהרלל נהרו
+Jazz	ג'אז
+Jazz	קטגוריה:ג'אז
+Jean Auguste Dominique Ingres	ז'אן אוגוסט דומיניק אנגר
+Jean Cocteau	ז'אן קוקטו
+Jean Piaget	ז'אן פיאז'ה
+Jean Racine	ז'אן רסין
+Jean Sibelius	יאן סיבליוס
+Jean de La Fontaine	ז'אן דה לה פונטן
+Jean-Jacques Rousseau	ז'אן-ז'אק רוסו
+Jean-Paul Sartre	ז'אן-פול סארטר
+Jean-Philippe Rameau	ז'אן-פיליפ ראמו
+Jeddah	ג'דה
+Jefferson City	ג'פרסון סיטי
+Jefferson Davis	ג'פרסון דייוויס
+Jehovah	השם המפורש
+Jehovah's Witnesses	עדי יהוה
+Jellyfish	מדוזה
+Jeremy Bentham	ג'רמי בנת'ם
+Jerez de la Frontera	חרס דה לה פרונטרה
+Jericho	יריחו
+Jerome	הירונימוס
+Jersey	ג'רזי
+Jerusalem	ירושלים
+Jerusalem	קטגוריה:ירושלים
+Jesus	ישו
+Jet engine	מנוע סילון
+Jew	יהודים
+Jew's harp	נבל פה
+Jihad	ג'יהאד
+Jimi Hendrix	ג'ימי הנדריקס
+Jimmy Carter	ג'ימי קרטר
+Joan of Arc	ז'אן ד'ארק
+Johann Bernoulli	יוהן ברנולי
+Johann Sebastian Bach	יוהן סבסטיאן באך
+Johann Wolfgang von Goethe	יוהן וולפגנג פון גתה
+Johannes Brahms	יוהנס ברהמס
+Johannes Diderik van der Waals	יוהאנס דידריק ואן דר ואלס
+Johannes Gutenberg	יוהן גוטנברג
+Johannes Kepler	יוהנס קפלר
+Johannes Vilhelm Jensen	יוהנס וילהלם ינסן
+Johannesburg	יוהנסבורג
+John Adams	ג'ון אדמס
+John Bardeen	ג'ון ברדין
+John Cage	ג'ון קייג'
+John Calvin	ז'אן קלווין
+John Chrysostom	יוחנן כריסוסטומוס
+John Dalton	ג'ון דלטון
+John Dewey	ג'ון דיואי
+John Galsworthy	ג'ון גולסוורתי
+John Herschel	ג'ון הרשל
+John Keats	ג'ון קיטס
+John Lennon	ג'ון לנון
+John Locke	ג'ון לוק
+John Major	ג'ון מייג'ור
+John Maynard Keynes	ג'ון מיינרד קיינס
+John Milton	ג'ון מילטון
+John Napier	ג'ון נפייר
+John Quincy Adams	ג'ון קווינסי אדמס
+John Ruskin	ג'ון ראסקין
+John Steinbeck	ג'ון סטיינבק
+John Stuart Mill	ג'ון סטיוארט מיל
+John Tyler	ג'ון טיילר
+John Wayne	ג'ון ויין
+John the Baptist	יוחנן המטביל
+John von Neumann	ג'ון פון נוימן
+Johnny Cash	ג'וני קאש
+Joint	מפרק
+Jonathan Swift	ג'ונתן סוויפט
+Jordan	ירדן
+Jordan	קטגוריה:ירדן
+Jordan River	נהר הירדן
+Jorge Luis Borges	חורחה לואיס בורחס
+Joseph Conrad	ג'וזף קונרד
+Joseph Goebbels	יוזף גבלס
+Joseph Haydn	יוזף היידן
+Joseph Louis Gay-Lussac	לואי ז'וזף גה-ליסאק
+Joseph McCarthy	ג'וזף מקארתי
+Joseph Priestley	ג'וזף פריסטלי
+Joseph Pulitzer	ג'וזף פוליצר
+Joseph Schumpeter	יוזף שומפטר
+Joseph Smith	ג'וזף סמית' הבן
+Joseph Stalin	יוסיף סטלין
+Josephus	יוסף בן מתתיהו
+Joule	ג'ול
+Journalism	עיתונאות
+Journalist	עיתונאי
+Jovian	יוביאנוס
+Joystick	ג'ויסטיק
+Judaism	יהדות
+Judaism	קטגוריה:יהדות
+Judas Iscariot	יהודה איש קריות
+Judea	יהודה (חבל ארץ)
+Judo	ג'ודו
+Judy Garland	ג'ודי גרלנד
+Jujutsu	ג'ו ג'וטסו
+Jules Verne	ז'ול ורן
+Julian calendar	הלוח היוליאני
+Julian the Apostate	יוליאנוס הכופר
+Julius Caesar	יוליוס קיסר
+July	יולי
+July 1	1 ביולי
+July 4	4 ביולי
+June	יוני
+June 14	14 ביוני
+June 21	21 ביוני
+June 23	23 ביוני
+June 24	24 ביוני
+June 29	29 ביוני
+June 3	3 ביוני
+Juneau	ג'ונו
+Juniper	ערער
+Juno (mythology)	יונו
+Jupiter	צדק (כוכב לכת)
+Jupiter	קטגוריה:צדק
+Jupiter (disambiguation)	יופיטר
+Jupiter (mythology)	יופיטר (מיתולוגיה)
+Jurassic	יורה (גאולוגיה)
+Justinian I	יוסטיניאנוס הראשון
+Jutland	יוטלנד
+K	K
+K2	K2
+KGB	ק.ג.ב.
+Kaaba	כעבה
+Kabbalah	קבלה
+Kabul	קאבול
+Kalahari Desert	קלהארי
+Kamchatka Peninsula	חצי האי קמצ'טקה
+Kamikaze	קמיקזה
+Kampala	קמפלה
+Kandahar	קנדהאר
+Kangaroo	קנגורו
+Kansas	קנזס
+Kansas	קטגוריה:קנזס
+Kappa	קפא
+Karachi	קראצ'י
+Karakoram	קארקוראם
+Karaoke	קריוקי
+Karate	קראטה
+Karen Blixen	איזק דינסן
+Karl Jaspers	קרל יאספרס
+Karl Marx	קרל מרקס
+Karl Popper	קרל פופר
+Karma	קארמה
+Karnataka	קארנאטקה
+Katharine Hepburn	קתרין הפבורן
+Kathmandu	קטמנדו
+Katowice	קטוביץ
+Kaunas	קובנה
+Kayak	קיאק
+Kazakhstan	קזחסטן
+Kazakhstan	קטגוריה:קזחסטן
+Kazan	קאזאן
+Kazimir Malevich	קזימיר מלביץ'
+Kelvin	יחידות מידה לטמפרטורה
+Kent	קנט
+Kentucky	קנטקי
+Kentucky	קטגוריה:קנטקי
+Kenya	קניה
+Kenya	קטגוריה:קניה
+Kernel (computer science)	ליבה (מדעי המחשב)
+Kerosene	קרוסן
+Ketchup	קטשופ
+Ketone	קטון
+Keyboard (computing)	מקלדת מחשב
+Keyboard instrument	כלי מקלדת
+Khabarovsk	חברובסק
+Khan	חאן (תואר)
+Kharkiv	חרקוב
+Khartoum	חרטום
+Khmer Rouge	קמר רוז'
+Khufu	ח'ופו
+Kibbutz	קיבוץ
+Kidney	כליה
+Kiev	קייב
+Kigali	קיגאלי
+Kilogram	קילוגרם
+Kilometres per hour	קילומטר לשעה
+Kimono	קימונו
+Kindergarten	גן ילדים
+Kinematics	קינמטיקה
+Kinetic energy	אנרגיה קינטית
+King (chess)	מלך (שחמט)
+King Arthur	המלך ארתור
+King Lear	המלך ליר
+Kingdom (biology)	ממלכה (טקסונומיה)
+Kingston	קינגסטון
+Kingstown	קינגסטאון
+Kinshasa	קינשאסה
+Kiribati	קיריבטי
+Kiribati	קטגוריה:קיריבטי
+Kirkuk	כירכוכ
+Kiss	נשיקה
+Kite	עפיפון
+Kiwi	קיווי (עוף)
+Knee	ברך
+Knesset	הכנסת
+Knife	סכין
+Knight	אביר
+Knight (chess)	פרש (שחמט)
+Knot (speed)	קשר (יחידת מידה)
+Knowledge	ידע
+Knut Hamsun	קנוט האמסון
+Koala	קואלה
+Kobe	קובה (יפן)
+Kola Peninsula	חצי האי קולה
+Kolkata	קולקטה
+Komodo dragon	דרקון קומודו
+Konqueror	Konqueror
+Konrad Adenauer	קונרד אדנאואר
+Korea	קוריאה
+Korea	קטגוריה:קוריאה
+Korean War	מלחמת קוריאה
+Kosovo	קוסובו
+Kosovo	קטגוריה:קוסובו
+Krakatoa	קרקטואה
+Kremlin	קרמלין
+Krishna	קרישנה
+Krypton	קריפטון
+Ku Klux Klan	קו קלוקס קלאן
+Kuala Lumpur	קואלה לומפור
+Kublai Khan	קובלאי חאן
+Kuiper belt	חגורת קויפר
+Kung fu (term)	קונג פו
+Kunlun Mountains	הרי קונלון
+Kuomintang	קוומינטנג
+Kura River	קורה (נהר)
+Kurdistan	כורדיסטן
+Kurdistan	קטגוריה:כורדיסטן
+Kurdistan Workers Party	מפלגת הפועלים של כורדיסטן
+Kurt Vonnegut	קורט וונגוט
+Kurt Waldheim	קורט ולדהיים
+Kuwait	כווית
+Kuwait	קטגוריה:כווית
+Kuwait City	כווית סיטי
+Kyoto	קיוטו
+Kyrgyzstan	קירגיזסטן
+Kyrgyzstan	קטגוריה:קירגיזסטן
+L	L
+LAMP (software bundle)	LAMP (תשתיות תוכנה)
+La Paz	לה פאס
+LaTeX	LaTeX
+Laboratory	מעבדה
+Labour Party (UK)	מפלגת הלייבור הבריטית
+Labrador Retriever	לברדור רטריבר
+Lactic acid	חומצה לקטית
+Lactose	לקטוז
+Lady Jane Grey	ג'יין גריי
+Lagomorpha	ארנבאים
+Lagos	לאגוס
+Lahore	לאהור
+Laissez-faire	לסה פר
+Lake	אגם
+Lake Baikal	ימת באיקל
+Lake Balaton	אגם בלטון
+Lake Chad	ימת צ'אד
+Lake Constance	קונסטנץ (ימה)
+Lake Erie	ימת אירי
+Lake Geneva	אגם ז'נבה
+Lake Huron	ימת יורון
+Lake Ladoga	ימת לדוגה
+Lake Malawi	אגם מלאווי
+Lake Michigan	ימת מישיגן
+Lake Onega	ימת אונגה
+Lake Ontario	ימת אונטריו
+Lake Superior	ימת סופיריור
+Lake Tanganyika	אגם טנגנייקה
+Lake Victoria	אגם ויקטוריה
+Lambda	למבדא
+Lamiaceae	שפתניים
+Lammergeier	פרס (עוף)
+Lancashire	לנקשייר
+Lancelet	מיתרני ראש
+Landfill	מטמנה
+Language	שפה
+Languedoc-Roussillon	לנגדוק-רוסיון
+Lansing	לאנסינג
+Lanthanide	לנתניד
+Lanthanum	לנתן
+Laos	לאוס
+Laos	קטגוריה:לאוס
+Laptop	מחשב נייד
+Larva	פגית
+Larynx	בית הקול
+Las Vegas	לאס וגאס
+Laser	לייזר
+Lathe	מחרטה
+Latin	לטינית
+Latin America	אמריקה הלטינית
+Latin alphabet	אלפבית לטיני
+Latitude	קו רוחב
+Latvia	לטביה
+Latvia	קטגוריה:לטביה
+Laughter	צחוק
+Laurasia	לאוראסיה
+Lausanne	לוזאן
+Lava	לבה
+Law	משפטים
+Law	קטגוריה:חוק ומשפט
+Law enforcement	קטגוריה:משטרות
+Lawrencium	לורנציום
+Lawyer	עורך דין
+Lazio	לאציו
+Le Corbusier	לה קורבוזיה
+Lead	עופרת
+Leaf	עלה
+League of Nations	חבר הלאומים
+Leaning Tower of Pisa	מגדל פיזה
+Leap year	שנה מעוברת
+Learning	למידה
+Lebanon	לבנון
+Lebanon	קטגוריה:לבנון
+Leda (mythology)	לדה (מיתולוגיה)
+Lee Harvey Oswald	לי הארווי אוסוואלד
+Leeds	לידס
+Left-handed	שמאליות
+Legend	סיפור עם
+Legislature	פרלמנט
+Lego	לגו
+Leicester	לסטר
+Leiden	ליידן
+Leipzig	לייפציג
+Lemon	לימון
+Lena River	לנה
+Length	אורך
+Lens (optics)	עדשה
+Lent	התענית
+Lentil	עדשה תרבותית
+Leo (constellation)	אריה (קבוצת כוכבים)
+Leon Trotsky	לאון טרוצקי
+Leonard Bernstein	ליאונרד ברנשטיין
+Leonardo da Vinci	לאונרדו דה וינצ'י
+Leonhard Euler	לאונרד אוילר
+Leonid Brezhnev	ליאוניד ברז'נייב
+Leopard	נמר
+Lepidoptera	פרפראים
+Leprosy	צרעת
+Lepton	לפטון
+Lepus (constellation)	ארנבת (קבוצת כוכבים)
+Lesbian	לסביות
+Lesotho	לסוטו
+Lesotho	קטגוריה:לסוטו
+Lesser Antilles	האנטילים הקטנים
+Leto	לטו
+Letter (alphabet)	אות
+Leukemia	לוקמיה
+Levant	לבנט
+Lever	מנוף (מכניקה)
+Leviathan	לווייתן (מיתולוגיה)
+Leviticus	ויקרא
+Lewis Carroll	לואיס קרול
+Lhasa	להסה
+Lhotse	להוטסה
+Liberalism	ליברליזם
+Liberalism	קטגוריה:ליברליזם
+Liberation Tigers of Tamil Eelam	הנמרים הטמילים
+Liberia	ליבריה
+Liberia	קטגוריה:ליבריה
+Libra (constellation)	מאזניים (קבוצת כוכבים)
+Library	ספרייה
+Library science	מדעי המידע
+Libretto	לברית
+Libreville	ליברוויל
+Libya	לוב
+Libya	קטגוריה:לוב
+Lichen	חזזית
+Lie	שקר לבן
+Liechtenstein	ליכטנשטיין
+Liechtenstein	קטגוריה:ליכטנשטיין
+Lieutenant	לוטננט
+Life	חיים
+Light	אור
+Light-emitting diode	דיודה פולטת אור
+Light-year	שנת אור
+Lighter	מצית
+Lighthouse	מגדלור
+Lightning	ברק
+Liguria	ליגוריה
+Liliaceae	שושניים
+Lilith	לילית (מיתולוגיה)
+Lille	ליל
+Lilongwe	לילונגווה
+Lima	לימה
+Limerick	לימריק
+Limestone	אבן גיר
+Limit (mathematics)	גבול (מתמטיקה)
+Limnology	לימנולוגיה
+Lincoln	לינקולן (נברסקה)
+Lincoln	לינקולן
+Line (mathematics)	ישר
+Linear algebra	אלגברה לינארית
+Linear algebra	קטגוריה:אלגברה לינארית
+Linear equation	משוואה לינארית
+Lingua franca	לינגואה פרנקה
+Linguistics	בלשנות
+Linguistics	קטגוריה:בלשנות
+Linus Pauling	לינוס פאולינג
+Linux	לינוקס
+Linz	לינץ
+Lion	אריה
+Lipid	ליפיד
+Liqueur	ליקר
+Liquid	נוזל
+Liquid crystal display	LCD
+Lisbon	ליסבון
+Lise Meitner	ליזה מייטנר
+Lisp (programming language)	LISP
+Literacy	אוריינות
+Literature	ספרות
+Literature	קטגוריה:ספרות
+Literature	פורטל:ספרות
+Lithium	ליתיום
+Lithography	הדפס אבן
+Lithosphere	ליתוספירה
+Lithuania	ליטא
+Lithuania	קטגוריה:ליטא
+Litre	ליטר
+Little Owl	כוס החורבות
+Liverpool	ליברפול
+Livy	טיטוס ליוויוס
+Lizard	לטאות
+Ljubljana	ליובליאנה
+Llama	למה מצויה
+Loanword	שאילת מילים
+Local area network	רשת מקומית
+Loch Ness	לוך נס
+Loch Ness Monster	המפלצת מלוך נס
+Locomotive	קטר
+Logarithm	לוגריתם
+Logic	לוגיקה
+Logic	קטגוריה:לוגיקה
+Logic gate	שער לוגי
+Logistics	לוגיסטיקה
+Logo	לוגו
+Loki	לוקי
+Lolita	לוליטה
+Lombardy	לומברדיה
+London	לונדון
+London	קטגוריה:לונדון
+Long Beach	לונג ביץ'
+Long Island	לונג איילנד
+Long jump	קפיצה לרוחק
+Long-eared Owl	ינשוף עצים
+Lope de Vega	לופה דה וגה
+Lord's Prayer	תפילת האדון
+Lorraine (region)	לורן
+Los Angeles	לוס אנג'לס
+Loudspeaker	רמקול
+Louis Aragon	לואי אראגון
+Louis Armstrong	לואי ארמסטרונג
+Louis Braille	לואי ברייל
+Louis Pasteur	לואי פסטר
+Louis the Pious	לואי החסיד
+Louis the Stammerer	לואי השני, מלך צרפת
+Louisiana	לואיזיאנה
+Louisiana	קטגוריה:לואיזיאנה
+Louisville	לואיוויל
+Louvre	מוזיאון הלובר
+Love	אהבה
+Low German	סקסונית תחתית
+Lower Saxony	סקסוניה התחתונה
+Luanda	לואנדה
+Lublin	לובלין
+Lucerne	לוצרן
+Luciano Pavarotti	לוצ'אנו פבארוטי
+Lucifer	לוציפר
+Lucretius	לוקרטיוס
+Lucrezia Borgia	לוקרציה בורג'ה
+Ludwig Boltzmann	לודוויג בולצמן
+Ludwig Mies van der Rohe	לודוויג מיס ון דר רוהה
+Ludwig Wittgenstein	לודוויג ויטגנשטיין
+Ludwig van Beethoven	לודוויג ואן בטהובן
+Luftwaffe	לופטוואפה
+Luigi Galvani	לואיג'י גלווני
+Luigi Pirandello	לואיג'י פיראנדלו
+Lumen (unit)	לומן
+Luminescence	לומינסנציה
+Lunar eclipse	ליקוי ירח
+Lung	ריאה
+Lung cancer	סרטן הריאה
+Lungfish	דגי ריאות
+Lupus (constellation)	זאב (קבוצת כוכבים)
+Lusaka	לוסקה
+Lusitania	לוסיטניה (פרובינקיה רומית)
+Lute	לאוטה
+Lutetium	לוטציום
+Lutheranism	לותרניזם
+Lux	לוקס
+Luxembourg	לוקסמבורג
+Luxembourg	קטגוריה:לוקסמבורג
+Luxembourg (city)	לוקסמבורג (עיר)
+Luxor	לוקסור
+Lychee	ליצ'י
+Lydia	לידיה
+Lymphatic system	מערכת הלימפה
+Lynx (constellation)	לינקס (קבוצת כוכבים)
+Lyon	ליון
+Lyra	נבל (קבוצת כוכבים)
+Lysergic acid diethylamide	LSD
+Lysine	ליזין
+Lysosome	ליזוזום
+M	M
+M-theory	תורת M
+MESSENGER	MESSENGER
+MIME	Multipurpose Internet Mail Extensions
+Macau	מקאו
+Macbeth	מקבת'
+Macedon	מוקדון
+Macedonia	מקדוניה (פירושונים)
+Macedonia (Greece)	מקדוניה היוונית
+Mach number	מספר מאך
+Machine	מכונה
+Machine code	שפת מכונה
+Machine gun	מקלע
+Machine translation	תרגום מכונה
+Machu Picchu	מאצ'ו פיצ'ו
+Macintosh	מקינטוש
+Macroeconomics	מקרו-כלכלה
+Madagascar	מדגסקר
+Madagascar	קטגוריה:מדגסקר
+Madeira	מדיירה
+Madison	מדיסון
+Madonna (entertainer)	מדונה
+Madrid	מדריד
+Madrid (autonomous community)	מדריד (קהילה אוטונומית)
+Mafia	מאפיה (פשע מאורגן)
+Magazine	כתב עת
+Magenta	מג'נטה
+Maghreb	מגרב
+Magic (paranormal)	כישוף
+Magic square	ריבוע קסם
+Maginot Line	קו מאז'ינו
+Magma	מאגמה
+Magna Carta	מגנה כרטה
+Magnesium	מגנזיום
+Magnet	מגנט
+Magnetic field	שדה מגנטי
+Magnetic resonance imaging	דימות תהודה מגנטית
+Magnetism	מגנטיות
+Magnetite	מגנטיט
+Magnifying glass	זכוכית מגדלת
+Magnoliopsida	קטגוריה:דו-פסיגיים קדומים
+Maharashtra	מהרשטרה
+Mahatma Gandhi	מוהנדס קרמצ'נד גאנדי
+Mahayana	מהיינה
+Mail	דואר
+Maimonides	רמב"ם
+Main	מיין (נהר)
+Main	תבנית:הפניה לערך מורחב
+Maine	מיין
+Maine	קטגוריה:מיין
+Mainframe computer	מחשב מרכזי
+Maize	תירס
+Major scale	סולם מז'ורי
+Majorca	מיורקה
+Makalu	מקלו
+Malabo	מלאבו
+Malachite	מלכיט
+Malacostraca	סרטנים עילאיים
+Malaria	מלריה
+Malawi	קטגוריה:מלאווי
+Malay Peninsula	חצי האי המלאי
+Malayan Tapir	טפיר אסייתי
+Malaysia	מלזיה
+Malaysia	קטגוריה:מלזיה
+Malcolm X	מלקולם אקס
+Maldives	האיים המלדיביים
+Maldives	קטגוריה:המלדיביים
+Mali	מאלי
+Mali	קטגוריה:מאלי
+Mallard	ברכיה (עוף)
+Malta	מלטה
+Malta	קטגוריה:מלטה
+Maltese language	מלטית
+Maltose	מלטוז
+Mammal	יונקים
+Mammoth	ממותה
+Management	ניהול
+Managua	מנגואה
+Manama	מנאמה
+Manatee	תחש נהרות
+Manchester	מנצ'סטר
+Manchuria	מנצ'וריה
+Mandala	מנדלה
+Mandarin (linguistics)	מנדרינית
+Mandarin orange	מנדרינה
+Mandelbrot set	קבוצת מנדלברוט
+Manganese	מנגן
+Mango	מנגו
+Mangrove	מנגרובים
+Manhattan	מנהטן
+Manhattan Project	פרויקט מנהטן
+Manichaeism	מניכאיזם
+Manila	מנילה
+Manipur	מאניפור
+Manitoba	מניטובה
+Mannerism	מנייריזם
+Mannheim	מנהיים
+Mantle (geology)	מעטפת כדור הארץ
+Mantra	מנטרה
+Mantua	מנטובה
+Manuel de Falla	מנואל דה פאיה
+Manuscript	כתב יד (מקור)
+Mao Zedong	מאו דזה דונג
+Map	מפה
+Maple	אדר (עץ)
+Maputo	מפוטו
+Marathon	ריצת מרתון
+Marble	שיש
+Marc Chagall	מארק שאגאל
+Marcel Duchamp	מרסל דושאן
+Marcel Marceau	מרסל מרסו
+Marcel Proust	מרסל פרוסט
+March	מרץ
+March 17	17 במרץ
+March 19	19 במרץ
+March 2	2 במרץ
+March 25	25 במרץ
+Marche	מארקה
+Marco Polo	מרקו פולו
+Marcus Aurelius	מרקוס אורליוס
+Marcus Junius Brutus	מרקוס יוניוס ברוטוס
+Marcus Vipsanius Agrippa	מרקוס ויפסניוס אגריפה
+Marduk	מרדוך
+Margaret Mead	מרגרט מיד
+Margaret Mitchell	מרגרט מיצ'ל
+Margaret Thatcher	מרגרט תאצ'ר
+Maria Callas	מריה קאלאס
+Mariana Islands	איי מריאנה
+Marie Antoinette	מארי אנטואנט
+Marie Curie	מארי קירי
+Mariehamn	מריהמן
+Marilyn Monroe	מרילין מונרו
+Mario Vargas Llosa	מריו ורגאס יוסה
+Mark Antony	מרקוס אנטוניוס
+Mark Twain	מארק טוויין
+Market	שוק (כלכלה)
+Marketing	שיווק
+Marketing	קטגוריה:שיווק
+Marlene Dietrich	מרלן דיטריך
+Marquis de Sade	המרקיז דה סאד
+Marrakech	מרקש
+Marriage	נישואים
+Mars	קטגוריה:מאדים
+Mars (disambiguation)	מרס
+Mars (mythology)	מרס (מיתולוגיה)
+Marseille	מרסיי
+Marshall Islands	איי מרשל
+Marshall Islands	קטגוריה:איי מרשל
+Marshall Plan	תוכנית מרשל
+Marsupial	חיות כיס
+Martin Buber	מרטין בובר
+Martin Heidegger	מרטין היידגר
+Martin Luther	מרטין לותר
+Martin Luther King	מרטין לותר קינג
+Martin Scorsese	מרטין סקורסזה
+Martin Van Buren	מרטין ון ביורן
+Martina Navratilova	מרטינה נברטילובה
+Martinique	מרטיניק
+Martyr	מרטיר
+Marx Brothers	האחים מרקס
+Marxism	מרקסיזם
+Marxism	קטגוריה:מרקסיזם
+Mary (mother of Jesus)	מרים, אם ישו
+Mary Magdalene	מרים המגדלית
+Mary Shelley	מרי שלי
+Mary Wollstonecraft	מרי וולסטונקראפט
+Maryland	מרילנד
+Maryland	קטגוריה:מרילנד
+Maseru	מסרו
+Mashhad	משהד
+Mass	מסה
+Mass (liturgy)	מיסה
+Mass number	מספר מסה
+Massachusetts	מסצ'וסטס
+Massachusetts	קטגוריה:מסצ'וסטס
+Massachusetts Institute of Technology	המכון הטכנולוגי של מסצ'וסטס
+Masturbation	אוננות
+Mata Hari	מאטה הארי
+Match	גפרור
+Materialism	מטריאליזם
+Mathematical logic	לוגיקה מתמטית
+Mathematical logic	קטגוריה:לוגיקה מתמטית
+Mathematical proof	הוכחה
+Mathematics	מתמטיקה
+Mathematics	קטגוריה:מתמטיקה
+Mathematics	פורטל:מתמטיקה
+Matrix (mathematics)	מטריצה
+Matter	חומר
+Matterhorn	מטרהורן
+Mauna Loa	מאונה לואה
+Maurice Ravel	מוריס ראוול
+Mauritania	מאוריטניה
+Mauritania	קטגוריה:מאוריטניה
+Mauritius	מאוריציוס
+Mauritius	קטגוריה:מאוריציוס
+Max Born	מקס בורן
+Max Bruch	מקס ברוך
+Max Ernst	מקס ארנסט
+Max Planck	מקס פלאנק
+Max Weber	מקס ובר
+Maxwell's equations	משוואות מקסוול
+May	מאי
+May 1	1 במאי
+May 24	24 במאי
+Mayfly	בריומאים
+Mayonnaise	מיונז
+Mayor	ראש עירייה
+Mbabane	מבבנה
+McCarthyism	מקארתיזם
+Mead	תמד
+Measles	חצבת
+Measure (mathematics)	מידה (מתמטיקה)
+Measurement	מדידה
+Meat	בשר (מזון)
+Mecca	מכה
+Mechanical engineering	הנדסת מכונות
+Mechanical engineering	קטגוריה:הנדסת מכונות
+Mechanics	קטגוריה:מכניקה
+Medea	מדיאה
+Median	חציון
+Medication	תרופה
+Medici	בית מדיצ'י
+Medicine	רפואה
+Medicine	קטגוריה:רפואה
+Medina	אל-מדינה
+Meditation	מדיטציה
+Mediterranean	קטגוריה:הים התיכון
+Mediterranean Sea	הים התיכון
+Medusa	מדוזה (מיתולוגיה)
+Meerkat	סוריקטה
+Meiosis	מיוזה
+Meister Eckhart	מייסטר אקהרט
+Meitnerium	מייטנריום
+Mekong	מקונג
+Mel Gibson	מל גיבסון
+Melanesia	מלנזיה
+Melody	מלודיה
+Melpomene	מלפומנה
+Melting	התכה
+Melting point	נקודת התכה
+Meme	מם
+Memory	זיכרון
+Memphis	ממפיס
+Menachem Begin	מנחם בגין
+Mendelevium	מנדלביום
+Menelaus	מנלאוס (מלך ספרטה)
+Meningitis	דלקת קרום המוח
+Mensa (constellation)	הר השולחן (קבוצת כוכבים)
+Menstrual cycle	וסת
+Menstruation	וסת
+Mental disorder	מחלת נפש
+Mentha	נענע
+Mercantilism	מרקנטיליזם
+Mercenary	שכיר חרב
+Mercury	מרקורי
+Mercury (element)	כספית
+Mercury (mythology)	מרקורי (מיתולוגיה)
+Mercury (planet)	כוכב חמה
+Meridian (geography)	מרידיאן
+Mermaid	בת ים (מיתולוגיה)
+Merovingian	השושלת המרובינגית
+Meryl Streep	מריל סטריפ
+Mescaline	מסקלין
+Mesolithic	תקופת האבן התיכונה
+Meson	מזון (חלקיק)
+Mesopotamia	ארם נהריים
+Mesopotamia	קטגוריה:מסופוטמיה
+Mesosphere	מזוספירה
+Mesozoic	מזוזואיקון
+Messenger RNA	MRNA
+Messiah	משיח (דתות)
+Messina	מסינה
+Metabolism	מטבוליזם
+Metal	מתכת
+Metallic bond	קשר מתכתי
+Metalloid	מתכות למחצה
+Metallurgy	מטלורגיה
+Metallurgy	קטגוריה:מטלורגיה
+Metamorphic rock	סלע מותמר
+Metaphor	מטאפורה
+Metaphysics	מטאפיזיקה
+Metaphysics	קטגוריה:מטאפיזיקה
+Metastasis	גרורה
+Meteor shower	מטר מטאורים
+Meteorite	מטאוריט
+Meteoroid	מטאורואיד
+Meteorology	קטגוריה:מטאורולוגיה
+Meteorology	מטאורולוגיה
+Methadone	מתאדון
+Methamphetamine	מתאמפטמין
+Methanol	מתנול
+Methionine	מתיונין
+Methodism	מתודיזם
+Metis (moon)	מטיס (ירח)
+Metonymy	מטונימיה
+Metre	מטר
+Metric space	מרחב מטרי
+Meuse River	מז
+Mexico	מקסיקו
+Mexico	קטגוריה:מקסיקו
+Mexico City	מקסיקו סיטי
+Miami	מיאמי
+Mica	נציץ
+Michael (archangel)	מיכאל
+Michael Faraday	מייקל פאראדיי
+Michel Ney	מישל ניי
+Michelangelo	מיכלאנג'לו
+Michigan	מישיגן
+Michigan	קטגוריה:מישיגן
+Mick Jagger	מיק ג'אגר
+Mickey Mouse	מיקי מאוס
+Microbiology	מיקרוביולוגיה
+Microbiology	קטגוריה:מיקרוביולוגיה
+Microeconomics	מיקרו-כלכלה
+Microeconomics	קטגוריה:מיקרו-כלכלה
+Micronesia	מיקרונזיה (אזור)
+Microorganism	מיקרואורגניזם
+Microphone	מיקרופון
+Microscope	מיקרוסקופ
+Microscopium	מיקרוסקופ (קבוצת כוכבים)
+Microwave	מיקרוגל
+Microwave oven	תנור מיקרוגל
+Middle Ages	ימי הביניים
+Middle Ages	קטגוריה:ימי הביניים
+Middle East	המזרח התיכון
+Middle East	קטגוריה:המזרח התיכון
+Migraine	מיגרנה
+Miguel de Cervantes	מיגל דה סרוואנטס
+Mike Tyson	מייק טייסון
+Mikhail Bakunin	מיכאיל באקונין
+Mikhail Glinka	מיכאיל גלינקה
+Mikhail Gorbachev	מיכאיל גורבצ'וב
+Milan	מילאנו
+Mile	מיל (יחידת מידה)
+Miles Davis	מיילס דייוויס
+Military	קטגוריה:צבא
+Military rank	דרגה צבאית
+Milk	חלב
+Milky Way	שביל החלב
+Millard Fillmore	מילרד פילמור
+Millennium	מילניום
+Million	מיליון
+Millipede	רב רגליים
+Milton Friedman	מילטון פרידמן
+Milwaukee	מילווקי
+Minaret	צריח (מסגד)
+Mineral	מינרל
+Mineral water	מים מינרליים
+Mineralogy	מינרלוגיה
+Mineralogy	קטגוריה:מינרלוגיה
+Minerva	מינרווה
+Ming Dynasty	שושלת מינג
+Minimalism	מינימליזם
+Mining	כרייה
+Minister (government)	שר
+Minneapolis	מיניאפוליס
+Minnesota	מינסוטה
+Minnesota	קטגוריה:מינסוטה
+Minoan civilization	התרבות המינואית
+Minor scale	סולם מינורי
+Minos	מינוס (מיתולוגיה)
+Minotaur	מינוטאורוס
+Minsk	מינסק
+Minute	דקה
+Miocene	מיוקן
+Miracle	נס
+Mirror	מראה
+Mishnah	משנה
+Mississippi	קטגוריה:מיסיסיפי
+Mississippi River	מיסיסיפי (נהר)
+Missouri	מיזורי
+Missouri	קטגוריה:מיזורי
+Missouri River	מיזורי (נהר)
+Mitochondrion	מיטוכונדריון
+Mnemosyne	מנימוסינה
+Mobile phone	טלפון סלולרי
+Modem	מודם
+Modernism	מודרניזם
+Modest Mussorgsky	מודסט מוסורגסקי
+Modulation	אפנון
+Mogadishu	מוגדישו
+Mold	עובש
+Moldova	מולדובה
+Moldova	קטגוריה:מולדובה
+Mole (unit)	מול
+Molecular biology	ביולוגיה מולקולרית
+Molecular biology	קטגוריה:ביולוגיה מולקולרית
+Molecule	מולקולה
+Molise	מוליזה
+Mollusca	רכיכות
+Molotov cocktail	בקבוק תבערה
+Molybdenum	מוליבדן
+Mombasa	מומבסה
+Momentum	תנע
+Monaco	מונאקו
+Monaco	קטגוריה:מונאקו
+Monarch	מונרך
+Monarchy	מונרך
+Monastery	מנזר
+Monday	יום שני
+Money	כסף (אמצעי תשלום)
+Mongolia	מונגוליה
+Mongolia	קטגוריה:מונגוליה
+Mongoose	נמייתיים
+Monica Seles	מוניקה סלש
+Monism	מוניזם
+Monocotyledon	חד-פסיגיים
+Monomer	מונומר
+Monopoly	מונופול
+Monopoly (game)	מונופול (משחק לוח)
+Monosaccharide	חד-סוכר
+Monosodium glutamate	מונוסודיום גלוטמט
+Monotheism	מונותאיזם
+Monotreme	בעלי ביב
+Monroe Doctrine	דוקטרינת מונרו
+Monrovia	מונרוביה
+Mons	מונס
+Monsoon	מונסון
+Mont Blanc	מון בלאן
+Montana	מונטנה
+Montana	קטגוריה:מונטנה
+Monte Carlo	מונטה קרלו
+Montenegro	מונטנגרו
+Montenegro	קטגוריה:מונטנגרו
+Monterrey	מונטריי
+Montevideo	מונטווידיאו
+Montgomery	מונטגומרי (אלבמה)
+Month	חודש
+Montpelier	מונטפלייה (ורמונט)
+Montreal	מונטריאול
+Montserrat	מונטסראט
+Moon	הירח
+Moose	אייל קורא
+Morality	מוסר
+Moravia	מוראביה
+Morocco	מרוקו
+Morocco	קטגוריה:מרוקו
+Morpheme	מורפמה
+Morphine	מורפין
+Morphology	מורפולוגיה
+Morphology (linguistics)	מורפולוגיה (בלשנות)
+Morse code	קוד מורס
+Mortar (weapon)	מרגמה
+Mosaic	פסיפס
+Moscow	מוסקבה
+Moses	משה
+Moshe Dayan	משה דיין
+Mosque	מסגד
+Mosquito	יתושיים
+Mossad	המוסד למודיעין ולתפקידים מיוחדים
+Mosul	מוסול
+Motet	מוטט
+Mother Teresa	האם תרזה
+Mother's Day	יום המשפחה
+Motion (physics)	תנועה (פיזיקה)
+Motorcycle	אופנוע
+Motto	מוטו
+Mount Ararat	אררט
+Mount Athos	הר אתוס
+Mount Etna	אטנה
+Mount Everest	אוורסט
+Mount Fuji	הר פוג'י
+Mount Kilimanjaro	קילימנג'רו
+Mount McKinley	הר מקינלי
+Mount Olympus	אולימפוס
+Mount Pinatubo	פינטובו
+Mount Rushmore	הר ראשמור
+Mount St. Helens	הר סנט הלנס
+Mount Vesuvius	וזוב
+Mountain	הר
+Mountain bike	אופני הרים
+Mountain range	רכס הרים
+Mouse	עכבר
+Mouse (computing)	עכבר (מחשב)
+Mozambique	מוזמביק
+Mozambique	קטגוריה:מוזמביק
+Mu (letter)	מו
+Muezzin	מואזין
+Muhammad	מוחמד
+Muhammad Ali	מוחמד עלי (מתאגרף)
+Mulberry	תות עץ
+Mule	פרד
+Multimedia	מולטימדיה
+Multiple sclerosis	טרשת נפוצה
+Mumbai	מומבאי
+Mummy	מומיה
+Munich	מינכן
+Municipality	רשות מקומית
+Muon	מיואון
+Murmansk	מורמנסק
+Murphy's law	חוק מרפי
+Murray Gell-Mann	מארי גל-מאן
+Musa (genus)	בננה
+Musca	זבוב (קבוצת כוכבים)
+Muscat	מוסקט (עיר)
+Muscle	שריר
+Muse	מוזה
+Museum	מוזיאון
+Mushroom	פטריות
+Music	מוזיקה
+Music	קטגוריה:מוזיקה
+Musical instrument	כלי נגינה
+Musical scale	סולם (מוזיקה)
+Musician	מוזיקאי
+Musicology	מוזיקולוגיה
+Musket	מוסקט
+Mustelidae	סמורים (משפחה)
+Mutation	מוטציה
+Myanmar	קטגוריה:מיאנמר
+Mycenae	מיקנה
+Mycology	מיקולוגיה
+Myocardial infarction	התקף לב
+Myopia	קוצר ראייה
+Mysticism	מיסטיקה
+Myth	מיתוס
+Mythology	מיתולוגיה
+N	N
+N'Djamena	נג'מנה
+NASDAQ	נאסד"ק
+NATO	נאט"ו
+Nadine Gordimer	נאדין גורדימר
+Nagasaki	נגסאקי
+Nagoya	נגויה
+Nahuatl	נאוואטל
+Nail (anatomy)	ציפורן
+Nail (fastener)	מסמר
+Nairobi	ניירובי
+Namibia	נמיביה
+Namur (city)	נאמור (עיר)
+Nancy	נאנסי
+Nanjing	נאנג'ינג
+Nanotechnology	ננוטכנולוגיה
+Nantes	נאנט
+Napalm	נפלם
+Naples	נאפולי
+Napoleonic Wars	המלחמות הנפוליוניות
+Narcissus (mythology)	נרקיסוס
+Nashville	נאשוויל
+Nassau	נסאו
+Nathaniel Hawthorne	נתניאל הות'ורן
+Nation	אומה
+National Security Agency	הסוכנות לביטחון לאומי
+National anthem	המנון לאומי
+National park	פארק לאומי
+Nationalism	לאומנות
+Nationalism	קטגוריה:לאומיות
+Natural gas	גז טבעי
+Natural language processing	עיבוד שפה טבעית
+Natural number	מספר טבעי
+Natural science	מדעי הטבע
+Natural selection	ברירה טבעית
+Nature	טבע
+Naturism	נודיזם
+Nauru	נאורו
+Nautical mile	מייל ימי
+Navigation	קטגוריה:ניווט
+Navigation	ניווט
+Navy	חיל ים
+Nazareth	נצרת
+Nazi Germany	גרמניה הנאצית
+Nazi Germany	קטגוריה:גרמניה הנאצית
+Nazi Party	המפלגה הנאצית
+Neanderthal	אדם ניאנדרתלי
+Nebraska	נברסקה
+Nebraska	קטגוריה:נברסקה
+Nebuchadrezzar II	נבוכדנצר השני
+Nebula	ערפילית
+Neckar	נקר (נהר)
+Necktie	עניבה
+Nefertiti	נפרטיטי
+Negev	הנגב
+Neil Armstrong	ניל ארמסטרונג
+Nelson Mandela	נלסון מנדלה
+Nemean Lion	האריה מנמאה
+Nemesis (mythology)	נמסיס
+Neodymium	נאודימיום
+Neolithic	תקופת האבן החדשה
+Neologism	נאולוגיזם
+Neon	נאון
+Neoplatonism	נאופלאטוניזם
+Nepal	נפאל
+Nepal	קטגוריה:נפאל
+Nephthys	נפתיס
+Neptune	נפטון
+Neptunium	נפטוניום
+Nereid (moon)	נראיד
+Nero	נירון קיסר
+Nerva	נרווה
+Nervous system	מערכת העצבים
+Nervous system	קטגוריה:מערכת העצבים
+Nest	קן
+Nestorianism	נסטוריאניזם
+Netherlands	הולנד
+Netherlands	קטגוריה:הולנד
+Netherlands Antilles	האנטילים ההולנדיים
+Network topology	טופולוגיית רשת
+Neurology	נוירולוגיה
+Neurology	קטגוריה:נוירולוגיה
+Neuron	תא עצב
+Neurotransmitter	מוליך עצבי
+Neutrino	נייטרינו
+Neutron	נייטרון
+Neutron star	כוכב נייטרונים
+Neva River	נבה
+Nevada	נבדה
+Nevada	קטגוריה:נבדה
+Neville Chamberlain	נוויל צ'מברליין
+New Brunswick	ניו ברנזוויק
+New Caledonia	קלדוניה החדשה
+New Delhi	ניו דלהי
+New England	ניו אינגלנד
+New Guinea	גינאה החדשה
+New Hampshire	ניו המפשייר
+New Hampshire	קטגוריה:ניו המפשייר
+New Jersey	ניו ג'רזי
+New Jersey	קטגוריה:ניו ג'רזי
+New Mexico	ניו מקסיקו
+New Mexico	קטגוריה:ניו מקסיקו
+New Orleans	ניו אורלינס
+New South Wales	ניו סאות' ויילס
+New Testament	הברית החדשה
+New Year	ראש השנה (פירושונים)
+New York	ניו יורק (מדינה)
+New York	קטגוריה:מדינת ניו יורק
+New York (disambiguation)	ניו יורק (פירושונים)
+New York City	ניו יורק
+New York City	קטגוריה:ניו יורק
+New York Stock Exchange	הבורסה לניירות ערך בניו יורק
+New Zealand	ניו זילנד
+New Zealand	קטגוריה:ניו זילנד
+Newark	ניוארק
+Newfoundland (island)	ניופאונדלנד
+Newfoundland and Labrador	ניופאונדלנד ולברדור
+Newton	ניוטון (מידה)
+Niacin	ויטמין B3
+Niagara Falls	מפלי ניאגרה
+Niamey	ניאמיי
+Nicaragua	ניקרגואה
+Nicaragua	קטגוריה:ניקרגואה
+Nice	ניס
+Nickel	ניקל
+Nicolas Poussin	ניקולא פוסן
+Nicolaus Copernicus	ניקולאוס קופרניקוס
+Nicosia	ניקוסיה
+Nicotine	ניקוטין
+Niels Bohr	נילס בוהר
+Niels Henrik Abel	נילס הנריק אבל
+Niger	ניז'ר
+Niger	קטגוריה:ניז'ר
+Niger River	ניז'ר (נהר)
+Nigeria	ניגריה
+Nigeria	קטגוריה:ניגריה
+Night	לילה
+Nightingale	זמיר הירדן
+Nihilism	ניהיליזם
+Nike	נייקי
+Nike (mythology)	ניקה
+Nikita Khrushchev	ניקיטה חרושצ'וב
+Nikola Tesla	ניקולה טסלה
+Nile	נילוס
+Nile crocodile	תנין היאור
+Nineveh	נינוה
+Ninja	נינג'ה
+Niobium	ניאוביום
+Nirvana	נירוואנה
+Nitric acid	חומצה חנקתית
+Nitrogen	חנקן
+Nitroglycerin	ניטרוגליצרין
+Noah	נח
+Noam Chomsky	נועם חומסקי
+Nobel Prize	פרס נובל
+Nobelium	נובליום
+Nobility	אצולה
+Noble gas	גז אציל
+Nonmetal	אל-מתכת
+Norfolk Island	נורפוק (אי)
+Normal distribution	התפלגות נורמלית
+Norman Mailer	נורמן מיילר
+Normandy	נורמנדי
+Norse mythology	מיתולוגיה נורדית
+Norse mythology	קטגוריה:מיתולוגיה נורדית
+North	צפון
+North Africa	צפון אפריקה
+North America	אמריקה הצפונית
+North America	קטגוריה:אמריקה הצפונית
+North Carolina	קרוליינה הצפונית
+North Carolina	קטגוריה:קרוליינה הצפונית
+North Dakota	דקוטה הצפונית
+North Dakota	קטגוריה:דקוטה הצפונית
+North Island	האי הצפוני
+North Korea	קוריאה הצפונית
+North Korea	קטגוריה:קוריאה הצפונית
+North Pole	הקוטב הצפוני
+North Sea	הים הצפוני
+Northern Europe	צפון אירופה
+Northern Hemisphere	חצי הכדור הצפוני
+Northern Ireland	צפון אירלנד
+Northern Ireland	קטגוריה:צפון אירלנד
+Northern Mariana Islands	איי מריאנה הצפוניים
+Northern Territory	הטריטוריה הצפונית
+Northwest Territories	הטריטוריות הצפון מערביות
+Norway	נורבגיה
+Norway	קטגוריה:נורבגיה
+Norwegian Sea	הים הנורבגי
+Nose	אף
+Nostradamus	נוסטרדמוס
+Note	תו (מוזיקה)
+Nouakchott	נואקשוט
+Noun	שם עצם
+Nova Scotia	נובה סקוטיה
+Novaya Zemlya	נוביה זמליה
+Novel	רומן
+November	נובמבר
+November 1	1 בנובמבר
+November 11	11 בנובמבר
+November 2	2 בנובמבר
+November 5	5 בנובמבר
+Novosibirsk	נובוסיבירסק
+Nu (letter)	נו (אות)
+Nuclear fission	ביקוע גרעיני
+Nuclear fusion	היתוך גרעיני
+Nuclear physics	פיזיקה גרעינית
+Nuclear physics	קטגוריה:פיזיקה גרעינית
+Nuclear power	אנרגיה גרעינית
+Nuclear weapon	נשק גרעיני
+Nucleic acid	חומצת גרעין
+Nucleon	נוקליאון
+Nucleotide	נוקלאוטיד
+Number	מספר
+Numidia	נומידיה
+Numismatics	נומיסמטיקה
+Nunavut	נונאווט
+Nuremberg	נירנברג
+Nut (fruit)	אגוז
+Nutmeg	אגוז מוסקט
+Nutrition	קטגוריה:תזונה
+Nymph	נימפה
+Nymphaeaceae	נופריים
+Nyx (mythology)	ניקס (מיתולוגיה)
+O	O
+OPEC	אופ"ק
+Oak	אלון
+Oakland	אוקלנד (קליפורניה)
+Oasis	נווה מדבר
+Oaxaca	אואחאקה (מדינה)
+Ob River	אוב (נהר)
+Obelisk	אובליסק
+Obesity	השמנה
+Object-oriented programming	תכנות מונחה עצמים
+Oboe	אבוב
+Observatory	מצפה כוכבים
+Obsidian	זכוכית געשית
+Occam's razor	תערו של אוקאם
+Ocean	אוקיינוס
+Ocean current	זרם ימי
+Oceania	אוקיאניה
+Oceania	קטגוריה:אוקיאניה
+Oceanid	אוקיינידים
+Oceanography	אוקינוגרפיה
+Oceanography	קטגוריה:אוקיינוגרפיה
+Oceanus	אוקיינוס (מיתולוגיה)
+Octal	בסיס אוקטלי
+Octans	אוקטנט (קבוצת כוכבים)
+Octave	אוקטבה
+October	אוקטובר
+October 12	12 באוקטובר
+October 24	24 באוקטובר
+October Revolution	מהפכת אוקטובר
+Octopus	תמנונאים
+Ode	אודה
+Oder River	אודר
+Odessa	אודסה
+Odin	אודין
+Odonata	שפיראים
+Odysseus	אודיסאוס
+Odyssey	אודיסיאה
+Oedipus	אדיפוס
+Offside (football)	נבדל
+Ohio	אוהיו
+Ohio	קטגוריה:אוהיו
+Ohm	אוהם
+Ohm's law	חוק אוהם
+Oil	שמן
+Oil (disambiguation)	שמן
+Oil painting	צבע שמן
+Okapi	אוקפי
+Oklahoma	אוקלהומה
+Oklahoma	קטגוריה:אוקלהומה
+Oklahoma City	אוקלהומה סיטי
+Oktoberfest	אוקטוברפסט
+Old Church Slavonic	סלאבית כנסייתית עתיקה
+Old Norse	נורדית עתיקה
+Old Testament	הברית הישנה
+Oligarchy	אוליגרכיה
+Oligocene	אוליגוקן
+Oligopoly	אוליגופול
+Olive	זית אירופי
+Olive oil	שמן זית
+Oliver Cromwell	אוליבר קרומוול
+Oliver Stone	אוליבר סטון
+Olivine	אוליבין
+Olympia	אולימפיה (וושינגטון)
+Olympia	אולימפיה
+Olympic Games	המשחקים האולימפיים
+Olympics	קטגוריה:אולימפיאדה
+Omaha	אומהה
+Oman	עומאן
+Oman	קטגוריה:עומאן
+Omega	אומגה
+Omicron	אומיקרון
+Omsk	אומסק
+Oncology	קטגוריה:סרטן
+Onion	בצל הגינה
+Ontario	אונטריו
+Ontario	קטגוריה:אונטריו
+Ontology	תורת ההוויה
+Oort cloud	עננת אורט
+Opal	אופאל
+Opera	אופרה
+Opera (Internet suite)	אופרה (דפדפן)
+Operating system	מערכת הפעלה
+Operetta	אופרטה
+Ophiuchus	נושא הנחש
+Opium	אופיום
+Optical fiber	סיב אופטי
+Optical illusion	אשליה אופטית
+Optics	אופטיקה
+Optics	קטגוריה:אופטיקה
+Optimization (mathematics)	אופטימיזציה (מתמטיקה)
+Orange (colour)	כתום
+Orange (fruit)	תפוז
+Orangutan	אורנגאוטן
+Oratorio	אורטוריה
+Orca	קטלן
+Orchestra	תזמורת
+Orchidaceae	סחלביים
+Order (biology)	סדרה (טקסונומיה)
+Order of Saint Benedict	בנדיקטינים
+Ordovician	אורדוביק
+Oregano	אורגנו
+Oregon	אורגון
+Oregon	קטגוריה:אורגון
+Orestes (mythology)	אורסטס
+Organ (anatomy)	איבר
+Organ (music)	עוגב
+Organelle	אברון
+Organic chemistry	כימיה אורגנית
+Organic chemistry	קטגוריה:כימיה אורגנית
+Organic compound	תרכובת אורגנית
+Organism	אורגניזם
+Organization	ארגון
+Orgasm	אורגזמה
+Origami	אוריגמי
+Origen	אוריגנס
+Original sin	החטא הקדמון
+Orinoco	אורינוקו
+Orion (constellation)	אוריון (קבוצת כוכבים)
+Orissa	אוריסה
+Orlando	אורלנדו
+Ornithology	אורניתולוגיה
+Orpheus	אורפיאוס
+Orson Welles	אורסון ולס
+Orthography	אורתוגרפיה
+Osaka	אוסקה
+Osama bin Laden	אוסאמה בן לאדן
+Oscar Wilde	אוסקר ויילד
+Oscillation	תנודה
+Osiris	אוזיריס
+Oslo	אוסלו
+Osman I	עות'מאן הראשון
+Osmium	אוסמיום
+Osprey	שלך
+Osteichthyes	דגי גרם
+Osteoporosis	דלדול עצם
+Ostrava	אוסטרבה
+Ostrich	יען
+Othello	אותלו
+Otho	אותו
+Ottawa	אוטווה
+Otto Hahn	אוטו האן
+Otto I	אוטו הראשון, קיסר האימפריה הרומית הקדושה
+Otto von Bismarck	אוטו פון ביסמרק
+Ottoman Empire	האימפריה העות'מאנית
+Ottoman Empire	קטגוריה:האימפריה העות'מאנית
+Ovary	שחלה
+Ovid	אובידיוס
+Oviedo	אוביידו
+Ovis	כבש (סוג)
+Ovum	ביצית
+Owl	דורסי לילה
+Oxford	אוקספורד
+Oxide	תחמוצת
+Oxygen	חמצן
+Oxymoron	אוקסימורון
+Oxytocin	אוקסיטוצין
+Ozone	אוזון
+Ozone layer	שכבת האוזון
+P	P
+PAL	PAL
+PH	PH
+Pablo Neruda	פבלו נרודה
+Pablo Picasso	פבלו פיקאסו
+Pacific Ocean	האוקיינוס השקט
+Pacific Ocean	קטגוריה:האוקיינוס השקט
+Pacifism	פציפיזם
+Padua	פאדובה
+Paganism	פגניות
+Painting	קטגוריה:ציור
+Pakistan	פקיסטן
+Palace of Versailles	ארמון ורסאי
+Palau	פלאו
+Paleocene	פליאוקן
+Paleolithic	תקופת האבן הקדומה
+Paleontology	פליאונטולוגיה
+Paleozoic	פליאוזואיקון
+Palermo	פלרמו
+Palestine	ארץ ישראל
+Palestine	קטגוריה:הרשות הפלסטינית
+Palestine Liberation Organization	הארגון לשחרור פלסטין
+Palestinian National Authority	הרשות הפלסטינית
+Pali	פאלי
+Palindrome	פלינדרום
+Palladium	פלדיום
+Palmyra	תדמור
+Pamir Mountains	הרי פמיר
+Pan (mythology)	פאן
+Panama	פנמה
+Panama	קטגוריה:פנמה
+Panama Canal	תעלת פנמה
+Panama City	פנמה סיטי
+Pancreas	לבלב
+Pandemic	מגפה
+Pandora	פנדורה
+Pangaea	פנגיאה
+Pantheism	פנתאיזם
+Pantheon	הפנתאון ברומא
+Panthera	פנתר
+Papal States	מדינת האפיפיור
+Papua New Guinea	פפואה גינאה החדשה
+Papua New Guinea	קטגוריה:פפואה גינאה החדשה
+Papyrus	פפירוס
+Parabola	פרבולה
+Paracelsus	פאראצלסוס
+Parachute	מצנח
+Paradigm	פרדיגמה
+Paradox	פרדוקס
+Paragliding	רחיפה
+Paraguay	פרגוואי
+Paraguay	קטגוריה:פרגוואי
+Parallax	היסט
+Parallelogram	מקבילית
+Paramaribo	פרמריבו
+Paranoia	פראנויה
+Paraphilia	פאראפיליה
+Parapsychology	פאראפסיכולוגיה
+Parasitism	טפיל
+Parchment	קלף
+Paris	פריז
+Paris	קטגוריה:פריז
+Paris (mythology)	פאריס (מיתולוגיה)
+Parity (mathematics)	מספר זוגי
+Parkinson's disease	מחלת פרקינסון
+Parliament	פרלמנט
+Parmenides	פרמנידס
+Parody	פרודיה
+Parrot	תוכאים
+Parsec	פארסק
+Parsley	פטרוזיליה
+Parthenon	פרתנון
+Parthia	האימפריה הפרתית
+Particle physics	פיזיקת חלקיקים
+Particle physics	קטגוריה:פיזיקת חלקיקים
+Parvati	פרוואטי
+Pascal	פסקל
+Pascal (programming language)	פסקל (שפת תכנות)
+Pascal (unit)	פסקל (מידה)
+Passeriformes	קטגוריה:ציפורי שיר
+Passerine	ציפורי שיר
+Passover	פסח
+Passport	דרכון
+Password	סיסמה
+Pasteurization	פסטור
+Patagonia	פטגוניה
+Patent	פטנט
+Pathology	פתולוגיה
+Patras	פטרס
+Patriarch	פטריארך
+Patrick White	פטריק וייט
+Patriotism	פטריוטיות
+Paul Gauguin	פול גוגן
+Paul Johann Ludwig von Heyse	פאול הייזה
+Paul Klee	פאול קלי
+Paul McCartney	פול מקרטני
+Paul Newman	פול ניומן
+Paul Verlaine	פול ורלן
+Paul the Apostle	פאולוס
+Paul von Hindenburg	פאול פון הינדנבורג
+Pauli exclusion principle	עקרון האיסור של פאולי
+Pavo (constellation)	טווס (קבוצת כוכבים)
+Pawn (chess)	רגלי
+Pays de la Loire	פיי דה לה לואר
+Pea	אפונה
+Peace	שלום
+Peace of Westphalia	שלום וסטפליה
+Peach	אפרסק
+Peanut	אגוז אדמה
+Pear	אגס
+Pearl	פנינה
+Pearl Harbor	פרל הארבור
+Peat	כבול
+Pediatrics	רפואת ילדים
+Pedophilia	פדופיליה
+Pedunculate Oak	אלון מצוי
+Pegasus	פגסוס
+Pegasus (constellation)	פגסוס (קבוצת כוכבים)
+Peloponnese	פלופונסוס
+Peloponnesian War	המלחמה הפלופונסית
+Pencil	עיפרון
+Pendulum	מטוטלת מתמטית
+Penelope	פנלופה
+Penguin	פינגוויניים
+Penicillin	פניצילין
+Peninsula	חצי אי
+Pennsylvania	פנסילבניה
+Pennsylvania	קטגוריה:פנסילבניה
+Pentagon	מחומש
+Pentagram	פנטגרם
+Pentecost	פנטקוסט
+People	קטגוריה:אישים
+People's Republic of China	הרפובליקה העממית של סין
+Pepin the Short	פפין הגוץ
+Pepsi	פפסי
+Peptide	פפטיד
+Percentage	אחוז
+Perception	תפיסה
+Percussion instrument	כלי הקשה
+Percy Bysshe Shelley	פרסי ביש שלי
+Perestroika	פרסטרויקה
+Perfume	בושם
+Pericles	פריקלס
+Periodic table	הטבלה המחזורית
+Permian	פרם
+Permutation	תמורה (מתמטיקה)
+Pernambuco	פרנמבוקו
+Perpetual motion	תנועה נצחית
+Persephone	פרספונה
+Persepolis	פרספוליס (עיר)
+Perseus	פרסאוס
+Perseus (constellation)	פרסאוס (קבוצת כוכבים)
+Persian Empire	ממלכת פרס
+Persian Gulf	המפרץ הפרסי
+Personal digital assistant	מחשב כף יד
+Perth	פרת'
+Peru	פרו
+Peru	קטגוריה:פרו
+Pesticide	הדברת מזיקים
+Peter Abelard	פייר אבלר
+Peter Paul Rubens	פטר פאול רובנס
+Peter Sellers	פיטר סלרס
+Petrarch	פרנצ'סקו פטרארקה
+Petroleum	נפט
+Petrology	פטרולוגיה
+Phanerozoic	פנרוזואיקון
+Pharaoh	פרעה
+Pharmacology	פרמקולוגיה
+Pharmacology	קטגוריה:תרופות
+Pharynx	לוע
+Phase (matter)	מצב צבירה
+Phenol	פנול
+Phenomenology	פנומנולוגיה
+Phenotype	גן (ביולוגיה)#מושגים בסיסיים
+Phenylalanine	פנילאלנין
+Phenylketonuria	פנילקטונוריה
+Phi (letter)	פי
+Philadelphia	פילדלפיה
+Philip II of Macedon	פיליפוס השני
+Philip II of Spain	פליפה השני, מלך ספרד
+Philipp Lenard	פיליפ לנארד
+Philippine Sea	הים הפיליפיני
+Philippines	הפיליפינים
+Philippines	קטגוריה:הפיליפינים
+Philology	פילולוגיה
+Philosopher's stone	אבן החכמים
+Philosophy	פילוסופיה
+Philosophy	קטגוריה:פילוסופיה
+Philosophy	פורטל:פילוסופיה
+Phnom Penh	פנום פן
+Phobia	פוביה
+Phobos (moon)	פובוס (ירח)
+Phoenicia	פיניקים
+Phoenix	פיניקס (אריזונה)
+Phoenix	פניקס
+Phoenix (constellation)	עוף החול (קבוצת כוכבים)
+Phoenix (mythology)	עוף החול
+Phoenix (spacecraft)	פניקס (גשושית)
+Phoneme	פונמה
+Phonetics	פונטיקה
+Phonetics	קטגוריה:פונטיקה
+Phonology	פונולוגיה
+Phosphate	זרחה
+Phosphoric acid	חומצה זרחתית
+Phosphorus	זרחן
+Photography	צילום
+Photography	קטגוריה:צילום
+Photon	פוטון
+Photosphere	פוטוספירה
+Photosynthesis	פוטוסינתזה
+Phylum	מערכה (טקסונומיה)
+Physical chemistry	כימיה פיזיקלית
+Physical chemistry	קטגוריה:כימיה פיזיקלית
+Physician	רופא
+Physics	פיזיקה
+Physics	קטגוריה:פיזיקה
+Physics	פורטל:פיזיקה
+Physiology	פיזיולוגיה
+Physiology	קטגוריה:פיזיולוגיה
+Pi	פאי
+Pi (letter)	פאי (אות)
+Piano	פסנתר
+Picardie	פיקרדיה
+Piciformes	נקראים
+Pictor	כן ציור (קבוצת כוכבים)
+Pidgin	פידג'ין
+Pidgin (software)	Pidgin
+Piedmont	פיימונטה
+Pierre	פיר
+Pierre Curie	פייר קירי
+Pierre de Fermat	פייר דה פרמה
+Piet Mondrian	פיט מונדריאן
+Pieter Zeeman	פיטר זימן
+Pigment	פיגמנט
+Pinaceae	אורניים
+Pindar	פינדארוס
+Pine	אורן
+Pineapple	אננס
+Ping	פינג
+Pink	ורוד
+Pinniped	טורפים ימיים
+Piracy	שודד ים
+Pisa	פיזה
+Pisces (constellation)	דגים (קבוצת כוכבים)
+Piston	בוכנה
+Pittsburgh	פיטסבורג
+Pituitary gland	בלוטת יותרת המוח
+Pixel	פיקסל
+Pizza	פיצה
+Plagiarism	גניבה ספרותית
+Plane (mathematics)	מישור (גאומטריה)
+Planet	כוכב לכת
+Planetary nebula	ערפילית פלנטרית
+Plankton	פלנקטון
+Plant	צומח
+Plasma (physics)	פלזמה (מצב צבירה)
+Plasmid	פלסמיד
+Plastic	פלסטיק
+Plate tectonics	טקטוניקת הלוחות
+Platelet	טסית דם
+Platinum	פלטינה
+Plato	אפלטון
+Platypus	ברווזן
+Playboy	פלייבוי
+Playing card	קלף משחק
+Pleiades (star cluster)	פליאדות (צביר כוכבים)
+Pleistocene	פליסטוקן
+Pleven	פלבן
+Pliny the Elder	פליניוס הזקן
+Pliny the Younger	פליניוס הצעיר
+Pliocene	פליוקן
+Plotinus	פלוטינוס
+Plovdiv	פלובדיב
+Plum	שזיף
+Plutarch	פלוטארכוס
+Pluto	פלוטו
+Pluto (disambiguation)	פלוטו (פירושונים)
+Plutonium	פלוטוניום
+Pneumonia	דלקת ריאות
+Po River	פו (נהר)
+Poaceae	דגניים
+Podcast	פודקאסט
+Poetry	שירה
+Poetry	קטגוריה:שירה
+Pogrom	פוגרום
+Point (geometry)	נקודה (גאומטריה)
+Poison	רעל
+Poker	פוקר
+Poland	פולין
+Poland	קטגוריה:פולין
+Polar bear	דוב קוטב
+Polaris	כוכב הצפון
+Police	משטרה
+Poliomyelitis	שיתוק ילדים
+Political party	מפלגה
+Political science	מדע המדינה
+Political science	קטגוריה:מדע המדינה
+Politician	פוליטיקאי
+Politics	פוליטיקה
+Politics	קטגוריה:פוליטיקה
+Pollen	אבקה (בוטניקה)
+Pollination	האבקה
+Pollution	זיהום הסביבה
+Polo	פולו
+Polonium	פולוניום
+Polygamy	פוליגמיה
+Polygon	מצולע
+Polyhedron	פאון
+Polyhymnia	פוליהימניה
+Polymer	פולימר
+Polynesia	פולינזיה
+Polynomial	פולינום
+Polytheism	פוליתאיזם
+Polyvinyl chloride	פוליוויניל כלוריד
+Pomegranate	רימון מצוי
+Pomelo	פומלו
+Pompeii	פומפיי
+Pompey	גניאוס פומפיוס מגנוס
+Pontius Pilate	פונטיוס פילאטוס
+Pop art	פופ ארט
+Pop music	מוזיקת פופ
+Pope	אפיפיור
+Pope Alexander VI	אלכסנדר השישי
+Poplar	צפצפה (עץ)
+Population	אוכלוסייה
+Populism	פופוליזם
+Porcelain	חרסינה
+Pornography	פורנוגרפיה
+Port	נמל
+Port Louis	פור לואי
+Port Moresby	פורט מורסבי
+Port Vila	פורט וילה
+Port of Spain	פורט אוף ספיין
+Port-au-Prince	פורט-או-פרנס
+Portland	פורטלנד (אורגון)
+Portland	פורטלנד
+Porto	פורטו
+Portrait	דיוקן
+Portugal	פורטוגל
+Portugal	קטגוריה:פורטוגל
+Poseidon	פוסידון
+Positron	פוזיטרון
+Postage stamp	בול דואר
+Postal code	מיקוד (דואר)
+Postmodernism	פוסטמודרניזם
+Potassium	אשלגן
+Potassium nitrate	אשלגן חנקתי
+Potato	תפוח אדמה
+Potential energy	אנרגיה פוטנציאלית
+Potsdam	פוטסדאם
+Pound sterling	לירה שטרלינג
+Poverty	עוני
+Power (physics)	הספק
+Power station	תחנת כוח
+Praetor	פראיטור
+Prague	פראג
+Prague	קטגוריה:פראג
+Praia	פראיה
+Praseodymium	פרסאודימיום
+Prayer	תפילה
+Precambrian	פרקמבריון
+Precession	נקיפה
+Precipitation (meteorology)	משקעים
+Pregnancy	היריון
+Prehistory	פרהיסטוריה
+Prehistory	קטגוריה:פרהיסטוריה
+President	נשיא
+President of the United States	נשיא ארצות הברית
+Pressure	לחץ
+Pretoria	פרטוריה
+Priam	פריאמוס
+Price	מחיר
+Primate	פרימטים
+Primates	קטגוריה:פרימטים
+Prime Meridian	קו גריניץ'
+Prime minister	ראש ממשלה
+Prime number	מספר ראשוני
+Prince Edward Island	אי הנסיך אדוארד
+Prince Philip	פיליפ, דוכס אדינבורו
+Prince of Wales	נסיך ויילס
+Princeton University	אוניברסיטת פרינסטון
+Principle of relativity	תורת היחסות
+Printing	דפוס
+Prion	פריון
+Prism (geometry)	מנסרה (גאומטריה)
+Prism (optics)	מנסרה (אופטיקה)
+Prison	בית סוהר
+Prisoner of war	שבוי
+Prix Goncourt	פרס גונקור
+Probability	הסתברות
+Probability theory	תורת ההסתברות
+Probability theory	קטגוריה:תורת ההסתברות
+Procyonidae	ראקוניים
+Professor	פרופסור
+Profit	רווח
+Programmer	מתכנת
+Programming language	שפת תכנות
+Progressive rock	רוק מתקדם
+Prokaryote	פרוקריוטיים
+Prolog	פרולוג (שפת תכנות)
+Prometheus	פרומתאוס
+Promethium	פרומטיום
+Pronoun	כינוי גוף
+Propaganda	תעמולה
+Propane	פרופאן
+Prophet	נביא
+Prose	סיפורת
+Prostate	בלוטת הערמונית
+Protactinium	פרוטקטיניום
+Protectorate	מדינת חסות
+Protein	חלבון
+Proterozoic	פרוטרוזואיקון
+Protestant Reformation	הרפורמציה הפרוטסטנטית
+Protestantism	נצרות פרוטסטנטית
+Protist	פרוטיסטים
+Protista	קטגוריה:פרוטיסטה
+Protocol	פרוטוקול
+Proton	פרוטון
+Providence	פרובידנס
+Proxima Centauri	פרוקסימה קנטאורי
+Prunus	פרונוס
+Prussia	פרוסיה
+Psalms	תהילים
+Pseudonym	שם עט
+Pseudoscience	קטגוריה:פסבדו-מדע
+Pseudoscience	פסבדו-מדע
+Psi (letter)	פסי
+Psoriasis	פסוריאזיס
+Psychiatry	פסיכיאטריה
+Psychiatry	קטגוריה:פסיכיאטריה
+Psychoanalysis	פסיכואנליזה
+Psychology	פסיכולוגיה
+Psychology	קטגוריה:פסיכולוגיה
+Psychosis	פסיכוזה
+Psychotherapy	טיפול פסיכולוגי
+Pterosaur	פטרוזאוריה
+Ptolemaic dynasty	בית תלמי
+Ptolemy	תלמי (אסטרונום)
+Puberty	התבגרות מינית
+Public domain	רשות הציבור
+Public relations	יחסי ציבור
+Puerto Rico	פוארטו ריקו
+Pulley	גלגלת
+Pulsar	פולסר
+Pump	משאבה
+Punctuation	פיסוק
+Punjab (India)	פנג'אב
+Punk	קטגוריה:פאנק (Punk)
+Punk rock	פאנק (Punk)
+Puppis	ירכתי הספינה (קבוצת כוכבים)
+Pyongyang	פיונגיאנג
+Pyramid	פירמידה (מבנה)
+Pyramid (geometry)	פירמידה (גאומטריה)
+Pyrenees	הרי הפירינאים
+Pyrite	פיריט
+Pyrrhic victory	עוד ניצחון כזה ואבדנו
+Pythagoras	פיתגורס
+Python (programming language)	Python
+Pyxis	מצפן (קבוצת כוכבים)
+Q	Q
+Qatar	קטאר
+Qatar	קטגוריה:קטאר
+Qing Dynasty	שושלת צ'ינג
+Quadratic equation	משוואה ממעלה שנייה
+Quadrilateral	מרובע
+Quaestor	קוואיסטור
+Quantum field theory	תורת השדות הקוונטית
+Quantum mechanics	מכניקת הקוונטים
+Quantum mechanics	קטגוריה:מכניקת הקוונטים
+Quark	קווארק
+Quartz	קוורץ
+Quasar	קוואזר
+Quaternary	רביעון
+Quaternion	אלגברת הקווטרניונים של המילטון
+Quebec	קוויבק
+Quebec	קטגוריה:קוויבק
+Quebec City	קוויבק סיטי
+Quechua	קצ'ואה
+Queen (chess)	מלכה (שחמט)
+Queens	קווינס
+Queensland	קווינסלנד
+Quentin Tarantino	קוונטין טרנטינו
+Question mark	סימן שאלה
+Quince	חבוש
+Quito	קיטו
+R	R
+RAID	RAID
+RNA	RNA
+Ra	רע (אל)
+Rabat	רבאט
+Rabbi	רב
+Rabindranath Tagore	רבינדרנת טאגור
+Raccoon Dog	שועל ראקון
+Race	גזע (אדם)
+Rachel Carson	רייצ'ל קרסון
+Racism	גזענות
+Racism	קטגוריה:גזענות
+Radar	מכ"ם
+Radian	רדיאן
+Radio	קטגוריה:רדיו
+Radio telescope	רדיו-טלסקופ
+Radioactive decay	רדיואקטיביות
+Radiocarbon dating	תיארוך פחמן-14
+Radiology	רדיולוגיה
+Radium	רדיום
+Radius	רדיוס
+Radon	רדון
+Rain	גשם
+Rainbow	קשת בענן
+Rainer Maria Rilke	ריינר מריה רילקה
+Raleigh	ראלי (קרוליינה הצפונית)
+Ralph Waldo Emerson	ראלף ואלדו אמרסון
+Ramadan	רמדאן
+Ramayana	ראמאיאנה
+Ramesses II	רעמסס השני
+Random access memory	זיכרון גישה אקראית
+Ranunculaceae	נוריתיים
+Rape	אונס
+Rapeseed	לפתית
+Raphael	רפאל (צייר)
+Raphael (archangel)	רפאל (מלאך)
+Rapid transit	קטגוריה:רכבות תחתית
+Rat	חולדה
+Rational number	מספר רציונלי
+Ravenna	רוונה
+Rawalpindi	רוואלפינדי
+Ray Bradbury	ריי ברדבורי
+Read-only memory	Read-only Memory
+Real number	מספר ממשי
+Recession	מיתון
+Recife	רסיפה
+Rectangle	מלבן
+Rectifier	מיישר זרם
+Recursion	רקורסיה
+Recycling	מיחזור
+Red	אדום
+Red Army Faction	סיעת הצבא האדום
+Red Deer	אייל אציל
+Red Fox	שועל מצוי
+Red Panda	פנדה אדום
+Red Sea	ים סוף
+Red algae	אדומיות
+Red blood cell	תא דם אדום
+Red dwarf	ננס אדום
+Red giant	ענק אדום
+Redshift	הסחה לאדום
+Redshift (disambiguation)	היסט לאדום
+Referendum	משאל עם
+Refraction	שבירה
+Refractive index	מקדם שבירה
+Refugee	פליט
+Regent	עוצר (שליט)
+Reggae	רגאיי
+Regiment	רג'ימנט
+Region	חבל ארץ
+Reincarnation	גלגול נשמות
+Reindeer	אייל הצפון
+Relativism	רלטיביזם
+Relativity	קטגוריה:תורת היחסות
+Relay	ממסר
+Religion	דת
+Religion	קטגוריה:דתות
+Religious Society of Friends	אגודת הידידים
+Rembrandt	רמברנדט
+Renaissance	רנסאנס
+Reproduction	רבייה
+Reptile	זוחלים
+Republic	רפובליקה
+Republic of China	הרפובליקה הסינית
+Republic of Ireland	אירלנד
+Republic of Ireland	קטגוריה:אירלנד
+Republic of the Congo	הרפובליקה של קונגו
+Republic of the Congo	קטגוריה:הרפובליקה של קונגו
+Republican Party (United States)	המפלגה הרפובליקנית
+Requiem	רקוויאם
+Resistor	נגד
+Respiratory system	מערכת הנשימה
+Restaurant	מסעדה
+Retina	רשתית
+Retinol	ויטמין A
+Revolution	מהפכה
+Revolver	אקדח תופי
+Rhea (moon)	ריאה (ירח)
+Rhea (mythology)	ריאה (אלה)
+Rhenium	רניום
+Rhetoric	רטוריקה
+Rhetoric	קטגוריה:רטוריקה
+Rhine	ריין
+Rhinoceros	קרנפיים
+Rho (letter)	רו
+Rhode Island	רוד איילנד
+Rhode Island	קטגוריה:רוד איילנד
+Rhodes	רודוס
+Rhodium	רודיום
+Rhombus	מעוין
+Rhyme	חריזה
+Rhythm	משקל (מוזיקה)
+Rhythm and blues	רית'ם אנד בלוז
+Rib	צלעות
+Riboflavin	ויטמין B2
+Ribosome	ריבוזום
+Rice	אורז
+Richard Feynman	ריצ'רד פיינמן
+Richard Nixon	ריצ'רד ניקסון
+Richard Strauss	ריכרד שטראוס
+Richard Wagner	ריכרד וגנר
+Richard Wright (musician)	ריצ'רד רייט
+Richmond	ריצ'מונד
+Riga	ריגה
+Rigel	ריג'ל
+Ring (mathematics)	חוג (מבנה אלגברי)
+Ringo Starr	רינגו סטאר
+Rio Grande	ריו גראנדה
+Rio de Janeiro	ריו דה ז'ניירו
+Rio de Janeiro (state)	ריו דה ז'ניירו (מדינה)
+River	נהר
+River Thames	תמזה
+Riyadh	ריאד
+Road	כביש
+Roald Amundsen	רואלד אמונדסן
+Robert A. Heinlein	רוברט היינליין
+Robert Andrews Millikan	רוברט מיליקן
+Robert Boyle	רוברט בויל
+Robert Burns	רוברט ברנס
+Robert De Niro	רוברט דה נירו
+Robert E. Lee	רוברט לי
+Robert Falcon Scott	רוברט פלקון סקוט
+Robert Hooke	רוברט הוק
+Robert Koch	רוברט קוך
+Robert Louis Stevenson	רוברט לואיס סטיבנסון
+Robert Oppenheimer	רוברט אופנהיימר
+Robert Owen	רוברט אואן
+Robert Redford	רוברט רדפורד
+Robert Schumann	רוברט שומאן
+Robin Hood	רובין הוד
+Robot	רובוט
+Rock	אבן נייר ומספריים
+Rock (geology)	סלע
+Rock and roll	רוק אנד רול
+Rock music	רוק (מוזיקה)
+Rock music	קטגוריה:רוק
+Rocket	רקטה
+Rocky Mountains	הרי הרוקי
+Rococo	רוקוקו
+Rodent	מכרסמים
+Roe Deer	אייל הכרמל
+Roentgenium	רנטגניום
+Roger Bacon	רוג'ר בייקון
+Roman Empire	הקיסרות הרומית
+Roman Republic	הרפובליקה הרומית
+Roman calendar	לוח השנה הרומי
+Roman law	המשפט הרומי
+Roman legion	לגיון
+Roman mythology	מיתולוגיה רומית
+Roman mythology	קטגוריה:מיתולוגיה רומית
+Romania	רומניה
+Romania	קטגוריה:רומניה
+Romansh	רומאנש
+Romanticism	רומנטיקה
+Rome	רומא
+Rome	קטגוריה:רומא
+Ronald Reagan	רונלד רייגן
+Roof	גג
+Rook (bird)	עורב מזרע
+Rook (chess)	צריח (שחמט)
+Roosevelt	רוזוולט
+Root	שורש (בוטניקה)
+Rosa Parks	רוזה פארקס
+Rosaceae	ורדיים
+Rosales	ורדנאים
+Rosario	רוסאריו
+Rose	ורד
+Roseau	רוזו
+Rosemary	רוזמרין
+Rosetta Stone	אבן רוזטה
+Rosh Hashanah	ראש השנה
+Ross Sea	ים רוס
+Rotterdam	רוטרדם
+Router	נתב
+Rowing (sport)	חתירה (ספורט)
+Royal Air Force	חיל האוויר המלכותי
+Royal Society	החברה המלכותית
+Rubber	גומי
+Rubicon	רוביקון
+Rubidium	רובידיום
+Ruble	רובל
+Rubus idaeus	פטל אדום
+Ruby	אודם
+Ruby (programming language)	Ruby
+Rudolf Diesel	רודולף דיזל
+Rudolf Hess	רודולף הס
+Rudolf Steiner	רודולף שטיינר
+Rudyard Kipling	רודיארד קיפלינג
+Rugby football	רוגבי
+Rupert Murdoch	רופרט מרדוק
+Russia	רוסיה
+Russia	קטגוריה:רוסיה
+Russian Orthodox Church	הכנסייה הרוסית הפרבוסלבית
+Russo-Japanese War	מלחמת רוסיה-יפן
+Ruthenium	רותניום
+Rutherford B. Hayes	רתרפורד הייז
+Rutherfordium	רתרפורדיום
+Rwanda	רואנדה
+Rwanda	קטגוריה:רואנדה
+Rye	שיפון (דגן)
+S	S
+SOAP	SOAP
+SOS	SOS
+Sacrament	סקרמנט
+Sacramento	סקרמנטו
+Saddam Hussein	סדאם חוסיין
+Safari (web browser)	ספארי (דפדפן)
+Saffron	זעפרן
+Sagittarius (constellation)	קשת (קבוצת כוכבים)
+Sahara	סהרה
+Sail	מפרש
+Saint	קדוש (נצרות)
+Saint Andrew	אנדראס הקדוש
+Saint George	גאורגיוס הקדוש
+Saint Kitts and Nevis	סנט קיטס ונוויס
+Saint Kitts and Nevis	קטגוריה:סנט קיטס ונוויס
+Saint Lawrence River	סנט לורנס (נהר)
+Saint Lucia	סנט לוסיה
+Saint Lucia	קטגוריה:סנט לוסיה
+Saint Martin	סן מרטן
+Saint Patrick	פטריק הקדוש
+Saint Paul	סיינט פול
+Saint Peter	פטרוס
+Saint Petersburg	סנקט פטרבורג
+Saint Petersburg	קטגוריה:סנקט פטרבורג
+Saint Vincent and the Grenadines	סנט וינסנט והגרנדינים
+Saint Vincent and the Grenadines	קטגוריה:סנט וינסנט והגרנדינים
+Sake	סאקה
+Saladin	צלאח א-דין
+Salah	צלאה
+Salamander	בעלי זנב
+Salem	סאלם (אורגון)
+Saliva	רוק (ביולוגיה)
+Salman Rushdie	סלמאן רושדי
+Salt	מלח בישול
+Salt (chemistry)	מלח (כימיה)
+Salt Lake City	סולט לייק סיטי
+Salvador	סלבדור (ברזיל)
+Salzburg	זלצבורג
+Salzburg (state)	זלצבורג (מדינה)
+Samara	סמרה
+Samarium	סמריום
+Samarkand	סמרקנד
+Samoa	סמואה
+Samoa	קטגוריה:סמואה
+Samsara	סמסרה
+Samuel Beckett	סמואל בקט
+Samuel F. B. Morse	סמואל מורס
+Samuel Taylor Coleridge	סמואל טיילור קולרידג'
+Samurai	סמוראי
+San Antonio	סן אנטוניו
+San Diego	סן דייגו
+San Francisco	סן פרנסיסקו
+San Jose	סן חוזה (קליפורניה)
+San Juan	סן חואן
+San Marino	סן מרינו
+San Marino	קטגוריה:סן מרינו
+San Marino	סן מרינו (עיר)
+San Salvador	סן סלוודור
+Sand	חול
+Sandro Botticelli	סנדרו בוטיצ'לי
+Sandstone	אבן חול
+Sandwich	כריך
+Sanskrit	סנסקריט
+Santa Claus	סנטה קלאוס
+Santa Fe	סנטה פה
+Santiago	סנטיאגו דה צ'ילה
+Santiago	סנטיאגו
+Santiago de Cuba	סנטיאגו דה קובה
+Santo Domingo	סנטו דומינגו
+Santos (Săo Paulo)	סנטוס
+Sapphire	ספיר
+Sappho	סאפפו
+Sarah Bernhardt	שרה ברנאר
+Sarajevo	סראייבו
+Saratov	סרטוב
+Sarcophagus	סרקופג
+Sardine	סרדין
+Sardinia	סרדיניה
+Sarin	סארין
+Saskatchewan	ססקצ'ואן
+Satan	שטן
+Satellite	לוויין
+Satire	סאטירה
+Saturday	יום השבת
+Saturn	שבתאי
+Saturn	קטגוריה:שבתאי
+Saturn (disambiguation)	סטורן
+Satyr	סאטיר
+Sauce	רוטב
+Saudi Arabia	ערב הסעודית
+Saudi Arabia	קטגוריה:ערב הסעודית
+Saul Bellow	סול בלו
+Sausage	נקניק
+Savanna	סוואנה
+Saxony	סקסוניה
+Saxony	קטגוריה:סקסוניה
+Saxophone	סקסופון
+Scandinavia	סקנדינביה
+Scandinavia	קטגוריה:סקנדינביה
+Scandium	סקנדיום
+Scapula	עצם השכם
+Scheldt	סכלדה
+Scheme (programming language)	Scheme
+Schizophrenia	סכיזופרניה
+Scholasticism	סכולסטיקה
+School	בית ספר
+Schutzstaffel	אס אס
+Science	מדע
+Science	קטגוריה:מדע וטכנולוגיה
+Science fiction	מדע בדיוני
+Science fiction	קטגוריה:מדע בדיוני
+Scientific method	השיטה המדעית
+Scientist	מדען
+Scientology	סיינטולוגיה
+Scipio Africanus	פובליוס קורנליוס סקיפיו אפריקנוס
+Scissors	מספריים
+Sciuridae	סנאיים
+Scorpion	עקרבאים
+Scorpius	עקרב (קבוצת כוכבים)
+Scotland	סקוטלנד
+Scotland	קטגוריה:סקוטלנד
+Scottish Gaelic	גאלית סקוטית
+Scouting	תנועת הצופים
+Scrabble	שבץ נא
+Screw	בורג
+Screwdriver	מברג
+Scrotum	כיס האשכים
+Sculptor (constellation)	פסל (קבוצת כוכבים)
+Sculpture	פיסול
+Sculpture	קטגוריה:פיסול
+Sea	ים
+Sea Otter	לוטרת ים
+Sea anemone	שושנות ים
+Sea cucumber	מלפפון ים
+Sea level	גובה פני הים
+Sea of Azov	ים אזוב
+Sea of Japan	ים יפן
+Sea of Marmara	ים השיש
+Sea of Okhotsk	ים אוחוצק
+Sea urchin	קיפודי ים
+Seaborgium	סיבורגיום
+Seahorse	סוסון ים
+Search engine	מנוע חיפוש
+Sears Tower	מגדל סירס
+Season	עונות השנה
+Seattle	סיאטל
+Second	שנייה
+Second Crusade	מסע הצלב השני
+Second Vatican Council	ועידת הוותיקן השנייה
+Second law of thermodynamics	החוק השני של התרמודינמיקה
+Sect	כת
+Security	קטגוריה:אבטחה
+Sedimentary rock	סלע משקע
+Seed	זרע (בוטניקה)
+Segovia	סגוביה
+Seine	סן
+Seismology	סייסמולוגיה
+Seismology	קטגוריה:סייסמולוגיה
+Selene	סלנה
+Selenium	סלניום
+Seleucus I Nicator	סלאוקוס הראשון
+Semantics	סמנטיקה
+Semantics	קטגוריה:סמנטיקה
+Semicolon	נקודה ופסיק
+Semiconductor	מוליך למחצה
+Semiotics	סמיוטיקה
+Senate	סנאט
+Senegal	סנגל
+Senegal	קטגוריה:סנגל
+Seoul	סיאול
+Seppuku	ספוקו
+September	ספטמבר
+September 11	11 בספטמבר
+September 11	פיגועי 11 בספטמבר
+September 17	17 בספטמבר
+September 29	29 בספטמבר
+Septuagint	תרגום השבעים
+Sequence	סדרה
+Serbia	סרביה
+Serbia	קטגוריה:סרביה
+Serbia and Montenegro	סרביה ומונטנגרו
+Serbia and Montenegro	קטגוריה:סרביה ומונטנגרו
+Serfdom	צמיתות
+Sergei Eisenstein	סרגיי אייזנשטיין
+Sergei Rachmaninoff	סרגיי רחמנינוב
+Series (mathematics)	טור (מתמטיקה)
+Serine	סרין
+Serotonin	סרוטונין
+Serpens	נחש (קבוצת כוכבים)
+Server (computing)	שרת
+Set	קבוצה (מתמטיקה)
+Set (mythology)	סת
+Set theory	תורת הקבוצות
+Set theory	קטגוריה:תורת הקבוצות
+Sevastopol	סבסטופול
+Seven Years' War	מלחמת שבע השנים
+Severe acute respiratory syndrome	סארס
+Seville	סביליה
+Sex	זוויג
+Sexism	אפליה מינית
+Sextant	סקסטנט
+Sexual intercourse	יחסי מין
+Sexuality	קטגוריה:מיניות
+Sexually transmitted disease	מחלת מין
+Seychelles	סיישל
+Seychelles	קטגוריה:סיישל
+Shah	שאה
+Shahadah	שהאדה
+Shamanism	שמאניזם
+Shanghai	שאנגחאי
+Share (finance)	מניה
+Sharia	שריעה
+Shark	כרישאים
+Sheffield	שפילד
+Sherlock Holmes	שרלוק הולמס
+Shetland	איי שטלנד
+Shield	מגן
+Shinto	שינטו
+Ship	ספינה
+Shiva	שיווה
+Shogi	שוגי
+Shogun	שוגון
+Shorthand	קצרנות
+Shrimp	חסילונים
+Shrub	שיח
+Siberia	סיביר
+Siberian Husky	האסקי סיבירי
+Sichuan	סצ'ואן
+Sicily	סיציליה
+Sicily	קטגוריה:סיציליה
+Siemens (unit)	סימנס
+Sierra Leone	סיירה לאונה
+Sierra Leone	קטגוריה:סיירה לאונה
+Sigma	סיגמא
+Sigmund Freud	זיגמונד פרויד
+Sign language	שפת סימנים
+Sigrid Undset	סיגריד אונדסט
+Sikhism	סיקהיזם
+Sikkim	סיקים
+Silesia	שלזיה
+Silicon	צורן
+Silicon Valley	עמק הסיליקון
+Silicon dioxide	צורן דו-חמצני
+Silk	משי
+Silk Road	דרך המשי
+Silurian	סילור
+Silver	כסף (יסוד)
+Simone de Beauvoir	סימון דה בובואר
+Sinai Peninsula	סיני
+Sinclair Lewis	סינקלר לואיס
+Singapore	סינגפור
+Singapore	קטגוריה:סינגפור
+Single (music)	סינגל
+Siren	סירנה
+Sirenia	תחשאים
+Sirius	סיריוס
+Sistine Chapel	הקפלה הסיסטינית
+Sisyphus	סיזיפוס
+Sitting Bull	שור יושב
+Situation comedy	קומדיית מצבים
+Six-Day War	מלחמת ששת הימים
+Skateboard	סקייטבורד
+Skeletal system	קטגוריה:מערכת השלד
+Skepticism	ספקנות
+Skin	עור
+Skinhead	סקינהד
+Skopje	סקופיה
+Skull	גולגולת
+Skylab	סקיילאב
+Skyscraper	גורד שחקים
+Slash (musician)	סלאש
+Slavery	עבדות
+Slayer	סלייר
+Sleep	שינה
+Slovakia	סלובקיה
+Slovakia	קטגוריה:סלובקיה
+Slovenia	סלובניה
+Slovenia	קטגוריה:סלובניה
+Small intestine	המעי הדק
+Smog	ערפיח
+Smolensk	סמולנסק
+Snake	נחשים
+Snow	שלג
+Soap	סבון
+Social psychology	פסיכולוגיה חברתית
+Socialism	סוציאליזם
+Socialism	קטגוריה:סוציאליזם
+Socialist Party (France)	המפלגה הסוציאליסטית הצרפתית
+Society	קטגוריה:חברה
+Society	חברה
+Society of Jesus	ישועים
+Sociolinguistics	בלשנות חברתית
+Sociology	סוציולוגיה
+Sociology	קטגוריה:סוציולוגיה
+Socrates	סוקרטס
+Sodium	נתרן
+Sodium bicarbonate	סודה לשתייה
+Sodium chloride	מלח בישול
+Sodium hydroxide	נתרן הידרוקסידי
+Sofia	סופיה
+Software	קטגוריה:תוכנה
+Soil	קרקע
+Solanaceae	סולניים
+Solanaceae	קטגוריה:סולניים
+Solar System	מערכת השמש
+Solar System	קטגוריה:מערכת השמש
+Solar cell	תא פוטו-וולטאי
+Solar eclipse	ליקוי חמה
+Solar energy	אנרגיה סולארית
+Solar wind	רוח השמש
+Solid	מוצק
+Solid state	מוצק
+Solidarity	סולידריות (תנועה)
+Solomon	שלמה
+Solomon Islands	איי שלמה
+Solomon Islands	קטגוריה:איי שלמה
+Solon	סולון
+Solstice	מישור המילקה#.D7.A0.D7.A7.D7.95.D7.93.D7.95.D7.AA .D7.94.D7.A9.D7.95.D7.95.D7.99.D7.95.D7.9F .D7.95.D7.94.D7.94.D7.99.D7.A4.D7.95.D7.9A
+Solution	תמיסה
+Solvent	תמיסה#הממס
+Somalia	סומליה
+Somalia	קטגוריה:סומליה
+Somme	סום
+Sonata	סונאטה
+Song of Solomon	שיר השירים
+Sonnet	סונטה (שירה)
+Sophia Loren	סופיה לורן
+Sophism	סופיזם
+Sophocles	סופוקלס
+Soprano	סופרן
+Sorbonne	סורבון
+Sorghum	דורה
+Sorting algorithm	מיון (מדעי המחשב)
+Soul	נשמה
+Sound	קול
+Soup	מרק
+Source code	קוד מקור
+South	דרום
+South Africa	קטגוריה:דרום אפריקה
+South America	אמריקה הדרומית
+South America	קטגוריה:אמריקה הדרומית
+South Australia	אוסטרליה הדרומית
+South Carolina	קרוליינה הדרומית
+South Carolina	קטגוריה:קרוליינה הדרומית
+South China Sea	ים סין הדרומי
+South Dakota	דקוטה הדרומית
+South Dakota	קטגוריה:דקוטה הדרומית
+South Island	האי הדרומי
+South Korea	קוריאה הדרומית
+South Korea	קטגוריה:קוריאה הדרומית
+South Pole	הקוטב הדרומי
+Southeast Asia	דרום-מזרח אסיה
+Southern Hemisphere	חצי הכדור הדרומי
+Sovereignty	ריבונות
+Soviet Union	ברית המועצות
+Soviet Union	קטגוריה:ברית המועצות
+Soybean	פולי סויה
+Space	מרחב
+Space Shuttle	מעבורת חלל
+Space station	תחנת חלל
+Spacecraft	חללית
+Spaghetti	ספגטי
+Spain	ספרד
+Spain	קטגוריה:ספרד
+Spam (electronic)	דואר זבל
+Spanish Civil War	מלחמת האזרחים בספרד
+Spanish people	קטגוריה:ספרדים
+Spanish-American War	מלחמת ארצות הברית-ספרד
+Sparta	ספרטה
+Spear	חנית
+Special relativity	תורת היחסות הפרטית
+Species	מין (טקסונומיה)
+Spectroscopy	ספקטרוסקופיה
+Speed	מהירות
+Speed of light	מהירות האור
+Speleology	ספלאולוגיה
+Spencer Tracy	ספנסר טרייסי
+Sperm Whale	ראשתן גדול ראש
+Spermatophyte	צמחי זרע
+Spermatozoon	תא זרע
+Sphere	ספירה (גאומטריה)
+Sphinx	ספינקס
+Spice	תבלין
+Spider	עכבישאים
+Spin (physics)	ספין
+Spinach	תרד
+Spinal cord	חוט השדרה
+Spiral galaxy	גלקסיה ספירלית
+Spleen	טחול
+Split	ספליט
+Sponge	ספוגיים
+Sport	ספורט
+Spreadsheet	גיליון אלקטרוני
+Spree	שפרה
+Spring (season)	אביב
+Springfield	ספרינגפילד (אילינוי)
+Spyware	רוגלה
+Squamata	קשקשאים
+Square (geometry)	ריבוע
+Square metre	מטר מרובע
+Square root	שורש ריבועי
+Squash (sport)	סקווש
+Squirrel	סנאי
+Sri Lanka	סרי לנקה
+Sri Lanka	קטגוריה:סרי לנקה
+St. Louis	סנט לואיס
+Stadium	אצטדיון
+Stained glass	ויטראז'
+Stainless steel	פלדת אל-חלד
+Stalinism	סטליניזם
+Standard deviation	סטיית תקן
+Stanford University	אוניברסיטת סטנפורד
+Stanley Kubrick	סטנלי קובריק
+Star	כוכב
+Star of David	מגן דוד
+Starch	עמילן
+Starfish	כוכבי ים
+State	מדינה
+Staten Island	סטטן איילנד
+Statistical mechanics	מכניקה סטטיסטית
+Statistics	סטטיסטיקה
+Statistics	קטגוריה:סטטיסטיקה
+Statue of Liberty	פסל החירות
+Stavanger	סטוונגר
+Steam	אד
+Steam engine	מנוע קיטור
+Steel	פלדה
+Stefan Zweig	סטפן צווייג
+Steffi Graf	שטפי גראף
+Stegosaurus	סטגוזאור
+Stem cell	תא גזע
+Stendhal	סטנדל
+Stephen Hawking	סטיבן הוקינג
+Steppe	הערבה האירואסייתית
+Steradian	סטרדיאן
+Sternum	עצם החזה
+Steroid	סטרואיד
+Steven Spielberg	סטיבן ספילברג
+Sting	סטינג
+Stock exchange	בורסה לניירות ערך
+Stockholm	סטוקהולם
+Stoicism	האסכולה הסטואית
+Stomach	קיבה
+Stone Age	תקופת האבן
+Stonehenge	סטונהנג'
+Stork	חסידה
+Storm	סופה
+Strait	מצר
+Strait of Gibraltar	מצר גיברלטר
+Strait of Hormuz	מצר הורמוז
+Strait of Magellan	מצר מגלן
+Strait of Messina	מצר מסינה
+Strasbourg	שטרסבורג
+Strategy	אסטרטגיה (מדע המדינה)
+Stratigraphy	סטרטיגרפיה
+Stratosphere	סטרטוספירה
+Strawberry	תות שדה
+Stress (medicine)	דחק
+String theory	תורת המיתרים
+Stroke	שבץ מוחי
+Strong interaction	הכוח הגרעיני החזק
+Strontium	סטרונציום
+Structuralism	סטרוקטורליזם
+Student	סטודנט
+Stupa	סטופה
+Sturmabteilung	אס אה
+Stuttgart	שטוטגרט
+Styx	סטיקס
+Sub-Saharan Africa	אפריקה שמדרום לסהרה
+Subculture	תת-תרבות
+Sublimation (chemistry)	המראה (פיזיקה)
+Submarine	צוללת
+Subset	תת קבוצה
+Sucre	סוקרה
+Sucrose	סוכרוז
+Sudan	סודאן
+Sudan	קטגוריה:סודאן
+Sudoku	סודוקו
+Suez Canal	תעלת סואץ
+Sufism	סופיות
+Suharto	סוהארטו
+Sulfur	גופרית
+Sulfur dioxide	גופרית דו-חמצנית
+Sulfuric acid	חומצה גופרתית
+Sultan	סולטן
+Sumatra	סומטרה
+Sumer	שומר
+Summer	קיץ
+Sumo	סומו
+Sun	השמש
+Sun	קטגוריה:השמש
+Sun Yat-sen	סון יאט-סן
+Sunday	יום ראשון
+Sundial	שעון שמש
+Sunflower	חמנית
+Sunni Islam	אסלאם סוני
+Sunspot	כתם שמש
+Supercomputer	מחשב-על
+Superconductivity	מוליכות-על
+Superman	סופרמן
+Supernova	סופרנובה
+Supreme Court of the United States	בית המשפט העליון של ארצות הברית
+Sura	סורה
+Surface tension	מתח פנים
+Surgeon	כירורגיה
+Surgery	כירורגיה
+Surgery	קטגוריה:כירורגיה
+Suriname	סורינאם
+Suriname	קטגוריה:סורינאם
+Surrealism	סוריאליזם
+Sushi	סושי
+Suva	סובה
+Svalbard	סבאלברד
+Swallow	סנוניתיים
+Swan	ברבור
+Swastika	צלב קרס
+Swaziland	סווזילנד
+Swaziland	קטגוריה:סווזילנד
+Sweden	שבדיה
+Sweden	קטגוריה:שבדיה
+Sweet potato	בטטה
+Swimming	שחייה
+Swimming	קטגוריה:שחייה
+Swiss franc	פרנק שווייצרי
+Switzerland	שווייץ
+Switzerland	קטגוריה:שווייץ
+Sword	חרב
+Sydney	סידני
+Syllable	הברה
+Sylvia Plath	סילביה פלאת'
+Symbiosis	סימביוזה
+Symbol	סמל
+Symphony	סימפוניה
+Symptom	תסמין
+Synagogue	בית כנסת
+Syndicate	איגוד מקצועי
+Synesthesia	סינסתזיה
+Synonym	מילה נרדפת
+Syntax	תחביר
+Synthesizer	סינתיסייזר
+Syphilis	עגבת
+Syracuse	סירקוזה
+Syria	סוריה
+Syria	קטגוריה:סוריה
+System	מערכת
+T	T
+T. E. Lawrence	לורנס איש ערב
+T. S. Eliot	תומאס סטרנס אליוט
+Table (furniture)	שולחן
+Table tennis	טניס שולחן
+Taboo	טאבו (סוציולוגיה)
+Tacitus	טקיטוס
+Taekwondo	טאיקוונדו
+Tagus	טחו
+Tahiti	טהיטי
+Tai chi chuan	טאי צ'י
+Tail	זנב
+Taipei	טאיפיי
+Taiwan	הרפובליקה הסינית
+Taj Mahal	טאג' מהאל
+Tajikistan	טג'יקיסטן
+Tajikistan	קטגוריה:טג'יקיסטן
+Talc	טלק
+Taliban	טליבאן
+Tallahassee	טאלאהאסי
+Tallinn	טאלין
+Talmud	תלמוד
+Tamil Nadu	טאמיל נאדו
+Tampa	טמפה
+Tampere	טמפרה (פינלנד)
+Tanakh	תנ"ך
+Tangier	טנג'יר
+Tango (dance)	טנגו
+Tank	טנק
+Tantalum	טנטלום
+Tantalus	טנטלוס
+Tanzania	טנזניה
+Tanzania	קטגוריה:טנזניה
+Taoism	טאואיזם
+Tapir	טפיר
+Tardigrade	דובוני מים
+Tartarus	טרטרוס
+Tartu	טרטו
+Tashkent	טשקנט
+Tasman Sea	ים טסמן
+Tasmania	טסמניה
+Tasmanian Devil	שד טסמני
+Taste	טעם
+Tattoo	קעקע
+Tau	טאו (אות)
+Taurus (constellation)	שור (קבוצת כוכבים)
+Tawny Owl	לילית מצויה
+Tax	מס
+Taxation	קטגוריה:מסים
+Taxicab	מונית
+Taxon	טקסון
+Taxonomy	טקסונומיה
+Tbilisi	טביליסי
+Tea	תה
+Tea	קטגוריה:תה
+Teacher	מורה
+Technetium	טכנציום
+Techno	טכנו
+Technology	טכנולוגיה
+Technology	קטגוריה:טכנולוגיה
+Tegucigalpa	טגוסיגלפה
+Tehran	טהראן
+Tel Aviv	תל אביב-יפו
+Telecommunication	תקשורת
+Telegraphy	טלגרפיה
+Telepathy	טלפתיה
+Telephone	טלפון
+Telescope	טלסקופ
+Telescopium	טלסקופ (קבוצת כוכבים)
+Television	טלוויזיה
+Television	קטגוריה:טלוויזיה
+Tellurium	טלור
+Temperature	טמפרטורה
+Temple	מקדש
+Temple of Artemis	מקדש ארטמיס באפסוס
+Ten Commandments	עשרת הדיברות
+Tenerife	טנריף
+Tennessee	טנסי
+Tennessee	קטגוריה:טנסי
+Tennessee Williams	טנסי ויליאמס
+Tennis	טניס
+Tennis	קטגוריה:טניס
+Tenor	טנור
+Tenzing Norgay	טנזינג נורגיי
+Tequila	טקילה
+Terbium	טרביום
+Termite	טרמיטאים
+Terpsichore	טרפסיכורה
+Terrestrial planet	כוכב לכת ארצי
+Terrorism	טרור
+Terrorism	קטגוריה:טרור
+Tertullian	טרטוליאנוס
+Tesla (unit)	טסלה
+Testicle	אשך
+Testosterone	טסטוסטרון
+Tetanus	טטנוס
+Tethys (mythology)	טתיס
+Tetrahedron	ארבעון
+Tetrahydrocannabinol	THC
+Tetrapod	בעלי ארבע רגליים
+Texas	טקסס
+Texas	קטגוריה:טקסס
+Textile	טקסטיל
+Thailand	תאילנד
+Thailand	קטגוריה:תאילנד
+Thales	תאלס
+Thalia	תאליה
+Thallium	תליום
+Thanatos	תנטוס
+Thanksgiving	חג ההודיה
+Thanksgiving (Canada)	חג ההודיה
+Thanksgiving (United States)	חג ההודיה
+Thanksgiving (disambiguation)	חג ההודיה
+The Gambia	גמביה
+The Gambia	קטגוריה:גמביה
+The Hague	האג
+The Star-Spangled Banner	הדגל זרוע הכוכבים
+Theatre	תיאטרון
+Theatre	קטגוריה:תיאטרון
+Thebe (moon)	תבה
+Thebes	תבאי
+Thebes	תבאי (מצרים)
+Theia	תאה
+Themis	תמיס (מיתולוגיה)
+Themistocles	תמיסטוקלס
+Theocracy	תאוקרטיה
+Theodolite	תאודוליט
+Theodor Mommsen	תאודור מומזן
+Theodore Roosevelt	תאודור רוזוולט
+Theodosius I	תאודוסיוס הראשון
+Theology	פילוסופיה של הדת
+Theology	קטגוריה:תאולוגיה
+Theorem	משפט (מתמטיקה)
+Theory	תאוריה
+Theory of relativity	תורת היחסות
+Theravada	טהרוואדה
+Thermodynamics	תרמודינמיקה
+Thermodynamics	קטגוריה:תרמודינמיקה
+Thermometer	מד טמפרטורה
+Theseus	תסאוס
+Thessaloniki	סלוניקי
+Thessaly	תסליה
+Theta	תטא
+Thetis	תטיס (מיתולוגיה)
+Thiamine	ויטמין B1
+Think tank	צוות חשיבה
+Third Crusade	מסע הצלב השלישי
+Third World	העולם השלישי
+Thirty Years' War	מלחמת שלושים השנים
+Thomas Aquinas	תומאס אקווינס
+Thomas Edison	תומאס אלווה אדיסון
+Thomas Hardy	תומאס הרדי
+Thomas Hobbes	תומאס הובס
+Thomas Jefferson	תומאס ג'פרסון
+Thomas Malthus	תומס מלתוס
+Thomas Mann	תומאס מאן
+Thomas More	תומאס מור
+Thomas Paine	תומאס פיין
+Thomas Young (scientist)	תומס יאנג
+Thor	תור (אל)
+Thorium	תוריום
+Thought	חשיבה
+Thrace	תראקיה
+Thucydides	תוקידידס
+Thulium	תוליום
+Thumb	אגודל
+Thuringia	תורינגיה
+Thursday	יום חמישי
+Thylacine	זאב טסמני
+Thyme	קורנית (צמח)
+Thymine	תימין
+Thyroid	בלוטת התריס
+Tianjin	טיינג'ין
+Tiber	טיבר
+Tiberius	טיבריוס
+Tibet	טיבט
+Tibet	קטגוריה:טיבט
+Ticino	טיצ'ינו (קנטון)
+Tide	גאות ושפל
+Tierra del Fuego	ארץ האש
+Tiger	טיגריס
+Tigris	חידקל
+Tilia	טיליה
+Timbuktu	טימבוקטו
+Time	זמן
+Time	קטגוריה:זמן
+Time (magazine)	טיים מגזין
+Time zone	אזור זמן
+Timor	טימור (אי)
+Timur	טימור לנג
+Tin	בדיל
+Tirana	טירנה
+Tissue (biology)	רקמת תאים
+Titan (disambiguation)	טיטאן (פירושונים)
+Titan (moon)	טיטאן (ירח)
+Titan (mythology)	טיטאנים
+Titania (moon)	טיטניה
+Titanium	טיטניום
+Titian	טיציאן
+Titus	טיטוס
+Tivoli	טיבולי (איטליה)
+Tobacco	טבק
+Tocantins (state)	טוקנטינס (מדינה)
+Tocopherol	ויטמין E
+Tofu	טופו
+Togo	טוגו
+Togo	קטגוריה:טוגו
+Tokyo	טוקיו
+Toledo	טולדו
+Toluene	טולואן
+Tom Hanks	טום הנקס
+Tom and Jerry	טום וג'רי
+Tomato	עגבנייה
+Tonga	טונגה
+Tongue	לשון (איבר)
+Toni Morrison	טוני מוריסון
+Tony Blair	טוני בלייר
+Tool	כלי
+Tooth	שן
+Toothbrush	מברשת שיניים
+Topaz	טופז
+Topeka	טופיקה
+Topology	טופולוגיה
+Topology	קטגוריה:טופולוגיה
+Torah	תורה
+Tornado	טורנדו
+Toronto	טורונטו
+Torpedo	טורפדו
+Torque	מומנט כוח
+Tortoise	צבים יבשתיים
+Torture	עינויים
+Torus	טורוס
+Totalitarianism	טוטליטריזם
+Toulon	טולון
+Toulouse	טולוז
+Tour de France	טור דה פראנס
+Tourism	תיירות
+Tourism	קטגוריה:תיירות
+Tours	טור (צרפת)
+Tower of Babel	מגדל בבל
+Tower of London	מצודת לונדון
+Town	עיר
+Toxicity	רעל
+Toxicology	טוקסיקולוגיה
+Toy	צעצוע
+Toyota	טויוטה
+Tractor	טרקטור
+Trade	מסחר
+Trade union	איגוד מקצועי
+Trademark	סימן מסחר
+Tradition	מסורת
+Tragedy	טרגדיה
+Train	רכבת
+Train station	תחנת רכבת
+Trajan	טריאנוס
+Tram	רכבת קלה
+Transcendental number	מספר טרנסצנדנטי
+Transformer	שנאי
+Transistor	טרנזיסטור
+Transliteration	תעתיק
+Transmission Control Protocol	Transmission Control Protocol
+Transportation	קטגוריה:תחבורה
+Transsexualism	טרנסקסואליות
+Transylvania	טרנסילבניה
+Trapezoid	טרפז
+Treaty	אמנה (הסכם)
+Treaty of Versailles	חוזה ורסאי
+Tree	עץ
+Trenton	טרנטון
+Triangle	משולש
+Triassic	טריאס
+Triceratops	טריצרטופס
+Trier	טריר
+Trigonometry	טריגונומטריה
+Trigonometry	קטגוריה:טריגונומטריה
+Trilobite	טרילוביטים
+Trilogy	טרילוגיה
+Trinidad	טרינידד (אי)
+Trinidad and Tobago	טרינידד וטובגו
+Trinidad and Tobago	קטגוריה:טרינידד וטובגו
+Trinitrotoluene	TNT
+Trinity	השילוש הקדוש
+Tripoli	טריפולי (לוב)
+Triskelion	טריסקל
+Tritium	טריטיום
+Triton (moon)	טריטון (ירח)
+Triton (mythology)	טריטון (מיתולוגיה)
+Triumphal arch	שער ניצחון
+Trojan Horse	סוס טרויאני
+Trojan War	מלחמת טרויה
+Trojan horse (computing)	סוס טרויאני (תוכנה)
+Troll	טרול (מיתולוגיה)
+Troll (Internet)	טרול (אינטרנט)
+Trombone	טרומבון
+Trondheim	טרונדהיים
+Tropic of Cancer	חוג הסרטן
+Tropic of Capricorn	חוג הגדי
+Tropics	אזור טרופי
+Troposphere	טרופוספירה
+Trotskyism	טרוצקיזם
+Troy	טרויה
+Truck	משאית
+Truman Doctrine	דוקטרינת טרומן
+Trumpet	חצוצרה
+Truth	אמת ושקר (פילוסופיה)
+Trygve Lie	טריגווה לי
+Tryptophan	טריפטופן
+Tsar	צאר
+Tsunami	צונמי
+Tuba	טובה (כלי נגינה)
+Tuber (genus)	כמהין (פטרייה)
+Tuberculosis	שחפת
+Tucana	טוקאן (קבוצת כוכבים)
+Tucson	טוסון
+Tuesday	יום שלישי
+Tulip	צבעוני
+Tumor	גידול
+Tundra	טונדרה
+Tungsten	טונגסטן
+Tunicate	מיתרני זנב
+Tunis	תוניס
+Tunisia	תוניסיה
+Tunisia	קטגוריה:תוניסיה
+Tunnel	מנהרה
+Turbine	טורבינה
+Turin	טורינו
+Turing machine	מכונת טיורינג
+Turkey	טורקיה
+Turkey	קטגוריה:טורקיה
+Turkmenistan	טורקמניסטן
+Turkmenistan	קטגוריה:טורקמניסטן
+Turmeric	כורכום
+Turtle	צבים
+Tuscany	טוסקנה
+Tuvalu	טובאלו
+Tuvalu	קטגוריה:טובאלו
+Tux	Tux
+Tycho Brahe	טיכו ברהה
+Typewriter	מכונת כתיבה
+Typhon	טיפון
+Typography	טיפוגרפיה
+Tyrannosaurus	טירנוזאור רקס
+Tyre	צור
+Tyrol (state)	טירול
+Tyrrhenian Sea	הים הטירני
+U	U
+UNESCO	אונסק"ו
+Ufa	אופה (רוסיה)
+Uganda	אוגנדה
+Uganda	קטגוריה:אוגנדה
+Ukraine	אוקראינה
+Ukraine	קטגוריה:אוקראינה
+Ulan Bator	אולן בטור
+Ultrasound	אולטרה סאונד
+Ultraviolet	על-סגול
+Ulysses S. Grant	יוליסס סימפסון גרנט
+Umbrella	מטרייה
+Umbria	אומבריה
+Uncertainty principle	עקרון אי הוודאות
+Unemployment	אבטלה
+Unicorn	חד-קרן
+Unidentified flying object	עצם בלתי מזוהה
+Uniform Resource Locator	URL
+Union (set theory)	איחוד (מתמטיקה)
+United Arab Emirates	איחוד האמירויות הערביות
+United Arab Emirates	קטגוריה:איחוד האמירויות הערביות
+United Arab Republic	הרפובליקה הערבית המאוחדת
+United Kingdom	הממלכה המאוחדת
+United Kingdom	קטגוריה:הממלכה המאוחדת
+United Nations	האומות המאוחדות
+United Nations	קטגוריה:האומות המאוחדות
+United Nations Children's Fund	קרן החירום הבינלאומית של האומות המאוחדות לילדים
+United States	ארצות הברית
+United States	קטגוריה:ארצות הברית
+United States Air Force	חיל האוויר האמריקני
+United States Congress	הקונגרס של ארצות הברית
+United States Constitution	חוקת ארצות הברית
+United States House of Representatives	בית הנבחרים של ארצות הברית
+United States Military Academy	האקדמיה הצבאית הלאומית של ארצות הברית
+United States Navy	הצי האמריקני
+United States Senate	הסנאט של ארצות הברית
+United States Virgin Islands	איי הבתולה של ארצות הברית
+United States dollar	דולר אמריקני
+Universe	היקום
+University	אוניברסיטה
+University of Chicago	אוניברסיטת שיקגו
+University of Pennsylvania	אוניברסיטת פנסילבניה
+Unix	Unix
+Unix	קטגוריה:יוניקס
+Ununbium	אונונביום
+Ununhexium	אונונהקסיום
+Ununpentium	אונונפנטיום
+Ununquadium	אונונקוודיום
+Ununtrium	אונונטריום
+Upanishad	אופנישדות
+Uppsala	אופסלה
+Upsilon	אופסילון
+Ur	אור כשדים
+Uracil	אורציל
+Ural Mountains	הרי אורל
+Urania	אוראניה
+Uranium	אורניום
+Uranus	אורנוס
+Uranus	קטגוריה:אורנוס
+Uranus (mythology)	אורנוס (מיתולוגיה)
+Urdu	אורדו
+Urea	שתנן
+Urine	שתן
+Ursa Major	הדובה הגדולה
+Ursa Minor	הדובה הקטנה
+Uruguay	אורוגוואי
+Uruguay	קטגוריה:אורוגוואי
+Utah	יוטה
+Utah	קטגוריה:יוטה
+Uterus	רחם
+Utilitarianism	תועלתנות
+Utopia	אוטופיה
+Utrecht (city)	אוטרכט
+Uttar Pradesh	אוטר פראדש
+Uzbekistan	אוזבקיסטן
+Uzbekistan	קטגוריה:אוזבקיסטן
+V	V
+Vaccine	חיסון
+Vacuole	חלולית
+Vacuum	ריק
+Vacuum tube	שפופרת ריק
+Vaduz	ואדוץ
+Vagina	נרתיק
+Valence (chemistry)	ערכיות
+Valencia	ולנסיה
+Valencia	ולנסיה (פירושונים)
+Valentina Tereshkova	ולנטינה טרשקובה
+Valentine's Day	יום ולנטיין
+Valhalla	ואלהלה
+Valkyrie	ולקיריה
+Valletta	ולטה
+Valley	עמק
+Vampire	ערפד
+Vanadium	ונדיום
+Vancouver	ונקובר
+Vancouver Island	ונקובר (אי)
+Vandalism	ונדליזם
+Vanir	ואניר
+Vanuatu	ונואטו
+Vanuatu	קטגוריה:ונואטו
+Variance	שונות
+Varna	ורנה
+Vascular plant	וסקולאריים
+Vatican City	קריית הוותיקן
+Vatican City	קטגוריה:קריית הוותיקן
+Vector (spatial)	וקטור (פיזיקה)
+Vega	וגה
+Vegetable	ירק
+Vegetarianism	צמחונות
+Vein	וריד
+Vela (constellation)	מפרש (קבוצת כוכבים)
+Velociraptor	ולוצירפטור
+Velocity	מהירות
+Veneto	ונטו
+Venezuela	ונצואלה
+Venezuela	קטגוריה:ונצואלה
+Venice	ונציה
+Venus	נוגה
+Venus (disambiguation)	ונוס (פירושונים)
+Venus (mythology)	ונוס
+Verb	פועל
+Vermont	ורמונט
+Vermont	קטגוריה:ורמונט
+Verona	ורונה
+Versailles	ורסאי
+Vertebra	חוליה (אנטומיה)
+Vertebral column	עמוד השדרה
+Vertebrate	בעלי חוליות
+Vespasian	אספסיאנוס
+Vesta (mythology)	וסטה
+Veto	וטו
+Vice President of the United States	סגן נשיא ארצות הברית
+Victor Hugo	ויקטור הוגו
+Victoria	ויקטוריה (סיישל)
+Victoria	ויקטוריה (קולומביה הבריטית)
+Victoria	ויקטוריה (פירושונים)
+Victoria (Australia)	ויקטוריה (אוסטרליה)
+Victoria Falls	מפלי ויקטוריה
+Video	וידאו
+Video game	משחק וידאו
+Vienna	וינה
+Vienna	קטגוריה:וינה
+Vientiane	ויינטיאן
+Vietnam	וייטנאם
+Vietnam	קטגוריה:וייטנאם
+Vietnam War	מלחמת וייטנאם
+Viking	ויקינגים
+Vilfredo Pareto	וילפרדו פארטו
+Village	כפר
+Vilnius	וילנה
+Vincent van Gogh	וינסנט ואן גוך
+Vincenzo Bellini	וינצ'נצו בליני
+Vinegar	חומץ
+Viola	ויולה
+Violence	אלימות
+Violin	כינור
+Virgil	ורגיליוס
+Virgin Islands	איי הבתולה
+Virginia	וירג'יניה
+Virginia	קטגוריה:וירג'יניה
+Virginia Woolf	וירג'יניה וולף
+Virginity	בתולה
+Virgo (constellation)	בתולה (קבוצת כוכבים)
+Virtual memory	זיכרון וירטואלי
+Virtual reality	מציאות מדומה
+Virus	נגיף
+Viscosity	צמיגות
+Vishnu	וישנו
+Vistula	ויסלה
+Vitamin	ויטמין
+Vitamin A	ויטמין A
+Vitamin B6	ויטמין B6
+Vitamin C	ויטמין C
+Vitamin D	ויטמין D
+Vitamin K	ויטמין K
+Vittorio De Sica	ויטוריו דה סיקה
+Vitus Bering	ויטוס ברינג
+Vivien Leigh	ויוויאן לי
+Vladimir Lenin	ולדימיר איליץ' לנין
+Vladimir Nabokov	ולדימיר נבוקוב
+Vladimir Putin	ולדימיר פוטין
+Vladivostok	ולדיווסטוק
+Vodka	וודקה
+Volans	דג מעופף (קבוצת כוכבים)
+Volcano	הר געש
+Volcanology	קטגוריה:וולקנולוגיה
+Volcanology	וולקנולוגיה
+Volga River	וולגה
+Volgograd	וולגוגרד
+Volleyball	כדורעף
+Volleyball	קטגוריה:כדורעף
+Volt	וולט
+Voltage	מתח חשמלי
+Voltaire	וולטיר
+Volume	נפח
+Vomiting	הקאה
+Voodoo	וודו
+Vowel	תנועה (פונולוגיה)
+Vulgate	וולגטה
+Vulpecula	שועלון (קבוצת כוכבים)
+Vulva	פות
+W	W
+W. Somerset Maugham	סומרסט מוהם
+WYSIWYG	WYSIWYG
+Wahhabism	והאביה
+Wake Island	וייק (אי)
+Wales	ויילס
+Wales	קטגוריה:ויילס
+Walrus	ניבתן
+Walt Disney	וולט דיסני
+Walt Whitman	וולט ויטמן
+Walter Gropius	ואלטר גרופיוס
+Walter Scott	וולטר סקוט
+War	מלחמה
+War crime	פשע מלחמה
+War of the Spanish Succession	מלחמת הירושה הספרדית
+Wars of the Roses	מלחמות השושנים
+Warsaw	ורשה
+Wart	יבלת עור
+Washing machine	מכונת כביסה
+Washington	וושינגטון די. סי.
+Washington	וושינגטון (מדינה)
+Washington	קטגוריה:וושינגטון (מדינה)
+Washington (disambiguation)	וושינגטון (פירושונים)
+Wassily Kandinsky	ואסילי קנדינסקי
+Waste	פסולת
+Water	מים
+Water	קטגוריה:מים
+Water polo	כדורמים
+Waterfall	מפל מים
+Watergate scandal	פרשת ווטרגייט
+Watermelon	אבטיח
+Watt	ואט
+Watt-hour	ואט-שעה
+Wave	גל
+Wavelength	גל
+Wax	שעווה
+Weak interaction	הכוח הגרעיני החלש
+Weapon	כלי נשק
+Weather	מזג אוויר
+Web browser	דפדפן
+Web page	דף אינטרנט
+Webcam	מצלמת אינטרנט
+Weber (unit)	ובר (יחידת מידה)
+Website	אתר אינטרנט
+Wednesday	יום רביעי
+Week	שבוע
+Weight	משקל (פיזיקה)
+Weightlifting	הרמת משקולות
+Weimar	ויימאר
+Weimar Republic	רפובליקת ויימאר
+Welding	ריתוך
+Wellington	ולינגטון (ניו זילנד)
+Werewolf	איש זאב
+Wernher von Braun	ורנר פון בראון
+Weser River	וזר
+West	מערב
+West Bank	יהודה ושומרון
+West Bengal	מערב בנגל
+West Berlin	ברלין המערבית
+West Germany	גרמניה המערבית
+West Virginia	וירג'יניה המערבית
+Western Australia	אוסטרליה המערבית
+Western Roman Empire	הקיסרות הרומית המערבית
+Western Sahara	סהרה המערבית
+Westminster Abbey	מנזר וסטמינסטר
+Whale	לווייתנאים
+Wheat	חיטה
+Wheel	גלגל
+Whisky	ויסקי
+White House	הבית הלבן
+White Sea	הים הלבן
+White blood cell	תא דם לבן
+White dwarf	ננס לבן
+Wicca	ויקה
+Wide area network	רשת אזורית
+Wiesbaden	ויסבאדן
+Wildcat	חתול בר
+Wilhelm Ostwald	וילהלם אוסטוולד
+Will (law)	צוואה
+William Blake	ויליאם בלייק
+William Butler Yeats	ויליאם בטלר ייטס
+William Faulkner	ויליאם פוקנר
+William Gladstone	ויליאם גלאדסטון
+William Golding	ויליאם גולדינג
+William Harvey	ויליאם הארווי
+William Henry Harrison	ויליאם הנרי הריסון
+William Herschel	ויליאם הרשל
+William Howard Taft	ויליאם האוורד טאפט
+William I	וילהלם הראשון, קיסר גרמניה
+William II	וילהלם השני, קיסר גרמניה
+William James	ויליאם ג'יימס
+William McKinley	ויליאם מקינלי
+William Rowan Hamilton	ויליאם רואן המילטון
+William Shakespeare	ויליאם שייקספיר
+William Wordsworth	ויליאם וורדסוורת'
+William of Ockham	ויליאם איש אוקאם
+Willow	ערבה (צמח)
+Willy Brandt	וילי ברנדט
+Wind instrument	כלי נשיפה
+Wind power	אנרגיית רוח
+Windhoek	וינדהוק
+Windmill	טחנת רוח
+Window	חלון
+Wine	יין
+Wine	קטגוריה:יין
+Winnipeg	ויניפג
+Winston Churchill	וינסטון צ'רצ'יל
+Winter	חורף
+Winter Olympic Games	משחקי החורף האולימפיים
+Wisconsin	ויסקונסין
+Wisconsin	קטגוריה:ויסקונסין
+Wolfgang Amadeus Mozart	וולפגנג אמדאוס מוצרט
+Wolfgang Pauli	וולפגנג פאולי
+Woman	אישה
+Wood	עץ (חומר גלם)
+Woodrow Wilson	וודרו וילסון
+Woodwind instrument	כלי נשיפה מעץ
+Woody Allen	וודי אלן
+Word	מלה
+Word processor	מעבד תמלילים
+World Bank	הבנק העולמי
+World Health Organization	ארגון הבריאות העולמי
+World Meteorological Organization	הארגון המטאורולוגי העולמי
+World Trade Center	מגדלי התאומים
+World Trade Organization	ארגון הסחר העולמי
+World War I	מלחמת העולם הראשונה
+World War I	קטגוריה:מלחמת העולם הראשונה
+World War II	מלחמת העולם השנייה
+World War II	קטגוריה:מלחמת העולם השנייה
+World Wide Web	World Wide Web
+World war	מלחמת עולם
+Worm	תולעים
+Wormhole	חור תולעת
+Writer	סופר
+Writing system	כתב
+Wyoming	ויומינג
+Wyoming	קטגוריה:ויומינג
+X	X
+X-ray	קרני רנטגן
+Xenarthra	דלשינאים
+Xenon	קסנון
+Xenophanes	קסנופנס
+Xenophobia	שנאת זרים
+Xenophon	קסנופון
+Xi	קסי
+Xinjiang	שינג'יאנג
+Xylophone	קסילופון
+Y	Y
+Yahweh	השם המפורש
+Yak	יאק
+Yakuza	יאקוזה
+Yale University	אוניברסיטת ייל
+Yalta Conference	ועידת יאלטה
+Yangon	יאנגון
+Yangtze River	יאנגטסה
+Yasser Arafat	יאסר ערפאת
+Year	שנה
+Years	קטגוריה:שנים
+Yeast	שמרים
+Yellow	צהוב
+Yellow River	הנהר הצהוב
+Yellow Sea	הים הצהוב
+Yellowstone National Park	הפארק הלאומי ילוסטון
+Yemen	תימן
+Yemen	קטגוריה:תימן
+Yenisei River	יניסיי
+Yerevan	ירוואן
+Yo-yo	יו-יו
+Yoga	יוגה
+Yoghurt	יוגורט
+Yoko Ono	יוקו אונו
+Yokohama	יוקוהמה
+Yom Kippur	יום הכיפורים
+Yom Kippur War	מלחמת יום הכיפורים
+York	יורק
+Yosemite National Park	הפארק הלאומי יוסמיטי
+Young's modulus	מודול האלסטיות
+Ytterbium	איטרביום
+Yttrium	איטריום
+Yugoslavia	יוגוסלביה
+Yugoslavia	קטגוריה:יוגוסלביה
+Yukon	יוקון
+Yunnan	יונאן
+Yuri Gagarin	יורי גגארין
+Z	Z
+Zachary Taylor	זכארי טיילור
+Zagreb	זאגרב
+Zambezi	זמבזי
+Zambia	זמביה
+Zanzibar	זנזיבר
+Zaragoza	סרגוסה
+Zebra	זברה
+Zen	זן בודהיזם
+Zenith	זנית
+Zeno of Citium	זנון מקיטיון
+Zeno of Elea	זנון מאלאה
+Zeta	זטא
+Zeus	זאוס
+Zeus (disambiguation)	זאוס
+Zimbabwe	זימבבואה
+Zimbabwe	קטגוריה:זימבבואה
+Zinc	אבץ
+Zionism	ציונות
+Zirconium	זירקוניום
+Zodiac	גלגל המזלות
+Zombie	זומבי
+Zoo	גן חיות
+Zoology	זואולוגיה
+Zoology	קטגוריה:זואולוגיה
+Zoroaster	זרתוסטרה
+Zoroastrianism	זורואסטריות
+Zulu	זולו

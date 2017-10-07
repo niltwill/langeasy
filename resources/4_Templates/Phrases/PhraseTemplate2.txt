@@ -1,0 +1,352 @@
+Yes
+No
+Do you understand
+Yes, I understand
+No, I don't understand
+Do you understand English?
+One more time, please
+Slowly please
+Menu please
+One moment, please
+
+I'm from ...
+What nationality are you?
+What nationality is he/she?
+I am a student.
+We are students.
+We came here to study.
+Who is the teacher of the class?
+Do you work here?
+Could you please tell me ...?
+
+His name is ...
+What is your name?
+What is her name?
+What is your job?
+Who is that person?
+Who are those people?
+Who is his girlfriend?
+Who is her boyfriend?
+Whose pen is this?
+Whose friend is he?
+It's not his family's book.
+
+What time is it now?
+When is breakfast?
+When is check-out time?
+When is your birthday?
+What day is today?
+
+How long does it take?
+How many hours to ... ?
+How many days to stay in ... ?
+
+What time to go bed at night?
+Did you eat lunch?
+Have you met her this morning?
+Will your friend come tonight?
+What happened two hours before?
+
+I studied ...
+
+Where is this?
+Where is the station?
+To where do you go?
+From where does the bus depart?
+
+You turn right at the 3rd crossing.
+Go straight this way about 50m.
+Turn left at the T-junction.
+It is on the right-hand side of the street.
+
+Is this bound for ...?
+What time is the next one to ...?
+Which platform is the train to ...?
+Is it full?
+
+Does this bus stop at ...?
+Express train does not stop at that station.
+At where do I change?
+
+How long does it take on foot?
+About 15 minutes by bus.
+How long did it took by train?
+Is it near?
+Is it far?
+
+I want to go to ...
+I want to get on the 8 o'clock bus.
+I want to send a package at the post office.
+What do you want to eat?
+
+I want to exchange money at the bank.
+I want to make a phone call to overseas.
+Do you want to do shopping in ...?
+What do you want to do?
+
+Can you write here?
+Can you take a photo?
+Can you tell the address?
+Can you do the cleaning?
+
+Do you have a single room?
+Double rooms are full.
+Dormitory room is for 4 persons.
+In twin rooms, there are 2 beds.
+
+How long will you stay?
+I'll stay for a night only.
+I'll stay for 3 days.
+I'll stay 2 nights.
+I'll stay one more night.
+
+How much for a night?
+Breakfast included?
+Is there a fare for a child?
+When should I pay?
+
+Is there a shower in the room?
+Toilet and shower are shared.
+There are coin-washers on the 3rd floor.
+Where is the switch of the air conditioner?
+
+Which is the cheapest room?
+Can you show me the room?
+Do you have a bigger room?
+The 3rd floor is quieter than the 1st floor.
+I'll take this room.
+
+Can I take your order?
+Order please.
+3 tendon please.
+
+What is it?
+Fish is not in it.
+What's the taste like?
+
+Where is this?
+I don't eat meat and seafood.
+Egg and dairy products are OK.
+Can you cook only with vegetables?
+
+How about drinks?
+Yes, 2 coffee please.
+No, thanks.
+All right. Please wait or a moment.
+
+Is take-away possible?
+Is it possible to have extra large helping?
+We are sorry. We can not do the home delivery.
+
+Can I use credit card?
+Cash only.
+Can I pay?
+Thank you. Please come again.
+
+Where can I buy electric appliances?
+Is there a convenience store nearby?
+What time does the pharmacy close?
+Does that store have a variety of products?
+
+Are you looking for something?
+I'm looking for second-hand computers.
+Where's the camera section?
+Watch section is on the 3rd floor.
+
+Can this also be used in foreign countries?
+What is this made of?
+What is the material?
+100% cotton.
+
+Can I try this on?
+Can I back order?
+Can you do alteration?
+Can I return?
+
+How is it?
+Little small.
+It fits. I'll take this.
+Little short.
+
+Do you have a little smaller size?
+L size is out of stock.
+How long does it take for back order?
+
+Do you have a little lighter color?
+Do you have other patterns?
+Do you have other colors?
+Do you have other brands?
+Do you have something similar to this?
+
+Batteries included?
+Half year warranty is included.
+Instructions in English is not included.
+
+Can it be a little cheaper?
+Can it be cheaper if I bought two?
+How much in total?
+Then I'll take it.
+Then, no thanks.
+
+That was good.
+That was funny.
+That was boring.
+That was delicious.
+That wasn't beautiful.
+That was difficult.
+That was effortless.
+
+I like ...
+I don't like ...
+I'm glad.
+I was sad.
+It's fun.
+It wasn't fun.
+I got angry.
+I didn't get angry.
+I feel lonely.
+I didn't feel lonely.
+I was surprised.
+
+It's very hot.
+It's hot.
+It's a little hot.
+It's not so hot.
+It's not hot.
+It's not hot at all.
+
+It was cold.
+It's warm.
+It was cool.
+It's clean.
+It was dirty.
+It's quiet.
+It was noisy.
+
+Are you well?
+I'm not feeling good.
+Are you tired?
+I'm not tired.
+Are you hungry?
+I'm full.
+Are you thirsty?
+I want to drink something.
+Are you busy?
+I have time to spare.
+
+Are you good at cooking?
+I'm bad at cooking.
+
+Why don't we eat out together some time?
+Yes, I'd like to go.
+Why don't we watch DVD together tonight?
+Yes, sounds good.
+Why don't we go out together tomorrow?
+Some other time.
+Let's play a game.
+I'm a little busy.
+
+How are you?
+Are you well?
+Yes, I'm well
+No, I'm not well
+Yes, I'm very well
+So so
+Fine, thank you
+
+What is your name?
+My name is ...
+Nice to meet you
+Please
+Thank you
+Thank you very much
+Thanks
+You are welcome
+Excuse me
+I am sorry
+
+Hello / Hi
+Goodbye
+Good morning
+Good afternoon
+Good day
+Good evening
+Good night
+See you
+See you tomorrow
+See you next week
+
+I'm sick.
+I've been injured.
+I need a doctor.
+Call the ambulance.
+
+Can you wake me at ...?
+How much it costs for a night?
+
+Help!
+I'll call the police
+Police!
+I need help.
+It's an emergency.
+I'm lost.
+I lost my bag/purse/handbag.
+I lost my wallet.
+Am I under arrest?
+I want to talk to a lawyer.
+
+What's this?
+What is it?
+What's that?
+What time is it?
+What time is the departure?
+What time is the arrival?
+Where is it?
+Where is the bathroom/toilet/WC?
+Can I use your phone?
+Do you have? Is there?
+Do you have vegetarian dishes?
+Is there an internet cafe?
+How much is it?
+How much is a double room?
+Why is it?
+Are you all right?
+Yes, I'm all right.
+
+Can I look at the menu, please?
+I'm a vegetarian.
+I don't eat pork.
+I only eat kosher food.
+May I have a glass of ...?
+May I have a cup of ...?
+May I have a bottle of ...?
+Excuse me, waiter?
+It was delicious.
+The check, please.
+Do you serve alcohol?
+Is there table service?
+A beer/two beers, please.
+A glass of red/white wine.
+One more, please.
+
+Do you accept credit cards?
+Can you change money for me?
+What is the exchange rate?
+Where is an automatic teller machine (ATM)?
+How much is this?
+That's too expensive. 
+I can't afford it.
+I don't want it.
+OK, I'll take it.
+Can I have a bag?
+
+How much is a ticket to ...?
+One ticket to ..., please.
+Where does this train/bus go?
+Does this train/bus stop in ...?
+When does the train/bus for ... leave?
+How do I get to ... ?
+Can you show me on the map?
+I want to rent a car.
+
+Good luck / Success

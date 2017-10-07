@@ -1,0 +1,7 @@
+Portuguese	﻿English
+e	and
+porque	because
+pois	for
+se	if
+ou	or
+do que	than

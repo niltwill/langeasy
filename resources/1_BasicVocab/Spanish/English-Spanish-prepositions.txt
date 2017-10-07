@@ -1,0 +1,19 @@
+﻿English	Spanish
+against	contra
+among	en medio de
+at	a
+at	a
+beside	además de
+during	durante
+for	para
+from	de
+from	de
+into	en
+of	de
+on	sobre
+on	sobre
+since	desde
+to	por
+with	con
+with	con
+without	sin

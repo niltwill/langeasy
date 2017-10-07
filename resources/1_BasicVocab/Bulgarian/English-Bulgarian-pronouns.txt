@@ -1,0 +1,29 @@
+﻿English	Bulgarian
+everybody	всеки
+everything	всичко
+he	той
+her	неин
+herself	себе си
+him	него
+his	негов
+it	то
+me	мен
+my	мой
+our	наш
+she	тя
+their	техен
+them	тях
+they	те
+this	ето (eto), това (tova)
+us	нас
+we	ние
+what	какво
+when	кога (kogá)
+which	кой (koj)
+which	кой (koj)
+who	кой
+whom	кого
+whose	чий (čij)
+you	ти (ti), ви (vi)
+your	твой (tvoj), ваш (vaš)
+yourself	себе си

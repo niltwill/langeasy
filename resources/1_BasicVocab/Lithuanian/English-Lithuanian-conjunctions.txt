@@ -1,0 +1,8 @@
+﻿English	Lithuanian
+and	ir
+because	kadangi
+for	nes
+if	jei
+or	ar
+than	nei
+until	iki

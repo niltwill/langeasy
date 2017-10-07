@@ -1,0 +1,245 @@
+﻿English	Polish
+be	być
+begin	zaczynać
+break	łamać
+buy	kupić
+close	zamykać
+come	przyjść
+cut	ciąć
+dance	tańczyć
+do	używać
+draw	rysować
+drink	pić
+eat	jeść
+fall	padać
+find	znajdować
+fire	wystrzelić
+fly	latać
+follow	nastąpić po
+forget	zapominać
+get	dostać
+give	dać
+have	mieć
+hear	słyszeć
+help	pomagać
+hope	mieć nadzieję
+jump	posuwać się skokami
+kiss	całować
+laugh	śmiać się
+learn	uczyć się
+lie	położyć się
+lie	kłamać
+like	lubić
+listen	słuchać
+look	patrzeć
+lose	stracić
+love	kochać
+make	robić
+meet	natknąć się na
+move	ruszać
+need	potrzebować
+offer	zaproponować
+open	otworzyć
+pay	płacić
+play	bawić się
+pull	ciągnąć
+push	pchać
+put	położyć
+read	czytać
+remember	przypominać sobie
+run	biegać
+say	mówić
+sell	sprzedawać
+sing	śpiewać
+sit	siedzieć
+smile	uśmiechać się
+take	brać
+talk	mówić
+understand	zrozumieć
+use	używać
+wait	czekać
+write	pisać
+accept	przyjmować
+accuse	oskarżać
+achieve	osiągać
+act	działać
+add	dodawać
+add	dodawać
+admit	uznawać
+affect	wpływać
+agree	zgadzać się
+allow	umożliwić
+announce	ogłaszać
+argue	kłócić
+arrive	przybywać
+ask	pytać
+attack	atakować
+avoid	uniknąć
+be	żyć
+bear	nosić
+beat	pokonać
+become	zostać
+behave	postępować
+believe	wierzyć
+bring	spowodować
+build	budować
+call	telefonować
+carry	przenosić
+cause	sprawiać
+change	zmieniać
+choose	wybierać
+classify	klasyfikować
+clean	czyścić
+compare	porównywać
+contain	zawierać
+continue	kontynuować
+control	kierować
+cook	gotować
+copy	kopiować
+cough	kaszleć
+crush	zmiażdżyć
+cry	płakać
+decide	rozstrzygać
+describe	opisywać
+design	projektować
+desire	chcieć
+develop	wywoływać
+die	umierać
+discover	odkrywać
+discuss	omawiać
+divide	dzielić
+doubt	wątpić
+drive	jechać
+embrace	zawierać
+encourage	zachęcać
+end	skończyć
+enhance	wzmagać
+enter	wchodzić
+establish	założyć
+estimate	oszacować
+exceed	przechodzić
+exist	istnieć
+expect	oczekiwać
+explain	wyjaśniać
+fight	walczyć
+fill	napełniać
+find	wykrywać
+finish	dokończyć
+flush	wyrównywać
+forgive	przebaczyć
+free	wyzwolić
+give	up kapitulować
+grow	rosnąć
+happen	stawać się
+hate	nienawidzieć
+hide	ukrywać
+hold	trzymać
+identify	rozpoznać
+include	obejmować
+increase	zwiększyć
+injure	zranić
+introduce	przedstawić
+join	połączyć
+keep	utrzymywać
+kick	kopnąć
+kill	zabijać
+land	lądować
+last	długo służyć
+lead	prowadzić
+leave	zostawić
+let	pozwolić
+lift	podnieść
+limit	ograniczać
+load	ładować
+look	zdawać się
+lose	stracić
+manage	stać na czele
+marry	poślubić
+match	korespondować
+mean	znaczyć
+mean	zamierzać
+measure	mieć rozmiar
+mention	wspominać
+miss	zmarnować
+miss	chybić
+name	nazywać
+order	kazać
+own	posiadać
+pass	on przekazać
+peel	obierać
+plan	planować
+plow	orać
+poison	otruć
+polish	polerować
+prepare	przygotować
+press	przyciskać się
+prevent	powstrzymać
+print	drukować
+process	poddać obróbce
+profit	zarabiać
+protest	protestować
+prove	dowodzić
+publish	publikować
+raise	wychowywać
+rate	oceniać
+reach	osiągnąć
+receive	otrzymać
+record	nagrać
+reduce	obcinać
+reflect	odbijać
+refuse	odmawiać
+remove	usunąć
+render	odłożyć z powrotem
+replace	zastępować
+reply	odpowiadać na
+report	meldować
+represent	reprezentować
+request	żądać
+respect	szanować
+reveal	ujawniać
+risk	ryzykować
+rule	rządzić
+save	oszczędzać
+save	uratować
+see	widzieć
+see	uważać
+send	wysyłać
+sew	szyć
+share	dzielić
+shout	krzyczeć
+show	pokazywać
+smell	wonieć
+smell	pachnieć
+smell	wdychać
+spend	spędzać
+stand	stać
+stay	pozostać
+steal	kraść
+stop	zatrzymać się
+study	studiować
+suffer	znosić
+suggest	wysunąć
+supply	zaopatrzyć
+support	popierać
+surprise	zadziwić
+taste	kosztować
+teach	kształcić
+test	poddać próbie
+thank	dziękować
+throw	rzucać
+title	zatytułować
+trade	handlować
+train	szkolić
+travel	iść
+treat	traktować
+try	próbować
+turn	skręcić
+visit	odwiedzać
+walk	chodzić
+warm	ogrzewać
+wash	myć
+watch	oglądać
+wear	ubierać się w
+weigh	ważyć
+win	zwyciężyć
+wish	pragnąć

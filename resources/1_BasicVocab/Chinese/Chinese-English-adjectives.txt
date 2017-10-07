@@ -1,0 +1,94 @@
+Chinese	﻿English
+坏的	bad
+美丽的	beautiful
+最好 (zuì háo)	best
+大	big
+冷的	cold
+黑暗的	dark
+沉重	difficult
+迅速	fast
+好的	good
+伟大的	great
+高興 (gāoxìng)	happy
+沉重	heavy
+热	hot
+左	left
+轻的	light
+长 (cháng)	long
+新的	new
+強的, 强的 (qiángde)	strong
+微弱 (wēiruò)	weak
+以前 (yǐqián)	ago
+全部	all
+自动的, 自动的	automatic
+苦的	bitter
+乏味	boring
+双方	both
+中央	central
+確定, 确定 (quèdìng)	certain
+便宜	cheap
+化学的	chemical
+结束	closed
+完全	complete
+野蛮的	cruel
+危險, 危险	dangerous
+不一样	different
+向下	down
+干的	dry
+每	each
+早的	early
+电的	electric
+每一	every
+較遠的 / 较远的 (jiào yuǎn de), 遠 / 远 (yuǎn)	far
+终端	final
+财政的	financial
+平的	flat
+下一个	following
+外國的, 外国的 (wàiguó-de)	foreign
+使自由	free
+頻繁, 频繁	frequent
+充满的	full
+一般	general
+有趣 (yǒuqù), 有意思 (yǒu yìsi)	interesting
+国际	international
+最后的	last
+晚 (wǎn), 迟 (chí)；迟到 (chí dào)	late
+法律的	legal
+当地的	local
+幸运的	lucky
+首要 (shǒuyào), 重要 (zhòngyào)	main
+许多的	many
+軍事	military
+更多	more
+窄的 (zhǎide)	narrow
+国民	national
+无	no
+正常的	normal
+原始的	original
+另外的	other
+自己的	own
+平行	parallel
+个人的	personal
+身体的	physical
+现在的	present
+私人的	private
+可能	probable
+专业的	professional
+公共的	public
+安静	quiet
+有责任的	responsible
+相同的	same
+简单化	simple
+小 (xiǎo)	small
+光滑的	smooth
+特定的 (tèdìng de)	specific
+方	square
+直	straight
+突然的	sudden
+高的 (gāo-de)	tall
+真实的	true
+難看, 难看 (nánkàn)	ugly
+在...下面 (zài...xiàmiàn)	under
+通常 (tōngcháng)	usual
+濕 (shī)	wet
+整個, 整个 (zhěnggè)	whole

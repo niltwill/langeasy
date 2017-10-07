@@ -1,0 +1,214 @@
+Russian	﻿English
+другой	another
+плохой	bad
+основной	basic
+красивый	beautiful
+лучший	best
+лучший	better
+крупный, большой	big
+чистый	clean
+холодный	cold
+правильный	correct
+тёмный	dark
+глубокий	deep
+трудный	difficult
+грязный	dirty
+быстрый	fast
+хороший, хорошо	good
+большой, великий	great
+замечательный	great
+счастливый	happy
+здоровый	healthy
+трудный	heavy
+высокий	high
+горячий	hot
+важный	important
+левый	left
+лёгкий	light
+малый	little
+длинный	long
+близкий, недалёкий	near
+новый	new
+красивый, хороший	nice
+открытый	open
+действительный	real
+правый	right
+острый	sharp
+подобный	similar
+медленный	slow
+мягкий	soft
+сильный	strong
+слабый	weak
+неправильный	wrong
+кислый	acid
+после, потом	after
+перед	ago
+все, бсё	all
+любой	any
+автоматический	automatic
+доступный	available
+горький	bitter
+нудный	boring
+обе	both
+светлый	bright
+разбитый	broken
+центральный	central
+верный	certain
+дешевый	cheap
+химический	chemical
+явный	clear
+закрытый	closed
+цветной	color
+обычный	common
+совместный	common
+комплектный	complete
+сознающий	conscious
+жестокий	cruel
+современный	current
+опасный	dangerous
+деликатный, щекотливый	delicate
+грустный	deplorable
+другой	different
+другой	different
+непохожий	different
+понизу	down
+сухой	dry
+каждый	each
+ранний, скорый	early
+лёгкий	easy
+экономический	economic
+экономический	economic
+электрический	electric
+равный, одинаковый	equal
+чётный	even
+ровный	even
+каждый	every
+замечательный	excellent
+фальшивый	fake
+неправильный	false
+далёкий	far
+толстый	fat
+жирный	fat
+немного, мало	few
+конечный	final
+финансовый	financial
+твёрдый, жёсткий	firm
+первый	first
+данный, установленный	fixed
+плоский	flat
+следующий	following
+иностранный	foreign
+бывший	former
+хрупкий	fragile
+бесплатный	free
+частый	frequent
+свежий	fresh
+передний	front
+полный	full
+весь, целый	full
+дальше	further
+будущий	future
+всеобщий, общий	general
+честный	good
+промышленный, индустриальный	industrial
+интересный	interesting
+международный	international
+прошлый	last
+опоздавший	late
+законный	legal
+диетический	light
+жидкий	liquid
+местный	local
+громкий	loud
+низкий, невысокий	low
+счастливый	lucky
+главный	main
+главный	major
+много	many
+металлический	metal
+военный	military
+небольшой	minute
+современный	modern
+более, болше	more
+много	much
+узкий	narrow
+национальный, народный	national
+натуральный	natural
+необходимый	necessary
+соседний	next
+никакой, никто	no
+нормальный	normal
+выключенный	off
+включённый	on
+противоположный	opposite
+исходный, оригинальный	original
+другой	other
+свой	own
+параллельный	parallel
+определённый	particular
+прошлый	past
+личный	personal
+телесный, физический	physical
+политический	political
+жалкий, жалобный	poor
+популярный	popular
+возможный	possible
+современный, настойащий	present
+предыдущий	previous
+скромный	private
+вероятный	probable
+профессиональный	professional
+общественный	public
+тихий	quiet
+готовый, приготовленный	ready
+недавний	recent
+регулярный	regular
+ответственный	responsible
+жёсткий, негнущийся	rigid
+грубый	rough
+круглый	round
+обеспеченный	safe
+одинаковый	same
+второй	second
+секретный	secret
+отдельный	separate
+серьёзный	serious
+установленный	set
+несколько	several
+короткий	short
+тихий	silent
+серебряный	silver
+простой	simple
+единственный	single
+маленький	small
+гладкий	smooth
+общественный	social
+жёсткий	solid
+редкий	sparse
+особенный	special
+специфический	specific
+квадратный	square
+щепетильный	squeamish
+стандартный	standard
+клейкий	sticky
+прямой	straight
+странный	strange
+элегантный	stylish
+неожиданный	sudden
+сладкое	sweet
+высокий	tall
+густой	thick
+узкий	thin
+тесный	tight
+правильный	true
+безобразный, некрасивый	ugly
+нижний	under
+необыкновенный, необычный	unusual
+подержанный	used
+полезный, пригодный	useful
+обычный	usual
+обычный	usual
+различный	various
+тёплый	warm
+мокрый	wet
+весь, целый	whole

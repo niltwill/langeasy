@@ -1,0 +1,991 @@
+Czech	﻿English
+černý	black
+modrý	blue
+hnědý	brown
+šedý	gray
+zelený	green
+oranžový	orange
+růžový	pink
+červený, rudý	red
+fialový	violet
+bílý	white
+žlutý, žloutkově žlutý	yellow
+pár	couple
+osm	eight
+osmnáct	eighteen
+osmdesát	eighty
+jedenáct	eleven
+patnáct	fifteen
+padesát	fifty
+pět	five
+čtyřicet	forty
+čtyři	four
+čtrnáct	fourteen
+sto	hundred
+milion, milión	million
+devět	nine
+devatenáct	nineteen
+devadesát	ninety
+nic, nula	nothing
+jeden	one
+sedm	seven
+sedmnáct	seventeen
+sedmdesát	seventy
+šest	six
+šestnáct	sixteen
+šedesát	sixty
+deset	ten
+třetí	third
+třináct	thirteen
+třicet	thirty
+tisíc	thousand
+tisíc	thousand
+tři	three
+dvacet	twenty
+dvě	two
+paže, ruka	arm
+záda, hřbet	back
+zobák	beak
+krev	blood
+trup, tělo	body
+kost	bone
+mozek	brain
+dech	breath
+buňka	cell
+hruď	chest
+hrudník, hruď	chest
+brada	chin
+ucho	ear
+oko	eye
+tvář, obličej	face
+prst	finger
+chodidlo	foot
+čelo	forehead
+gen	gene
+vlasy	hair
+chlup, vlas	hair
+ruka	hand
+hlava	head
+srdce	heart
+koleno	knee
+noha	leg
+pysk, ret	lip
+ústa, pusa	mouth
+sval	muscle
+nehet	nail
+krk	neck
+nerv	nerve
+nos	nose
+kůže, pleť	skin
+žaludek	stomach
+ocas, ohon	tail
+hrdlo	throat
+palec	thumb
+prst	toe
+jazyk	tongue
+zub	tooth
+křídlo	wing
+mravenec	ant
+medvěd	bear
+včela	bee
+pták	bird
+kočka	cat
+kráva	cow
+pes	dog
+slon	elephant
+ryba	fish
+moucha	fly
+koza	goat
+kůň	horse
+hmyz	insect
+lev	lion
+opice	monkey
+svině, prase	pig
+ovce	sheep
+had	snake
+dítě, miminko	baby
+narození, zrození	birth
+narozeniny	birthday
+kluk, chlapec	boy
+bratr	brother
+dítě	child
+dcera	daughter
+úmrtí, smrt	death
+rodina	family
+otec	father
+přítel, kamarád	friend
+dívka, děvče	girl
+dědeček, děda	grandfather
+člověk, jedinec	human
+manžel	husband
+život	life
+muž, chlap	man
+manželství	marriage
+matka	mother
+soused	neighbor
+rodič	parent
+jedinec, člověk	person
+příbuzenský vztah	relationship
+sestra	sister
+syn	son
+svatba	wedding
+svatba, sňatek	wedding
+manželka, žena	wife
+žena	woman
+pivo	beer
+káva	coffee
+nápoj, pití	drink
+mléko	milk
+mléčný koktejl	milkshake
+čaj	tea
+voda	water
+víno	wine
+chléb, chleba	bread
+snídaně	breakfast
+máslo	butter
+zákusek, koláč	cake
+sýr	cheese
+čokoláda	chocolate
+vejce	egg
+potravina, potrava	food
+ovoce, plod	fruit
+oběd	lunch
+jídlo, pokrm	meal
+maso	meat
+olej	oil
+rýže	rice
+salát	salad
+sůl	salt
+sendvič	sandwich
+omáčka	sauce
+polévka	soup
+cukr	sugar
+sladkost	sweet
+jablko	apple
+meruňka	apricot
+banán	banana
+ostružina	blackberry
+třešeň	cherry
+citrón, citron	lemon
+ořech	nut
+pomeranč	orange
+broskev	peach
+hruška	pear
+ananas	pineapple
+bluma, slíva	plum
+malina	raspberry
+jahoda	strawberry
+fazole, bob	bean
+kapusta, zelí	cabbage
+mrkev, karotka	carrot
+okurka	cucumber
+česnek	garlic
+oliva	olive
+cibule	onion
+pastiňák	parsnip
+hrách	pea
+brambor, brambora	potato
+ředkvička	radish
+rajské jablíčko, rajče	tomato
+adresa	address
+koupelna	bathroom
+ložnice	bedroom
+cihla	brick
+dveře	door
+podlaha, zem	floor
+patro, podlaží	floor
+garáž	garage
+zahrada	garden
+brána	gate
+hala, vestibul	hall
+domov, bydliště	home
+dům	house
+kuchyně, kuchyň	kitchen
+střecha	roof
+místnost, pokoj	room
+sprcha	shower
+schod	step
+záchod, WC	toilet
+stěna, zeď	wall
+studna	well
+okno	window
+lůžko, postel	bed
+koberec	carpet
+židle	chair
+skříň	cupboard
+závěs, opona	curtain
+psací stůl	desk
+nábytek	furniture
+křeslo	seat
+police	shelf
+dřez	sink
+stůl, stolek	table
+kabelka	bag
+bota	boot
+látka, tkanina	cloth
+oblečení	clothing
+kabát	coat
+límec	collar
+klobouk	hat
+kabát, bunda	jacket
+skvost, klenot	jewel
+prsten	ring
+košile	shirt
+střevíc, bota	shoe
+sukně	skirt
+ponožka	sock
+kufr	suitcase
+kravata, vázanka	tie
+herec	actor
+herečka	actress
+obchodník	businessman
+expert	expert
+generál	general
+žurnalista, novinář	journalist
+soudce	judge
+vůdce, vedoucí	leader
+ministr	minister
+muzikant, hudebník	musician
+fotograf	photographer
+pilot	pilot
+policista	policeman
+politik	politician
+prezident	president
+profesionál, odborník	professional
+zástupce	representative
+námořník	sailor
+vědec	scientist
+sekretářka	secretary
+služebník, sluha	servant
+voják, vojín	soldier
+spisovatel	writer
+letiště	airport
+banka	bank
+most	bridge
+stavba, budova	building
+hlavní město	capital
+hrad	castle
+kostel, chrám	church
+kino, biograf	cinema
+velkoměsto, metropole	city
+továrna	factory
+byt	flat
+nemocnice, ošetřovna	hospital
+hotel	hotel
+knihovna	library
+park	park
+vězení	prison
+restaurace	restaurant
+silnice, cesta	road
+škola	school
+stanice	station
+ulice	street
+konstrukce, stavba	structure
+podzemní dráha, metro	subway
+supermarket	supermarket
+divadlo	theater
+město	town
+univerzita	university
+vesnice	village
+nehoda	accident
+člun	boat
+autobus	bus
+auto, automobil	car
+zatáčka	curve
+rychlík	express
+létání, let	flight
+jízda, cesta	journey
+cestující, pasažér	passenger
+letadlo, letoun	plane
+loď	ship
+smyk	skid
+kolej, kolejnice	track
+vlak	train
+doprava, přeprava	transport
+vzduch, ovzduší	air
+zvíře, živočich	animal
+větev	branch
+evoluce, vývoj	evolution
+farma, statek	farm
+pole, lán	field
+oheň, plamen	fire
+květina	flower
+les	forest
+tráva	grass
+list, listí	leaf
+život	life
+blesk	lightning
+vlhkost, vláha	moisture
+příroda	nature
+rostlina	plant
+kořen	root
+pohlaví	sex
+obloha	sky
+spánek	sleep
+vůně, zápach	smell
+kouř, dým	smoke
+zřídlo, pramen	spring
+lodyha, stéblo	stem
+proud	stream
+strom	tree
+vlna	wave
+počasí	weather
+svět	world
+břeh	bank
+pláž	beach
+tok, proud	current
+směr	direction
+Země	Earth
+východ	east
+výška	height
+pahorek, kopec	hill
+ostrov	island
+jezero	lake
+pevnina, souš	land
+mapa	map
+měsíc	Moon
+sever	north
+rovina	plain
+krajina, region	region
+řeka	river
+moře	sea
+jih	south
+vesmír	space
+hvězda	star
+slunce	sun
+západ	west
+kyselina	acid
+chemikálie	chemical
+element prvek	chemical
+uhlí	coal
+bavlna	cotton
+prach	dust
+zemina, půda	earth
+tuk	fat
+sklo	glass
+klíh, lep	glue
+zrnko	grain
+led	ice
+železo	iron
+kůže, useň	leather
+tekutina, kapalina	liquid
+hmota, látka	matter
+element kov	metallic
+ropa	oil
+jed	poison
+prach, prášek	powder
+písek	sand
+hedvábí	silk
+mýdlo	soap
+ocel	steel
+dřevo	wood
+vlna	wool
+pytel, vak	bag
+košík	basket
+láhev	bottle
+krabice, bedna	box
+plechovka, konzerva	can
+šálek, hrneček	cup
+zásuvka, šuplík	drawer
+obálka	envelope
+sklenice, sklenička	glass
+talíř	plate
+kamera	camera
+fotoaparát, foťák	camera
+phone mobilní telefon, mobil	cellular
+hodiny	clock
+počítač	computer
+elevátor, výtah	elevator
+motor	engine
+nástroj, instrument	instrument
+stroj	machine
+trouba, pec	oven
+televize	television
+hodinky	watch
+sčítání	addition
+úhel	angle
+prostor, plocha	area
+střed	center
+kruh	circle
+křivka	curve
+stupeň	degree
+úroveň, stupeň	degree
+rozdíl	difference
+vzdálenost	distance
+segmentace, rozdělení	division
+hrana	edge
+prvek, element	element
+funkce	function
+polovice, polovička	half
+limit, hranice	limit
+linie, čára	line
+síť	net
+pořádek	order
+vnějšek	outside
+procento	percent
+tečka, bod	point
+funkce, účel	purpose
+výsledek	result
+odmocnina	root
+pravidlo	rule
+množina	set
+strana	side
+čtverec	square
+druhá mocnina, kvadrát	square
+nahrazení, substituce	substitution
+povrch	surface
+součet, suma	total
+schopnost	ability
+čin, skutek	act
+čin	action
+aktivita, činnost	activity
+přídavek, dodatek	addition
+množství	amount
+útok	attack
+námaha, úsilí	attempt
+stanovisko	attitude
+zadní strana	back
+chování	behavior
+kousek	bit
+úder	blow
+přestávka, pauza	break
+kampaň	campaign
+případ	case
+příležitost, šance	chance
+proměna, transformace	change
+volba, výběr	choice
+situace, stav	condition
+přípojka, konektor	connection
+spojení	connection
+prasklina, štěrbina	crack
+rozmačkání, rozdrcení	crush
+řez	cut
+poškození	damage
+nebezpečí	danger
+úmrtní, smrt	death
+ornament, dekorace	decoration
+obrana	defense
+destrukce, zničení	destruction
+podrobnost, detail	detail
+nadvláda, převaha	dominance
+kapka	drop
+povinnost	duty
+námaha	effort
+pád	fall
+vlastnost	feature
+boj	fight
+předek, přední strana	front
+rána, úder	hit
+díra, otvor	hole
+růst	increase
+přírůstek	increase
+Internet, internet	internet
+náraz	jolt
+kopnutí, kop	kick
+druh, typ	kind
+uzel	knot
+seznam	list
+většina	majority
+záležitost, věc	matter
+mysl	mind
+fungování, chod	operation
+protiklad, opak	opposite
+erupce, výbuch	outburst
+kus, díl	part
+díl, podíl	part
+osobnost, charakter	personality
+součást, kousek	piece
+místo	place
+pozice	position
+moc, síla	power
+praxe	practice
+úkol, projekt	project
+vlastnost	property
+kvalita	quality
+klid	quiet
+dosah	reach
+hlášení	report
+zodpovědnost	responsibility
+odpočinek, oddech	rest
+vrácení se, návrat	return
+stoupání, vzestup	rise
+nebezpečí, riziko	risk
+místo	seat
+seriál	serial
+soubor, sada	set
+ticho	silence
+situace	situation
+kus	slice
+stav	state
+krok	step
+zastavení	stop
+chuť	taste
+předmět, věc	thing
+vrchol, vrcholek	top
+kontakt, dotyk	touch
+zacházení	treatment
+chvění, třes	tremble
+úskok, trik	trick
+druh, typ	type
+užití, upotřebení	use
+způsob, postup	way
+opotřebení	wear
+celek	whole
+úmysl, vůle	will
+přání	wish
+odpoledne	afternoon
+stáří, věk	age
+duben	April
+srpen	August
+podzim	autumn
+začátek, počátek	beginning
+století	century
+datum	date
+den	day
+prosinec, Prosinec	December
+konec	end
+večer	evening
+únor	February
+pátek	Friday
+budoucnost	future
+hodina	hour
+leden	January
+červenec	July
+červen	June
+květen, máj	May
+půlnoc	midnight
+minuta	minute
+okamžik, chvíle	moment
+okamžik, moment	moment
+pondělek, pondělí	Monday
+měsíc	month
+ráno, jitro	morning
+noc	night
+listopad	November
+teď, nyní	now
+říjen	October
+minulost	past
+pauza, přestávka	pause
+období, doba	period
+současnost	present
+sobota	Saturday
+roční období, sezóna	season
+vteřina, sekunda	second
+září	September
+jaro	spring
+léto	summer
+neděle	Sunday
+čtvrtek	Thursday
+dnešek	today
+zítřek, zítra	tomorrow
+úterý	Tuesday
+středa	Wednesday
+týden	week
+víkend, konec týdne	weekend
+chvíle	while
+zima	winter
+rok	year
+umění	art
+umělec	artist
+kapela	band
+kartáč, štětec	brush
+barva	color
+koncert	concert
+návrh	design
+rozmanitost, pestrost	diversity
+obveselení, zábava	entertainment
+hit	hit
+obraz	image
+inkoust	ink
+vynalezení, vynález	invention
+způsob	manner
+film	movie
+muzeum	museum
+hudba	music
+nota	note
+orchestr	orchestra
+barva	paint
+obraz, malba	painting
+papír	paper
+pero	pen
+tužka	pencil
+obraz, obrázek	picture
+báseň	poem
+poezie	poetry
+rytmus	rhythm
+podoba, tvar	shape
+zpěvák, pěvec	singer
+píseň, písnička	song
+jeviště	stage
+styl	style
+móda	vogue
+účet	account
+výhoda	advantage
+propagace, reklama	advertisement
+rada	advice
+kontrakt, smlouva	agreement
+pozornost	attention
+autorizace, oprávnění	authority
+bankovka	banknote
+obchod	bargain
+druh, značka	brand
+obchod	business
+podnikatelka, obchodnice	businesswoman
+kapitál	capital
+drobné	change
+šek	cheque
+komise, výbor	committee
+podnik, firma	company
+konkurence	competition
+stížnost, obžaloba	complaint
+smlouva, kontrakt	contract
+kopie, opis	copy
+náklady, výdaje	cost
+rada, koncil	council
+kurz, školení	course
+zákazník, klient	customer
+potřeba	demand
+odbor, oddělení	department
+obtížnost	difficulty
+manažer, řídící pracovník	director
+hospodářství, ekonomika	economy
+prostředí	environment
+zkušenost	experience
+firma	firm
+formulář, tiskopis	form
+seskupení, skupina	group
+pomoc, asistence	help
+dovolená, prázdniny	holiday
+výdělek, příjem	income
+průmysl	industry
+pojištění	insurance
+úrok	interest
+faktura, účet	invoice
+úloha, práce	job
+zákon	law
+dovolená	leave
+ztráta	loss
+management, řízení	management
+značka, znak	mark
+trh	market
+materiál, hmota	material
+střední hodnota, průměr	mean
+setkání, schůzka	meeting
+peníze	money
+zaměstnání, práce	occupation
+nabídka	offer
+kancelář	office
+úředník	officer
+operace	operation
+vlastník, držitel	owner
+balení, svazek	package
+platba	payment
+plán	plan
+cena	price
+problém	problem
+produkt	product
+výtěžek, profit	profit
+majetek, vlastnictví	property
+tarif, sazba	rate
+zůstatek, reziduum	rest
+odměna	reward
+právo	right
+prodej, odbyt	sale
+oddělení, divize	section
+oddíl, oddělení	section
+obsluha, služba	service
+akcie	share
+obchod, krám	shop
+show, přehlídka	show
+zručnost, dovednost	skill
+zaměstnanci, personál	staff
+struktura	structure
+úspěch	success
+podpora, opora	support
+tabulka	table
+daň, zdanění	tax
+družstvo, tým	team
+obchod	trade
+hodnota, cena	value
+práce	work
+pracovník, pracující	worker
+proklamace, prohlášení	announcement
+odpověď	answer
+schválení, souhlas	approval
+argument	argument
+kniha	book
+telefonát, volání	call
+znak	character
+spor, kontroverze	controversy
+křik, výkřik	cry
+informace, data	data
+závěr, rozhodnutí	decision
+slovník, lexikon	dictionary
+diskuze	discussion
+pochybnost, nejistota	doubt
+zážitek	experience
+pocit	feeling
+humor	humor
+myšlenka, idea	idea
+informace	information
+zájem	interest
+rozhovor, interview	interview
+jazyk, řeč	language
+jazyk	language
+písmeno	letter
+dopis	letter
+lež	lie
+pohled	look
+časopis, magazín	magazine
+pošta	mail
+paměť	memory
+vzpomínka	memory
+chyba	mistake
+jméno, název	name
+noviny	newspaper
+poznámka	note
+číslo	number
+stanovisko, názor	opinion
+strana	page
+výslovnost	pronunciation
+návrh	proposal
+protest	protest
+otázka, dotaz	question
+reakce	reaction
+důvod	reason
+relace, vztah	relation
+požadavek, žádost	request
+tajemství	secret
+věta	sentence
+znaménko	sign
+mluva, řeč	speech
+pravopis	spelling
+kritérium, standard	standard
+výpověď, tvrzení	statement
+námět, téma	subject
+návrh	suggestion
+hlas	voice
+slovo	word
+písmo	writing
+day dobrý den	good
+luck hodně štěstí,	good
+ahoj, nazdar	hello
+are you jak se máš,	how
+thanks mockrát děkuji	many
+ne	no
+you very much děkuji mnohokrát	thank
+ano	yes
+Británie	Britain
+Čína	China
+Republic Česká republika	Czech
+Francie	France
+Německo	Germany
+Indie	India
+Itálie	Italy
+Japonsko	Japan
+Španělsko	Spain
+States of America USA, Spojené státy americké	United
+ročník, třída	class
+vzdělání	education
+výchova	education
+vzdělávání, učení	education
+zkouška	examination
+známka	grade
+vědomosti, znalosti	knowledge
+student, žák	student
+instruktor, cvičitel	teacher
+vzdělávání, výcvik	training
+strach	fear
+nenávist	hate
+láska	love
+potěšení	pleasure
+naděje	promise
+šok	shock
+péče	care
+nachlazení, rýma	cold
+kašlání	cough
+nemoc, onemocnění	disease
+doktor, lékař	doctor
+zdraví	health
+menstruace, měsíčky	menstruation
+ošetřovatelka, zdravotní sestra	nurse
+chirurgický zákrok, operace	operation
+bolest	pain
+pacient	patient
+steh	stitch
+čepel	blade
+deska	board
+karta	card
+řetěz	chain
+obušek, kyj	club
+kryt, víko	cover
+péro, pírko	feather
+vlajka	flag
+rám, rámec	frame
+topůrko, držadlo	handle
+jídelní lístek, menu	menu
+matice, matka	nut
+špendlík	pin
+trubka, roura	pipe
+poštovné, poštovní známka	postage
+dárek, dar	present
+plachta	sail
+kotouč, role	scroll
+semeno	seed
+hůl, klacek	stick
+kámen	stone
+vstupenka, jízdenka	ticket
+kolo	wheel
+drát	wire
+rovnováha	balance
+množství	bulk
+náboj	charge
+energie	energy
+světlo	light
+hmota, masa	mass
+měření	measurement
+zrcadlo	mirror
+pohyb	movement
+tlak	pressure
+proces	process
+rozměr, velikost	size
+zvuk, tón	sound
+pára	steam
+síla	strength
+čas	time
+jednotka	unit
+váha	weight
+milenec, kluk	boyfriend
+schůzka	date
+přítelkyně	girlfriend
+host	guest
+drahoušek, miláček	honey
+polibek, pusa	kiss
+večírek	party
+sex	sex
+úsměv	smile
+překvapení	surprise
+návštěva	visit
+alternativa	alternative
+biologie	biology
+příčina, důvod	cause
+chemie	chemistry
+porovnání, srovnání	comparison
+následek, důsledek	consequence
+kontrola	control
+disciplína, obor	discipline
+objev, objevení	discovery
+objev	discovery
+událost	event
+důkaz	evidence
+příklad	example
+fakt	fact
+problém	issue
+podstata, esence	kernel
+metoda	method
+model	model
+fáza, stupeň	phase
+procedura, pochod	procedure
+produkce	production
+program	program
+projekt	project
+dosah, rámec	range
+výzkum, zkoumání	research
+vyšetřování, šetření	research
+věda	science
+společnost	society
+systém, soustava	system
+technologie	technology
+teorie	theory
+tendence, trend	trend
+problém, potíž	trouble
+uživatel	user
+armáda	army
+základna	base
+společnost, sdružení	club
+společnost	company
+soutěž	contest
+země	country
+soud	court
+trestný čin, zločin	crime
+kultura	culture
+demokracie, republika	democracy
+nadvláda	dominion
+volby, volba	election
+existence, bytí	existence
+žena	female
+vláda	government
+historie	history
+jednotlivec	individual
+instituce	institution
+král	king
+muž, samec	male
+člen	member
+národ	nation
+novina, zprávy	news
+hluk	noise
+příkaz, rozkaz	order
+organizace	organization
+průkazka	pass
+cestovní pas	passport
+mír	peace
+lidé	people
+policie	police
+politika	policy
+obyvatelstvo, populace	population
+veřejnost, lid	public
+trest	punishment
+víra	religion
+náboženství	religion
+stát	state
+titulek, nadpis	title
+svaz, unie	union
+válka	war
+vůle	will
+poslední vůle, závěť	will
+vyznamenání	award
+míč	ball
+baseball	baseball
+jízdní kolo, kolo	bike
+mistrovství, šampionát	championship
+rival, soupeř	competitor
+pohár	cup
+fotbal	football
+hra	game
+gól	goal
+cíl	goal
+zlato	gold
+golf	golf
+skok	jump
+zápas	match
+hráč	player
+rekord	record
+stříbro	silver
+tenis	tennis
+vrh, hod	throw
+vítězství, výhra	win
+zvon, zvonek	bell
+tlačítko, knoflík	button
+zbraň, pistole	gun
+kladívko, kladivo	hammer
+háček, hák	hook
+klíč	key
+zámek	lock
+zápalka, sirka	match
+hřeb, hřebík	nail
+jehlice, jehla	needle
+čerpadlo, pumpa	pump
+lano, provaz	rope
+nůžky	scissors
+pružina, péro	spring
+razítko	stamp
+bič	whip
+oblak, mrak	cloud
+rosa	dew
+mlha	fog
+jinovatka, námraza	frost
+déšť	rain
+duha	rainbow
+sníh	snow
+bouřka, bouře	storm
+hrom	thunder

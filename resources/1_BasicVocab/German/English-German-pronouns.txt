@@ -1,0 +1,35 @@
+﻿English	German
+anything	irgendetwas
+everybody	jeder
+everything	alles
+he	er
+her	ihr
+herself	sich
+him	ihm
+himself	sich, sich selbst
+his	sein
+it	es
+itself	sich
+me	mir, mich
+my	mein, meine
+our	unser, unsere
+she	sie
+that	jene
+their	ihr
+them	sie
+these	diese
+they	sie
+this	diese
+those	diese
+us	uns
+we	wir
+what	was
+when	wann
+which	welch, welcher
+which	welch, welcher
+who	wer
+whom	wen
+whose	wessen
+you	du, Sie
+your	dein (m), deine (f)
+yourself	du

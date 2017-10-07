@@ -1,0 +1,180 @@
+English	Maltese
+Abidjan	Abidjan
+Albania ; Republic of Albania	Albanija
+Andorra ; Principality of Andorra	Andorra
+Antigua and Barbuda	Antigwa u Barbuda
+April	April
+Armenia	Armenja
+August	Awissu
+Australia ; Commonwealth of Australia	Awstralja
+Bahrain	Bahrain
+Balearic Islands	Gżejjer Baleariċi
+Bulgaria ; Republic of Bulgaria	Bulgarija
+Bulgarian ; Bulgarian	Bulgaru
+Castilian ; Spanish ; Spanish	Spanjol
+Christmas tree	siġra tal-Milied
+Cornish	Korniku
+Cyprus ; Republic of Cyprus	Ċipru
+Dutch	Olandiż
+EU ; European Union	L-Unjoni Ewropea
+Easter	Għid il-Kbir
+English	ingliż ; Ingliż
+Epiphany	Epifanija
+Faroese ; Faeroese	Fawriż
+Finnish	Finlandiż
+French ; French	Franċiż
+French Revolution	Rivoluzzjoni Franċiża
+Gabon ; Gabonese Republic	Gabon
+German	Ġermaniż
+Gibraltar	Ġibiltà
+Greek ; Greek	Grieg
+Hindi ; Hindi	Ħindi
+Israel ; State of Israel	Iżrael
+Jamaica	Ġammajka
+July	Lulju
+June	Ġunju
+Kyrgyzstan ; Kyrgyz Republic	Kirgiżistan
+Lisbon	Lisbona
+Malta ; Republic of Malta	Malta ; Repubblika ta' Malta
+Maltese	Malti
+Merry Christmas	il-Milied it-Tajjeb
+Monaco	Monako
+Myanmar	Mjanmar
+Novial	Novial
+Poland	Polonja ; Poland
+Polish ; Polish	Pollakk. ; Pollakk
+Serbia	Serbja
+Sicilian ; Sicilian	Sqalli
+Slovene ; Slovenian ; Slovenian	Sloven
+Spain	Spanja
+Sri Lanka	Sri Lanka
+Sweden	Svezja
+Tamil ; Tamil	Tamil
+Thai ; Thai	Tajwaniż
+Turkish ; Turkish	Tork
+Uranus	Uranju
+abasement	umiljazzjoni
+abbreviation	abbrevjazzjoni
+actinium	aktinjum
+aggressive	aggressiv
+alcoholism	alkoħoliżmu
+americium	amerizjum
+amethyst	ametist
+ant	nemla
+appreciate	apprezza
+argon	argon
+arrival	wasla
+arsenic	arseniku
+artery	arterja
+astronomy	astronomija
+beryllium ; glucinium	beriljum
+bishop	isqof
+bismuth	biżmut
+blackbird	malvizz iswed
+boron	boron
+bromine	bromu
+bumblebee	żunżan
+cadmium	kadmju
+caesium	siżju
+calcium	kalċju
+calendar	kalendarju
+calligraphy	kalligrafija
+carbon	karbonju
+celery	karfusa
+chlorine	kloru
+cloud	sħaba
+cobalt	kobalt
+comet	kometa
+cow	baqra
+creativity ; inventiveness	kreativita
+dog	kelb
+dolphin	denfil
+earthquake	terremot
+einsteinium	ejnstenjum
+emergency	emergenza
+europium	uropjum
+fluorine	fluorin
+fossil	fossili
+fraud	frodi
+freedom ; liberty	libertà
+gadolinium	gadolinjum
+gallium	galljum
+germanium	ġermanjum
+goose	wiżża
+gull	gawwija
+hafnium	afniju
+handkerchief	maktur
+hedgehog	qanfud
+helium	ilju
+holmium	holmjum
+home ; home ; house	bejt
+hope	tama
+hydrogen	idroġenu
+independence	indipendenza
+indium	indjum
+iodine	jodju
+iridium	iridju
+iron	ħadid
+krypton	kriptu
+lanthanum	lantanum
+lead	ċomb
+lithium	litjum
+lutetium	lutizjum
+magnesium	magniżjum
+manganese	manganiż
+mendelevium	mendelevjum
+mercury	merkurju
+milk	ħalib
+molybdenum	molibdenum ; molibdenum ; molibdenu
+museum	mużew
+napkin	sarvetta
+nappy	harqa
+neodymium	neodimjum
+neon	neon
+neptunium	neptunjum
+niobium	niobju
+nitrogen	najtroġin
+nobelium	nobeljum
+nose	mnieħer
+obstacle ; obstruction	ostaklu
+olive	żebbuġa
+osmium	ożmju
+ostrich	nagħma ; ostriċ
+oxygen	oksiġin
+palladium	palladju
+penguin	пингвин
+pessmism	pessimizmu
+petition	petizjoni
+pheasant	faġan
+pigeon ; dove	ħamiema
+place ; location	post
+praseodymium	praseodimjum
+promethium	promizjum
+protactinium	protaktinjum
+rabbit	fenek
+rhenium	rinjum
+rhodium	rodjum
+ruthenium	rutinjum
+sahara	sahara
+samarium	samarjum
+shark	xark
+sheep	nagħġa
+silicon	silikon
+slipper	papocc
+sodium	sodjum
+strontium	stronzjum
+sulphur	kubrit
+tantalum	tantalju
+technetium	teknezju
+thallium	tallju
+thousand	elf
+tin	landa
+translate ; interpret	traduci
+translation	traduzzjoni
+tree	siġra
+trophy	trofew
+twin	tewmi
+usurp	tuzurpa
+wizard ; sorcerer ; magician	sahhar
+yttrium	ittrijum
+zirconium	żirkonju

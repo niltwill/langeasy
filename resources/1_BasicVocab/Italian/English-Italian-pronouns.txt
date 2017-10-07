@@ -1,0 +1,35 @@
+﻿English	Italian
+anyone	chiunque
+everybody	tutti
+everything	tutto
+he	egli
+her	suo
+herself	si
+him	lui
+himself	sé
+his	suo
+it	lo
+itself	si
+me	me
+my	mio
+our	nostro
+she	lei
+that	questa
+their	loro
+them	loro
+these	queste
+they	essi
+this	questo
+those	questo
+us	noi
+we	noi
+what	che
+when	quando
+which	quale
+which	quale
+who	chi
+whom	chi
+whose	di chi
+you	(familiar) tu, (polite) lei, Lei
+your	loro
+yourself	te stesso

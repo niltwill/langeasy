@@ -1,0 +1,1317 @@
+English	Frisian
+Abel	Abe
+Abkhaz	Abgazysk (n); Abkhasysk
+Abraham	Abram
+Abram	Abram
+Adrian	Arjan
+Aegidius	Aegidius
+Afar	Afarsk (n)
+Afghanistan	Afganistan
+Agatha	Agatha
+Albania	Albaanje
+Albert	Albert
+American bison	bizon
+Amsterdam	Amsterdam
+Andorra	Andorra
+April	april; gersmoanne
+Armenia	Armeenje
+Asia	Aazje
+August	augustus, rispmoanne
+Austria	Eastenryk
+Azerbaijan	Azerbeidzjan
+Bahrain	De Barein
+Baku	Bakoe
+Baltic Sea	Eastsee
+Basque	Bask (m), Baskyske (f)
+Basque Country	Baskenlân
+Belarusian	Wytrussysk
+Belgium	Belgje
+Berlin	Berlyn
+Bitola	Bitola
+Black Sea	Swarte See (n)
+Bosnia and Herzegovina	Bosnje en Herzegovina
+Bosphorus	Bosporus
+Breton	Bretonsk
+Brussels	Brussel
+Bulgarian	Bulgaarsk
+Burgundy	Boergonje
+Canada	Kanada
+Carthage	Kartago
+Caspian Sea	Kaspyske See
+Catalan	Katalaansk
+Chinese	Sineesk
+Christianity	Kristendom
+Christmas	Krysttiid
+Christmas tree	krystbeam
+Cold War	Kâlde Kriich (m)
+Croatia	Kroaasje
+Croatian	Kroätysk
+Czech	Tsjechysk
+Czechia	Tsjechje
+Danish	Deensk
+December	desimber, wintermoanne
+Denmark	Denemark
+Dutch	Nederlanner, Hollanner
+Earth	ierde
+Elgar	Jelger
+England	Ingelân (n)
+English	Ingelsk
+Estonia	Estlân
+European	Europeesk
+European bison	wisint
+Faroe Islands	Faeröer
+February	febrewaris; sellemoanne
+Finland	Finlân
+Finnish	Finsk
+France	Frankryk
+French	Frânsk
+Friday	freed
+Friesland	Fryslân
+Frisian	Frysk
+Galician	Galisysk
+George	Jörn, Joren, Jurg
+German	Dútsk
+Germany	Dútslân (n)
+Ghent	Gint
+Great Britain	Grut-Brittanje
+Greece	Grikelân
+Greek	Gryksk
+Groningen	Grins
+I	ik
+I love you	Ik hâld fan dy
+Iceland	Yslân
+Interlingua	Ynterlingua
+Italian	Italjaansk
+Italy	Itaalje
+Jacob	Japik
+January	jannewaris; foarmoanne
+Japan	Japan
+Jew	joad (m), joadinne (f)
+Jewess	joadinne (f)
+July	july, haaimoanne
+June	juny, simmermoanne
+Kashubian	Kasjoebysk
+Kazakhstan	Kazakstan
+Kingdom of the Netherlands	Keninkryk fan de Nederlannen (n)
+Knights Templar	Timpeliers; Timpelridders
+Kurdish	Koerdysk
+LED	dioade-lampke (n)
+Latvia	Letlân (n)
+Liechtenstein	Lychtenstein
+Lord	Heare
+Luxembourg	Lúksemboarch
+Luxembourgish	Lúksemboarchsk
+Lyons	Lyon
+Mary	Maria
+May	maaie, blommemoanne
+Mediterranean Sea	Middellânske See
+Mercury	Merkurius
+Merry Christmas	noflike krystdagen
+Merry Christmas and a Happy New Year	Noflike Krystdagen en in protte Lok en Seine yn it Nije Jier
+Mexico	Meksiko (n)
+Monastir	Bitola
+Monday	moandei
+Moscow	Moskou (n)
+Muay Thai	Taiboksen
+Muhammad	Mohammed
+Netherlander	Nederlanner (m)
+Netherlands	Nederlânsk, Hollânsk
+November	novimber, slachtmoanne
+Occitan	Oksitaansk
+October	oktober, wynmoanne
+Odin	Weda
+Old High German	Aldheechdútsk (n)
+Olympic Games	Olympyske Spullen 
+Pacific Ocean	Stille Oseaan; Grutte Oseaan; Pasifyske Oseaan; Stille Súdsee 
+Pakistan	Pakistan
+Paul	Paulus
+Pentecost	Pinkster
+Pentium	Pentium
+Peter	Petrus
+Poland	Poalen (n)
+Polish	Poalsk
+Portugal	Portegal
+Portuguese	Portugeesk (n)
+Prague	Praach
+Proto	Oergermaansk
+Roman	Romein
+Roman Empire	Romeinen
+Romania	Roemeenje
+Russia	Ruslân
+Sanskrit	Sanskryt
+Saterland Frisian	Seeltersk (n)
+Saturday	sneon, saterdei
+Savoy	boerekoal
+Saxony	Saksen
+Scheldt	Skelde
+Schleswig	Sleeswyk-Holstein
+Scotland	Skotlân
+September	septimber, hjerstmoanne
+Serbia and Montenegro	Servje en Montenegro
+Serbian	Servysk (n)
+Slovenia	Sloveenje
+Spanish	Spaansk
+Sunday	snein
+Swaziland	Swazilân
+Sweden	Sweden
+Switzerland	Switserlân
+Taiwan	Taiwan
+Tallinn	Tallin
+Tanzania	Tanzania
+Tbilisi	Tbilisi
+The Hague	De Haach
+Thor	Tonger
+Thursday	tongersdei
+Tuesday	tiisdei
+Turkey	Turkije
+Ukrainian	Ukraynsk
+United States of America	Feriene Steaten fan Amearika
+Venus	Fenus
+Viking	wytsing
+Wednesday	woansdei
+West Frisian	West-Frysk
+Wikipedia	Wikipedy
+Wiktionary:Usability/flag	flagge
+Wild Hunt	Wylde Jacht
+Wroclaw	Wrocław
+Yerevan	Jerevan
+Zeeland	Seelân
+a little	snjitsje
+abbreviation	ôfkoarting
+abdomen	bûk
+abessive	abessyf; abessiven
+able	betûft
+abstain	keare, behinderje, ferhinderje
+abyss	ôfgrûn
+according to	neffens
+accountable	ferantwurdlik
+accountancy	boekhâlde (n)
+ace	aas
+across	dwers
+actinium	actinium
+adjective	protokol
+admiration	bewûndering
+adverb	bywurd (n)
+advertisement	advertinsje, oankundiging
+aeroplane	fleantúch (n), fleanmasine
+aforementioned	niisneamd
+after	ek al
+again	wer
+against	tsjin
+ago	lyn
+air	lucht
+aircraft	fleantúch (n), fleanmasine
+airplane	fleantúch (n), fleanmasine
+airport	fuortrinbultsje
+al	Al Kaida
+alarm clock	needklok (c)
+almost	hast
+alphabet	alfabet (n)
+alphabetic	alfabetysk
+alphabetical	alfabetysk
+alpine chough	alpenka
+already	al
+also	ek
+aluminium	aluminium
+always	jimmer
+americium	americium
+amphibian	amfiby
+an	in#West Frisian'in
+and	en#West Frisian'en
+angel	ingel
+anger	grime
+angry	lilk
+animal	bist (n)
+ant	miammel
+antimony	antimoon (n)
+anyone	immen
+apothecary	apoteek (n)
+apple	apel
+apricot	abrikoas
+apron	skelk (n)
+argent	sulver
+argon	argon
+arm	earm
+army	leger (n)
+arrow	pylk
+arsenic	arsenikum
+ash	esk
+astatine	astaat
+astronomy	stjerrekunde (n)
+at least	alteast
+attack	oanfalle
+aunt	muoike
+autumn	hjerst
+axe	bile
+axis	as
+baby	poppe
+back	werom
+badger	das (c)
+bag	pûde
+bald	keal
+ball	bal (n); bol (n)
+banal	plat
+banana	banaan
+bank	bank
+banner	flagge
+barber	skearbaas
+bare	keal
+barium	barium
+barn owl	goudûle
+baseball	basebal
+basket	koer
+bat	flearmûs
+be	wurde
+beak	snaffel
+bean	bean, beane
+bear	bear
+beard	burd
+beautiful	moai, kreas
+beaver	bever
+because	meidat, omdat, mei't, om't
+become	wurde
+bed	bêd (n)
+bee	bij
+beer	bier#West Frisian'bier
+before	foar
+behind	efter
+believe	liuwe
+bequeath	bekwathan (archaic)
+berkelium	berkelium
+beryllium	beryllium
+beside	njonken
+besides	njonken
+between	tusken
+bicycle	fyts
+big	grut
+bike	fyts
+bill	snaffel
+biochemistry	biogemy
+bird	fûgel
+bismuth	bismut
+black	swart
+black grouse	kuorhin
+black ice	izel (m)
+black woodpecker	swarte spjocht
+blackbird	swarte lyster
+bleed	bliede
+blind	blyn
+blood	bloed (n)
+blue	blau
+boat	boat
+body	liif
+bohrium	bohrium
+bomb	bom (c)
+bone	bonke
+book	boek (n)
+boron	boar
+both	beide, allebeide
+bow	bûge
+box	doaze
+boy	jonge (c)
+bra	boarststipe
+brain	harsen
+bread	bôle (c), brea (n)
+breakfast	moarnsiten (n), brea-iten (n)
+breast	boarst
+breathe	sykhelje
+bridge	brêge
+brine	pikel
+bring	bringe
+brochure	brosjuere
+bromine	broom#West Frisian'broom
+broom	biezem (n)
+brother	broer
+brown	brún
+bucket	amer#West Frisian'amer
+buffalo	buffel (m)
+bull	bolle#West Frisian'bolle
+bullet	kûgel
+busy	beset
+but	mar
+butter	bûter
+butterfly	flinter
+buy	keape
+buzzard	mûzefalk
+by	troch
+cadmium	cadmium
+caesium	cesium
+calcium	kalsium
+calf	keal (n)
+californium	californium
+camel	kamiel (c)
+canary	kanarje
+capital city	haadstêd
+car	wein
+carbon	koalstof
+carbon paper	karbonpapier (n), trochslachpapier (n)
+cardinal	haadtelwurd
+carrot	woartel
+castle	kastiel; slot
+castrate	lobje
+cat	kat
+cattle	kij
+cauliflower	blomkoal
+cave	dobbe
+center	sintraal
+century	ieu
+cerium	cerium
+chaff	tsjêf (n)
+chalice	tsjelk (n)
+chamois	gems
+change	feroarje
+cheeky	bretaal
+cheese	tsiis (m)
+chicken	hin#West Frisian'hin
+child	bern (n)
+chin	kin
+chlorine	gloor
+chromium	groom
+church	tsjerke
+churn	tsjerne
+circumflex	breedteken (n)
+city	stêd
+claw	klau; kloer
+clock	klok; oerwurk
+coast	igge
+cobalt	kobalt
+cock	hoanne
+coin	munt
+cold	ferkâldzjen, kjeld, kâld
+cold war	kâlde kriich
+combat	fjochtsjen; striid
+come	komme
+comfort	treastgje
+common gull	unwaarsfûgel
+common kestrel	reade wikel
+communism	kommunisme (n)
+compass	kompas (n)
+competition	kompetysje
+computer	kompjûter (m)
+confectionery	snobberij
+confession	bycht
+confused	betiizd
+consequently	fangefolgen
+conversation	petear
+copper	koper
+coronation	kroaning
+corpse	lyk
+cosy	smûk
+country	boerelân (n)
+courage	moed
+cow	ko
+cow parsley	piipkrûd
+coward	fiich; leffert
+cozy	smûk
+crab	krab (m)
+cranberry	feanbei
+crazy	gek
+creature	skepsel
+creek	sleat
+creep	krûpe
+crime	misdied
+crow	krie (c)
+crowd	kloft
+crude oil	ierdoalje
+cruel	wreed
+cry	roppe
+cuckoo	koekoek
+culture	kultuer
+cup	kopke
+curium	curium
+daffodil	titelroas
+dance	dûnsje
+dare	doare
+dark	donker
+darkness	tsjusternis
+daughter	dochter
+day	dei
+dead	dea, deade
+deaf	dôf
+death	dea (m)
+debt	skuld
+deed	died (n)
+deep	djip
+deer	hart
+demon	koarthakke
+dentist	toskedokter
+derive	ôfliede
+despair	wanhope (n)
+diamond	diamant
+dictionary	wurdboek (n)
+die	dobbelstien
+differ	ferskille
+difficult	swier
+dirty	smoarch; gruzich
+disgust	mier
+disloyal	glûpsk
+diurnal	deisk, deistich
+division	klasse
+do	dwaan
+do you speak English	sprekke jo it Ingelsk; spreksto it Ingelsk 
+doe	wyfkehart
+dog	hûn
+dolphin	dolfin
+donkey	ezel
+door	doar
+dormouse	sânslieper
+dose	doaze
+doubt	twivel
+down	del
+dream	dreame
+drink	drinke
+dromedary	drommedaris
+drum	tromme
+drunk	dronken
+dry	droech
+dubnium	dubnium
+duck	ein#West Frisian'ein (f)
+duke	hartoch
+dung	dong
+dust	stof (n)
+dysprosium	dysprosium
+eagle	earn
+eagle owl	oehoe
+ear	ynformant
+early	ier
+earring	earring, earbel
+earwig	foarkestekker
+east	eastlik
+easy	maklik
+eat	ite
+ebb	ebba (c)
+economics	ekonomy
+edible	ytber
+education	ûnderwiis
+egg	aai (n)
+eight	acht
+eighteen	achttjin
+eighth	achtste ('abbreviation' 8e)
+eighty	tachtich
+einsteinium	einsteinium
+elbow	earmtakke (n)
+electronics	elektroanika
+elephant	oaljefant
+eleven	alve
+eleventh	alfte
+empress	keizerinne
+end	ein
+energy	enerzjy
+enough	genôch
+erbium	erbium
+ermine	harmeling
+europium	europium
+ever	jimmer
+evil	kwea
+exile	balling
+experience	belibje
+expired	dea, deade
+explosion	ûntploffing (n)
+eye	each#West Frisian'each
+eyelash	teister
+eyelid	eachlid (n)
+face	gesicht (n)
+factory	fabryk (n)
+faith	leauwe
+falcon	falk (m)
+fall	falle
+fallow deer	deim
+famine	hongersneed, breakrapte
+famous	ferneamde
+fang	slachtosk
+far	fier
+farm	pleats, buorkerij
+father	heit; faar
+feel	fiele
+feminine	froulik
+fermium	fermium
+ferret	fret
+ferry	fear#West Frisian'fear
+fie	fij
+field	fjild (n)
+fierce	fûl
+fifteen	fyftjin
+fifteenth	fyftjinde
+fifth	fyfde ('abbreviation' 5e)
+fifty	fyftich
+fight	fjochtsje
+fighter plane	fjochtfleanmasine (f)
+file	triem
+finger	finger#West Frisian'finger
+fire	dien jaan
+firearm	sjitark (n), fjoerwapen (n)
+fish	fiskje
+fist	knûst
+five	fiif
+flag	flagge
+flame	flam
+flood	oerstreaming
+flower	blom (c)
+fluorine	fluor
+fly	fleane
+fog	dampen
+folk	folk
+follow	folgje
+food	fiedsel
+foot	tongblier
+football	fuotbalje
+for	foar
+for example	byfoarbyld, bygelyks
+forbidden	ferbean
+forefinger	foarste finger, wiisfinger
+forehead	foarholle
+forest	bosk (n); wâld (n)
+forever	ivich
+forget	ferjitte
+forgive	ferjou
+fork	foarke (n)
+forth	fuort
+fortuneteller	wikker
+forty	fjirtich
+four	fjouwer
+fourteen	fjirtjin
+fourteenth	fjirtjinde
+fourth	fjirde ('abbreviation' 4e)
+fox	foks (m)
+francium	francium (n)
+free	fergees; frij
+freedom	frijheid
+friend	freon
+frog	kikkert; froask
+from	fan
+fruit	frucht
+gadolinium	gadolinium
+gallium	gallium
+garbage	ôffal (n)
+garlic	knyflok (n)
+gas	gas (n)
+gender	slachte (n), geslacht#West Frisian'geslacht (n)
+germanium	germanium
+get	krije
+ghost	spoek (n)
+girl	famke (n); faam
+give	jaan
+glass	glês
+glorious	glorieus
+glory	eare
+glove	mof
+glue	lymje
+go	gean
+goat	geit (f)
+goblin	ierdmantsje (n)
+god	god
+gold	goud
+golden eagle	keningsearn
+goldfish	goudfisk
+good	goed
+good riddance	leaver kwyt as ryk (rather lost than rich)
+goose	goes
+goshawk	hauk
+government	regear (n)
+grandfather	pake (m)
+grandmother	beppe (f)
+grandpa	pake
+grape	drúf
+grass	gers
+grave	grêf (n)
+graveyard	tsjerkhôf (n)
+gravity	swiertekrêft
+great northern diver	iisdûker
+great spotted woodpecker	grutte eksterspjocht
+great tit	blokmies; blokfink
+greedy	gjirrich
+green	grien
+green bottle fly	griene gleonmich
+green woodpecker	griene spjocht
+grey	griis; grau
+grey heron	ielreager
+greylag goose	skiere goes
+griffon vulture	feale gier
+ground	grûn
+group	kloft
+growth	groei; oanwaaks
+grumpy	kribbich
+guess	ergje
+guilt	skuld
+guinea fowl	poepeletaat
+guinea pig	bargemot
+gull	seefûgel, meau (f)
+hafnium	hafnium
+hair	hier (n)
+half	heal
+hammer	hammer
+hamster	hamster
+hand	hân
+handbook	hânboek (n)
+handkerchief	bûsdoek
+hangman	boal
+happy	bliid
+happy birthday	gan herte lokwinske, lokkige jierdei
+hard drive	fêste skiif
+hare	hazze
+hassium	hassium
+hat	hoed
+have	hawwe
+hawk	hauk
+hay	hea
+he	er
+head	holle; kop
+heap	heap
+heart	herten
+heaven	himel
+heavy	swier
+helium	helium
+hell	hel (f)
+hello	hallo!
+help	helpe
+hero	held
+heroine	heldinne
+heron	reager
+herpetology	herpetology
+hideous	ûnsjoch
+hill	heuvel
+him	him
+hinny	mûldier (n)
+his	syn
+holmium	holmium
+honor	eare
+honour	eare
+hope	hoopje
+horn	hoarn
+horse	hoppe
+hound	hûn
+house	hûs (n)
+how are you	hoe giet it?
+humid	fochtich, damp
+hundred	hûndert
+hunt	jeie
+hyacinth	hyasint
+hydrogen	wetterstof (n)
+ibex	stienbok
+ice	iis (n)
+if	oft
+illness	sykte
+important	wichtich
+in case	om it gefal
+in front of	foar
+increase	waakse
+indium	indium
+influenza	gryp
+injury	wûne (f)
+insect	ynsekt
+interesting	nijsgjirrich
+iodine	joadium
+iridium	iridium
+iron	izer
+is	is
+island	eilân (n)
+isthmus	lâningte
+it	it#West Frisian'it
+jack	bûsmês (n), knyft (n)
+jackdaw	ka
+jay	houtekster
+jellyfish	kwab
+jerk off	lobje
+joint	knier
+kangaroo	kangoeroe (m)
+keep	fierdergean
+kestrel	falk (m)
+kettle	tsjettel
+key	kaai, toets
+kill	moard, dea
+king	kening (m)
+kiss	tútsje
+kite	glee
+knee	knibbel
+knife	mes
+know	wiisprater, wiisnoas
+knowledge	witten
+krypton	krypton
+ladybird	leavehearsbistke (n)
+ladybug	krupelhintsjes
+lake	mar (m)
+lamb	lamme (n)
+land	lân (n)
+language	taal
+lanthanum	lanthaan
+lapwing	ljip
+large	grut
+laugh	laitsje
+lavender	lavindel
+lawrencium	lawrencium
+lead	liede
+leap	ljeppe
+learn	studearre
+least weasel	wezeling
+leg	skonk
+lemon	sitroen
+lemonade	limonade
+length	lingtemaat; lingte
+lesser spotted woodpecker	lytse eksterspjocht
+level	nivo
+life	libben
+light	ljocht (n)
+like	lykas
+lilac	nageltsjebeam
+linguistics	taalkunde (f)
+link	keppeling
+linnet	robyntsje
+lion	liuw
+literature	literatuer
+lithium	litium
+little	lyts
+little finger	pink
+little owl	stienûltsje
+live	libje
+lizard	hagedis
+long	hoarnûle
+love	graach meie oer
+luck	lok (n), gelok (n)
+lukewarm	lij
+lung	long
+lutetium	lutetium
+lynx	lynks
+magic	magy; tsjoend
+magician	tsjoender
+magnesium	magnesium
+magpie	ekster
+maize	mais (n)
+mallard	wylde ein
+man	minske
+manganese	mangaan
+market	merk
+marmot	bargemot, marmot
+marten	marter
+masculine	manlik
+maternal aunt	muoike (c)
+maternal grandfather	pake (m)
+maternal uncle	omke (m)
+mathematics	wiskunde
+matter	saak
+meat	fleis (n)
+meitnerium	meitnerium
+mendelevium	mendelevium
+mercury	kwik (n)
+merry	merie
+microorganism	mikro-organisme
+middle	midden (n)
+middle finger	middelste finger
+midwife	hoarnwiif (n), ferloskundige (c)
+mighty	machtich
+mildew	skimmel
+milk	molke (f)
+milliard	miljard
+minority	minderheid
+miracle	wûnder (n)
+modem	modem; oerset
+mole	mol (c)
+molybdenum	molybdeen
+money	munt
+monk	muonts
+month	moanne
+moon	moanne, maand
+morning	moarntiid; moarn
+mother	mem (f)
+mouflon	moeflon
+mountain	berch
+mourn	rouje
+mouse	mûs
+mouth	mûle
+mug	idioat; ezel 
+multiplication	fermannichfâldiging
+music	muzyk
+muskrat	muskusrôt
+must	moatte
+my	myn
+my name is	ik hjit
+nail	spiker
+name	namme
+narrow	smel
+nausea	mier
+needle	nuddel
+neodymium	neodymium
+neon	neon
+neptunium	neptunium
+neutrino	neutrino (m)
+never	nea
+new	aktueel
+news	nijs (n)
+newspaper	krante
+nickel	nikkel
+niece	nicht
+night	nacht
+nightingale	geal
+nine	njoggen
+nineteen	njoggentjin
+ninety	njoggentich
+ninth	njoggende ('abbreviation' 9e)
+niobium	niobium
+nitrogen	stikstof
+no	gjin
+nobelium	nobelium
+noble	eal
+nobody	nimmen
+nocturnal	nachtlik, nacht-
+noon	middei
+north	noarden (n), noard
+nose	noas
+not	net
+notebook	jeft
+noun	haadwurd (n)
+nowhere	nearne
+nut	nút
+oak tree	iik
+oat	hjouwer
+obedient	mak
+of	fan
+old	âld
+on	oan; by
+one	ien
+onion	sipel (c)
+open	iepen
+or	of
+order	skift
+organ	oargel (n)
+originally	orzjineel
+osmium	osmium
+ostrich	strúsfûgel
+other	oar
+otter	fiskotter
+our	ús
+out of	út
+oven	ûne
+over	oer
+owl	ûle
+oxygen	soerstof
+pair of compasses	passer#West Frisian'passer (c)
+pair of eyeglasses	bril (n)
+pair of glasses	bril
+pair of specs	bril (n)
+pair of spectacles	bril (n)
+palladium	palladium
+panorama	panorama (n)
+paper	papier (n)
+parliament	parlemint (n)
+parrot	pappegaai
+participle	mulwurd
+partridge	patriis
+party	feestje (n)
+password	wachtwurd (n)
+paternal aunt	muoike
+paternal grandfather	pake (m)
+paternal uncle	omke (m)
+path	paad (n)
+patriarch	stamfaar
+pay	betelje
+peach	pjisk; perzik 
+peacock	pau
+pear	par
+pencil	potlead (n)
+peninsula	skiereilân (n)
+penis	pyst
+penknife	knyft
+people	folk; lju
+pepper	piper
+perch	bears
+peregrine falcon	noardske falk
+perpendicular	leadline
+person	minske
+pheasant	fazant
+philosopher	filosoof; wiisgear
+philosophy	filosofy
+phosphorus	fosfor#West Frisian'fosfor
+photography	fotografy; fotografie
+pie	taart
+pig	baarch (c)
+pigeon	do
+piglet	bigge, biggel
+pineapple	ananas#West Frisian'ananas
+place	plak
+planet	planeet
+platinum	platina (n)
+pleasant	noflik
+plough	ploech
+plum	prom
+plural	meartal (n)
+plutonium	plutonium
+polar bear	iisbear
+polecat	murd
+police	polysje
+polonium	polonium
+poor	earm
+porcupine	ychel
+postcard	brievekaart
+potassium	kalium
+potato	ierappel
+praseodymium	praseodymium
+pray	beade
+precise	preciis
+pregnancy	swierwêzen
+pregnant	swier
+preposition	ferhâldingswurd (n)
+present tense	notiid
+prison	finzenis
+promethium	promethium
+pronoun	foarnamwurd (n)
+pronunciation	útspraak
+property	eigenskip
+protactinium	protactinium
+proud	rom; grutsk
+pull	trekke; lûke
+pumpkin	klabats
+purple	pears
+push	triuwe
+quail	kwartel
+queen	keningin
+quickly	hurd, fluch, gau
+quiver	koker (n)
+quotation marks	oanhelteken (n) [„◌”]
+rabbit	knyn
+radon	radon (n)
+railway	spoarwei
+rain	reine
+rainbow	reinbôge
+raisin	rezyn
+rat	rôt
+raven	raven
+read	lêze
+reality	wierheid
+recalcitrant	dôfhûdich
+recent	farsk
+recently	koartlyn
+red	read#West Frisian'read
+red deer	reahart
+redbreast	readboarstke (n)
+redshank	tsjirk
+rein	leie, jaling
+reliable	fertroud
+religion	religy
+reptile	reptyl
+reward	lean (n)
+rhenium	rhenium
+rhinoceros	noashoarn
+rhodium	rhodium
+rice	rys
+rich	ryk
+ride	ride
+ring	ring
+ring finger	ringfinger
+river	rivier; stream
+rix	ryksdaelder
+road	dyk
+robin	readboarstke
+roe deer	ree
+rook	stins
+rooster	hoanne
+root	woartel
+rough	rûch
+rubidium	rubidium
+ruin	Ruïne
+ruthenium	ruthenium
+rutherfordium	rutherfordium
+saddle	seal
+safe	feilich
+salt	sâlt
+samarium	samarium
+sand	sân (n)
+sandwich	brogge
+sausage	woarst
+saw	seage
+say	sizze, stean
+scaffold	skavot (n)
+scandium	scandium
+science	wittenskip
+scientific	wittenskiplik
+scissors	skjirre
+screech owl	goudûle
+sea	see#West Frisian'see (f)
+seaborgium	seaborgium
+season	jiertiid
+seaweed	seewier (n)
+second	sekonde; efkes (n)
+secondhand	twaddehâns
+secret	geheim
+secretly	temûk
+see	sjen
+seek	sykje
+seem	lykje
+selenium	seleen
+self	sels
+send	stjoere
+seven	sân
+seventeen	santjin
+seventh	sânde ('abbreviation' 7e)
+seventy	santich
+sewing machine	naaimasine
+shadow	skaad (n)
+shall	sille
+she	hja; sy
+sheep	skiep
+shield	skyld (n)
+shirt	himd
+shit	skyt
+shoe	skoech
+shrew	pipermûs (f)
+sick	siik
+side	kante
+sieve	souje, souwe
+sift	siften
+silicon	silisium
+silver	sulver
+simple	ienfâldich
+since	sûnt
+singular	iental
+sink	oanrjocht
+sister	sus
+sit	sitte
+six	seis
+sixteen	sechstjin
+sixth	sechste, seisde ('abbreviation' 6e)
+sixty	sechstich
+skeleton	bonkerak
+skilful	betûft
+skilled	betûft
+skin	hûd
+skirt	jûpe (f)
+skull	plasse
+sky	himel
+skylark	ljurk
+small	lyts, jong
+snail	slak
+snake	slange
+snow	snije
+soccer	fuotbal 
+sodium	natrium (n)
+softly	súntsjes
+solar eclipse	sinnefertsjustering
+solar wind	sinnewyn
+soldier	soldaat
+something	eat
+somewhere	earne
+son	soan
+soon	tel
+sound	lûd
+source	boarne (n)
+south	súd, súdlik
+sparrow	mosk
+sparrow hawk	sparwer
+speak	sprekke
+spectacles	bril (n)
+spider	spin
+spirit	geast
+spit	fliber (n)
+spoon	leppel, spoen (the latter is considered antiquated and usually refers to a chip of wood)
+spring	springe
+squirrel	iikhoarntsje (n)
+star	stjer
+starling	protter
+state	steat
+stomach	mage
+stone	stien
+stop	stûkje
+stork	earrebarre
+storm	stoarm (n)
+story	sêge
+strange	frjemd, frjemde, nuver, nuvere
+strawberry	ierdbei
+street	strjitte
+strict	twang
+strife	strijf, striid
+stroke	streakje
+strong	sterk
+strontium	strontium
+submarine	ûnderseeboat (n)
+subway	metro
+sugar	sûker
+suitcase	bûse (n)
+sulfur	swevel (n)
+summer	simmer
+sun	sinne
+support	stipe (n)
+surround	omjaan
+swallow	swel, boereswel
+swan	swan (m)
+sweat	swit (n)
+sweets	snobberij
+swim	swimme
+sword	swurd (n)
+tail	sturt
+talented	betûft
+talk	petear
+tantalum	tantaal
+taste	priuwe
+tawny owl	wâldûle
+tea	tee
+teacher	learaar
+technetium	technetium
+tellurium	telluur
+ten	tsien
+tench	mûdhûn
+tenth	tsiende
+terbium	terbium
+tern	stirns
+textbook	skriuwboek
+thallium	thallium
+the	de 'f,m and pl.', 'e 'f and m', it (n), 't (n)
+there	dêr
+therefore	dêrom
+they	hja; sy; se
+thing	ding (n)
+third	tredde ('abbreviation' 3e)
+thirst	toarst
+thirteen	trettjin
+thirteenth	trettjinde
+thirty	tritich
+this	dit; dizze
+thorium	thorium
+thorn	toarn
+thousand	tûzen
+three	trije
+through	troch
+thulium	thulium
+thumb	tomme
+thunder	daverje
+tiger	tiger
+time	tiid
+time zone	tiidsône, tiidssône
+tin	tin
+tired	wurch
+tit	mies
+titanium	titaan
+to	nei
+toad	pod; podde
+tobacco	tabak
+today	hjoed de dei, no#West Frisian'no
+toddler	beuker (n)
+toe	tean, tien
+together	gear
+tom	boarre
+tomorrow	moarn
+tongue	tonge
+tonight	jûn
+tool	ark (n)
+tooth	tosk
+tortoise	skyldpod
+town	stêd
+translate	oersette
+translation	oersetting
+translator	oersetter (m)
+trash	ôffal (n)
+tree	beam
+triangle	trijehoek
+trout	forel (c)
+truth	wierheid
+tungsten	wolfraam
+turkey	kalkoen
+turtle	skylpod
+turtle dove	toarteldo
+tusk	slachttosk
+twelfth	tolfde, tolfte
+twelve	tolf, tolve
+twenty	fjouwerentweintich
+twenty two	twaentweintich
+twin	twilling 
+two	twa
+udder	jaar
+uhlan	ulan
+uncle	omke (m)
+understand	ferstean; begripe
+universe	hielal
+until	oant
+up to	oant; oant en mei
+upgrow	opwaakse
+uranium	uranium
+us	ús
+use	brûke
+useful	nuttich
+user	brûker
+vagina	fagina; skie
+valley	dal (n)
+value	djoerst (n)
+vanadium	vanadium
+vegetable	griente
+verb	tiidwurd (n)
+very	tige; frij
+vessel	doaze
+village	doarp (n)
+violin	fioele
+volcano	fulkaan
+vole	wrotmûs
+vulture	gier
+wall	ferdigeningswâl, fêstingswâl, stêdsmuorre
+wallet	boekje (n)
+war	oarloch, kriich
+warm	waarm
+water	wetter jaan
+watercress	wyt wetterleppeltsje
+way	wei
+we	wy
+weapon	wapen
+wear	skuorre
+weasel	marter
+weather	waar (n)
+wedding	brulloft (n)
+weed	kjitten (n)
+week	wike
+welcome	ferwolkomje
+well	welle
+west	westlik
+what	dy't
+wheat	weet (c)
+wheel	tsjil (n)
+when pigs fly	as de keallen op it iis dûnsje 
+where	dêr't
+wherefore	wêrom
+which	dy't
+while	skoft (n)
+whilst	wylst
+whimbrel	wetterwylp
+whip	swipe
+whisper	flústerje
+white	wyt (n)
+who	wa't
+whole	hiel
+why	wêrom
+wicked	glûpsk
+widow	widdo
+wife	wiif; frou
+wild boar	wylde baarch
+wildcat	wylde kat
+willow	wylch
+wind	wyn
+windmill	wynmûne
+window	ramte
+wine	wyn
+wing	wjuk; flerk
+winter	winter#West Frisian'winter
+wisent	wisint
+wishlist	ferlanglist
+witch	tsjoendster
+with	mei
+wolf	wolf#West Frisian'wolf
+woman	frou; wiif
+wonder	wûnder (n)
+wood	hout (n)
+woodlouse	krobbe
+woodpecker	spjocht
+woods	bosk (n), wâld (n)
+word	wurd (n)
+work	wurk
+workers of the world, unite	arbeiders fan alle lannen, ferien!
+world	wrâldsje
+world war	wrâldkriich; wrâldoarloch
+wrath	grime
+wrestle	wrakselje
+write	skriuwe
+xenon	xenon
+year	jier (n)
+yellow	giel
+yes	ja
+yesterday	juster
+you	dy; jo
+young	jong
+your	jim
+ytterbium	ytterbium
+yttrium	yttrium
+zero	nul#West Frisian'nul
+zinc	sink#West Frisian'sink (n)

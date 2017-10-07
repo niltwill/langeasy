@@ -1,0 +1,12 @@
+﻿English	Bosnian
+drink	piti, piti
+eat	jesti, jesti
+give	dati, dati
+have	imati, imati
+sell	prodati, prodavati
+smile	osmijeh
+ask	pitati, pitati
+hate	mrziti, mrziti
+name	imenovati, naditi
+send	poslati, slati
+thank	zahvaliti, zahvaliti

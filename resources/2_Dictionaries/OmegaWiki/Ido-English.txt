@@ -1,0 +1,385 @@
+Ido	English
+Abidjan	Abidjan
+Abuja	Abuja
+Adriatiko	Adriatic Sea
+Albania	Albania ; Republic of Albania
+Aljeria	Algeria ; People's Democratic Republic of Algeria
+Usana Samoa	American Samoa
+Andora	Andorra ; Principality of Andorra
+Anguila	Anguilla
+april	April
+arab	Arabic ; Standard Arabic
+Arizona	Arizona
+Armenia	Armenia
+Aruba	Aruba
+agosto	August
+Austria	Austria ; Republic of Austria
+Azerbaijan	Azerbaijan ; Republic of Azerbaijan
+Bahrain	Bahrain
+Baleariske Øer	Balearic Islands
+Bangladesh	Bangladesh ; People's Republic of Bangladesh
+Belize	Belize
+Belmopan	Belmopan
+Bhutan	Bhutan ; Kingdom of Bhutan
+Birmingham	Birmingham
+Bolivia	Bolivia ; Republic of Bolivia
+Botswana	Botswana ; Republic of Botswana
+Bouvet Insulo	Bouvet Island
+Brazil	Brazil
+Brunei	Brunei ; Negara Brunei Darussalam
+Bulgaria	Bulgaria ; Republic of Bulgaria
+Burundi	Burundi ; Republic of Burundi
+Kambodja	Cambodia ; Kingdom of Cambodia
+Kamerun	Cameroon ; Republic of Cameroon
+Karibeano	Caribbean Sea
+Chad	Chad ; Republic of Chad
+Chili	Chile ; Republic of Chile
+Kristo-nasko	Christmas
+Kolumbia	Colombia ; Republic of Colombia
+Kuba	Cuba ; Republic of Cuba
+Chipro	Cyprus ; Republic of Cyprus
+Dakar	Dakar
+decembro	December
+defino	Definition ; definition
+Dominikana Republiko	Dominican Republic
+Egiptia	Egypt ; Arab Republic of Egypt
+Eiffel Turmo	Eiffel Tower
+Salvadoria	El Salvador ; Republic of El Salvador
+Eritrea	Eritrea
+Estonia	Estonia ; Republic of Estonia
+Etiopia	Ethiopia ; Federal Democratic Republic of Ethiopia
+Faero	Faroe Islands
+februaro	February
+Francia	France
+Franca Polinezia	French Polynesia
+Gaborone	Gaborone
+Gambia	Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia
+Georgia	Georgia
+Ghana	Ghana ; Republic of Ghana
+Gibraltar	Gibraltar
+Grenlando	Greenland
+Grenada	Grenada
+Guadelupe	Guadeloupe
+Guam	Guam ; Guam ; Guam
+Nederlando	Holland ; Kingdom of the Netherlands ; The Netherlands
+Honduras	Honduras ; Republic of Honduras
+Hungaria	Hungary ; Republic of Hungary
+Ido	Ido ; Ido
+Indonesia	Indonesia ; Republic of Indonesia
+Iran	Iran ; Islamic Republic of Iran
+Israel	Israel ; State of Israel
+Ivora Rivo	Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire
+Jakarta	Jakarta ; Djakarta ; DKI Jakarta
+Jamaika	Jamaica
+Japonia	Japan ; State of Japan
+Jersey	Jersey ; Bailiwick of Jersey
+julio	July
+junio	June
+Kenia	Kenya ; Republic of Kenya
+Khartoum	Khartoum
+Kiribati	Kiribati ; Republic of Kiribati
+Kirgizistan	Kyrgyzstan ; Kyrgyz Republic
+Lagos	Lagos
+Latvia	Latvia ; Republic of Latvia
+Lesoto	Lesotho ; Kingdom of Lesotho
+Liberia	Liberia ; Republic of Liberia
+Libia	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+Infra-Saxonia	Lower Saxony
+Malawi	Malawi ; Republic of Malaŵi
+Malta	Malta ; Republic of Malta
+marto	March
+Martinik	Martinique
+Mauritania	Mauritania ; Islamic Republic of Mauritania
+Milano	Milan
+Lakto-voyo ; Laktovoyo	Milky Way ; Galaxy
+Monako	Monaco
+Montenegro	Montenegro
+Montserrat	Montserrat
+Maroko	Morocco ; Kingdom of Morocco
+Myanmar	Myanmar
+Nairobi	Nairobi
+Namibia	Namibia
+Neptuno	Neptune
+Nova-Kaledonia	New Caledonia
+Nova-Zelando	New Zealand
+Nikaragua	Nicaragua
+Niue	Niue
+Norvegia	Norway ; Kingdom of Norway
+Novial	Novial
+Pakistan	Pakistan ; Islamic Republic of Pakistan
+Panama	Panama
+Papua Nov-Guinea	Papua New Guinea
+Peru	Peru ; Republic of Peru
+Polonia	Poland
+Portugal	Portugal
+Porto-Riko	Puerto Rico
+Republiko Kongo	Republic of the Congo ; Congo-Brazzaville
+Rumania	Romania
+St Pierre e Mikelon	Saint-Pierre and Miquelon
+Senegal	Senegal
+Slovakia	Slovakia
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Surinam	Suriname
+Suisia	Switzerland
+Tanzania	Tanzania
+Tennessee	Tennessee
+Tailando	Thailand
+Togo	Togo
+Tonga	Tonga
+Turkia	Turkey
+Uganda	Uganda ; Republic of Uganda
+Utah	Utah
+Vaduz	Vaduz
+Vatikano	Vatican City ; The Holy See ; State of the Vatican City
+Venezuela	Venezuela
+Venizia	Venice
+Wallis e Futuna Insuli	Wallis and Futuna ; Territory of the Wallis and Futuna Islands
+Vikivortaro	Wiktionary
+Zanzibar	Zanzibar
+Zimbabwe	Zimbabwe ; Republic of Zimbabwe
+amplitudo	aAmplitude ; amplitude
+acidento	accident
+aktiniumo	actinium
+alkemio	alchemy
+aluminio	aluminium
+americio	americium
+anagramo	anagram
+stifto	ankle ; talocrural joint
+antilopo	antelope
+antimonio	antimony
+antitezo	antithesis
+antonimo	antonym
+sempre	anytime
+apoptozo	apoptosis
+pomo	apple
+argon	argon
+arterio	artery
+artrito	arthritis
+astatino	astatine
+asimptoto	asymptote
+atolo	atoll
+avara	avaricious
+bario	barium
+hordeo	barley
+basamento	basement
+abelo	bee
+berkelio	berkelium
+berilio	beryllium ; glucinium
+plu bona	better
+inter	between
+biciklo	bicycle ; bike ; cycle
+duopla stelo	binary star
+parturo	birth ; birth ; birth ; childbirth ; childbirth ; childbirth ; parturition
+bismuto	bismuth
+blogo	blog ; weblog ; web log
+borono	boron
+portar	bring
+bromo	bromine
+cesio	caesium
+kafeino	caffeine
+kalcio	calcium
+kalifornio	californium
+kamelo	camel
+kamero	camera
+karbo	carbon
+karbo dioxido	carbon dioxide
+kastelo	castle
+kaviaro	caviar
+celerio	celery
+cerio	cerium
+sampanye	champagne
+danko	cheers ; thank you ; thanks
+cerizo	cherry
+shak-ludo	chess
+kolesterolo	cholesterol
+kromio	chromium
+kobalto	cobalt
+blato	cockroach
+kafeo	coffee
+kemiala kompozito	compound ; chemical compound
+kupro	copper
+kristalo	crystal
+kristalografio	crystallography
+kuriumo	curium
+danso	dance
+cervo	deer
+detersivo	detergent
+dialekto	dialect
+vortaro	dictionary
+diocezo ; diocezo	diocese ; diocese
+asno	donkey ; ass
+drinkar	drink ; gulp ; quaff ; sip
+sika	dry
+dislexio	dyslexia
+disprozio	dysprosium
+frue	early
+kudo	elbow
+vakua	empty
+epilepsio	epilepsy
+equaciono	equation
+equatoro	equator
+erbio	erbium
+europio	europium
+administrado financala	financial management
+fingro	finger
+fluoro	fluorine
+fonteno	fountain
+francio	francium
+dolo	fraud
+liber-kambio	free trade
+gadolino	gadolinium
+galio	gallium
+gangreno	gangrene
+germanio	germanium
+oro	gold
+granit	granite
+vit-bero	grape
+gilotino	guillotine ; guillotine ; guillotine
+hafnio	hafnium
+barbisto	hairdresser ; barber
+danjeroza substanco	hazardous substance
+holmio	holmium
+domo	home ; home ; house
+regulademo	homeostasis
+homonimo	homonym
+hidrogeno	hydrogen
+hieno	hyena
+indio	indium
+individuo	individual
+interna cirkumajo	indoor environment
+iodo	iodine
+iridio	iridium
+fero ; ferro	iron
+shakalo	jackal
+jaguaro	jaguar
+klavaro	keyboard
+kleptomanio	kleptomania
+kriptono	krypton
+lantano	lanthanum
+gambo	leg
+citrono	lemon
+biblioteko	library
+vivo-cienco	life science
+litio	lithium
+logiko	logic
+lutecio	lutetium
+magnezio	magnesium
+mangano	manganese
+urbestro	mayor
+merkurio	mercury
+metaforo	metaphor
+metafiziko	metaphysics
+lakto	milk
+molibdeno	molybdenum
+muzeo	museum
+muziko	music
+nekroso	necrosis
+neodimio	neodymium
+neologismo	neologism
+neono	neon
+jurnalo	newspaper
+nikelo	nickel
+niobio	niobium
+nitro	nitrogen
+nulo	nothing
+substantivo	noun ; substantive
+polpo	octopus
+olivo	olive
+ontologio	ontology
+optiko	optics
+od	or
+osmio	osmium
+oxo	oxygen
+ostro	oyster
+pagino	page
+paleontologio	palaeontology
+paladio	palladium
+papagayo	parrot
+piro	pear
+krayono	pencil
+peninsulo	peninsula
+periodala tabelo dil elementaro	periodic table
+filologio	philology
+filozofio	philosophy
+phishing	phishing
+telefonilo	phone ; telephone
+fonetiko	phonetics
+fosfo	phosphorus
+fotografuro	photo ; photograph
+kolombo	pigeon ; dove
+plano	plane
+platino	platinum
+plutonio ; plutonio ; plutonio	plutonium ; plutonium ; plutonium
+polonio	polonium
+polimero	polymer
+kalio	potassium
+prazeodimio	praseodymium
+prometio	promethium
+protaktinio	protactinium
+radiumo	radium
+radono	radon
+ciel-arko	rainbow
+rekomendo	recommendation
+rinovigebla fonto di energio	renewable energy source
+renio	rhenium
+rodio	rhodium
+rubidio	rubidium
+rutenio	ruthenium
+salmono	salmon
+samario	samarium
+sardino	sardine
+skandio	scandium
+selenio	selenium
+semantiko	semantics
+server	server
+sutar	sew
+siliko	silicon
+arjento	silver
+sociala psikologio	social psychology
+kalzeto	sock
+stelo	star
+stomako	stomach
+frago	strawberry
+stroncio	strontium
+sulfo	sulphur
+kirurgio	surgery
+sintaxo	syntax
+sifiliso	syphilis
+tantalo	tantalum
+teo	tea
+instruktar	teach
+teknecio	technetium
+telurio	tellurium
+terbio	terbium
+talio	thallium
+torio	thorium
+tulio	thulium
+stano	tin
+titanio	titanium
+topologio	topology
+treno	train
+voyajar	travel
+arboro	tree
+trofeo	trophy
+tundra	tundra
+wolframo	tungsten
+jemelo	twin
+ununbium	ununbium
+uranio	uranium
+vanadio	vanadium
+viteyo	vineyard
+aquo	water
+frumento	wheat
+blanka ; blanko	white
+blanka	white
+vorto	word
+mondo-milito	world war
+xenono	xenon
+yiterbio	ytterbium
+yitrio	yttrium
+zebro	zebra
+zinko	zinc
+zirkonio	zirconium
+zoologio	zoology
+Alando	Åland Islands

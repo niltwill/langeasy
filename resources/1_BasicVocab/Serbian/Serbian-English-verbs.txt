@@ -1,0 +1,10 @@
+Serbian	﻿English
+piti	drink
+dobiti	get
+poljubac	kiss
+pokret	move
+igra	play
+osmeh	smile
+kopirati	copy
+kašljati	cough
+iznenađenje	surprise

@@ -1,0 +1,9 @@
+﻿English	Polish
+and	i
+because	ponieważ
+for	ponieważ
+if	jeśli
+or	albo
+than	niż
+until	do
+whenever	kiedykolwiek

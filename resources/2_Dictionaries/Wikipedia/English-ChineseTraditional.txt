@@ -1,0 +1,295 @@
+﻿English	Chinese
+1	公元元年
+100	公元百年
+Abel Tasman	阿貝爾·塔斯曼
+Abelian group	交換群
+Absolute value	絕對值
+Adam Smith	斯密亞丹
+Africa	阿非利加洲
+Agriculture	農
+Air force	空師
+Algebra	代數學
+Algebra	Category:代數
+Algebraic number	代數數
+Andaman Sea	安達曼海
+Angle	角
+Antarctica	南極洲
+Arabic language	阿拉伯語
+Arts	Category:藝術
+Asia	亞細亞洲
+Australia	澳大利亞
+Autumn	秋
+Axiom	公理
+Aztec	阿兹特克
+Balkans	巴爾幹半島
+Bangkok	曼谷
+Barley	大麥
+Baseball	棒球
+Beijing	北京市
+Bering Strait	白令海峽
+Big Bang	大霹靂
+Biology	生物學
+Black	黑
+Blaise Pascal	帕斯卡
+Braille	盲文
+Brain	腦
+Buddhism	佛教
+Buenos Aires	布宜諾斯艾利斯
+Butterfly effect	蝴蝶效應
+Callisto (moon)	木衛四
+Cambodia	柬埔寨
+Canada	加拿大
+Cantonese (linguistics)	粵語
+Capital	京
+Capital punishment	死刑
+Cartesian product	直積
+Carthage	迦太基
+Cat	貓
+Chemistry	化學
+Christianity	基督教
+Christmas	聖誕節
+Chronology	Category:紀年
+Cocos (Keeling) Islands	科科斯（基林）群島
+Communism	共產主義
+Complex number	複數
+Computer software	軟體
+Confucianism	儒家
+Confucius	孔子
+Continent	大陸
+Corsica	科西嘉
+Costa Rica	哥斯大黎加
+Cyrillic alphabet	西里爾字母
+Czech Republic	捷克
+Dante Alighieri	但丁
+Dative case	與格
+Death	亡
+Demography	Category:人口統計之學
+Denmark	丹麥
+Desert	沙漠
+Diana	威爾斯王妃黛安娜
+Disambiguation	Category:釋義
+Earth	地球
+East	東
+Economics	Category:計學
+Edo	江戶
+Education	Category:教育
+El Cid	席德
+Encyclopedia	百科全書
+England	英格蘭
+English language	英語
+Eris (dwarf planet)	鬩神星
+Esperanto	世界語
+Euclid	歐几里得
+Europa (moon)	木衛二
+Europe	歐羅巴洲
+Fairy	精靈
+Family name	姓
+Field (mathematics)	域 (代數)
+Firearm	槍
+Football (soccer)	足球
+France	法國
+Francisco Pizarro	皮薩羅
+Franz Liszt	李斯特
+Fruit	Category:果
+Function (mathematics)	映射
+Fundamental	Category:類
+Ganymede (moon)	木衛三
+Garlic	蒜
+Gautama Buddha	釋迦牟尼
+Geography	門:方誌
+Geometry	幾何
+Geometry	Category:幾何
+George Bernard Shaw	蕭伯納
+George Washington	華盛頓
+German language	德語
+Germany	德國
+Germany	Category:德國史
+Glasses	眼鏡
+Global warming	全球暖化
+Grammar	語法
+Great Barrier Reef	大堡礁
+Great Wall of China	長城
+Greece	希臘
+Group (mathematics)	群 (代數)
+Gulf of Thailand	泰國灣
+Haiku	俳句
+Han Dynasty	漢
+Helium	氦
+History	史
+History	Category:史
+History	門:史
+Homosexuality	同性戀
+Hong Kong	香港
+Hong Kong	Category:香港
+Hungary	匈牙利
+Hydrogen	氫
+Iberian Peninsula	伊比利半島
+Incheon	仁川
+India	印度
+Indochina	中南半島
+Indonesia	印度尼西亞
+Inner Mongolia	內蒙古
+Integer	整數
+Intersection (set theory)	交集
+Io (moon)	木衛一
+Ion	離子
+Isaac Newton	牛頓
+Islam	回教
+Italian Peninsula	義大利半島
+Italy	義大利
+James Cook	詹姆斯·庫克
+Japan	日本
+Johann Sebastian Bach	巴赫
+John von Neumann	溤諾曼
+Justinian I	查士丁尼一世
+Kazakhstan	哈薩克
+Kimono	和服
+Lake Balaton	巴拉頓湖
+Laos	老撾
+Law	法律
+Leonhard Euler	歐拉
+Linguistics	語言學
+Logic	理則
+London	倫敦
+Ludwig van Beethoven	貝多芬
+Lydia	呂底亞
+Macau	澳門
+Magna Carta	大憲章
+Mahatma Gandhi	甘地
+Malaysia	馬來西亞
+Mammoth	長毛象
+Mandarin (linguistics)	官話
+Map	地圖
+Market	市場
+Marriage	夫妻
+Martin Luther	馬丁·路德
+Match	火柴
+Mathematical proof	證明
+Mathematics	數學
+Mathematics	Category:數學
+Mathematics	門:數學
+Mauna Loa	毛納洛峰
+Mayor	首長
+Metaphysics	形而上學
+Metric space	度量空間
+Mexico	墨西哥
+Middle East	中東
+Ming Dynasty	明
+Minneapolis	明尼阿波利斯
+Moon	月
+Moscow	莫斯科
+Mount Everest	珠穆朗瑪峰
+Nanjing	南京
+Nanotechnology	納米科技
+Natural number	自然數
+Natural selection	天擇
+Netherlands	尼德蘭
+Newton	牛頓 (單位)
+Niagara Falls	尼亞加拉瀑布
+Nigeria	尼日利亞
+Nominative case	主格
+North Korea	朝鮮民主主義人民共和國
+North Pole	北極
+Ocean	洋
+Oceania	大洋洲
+Ottoman Empire	鄂圖曼帝國
+Pacific Ocean	太平洋
+Pakistan	巴基斯坦
+Panama	巴拿馬
+Papal States	教廷諸屬國
+Password	符節
+Peach	桃
+People's Republic of China	中華人民共和國
+Persian Empire	波斯
+Philosophy	門:子
+Phnom Penh	金邊
+Physics	物理
+Planet	行星
+Plant	植物
+Pluto	冥王星
+Politics	Category:政治
+Population	人口
+Portugal	葡萄牙
+Proton	質子
+Pyongyang	平壤
+Qing Dynasty	清
+Quadrilateral	四邊形
+Quaternion	四元數
+Rational number	分數
+Real number	實數
+Religion	Category:宗教
+Renaissance	文藝復興
+Republic of China	中華民國
+Rhea (moon)	土衛五
+Rice	稻
+Ring (mathematics)	環 (代數)
+Robin Hood	羅賓漢
+Romania	羅馬尼亞
+Rome	羅馬
+Russia	俄羅斯
+Saddam Hussein	薩達姆·海珊
+Salman Rushdie	西爾門·拉什迪
+Science	格致
+Sea level	海平面
+Sea of Japan	日本海
+Season	四季
+Seoul	首爾
+Set	集
+Set theory	集論
+Shanghai	上海
+Shikoku	四國
+Ship	船舶
+Shogun	征夷大將軍
+Society	Category:社稷
+Solar eclipse	日食
+South China Sea	南海
+South Korea	大韓民國
+Spain	西班牙
+Sparta	斯巴達
+Speed of light	光速
+Spring (season)	春
+Star	恒星
+State	國
+Subset	子集
+Summer	夏
+Sun	日
+Sun Yat-sen	孫文
+Sunflower	向日葵
+Switzerland	瑞士
+Syntax	語法學
+Taipei	臺北市
+Taiwan	臺灣
+Tang Dynasty	唐
+Tank	坦克
+Tea	茶
+Technology	Category:技術
+Tethys (moon)	土衛三
+Thailand	泰國
+Tianjin	天津市
+Titan (moon)	土衛六
+Topology	拓撲學
+Topology	Category:拓撲學
+Tornado	龍捲風
+Transportation	Category:交通
+Triangle	三角形
+Trigonometric function	三角函數
+Triton (moon)	海衛一
+Ukraine	烏克蘭
+Union (set theory)	並集
+United Kingdom	英國
+United Nations	聯合國
+United States	美國
+United States dollar	美金
+Universe	宇宙
+Uranus	天王星
+Venus	金星
+Vietnam	越南
+War	Category:戰爭
+Water	水
+Winter	冬
+Wolfgang Amadeus Mozart	莫扎特
+Wuhan	武漢市
+Xinjiang	新疆
+Yellow River	黃河
+Yellow Sea	黃海
+Yuan Dynasty	元

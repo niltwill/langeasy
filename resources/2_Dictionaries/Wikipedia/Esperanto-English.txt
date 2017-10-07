@@ -1,0 +1,6586 @@
+Esperanto	English
+Nulo	0 (number)
+1	1
+Unu	1 (number)
+10	10
+Dek	10 (number)
+100	100
+Cent	100 (number)
+1000	1000
+Mil	1000 (number)
+101	101
+105	105
+11	11
+Dek unu	11 (number)
+110	110
+115	115
+12	12
+Dek du	12 (number)
+120	120
+125	125
+13	13
+Dek tri	13 (number)
+130	130
+135	135
+14	14
+Dek kvar	14 (number)
+140	140
+144	144
+145	145
+15	15
+Dek kvin	15 (number)
+150	150
+155	155
+16	16
+Dek ses	16 (number)
+160	160
+165	165
+17	17
+Dek sep	17 (number)
+170	170
+1728	1728
+Kategorio:1728	1728
+175	175
+1750-aj jaroj	1750s
+1760-aj jaroj	1760s
+1770-aj jaroj	1770s
+1790-aj jaroj	1790s
+18	18
+Dek ok	18 (number)
+180	180
+1820-aj jaroj	1820s
+1840-aj jaroj	1840s
+1850-aj jaroj	1850s
+1860-aj jaroj	1860s
+1870-aj jaroj	1870s
+1880-aj jaroj	1880s
+1890-aj jaroj	1890s
+19	19
+Dek naŭ	19 (number)
+190	190
+1900-aj jaroj	1900s
+1920-aj jaroj	1920s
+1930-aj jaroj	1930s
+1940-aj jaroj	1940s
+1950-aj jaroj	1950s
+1960-aj jaroj	1960s
+1970-aj jaroj	1970s
+1980-aj jaroj	1980s
+1990-aj jaroj	1990s
+2	2
+Du	2 (number)
+20	20
+Dudek	20 (number)
+200	200
+21	21
+Dudek unu	21 (number)
+22	22
+Dudek du	22 (number)
+23	23
+Dudek tri	23 (number)
+24	24
+24 (televidserio)	24 (TV series)
+Dudek kvar	24 (number)
+25	25
+Dudek kvin	25 (number)
+26	26
+Dudek ses	26 (number)
+27	27
+Dudek sep	27 (number)
+28	28
+Dudek ok	28 (number)
+29	29
+Dudek naŭ	29 (number)
+3	3
+Tri	3 (number)
+30	30
+Tridek	30 (number)
+300	300
+31	31
+Tridek unu	31 (number)
+32	32
+Tridek du	32 (number)
+33	33
+Tridek tri	33 (number)
+34	34
+Tridek kvar	34 (number)
+35	35
+Tridek kvin	35 (number)
+36	36
+Tridek ses	36 (number)
+37	37
+Tridek sep	37 (number)
+38	38
+Tridek ok	38 (number)
+39	39
+Tridek naŭ	39 (number)
+4	4
+Kvar	4 (number)
+40	40
+Kvardek	40 (number)
+400	400
+41	41
+Kvardek unu	41 (number)
+42	42
+Kvardek du	42 (number)
+43	43
+Kvardek tri	43 (number)
+44	44
+45	45
+Kvardek kvin	45 (number)
+46	46
+Kvardek ses	46 (number)
+47	47
+48	48
+49	49
+Kvardek naŭ	49 (number)
+5	5
+Kvin	5 (number)
+50	50
+Kvindek	50 (number)
+500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+Ses	6 (number)
+60	60
+Sesdek	60 (number)
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+Sep	7 (number)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+Ok	8 (number)
+80	80
+Okdek	80 (number)
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+Naŭ	9 (number)
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+A	A
+A (cirila alfabeto)	A (Cyrillic)
+Voĉa muziko	A cappella
+ABC	ABC
+Aidoso	AIDS
+ATP	ATP
+Aachen	Aachen
+Aalborg	Aalborg
+Aro (rivero)	Aar
+Orikteropo	Aardvark
+Arhuzo	Aarhus
+Aaron	Aaron
+Abako (meĥanika kalkulilo)	Abacus
+Abadano	Abadan
+Abato	Abbot
+Mallongigo	Abbreviation
+Ventro	Abdomen
+Abel Tasman	Abel Tasman
+Komuta grupo	Abelian group
+Aberdeen	Aberdeen
+Abiĝano	Abidjan
+Abĥazio	Abkhazia
+Kategorio:Abĥazio	Abkhazia
+Aboliciismo	Abolitionism
+Aborto	Abortion
+Abraham	Abraham
+Abraham Lincoln	Abraham Lincoln
+Absinttrinkaĵo	Absinthe
+Absoluta magnitudo	Absolute magnitude
+Absoluta valoro	Absolute value
+Absolutismo	Absolutism (European history)
+Abstrakta arto	Abstract art
+Abstrakta ekspresionismo	Abstract expressionism
+Abstraktado	Abstraction
+Abu-Dabio	Abu Dhabi
+Abu-Dabio	Abu Dhabi (emirate)
+Abuĝo	Abuja
+Akacio	Acacia
+Akademia Premio	Academy Award
+Akapulko	Acapulco
+Akcelo	Acceleration
+Akcipitredoj	Accipitridae
+Akordiono	Accordion
+Kontado	Accountancy
+Akrao	Accra
+Akuzativo	Accusative case
+Aceta acido	Acetic acid
+Acetono	Acetone
+Etino	Acetylene
+Aĥilo	Achilles
+Acido	Acid
+Acida pluvo	Acid rain
+Aknohaŭto	Acne vulgaris
+Akonkagvo	Aconcagua
+Glano	Acorn
+Akustiko	Acoustics
+Kategorio:Akustiko	Acoustics
+Akreo (mezurunuo)	Acre
+Akko	Acre
+Akro (Brazilo)	Acre (state)
+Akropolo	Acropolis
+Aktinoido	Actinide
+Aktinio	Actinium
+Aktoro	Actor
+Agoj de la Apostoloj	Acts of the Apostles
+Akupunkturo	Acupuncture
+Adamo	Adam
+Adam Smith	Adam Smith
+Adana	Adana
+Baobabo	Adansonia
+Dependeco (medicino)	Addiction
+Adis-Abebo	Addis Ababa
+Adelajdo	Adelaide
+Adeno	Aden
+Adenino	Adenine
+Adenozina trifosfato	Adenosine triphosphate
+Izovarma proceso	Adiabatic process
+Adiĝo	Adige
+Adjektivo	Adjective
+Admiralo	Admiral
+Adolesko	Adolescence
+Adolf Eichmann	Adolf Eichmann
+Adolf Hitler	Adolf Hitler
+Adoniso	Adonis
+Adopto	Adoption
+Surrena glando	Adrenal gland
+Adriatiko	Adriatic Sea
+Plenkreskeco	Adult
+Advento	Advent
+Adverbo	Adverb
+Reklamo	Advertising
+Egea Maro	Aegean Sea
+Eneo	Aeneas
+Eneado	Aeneid
+Eolo	Aeolus
+Aerodinamiko	Aerodynamics
+Aerosolo	Aerosol
+Esĥilo	Aeschylus
+Ezopo	Aesop
+Estetiko	Aesthetics
+Afikso	Affix
+Afganio	Afghanistan
+Kategorio:Afganio	Afghanistan
+Afriko	Africa
+Kategorio:Afriko	Africa
+Afrikansa lingvo	Afrikaans
+Agamemno	Agamemnon
+Agaragaro	Agar
+Agato	Agate
+Agatha Christie	Agatha Christie
+Agreso	Aggression
+Senmakzeluloj	Agnatha
+Agnostikismo	Agnosticism
+Agoro	Agora
+Agrikulturo	Agriculture
+Kategorio:Agrikulturo	Agriculture
+Agrigento	Agrigento
+Aikido	Aikido
+Ain	Ain
+Aerarmeo	Air force
+Airbus	Airbus
+Aviadilo	Aircraft
+Aviadila ŝipo	Aircraft carrier
+Flugkompanio	Airline
+Flughaveno	Airport
+Aĥnaton	Akhenaten
+Kurosawa Akira	Akira Kurosawa
+Al Capone	Al Capone
+Al Gore	Al Gore
+Al-Kaida	Al-Qaeda
+Alabamo	Alabama
+Kategorio:Alabamo	Alabama
+Alan B. Shepard Jr.	Alan Shepard
+Alan Turing	Alan Turing
+Alanino	Alanine
+Alasko	Alaska
+Kategorio:Alasko	Alaska
+Alban Berg	Alban Berg
+Albanio	Albania
+Kategorio:Albanio	Albania
+Albany (Nov-Jorkio)	Albany
+Albatrosoj	Albatross
+Albedo	Albedo
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Schweitzer	Albert Schweitzer
+Albert Speer	Albert Speer
+Alberto	Alberta
+Kategorio:Alberto	Alberta
+Albinismo	Albinism
+Albito	Albite
+Muzikalbumo	Album
+Albuquerque (Nov-Meksiko)	Albuquerque
+Alkemio	Alchemy
+Kategorio:Alkemio	Alchemy
+Alkoholo	Alcohol
+Alkoholaĵo	Alcoholic beverage
+Alkoholismo	Alcoholism
+Aldebarano	Aldebaran
+Aldehido	Aldehyde
+Alno	Alder
+Aldous Huxley	Aldous Huxley
+Alec Guinness	Alec Guinness
+Aleksandr Solĵenicin	Aleksandr Solzhenitsyn
+Alepo	Aleppo
+Aleutoj	Aleutian Islands
+Alexander Fleming	Alexander Fleming
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Hamilton	Alexander Hamilton
+Alexander Pope	Alexander Pope
+Aleksandr Puŝkin	Alexander Pushkin
+Aleksandro la Granda	Alexander the Great
+Alexandre Dumas (patro)	Alexandre Dumas
+Alexandre Dumas (filo)	Alexandre Dumas
+Aleksandrio	Alexandria
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Dreyfus	Alfred Dreyfus
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Alfred Russel Wallace	Alfred Russel Wallace
+Alfredo la Granda	Alfred the Great
+Algo	Algae
+Algebro	Algebra
+Kategorio:Algebro	Algebra
+Alĝerio	Algeria
+Kategorio:Alĝerio	Algeria
+Alĝero	Algiers
+Algoritmo	Algorithm
+Alhambro	Alhambra
+Ali ibn Abi Talib	Ali
+Alkala metalo	Alkali metal
+Alkaloido	Alkaloid
+Alkano	Alkane
+Alkeno	Alkene
+Alkino	Alkyne
+Alaho	Allah
+Alegorio	Allegory
+Allen Ginsberg	Allen Ginsberg
+Alergio	Allergy
+Alofono	Allophone
+Alosaŭro	Allosaurus
+Alotropo	Allotropy
+Alojo	Alloy
+Jarlibro	Almanac
+Almato	Almaty
+Migdalujo	Almond
+Aloo	Aloe
+Alfo	Alpha (letter)
+Alfa Centaŭro	Alpha Centauri
+Alfa-radiado	Alpha particle
+Alfabeto	Alphabet
+Alpoj	Alps
+Kategorio:Alpoj	Alps
+Alzaco	Alsace
+Altairo	Altair
+Altaro	Altar
+Altajo	Altay Mountains
+Alterna kurento	Alternating current
+Alternativa medicino	Alternative medicine
+Aluminio	Aluminium
+Aluminia oksido	Aluminium oxide
+Alvar Aalto	Alvar Aalto
+Alchajmero	Alzheimer's disease
+Amarilidacoj	Amaryllidaceae
+Amazono (rivero)	Amazon River
+Ambasadoro	Ambassador
+Sukceno	Amber
+Amelia Earhart	Amelia Earhart
+Amerika bizono	American Bison
+Amerika nigra urso	American Black Bear
+Usona Enlanda Milito	American Civil War
+Usona Revolucio	American Revolutionary War
+Usona Samoo	American Samoa
+Askio	American Standard Code for Information Interchange
+Usona piedpilko	American football
+Americio	Americium
+Amerigo Vespucci	Amerigo Vespucci
+Ametisto	Amethyst
+Amhara lingvo	Amharic
+Amido	Amide
+Amino	Amine
+Aminoacido	Amino acid
+Amiŝismo	Amish
+Amano	Amman
+Ampermetro	Ammeter
+Amoniako	Ammonia
+Amnezio	Amnesia
+Amnestio	Amnesty
+Ampero	Ampere
+Amfibioj	Amphibian
+Amfiteatro	Amphitheatre
+Amforo	Amphora
+Amplitudo	Amplitude
+Amsterdamo	Amsterdam
+Amon-Reo	Amun
+Amuro	Amur
+Anabaptismo	Anabaptist
+Anagramo	Anagram
+Anusa seksumado	Anal sex
+Anarkiismo	Anarchism
+Kategorio:Anarkiismo	Anarchism
+Anasedoj	Anatidae
+Anatole France	Anatole France
+Kategorio:Anatomio	Anatomy
+Anatomio	Anatomy
+Anaksagoro	Anaxagoras
+Anaksimandro	Anaximander
+Ankro (ŝipo)	Anchor
+Anchorage	Anchorage
+Antikva greka lingvo	Ancient Greek
+Kategorio:Antikva historio	Ancient history
+Andaluzio	Andalusia
+Anders Celsius	Anders Celsius
+Andoj	Andes
+Andra-Pradeŝo	Andhra Pradesh
+Andoro	Andorra
+Kategorio:Andoro	Andorra
+Andrej Saĥarov	Andrei Sakharov
+Andrew Jackson	Andrew Jackson
+Andrew Johnson	Andrew Johnson
+Andrew Lloyd Webber	Andrew Lloyd Webber
+Andromedo (konstelacio)	Andromeda (constellation)
+Andromeda galaksio	Andromeda Galaxy
+Andy Warhol	Andy Warhol
+Anemio	Anemia
+Anestezo	Anesthesia
+Angara	Angara River
+Anĝelo	Angel
+Angulo	Angle
+Anglikanismo	Anglicanism
+Angolo	Angola
+Kategorio:Angolo	Angola
+Angvilo	Anguilla
+Angula movokvanto	Angular momentum
+Animalo	Animal
+Bredado	Animal husbandry
+Animacio	Animation
+Animeo	Anime
+Kategorio:Animeo	Anime
+Animismo	Animism
+Anizo	Anise
+Ankaro	Ankara
+Annapolis (Marilando)	Annapolis
+Anapurno	Annapurna
+Anelidoj	Annelid
+Anno Domini	Anno Domini
+Anodo	Anode
+Anoreksio	Anorexia nervosa
+Anseroformaj birdoj	Anseriformes
+Kategorio:Anseroformaj	Anseriformes
+Formiko	Ant
+Antakya	Antakya
+Antalya	Antalya
+Antananarivo	Antananarivo
+Antarkto	Antarctica
+Kategorio:Antarkto	Antarctica
+Antrakso	Anthrax
+Antropologio	Anthropology
+Kategorio:Antropologio	Anthropology
+Antropozofio	Anthroposophy
+Antibiotiko	Antibiotic
+Antikristo	Antichrist
+Antigona (mitologio)	Antigone
+Antigvo-Barbudo	Antigua and Barbuda
+Kategorio:Antigvo-Barbudo	Antigua and Barbuda
+Antimaterio	Antimatter
+Antimono	Antimony
+Antioksidanto	Antioxidant
+Kontraŭpapo	Antipope
+Antisemitismo	Antisemitism
+Pumpilo (konstelacio)	Antlia
+Antofagasta (urbo)	Antofagasta
+Antoine Lavoisier	Antoine Lavoisier
+Anton Bruckner	Anton Bruckner
+Anton Ĉeĥov	Anton Chekhov
+Antonio Stradivari	Antonio Stradivari
+Antonio Vivaldi	Antonio Vivaldi
+Antonimo	Antonym
+Antverpeno (urbo)	Antwerp
+Antverpeno (provinco)	Antwerp (province)
+Anubo	Anubis
+Anuso	Anus
+Aorto	Aorta
+Apaĉoj	Apache
+Apatito	Apatite
+Homoideoj	Ape
+Afazio	Aphasia
+Aforismo	Aphorism
+Afrodito (diino)	Aphrodite
+Apio	Apia
+Apiacoj	Apiaceae
+Apokrifoj	Apocrypha
+Apodoformaj birdoj	Apodiformes
+Apolono	Apollo
+Projekto Apollo	Apollo program
+Apalaĉaj Montoj	Appalachian Mountains
+Apendicito	Appendicitis
+Pomo	Apple
+Aplika matematiko	Applied mathematics
+Abrikoto	Apricot
+Aprilo	April
+14-a de aprilo	April 14
+Ŝercotago	April Fools' Day
+Absido	Apse
+Apulio	Apulia
+Paradizeo (konstelacio)	Apus
+Akabo	Aqaba
+Akvario	Aquarium
+Akvisto	Aquarius (constellation)
+Akvedukto	Aqueduct
+Aglo (konstelacio)	Aquila (constellation)
+Akvitanio	Aquitaine
+Altaro (konstelacio)	Ara (constellation)
+Araboj	Arab
+Ligo de Arabaj Ŝtatoj	Arab League
+Arabio	Arabian Peninsula
+Araba Maro	Arabian Sea
+Araba alfabeto	Arabic alphabet
+Araba lingvo	Arabic language
+Arumacoj	Araceae
+Araneoidoj	Arachnid
+Aragono	Aragon
+Aralo	Aral Sea
+Aram Ĥaĉaturjan	Aram Khachaturian
+Arkadio	Arcadia
+Arcangelo Corelli	Arcangelo Corelli
+Arko (arkitekturo)	Arch
+Arkeologio	Archaeology
+Kategorio:Arkeologio	Archaeology
+Arkeopterigo	Archaeopteryx
+Arkianĝelo	Archangel
+Ĉefepiskopo	Archbishop
+Arĥaiko	Archean
+Arketipo	Archetype
+Arkimedo	Archimedes
+Arkipelago	Archipelago
+Arkitekto	Architect
+Arkitekturo	Architecture
+Kategorio:Arkitekturo	Architecture
+Arkosaŭroj	Archosaur
+Arkto	Arctic
+Arkta Cirklo	Arctic Circle
+Arkta Oceano	Arctic Ocean
+Arkta vulpo	Arctic fox
+Ardenoj	Ardennes
+Ardennes (franca departemento)	Ardennes (department)
+Aro (mezurunuo)	Are
+Areo	Area
+Arekacoj	Arecaceae
+Areso	Ares
+Argentino	Argentina
+Kategorio:Argentino	Argentina
+Argono	Argon
+Ario	Aria
+Ariadna (diino)	Ariadne
+Arianismo	Arianism
+Ŝafo (konstelacio)	Aries (constellation)
+Aristokratio	Aristocracy
+Aristofano	Aristophanes
+Aristotelo	Aristotle
+Aritmetiko	Arithmetic
+Kategorio:Aritmetiko	Arithmetic
+Aritmetika vico	Arithmetic progression
+Arizono	Arizona
+Kategorio:Arizono	Arizona
+Kesto de interligo	Ark of the Covenant
+Arkansaso	Arkansas
+Kategorio:Arkansaso	Arkansas
+Arles	Arles
+Dazipo	Armadillo
+Armenio	Armenia
+Kategorio:Armenio	Armenia
+Armena lingvo	Armenian language
+Arminio (Ĥeruska tribestro)	Arminius
+Kiraso	Armour
+Arnhem	Arnhem
+Rivero Arno	Arno River
+Arnold Schönberg	Arnold Schoenberg
+Aromatoj	Aromatic hydrocarbon
+Arkebuzo	Arquebus
+Arras	Arras
+Arseno	Arsenic
+Arto	Art
+1925-stilo	Art Deco
+Secesio (stilo)	Art Nouveau
+Historio de arto	Art history
+Artemiso	Artemis
+Artemizio	Artemisia (plant)
+Absinto	Artemisia absinthium
+Arterio	Artery
+Artrito	Arthritis
+Artropodoj	Arthropod
+Arthur Holly Compton	Arthur Compton
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Miller	Arthur Miller
+Arthur Rimbaud	Arthur Rimbaud
+Arthur Schopenhauer	Arthur Schopenhauer
+Duko de Wellington	Arthur Wellesley
+Artefarita inteligenteco	Artificial intelligence
+Artilerio	Artillery
+Kategorio:Artilerio	Artillery
+Artisto	Artist
+Kategorio:Arto	Arts
+Arubo	Aruba
+Asbesto	Asbestos
+Asklepio	Asclepius
+Ásgarðr	Asgard
+Cindra Merkredo	Ash Wednesday
+Asurbanipal	Ashurbanipal
+Azio	Asia
+Kategorio:Azio	Asia
+Asmara	Asmara
+Asfalto	Asphalt
+Aspirino	Aspirin
+Asamo	Assam
+Atenco	Assassination
+Asembla lingvo	Assembly language
+ASEAN	Association of Southeast Asian Nations
+Asirio	Assyria
+Kategorio:Asirio	Assyria
+Astano	Astana
+Astato	Astatine
+Asteracoj	Asteraceae
+Kategorio:Asteracoj	Asteraceae
+Asteroido	Asteroid
+Asteroida zono	Asteroid belt
+Astenosfero	Asthenosphere
+Astmo	Asthma
+Astigmatismo	Astigmatism (eye)
+Astraĥan	Astrakhan
+Astrobiologio	Astrobiology
+Astrolabo	Astrolabe
+Astrologio	Astrology
+Kategorio:Astrologio	Astrology
+Astrometrio	Astrometry
+Kosmonaŭto	Astronaut
+Astronomo	Astronomer
+Astronomia unuo	Astronomical unit
+Astronomio	Astronomy
+Kategorio:Astronomio	Astronomy
+Portalo:Astronomio	Astronomy
+Astrofiziko	Astrophysics
+Kategorio:Astrofiziko	Astrophysics
+Asuano	Aswan
+Asimptoto	Asymptote
+Atakamo	Atacama Desert
+Atono	Aten
+Kategorio:Ateismo	Atheism
+Atena	Athena
+Ateno	Athens
+Kategorio:Atletiko	Athletics
+Atletiko	Athletics (track and field)
+Atlanta (Georgio)	Atlanta
+Atlantika Oceano	Atlantic Ocean
+Kategorio:Atlantika Oceano	Atlantic Ocean
+Atlantido	Atlantis
+Atlaso	Atlas (disambiguation)
+Atlasa Montaro	Atlas Mountains
+Atmosfero (astro)	Atmosphere
+Atolo	Atoll
+Atomo	Atom
+Atompezo	Atomic mass
+Atommasa unuo	Atomic mass unit
+Atomnumero	Atomic number
+Kategorio:Atoma fiziko	Atomic physics
+Atropino	Atropine
+Atiko	Attica
+Atilo la Huno	Attila the Hun
+Au	Au
+Auckland	Auckland
+Aŭkcio	Auction
+Aŭgusto	August
+1-a de aŭgusto	August 1
+15-a de aŭgusto	August 15
+6-a de aŭgusto	August 6
+August Strindberg	August Strindberg
+Augusta (Majno)	Augusta
+Auguste Comte	Auguste Comte
+Auguste Rodin	Auguste Rodin
+Aŭgusteno de Hipono	Augustine of Hippo
+Aŭgusto Cezaro	Augustus
+Koĉero (konstelacio)	Auriga (constellation)
+Aŭroro	Aurora
+Norda brilo	Aurora (astronomy)
+Aŭstino	Austin
+Aŭstralazio	Australasia
+Aŭstralio	Australia
+Kategorio:Aŭstralio	Australia
+Aŭstralia dolaro	Australian dollar
+Aŭstralopitekoj	Australopithecus
+Aŭstrio	Austria
+Kategorio:Aŭstrio	Austria
+Aŭstrio-Hungario	Austria-Hungary
+Aŭtoro	Author
+Aŭtismo	Autism
+Aŭtosporto	Auto racing
+Aŭtobiografio	Autobiography
+Elektronika bankskatolo	Automated teller machine
+Aŭtomobilo	Automobile
+Aŭtotrofo	Autotroph
+Aŭtuno	Autumn
+Aŭvernjo	Auvergne (region)
+Lavango	Avalanche
+Avataro	Avatar
+Aveno	Avena
+Ibn-Ruŝd	Averroes
+Avesto	Avesta
+Kategorio:Aviado	Aviation
+Aviado	Aviation
+Aviceno	Avicenna
+Avignon	Avignon
+Avokado	Avocado
+Hakilo	Axe
+Aksiomo	Axiom
+Ajatolo	Ayatollah
+Ayn Rand	Ayn Rand
+Azerbajĝano	Azerbaijan
+Kategorio:Azerbajĝano	Azerbaijan
+Acoroj	Azores
+Aztekoj	Aztec
+Azurito	Azurite
+B	B
+BASIC (programlingvo)	BASIC
+Baalo	Baal
+Paviano	Baboon
+Babilono	Babylon
+Babilonio	Babylonia
+Triktrako	Backgammon
+Bakterioj	Bacteria
+Kategorio:Bakterioj	Bacteria
+Bakteriofago	Bacteriophage
+Baktria kamelo	Bactrian Camel
+Badmintono	Badminton
+Bafina Golfo	Baffin Bay
+Bafina Insulo	Baffin Island
+Bagdado	Baghdad
+Kategorio:Bahamoj	Bahamas
+Barejno	Bahrain
+Kategorio:Barejno	Bahrain
+Baja California	Baja California
+Baku	Baku
+Bilanco	Balance sheet
+Baldr	Baldr
+Balearoj	Balearic Islands
+Balio	Bali
+Balkanaj militoj	Balkan Wars
+Balkana duoninsulo	Balkans
+Pilko	Ball
+Baleto	Ballet
+Globkrajono	Ballpoint pen
+Balta Maro	Baltic Sea
+Baltimore (Marilando)	Baltimore
+Bamako	Bamako
+Bambuo	Bamboo
+Banano	Banana
+Bengaluro	Bangalore
+Bangkok	Bangkok
+Bangladeŝo	Bangladesh
+Kategorio:Bangladeŝo	Bangladesh
+Bangui	Bangui
+Banĵulo	Banjul
+Banko	Bank
+Monbileto	Banknote
+Kategorio:Bankoj	Banks
+Bapto	Baptism
+Baptismo	Baptist
+Baro	Bar (unit)
+Barbado	Barbados
+Kategorio:Barbado	Barbados
+Barbaroj	Barbarian
+Barbra Streisand	Barbra Streisand
+Barcelono	Barcelona
+Barenca Maro	Barents Sea
+Bari	Bari
+Bario	Barium
+Hordeo	Barley
+Turstrigo	Barn Owl
+Domhirundo	Barn Swallow
+Barono	Baron
+Baroko	Baroque
+Bariono	Baryon
+Bazalto	Basalt
+Bazo (kemio)	Base (chemistry)
+Basbalo	Baseball
+Kategorio:Basbalo	Baseball
+Bazelo (urbo)	Basel
+Bash	Bash
+Bazidiomicetoj	Basidiomycota
+Bazilio	Basil
+Sankta Bazilo	Basil of Caesarea
+Baziliko	Basilica
+Basilikato	Basilicata
+Bazilisko (mitologio)	Basilisk
+Korbopilkado	Basketball
+Basra	Basra
+Basgitaro	Bass guitar
+Malsupra Normandio	Basse-Normandie
+Basseterre	Basseterre
+Fagoto	Bassoon
+Bastille	Bastille
+Kiropteroj	Bat
+Bath	Bath
+Batman	Batman
+Baton Rouge (Luiziano)	Baton Rouge
+Bataliono	Battalion
+Baterio	Battery (electricity)
+Batalo ĉe Slavkov	Battle of Austerlitz
+Batalo apud Hastings	Battle of Hastings
+Batalo de Trafalgar	Battle of Trafalgar
+Batalo de Waterloo	Battle of Waterloo
+Batalo ĉe la Somme	Battle of the Somme
+Bauhaus	Bauhaus
+Baŭksito	Bauxite
+Bavario	Bavaria
+Kategorio:Bavario	Bavaria
+Nobla laŭro	Bay Laurel
+Bengala Golfo	Bay of Bengal
+Biskaja Golfo	Bay of Biscay
+Bayer AG	Bayer
+Bajoneto	Bayonet
+Bajono	Bayonne
+Strando	Beach
+Biglo	Beagle
+Beko	Beak
+Urso	Bear
+Boforta skalo	Beaufort scale
+Kastoro	Beaver
+Bekerelo	Becquerel
+Lito	Bed
+Beduenoj	Bedouin
+Abelo	Bee
+Fago	Beech
+Kategorio:Abelkulturo	Beekeeping
+Biero	Beer
+Kategorio:Biero	Beer
+Koleopteroj	Beetle
+Kondutismo	Behaviorism
+Pekino	Beijing
+Bejruto	Beirut
+Belorusio	Belarus
+Kategorio:Belorusio	Belarus
+Belfasto	Belfast
+Belgio	Belgium
+Kategorio:Belgio	Belgium
+Beogrado	Belgrade
+Belizo	Belize
+Kategorio:Belizo	Belize
+Sonorilo	Bell (instrument)
+Ventra danco	Belly dance
+Belo Horizonte	Belo Horizonte
+Belugo	Beluga
+Benelukso	Benelux
+Bengalio	Bengal
+Benino	Benin
+Kategorio:Benino	Benin
+Benito Mussolini	Benito Mussolini
+Benjamin Britten	Benjamin Britten
+Benjamin Disraeli	Benjamin Disraeli
+Benjamin Franklin	Benjamin Franklin
+Benjamin Harrison	Benjamin Harrison
+Benny Goodman	Benny Goodman
+Beowulf	Beowulf
+Bergen (Norvegio)	Bergen
+Beringa Maro	Bering Sea
+Beringa Markolo	Bering Strait
+Berkelio	Berkelium
+Berkshire	Berkshire
+Berlino	Berlin
+Kategorio:Berlino	Berlin
+Bermudo	Bermuda
+Kategorio:Bermudo	Bermuda
+Bermuda triangulo	Bermuda Triangle
+Berno	Berne
+Bernhard Riemann	Bernhard Riemann
+Bero	Berry
+Bertolt Brecht	Bertolt Brecht
+Bertrand Russell	Bertrand Russell
+Berilio	Beryllium
+Beto (litero)	Beta (letter)
+Betelĝuzo	Betelgeuse
+Bet-Leĥem	Bethlehem
+Bette Davis	Bette Davis
+Beverly Hills	Beverly Hills
+Butano	Bhutan
+Kategorio:Butano	Bhutan
+Biblio	Bible
+Kategorio:Biblio	Bible
+Bibliografio	Bibliography
+Biciklo	Bicycle
+Praeksplodo	Big Bang
+Biharo	Bihar
+Bikino	Bikini
+Galo	Bile
+William J. Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Billy Wilder	Billy Wilder
+Lorno	Binoculars
+Biokemio	Biochemistry
+Kategorio:Biokemio	Biochemistry
+Biodiverseco	Biodiversity
+Biogeografio	Biogeography
+Biografio	Biography
+Portalo:Homoj	Biography
+Biologia armilo	Biological warfare
+Biologio	Biology
+Kategorio:Biologio	Biology
+Biomaso	Biomass
+Biometrio	Biometrics
+Biofiziko	Biophysics
+Biotekniko	Biotechnology
+Kategorio:Biotekniko	Biotechnology
+Betulo	Birch
+Birdoj	Bird
+Birmingham (Alabamo)	Birmingham
+Kontraŭkoncipilo	Birth control
+Ambaŭseksemo	Bisexuality
+Biŝkeko	Bishkek
+Episkopo	Bishop
+Kuriero (ŝako)	Bishop (chess)
+Bismarck (Norda Dakoto)	Bismarck
+Bismarck	Bismarck (disambiguation)
+Bismuto	Bismuth
+Bisaŭo	Bissau
+Bito	Bit
+Bitinio	Bithynia
+Nigro	Black
+Nigra morto	Black Death
+Nigra Arbaro	Black Forest
+Nigra milvo	Black Kite
+Nigra Maro	Black Sea
+Nigra cikonio	Black Stork
+Nigra korpo	Black body
+Nigra truo	Black hole
+Nigra pipro	Black pepper
+Merlo	Blackbird
+Blaise Pascal	Blaise Pascal
+Blender (programo)	Blender (software)
+Blindeco	Blindness
+Fulmomilito	Blitzkrieg
+Bloemfontein	Bloemfontein
+Blogo	Blog
+Sango	Blood
+Blua	Blue
+Bluso	Blues
+Apro	Boar
+Tabulludo	Board game
+Boato	Boat
+Bob Dylan	Bob Dylan
+Bob Marley	Bob Marley
+Bobby Fischer	Bobby Fischer
+Bobado	Bobsleigh
+Bodhisatvo	Bodhisattva
+Korpomasa indico	Body mass index
+Korpokulturado	Bodybuilding
+Bohemio	Bohemia
+Borio	Bohrium
+Bolpunkto	Boiling point
+Boise (Idaho)	Boise
+Bolivio	Bolivia
+Kategorio:Bolivio	Bolivia
+Bolonjo	Bologna
+Bolŝeviko	Bolshevik
+Bolzano-Bozen	Bolzano
+Bombo	Bomb
+Silkraŭpo	Bombyx mori
+Obligacio	Bond (finance)
+Osto	Bone
+Ostmedolo	Bone marrow
+Bonn	Bonn
+Bonsajo	Bonsai
+Libro	Book
+Ester (libro)	Book of Esther
+Josuo (libro)	Book of Joshua
+Juĝistoj (libro)	Book of Judges
+Libro de Mormon	Book of Mormon
+Nombroj	Book of Numbers
+Apokalipso de Johano	Book of Revelation
+Rut (libro)	Book of Ruth
+Bulea algebro	Boolean algebra (structure)
+Bumerango	Boomerang
+Bordeaux	Bordeaux
+Boris Pasternak	Boris Pasternak
+Borneo	Borneo
+Boro	Boron
+Bosnio kaj Hercegovino	Bosnia and Herzegovina
+Kategorio:Bosnio kaj Hercegovino	Bosnia and Herzegovina
+Bosono	Boson
+Bosporo	Bosporus
+Bostono	Boston
+Bostona tea rendevuo	Boston Tea Party
+Botanika ĝardeno	Botanical garden
+Botaniko	Botany
+Kategorio:Botaniko	Botany
+Bocvano	Botswana
+Kategorio:Bocvano	Botswana
+Botelo	Bottle
+Burĝo	Bourgeoisie
+Burgonjo	Bourgogne
+Buvetinsulo	Bouvet Island
+Bovedoj	Bovid
+Arko (armilo)	Bow (weapon)
+Boksero (hundo)	Boxer (dog)
+Kategorio:Boksistoj	Boxers
+Boksado	Boxing
+Leĝo de Boyle	Boyle's law
+Krampo (interpunkcio)	Bracket
+Braga	Braga
+Brahmao	Brahma
+Brajlo	Braille
+Cerbo	Brain
+Bram Stoker	Bram Stoker
+Brandenburgio	Brandenburg
+Latuno	Brass
+Kruciferacoj	Brassicaceae
+Mamzono	Brassiere
+Bratislavo	Bratislava
+Braunschweig	Braunschweig
+Brazilo	Brazil
+Kategorio:Brazilo	Brazil
+Brazavilo	Brazzaville
+Pano	Bread
+Mamo	Breast
+Bremeno	Bremen (state)
+Bremerhaven	Bremerhaven
+Breŝo	Brescia
+Brest (Francio)	Brest
+Bresto (Belorusio)	Brest
+Brest	Brest
+Bretonio (franca regiono)	Bretagne
+Briko	Brick
+Ponto	Bridge
+Kategorio:Pontoj	Bridges
+Bridgetown	Bridgetown
+Brajtono	Brighton
+Brindisi	Brindisi
+Brisbano	Brisbane
+Bristol	Bristol
+Brita Kolumbio	British Columbia
+Brita imperio	British Empire
+Britaj Insuloj	British Isles
+Britaj Virgulininsuloj	British Virgin Islands
+Kategorio:Britoj	British people
+Brno	Brno
+Broadway	Broadway (New York City)
+Brokolo	Broccoli
+Bromo	Bromine
+Bronzo	Bronze
+Bronzepoko	Bronze Age
+Broklino	Brooklyn
+Bruna	Brown
+Bruna urso	Brown Bear
+Bruce Lee	Bruce Lee
+Bruĝo	Bruges
+Brunejo	Brunei
+Kategorio:Brunejo	Brunei
+Bruselo	Brussels
+Pesto	Bubonic plague
+Bukareŝto	Bucharest
+Palaco Buckingham	Buckingham Palace
+Buckminster Fuller	Buckminster Fuller
+Budapeŝto	Budapest
+Budho	Buddha
+Budhismo	Buddhism
+Kategorio:Budhismo	Buddhism
+Buddy Holly	Buddy Holly
+Bonaero	Buenos Aires
+Bufalo	Buffalo
+Konstruaĵo	Building
+Buĵumburo	Bujumbura
+Bulgario	Bulgaria
+Kategorio:Bulgario	Bulgaria
+Burdo	Bumblebee
+Flosemo	Buoyancy
+Urbestro	Burgomaster
+Burkino	Burkina Faso
+Kategorio:Burkino	Burkina Faso
+Birmo	Burma
+Kategorio:Birmo	Burma
+Burĥo	Burqa
+Bursa	Bursa
+Kategorio:Burundo	Burundi
+Aŭtobuso	Bus
+Kategorio:Entreprenistoj	Businesspeople
+Buster Keaton	Buster Keaton
+Butano (kemio)	Butane
+Butero	Butter
+Papilio	Butterfly
+Bydgoszcz	Bydgoszcz
+Bitoko	Byte
+C	C
+C (programlingvo)	C (programming language)
+C. S. Lewis	C. S. Lewis
+Cd	CD (disambiguation)
+COBOL	COBOL
+Kabaredo	Cabaret
+Kaŝmemoro	Cache
+Kakto	Cactus
+Kadmio	Cadmium
+Kadmo	Cadmus
+Ĉizilo (konstelacio)	Caelum
+Cezio	Caesium
+Kafeino	Caffeine
+Kairo	Cairo
+Kuko	Cake
+Kalabrio	Calabria
+Calais	Calais
+Kalcito	Calcite
+Kalcio	Calcium
+Kalko	Calcium oxide
+Kalkulilo	Calculator
+Infinitezima kalkulo	Calculus
+Kaldero	Caldera
+Kalendaro	Calendar
+Kalibro	Caliber
+Kalifornio	California
+Kategorio:Kalifornio	California
+Kaliforniumo	Californium
+Kaligulo	Caligula
+Kalifo	Caliph
+Araba imperio	Caliphate
+Kaligrafio	Calligraphy
+Kaliopo	Calliope
+Kalistoo	Callisto (moon)
+Kalorio	Calorie
+Calvados	Calvados
+Golgoto	Calvary
+Calvin Coolidge	Calvin Coolidge
+Kalvinismo	Calvinism
+Kalipso	Calypso (mythology)
+Kamboĝo	Cambodia
+Kategorio:Kamboĝo	Cambodia
+Kambrio	Cambrian
+Kembriĝo (Britio)	Cambridge
+Kembriĝo (Masaĉuseco)	Cambridge
+Kembriĝo	Cambridge (disambiguation)
+Kamelo	Camel
+Fotilo	Camera
+Kameruno	Cameroon
+Kategorio:Kameruno	Cameroon
+Kampanio	Campania
+Kanado	Canada
+Kategorio:Kanado	Canada
+Kanalo	Canal
+Kanarioj	Canary Islands
+Kategorio:Kanarioj	Canary Islands
+Kanbero	Canberra
+Kancero (medicino)	Cancer
+Kankro (konstelacio)	Cancer (constellation)
+Kandelo (mezurunuo)	Candela
+Kandelo	Candle
+Kanisedoj	Canidae
+Granda Hundo	Canis Major
+Malgranda Hundo (konstelacio)	Canis Minor
+Kanabo	Cannabis
+Mariĥuano	Cannabis (drug)
+Cannes	Cannes
+Kanibalismo	Cannibalism
+Kanono	Cannon
+Kanuo	Canoe
+Canon	Canon (company)
+Kantato	Cantata
+Canterbury	Canterbury
+Kantona lingvo	Cantonese (linguistics)
+Kapacitanco	Capacitance
+Kondensatoro	Capacitor
+Cape Canaveral	Cape Canaveral
+Kaburbo	Cape Town
+Kabo-Verdo	Cape Verde
+Kategorio:Kabo-Verdo	Cape Verde
+Bonespera Kabo	Cape of Good Hope
+Ĉefurbo	Capital
+Kapitalo	Capital (economics)
+Mortpuno	Capital punishment
+Kapitalismo	Capitalism
+Kapadokio	Cappadocia
+Kaprikorno (konstelacio)	Capricornus
+Kapsiko	Capsicum
+Karakalo (besto)	Caracal
+Karakaso	Caracas
+Karambolfrukto	Carambola
+Karato	Carat (mass)
+Karato	Carat (purity)
+Karbonhidrato	Carbohydrate
+Karbono	Carbon
+Karbona dioksido	Carbon dioxide
+Karbona monooksido	Carbon monoxide
+Karbonata acido	Carbonic acid
+Karbonio	Carboniferous
+Karburilo	Carburetor
+Kartludo	Card game
+Kardamomo	Cardamom
+Cardiff	Cardiff
+Kardinalo	Cardinal (Catholicism)
+Armand Jean du Plessis de Richelieu	Cardinal Richelieu
+Karibio	Caribbean
+Kategorio:Karibio	Caribbean
+Kariba Maro	Caribbean Sea
+Karikaturo	Caricature
+Kareno (konstelacio)	Carina (constellation)
+Carl David Anderson	Carl David Anderson
+Carl Gustav Jung	Carl Jung
+Carl Lewis	Carl Lewis
+Carl Maria von Weber	Carl Maria von Weber
+Karnavalo	Carnival
+Karnomanĝuloj	Carnivora
+Karnovoraj plantoj	Carnivorous plant
+Karolidoj	Carolingian dynasty
+Linnaeus	Carolus Linnaeus
+Karpatoj	Carpathian Mountains
+Karoto	Carrot
+Carson City (Nevado)	Carson City
+Kartaĥeno (Hispanio)	Cartagena
+Kartezia koordinato	Cartesian coordinate system
+Cilindro (algebro)	Cartesian product
+Kartago	Carthage
+Kartografio	Cartography
+Kategorio:Kartografio	Cartography
+Cary Grant	Cary Grant
+Kazablanko	Casablanca
+Akaĵuo	Cashew
+Kazino	Casino
+Kaspio	Caspian Sea
+Kasandra	Cassandra
+Kasiopeo (konstelacio)	Cassiopeia (constellation)
+Gisfero	Cast iron
+Kasto	Caste
+Kastilio	Castile (historical region)
+Burgo	Castle
+Aroko	Castling
+Castries (Sankta Lucia)	Castries
+Militkazo	Casus belli
+Hejma kato	Cat
+Katalunio	Catalonia
+Kategorio:Katalunio	Catalonia
+Katalizilo	Catalysis
+Katarakto	Cataract
+Katarismo	Catharism
+Katedralo	Cathedral
+Katodo	Cathode
+Bovo	Cattle
+Bovardeo	Cattle Egret
+Katulo	Catullus
+Kaŭkazio	Caucasus
+Kategorio:Kaŭkazio	Caucasus
+Kaŭkazo	Caucasus Mountains
+Florbrasiko	Cauliflower
+Kavalerio	Cavalry
+Kaverno	Cave
+Kaviaro	Caviar
+Cayenne	Cayenne
+Kajmaninsuloj	Cayman Islands
+Cecil Rhodes	Cecil Rhodes
+Cedro	Cedar
+Celerio	Celery
+Ĉielekvatoro	Celestial equator
+Kategorio:Ĉiela mekaniko	Celestial mechanics
+Ĉielosfero	Celestial sphere
+Celibato	Celibacy
+Biologia ĉelo	Cell (biology)
+Ĉelmembrano	Cell membrane
+Ĉelkerno	Cell nucleus
+Ĉela muro	Cell wall
+Violonĉelo	Cello
+Celulozo	Cellulose
+Grado celsia	Celsius
+Cemento	Cement
+Tombejo	Cemetery
+Kenozoiko	Cenozoic
+Popolnombrado	Census
+Centaŭro	Centaur
+Centaŭro (konstelacio)	Centaurus
+Centimetro	Centimetre
+Centra Afriko	Central Africa
+Centr-Afrika Respubliko	Central African Republic
+Kategorio:Centr-Afrika Respubliko	Central African Republic
+Centra Ameriko	Central America
+Kategorio:Mezameriko	Central America
+CIA	Central Intelligence Agency
+Centraj Potencoj	Central Powers
+Centra banko	Central bank
+Procesoro	Central processing unit
+Centro (Francio)	Centre
+Centriolo	Centriole
+Jarcento	Century
+Kapopieduloj	Cephalopod
+Cefeo (konstelacio)	Cepheus (constellation)
+Ceramiko	Ceramic
+Kerbero	Cerberus
+Cerealo	Cereal
+Cerbeto	Cerebellum
+Cereso	Ceres (dwarf planet)
+Cereso (mitologio)	Ceres (mythology)
+Cerio	Cerium
+Cezaro Borgia	Cesare Borgia
+Cetacoj	Cetacea
+Baleno (konstelacio)	Cetus
+Ĉado	Chad
+Kategorio:Ĉado	Chad
+Fringo	Chaffinch
+Seĝo	Chair
+Kalcedono	Chalcedony
+Ĥameleono (konstelacio)	Chamaeleon
+Ĉamo	Chamois
+Ĉampano	Champagne (wine)
+Ĉampanjo-Ardenoj	Champagne-Ardenne
+Manika Tunelo	Channel Tunnel
+Ĥaradrioformaj	Charadriiformes
+Karolo la Granda	Charlemagne
+Charleroi	Charleroi
+Princo Karlo	Charles
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles Fourier	Charles Fourier
+Charles Lindbergh	Charles Lindbergh
+Charles Thomson Rees Wilson	Charles Thomson Rees Wilson
+Charles de Gaulle	Charles de Gaulle
+Karlo la 2-a (Francio)	Charles the Bald
+Charleston (Okcidenta Virginio)	Charleston
+Charlie Chaplin	Charlie Chaplin
+Charlie Parker	Charlie Parker
+Karono (luno)	Charon (moon)
+Karono (mitologio)	Charon (mythology)
+Chartres	Chartres
+Ŝovinismo	Chauvinism
+Che Guevara	Che Guevara
+Ĉeĉenio	Chechnya
+Kategorio:Ĉeĉenio	Chechnya
+Fromaĝo	Cheese
+Gepardo	Cheetah
+Ĉelabinsk	Chelyabinsk
+Kemia ligo	Chemical bond
+Kemia kombinaĵo	Chemical compound
+Kemia elemento	Chemical element
+Kemia inĝenierarto	Chemical engineering
+Kemia formulo	Chemical formula
+Kemia reakcio	Chemical reaction
+Kemia armilo	Chemical warfare
+Kemio	Chemistry
+Kategorio:Kemio	Chemistry
+Chemnitz	Chemnitz
+Ĉenajo	Chennai
+Ĉeko	Cheque
+Ĉernobilo	Chernobyl
+Ĉerizo	Cherry
+Siliko	Chert
+Ŝako	Chess
+Kategorio:Ŝako	Chess
+Debuto	Chess opening
+Chester A. Arthur	Chester A. Arthur
+Kastaneo	Chestnut
+Maĉgumo	Chewing gum
+Cheyenne	Cheyenne
+Ĥio (litero)	Chi (letter)
+Jiang Jieshi	Chiang Kai-shek
+Ĉikago	Chicago
+Koko (birdo)	Chicken
+Varioleto	Chickenpox
+Kikero	Chickpea
+Chihuahua	Chihuahua
+Infano	Child
+Nasko	Childbirth
+Ĉilio	Chile
+Kategorio:Ĉilio	Chile
+Ĉimborazo	Chimborazo (volcano)
+Ĥimero	Chimera (mythology)
+Ĉimpanzo	Chimpanzee
+Kategorio:Ĉinio	China
+Ĥios	Chios
+Kirono	Chiron
+Kitino	Chitin
+Kloro	Chlorine
+Klorofilo	Chlorophyll
+Kloroplasto	Chloroplast
+Ĉokolado	Chocolate
+Ĥoro	Choir
+Ĥolero	Cholera
+Kolesterolo	Cholesterol
+Kartilagaj fiŝoj	Chondrichthyes
+Chongqing	Chongqing
+Akordo (muziko)	Chord (music)
+Ĥorduloj	Chordate
+Christchurch	Christchurch
+Christiaan Huygens	Christiaan Huygens
+Christian Dior	Christian Dior
+Kristanismo	Christianity
+Kategorio:Kristanismo	Christianity
+Kristnasko	Christmas
+Kristnaska arbo	Christmas tree
+Kristoforo Kolumbo	Christopher Columbus
+Christopher Marlowe	Christopher Marlowe
+Kromo	Chromium
+Kromosomo	Chromosome
+Chuck Berry	Chuck Berry
+Ĉukĉa Maro	Chukchi Sea
+Eklezio	Church
+Preĝejo	Church (building)
+Eklezio de Anglio	Church of England
+Cicerono	Cicero
+Cikonioformaj birdoj	Ciconiiformes
+Cigaredo	Cigarette
+Cinamo	Cinnamon
+Kirke	Circe
+Cirkelo (konstelacio)	Circinus
+Cirklo	Circle
+Kardiovaskula sistemo	Circulatory system
+Cirkumcido	Circumcision
+Cirkartoj	Circus
+Cirozo	Cirrhosis
+civito	Citizenship
+Ciklo de Krebs	Citric acid cycle
+Citruso	Citrus
+Urboŝtato	City-state
+Interna milito	Civil war
+Civilizo	Civilization
+Klarneto	Clarinet
+Clark Gable	Clark Gable
+Klaso	Class
+Klaso (biologio)	Class (biology)
+Klaso (objektema programado)	Class (computer science)
+Klasika Meĥaniko	Classical mechanics
+Klasika muziko	Classical music
+Kategorio:Klasika muziko	Classical music
+Klasikismo	Classicism
+Claude Monet	Claude Monet
+Claude Shannon	Claude Shannon
+Claudio Monteverdi	Claudio Monteverdi
+Klaŭdio	Claudius
+Klaviklo	Clavicle
+Argilo	Clay
+Clement Attlee	Clement Attlee
+Kleopatra (regantoj)	Cleopatra (disambiguation)
+Kleriko	Clergy
+Klevlando	Cleveland
+Klimato	Climate
+Klimata ŝanĝo	Climate change
+Klimatscienco	Climatology
+Kategorio:Klimato	Climatology
+Deprimo	Clinical depression
+Klio	Clio
+Klitoro	Clitoris
+Horloĝo	Clock
+Klonado	Cloning
+Kategorio:Vestoj	Clothing
+Vesto	Clothing
+Nubo	Cloud
+Kariofilo	Clove
+Trifolio	Clover
+Kloviso la 1-a	Clovis I
+Knidulo	Cnidaria
+Terkarbo	Coal
+Blazono	Coat of arms
+Kobalto	Cobalt
+Kokaino	Cocaine
+Kokcinelo	Coccinellidae
+Kakatuedoj	Cockatoo
+Blato	Cockroach
+Koktelo	Cocktail
+Kokoso	Coconut
+Kokosinsuloj	Cocos (Keeling) Islands
+Kodeino	Codeine
+Kafarbo	Coffea
+Kafo	Coffee
+Konjako	Cognac (drink)
+Monero	Coin
+Kolao	Cola
+Kolĉido	Colchis
+Malvarma milito	Cold War
+Kategorio:Malvarma milito	Cold War
+Colin Powell	Colin Powell
+Kolaĝo	Collage
+Kolageno	Collagen
+Kolonjo	Cologne
+Kolombio	Colombia
+Kategorio:Kolombio	Colombia
+Kolombo (urbo)	Colombo
+Kolonelo	Colonel
+Kolonio	Colony
+Koloro	Color
+Koloradio	Colorado
+Kategorio:Koloradio	Colorado
+Kolorado (rivero)	Colorado River
+Koloseo (Romo)	Colosseum
+Koloso de Rodiso	Colossus of Rhodes
+Kolubredoj	Colubrid
+Kolombo (konstelacio)	Columba (constellation)
+Columbia (Suda Karolino)	Columbia
+Kolumbio	Columbia
+Kolumbio (rivero)	Columbia River
+Universitato Kolumbio	Columbia University
+Kolombedoj	Columbidae
+Kolomboformaj birdoj	Columbiformes
+Columbus (Ohio)	Columbus
+Columbus	Columbus
+Komato	Coma
+Berenica Hararo (konstelacio)	Coma Berenices
+Brulo	Combustion
+Komedio	Comedy
+Johano Amoso Komenio	Comenius
+Kometo	Comet
+Komo	Comma (punctuation)
+Kategorio:Komerco	Commerce
+Kataro (malsano)	Common cold
+Komunumo de Sendependaj Ŝtatoj	Commonwealth of Independent States
+Komunumo de Nacioj	Commonwealth of Nations
+Kategorio:Komunikado	Communication
+Komunikado	Communication
+Komunismo	Communism
+Kategorio:Komunismo	Communism
+Komoroj	Comoros
+Kategorio:Komoroj	Comoros
+Kompakta disko	Compact Disc
+Kompaso	Compass
+Cirkelo	Compass (drafting)
+Konkurso	Competition
+Tradukilo	Compiler
+Kompleksa nombro	Complex number
+Komponisto	Composer
+Komponigita nombro	Composite number
+Komputila lingvistiko	Computational linguistics
+Komputilo	Computer
+Komputila monitoro	Computer display
+Dosiero	Computer file
+Kategorio:Komputila grafiko	Computer graphics
+Aparataro	Computer hardware
+Kategorio:Komputila aparataro	Computer hardware
+Komputila reto	Computer network
+Kategorio:Programado	Computer programming
+Komputiko	Computer science
+Kategorio:Komputiko	Computer science
+Programaro	Computer software
+Komputila viruso	Computer virus
+Kategorio:Komputiko	Computing
+Konakrio	Conakry
+Koncentriteco	Concentration
+Konĉerto	Concerto
+Concord (Nov-Hampŝiro)	Concord
+Betono	Concrete
+Kondomo	Condom
+Dirigento	Conducting
+Konuso	Cone (geometry)
+Konfederaciitaj ŝtatoj de Ameriko	Confederate States of America
+Konfeso	Confession
+Konfirmacio	Confirmation
+Konfuceismo	Confucianism
+Konfuceo	Confucius
+Kongo	Congo
+Kongo (rivero)	Congo River
+Koniko	Conic section
+Konektikuto	Connecticut
+Kategorio:Konektikuto	Connecticut
+Konkistadoro	Conquistador
+Konservado de energio (fiziko)	Conservation of energy
+Konservativismo	Conservatism
+Konsonanto	Consonant
+Konstantino la 1-a de la Romia Imperio	Constantine I
+Konstantinopolo	Constantinople
+Konstelacio	Constellation
+Konstitucio	Constitution (political)
+Konsulo (Romia historio)	Consul
+Konsumo	Consumption (economics)
+Kontaktlenso	Contact lens
+Kontinento	Continent
+Kontinenta drivo	Continental drift
+Kontrakto	Contract
+Briĝo	Contract bridge
+Kuirado	Cooking
+Kooperativo	Cooperative
+Koordinatsistemo	Coordinate system
+UTC	Coordinated Universal Time
+Kopenhago	Copenhagen
+Kupro	Copper
+Kopirajto	Copyright
+Koracioformaj birdoj	Coraciiformes
+Koralo	Coral
+Korala Maro	Coral Sea
+Korinto	Corinth
+Koriolisforto	Coriolis effect
+Cork	Cork (city)
+Kormoranoj	Cormorant
+Korneo	Cornea
+Universitato Cornell	Cornell University
+Kornvalo	Cornwall
+Boreala Krono (konstelacio)	Corona Borealis
+Entrepreno	Corporation
+Korsiko	Corsica
+Korundo	Corundum
+Korvedoj	Corvidae
+Korvo (konstelacio)	Corvus (constellation)
+Kosma radiado	Cosmic ray
+Kosmologio	Cosmology
+Kategorio:Kosmologio	Cosmology
+Kostariko	Costa Rica
+Kategorio:Kostariko	Costa Rica
+Kotonuo	Cotonou
+Kotono	Cotton
+Pumo	Cougar
+Kulombo	Coulomb
+Kontrapunkto	Counterpoint
+Lando	Country
+Kontreo	Country music
+Tribunalo (juro)	Court
+Coventry	Coventry
+Kojoto	Coyote
+Krabo	Crab
+M1	Crab Nebula
+Gruo	Crane (bird)
+Pokalo (konstelacio)	Crater (constellation)
+Kreismo	Creationism
+Kremono	Cremona
+Kretaceo	Cretaceous
+Kreto	Crete
+Kriketo	Cricket
+Grilo	Cricket (insect)
+Krimo	Crime
+Aŭtonoma Respubliko Krimeo	Crimea
+Puna juro	Criminal law
+Kriminologio	Criminology
+Kroatio	Croatia
+Kategorio:Kroatio	Croatia
+Krokodilo	Crocodile
+Krokodilulo	Crocodilia
+Krono (dio)	Cronus
+Vektora produto	Cross product
+Arbalesto	Crossbow
+Krucvortenigmo	Crossword
+Korvo	Crow
+Krucumado	Crucifixion
+Terkrusto	Crust (geology)
+Krustacoj	Crustacean
+Suda Kruco (konstelacio)	Crux
+Kategorio:Ĉifriko	Cryptography
+Kristalo	Crystal
+Kristalografio	Crystallography
+Kategorio:Kristalografio	Crystallography
+Kubo (lando)	Cuba
+Kategorio:Kubo	Cuba
+Kubo (geometrio)	Cube
+Kubmetro	Cubic metre
+Kubismo	Cubism
+Kukoloformaj birdoj	Cuculiformes
+Kukumo	Cucumber
+Kukurbacoj	Cucurbitaceae
+Kultura Revolucio	Cultural Revolution
+Kulturo	Culture
+Kategorio:Kulturo	Culture
+Kumbrio	Cumbria
+Kupresacoj	Cupressaceae
+Curitiba	Curitiba
+Kuriumo	Curium
+Glitŝtonludo	Curling
+Kategorio:Monunuoj	Currency
+Valuto	Currency
+Kareo	Curry
+Kurbo	Curve
+Kusko	Cusco
+Cejana	Cyan
+Cianido	Cyanide
+Cianobakterio	Cyanobacteria
+Cibernetiko	Cybernetics
+Ciberpunko	Cyberpunk
+Cikladoj	Cyclades
+Biciklado	Cycling
+Kategorio:Biciklado	Cycling
+Ciklono	Cyclone
+Ciklopo	Cyclops
+Cigno (konstelacio)	Cygnus (constellation)
+Cilindro	Cylinder (geometry)
+Ciperacoj	Cyperaceae
+Ciprinoformaj	Cypriniformes
+Respubliko Kipro	Cyprus
+Kategorio:Kipro	Cyprus
+Cirila alfabeto	Cyrillic alphabet
+Kiro la 2-a (Persio)	Cyrus the Great
+Citoplasmo	Cytoplasm
+Citozino	Cytosine
+Ĉelskeleto	Cytoskeleton
+Ĉeĥio	Czech Republic
+Kategorio:Ĉeĥio	Czech Republic
+Ĉeĥoslovakio	Czechoslovakia
+Kategorio:Ĉeĥoslovakio	Czechoslovakia
+D	D
+D. H. Lawrence	D. H. Lawrence
+DDT	DDT
+DNA	DNA
+DVD	DVD
+Melhundo	Dachshund
+Dadaismo	Dada
+Dedalo kaj Ikaro	Daedalus
+Ponardo	Dagger
+Dalio	Dahlia
+Dakaro	Dakar
+Dalai-lamao	Dalai Lama
+Dallas (Teksaso)	Dallas
+Dalmatio	Dalmatia
+Akvobaraĵo	Dam
+Damasko	Damascus
+Danco	Dance
+Kategorio:Danco	Dance
+Leontodo	Dandelion
+Daniel Bernoulli	Daniel Bernoulli
+Daniel Defoe	Daniel Defoe
+Daniel Ortega	Daniel Ortega
+Dana krono	Danish krone
+Dante Alighieri	Dante Alighieri
+Danubo	Danube
+Dafna	Daphne
+Daresalamo	Dar es Salaam
+Dardaneloj	Dardanelles
+Darfuro	Darfur
+Darĝiling	Darjeeling
+Malluma materio	Dark matter
+Darmŝtatio	Darmstadtium
+Darvino (Aŭstralio)	Darwin
+Darwin (apartigilo)	Darwin
+La Kapitalo	Das Kapital
+Datumo	Data
+Datumbazo	Database
+Daktilopalmo	Date Palm
+Dativo	Dative case
+Daugavpils	Daugavpils
+Davido	David
+David Hilbert	David Hilbert
+David Hume	David Hume
+David Livingstone	David Livingstone
+Tago	Day
+Kategorio:Almanako	Days
+Diakono	Deacon
+Morta Maro	Dead Sea
+Pergamenaro de Morta Maro	Dead Sea scrolls
+Beladono	Deadly nightshade
+Morto	Death
+Kategorio:Morto	Death
+Jardekoj	Decade
+Decembro	December
+31-a de decembro	December 31
+8-a de decembro	December 8
+Dekuma sistemo	Decimal
+Decio	Decius (emperor)
+Deklinacio (astronomio)	Declination
+Anderson Luiz de Sousa	Deco
+Cervedoj	Deer
+Difino	Definition
+Grado (apartigilo)	Degree
+Grado	Degree (angle)
+Dejmo	Deimos (moon)
+Diismo	Deism
+Delavaro	Delaware
+Kategorio:Delavaro	Delaware
+Delft	Delft
+Delfo	Delphi
+Delfeno (konstelacio)	Delphinus
+Delto	Delta
+Delto (litero)	Delta (letter)
+Tutmonda diluvo	Deluge (mythology)
+Demagogio	Demagogy
+Demetra	Demeter
+Demokratio	Democracy
+Demokrata Partio (Usono)	Democratic Party (United States)
+Kongo Kinŝasa	Democratic Republic of the Congo
+Kategorio:Kongo Kinŝasa	Democratic Republic of the Congo
+Demokrito	Democritus
+Demografio	Demography
+Demono	Demon
+Demosteno	Demosthenes
+Deng Xiaoping	Deng Xiaoping
+Dengo	Dengue fever
+Denis Diderot	Denis Diderot
+Danio	Denmark
+Kategorio:Danio	Denmark
+Dennis Gabor	Dennis Gabor
+Denseco	Density
+Kario	Dental caries
+Dentkuracado	Dentistry
+Denvero (Koloradio)	Denver
+Derivaĵo (matematiko)	Derivative
+Haŭtmedicino	Dermatology
+Des Moines (Iovao)	Des Moines
+Dezerto	Desert
+Kategorio:Dezertoj	Deserts
+Erasmo de Roterdamo	Desiderius Erasmus
+Dezajno	Design
+Kategorio:Dezajno	Design
+Desmond Tutu	Desmond Tutu
+Destrojero	Destroyer
+Determinanto	Determinant
+Determinismo	Determinism
+Detrojto (Miĉigano)	Detroit
+Deŭterio	Deuterium
+Readmono	Deuteronomy
+Pelilo	Device driver
+Devon	Devon
+Devonio	Devonian
+Roso	Dew
+Rosopunkto	Dew point
+Dewey dekuma klasifiko	Dewey Decimal Classification
+Dako	Dhaka
+Darmo	Dharma
+Dhaulagiri	Dhaulagiri
+Diabeto	Diabetes mellitus
+Diakrita signo	Diacritic
+Dialekto	Dialect
+Dialektiko	Dialectic
+Diametro	Diameter
+Diamanto	Diamond
+Diana Spencer	Diana
+Diana	Diana (mythology)
+Diareo	Diarrhea
+Diasporo	Diaspora
+Diatomo	Diatom
+Ĵetpluredro	Dice
+Dukotiledonaj plantoj	Dicotyledon
+Diktatoreco	Dictatorship
+Vortaro	Dictionary
+Diego Rivera	Diego Rivera
+Dizeloleo	Diesel
+Dizelmotoro	Diesel engine
+Dietrich Bonhoeffer	Dietrich Bonhoeffer
+Diferenciala ekvacio	Differential equation
+Difrakto	Diffraction
+Digestado	Digestion
+Kategorio:Digesta sistemo	Digestive system
+Cifereca	Digital
+Cifereca fotilo	Digital camera
+DSL	Digital subscriber line
+Dijon	Dijon
+Aneto	Dill
+Dimensio	Dimension
+Dingo	Dingo
+Dinosaŭro	Dinosaur
+Diocezo	Diocese
+Diokleciano	Diocletian
+Diodo	Diode
+Dionizo	Dionysus
+Difterio	Diphtheria
+Diftongo	Diphthong
+Diplomatio	Diplomacy
+Kategorio:Diplomatio	Diplomacy
+Kontinua kurento	Direct current
+Disakarido	Disaccharide
+Kategorio:Apartigiloj	Disambiguation
+Diskĵokeo	Disc jockey
+Diskriminacio	Discrimination
+Malsano	Disease
+Distanco	Distance
+Distilado	Distillation
+Diverĝenco	Divergence
+Divido	Division (mathematics)
+Divorco	Divorce
+Dizzy Gillespie	Dizzy Gillespie
+Kategorio:Ĝibutio	Djibouti
+Ĝibuto	Djibouti (city)
+Dmitrij Mendelejev	Dmitri Mendeleev
+Dmitrij Ŝostakoviĉ	Dmitri Shostakovich
+Dnepro	Dnieper River
+Dnipropetrovsko	Dnipropetrovsk
+Doktoro de eklezio	Doctor of the Church
+Dokumento	Document
+Dekduedro	Dodecahedron
+Dodekanesoj	Dodecanese
+Dido (birdo)	Dodo
+Dodomao	Dodoma
+Hundo	Dog
+Dogmo	Dogma
+Doho	Doha
+Dolaro (monunuo)	Dollar
+Dolly (ŝafino)	Dolly (sheep)
+Dolmeno	Dolmen
+Dolomito	Dolomite
+Delfenoj	Dolphin
+Domajno (biologio)	Domain (biology)
+Domajna nomo	Domain name
+Kupolo	Dome
+Domesday Book	Domesday Book
+Aldomigo	Domestication
+Dominiko	Dominica
+Kategorio:Dominiko	Dominica
+Dominikanoj	Dominican Order
+Domingo	Dominican Republic
+Kategorio:Domingo	Dominican Republic
+Domiciano	Domitian
+Kiĥoto	Don Quixote
+Don (rivero)	Don River (Russia)
+Donaldo Anaso	Donald Duck
+Donatello	Donatello
+Donato Bramante	Donato Bramante
+Donecko	Donetsk
+Azeno	Donkey
+Pordo	Door
+Efiko de Doppler	Doppler effect
+Orfiŝo (konstelacio)	Dorado
+Doris Lessing	Doris Lessing
+Dortmund	Dortmund
+Dualao	Douala
+Kontrabaso	Double bass
+Dover (Delavaro)	Dover
+Dovero	Dover
+Down-sindromo	Down syndrome
+Drako (konstelacio)	Draco (constellation)
+Drakulo (literaturo)	Dracula
+Drako (mitologio)	Dragon
+Akvokolekta areo	Drainage basin
+Dramo	Drama
+Damludo	Draughts
+Sonĝo	Dream
+Dresdeno	Dresden
+Trinkaĵo	Drink
+Dromedaro	Dromedary
+Trosekeco	Drought
+Droga dependeco	Drug addiction
+Druido	Druid
+Tamburo	Drum
+Dualismo	Dualism
+Dualismo	Dualism (philosophy of mind)
+Dubajo	Dubai
+Dublino	Dublin
+Dubnio	Dubnium
+Dubrovnik	Dubrovnik
+Anaso	Duck
+Dugongo	Dugong
+Duko	Duke
+Duke Ellington	Duke Ellington
+Universitato Duke	Duke University
+Duno	Dune
+Dunkerque	Dunkirk
+Duodeno	Duodenum
+Durban	Durban
+Duŝanbeo	Dushanbe
+Dustin Hoffman	Dustin Hoffman
+Kategorio:Nederlandanoj	Dutch people
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dinamiko	Dynamics (physics)
+Dinamito	Dynamite
+Dinastio	Dynasty
+Disleksio	Dyslexia
+Disprozio	Dysprosium
+Malutopio	Dystopia
+E	E
+℮ (matematiko)	E (mathematical constant)
+Retpoŝto	E-mail
+E. T. A. Hoffmann	E. T. A. Hoffmann
+ETA	ETA
+Aglo	Eagle
+Orelo	Ear
+Tero	Earth
+Terscienco	Earth science
+Tertremo	Earthquake
+Oriento	East
+Orientafriko	East Africa
+Orientĉina Maro	East China Sea
+Germana Demokratia Respubliko	East Germany
+East Sussex	East Sussex
+Orienta Timoro	East Timor
+Kategorio:Orienta Timoro	East Timor
+Pasko	Easter
+Ortodoksismo	Eastern Orthodox Church
+Ebro	Ebro
+Discentreco	Eccentricity (mathematics)
+Ekidno	Echidna
+Ekinodermo	Echinoderm
+Eklipso	Eclipse
+Ekliptiko	Ecliptic
+Ekologio	Ecology
+Kategorio:Ekologio	Ecology
+Ekonometrio	Econometrics
+Ekonomiko	Economics
+Kategorio:Ekonomio	Economics
+Ekonomiko	Economy
+Ekologia sistemo	Ecosystem
+Ekvadoro	Ecuador
+Kategorio:Ekvadoro	Ecuador
+Koncilio	Ecumenical council
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edinburgo	Edinburgh
+Edirne	Edirne
+Edmontono (Alberto)	Edmonton
+Edmund Burke	Edmund Burke
+Edmund Hillary	Edmund Hillary
+Edmund Husserl	Edmund Husserl
+Edo	Edo
+Eduard Buchner	Eduard Buchner
+Eduko	Education
+Kategorio:Edukado	Education
+Edvard Grieg	Edvard Grieg
+Edvard Munch	Edvard Munch
+Edward Gibbon	Edward Gibbon
+Edward Jenner	Edward Jenner
+Edward Teller	Edward Teller
+Eduardo la Konfesanto	Edward the Confessor
+Edwin Hubble	Edwin Hubble
+Ovo	Egg (biology)
+Melongeno	Eggplant
+Egiptio	Egypt
+Kategorio:Egiptio	Egypt
+Egipta pundo	Egyptian pound
+Egiptologio	Egyptology
+Eiffel-Turo	Eiffel Tower
+Eindhoven	Eindhoven
+Ejnŝtejnio	Einsteinium
+Cido	El Cid
+El Greco	El Greco
+El Paso (Teksaso)	El Paso
+Salvadoro	El Salvador
+Kategorio:Salvadoro	El Salvador
+Elamo	Elam
+Elbo (rivero)	Elbe
+Eleanor Roosevelt	Eleanor Roosevelt
+Voĉdono	Election
+Elektra ŝargo	Electric charge
+Elektra kurento	Electric current
+Kampo (elektro)	Electric field
+Elektra gitaro	Electric guitar
+Elektromotoro	Electric motor
+Kategorio:Elektra inĝenierarto	Electrical engineering
+Elektrotekniko	Electrical engineering
+Elektra rezistanco	Electrical resistance
+Elektro	Electricity
+Kategorio:Elektro	Electricity
+Elektrokemio	Electrochemistry
+Elektrolizo	Electrolysis
+Elektrolito	Electrolyte
+Elektromagneta ondo	Electromagnetic radiation
+Elektromagnetismo	Electromagnetism
+Elektrono	Electron
+Elektrona mikroskopo	Electron microscope
+Elektroniko	Electronics
+Elegio	Elegy
+Elemento	Element
+Elementa partiklo	Elementary particle
+Elefanto	Elephant
+Lifto	Elevator
+Elfo	Elf
+Elia Kazan	Elia Kazan
+Elias Canetti	Elias Canetti
+Elija	Elijah
+Elizabeth Taylor	Elizabeth Taylor
+Elipso (matematiko)	Ellipse
+Tripunkto	Ellipsis
+Ulmo	Elm
+Elvis Presley	Elvis Presley
+Embrio	Embryo
+Embriologio	Embryology
+Smeraldo	Emerald
+Emilio-Romanjo	Emilia-Romagna
+Emiliano Zapata	Emiliano Zapata
+Emily Dickinson	Emily Dickinson
+Emiro	Emir
+Emma Goldman	Emma Goldman
+Miensimbolo	Emoticon
+Emocio	Emotion
+Kategorio:Emocioj	Emotion
+Empedoklo	Empedocles
+Imperiestro	Emperor
+Imperiestra pingveno	Emperor Penguin
+Imperio	Empire
+Empire State Building	Empire State Building
+Empiriismo	Empiricism
+Emuo	Emu
+Enciklopedio	Encyclopedia
+Endemismo	Endemism
+Endokrina sistemo	Endocrine system
+Energio	Energy
+Kategorio:Energio	Energy
+Energio	Energy (society)
+Motoro	Engine
+Inĝeniero	Engineer
+Inĝenierarto	Engineering
+Kategorio:Inĝenierarto	Engineering
+Anglio	England
+Kategorio:Anglio	England
+Manika Markolo	English Channel
+Angla enlanda milito	English Civil War
+Angla lingvo	English language
+Kategorio:Angla lingvo	English language
+Kategorio:Angloj	English people
+Angloj	English people
+Enrico Caruso	Enrico Caruso
+Enrico Fermi	Enrico Fermi
+Kategorio:Distrado	Entertainment
+Entalpio	Enthalpy
+Entomologio	Entomology
+Kategorio:Entomologio	Entomology
+Entropio	Entropy
+Kategorio:Mediprotektado	Environment
+Enzimo	Enzyme
+Eoceno	Eocene
+Eono	Eon (geology)
+Efeso	Ephesus
+Eposo	Epic poetry
+Surcentro	Epicenter
+Epikteto	Epictetus
+Epikuro	Epicurus
+Epidemio	Epidemic
+Epidemiologio	Epidemiology
+Epilepsio	Epilepsy
+Adrenalino	Epinephrine
+Epifanio	Epiphany (Christian)
+Epiro (administra regiono)	Epirus (periphery)
+Sciteorio	Epistemology
+Epistolo al la Galatoj	Epistle to the Galatians
+Epistolo al la Romanoj	Epistle to the Romans
+Epitelio	Epithelium
+Epsilono	Epsilon
+Ekvacio	Equation
+Ekvatoro	Equator
+Ekvatora Gvineo	Equatorial Guinea
+Kategorio:Ekvatora Gvineo	Equatorial Guinea
+Ekvedoj	Equidae
+Ekvinokso	Equinox
+Ekvizeto	Equisetum
+Erasure	Erasure
+Erato	Erato
+Eratosteno	Eratosthenes
+Erbio	Erbium
+Erebo	Erebus
+Impotenteco	Erectile dysfunction
+Erektiĝo	Erection
+Erikacoj	Ericaceae
+Eridano (konstelacio)	Eridanus (constellation)
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Eriso	Eris (dwarf planet)
+Eriso (diino)	Eris (mythology)
+Kategorio:Eritreo	Eritrea
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Eroso	Eros (mythology)
+Erozio	Erosion
+Erotismo	Erotica
+Erwin Rommel	Erwin Rommel
+Eskapa rapido	Escape velocity
+Eskatologio	Eschatology
+Esfahano	Esfahan
+Ezofago	Esophagus
+Esperanto	Esperanto
+Kategorio:Esperanto	Esperanto
+Spionado	Espionage
+Espoo	Espoo
+Eseo	Essay
+Essen	Essen
+Volatila oleo	Essential oil
+Essex	Essex
+Estero	Ester
+Kategorio:Estonio	Estonia
+Eto (litero)	Eta (letter)
+Etano	Ethane
+Etanolo	Ethanol
+Etero (kemio)	Ether
+Eterreto	Ethernet
+Etiko	Ethics
+Kategorio:Etiko	Ethics
+Etiopio	Ethiopia
+Kategorio:Etiopio	Ethiopia
+Etno	Ethnic group
+Etnografio	Ethnography
+Kategorio:Etnologio	Ethnology
+Etologio	Ethology
+Eteno	Ethylene
+Etimologio	Etymology
+Eŭkalipto	Eucalyptus
+Komunio	Eucharist
+Eŭklido	Euclid
+Eŭkariotoj	Eukaryote
+Eŭnuko	Eunuch
+Eŭfemismo	Euphemism
+Eŭfrato	Euphrates
+Eŭrazio	Eurasia
+Melo	Eurasian Badger
+Eŭripido	Euripides
+Eŭro	Euro
+Eŭropo (luno)	Europa (moon)
+Eŭropa	Europa (mythology)
+Eŭropo	Europe
+Kategorio:Eŭropo	Europe
+Eŭropa Centra Banko	European Central Bank
+Eŭropa Ekonomia Komunumo	European Community
+Eŭropa pigo	European Magpie
+Eŭropa Unio	European Union
+Kategorio:Eŭropa Unio	European Union
+Eŭropio	Europium
+Eŭsebio de Cezareo	Eusebius of Caesarea
+Eŭterpo	Euterpe
+Eŭtanazio	Euthanasia
+Eva Braun	Eva Braun
+Evangelista Torricelli	Evangelista Torricelli
+Vaporado	Evaporation
+Parhufuloj	Even-toed ungulate
+Evoluismo	Evolution
+Kurzo	Exchange rate
+Krisigno	Exclamation mark
+Ekskomuniko	Excommunication
+Plenuma povo	Executive (government)
+Ekzistadismo	Existentialism
+Eliro	Exodus
+Atendata valoro	Expected value
+Eksperimento	Experiment
+Eksplodo	Explosion
+Internacia ekspozicio	Expo (exhibition)
+Eksponenta funkcio	Exponential function
+Potenco (matematiko)	Exponentiation
+Ekspresionismo	Expressionism
+Formorto	Extinction
+Okulo	Eye
+Kategorio:Okulo	Eye
+Ezra Pound	Ezra Pound
+F	F
+Francis Scott Key Fitzgerald	F. Scott Fitzgerald
+Fabacoj	Fabaceae
+Fablo	Fable
+Vizaĝo	Face
+Faktorialo	Factorial
+Fabriko	Factory
+Sunmakulo	Facula
+Fado	Fado
+Kategorio:Fagacoj	Fagaceae
+Farenhejta skalo	Fahrenheit
+Justa uzo	Fair use
+Feo	Fairy
+Fabelo	Fairy tale
+Falko	Falcon
+Falkoformaj birdoj	Falconiformes
+Falklandoj	Falkland Islands
+Salpingo	Fallopian tube
+Damao	Fallow Deer
+Falun Gong	Falun Gong
+Kategorio:Familio	Family
+Familio (biologio)	Family (biology)
+Genealogio	Family history
+Familia nomo	Family name
+Fantasto	Fantasy
+Farado	Farad
+Kategorio:Ferooj	Faroe Islands
+Faŝismo	Fascism
+Kategorio:Modo	Fashion
+Modo	Fashion
+Rapidmanĝejo	Fast food
+Fasto	Fasting
+Fatah	Fatah
+Grasacido	Fatty acid
+Bestaro	Fauna
+Faŭvismo	Fauvism
+Faksilo	Fax
+Timo	Fear
+Plumo	Feather
+Februaro	February
+12-a de februaro	February 12
+14-a de februaro	February 14
+2-a de februaro	February 2
+22-a de februaro	February 22
+29-a de februaro	February 29
+Fekaĵo	Feces
+FBI	Federal Bureau of Investigation
+Federacio de Mikronezio	Federated States of Micronesia
+Kategorio:Federacio de Mikronezio	Federated States of Micronesia
+Federacio	Federation
+Federico Fellini	Federico Fellini
+Feldspato	Feldspar
+Felisedoj	Felidae
+Felix Mendelssohn Bartholdy	Felix Mendelssohn
+Feminismo	Feminism
+Kategorio:Feminismo	Feminism
+Skermo	Fencing
+Fengŝuo	Feng shui
+Ferdinando la 2-a (Sankta Romia Imperio)	Ferdinand II
+Fernão de Magalhães	Ferdinand Magellan
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermentado	Fermentation (biochemistry)
+Fermentado	Fermentation (food)
+Fermiono	Fermion
+Fermio	Fermium
+Filiko	Fern
+Ferrara	Ferrara
+Pramo	Ferry
+Fekunda duonluno	Fertile Crescent
+Sterko	Fertilizer
+Feto	Fetus
+Feŭdismo	Feudalism
+Febro	Fever
+Fiat	Fiat
+Fibonaĉi-nombro	Fibonacci number
+Kategorio:Fikcio	Fiction
+Fikciulo	Fictional character
+Fidel Castro	Fidel Castro
+Korpo (algebro)	Field (mathematics)
+Ĉasaviadilo	Fighter aircraft
+Arta sketado	Figure skating
+Fiĝioj	Fiji
+Kategorio:Fiĝioj	Fiji
+FAT	File Allocation Table
+Dosiero-Transiga Protokolo	File Transfer Protocol
+Dosiersistemo	File system
+Kategorio:Kino	Film
+Filmo	Film
+Portalo:Filmo	Film
+Reĝisoro	Film director
+Balenoptero	Fin Whale
+Fingro	Finger
+Finnlando	Finland
+Kategorio:Finnlando	Finland
+Abio	Fir
+Fajro	Fire
+Pafilo	Firearm
+Fajroestingisto	Firefighter
+Fajroŝirmilo	Firewall (networking)
+Unua krucmilito	First Crusade
+1-a Epistolo al la Korintanoj	First Epistle to the Corinthians
+Sukuro	First aid
+Gepatra lingvo	First language
+Fiŝoj	Fish
+Kategorio:Fiŝoj	Fish
+Fiŝkaptado	Fishing
+Fjordo	Fjord
+Flago	Flag
+Flagelo	Flagellum
+Flamenko	Flamenco
+Flamengo	Flamingo
+Flandrio	Flanders
+Fulmomemoro	Flash memory
+Furzo	Flatulence
+Platvermo	Flatworm
+Pulo	Flea
+Flandra lingvo	Flemish (linguistics)
+Siliko	Flint
+Inundo	Flood
+Disketo	Floppy disk
+Florenco	Florence
+Florence Nightingale	Florence Nightingale
+Florido	Florida
+Kategorio:Florido	Florida
+Faruno	Flour
+Floro	Flower
+Angiospermoj	Flowering plant
+Fluido	Fluid
+Fluto	Flute
+Dipteroj	Fly
+Nebulo	Fog
+Popola muziko	Folk music
+Folkloro	Folklore
+Kategorio:Folkloro	Folklore
+Manĝaĵo	Food
+Organizaĵo pri Nutrado kaj Agrikulturo	Food and Agriculture Organization
+Nutroĉeno	Food chain
+Piedo	Foot
+Futo	Foot (unit of length)
+Futbalo	Football (soccer)
+Kategorio:Futbalo	Football (soccer)
+Kategorio:Futbalteamoj	Football (soccer) clubs
+Kategorio:Trejnistoj de futbalo	Football (soccer) managers
+Kategorio:Futbalistoj	Football (soccer) players
+Malpermesita Urbo	Forbidden City
+Forto	Force
+Arbaro	Forest
+Forko	Fork
+Ŝtatformo	Form of government
+Formaldehido	Formaldehyde
+Formika acido	Formic acid
+Forno (konstelacio)	Fornax
+Fortikaĵo	Fortification
+Fortran (programlingvo)	Fortran
+Fosilio	Fossil
+Fosilia brulaĵo	Fossil fuel
+Pendolo de Foucault	Foucault pendulum
+Fontano	Fountain
+Vulpo	Fox
+Fraktalo	Fractal
+Frakcio (matematiko)	Fraction (mathematics)
+Francio	France
+Kategorio:Francio	France
+Francis Bacon	Francis Bacon
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francis Ford Coppola	Francis Ford Coppola
+Francisko la 1-a (Aŭstrio)	Francis II
+Francis Poulenc	Francis Poulenc
+Sankta Francisko el Asizo	Francis of Assisi
+Franciskanoj	Franciscan
+Francisco Franco	Francisco Franco
+Francisco de Goya	Francisco Goya
+Francisco Pizarro	Francisco Pizarro
+Franciumo	Francium
+Francia-Prusia Milito	Franco-Prussian War
+Frank Lloyd Wright	Frank Lloyd Wright
+Frank Sinatra	Frank Sinatra
+Frankfort (Kentukio)	Frankfort
+Frankfurto ĉe Majno	Frankfurt
+Kategorio:Frankfurt	Frankfurt
+Frankfurto ĉe Odro	Frankfurt (Oder)
+Frankfurto	Frankfurt (disambiguation)
+Franklin Pierce	Franklin Pierce
+Frans Hals	Frans Hals
+Franz Kafka	Franz Kafka
+Franz Liszt	Franz Liszt
+Franz Schubert	Franz Schubert
+Fred Astaire	Fred Astaire
+Frederiko la 1-a (Sankta Romia Imperio)	Frederick I
+Frederiko la 2-a (Sankta Romia Imperio)	Frederick II
+Frederiktono (Nov-Brunsviko)	Fredericton
+Liberŝtato	Free State
+Libera volo	Free will
+Framasonismo	Freemasonry
+Fritaŭno	Freetown
+Franca Polinezio	French Polynesia
+Kategorio:Franca Polinezio	French Polynesia
+Francaj revolucioj	French Revolution
+Kategorio:Franca Revolucio	French Revolution
+Franca franko	French franc
+Kategorio:Francoj	French people
+Frekvenco	Frequency
+Fresko	Fresco
+Nesala akvo	Freshwater
+Freyr	Freyr
+Frotado	Friction
+Vendredo	Friday
+Fridtjof Nansen	Fridtjof Nansen
+Friedrich Engels	Friedrich Engels
+Frislando	Friesland
+Fregato	Frigate
+Frigg	Frigg
+Friulo-Venecio Julia	Friuli-Venezia Giulia
+Rano	Frog
+Fruktozo	Fructose
+Frukto	Fruit
+Kategorio:Fruktoj	Fruit
+Fucking	Fucking
+Brulaĵo	Fuel
+Fuelpilo	Fuel cell
+Fugo	Fugue
+Fukuoka (urbo)	Fukuoka
+Plenluno	Full moon
+Funafutio	Funafuti
+Funkcio (matematiko)	Function (mathematics)
+Kategorio:Ĉio	Fundamental
+Fundamenta forto	Fundamental interaction
+Fundamentismo	Fundamentalism
+Kategorio:Fungoj	Fungi
+Fungoj	Fungus
+Funikularo	Funicular
+Funko	Funk
+Kategorio:Mebloj	Furniture
+Meblo	Furniture
+Estonteco	Future
+Futurismo	Futurism (art)
+Neakra logiko	Fuzzy logic
+Fjodor Dostojevskij	Fyodor Dostoevsky
+G	G
+GIMP	GIMP
+GNOME	GNOME
+GNU	GNU
+Gabono	Gabon
+Kategorio:Gabono	Gabon
+Gaborono	Gaborone
+Sankta Gabrielo	Gabriel
+Gabriel Lippmann	Gabriel Lippmann
+Gadolinio	Gadolinium
+Geo	Gaia (mythology)
+Galatia	Galatia
+Galaksio	Galaxy
+Galeno de Pergamono	Galen
+Galeno	Galena
+Galicio	Galicia (Central Europe)
+Galegio	Galicia (Spain)
+Galileo (regiono)	Galilee
+Galilejo	Galileo Galilei
+Kokoformaj birdoj	Galliformes
+Galiumo	Gallium
+Galjono	Gallon
+Galway	Galway
+Nasser	Gamal Abdel Nasser
+Hazardludo	Gambling
+Ludo	Game
+Ludoteorio	Game theory
+Gamo (litero)	Gamma
+Gama-radiado	Gamma ray
+Gango	Ganges
+Ganĝa	Ganja
+Gansuo	Gansu
+Ganimedo	Ganymede (moon)
+Gap (Hautes-Alpes)	Gap
+Ĝardeno	Garden
+Edena ĝardeno	Garden of Eden
+Ĝardenado	Gardening
+Gargojlo	Gargoyle
+Ajlo	Garlic
+Grenato	Garnet
+Garono	Garonne
+Gaso	Gas
+Universala gaskonstanto	Gas constant
+Gasgiganto	Gas giant
+Benzino	Gasoline
+Digesta sistemo	Gastrointestinal tract
+Gastropodo	Gastropoda
+Gaŭloj	Gaul
+Siddhartha Gautama	Gautama Buddha
+Gejo	Gay
+Gaza-urbo	Gaza
+Gaza Sektoro	Gaza Strip
+Dentrado	Gear
+Gejŝo	Geisha
+Ĝemeloj (konstelacio)	Gemini (constellation)
+Gemo	Gemstone
+Geno	Gene
+Genealogio	Genealogy
+Generalo	General Officer
+Ĝenerala relativeco	General relativity
+Genezo	Genesis
+Genetika kodo	Genetic code
+Gentekniko	Genetic engineering
+Genetiko	Genetics
+Kategorio:Genetiko	Genetics
+Ĝenevo	Geneva
+Ĝino (spirito)	Genie
+Genitivo	Genitive case
+Ĝenovo	Genoa
+Genocido	Genocide
+Genomo	Genome
+Genro (biologio)	Genus
+Geokemio	Geochemistry
+Geodezio	Geodesy
+Kategorio:Geodezio	Geodesy
+Geoffrey Chaucer	Geoffrey Chaucer
+Geografio	Geography
+Kategorio:Geografio	Geography
+Kategorio:Geologio	Geology
+Geologio	Geology
+Geometrio	Geometry
+Kategorio:Geometrio	Geometry
+Geomorfologio	Geomorphology
+Geofiziko	Geophysics
+Kategorio:Geofiziko	Geophysics
+Geopolitiko	Geopolitics
+Georg Philipp Telemann	Georg Philipp Telemann
+Hegelo	Georg Wilhelm Friedrich Hegel
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+George Bush	George Bush
+Georg Friedrich Händel	George Frideric Handel
+George Gershwin	George Gershwin
+George Harrison	George Harrison
+George Lucas	George Lucas
+George Catlett Marshall	George Marshall
+George Orwell	George Orwell
+George Paget Thomson	George Paget Thomson
+George Sand	George Sand
+George Stephenson	George Stephenson
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georges Bizet	Georges Bizet
+Georges Braque	Georges Braque
+Georges Clemenceau	Georges Clemenceau
+Georges Simenon	Georges Simenon
+Ĝorĝtaŭno (Gujano)	Georgetown
+Georgio	Georgia (U.S. state)
+Kategorio:Georgio	Georgia (U.S. state)
+Kartvelio	Georgia (country)
+Kategorio:Kartvelio	Georgia (country)
+Gerald Ford	Gerald Ford
+Gerard Kuiper	Gerard Kuiper
+Germana lingvo	German language
+Kategorio:Germana lingvo	German language
+Germana marko	German mark
+Germaniumo	Germanium
+Germanio	Germany
+Kategorio:Germanio	Germany
+Geronimo	Geronimo
+Gestapo	Gestapo
+Gejsero	Geyser
+Ganao	Ghana
+Kategorio:Ganao	Ghana
+Gento (urbo)	Ghent
+Geto	Ghetto
+Fantomo	Ghost
+Giacomo Puccini	Giacomo Puccini
+Granda pando	Giant Panda
+Gibonoj	Gibbon
+Ĝibraltaro	Gibraltar
+Kategorio:Ĝibraltaro	Gibraltar
+Gilgameŝ	Gilgamesh
+Zingibro	Ginger
+Ginko	Ginkgo
+Giordano Bruno	Giordano Bruno
+Giorgio Vasari	Giorgio Vasari
+Giorgio de Chirico	Giorgio de Chirico
+Giotto	Giotto di Bondone
+Giovanni Boccaccio	Giovanni Boccaccio
+Ĝirafo	Giraffe
+Gironde	Gironde
+Giuseppe Garibaldi	Giuseppe Garibaldi
+Giuseppe Verdi	Giuseppe Verdi
+Gizo	Giza
+Glaĉero	Glacier
+Gladiatoro	Gladiator
+Glando	Gland
+Glasgovo	Glasgow
+Glasnost	Glasnost
+Vitro	Glass
+Okulvitro	Glasses
+Glisilo	Glider
+Tutmonda loktrova sistemo	Global Positioning System
+Tutmonda varmiĝo	Global warming
+Tutmondiĝo	Globalization
+Artiŝoko	Globe artichoke
+Gloucestershire	Gloucestershire
+Glukagono	Glucagon
+Glukozo	Glucose
+Gluono	Gluon
+Glutama acido	Glutamic acid
+Glicerino	Glycerol
+Glicino	Glycine
+Glikogeno	Glycogen
+Glikolizo	Glycolysis
+Makzelulo	Gnathostomata
+Gnejso	Gneiss
+Gnostikismo	Gnosticism
+Goo	Go (board game)
+Goao	Goa
+Golulo	Goalkeeper
+Gobi	Gobi Desert
+Dio	God
+Golanaj Altaĵoj	Golan Heights
+Oro	Gold
+Golda Meir	Golda Meir
+Reĝa aglo	Golden Eagle
+Golden-Gate-Ponto	Golden Gate Bridge
+Ora Hordo	Golden Horde
+Orkolora reporthundo	Golden Retriever
+Golfo (sporto)	Golf
+Golĝi-aparato	Golgi apparatus
+Google	Google
+Kategorio:Google	Google
+Guglo	Googol
+Gorilo	Gorilla
+Akcipitro	Goshawk
+Evangelio	Gospel
+Evangelio laŭ Luko	Gospel of Luke
+Göteborg	Gothenburg
+Gotiko	Gothic
+Gotika arkitekturo	Gothic architecture
+Gotthold Ephraim Lessing	Gotthold Ephraim Lessing
+Gottlieb Daimler	Gottlieb Daimler
+Podagro	Gout
+Registaro	Government
+Grace Kelly	Grace Kelly
+Gradiento (matematiko)	Gradient
+Graham Greene	Graham Greene
+Gramo	Gram
+Gramatiko	Grammar
+Kategorio:Gramatiko	Grammar
+Genro	Grammatical gender
+Granado (Hispanio)	Granada
+Granda Kanjono	Grand Canyon
+Grandmajstro	Grandmaster (chess)
+Granito	Granite
+Vinbero	Grape
+Grapfrukto	Grapefruit
+Grafika uzantinterfaco	Graphical user interface
+Grafito	Graphite
+Gravito	Gravitation
+Gravita konstanto	Gravitational constant
+Grajo	Gray (unit)
+Lupo	Gray Wolf
+Graz	Graz
+Granda barilrifo	Great Barrier Reef
+Britio (insulo)	Great Britain
+Tufgrebo	Great Crested Grebe
+Granda depresio	Great Depression
+Grandaj Lagoj (Nordameriko)	Great Lakes
+Granda Rifto	Great Rift Valley
+Granda Ĉina Muro	Great Wall of China
+Grandaj Antiloj	Greater Antilles
+Granda Londono	Greater London
+Plej granda komuna divizoro	Greatest common divisor
+Greboj	Grebe
+Grekio	Greece
+Kategorio:Grekio	Greece
+Greka alfabeto	Greek alphabet
+Kategorio:Greka alfabeto	Greek alphabet
+Greka fajro	Greek fire
+Helena mitologio	Greek mythology
+Kategorio:Helena mitologio	Greek mythology
+Verdo	Green
+Forcejo	Greenhouse
+Forceja efiko	Greenhouse effect
+Gronlando	Greenland
+Kategorio:Gronlando	Greenland
+Greenpeace	Greenpeace
+Greenwich	Greenwich
+GMT	Greenwich Mean Time
+Johann Gregor Mendel	Gregor Mendel
+Gregoria kalendaro	Gregorian calendar
+Kategorio:Grenado	Grenada
+Grenoblo	Grenoble
+Greta Garbo	Greta Garbo
+Griza	Grey
+Griza ansero	Greylag Goose
+Grifo	Griffin
+Ansergrifo	Griffon Vulture
+Malneta enlanda produkto	Gross domestic product
+Grupo	Group
+Grupo (algebro)	Group (mathematics)
+Grupo de la perioda tabelo	Group (periodic table)
+Grupa teorio	Group theory
+Grover Cleveland	Grover Cleveland
+Grozno	Grozny
+Gruoformaj	Gruiformes
+Gruo (konstelacio)	Grus (constellation)
+Gvadalaharo	Guadalajara
+Gvadelupo	Guadeloupe
+Gvamo	Guam
+Kantono (Ĉinio)	Guangzhou
+Guanino	Guanine
+Guano	Guano
+Kategorio:Gvatemalo	Guatemala
+Gvatemalurbo	Guatemala City
+Guayaquil	Guayaquil
+Guernsey	Guernsey
+Guglielmo Marconi	Guglielmo Marconi
+Gildo	Guild
+Guillaume Apollinaire	Guillaume Apollinaire
+Gilotino	Guillotine
+Gvineo	Guinea
+Kategorio:Gvineo	Guinea
+Kobajo	Guinea pig
+Gvineo Bisaŭa	Guinea-Bissau
+Kategorio:Gvineo Bisaŭa	Guinea-Bissau
+Gitaro	Guitar
+Guĝarato	Gujarat
+Gulago	Gulag
+Golfa Marfluo	Gulf Stream
+Golfa Milito	Gulf War
+Adena Golfo	Gulf of Aden
+Akaba Golfo	Gulf of Aqaba
+Botnia golfo	Gulf of Bothnia
+Finna golfo	Gulf of Finland
+Gvinea Golfo	Gulf of Guinea
+Meksika Golfo	Gulf of Mexico
+Golfo de Rigo	Gulf of Riga
+Mevo	Gull
+Pulvo	Gunpowder
+Pulva konspiro	Gunpowder Plot
+Gupio	Guppy
+Gustav Klimt	Gustav Klimt
+Gustav Hertz	Gustav Ludwig Hertz
+Gustav Mahler	Gustav Mahler
+Gustave Courbet	Gustave Courbet
+Gustave Flaubert	Gustave Flaubert
+Guy Fawkes	Guy Fawkes
+Guy de Maupassant	Guy de Maupassant
+Kategorio:Gujano	Guyana
+Gimnastiko	Gymnastics
+Gimnospermoj	Gymnosperm
+Ginekologio	Gynaecology
+Gipsoŝtono	Gypsum
+Giroskopo	Gyroscope
+H	H
+H. G. Wells	H. G. Wells
+HIV	HIV
+HTML	HTML
+Kodumulo	Hacker
+Hadeso	Hades
+Hadriano	Hadrian
+Muro de Hadriano	Hadrian's Wall
+Hadrono	Hadron
+Hemofilio	Haemophilia
+Hafnio	Hafnium
+Hagia Sofia	Hagia Sophia
+Ĥajfo	Haifa
+Hajko	Haiku
+Hajlo	Hail
+Ave Maria	Hail Mary
+Haro	Hair
+Haitio	Haiti
+Kategorio:Haitio	Haiti
+Haĝo	Hajj
+Halebardo	Halberd
+Duoniĝtempo	Half-life
+Halle (Saale)	Halle
+Halloween	Halloween
+Halucino	Hallucination
+Halogeno	Halogen
+Hamas	Hamas
+Hamburgo	Hamburg
+Kategorio:Hamburgo	Hamburg
+Hamburgero	Hamburger
+Hamleto	Hamlet
+Martelo	Hammer
+Rikoltilo kaj martelo	Hammer and sickle
+Hamurabi	Hammurabi
+Hampshire	Hampshire
+Hamstro	Hamster
+Dinastio Han	Han Dynasty
+Mano	Hand
+Pistolo	Handgun
+Pendumo	Hanging
+Pendĝardenoj de Babilono	Hanging Gardens of Babylon
+Hannah Arendt	Hannah Arendt
+Hanibal Barka	Hannibal
+Hanojo	Hanoi
+Hanovro	Hanover
+Hans Albrecht Bethe	Hans Bethe
+Hans Christian Andersen	Hans Christian Andersen
+Hansa ligo	Hanseatic League
+Ĥanuka	Hanukkah
+Ĝojo	Happiness
+Harareo	Harare
+Dureco	Hardness
+Haremo	Harem
+Buŝharmoniko	Harmonica
+Harmoniscienco	Harmony
+Harold Pinter	Harold Pinter
+Harpo	Harp
+Klaviceno	Harpsichord
+Harpio	Harpy
+Harriet Beecher Stowe	Harriet Beecher Stowe
+Harrisburg (Pensilvanio)	Harrisburg
+Harry Houdini	Harry Houdini
+Hartford (Konektikuto)	Hartford
+Hasio	Hassium
+Malamo	Hatred
+Supra Normandio	Haute-Normandie
+Havano	Havana
+Havajo	Hawaii
+Kategorio:Havajo	Hawaii
+Avelujo	Hazel
+Kapo	Head
+Ŝtatestro	Head of state
+Sano	Health
+Koro	Heart
+Varmo	Heat
+Paradizo	Heaven
+Metalroko	Heavy metal music
+Peza akvo	Heavy water
+Hebejo	Hebei
+Hebrea alfabeto	Hebrew alphabet
+Hebrea kalendaro	Hebrew calendar
+Hebridaj Insuloj	Hebrides
+Hekato	Hecate
+Hektaro	Hectare
+Hektoro	Hector
+Louis Hector Berlioz	Hector Berlioz
+Erinaco	Hedgehog
+Hedonismo	Hedonism
+Heinrich Rudolf Hertz	Heinrich Hertz
+Heinrich Himmler	Heinrich Himmler
+Heinrich Schliemann	Heinrich Schliemann
+Hel (mitologio)	Hel (being)
+Helena de Trojo	Helen
+Helen Keller	Helen Keller
+Helena (Montano)	Helena
+Helikoptero	Helicopter
+Helios	Helios
+Heliumo	Helium
+Infero	Hell
+Helmut Schmidt	Helmut Schmidt
+Helsinko	Helsinki
+Hematito	Hematite
+Hematologio	Hematology
+Hemoglobino	Hemoglobin
+Hemoroido	Hemorrhoid
+Antoine Henri Becquerel	Henri Becquerel
+Henri Bergson	Henri Bergson
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henro	Henry (unit)
+Henry David Thoreau	Henry David Thoreau
+Henry Fonda	Henry Fonda
+Henry Ford	Henry Ford
+Henry Kissinger	Henry Kissinger
+Henry Moore	Henry Moore
+Henry Purcell	Henry Purcell
+Hepatito	Hepatitis
+Hefesto	Hephaestus
+Hera	Hera
+Heraklo	Heracles
+Heraklito	Heraclitus
+Heraldiko	Heraldry
+Kategorio:Heraldiko	Heraldry
+Herbert C. Hoover	Herbert Hoover
+Herbert Spencer	Herbert Spencer
+Heraklo	Hercules
+Herkulo (konstelacio)	Hercules (constellation)
+Herezo	Heresy
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermann von Helmholtz	Hermann von Helmholtz
+Hermeso	Hermes
+Heroo	Hero
+Herono	Hero of Alexandria
+Herodo la Granda	Herod the Great
+Herodoto	Herodotus
+Heroino	Heroin
+Ardeedoj	Heron
+Arĝentmevo	Herring Gull
+Hertfordshire	Hertfordshire
+Herco	Hertz
+Heziodo	Hesiod
+Hesio	Hesse
+Kategorio:Hesio	Hesse
+Hestia	Hestia
+Aliseksemo	Heterosexuality
+Heterotrofo	Heterotroph
+Deksesuma sistemo	Hexadecimal
+Seslatero	Hexagon
+Hizbulaho	Hezbollah
+Vintra dormo	Hibernation
+Yukawa Hideki	Hideki Yukawa
+Hieronymus Bosch	Hieronymus Bosch
+Hilberta spaco	Hilbert space
+Himalajo	Himalayas
+Hindukuŝo	Hindu Kush
+Hinduismo	Hinduism
+Kategorio:Hinduismo	Hinduism
+Hiparko	Hipparchus
+Hipio	Hippie
+Hipokrato	Hippocrates
+Amfibia hipopotamo	Hippopotamus
+Hirohito	Hirohito
+Hiroŝimo	Hiroshima
+Hispaniolo	Hispaniola
+Histidino	Histidine
+Histologio	Histology
+Historiografio	Historiography
+Historio	History
+Kategorio:Historio	History
+Ho Chi Minh	Ho Chi Minh
+Ho-Ĉi-Min-urbo	Ho Chi Minh City
+Hobarto	Hobart
+Hobito	Hobbit
+Ŝatokupo	Hobby
+Katsushika Hokusai	Hokusai
+Festaj kaj feriaj tagoj	Holiday
+Holivudo	Hollywood
+Holmio	Holmium
+Holoceno	Holocene
+Holografio	Holography
+Sankta gralo	Holy Grail
+Sankta Romia Imperio	Holy Roman Empire
+Sankta Spirito	Holy Spirit
+Homeopatio	Homeopathy
+Homero	Homer
+Homedoj	Hominidae
+Homo erectus	Homo erectus
+Homo habilis	Homo habilis
+Homonimo	Homonym
+Samseksemo	Homosexuality
+Honduro	Honduras
+Kategorio:Honduro	Honduras
+Mielo	Honey
+Vespobuteo	Honey Buzzard
+Honkongo	Hong Kong
+Kategorio:Honkongo	Hong Kong
+Honiaro	Honiara
+Honolulu (Havajo)	Honolulu
+Nargileo	Hookah
+Upupedoj	Hoopoe
+Horacio	Horace
+Horatio Nelson	Horatio Nelson
+Horizonto	Horizon
+Hormono	Hormone
+Korno (anatomio)	Horn (anatomy)
+Korno (muzikinstrumento)	Horn (instrument)
+Korno de Afriko	Horn of Africa
+Horoskopo	Horoscope
+Ĉevalo	Horse
+Ĉevalvetkuro	Horse racing
+Ĉevalpovo	Horsepower
+Horuso	Horus
+Hosni Mubarak	Hosni Mubarak
+Malsanulejo	Hospital
+Hotelo	Hotel
+Horo	Hour
+Domo	House
+House	House (TV series)
+Dompasero	House Sparrow
+Houston (Teksaso)	Houston
+Aeroglita boato	Hovercraft
+Howard Carter	Howard Carter (archaeologist)
+Hudsona Golfo	Hudson Bay
+Hugo Kapeto	Hugh Capet
+Hugenotoj	Huguenot
+Homo	Human
+Humanismo	Humanism
+Kategorio:Homa scienco	Humanities
+Humero	Humerus
+Kolibro	Hummingbird
+Kategorio:Humuro	Humor
+Humuro	Humour
+Ĝiba baleno	Humpback Whale
+Humphrey Bogart	Humphrey Bogart
+Humo	Humus
+Hunano	Hunan
+Centjara milito	Hundred Years' War
+Hungario	Hungary
+Kategorio:Hungario	Hungary
+Ĉasado	Hunting
+Hutuoj	Hutu
+Hibrido	Hybrid
+Hajderabado	Hyderabad
+Hidro (konstelacio)	Hydra (constellation)
+Hidrokarbono	Hydrocarbon
+Hidroelektra centralo	Hydroelectricity
+Hidrogeno	Hydrogen
+Hidrogena ligo	Hydrogen bond
+Hidrogena cianido	Hydrogen cyanide
+Hidrologio	Hydrology
+Kategorio:Hidrologio	Hydrology
+Hidrolizo	Hydrolysis
+Hidrosfero	Hydrosphere
+Virhidro (konstelacio)	Hydrus
+Kategorio:Higieno	Hygiene
+Himeno	Hymen
+Kategorio:Himenopteroj	Hymenoptera
+Himenopteroj	Hymenoptera
+Himno	Hymn
+Hiperbolo	Hyperbola
+Alta sangopremo	Hypertension
+Hiperteksto	Hypertext
+Hiperteksto-Transiga Protokolo	Hypertext Transfer Protocol
+Hipnoto	Hypnosis
+Hipotezo	Hypothesis
+I	I
+I. M. Pei	I. M. Pei
+IPod	IPod
+Ian Fleming	Ian Fleming
+Iberio	Iberian Peninsula
+Glacio	Ice
+Glaciepoko	Ice age
+Glaciaĵo	Ice cream
+Glacihokeo	Ice hockey
+Glacimonto	Iceberg
+Islando	Iceland
+Kategorio:Islando	Iceland
+Ikono (religio)	Icon
+Ikonoklasmo	Iconoclasm
+Idaho	Idaho
+Kategorio:Idaho	Idaho
+Ideala gaso	Ideal gas
+Ideismo	Idealism
+Identa matrico	Identity matrix
+Ideologio	Ideology
+Ido (lingvo)	Ido
+Iglo	Igloo
+Ignaco Lojola	Ignatius of Loyola
+Magmaj petroj	Igneous rock
+Igor Stravinski	Igor Stravinsky
+Igŭacuo	Iguazu Falls
+Iliado	Iliad
+Ilinojo	Illinois
+Kategorio:Ilinojo	Illinois
+Ilirio	Illyria
+Skanilo	Image scanner
+Imamo	Imam
+Immanuel Kant	Immanuel Kant
+Imuna sistemo	Immune system
+Imunologio	Immunology
+Imperiismo	Imperialism
+Impresionismo	Impressionism
+Incesto	Incest
+Colo	Inch
+Inĉon	Incheon
+Dekliva ebenaĵo	Inclined plane
+Sendependeco	Independence
+Barato	India
+Kategorio:Barato	India
+Hinda Oceano	Indian Ocean
+Kategorio:Hinda Oceano	Indian Ocean
+Indianao	Indiana
+Kategorio:Indianao	Indiana
+Indianapolis (Indianao)	Indianapolis
+Indira Gandhi	Indira Gandhi
+Indio	Indium
+Hindoĉinio	Indochina
+Indonezio	Indonesia
+Kategorio:Indonezio	Indonesia
+Induktanco	Inductance
+Induktiva logiko	Inductive reasoning
+Induktilo	Inductor
+Indulgenco	Indulgence
+Indiano (konstelacio)	Indus (constellation)
+Induso	Indus River
+Industria revolucio	Industrial Revolution
+Industrio	Industry
+Kategorio:Industrioj	Industry
+Neegalaĵo (pli granda, malpli granda)	Inequality
+Infanterio	Infantry
+Infinitivo	Infinitive
+Senfineco	Infinity
+Inflamo	Inflammation
+Inflacio	Inflation
+Gripo	Influenza
+Informo	Information
+Informa teknologio	Information technology
+Infraruĝa radiado	Infrared
+Substrukturo	Infrastructure
+Ingmar Bergman	Ingmar Bergman
+Ingrid Bergman	Ingrid Bergman
+Interna Mongolio	Inner Mongolia
+Innsbruck	Innsbruck
+Neorganika kemio	Inorganic chemistry
+Inkvizicio	Inquisition
+Insekto	Insect
+Insektomanĝuloj	Insectivora
+Institucio	Institution
+Insulino	Insulin
+Asekuro	Insurance
+Entjero	Integer
+Integralo	Integral
+Integra cirkvito	Integrated circuit
+Intelekta propraĵo	Intellectual property
+Intelekto	Intelligence
+Intelekta kvociento	Intelligence quotient
+Interezo	Interest
+Interjekcio	Interjection
+Interlingvao	Interlingua
+Internacia Atomenergia Organizo	International Atomic Energy Agency
+Internacia Civila Aviada Organizo	International Civil Aviation Organization
+Internacia Kortumo	International Court of Justice
+Internacia datlinio	International Date Line
+Internacia Organizo de Laboro	International Labour Organization
+Internacia Monunua Fonduso	International Monetary Fund
+Sistemo Internacia de Unuoj	International System of Units
+Kategorio:Internacia juro	International law
+Internacia organizaĵo	International organization
+Interreto	Internet
+Kategorio:Interreto	Internet
+Internet Explorer	Internet Explorer
+Komunaĵo	Intersection (set theory)
+Intervalo (muziko)	Interval (music)
+Intesto	Intestine
+Intrareto	Intranet
+Invento	Invention
+Senvertebruloj	Invertebrate
+Ioo	Io (moon)
+Ioa	Io (mythology)
+Jodo	Iodine
+Jono	Ion
+Ionio	Ionia
+Ionia Maro	Ionian Sea
+Jonosfero	Ionosphere
+Joto	Iota
+Iovao	Iowa
+Kategorio:Iovao	Iowa
+Irano	Iran
+Kategorio:Irano	Iran
+Iraka-irana milito	Iran-Iraq War
+Irako	Iraq
+Kategorio:Irako	Iraq
+Irlando (insulo)	Ireland
+Kategorio:Irlando	Ireland
+Sankta Ireneo	Irenaeus
+Iridio	Iridium
+Iriso	Iris (anatomy)
+IRA (Irlando)	Irish Republican Army
+Irlanda Maro	Irish Sea
+Kategorio:Irlandanoj	Irish people
+Fero	Iron
+Ferepoko	Iron Age
+Fera Kurteno	Iron Curtain
+Iron Maiden	Iron Maiden
+Ironio	Irony
+Neracionala nombro	Irrational number
+Iredentismo	Irredentism
+Irtiŝo	Irtysh River
+Isaak	Isaac
+Isaac Asimov	Isaac Asimov
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isadora Duncan	Isadora Duncan
+Iŝmael	Ishmael
+Izisa	Isis
+Islamo	Islam
+Kategorio:Islamo	Islam
+Islamabado	Islamabad
+Islama kalendaro	Islamic calendar
+Insulo	Island
+Manksinsulo	Isle of Man
+Kategorio:Manksinsulo	Isle of Man
+Isle of Wight	Isle of Wight
+Izomero	Isomer
+Yamamoto Isoroku	Isoroku Yamamoto
+Izotopo	Isotope
+Israelo	Israel
+Kategorio:Israelo	Israel
+Istanbulo	Istanbul
+Istmo	Isthmus
+Istmo de Panamo	Isthmus of Panama
+Itala duoninsulo	Italian Peninsula
+Italo Calvino	Italo Calvino
+Italio	Italy
+Kategorio:Italio	Italy
+Itako	Ithaca
+Ivan Lendl	Ivan Lendl
+Ivan Pavlov	Ivan Pavlov
+Ivan Turgenev	Ivan Turgenev
+Eburo	Ivory
+Ivy League	Ivy League
+Iwo Jima	Iwo Jima
+J	J
+Jerome David Salinger	J. D. Salinger
+Jack Kerouac	Jack Kerouac
+Jack Lemmon	Jack Lemmon
+Jack London	Jack London
+Ĵakvo la Buĉisto	Jack the Ripper
+Monedo	Jackdaw
+Jackson (Misisipio)	Jackson
+Jackson Pollock	Jackson Pollock
+Jacksonville (Florido)	Jacksonville
+Jakobo	Jacob
+Jacques Cartier	Jacques Cartier
+Jacques Derrida	Jacques Derrida
+Jacques Offenbach	Jacques Offenbach
+Jado	Jade
+Jaguaro	Jaguar
+Ĝajnismo	Jainism
+Ĝakarto	Jakarta
+Jamajko	Jamaica
+Kategorio:Jamajko	Jamaica
+Jakobo la Granda	James
+James A. Garfield	James A. Garfield
+James Bond (fikcia universo)	James Bond
+James Buchanan	James Buchanan
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Franck	James Franck
+James Joyce	James Joyce
+James K. Polk	James K. Polk
+James Madison	James Madison
+James Monroe	James Monroe
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+Jan Hus	Jan Hus
+Jane Austen	Jane Austen
+Jane Fonda	Jane Fonda
+Janiĉaroj	Janissary
+Januaro	January
+1-a de januaro	January 1
+19-a de januaro	January 19
+20-a de januaro	January 20
+6-a de januaro	January 6
+Japanio	Japan
+Kategorio:Japanio	Japan
+Jazono	Jason
+Iktero	Jaundice
+Javo	Java
+Java	Java (programming language)
+Jawaharlal Nehru	Jawaharlal Nehru
+Ĵazo	Jazz
+Kategorio:Ĵazo	Jazz
+Jean Cocteau	Jean Cocteau
+Jean Piaget	Jean Piaget
+Jean Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jean-Philippe Rameau	Jean-Philippe Rameau
+Ĝido	Jeddah
+Jefferson City (Misurio)	Jefferson City
+Jefferson Davis	Jefferson Davis
+Jehovo	Jehovah
+Atestantoj de Jehovo	Jehovah's Witnesses
+Meduzo	Jellyfish
+Jena	Jena
+Jerez de la Frontera	Jerez de la Frontera
+Jeriko	Jericho
+Sankta Hieronimo	Jerome
+Ĵersejo	Jersey
+Jerusalemo	Jerusalem
+Kategorio:Jerusalemo	Jerusalem
+Jesuo Kristo	Jesus
+Jetmotoro	Jet engine
+Judoj	Jew
+Ĝihado	Jihad
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Johana de Arko	Joan of Arc
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Diderik van der Waals	Johannes Diderik van der Waals
+Johannes Gutenberg	Johannes Gutenberg
+Keplero	Johannes Kepler
+Johanesburgo	Johannesburg
+John Adams	John Adams
+John Bardeen	John Bardeen
+John Cage	John Cage
+Kalvino	John Calvin
+Johano Krizostomo	John Chrysostom
+John Dalton	John Dalton
+John Dewey	John Dewey
+John Galsworthy	John Galsworthy
+John Herschel	John Herschel
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John Napier	John Napier
+John Quincy Adams	John Quincy Adams
+John Ruskin	John Ruskin
+John Steinbeck	John Steinbeck
+John Stuart Mill	John Stuart Mill
+John Tyler	John Tyler
+John Wayne	John Wayne
+John Wyclif	John Wycliffe
+Johano la Baptisto	John the Baptist
+John von Neumann	John von Neumann
+Johnny Cash	Johnny Cash
+Artiko	Joint
+Jonathan Swift	Jonathan Swift
+Jordanio	Jordan
+Kategorio:Jordanio	Jordan
+Jordano	Jordan River
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Conrad	Joseph Conrad
+Joseph Goebbels	Joseph Goebbels
+Joseph Haydn	Joseph Haydn
+Louis Joseph Gay-Lussac	Joseph Louis Gay-Lussac
+Joseph Priestley	Joseph Priestley
+Joseph Schumpeter	Joseph Schumpeter
+Joseph Smith	Joseph Smith
+Josif Stalin	Joseph Stalin
+Jozefo Flavio	Josephus
+Ĵulo	Joule
+Kategorio:Ĵurnalistiko	Journalism
+Ĵurnalismo	Journalism
+Ĵurnalisto	Journalist
+Joviano	Jovian
+Stirstango	Joystick
+Judismo	Judaism
+Kategorio:Judismo	Judaism
+Judaso Iskarioto	Judas Iscariot
+Judio	Judea
+Ĵudo	Judo
+Judy Garland	Judy Garland
+Ĵuĵicuo	Jujutsu
+Jules Verne	Jules Verne
+Julia kalendaro	Julian calendar
+Juliano la Apostato	Julian the Apostate
+Julio Cezaro	Julius Caesar
+Julio	July
+1-a de julio	July 1
+4-a de julio	July 4
+Junio	June
+14-a de junio	June 14
+21-a de junio	June 21
+23-a de junio	June 23
+24-a de junio	June 24
+29-a de junio	June 29
+3-a de junio	June 3
+Juneau (Alasko)	Juneau
+Junipero	Juniper
+Juno	Juno (mythology)
+Jupitero	Jupiter
+Kategorio:Jupitero	Jupiter
+Jupitero (dio)	Jupiter (mythology)
+Ĵurasio	Jurassic
+Justiniano la 1-a	Justinian I
+Jutlando	Jutland
+K	K
+K2	K2
+KGB	KGB
+Kaaba	Kaaba
+Kabalo	Kabbalah
+Kabulo	Kabul
+Kalaharo	Kalahari Desert
+Kamĉatko	Kamchatka Peninsula
+Kampalo	Kampala
+Kandaharo	Kandahar
+Kanguruo	Kangaroo
+Kansaso	Kansas
+Kategorio:Kansaso	Kansas
+Kansasurbo (Misurio)	Kansas City
+Kapo (litero)	Kappa
+Karska Maro	Kara Sea
+Karaĉio	Karachi
+Karakorumo	Karakoram
+Karaokeo	Karaoke
+Karateo	Karate
+Karen Blixen	Karen Blixen
+Karl Barth	Karl Barth
+Karl Jaspers	Karl Jaspers
+Karl Marx	Karl Marx
+Karl Popper	Karl Popper
+Karmo	Karma
+Karnatako	Karnataka
+Katharine Hepburn	Katharine Hepburn
+Katmanduo	Kathmandu
+Katowice	Katowice
+Kaŭnaso	Kaunas
+Kajako	Kayak
+Kazaĥio	Kazakhstan
+Kategorio:Kazaĥio	Kazakhstan
+Kazan	Kazan
+Kelvino	Kelvin
+Kent	Kent
+Kentukio	Kentucky
+Kategorio:Kentukio	Kentucky
+Kenjo	Kenya
+Kategorio:Kenjo	Kenya
+Kerno (operaciumo)	Kernel (computer science)
+Keroseno	Kerosene
+Keĉapo	Ketchup
+Ketono	Ketone
+Komputila klavaro	Keyboard (computing)
+Klavarinstrumento	Keyboard instrument
+Ĥabarovsk	Khabarovsk
+Ĥarkivo	Kharkiv
+Ĥartumo	Khartoum
+Ĥufu	Khufu
+Kibuco	Kibbutz
+Reno	Kidney
+Kievo	Kiev
+Kigalo	Kigali
+Kilobajto	Kilobyte
+Kilogramo	Kilogram
+Kilometro	Kilometre
+Kilometro en horo	Kilometres per hour
+Kimono	Kimono
+Infanĝardeno	Kindergarten
+Kineta energio	Kinetic energy
+Reĝo (ŝako)	King (chess)
+Reĝo Arturo	King Arthur
+La Tragedio de Reĝo Lear	King Lear
+Regno (biologio)	Kingdom (biology)
+Kingstono	Kingston
+Kinŝaso	Kinshasa
+Kiribato	Kiribati
+Kategorio:Kiribato	Kiribati
+Kirkuk	Kirkuk
+Kiso	Kiss
+Kajto	Kite
+Kivio	Kiwi
+Genuo	Knee
+Kneset	Knesset
+Tranĉilo	Knife
+Kavaliro	Knight
+Ĉevalo (ŝako)	Knight (chess)
+Knossos	Knossos
+Knoto	Knot (speed)
+Scio	Knowledge
+Knut Hamsun	Knut Hamsun
+Koalo	Koala
+Kobe	Kobe
+Kola duoninsulo	Kola Peninsula
+Kolkato	Kolkata
+Komoda varano	Komodo dragon
+Konqueror	Konqueror
+Konrad Adenauer	Konrad Adenauer
+Koreio	Korea
+Kategorio:Koreio	Korea
+Korea milito	Korean War
+Kosovo	Kosovo
+Kategorio:Kosovo	Kosovo
+Krakatoa	Krakatoa
+Kriŝno	Krishna
+Kriptono	Krypton
+Ku-Kluks-Klano	Ku Klux Klan
+Kuala-Lumpuro	Kuala Lumpur
+Kublaj-Ĥano	Kublai Khan
+Kujper-zono	Kuiper belt
+Kungfuo	Kung fu (term)
+Kunlun	Kunlun Mountains
+Kuomintango	Kuomintang
+Kura	Kura River
+Kurdio	Kurdistan
+Kategorio:Kurdistano	Kurdistan
+PKK	Kurdistan Workers Party
+Kursk	Kursk
+Kurt Vonnegut	Kurt Vonnegut
+Kurt Waldheim	Kurt Waldheim
+Kuvajto	Kuwait
+Kategorio:Kuvajto	Kuwait
+Kuvajto (urbo)	Kuwait City
+Kvazulu-Natalo	KwaZulu-Natal
+Kioto	Kyoto
+Kirgizio	Kyrgyzstan
+Kategorio:Kirgizio	Kyrgyzstan
+L	L
+L'Aquila	L'Aquila
+La-Pazo (Bolivio)	La Paz
+La Plata	La Plata
+La Spezia	La Spezia
+Laboratorio	Laboratory
+Brita Laborista Partio	Labour Party (UK)
+Labradora ĉashundo	Labrador Retriever
+Lacerto (konstelacio)	Lacerta
+Lakta acido	Lactic acid
+Laktozo	Lactose
+Jane Grey	Lady Jane Grey
+Leporuloj	Lagomorpha
+Lagoso	Lagos
+Lago	Lake
+Bajkal	Lake Baikal
+Balatono	Lake Balaton
+Ĉada Lago	Lake Chad
+Bodenlago	Lake Constance
+Eria Lago	Lake Erie
+Eyre	Lake Eyre
+Lemano	Lake Geneva
+Hurona Lago	Lake Huron
+Ilmenj	Lake Ilmen
+Ladoga lago	Lake Ladoga
+Malavia Lago	Lake Malawi
+Miĉigano (lago)	Lake Michigan
+Onega (lago)	Lake Onega
+Ontario (lago)	Lake Ontario
+Supra Lago	Lake Superior
+Tanganjiko	Lake Tanganyika
+Viktoria-lago	Lake Victoria
+Lambdo	Lambda
+Lamiacoj	Lamiaceae
+Ŝafgrifo	Lammergeier
+Petromizo	Lamprey
+Lancashire	Lancashire
+Brankiostomulo	Lancelet
+Rubodeponejo	Landfill
+Lingvo	Language
+Langvedoko-Rusiljono	Languedoc-Roussillon
+Lansing (Miĉigano)	Lansing
+Lantanoido	Lanthanide
+Lantano	Lanthanum
+Laoso	Laos
+Kategorio:Laoso	Laos
+Tekokomputilo	Laptop
+Lariko	Larch
+Larvo	Larva
+Laringo	Larynx
+Las Vegas	Las Vegas
+Groto Lascaux	Lascaux
+Lasero	Laser
+Tornomaŝino	Lathe
+Latina lingvo	Latin
+Latin-Ameriko	Latin America
+Latina alfabeto	Latin alphabet
+Latitudo	Latitude
+Latvio	Latvia
+Kategorio:Latvio	Latvia
+Rido	Laughter
+Laŭrazio	Laurasia
+Laŭzano	Lausanne
+Lafo	Lava
+Juro	Law
+Kategorio:Juro	Law
+Laŭrencio (elemento)	Lawrencium
+Advokato	Lawyer
+Latio	Lazio
+Le Corbusier	Le Corbusier
+Havro	Le Havre
+Plumbo	Lead
+Folio	Leaf
+Ligo de Nacioj	League of Nations
+Oblikva turo de Pizo	Leaning Tower of Pisa
+Superjaro	Leap year
+Lerno	Learning
+Libano	Lebanon
+Kategorio:Libano	Lebanon
+Leeds	Leeds
+Maldekstramanulo	Left-handed
+Legendo	Legend
+Leĝdona povo	Legislature
+Lego (ludilo)	Lego
+Leicester	Leicester
+Leiden	Leiden
+Leipzig	Leipzig
+Citrono	Lemon
+Citronmeliso	Lemon balm
+Leno (rivero)	Lena River
+Longo	Length
+Lenso (optiko)	Lens (optics)
+Karesmo	Lent
+Leono (konstelacio)	Leo (constellation)
+Lev Trockij	Leon Trotsky
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Leonid Breĵnev	Leonid Brezhnev
+Leopardo	Leopard
+Papilio	Lepidoptera
+Lepro	Leprosy
+Leptono	Lepton
+Leporo (konstelacio)	Lepus (constellation)
+Lesbanino	Lesbian
+Lesoto	Lesotho
+Kategorio:Lesoto	Lesotho
+Malgrandaj Antiloj	Lesser Antilles
+Leto	Leto
+Litero	Letter (alphabet)
+Leŭkemio	Leukemia
+Levantenio	Levant
+Levilo	Lever
+Levjatano	Leviathan
+Levidoj	Leviticus
+Lewis Carroll	Lewis Carroll
+Leksikologio	Lexicology
+Lasao	Lhasa
+Lhotse	Lhotse
+Liberalismo	Liberalism
+Kategorio:Liberalismo	Liberalism
+Liberio	Liberia
+Kategorio:Liberio	Liberia
+Pesilo (konstelacio)	Libra (constellation)
+Biblioteko	Library
+Bibliotekscienco	Library science
+Librevilo	Libreville
+Libio	Libya
+Kategorio:Libio	Libya
+Likeno	Lichen
+Mensogo	Lie
+Liĥtenŝtejno	Liechtenstein
+Kategorio:Liĥtenŝtejno	Liechtenstein
+Vivo	Life
+Kategorio:Vivo	Life
+Lumo	Light
+Lum-Elsenda Diodo	Light-emitting diode
+Lumjaro	Light-year
+Lumturo	Lighthouse
+Fulmo	Lightning
+Ligurujo	Liguria
+Liliacoj	Liliaceae
+Lille	Lille
+Lilongwe	Lilongwe
+Limo (Peruo)	Lima
+Limerick	Limerick
+Kalkoŝtono	Limestone
+Limeso	Limit (mathematics)
+Limoĝio	Limousin (region)
+Lincoln (Nebrasko)	Lincoln
+Lincolnshire	Lincolnshire
+Linio	Line (mathematics)
+Lineara algebro	Linear algebra
+Kategorio:Lineara algebro	Linear algebra
+Lineara ekvacio	Linear equation
+Lingvafrankao	Lingua franca
+Lingvistiko	Linguistics
+Kategorio:Lingvistiko	Linguistics
+Linus Pauling	Linus Pauling
+Linukso	Linux
+Kategorio:Linukso	Linux
+Linz	Linz
+Leono	Lion
+Lipido	Lipid
+Likvoro	Liqueur
+Likvaĵo	Liquid
+Likvokristala ekrano	Liquid crystal display
+Lisbono	Lisbon
+Lise Meitner	Lise Meitner
+LISP (programlingvo)	Lisp (programming language)
+Legopovo	Literacy
+Literaturo	Literature
+Kategorio:Literaturo	Literature
+Litio	Lithium
+Litografio	Lithography
+Litosfero	Lithosphere
+Litovio	Lithuania
+Kategorio:Litovio	Lithuania
+Litro	Litre
+Noktuo	Little Owl
+Liverpool	Liverpool
+Lacertuloj	Lizard
+Ljubljano	Ljubljana
+Lamo	Llama
+Loka reto	Local area network
+Loch Ness	Loch Ness
+Monstro de Loch Ness	Loch Ness Monster
+Lokomotivo	Locomotive
+Logaritmo	Logarithm
+Logiko	Logic
+Kategorio:Logiko	Logic
+Loĝistiko	Logistics
+Emblemo	Logo
+Loire (departemento)	Loire
+Luaro	Loire River
+Loki	Loki
+Lombardujo	Lombardy
+Londono	London
+Kategorio:Londono	London
+Orelstrigo	Long-eared Owl
+Lope de Vega	Lope de Vega
+Patro nia	Lord's Prayer
+Loreno	Lorraine (region)
+Los-Anĝeleso (Kalifornio)	Los Angeles
+Lot	Lot (department)
+Laŭtparolilo	Loudspeaker
+Louis Aragon	Louis Aragon
+Louis Armstrong	Louis Armstrong
+Louis Braille	Louis Braille
+Louis Pasteur	Louis Pasteur
+Ludoviko la 2-a (Francio)	Louis the Stammerer
+Luiziano	Louisiana
+Kategorio:Luiziano	Louisiana
+Louisville	Louisville
+Luvro	Louvre
+Amo	Love
+Platgermana lingvo	Low German
+Malsupra Saksio	Lower Saxony
+Luando	Luanda
+Lublin	Lublin
+Lucerno	Lucerne
+Luciano Pavarotti	Luciano Pavarotti
+Lucifero	Lucifer
+Lukrecio	Lucretius
+Lucrezia Borgia	Lucrezia Borgia
+Ludwig Boltzmann	Ludwig Boltzmann
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Luigi Galvani	Luigi Galvani
+Luigi Pirandello	Luigi Pirandello
+Lumeno	Lumen (unit)
+Luna eklipso	Lunar eclipse
+Pulmo	Lung
+Pulmofiŝoj	Lungfish
+Lupo (konstelacio)	Lupus (constellation)
+Lusako	Lusaka
+Luzitanio	Lusitania
+Liuto	Lute
+Lutecio	Lutetium
+Luteranismo	Lutheranism
+Luksemburgo (lando)	Luxembourg
+Kategorio:Luksemburgo	Luxembourg
+Luksemburgo (urbo)	Luxembourg (city)
+Luksoro	Luxor
+Liĉio	Lychee
+Lidio	Lydia
+Linko (konstelacio)	Lynx (constellation)
+Liono	Lyon
+Liro (konstelacio)	Lyra
+LSD	Lysergic acid diethylamide
+Lizino	Lysine
+Lizosomo	Lysosome
+M	M
+M-teorio	M-theory
+MESSENGER	MESSENGER
+MIME	MIME
+MS-DOS	MS-DOS
+Makao	Macau
+Makbeto	Macbeth
+Antikva Makedonio	Macedon
+Makedonio	Macedonia
+Makedonio (Grekio)	Macedonia (Greece)
+Maĥo	Mach number
+Maŝino	Machine
+Maŝinpafilo	Machine gun
+Maŝintradukado	Machine translation
+Maĉupikĉuo	Machu Picchu
+Makintoŝo	Macintosh
+Makroekonomiko	Macroeconomics
+Madagaskaro	Madagascar
+Kategorio:Madagaskaro	Madagascar
+Madejro	Madeira
+Madison (Viskonsino)	Madison
+Madonna	Madonna (entertainer)
+Madrido	Madrid
+Madrida Regiono	Madrid (autonomous community)
+Mafio	Mafia
+Revuo	Magazine
+Magrebo	Maghreb
+Magio	Magic (paranormal)
+Magia kvadrato	Magic square
+Maginot-linio	Maginot Line
+Magmo	Magma
+Magna Carta	Magna Carta
+Magnezio	Magnesium
+Magneto	Magnet
+Kampo (magneto)	Magnetic field
+Magneta resonanca bildigo	Magnetic resonance imaging
+Magnetismo	Magnetism
+Kategorio:Magnetismo	Magnetism
+Kategorio:Magnoliopsidoj	Magnoliopsida
+Pigoj	Magpie
+Maharaŝtro	Maharashtra
+Mohandas Karamchand Gandhi	Mahatma Gandhi
+Mahajano	Mahayana
+Poŝto	Mail
+Majno (rivero)	Main
+Ŝablono:Ĉefa	Main
+Majno	Maine
+Kategorio:Majno	Maine
+Majtrejo	Maitreya
+Maizo	Maize
+Majoro	Major
+Majorko	Majorca
+Makalu	Makalu
+Malabo	Malabo
+Malakito	Malachite
+Malakostrakoj	Malacostraca
+Malario	Malaria
+Kategorio:Malavio	Malawi
+Malajzio	Malaysia
+Kategorio:Malajzio	Malaysia
+Malcolm X	Malcolm X
+Maldivoj	Maldives
+Kategorio:Maldivoj	Maldives
+Malio	Mali
+Kategorio:Malio	Mali
+Platbeka anaso	Mallard
+Malto (lando)	Malta
+Kategorio:Malto	Malta
+Malta lingvo	Maltese language
+Maltozo	Maltose
+Malvacoj	Malvaceae
+Mamuloj	Mammal
+Mamuto	Mammoth
+Managvo	Managua
+Manamo	Manama
+Manato	Manatee
+Manchester	Manchester
+Manĉurio	Manchuria
+Mandalo	Mandala
+Mandarino	Mandarin orange
+Mangano	Manganese
+Manhatano	Manhattan
+Projekto Manhattan	Manhattan Project
+Manikeismo	Manichaeism
+Manilo	Manila
+Manitobo	Manitoba
+Manierismo	Mannerism
+Mannheim	Mannheim
+Termantelo	Mantle (geology)
+Mantro	Mantra
+Mantovo	Mantua
+Manuel de Falla	Manuel de Falla
+Mao Zedong	Mao Zedong
+Maoismo	Maoism
+Mapo	Map
+Acero	Maple
+Maputo	Maputo
+Maratono	Marathon
+Marmoro	Marble
+Marc Chagall	Marc Chagall
+Marcel Duchamp	Marcel Duchamp
+Marcel Marceau	Marcel Marceau
+Marcel Proust	Marcel Proust
+Marto	March
+17-a de marto	March 17
+19-a de marto	March 19
+2-a de marto	March 2
+25-a de marto	March 25
+Markio	Marche
+Marko Polo	Marco Polo
+Marko Aŭrelio	Marcus Aurelius
+Marko Bruto	Marcus Junius Brutus
+Margaret Mead	Margaret Mead
+Margaret Mitchell	Margaret Mitchell
+Margaret Thatcher	Margaret Thatcher
+Maria Callas	Maria Callas
+Marianoj	Mariana Islands
+Marie-Antoinette	Marie Antoinette
+Maria Skłodowska-Curie	Marie Curie
+Mariehamn	Mariehamn
+Marilyn Monroe	Marilyn Monroe
+Mario Vargas Llosa	Mario Vargas Llosa
+Marko Antonio	Mark Antony
+Mark Twain	Mark Twain
+Merkato	Market
+Merkatiko	Marketing
+Kategorio:Merkatado	Marketing
+Marlene Dietrich	Marlene Dietrich
+Markizo de Sade	Marquis de Sade
+Marakeŝo	Marrakech
+Nupto	Marriage
+Kategorio:Marso	Mars
+Mars	Mars (disambiguation)
+Marso (dio)	Mars (mythology)
+Marsejlo	Marseille
+Marŝala Insularo	Marshall Islands
+Kategorio:Marŝaloj	Marshall Islands
+Plano Marshall	Marshall Plan
+Marsupiulo	Marsupial
+Martin Heidegger	Martin Heidegger
+Marteno Lutero	Martin Luther
+Martin Luther King	Martin Luther King
+Martin Scorsese	Martin Scorsese
+Martin Van Buren	Martin Van Buren
+Martiniko	Martinique
+Martiro	Martyr
+Fratoj Marx	Marx Brothers
+Marksismo	Marxism
+Kategorio:Marksismo	Marxism
+Dipatrino	Mary (mother of Jesus)
+Maria Magdalena	Mary Magdalene
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Marilando	Maryland
+Kategorio:Marilando	Maryland
+Maseruo	Maseru
+Maŝhado	Mashhad
+Maso	Mass
+Meso (diservo)	Mass (liturgy)
+Masnumero	Mass number
+Masaĉuseco	Massachusetts
+Kategorio:Masaĉuseco	Massachusetts
+Masaĉuseca Instituto de Teknologio	Massachusetts Institute of Technology
+Sinmasturbado	Masturbation
+Mata Hari	Mata Hari
+Alumeto	Match
+Materialismo	Materialism
+Matematika logiko	Mathematical logic
+Kategorio:Matematika logiko	Mathematical logic
+Matematika pruvo	Mathematical proof
+Matematiko	Mathematics
+Kategorio:Matematiko	Mathematics
+Matrico	Matrix (mathematics)
+Materio	Matter
+Materhorno	Matterhorn
+Mauna Kea	Mauna Kea
+Maurice Ravel	Maurice Ravel
+Maŭritanio	Mauritania
+Kategorio:Maŭritanio	Mauritania
+Maŭricio	Mauritius
+Kategorio:Maŭricio	Mauritius
+Max Born	Max Born
+Max Bruch	Max Bruch
+Max Ernst	Max Ernst
+Max Planck	Max Planck
+Maximiliam Weber	Max Weber
+Maksimiano	Maximian
+Ekvacioj de Maxwell	Maxwell's equations
+Majo	May
+1-a de majo	May 1
+24-a de majo	May 24
+Mayenne	Mayenne
+Efemeroj	Mayfly
+Majonezo	Mayonnaise
+Urbestro	Mayor
+Mbabano	Mbabane
+Makartiismo	McCarthyism
+Medo	Mead
+Morbilo	Measles
+Kategorio:Mezuro	Measurement
+Mezuro	Measurement
+Viando	Meat
+Mekao	Mecca
+Kategorio:Mekanika inĝenierado	Mechanical engineering
+Kategorio:Mekaniko	Mechanics
+Mekaniko	Mechanics
+Mediano (statistiko)	Median
+Kuracilo	Medication
+Mediĉoj	Medici
+Medicino	Medicine
+Kategorio:Medicino	Medicine
+Medino	Medina
+Meditado	Meditation
+Mediteraneo	Mediterranean Sea
+Meduzo (mitologio)	Medusa
+Surikato	Meerkat
+Mejozo	Meiosis
+Majstro Eckhart	Meister Eckhart
+Mejtnerio	Meitnerium
+Mekongo	Mekong
+Mel Gibson	Mel Gibson
+Melanezio	Melanesia
+Melodio	Melody
+Melono (Frukto)	Melon
+Melpomeno	Melpomene
+Frostopunkto	Melting point
+Memeo	Meme
+Memoro	Memory
+Memphis (Tenesio)	Memphis
+Memfiso (Egiptio)	Memphis
+Menaĥem Begin	Menachem Begin
+Mendelevio	Mendelevium
+Meningito	Meningitis
+Tablomonto (konstelacio)	Mensa (constellation)
+Menstruo	Menstrual cycle
+Menstruo	Menstruation
+Psika malsano	Mental disorder
+Mento	Mentha
+Merkantilismo	Mercantilism
+Soldulo	Mercenary
+Hidrargo	Mercury (element)
+Merkuro (dio)	Mercury (mythology)
+Merkuro	Mercury (planet)
+Meridiano	Meridian (geography)
+Meritokratio	Meritocracy
+Sireno (mitologio)	Mermaid
+Merovidoj	Merovingian
+Meryl Streep	Meryl Streep
+Mezono	Meson
+Mezopotamio	Mesopotamia
+Kategorio:Mezopotamio	Mesopotamia
+Mezosfero	Mesosphere
+Mezozoiko	Mesozoic
+Mesio	Messiah
+Messina	Messina
+Metabolo	Metabolism
+Meta-dateno	Metadata
+Metalo (fiziko)	Metal
+Metaloido	Metalloid
+Metalurgio	Metallurgy
+Kategorio:Metalurgio	Metallurgy
+Metamorfa roko	Metamorphic rock
+Metaforo	Metaphor
+Metafiziko	Metaphysics
+Kategorio:Metafiziko	Metaphysics
+Meteorŝtono	Meteorite
+Kategorio:Meteologio	Meteorology
+Meteologio	Meteorology
+Metadono	Methadone
+N-metilamfetamino	Methamphetamine
+Metanolo	Methanol
+Metionino	Methionine
+Metodistoj	Methodism
+Metiso	Metis (moon)
+Metro	Metre
+Metrika spaco	Metric space
+Meuse	Meuse
+Mozo	Meuse River
+Meksiko	Mexico
+Kategorio:Meksiko	Mexico
+Meksikurbo	Mexico City
+Miamo	Miami
+Glimo	Mica
+Sankta Mikaelo	Michael (archangel)
+Michael Faraday	Michael Faraday
+Mikelanĝelo	Michelangelo
+Miĉigano	Michigan
+Kategorio:Miĉigano	Michigan
+Mick Jagger	Mick Jagger
+Mickey Mouse	Mickey Mouse
+Mikrobiologio	Microbiology
+Kategorio:Mikrobiologio	Microbiology
+Mikroekonomiko	Microeconomics
+Kategorio:Mikroekonomiko	Microeconomics
+Mikronezio	Micronesia
+Mikroorganismo	Microorganism
+Mikrofono	Microphone
+Mikroskopo	Microscope
+Mikroskopo (konstelacio)	Microscopium
+Mikroondoj	Microwave
+Mikroondilo	Microwave oven
+Mezepoko	Middle Ages
+Kategorio:Mezepoko	Middle Ages
+Mezoriento	Middle East
+Noktomeza suno	Midnight sun
+Miguel de Cervantes	Miguel de Cervantes
+Mike Tyson	Mike Tyson
+Miĥail Bakunin	Mikhail Bakunin
+Miĥail Gorbaĉov	Mikhail Gorbachev
+Milano	Milan
+Mejlo	Mile
+Miles Davis	Miles Davis
+Lakto	Milk
+Lakta vojo	Milky Way
+Millard Fillmore	Millard Fillmore
+Jarmilo	Millennium
+Milimetro	Millimetre
+Miliono	Million
+Milpieduloj	Millipede
+Milton Friedman	Milton Friedman
+Minareto	Minaret
+Mineralo	Mineral
+Mineralakvo	Mineral water
+Mineralogio	Mineralogy
+Kategorio:Mineralogio	Mineralogy
+Minerva	Minerva
+Dinastio Ming	Ming Dynasty
+Minimumismo	Minimalism
+Minado	Mining
+Ministro	Minister (government)
+Minneapolis	Minneapolis
+Minesoto	Minnesota
+Kategorio:Minesoto	Minnesota
+Minoa civilizo	Minoan civilization
+Minora gamo	Minor scale
+Minoo	Minos
+Minotaŭro	Minotaur
+Minsko	Minsk
+Minuto	Minute
+Mioceno	Miocene
+Miraklo	Miracle
+Spegulo	Mirror
+Kategorio:Misisipio	Mississippi
+Misisipo (rivero)	Mississippi River
+Misurio	Missouri
+Kategorio:Misurio	Missouri
+Misuro (rivero)	Missouri River
+Mitokondrio	Mitochondrion
+Mnemozino	Mnemosyne
+Poŝtelefono	Mobile phone
+Modemo	Modem
+Modernismo	Modernism
+Mogadiŝo	Mogadishu
+Moldava Respubliko	Moldova
+Kategorio:Moldavio	Moldova
+Molo	Mole (unit)
+Molekula biologio	Molecular biology
+Kategorio:Molekula biologio	Molecular biology
+Molekulo	Molecule
+Moliso	Molise
+Molusko	Mollusca
+Brulbotelo	Molotov cocktail
+Molibdeno	Molybdenum
+Mombasa	Mombasa
+Movokvanto	Momentum
+Monako	Monaco
+Kategorio:Monako	Monaco
+Monarkio	Monarchy
+Monaĥejo	Monastery
+Lundo	Monday
+Mono	Money
+Mongolio	Mongolia
+Kategorio:Mongolio	Mongolia
+Mungotedoj	Mongoose
+Monismo	Monism
+Unukotiledonaj plantoj	Monocotyledon
+Monopolo	Monopoly
+Monopolo (ludo)	Monopoly (game)
+Monosakarido	Monosaccharide
+Monoteismo	Monotheism
+Monotremoj	Monotreme
+Doktrino de Monroe	Monroe Doctrine
+Monrovio	Monrovia
+Mons (Belgio)	Mons
+Musono	Monsoon
+Blanka Monto	Mont Blanc
+Montano	Montana
+Kategorio:Montano	Montana
+Montekarlo	Monte Carlo
+Montenegro	Montenegro
+Kategorio:Montenegro	Montenegro
+Monterejo	Monterrey
+Montevideo	Montevideo
+Montgomery (Alabamo)	Montgomery
+Monato	Month
+Montpelier (Vermonto)	Montpelier
+Montrealo (Kebekio)	Montreal
+Moncerato	Montserrat
+Luno	Moon
+Alko	Moose
+Moralo	Morality
+Moravio	Moravia
+Maroko	Morocco
+Kategorio:Maroko	Morocco
+Morfemo	Morpheme
+Morfino	Morphine
+Morfologio	Morphology
+Morfologio (lingvo)	Morphology (linguistics)
+Morsa kodo	Morse code
+Mozaiko	Mosaic
+Moskvo	Moscow
+Kategorio:Moskvo	Moscow
+Moselle	Moselle
+Moseo	Moses
+Moŝe Dajan	Moshe Dayan
+Moskeo	Mosque
+Moskito	Mosquito
+Muskoj	Moss
+Mossad	Mossad
+Mosulo	Mosul
+Moteto	Motet
+Patrino	Mother
+Patrino Teresa	Mother Teresa
+Tago de patrinoj	Mother's Day
+Movado (fiziko)	Motion (physics)
+Motorciklo	Motorcycle
+Moto	Motto
+Ararato	Mount Ararat
+Athos	Mount Athos
+Etna	Mount Etna
+Ĉomolungmo	Mount Everest
+Fuĵi-Monto	Mount Fuji
+Kilimanĝaro	Mount Kilimanjaro
+Olimpo	Mount Olympus
+Monto Rushmore	Mount Rushmore
+Saint Helens	Mount St. Helens
+Vezuvio	Mount Vesuvius
+Monto	Mountain
+Montbiciklo	Mountain bike
+Montpasejo	Mountain pass
+Montara sistemo	Mountain range
+Muso (besto)	Mouse
+Komputila muso	Mouse (computing)
+Mozambiko	Mozambique
+Kategorio:Mozambiko	Mozambique
+Muezino	Muezzin
+Mohamedo	Muhammad
+Muhammad Ali	Muhammad Ali
+Moruso	Mulberry
+Mulo	Mule
+Plurmedio	Multimedia
+Sklerozo multiloka	Multiple sclerosis
+Multipliko	Multiplication
+Mumbajo	Mumbai
+Mumio	Mummy
+Munkeno	Munich
+Municipo	Municipality
+Muono	Muon
+Murmansko	Murmansk
+Leĝo de Murphy	Murphy's law
+Banano	Musa (genus)
+Muŝo (konstelacio)	Musca
+Maskato	Muscat
+Muskolo	Muscle
+Muzoj	Muse
+Muzeo	Museum
+Muziko	Music
+Kategorio:Muziko	Music
+Muzika instrumento	Musical instrument
+Gamo	Musical scale
+Muzikisto	Musician
+Muzikologio	Musicology
+Musteledoj	Mustelidae
+Mutacio	Mutation
+Muta cigno	Mute Swan
+Kategorio:Birmo	Myanmar
+Mikeneo	Mycenae
+Mikologio	Mycology
+Kategorio:Mikologio	Mycology
+Korinfarkto	Myocardial infarction
+Miopio	Myopia
+Miriapodo	Myriapoda
+Mistikismo	Mysticism
+Mito	Myth
+Mitologio (mitaro)	Mythology
+Kategorio:Mitologio	Mythology
+N	N
+Nĵameno	N'Djamena
+NASDAQ	NASDAQ
+NATO	NATO
+Nadine Gordimer	Nadine Gordimer
+Nagasako	Nagasaki
+Nagoja Urbo	Nagoya
+Naŭatla lingvo	Nahuatl
+Ungo	Nail (anatomy)
+Najlo	Nail (fastener)
+Najrobo	Nairobi
+Namibio	Namibia
+Kategorio:Namibio	Namibia
+Namuro (urbo)	Namur (city)
+Nancio	Nancy
+Nanga Parbat	Nanga Parbat
+Nankingo	Nanjing
+Nanoteknologio	Nanotechnology
+Nanto (Francio)	Nantes
+Napalmo	Napalm
+Napolo	Naples
+Narciso	Narcissus (mythology)
+Nashville (Tenesio)	Nashville
+Nassaŭo	Nassau
+Nathaniel Hawthorne	Nathaniel Hawthorne
+Nacio	Nation
+National Security Agency	National Security Agency
+Nacia himno	National anthem
+Nacia parko	National park
+Naciismo	Nationalism
+Tergaso	Natural gas
+Komputila lingvistiko	Natural language processing
+Natura nombro	Natural number
+Naturscienco	Natural science
+Natura selektado	Natural selection
+Naturo	Nature
+Kategorio:Naturo	Nature
+Nudismo	Naturism
+Nauro	Nauru
+Kategorio:Nauro	Nauru
+Kategorio:Navigado	Navigation
+Mararmeo	Navy
+Nazareto	Nazareth
+Nazia Germanio	Nazi Germany
+NSDAP	Nazi Party
+Neandertala homo	Neanderthal
+Nebrasko	Nebraska
+Kategorio:Nebrasko	Nebraska
+Nebukadnecar la 2-a	Nebuchadrezzar II
+Nebulozo	Nebula
+Neckar	Neckar
+Kravato	Necktie
+Nefertito	Nefertiti
+Negevo	Negev
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Nematodoj	Nematode
+Nemezo	Nemesis (mythology)
+Neodimo	Neodymium
+Neolitiko	Neolithic
+Neologismo	Neologism
+Neono	Neon
+Novplatonismo	Neoplatonism
+Nepalo	Nepal
+Kategorio:Nepalo	Nepal
+Neptuno (planedo)	Neptune
+Neptunio	Neptunium
+Nerono	Nero
+Nerva	Nerva
+Nerva sistemo	Nervous system
+Nesto	Nest
+Nestorianismo	Nestorianism
+Nederlando	Netherlands
+Kategorio:Nederlando	Netherlands
+Nederlandaj Antiloj	Netherlands Antilles
+Reta topologio	Network topology
+Neŭrologio	Neurology
+Neŭrono	Neuron
+Neŭrotransmisiilo	Neurotransmitter
+Neŭtrino	Neutrino
+Neŭtrono	Neutron
+Neŭtrona stelo	Neutron star
+Neva	Neva River
+Nevado	Nevada
+Kategorio:Nevado	Nevada
+Neville Chamberlain	Neville Chamberlain
+Nov-Brunsviko	New Brunswick
+Nov-Kaledonio	New Caledonia
+Nov-Delhio	New Delhi
+Nov-Anglio	New England
+Nov-Gvineo	New Guinea
+Nov-Hampŝiro	New Hampshire
+Kategorio:Nov-Hampŝiro	New Hampshire
+Nov-Ĵerzejo	New Jersey
+Kategorio:Nov-Ĵerzejo	New Jersey
+Nov-Meksiko	New Mexico
+Kategorio:Nov-Meksiko	New Mexico
+Nov-Orleano	New Orleans
+Novsudkimrio	New South Wales
+Nova testamento	New Testament
+Nova Mondo	New World
+Novjaro	New Year
+Nov-Jorkio	New York
+Kategorio:Nov-Jorkio	New York
+New York	New York (disambiguation)
+Novjorko	New York City
+Kategorio:Novjorko	New York City
+Novjorka Borso	New York Stock Exchange
+Nov-Zelando	New Zealand
+Kategorio:Nov-Zelando	New Zealand
+Novlando	Newfoundland (island)
+Novlando kaj Labradoro	Newfoundland and Labrador
+Newport	Newport
+Neŭtono (unuo)	Newton
+Niagara Akvofalo	Niagara Falls
+Niameo	Niamey
+Nikaragvo	Nicaragua
+Kategorio:Nikaragvo	Nicaragua
+Nico	Nice
+La Kredo Nicea	Nicene Creed
+Petrović Njegoš	Nicholas
+Nikelo	Nickel
+Nicolas Poussin	Nicolas Poussin
+Koperniko	Nicolaus Copernicus
+Nikozio	Nicosia
+Nikotino	Nicotine
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niĝero	Niger
+Kategorio:Niĝero	Niger
+Niĝero (rivero)	Niger River
+Niĝerio	Nigeria
+Kategorio:Niĝerio	Nigeria
+Nokto	Night
+Najtingalo	Nightingale
+Nihilismo	Nihilism
+Nijmegen	Nijmegen
+Nikita Ĥruŝĉov	Nikita Khrushchev
+Nikola Tesla	Nikola Tesla
+Nilo	Nile
+Ninevo	Nineveh
+Ŝinobo	Ninja
+Niobio	Niobium
+Nirvano	Nirvana
+Nitrata acido	Nitric acid
+Azoto	Nitrogen
+Nitroglicerino	Nitroglycerin
+Nikso (astronomio)	Nix (moon)
+Njórðr	Njord
+Noa	Noah
+Noam Chomsky	Noam Chomsky
+Nobel-premio	Nobel Prize
+Nobelio	Nobelium
+Nobelo	Nobility
+Nobla gaso	Noble gas
+Nomado	Nomad
+Nominativo	Nominative case
+Nemetalo	Nonmetal
+Norfolk (Anglio)	Norfolk
+Norfolkinsulo	Norfolk Island
+Ortilo (konstelacio)	Norma (constellation)
+Normala distribuo	Normal distribution
+Norman Mailer	Norman Mailer
+Normandio	Normandy
+Nornoj	Norn
+Nord-ĝermana mitologio	Norse mythology
+Kategorio:Ĝermana mitologio	Norse mythology
+Nordo	North
+Nord-Afriko	North Africa
+Nordameriko	North America
+Kategorio:Nordameriko	North America
+Norda Karolino	North Carolina
+Kategorio:Norda Karolino	North Carolina
+Norda Dakoto	North Dakota
+Kategorio:Norda Dakoto	North Dakota
+Norda Insulo (Nov-Zelando)	North Island
+Nord-Koreio	North Korea
+Kategorio:Nord-Koreio	North Korea
+Norda poluso	North Pole
+Norda Maro	North Sea
+North Yorkshire	North Yorkshire
+Norda Eŭropo	Northern Europe
+Norda duonglobo	Northern Hemisphere
+Nord-Irlando	Northern Ireland
+Nord-Marianoj	Northern Mariana Islands
+Norda Teritorio	Northern Territory
+Ezoko	Northern pike
+Nordokcidentaj Teritorioj	Northwest Territories
+Norvegio	Norway
+Kategorio:Norvegio	Norway
+Norvega Maro	Norwegian Sea
+Norvega krono	Norwegian krone
+Nazo	Nose
+Nostradamus	Nostradamus
+Tononomo	Note
+Nuakŝoto	Nouakchott
+Substantivo	Noun
+Nov-Skotio	Nova Scotia
+Nova Zemlo	Novaya Zemlya
+Romano	Novel
+Novembro	November
+1-a de novembro	November 1
+11-a de novembro	November 11
+2-a de novembro	November 2
+5-a de novembro	November 5
+Novialo	Novial
+Novosibirsk	Novosibirsk
+Nuo (litero)	Nu (letter)
+Fisio	Nuclear fission
+Fuzio	Nuclear fusion
+Nuklea fiziko	Nuclear physics
+Nuklea energio	Nuclear power
+Atombombo	Nuclear weapon
+Nuklea acido	Nucleic acid
+Nukleono	Nucleon
+Nukleotido	Nucleotide
+Nombro	Number
+Kategorio:Nombroj	Numbers
+Numismatiko	Numismatics
+Nunavuto	Nunavut
+Nurenbergo	Nuremberg
+Nukso	Nut (fruit)
+Muskato	Nutmeg
+Kategorio:Nutrado	Nutrition
+Nimfoj	Nymph
+Nimfeo	Nymphaeaceae
+Nikso (mitologio)	Nyx (mythology)
+O	O
+OPEL	OPEC
+Oahu	Oahu
+Kverko	Oak
+Oakland (Kalifornio)	Oakland
+Oazo	Oasis
+Aveno	Oat
+Oaxaca	Oaxaca
+Obo	Ob River
+Obelisko	Obelisk
+Trodikiĝo	Obesity
+Objektema programado	Object-oriented programming
+Hobojo	Oboe
+Observatorio	Observatory
+Obsidiano	Obsidian
+Raziklingo de Ockham	Occam's razor
+Oceano	Ocean
+Marfluo	Ocean current
+Oceanio	Oceania
+Kategorio:Oceanio	Oceania
+Oceanografio	Oceanography
+Kategorio:Oceanografio	Oceanography
+Oceano (mitologio)	Oceanus
+Okuma sistemo	Octal
+Oktanto (konstelacio)	Octans
+Okto	Octave
+Oktobro	October
+12-a de oktobro	October 12
+24-a de oktobro	October 24
+Oktobra Revolucio	October Revolution
+Polpo	Octopus
+Odo	Ode
+Odro	Oder River
+Odeso	Odessa
+Odino	Odin
+Libelo	Odonata
+Odiseo	Odysseus
+Odiseado	Odyssey
+Edipo	Oedipus
+Ofsajdo	Offside (football)
+Ohio	Ohio
+Kategorio:Ohio	Ohio
+Omo	Ohm
+Leĝo de Omo	Ohm's law
+Oleo	Oil
+Oleo	Oil (disambiguation)
+Okapio	Okapi
+Oklahomo	Oklahoma
+Kategorio:Oklahomo	Oklahoma
+Oklahoma City (Oklahomo)	Oklahoma City
+Oktoberfest	Oktoberfest
+Norena lingvo	Old Norse
+Malnova testamento	Old Testament
+Oligarkio	Oligarchy
+Oligoceno	Oligocene
+Olivarbo	Olive
+Oliv-oleo	Olive oil
+Oliver Cromwell	Oliver Cromwell
+Olivino	Olivine
+Olympia (Vaŝingtonio)	Olympia
+Olimpio	Olympia
+Olimpiaj ludoj	Olympic Games
+Kategorio:Olimpikoj	Olympics
+Omaha (Nebrasko)	Omaha
+Omano	Oman
+Kategorio:Omano	Oman
+Omego	Omega
+Omikrono	Omicron
+Omsk	Omsk
+Cepo	Onion
+Ontario	Ontario
+Kategorio:Ontario	Ontario
+Ontologio	Ontology
+Oorta nubo	Oort cloud
+Opalo	Opal
+Opel	Opel
+Opero	Opera
+Opera (retumilo)	Opera (Internet suite)
+Operaciumo	Operating system
+Opereto	Operetta
+Serpentisto (konstelacio)	Ophiuchus
+Opio	Opium
+Optika fibro	Optical fiber
+Optika iluzio	Optical illusion
+Optiko	Optics
+Kategorio:Optiko	Optics
+Optimumigo (matematiko)	Optimization (mathematics)
+Buŝa seksumado	Oral sex
+Oranĝkolora	Orange (colour)
+Oranĝo (frukto)	Orange (fruit)
+Orangutano	Orangutan
+Oratorio	Oratorio
+Orbito	Orbit
+Granda orcino	Orca
+Orkestro	Orchestra
+Orkidacoj	Orchidaceae
+Ordo (biologio)	Order (biology)
+Benediktanoj	Order of Saint Benedict
+Ordovicio	Ordovician
+Oregono	Oregon
+Kategorio:Oregono	Oregon
+Organo	Organ (anatomy)
+Orgeno	Organ (music)
+Organeto	Organelle
+Organika kemio	Organic chemistry
+Kategorio:Organika kemio	Organic chemistry
+Organismo	Organism
+Organizo	Organization
+Organizo de Amerikaj Ŝtatoj	Organization of American States
+Orgasmo	Orgasm
+Origamio	Origami
+Origeno	Origen
+Prapeko	Original sin
+Orinoko	Orinoco
+Oriono (konstelacio)	Orion (constellation)
+Ornitologio	Ornithology
+Orfeo	Orpheus
+Orson Welles	Orson Welles
+Ortografio	Orthography
+Osako	Osaka
+Usama bin Laden	Osama bin Laden
+Oscar Wilde	Oscar Wilde
+Oziriso	Osiris
+Oslo	Oslo
+Osmio	Osmium
+Fiŝaglo	Osprey
+Ostaj fiŝoj	Osteichthyes
+Ostrava	Ostrava
+Struto	Ostrich
+Oto	Otho
+Otavo (Ontario)	Ottawa
+Otto Hahn	Otto Hahn
+Otto von Bismarck	Otto von Bismarck
+Otomana Imperio	Ottoman Empire
+Kategorio:Otomana Imperio	Ottoman Empire
+Unco	Ounce
+Ovario (anatomio)	Ovary
+Ovidio	Ovid
+Oviedo	Oviedo
+Ovio	Ovis
+Strigoformaj birdoj	Owl
+Oksfordo	Oxford
+Oksidiĝa nombro	Oxidation state
+Oksido	Oxide
+Oksigeno	Oxygen
+Oksimoro	Oxymoron
+Ozono	Ozone
+Ozona tavolo	Ozone layer
+P	P
+PH (kemia parametro)	PH
+Pablo Neruda	Pablo Neruda
+Pablo Picasso	Pablo Picasso
+Pacifika Oceano	Pacific Ocean
+Pacismo	Pacifism
+Padovo	Padua
+Paganismo	Paganism
+Kategorio:Pentrado	Painting
+Pakistano	Pakistan
+Kategorio:Pakistano	Pakistan
+Kastelo de Versailles	Palace of Versailles
+Palaŭo	Palau
+Kategorio:Palaŭo	Palau
+Paleoceno	Paleocene
+Paleolitiko	Paleolithic
+Paleontologio	Paleontology
+Kategorio:Paleontologio	Paleontology
+Paleozoiko	Paleozoic
+Palermo	Palermo
+Palestino	Palestine
+Kategorio:Palestino	Palestine
+Organizaĵo por Liberigo de Palestino	Palestine Liberation Organization
+Palestina Aŭtonomio	Palestinian National Authority
+Palia lingvo	Pali
+Palindromo	Palindrome
+Paladio	Palladium
+Palmyra	Palmyra
+Pamiro	Pamir Mountains
+Pajno	Pan (mythology)
+Panamo	Panama
+Kategorio:Panamo	Panama
+Panama kanalo	Panama Canal
+Panamurbo	Panama City
+Pankreato	Pancreas
+Pandemio	Pandemic
+Pandora	Pandora
+Pangeo	Pangaea
+Panteismo	Pantheism
+Panteono de Romo	Pantheon
+Papa Ŝtato	Papal States
+Papuo-Nov-Gvineo	Papua New Guinea
+Kategorio:Papuo-Nov-Gvineo	Papua New Guinea
+Papiruso	Papyrus
+Parabolo (matematiko)	Parabola
+Paraŝuto	Parachute
+Scienca paradigmo	Paradigm
+Paradokso	Paradox
+Glisparaŝutado	Paragliding
+Paragvajo	Paraguay
+Kategorio:Paragvajo	Paraguay
+Paralakso	Parallax
+Paralelogramo	Parallelogram
+Paramaribo	Paramaribo
+Paranojo	Paranoia
+Parafilio	Paraphilia
+Parapsikologio	Parapsychology
+Parazitismo	Parasitism
+Pergameno	Parchment
+Parizo	Paris
+Kategorio:Parizo	Paris
+Parkinsono	Parkinson's disease
+Parlamento	Parliament
+Parmenido	Parmenides
+Parodio	Parody
+Papagoformaj	Parrot
+Parseko	Parsec
+Petroselo	Parsley
+Partenono	Parthenon
+Partoj	Parthia
+Partikla fiziko	Particle physics
+Kategorio:Partikla Fiziko	Particle physics
+Paskalo (programlingvo)	Pascal (programming language)
+Paskalo	Pascal (unit)
+Kategorio:Paseroformaj	Passeriformes
+Paseroformaj birdoj	Passerine
+Pesaĥo	Passover
+Pasporto	Passport
+Pasvorto	Password
+Pasteŭrizado	Pasteurization
+Patagonio	Patagonia
+Patento	Patent
+Patologio	Pathology
+Patraso	Patras
+Patriarko	Patriarch
+Patrick White	Patrick White
+Patriotismo	Patriotism
+Paul Gauguin	Paul Gauguin
+Paul Heyse	Paul Johann Ludwig von Heyse
+Paul Klee	Paul Klee
+Paul McCartney	Paul McCartney
+Paul Verlaine	Paul Verlaine
+Sankta Paŭlo	Paul the Apostle
+Paul von Hindenburg	Paul von Hindenburg
+Principo de ekskludo	Pauli exclusion principle
+Pavo (konstelacio)	Pavo (constellation)
+Peono (ŝako)	Pawn (chess)
+Luarlandoj	Pays de la Loire
+Ĝardena pizo	Pea
+Paco	Peace
+Vestfalia Paco	Peace of Westphalia
+Persiko	Peach
+Pavo	Peafowl
+Ternukso	Peanut
+Piro	Pear
+Perlo	Pearl
+Pearl Harbor	Pearl Harbor
+Torfo	Peat
+Pedagogio	Pedagogy
+Kategorio:Pedagogio	Pedagogy
+Pediatrio	Pediatrics
+Pedofilio	Pedophilia
+Tigfrukta kverko	Pedunculate Oak
+Pegazo	Pegasus
+Pegazo (konstelacio)	Pegasus (constellation)
+Peloponezo	Peloponnese
+Peloponeza milito	Peloponnesian War
+Krajono	Pencil
+Pendolo	Pendulum
+Penelopo	Penelope
+Pingveno	Penguin
+Penicilino	Penicillin
+Duoninsulo	Peninsula
+Pensilvanio	Pennsylvania
+Kategorio:Pensilvanio	Pennsylvania
+Kvinlatero	Pentagon
+Pentekosto	Pentecost
+Pentekosta Kristanismo	Pentecostalism
+Ĉinio	People's Republic of China
+Peptido	Peptide
+Procento	Percentage
+Percepto	Perception
+Perkoformaj	Perciformes
+Frapinstrumento	Percussion instrument
+Percy Bysshe Shelley	Percy Bysshe Shelley
+Migra falko	Peregrine Falcon
+Perestrojko	Perestroika
+Parfumo	Perfume
+Periodo de la perioda tabelo	Period (periodic table)
+Perioda tabelo	Periodic table
+Permjo	Perm
+Multjare frostiĝinta tero	Permafrost
+Permio	Permian
+Permutaĵo	Permutation
+Pernambuko	Pernambuco
+Eterna movilo	Perpetual motion
+Persefono	Persephone
+Perseo	Perseus
+Perseo (konstelacio)	Perseus (constellation)
+Persio	Persian Empire
+Persa Golfo	Persian Gulf
+Poŝkomputilo	Personal digital assistant
+Perto	Perth
+Peruo	Peru
+Kategorio:Peruo	Peru
+Pesticido	Pesticide
+Abelardo	Peter Abelard
+Petro Paŭlo Rubens	Peter Paul Rubens
+Peter Sellers	Peter Sellers
+Francesco Petrarca	Petrarch
+Nafto	Petroleum
+Petrologio	Petrology
+Faraono	Pharaoh
+Farmakologio	Pharmacology
+Faringo	Pharynx
+Fazo de materio	Phase (matter)
+Fenolo	Phenol
+Fenomenologio	Phenomenology
+Fenotipo	Phenotype
+Fenilalanino	Phenylalanine
+Fio (litero)	Phi (letter)
+Filadelfio (Pensilvanio)	Philadelphia
+Filatelo	Philately
+Filipo la 2-a (Makedonio)	Philip II of Macedon
+Filipo la 2-a (Hispanio)	Philip II of Spain
+Philipp Lenard	Philipp Lenard
+Filipinoj	Philippines
+Kategorio:Filipinoj	Philippines
+Filologio	Philology
+Kategorio:Filologio	Philology
+Ŝtono de la saĝuloj	Philosopher's stone
+Filozofio	Philosophy
+Kategorio:Filozofio	Philosophy
+Pnom-Peno	Phnom Penh
+Fobio	Phobia
+Fobo	Phobos (moon)
+Fenicio	Phoenicia
+Fenikso (Arizono)	Phoenix
+Fenikso	Phoenix
+Fenikso (konstelacio)	Phoenix (constellation)
+Fenikso (birdo)	Phoenix (mythology)
+Fenikso (kosmosondilo)	Phoenix (spacecraft)
+Fonemo	Phoneme
+Fonetiko	Phonetics
+Kategorio:Fonetiko	Phonetics
+Fonologio	Phonology
+Fosfato	Phosphate
+Fosforo	Phosphorus
+Fotografio	Photography
+Kategorio:Fotado	Photography
+Fotono	Photon
+Fotosintezo	Photosynthesis
+Filumo	Phylum
+Fizika kemio	Physical chemistry
+Kategorio:Fizika kemio	Physical chemistry
+Kuracisto	Physician
+Fiziko	Physics
+Kategorio:Fiziko	Physics
+Fiziologio	Physiology
+Kategorio:Fiziologio	Physiology
+Pi (nombro)	Pi
+Pio (litero)	Pi (letter)
+Piano	Piano
+Pikardio	Picardie
+Pegoformaj birdoj	Piciformes
+Pentristo (konstelacio)	Pictor
+Piĝino	Pidgin
+Pidgin	Pidgin (software)
+Piemonto	Piedmont
+Pierre (Suda Dakoto)	Pierre
+Pierre Curie	Pierre Curie
+Pierre de Fermat	Pierre de Fermat
+Piet Mondriaan	Piet Mondrian
+Pieter Zeeman	Pieter Zeeman
+Pigmento	Pigment
+Plzeň	Pilsen
+Pinacoj	Pinaceae
+Pindaro	Pindar
+Pino	Pine
+Ananaso	Pineapple
+Roza	Pink
+Pirato	Piracy
+Pizo (Italio)	Pisa
+Fiŝoj (konstelacio)	Pisces (constellation)
+Piŝto	Piston
+Pittsburgh (Pensilvanio)	Pittsburgh
+Hipofizo	Pituitary gland
+Rastrumero	Pixel
+Pico	Pizza
+Plagiato	Plagiarism
+Ebeno (matematiko)	Plane (mathematics)
+Planedo	Planet
+Planeduma nebulozo	Planetary nebula
+Planktono	Plankton
+Planto	Plant
+Plasmo	Plasma (physics)
+Plasmido	Plasmid
+Plasto	Plastic
+Plata tektoniko	Plate tectonics
+Trombocito	Platelet
+Plateno	Platinum
+Platono	Plato
+Ornitorinko	Platypus
+Playboy	Playboy
+Ludkarto	Playing card
+Plejadoj	Pleiades (star cluster)
+Plejstoceno	Pleistocene
+Plinio la pli maljuna	Pliny the Elder
+Gaius Plinius Caecilius Secundus minor	Pliny the Younger
+Plioceno	Pliocene
+Plotino	Plotinus
+Plovdiv	Plovdiv
+Plutarko	Plutarch
+Plutono	Pluto
+Plutonio	Plutonium
+Plymouth	Plymouth
+Pneŭmonio	Pneumonia
+Pado#Pado - rivero	Po River
+Poacoj	Poaceae
+Podkasto	Podcast
+Poezio	Poetry
+Kategorio:Poezio	Poetry
+Pogromo	Pogrom
+Punkto	Point (geometry)
+Veneno	Poison
+Poitiers	Poitiers
+Puatuo-Ĉarentoj	Poitou-Charentes
+Pokero	Poker
+Pollando	Poland
+Kategorio:Pollando	Poland
+Blanka urso	Polar bear
+Polico	Police
+Poliomjelito	Poliomyelitis
+Partio (politiko)	Political party
+Politika scienco	Political science
+Politikisto	Politician
+Politiko	Politics
+Kategorio:Politiko	Politics
+Poleno	Pollen
+Polenado	Pollination
+Poluo	Pollution
+Polonio	Polonium
+Poligamio	Polygamy
+Plurlatero	Polygon
+Pluredro	Polyhedron
+Polimnio	Polyhymnia
+Polimero	Polymer
+Polinezio	Polynesia
+Polinomo	Polynomial
+Politeismo	Polytheism
+Polivinil-klorido	Polyvinyl chloride
+Granato	Pomegranate
+Pampelmuso	Pomelo
+Pompejo (urbo)	Pompeii
+Pompeo	Pompey
+Pontio Pilato	Pontius Pilate
+Poparto	Pop art
+Pop-muziko	Pop music
+Papo	Pope
+Aleksandro la 6-a	Pope Alexander VI
+Poploj	Poplar
+Loĝantaro	Population
+Popolismo	Populism
+Porcelano	Porcelain
+Pornografio	Pornography
+Haveno	Port
+Port-Moresbo	Port Moresby
+Portoprinco	Port-au-Prince
+Portlando (Oregono)	Portland
+Porto	Porto
+Portreto	Portrait
+Portsmouth	Portsmouth
+Portugalio	Portugal
+Kategorio:Portugalio	Portugal
+Pozidono	Poseidon
+Pozitrono	Positron
+Poŝtmarko	Postage stamp
+Poŝtkodo	Postal code
+Postmodernismo	Postmodernism
+Kalio	Potassium
+Terpomo	Potato
+Potsdamo	Potsdam
+Funto	Pound (mass)
+Brita pundo	Pound sterling
+Malriĉeco	Poverty
+Povumo	Power (physics)
+Centralo	Power station
+Pretoro	Praetor
+Prago	Prague
+Kategorio:Prago	Prague
+Prajo	Praia
+Prazeodimo	Praseodymium
+Preĝo	Prayer
+Antaŭkambrio	Precambrian
+Precesio	Precession
+Precipitaĵo	Precipitation (meteorology)
+Gravedeco	Pregnancy
+Prahistorio	Prehistory
+Kategorio:Prahistorio	Prehistory
+Prezidento	President
+Prezidanto de Usono	President of the United States
+Premo	Pressure
+Ĉvaneo	Pretoria
+Priamo	Priam
+Prezo	Price
+Sacerdoto	Priest
+Primatoj	Primate
+Kategorio:Primatoj	Primates
+Grenviĉa Meridiano	Prime Meridian
+Ĉefministro	Prime minister
+Primo	Prime number
+Insulo de Princo Eduardo	Prince Edward Island
+Princo de Kimrujo	Prince of Wales
+Universitato Princeton	Princeton University
+Presarto	Printing
+Priono	Prion
+Prismo	Prism (geometry)
+Prismo (optiko)	Prism (optics)
+Malliberejo	Prison
+Militkaptito	Prisoner of war
+Premio Goncourt	Prix Goncourt
+Probablo	Probability
+Probablokalkulo	Probability theory
+Kategorio:Teorio de probabloj	Probability theory
+Procionedoj	Procyonidae
+Profesoro	Professor
+Profito	Profit
+Programlingvo	Programming language
+Progresiva roko	Progressive rock
+Prokarioto	Prokaryote
+Prolog	Prolog
+Prometeo	Prometheus
+Prometio	Promethium
+Pronomo	Pronoun
+Propagando	Propaganda
+Propano	Propane
+Prozo	Prose
+Prostato	Prostate
+Protaktinio	Protactinium
+Protektorato	Protectorate
+Proteino	Protein
+Proterozoiko	Proterozoic
+Reformacio	Protestant Reformation
+Protestantismo	Protestantism
+Protistoj	Protist
+Protokolo	Protocol
+Protono	Proton
+Protozooj	Protozoa
+Providence (Rod-Insulo)	Providence
+Proksima Centaŭro	Proxima Centauri
+Prunuso	Prunus
+Prusio	Prussia
+Psalmo	Psalms
+Pseŭdonimo	Pseudonym
+Kategorio:Pseŭdoscienco	Pseudoscience
+Pseŭdoscienco	Pseudoscience
+Psio (litero)	Psi (letter)
+Psoriazo	Psoriasis
+Psikiatrio	Psychiatry
+Kategorio:Psikiatrio	Psychiatry
+Psikoanalizo	Psychoanalysis
+Psikologio	Psychology
+Kategorio:Psikologio	Psychology
+Psikozo	Psychosis
+Psikoterapio	Psychotherapy
+Ptaho	Ptah
+Flugsaŭroj	Pterosaur
+Ptolemeo	Ptolemy
+Pubereco	Puberty
+Publika havaĵo	Public domain
+Puerto-Riko	Puerto Rico
+Kategorio:Puerto-Riko	Puerto Rico
+Takelo	Pulley
+Pulsaro	Pulsar
+Pumpilo	Pump
+Interpunkcio	Punctuation
+Panĝabo (Barato)	Punjab (India)
+Kategorio:Punko	Punk
+Punko	Punk rock
+Pupilo	Pupil
+Pobo (konstelacio)	Puppis
+Pjongjango	Pyongyang
+Piramido	Pyramid
+Piramido (geometrio)	Pyramid (geometry)
+Pireneoj	Pyrenees
+Pirito	Pyrite
+Venko de Pirho	Pyrrhic victory
+Pitagoro	Pythagoras
+Python (programlingvo)	Python (programming language)
+Kompaso (konstelacio)	Pyxis
+Q	Q
+Kataro (lando)	Qatar
+Kategorio:Kataro	Qatar
+Dinastio Qin	Qin Dynasty
+Dinastio Qing	Qing Dynasty
+Kvarlatero	Quadrilateral
+Kvantuma mekaniko	Quantum mechanics
+Kvaranteno	Quarantine
+Kvarko	Quark
+Kvarco	Quartz
+Kvazaro	Quasar
+Kebekio	Quebec
+Kategorio:Kebekio	Quebec
+Kebeko (Kebekio)	Quebec City
+Keĉua lingvaro	Quechua
+Damo (ŝako)	Queen (chess)
+Kvinzo	Queens
+Kvinslando	Queensland
+Quentin Tarantino	Quentin Tarantino
+Demandosigno	Question mark
+Kecalkoatlo (majaoj)	Quetzalcoatl
+Kito	Quito
+R	R
+RAF	RAF (disambiguation)
+RAID	RAID
+RNA	RNA
+Reo	Ra
+Rabato (urbo)	Rabat
+Rabeno	Rabbi
+Rabindranath Tagore	Rabindranath Tagore
+Niktereŭto	Raccoon Dog
+Raso	Race
+Rachel Carson	Rachel Carson
+Rasismo	Racism
+Kategorio:Rasismo	Racism
+Radaro	Radar
+Radiano	Radian
+Kategorio:Radio	Radio
+Radioteleskopo	Radio telescope
+Radioaktiveco	Radioactive decay
+Karbono 14	Radiocarbon dating
+Radiumo	Radium
+Radiuso	Radius
+Radono	Radon
+Pluvo	Rain
+Ĉielarko	Rainbow
+Rainer Maria Rilke	Rainer Maria Rilke
+Raleigh (Norda Karolino)	Raleigh
+Ralph Waldo Emerson	Ralph Waldo Emerson
+Ramadano	Ramadan
+Ramajano	Ramayana
+Ramseso la 2-a	Ramesses II
+Ĉefmemoro	Random access memory
+Ranunkolacoj	Ranunculaceae
+Seksatenco	Rape
+Kolzo	Rapeseed
+Rafaelo	Raphael
+Rafael	Raphael (archangel)
+Kategorio:Metrooj	Rapid transit
+Frambo	Raspberry
+Rato	Rat
+Racionala nombro	Rational number
+Strutoformaj birdoj	Ratite
+Raveno	Ravenna
+Rawalpindi	Rawalpindi
+Ray Bradbury	Ray Bradbury
+Reela nombro	Real number
+Recesio	Recession
+Recife	Recife
+Ortangulo	Rectangle
+Rikuro	Recursion
+Recikligo	Recycling
+Ruĝa	Red
+Ruĝa cervo	Red Deer
+Ruĝa vulpo	Red Fox
+Malgranda pando	Red Panda
+Ruĝa Maro	Red Sea
+Eritrocito	Red blood cell
+Ruĝenŝoviĝo	Redshift
+Ruĝenŝoviĝo	Redshift (disambiguation)
+Referendumo	Referendum
+Refrakto	Refraction
+Refrakta indico	Refractive index
+Rifuĝinto	Refugee
+Regento	Regent
+Regeo	Reggae
+Regimento	Regiment
+Reĝino (Saskaĉevano)	Regina
+Regiono (geografio)	Region
+Reims	Reims
+Reenkarniĝo	Reincarnation
+Boaco	Reindeer
+Rilato (matematiko)	Relation (mathematics)
+Kategorio:Relativeco	Relativity
+Relajso	Relay
+Religio	Religion
+Kategorio:Religio	Religion
+Kvakerismo	Religious Society of Friends
+Rembranto	Rembrandt
+Renesanco	Renaissance
+Reproduktado	Reproduction
+Reptilioj	Reptile
+Respubliko	Republic
+Tajvano	Republic of China
+Irlando (lando)	Republic of Ireland
+Kategorio:Irlando	Republic of Ireland
+Respubliko Kongo	Republic of the Congo
+Kategorio:Kongo Brazavila	Republic of the Congo
+Respublikana Partio (Usono)	Republican Party (United States)
+Rezistilo	Resistor
+Spira sistemo	Respiratory system
+Restoracio	Restaurant
+Reteto (konstelacio)	Reticulum
+Retino	Retina
+Vitamino A	Retinol
+Revolucio	Revolution
+Revolvero	Revolver
+Renio	Rhenium
+Retoriko	Rhetoric
+Kategorio:Retoriko	Rhetoric
+Rejno	Rhine
+Rinocero	Rhinoceros
+Roto (litero)	Rho (letter)
+Rod-Insulo	Rhode Island
+Kategorio:Rod-Insulo	Rhode Island
+Rodiso	Rhodes
+Rodio	Rhodium
+Rombo	Rhombus
+Rimo	Rhyme
+Ritmenbluso	Rhythm and blues
+Ripo	Rib
+Riboflavino	Riboflavin
+Ribosomo	Ribosome
+Rizo	Rice
+Richard Feynman	Richard Feynman
+Richard Nixon	Richard Nixon
+Richard Strauss	Richard Strauss
+Richard Wagner	Richard Wagner
+Richard Wright	Richard Wright (musician)
+Richmond (Virginio)	Richmond
+Rigo	Riga
+Riĝelo	Rigel
+Rektascensio	Right ascension
+Ringo (algebro)	Ring (mathematics)
+Ringo Starr	Ringo Starr
+Rio Grande del Norte	Rio Grande
+Rio-de-Ĵanejro	Rio de Janeiro
+Rio-de-Ĵanejrio	Rio de Janeiro (state)
+Rivero	River
+Tamizo	River Thames
+Rijado	Riyadh
+Vojo	Road
+Roald Amundsen	Roald Amundsen
+Robert A. Heinlein	Robert A. Heinlein
+Robert Andrews Millikan	Robert Andrews Millikan
+Robert Boyle	Robert Boyle
+Robert Burns	Robert Burns
+Robert De Niro	Robert De Niro
+Robert E. Lee	Robert E. Lee
+Robert Scott	Robert Falcon Scott
+Robert Hooke	Robert Hooke
+Robert Koch	Robert Koch
+Robert Louis Stevenson	Robert Louis Stevenson
+Robert Oppenheimer	Robert Oppenheimer
+Robert Owen	Robert Owen
+Robert Redford	Robert Redford
+Robert Schumann	Robert Schumann
+Robin Hood	Robin Hood
+Roboto	Robot
+Papero, tondilo, ŝtono	Rock
+Roko	Rock (geology)
+Rokenrolo	Rock and roll
+Rok-muziko	Rock music
+Kategorio:Rok-muziko	Rock music
+raketo	Rocket
+Roka Montaro	Rocky Mountains
+Rokoko	Rococo
+Ronĝuloj	Rodent
+Kapreolo	Roe Deer
+Rentgenio	Roentgenium
+Roger Bacon	Roger Bacon
+Romkatolikismo	Roman Catholic Church
+Romia Imperio	Roman Empire
+Romia Respubliko	Roman Republic
+Legio	Roman legion
+Romia mitologio	Roman mythology
+Kategorio:Romia mitologio	Roman mythology
+Rumanio	Romania
+Kategorio:Rumanio	Romania
+Romanĉa lingvo	Romansh
+Romantikismo	Romanticism
+Romo	Rome
+Kategorio:Romo	Rome
+Ronald Reagan	Ronald Reagan
+Tegmento	Roof
+Turo (ŝako)	Rook (chess)
+Roosevelt	Roosevelt
+Radiko#Botaniko	Root
+Rosa Parks	Rosa Parks
+Rozacoj	Rosaceae
+Rozaloj	Rosales
+Rosario	Rosario
+Rozario	Rosary
+Rozo	Rose
+Oficina rosmareno	Rosemary
+Rozeta ŝtono	Rosetta Stone
+Roŝ Haŝana	Rosh Hashanah
+Maro de Ross	Ross Sea
+Rostock	Rostock
+Roterdamo	Rotterdam
+Enkursigilo	Router
+Remado	Rowing (sport)
+Reĝa Societo de Londono	Royal Society
+Gumo	Rubber
+Rubikono	Rubicon
+Rubidio	Rubidium
+Rublo	Ruble
+Frambo	Rubus idaeus
+Rubeno	Ruby
+Ruby (programlingvo)	Ruby (programming language)
+Rudolf Diesel	Rudolf Diesel
+Rudolf Hess	Rudolf Hess
+Rudolf Steiner	Rudolf Steiner
+Rudyard Kipling	Rudyard Kipling
+Rugbeo	Rugby football
+Rupert Murdoch	Rupert Murdoch
+Rusio	Russia
+Kategorio:Rusio	Russia
+Rusa Ortodoksa Eklezio	Russian Orthodox Church
+Rusia revolucio de 1917	Russian Revolution (1917)
+Rutenio	Ruthenium
+Rutherford B. Hayes	Rutherford B. Hayes
+Ruterfordio	Rutherfordium
+Ruando	Rwanda
+Kategorio:Ruando	Rwanda
+Sekalo	Rye
+S	S
+SOAP	SOAP
+SOS	SOS
+Sakramento	Sacrament
+Sakramento (Kalifornio)	Sacramento
+Saddam Hussein	Saddam Hussein
+Safrano	Saffron
+Sago (konstelacio)	Sagitta
+Sagitario	Sagittarius (constellation)
+Saharo	Sahara
+Velo	Sail
+Sanktulo	Saint
+Sankta Andreo	Saint Andrew
+Georgo (Sankta)	Saint George
+Sankta-Kito kaj Neviso	Saint Kitts and Nevis
+Kategorio:Sankta Kristofo kaj Neviso	Saint Kitts and Nevis
+Sankt-Laŭrenco (rivero)	Saint Lawrence River
+Sankta Lucio	Saint Lucia
+Kategorio:Sankta Lucio	Saint Lucia
+Sankta Marteno (insulo)	Saint Martin
+Sankta Nikolao	Saint Nicholas
+Sankta Patriko	Saint Patrick
+Saint Paul (Minesoto)	Saint Paul
+Sankta Petro	Saint Peter
+Sankt-Peterburgo	Saint Petersburg
+Kategorio:Sankt-Peterburgo	Saint Petersburg
+Sankta Vincento kaj Grenadinoj	Saint Vincent and the Grenadines
+Kategorio:Sankta Vincento kaj Grenadinoj	Saint Vincent and the Grenadines
+Sakeo	Sake
+Saladino	Saladin
+Salamandro	Salamander
+Salem (Oregono)	Salem
+Salerno	Salerno
+Salman Rushdie	Salman Rushdie
+Salmonedoj	Salmonidae
+Salo	Salt
+Salo	Salt (chemistry)
+Sallagurbo	Salt Lake City
+Salvador de Bahio	Salvador
+Salzburg	Salzburg
+Salcburgo (sublando)	Salzburg (state)
+Samara (urbo)	Samara
+Samario (kemio)	Samarium
+Samarkando	Samarkand
+Samoo	Samoa
+Kategorio:Samoo	Samoa
+Sansaro	Samsara
+Samuel Beckett	Samuel Beckett
+Samuel Morse	Samuel F. B. Morse
+Samuel Taylor Coleridge	Samuel Taylor Coleridge
+Samurajo	Samurai
+San Antonio (Teksaso)	San Antonio
+San-Diego (Kalifornio)	San Diego
+San Francisco (Kalifornio)	San Francisco
+San Jose (Kalifornio)	San Jose
+San-Marino	San Marino
+Kategorio:San-Marino	San Marino
+San-Marino (urbo)	San Marino
+San-Salvadoro	San Salvador
+Sablo	Sand
+Sandro Botticelli	Sandro Botticelli
+Grejso	Sandstone
+Sandviĉo	Sandwich
+Sanskrito	Sanskrit
+Santa Claus	Santa Claus
+Santa Fe (Nov-Meksiko)	Santa Fe
+Santiago de Chile	Santiago
+Santiago	Santiago
+Santiago de Kubo	Santiago de Cuba
+Sankta Domingo	Santo Domingo
+Santos	Santos (Săo Paulo)
+Safiro	Sapphire
+Sapfo	Sappho
+Sapporo	Sapporo
+Sarah Bernhardt	Sarah Bernhardt
+Sarajevo	Sarajevo
+Saratov	Saratov
+Sardio	Sardinia
+Sari	Sari
+Sarino	Sarin
+Saskaĉevano	Saskatchewan
+Satano	Satan
+Artefarita satelito	Satellite
+Satiro	Satire
+Sabato	Saturday
+Saturno	Saturn
+Kategorio:Saturno	Saturn
+Saturno (dio)	Saturn (mythology)
+Satiruso	Satyr
+Saŭco	Sauce
+Saŭda Arabio	Saudi Arabia
+Kategorio:Saŭda Arabio	Saudi Arabia
+Saul Bellow	Saul Bellow
+Savano	Savanna
+Saksio	Saxony
+Kategorio:Saksio	Saxony
+Saksofono	Saxophone
+Skandinavio	Scandinavia
+Kategorio:Skandinavio	Scandinavia
+Skandio	Scandium
+Skapolo	Scapula
+Skeldo	Scheldt
+Scheme	Scheme (programming language)
+Skizofrenio	Schizophrenia
+Skolastikismo	Scholasticism
+Lernejo	School
+SS (organizaĵo)	Schutzstaffel
+Scienco	Science
+Kategorio:Scienco	Science
+Sciencfikcio	Science fiction
+Kategorio:Sciencfikcio	Science fiction
+Scienca metodo	Scientific method
+Sciencisto	Scientist
+Scientologio	Scientology
+Tondilo	Scissors
+Sciuredoj	Sciuridae
+Skorpio	Scorpion
+Skorpio (konstelacio)	Scorpius
+Skotlando	Scotland
+Kategorio:Skotlando	Scotland
+Arbara pino	Scots Pine
+Skotgaela lingvo	Scottish Gaelic
+Skoltismo	Scouting
+Skrablo	Scrabble
+Ŝraŭbo	Screw
+Ŝraŭbturnilo	Screwdriver
+Skroto	Scrotum
+Skulptisto (konstelacio)	Sculptor (constellation)
+Skulptarto	Sculpture
+Maro	Sea
+Mar-lutro	Sea Otter
+Maranemono	Sea anemone
+Marnivelo	Sea level
+Azova Maro	Sea of Azov
+Japana Maro	Sea of Japan
+Marmora Maro	Sea of Marmara
+Oĥocka maro	Sea of Okhotsk
+Eĥino	Sea urchin
+Seborgio	Seaborgium
+Hipokampo	Seahorse
+Serĉilo	Search engine
+Sears-turo	Sears Tower
+Sezono	Season
+Seattle (Vaŝingtonio)	Seattle
+Sekundo	Second
+Dua Vatikana Koncilio	Second Vatican Council
+Kategorio:Sekureco	Security
+Sedimentaj petroj	Sedimentary rock
+Semo	Seed
+Segovio	Segovia
+Sejno	Seine
+Sismologio	Seismology
+Seleno	Selenium
+Semantiko	Semantics
+Kategorio:Semantiko	Semantics
+Spermo	Semen
+Punktokomo	Semicolon
+Duonkonduktaĵo	Semiconductor
+Semiotiko	Semiotics
+Semidoj	Semitic
+Senato	Senate
+Senegalo	Senegal
+Kategorio:Senegalo	Senegal
+Seulo	Seoul
+Seppuku	Seppuku
+Septembro	September
+11-a de septembro	September 11
+11-a de septembro 2001	September 11
+17-a de septembro	September 17
+29-a de septembro	September 29
+Septuaginto	Septuagint
+Vico	Sequence
+Serbio	Serbia
+Kategorio:Serbio	Serbia
+Serbio kaj Montenegro	Serbia and Montenegro
+Kategorio:Serbio kaj Montenegro	Serbia and Montenegro
+Servuteco	Serfdom
+Sergej Rachmaninoff	Sergei Rachmaninoff
+Serio (matematiko)	Series (mathematics)
+Serino	Serine
+Serpento (konstelacio)	Serpens
+Servilo	Server (computing)
+Aro (matematiko)	Set
+Aroteorio	Set theory
+Kategorio:Aroteorio	Set theory
+Sebastopolo	Sevastopol
+Sepjara milito	Seven Years' War
+Netipa pneŭmonio	Severe acute respiratory syndrome
+Sevilo	Seville
+Sekso	Sex
+Seksismo	Sexism
+Sekstanto	Sextant
+Amoro	Sexual intercourse
+Venereaj malsanoj	Sexually transmitted disease
+Sejŝeloj	Seychelles
+Kategorio:Sejŝeloj	Seychelles
+Ŝaho	Shah
+Ŝamanismo	Shamanism
+Ŝanhajo	Shanghai
+Akcio	Share (finance)
+Ŝario	Sharia
+Ŝarko	Shark
+Sheffield	Sheffield
+Sherlock Holmes	Sherlock Holmes
+Ŝetlandaj Insuloj	Shetland
+Ŝikoku	Shikoku
+Ŝintoismo	Shinto
+Ŝipo	Ship
+Ŝivao	Shiva
+Ŝogio	Shogi
+Ŝoguno	Shogun
+Stenografio	Shorthand
+Salikoko	Shrimp
+Arbedo	Shrub
+Siberio	Siberia
+Siĉuano	Sichuan
+Sicilio	Sicily
+Kategorio:Sicilio	Sicily
+Simenso	Siemens (unit)
+Siera-Leono	Sierra Leone
+Kategorio:Siera-Leono	Sierra Leone
+Sigmo	Sigma
+Sigmund Freud	Sigmund Freud
+Signolingvo	Sign language
+Sigrid Undset	Sigrid Undset
+Sikismo	Sikhism
+Sikimo	Sikkim
+Silezio	Silesia
+Silicio	Silicon
+Silicon Valley	Silicon Valley
+Silko	Silk
+Silka Vojo	Silk Road
+Silurio	Silurian
+Arĝento	Silver
+Simone de Beauvoir	Simone de Beauvoir
+Peko	Sin
+Sinajo	Sinai Peninsula
+Sinclair Lewis	Sinclair Lewis
+Singapuro	Singapore
+Kategorio:Singapuro	Singapore
+Unuopaĵo	Single (music)
+Sireno (mitologio)	Siren
+Sireno (besto)	Sirenia
+Siriuso	Sirius
+Sizifo	Sisyphus
+Sidanta Taŭro	Sitting Bull
+Sestaga milito	Six-Day War
+Skagerrak	Skagerrak
+Rultabulo	Skateboard
+Kategorio:Skeleta sistemo	Skeletal system
+Haŭto	Skin
+Skopjo	Skopje
+Kranio	Skull
+Skylab	Skylab
+Nubskrapulo	Skyscraper
+Sklaveco	Slavery
+Dormo	Sleep
+Slovakio	Slovakia
+Kategorio:Slovakio	Slovakia
+Slovenio	Slovenia
+Kategorio:Slovenio	Slovenia
+Maldika intesto	Small intestine
+Smogo	Smog
+Smolensk	Smolensk
+Serpento	Snake
+Snukero	Snooker
+Neĝo	Snow
+Sapo	Soap
+Socialismo	Socialism
+Kategorio:Socialismo	Socialism
+Socialista Partio (Francio)	Socialist Party (France)
+Kategorio:Socio	Society
+Socio	Society
+Jezuitoj	Society of Jesus
+Sociolingvistiko	Sociolinguistics
+Sociologio	Sociology
+Kategorio:Sociologio	Sociology
+Sokrato	Socrates
+Natrio	Sodium
+Natria klorido	Sodium chloride
+Sofio	Sofia
+Softbalo	Softball
+Kategorio:Programaro	Software
+Grundo	Soil
+Solanacoj	Solanaceae
+Sunsistemo	Solar System
+Kategorio:Sunsistemo	Solar System
+Sunĉelo	Solar cell
+Suna eklipso	Solar eclipse
+Sunenergio	Solar energy
+Solido	Solid
+Solido	Solid state
+Solidareco (Pollando)	Solidarity
+Salomono	Solomon
+Salomonoj	Solomon Islands
+Kategorio:Salomonoj	Solomon Islands
+Solstico	Solstice
+Solvaĵo	Solution
+Somalio	Somalia
+Kategorio:Somalio	Somalia
+Somerset	Somerset
+Somme	Somme
+Sonato	Sonata
+Kanto	Song
+Alta Kanto de Salomono	Song of Solomon
+Soneto	Sonnet
+Sophia Loren	Sophia Loren
+Sofismo	Sophism
+Sofoklo	Sophocles
+Soprano	Soprano
+Sorbono	Sorbonne
+Sorgo	Sorghum
+Animo	Soul
+Sono	Sound
+Supo	Soup
+Sudo	South
+Kategorio:Sud-Afriko	South Africa
+Sudameriko	South America
+Kategorio:Sudameriko	South America
+Suda Aŭstralio	South Australia
+Suda Karolino	South Carolina
+Sudĉina Maro	South China Sea
+Suda Dakoto	South Dakota
+Kategorio:Suda Dakoto	South Dakota
+Suda Insulo (Nov-Zelando)	South Island
+Sud-Koreio	South Korea
+Kategorio:Sud-Koreio	South Korea
+Suda poluso	South Pole
+Vjetnama respubliko	South Vietnam
+Sud-Orienta Azio	Southeast Asia
+Suda duonglobo	Southern Hemisphere
+Sovetunio	Soviet Union
+Kategorio:Sovetunio	Soviet Union
+Sojfabo	Soybean
+Spaco	Space
+Kosmopramo	Space Shuttle
+Kosmostacio	Space station
+Kosmoveturilo	Spacecraft
+Hispanio	Spain
+Kategorio:Hispanio	Spain
+Spamo	Spam (electronic)
+Hispana Enlanda Milito	Spanish Civil War
+Kategorio:Hispanoj	Spanish people
+Hispana-usona milito	Spanish-American War
+Sparto	Sparta
+Lanco	Spear
+Speciala teorio de relativeco	Special relativity
+Specio	Species
+Rapido	Speed
+Lumrapideco	Speed of light
+Speleologio	Speleology
+Spencer Tracy	Spencer Tracy
+Kaĉaloto	Sperm Whale
+Spermatozoo	Spermatozoon
+Sfero	Sphere
+Sfinkso (egipta mitologio)	Sphinx
+Spico	Spice
+Araneo	Spider
+Spino (fiziko)	Spin (physics)
+Spinaco	Spinach
+Mjelo	Spinal cord
+Spirala galaksio	Spiral galaxy
+Lieno	Spleen
+Split	Split
+Spongulo	Sponge
+Sporto	Sport
+Tabelkalkulilo	Spreadsheet
+Spree	Spree
+Printempo	Spring (season)
+Springfield (Ilinojo)	Springfield
+Skvamuloj	Squamata
+Kvadrato (geometrio)	Square (geometry)
+Kvadrata metro	Square metre
+Kvadrata radiko	Square root
+Skvaŝo	Squash (sport)
+Sciuro	Squirrel
+Sri-Lanko	Sri Lanka
+Kategorio:Sri-Lanko	Sri Lanka
+Sankta Luiso	St. Louis
+Stadiono	Stadium
+Vitralo	Stained glass
+Rustorezista ŝtalo	Stainless steel
+Stalinismo	Stalinism
+SGML	Standard Generalized Markup Language
+Norma diferenco	Standard deviation
+Universitato Stanford	Stanford University
+Stanley Kubrick	Stanley Kubrick
+Stelo	Star
+Stelo de Davido	Star of David
+Amelo	Starch
+Marstelo	Starfish
+Ŝtato	State
+Staten-Insulo	Staten Island
+Statistiko	Statistics
+Kategorio:Statistiko	Statistics
+Statuo de Libereco	Statue of Liberty
+Stavanger	Stavanger
+Vapormaŝino	Steam engine
+Ŝtalo	Steel
+Stefan Zweig	Stefan Zweig
+Stamĉelo	Stem cell
+Stendhal	Stendhal
+Stephen Hawking	Stephen Hawking
+Stepo	Steppe
+Steradiano	Steradian
+Sternumo	Sternum
+Steroido	Steroid
+Steven Spielberg	Steven Spielberg
+Sting	Sting
+borso	Stock exchange
+Stokholmo	Stockholm
+Stoikismo	Stoicism
+Stomako	Stomach
+Ŝtonepoko	Stone Age
+Stonehenge	Stonehenge
+Cikoniedoj	Stork
+Ŝtormo	Storm
+Markolo	Strait
+Ĝibraltara Markolo	Strait of Gibraltar
+Hormuza Markolo	Strait of Hormuz
+Magelana markolo	Strait of Magellan
+Mesina Markolo	Strait of Messina
+Kategorio:Markoloj	Straits
+Strasburgo	Strasbourg
+Strategio	Strategy
+Stratosfero	Stratosphere
+Frago	Strawberry
+Streso	Stress (medicine)
+Teorio de kordoj	String theory
+Apopleksio	Stroke
+Forta nuklea forto	Strong interaction
+Stroncio	Strontium
+Ŝablono:Ĝermo	Stub
+Studento	Student
+Stupao	Stupa
+Stutgarto	Stuttgart
+Stikso	Styx
+Afriko sude de Saharo	Sub-Saharan Africa
+Sublimado	Sublimation (chemistry)
+Submarŝipo	Submarine
+Subaro	Subset
+Operacioj per nombroj	Subtraction
+Subversion	Subversion (software)
+Sukro (Bolivio)	Sucre
+Sakarozo	Sucrose
+Sudano	Sudan
+Kategorio:Sudano	Sudan
+Sudoko	Sudoku
+Sueza Kanalo	Suez Canal
+Sufikso	Suffix
+Sufiismo	Sufism
+Sukero	Sugar
+Suharto	Suharto
+Soekarno	Sukarno
+Sulaveso	Sulawesi
+Sulfuro	Sulfur
+Sulfura dioksido	Sulfur dioxide
+Iperito	Sulfur mustard
+Sulfata acido	Sulfuric acid
+Sultano	Sultan
+Sumatro	Sumatra
+Sumero	Sumer
+Somero	Summer
+Sumoo	Sumo
+Suno	Sun
+Sun Jatsen	Sun Yat-sen
+Dimanĉo	Sunday
+Sunfloro	Sunflower
+Sunaismo	Sunni Islam
+Sunmakulo	Sunspot
+Superkonduktiveco	Superconductivity
+Superman	Superman
+Supernovao	Supernova
+Usona Suverena Kortumo	Supreme Court of the United States
+Surao	Sura
+Kirurgio	Surgeon
+Kirurgio	Surgery
+Kategorio:Kirurgio	Surgery
+Surinamo	Suriname
+Kategorio:Surinamo	Suriname
+Superrealismo	Surrealism
+Surrey	Surrey
+Susan Sontag	Susan Sontag
+Suŝio	Sushi
+Suvo	Suva
+Svalbard	Svalbard
+Hirundo	Swallow
+Cigno	Swan
+Svastiko	Swastika
+Svazilando	Swaziland
+Kategorio:Svazilando	Swaziland
+Svedio	Sweden
+Kategorio:Svedio	Sweden
+Krono (valuto)	Swedish krona
+Batato	Sweet potato
+Naĝado	Swimming
+Svisa franko	Swiss franc
+Kategorio:Svisoj	Swiss people
+Svislando	Switzerland
+Kategorio:Svislando	Switzerland
+Glavo	Sword
+Sidnejo	Sydney
+Silabo	Syllable
+Sylvia Plath	Sylvia Plath
+Simbiozo	Symbiosis
+Simbolo	Symbol
+Simfonio	Symphony
+Simptomo	Symptom
+Sinagogo	Synagogue
+Sindikato	Syndicate
+Sinonimo	Synonym
+Sintakso	Syntax
+Sintezilo	Synthesizer
+Sifiliso	Syphilis
+Sirakuzo	Syracuse
+Sirio	Syria
+Kategorio:Sirio	Syria
+Sistemo	System
+Sistematiko	Systematics
+T	T
+T. S. Eliot	T. S. Eliot
+Tablo	Table (furniture)
+Tabloteniso	Table tennis
+Tabuo	Taboo
+Tacito (verkisto)	Tacitus
+Tekvondo	Taekwondo
+Taĵo	Tagus
+Tahitio	Tahiti
+Tajĝiĉuano	Tai chi chuan
+Vosto	Tail
+Tajpeo	Taipei
+Kategorio:Tajvano	Taiwan
+Tajvano	Taiwan
+Taĝ-Mahalo	Taj Mahal
+Taĝikio	Tajikistan
+Kategorio:Taĝikio	Tajikistan
+Talko	Talc
+Talibano	Taliban
+Tallahassee (Florido)	Tallahassee
+Talino	Tallinn
+Talmudo	Talmud
+Tamilnado	Tamil Nadu
+Tampa	Tampa
+Tampere	Tampere
+Tanaĥo	Tanakh
+Dinastio Tang	Tang Dynasty
+Tanĝero	Tangier
+Tango	Tango (dance)
+Tanko	Tank
+Tantalo	Tantalum
+Tanzanio	Tanzania
+Kategorio:Tanzanio	Tanzania
+Taoismo	Taoism
+Tapiro	Tapir
+Tarn	Tarn
+Estragono	Tarragon
+Tartu	Tartu
+Taŝkento	Tashkent
+Tasmanio	Tasmania
+Gusto	Taste
+Tatuo	Tattoo
+Taŭo (litero)	Tau
+Taŭro (konstelacio)	Taurus (constellation)
+Arbarstrigo	Tawny Owl
+Imposto	Tax
+Kategorio:Impostoj	Taxation
+Taksio	Taxicab
+Taksono	Taxon
+Taksonomio	Taxonomy
+Eŭropa taksuso	Taxus baccata
+Tbilisi	Tbilisi
+Teo	Tea
+Kategorio:Teoj	Tea
+Instruisto	Teacher
+Teknecio	Technetium
+Teknologio	Technology
+Kategorio:Teknologio	Technology
+Tegucigalpo	Tegucigalpa
+Tehrano	Tehran
+Tel-Avivo	Tel Aviv
+Telekomunikado	Telecommunication
+Telegrafo	Telegraphy
+Telepatio	Telepathy
+Telefono	Telephone
+Teleskopo	Telescope
+Teleskopo (konstelacio)	Telescopium
+Televido	Television
+Kategorio:Televido	Television
+Teluro	Tellurium
+Temperaturo	Temperature
+Templo	Temple
+Templo de Artemiso	Temple of Artemis
+La Dekalogo	Ten Commandments
+Tenerifo	Tenerife
+Tenesio	Tennessee
+Kategorio:Tenesio	Tennessee
+Tennessee Williams	Tennessee Williams
+Teniso	Tennis
+Tenoro	Tenor
+Tenzing Norgay	Tenzing Norgay
+Tekilo	Tequila
+Terbio	Terbium
+Termito	Termite
+Terpsiĥoro	Terpsichore
+Tersimila planedo	Terrestrial planet
+Terorismo	Terrorism
+Kategorio:Terorismo	Terrorism
+Tertuliano	Tertullian
+Testiko	Testicle
+Testosterono	Testosterone
+Tetanoso	Tetanus
+Tetiso (titanino)	Tethys (mythology)
+Kvaredro	Tetrahedron
+Kvarpieduloj	Tetrapod
+Teksaso	Texas
+Kategorio:Teksaso	Texas
+Tajlando	Thailand
+Kategorio:Tajlando	Thailand
+Taleso	Thales
+Talio (muzo)	Thalia
+Talio	Thallium
+Danktago	Thanksgiving
+Danktago	Thanksgiving (Canada)
+Danktago	Thanksgiving (United States)
+Danktago	Thanksgiving (disambiguation)
+Gambio	The Gambia
+Kategorio:Gambio	The Gambia
+Hago	The Hague
+The Star-Spangled Banner	The Star-Spangled Banner
+Teatro	Theatre
+Kategorio:Teatro	Theatre
+Tebo (jupitera luno)	Thebe (moon)
+Tebo (Grekio)	Thebes
+Tebo (Egiptio)	Thebes
+Teja	Theia
+Temiso	Themis
+Temistoklo	Themistocles
+Teokratio	Theocracy
+Teodolito	Theodolite
+Theodor Mommsen	Theodor Mommsen
+Theodore Roosevelt	Theodore Roosevelt
+Teodosio	Theodosius I
+Teologio	Theology
+Kategorio:Teologio	Theology
+Teoremo	Theorem
+Teorio	Theory
+Fizika relativeco	Theory of relativity
+Teravado	Theravada
+Termodinamiko	Thermodynamics
+Temperatursensilo	Thermometer
+Tezeo	Theseus
+Tesaloniko	Thessaloniki
+Teto	Theta
+Teti	Thetis
+Tiamino	Thiamine
+Pensfabriko	Think tank
+Tria mondo	Third World
+Tridekjara milito	Thirty Years' War
+Tomaso de Akvino	Thomas Aquinas
+Thomas Alva Edison	Thomas Edison
+Thomas Hardy	Thomas Hardy
+Thomas Hobbes	Thomas Hobbes
+Thomas Jefferson	Thomas Jefferson
+Thomas Malthus	Thomas Malthus
+Thomas Mann	Thomas Mann
+Thomas More	Thomas More
+Thomas Paine	Thomas Paine
+Toro (mitologio)	Thor
+Torio	Thorium
+Toto	Thoth
+Pensado	Thought
+Trakio	Thrace
+Tucidido	Thucydides
+Tulio	Thulium
+Dikfingro	Thumb
+Turingio	Thuringia
+Kategorio:Turingio	Thuringia
+Ĵaŭdo	Thursday
+Timiano	Thyme
+Timino	Thymine
+Tjanĝino	Tianjin
+Tibero	Tiber
+Tiberio	Tiberius
+Kategorio:Tibeto	Tibet
+Kantono Tiĉino	Ticino
+Tajdo	Tide
+Fuegio	Tierra del Fuego
+Tigro	Tiger
+Tigriso	Tigris
+Tilio	Tilia
+Timbuktuo	Timbuktu
+Tempo	Time
+Kategorio:Tempo	Time
+Time	Time (magazine)
+Horzono	Time zone
+Timoro	Timor
+Timur	Timur
+Stano	Tin
+Tirano	Tirana
+Histo	Tissue (biology)
+Parida familio	Tit (bird)
+Titano	Titan (disambiguation)
+Titano (luno)	Titan (moon)
+Titanoj	Titan (mythology)
+Titanjo	Titania (moon)
+Titano (elemento)	Titanium
+Tiziano	Titian
+Tito (imperiestro)	Titus
+Tivoli	Tivoli
+Tabako	Tobacco
+Tokantinso	Tocantins (state)
+Vitamino E	Tocopherol
+Tofuo	Tofu
+Togo	Togo
+Kategorio:Togo	Togo
+Tokio	Tokyo
+Toledo (Hispanio)	Toledo
+Tolueno	Toluene
+Tom Hanks	Tom Hanks
+Tom kaj Jerry	Tom and Jerry
+Tomato	Tomato
+Tuno	Ton
+Tongo	Tonga
+Kategorio:Tongo	Tonga
+Lango (anatomio)	Tongue
+Toni Morrison	Toni Morrison
+Tuno	Tonne
+Tony Blair	Tony Blair
+Laborilo	Tool
+Dento	Tooth
+Dentobroso	Toothbrush
+Topeka (Kansaso)	Topeka
+Topologio	Topology
+Kategorio:Topologio	Topology
+Leĝo de Moseo	Torah
+Tornado (ŝtormo)	Tornado
+Toronto (Ontario)	Toronto
+Torpedo	Torpedo
+Testudo	Tortoise
+Torturo	Torture
+Toro (Italio)	Torus
+Totalismo	Totalitarianism
+Toulon	Toulon
+Tuluzo	Toulouse
+Tour de France (sportoj)	Tour de France
+Turismo	Tourism
+Kategorio:Turismo	Tourism
+Tours	Tours
+Turo	Tower
+Babela turo	Tower of Babel
+Turo de Londono	Tower of London
+Urbo	Town
+Veneno	Toxicity
+Ludilo	Toy
+Toyota	Toyota
+Traktoro	Tractor
+Komerco	Trade
+Sindikato	Trade union
+Registrita marko	Trademark
+Tradicio	Tradition
+Tragedio	Tragedy
+Trajno	Train
+Fervoja stacidomo	Train station
+Trajano	Trajan
+Tramo	Tram
+Transformatoro	Transformer
+Transistoro	Transistor
+Transliterumaj sistemoj	Transliteration
+TCP	Transmission Control Protocol
+Kategorio:Transporto	Transportation
+Transseksulo	Transsexualism
+Transilvanio	Transylvania
+Trapezo	Trapezoid
+Traktato	Treaty
+Traktato de Versajlo	Treaty of Versailles
+Arbo	Tree
+Trento	Trento
+Trenton (Nov-Ĵerzejo)	Trenton
+Triangulo	Triangle
+Triangulo (konstelacio)	Triangulum
+Aŭstrala Triangulo (konstelacio)	Triangulum Australe
+Triaso	Triassic
+Alfluanto	Tributary
+Triceratopo	Triceratops
+Treviro	Trier
+Trigonometria funkcio	Trigonometric function
+Trigonometrio	Trigonometry
+Kategorio:Trigonometrio	Trigonometry
+Trilogio	Trilogy
+Trinidado	Trinidad
+Trinidado kaj Tobago	Trinidad and Tobago
+Kategorio:Trinidado kaj Tobago	Trinidad and Tobago
+TNT	Trinitrotoluene
+Sankta Triunuo	Trinity
+Tripolo (Libio)	Tripoli
+Triskelo	Triskelion
+Tricio	Tritium
+Tritono	Triton (moon)
+Tritono (dio)	Triton (mythology)
+Troja ĉevalo (mitologio)	Trojan Horse
+Troja milito	Trojan War
+Trolebuso	Trolleybus
+Trombono	Trombone
+Trondheim	Trondheim
+Tropiko de Kankro	Tropic of Cancer
+Tropiko de Kaprikorno	Tropic of Capricorn
+Tropikoj	Tropics
+Troposfero	Troposphere
+Trockismo	Trotskyism
+Trojo	Troy
+Kamiono	Truck
+Trumpeto	Trumpet
+Vero	Truth
+Trygve Lie	Trygve Lie
+Triptofano	Tryptophan
+Caro	Tsar
+Cunamo	Tsunami
+Tuaregoj	Tuareg
+Tubjo	Tuba
+Trufo	Tuber (genus)
+Tuberkulozo	Tuberculosis
+Tukano (konstelacio)	Tucana
+Tucson (Arizono)	Tucson
+Mardo	Tuesday
+Tulipo	Tulip
+Tumoro	Tumor
+Tundro	Tundra
+Volframo	Tungsten
+Tunikulo	Tunicate
+Tunizo	Tunis
+Tunizio	Tunisia
+Kategorio:Tunizio	Tunisia
+Tunelo	Tunnel
+Torino	Turin
+Maŝino de Turing	Turing machine
+Turkio	Turkey
+Kategorio:Turkio	Turkey
+Turkmenio	Turkmenistan
+Kategorio:Turkmenio	Turkmenistan
+Kurkumo	Turmeric
+Testudo	Turtle
+Toskanio	Tuscany
+Tuvalo	Tuvalu
+Kategorio:Tuvalo	Tuvalu
+Tux	Tux
+Tycho Brahe	Tycho Brahe
+Tajpilo	Typewriter
+Tipografio	Typography
+Kategorio:Tipografio	Typography
+Tiranosaŭro	Tyrannosaurus
+Tiro	Tyre
+Tirolo	Tyrol (state)
+Tirena Maro	Tyrrhenian Sea
+U	U
+Unesko	UNESCO
+Ufa	Ufa
+Ugando	Uganda
+Kategorio:Ugando	Uganda
+Ukrainio	Ukraine
+Kategorio:Ukrainio	Ukraine
+Ulan-Batoro	Ulan Bator
+Ulster	Ulster
+Ultrasono	Ultrasound
+Ultraviola radiado	Ultraviolet
+Ulysses S. Grant	Ulysses S. Grant
+Ombrelo	Umbrella
+Umbrio	Umbria
+Senlaboreco	Unemployment
+Unukornulo	Unicorn
+Nifo	Unidentified flying object
+URL	Uniform Resource Locator
+Kunaĵo	Union (set theory)
+Unuiĝintaj Arabaj Emirlandoj	United Arab Emirates
+Kategorio:Unuiĝintaj Arabaj Emirlandoj	United Arab Emirates
+Unuiĝinta Araba Respubliko	United Arab Republic
+Unuiĝinta Reĝlando	United Kingdom
+Kategorio:Britio	United Kingdom
+Unuiĝintaj Nacioj	United Nations
+Kategorio:Unuiĝintaj Nacioj	United Nations
+UNICEF	United Nations Children's Fund
+Usono	United States
+Kategorio:Usono	United States
+Usona Kongreso	United States Congress
+Usona Konstitucio	United States Constitution
+Usona Domo de Reprezentantoj	United States House of Representatives
+West Point	United States Military Academy
+Usona Senato	United States Senate
+Usonaj Virgulininsuloj	United States Virgin Islands
+Usona dolaro	United States dollar
+Universo	Universe
+Universitato	University
+Universitato de Ĉikago	University of Chicago
+Unikso	Unix
+Kategorio:Unikso-similaj sistemoj	Unix
+Ununbio	Ununbium
+Ununheksio	Ununhexium
+Ununpentio	Ununpentium
+Ununkvadio	Ununquadium
+Ununtrio	Ununtrium
+Upaniŝadoj	Upanishad
+Upsalo	Uppsala
+Upsilono	Upsilon
+Ur (urbo)	Ur
+Uracilo	Uracil
+Uralo (montaro)	Ural Mountains
+Uranio (muzo)	Urania
+Uranio	Uranium
+Urano	Uranus
+Urano (dio)	Uranus (mythology)
+Urduo	Urdu
+Ureo	Urea
+Urino	Urine
+Granda Ursino (konstelacio)	Ursa Major
+Malgranda Ursino (konstelacio)	Ursa Minor
+Urugvajo	Uruguay
+Kategorio:Urugvajo	Uruguay
+Utaho	Utah
+Kategorio:Utaho	Utah
+Utero	Uterus
+Utilismo	Utilitarianism
+Utopio	Utopia
+Utrecht (urbo)	Utrecht (city)
+Utrecht (provinco)	Utrecht (province)
+Utar-Pradeŝo	Uttar Pradesh
+Uzbekio	Uzbekistan
+Kategorio:Uzbekio	Uzbekistan
+V	V
+Vakcino	Vaccine
+Vakuo	Vacuum
+Vaduzo	Vaduz
+Vagino	Vagina
+Valento	Valence (chemistry)
+Valencio (Hispanio)	Valencia
+Valencio	Valencia
+Valentina Tereŝkova	Valentina Tereshkova
+Sankt-Valentena tago	Valentine's Day
+Valhalo	Valhalla
+Valkirio	Valkyrie
+La Valeto	Valletta
+Valo	Valley
+Vampiro	Vampire
+Vanado	Vanadium
+Vankuvero (Brita Kolumbio)	Vancouver
+Vankuvera Insulo	Vancouver Island
+Vanioj	Vanir
+Vanuatuo	Vanuatu
+Kategorio:Vanuatuo	Vanuatu
+Var (departemento)	Var (department)
+Varianco	Variance
+Varna	Varna
+Vaskulaj plantoj	Vascular plant
+Vatikanurbo	Vatican City
+Kategorio:Vatikanurbo	Vatican City
+Vektoro	Vector (spatial)
+Legomo	Vegetable
+Vegetarismo	Vegetarianism
+Vejno	Vein
+Velaro (konstelacio)	Vela (constellation)
+Vektora rapido	Velocity
+Veneto	Veneto
+Venezuelo	Venezuela
+Kategorio:Venezuelo	Venezuela
+Venecio	Venice
+Venuso	Venus
+Venuso (diino)	Venus (mythology)
+Verbo	Verb
+Vermonto	Vermont
+Kategorio:Vermonto	Vermont
+Verona	Verona
+Versailles	Versailles
+Vertebro	Vertebra
+Vertebraro	Vertebral column
+Vertebruloj	Vertebrate
+Vespasiano	Vespasian
+Vesta	Vesta (mythology)
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Viktorio (Brita Kolumbio)	Victoria
+Viktorio (Aŭstralio)	Victoria (Australia)
+Viktoria Akvofalo	Victoria Falls
+Video	Video
+Videoludo	Video game
+Vieno	Vienna
+Kategorio:Vieno	Vienna
+Vienne (departemento)	Vienne
+Vjentiano	Vientiane
+Vjetnamio	Vietnam
+Kategorio:Vjetnamio	Vietnam
+Vjetnama milito	Vietnam War
+Vikingoj	Viking
+Vilfredo Pareto	Vilfredo Pareto
+Vilaĝo	Village
+Vilno	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Vincenzo Bellini	Vincenzo Bellini
+Vinagro	Vinegar
+Aldviolono	Viola
+Violento	Violence
+Violono	Violin
+Vergilio	Virgil
+Virgulininsuloj	Virgin Islands
+Virginio	Virginia
+Kategorio:Virginio	Virginia
+Virginia Woolf	Virginia Woolf
+Virgeco	Virginity
+Virgo (konstelacio)	Virgo (constellation)
+Virtuala realeco	Virtual reality
+Virto	Virtue
+Viruso (biologio)	Virus
+Viskozeco	Viscosity
+Viŝnuo	Vishnu
+Vistulo	Vistula
+Vitamino	Vitamin
+Vitamino A	Vitamin A
+Vitamino C	Vitamin C
+Vitamino D	Vitamin D
+Vitus Bering	Vitus Bering
+Vivien Leigh	Vivien Leigh
+Lenin	Vladimir Lenin
+Vladimir Nabokov	Vladimir Nabokov
+Vladimir Putin	Vladimir Putin
+Vladivostok	Vladivostok
+Vokativo	Vocative case
+Vodko	Vodka
+Flugfiŝo (konstelacio)	Volans
+Vulkano	Volcano
+Kategorio:Vulkanologio	Volcanology
+Vulkanologio	Volcanology
+Volgo	Volga River
+Volgogrado	Volgograd
+Flugpilkado	Volleyball
+Volto	Volt
+Elektra tensio	Voltage
+Voltaire	Voltaire
+Volumeno	Volume
+Vomado	Vomiting
+Voduo	Voodoo
+Vokalo	Vowel
+Vulkano (dio)	Vulcan (mythology)
+Vulgara latina	Vulgar Latin
+Vulgato	Vulgate
+Vulpo (konstelacio)	Vulpecula
+Vulvo	Vulva
+W	W
+William Somerset Maugham	W. Somerset Maugham
+WYSIWYG	WYSIWYG
+Vahabismo	Wahhabism
+Vejkinsulo	Wake Island
+Kimrio	Wales
+Kategorio:Kimrio	Wales
+Juglando (genro)	Walnut
+Rosmaro	Walrus
+Walt Disney	Walt Disney
+Walt Whitman	Walt Whitman
+Walter Scott	Walter Scott
+Milito	War
+Kategorio:Militoj	War
+Militkrimo	War crime
+Milito de hispana sukcedo	War of the Spanish Succession
+Militoj de rozoj	Wars of the Roses
+Varsovio	Warsaw
+Lavmaŝino	Washing machine
+Vaŝingtono	Washington
+Vaŝingtonio	Washington
+Kategorio:Vaŝingtonio	Washington
+Washington	Washington (disambiguation)
+Vasilij Kandinskij	Wassily Kandinsky
+Rubo	Waste
+Akvo	Water
+Kategorio:Akvo	Water
+Akvopilko	Water polo
+Akvofalo	Waterfall
+Skandalo Watergate	Watergate scandal
+Akvomelono	Watermelon
+Vato (unuo)	Watt
+Kilovathoro	Watt-hour
+Ondo	Wave
+Ondolongo	Wavelength
+Vakso	Wax
+Malforta nuklea forto	Weak interaction
+Armilo	Weapon
+Vetero	Weather
+TTT-legilo	Web browser
+TTT-paĝo	Web page
+Vebero	Weber (unit)
+TTT-ejo	Website
+Merkredo	Wednesday
+Semajno	Week
+Pezo	Weight
+Halterlevo	Weightlifting
+Vajmaro	Weimar
+Vajmara Respubliko	Weimar Republic
+Veldado	Welding
+Velingtono	Wellington
+Lupfantomo	Werewolf
+Wernher von Braun	Wernher von Braun
+Weser	Weser River
+Okcidento	West
+Okcidentafriko	West Africa
+Cisjordanio	West Bank
+Okcident-Bengalo	West Bengal
+Okcidenta Berlino	West Berlin
+Okcidenta Germanio	West Germany
+West Sussex	West Sussex
+Okcidenta Virginio	West Virginia
+Kategorio:Okcidenta Virginio	West Virginia
+Okcidenta Aŭstralio	Western Australia
+Okcident-Romia Imperio	Western Roman Empire
+Okcidenta Saharo	Western Sahara
+Kategorio:Okcidenta Saharo	Western Sahara
+Abatejo Westminster	Westminster Abbey
+Baleno	Whale
+Tritiko	Wheat
+Rado	Wheel
+Viskio	Whisky
+Blanka Domo (Vaŝingtono)	White House
+Blanka Maro	White Sea
+Leŭkocito	White blood cell
+Blanka nano	White dwarf
+Whitehorse (Jukonio)	Whitehorse
+Viko	Wicca
+Malloka reto	Wide area network
+Wiesbaden	Wiesbaden
+Sovaĝa kato	Wildcat
+Wilhelm Ostwald	Wilhelm Ostwald
+William Blake	William Blake
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Ewart Gladstone	William Gladstone
+William Golding	William Golding
+William Harvey	William Harvey
+William H. Harrison	William Henry Harrison
+William Herschel	William Herschel
+William H. Taft	William Howard Taft
+Vilhelmo la 2-a (Germana Imperiestro)	William II
+William McKinley	William McKinley
+William Shakespeare	William Shakespeare
+William Wordsworth	William Wordsworth
+Saliko	Willow
+Willy Brandt	Willy Brandt
+Blovinstrumento	Wind instrument
+Ventoenergio	Wind power
+Vindhuko	Windhoek
+Ventmuelejo	Windmill
+Fenestro	Window
+Vino	Wine
+Vinipego (Manitobo)	Winnipeg
+Winston Churchill	Winston Churchill
+Vintro	Winter
+Vintraj Olimpikoj	Winter Olympic Games
+Kategorio:Vintraj Olimpikoj	Winter Olympic Games
+Viskonsino	Wisconsin
+Kategorio:Viskonsino	Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Wolfgang Pauli	Wolfgang Pauli
+Virino	Woman
+Ligno	Wood
+Woodrow Wilson	Woodrow Wilson
+Ligna blovinstrumento	Woodwind instrument
+Woody Allen	Woody Allen
+Worcestershire	Worcestershire
+Vorto	Word
+Dokumentoredaktilo	Word processor
+Mondo	World
+Monda Banko	World Bank
+Monda Organizaĵo pri Sano	World Health Organization
+Monda Organizaĵo pri Meteologio	World Meteorological Organization
+World Trade Center	World Trade Center
+Monda Organizaĵo pri Komerco	World Trade Organization
+Unua mondmilito	World War I
+Kategorio:Unua mondmilito	World War I
+Dua mondmilito	World War II
+Kategorio:Dua mondmilito	World War II
+TTT	World Wide Web
+Mondmilito	World war
+Vermo	Worm
+Verkisto	Writer
+Skribsistemo	Writing system
+Vuhano	Wuhan
+Vajomingo	Wyoming
+Kategorio:Vajomingo	Wyoming
+X	X
+Ikso-radioj	X-ray
+Ksenartroj	Xenarthra
+Ksenono	Xenon
+Ksenofobio	Xenophobia
+Ksenofono	Xenophon
+Ksio	Xi
+Ŝinĝjango	Xinjiang
+Ksilofono	Xylophone
+Y	Y
+Jehovo	Yahweh
+Gruntbovo	Yak
+Jakuza	Yakuza
+Universitato Yale	Yale University
+Jalto	Yalta
+Jalta konferenco	Yalta Conference
+Jangono	Yangon
+Jangzio	Yangtze River
+Jardo	Yard
+Jaser Arafat	Yasser Arafat
+Jaro	Year
+Gisto	Yeast
+Flava	Yellow
+Flava Rivero	Yellow River
+Flava Maro	Yellow Sea
+Nacia Parko Yellowstone	Yellowstone National Park
+Jemeno	Yemen
+Kategorio:Jemeno	Yemen
+Jenisejo	Yenisei River
+Erevano	Yerevan
+Jetio	Yeti
+Jojo	Yo-yo
+Jogo	Yoga
+Jogurto	Yoghurt
+Yoko Ono	Yoko Ono
+Jokohamo	Yokohama
+Jom Kippur	Yom Kippur
+Milito de Jom Kippur	Yom Kippur War
+York	York
+Iterbio	Ytterbium
+Itrio	Yttrium
+Dinastio Yuan	Yuan Dynasty
+Jugoslavio	Yugoslavia
+Kategorio:Jugoslavio	Yugoslavia
+Jukonio	Yukon
+Junano	Yunnan
+Jurij Gagarin	Yuri Gagarin
+Z	Z
+Zachary Taylor	Zachary Taylor
+Zagrebo	Zagreb
+Zambezi (rivero)	Zambezi
+Zambio	Zambia
+Kategorio:Zambio	Zambia
+Zanzibaro	Zanzibar
+Zaragozo	Zaragoza
+Sjælland	Zealand
+Zebro	Zebra
+Zen-budhismo	Zen
+Zenito	Zenith
+Zenono el Kitiono	Zeno of Citium
+Zenono el Elajo	Zeno of Elea
+Zeto	Zeta
+Zeŭso	Zeus
+Zeŭso (apartigilo)	Zeus (disambiguation)
+Zigurato	Ziggurat
+Zimbabvo	Zimbabwe
+Kategorio:Zimbabvo	Zimbabwe
+Zinko	Zinc
+Cionismo	Zionism
+Zirkonio	Zirconium
+Zodiako	Zodiac
+Zombio	Zombie
+Zoo	Zoo
+Zoologio	Zoology
+Kategorio:Zoologio	Zoology
+Zaratuŝtro	Zoroaster
+Zaratuŝtrismo	Zoroastrianism
+Zuluoj	Zulu

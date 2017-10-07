@@ -1,0 +1,5061 @@
+English	Slovak
+9 ; nine	deväť ; deväť
+AIDS	AIDS
+AOX value	AOX - hodnota
+ASEAN ; Association of Southeast Asian Nations	ASEAN
+Abidjan	Abidžan
+Abkhaz ; Abkhazian ; Abkhazian	abcházština
+Abkhazia	Abcházsko
+Adriatic Sea	Jadranské more
+Aegean Sea	Egejské more
+Afghanistan ; Transitional Islamic State of Afghanistan	Afganistan
+Africa	Afrika
+Afrikaans	Afrikánsky ; afrikánčina
+Albania ; Republic of Albania	Albánsko
+Algeria ; People's Democratic Republic of Algeria	Alžírska demokratická ľudová republika ; Alžírsko
+American Samoa	Americká Samoa
+American football ; American football	americký futbal
+Americas	Amerika
+Ames test	Amesov test
+Amsterdam	Amsterdam
+Andorra ; Principality of Andorra	Andorra
+Angola ; Republic of Angola	Angola
+Anguilla	Anguilla
+Antarctic Ocean ; Southern Ocean	Antarktický oceán
+Antarctic ecosystem	ekosystém Južného pólu
+Antarctica	Antarktída
+Antigua and Barbuda	Antigua a Barbuda
+April	apríl
+Arabic ; Standard Arabic	arabčina
+Aragonese ; Aragonese	aragónčina
+Arctic Ocean	Arktický oceán
+Arctic ecosystem	ekosystém Severného pólu
+Argentina ; Argentine Republic	Argentína
+Arizona	Arizona
+Armenia	Arménsko
+Armenian	arménčina
+Articulata	ramenonožce
+Aruba	Aruba
+Asia	Ázia
+Assamese ; Assamese	asámčina
+Astur-Leonese ; Asturian ; Asturian-Leonese ; Astur	astúrčina
+August	august
+Australia ; Commonwealth of Australia	Austrália
+Austria ; Republic of Austria	Rakúsko
+Austria-Hungary ; Austro-Hungarian Empire	Rakúsko-Uhorsko
+Azerbaijan ; Republic of Azerbaijan	Azerbajdžan
+Azerbaijani ; Azeri ; Azerbaijani Cluster	azerbajdžanština ; azerbajdžančina
+BBS ; bulletin board system	BBS ; bulletin board system
+Bahamas ; Commonwealth of the Bahamas ; Bahama Islands	Bahamy
+Bahrain	Bahrajn
+Balearic Islands	Baleáry
+Bangladesh ; People's Republic of Bangladesh	Bangladéš
+Barbados	Barbados
+Basque ; Basque	Baskičtina ; baskičtina
+Bavaria	Bavorsko
+Beijing	Peking
+Belarus ; Republic of Belarus	Bielorusko
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	bieloruština ; bieloruština ; bieloruština ; bieloruština ; bieloruština ; bielorusky ; bielorusky
+Belgium ; Kingdom of Belgium	Belgicko
+Belgrade	Belehrad
+Belize	Belize
+Belmopan	Belmopan
+Bengali ; Bengali	bengálčina
+Benin ; Benin ; Republic of Benin	Benin ; Beninská republika
+Berlin	Berlín
+Bermuda	Bermudy
+Berne	Bern
+Bethlehem	Betlehem
+Bhutan ; Kingdom of Bhutan	Bhután ; Bhutánske kráľovstvo
+Birmingham	Birmingham
+Black Sea	Čierne more
+Bokmål	bokmål
+Bolivia ; Republic of Bolivia	Bolívia
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosna a Hercegovina
+Bosnian ; Bosnian	bosniačtina
+Botswana ; Republic of Botswana	Botswana
+Bouvet Island	Bouvetov ostrov
+Bratislava	Bratislava
+Brazil	Brazília
+Breton ; Breton	bretónčina
+British Indian Ocean Territory ; BIOT	Britské indickooceánske územie
+Brunei ; Negara Brunei Darussalam	Brunej
+Bucharest	Bukurešť
+Bulgaria ; Republic of Bulgaria	Bulharsko
+Bulgarian	Bulhar
+Bulgarian ; Bulgarian	bulharčina
+Burkina Faso	Burkina Faso
+Burmese	barmčina
+Burundi ; Republic of Burundi	Burundi
+CD-ROM	CD-ROM
+CD-ROM search service	služba vyhľadávania na CD-ROM
+CFC ; chlorofluorocarbon	chlórfluóruhľovodík
+CFC and halons prohibition	zákaz freónov a halónov
+Cambodia ; Kingdom of Cambodia	Kambodža
+Cameroon ; Republic of Cameroon	Kamerun
+Canada	Kanada
+Cape Verde ; Republic of Cape Verde	Kapverdy ; Kapverdská republika
+Caribbean Area ; Caribbean	Karibská oblasť
+Caribbean Sea	Karibské more
+Caspian Sea	Kaspické more
+Castilian ; Spanish ; Spanish	španielčina
+Catalan ; Catalan	katalánčine ; katalánčina
+Cayman Islands	Kajmanie ostrovy
+Central Africa	stredná Afrika
+Central African Republic	Stredná Africká Republika
+Central America	Stredná Amerika
+Central Asia	stredná Ázia
+Chad ; Republic of Chad	Čad
+Chechen ; Chechen	čečenčina
+Chihuahua ; chihuahua	čivava
+Chile ; Republic of Chile	Čile
+Chinese	čínština
+Christmas Island	Vianočný ostrov
+Christmas tree	vianočný stromček
+Cologne	Kolín nad Rýnom
+Colombia ; Republic of Colombia	Kolumbia
+Community act	právo Európskeho spoločenstva
+Community budget	rozpočet Európskeho spoločenstva
+Community finance	finančné prostriedky Európskeho spoločenstva
+Community law	právo Európskeho spoločenstva
+Community legal system	právny systém Európskeho spoločenstva
+Community ruling	súdne rozhodnutie spoločenstva
+Comoros ; Union of the Comoros	Komory ; Spoločenstvo Komory
+Cook Islands	Cookove ostrovy
+Copenhagen	Kodaň
+Costa Rica ; Republic of Costa Rica	Kostarika ; Kostarická republika
+Court of Justice of the European Communities	Súdny dvor Európskych spoločenstiev
+Croatia ; Republic of Croatia	Chorvátsko
+Croatian ; Croation	chorvátčina
+Cuba ; Republic of Cuba	Kuba
+Cyprus ; Republic of Cyprus	Cyprus ; Cyperská republika
+Czech ; Czech	čeština
+Czech Republic ; Czechia	Česko
+DDT ; dichloro-diphenyl-trichloroethane	DDT
+DNA ; deoxyribonucleic acid	DNA
+Dakar	Dakar
+Danish	dánčina
+December	December
+Definition ; definition	definícia
+Democratic Republic of the Congo ; Congo-Kinshasa	Konžská demoratická republika ; Kongo-Kinshasa
+Denmark ; Kingdom of Denmark	Dánsko
+Djibouti ; Republic of Djibouti	Džibuti ; Džibutská republika
+Dominica ; Commonwealth of Dominica	Dominika ; Dominikánske spoločenstvo
+Dominican Republic	Dominikánska Republika
+Down syndrome ; Down’s syndrome	Downov syndróm
+Dutch	holandčina
+EC Council of Ministers	Rada ministrov ES
+EC Treaty	Zmluva o ES
+EC directive	smernica ES
+EC directive on biocides	smernica ES o biocídoch
+EC directive on waste disposal	smernica ES o zneškodňovaní odpadov
+EC directive on water protection	smernica ES o ochrane vôd
+EC ecolabel	ekoznačenie ES
+EC policy	politika ES
+EC regulation	nariadenie ES
+EC regulation on eco-management and audit	nariadenie ES o ekomanažmente a audite
+EC regulation on existing chemicals	nariadenie ES o existujúcich chemikáliách
+EIA (local)	EIA
+EIA ; environmental impact assessment	posudzovanie vplyvov na životné prostredie
+EIA directive	EIA - smernica
+EIA law	EIA - zákon
+EU ; European Union	Európska únia
+EU Council	Rada Európskej únie
+Earth-Sun relationship	vzťahy Zem-Slnko
+East Africa	východná Afrika
+East Timor ; Democratic Republic of Timor-Leste	Východný Timor ; Východotimorská demokratická republika
+East-West relations	vzťahy Východ - Západ
+East-West trade	obchod Východ - Západ
+Easter	Veľká noc
+Eastern Asia ; East Asia	východná Ázia
+Eastern Europe	východná Európa
+Ecuador ; Republic of Ecuador	Ekvádor ; Ekvádorská republika
+Egypt ; Arab Republic of Egypt	Egypt
+El Salvador ; Republic of El Salvador	Salvádor ; Salvádorská republika
+England	Anglicko
+English	anglický ; angličtina
+English garden	anglická záhrada
+Equatorial Guinea ; Republic of Equatorial Guinea	Rovníková Guinea ; Republika Rovníková Guinea
+Eritrea	Eritrea
+Esperanto ; Esperanto	esperanto
+Estonia ; Republic of Estonia	Estónsko
+Estonian	estónčina
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiópia
+Euratom	Euratom
+Europe	Európa
+European Commission	Európska komisia
+European Communities	Európske spoločenstvá
+European Court of Justice	Európsky súdny dvor
+European Environment Agency	Európska agentúra životného prostredia
+European Environmental Council	Európska rada pre životné prostredie
+European Monetary Fund	Európsky menový fond
+European Monetary System ; EMS	Európsky menový systém
+European Parliament	Európsky parlament
+European nature reserve	európska prírodná rezervácia
+European standard	európska norma
+Falkland Islands	Falklandské ostrovy
+Faroe Islands	Faerské ostrovy
+Faroese ; Faeroese	faerčina
+February	február
+Fiji ; Republic of the Fiji Islands	Fidži ; Fidžijská republika
+Finland ; Republic of Finland	Fínsko
+Finnish	fínština
+Flanders ; Flemish region	Flámsko
+France	Francúzsko
+French ; French	francúzština
+French Guiana	Francúzska Guyana
+French Polynesia	Francúzska Polynézia
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Francúzske južné a antarktické územia
+French formal garden	francúzska záhrada
+Frisian ; Western Frisian	frízština
+GDP ; gross domestic product	hrubý domáci produkt
+GDR ; German Democratic Republic	Nemecká demokratická republika
+GIS digital format	GIS digitálny formát
+GIS digital system	GIS digitálny systém
+GIS digital technique	digitálna technika GIS
+GIS laboratory	GIS laboratórium
+Gabon ; Gabonese Republic	Gabon
+Gaborone	Gaborone
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambija
+Gaza Strip	Pásmo Gazy
+Georgia	Gruzínsko
+Georgian ; Georgian	gruzínčina
+German	nemčina
+German	nemecký ; nemec ; nemec
+German	nemecký
+German (Austria)	nemčina (Rakúsko)
+German (Switzerland)	nemčina (Švajčiarsko)
+Germany ; Federal Republic of Germany	Nemecko
+Ghana ; Republic of Ghana	Ghana
+Gibraltar	Gibraltár
+Global Environment Facility ; GEF	Svetový environmentálny fond
+Greece ; Hellenic Republic	Grécko
+Greek ; Greek	gréčtina
+Greenland	Grónsko
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam ; Guam ; Guam	Guam
+Guatemala ; Republic of Guatemala	Guatemala ; Guatemalská republika
+Guinea ; Republic of Guinea	Guinea ; Guinejská republika
+Guinea-Bissau ; Republic of Guinea-Bissau	Guinea-Bissau ; Guinejsko-bissauská republika
+Gujarati ; Gujarati	gudžarátčina
+Guyana ; Republic of Guyana	Guyana ; Guyanská kooperatívna republika
+H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)	A/H5N1 ; H5N1
+Haiti ; Republic of Haiti	Haiti ; Haitská republika
+Happy New Year	šťastný nový rok
+Hebrew	Hebrejský ; hebrejčina
+Hindi ; Hindi	hindský ; hindčina
+Holland ; Kingdom of the Netherlands ; The Netherlands	Holandské kráľovstvo ; Holandsko
+Honduras ; Republic of Honduras	Honduras
+Hungarian	maďarčina
+Hungary ; Republic of Hungary	Maďarsko
+I	ja
+IMCO code	IMCO kódex
+IMF ; International Monetary Fund	Medzinárodný menový fond
+ISO standard	ISO - norma
+Iceland ; Republic of Iceland	Island
+Icelandic	islandčina
+Ido ; Ido	ido
+Iliad	Iliada
+India ; Republic of India	India ; Indická republika
+Indian Ocean	Indický oceán
+Indonesia ; Republic of Indonesia	Indonézia
+Indonesian	indonézština
+Indre	Indre
+Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin	interlingua
+International Court of Justice	Medzinárodný súdny dvor
+Internet	internet
+Iran ; Islamic Republic of Iran	Irán
+Iraq ; Republic of Iraq	Irák
+Ireland ; Republic of Ireland	Írsko
+Irish ; Irish ; Irish Gaelic ; Irish	írčina
+Islam	islám
+Isle of Man ; Isle of Mann ; Mann	Man
+Israel ; State of Israel	Izrael
+Italian ; Italian	taliančina
+Italian Republic ; Italy	Taliansko
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Pobrežie Slonoviny
+Jakarta ; Djakarta ; DKI Jakarta	Jakarta
+Jamaica	Jamajka
+January	január
+Japan ; State of Japan	Japonsko
+Japanese ; Japanese	japončina
+Javanese	jávčina
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Jordánsko
+Judaism	judovstvo
+July	júl
+June	jún
+Jupiter	Jupiter
+Kannada ; Kannada	kannadčina
+Karelian	karelčina
+Kazakh ; Kazakh	kazaština
+Kazakhstan ; Republic of Kazakhstan	Kasachstan
+Kenya ; Republic of Kenya	Keňa
+Khartoum	Chartúm
+Khmer ; Central Khmer	khmérčina
+Kiribati ; Republic of Kiribati	Kiribati
+Korean ; Korean	kórejčina
+Krakow ; Cracow	Krakov
+Kuwait ; State of Kuwait	Kuvajt ; Kuvajtský štát
+Kyrgyzstan ; Kyrgyz Republic	Kirgizsko
+Lao ; Lao	laoština
+Laos ; Lao People's Democratic Republic	Laos ; Laoská ľudovodemokratická republika
+Latin ; Latin	latinčina
+Latvia ; Republic of Latvia	Lotyšsko
+Latvian ; Latvian	lotyština
+Lausanne	Lausanne
+Lebanon ; Lebanese Republic	Libanon ; Libanonská republika
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Leningrad
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Libéria
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Líbya ; Veľká líbyjská arabská ľudová socialistická džamahírija
+Liechtenstein ; Principality of Liechtenstein	Lichtenštajnsko ; Lichtenštajnské kniežatstvo
+Limburgish ; Limburgian	limburčina
+Lithuania ; Republic of Lithuania	Litva
+Lithuanian ; Lithuanian	litovčina
+London	Londýn
+Lower House	Dolná snemovňa
+Lower Saxony	Dolné Sasko
+Luxembourg ; Grand Duchy of Luxembourg	Luxembursko ; Luxemburské veľkovojvodstvo
+Luxembourgish ; Luxemburgish ; Luxembourgian	luxemburčina
+Macedonia ; Republic of Macedonia	Macedónsko
+Macedonian ; Macedonian	macedónsky ; macedónština
+Madagascar ; Republic of Madagascar	Madagaskar ; Madagaskarská republika
+Malawi ; Republic of Malaŵi	Malawi
+Malayalam ; Malayalam	malajálamčina
+Malaysia	Malajzia
+Maldives ; Republic of the Maldives	Maledivy ; Maledivská republika
+Mali ; Republic of Mali	Mali ; Malijská republika
+Malta ; Republic of Malta	Malta
+Maltese	maltčina
+Marathi ; Marāthi ; Marāthi ; MarÄthi	maráthčina
+March	marec
+Marshall Islands ; Republic of the Marshall Islands	Marshallove ostrovy ; Republika Marshallove ostrovy
+Martinique	Martinik
+Mauritania ; Islamic Republic of Mauritania	Mauretánia ; Mauritánska islamská republika
+Mauritius ; Republic of Mauritius	Maurícius ; Maurícijská republika
+May	máj
+Mayotte	Mayotte
+Mecca	Mekka
+Mediterranean Area	oblasť Stredozemného mora
+Mediterranean Sea	Stredozemné more
+Mediterranean climate	Stredomorská klíma
+Mediterranean forest	Stredomorský les
+Mediterranean wood	Stredomorský les
+Mercury	Merkúr
+Merry Christmas	veselé vianoce
+Mexico ; United Mexican States	Mexiko
+Micronesia ; Federated States of Micronesia	Mikronézia ; Mikronézske federatívne štáty
+Milan	Miláno
+Milky Way ; Galaxy	Mliečna dráha ; Mliečna cesta
+Moldova	Moldavsko ; Moldavská republika
+Monaco	Monako
+Monday	pondelok
+Mongolia	Mongolsko
+Montenegro	Čierna Hora
+Montserrat	Montserrat
+Morocco ; Kingdom of Morocco	Maroko
+Moscow	Moskva
+Mount Fuji	Fudžisan ; Fudži
+Mozambique	Mozambik
+Munich	Mníchov
+Myanmar	Mjanmarsko
+NIMBY aptitude ; NIMBY attitude	NIMBY inteligencia
+NOEL	bezpečná hladina (s nedefinovateľným účinkom na objekt)
+Nairobi	Nairobi
+Namibia	Namíbia
+Naples	Neapol
+Nauru ; Republic of Nauru	Nauru ; Nauruská republika
+Neapolitan ; Neapolitan	neapolčina
+Nepal	Nepál
+Nepali ; Nepali	nepálčina
+Neptune	Neptún
+New Caledonia	Nová Kaledónia
+New Year ; New Year's Day	Nový rok
+New York	New York
+New Zealand	Nový Zéland
+Nicaragua	Nikaragua
+Niue	Niue
+North Africa	severná Afrika
+North America	Severná Amerika
+North Atlantic Ocean	sever Atlantického oceána
+North Korea ; Democratic People's Republic of Korea	Severná Kórea ; Kórejská ľudovodemokratická republika
+North-South relationship	Sever - Juh vzťahy
+Northern Ireland	Severné Írsko
+Norway ; Kingdom of Norway	Nórsko
+Norwegian	nórčina
+November	November
+Nynorsk	nynorsk
+Oceania	Oceánia
+October	október
+Oman ; Sultanate of Oman	Omán ; Ománsky sultanát
+Orleans	Orléans
+Oslo	Oslo
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Panama	Panama
+Papua New Guinea	Papua-Nová Guinea
+Paraguay	Paraguay
+Paris	Paríž
+Parliament	Parlament
+People's Republic of China ; China	Čína ; Čínska ľudová republika
+Persian ; Western Farsi ; Farsi	perština ; perzština
+Peru ; Republic of Peru	Peru ; Peruánska republika
+Philippines	Filipíny
+Phobos	Fobos
+Poland	Poľsko
+Polish ; Polish	poľština
+Portugal	Portugalsko
+Portuguese ; Portuguese	portugalčina
+Puerto Rico	Portoriko
+Punjabi ; Panjabi	pandžábčina
+Qatar	Katar
+Republic of the Congo ; Congo-Brazzaville	Konžská republika ; Kongo-Brazzaville
+Romania	Rumunsko
+Romanian ; Romanaian	rumunčina
+Russia ; Russian Federation	Rusko ; Ruská federácia
+Russian ; Russian	ruština
+Saint-Pierre and Miquelon	Saint Pierre a Miquelon
+Saudi Arabia ; Kingdom of Saudi Arabia	Saudská Arábia
+Saxony	Sasko
+Scotland	Škótsko
+Seine	Seina
+Senegal	Senegal
+September	September ; september
+Serbia	Srbsko
+Serbia and Montenegro	Srbsko a Čierna Hora
+Serbian ; Serbian	srbčina
+Seychelles ; Republic of Seychelles	Seychely ; Seychelská republika
+Sicilian ; Sicilian	sicílčina
+Sindhi ; Sindhi	sindhčina
+Slovak ; Slovak	slovenčina ; slovenčina ; Slovenčina
+Slovakia	Slovensko
+Slovene ; Slovenian ; Slovenian	slovinčina
+Somali ; somali	somálčina
+South Africa	Južná Afrika ; Juhoafrická republika
+South America	Južná Amerika
+South Korea ; Republic of Korea	Južná Kórea ; Kórejská Republika
+Southeast Asia	juhovýchodná Ázia
+Southern Asia ; South Asia	južná Ázia
+Spain	Španielsko
+Sri Lanka	Srí Lanka
+Sudan	Sudán
+Suriname	Surinam
+Swahili	svahilčina
+Swahili	svahilština ; swahilčina ; svahilčina
+Swedish	švédčina
+Switzerland	Švajčiarsko
+Syria ; Syrian Arab Republic	Sýria
+Tagalog	tagalčina
+Taiwan	Tchaj-wan
+Tajik	tadžičtina
+Tamil ; Tamil	tamilčina
+Tanzania	Tanzánia
+Tatar ; Tatar	tatárčina
+Telugu ; Telugu	telugčina
+Tennessee	Tennessee
+Thai ; Thai	thajčina
+Thailand	Thajsko
+The Hague	Haag
+Thuringia	Durínsko
+Togo	Togo
+Tswana	tswanština
+Turkey	Turecko
+Turkish ; Turkish	Turecký ; turečtina
+UN ; United Nations	Organizácia Spojených národov
+Uganda ; Republic of Uganda	Uganda
+Ukrainian ; Ukrainian	ukrajinčina
+United Arab Emirates	Spojené Arabské Emiráty
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Spojené kráľovstvo Veľkej Británie a Severného Írska ; Spojené kráľovstvo
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Spojené štáty americké ; Spojené štáty
+Urdu ; Urdu	urdčina
+Vaduz	Vaduz
+Vatican City ; The Holy See ; State of the Vatican City	Vatikán
+Venezuela	Venezuela
+Venice	Benátky
+Venus	Venuša
+Vienna	Viedeň
+Vietnamese ; Vietnamese	vietnamčina
+Volapük	volapük
+Wales	Wales
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Wallis a Futuna
+Walloon ; Walloon	valónčina
+Western Asia ; Southwest Asia	západná Ázia
+Western Europe	západná Európa
+Wikipedia	Wikipédia
+Wiktionary	Wikislovník
+World Wide Web ; WWW	World Wide Web
+Xhosa	xosa
+Yemen ; Republic of Yemen	Jemen ; Jemenská republika
+Yiddish	jidiš
+Yugoslavia	Juhoslávia
+Zambia ; Republic of Zambia	Zambia ; Zambijská republika
+Zanzibar	Zanzibar
+Zimbabwe ; Republic of Zimbabwe	Zimbabwe
+Zulu	zulu ; zuluština
+aback	zarazený
+abandoned industrial site	opustené miesto
+abandoned vehicle ; car wreck	opustené vozidlo
+abasement	poníženie
+abbreviation	abreviatura ; skrátenie
+abhor ; loathe ; detest	nenávidieť
+abiotic environment	abiotické prostredie
+abiotic factor	abiotický faktor
+abolitionist	abolicionista
+abortive	neúspešný
+abrasive	abrazívny
+abridge	skrátiť
+abscess	absces
+absolutely	absolútne
+absorption	absorpcia
+acceptable daily intake	prijateľný denný príjem
+acceptable risk level	prijateľná úroveň rizika
+acceptance ; credence	príjem
+access road	prístupová cesta
+access to administrative documents	prístup k úradným dokumentom
+access to culture	prístup ku kultúre
+access to information	prístup k informáciám
+access to the courts	prístup k súdom
+accident	havária ; nehoda
+accident source ; cause of the accident	zdroj havárie
+accidental release of organisms	havárijný únik organizmov
+accordion ; squeeze box ; piano accordion	harmonika
+accountancy	účtovníctvo
+accounting	účtovná evidencia
+accounting system	účtovný systém
+accumulator	akumulátor
+acid	kyselina
+acid deposition	kyslá depozícia
+acid rain	kyslý dážď
+acidification	acidifikácia
+acidity	acidita
+acidity degree	stupeň acidity
+acne	akné
+acoustic comfort	pohoda prostredia akustická
+acoustic filter ; audio filter	akustický filter
+acoustic insulation	akustická izolácia
+acoustic level ; sound pressure level	akustická hladina
+acoustic property	akustické vlastnosti
+acoustical quality	akustická kvalita
+acoustics	akustika
+acquisition	akvizícia
+acrid	štipľavý
+act ; deed	čin
+actinide	rádioaktívne prvky
+actinium	aktinoidy
+action group ; action committee	akčná skupina
+activated carbon	aktívne uhlie
+activated sludge	aktivovaný kal
+active participation	aktívna účasť
+active population	aktívna populácia
+activist	aktivista
+adaptation period	doba adaptácie
+add	spocítat
+addition	adícia
+additional packaging	dodatočný obal
+additive	prísada
+adequate food supply	dostatočné zásobovanie potravinami
+adhesive	lep ; lepidlo
+adjective ; describing word	prídavné meno
+administration ; direction ; management	administratíva ; správa
+administrative body ; administrative organ	správny úrad
+administrative boundary	administratívna hranica
+administrative competence ; administrative ability	úradné kompetencie
+administrative deed	úradný akt
+administrative fiat	úradný predpis
+administrative instructions	úradný pokyn
+administrative law	správne právo
+administrative occupation	úradná funkcia
+administrative organisation	úradná organizácia
+administrative procedure	úradná procedúra
+administrative sanction	úradná sankcia
+adsorption	adsorpcia
+adult	dospelí
+adult education	vzdelávanie dospelých
+advance	záloha
+adventure	dobrodružstvo
+adverb	príslovka
+advertisement ; promotion	reklama
+advice	oznámenie
+aeration	aerácia
+aerial	anténa
+aerial photograph	letecká snímka
+aerial photography	letecké snímkovanie
+aerobic process	aeróbny proces
+aerobic treatment	aeróbna úprava
+aerobiology	aerobiológia
+aerodynamic noise	aerodynamický hluk
+aeroplane ; bird ; plane	lietadlo
+aerosol	aerosól
+aesthetics	estetika
+afforestation ; tree planting ; afforestment	zalesňovanie
+afterburning ; afterburning ; afterburner	prídavné spaľovanie
+age	vek
+aggressive	agresívny
+aggressor ; assailant ; attacker ; assaulter	útočník
+agreement	zmluva
+agreement	súhlas
+agreement	dohoda
+agri-foodstuff	poľnohospodárske potraviny
+agricultural biotechnology	poľnohospodárska biotechnológia
+agricultural building	poľnohospodárska budova
+agricultural disaster	poľnohospodárska katastrofa
+agricultural ecology ; agroecology	poľnohospodárska ekológia
+agricultural economics	poľnohospodárska ekonómia
+agricultural effluent	poľnohospodárske odpadové vody
+agricultural engineering	poľnohospodárske inžinierstvo
+agricultural equipment	poľnohospodárske zariadenie
+agricultural equipment ; agricultural machinery ; farm machinery	poľnohospodárske stroje ; poľnohospodárske zariadenie
+agricultural exploitation	poľnohospodárske využívanie
+agricultural hydraulics	poľnohospodárska hydraulika
+agricultural land	poľnohospodárska pôda
+agricultural landscape	poľnohospodárska krajina
+agricultural legislation	poľnohospodárska legislatíva
+agricultural management	poľnohospodársky manažment
+agricultural method	poľnohospodárska metóda
+agricultural pest	poľnohospodársky škodca
+agricultural planning	poľnohospodárske plánovanie
+agricultural policy	poľnohospodárska politika
+agricultural pollution	poľnohospodárske znečistenie
+agricultural product	poľnohospodársky produkt
+agricultural production ; farm production ; agricultural output	poľnohospodárska produkcia
+agricultural real estate	poľnohospodárska nehnuteľnosť
+agricultural storage	poľnohospodárske skladovanie
+agricultural structure	poľnohospodárska štruktúra
+agricultural undervaluation	poľnohospodárske podhodnotenie
+agricultural waste	poľnohospodársky odpad
+agriculture	pôdohospodárstvo ; poľnohospodárstvo
+agriculture ; agriculture	pôdohospodárstvo ; pôdohospodárstvo ; poľnohospodárstvo ; poľnohospodárstvo
+agriculture and cattle industry	rastlinná a živočíšna výroba
+agriculture framework plan	rámcový plán poľnohospodárstva
+agritourism	agroturistika
+agrochemical	agrochemikálie
+agroforestry	agrárne lesníctvo
+agroindustry	agrárny priemysel
+agrometeorology	poľnohospodárska meteorológia
+agronomic value	poľnohospodárska hodnota
+agronomy	agronómia
+agrosystem	agroekosystém
+aid policy	politika pomoci
+air	ovzdušie ; vzduch
+air conditioning ; AC ; air-conditioning	klimatizácia
+air movement	prúdenie vzduchu
+air pollutant	látka znečisťujúca ovzdušie
+air pollution	znečisťovanie ovzdušia
+air quality	kvalita ovzdušia
+air quality control	sledovanie kvality ovzdušia
+air quality management	riadenie kvality ovzdušia
+air quality monitoring	kontrola kvality vzduchu
+air sac ; alveolus	alveola
+air safety	vzdušná bezpečnosť
+air temperature	teplota vzduchu
+air traffic	letecká doprava
+air traffic law	zákon o leteckej doprave
+air transportation	letecká doprava
+air-water interaction	interakcia vzduch - voda
+airborne noise	hluk nesený vzduchom
+aircraft	lietadlo
+aircraft noise	hluk spôsobený leteckou dopravou
+airmail	letecká pošta
+airport	letisko
+airspace planning	plánovanie vzdušného priestoru
+alarm ; alert ; warning	poplach
+alchemist	alchymista
+alchemy	alchýmia
+alcohol	alkohol
+alcoholism	alkoholizmus
+alga	riasy
+algal bloom	vodný kvet
+algicide ; algaecide	algicíd
+alibi	alibi
+alicyclic compound	alicyklická zlúčenina
+alicyclic hydrocarbon	alicyklický uhľovodík
+alignment	vyrovnanie
+aliphatic compound	alifatická zlúčenina
+aliphatic hydrocarbon	alifatický uhľovodík
+alkali soil	alkalická pôda
+alkaline ; element of group I ; alkaline metal ; alkali metal	chemické prvky skupiny I
+alkaline battery	alkalická batéria
+alkane ; paraffin ; methane series ; alkane series	alkány
+alkyl compound	alkylická zlúčenina
+all-terrain vehicle	terénne vozidlo
+allergen	alergén
+allergy	alergia
+allocation ; allotment ; resource allotment	alokácia
+allocation plan	plán alokácie
+allotropy	alotropia
+allowance	finančný príspevok
+alloy	zliatina
+alluvial plain	náplavová rovina
+alluvion ; flood ; overflowing ; inundation	zaplavenie
+almanac	almanach
+almost	takmer ; skoro ; bezmála ; temer
+alongside ; amongst ; with	s ; spolu s
+alpha radiation	žiarenie alfa
+alphabet	abeceda
+alternative material	alternatívny materiál
+alternative technology	alternatívna technológia
+altitude	výška
+alumina	oxid hlinitý
+aluminium	hliník ; hlinník
+aluminium container	hliníková nádoba
+aluminium content	obsah hliníka
+aluminium industry	priemysel hliníka
+amalgam	amalgám
+ambassador	vyslanec
+amber	jantár
+ambitious	ambiciózny
+ambulance	mbulancia
+amethyst	ametyst
+amine	amín
+amino acid	aminokyselina
+ammonia	amoniak
+ammonification	amonifikácia
+ammonium	amoniakálny ión
+amphibian	obojživelníky
+amphitheatre	amfiteáter
+amusement park	zábavný park
+anaerobic process	anaeróbny proces
+anaerobic treatment	anaeróbna úprava
+analogous	analogický
+analysis	analýza
+analysis programme	plán analýzy
+analytical chemistry	analytická chémia
+analytical equipment	analytické zariadenie
+analytical method	analytická metóda
+anarchism	anarchizmus
+anarchy	anarchia
+anatomy	anatómia
+anchor	kotva
+and	a
+and ; as well as ; in addition to ; together with ; too	a ; aj ; i ; tiež
+angiosperm ; flowering plant	krytosemenné rastliny ; kvitnúce rastliny
+angling ; fishing ; line-fishing	rybolov
+animal	živočích
+animal behaviour	správanie živočíchov
+animal biology	biológia živočíchov
+animal conservatory	živočíšna rezervácia
+animal corridor	koridor pre živočíchov
+animal damage	škody spôsobené živočíchmi
+animal disease	choroby živočíchov
+animal displacement	premiestnenie živočíchov
+animal ecology	ekológia živočíchov
+animal excrement	exkrementy živočíchov
+animal experiment	výskum živočíchov
+animal foodstuff	potrava živočíchov
+animal for slaughter	jatočné zvieratá
+animal habitat	habitat živočíchov
+animal heritage	dedičstvo živočíchov
+animal husbandry	živočíšna výroba
+animal manure	živočíšne hnojivo
+animal migration	migrácia živočíchov
+animal noise	zvuky živočíchov
+animal nutrition	výživa živočíchov
+animal physiology	fyziológia živočíchov
+animal population	populácia živočíchov
+animal product	živočíšny produkt
+animal production	živočíšna produkcia
+animal protection	ochrana živočíchov
+animal reproduction	rozmnožovanie živočíchov
+animal resource	živočíšne zdroje
+animal rights	práva živočíchov
+animal shelter	úkryt živočícha
+animal species	živočíšne druhy
+animal species reintroduction	reitrondukcia živočíšnych druhov
+animal trade	obchod so živočíchmi
+animal waste	živočíšny odpad
+anime	anime
+anion	anión
+anise	aníz
+annelid	obrúčkavce
+anniversary	výroèie
+ant	mravec
+antagonism	antagonizmus
+antelope	antilopa
+anthropic activity	ľudská činnosť
+anthropologic reserve	pamiatková rezervácia
+anthropologist	antropológ
+anthropology	antropológia
+antibiotic	antibiotikum
+antibody	antigén
+anticipation of danger	predchádzanie nebezpečenstva
+antifouling agent	antivegetatívny prostriedok
+antimony	antimón
+antiparticle	antièastica
+antipollution incentive	podnet proti znečisťovaniu
+antiquated plant	staré zariadenie
+antiseismic regulation	antiseizmická regulácia
+antithesis	antitéza
+antonym	antonymum
+apartheid	apartheid
+apartment block	činžovný dom
+apathy	apatia
+aphorism	aforizmus
+apiculture ; beekeeping	včelárstvo
+apoptosis	apoptóza
+apostle	apoštol
+appeal	odvolanie
+appeal procedure	odvolacie konanie
+apple	jablko
+apple ; apple tree	jabloň
+applied ecology	aplikovaná ekológia
+applied nutrition	aplikovaná výživa
+applied research	aplikovaný výskum
+applied science	aplikované vedy
+appraisal	ocenenie
+approach	prístup
+appropriate technology	vhodná technológia
+approval ; approbation	schválenie
+approval of installations	schválenie zariadení
+aquaculture	akvakultúra
+aquarium	akvárium
+aquatic animal	vodný živočích
+aquatic ecology	vodná ekológia
+aquatic ecosystem	vodný ekosystém
+aquatic environment	vodné prostredie
+aquatic mammal	vodný cicavec
+aquatic organism	vodný organizmus
+aquatic plant	vodná rastlina
+aqueduct	akvadukt
+aquifer	vodonosná vrstva
+arable farming	hospodárenie na pôde
+arboretum	arborétum
+arboriculture	pestovanie stromov
+archaeological	archeologický
+archaeological site	archeologická lokalita
+archaeology ; archeology ; archæology	archeológia
+archbishop	arcibiskup
+archduke	arcivojvoda
+archeologist ; archaeologist	archeológ
+archetype	archetyp
+archipelago	archipelago
+architecture	architektúra
+archive	archív
+area of potential pollution	oblasť potenciálneho znečistenia
+area under stress	oblasť ohrozená antropickým tlakom
+argon	argón
+arid land	arídna oblasť
+aristocracy	aristokracia
+arithmetic ; arithmetics	aritmetika
+arm	rameno
+armament	zbrojenie
+armament conversion	konverzia zbrojenia
+armed forces	ozbrojené sily
+armoury	arzenál
+armpit	podpazušie
+aromatic compound	aromatická zlúčenina
+aromatic hydrocarbon	aromatický uhľovodík
+aromatic substance	aromatická látka
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	prispôsobiť
+arrangement for a deposit on packaging	zálohovanie obalov
+arrival	príchod
+arrowhead	hrot šípu
+arsenic	arzén
+arson	podpaľačstvo
+art	umenie
+artful	prefíkaný
+arthritis	artritída
+arthropod	článkonožce
+artichoke	artièoka
+article	článok
+artificial lake	umelé jazero
+artificial reproductive technique	technika umelej reprodukcie
+artificial satellite	umelá družica
+asbestos	azbesty
+asbestos cement	azbestový cement
+asbestosis	azbestóza
+ascendancy	nadvláda
+ascent	výstup
+ascent	svah
+ascertain	zistiť
+ascetic	askéta
+ash	popol
+ashamed	zahanbený
+ashen	bledý
+ashore	na breh
+ashtray	popolník
+asleep	spiaci
+asparagus	asparágus
+asphalt	asfalt
+aspiration	ašpirácia
+aspirin	aspirín
+assay	analýza
+assemble ; get together ; gather	zvolať
+assent	súhlas
+assent	súhlasiť
+assert	tvrdiť
+assert	trvať na
+assertive	sebavedomý
+assign	určiť
+assignment	úloha
+assimilate	asimilovať
+assimilation	asimilácia
+assist	asistovať
+association	združenie
+assorted	zmiešaný
+assumption ; supposition	predpoklad
+astatine	astát
+asterisk	hviezdička
+asthenosphere	astenosféra
+asthma	astma
+astonish	udiviť
+astonishing	udivujúci
+astonishment	údiv
+astound	ohromiť
+astounding	ohromujúci
+astride	obkročmo
+astride	rozkročene
+astrologer	astrológ
+astrology ; star divination	astrológia
+astrometry	astrometria
+astronautics	astronautika
+astronomer	astronóm
+astronomy	astronómia
+asymmetric ; asymmetrical	asymetrický
+asymptote	asymptota
+atlas	atlas
+atmosphere	atmosféra
+atmospheric aerosol	atmosferický aerosól
+atmospheric chemistry	chémia atmosféry
+atmospheric circulation	atmosferická cirkulácia
+atmospheric component	zložky atmosféry
+atmospheric composition	zloženie atmosféry
+atmospheric correction	atmosferická korekcia
+atmospheric emission	atmosferické emisie
+atmospheric fallout	atmosférický spád
+atmospheric layering	vrstevnatosť atmosféry
+atmospheric monitoring	monitoring atmosféry
+atmospheric ozone	atmosferický ozón
+atmospheric particulate	atmosferická častica
+atmospheric physics	fyzika atmosféry
+atmospheric pollution	znečistenie atmosféry
+atmospheric precipitation ; precipitation	atmosferické zrážky
+atmospheric process	atmosferické procesy
+atmospheric science	vedy študujúce atmosféru
+atmospheric structure	skladba atmosféry
+atom	atóm
+atractive	príťažlivý
+atrazine	atrazín
+atrocity	ukrutnosť
+attached	oddaný
+attachment	náklonnosť
+attachment	príslušenstvo
+attain	dosiahnuť
+attend	ošetrovať
+attend	chodiť
+attend	dávať pozor
+attend	zaoberať sa
+attendant	dozorca
+attentive	pozorný
+attic	manzardka
+attire	odev
+attire	obliecť
+attitude	poloha
+attract	priťahovať
+attribute	vlastnosť
+audacious	odvážny
+audio-visual presentation	audiovizuálna prezentácia
+audiovisual equipment	audiovizuálne zariadenie
+audiovisual media	audiovizuálne masmédium
+audit	audit
+augment	zvýšiť
+auspicious	nádejný
+authorisation	oprávnenie
+authoritarian	autoritatívny
+authoritative	smerodajný
+authority body	úrad
+authorship	autorstvo
+autocracy	samovláda
+autoecology	autekológia
+automobile industry	automobilový priemysel
+autopsy	pitva
+autumn	jeseň
+avalanche	lavína
+avalanche protection	ochrana proti lavínam
+avaricious	chtivý
+avert	zabrániť
+avert	odvrátiť
+aviary	voliéra
+aviation law	zákon o letectve
+aviculture	chov vtáctva
+avid	dychtivý
+avifauna	avifauna
+awe	bázeň
+awhile	na chvíľku
+axiom	axióma
+aye ; yeah ; yep ; yes	áno
+baboon	pavián
+background level	prirodzená hladina pozadia
+background noise	hluk pozadia
+background radiation	žiarenie pozadia
+bacon	slanina
+bacterial bed	biologický filter
+bactericide	baktericíd
+bacteriological pollution	bakteriologické znečistenie
+bacteriology	bakteriológia
+bacterium	baktérie
+baking powder	prášok do pečiva
+balance	bilancia ; ekonomická bilancia
+balance of matter	bilancia hmoty
+balancing of interests	vyvažovanie záujmov
+ballroom	tanečná sála
+banana	banán
+bank	násyp ; násyp ; breh
+bank protection	spevňovanie brehov
+banking	bankovníctvo
+bankruptcy	bankrot
+barium	bárium
+barley	jačmeň
+barometer	barometer
+baron	barón
+barrier beach	bariérová pláž
+barrier reef	bariérový útes
+base	báza ; zásada
+baseball ; baseball game	bejzbal
+baseline monitoring	monitorovanie pozadia
+basement	suterén
+basic food requirement	základná potreba potravy
+basicity	zásaditosť
+basidiomycete	vreckaté huby
+basketball ; basketball game	basket ; basketbal
+bastardisation of fauna	kríženie fauny
+bastardisation of flora	kríženie flóry
+batch process	prerušovaný (diskontinuitný) proces
+bathing freshwater	voda na kúpanie (sladká)
+bathing seawater	voda na kúpanie (morská)
+bathing water	voda na kúpanie
+battery	batéria
+battery disposal	nakladanie s batériami
+bay	zátoka
+beach	pláž
+beach cleansing	čistenie pláže
+bean ; edible bean	fazul’a ; bôbovité
+bear	medveď
+beatification	blahoreèenie
+beaver	bobor
+bed	posteľ
+bee	včely
+bee conservation	ochrana včiel
+beef cattle	hovädzí dobytok
+beekeeper ; apiculturist	vèelár
+beer	pivo
+beetle	chrobáky
+behaviour	správanie
+behaviour of substances	reaktivita látok
+behaviour pattern	vzorec chovania
+behavioural science	vedy o chovaní sa organizmov
+beneficial organism	užitočný organizmus
+benthic division	bentická oblasť
+benthos	bentos
+benzene	benzén
+benzopyrene	benzopyrén
+berkelium	berkélium
+beryllium ; glucinium	berýlium
+beta radiation	žiarenie beta
+better	lepšie ; lepšie ; lepší
+between	medzi
+beverage ; drink	nápoj
+beverage industry	výroba nápojov
+bibliographic information	bibliografická informácia
+bibliographic information system	bibliografický informačný systém
+bibliography	bibliografia
+bicycle ; bike ; cycle	bicykel
+big ; large	veľký ; veľký ; veľká ; veľké
+big game	vysoká zver
+bilateral	bilaterálny
+bilateral convention	bilaterálna konvencia
+bile	žlč
+bilge oil	dnový olej
+bilge water	dnová voda
+binary star	dvojhviezda
+bio-availability	biologická dostupnosť
+bioaccumulation	bioakumulácia
+bioaccumulative pollutant	biokumulatívny polutant
+biochemical method	biochemická metóda
+biochemical oxygen demand	biochemická spotreba kyslíka
+biochemical process	biochemické procesy ; chemický dej ; biochemický dej ; biochemický proces
+biochemical substance	biochemické látky
+biochemistry	biochémia
+biocide	biocíd
+bioclimatology	bioklimatológia
+biocoenosis	biocenóza
+bioconcentration factor	faktor biokoncentrácie
+biodegradability	biodegradabilita
+biodegradable pollutant	biologicky rozložiteľná znečisťujúca látka
+biodegradation	biodegradácia
+biodiversity	biodiverzita
+bioethics	bioetika
+biofiltration	biologická filtrácia
+biofuel	biopalivo
+biogas	bioplyn
+biogeochemical cycle	biogeochemický cyklus
+biogeographical region	biogeografické regióny
+biogeography	biogeografia
+biological analysis	biologická analýza
+biological attribute	biologická vlastnosť
+biological contamination	biologická kontaminácia
+biological cycle	biologický cyklus
+biological development	biologický vývoj
+biological effect	biologický jav / vplyv / účinok
+biological effect of pollution	biologický vplyv znečistenia
+biological engineering	bioinžinierstvo
+biological heritage	biologické dedičstvo
+biological indicator	bioindikátor
+biological monitoring	biomonitoring
+biological pest control	biologická kontrola
+biological pollutant	biologická znečisťujúca látka
+biological pollution	biologické znečistenie
+biological process	biologické procesy
+biological production	biologická produkcia
+biological reserve ; wildlife reserve	prírodná rezervácia
+biological resource	biologické zdroje (biofond)
+biological test	biotest
+biological treatment	biologické čistenie
+biological waste gas purification	biologické čistenie odpadového plynu
+biological waste treatment	biologická úprava odpadu
+biological wastewater treatment	biologické čistenie odpadových vôd
+biological water balance	biologická vodná bilancia
+biological weapon	biologická zbraň
+biology ; biological science	biológia
+bioluminescence	bioluminiscencia
+biomarker	referenčná látka
+biomass	biomasa
+biomass energy	energia biomasy
+biome	bióm
+biophysics	biofyzika
+bioreactor	bioreaktor
+biorhythm	biorytmus
+biosafety	biologická bezpečnosť
+biosphere	biosféra
+biosphere reserve	biosférická rezervácia
+biosynthesis	biosyntéza
+biotechnological hazard	biotechnologické riziko
+biotechnology	biotechnológia
+biotic factor	biotický faktor
+biotic index	biotický index
+biotope	biotop
+biotope network	sieť biotopu
+biotope order	usporiadanie biotopu
+biotope protection	ochrana biotopu
+bird	vták
+bird of prey	dravec
+bird sanctuary	vtáčia rezervácia
+bird species	vtáčí druh
+birth ; birth ; birth ; childbirth ; childbirth ; childbirth ; parturition	narodenie ; pôrod
+birth control	kontrola pôrodnosti ; kontracepcia
+birthday	narodeniny
+bishop	biskup
+bismuth	bismut
+bitumen	bitúmen
+black	čierny
+black ; dark	tmavý
+black coal ; black coal ; black coal ; anthracite coal	čierne uhlie
+blackbird	drozd
+blast furnace	vysoká pec
+bleaching agent	bieliace činidlo
+bleaching clay	odfarbovací íl
+bleaching process	proces bielenia
+blind	slepý
+blog ; weblog ; web log	weblog
+blood	krv
+blood plasma	krvná plazma
+blue	modrý ; belasý
+blue-green alga ; cyanobacteria	sinice
+boat	loď ; loď ; čln
+boating	člnkovanie
+bocage	lúčna krajina s lesíkmi a živými plotmi
+bog	rašelinisko
+bohrium	bohrium
+boiler	kotol
+boiling point	bod varu
+book	kniha
+bookkeeping	účtovníctvo
+border	hranica
+boron	bór
+botanical conservatory	botanický skleník
+botanical garden	botanická záhrada
+botany	botanika
+botany ; phytology	botanika
+bottle cap	uzáver fľaše
+boundary	hranica
+boundary crossing	prekročenie hranice
+boundary layer	hraničná vrstva
+bow	luk
+boy	chlapec ; mladík
+brackish water	brakická voda
+branch	vetvenie ; vetva ; konár
+branch of activity	odvetvie činnosti
+bread	chlieb
+breakfast	raňajky
+breast milk	materské mlieko
+breeding	šľachtenie
+breeding bird	vták starajúci sa o mláďatá
+breeding technique	metóda chovu / pestovania / šľachtenia
+brick	tehla
+bridge	most
+bring	priniesť
+broad-leaved tree	listnatá drevina
+broader term ; broader terms ; hypernym ; holonym	širšie významy ; hyperonymum
+bromine	bróm
+brooding	umelý odchov
+brook	potok
+brushwood	krovitý les
+bryophyte	machorasty
+bubble policy (emissions trading) ; bubble policy	bubble policy  (obchodovateľné emisné povolenia) ; bubble policy
+budget	rozpočet
+budget policy	rozpočtová politika
+bug ; põrnikas	ploštice
+building	budova ; výstavba
+building area	zastavaná plocha
+building component	stavebný komponent
+building destruction	zničenie budovy
+building industry	stavebný priemysel
+building land	stavebný pozemok
+building material	stavebný materiál
+building materials industry	priemysel stavebných hmôt
+building permit	stavebné povolenie
+building planning	stavebné plánovanie
+building regulation	stavebný predpis
+building related illness ; sick building syndrome	sick building syndrome
+building restoration	rekonštrukcia budov
+building service	stavebný servis
+building site	stavenisko
+building site preparation	príprava staveniska
+building technology	stavebná technológia
+building waste	stavebný odpad
+built drainage system	umelá odvodňovacia sústava
+built environment	prostredie budované človekom
+built structure	stavebná konštrukcia
+built-up area	zastavaná oblasť
+bulb cultivation	pestovanie cibúľ
+bulky waste	veľkorozmerný odpad
+bureaucracy	byrokracia
+bureaucratisation	byrokratizácia
+bus ; coach	autobus
+bus station	autobusová stanica
+bush clearing	presvetľovanie
+business	komerčné aktivity ; podnikanie ; biznis
+business activity	podnikanie
+business classification	klasifikácia ekonomických činností
+business economics	podnikové hospodárstvo
+business organisation	obchodná organizácia
+business policy	obchodná politika
+butcher	mäsiar
+butter	maslo
+butterfly	motýle
+button ; clit ; clitoris	dráždec ; klitoris
+button-cell battery	batéria (do hodiniek)
+buy ; purchase	kúpiť
+buy ; purchase	kúpa ; akvizícia
+by-catch	vedľajší úlovok
+by-product	vedľajší produkt
+cable	kábel
+cadmium	kadmium
+caesium	cézium
+caffeine	kofeín
+calcium	vápnik
+calcium content	obsah vápnika
+calculation	kalkulácia
+calculation method	metóda kalkulácie
+calibration	kalibrácia
+californium	kalifornium
+calligraphy	krasopis
+camel	ťava
+camouflage	kamufláž
+camp ; military camp ; army camp ; campsite	tábor
+camping ; camping ground	táborenie
+camping site	kemping
+canal	kanál
+canal lock	plavebná komora
+cancer	rakovina
+cancer risk	riziko rakoviny
+candle	sviečka
+canid	psovité
+canyon	kaňon
+car ; automobile	auto ; automobil
+car park	parkovisko
+car tyre	pneumatika
+carbohydrate	sacharid
+carbon	uhlík
+carbon dioxide	oxid uhličitý
+carbon dioxide tax	CO2 - daň
+carbon monoxide	oxid uhoľnatý
+carbonate	uhličitan
+carcass disposal	nakladanie s telami zvierat
+carcinogen	karcinogén
+carcinogenicity	karcinogenita
+carcinogenicity test	test karcinogenity
+cardiology	kardiológia
+cardiovascular disease	kardiovaskulárne ochorenie
+cardiovascular system	kardiovaskulárny systém
+carnivore	mäsožravce
+carpet	koberec
+carry-over effect	vplyv prenosu
+cartography	kartografia
+case ; lawsuit ; trial	súdny proces
+cash crop	trhová plodina
+cat	mačka
+catalysis	katalýza
+catalyst	katalyzátor
+catalytic converter	katalyzátor výfukových plynov
+catastrophe	katastrofa
+catch yield	úlovok
+catchment	povodie
+catchment area	plocha povodia
+category of endangered species	kategória ohrozených druhov
+cation	katión
+cattle	hovädzí dobytok
+cauliflower	karfiol
+cause-effect relation	vzťah príčina - následok
+cave	jaskyňa
+caviar	kaviár
+cell ; cell	bunka ; bunka
+cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο	článok ; galvanický článok
+cellulose	celulóza
+cellulose industry	priemysel celulózy
+cement	cement
+cement industry	cementársky priemysel
+cement manufacture	výroba cementu
+census survey	sčítanie ľudu
+central government	centrálne riadenie
+central park area	jadro rezervácie
+centralisation	centralizácia
+centrifugation	odstreďovanie
+cephalopod	hlavonožce
+ceramics	keramika
+ceramics industry	keramický priemysel
+cerium	cér
+certification	osvedčenie
+cetacean	Cetacea - veľryby
+chair	stolička
+chalk	krieda
+change in value	zmena hodnoty
+channelling	kanalizovanie
+chaos theory	teória chaosu
+chapter	kapitola
+characteristic	charakteristický
+charcoal	drevené uhlie
+chart	charta
+chart ; nautical chart	námorná mapa
+cheese	syr
+chelicerate	klepietkavce
+chemical	chemikália
+chemical addition	adícia
+chemical analysis	chemická analýza
+chemical composition	chemické zloženie
+chemical contamination	chemická kontaminácia
+chemical corrosivity	chemická korodovateľnosť
+chemical decontamination	chemická dekontaminácia
+chemical element ; element	chemický prvok
+chemical fallout	chemický spád
+chemical fertiliser	umelé hnojivo
+chemical in the environment	chemikálie v prostredí
+chemical industry	chemický priemysel
+chemical installation	chemické zariadenie
+chemical measurement of pollution	meranie chemického znečistenia
+chemical oxygen demand	chemická spotreba kyslíka
+chemical pest control	chemická ochrana proti škodcom
+chemical plant	chemický závod
+chemical policy	chemická politika
+chemical pollutant	chemický polutant
+chemical pollution	chemické znečistenie
+chemical process	chemický proces
+chemical product	chemický produkt
+chemical property	chemické vlastnosti
+chemical reaction	chemické reakcie
+chemical reduction	chemická redukcia
+chemical risk	chemické riziko
+chemical structure	chemická štruktúra
+chemical treatment	chemická úprava
+chemical waste	chemický odpad
+chemical weapon	chemická zbraň
+chemicals act	zákon o chemikáliách
+chemisorption	chemisorpcia
+chemist's ; chemist's shop ; pharmacy	lekáren
+chemistry	chémia
+cherry	čerešňa
+chess	šach
+chestnut	gaštan
+chicken	sliepka
+child	dieťa
+chimney	komín
+chimney height	výška komínu
+chimpanzee	šimpanz
+chipmunk	burunduk ; čipmunk
+chiropteran	netopiere
+chloride	chlorid
+chlorinated hydrocarbon	chlórovaný uhľovodík
+chlorination	chlórovanie
+chlorine	chlór
+chlorophenol	chlórfenol
+chlorophyll	chlorofyl
+chlorosis	chloróza
+chocolate	čokoláda
+cholesterol	cholesterol
+chordate	chordáty
+chorology	chorológia
+chromatographic analysis	chromatografická analýza
+chromatography	chromatografia
+chromium	chróm
+chrysophyta	žltohnedé riasy
+church	kostol
+cigarette	cigareta
+cinematographic film	kinematografický film
+circular mail	obežník
+citizen	občan
+citizen awareness	občianske povedomie
+citizen initiative	občianska iniciatíva
+citizen rights	občianske práva
+city	mesto
+city centre	centrum mesta ; stred mesta
+civil air traffic	civilná letecká doprava
+civil engineering	stavebníctvo
+civil law	občianske právo
+civil safety	civilná bezpečnosť
+civilian protection	ochrana občanov
+claim for restitution	nárok na náhradu
+clarinet	klarinet
+classification	klasifikácia
+clay	íl
+clean air area	oblasť s čistým ovzduším
+clean air car	ekologické vozidlo
+clean technology	technológia čistenia
+cleaning up	(o)čistenie
+cleanliness	čistota
+cleansing department	čistenie mesta
+clearing sludge	vyčistený kal
+cliff	zrub
+climate	klíma
+climate protection	ochrana klímy
+climate resource	klimatické zdroje
+climate type	podnebný typ
+climatic alteration	vývoj klímy
+climatic change ; climate change	klimatická zmena
+climatic effect	klimatický vplyv
+climatic experiment	klimatický pokus
+climatic zone	podnebné pásmo
+climatology	klimatológia
+climax	klimax
+climbing plant (wall) ; climbing plant	popínavá rastlina
+clinical symptom	klinický príznak
+cloning	vegetatívne rozmnožovanie
+closing down	zastavenie (činnosti) ; zastavenie
+closing down of firm	zavretie podniku
+clothing ; apparel	odevy
+clothing industry	odevný priemysel
+cloud	oblak
+co-incineration	spoločné spaľovanie
+co-operation	spolupráca
+co-operation policy	politika spolupráce
+co-operation principle	princíp spolupráce
+co-ordinate system	koordinačný systém
+co-ordination	koordinácia
+coagulation	koagulácia
+coal	uhlie
+coal industry	uhoľný priemysel
+coal liquefaction	skvapalňovanie uhlia
+coal mining	ťažba uhlia
+coal refining	úprava uhlia
+coal technology	uhoľná technológia
+coal-based energy	energia zo spaľovania uhlia
+coal-fired power plant	uhoľná tepelná elektráreň
+coast	pobrežie
+coast protection	ochrana pobreží
+coastal area	pobrežná oblasť
+coastal development	vývoj pobrežia
+coastal ecosystem	pobrežný ekosystém
+coastal environment	pobrežné prostredie
+coastal fishing	pobrežný rybolov
+coastal pollution	pobrežné znečistenie
+coastal water	pobrežná voda
+coastal zone planning	plánovanie pobrežnej zóny
+coastguard	pobrežná hliadka
+coating	ochranná vrstva
+cobalt	kobalt
+cockroach	švábovité
+code	zákonník
+code of practice	kódex
+codification	kodifikácia
+coelenterate	mechúrniky
+coffee	káva
+cogeneration	kogenerácia
+coin ; money	minca
+coke	koks
+cold	zima
+coliform bacterium	koliformné baktérie
+colina ; hill ; loma	pahorkatina
+collective wastewater treatment	hromadné čistenie odpadových vôd
+colloid	koloid
+colloidal state	koloidný stav
+colonisation	kolonizácia
+colony	kolónia
+colour ; colour ; colo(u)r	farba ; farba ; farba
+colour composition	farebná kompozícia
+colourimetry	kolorimetria
+colubrid	užovky
+combination effect	kombinovaný vplyv
+combined cycle-power station	kombinovaná elektráreň
+combined sewer system	jednotná kanalizačná sústava
+combined transport	kombinovaná doprava
+combined waste water	kombinované odpadové vody
+combustibility	horľavosť
+combustion engine	spaľovací motor
+combustion gas	odpadový (výfukový) plyn
+combustion residue	nespáliteľný zvyšok
+come	prísť
+commercial fishery	komerčné rybárstvo
+commercial law	obchodné právo
+commercial noise	priemyselný hluk
+commercial traffic	komerčná doprava
+commercial transaction	obchodná transakcia
+commercial vehicle	úžitkové vozidlo
+commercialisation	komercializácia
+common agreement	všeobecný predpis
+common agricultural policy ; common agricultural policy of the EU	všeobecná agrárna politika (EÚ) ; všeobecná agrárna politika
+common commercial policy	všeobecná obchodná politika
+common tariff policy	všeobecná colná politika
+communications	komunikácia
+communications industry	komunikačný priemysel
+communications policy	komunikačná politika
+communications system	komunikačný systém
+communism	komunizmus
+community facility ; public facility	verejné zariadenie
+community-pays principle	zásada "spoločnosť platí"
+commuter traffic	zamestnanecká doprava
+compaction	zhutnenie (odpadu) ; zhutnenie
+company policy	podniková politika
+company structure	štruktúra podniku
+comparative law	komparatívne právo
+comparative test	komparatívny test
+comparison	porovnanie
+compensation	kompenzácia
+compensation for damage	odškodnenie za škody
+compensatory measure	kompenzačné kritérium
+compensatory tax	kompenzačná daň
+competition	konkurencia
+competition law	právo hospodárskej súťaže
+competitive examination	konkurzné konanie
+competitiveness	konkurencieschopnosť
+complex formation	tvorba komplexných zlúčenín
+complexing agent	komplexné činidlo
+composite pollution	znečistenie viacerými látkami
+composition of population	skladba populácie
+compost	kompost
+compostable waste	kompostovateľný odpad
+composting	kompostovanie
+composting by producer	kompostovanie producentom
+compound ; chemical compound	chemická zlúčenina
+compression	kompresia
+compressor	kompresor
+computer	počítač
+concentration	koncentrácia
+concept of environment	koncepcia životného prostredia
+concession	koncesia
+concrete	betón
+concrete products industry	betonársky priemysel
+condensation (process) ; condensation	kondenzácia
+conductivity ; electrical conductivity	vodivosť
+conference	konferencia
+conflict	konflikt
+conflict of aims	konflikt cieľov
+conflict of interests	konflikt záujmov
+conflicting use	konfliktné využitie
+congress	zhromaždenie
+conifer	ihličnany
+coniferous forest	ihličnatý les
+coniferous tree	ihličnan
+conservation	konzervovanie
+conservation of monuments	ochrana pamiatok
+conservation policy	politika ochrany
+consideration	úvaha
+constellation	súhvezdie
+constitution	ústava
+constitutional law	ústavné právo
+construction equipment	stavebné zariadenie
+construction noise	stavebný hluk
+construction policy	stavebná politika
+construction technology	stavebná technológia
+construction with recycled material	výstavba s použitím recyklovaných materiálov
+construction work	stavebné práce
+consultancy	poradenská služba
+consultation	konzultácia
+consume ; eat ; swallow	jesť ; jíst ; konzumovať
+consumer behaviour	konzumné správanie
+consumer goods	spotrebný tovar
+consumer group	skupina spotrebiteľov
+consumer information	spotrebiteľské informácie
+consumer product	spotrebný výrobok
+consumer protection	ochrana spotrebiteľov
+consumer waste	spotrebiteľský odpad
+consumption	spotreba
+consumption pattern	štruktúra spotreby
+container	kontajner
+containment (nuclear industry) ; containment	ochranný plášť jadrového reaktora
+contaminated soil	kontaminovaná pôda
+contamination	kontaminácia
+continent	kontinent
+continental climate	kontinentálne podnebie
+continental shelf	kontinentálny šelf
+continuing education	ďalšie vzdelávanie
+continuous load	trvalé zaťaženie
+contour farming	vrstevnicové hospodárenie na pôde
+contract	kontrakt
+control measure	jednotka miery
+controlled burning	kontrolované vypaľovanie
+controlled hunting zone	kontrolovaný / riadený revír
+controlling authority	dozorný úrad
+conurbation	konurbácia
+convention	konvencia
+conventional energy	tradičná / konvenčná energia ; konvenčná energia ; tradičná energia
+cooling	ochladzovanie
+cooling oil	chladiace mazadlo
+cooling tower	chladiaca veža
+cooling water	chladiaca voda
+copper	meď
+coppice	výmladkový les
+coppice with standards	združený les stredný
+coral	koraly
+coral reef	koralový útes
+coral reef lagoon	koralová lagúna
+core meltdown	roztavenie jadra reaktora
+cork	korok
+corridor	koridor
+corrosion	korózia
+corrosion inhibitor	inhibítor korózie
+corruption	korupcia
+cosmetic industry	kozmetický priemysel
+cosmic radiation	kozmické žiarenie
+cosmology	kozmológia
+cost	náklady
+cost increase	zvýšenie nákladov
+cost reduction	zníženie nákladov
+cost-benefit	pomer vynaložených prostriedkov k celkovému zisku
+cost-benefit analysis	analýza pomeru vynaložených prostriedkov k celkovému zisku
+cotton	bavlna
+country ; nation ; state	štát
+country lodge	vidiecky dom
+county	okres ; okrožje
+court	súd
+court of justice	súdny dvor
+cove	zátoka
+covering ; roofing	pokrývanie
+cow	krava
+craft ; arts and crafts	remeslo
+credit	úver
+credit assistance	úverová pomoc
+credit policy	úverová politika
+creek	zátoka
+crime	zločin
+criminal law	trestné právo
+criminal law procedure	trestné konanie
+criminal liability	trestná zodpovednosť
+criminality	kriminalita
+crisis management	krízový manažment
+critical level	kritická hladina
+critical load	kritické zaťaženie ; kritická záťaž
+crocodile	krokodíl
+crop production	zber produkcie
+crop protection	ochrana rastlín
+crop rotation	sled plodín
+crop treatment	ošetrovanie plodín
+crossing place	križovatka
+crossing place for animals	prechod pre migrujúce živočíchy
+crude oil	ropa
+cruising	okružná cesta (loďou)
+crustacean	kôrovce
+cryptogam	výtrusné rastliny
+crystallisation	kryštalizácia
+crystallography	kryštalografia
+cucumber	uhorka
+cultivated plant	kultúrna rastlina
+cultivation ; tillage	pestovanie
+cultivation method	kultivačná metóda
+cultivation of agricultural land	kultivácia poľnohospodárskych plôch
+cultivation system	systém kultivácie
+cultural development	kultúrny vývoj
+cultural facility	kultúrne zariadenie
+cultural heritage	kultúrne dedičstvo
+cultural indicator	kultúrny index
+cultural policy	kultúrna politika
+culture	kultúra
+curium	curium
+curriculum	školské vzdelanie
+customs	clo
+customs regulation	colný predpis
+customs tariff	colný sadzobník
+cutting	ťažba
+cutting ; cutting (vegetative propagation)	odrezok (vegetatívne rozmnožovanie) ; odrezok
+cyanate	kyanatan
+cyanide	kyanid
+cycle path	cyklistická cesta
+cyclone	cyklón
+cytology	cytológia
+cytotoxicity	cytotoxicita
+dairy farm	mliekárenská farma
+dairy industry	mliekársky priemysel
+dairy product	mliečny výrobok
+dam	ochranná hrádza
+dam draining	drenážna hrádza
+damage	škoda
+damage assessment	odhad škôd
+damage from military manoeuvres	škody spôsobené vojenskými manévrami
+damage insurance	poistenie proti škodám
+damage prevention	predchádzanie škodám
+danger analysis	analýza nebezpečenstva
+dangerous goods	nebezpečný tovar
+dangerous goods law	zákon o nebezpečných tovaroch
+dangerous goods regulation	nariadenie o nebezpečných tovaroch
+dangerous installation	nebezpečné zariadenia
+dangerous materials transport	preprava nebezpečných materiálov
+darmstadtium	darmstadtium
+data acquisition	zber údajov
+data analysis	analýza údajov
+data carrier	nosné médium
+data centre	informačné stredisko
+data exchange	výmena informácií
+data on the state of the environment	informácie o stave životného prostredia
+data processing	spracovanie údajov
+data processing law	zákon o spracovávaní údajov
+data processing system	systém spracovania údajov
+data protection	ochrana údajov
+data recording technique	technika zaznamenávania údajov
+database	databáza
+dating	datovanie
+daughter	dcéra
+day ; daytime	deň
+dazzle	oslepiť
+de-inking	odfarbenie
+deaf	hluchý
+death penalty ; capital punishment ; death sentence	trest smrti
+debt	dlh
+debt service	debt service
+decay product	produkt rozpadu
+decentralisation	decentralizácia
+dechlorination	dechlorácia
+decibel	decibel
+deciduous forest ; deciduous wood	listnatý les
+deciduous tree	listnatý strom
+decision	rozhodnutie
+decision making support	podpora rozhodovania
+decision process	rozhodovací proces
+decision-support system	systém podporovania rozhodovania
+declaration ; statement	prehlásenie
+declaration of public utility	deklarácia verejnoprospešných služieb
+decomposition	dekompozícia
+decontamination	dekontaminácia
+decree	dekrét
+deep sea	hlboké more
+deep sea fishing	hlbokomorský rybolov
+deep sea mining	hlbokomorská ťažba
+deep-sea disposal	hlbinné uloženie (odpadu)
+deer	vysoká zver
+defence	obhajoba
+defendant ; accused	obvinený
+deflation	deflácia
+defoliation	defoliácia
+deforestation	odlesnenie
+degradability	rozložiteľnosť
+degradation	rozklad / degradácia ; rozklad ; degradácia
+degradation of natural resources	degradácia prírodných zdrojov
+degradation of the environment	degradácia životného prostredia
+degradation product	produkt rozkladu
+degreasing	odmasťovanie
+dehydrated sludge	dehydrovaný kal
+delegated management	delegovaný manažment
+delta	delta
+demand	dopyt
+demesnial water	verejná voda
+democracy	demokracia
+demographic development	demografický vývoj
+demographic evolution	demografická evolúcia
+demography	demografia
+demolition business	demolačná firma
+demolition waste	stavebný / demolačný odpad
+demonstrability	dokázateľnosť
+dendrochronology ; tree-ring dating	dendrochronológia
+dendrometry	dendrometria
+denitrification	denitrifikácia
+denitrification of waste gas	denitrifikácia odpadového plynu
+density	hustota
+dentist	dentista
+deposition	depozícia
+deregulation	deregulácia
+dermatology	dermatológia
+desalination	odsoľovanie
+desalination plant	odsoľovacie zariadenie
+desert	púšť
+desert climate	púšťové podnebie
+desert locust	Schistocerca gregaria
+desertification	dezertifikácia
+desertification control	regulácia dezertifikácie
+design (project) ; design ; project design	projektovanie
+desk study	teoretická štúdia
+desorption	desorpcia
+destination of transport	cieľ transportu
+desulphurisation	odsírovanie
+desulphurisation of fuel	odsírenie palív
+detection	detekcia
+detector	detektor
+detergent	detergent
+determination method	metóda determinácie
+deterrence	odstrašovanie
+deterrent	odstrašujúci prostriedok
+detoxification	detoxikácia
+deuterium	deutérium
+developed country	rozvinuté krajiny
+developing country	rozvojové krajiny
+development aid	rozvojová pomoc
+development area	rozvojová oblasť
+development co-operation	rozvojová kooperácia
+development model	model rozvoja
+development pattern	vzor rozvoja
+development plan	plán rozvoja
+devolution	devolúcia
+dialysis	dialýza
+diarrhea	diarea
+diary	denník
+diatom	rozsievky
+dice ; die ; die ; die	kocka
+dictionary	slovník
+didactics	didaktika
+diesel engine	naftový motor
+diesel fuel ; diesel	motorová nafta
+differentiation	diferenciácia
+difficult	ťažký
+diffuse pollution	difúzne znečistenie
+diffuse source	zdroj difúzneho znečistenia
+diffusion	difúzia
+digested sludge	vyhnitý kal
+digester	zariadenie na anaeróbne vyhnívanie
+digestion	trávenie
+digestion	vyhnívanie ; vyhnívanie ; trávenie
+digital image processing technique	technika digitálneho spracovania obrazu
+digital land model	digitálny model územia
+digitising	digitalizácia
+diluted acid	zriedená kyselina
+diocese ; diocese	diecéza
+dioxin	dioxín
+dipteran	dvojkrídlovce
+direct discharger	priamy induktor
+directive	direktíva
+disabled person	invalid
+disaster	katastrofa
+disaster cleanup operation	operácie na vyčistenie oblasti postihnutej katastrofou
+disaster contingency plan	plán pre nepredvídané katastrofy
+disaster preparedness	pripravenosť na katastrofu
+disaster prevention	ochrana pred katastrofami
+disaster relief	pomoc pri katastrofách
+disaster zone	oblasť postihnutá katastrofou
+discharge regime	prietokový režim
+discount	zľava
+discrimination	diskriminácia
+disease ; illness ; affliction	choroby ; choroba ; ochorenie
+disease cause	príčina ochorenia
+disinfectant	dezinfenkčný prostriedok
+disinfection	dezinfekcia
+dispatch note	sprievodný list
+dispersion	disperzia
+dispersion calculation	výpočet rozptylu
+displaced person	vyhnanec
+disposal of the dead	pohrebná služba
+disposal of warfare materials	nakladanie s bojovými prostriedkami / materiálmi
+dissolution	rozpúšťanie
+dissolved organic carbon	rozpustený organický uhlík
+dissolved oxygen	rozpustený kyslík
+distillation	destilácia
+distortion of competition	deformácia hospodárskej súťaže
+distribution	distribúcia
+distribution area	plocha
+distributive trade	distribučné služby
+district heating	diaľkové vykurovanie (z teplárne)
+district heating plant	centrálna tepláreň
+disused military site	opustené vojenské stanovisko
+ditch	priekopa
+division	delenec ; delenec ; delenie
+divorce	rozvod
+do	robiť
+doctrine	doktrína
+document	dokument
+document lending	požičovňa dokumentov / kníh
+document type	typ dokumentu
+documentary film	dokumentárny film
+documentary system	dokumentačný systém
+documentation	dokumentácia
+documentation centre	dokumentačné centrum
+dog	pes
+doll	bábika
+dolphin	delfín
+domestic appliance	domáce potreby
+domestic fuel	domáce palivo
+domestic fuel oil	vykurovací olej
+domestic noise	hluk z domácností
+domestic pollution	znečistenie v domoch
+domestic trade	vnútrozemský obchod
+domestic waste	odpad z domácností
+domestic waste landfill	skládka domového odpadu
+domestic waste water	domové splašky
+domesticated animal	domestifikovaný živočích
+donation	dar
+donkey ; ass	somár
+door	dvere
+dosage	dávkovanie
+dose	dávka
+dose-effect relationship	vzťah dávka - účinok
+draft legislation	legislatívny návrh
+dragonfly	šidlá
+drainage	drenáž
+drainage system	drenážna sústava
+drainage water	drenážna voda
+draining	odvodňovanie
+draught animal	ťažné zviera
+dredged material	vybagrovaný materiál
+dredging	ťažba pod hladinou
+dress	šaty
+dress ; clothe	obliecť
+drift net fishing	lov do tenatových sietí
+drilling	vŕtanie
+drilling for oil	ropný vrt
+drilling installation	vŕtacie zariadenie
+drink ; gulp ; quaff ; sip	piť
+drinking water	pitná voda
+drinking water protection area	ochranné pásmo zdroja pitnej vody
+drinking water supply	zásobovanie pitnou vodou
+drinking water treatment	úprava pitnej vody
+dromedary	dromedár
+drought	sucho
+drought control	ochrana proti suchu
+drug	liek
+drunk ; drunkard ; boozer	alkoholik
+dry	suchý
+dry cleaning	suché čistenie
+dry deposition	suchá depozícia
+dry farming	bezzávlahové hospodárenie
+dry lawn	suchý trávnik
+drying	sušenie
+drying out	vysúšanie
+dual economy	duálna ekonomika
+dual waste management	duálne odpadové hospodárstvo
+dubnium	dubnium
+duck	kačka ; kačica
+dumb	nemý
+dumping	skládkovanie
+dune	duna
+durable goods	tovar dlhodobej spotreby
+duration of sunshine	dĺžka slnečného žiarenia
+dust	prach
+dust removal	odstraňovanie prachu
+dwelling	obydlie
+dye	farba
+dyke	ochranná hrádza
+dyke reinforcement	spevnenie ochrannej hrádze
+dyslexia	dyslexia
+dysprosium	dysprózium
+ear	ucho
+early	skorý
+early warning system	systém včasnej výstrahy
+earth ; Earth ; the world ; Blue Planet	Zem
+earth science	vedy o Zemi ; náuka o Zemi
+earth's crust ; crust ; Earth's crust	zemská kôra
+earthquake	zemetrasenie
+earthworm	dážďovky
+earwig	ucholaky
+easement	úľava
+echinoderm	ostnatokožce
+eco-paediatrics	ekopediatria
+ecocatastrophe	ekologická katastrofa
+ecodevelopment	ekologický rozvoj / vývoj
+ecolabel	ekologická značka
+ecolabelling	ekologické značenie
+ecological abundance	ekologická abundancia
+ecological adaptation	ekologická adaptácia
+ecological assessment	ekologické hodnotenie
+ecological balance	ekologická rovnováha
+ecological bookkeeping	ekologické účtovníctvo
+ecological carrying capacity	ekologická únosnosť
+ecological community	ekologické spoločenstvo
+ecological factor	ekologické faktory
+ecological inequality	ekologická nerovnosť
+ecological niche	ekologická nika
+ecological parameter	ekologický parameter
+ecological stocktaking	ekologická inventarizácia
+ecologically sensitive area	ekologicky citlivá oblasť
+ecologist movement	ekologické hnutie
+ecology	ekológia
+ecomarketing	ekomarketing
+ecomuseum	ekomúzeum
+economic activity	hospodárska činnosť
+economic analysis	ekonomická analýza
+economic competition	ekonomická konkurencia
+economic concentration	ekonomická koncentrácia
+economic data	ekonomické údaje
+economic development	ekonomický rozvoj
+economic forecasting	ekonomická prognostika
+economic geography	ekonomická geografia
+economic growth	ekonomický rast
+economic incentive	ekonomický podnet
+economic instrument	ekonomické nástroje
+economic management instrument	prostriedok ekonomického riadenia
+economic plan	hospodársky plán
+economic planning	hospodárske plánovanie
+economic policy	národohospodárska politika
+economic region	ekonomický región
+economic rights	hospodárske práva
+economic science ; economics	ekonómia
+economic sector	ekonomické odvetvie
+economic situation	ekonomická situácia
+economic structure	ekonomický systém
+economic support	ekonomická podpora
+economic system	ekonomická sústava
+economic theory	ekonomická teória
+economic trend	ekonomický trend
+economic viability	ekonomická životaschopnosť
+economical-ecological efficiency	ekonomicko-ekologická efektívnosť
+economy	ekonomika
+ecophysiology	ekofyziológia
+ecosystem	ekosystém
+ecosystem analysis	ekosystémová analýza
+ecosystem degradation	degradácia ekosystému
+ecosystem research	skúmanie ekosystému
+ecosystem type	typ ekosystému
+ecotourism	ekoturistika
+ecotoxicity	ekotoxicita
+ecotoxicological evaluation	ekotoxikologické hodnotenie
+ecotoxicology	ekotoxikológia
+ecotype	ekotyp
+ecozone	ekozóna
+edaphology	edafológia
+edible fat	jedlý tuk
+education	výchova ; vzdelávanie ; vychovávanie
+education policy	politika vzdelávania
+educational institution	vzdelávacia inštitúcia
+educational path	náučný chodník
+educational planning	vzdelávacie plánovanie
+educational system	vzdelávací systém
+effect	vplyv
+effect on health	vplyv na zdravie
+effect on man	vplyv na ľudí
+effect on the environment ; environmental consequence	environmentálny dôsledok ; vplyv na životné prostredie
+efficiency criterion	kritérium efektivity
+efficiency level	úroveň efektivity
+effluent	stoka
+effort ; exertion	úsilie
+egg	vajce ; vajíčko
+eight	osem
+einsteinium	einsteinium
+elasticity	elasticita
+elbow	lakeť
+elder ; elderberry	baza
+elderly person	staršia osoba
+electric battery	elektrická batéria
+electric line ; power line	elektrické vedenie
+electric power	elektrický výkon
+electric power plant	elektráreň
+electric power supply	zásobovanie elektrickou energiou
+electric vehicle	vozidlo na elektrický pohon
+electrical engineering	elektrotechnika
+electrical goods industry	priemysel elektrického tovaru
+electrical industry	elektrárenský priemysel
+electricity	elektrina
+electricity company	elektrárenská spoločnosť
+electricity consumption	spotreba elektriny
+electricity generation	výroba elektriny
+electricity generation cost	náklady na výrobu elektriny
+electricity supply industry	elektrárenské hospodárstvo
+electrokinetics	elektrokinetika
+electrolysis	elektrolýza
+electronic information network	elektronická informačná sieť
+electronic mail ; email ; e-mail	elektronická pošta
+electronic material	elektronický materiál
+electronic scrap	elektronický odpad
+electronic scrap regulation	nariadenie o elektronickom odpade
+electronics	elektronika
+electrosmog	elektrosmog
+electrotechnical equipment	elektrotechnické zariadenie
+electrotechnical industry	elektrotechnický priemysel
+element of group 0 ; noble gas	chemické prvky skupiny 0
+element of group II (alkaline earth metals) ; alkaline earth metal ; element of group II	chemické prvky skupiny II
+element of group III	chemické prvky skupiny III
+element of group IV	chemické prvky skupiny IV
+element of group V	chemické prvky skupiny V
+element of group VI	chemické prvky skupiny VI
+element of group VII ; halogen	chemické prvky skupiny VII
+emancipation	emancipácia
+embryo	embryo
+embryogenesis	embryogenéza
+emergency	mimoriadna udalosť
+emergency law	mimoriadne zákony
+emergency plan	havarijný plán
+emergency relief	pomoc v núdzi
+emergency shelter	núdzové prístrešie
+emission	emisie
+emission control	sledovanie (kontrola) emisií
+emission data	emisné údaje
+emission factor	emisný faktor
+emission forecast	emisná prognóza
+emission reduction	zníženie emisií
+emission reduction banking	bankovníctvo znižovania emisií
+emission register	kataster emisií
+emission situation	emisná situácia
+emission source	zdroj emisií
+emission standard	emisná norma
+emission to water	emisie do vôd
+employment	zamestnanie
+employment ; employment ; job ; job ; occupation ; work ; work	povolanie ; zamestnanie
+employment and environment	zamestnanie a životné prostredie
+employment level effect	vplyv na zamestnanosť
+employment structure	štruktúra zamestnanosti
+emulsification	emulgácia
+emulsion	emulzia
+encapsulation	kapsulácia
+encyclopaedia	encyklopédia
+end-of-pipe technology	end-of-pipe technológia
+endangered animal species	ohrozené živočíšne druhy
+endangered plant species	ohrozené rastlinné druhy
+endemic species	endemické druhy
+endocrine system	endokrinný systém
+endocrinology	endokrinológia
+enemy	nepriateľ
+energy	energia
+energy balance	energetická bilancia
+energy consumption	spotreba energie
+energy conversion	premena energie
+energy demand	potreba energie
+energy dissipation	strata energie
+energy distribution system	systém distribúcie energie
+energy economics	ekonomika energií
+energy efficiency	energetická účinnosť
+energy industry	energetický priemysel
+energy legislation	energetická legislatíva
+energy management	energetické hospodárstvo
+energy market	energetický trh
+energy policy	energetická politika
+energy process	energetické procesy
+energy production	výroba energie
+energy resource	energetické zdroje
+energy saving	úspora energie
+energy source	zdroj energie
+energy source material	hmota zdroja energie
+energy storage	akumulácia energie
+energy supply	zásobovanie energiou
+energy technology	energetická technológia
+energy type	druh energie
+energy utilisation ; energy use	využitie energie
+enforcement	uplatnenie
+engine	motor
+engineering	inžinierstvo
+engineering work	strojárenský závod
+enjoy your meal ; have a nice meal	dobrú chut
+enlargement policy	politika rozširovania
+enlargement programme	program rozširovania
+enriched uranium	obohatený urán
+enrichment	obohatenie
+enterovirus	enterovírus
+environment	životné prostredie
+environment friendly	priaznivý pre životné prostredie
+environment market	environmentálny trh
+environmental accident	environmentálna havária
+environmental accounting	environmentálne účtovníctvo
+environmental administration institution	administratívna inštitúcia pre životné prostredie
+environmental analysis	analýza životného prostredia
+environmental anxiety	environmentálna úzkosť
+environmental aspect of human settlements	environmentálny aspekt ľudského osídľovania
+environmental assessment	environmentálne hodnotenie
+environmental assessment criterion	kritérium environmentálneho hodnotenia
+environmental auditing	environmentálny audit
+environmental awareness	environmentálne povedomie
+environmental change	environmentálna zmena
+environmental chemicals legislation	environmentálna legislatíva o chemikáliách
+environmental chemistry	chémia životného prostredia
+environmental citizenship	občianske práva a povinnosti týkajúce sa životného prostredia
+environmental compatibility	environmentálna kompatibilita
+environmental consequence	environmentálny dôsledok
+environmental conservation	ochrana a tvorba životného prostredia
+environmental contingency planning	plánovanie opatrení pre nepredvídané skutočnosti v životnom prostredí
+environmental control	kontrola životného prostredia
+environmental cost	náklady na ochranu životného prostredia
+environmental crime	environmentálny zločin
+environmental criminal law	environmentálne trestné právo
+environmental criminality	environmentálna kriminalita
+environmental criterion	environmentálne kritérium
+environmental culture	environmentálna kultúra
+environmental damage	škoda na životnom prostredí
+environmental data	environmentálna informácia
+environmental development	environmentálny rozvoj (vývoj)
+environmental economic valuation	ekonomické ocenenie životného prostredia
+environmental economics	ekonómia životného prostredia
+environmental economics of firms	environmentálna ekonomika firiem
+environmental economy issue	problematika environmentálnej ekonómie
+environmental education	environmentálna výchova
+environmental engineering	environmentálne inžinierstvo
+environmental enterprise	environmentálny podnik
+environmental ethics	environmentálna etika
+environmental friendly procurement	environmentálne prijateľné obstarávanie
+environmental fund	environmentálny fond
+environmental hazard	environmentálny hazard
+environmental health	hygiena životného prostredia
+environmental health hazard	zdravotné riziko životného prostredia
+environmental health impact assessment	posudzovanie vplyvov na zdravie
+environmental health protection	ochrana hygieny životného prostredia
+environmental history	environmentálna história
+environmental impact	vplyv na životné prostredie
+environmental impact of agriculture	vplyv poľnohospodárstva na životné prostredie
+environmental impact of aquaculture	vplyv akvakultúry na životné prostredie
+environmental impact of energy	vplyv energetiky na životné prostredie
+environmental impact of fishing	vplyv rybolovu na životné prostredie
+environmental impact of forestry	vplyv lesníctva na životné prostredie
+environmental impact of households	vplyv domácností na životné prostredie
+environmental impact of industry	vplyv priemyslu na životné prostredie
+environmental impact of recreation	vplyv rekreácie na životné prostredie
+environmental impact of tourism	vplyv turistiky na životné prostredie
+environmental impact of transport	vplyv dopravy na životné prostredie
+environmental impact statement	správa o hodnotení
+environmental impact study	rozsah hodnotenia a časový harmonogram
+environmental incentive	environmentálny stimul
+environmental index	environmentálny ukazovateľ
+environmental indicator	environmentálny indikátor
+environmental industry	environmentálny priemysel
+environmental informatics	environmentálna informatika
+environmental information	environmentálna informácia
+environmental information network	environmentálna informačná sieť
+environmental information system	informačný systém životného prostredia
+environmental investment	environmentálna investícia
+environmental law	environmentálne právo
+environmental law enforcement	presadenie environmentálneho práva
+environmental legislation	environmentálna legislatíva
+environmental legislation on agriculture	environmentálna legislatíva poľnohospodárstva
+environmental legislative process	environmentálny legislatívny proces
+environmental liability	environmentálna zodpovednosť
+environmental licence	environmentálna licencia
+environmental management	environmentálny manažment
+environmental medicine	environmentálna medicína
+environmental misconduct	environmentálny priestupok
+environmental monitoring	monitoring životného prostredia
+environmental noise	hluk v životnom prostredí
+environmental occupation	environmentálne povolanie
+environmental perception	environmentálne vnímanie
+environmental plan	environmentálny plán
+environmental planning	environmentálne plánovanie
+environmental policy	environmentálna politika
+environmental policy instrument	nástroj environmentálnej politiky
+environmental pollution	znečisťovanie životného prostredia
+environmental priority	environmentálna priorita
+environmental problem solving	riešenie environmentálnych problémov
+environmental programme	program ochrany životného prostredia
+environmental protection	ochrana životného prostredia
+environmental protection agency	Agentúra pre životné prostredie (USA) ; agentúra pre životné prostredie
+environmental protection association	asociácia pre ochranu životného prostredia
+environmental protection cost	náklady na ochranu životného prostredia
+environmental protection in the enterprise	ochrana životného prostredia v podniku
+environmental protection order	smernica na ochranu životného prostredia
+environmental protection organisation	organizácia na ochranu životného prostredia
+environmental protection regulation	právny predpis na ochranu životného prostredia
+environmental protection technology	technológia na ochranu životného prostredia
+environmental psychology	environmentálna psychológia
+environmental quality	kvalita životného prostredia
+environmental quality criterion	kritérium kvality životného prostredia
+environmental quality objective	cieľ kvality životného prostredia
+environmental quality standard	štandard kvality životného prostredia
+environmental report	environmentálna správa
+environmental research	environmentálny výskum
+environmental risk	environmentálne riziko
+environmental risk assessment	hodnotenie environmentálnych rizík
+environmental science	environmentalistika
+environmental security	ekologická bezpečnosť ; environmentálna bezpečnosť
+environmental specimen bank	banka vzoriek životného prostredia
+environmental statement (eco-audit) ; environmental statement ; eco-audit	environmentálne hodnotenie ; environmentálne hodnotenie (ekoaudit) ; ekoaudit
+environmental statistics	environmentálna štatistika
+environmental stock exchange	environmentálna burza cenných papierov
+environmental study	environmentálna štúdia
+environmental subsidy	environmentálna subvencia
+environmental sustainable architecture	environmentálne udržateľná architektúra
+environmental tax	environmentálna daň
+environmental teaching	environmentálna výuka
+environmental technology	environmentálna technológia
+environmental terminology	environmentálna terminológia
+environmental training	environmentálne školenie
+environmental warfare	environmentálny boj
+environmentalism	environmentalistika
+environmentally dangerous substance	environmentálne nebezpečná látka
+environmentally friendly management	environmentálne prijateľný manažment
+environmentally friendly product	environmentálne čistý produkt
+environmentally related disease	ochorenie vzťahujúce sa na životné prostredie
+environmentally responsible behaviour	environmentálne zodpovedné správanie
+environmentally unfriendly firm	podnik znečisťujúci životné prostredie
+enzyme	enzým
+epidemic	epidémia
+epidemiology	epidemiológia
+epigram	epigram
+equation	rovnica
+equator	rovník
+equatorial climate	rovníkové podnebie
+equine	koňovité
+equipment	zariadenie
+equivalent dose	ekvivalentná dávka
+erbium	erbium
+ergonomics	ergonomika
+erosion	erózia
+erosion control	protierózna ochrana
+estate rental	prenájom nehnuteľností
+estuarine biology	biológia estuárií
+estuarine conservation area	chránená oblasť estuára
+estuary	estuár
+estuary pollution	znečistenie estuárií
+etching	leptanie
+etching substance	leptadlo
+ethanol	etanol
+ether	éter
+ethics	etika
+ethnography	etnografia
+ethnology	etnológia
+ethology	etológia
+europium	európium
+eutrophication	eutrofizácia
+evaluation	hodnotenie
+evaluation criterion	hodnotiace kritérium
+evaluation method	metóda hodnotenia
+evaluation of technology	hodnotenie technológie
+evaporation	evaporácia
+evapotranspiration	evapotranspirácia
+evolution	evolúcia
+exact science	exaktné vedy
+excavated hole	vykopaná jama
+excavation (process) ; excavation ; earthworks ; digging	hĺbenie
+excavation heap	vykopaný materiál (kopa)
+excavation side	svah hĺbenej jamy
+excavation site	miesto hĺbenia
+exceptional tax	výnimočná daň
+excessive height of chimney stacks	nadmerná výška komína
+exchange policy	devízová politika
+executioner	kat
+executive order	vykonávacie nariadenie
+exhaust device	vypúšťacie zariadenie
+exhaust gas	výfukový plyn
+exhibit	exponát
+existing chemical	existujúce chemikálie
+exotic species	exotické druhy
+expenditure	výdaj
+experiment	experiment
+experimental study	experimentálny výskum
+expert system	expertný systém
+exploitation of underground water	odber podzemnej vody
+exploration	prieskum (geologický)
+explosion	explózia ; výbuch
+explosive	výbušnina
+export	vývoz
+export licence	vývozné povolenie
+export of hazardous wastes	vývoz nebezpečných odpadov
+exposure	expozícia
+expropriation	vyvlastnenie
+extensive cattle farming	extenzívny chov dobytka
+externality	externalita
+extinct species	vyhynuté druhy
+extinction (ecological) ; extinction	vymieranie druhov
+extraction	extrakcia
+extractive industry	ťažobný priemysel
+eye	oko
+fabric	tkanina / látka ; látka ; tkanina
+face	tvár
+factor market	trh výrobných faktorov
+factory farming	veľkochovy
+faecal bacterium	fekálne baktérie
+fallout	spád
+fallow area	oblasť neobrábanej pôdy
+family	rodina
+family law	rodinné právo
+family planning	plánované rodičovstvo
+famine	hladomor
+farm	farma
+farm animal	hospodárske zviera
+farm building	hospodárska budova
+farm price	farmárska cena
+farming technique	technika hospodárenia na pôde
+fascism	fašistická
+fast reactor	rýchly reaktor
+fast traffic	rýchla doprava
+father	otec
+fault	zlom
+fauna	fauna
+fauna restoration	obnova prírodných stanovíšť
+feather	pero ; perie
+federal authority	spolkový úrad
+federal government	federálna vláda
+federal law	federálne právo (D)
+fee	poplatok
+feeding of animals	kŕmenie zvierat
+feeling for nature	cit pre prírodu
+felid	mačkovité
+female ; woman	žena
+fen	slatina
+fermentation	fermentácia
+fern	papraďorasty
+fertilisation ; fecundation	oplodnenie
+fertiliser	hnojivo
+fertiliser law	zákon o hnojivách
+fibre	vlákno
+fibreglass	sklenné vlákno
+field ; land ; land ; acre ; patch	pole
+field damage	škody na poli
+field experiment	terénny (poľný) pokus
+field study	terénny prieskum
+filling material	plniaci materiál
+filling station	čerpacia stanica
+film	film
+filter	filter
+filter cake	filtračný koláč
+filtration	filtrácia
+final storage	konečné uskladnenie
+finances	financie
+financial aid	finančná pomoc
+financial assistance	finančná pomoc
+financial compensation	finančná kompenzácia
+financial contribution	finančný príspevok
+financial fund	finančný fond
+financial instrument	finančné dokumenty
+financial law	finančný zákon
+financial management	finančný manažment
+financial market	finančný trh
+financing	financovanie
+fine	pokuta
+fine dust	jemný prach
+finger	prst ; prst
+fire	požiar
+fire precaution	prevencia proti požiarom
+fire protection	protipožiarna ochrana
+fire safety requirement	protipožiarny predpis
+fire service	požiarna ochrana
+firefighter ; fireman ; firewoman ; fire fighter ; fire-eater	hasič
+fireproofing agent	ohňovzdorný prípravok
+firing	vypaľovanie
+firm ; corporation ; enterprise ; company ; venture	firma
+first	prvý
+fish	ryba
+fish disease	choroby rýb
+fish farming	rybárstvo
+fish kill	mortalita rýb
+fish stock	zásoby rýb
+fish toxicity	toxicita rýb
+fisheries management	chov (a predaj) rýb
+fisheries structure	štruktúra spôsobov rybárenia
+fishery	rybné hospodárstvo
+fishery economics	ekonomika rybárstva
+fishery policy	politika rybárstva
+fishery resource	zdroje rýb
+fishing	rybolov
+fishing ground	rybolovná oblasť
+fishing industry	rybársky priemysel
+fishing law	rybolovné právo
+fishing licence	rybársky lístok
+fishing preserve	rybárska rezervácia
+fishing vessel	rybárska loď
+fitting (plumbing) ; fitting ; plumbing equipment ; plumbing fixtures	armatúra
+flag of convenience	výhodná vlajka
+flammable product	horľavina
+flaring	spaľovanie prebytočného plynu
+flavouring	aróma
+flea	blchy
+flexible approach to environmental protection	flexibilný prístup k ochrane životného prostredia
+flocculant	flokulant
+flocculation	flokulácia
+flood	povodeň
+flood control	protipovodňová ochrana
+flood forecast	predpoveď povodní
+flood protection	ochrana proti povodniam
+flood runoff	povodňový odtok
+flooding	zaplavenie
+flora (biology) ; flora	flóra
+flora (document) ; flora	botanický atlas
+flora restoration	obnova vegetácie
+flotation	flotácia
+flow	tok
+flow field	prietok
+flower ; bloom ; blossom	kvet
+flowering plant	kvitnúce rastliny
+flowing water	tečúca voda
+flue gas	spaliny
+fluidics	fluidika
+fluidisation	fluidizácia
+fluidised bed	fluidizovaná vrstva
+fluoridation	fluoridizácia
+fluorine	fluór
+flushing	vymývanie
+fluvial resource	riečne zdroje
+fly ash	popolček (lietavý)
+foaming agent	speňovadlo
+fodder ; provender ; forage	krmivo (suché) ; krmivo
+fodder plant	krmovina
+fog	hmla
+foliage	listy
+folk tradition	ľudová tradícia
+folklore	folklór
+food	potrava
+food additive	aditívne látky v potravinách
+food chain	potravový reťazec
+food commerce	obchodovanie s potravinami
+food contamination	kontaminácia potravín
+food hygiene	hygiena potravín
+food industry	potravinársky priemysel
+food irradiation	ožarovanie potravín
+food pollutant	potravinový polutant
+food preservation	konzervácia potravín
+food processing industry	potravinársky priemysel
+food production (agriculture) ; food production	produkcia potravín (poľnohospodárska) ; produkcia potravín
+food quality	kvalita potravín
+food requirement	potreba potravy
+food science	náuka o potrave
+food storage	skladovanie potravín
+food technology	potravinárska technológia
+food transport	preprava potravín
+foodstuff	potraviny
+foot	chodidlo
+football	futbal
+footpath	chodník
+forage contamination	kontaminácia krmovín
+forage crop	krmná plodina
+forage law	zákon o krmivách
+forecast	predpoveď
+foreclosure	preklúzia
+foreign economic relations	zahraničné ekonomické vzťahy
+foreign policy	zahraničná politika
+foreign trade	zahraničný obchod
+forest	les
+forest biological reserve	lesná biologická rezervácia
+forest cover destruction	deštrukcia / devastácia lesných porastov
+forest damage	škody na lesoch
+forest deterioration	devastácia lesov
+forest ecology	lesnícka ekológia
+forest ecosystem	ekosystém lesa
+forest exploitation	exploatácia lesa
+forest fire	lesný požiar
+forest industry	lesnícky priemysel
+forest management	lesné hospodárstvo
+forest pest	lesný škodca
+forest policy	lesnícka politika
+forest product	lesný produkt
+forest production	lesná produkcia
+forest protection	ochrana lesa
+forest reserve	lesná rezervácia
+forest resource	lesný zdroj
+forestry	lesníctvo
+forestry economics	lesnícka ekonomika
+forestry law	zákon o lesoch
+forestry legislation	lesnícka legislatíva
+forestry practice	lesnícke postupy
+forestry unit	lesnícka jednotka
+fork	vidlička
+form of government	forma vlády
+forwarding agent	špeditér
+fossil	fosília
+fossil fuel	fosílne palivo
+fouling growth	obrastanie morskými organizmami
+fountain	fontána
+four stroke engine	štvortaktný motor
+fracture	zlomenina
+framework legislation	rámcová legislatíva
+francium	francium
+free movement of capital	voľný pohyb kapitálu
+free trade	voľný obchod
+freedom	sloboda
+freedom ; liberty	sloboda
+freedom of speech ; freedom of speech	sloboda slova
+freight transport	nákladná doprava
+freon	freón
+freshwater	sladká voda
+freshwater degradation	degradácia sladkých vôd
+freshwater ecosystem	sladkovodný ekosystém
+freshwater organism	sladkovodný organizmus
+freshwater pollution	znečistenie sladkých vôd
+freshwater resource	zdroje sladkej vody
+frog	žaby
+frost	mráz
+fruit	ovocie
+fruit cultivation	pestovanie ovocia
+fruit tree	ovocný strom
+fuel	palivo
+fuel additive	prísada do paliva
+fuel alcohol	palivový alkohol
+fuel composition	zloženie paliva
+fuel consumption	spotreba paliva
+fuel oil	vykurovací olej
+fuel tank installation	palivová nádrž
+fuel wood	palivové drevo
+full	plný ; naplnený
+fume	dym
+fumigation	fumigácia
+functional substance	funkčná látka
+fungicide	fungicíd
+fungus	huby
+fur	kožušina
+fur animal	kožušinové zvieratá
+furan	furán
+furnace	pec
+furniture	nábytok
+furniture industry	nábytkársky priemysel
+furriery	kožušníctvo
+gadolinium	gadolinium
+gallbladder	žlčník
+gallinacean	hrabavce
+gallium	gálium
+galvanisation	galvanizácia
+game	hra
+game	poľovná zver
+gamma radiation	žiarenie gama
+gangrene	gangréna
+garage	garáž
+garden	záhrada
+garden waste	záhradný odpad
+gas	plyn
+gas chromatography	plynová chromatografia
+gas company	plynárenská spoločnosť
+gas engine	plynový motor
+gas liquefaction	skvapalňovanie plynov
+gas mixture	zmes plynov
+gas network	plynárenský systém / sieť
+gas pipeline	plynovod
+gas powered plant	plynárenský podnik
+gas purification	čistenie plynu
+gas reservoir	zásobník plynu
+gas supply	zásobovanie plynom
+gaseous air pollutant	plynný polutant v ovzduší
+gaseous state	plynný stav
+gasification	splyňovanie
+gasohol	gasohol
+gasoline engine	zážihový (benzínový) motor
+gastropod	ulitníky
+gaswork	plynáreň
+gene	gén
+genealogy	genealógia
+general	všeobecné
+general administrative order	všeobecná smernica
+general chemistry	všeobecná chémia
+general education	všeobecné vzdelávanie
+genetic diversity	genetická diverzita
+genetic effect	vplyv na gény
+genetic engineering	genetické inžinierstvo
+genetic engineering legislation	legislatíva týkajúca sa genetického inžinierstva
+genetic information	genetická informácia
+genetic modification	genetická modifikácia
+genetic pool ; gene pool	genofond
+genetic resource	genofond
+genetic variation	genetická premena
+genetically modified organism	geneticky modifikovaný organizmus
+genetics	genetika
+genome	genóm
+genotoxicity	genotoxicita
+genotype	genotyp
+geo-referenced data	georeferenčné údaje
+geo-referenced information	georeferenčné informácie
+geodesy	geodézia
+geogenic factor	geogénny faktor
+geographic information system	geografický informačný systém
+geographical distribution of population	geografické rozloženie populácie
+geographical projection	geografické zobrazenie
+geography	geografia
+geological disaster	geologická katastrofa
+geological process	geologické procesy
+geology	geológia
+geometric correction	geometrická korekcia
+geomorphic process	geomorfologické procesy
+geomorphology	geomorfológia
+geophysical environment	geofyzikálne prostredie
+geophysics	geofyzika
+geotechnics	geotechnika
+geotechnology	geotechnológia
+geothermal energy	geotermálna energia
+germ	zárodok
+germ plasm	zárodočná plazma
+germanium	germánium
+germination	klíčenie
+geyser	gejzír
+giraffe	žirafa
+girl	dievča ; dievčina ; deva ; dievka
+glacier	ľadovec
+glaciology	glaciológia
+glass	sklo
+glass industry	sklársky priemysel
+glaze	námraza
+global aspect	globálny aspekt
+global convention	globálna konvencia
+global model	globálny model
+global warming	globálne otepľovanie
+glossary	glosár
+glue	glej
+go	cestovať
+goal of individual economic business	ciele podnikania
+gold	zlato
+golf	golf
+good management	správne riadenie
+goods	tovar
+goods and services	tovar a služby
+goose	hus
+government (cabinet)	vláda
+government advisory body	poradný orgán vlády
+government building	vládna budova
+government liability	vládny záväzok
+government policy	vládna politika
+grain	obilie
+graminaceous plant	obilniny
+grandson	vnuk
+granite	granit
+granulometry	zrnitosť
+grass	trávy
+grass fire	lúčny požiar
+grasshopper	kobylkovité
+grassland	trávne porasty
+gravel	štrk
+gravel extraction	ťažba piesku a štrku
+gravel pit	štrková jama
+graviton	gravitón
+grazing	pastvina
+green building	ekologický dom
+green corridor	ekologický koridor
+green manure	zelené hnojivo
+green revolution	zelená revolúcia
+green space	zelená plocha
+green tide	vodný planktón
+green vegetable	zelená zelenina
+greenhouse cultivation	skleníkové pestovanie
+greenhouse effect	skleníkový efekt
+greenhouse gas	skleníkový plyn
+gridding	zemepisné súradnice
+grinding	rozomletie
+gross national product	hrubý národný produkt
+groundwater	podzemná voda
+groundwater endangering	ohrozovanie podzemných vôd
+groundwater extraction	získavanie podzemnej vody
+groundwater pollution	znečistenie podzemných vôd
+groundwater protection	ochrana podzemných vôd
+groundwater quality	kvalita podzemných vôd
+group behaviour	skupinové správanie
+guinea pig	morèa
+gulf	záliv
+gull	čajka
+gymnosperm	nahosemenné rastliny
+gypsum	sadra
+habitat	habitat
+habitat destruction	deštrukcia biotopu
+haematology	hematológia
+haiku	haiku
+hail	krúpy
+hair	srsť
+hairdresser ; barber	kaderník
+half-life	polčas rozpadu
+hallucination	halucinácia
+haloform	haloform
+halogenated biphenyl	halogénovaný bifenyl
+halogenated compound	halogénovaná zlúčenina
+halogenated hydrocarbon	halogénovaný uhľovodík
+halogenated phenol	halogénovaný fenol
+halogenated pollutant	halogénovaný polutant
+handicraft	remeslo ; remeslo (umelecké) ; umelecké
+handicraft business	remeselná živnosť
+handkerchief	vreckovka
+harbour	prístav
+hard-to-dispose-of waste	ťažko uložiteľný odpad
+hardness	tvrdosť
+harmonisation of law	harmonizácia práva
+harpoon	harpúna
+harvest	žatva
+hassium	hassium
+hazard	hazard
+hazard area	riziková oblasť
+hazard of pollutants	riziko polutantov
+hazardous chemical export	export nebezpečných chemikálií
+hazardous substance	nebezpečná látka
+hazardous substances legislation	legislatíva týkajúca sa nebezpečných látok
+hazardous waste	nebezpečný odpad
+hazardous waste dump	skládka nebezpečného odpadu
+hazardous working material	nebezpečný materiál
+haze	hmla
+he	on
+headland	mys
+headland	úvrať (poľa) ; úvrať
+health	zdravie
+health care	starostlivosť o zdravie
+health care profession	medicínska profesia
+health effect of noise	zdravotný účinok hluku
+health facility	zdravotnícke zariadenie
+health hazard	zdravotné riziko
+health legislation	legislatíva týkajúca sa zdravia
+health regulation	predpis týkajúci sa zdravia
+health service	zdravotníctvo
+health-environment relationship	zdravotno-environmentálne vzťahy
+health-related biotechnology	biotechnológia vzťahujúca sa na zdravie
+hearing	sluch
+hearing acuity	ostrosť sluchu
+hearing impairment	poškodenie sluchu
+hearing procedure	procedúra pojednávania
+hearing protection	ochrana sluchu
+hearing system	sluchový systém
+heat	teplo
+heat and power station	tepláreň a elektráreň
+heat pump	tepelné čerpadlo
+heat storage	hromadenie / akumulácia tepla
+heat supply	zásobovanie teplom
+heater	radiátor
+heathland	vresovisko
+heating	vykurovanie
+heating plant	tepláreň
+heavy goods vehicle traffic	transport ťažkých tovarov / materiálov
+heavy metal	ťažký kov
+heavy metal load	zaťaženie ťažkými kovmi
+hedge	živý plot
+hedgehog	jež
+hedonism	hedonizmus
+helium	hélium
+hello ; hey ; hi ; howdy	ahoj
+herbicide	herbicíd
+herbivore ; plant eater	herbivor
+heron	volavka
+heterocyclic compound	heterocyklická zlúčenina
+high mountain	veľhory
+high tide water	vrchol prílivu
+high voltage line	vysokonapäťové vedenie
+high-rise building	výšková budova
+high-speed railway	rýchloželeznica
+high-speed train	rýchlovlak
+higher education	vysokoškolské vzdelanie
+highway	diaľnica
+hiking trail	turistický chodník / trasa
+historic centre	historické centrum
+historical evolution	historický vývoj
+historical monument	historický pamätník
+historical research	historický výskum
+historical site	historické miesto
+historiography	historiografia
+history	história
+holiday ; opor-garai	dovolenka ; prázdniny
+holiday camp	dovolenkový kemp
+holmium	holmium
+home ; home ; house	dom
+home garden	záhrada (pri dome)
+homeostasis	homeostáza
+homepage	domovská stránka
+homologation	súhlas / schválenie
+homonym	homonymum
+honey	med
+hope	dúfat
+horizon	obzor
+hormone	hormón
+horse	kôň
+horticulture	záhradníctvo
+hospital ; clinic	nemocnica
+hospital waste	nemocničný odpad
+hot water	teplá voda
+hotel industry	hotelový priemysel
+household	domácnosť
+household chemical	chemikália používaná v domácnosti
+household expenditure	výdaje domácnosti
+household goods	domáce potreby
+housing	bývanie
+housing density	hustota bývania
+housing improvement	vylepšenie bývania
+housing legislation	bytová legislatíva
+housing programme	program bytovej výstavby
+housing quality standard	úroveň kvality bývania
+huckleberry ; blueberry	brusnica
+human body	ľudské telo
+human disease	ochorenie človeka
+human ecology	humánna ekológia
+human habitat	životný priestor človeka
+human health	ľudské zdravie
+human migration	migrácia osôb
+human physiology	humánna fyziológia
+human population	ľudská populácia
+human rights	ľudské práva
+human science	humánne vedy
+human settlement	ľudské osídlenie
+human settlement management	manažment ľudského osídlenia
+human-made disaster	človekom spôsobená katastrofa
+humanitarian aid	humanitárna pomoc
+humus	humus
+hunger ; hunger ; hunger	hlad
+hunting	poľovníctvo
+hunting licence	poľovný lístok
+hunting reserve	poľovnícka rezervácia
+hurricane	hurikán
+husband ; spouse	manžel
+hybridisation	kríženie
+hydraulic construction	vodná stavba
+hydraulic engineering	vodné staviteľstvo
+hydraulics	hydraulika
+hydrobiology	hydrobiológia
+hydrocarbon	uhľovodík
+hydrocarbon storage tank	akumulačná nádrž pre uhľovodíky
+hydrochloric acid ; muriatic acid	kyselina chlorovodíková
+hydroculture	vodná kultúra
+hydroelectric energy	energia z vodnej elektrárne
+hydroelectric power plant	vodná elektráreň
+hydrogen	vodík
+hydrogen sulphide	sírovodík
+hydrogeology	hydrogeológia
+hydrographic basin	hydrografické povodie
+hydrographic network	riečna sieť
+hydrography	hydrografia
+hydrologic balance	hydrologická bilancia
+hydrologic cycle	hydrologický cyklus
+hydrologic disaster	hydrologická katastrofa
+hydrologic flow	hydrologický režim
+hydrology	hydrológia
+hydrolysis	hydrolýza
+hydrometeorology	hydrometeorológia
+hydrometry	hydrometria
+hydrosphere	hydrosféra
+hygiene	hygiena
+hymenopteran	blanokrídlovce
+hypertext	hypertext
+hyponym ; narrower terms ; narrower term	užšie významy
+ice	ľad
+ice cream	zmrzlina
+ice hockey	ľadový hokej
+ice pack	ľadová návrš
+iceberg	ľadová kra (plávajúca) ; ľadová kra
+ideology	ideológia
+illiterate	analfabet
+image classification	klasifikácia obrazových dát
+image enhancement	vylepšovanie obrazových dát
+image filtering	filtrácia obrazových dát
+image processing digital system	digitálny systém spracovania obrazových dát
+image registration	navrstvovanie obrazových dát
+immission	imisie
+immission control	sledovanie imisií
+immission control law	zákon o regulácii imisií
+immission damage	škody spôsobené imisiami
+immission forecast	imisná predpoveď
+immission limit	imisný limit
+immission load	imisné zaťaženie
+immune system	imunitný systém
+immunity	imunita
+immunoassay	imunoanalýza
+immunological disease	imunologické ochorenie
+immunology	imunológia
+impact assessment	posudzovanie vplyvov
+impact minimisation	minimalizácia vplyvu
+impact prevention	predchádzanie pôsobenia vplyvov
+impact reversal	obrat / zvrat vplyvu
+impact source	zdroj vplyvu
+impactor	impaktor
+implementation law	implementácia zákona
+import	import
+import licence	dovozná licencia
+impoverishment	ochudobňovanie
+impregnating agent	impregnačná látka
+impregnation	impregnácia
+improvement of efficiency	zlepšenie efektivity
+impulsive noise	impulzný šum
+in situ	in situ
+in vitro assay	experiment in vitro
+in vivo assay	experiment in vivo
+incentive fund	rezervný fond
+incentive tax	stimulujúca daň
+incidental pollution	náhodné znečistenie
+incineration	spaľovanie
+incineration of waste	spaľovanie odpadu
+incineration residue	zvyšky zo spaľovania
+incinerator	spaľovacie zariadenie
+income	príjem
+income tax	daň z príjmu
+incorporation	registrácia
+indefinite legal concept	neurčitý právny koncept
+indemnity	odškodnenie
+independence	nezávislosť
+index	index
+indexing of documentation	indexovanie dokumentácie
+indicator	ukazovateľ
+indicator of environmental quality	ukazovateľ kvality životného prostredia
+indigenous knowledge	znalosti miestnej kultúry
+indigenous technology	miestna / pôvodná technológia
+indirect discharger	nepriamy induktor
+indium	indium
+individual wastewater treatment	individuálne čistenie odpadových vôd
+indoor air pollution	znečistenie vnútorných priestorov
+indoor environment	vnútorné prostredie
+industrial activity	priemyselná činnosť
+industrial area	priemyselná oblasť
+industrial association	priemyselná asociácia
+industrial building	priemyselná budova
+industrial crop	priemyselná plodina
+industrial development	priemyselný rozvoj
+industrial dumping	priemyselné skládkovanie
+industrial economics	priemyselná ekonómia
+industrial effluent	priemyselné odpadové vody
+industrial emission	priemyselné emisie
+industrial environment	priemyselné prostredie
+industrial environmental policy	environmentálna politika priemyslu
+industrial equipment	priemyselné zariadenie
+industrial installation	priemyselné zariadenie
+industrial legislation	priemyselná legislatíva
+industrial manufacturing	priemyselná výroba
+industrial material	priemyselný materiál
+industrial medicine	pracovné lekárstvo
+industrial noise	priemyselný hluk
+industrial planning	priemyselné plánovanie
+industrial plant (building) ; industrial plant	priemyselné zariadenie ; priemyselné zariadenie (budova) ; priemyselný závod ; fabrika ; továreň
+industrial plant (organism) ; industrial plant	priemyselný podnik
+industrial policy	priemyselná politika
+industrial pollution	priemyselné znečistenie
+industrial process	priemyselné procesy
+industrial product	priemyselný produkt
+industrial production	priemyselná produkcia
+industrial production statistics	štatistika priemyselnej produkcie
+industrial property right	právo na priemyselné vlastníctvo
+industrial safety	priemyselná bezpečnosť
+industrial site	priemyselné uzemie
+industrial sludge	priemyselný kal
+industrial society	priemyselná spoločnosť
+industrial structure	štruktúra priemyslu
+industrial waste	priemyselný odpad
+industrial waste gas	priemyselný odpadový plyn
+industrial waste water	priemyselné odpadové vody
+industrial wasteland	opustená priemyselná krajina
+industrial zoning	priemyselné zónovanie
+industrialisation	industrializácia
+industry	priemysel
+inert waste	inertný odpad
+inertisation	inertizácia
+infant	malé dieťa
+infant mortality	detská úmrtnosť
+infection	infekcia
+infectious disease	infekčné ochorenie
+infectious disease ; communicable diseases	infekčná choroba
+infestation of crops	zamorenie plodín (škodcami, parazitmi)
+infestation of food	zamorenie potravy
+infiltration	infiltrácia
+inflammable substance	horľavá látka
+inflow	prítok
+influenza ; flu	chrípka
+info ; information	informácia ; informácie
+informal negotiation	neformálne rokovanie
+informatics ; computer science ; information science	informatika
+information centre	informačné centrum
+information clearing-house	informačný clearing-house
+information exchange	výmena informácií
+information infrastructure	informačná infraštruktúra
+information kit	informačný nástroj
+information network	informačná sieť
+information processing	spracovanie informácií
+information service	informačná služba
+information source	informačný zdroj
+information system	informačný systém
+information technology ; IT	informačná technológia
+information technology industry	priemysel informačných technológií
+information transfer	presun informácií
+infraction	porušenie (práva, zmluvy) ; porušenie
+infrared radiation	infračervené žiarenie
+infrasound	infrazvuk
+infrastructure	infraštruktúra
+inhabitant	obyvateľ
+initial training	úvodné školenie
+injury	zranenie
+ink	atrament
+inland fishery	vnútrozemské rybárstvo
+inland navigation	vnútrozemská plavba
+inland water	vnútrozemská voda
+inland waterways transport	vnútrozemská vodná doprava
+innovation	inovácia ; zavedenie ; obnovenie ; obnovovanie
+inorganic chemistry	anorganická chémia
+inorganic fertiliser	anorganické hnojivo
+inorganic pollutant	anorganický polutant
+inorganic substance	anorganické látky
+insect	hmyz
+insecticide	insekticíd
+insectivore	hmyzožravce
+insoluble substance	nerozpustná látka
+inspection	inšpekcia
+inspection of records	kontrola spisov
+inspection service	inšpekčná služba
+installation optimisation	optimalizácia zariadenia
+installation requiring approval	potrebný súhlas pre inštaláciu zariadenia
+installation restoration	obnova zariadenia
+instep	priehlavok
+institutional activity	inštitucionálna činnosť
+institutional structure	inštitucionálna štruktúra
+institutionalisation	inštitucionalizácia
+instrument ; musical instrument	hudobný nástroj
+instrument manufacture	nástroj výroby
+instrumentation	prístrojová technika
+insulation	izolovanie
+insurance	poistenie
+insurance business	poisťovňa
+insurance coverage	poistné krytie
+integral natural reserve	integrálna prírodná rezervácia
+integrated environmental protection technology	integrovaná technológia ochrany životného prostredia
+integrated management	integrovaný manažment
+integrated pest control	integrovaná ochrana rastlín
+integrated pollution control	integrované riadenie znečisťovania
+intensive animal husbandry	intenzívna živočíšna výroba
+intensive farming	intenzívne hospodárenie na pôde
+inter-library loan	medziknižničná pôžička
+interaction of pesticides	interakcia pesticídov
+interchange of electronic data	výmena elektronických dát
+interdisciplinary research	medziodborový výskum
+interest	úrok
+interest group	záujmové združenie
+interim decision	dočasné rozhodnutie
+interlaboratory comparison	medzinárodné laboratórne porovnanie
+intermediate goods	polotovary
+intermittent noise	prerušovaný (diskontinuitný) hluk
+internal European market	vnútorný Európsky trh
+internal migration	vnútroštátna migrácia
+internalisation of external costs	internalizácia externých nákladov
+international agreement	medzinárodná dohoda
+international assistance	medzinárodná pomoc
+international balance	medzinárodná bilancia
+international co-operation	medzinárodná kooperácia
+international competitiveness	medzinárodná konkurencieschopnosť
+international conflict	medzinárodný konflikt
+international convention	medzinárodný dohovor
+international distribution	medzinárodná distribúcia
+international division of labour	medzinárodná deľba práce
+international economic law	medzinárodné právo ekonomické
+international environmental relations	medzinárodné environmentálne vzťahy
+international harmonisation	medzinárodná harmonizácia
+international law	medzinárodné právo
+international organisation	medzinárodná organizácia
+international politics	medzinárodná politika
+international relations	medzinárodné vzťahy
+international safety	medzinárodná bezpečnosť
+international standardisation	medzinárodná normalizácia
+international trade	medzinárodný obchod
+international transaction	medzinárodné porovnanie
+international watercourse	medzinárodný vodný tok
+internationally important ecosystem	medzinárodne významný ekosystém
+internet search service	služba vyhľadávania na internete
+internet service provider ; ISP ; Internet access provider ; Internet service provider	poskytovateľ internetu
+interpolation	interpolácia
+interpretation method	interpretačná metóda
+intertidal zone	intertidálna zóna
+intervention fund	intervenčný fond
+intervention in nature and landscape	zásah do prírody a krajiny
+intervention on land	opatrenia ochrany krajiny
+intoxication	intoxikácia
+introduction of animal species	introdukcia živočíšnych druhov
+introduction of plant species	introdukcia rastlinných druhov
+inventory	inventarizácia
+inventory of forest damage	inventarizácia škôd na lesoch
+inversion	inverzia
+inversion layer	inverzná vrstva
+invertebrate	bezstavovce
+investment	investícia
+iodine	jód
+ion	ióny
+ion exchange	iónová výmena
+ion exchanger	vymieňač iónov
+ionising radiation	ionizujúce žiarenie
+ionosphere	ionosféra
+iron	železo
+iron and steel industry	hutníctvo železa a ocele
+iron industry	železiarsky priemysel
+iron scrap	železný odpad
+ironwork industry	železiareň
+irradiation	ožiarenie
+irreversibility of the phenomenon	nezvratnosť fenoménu
+irrigation	zavlažovanie
+irrigation farming	závlahové hospodárenie
+irrigation system	zavlažovací systém
+island ; isle	ostrov
+island ecosystem	ostrovný ekosystém
+isomer	izomér
+isotope	izotop
+ivory	slonovina
+jazz	džez
+joint ; articulation	kíb ; kåb
+joint debtor	spoludlžníci
+joint implementation	spoločná implementácia
+journalism	žurnalistika
+judgement (sentence) ; sentence ; judgement	odsúdenie
+judicial assistance	súdna pomoc
+judicial body	súdny orgán
+judicial system	súdnictvo
+judiciary rule	súdny poriadok
+juridical act	právny akt
+jurisdiction	jurisdikcia
+jurisprudence	jurisprudencia
+justice	justícia
+karate	karate
+karst	kras
+kerosene	petrolej
+kettle	varák
+keyboard	klávesnica
+labelling	označovanie
+laboratory	laboratórium
+laboratory experiment	laboratórny experiment
+laboratory research	laboratórny výskum
+laboratory technique ; laboratory techniques	laboratórna technika
+laboratory test	laboratórny test
+laboratory waste	laboratórny odpad
+labour	práca
+labour force	pracovná sila
+labour law	pracovné právo
+labour market	trh práce
+labour relations	pracovné vzťahy
+lacquer	lak
+lagoon	lagúna
+lagooning	úprava odpadových vôd v kalovom rybníku
+lake	jazero
+lake basin	jazerná panva
+lake pollution	znečisťovanie jazera
+lamp ; light	lampa
+land	krajina ; zem ; zem
+land allotment	prídel pôdy
+land clearing	klčovanie
+land conservation	ochrana pôdy
+land consolidation	komasácia
+land cover	pokrytie krajiny
+land development	vývoj / rozvoj pôdy
+land disposal	uloženie (odpadu) v krajine
+land ecology	ekológia pôdy
+land forming	formovanie krajiny
+land mammal	pôdny cicavec
+land management and planning	priestorový manažment a plánovanie
+land occupation	využitie pôdy
+land planning	územné plánovanie
+land pollution	znečisťovanie krajiny
+land reclamation	kultivácia pôdy
+land register	kataster
+land restoration	obnova pôdy
+land restoration in mountain areas	obnova pôdy v horských oblastiach
+land setup	krajinná štruktúra
+land tax	pozemková daň
+land transportation	pozemná doprava
+land use	využitie územia
+land use classification	klasifikácia využitia územia
+land use plan	plán využitia krajiny
+land use planning	plánovanie využitia krajiny
+land use regime	režim využitia krajiny
+land value	hodnota krajiny
+land-based activity	pevninové aktivity
+land-based marine pollution	znečistenie mora z pevniny
+land-management intervention area	priestorový manažment v zasahovanej oblasti
+landfill	skládka
+landfill base sealing	tesnenie dna skládky
+landfill covering	uzavretie skládky
+landfill degasification	odplyňovanie skládky odpadu
+landfill gas	skládkový plyn
+landfill leachate	priesaková voda zo skládky
+landform	formy zemského povrchu
+landscape	krajina
+landscape after mining	krajina po banskej ťažbe
+landscape alteration	zmena krajiny
+landscape architecture	krajinná architektúra
+landscape component	krajinný prvok
+landscape conservation	ochrana krajiny
+landscape conservation policy	politika ochrany krajiny
+landscape consumption	využívanie krajiny
+landscape ecology	krajinná ekológia
+landscape management	obhospodarovanie krajiny
+landscape planning	krajinné plánovanie
+landscape protection	ochrana krajiny
+landscape protection area	chránená krajinná oblasť
+landscape utilisation	využitie krajiny
+landslide	zosúvanie
+language	jazyk
+large combustion plant	veľkokapacitná spaľovňa
+laser ; Light Amplification by Stimulated Emission of Radiation	laser
+latitude	zemepisná šírka
+laundering	pranie / čistenie prádla
+lavender ; lavander	sivka
+law	zákon
+law ; law (science)	právo (veda) ; právo
+law amendment	dodatok
+law branch	odvetvie práva
+law draft	návrh zákona
+law enforcement	uplatnenie práva
+law relating to prisons	zákon vzťahujúci sa k väzniciam
+lawrencium	lawrencium
+leaching	vylúhovanie
+lead	olovo
+lead compound	zlúčenina olova
+lead level in blood	hladina olova v krvi
+lead-in-petrol law	zákon o olovnatom benzíne
+leaf	list
+leakage	únik / presakovanie ; únik ; presakovanie
+lease	zmluva o prenájme
+leather	koža
+leather industry	kožiarsky priemysel
+legal basis	právna podstata
+legal form of organisations	legálne formy organizácií
+legal procedure	súdne konanie
+legal profession	právnické povolanie
+legal regulation	právny predpis
+legal remedy	opravný prostriedok
+legal system	právny systém
+legal text	právny dokument
+legally protected right	zákonne chránené právo
+legislation	legislatíva
+legislation on pollution	legislatíva o znečisťovaní
+legislative authority	zákonodarná moc
+legislative competence	zákonodarné kompetencie
+legislative information	právna informácia
+legislative procedure	legislatívne konanie
+legislature	zákonodarný zbor
+leisure activity	aktivity voľného času
+leisure centre	centrum voľného času
+leisure time	voľný čas
+lemon	citrón
+lens	šošovka
+lentil	šošovica
+lepidopteran	motýle
+less developed country	menej rozvinuté krajiny
+letter	písmeno
+leukaemia	leukémia
+level of education	úroveň vzdelania
+levy	odvod
+lexicon	lexikón
+liability	povinnosť
+liability legislation	legislatíva týkajúca sa zodpovednosti
+liberalism	liberalizmus
+librarian	knihovník
+library	knižnica
+library service	knižničná služba
+licencing procedure	postup schvaľovania
+lichen	lišajníky
+life cycle	životný cyklus
+life science	biologické vedy
+life-cycle management	riadenie recyklácie
+lifeguard	plavèík
+lifestyle	životný štýl
+light	svetlo
+lighting	blesk
+lignite	lignit
+lignite mining	ťažba lignitu
+lime	vápno
+limestone	vápenec
+limit value	hraničná (medzná) hodnota
+limnology	limnológia
+line	línia
+line source	líniový zdroj
+linear source of sound	lineárny zdroj zvuku
+liner material	tesniaci materiál
+linguistics	jazykoveda ; lingvistika
+lion	lev
+lip	pera
+lipid	lipid
+lipophilic substance	lipofilická látka
+liquefied gas	skvapalnený plyn
+liquid	tekutina
+liquid manure	močovka
+liquid state	kvapalný stav
+liquid waste	kvapalný odpad
+literature	literatúra
+literature data bank	databanka literatúry
+literature evaluation	ohodnotenie literatúry
+literature study	štúdium literatúry
+lithium	lítium
+lithography	litografia
+lithosphere	litosféra
+litigation	súdny spor
+litter	odpady ; stelivo
+little finger ; pinkie	malíček
+littoral	litorálne pásmo
+livestock	hospodárske zvieratá
+livestock breeding	šľachtenie hospodárskych zvierat
+livestock farming	chov hospodárskych zvierat
+living condition	životné podmienky
+living environment	biotické prostredie
+living space	životný priestor
+living standard	životná úroveň
+lizard	jaštery
+load bearing capacity	únosnosť zaťaženia
+local afforestation	lokálne zalesňovanie
+local authority	orgán miestnej správy
+local development	lokálny rozvoj
+local finance	komunálne financie
+local government	miestna správa
+local government policy	komunálna politika
+local heat supply	lokálne zásobovanie teplom
+local passenger service	miestna doprava osobná
+local recreation	miestna rekreácia
+local resource utilisation	lokálne využívanie zdrojov
+local traffic	miestna doprava
+location of industries	lokalizácia priemyslu
+locomotive	lokomotíva
+lodging	ubytovanie
+long-distance traffic	diaľková doprava
+long-distance transport	diaľkový transport
+long-term effect	dlhodobý vplyv
+long-term experiment	dlhodobý experiment
+longitude	zemepisná dĺžka
+lorry	nákladné auto
+loss	strata
+loss of biotope	úbytok biotopov
+lottery	lotéria
+loudness	hlasitosť
+love	láska
+low flow	minimálny prietok
+low-cost housing	lacné bývanie
+low-level flight	nízkoúrovňový let
+low-level technology	nízka technologická úroveň
+lubricant	mazadlo
+luminosity	žiarivosť
+lunch ; lunch ; lunch ; lunch ; luncheon	obed ; obed ; obed ; obed ; obed
+lye	lúh
+lymphatic system	lymfatický systém
+lysimetry	lyzimetria
+machine gun	guľomet
+machine manufacture	strojárenská výroba
+machinery ; mechanism	stroje
+macroeconomic goal	makroekonomický cieľ
+macroeconomics	makroekonómia
+macrophyte	makrofyty
+magnesium	horčík
+magnetic tape	magnetická páska
+magnetism	magnetizmus
+maintenance (technical) ; maintenance	údržba
+maintenance of environment	starostlivosť o prostredie
+major accident	závažnejšia havária
+major risk	hlavné riziko
+major risk installation	hlavné riziko zariadenia
+malaria	malária
+male ; man	muž
+malformation	štruktúrna porucha
+malnutrition	podvýživa
+mammal	cicavce
+man	človek
+man-made climate change	antropická zmena klímy
+management	manažment
+management accounting	hospodárske účtovníctvo
+management contract	manažérsky kontrakt
+management of natural resources	manažment prírodných zdrojov
+management plan	plán riadenia
+management technique	technika riadenia
+mandate	mandát
+manganese	mangán
+mango	mango
+mangrove	mangrovy
+manpower	pracovná sila
+manufacturing activity	výrobná činnosť
+manufacturing trade	priemyselný obchod
+manure	hnoj
+manure production	produkcia hnoja
+map	mapa
+map chart	mapový náčrt
+mapping	mapovanie
+mapping of lichens	mapovanie lišajníkov
+maquis	macchia
+marble	mramor
+mare	kobyla
+marginal land	nerentabilná pôda
+mariculture	pestovanie a chov morských organizmov v morskej vode
+marina	prímorská promenáda
+marine biology	morská biológia
+marine ecology	morská ekológia
+marine ecosystem	morský ekosystém
+marine engineering	lodné staviteľstvo
+marine environment	životné prostredie mora (oceánu) ; životné prostredie mora
+marine fauna	morská fauna
+marine fishery	morské rybárstvo
+marine geology	morská geológia
+marine mammal	morský cicavec
+marine monitoring	monitoring morí
+marine organism	morský organizmus
+marine park	morský park
+marine pollution	znečistenie mora
+marine reserve	morská rezervácia
+marital status	(manželský) stav
+maritime law	námorné právo
+maritime navigation	námorná plavba
+maritime transport	námorná preprava
+marker	referenčná látka
+market ; marketplace	trh
+market economy	trhové hospodárstvo
+market form	forma trhu
+market gardening	pestovanie zeleniny a ovocia na predaj
+market price	trhová cena
+market research	prieskum trhu
+market study	analýza trhu
+marketing	marketing
+marsh	marš
+marsupial	vačkovce
+masonry	murivo
+mass media	masmédiá
+mass recreation	skupinová rekreácia
+mass transport	hromadný transport
+material ; materials	materiál ; materiály
+material life cycle	kolobeh látok
+mathematical analysis	matematická analýza
+mathematical method	matematická metóda
+mathematics	matematika
+maximum admissible concentration	najvyššia prípustná koncentrácia
+maximum immission concentration	najvyššia koncentrácia imisií
+meadow	lúka
+means of agricultural production	prostriedky poľnohospodárskej výroby
+means of communication	komunikačné prostriedky
+measuring	meranie
+measuring instrument	merací prístroj
+measuring method	meracia metóda
+measuring programme	program merania
+meat	mäso
+mechanical equipment	mechanické zariadenie
+mechanical industry	strojný priemysel
+mechanical vibration	mechanické vibrácie
+medical science	lekárske vedy
+medicinal plant	liečivá rastlina
+medicine ; medicine (practice)	medicína
+megabyte	megabajt
+meitnerium	meitnerium
+melody ; tune	melódia
+melting	topenie
+membrane	membrána
+mendelevium	mendelevium
+merchant	kupec
+merchant shipping	lodná doprava obchodná
+mercury	ortuť
+metabolism	metabolizmus
+metabolite	metabolit
+metainformation	metainformácie
+metal	kov
+metal oxide	oxidy kovov
+metal product	kovové výrobky
+metal products industry	kovopriemysel
+metal waste	hutnícky odpad
+metallic mineral	kovový minerál
+metallurgical industry	hutnícky priemysel
+metallurgy	metalurgia
+metaphor	metafora
+metaphysics	metafyzika
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	meteor ; meteor ; meteor ; meteor ; meteor
+meteorological disaster	katastrofa zapríčinená extrémnym počasím
+meteorological parameter	meteorologický parameter
+meteorological phenomenon	meteorologický jav
+meteorological research	meteorologický výskum
+meteorology	meteorológia
+methane ; marsh gas ; methyl hydride	metán
+methanisation	metanizácia
+methanol	metanol
+method	metóda
+methodology	metodológia
+metrology	metrológia
+metronome	metronóm
+metropolis	metropola
+micro-organism	mikroorganizmus
+microbiological analysis	mikrobiologická analýza
+microbiology	mikrobiológia
+microclimate	mikroklíma
+microclimatology	mikroklimatológia
+microcomputer	mikropočítač
+microecosystem	mikroekosystém
+microelectronics ; microminiaturization ; microsystem electronics	mikroelektronika
+microfiltration	mikrofiltrácia
+micropollutant	mikropolutanty
+microscopy	mikroskopia
+microwave	mikrovlna
+migrant labour	migrácia za prácou
+migratory bird	sťahovavý vták
+migratory fish	migrujúce ryby
+military activities	vojenské aktivity
+military air traffic	vzdušná doprava vojenská
+military aspects	vojenské aspekty
+military equipment	vojenská výzbroj
+military zone	vojenské územie
+milk	mlieko
+mill	mlyn
+millet	pšeno ; proso
+mine	baňa
+mine filling	výplň bane
+mineral	minerál
+mineral conditioner	minerálne kypridlo
+mineral deposit	ložisko nerastných surovín
+mineral extraction	ťažba minerálov
+mineral fibre	minerálne vlákno
+mineral industry	priemysel minerálov
+mineral matter	minerálne látky
+mineral oil	minerálny olej
+mineral pollution	znečistenie minerálnymi látkami
+mineral resource	nerastné suroviny
+mineral waste	minerálny odpad
+mineral water	minerálna voda
+mineralisation	mineralizácia
+mineralogy	mineralógia
+minimal cost planning	plánovanie minimálnych nákladov
+minimisation of damage	minimalizácia škôd
+mining district	ťažobná oblasť
+mining industry	banský priemysel
+mining law	banský zákon
+mining product	produkt ťažby
+mining regulation	banský právny predpis
+mining site restoration ; mine reclamation	obnova miesta ťažby
+mining waste	banský odpad
+minister competence	ministerské kompetencie
+ministerial decree	ministerský dekrét
+ministry	ministerstvo
+ministry ; ministry building	budova ministerstva / vlády
+minor	nedospelý
+minority	menšina
+miscellaneous product	rozličný tovar
+miscibility	miešateľnosť
+mist	opar
+mite	roztoče
+mitigation measure	zmierňovacie opatrenie
+mitosis	mitóza
+mixed farming	zmiešané poľnohospodárstvo
+mixed forest	zmiešaný les
+mixed use area	oblasť s rozličným využitím
+mixing	miešanie
+mobile home	obytný príves
+mode of transportation	spôsob dopravy
+model	model
+modelling	modelovanie
+moisture	vlhkosť
+molar ; tooth	zub
+molecular biology	molekulárna biológia
+mollusc	mäkkýše
+molybdenum	molibdén
+monetary assessment	monetárne hodnotenie
+monetary economics	monetárna ekonomika
+monetary relations	menové vzťahy
+money market	peňažný trh
+monitoring	monitoring
+monitoring criterion	kritériá monitoringu
+monitoring data	monitorované dáta
+monitoring equipment	monitorovacie zariadenie
+monitoring network	monitorovacia sieť
+monitoring station	monitorovacia stanica
+monitoring technique	monitorovacia technika
+monopoly	monopol
+month	mesiac
+monument	pamätník
+moon ; moon ; satelite ; satelite	mesiac
+morphine	morfín
+morphology	morfológia
+mortality	mortalita
+mosaic	mozaika
+mosque	mešita
+moss	mach
+mother-in-law ; mother in law	svokra
+motor fuel	motorové palivo
+motor vehicle	motorové vozidlo
+motor vehicle exhaust gas	výfukové plyny motorových vozidiel
+motor vehicle industry	priemysel motorových vozidiel
+motor vehicle pollution	znečistenie motorovými vozidlami
+motorcycle ; motorbike	motocykel
+motorway ; pike ; expressway ; freeway ; state highway ; superhighway ; throughway ; thruway	diaľnica
+mountain	hora
+mountain climate	horské podnebie
+mountain forest	horský les
+mountain management	manažment horských oblastí
+mountain protection	ochrana horských oblastí
+mountain range	pohorie
+mountain resort	horská rekreačná oblasť
+mountainous area	horská oblasť
+mouse	myš
+mowing	kosenie
+mud	hlinitý íl (sediment) ; hlinitý íl
+mud flat	bahnitá plytčina v oblasti prílivu a odlivu
+mulch	mulč
+multilateral agreement	multilaterálna dohoda
+multimedia technology	multimediálna technológia
+multinational firm	nadnárodná firma
+multispectral scanner	multispektrálny skener
+municipal cleansing service	mestské / komunálne čistenie
+municipal dumping	mestská skládka
+municipal environment plan	environmentálny plán mesta
+municipal environmental policy	environmentálna politika mesta / obce
+municipal law	obecné právo
+municipal level	komunálna úroveň
+municipal waste	komunálny odpad
+municipal water distribution system	komunálny systém distribúcie vody
+municipal water management	komunálny manažment vôd
+municipality	obec
+muscular system	svalový systém
+museum	múzeum
+mushroom	hríb
+music	hudba
+mussel farming	chov lastúrnikov
+mustelid	lasicovité
+mutagen	mutagén
+mutagenicity	mutagénnosť
+mutagenicity testing	testovanie na mutagenicitu
+mutant	mutant
+mutated micro-organisms release	uvoľnenie zmutovaných mikroorganizmov
+mutation	mutácia
+mycete	mycéty
+mycology	mykológia
+mycorrhiza	mykoríza
+mysterious	tajomná
+myth	mýtus
+nadir	nadir
+nappy	plienka
+national accounting	národné účtovníctvo
+national boundary	štátna hranica
+national economy	národné hospodárstvo
+national environmental accounting	národné environmentálne účtovníctvo
+national fishing reserve	národná rybárska rezervácia
+national legislation	vnútroštátna legislatíva
+national park	národný park
+national planning	štátne plánovanie
+nationalisation	znárodnenie
+natural area	prírodná oblasť
+natural areas protection	ochrana prírodných území
+natural disaster	prírodná katastrofa
+natural environment	prírodné prostredie
+natural fertiliser	prírodné hnojivo
+natural fibre	prírodné vlákno
+natural forest	prírodný les
+natural gas	zemný plyn
+natural gas exploration	prieskum ložísk zemného plynu
+natural gas extraction	ťažba zemného plynu
+natural hazard	prírodný hazard
+natural heritage	prírodné dedičstvo
+natural heritage assessment	hodnotenie prírodného dedičstva
+natural material	prírodný materiál
+natural monument	prírodná pamiatka
+natural park	prírodný park
+natural radioactivity	prirodzená rádioaktivita
+natural regeneration	prirodzená regenerácia
+natural resource	prírodné zdroje
+natural resource conservation	ochrana prírodných zdrojov
+natural risk	prírodné riziko
+natural risk analysis	analýza prírodných rizík
+natural risks prevention	prevencia pred prírodnými rizikami
+natural scenery	prírodná scenéria
+natural science	prírodné vedy
+natural stone	prírodný kameň
+natural value	prírodná hodnota
+nature conservation	ochrana prírody
+nature conservation legislation	legislatíva týkajúca sa ochrany prírody
+nature conservation organisation	organizácie ochrany prírody
+nature conservation programme	program ochrany prírody
+nature protection	ochrana prírody
+nature reserve	prírodná rezervácia
+nausea	nevoľnosť
+navigation	plavba
+navigational hazard	plavebné / navigačné nebezpečenstvo
+necrosis	nekróza
+need	potreba
+neighbour ; vecino	sused
+neighbourhood noise	hluk z blízkeho okolia
+nematode	nematódy
+neodymium	neodým
+neologism	neologizmus
+neon	neón
+neoplasm ; tumour	nádor
+nepotism	nepotismo
+neptunium	neptunium
+nervous system	nervová sústava
+nesting	hniezdenie
+nesting area	oblasť hniezdenia
+netting policy (emissions trading) ; netting policy	netting policy (obchodovateľné emisné povolenia)
+neurotoxicity	neurotoxicita
+neutralisation	neutralizácia
+new ; novel	nový
+new community	nová komunita
+new installation	nové zariadenie
+new material	nový materiál
+new technology	nová technológia
+newsgroup	diskusná skupina
+newsletter	informačný spravodaj
+nickel	nikel
+niobium	niób
+nitrate	dusičnan
+nitrification	nitrifikácia
+nitro compound	dusíkatá zlúčenina
+nitrogen	dusík
+nitrogen cycle	kolobeh dusíka
+nitrogen dioxide	oxid dusičitý
+nitrogen fixation	viazenie dusíka
+nitrogen monoxide	oxid dusnatý
+nitrogen oxide	oxid dusíka
+nitrogen oxides	oxidy dusíka
+nitrogenous fertiliser	dusíkaté hnojivo
+nitrosamine	nitroamín
+noise	hluk
+noise ; noise, vibrations ; racket	hluk
+noise abatement	ochrana proti hluku
+noise analysis	analýza hluku
+noise barrier	protihluková bariéra
+noise control	redukcia hlučnosti
+noise disturbance ; noise pollution	rušivý hluk
+noise emission	emisia hluku
+noise emission levy	daň z emisií hluku
+noise exposure plan	plán expozície hluku
+noise immission	imisia hluku
+noise legislation	legislatíva týkajúca sa hluku
+noise level	hladina hluku
+noise measurement	meranie hluku
+noise pollutant	škodlivý hluk
+noise pollution	hlukové zaťaženie
+noise protection	ochrana proti hluku
+noise reduction	znižovanie hluku
+noise spectrum	hlukové spektrum
+noise-free technology	nehlučná technológia
+nomad	kočovník
+nomenclature	nomenklatúra
+non-biodegradable pollutant	biologicky nerozložiteľná znečisťujúca látka
+non-built-up area	nezastavaná oblasť
+non-conventional energy	nekonvenčná energia
+non-demesnial water	súkromná voda
+non-durable goods	tovar krátkodobého užitia
+non-ferrous metal	neželezný kov
+non-ferrous metal industry	priemysel neželezných kovov
+non-governmental organisation	nevládna organizácia
+non-ionising radiation	neionizujúce žiarenie
+non-metal	nekovy
+non-metallic mineral	nekovový minerál
+non-polluting energy source	zdroj energie neznečisťujúci prostredie
+non-polluting fuel	ekologicky čisté palivo
+non-renewable energy resource	neobnoviteľné zdroje energie
+non-renewable resource	neobnoviteľné zdroje
+non-residential building	nebytová výstavba
+non-returnable container	nevratný obal
+non-target organism	necieľový organizmus
+non-volatile substance	neprchavá látka
+norm	norma
+nosotros ; we	my
+not	nie
+note	nota
+notice	oznámenie
+notification	hlásenie
+noun ; substantive	podstatné meno
+nuclear accident	jadrová havária
+nuclear debate	diskusia o jadrovej energii
+nuclear energy	jadrová energia
+nuclear energy legislation	legislatíva týkajúca sa jadrovej energie
+nuclear energy use	využitie jadrovej energie
+nuclear explosion (accident) ; nuclear explosion	jadrový výbuch (havária) ; jadrový výbuch
+nuclear facility	jadrová prevádzka
+nuclear fission	štiepenie jadra atómu
+nuclear fuel	jadrové palivo
+nuclear fuel element	rádioaktívny chemický prvok
+nuclear fusion	syntéza jadier
+nuclear hazard	jadrové nebezpečenstvo
+nuclear physics	jadrová fyzika
+nuclear power plant	jadrová elektráreň
+nuclear reaction	jadrová reakcia
+nuclear reactor	jadrový reaktor
+nuclear research centre	stredisko jadrového výskumu
+nuclear risk	jadrové riziko
+nuclear safety	jadrová bezpečnosť
+nuclear test	jadrový pokus
+nuclear weapon	jadrová zbraň
+nucleic acid	nukleová kyselina
+nursery (plant breeding) ; nursery ; plant nursery	škôlka ; škôlka (pestovanie rastlín)
+nutcracker	luskáčik
+nutrient	živina
+nutrient balance	bilancia živín
+nutrient content	obsah živín
+nutrient cycle	kolobeh živín
+nutrient medium	živné médium
+nutrient removal	odstraňovanie živín
+nutrition	výživa
+nutritive value of food	výživná hodnota potravy
+oak	dub
+obesity	obezita
+obey	poslúchnuť
+objection	námietka
+obligation to inform	povinnosť informovať
+obligation to label	povinnosť značenia
+observation satellite	pozorovací satelit
+occupational disease	choroba z povolania
+occupational health	pracovná hygiena
+occupational health care	starostlivosť o hygienu práce
+occupational medicine	pracovné lekárstvo
+occupational safety	bezpečnosť práce
+occupational safety regulation	predpis o bezpečnosti práce
+occupational status	pracovné postavenie
+ocean ; sea ; body of water ; bounding main	oceán
+ocean circulation	prúdenie vody v oceáne
+ocean current	morský prúd
+ocean dumping	uloženie odpadov do mora
+ocean exploitation	využívanie morí / oceánov
+ocean temperature	teplota oceánu / mora
+ocean-air interface	rozhranie atmosféra - oceán
+oceanic climate	oceánske podnebie
+oceanography	oceánológia
+odour	zápach
+off-peak travelling	mimosezónne cestovanie
+off-site	mimo obvyklého miesta / lokality
+offence against the environment	delikt proti životnému prostrediu
+office	úrad
+official duty	úradná povinnosť
+official hearing	oficiálne pojednávanie
+official language	úradný jazyk
+offset policy (emissions trading)	offset policy (obchodovateľné emisné povolenia)
+offshore mining	pobrežná ťažba
+oil and fat industry	priemysel olejov a tukov
+oil binding agent	látka absorbujúca ropu
+oil boom	protiropná záchytná bariéra
+oil disaster	ropná havária
+oil exploration	prieskum ložísk ropy
+oil extraction	ťažba ropy
+oil pipeline	ropovod
+oil pollution	znečistenie ropnými produktmi
+oil pollution abatement	zmiernenie znečistenia ropnými produktmi
+oil production (chain)	spracovanie ropy
+oil recovery vessel	loď na zber ropy
+oil refinery	rafinéria ropy
+oil residue recuperation	rekuperácia olejových usadenín / kalu
+oil slick	ropná škvrna
+oil spill	ropné znečistenie
+oil tanker	ropný tanker
+oil-based energy	energia z ropy / ropných produktov
+old hazardous site	nebezpečné miesto
+old landfill site	starý sklad
+olfactory pollution	znečistenie vonnými látkami
+oligarchy	oligarchia
+olive oil mill wastewater	zbytok oleja
+omega	omega
+on-line service	on-line služba
+on-site wastewater treatment	čistenie odpadových vôd na mieste vzniku
+oncology	onkológia
+one	jedna
+onion	cibuľa
+ontogenesis ; ontogenesis ; ontogeny	ontogenéza ; ontogenéza
+ontology	ontológia
+open lawn	otvorený trávnik
+open sea	voľné more
+open sea fishing	rybolov na otvorenom mori
+opencast mining ; open-pit mining	povrchová ťažba
+opera	opera
+operating data	technické / prevádzkové údaje
+operetta	opereta
+opinion ; stance	názor
+opinion survey	prieskum názorov
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimizmus ; optimizmus ; optimizmus
+orchid	orchidea
+order	rozhodnutie
+order	rozhodnutie ; rozhodnutie (uznesenie)
+ordinance	nariadenie
+ore	ruda
+organ	orgán
+organelle	organela
+organic carbon	organický uhlík
+organic chemistry	organická chémia
+organic farming	organické poľnohospodárstvo
+organic matter	organické látky
+organic nitrogen	organický dusík
+organic pollutant	organický polutant
+organic pollution	organické znečistenie
+organic solvent	organické rozpúšťadlo
+organic substance	organické látky
+organic waste	organický odpad
+organisation (law)	organizácia
+organisation of teaching	organizácia školstva
+organisation of the legal system	usporiadanie právneho systému
+organism	organizmus
+organochlorine compound	organická zlúčenina chlóru
+organohalogen compound	organická zlúčenina halogénu
+organoleptic property	organoleptické vlastnosti
+organometallic compound	organokovová zlúčenina
+organonitrogen compound	organická zlúčenina dusíku
+organooxygen compound	organická zlúčenina kyslíku
+organophosphorous compound	organická zlúčenina fosforu
+organosulphur compound	organická zlúčenina síry
+ornithology	ornitológia
+orography	orografia
+orphan	sirota
+orthography	pravopis
+orthopteran	rovnokrídlovce
+osmosis	osmóza
+ostrich	pštros
+outer space (allocation plan) ; outer space	vonkajší priestor (alokačný plán) ; vonkajší priestor
+ovary	vaječník
+oven	pec
+overburden	odkrývka
+overexploitation	nadmerné využívanie
+overfertilisation	nadmerné hnojenie
+overfishing	nadmerný lov rýb
+overflow (outlet)	prepad (výpust)
+overgrazing	nadmerné spásanie (pasienkov)
+overhead power line	nadzemné elektrické vedenie
+overpopulation	preľudnenosť
+overturn (limnology)	cirkulácia
+overwintering	prezimovanie
+ovine	ovce
+ownership	vlastníctvo
+oxidation	oxidácia
+oxidation-reduction	redoxná reakcia
+oxide	oxidy
+oxidisable material	oxidovateľný materiál
+oxidising agent	oxidačné činidlo
+oxygen	kyslík
+oxygen content	obsah kyslíka
+oxygenation	oxygenácia
+oyster farming	chov ustríc
+ozone	ozón
+ozone depletion potential	potenciál redukcie ozónu
+ozone layer	ozónová vrstva
+ozone layer depletion	redukcia ozónovej vrstvy
+ozonisation	ozonizácia
+pacifist	pacifista
+packaging	balenie
+packaging waste	odpad z obalov
+packing industry	obalový priemysel
+paediatrician	pediater
+page	strana
+paint	náterová látka
+paint room	lakovňa
+paint shop	obchod s farbami a lakmi
+painting business	maliarstvo
+palaeoclimatology	paleoklimatológia
+palaeoecology	paleoekológia
+palaeontology	paleontológia
+paper	papier
+paper industry	papiernický priemysel
+parabola	parabola
+parameter	parameter
+parasite	parazit
+parasitology	parazitológia
+parking provision	zabezpečenie parkovania
+parliamentary debate	parlamentná diskusia
+parliamentary report	parlamentná správa
+parrot	papagáj
+part of speech ; lexical category	slovný druh ; slovný druh ; slovný druh
+partially halogenated chlorofluorohydrocarbon	HCFC
+participation	účasť
+particle	častica
+particle separator	separátor častíc
+party ; political party	politická strana
+passenger transport	osobná doprava
+paste-like waste	pastovitý odpad
+pasture	pastvina
+patent	patent
+path	chodník
+pathogen	patogén
+pathogenic organism	patogénny organizmus
+pathologic effect	patologický vplyv
+pathology	patológia
+patrimonial management	patrimoniálny manažment
+pattern recognition	rozpoznávací vzor
+pay policy	mzdová politika
+peace	mier
+peacekeeping	zachovanie mieru
+pear	hruška
+peat	rašelina
+peat extraction	ťažba rašeliny
+pedagogy	pedagogika
+pedestrian zone ; pedestrian area ; car-free zone ; auto-free zone ; pedestrianised zone	pešia zóna
+pedosphere	pedosféra
+penalty	trest / penále ; trest ; penále
+penalty for environmental damage	pokuta za škody na životnom prostredí
+pencil	ceruza ; ceruzka
+peninsula	polostrov
+pentachlorophenol	pentachlórfenol
+per capita data	údaje na jedného obyvateľa / osobu
+percolating water	presakujúca voda
+periodic table	periodická tabuľka
+peripheral park area	vonkajšia zóna parku
+periphyton	perifytón
+periurban space	mestská okrajová oblasť
+permeability	priepustnosť
+permissible exposure limit	prípustná hranica expozície
+permission	povolenie
+peroxyacetylnitrate	peroxyacetylnitrát
+persistant organic pollutant	nerozložiteľný organický polutant
+persistence	perzistencia
+persistence of pesticides	perzistencia pesticídov
+person	osoba
+personal responsibility	osobná zodpovednosť
+pest	škodca
+pest control	ochrana proti škodcom
+pest infestation	zamorenie škodcami
+pesticide	pesticíd
+pesticide control standard	norma ochrany proti škodcom
+pet	domáce zviera
+petition	petícia
+petition right	petičné právo
+petrochemical	výrobok z chemického spracovania ropy
+petrochemical industry	petrochemický priemysel
+petrol	benzín
+petroleum	ropa
+petroleum consumption	spotreba ropy
+petroleum industry	ropný priemysel
+phanerogam ; spermatophyte	semenné rastliny
+pharmaceutical industry	farmaceutický priemysel
+pharmaceutical waste	farmaceutický odpad
+pharmacokinetics	farmakokinetika
+pharmacology	farmakológia
+pheasant	bažant
+phenol	fenol
+pheromone	feromón
+philology	filológia
+philosophy	filozofia
+phishing	phishing
+phone ; telephone	telefon
+phosphate	fosforečnan
+phosphate removal	odstraňovanie fosforečnanov
+phosphate substitute	náhrada fosforečnanov
+phosphatic fertiliser	fosforečné hnojivo
+phosphorus	fosfor
+photo ; photograph	fotografia
+photochemical agent	fotochemické činidlo
+photochemical oxidant	fotochemický oxidant
+photochemical pollution	fotochemické znečistenie
+photochemical product	fotochemický produkt
+photochemical reaction	fotochemická reakcia
+photochemical smog	fotochemický smog
+photodegradation	fotodegradácia
+photogrammetry	fotogrametria
+photography	fotografovanie
+photosynthesis	fotosyntéza
+physical alteration	fyzikálna zmena
+physical chemistry	fyzikálna chémia
+physical conditions	fyzikálne vlastnosti
+physical geography	fyzická geografia
+physical measurement of pollution	fyzikálne meranie znečistenia
+physical planning	priestorové plánovanie
+physical pollutant	fyzikálny polutant
+physical pollution	fyzikálne znečistenie
+physical process	fyzikálny proces
+physical property	fyzikálna vlastnosť
+physical science	fyzikálne vedy
+physical treatment	fyzikálna úprava
+physicochemical analysis	fyzikálno-chemická analýza
+physicochemical process	fyzikálno-chemický proces
+physicochemical purification	fyzikálno-chemické čistenie
+physicochemical treatment	fyzikálno-chemická úprava / spracovanie
+physics	fyzika
+physiology	fyziológia
+phytomass	fytomasa
+phytopathology	fytopatológia
+phytoplankton	fytoplanktón
+phytosanitary treatment	fytosanitárna úprava
+phytosociology	fytosociológia
+phytotoxicity	fytotoxicita
+pickling plant	prevádzka na morenie
+pigeon ; dove	holub
+piggery	ošipáreň
+pilot plant	skúšobné zariadenie
+pilot project	pilotný projekt
+pilotage	pilotáž
+pinniped	plutvonožce
+pino ; pine	pínia
+pipe	rúra
+pipeline	potrubie (diaľkové) ; potrubie
+pity ; compassion	súcit
+pixel	pixel
+place ; location	miesto
+plain	rovina
+plan	plán
+plane	rovina
+plane source	plošný zdroj
+plankton	planktón
+planning	plánovanie
+planning law	právo týkajúce sa plánovania
+planning measure	plánovacie opatrenie
+planning permission	stavebné povolenie
+plant	rastliny
+plant biology	biológia rastlín
+plant breeding	šľachtenie rastlín
+plant community	fytocenóza
+plant component	časť rastliny
+plant disease	choroba rastlín
+plant ecology	ekológia rastlín
+plant equipment	zariadenie podniku
+plant heritage	rastlinné dedičstvo
+plant physiology	fyziológia rastlín
+plant population	populácia rastlín
+plant production	rastlinná výroba
+plant protection	ochrana rastlinných druhov
+plant protection product	prostriedok na ochranu rastlín
+plant reproduction	rozmnožovanie rastlín
+plant resource	rastlinné zdroje
+plant selection	selekcia rastlín
+plant species	rastlinný druh
+plant species reintroduction	reintrodukcia rastlinných druhov
+plant textile fibre	textilné vlákno rastlinné
+plant trade	obchod s rastlinami
+planting	sadenie
+plasma technology	plazmová technológia
+plastic	plast
+plastic waste	plastový odpad
+platinum	platina
+pleasure cruising	výletná plavba
+plutonium ; plutonium ; plutonium	plutónium ; plutónium ; plutónium
+point	bod
+point source	bodový zdroj
+poison	jed
+poisoning	otrava
+polar region	polárna oblasť
+polder	poldre
+police	polícia
+police law	zákon o polícii
+police power	policajná moc
+policy	politika
+policy guideline	línia politiky
+policy instrument	nástroj politiky
+policy integration	politika integrácie
+policy planning	plánovanie politiky
+political counselling	politické poradenstvo
+political doctrine	politická náuka
+political ecology	politická ekológia
+political geography	politická geografia
+political ideology	politická ideológia
+political organisation	politická organizácia
+political power	politická moc
+politics	politika
+pollen	peľ
+pollutant	znečisťujúca látka
+pollutant absorption	absorpcia znečisťujúcej látky
+pollutant accumulation	akumulácia znečisťujúcej látky
+pollutant analysis	analýza znečisťujúcej látky
+pollutant assessment	posudzovanie znečisťujúcich látok
+pollutant concentration	koncentrácia znečisťujúcich látok
+pollutant degradation	degradácia znečisťujúcej látky
+pollutant deposition	depozícia znečisťujúcich látok
+pollutant dispersion	disperzia / rozptyl znečisťujúcich látok
+pollutant distribution	distribúcia znečisťujúcej látky
+pollutant elimination	eliminácia znečisťujúcej látky
+pollutant emission	emisie znečisťujúcej látky
+pollutant evolution	vývoj znečisťujúcej látky
+pollutant exposure	expozícia znečisťujúcich látok
+pollutant flow	prúdenie znečisťujúcej látky
+pollutant formation	tvorba znečisťujúcej látky
+pollutant immission	imisie znečisťujúcej látky
+pollutant immobilisation	imobilizácia znečisťujúcej látky
+pollutant migration	migrácia znečisťujúcich látok
+pollutant monitoring	monitoring znečisťujúcich látok
+pollutant pathway	trasa znečisťujúcej látky
+pollutant reduction	redukcia znečisťujúcej látky
+pollutant remobilisation	remobilizácia znečisťujúcej látky
+polluted matter	znečistená hmota
+polluted site	znečistené miesto
+polluter-pays principle	princíp "znečisťovateľ platí"
+pollution	znečistenie
+pollution abatement	redukcia znečistenia
+pollution abatement equipment	zariadenie na redukciu znečisťovania
+pollution abatement waste	odpady z čistiacich procesov
+pollution control	znižovanie znečisťovania
+pollution control equipment	zariadenie na kontrolu znečistenia
+pollution control investment	investícia do zariadenia na znižovanie znečisťovania
+pollution control measure	opatrenie na znižovanie znečisťovania
+pollution control technology	technológia na znižovanie znečisťovania
+pollution cost	náklady vzniknuté za znečisťovanie
+pollution effect	vplyv znečistenia (na prostredie)
+pollution indicator	indikátor znečistenia
+pollution insurance	environmentálne poistenie
+pollution liability	zodpovednosť za znečistenie
+pollution load	rozsah znečistenia
+pollution measurement	meranie znečistenia
+pollution monitoring	monitoring znečistenia
+pollution norm	norma prípustného znečistenia
+pollution prevention	ochrana pred znečistením
+pollution risk	riziko spôsobené znečistením
+pollution type	typ znečistenia
+polonium	polónium
+polybrominated biphenyl	polybrómovaný bifenyl
+polychlordibenzo-p-dioxin	polychlórovaný dibenzodioxín
+polychlorinated biphenyl	polychlórovaný bifenyl
+polychlorinated dibenzofuran	polychlórovaný dibenuofurán
+polychlorinated terphenyl	polychlórovaný terfenyl
+polycyclic aromatic hydrocarbon	polycyklický aromatický uhľovodík
+polycyclic hydrocarbon	polycyklický uhľovodík
+polyethylene terephtalate	polyetylénterftalát
+polygon	polygón
+polymer	polymér
+polymerisation	polymerizácia
+polyvinyl chloride	polyvinylchlorid
+pond	rybník
+pool ; puddle ; puddle	jazierko
+pope	pápež
+population	populácia
+population density	populačná hustota
+population dynamics	populačná dynamika
+population ecology	populačná ekológia
+population growth	populačný rast
+population movement	populačný pohyb
+population structure	štruktúra populácie
+population trend	populačný trend
+porcelain	porcelán
+poriferan	hubky
+posidonia ; neptunegrass	Posidonia
+positron	pozitrón
+possession	vlastníctvo
+post-treatment	dodatočná úprava
+potash	uhličitan draselný
+potassium	draslík
+potassium fertiliser	draselné hnojivo
+potato ; patato	zemiaky
+poultry	hydina
+poultry farming	chov hydiny
+poverty	chudoba
+power (physics) ; power	výkon
+power company	energetický podnik
+power station	elektráreň
+power station derating	odstavenie elektrárne z prevádzky
+power-heat relation	vzťah energia - teplo
+praseodymium	prazeodým
+pre-emption	predkupné právo
+pre-emption zone	oblasť pozemkov, kde sa uplatňuje predkupné právo
+precautionary principle	princíp prevencie
+precipitation ; precipitation (chemical)	zrážanie (chemicky) ; zrážanie
+precipitation enhancement	zvýšenie množstva zrážok
+precision engineering	presné strojárenstvo
+predator	predátor
+prefabricated building	panelák ; prefabrikovaná budova
+pregnancy	tehotenstvo
+preliminary proceedings	predbežné konanie
+premium	prémia
+preparation for market	príprava produktov na trh
+prescription	predpis
+preservation of evidence	zachovanie dôkazov
+preservative	konzervačný prostriedok
+preserve	konzerva
+press	tlač
+pressing	lisovanie (ovocia)
+pressure	tlak
+pressure equipment	pretlakové zariadenie
+pressure group	nátlaková skupina
+prevention measure	preventívne opatrenie
+prevention of forest fires	preventívne opatrenia proti lesným požiarom
+preventive health measure	preventívne opatrenie ochrany zdravia
+preventive information	preventívne informácie
+price	cena
+prices policy	cenová politika
+pricing policy of resources	cenová politika zdrojov
+primary education	základné vzdelanie
+primary energy consumption	spotreba primárnej energie
+primary forest	primárny les
+primary sector	primárne odvetvie
+primary treatment	primárne (mechanické) čistenie
+primate	primáty
+prime number ; prime	prvočíslo
+principle of sustainability	princíp trvalej udržateľnosti
+printing work	tlačiareň
+private car	súkromný automobil
+private domain	súkromný statok
+private forest	súkromný les
+private household	súkromná domácnosť
+private international law	medzinárodné právo súkromné
+private law	súkromné právo
+private sector	privátny sektor
+private transport	individuálna doprava
+privatisation	privatizácia
+problem	problém
+proboscidean	slony
+procaryote	prokaryotné organizmy
+procedural law	procesné právo
+process analysis	analýza procesu
+process technology	technológia výrobného procesu
+process water	priemyselná / úžitková voda
+processed agricultural produce	spracovaný poľnohospodársky produkt
+processed foodstuff	spracované potraviny
+processing	spracovanie
+producer liability	zodpovednosť výrobcu
+product	produkt
+product advertising	propagácia produktu
+product comparison	porovnanie produktu
+product evaluation	ohodnotenie produktu
+product identification	označovanie výrobku
+product information	informácia o produkte
+product liability	zodpovednosť za výrobok / služby
+product life cycle	životný cyklus výrobku
+product standard	norma výrobku
+production policy	výrobná politika
+productivity	produktivita
+productivity trend	trend produktivity
+profit	zisk
+prognostic data	prognostické údaje
+programme	program
+progress line	čiara vodného stavu
+prohibition	zákaz
+project	projekt
+promotion of trade and industry	podpora obchodu a priemyslu
+propagation process	proces rozširovania
+propellant	palivo
+properties of materials	vlastnosti látok
+property protection	ochrana vlastníctva
+propulsion technique	pohonná technika
+prosecution	trestné stíhanie
+prosperity	blahobyt
+prostate	predstojnica
+protected area	chránené územie
+protected landscape	chránená krajina
+protected marine zone	chránená morská oblasť
+protected species	chránený druh
+protection from neighbours	ochrana pred susedmi
+protection of animals	ochrana živočíchov
+protection of birds	ochrana vtáctva
+protection of species	ochrana druhov
+protection system	ochranný systém
+protective measure	ochranné opatrenie
+protein ; poly peptide	bielkovina
+protein product	bielkovinový výrobok
+protocol	protokol
+protozoan	prvoky
+proverb ; saying ; maxim	rčenie
+province	provincia
+provincial/regional authority (D) ; regional authority ; provincial authority	provinčný / regionálny úrad ; provinčný úrad ; regionálny úrad
+provincial/regional law (D) ; regional legislation	provinčné / regionálne právo
+pruning	prerezávanie
+psychiatrist	psychiater
+psychic effect	psychický vplyv
+psychological effect	psychologický vplyv
+psychological stress	psychologický stres
+psychology	psychológia
+psychosomatic effect	psychosomatický vplyv
+psychosomatic illness	psychosomatické ochorenie
+public	verejnosť
+public access to land	verejný prístup k územiu
+public action	verejná činnosť
+public aid	verejná pomoc
+public attendance	účasť verejnosti
+public awareness campaign	verejná kampaň
+public bath	verejné kúpele
+public benefit inquiry	verejný prospech ankety
+public building	verejná budova
+public contract	verejný kontrakt
+public debt	verejný (štátny) dlh
+public discussion	verejná diskusia
+public domain	verejné (štátne) pozemky
+public expenditure	štátne výdavky
+public finance	štátne financie
+public financing	štátne financovanie
+public function	verejná služba
+public health	zdravie obyvateľstva
+public hearing	verejné konanie
+public information	informácie pre verejnosť
+public inquiry	anketa
+public institution	štátna inštitúcia
+public institution of administrative nature	štátna inštitúcia správy
+public institution of industrial and commercial nature	štátna inštitúcia obchodu a priemyslu
+public international law	medzinárodné právo verejné
+public law	verejné právo
+public maritime domain	spoločné využívanie morskej oblasti
+public opinion	verejná mienka
+public opinion polling	prieskum verejnej mienky
+public park	verejný park
+public participation	účasť verejnosti
+public procurement	verejné zaobstarávanie
+public prosecutor's office	kancelária prokurátora
+public relations	public relations
+public sector	verejný sektor
+public transport	verejná doprava
+public transport vehicle	vozidlo verejnej dopravy
+public utility	verejnoprospešný podnik
+public waterways domain	verejná vodná cesta
+public works	verejné práce
+public-private partnership	verejno-súkromná organizácia
+pulmonary disease	pľúcne ochorenie
+pump	čerpadlo
+pumping	čerpanie
+purification	purifikácia
+purification facility	čistiace zariadenie
+purification plant	čistiareň
+purification through the soil	čistenie cez pôdu
+purifying power	čistiaca sila
+purin	purín
+pyralene	pyralén
+pyrolysis	pyrolýza
+quality assurance	záruka kvality
+quality certification	certifikácia kvality
+quality control	kontrola kvality
+quality objective	cieľ kvality
+quality of life	kvalita života
+quality standard	norma kvality
+quarry	kameňolom
+quarrying	povrchová ťažba
+quartering	štvrtenie
+queen	kráľovná
+rabbit	králik
+race relations	vzťahy medzi rasami
+racking	dekantácia
+radar	radar
+radiation ; radiations	radiácia
+radiation damage	škody spôsobené žiarením
+radiation dose	dávka žiarenia
+radiation effect	vplyv žiarenia
+radiation exposure	záťaž žiarením
+radiation physics	fyzika žiarenia
+radiation protection	ochrana pred žiarením
+radiation protection law	zákon týkajúci sa ochrany pred žiarením
+radiation sickness	ochorenie z ožiarenia
+radio	rozhlas
+radio programme	rozhlasový program
+radioactive contamination	rádioaktívna kontaminácia
+radioactive decontamination	rádioaktívna dekontaminácia
+radioactive dumping	skládkovanie rádioaktívneho odpadu
+radioactive emission	rádioaktívne emisie
+radioactive fallout	rádioaktívny spád
+radioactive pollutant	rádioaktívna znečisťujúca látka
+radioactive substance	rádioaktívna látka
+radioactive tracer	rádioaktívna stopovacia látka
+radioactive waste ; nuclear waste	rádioaktívny odpad
+radioactivity ; radioactive decay	rádioaktivita
+radioelement	rádioaktívny prvok
+radionuclide	rádionuklid
+radium	rádium
+radon	radón
+rag	textilný odpad
+rail traffic	železničná doprava
+rail transport	železničná doprava
+railroad vehicle ; carriage ; wagon	železničný voz
+railway	železnica
+railway network	železničná sieť
+railway station	železničná stanica
+rain	dážď
+rain forest	dažďový les
+rain water	dažďová voda
+rain water sewer system	kanalizácia
+rainout	vymývanie dažďom
+raising a site	vyvýšenie miesta
+random test	námatková skúška
+rape	repka olejná
+rapid test	rýchlotest
+rapid transit train	rýchlovlak
+rare species	vzácny druh
+raster	raster
+raster to vector	raster na vektor
+rate	pomer
+raw material	surovina
+raw material consumption	spotreba surovín
+raw material securing	zabezpečenie surovinových zdrojov
+raw water	surová voda
+reaction kinetics	reakčná kinetika
+reactor	reaktor
+reactor safety	bezpečnosť reaktora
+reasonableness	racionálnosť
+recipe	recept
+reclamation industry	priemysel recyklácie odpadov
+recombinant DNA technology	technológia rekombinácie DNA
+recommendation	odporúčanie
+recording of substances	registrácia látok
+recovery of landscape	regenerácia krajiny
+recovery plan	plán regenerácie
+recreation	rekreácia
+recreational area	rekreačná oblasť
+recyclability	recyklovateľnosť
+recyclable plastic	recyklovateľný plast
+recycled material	recyklovaný materiál
+recycled paper	recyklovaný papier
+recycling	recyklácia
+recycling management and waste law	riadenie recyklácie a zákon o odpadoch
+recycling potential	recyklačný potenciál
+recycling ratio	recyklačný pomer
+red tide	červený kal
+redress	náprava
+reed	rákos
+reef	útes
+reference service	referenčná služba
+referendum ; plebiscite	referendum
+referral information	metainformácia
+referral information system	metainformačný systém
+refinery	rafinéria
+refining	rafinácia
+reflection	odraz
+reflectometry	reflektometria
+reforestation	zalesňovanie
+refrigerant	chladiaca látka
+refrigeration	chladenie
+refrigeration industry	chladiarenský priemysel
+refrigerator	chladnička
+refrigerator ; fridge	ľadnička
+refuge	refúgium
+refugee	utečenec
+refuse collection vehicle	smetiarsky voz
+refuse derived fuel	odpadky používané ako palivo
+refuse shredder	rozdrvený odpad
+refuse-sludge compost	kompost z odpadov a kalu
+regeneration	regenerácia
+region	región
+regional authority	krajský úrad
+regional convention	regionálna konvencia
+regional development	regionálny rozvoj
+regional law	regionálne právo
+regional natural park	regionálny prírodný park
+regional plan	regionálny plán
+regional planning	regionálne plánovanie
+regional regulation	regionálne nariadenie
+regional statistics	regionálna štatistika
+regional structure	regionálna štruktúra
+registered site	evidované územie
+registration	registrácia
+registration obligation	prihlasovacia povinnosť
+registration proceeding	registračná procedúra
+regulation	nariadenie
+regulation of agricultural production	regulácia poľnohospodárskej produkcie
+regulation on maximum permissible limits	nariadenie o maximálne prípustných limitoch
+regulative law	regulatívne právo
+rehousing	presťahovanie
+reintroduction	reintrodukcia
+relational database	relačná databáza
+release of organisms	vypustenie organizmov
+relief (land)	reliéf
+religion	náboženstvo
+remote sensing	diaľkový prieskum
+remote sensing centre	centrum diaľkového prieskumu
+removal	odstránenie
+renaissance	renesancia
+renaturation	renaturácia
+renewable energy source	obnoviteľný energetický zdroj
+renewable raw material	obnoviteľný surovinový zdroj
+renewable resource	obnoviteľné zdroje
+repair business	opravárenská služba
+replacement	náhrada
+replacement cost	reprodukčné náklady
+report on the state of the environment	správa o stave životného prostredia
+report to the minister	správa pre ministra
+reporting process	proces hlásenia / zaznamenania
+representation	zastúpenie
+repression	potlačenie
+reprocessing	prepracovanie jadrového paliva
+reproduction	rozmnožovanie
+reproductive manipulation	reprodukčná manipulácia
+reptile ; reptile ; reptile	plazy ; plazy ; plazy
+rescue service	záchranná služba
+rescue system	záchranný systém
+research	veda a výskum ; výskum
+research centre	výskumné centrum
+research of the effects	výskum vplyvov
+research policy	politika výskumu
+research project	výskumný projekt
+reserve	rezervácia
+reservoir	rezervoár
+residential area	obytná oblasť
+residential area with traffic calmings	obytná oblasť s obmedzenou dopravou
+residential building	obytná budova
+residual amount of water	zvyškové množstvo vody
+residual pesticide	rezíduum pesticídu
+residual risk	doznievajúce riziko
+residual waste	zvyškový odpad
+residual waste sludge	zvyškový odpadový kal
+residue analysis	analýza zvyškov
+residue of grinding	zvyšky po drvení
+residue recycling	recyklácia zvyšku
+resin	živica
+resinous plant	rastlina tvoriaca živicu
+resistance (biological) ; resistance	rezistencia
+resolution	rezolúcia
+resolution ; resolution (parameter)	rozlíšenie
+resorption	resorpcia
+resource ; resources	zdroje
+resource appraisal	ocenenie zdrojov
+resource conservation	ochrana zdrojov
+resource exploitation	využívanie zdrojov
+resource reserve	zásoby zdrojov
+resource utilisation	využitie zdrojov
+resources management	riadené hospodárenie so zdrojmi
+respiration	dýchanie
+respiratory air	vdychovaný vzduch
+respiratory disease	ochorenie dýchacej sústavy
+respiratory system	dýchacia sústava
+retaining reservoir	zadržiavací rezervoár
+reverse osmosis	reverzná osmóza
+rhodium	ródium
+rice	ryža
+rising sea level	zvyšovanie hladiny mora
+risk communication	komunikácia týkajúca sa rizík
+river	rieka
+river bed	koryto rieky
+river water	riečna voda
+road	cesta
+road network	cestná sieť
+road salt	posypová soľ (na cesty)
+rock	hornina
+rodent	hlodavce
+rolling noise	hluk z dopravy
+root	koreň
+rose	ruža
+rotary furnace	rotačná pec
+route	trať
+rubber	guma
+rubidium	rubídium
+ruby	rubín
+rural area	vidiek
+ruthenium	ruténium
+rutherfordium	rutherfordium
+sacrifice	obeta
+safety ; security	bezpečnosť
+safety measure	bezpečnostné opatrenie
+sahara	sahara
+salamander	salamandry
+salary	plat
+salt	soli
+salt water	morská voda
+sand	piesok
+sand dune	piesočná duna
+sanitary fitting	sanita
+satellite	družica
+sawdust	piliny
+say	povedať
+scandium	skandium
+school	škola
+science	vedy
+scientific co-operation	vedecká spolupráca
+scientific dispute	vedecká diskusia
+scientific research	vedecký výskum
+screw	skrutka
+screwdriver	skrutkovač
+sea	more ; more
+sea level	hladina mora
+sea water	morská voda
+seaborgium	seaborgium
+seashore	morské pobrežie
+season	ročné obdobie
+secondary education	stredoškolské vzdelávanie
+sediment	sediment ; usadenina
+sedimentation (geology) ; sedimentation	sedimentácia (geológia) ; sedimentácia
+sedimentology	litológia
+seed	semeno
+seed	osivo
+seismic activity	seizmická činnosť
+seismic sea wave ; tsunami	tsunami
+selenium	selén
+sell	prodati
+semantics	sémantika
+semi-metal	polokov
+semiconductor	polovodič
+separator	separátor
+server	server
+sewage farm	pole zavlažované odpadovými vodami
+sextant	sextant
+sheep	ovca
+shellfish ; shellfish	lastúrnik
+ship	loď
+shoe	topánka
+shop	obchodná budova / miesto
+shopping centre	nákupné stredisko
+shrub	ker
+side effect	vedľajší účinok
+sign language	posunková reč
+silicon	kremík
+silk	hodváb
+silt	prach
+silver	striebro
+simulation	simulácia
+ski run	lyžiarska dráha
+skiing	lyžovanie
+skin	pokožka
+skull	lebka
+slag	troska
+slaughter	zabiť
+slaughter-house	bitúnok
+slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles	bitúnok
+sleep	spánok
+sleep disturbance	nespavosť
+slipper	papuèa
+slope	svah
+slow	pomalý
+sludge	kal
+smallpox	kiahne
+smile	úsmev
+smog	smog
+smog warning	smogové varovanie
+smoke	dym
+smoking	fajčenie
+snake	hady
+snow	sneh
+snowslide	zosuv snehu
+soaking	vsakovanie
+soap	mydlo
+social behaviour	sociálne správanie
+social group	spoločenská skupina
+social protection	sociálna ochrana
+social psychology	sociálna psychológia
+social science	spoločenské vedy
+social survey	sociálny prieskum
+social welfare	sociálna starostlivosť
+society	spoločnosť
+socioeconomic aspect of human settlements	socio-ekonomický aspekt ľudských sídel
+sociology	sociológia
+sodium	sodík
+software	programové vybavenie
+software development	vývoj programu
+soil	pôda
+soil fertilisation	hnojenie pôdy
+soil fertility	úrodnosť pôdy
+soil science	pedológia
+solar cell	slnečný článok
+solar collector	slnečný kolektor
+solar energy	slnečná energia
+solar energy technology	technológia slnečnej energie
+solar power station	solárna elektráreň
+solar radiation	slnečné žiarenie
+solubility	rozpustnosť
+solvent	rozpúšťadlo
+songbird	spevavec
+soot	sadze
+sorption	sorpcia
+sound	zvuk
+sound measurement	meranie zvuku
+space ; space ; space (interplanetary) ; interplanetary space	priestor ; vesmír
+space travel	kozmický let
+spasmodic croup	spazmatický záškrt
+species	druh
+speech	reč
+speed	rýchlosť
+spider	pavúk
+spider	pavúky ; pavúk
+spinach	špenát
+sport	šport
+spring ; spring (hydrology, land)	prameň
+spring water	pramenitá voda
+square	námestie
+standard	štandard
+staple food	základné potraviny
+star	hviezda
+starch	škrob
+station	stanica
+statistics	štatistika
+steam generator	parný generátor
+steel	oceľ
+sterilisation	sterilizácia
+steroid	steroid
+stocking	skladovanie
+stone	kameň
+stork	bocian
+storm ; tempest	búrka
+stove	sporák
+strawberry	jahoda
+stress	stres
+strontium	stroncium
+subject ; topic	subjekt
+submarine	ponorka
+subsidence	klesanie
+subsidy	subvencia
+suburb	predmestie
+sugar	cukor
+suicide	samomor
+sulphur	síra
+sulphur concentration	koncentrácia síry
+sulphur dioxide	oxid siričitý
+supply	ponuka
+supply and demand	ponuka a dopyt
+surface tension	povrchové napätie
+surgeon	chirurg
+surgery	chirurgia
+surprise	prekvapiť
+swans, geese and ducks	zúbkozobce
+sweet	sladký
+sweetener	sladidlo
+sword	meč
+symbiosis	symbióza
+symphony	simfonija
+synagogue	synagóga
+synecology	synekológia
+syntax	syntax ; skladba
+syphilis	syfilis
+tanker	cisternový automobil
+tanker ; tanker (ship)	tanker (loď) ; tanker
+tannin	tanín
+target group	cieľová skupina
+tax	daň
+taxonomy	taxonómia
+tea	čaj
+teaching	vyučovanie
+technetium	technécium
+technology	technológia
+technology transfer	transfer technológie
+telecommunications ; telecommunication	telekomunikačná technika
+telemetry	telemetria
+television	televízia
+television programme	televízny program
+tellurium	telúr
+temperature	teplota
+tennis	tenis
+teratogen	teratogén
+terminology	terminológia
+termite	termity
+terracotta ; terracotta ; terracotta ; terra cotta	terakota
+territory	teritórium
+tertiary sector	tretí sektor
+test	test ; skúška ; pokus
+testosterone	testosterón
+textile industry	textilný priemysel
+textile plant	textilná rastlina
+thallium	tálium
+theology	teológia
+therapy	terapia
+thermal equipment	tepelné zariadenie
+thermal power plant	tepelná elektráreň
+thermodynamics	termodynamika
+thesis	diplomová / doktorská práca
+thirst	smäd
+thumb	palec
+thunder	hrom
+thunderstorm	hromobitie
+tidal power station	prílivová (slapová) elektráreň
+tidal water	prílivová / odlivová voda
+tiger	tiger
+timber forest	vysokokmenný les
+time	čas
+timezone	časové pásmo
+tin	cín
+tissue	tkanivo
+titanium	titán
+titanium dioxide	oxid titaničitý
+toad	ropuchy
+tobacco	tabak
+toe	prst
+tomorrow	zajtra
+topography	topografia
+tornado	tornádo
+tortoise	korytnačky
+tourism	turistika
+toxic metal	toxický kov
+toxic substance	toxická látka
+toxicity	toxicita
+toxicology	toxikológia
+toxin	toxín
+trace element	stopové prvky
+tracheophyte ; vascular plant	cievnaté rastliny
+trade	obchod ; povolanie ; zamestnanie
+trade	obchod
+trade and consumption	obchod a spotreba
+trades union	odborová organizácia
+traffic	doprava
+traffic noise	dopravný hluk
+train	vlak
+training	školenie
+training centre	školiace stredisko
+trajectory	trajektória
+transition element ; transition metal	prechodné prvky
+translate ; interpret	prekladať
+translation	preklad ; prekladanie
+transpiration	transpirácia
+transport	transport
+transport ; transportation	transport (preprava)
+travel	cestovanie
+treaty	zmluva
+tree	strom
+tritium	trícium
+trolley bus ; trolleybus	trolejbus
+trophic level	trofická úroveň
+tropical forest	tropický les
+tropical plant	tropická rastlina
+tropical rain forest	tropický dažďový les
+tropics ; torrid zone	trópy
+trousers	nohavice
+trumpet	trúba
+truth	pravda
+tulip	tulipán
+tunafish	tuniak
+tundra	tundra
+tungsten	volfrám
+tunnel	tunel
+turbidity	turbidita
+turbine	turbína
+turkey	moriak
+two	dva
+typhoon	tajfún
+tyre	pneumatika
+ultraviolet radiation	ultrafialové žiarenie
+underground railway	podzemná železnica
+underground train	podzemný vlak
+unemployment	nezamestnanosť
+ungulate	kopytníky
+university ; university ; academy	univerzita ; univerzita
+ununbium	ununbium
+ununhexium	ununhexium
+ununoctium	ununoctium
+ununpentium	ununpentium
+ununquadium	ununquadium
+ununseptium	ununseptium
+ununtrium	ununtrium
+upbringing	výchova
+uranium	urán
+urbanisation	urbanizácia
+urine	moč
+ursid	medveďovité
+useful	činný
+vaccination	očkovanie ; vakcinácia
+vacuum cleaner	vysávaè
+valley	dolina
+vanadium	vanád
+vandalism	vandalizmus
+vapour pressure	tlak pár
+vector	vektor
+vegetable	zelenina
+vegetable oil	rastlinný olej
+vehicle	vozidlo
+ventilation	ventilácia
+vertebrate	stavovce
+veteran	veterán
+viable ; viable ; feasible	uskutoèniteľný
+village	dedina
+vinasse	liehovarský odpad
+virology	virológia
+virus	vírusy
+viscosity	viskozita
+vitamin	vitamín
+vocabulary	slovník
+volatile substance	prchavá látka
+volatility	prchavosť
+volcanic eruption	sopečná erupcia
+volcanism	sopečná činnosť
+volcano	sopka
+volleyball	volejbal
+voting	voľby
+vowel	samohláska ; vokál
+vulcanisation	vulkanizácia
+waiter	čašník
+wall	stena
+walrus	mrož
+war	vojna
+warm-blooded animal	teplokrvné živočíchy
+waste	odpad
+waste bin	kontajner na odpad
+waste disposal act	zákon o odpadoch
+waste dump	skládka odpadov
+waste paper	odpadový papier
+waste water	odpadová voda
+waste water purification	čistenie odpadových vôd
+water	voda
+water ; body of water	vodstvo
+water aeration	prevzdušňovanie vody
+water cost	náklady na vodu
+water desalination	odsoľovanie vody
+water flea	dafnie
+water level	vodná hladina
+water mill	vodný mlyn
+water protection legislation	legislatíva týkajúca sa ochrany vôd
+water pump	vodné čerpadlo
+water reservoir	vodná nádrž
+water resource	vodné zdroje
+water salination	zasoľovanie vôd
+water supply	zásobovanie vodou
+water treatment	úprava vody
+water well	studňa
+waterfall	vodopád
+waterfowl	vodné vtáctvo
+watershed	rozvodie
+weapon	zbraň
+weather	počasie
+weed	burina
+weight	hmotnosť
+welding	zváranie
+well	studňa
+whale	veľryby
+whaling	lov veľrýb
+wheelchair	invalidný vozík
+whey	srvátka
+white	biely
+wife ; spouse	manželka
+wild animal	voľne žijúci živočích
+wild fauna ; wildlife ; wild animals	voľne žijúce živočíchy
+wild plant	voľne rastúca rastlina
+wildlife ; 野生生物	voľne žijúce organizmy
+wind	vietor
+wind power	veterná energia
+windmill	veterný mlyn
+window	okno ; oblok
+wine	víno
+witch	čarodejnica
+wolf	vlk
+wood	les
+wood product	drevený produkt
+wool	vlna
+word	slovo
+work accident	pracovný úraz
+workplace	pracovisko
+world	svet
+world heritage site	lokalita svetového dedičstva
+world war	svetová vojna
+write	písať
+wrongful act	protiprávny akt
+xenon	xenón
+xylophone	xylofón
+y'all ; you ; you lot ; yous	vy
+yeast	kvasinky
+yellow	žltá
+yield	úroda
+yield	výnos
+young	mládež
+ytterbium	yterbium
+zero ; null	nula
+zinc	zinok
+zirconium	zirkón
+zoological garden	zoologická záhrada
+zoology	zoológia
+zoonosis	zoonóza
+Åland Islands	Ålandy
+återställande ; rehabilitation	obnova

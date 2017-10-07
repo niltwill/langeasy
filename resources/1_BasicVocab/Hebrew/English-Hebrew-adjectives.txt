@@ -1,0 +1,72 @@
+﻿English	Hebrew
+beautiful	יפה
+big	גדול
+cold	קר
+difficult	קשה
+fast	במהירות
+good	טוב (tov)
+happy	שמח
+hot	חם
+left	שמאל
+long	:he:ארך'ארוך
+new	חדש
+nice	נחמד
+right	ימין (yemín)
+slow	איטי
+weak	חלש
+after	אחרי (ahre) (1,2), לאחר (leahar) (1,2)
+automatic	אוטומטי
+available	זמין
+boring	משעמם
+both	שניהם
+certain	ודאי
+cheap	זול
+closed	נסגר
+common	משותף (me'shutaf)
+dangerous	מסוכן
+down	למטה
+easy	קל
+electric	חשמלי
+equal	שווה
+even	זוגי (zoogi)
+every	כל
+false	לא נכון
+final	סופי
+foreign	זר
+free	חופשי
+industrial	תעשייתי
+interesting	מעניין
+international	בינלאומי
+last	אחרון
+liquid	נוזל
+loud	רם
+lucky	בר מזל (bar mazal) (m)
+main	ראשי (Ra'shi) (m), ראשית (Ra'shit) (f)
+metal	מתכתי
+military	צבא
+more	יותר
+necessary	הכרחי
+normal	רגיל
+original	מקורי
+other	אחר
+parallel	מקבילי
+personal	אישי
+physical	פיזי
+possible	אפשרי
+private	פרטי
+probable	כנראה
+quiet	שקט
+regular	סדיר
+responsible	אחראי
+second	שני (sheni) (m), שניה (shnia) (f)
+serious	רציני
+short	קצר
+silver	כסף'כֶּסֶף (késef)
+small	קטן
+special	בפרט
+strange	מוזר
+sudden	פתאוםי
+sweet	עוגה
+true	אמיתי
+wet	רטוב (ratov)
+wide	רחב

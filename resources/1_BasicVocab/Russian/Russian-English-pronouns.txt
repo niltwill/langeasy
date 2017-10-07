@@ -1,0 +1,33 @@
+Russian	﻿English
+каждый	everybody
+все	everything
+он (on)	he
+её	her
+себя	herself
+его	him
+себя	himself
+его	his
+это	it
+себя	itself
+я	me
+мой	my
+наш	our
+она	she
+тот	that
+их	their
+их	them
+эти	these
+они	they
+эта	this
+эти	those
+нас	us
+мы	we
+который	what
+когда (kogdá)	when
+какой	which
+какой	which
+кто	who
+кого	whom
+чей	whose
+ты (ty), вы (vy)	you
+твой (tvoj), ваш (vaš)	your

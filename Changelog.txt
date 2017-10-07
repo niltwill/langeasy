@@ -1,0 +1,27 @@
+========
+v1.0.2.1
+========
+* Moved auto-update function to sync with GitHub
+
+========
+v1.0.2.0
+========
+* Fixed update function (now will finally work when a new version comes out!)
+* Fixed Google TTS (however, it stops working after like 5-6 TTS audio listening)
+* Removed unusable Picture Viewer (as Google's image search API has been deprecated)
+
+========
+v1.0.1.0
+========
+ * Improved network connectivity check
+ * Added a simple 'check update' functionality for lazy users
+ * Fixed an I/O exception when you tried to open the "read.txt" file
+ * New option: 'Disable "reset statistics"' (for serious reviewing)
+ * The choice test 2 now has colored progressbar
+ * Fixed some typos in the manual
+ * A few other minor updates
+
+========
+v1.0.0.0
+========
+ * initial version

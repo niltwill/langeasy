@@ -1,0 +1,150 @@
+Chinese	﻿English
+是	be
+开始	begin
+买	buy
+关闭	close
+来	come
+切	cut
+跳舞	dance
+练习	do
+画	draw
+喝	drink
+吃	eat
+落下	fall
+开枪	fire
+飞	fly
+跟从	follow
+忘记	forget
+给予	give
+具有	have
+帮助	help
+希望	hope
+接吻	kiss
+笑	laugh
+学 (xué)	learn
+躺	lie
+说谎, 說謊 (shuohuang)	lie
+喜欢	like
+侦听	listen
+看	look
+爱	love
+做 (zuò)	make
+会晤	meet
+要求	need
+打开	open
+支付	pay
+演奏	play
+拉	pull
+安放	put
+读	read
+说	say
+销售	sell
+唱歌	sing
+坐	sit
+微笑	smile
+游泳 (yóuyǒng)	swim
+取	take
+谈话	talk
+了解	understand
+使用	use
+等 (děng)	wait
+写	write
+接受	accept
+控告	accuse
+表现	act
+到达	arrive
+问 (wèn), 询问 (xúnwèn)	ask
+避开	avoid
+打	beat
+变成	become
+相信	believe
+建造	build
+烧毁	burn
+打电话	call
+改变	change
+选择	choose
+整理	classify
+比较	compare
+继续	continue
+掌管	control
+复制	copy
+咳嗽	cough
+哭	cry
+设计	design
+要, 想要	desire
+死	die
+讨论	discuss
+拆分	divide
+怀疑	doubt
+开车	drive
+增高	enhance
+进入	enter
+建立	establish
+猜測, 猜测	estimate
+存在	exist
+等	expect
+解釋, 解释	explain
+装满	fill
+发现	find
+完成	finish
+原谅	forgive
+释放	free
+up 投降	give
+增长	grow
+發生, 发生	happen
+憎恨	hate
+隐瞒	hide
+识别	identify
+增加	increase
+伤害	injure
+维护	keep
+踢	kick
+杀	kill
+带领	lead
+举起	lift
+约束	limit
+衡量	measure
+援引	mention
+命名	name
+吩咐	order
+有	own
+使高兴	please
+磨光	polish
+准备	prepare
+按	press
+打印	print
+获利	profit
+抗议	protest
+证明	prove
+收到	receive
+反映	reflect
+回答	reply
+报道	report
+请求	request
+尊敬	respect
+赌博	risk
+统治	rule
+节约	save
+看	see
+叫喊	shout
+展览	show
+闻	smell
+度过	spend
+站住	stand
+偷窃	steal
+學習, 学习 (xuéxí)	study
+忍受	suffer
+建議, 建议 (jiànyì)	suggest
+提供	supply
+使惊奇	surprise
+讲授	teach
+试	test
+扔	throw
+去	travel
+对待	treat
+企图	try
+转动	turn
+訪問, 访问 (fǎngwèn)	visit
+走 (zǒu)	walk
+洗	wash
+稱 (chèng)	weigh

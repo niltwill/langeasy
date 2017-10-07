@@ -1,0 +1,259 @@
+German	﻿English
+sein	be
+anfangen, beginnen	begin
+brechen, zerbrechen	break
+kaufen	buy
+schließen, zumachen	close
+kommen	come
+schneiden	cut
+tanzen	dance
+praktizieren, exerzieren	do
+malen, zeichnen	draw
+trinken	drink
+essen	eat
+fallen, stürzen	fall
+fühlen, tasten	feel
+finden	find
+feuern, schießen	fire
+fliegen	fly
+folgen	follow
+vergessen	forget
+bekommen	get
+geben	give
+haben	have
+hören	hear
+assistieren, helfen	help
+hoffen	hope
+springen	jump
+küssen	kiss
+lachen	laugh
+erlernen, lernen	learn
+liegen	lie
+lügen	lie
+lieben, mögen	like
+zuhören, hören	listen
+schauen	look
+verlieren	lose
+lieben	love
+machen, tun	make
+treffen, zusammenkommen	meet
+bewegen	move
+benötigen, brauchen	need
+anbieten, bieten	offer
+aufmachen, öffnen	open
+bezahlen, zahlen	pay
+spielen	play
+ziehen	pull
+schieben, stecken	push
+platzieren, legen	put
+lesen	read
+erinnern, sich erinnern	remember
+rennen	run
+sagen, erzählen	say
+verkaufen	sell
+singen	sing
+sitzen	sit
+lächeln	smile
+schwimmen	swim
+nehmen	take
+sprechen, reden	talk
+verstehen, begreifen	understand
+anwenden, verwenden	use
+warten	wait
+schreiben	write
+akzeptieren, annehmen	accept
+beschuldigen	accuse
+erreichen, erzielen	achieve
+tun	act
+addieren, zurechnen	add
+zugeben, zulassen	admit
+beeinflussen	affect
+zustimmen, übereinstimmen	agree
+erlauben, gestatten	allow
+ansagen, annoncieren	announce
+streiten, sich streiten	argue
+ankommen, anreisen	arrive
+fragen	ask
+angreifen, attackieren	attack
+meiden, vermeiden	avoid
+leben	be
+tragen	bear
+besiegen, schlagen	beat
+bekommen	become
+handeln, sich benehmen	behave
+glauben, trauen	believe
+nützlig sein	benefit
+beißen	bite
+bringen	bring
+bauen	build
+verbrennen	burn
+telefonieren, anrufen	call
+sorgen	care
+tragen	carry
+auffangen, fangen	catch
+bewirken	cause
+abändern, verändern	change
+auswählen, wählen	choose
+klassifizieren, sortieren	classify
+reinigen, säubern	clean
+vergleichen	compare
+enthalten	contain
+fortsetzen, weitermachen	continue
+beherrschen, kontrollieren	control
+kochen	cook
+kopieren	copy
+husten	cough
+zerdrücken, zerquetschen	crush
+zerdrücken, zerquetschen	crush
+weinen	cry
+entscheiden, bestimmen	decide
+beschreiben	describe
+entwerfen	design
+begehren, wollen	desire
+entwickeln	develop
+sterben	die
+entdecken	discover
+debattieren, bereden	discuss
+teilen, verteilen	divide
+anzweifeln, bezweifeln	doubt
+steuern, lenken	drive
+enthalten, umfassen	embrace
+ermutigen	encourage
+enden	end
+erhöhen, steigern	enhance
+genießen	enjoy
+eintreten, hineingehen	enter
+begründen, gründen	establish
+schätzen	estimate
+übersteigen, übertreffen	exceed
+existieren, bestehen	exist
+erwarten, entgegensehen	expect
+erklären, erläutern	explain
+kämpfen, ringen	fight
+füllen, auffüllen	fill
+entdecken, enthüllen	find
+beenden, fertig stellen	finish
+ausgleichen	flush
+verzeihen	forgive
+befreien, erlösen	free
+up kapitulieren	give
+anwachsen, wachsen	grow
+stattfinden, geschehen	happen
+hassen	hate
+verbergen, verstecken	hide
+halten	hold
+identifizieren	identify
+einschließen	include
+steigen, wachsen	increase
+verletzen, verwunden	injure
+vorstellen	introduce
+vorstellen	introduce
+verbinden, zusammenfügen	join
+halten, erhalten	keep
+treten	kick
+töten, umbringen	kill
+landen	land
+halten	last
+leiten, führen	lead
+hinterlassen, zurücklassen	leave
+lassen	let
+anheben, erhöhen	lift
+begrenzen, beschränken	limit
+laden, aufladen	load
+schließen, verschließen	lock
+aussehen	look
+verlieren	lose
+leiten	manage
+heiraten	marry
+korrespondieren, übereinstimmen	match
+beabsichtigen, vorhaben	mean
+messen	measure
+zitieren	mention
+verpassen, versäumen	miss
+verfehlen	miss
+nennen, benennen	name
+anordnen, befehlen	order
+besitzen, eignen	own
+on übergeben	pass
+schälen	peel
+planen	plan
+erfreuen	please
+pflügen	plow
+vergiften	poison
+polieren	polish
+vorbereiten	prepare
+drücken, pressen	press
+hindern, verhindern	prevent
+ausdrucken, drucken	print
+bearbeiten, verarbeiten	process
+profitieren	profit
+protestieren	protest
+beweisen	prove
+veröffentlichen	publish
+erziehen, aufziehen	raise
+einschätzen, schätzen	rate
+erreichen, eintreffen	reach
+bekommen, empfangen	receive
+aufnehmen, aufzeichnen	record
+reduzieren, vermindern	reduce
+reflektieren, widerspiegeln	reflect
+ablehnen	refuse
+entfernen, beseitigen	remove
+zurückgeben	render
+ersetzen	replace
+antworten, reagieren	reply
+berichten	report
+darstellen, verkörpern	represent
+fordern, verlangen	request
+achten, beachten	respect
+enthüllen, preisgeben	reveal
+riskieren	risk
+off abrunden	round
+herrschen, regieren	rule
+sparen	save
+retten, schützen	save
+sehen	see
+betrachten	see
+schicken, übersenden	send
+dienen	serve
+nähen	sew
+teilen	share
+schreien, brüllen	shout
+präsentieren, zeigen	show
+schlagen, hauen	smash
+duften, riechen	smell
+stinken	smell
+riechen	smell
+rauchen	smoke
+verbringen	spend
+stehen	stand
+bleiben	stay
+klauen, stehlen	steal
+anhalten, halten	stop
+studieren	study
+erleiden, erdulden	suffer
+beantragen, vorschlagen	suggest
+liefern, zustellen	supply
+stützen, unterstützen	support
+überraschen	surprise
+kosten, schmecken	taste
+lehren, unterrichten	teach
+probieren	test
+danken	thank
+schleudern, werfen	throw
+betiteln, bezeichnen	title
+handeln	trade
+trainieren, schulen	train
+gehen, bewegen sich	travel
+heilen, behandeln	treat
+betrügen, hereinlegen	trick
+probieren, versuchen	try
+drehen	turn
+besuchen	visit
+gehen	walk
+erwärmen, anwärmen	warm
+waschen	wash
+sehen, schauen	watch
+anhaben, tragen	wear
+wiegen	weigh
+gewinnen	win

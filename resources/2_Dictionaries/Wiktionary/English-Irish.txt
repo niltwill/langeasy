@@ -1,0 +1,2022 @@
+English	Irish
+AIDS	SEIF
+Aaron	Árón, Aaron
+Abkhaz	Abcáisis
+Abkhazia	Abcáis (f)
+Abraham	Abrahám (m)
+Adam	Ádhamh
+Afghanistan	Afganastáin (f); Poblacht Ioslamach na hAfganastáine (f)
+Africa	Afraic (f)
+Afrikaans	Afracáinis (f)
+Alaska	Alasca
+Albania	Albáin (f); Poblacht na hAlbáine (f)
+Albanian	Albánach
+Albert	Ailbhe
+Alexander	Alastar
+Algeria	Ailgéir (f); Daon-Phoblacht Dhaonlathach na hAilgéire (f)
+Algiers	Cathair na hAilgéire (f)
+Allah	Allah (m)
+Alps	Alpa
+American bison	bíosún meiriceánach (m)
+Amharic	Ámáiris
+Amsterdam	Amstardam (m)
+Andorra	Andóra (m); Prionsacht Andóra (f)
+Andrew	Aindrias (m)
+Angola	Angóla (m); Poblacht Angóla (f)
+Ann	Áine; Ánna
+Anthony	Antaine
+April	Aibreán
+Ares	Airéas
+Argentina	Airgintín (f)
+Armenia	Airméin (f)
+Asia	Áise (f)
+Athena	Aitéiné
+August	Lúnasa (m)
+Australia	Astráil (f)
+Austria	Ostair (f)
+Azerbaijan	Asarbaiseáin (f); Poblacht na hAsarbaiseáine (f)
+Azeri	(f)
+Bahrain	Bairéin (f); Ríocht Bhairéin (f)
+Balearic Islands	Oileáin Bhailéaracha
+Baltic Sea	Muir Bhailt (f)
+Bangkok	Bancác
+Bangladesh	Banglaidéis (f); Daon-Phoblacht na Banglaidéise (f)
+Barbara	Báirbre
+Beijing	Béising
+Beirut	Béiriút (m)
+Belarus	Bealarúis (f); Poblacht na Bealarúise (f)
+Belarusian	Bealarúisis; Bealarúisis (f)
+Belgium	Beilg (f); Ríocht na Beilge (f)
+Belgrade	Béalgrád
+Belorussian	Bealarúisis
+Berlin	Beirlín
+Bern	Beirn (f)
+Bhutan	Bútáin (f); Ríocht na Bútáine (f)
+Bolivia	an Bholaiv
+Bosnia	Boisnia (f)
+Bosnia and Herzegovina	Bhoisnia-Heirseagaivéin (f)
+Botswana	Botsuáin (f); Poblacht na Botsuáine (f)
+Brazil	An Bhrasaíl (f); Poblacht Chónaidhmitheach na Brasaíle (f)
+Breton	Briotáinis (f)
+British Columbia	Colóim Bhriotanach (f)
+Brittany	Briotáin (f)
+Brunei	Brúiné (f)
+Brussels	Bruiséil (f)
+Bucharest	Búcairist (f)
+Buddha	Búda (m)
+Buddhism	Búdachas (m)
+Bulgaria	Bulgáir (f); Poblacht na Bulgáire (f)
+Bulgarian	Bulgárach (m)
+Burkina Faso	Buircíne Fasó (m)
+Burundi	Burúin (f); Poblacht na Burúine (f)
+Cambodia	Cambóid (f); Ríocht na Cambóide (f)
+Canada	Ceanada
+Canadian	Ceanadach
+Carthage	Cartaig (f)
+Catalan	Catalóinis
+Catherine	Caitríona
+Catholicism	caitliceachas
+Central African Republic	Poblacht na hAfraice Láir (f)
+Central Europe	Eoraip Láir (f)
+Chad	Sead (m)
+Charles	Séarlas (m)
+China	Sín (f)
+Chinese	Sínis
+Christ	Críost (m)
+Christadelphian	Críostadélfiach
+Christian	Críostaíoch
+Christianity	Críostaíocht
+Christmas	Nollaig (f)
+Christmas tree	crann Nollag
+Christopher	Críostóir
+Colombia	Cholóim
+Congo	Poblacht Dhaonlathach an Chongó (f)
+Constantine	Constaintín (m)
+Constantinople	Cathair Chonstaintín (f)
+Cornish	Coirnis
+Croatia	Cróit (f); Poblacht na Cróite (f)
+Croatian	Cróitis
+Cuba	Cúba (m)
+Cyprus	Cipir (f); Poblacht na Cipire (f)
+Cyrillic	aibítir Choireallach (f)
+Cyrillic alphabet	aibítir Choireallach (f)
+Czech	Seicis
+Czech Republic	Poblacht na Seice (f)
+Damascus	Damaisc (f)
+Dane	Danar
+Daniel	Dónall (m)
+Danish	Danmhairgis
+Darius	Dáire (m)
+David	Dáibhí (m); Dáithí (m)
+Dead Sea	Muir Mharbh (f)
+December	Nollaig
+Denmark	Danmhairg (f)
+Dublin	Baile Átha Cliath (m)
+Dutch	Ísiltíris; Ollainnis
+Earth	domhan (m); An Domhan (m)
+Easter	Cháisc (f); Cásca
+Edward	Éadbhard; Éamann
+Egypt	Éigipt (f); Poblacht Arabach na hÉigipte (f)
+England	Sasana (m)
+English	Sasanach (m)
+English Channel	Muir nIocht
+Englishman	Sasanach
+Equatorial Guinea	Guine Mheánchiorclach (f); Poblacht na Guine Meánchiorclaí (f)
+Eritrea	Eiritré (f); Stát na hEiritré (m)
+Esperanto	Esperanto; Sprantais (m)
+Estonia	Eastóin; Poblacht na hEastóine (f)
+Estonian	Eastónach (m)
+Ethiopia	Aetóip (f)
+Eurasia	Eoráise (f)
+Europe	Eoraip (f)
+European	Eorpach; Eorpa
+European Union	Aontas Eorpach
+European bison	bíosún
+Eve	Eábha
+Faroe Islands	Oileáin Fharó
+Faroese	Faro
+February	Feabhra (f)
+Finland	Fionlainn (f); Fhionlainn (f)
+Finnish	Fionlainnis
+France	An Frainc'Fhrainc (f)
+Francis	Proinséas
+French	Fraincis
+French Polynesia	Polainéis na Fraince (f)
+Friday	Aoine (f)
+GDP	OTI
+Gabon	Gabúin (f); Poblacht na Gabúine (f)
+Gambia	Gaimbia (f); Poblacht na Gaimbia (f)
+Gaza Strip	Stráice Gaza (m)
+Genesis	Geineasas (m); Leabhar Gheineasas (m)
+George	Seoirse
+Georgia	Seoirsia (f)
+Georgian	Seoirsiach (m)
+German	Gearmánach (m); Gearmánaigh (m)
+German Shepherd	alsáiseach (m) 
+Germany	Gearmáin (f)
+Ghana	Gána (m)
+God	Dia (m)
+Great Britain	Breatain Mhór (f)
+Greece	Gréig (f)
+Greek	Gréigis
+Guernsey	Geansaí (f)
+Guinea	Guine (f); Poblacht na Guine (f)
+Gulf of Finland	Murascaill na Fionlainne
+Guyana	Guáin (f); Comharphoblacht na Guáine (f)
+Halloween	Oíche Shamhna (f)
+Happy New Year	Athbhliain faoi mhaise; Athbhliain faoi shéan is faoi mhaise
+Hebrew	Eabhrais (f)
+Helen	Léan
+Helsinki	Heilsincí (f)
+Hindi	Hiondúis (f)
+Holland	Ollainn (f)
+Holocaust	Uileloscadh (m)
+Holy Ghost	Spiorad Naomh (m)
+Holy Spirit	Spiorad Naomh (m)
+Hong Kong	Hong Cong
+Hungarian	Ungáiris (f)
+Hungary	Ungáir
+I	mé; mise
+I am English	is Sasanach mé
+I love you	tá grá agam duit
+Iceland	Íoslainn; Poblacht na hÍoslainne (f)
+Ignatius	Ignáit
+India	India (f); Poblacht na hIndia (f)
+Indonesia	Indinéis (f); Poblacht na hIndinéise (f)
+Indonesian	Indinéisis (f)
+International Phonetic Alphabet	Aibítir Idirnáisiúnta Foghraíochta (f)
+Internet	Idirlíon (m)
+Ireland	Éire (f); Banba (f)
+Irish	Gaeilge (f)
+Irish Sea	Muir Éireann (f)
+Islam	Ioslam (m)
+Islamic	Ioslamach
+Isle of Man	Oileán Mhanann (m); Manainn (f)
+Israel	Iosrael (m); Stát Iosrael (m)
+Istanbul	Iostanbúl (m)
+Italian	Iodáilis
+Italy	Iodáil (f); Poblacht na hIodáile (f)
+Jacob	Séamus
+James	Séamas (m); Séamus (m)
+January	Eanáir (f)
+Japan	Seapáin (f)
+Jerusalem	Iarúsailéim
+Jesus	Íosa
+Jesus Christ	Íosa Críost (m)
+John	Seán (m); Eoin (m)
+Joseph	Seosamh (m)
+Judaism	Giúdachas (m)
+July	Iúil (m)
+June	Meitheamh (m)
+Jupiter	Lúpatar (m)
+Kabul	Cabúl (m)
+Karelian	Cairéilis
+Kazakhstan	Casacstáin (f); Poblacht na Casacstáine (f)
+Khartoum	Cartúm (m)
+Khmer	Ciméiris (f)
+Kiev	Cív (f)
+Klingon	Tliongáinis (f)
+Korea	Cóiré (f)
+Kurdish	Coirdis
+Kyrgyz	Cirgisis (f)
+Kyrgyzstan	Cirgeastáin (f); Poblacht na Cirgise (f)
+LGBT	LADT
+Latin	Laidin
+Latvia	Laitvia (f); Poblacht na Laitvia (f)
+Lenin	Léinín
+Leo	An Leon (m)
+Libya	Libia (f)
+Lithuania	Liotuáin (f); Poblacht na Liotuáine (f)
+London	Londain (f)
+Lord	Tiarna (m)
+Louis	Lughaidh (m)
+Luke	Lúcás
+Lyons	Lyon
+Macedonia	Macadóin (f)
+Macedonian	Macadónach (m)
+Malawi	Maláiv (f); Poblacht na Maláive (f)
+Malay	Malaeis (f)
+Manx cat	cat Manannach
+March	Márta (m)
+Mark	Marcus (m)
+Mars	Mars (m)
+Martin	Mártan (m); Máirtín (m)
+Mary	Máire (f)
+Matthew	Maitiú (m); Maitias (m); Mathúin (m)
+Mauritania	Máratáin (f); Poblacht Ioslamach na Máratáine (f)
+May	Bealtaine (f)
+Mediterranean Sea	An Mheánmhuir
+Mercury	Mearcair (m)
+Merry Christmas	Nollaig Shona
+Mexico	Meicsiceo (m); Stáit Aontaithe Mheicsiceo (m)
+Mexico City	Cathair Mheicsiceo (f)
+Michael	Mícheál, Mícéal<!-- these belong in the main Irish article: diminutive:Maidhc-->
+Milky Way	Bealach na Bó Finne (m); Claí Mór na Réaltaí (m); Láir Bhán (f)
+Miss	ógbhean
+Moldova	Moldóiv
+Monaco	Monacó (m)
+Monday	Luan (m)
+Mongolia	Mongóil (f)
+Mongolian	Mongólach
+Montenegro	Montainéagró (m)
+Moon	Ghealach
+Moscow	Moscó (m)
+Moses	Maoise
+Mrs	Bh
+Muslim	Moslamach (m); Mahamadach (m)
+Möbius strip	stiall Möbius (f)
+Namibia	Namaib (f); Poblacht na Namaibe (f)
+Navajo	Navachóis
+Neptune	Neiptiún (m)
+Netherlands	Ollainn (f); Ísiltír (f); Ríocht na hÍsiltíre (f)
+New Jersey	New Jersey
+New York City	Nua-Eabhrac
+New Zealand	Nua-Shéalainn (f)
+Nicholas	Níoclas, Cóilín, Nicolás
+Niger	Nígir (f); Poblacht na Nígire (f)
+Nigeria	Nigéir (f); Poblacht Chónaidhme na Nigéire (f)
+Nile	Níl
+Noah	Naoi (m)
+North Korea	Cóiré Thuaidh (f); Daon-Phoblacht Dhaonlathach na Cóiré (f)
+Northern Ireland	Tuaisceart Éireann
+Norway	Iorua (f); Ríocht na hIorua (f)
+November	Samhain (f)
+Occitan	Ocsatánais
+October	Deireadh Fómhair (m)
+Old English	Sean-Bhéarla (m)
+Olympic Games	Cluichí Oilimpeacha
+Oman	Óman (m); Sabhdánacht Óman (f)
+Pacific Ocean	An tAigéan Ciúin
+Pakistan	Phacastáin (f)
+Palestine	Palaistín (f)
+Papua New Guinea	Nua-Ghuine Phapua (f); Stát Neamhspleách Nua-Ghuine Phapua (m)
+Paraguay	Paragua
+Paris	Páras (m)
+Paul	Póil; Pól (m)
+Pericles	Peiricléas (m)
+Philippines	Oileáin Fhilipíneacha (m); Poblacht na nOileán Filipíneach (f)
+Pluto	Plútón (m)
+Podgorica	Podgairítse
+Poland	Polainn (f); Poblacht na Polainne (f)
+Pole	Polannach
+Polish	Polainnis
+Portugal	Portaingéil (f)
+Portuguese	Portaingéalach
+Proto	Próta-Ind-Eorpais (f)
+Republic of Albania	Poblacht na hAlbáine (f)
+Republic of Korea	Poblacht na Cóiré (f)
+Republic of Latvia	Poblacht na Laitvia (f)
+Republic of Lithuania	Poblacht na Liotuáine (f)
+Robert	Riobard
+Romania	Rómáin (f)
+Rome	Róimh (f)
+Russia	Rúis (f)
+Russian	Rúisis (f)
+Russian Federation	Cónaidhm na Rúise (f)
+Ryan	Riain
+Saint Petersburg	Cathair Pheadair (f)
+Sanskrit	Sanscrait
+Saturday	Satharn (m)
+Saturn	Satarn (m)
+Saudi Arabia	Araib Shádach (f); Ríocht na hAraibe Sádaí (f)
+Scotland	Albain (f); Alba
+Senegal	Seineagáil (f); Poblacht na Seineagáile (f)
+September	Meán Fómhair (m)
+Serbia	Seirbia
+Serbian	Seirbiach
+Serbo	Seirbea-Chróitis (f)
+Seychelles	Séiséil (m); Poblacht na Séiséal (f)
+Shanghai	Shang-hai
+Siberia	Sibéir (f)
+Sicily	Sicil (f)
+Singapore	Singeapór (m); Poblacht Shingeapór (f)
+Slav	Slavacha
+Slavic	Slavach; Slavónach
+Slovakia	Slóvaic (f); Poblacht na Slóvaice (f)
+Slovene	Slóivéanach (m)
+Slovenia	Slóivéin; Poblacht na Slóivéine (f)
+Sofia	Sóifia (m)
+Solar System	An Grianchóras 
+Somali	Somáilis (f)
+Somalia	Somáil (f); Poblacht na Somáile (f)
+Sorbian	Soirbis
+South Korea	Cóiré Theas (f); Poblacht na Cóiré (f)
+Spain	Spáinn (f)
+Spanish	Spáinneach
+Sparta	Sparta
+Stalin	Iósaf Stailín (m)
+Stephen	Steafán, Stíofán
+Stockholm	Stócólm (m)
+Sun	Ghrian
+Sunday	Domhnach (m)
+Swati	Suaisis (f)
+Sweden	Sualainn (f); Ríocht na Sualainne (f)
+Swedish	sualainnis (f)
+Switzerland	Eilvéis; Cónaidhm na hEilvéise (f)
+Syria	an tSiria (f)
+Taiwan	Téaváin (f)
+Taiwanese	Téavánach (m)
+Tajikistan	Táidsíceastáin (f)
+Tallinn	Tallinn
+Tanganyika	Loch Tanganyika
+Tanzania	An Tansáin
+Tasmania	Tasmáin (f)
+Thai	Téalainnis
+The Hague	Háig (f)
+Thomas	Tomás
+Thursday	Déardaoin (m)
+Togo	Tóga (m); Poblacht Thóga (f)
+Toronto	Torontó (m)
+Tuesday	Máirt (f)
+Turk	Turcach (m)
+Turkey	Tuirc (f)
+Turkish	Turcach
+Turkmenistan	Tuircméanastáin (f)
+UFO	úfó
+USA	SAM
+Uganda	Uganda (m); Poblacht Uganda (f)
+Ukraine	Úcráin
+United Arab Emirates	Aontas na nÉimíríochtaí Arabacha (m)
+United Kingdom	An Ríocht Aontaithe (f)
+United States	Stáit Aontaithe (m)
+United States of America	Stáit Aontaithe Mheiriceá; Meiriceá
+Uranus	Úránas (m)
+Uruguay	Uragua (m); Poblacht Oirthearach Uragua (f)
+Uzbekistan	Úisbéiceastáin (f)
+Vanuatu	Vanuatú (m); Poblacht Vanuatú (f)
+Vatican City	Cathair na Vatacáine (f); Stát Chathair na Vatacáine (m)
+Venus	Véineas (f)
+Viking	Uigingeach (m); Lochlannach (m)
+Virgin Mary	Maighdean Mhuire (f)
+Wales	Breatain Bheag (f)
+Warsaw	Vársá
+Wednesday	Céadaoin (f)
+Welsh	Breatnais (f)
+Wikipedia	Vicipéid
+Wiktionary	Vicífhoclóir
+Wiktionary:Usability/flag	bratach (f)
+William	Uilliam, Liam
+Yerevan	Eireaván (m)
+Zagreb	Ságrab (m)
+Zambia	Saimbia; Poblacht na Saimbia (f)
+Zoroastrianism	Sorastrachas
+aardvark	arcán talún (m)
+abacus	abacas (m); fráma comhairimh (m)
+abandon	tréig, fág
+abattoir	teach coscartha (m), seamlas
+abbess	ban-ab, banab 'f3'
+abbreviation	giorrúchán (m) 1
+abduct	fuadaigh ('vn' -ach)
+ability	ábaltacht (f); cumas (m)
+able	ábalta
+above	ós cionn
+accordion	cairdín (m)
+aconite	dáthabha (m); dáthabha dubh (m)
+acronym	acrainm (m)
+actinium	achtainiam (m)
+address	seoladh (m)
+adjective	aidiachtach
+adverb	dobhriathar (m)
+aeroplane	eitleán (m)
+after	tar éis; i ndiaidh
+afternoon	nóin (f); iarnóin (f); tráthnóna (m)
+again	arís
+aggressive	ionsaitheach
+agoraphobia	agrafóibe (f); uamhan sráide (m)
+agree	aontaigh
+agriculture	talmhaíocht (f)
+air	aer (m)
+airplane	eitleán (m)
+albatross	albatras (m)
+alcohol	alcól (m); deoch mheisciúil (f)
+alcoholic	alcólach (m)
+alder	fearnóg (f)
+alga	alga (m) 
+alive	beo
+all	uile
+alley	caolsráid (f)
+almond	crann almóinní (m) 
+alphabet	aibítir (f); aibidil (f)
+alphabetical	aibítreach; aibítre
+already	cheana
+also	freisin
+aluminium	alúmanam
+am	tá; táim
+amber	ómra (m)
+americium	aimeiriciam
+amount	suim (f)
+ampere	aimpéar
+an	'not used'
+anal sex	gnéas tóna (m)
+ancestor	sinsear (m); sinsearach (m)
+anchor	ancaire (m)
+and	agus
+angel	aingeal (m)
+anger	fearg (f)
+angle	uillinn (f)
+angry	(f)
+ankle	rúitín (m); murnán (m); caol na coise (m); alt na coise (m)
+answer	freagair
+ant	seangán (m)
+antelope	antalóp (m)
+anthrax	antrasc
+antimony	antamón
+appendix	aguisín (m)
+apple	úll (m)
+apple tree	abhaill (f); crann úll (m)
+apricot	aibreog (f)
+archaeology	seandálaíocht (f)
+archaic	ársa
+archangel	ardaingeal (m)
+archbishop	ardeaspag (m)
+archipelago	oileánra (m)
+architect	ailtire (m)
+architecture	ailtireacht
+argent	airgead
+argon	argón
+arithmetic	uimhríocht (f)
+armadillo	armadailín (m)
+army	arm (m)
+arsenic	airsnic, arsnaig, arsanaic
+article	airteagal (m)
+ash	luaith (f)
+ask	iarr, pléigh
+asparagus	lus súch (m); lus súgach (m); asparagas (m)
+ass	tóin (f)
+astatine	astaitín
+asterisk	réalta (f)
+astronaut	spásaire (m)
+astronomical unit	aonad réalteolaíoch
+astronomy	réalteolaíocht (f)
+at	ag
+at home	sa bhaile
+atheism	aindiachas
+atheist	aindiachaí (m)
+aunt	aintín (f)
+authority	údarás (m)
+autumn	fómhar (m)
+avocado	abhacád (m); piorra abhcóide (f)
+awake	(f)
+baby	leanbh
+babysitter	feighlí páiste'páistí
+back	droim (m)
+bacon	bagún (m)
+bad	droch-
+badger	broc (m)
+bag	mála (m)
+bagpipes	píb (f); píb mhála (f)
+ballet	bailé (m)
+ballpoint pen	peann gránbhiorach (f)
+banjo	bainseo (m); bainseó (m)
+bank	bruach (m)
+barium	bairiam
+bark	rúsc (m)
+barley	eorna (f)
+barn owl	scréachóg reilige
+barrel	bairille (m)
+basalt	basalt
+baseball	daorchluiche (m)
+basket	ciseán (m), cis (f)
+basketball	cispheil
+bassoon	basún (m)
+bat	ialtóg (f); ialtóg leathair (f); sciathán leathair (m); leadhbóg leathair (f)
+bathe	folc
+bathroom	leithreas (m)
+bay	bá (f)
+be	bí; d'; aois
+beach	trá (f), -nna (p)
+beak	gob (m)
+bear	beir
+beard	féasóg (f); meigeall (m); ulcha (f)
+beast	beithíoch (m)
+beautiful	álainn
+beauty	áilleacht (f)
+beaver	béabhar (m)
+because	mar gheall ar
+bed	leaba (f)
+bedroom	seomra leaba
+bee	beach (f)
+beef	mairteoil (f)
+beer	beoir (f); leann (m)
+behind	taobh thiar de
+believe	creid
+bell	clog
+belly	bolg (m)
+berkelium	beircéiliam
+beryllium	beirilliam
+best	fearr
+better	fearr
+bible	bíobla (f)
+bicycle	rothar (m)
+big	mór
+bilberry	fraochán
+bilingual	dátheangach
+bill	gob (m)
+biography	beathaisnéis (f)
+biology	bitheolaíocht (f)
+bird	éan (m)
+birthday	lá breithe (m); breithlá (m)
+biscuit	briosca (m)
+bishop	easpag (m)
+bismuth	biosmat
+black	dubh
+black grouse	liathchearc
+black hole	dúpholl (m)
+black woodpecker	cnagaire dubh
+blackberry	sméar dhubh (f)
+blackbird	lon dobh
+blasphemy	diamhasla (m); blaisféim (f)
+bleed	cuir fuil
+bless you	Dia linn 
+blind	dall
+blond	fionn (of both males and females), fear#Irish'fear fionn (m), bean#Irish'bean fhionn (f)
+blood	gaol (m)
+blue	gorm
+boat	bád (m)
+body	corp
+bon voyage	go n-éirí an bóthar leat; go n-éirí an bóthar libh 
+bone	cnámh (f)
+book	leabhar (m)
+bookshop	siopa leabhar (m)
+boot	bróg (f)
+boron	bórón
+bottle	buidéal (m)
+box	bosca (m)
+boy	buachaill (m); garsún (m)
+bra	cíochbheart (m)
+bread	arán (m)
+break	bris
+breakfast	bricfeasta (m)
+breast	brollach (m); ucht (m)
+breathe	análaigh; riospráid
+brick	bríce (m)
+bridge	droichead
+bromine	bróimín
+brother	deartháir (m)
+brown	donn
+brown bear	béar donn (m)
+bucket	buicéad (m)
+buffalo	bíosún (m)
+build	tóg
+bull	tarbh (m)
+bumblebee	bumbóg (f)
+buoy	baoi (f)
+busy	gnóthach
+but	ach
+butcher	feolaire (m); búistéir (m)
+butter	im (m)
+butterfly	féileacán (m)
+buy	ceannaigh
+buzzard	clamhán
+by the way	dála an scéil
+cadmium	caidmiam
+caesium	caeisiam
+cake	císte (m)
+calcium	cailciam
+calf	lao (m); gamhain (m)
+californium	calafoirniam
+caliph	cailif (m)
+camel	camall (m)
+camera	ceamara (m)
+camouflage	duaithníocht (f)
+can	is féidir le; tig le; féad
+cancer	ailse (f)
+candle	coinneal (f)
+canoe	canú (m); báidín (m); curach (f); curachán (m); curach chaol (f)
+capercaillie	capall coille
+capital	ceannlitir (f)
+capital city	príomhchathair (f)
+car	carráiste (m)
+caramel	caramal
+carbon	carbón
+carbon dioxide	dé-ocsaíd charbóin (f)
+carpenter	cearpantóir (m) 
+castle	caisleán (m)
+cat	cat (m)
+catch	beir ar
+category	catagóir (f)
+caterpillar	bolb (m)
+cathedral	Teampall Mór (m); ardeaglais (f)
+cattle	eallach (m), ba (plural)
+cell	cill (f)
+cell phone	(m)
+cello	dordveidhil (f)
+cement	stroighin (f)
+census	móráireamh (m)
+center	ionad (m); lárionad (m)
+centipede	céadchosach
+centrifuge	lártheifneoir (m)
+century	aois (f)
+cerium	ceiriam
+chair	cathaoir (f)
+chalk	cailc (f)
+chamois	seamaí (m)
+champion	curadh
+championship	craobh
+chance	faill (f); seans (m)
+cheap	saor
+cheers	sláinte
+cheese	cáis (f)
+cheetah	síota (m)
+chemistry	ceimic (f)
+cheque	seic (m)
+cherry	crann silíní (m)
+chess	ficheall (f)
+chicken	circeoil (f)
+chickpea	sicphiseánach (m)
+child	páiste (m)
+children	clann (f) 
+chin	smig (f)
+chlorine	clóirín
+chocolate	seacláid
+chord	corda
+chromium	cróimiam
+church	eaglais (f); teampall (m)
+cigarette	toitín (m)
+circle	ciorcal (m)
+city	cathair (f)
+clarinet	clairnéid (f)
+claustrophobia	clástrafóibe (f); uamhan clóis (m)
+claw	crúb (f)
+clay	cré (f)
+clean	glan
+clef	eochair
+cliff	aill (f)
+climb	tóg
+clock	clog (m)
+close	dún; druid
+cloth	éadach (m); anairt (f)
+clothes	éadach (m)
+cloud	scamall (m); néal (m)
+clove	clóbh (m)
+club	cumann (m)
+coast	cósta
+coat	cóta (m)
+cobalt	cóbalt
+cock	coileach (m)
+cod	trosc (m); bod donn (m); bod rua (m)
+coffee	caife (m)
+cold	slaghdán (m)
+cold war	cogadh fuar
+collect	bailigh; cnuasaigh
+colon	drólann (f)
+color	daaghey
+colt	bromach (m)
+columbine	colaimbín
+come	tar
+committee	coiste (m)
+common	coiteann
+common gull	faoileán
+communism	cumannachas (m)
+communist	cumannach (m)
+community	cumann (m)
+compass	compás (m)
+computer	ríomhaire (m)
+conception	gcoimpeart (f)
+concrete	coincréit (f)
+condensed milk	bainne comhdhlúite
+confectionery	taosráin (f)
+confederation	cónaidhm (m)
+conference	comhdháil (f)
+conflict	coinbhleacht (f)
+consciousness	comhfhios (m)
+constitution	bunreacht
+continent	mór-roinn (f)
+copper	copar
+cormorant	broigheall (m); fiach mara (m)
+corporation	corparáid (f)
+cotton	cadás (m)
+cousin	col ceathrair (m); col ceathar (m)
+cow	bó (f)
+crab	portán (m)
+cradle	cliabhán (m)
+cranberry	mónóg (f)
+cream	uachtar (m)
+cricket	cruicéad (m)
+criminal	coirpeach (m)
+cross	crois (f)
+crow	caróg dhubh (f)
+crowd	slua (m)
+cruel	cruálach
+cry	goil
+cuckoo	cuach
+cunt	pit (f)
+cup	cupán (m)
+curium	ciúiriam
+currency	airgeadra (m)
+current	sruth (m)
+cut	bain 
+cycling	rothaíocht (m)
+daisy	nóinín (m)
+damage	damáiste (m); díobháil (f); millteanas (m)
+dance	rinc
+dandelion	caisearbhán (m)
+danger	contúirt (f); dainséar (m)
+dangerous	dáinséarach, contúirteach
+dark	dorchacht (f)
+dark matter	damhna dorcha (m)
+data	sonraí (m)
+database	bunachar sonraí (m)
+date	coinne (f)
+dative	tabharthach (m)
+daughter	iníon-i-ndlí (f)
+day	lá (m)
+dear	a chara
+death	éag (m); bás (m)
+decision	cinneadh (m)
+deer	(m)
+democracy	stát daonlathach (m)
+demon	deamhan (m)
+dentist	fiaclóir
+desert	fásach 'm1', gaineamhlach 'm1' (sandy desert)
+desire	mian (f)
+devil	diabhal (m)
+diamond	diamant (m); diamaint (m)
+diary	dialann (f)
+dictionary	foclóir (m)
+die	faigh bás
+dig	tochail
+dinner	dinnéar (m)
+dinosaur	dionosár (m)
+dirty	salach
+disease	galar (m)
+do	déan; dein
+do you speak English	an bhfuil Béarla agat 
+doctor	dochtúir (m)
+doe	eilit (f)
+dog	madra (m); gadhar (m); madadh (m)
+doll	bábóg (f); áilleagán (m)
+donkey	asal
+door	doras (m)
+dormouse	luch chodlamáin (f); dallóg fhéir (f)
+dot	ponc (m)
+doughnut	taoschnó (m)
+dove	colm (m); fearán (m)
+down	síos
+download	íoslódáil (f)
+dowry	spré (f)
+dragon	dragan (m)
+dream	aisling
+dress	éadach (m)
+drink	deoch (f)
+drive	tiomáin
+dromedary	dromodaire
+drop	braon (m)
+drunk	ólta; meisce
+dry	tirim
+duck	lacha (f); tonnóg (f)
+duckling	lachín (m); éan lachan (m)
+duke	diúc (m)
+dulcimer	téadchlár (m); dulcaiméir (m)
+dumb	balbh
+dwarf	abhac (m)
+dysprosium	diospróisiam
+e	ríomhphost (m)
+eagle	iolar (m)
+eagle owl	rí-ulchabhán (m)
+ear	cluas (f)
+eardrum	tiompán na cluaise (m)
+early	luath
+earth	cré (f), úir (f)
+earthquake	crith talún (m)
+earwig	gailseach (f)
+easy	furasta
+eat	ith
+eco	éiceo-
+ecology	éiceolaíocht (f) 3
+economics	eacnamaíocht
+economy	geilleagar (m)
+edible	inite
+edition	eagrán (m); atheagrú (m)
+education	oideachas (m)
+eel	eascann (f)
+egg	ubh (f)
+eight	ocht
+eighteen	ocht déag
+eighth	ochtú ('abbreviation' 8ú)
+eighty	ochtó
+einsteinium	éinstéiniam
+ejaculation	seadadh (m)
+elbow	uillinn (f)
+election	toghchán (m)
+electric	leictreach
+electricity	leictreachas (m)
+electron	leictreon (m)
+elephant	eilifint
+eleven	aon déag
+elf	lucharachán
+emperor	impire (m)
+employee	fostaí (m)
+empress	banimpire (m)
+empty	folamh
+emu	éamú (m)
+encyclopedia	ciclipéid (f)
+enemy	namhaid (m)
+engineer	innealtóir (m)
+entomology	feithideolaíocht (f)
+equation	cothromóid
+erbium	eirbiam
+erection	éirí (m)
+ermine	easóg
+error	botún (m); dearmad (m); earráid (f)
+etc.	srl. ('agus araile')
+etymology	sanasaíocht (f)
+euro	eoró (f) 'or, more commonly' euro#Irish'euro (f)
+europium	eoraipiam
+even	fiú
+evening	tráthnóna (m)
+event horizon	léaslíne theagmhais (f)
+every	gach
+excuse me	gabh mo leithscéal; gabhaigí mo leithscéal
+expensive	costasach; daor
+eye	súil (f)
+eye for an eye, a tooth for a tooth	súil ar shúil, fiacail ar fhiacail
+eyebrow	mala (f)
+face	aghaidh (f)
+fairy	bean sí (f) 
+falcon	fabhcún (m)
+fall	tit
+fallow deer	fia buí (m); poc fionn (m)
+false	bréagach; bréige
+family	clann (f)
+famine	gorta (m)
+farewell	beannacht
+farm	feirm (f)
+farmer	feirmeoir (m)
+fast	troscadh (m)
+fast food	bia áise
+fat	ramhar
+father	athair céile
+fear	eagla a bheith ort roimh...
+feasible	féideartha; indéanta
+feast	fleá (f)
+federation	cónaidhm (f); feidearálacht (f)
+fermium	fearmiam
+fern	raithneach (f)
+ferret	firéad (m)
+festival	fleá (f)
+field	páirc (f); gort (m); garraí (m)
+fifteen	cúig déag
+fifteenth	an cuigú ... deag
+fifth	cúigiú ('abbreviation' 5ú)
+fifty	caoga
+film	scannán (m)
+finch	glasán (m)
+find	faigh
+finger	méar (f); méara
+finish	críochnaigh
+fir	giúis (f)
+fire	tine (m)
+first	aonú <!--('abbreviation:' 1ú)-->; céad
+fish	iasc (m)
+five	cúig
+flag	bratach (f)
+flame	lasair (f)
+flesh	feoil (f)
+floor	urlár (m)
+flour	plúr (m)
+flower	bláth; plúr (m)
+fluorine	fluairín
+flute	fliúit (f)
+fly	cuileog (f)
+fog	ceo (m)
+food	bia
+fool	amadán (m); óinseach (f)
+foot	troigh (f)
+football	peil; sacar
+for	óir
+foreign	eachtrach
+forest	coill (f)
+forever	go bráth; go deo
+forget	lus míonla (m)
+fork	forc (m); gabhlóg (f)
+former Yugoslav Republic of Macedonia	Iar-Phoblacht Iúgslavach na Macadóine
+fortnight	coicís (f)
+fortress	dún
+forty	daichead
+four	ceathair; ceithre
+fourteen	ceathair déag
+fourteenth	an ceathrú ... deag
+fourth	ceathrú ('abbreviation' 4ú)
+fox	sionnach (m); madra rua (m)
+fraction	codán (m)
+francium	frainciam
+free	saor; saor in aisce
+freedom	saoirse (f)
+freeze	reoigh; sioc; oighrigh; cuisnigh; téacht
+fresh	úr
+friend	cara (m)
+friendship	cumann (m)
+frog	frog (m); (m) (m)
+from	ó
+frost	sioc (m); siocán (m); reo (m); cuisne (m)
+fruit	toradh
+fuel	breosla (m)
+full	lán
+full stop	lánstad (m)
+fun	craic
+function	feidhm (f)
+fungus	fungas
+future	todhchaí (f)
+gadolinium	gadailiniam
+galaxy	réaltra (m)
+gall bladder	máilín domlais (m); domlas (m)
+gallium	gailliam
+garage	garáiste (m)
+garden	gairdín
+garlic	gairleog (f)
+gas	gás (m)
+gas station	stáisiún breosla (m)
+gate	geata (m)
+gay	aerach; bán
+gazelle	gasail (f)
+genre	seánra (m)
+geology	geolaíocht (f)
+germanium	gearmáiniam
+get	faigh
+get up	éirigh
+ghost	taibhse (f)
+giant	fathach (m)
+gibberish	gibiris (f)
+ginger	sinséar (m)
+giraffe	sioráf
+girl	cailín (m)
+give	tabhair
+give birth	beir
+gland	faireog (f)
+glans penis	breall (f)
+glass	gloine (f)
+glue	gliú (f)
+go	téigh
+go away	imigh leat 
+goat	gabhar (m)
+goblin	puccá
+god	dia; déithe (m)
+gold	ór (m)
+golden eagle	iolar fíréan (m)
+good	maith
+good evening	tráthnóna maith agat
+good morning	maidin mhaith
+good night	oíche mhaith
+goodbye	slán agat (the leaving person), slán leat (the person remaining)
+goods	earraí
+goose	gé (f)
+gooseberry	spíonán (m)
+goshawk	spioróg mhór (f)
+government	rialtas (m)
+grammar	gramadach (f)
+grandmother	máimeó (f)
+grape	fíonchaor (f)
+grass	féar
+grave	uaigh (f)
+graveyard	reilig (f); cill (f)
+gravy	súlach (m)
+great	mór
+great spotted woodpecker	mórchnagaire breac
+great tit	meantán mór
+green	uaine ('painted or dyed green'), glas ('of grass, trees, etc.')
+green woodpecker	cnagaire glas
+grey	liath (m), ('of animals, cloth, eyes') glas (m)
+grey heron	corr réisc
+greylag goose	gé ghlas
+griffon vulture	bultúr
+guard	garda (m)
+guilt	ciontacht
+guinea fowl	guine
+guinea pig	muc ghuine
+guitar	giotár (m)
+gull	faoileán
+gypsy	giofóg (f)
+hafnium	haifniam
+hair	gruaig
+hamlet	gráig (f)
+hammer	casúr (m)
+hamster	hamstar
+hand	lámh (f)
+handball	láimhe (m)
+happen	tarlaigh
+happy	séanmhar; sona
+happy birthday	lá breithe shona dhuit
+hard	crua
+hardware	crua-earraí (m'p)
+hare	giorria
+harp	cláirseach (f); cruit (f)
+harpsichord	cruitchlár (m)
+hashish	haisis (f)
+hat	hata (m)
+hatred	fuath (m); gráin (f)
+hawk	seabhac (m)
+hazel	coll (m)
+hazelnut	cnó coill (m); cnó gaelach (m)
+he	sé; é 
+head	ceann (m)
+headache	tinneas (m); cinn
+hear	clois; cluin
+heart	hart (m)
+heat	teas (m)
+heather	fraoch (m)
+heavy	trom
+hedgehog	gráinneog
+heel	sáil (f)
+heir	oidhre (m)
+helium	héiliam
+hello	haileo
+hemp	cnáib (f)
+hen	cearc (f)
+here	anseo
+hermaphrodite	idirghnéas (m)
+hero	laoch (m)
+heron	corr
+hexagon	heicseagán (m)
+high	ard
+highway	mórbhealach (m); mórbhóthar (m)
+hill	cnoc (m)
+his	a
+hobbit	hobad (m)
+holmium	hoilmiam
+home	sa bhaile
+homeland	tír dhúchais (f)
+homeopathy	hoiméapaite (f)
+homophobia	homafóibe (f)
+homosexual	homaighnéasach
+homosexuality	homaighnéasachas (m); homaighnéasacht (f)
+honest	macánta
+honey	mil (f)
+honor	clú (m); oineach (m); onóir (f)
+honour	clú (m); oineach (m); onóir (f)
+hope	bí ag súil; bí i ndóchas
+horizontal	cothrománach
+horn	adharc (f)
+horse	capall (m); each (m); capaill (m)
+horseradish	raidis fhiáin (f)
+hospital	ospidéal
+hot	te
+hotel	óstán
+hound	cú (m)
+hour	uair (f)
+house	teach (m); tithe
+how	chomh
+how are you	conas atá tú; conas atá sibh; conas tánn tú; conas tánn sibh; cén chaoi a bhfuil tú; cén chaoi a bhfuil sibh; cad é mar atá tú; cad é mar atá sibh
+how many	cé mhéad; cá mhéad
+hundred	céad
+hundred thousand	céad míle
+hunger	ocras (m)
+hungry	ocrach; (m)
+hunt	seilg
+husband	fear (m); fear céile (m)
+hydrate	hiodráit (f)
+hydrogen	hidrigin
+hymen	himéin (f); scannán óchta (m)
+hypnosis	hiopnóis (f)
+ice	oighear (m)
+ice cream	reoiteog (f); uachtar reoite (m)
+idiot	amadán
+ill	tinn
+illness	tinneas
+image	íomhá (f)
+important	tábhachtach; mórluachach
+in	i
+inch	orlach
+independent	neamhspleách
+indium	indiam
+injury	gortú (m)
+ink	dúch (m)
+insect	feithid
+insulin	inslin
+interjection	intriacht (f)
+international	idirnáisiúnta
+interview	agallamh (m)
+intestine	putóg (f)
+iodine	iaidín
+iridium	iridiam
+iron	iarann
+irony	íoróin (f)
+is	tá
+island	oileán (m); inis (f)
+it	sé; é; í; ea
+jackdaw	cág (m)
+jaguar	iaguar (m)
+jam	subh (f)
+jasper	seaspar (m)
+jay	scréachóg
+jazz	snagcheol (m)
+jeans	jíons (m); brístí géine (m)
+jellyfish	smugairle róin (m)
+joke	cleas (m)
+journalist	iriseoir (m)
+joy	áthas (m)
+judge	breitheamh (m)
+juice	sú
+jungle	dufair (f)
+junk food	mearbhia
+kangaroo	cangarú (m)
+kestrel	pocaire gaoithe (m)
+key	eochair (f)
+keyboard	méarchlár (f)
+kidney	duán (m)
+kill	maraigh
+kind	gné (f)
+king	rí (m)
+kingdom	ríocht (f)
+kiss	póg (f)
+kitchen	cistin (f)
+kite	eitleog (f)
+kitten	piscín (m); puisín (m)
+kiwi fruit	cíobhaí (m)
+knife	scian (f)
+knight	ridire (m)
+knot	snaidhm (f)
+koala	cóála (m)
+kolkhoz	calchas
+krypton	crioptón
+laboratory	saotharlainne
+labyrinth	lúbra (m); cathair ghríobháin (f)
+lacrosse	crosógaíocht (f)
+ladybird	bóín Dé (f), bó shamraidh (f), bóín samraidh (f)
+ladybug	bóín Dé (f), bó shamraidh (f), bóín samraidh (f)
+lake	loch (m)
+lamb	uan (m)
+language	teanga (f)
+lanthanum	lantainam
+large	mór
+lark	fuiseog (f); circín starraiceach (m)
+last night	aréir
+last year	anuraidh
+laugh	gáire (m)
+laughter	gáire (m)
+lawrencium	láirinciam
+lead	luaidhe
+leaf	duilleog (f); bileog (f)
+leap	léim
+learn	foghlaim
+least weasel	bláthnaid ghallda (f)
+leather	leathar (m)
+leave	fág
+leek	cainneann (f)
+left	clé
+leg	cos (f)
+lemon	líomóid (f)
+length	fad (m)
+lens	lionsa (m)
+lesson	ceacht (m)
+letter	litir (f)
+lettuce	leitís (f)
+lexicography	foclóireacht (f)
+library	leabharlann (f)
+lie	luigh
+life	beo
+light	las
+lighter	lastóir (m)
+like	is maith le 
+line	líne (f)
+linguist	teangeolaí (m)
+linguistics	teangeolaíocht
+lion	leon (m)
+liquid	leachtach
+list	liosta
+listen	éist
+literature	litríocht
+lithium	litiam
+little	beag
+little finger	méar bheag (f)
+little owl	ulchabhán beag
+live	beo
+liver	ae (m)
+living room	seomra suí
+lizard	earc (m); laghairt (f)
+lobster	gliomach (m)
+lollipop	líreacán (m)
+loneliness	uaigneas (m)
+long	ceann cait
+look	féach
+lose	caill
+love	rún (m); grá (m)
+lukewarm	bog
+lunch	lón (m)
+lung	scamhóg (f)
+lust	collaíocht (f)
+lute	liúit (f)
+lutetium	lúitéitiam
+lynx	lincse
+lyre	lir (f)
+mackerel	ronnach (m)
+magnesium	maignéisiam
+magnet	maighnéad (m)
+magpie	snag breac, meaig
+maid	cailín (m)
+make	déan
+mallard	lacha
+malt	braich (f)
+mammal	mamach (m)
+man	duine (m)
+manganese	mangainéis
+many	a lán; mórán
+marble	marmar (m)
+mare	láir (f)
+market	margadh (m)
+marmot	marmat
+marry	pós
+marten	cat crainn
+martial art	ealaín oscartha
+masturbation	glacaireacht (f); lámhchartadh (m)
+maternal aunt	aintín, 'f., 4th decl.'
+mathematics	matamaitic
+maybe	is dócha
+mayor	méara (m)
+me	mé; mise
+mead	meá (f)
+meal	proinn (f)
+meat	feoil (f)
+melon	mealbhacán (m)
+mendelevium	meindiléiviam
+menstruation	fuil mhíosta (f); míostrú (m)
+menu	biachlár (m)
+mercury	mearcair
+mermaid	maighdean mhara (f)
+metal	miotal (m)
+meter	méadar (m)
+methane	meatán (m)
+metre	méadar (m)
+metro	traein faoi thalamh (f)
+microphone	micreafón (m)
+microscope	micreascóp (m)
+microwave	micreathonn (f)
+microwave oven	oigheann micreathonnach (m)
+middle	lár (m)
+midwife	bean chabhrach (f); bean ghlúine (f); cnáimhseach (f)
+milk	crúigh
+milliard	míle milliún
+million	milliún (m)
+minaret	miontúr (m)
+mind	intinn (f), meabhair (f)
+mineralogy	mianreolaíocht (f)
+mink	minc (f)
+minute	nóiméad (m); bomaite (m)
+miracle	míorúilt (f)
+mirror	scáthán (m)
+mistake	déan dearmad; déan earráid
+mobile phone	guthán soghluaiste (m); fón póca (m)
+mole	ball dobhráin (m)
+molecule	móilín (m)
+molybdenum	molaibdéineam
+monarch	monarc (m)
+monarchy	monarcacht (f)
+money	airgead (m)
+monkey	moncaí (m); mwnci
+monotheism	aondiachas (m)
+monster	arracht
+month	mí (f)
+moon	an Ghealach (f)
+moor	móinteán (m); caorán (m)
+moose	mús (m)
+morning	maidin (f)
+mosque	mosc
+mother	máthair chéile
+motorcycle	gluaisrothar (m)
+mouflon	caora mouflon (f)
+mountain	sliabh (m)
+mouse	luch (f); luchóg (f)
+moustache	croiméal (m)
+mouth	béal (m)
+mule	miúil (f)
+mummy	mumaí (m); seargán (m)
+museum	iarsmalann (f); músaem (m)
+music	ceol (m)
+musical instrument	uirlis cheoil (f)
+musician	ceoltóir (m)
+muskrat	muscfhrancach
+my	mo; m' 
+mysterious	rúndiamhair
+myth	miotas (m)
+naked	nocht
+name	ainm (m)
+narwhal	narbhal (m)
+nation	náisiún (m)
+nationalism	náisiúnachas
+nature	dúchas (m)
+nausea	masmas (m)
+nebula	réaltnéal (m)
+neck	muineál (m); scóig (f)
+needle	snáthaid (f)
+neighbour	comharsa (f)
+neodymium	neoidimiam
+neon	neon
+nephew	nia (m)
+neptunium	neiptiúiniam
+nest	nead (f)
+neutron	neodrón (m)
+never	ariamh; go deo 
+new	nua; úr
+news	nuacht
+newspaper	nuachtán (m)
+nice	deas
+nickel	nicil
+niece	neacht (f)
+night	dorchadas (m)
+nightingale	filiméala
+nightmare	tromluí (m)
+nine	naoi
+nineteen	naoi déag
+ninety	nócha
+ninth	naoú ('abbreviation' 9ú)
+niobium	niaibiam
+nipple	sine (f)
+nitrogen	nítrigin
+nobelium	nóbailiam
+nominative case	ainmneach (m)
+nonkilling	neamh-mharú
+noon	nóin (f)
+north	tuaisceart (m)
+nose	srón; sróna
+not	ní; níor; chan; char 
+noun	ainmfhocal (m)
+nowhere	in áit ar bith
+number	uimhrigh
+nurse	banaltra (f)
+nut	cnó (m); cnú (m); meas (m)
+nutmeg	noitmig (f)
+oak tree	dair (f)
+obedience	umhlaíocht
+octopus	ochtapas
+oesophagus	éasafagas (m)
+office	oifig (f)
+old	d'aois (of age)
+on	ar
+once upon a time	bhí ... ann fadó (1=The subject of the sentence comes between "bhí" and "ann", e.g. "Once upon a time there was a king" = "Bhí rí ann fadó". Literally means "A long time ago there was...".)
+one	aon; amháin
+onion	oinniún (m)
+open	oscailte; ar oscailt
+opera	ceoldráma (m)
+opinion	(m)
+opossum	apasam (m)
+opportunity	faill (f)
+or	nó
+oral sex	gnéas béil (m)
+orange	crann oráistí (m)
+order	bail (f)
+ordinary	gnáth
+organ	orgán (m)
+ornithology	éaneolaíocht (f)
+orphan	dílleachta
+orthodoxy	orthodoxy
+osmium	oismiam
+ostrich	ostrais
+other	eile
+otter	dobharchú (m); madra uisce (m); dobhrán (m); cú dobhráin (m)
+our	ár
+ovary	ubhagán (m)
+oven	oigheann (m)
+owl	ulchabhán (m)
+oxygen	ocsaigin (f)
+page	leathanhach
+painting	pictiúr (m)
+pair of compasses	compás (m)
+palladium	pallaidiam
+pancake	pancóg (f)
+paper	páipéar (m)
+paragraph	paragraf (m); alt (m); mír (f)
+park	páirc
+parrot	pearóid (f)'2'
+part	cuid (f)
+particle physics	fisic cháithníní (f)
+partridge	patraisc
+password	focal faire (m); pasfhocal (m)
+paternal aunt	aintín, 'f., 4th decl.'
+patience	foighne
+pawn	ceithearnach (m); fichillín (m)
+pay	íoc; díol
+peace	suaimhneas (m)
+peacock	péacóg
+peanut	pis#Irish'pis talamh'talún
+pederasty	péidearastacht (f)
+pen	peann (m)
+pencil	peann luaidhe
+penis	péineas (m); bod (m)
+pentagon	peinteagán
+pepper	piobar (m)
+peregrine falcon	fabhcún gorm
+periodic table	tábla peiriadach (m)
+person	pearsa (f)
+pharmacy	cógaslann (f)
+pheasant	piasún
+phobia	fóibe (f)
+phosphorus	fosfar
+phosphorylation	fosfairiliú (m); fosfairiliúchán (m)
+photosynthesis	fótaisintéis (f)
+phrase	frása (m)
+piano	pianó (m)
+picture	pictiúr (m)
+pie	pióg (f)
+piece	píosa (m); giota (m)
+pig	muc (f)
+pigeon	colm; colmán; colúr
+piglet	banbh (m)
+pimp	máistir striapach (m)
+pimple	goirín (m)
+pin	biorán (m)
+pine	crann giúise (m)
+pineal gland	faireog phinéalach (f)
+ping pong	ping pang (m)
+pink	bándearg (m)
+piss	mún
+pizza	píotsa (m)
+place	áit (f)
+plane	plána (m)
+planet	pláinéad (m); rinn (m)
+planetary nebula	réaltnéal pláinéadach (m)
+plasma	plasma (m)
+platinum	platanam
+play	seinn
+player	imreoir (m)
+please	le do thoil; más é do thoil é
+pleasure	pléisiúr (m)
+plum	crann plumaí (m)
+plutonium	plútóiniam
+poem	dán (m)
+poet	bard (m)
+poetry	filíocht (f)
+point	pointe (m)
+poison	nimh (f)
+polar bear	béar bán (m)
+polecat	cat coille (m); toghán (m)
+police	garda; gardaí
+politics	polaitíocht
+polonium	polóiniam
+polygon	polagán (m)
+pond	linn (f)
+poor	bocht
+pope	pápa (m)
+poppy	poipín (m)
+pork	muiceoil (f)
+pornography	pornagrafaíocht
+portrait	portráid (f)
+positron	posatrón (m)
+post office	oifig an phoist (f); oifig poist (f)
+postcard	cárta poist
+postcode	postchód
+postmodernism	iarnua-aoiseachas (m)
+potassium	potaisiam
+potato	práta
+pound	punt (m)
+power	cumas (m)
+praseodymium	praiséidimiam
+pregnant	torrach; ag iompar clainne
+prepare	ullmhaigh
+preposition	réamhfhocal (m)
+prepuce	forchraiceann (m)
+president	uachtarán (m)
+pretty	deas
+prick	slat
+priest	sagart (m)
+prime minister	príomh-aire (m)
+prime number	uimhir phríomha (f)
+prince	flaith (m); prionsa (m)
+princess	banphrionsa (m); iníon rí (f)
+principality	prionsacht (f)
+prison	príosún (m)
+programming language	teanga ríomhchlárúcháin (f)
+promethium	próméitiam
+pronoun	forainm (m)
+pronunciation	fuaimniú (m)
+property	maoin (f)
+prophet	fáidh (m)
+prostate	próstatach (m); faireog phróstatach (f)
+prostitute	striapach (f); meirdreach (f)
+protactinium	prótachtainiam (m)
+protect	caomhnaigh; cosain
+protist	prótaisteach (m)
+proton	prótón (m)
+pseudonym	ainm bréige (m)
+pubic hair	stothóg
+pulsar	pulsár (m)
+puma	púma (m)
+pumice	sliogart (m)
+pumpkin	puimcín (m)
+puppy	coileáinín (m)
+purple	corcairghorm
+pus	braon (m)
+put	cuir
+pyramid	pirimid (f)
+python	píotón (m) 
+quail	gearg (f)
+quality	dúchas (m)
+quark	cuarc (m)
+quarter	ceathrú (f)
+quasar	cuasár (m)
+quay	cé (f)
+queen	banríon
+question	ceist (f)
+quick	luath
+quiet	ciúin
+rabbit	coinín
+radio	raidió (m)
+radon	radón (m)
+railway	bóthar iarainn (m), iarnód (m)
+rain	báisteach (f); fearthainn (f)
+rainbow	bogha báistí (m); tuar ceatha (m)
+random	fánach, teagmhasach
+rape	éigniú (m)
+rat	(m)
+raven	fiach (m); fiach dubh (m)
+razor	rásúr (m)
+read	léigh
+ready	réidh; ullamh
+reason	ábhar (m)
+recent	deireanach
+recipe	oideas (m)
+rectangle	dronuilleog
+red	rua
+red deer	fia rua (m)
+reindeer	réinfhia (m)
+relative	duine muinteartha (m); gaol (m)
+religion	creideamh (m), reiligiún (f)
+remember	is cuimhin le
+reptile	reiptíl (f)
+republic	poblacht (f)
+respect	meas (m)
+restaurant	bialann
+return	fill
+revenge	díoltas (m)
+revolution	réabhlóid (f)
+revolver	gunnán (m)
+rhenium	réiniam
+rhinoceros	srónbheannach (m) 
+rhodium	róidiam
+rice	rís (f)
+rich	saibhir
+rifle	raidhfil (m)
+right	deas
+ring	fáinne (f)
+ring finger	méar an fháinne (f)
+river	abhainn (f)
+road	bóthar (m)
+robin	spideog (f)
+rock	carraig (f)
+rock dove	colm aille, colu'r aille
+roe deer	fia odhar (m)
+rook	caiseal (m)
+room	spás
+rooster	coileach (m)
+root	fréamh
+rope	téad (f)
+rose	rós (m)
+rough	garbh
+row	líne (f)
+royal	ríoga
+rubidium	rúbaidiam
+ruler	rialóir (m)
+run	rith
+ruthenium	ruitéiniam
+sacrifice	íobairt (f)
+sad	brónach
+sage	sáiste
+saiga	antalóp saigeach (m)
+salmon	bradán (m)
+salt	salann (m)
+samarium	samairiam
+same	céanna
+sand	gaineamh (m)
+sandwich	ceapaire (m)
+sapphire	saifír (f)
+sauce	anlann (m)
+sausage	ispín (m)
+save	sábháil
+saxophone	sacsafón (m)
+say	abair
+scab	gearb (f)
+scandium	scaindiam
+scar	colm (m)
+schizophrenia	scitsifréine
+school	scoil
+science	eolas (m)
+scientist	eolaí (m)
+sea	muir (f); farraige (f)
+seal	rón (m)
+season	séasúr (m)
+seaweed	feamainn (f)
+second	dóú<!-- ('abbreviation' 2ú)-->; dara
+secret	rún (m)
+see	feic
+seed	síol
+selenium	seiléiniam
+sell	díol
+semiconductor	leathsheoltóir (m)
+senate	seanad
+sentence	abairt (f)
+seven	seacht
+seventeen	seacht déag
+seventh	seachtú ('abbreviation' 7ú)
+seventy	seachtó
+sex	gnéas
+sexism	gnéasachas (m); gnéasaíochas (m)
+sexual orientation	claonadh gnéasach (m)
+shadow	scáth (m)
+shame	náire (f)
+shampoo	seampú (m)
+sharp	géar
+she	sí#Irish'sí 'conjunctive', í 'disjunctive'
+sheep	caora (f)
+shepherd	aoire (m)
+ship	long (f); árthach (m)
+shirt	léine (f)
+shit	cac (m)
+shoe	bróg (f); brógaí
+shop	siopa (m)
+shop window	fuinneog (f)
+shrew	dallóg fhraoigh (f)
+shut	dún
+sick	tinn; breoite
+sideburns	féasóg leicinn (f)
+sight	amharc (m)
+silence	tost (m)
+silicon	sileacan; sileacón
+silk	síoda (m)
+silver	airgead
+sin	peacaigh
+sing	can
+singer	amhránaí (m)
+sinner	peacach (m)
+sister	siúr (f)
+sit	suigh
+six	sé
+sixteen	sé déag
+sixth	séú ('abbreviation' 6ú)
+sixty	seasca is dhá
+skin	seithe (f)
+skirt	sciorta (m)
+sky	aer (m)
+skylark	fuiseog, circín starraiceach
+sleep	suan (m); codladh (m)
+slug	seilide (m)
+small	beag
+smell	boladh (m)
+smooth	caoin; mín
+snail	seilide (m); seilmide (m)
+snake	nathair (f)
+snooker	snúcar (m)
+snow	sneachta (m)
+snow leopard	liopard sneachta (m)
+snowdrop	plúirín sneachta (m)
+snowman	fear sneachta (m)
+soap opera	sobaldráma (m); sobalchlár (m)
+sociology	socheolaíocht (f)
+sodium	sóidiam
+soft	bog
+software	bogearraí (m'p)
+solar wind	grianghaoth
+something	rud éigin
+sometimes	uaireanta
+son	mac (m)
+song	amhrán (m); ceol (m)
+sorcerer	asarlaí (m)
+sorrow	brón (m)
+sorry	gabh mo leithscéal
+soul	anam (m)
+sour	géar
+source	foinse (f)
+south	deisceart (m)
+sow	cuir
+spacecraft	spásárthach
+spaceship	spásárthach
+sparrow	gealbhan
+sparrow hawk	spioróg, naile, speirsheabhac
+speak	labhair
+special	speisialta
+spectacles	gloiní
+speech	óráid (f)
+spell	litrigh
+sphere	sféar (m)
+spider	damhán alla (m); ruán alla (m); fíodóir (m)
+spinach	spionáiste (m)
+spinning wheel	tuirne (m)
+spirit level	leibhéal biotáille
+spiritual	spioradálta
+spit	caith seile
+spleen	liathán (m)
+spoon	spúnóg
+spring	earrach (m)
+square	uimhir chearnach (f)
+squirrel	iora (m); madra crainn (m)
+stairs	staighre (f)
+stallion	stail (f)
+stand	seas
+star	réalta (f)
+starling	druid
+station	stáisiún (m)
+statue	dealbh (f); íomhá (f)
+stay	fan
+steal	goid
+steam	gal uisce (f)
+steel	cruach (f)
+stick	bata (m); maide (m)
+stone	cloch 'f2'
+stop	stad (m)
+stork	storc
+story	scéal
+straight	díreach
+strange	aisteach; ait
+strawberry	sú talún (f)
+street	sráid (f)
+strike	buail; failp
+strong	láidir
+strontium	strointiam
+stubborn	stalcach, ceanndána
+style	stíl (f)
+submarine	fomhuireán (m)
+subtitle	fotheideal (m)
+suburb	fo-bhaile (m); bruachbhaile (m)
+subway	traein faoi thalamh (f)
+sugar	siúcra (m)
+suicide	féinmharfóir (m)
+sulfur	sulfar (m); ruibh (f)
+sultan	sabhdán (m)
+summary	achoimre (f)
+summer	samhradh (m)
+sun	grian (f)
+sunrise	éirí (m) 
+supermarket	ollmhargadh (m)
+supernova	ollnóva
+supper	suipéar (m)
+surname	sloinne (m)
+surprise	ionadh (m)
+swallow	fáinleog
+swamp	bogach (m)
+swan	eala (f)
+sweet	milseán
+sweet potato	práta milis
+sweetener	milseoir
+swim	snámh
+swimsuit	culaith shnámha (f)
+switch	lasc (f)
+sword	claíomh (m)
+syllable	siolla (m)
+syndrome	siondróm (m)
+syringe	steallaire (f)
+system	córas (m)
+table	bord (m); tábla (m); clár (m)
+tadpole	torbán (m)
+take	tóg
+tale	scéal
+talk	caint
+tall	ard
+tantalum	tantalam
+taste	blas (m)
+tawny owl	ulchabhán donn
+tax	cáin (f)
+taxi	tacsaí (m)
+tea	tae (m)
+teach	múin
+teacher	múinteoir (m)
+tear	stróic
+technetium	teicnéitiam
+telephone	teileafón; guthán (m)
+television	teilifíseán (m)
+tellurium	teallúiriam
+ten	deich
+ten thousand	deich míle
+tent	puball (m)
+tenth	deichiú ('abbreviation' 10ú)
+terbium	teirbiam
+testicle	magairle (m); cloch (f) 
+thallium	tailliam
+than	ná
+thank you	go raibh maith agat (to one person), go raibh maith agaibh (to more than one person)
+thank you very much	go raibh mile maith agat
+that	sin; siúd
+the	an; na
+their	a
+then	i ndiadh sin
+there	ansin
+there is	tá 
+they	siad '(conjunctive)', iad '(disjunctive)', siadsan, iadsan '(emphatic)'
+thimble	méaracán (m)
+thin	caol
+thing	rud (m); ní (m)
+third	tríú ('abbreviation' 3ú)
+thirst	tart (m)
+thirsty	(m)
+thirteen	trí déag
+thirteenth	tríú ... déag ('abbreviation' 13ú)
+thirty	tríocha
+this	seo
+thorium	tóiriam
+thou	tú
+thousand	míle
+three	trí
+thulium	túiliam
+thunder	toirneach
+tiger	tíogar (m)
+time	am
+tin	stán
+tired	tuirseach
+tit	faireog mhamach (f)
+titanium	tíotáiniam
+to	chuig; chun
+toad	buaf (f)
+today	inniu
+toe	ladhar (f); méar (f); méar coise (f)
+toffee	taifí (m)
+together	le chéile
+toilet	leithreas (m)
+tomato	tráta (m)
+tomorrow	amárach
+tongue	teanga
+tonight	anocht
+too	ró-
+tooth	fiacail (f)
+toothbrush	scuab fiacla (f)
+toothpaste	taos fiacla (m)
+toothpick	bior fiacla (m)
+touch	bain do; bain le
+tower	túr (m)
+town	baile (m)
+toy	bréagán (m)
+train	traein (f)
+translation	aistriúchán (m)
+translator	aistritheoir (m)
+transparent	gléineach; trédhearcach
+tree	crann (m)
+triangle	triantán (m)
+trigonometry	triantánacht
+trousers	brístí
+trout	breac (m)
+true	fíor
+trumpet	trumpa (m); stoc (m)
+trunk	stoc (m)
+truth	fírinne (f)
+tungsten	tungstan
+turkey	turcaí (m)
+turn	cas; iompaigh
+turtle	turtar (m)
+turtle dove	fearán
+twelve	dó dhéag
+twenty	fiche a dó; dó is fiche
+twin	leathchúpla (m)
+two	dó; dhá; beirt
+two hundred	dhá chéad
+typewriter	clóscríobhán (m)
+ugly	gránna
+uncle	uncail (m)
+understand	tuig
+underwear	fo-éadaí (m)
+unicorn	aonbheannach (m)
+universe	cruinne (f)
+university	ollscoil
+uranium	úráiniam
+urine	mún (m); fual (m)
+useful	úsáideach
+useless	gan mhaith
+valley	gleann (m)
+value	luach (m)
+value added tax	cáin breisluacha'bhreisluacha
+vanadium	vanaidiam
+veal	laofheoil (f)
+vegetable	glasra (m)
+verb	briathar
+very	an-; ana-
+video game	cluiche físeán (m)
+village	sráidbhaile (m)
+vinegar	fínéagar (m)
+vineyard	fíonghort (m)
+violet	corcairghorm
+violin	veidhlín (m); veidheal (f)
+virgin	maighdean (f)
+visible	infheicthe; sofheicthe; le feiceáil
+vodka	vodca (m)
+voice	guth (m)
+volleyball	eitpheil (m)
+volt	volta
+vulture	bultúr
+vulva	pit (f)
+wait	fan
+walk	siúl (m)
+wall	balla (m)
+walnut	crann gallchnó (m)
+walrus	rosualt (m)
+want	is mian le 
+war	cogadh (m)
+warm	te
+warrior	gaiscíoch (m); laoch (m)
+wart	faithne (m)
+wash	nigh
+watch	fair
+water	uisce (m)
+water buffalo	buabhall uisce (m)
+wave	tonn (f) (1,4), (italbrac'of a hand) croitheadh (m), (italbrac'hair) casadh (m) (3)
+we	muid 'conjunctive', sinn 'disjunctive'; 'emphatic' muidne, sinne
+weak	lag
+weasel	bláthnaid ghallda (f)
+weather	aimsir (f)
+wedding	bainis; pósadh
+week	seachtain (f)
+weep	caoin; goil
+welcome	fáilte; tá fáilte romhat; tá fáilte romhaibh; céad míle fáilte; fáilte romhat isteach
+wet	fliuch
+what	cad; céard
+wheat	cruithneacht (f)
+wheel	roth (m)
+when	nuair
+where	cá
+where is the toilet	cá bhfuil an leithreas?
+while	agus
+whip	fuip
+whiskey	fuisce (m); uisce beatha (m)
+whisky	uisce beatha
+whistle	lig fead
+white	bán
+white dwarf	abhac bán (m)
+who	cé
+whole	iomlán (m); go léir
+whore	striapach (f)
+whose	cé#Irish'cé leis#Irish'leis
+wide	leathan; fairsing
+widow	baintreach (f)
+widower	baintreach fir (f) 
+wife	bean (f); bean chéile (f)
+wig	bréagfholt (m)
+wild boar	torc, torc allta
+wild turkey	turcaí
+wildcat	cat fiáin eorpach
+willow	saileach (f); sail (f); saileog (f)
+win	buaigh
+wind	gaoth (f)
+window	fuinneog (f)
+wine	fíon (m)
+wing	sciathán (m)
+winter	geimhreadh (m)
+wise	críonna
+wisent	bíosún
+wish	santaigh
+witch	cailleach (f)
+with	le
+without	gan
+wolf	faolchú (m); mac tíre (m); madra alla (m); madra allta (m)
+woman	bean (f); mná; ban (f)
+wonderful	iontach
+wood	adhmad (m)
+woodpecker	cnagaire
+wool	olann (f)
+word	focal (m)
+work	saothar (m)
+workers of the world, unite	oibrithe an domhain, aontaigh!
+world	domhan (m)
+worm	péist (f); cruimh (f); cuiteog (f)
+wormwood	mormónta (m)
+write	scríobh chuig
+xenon	xeanón (m)
+xenophobia	seineafóibe (f)
+xylophone	xileafón (m)
+yawn	méanfach (f)
+year	bliain (f)
+yeast	gabháil (f) giosta (m)
+yellow	buí (m)
+yesterday	inné
+yoghurt	iógart
+you	tú; tusa
+young	óg
+your	bhur
+youth	giolla (m)
+ytterbium	itéirbiam
+yttrium	itriam
+zero	neamhní, nialas
+zinc	sinc

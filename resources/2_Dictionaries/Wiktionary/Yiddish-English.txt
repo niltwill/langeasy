@@ -1,0 +1,943 @@
+Yiddish	English
+עידס (eids)	AIDS
+אַבֿרהם (Avrom)	Abraham
+אפגאניסטאן (afganistan)	Afghanistan
+אַפֿריקע	Africa
+אַפֿריקאַנס (afrikans)	Afrikaans
+אַפֿריקאַנער (afrikaner)	Afrikaner
+על זשאזירא (el zhazira)	Al Jazeera
+אַלבאַניע (Albanye)	Albania
+אלבאני (Alvani)	Albany
+אַלעקסאַנדער (m) (Aleksander)	Alexander
+אַלזשיר (Alzhir)	Algeria
+אַמעריקע (amerike)	America
+אנקארא (n) (Ankara)	Ankara
+אַפּריל (m) (april)	April
+אײַז־ים (m) (ayz-yam)	Arctic Ocean
+אַרגענטינע (Argentine)	Argentina
+ארמעניע (Armenye)	Armenia
+אזיע (azie)	Asia
+אַטלאַנטיש (atlantish)	Atlantic
+אויגוסט (m) (oygust)	August
+אױסטראַליע (Oystralye)	Australia
+עסטרײַך (n) (Estraykh)	Austria
+אַזערבײַדזשאַן (n) (Azerbaydzhan)	Azerbaijan
+באקו (baku)	Baku
+די ביטעלס	Beatles
+פעקינג (n) (peking)	Beijing
+ווײַסרוסלאַנד (n) (Vaysrusland); בעלאָרוסיע (n) (Belorusye)	Belarus
+װײַסרוסיש (vaysrusish)	Belarusian
+בעלגיע (belgie)	Belgium
+װײַסרוסיש (vaysrusish)	Belorussian
+בערלין (Berlin)	Berlin
+בעסאַראַביע	Bessarabia
+ביאליסטאק	Białystok
+ביראבידזשאן	Birobidzhan
+שווארצער ים (m) (shvartser yam)	Black Sea
+בלו טוט	Bluetooth
+פיהם (n) (pihm)	Bohemia
+באָסניע (bosnie)	Bosnia
+באָסניע הערצעגאָװינע (Bosnye Hercegovine)	Bosnia and Herzegovina
+באָסטאָן (boston)	Boston
+ברוקלין (Bruklin)	Brooklyn
+בריסל	Brussels
+בוקארעסט	Bucharest
+בולגאַריש (n) (bulgarisch)	Bulgarian
+קאַליפֿאָרניע (kalifornie)	California
+קאַמבאָדזשע (kambodže)	Cambodia
+קאַנאַדע (Kanade)	Canada
+די יענע מעשׂה (di yene mayse) (f)	Cancer
+קארל (m) (Karl)	Carl
+טשערנאבל (tshernobl)	Chernobyl
+כינע (khine)	China
+כינעזיש (n) (kinezish)	Chinese
+ניטל (m) (nitl)	Christmas
+קאקא קאלא (koka kola)	Coca
+קראאטיע	Croatia
+קרייצצוג (m) (kreitstsug)	Crusade
+קוריטיבא	Curitiba
+טשעכיש (n) (tshekhish)	Czech
+(Tshekhishe Republik)	Czech Republic
+טשעכיי (f) (Tshekhay, Tshekhie, Tshekhia)	Czechia
+דענענבורג (Denenburg)	Daugavpils
+דוד המלך	David
+דעצעמבער (m) (detsember)	December
+דענמארק	Denmark
+גלות (galut) (f)	Diaspora
+דניעפער	Dnieper
+פּאַסכע (Paskhe)	Easter
+ענגליש (english)	English
+עסטלאנד	Estonia
+עטיאָפיע (Etiopye)	Ethiopia
+אייראָפּע (f) (Eyrope)	Europe
+אייראָפּעיש (eyropeyish)	European
+אייראפעישער פארבאנד	European Union
+פייסבוק	Facebook
+פעברואר (m) (februar)	February
+פינלאנד (n) (Finland)	Finland
+פראנקרײך (n)	France
+פֿראַנצױזיש (frantsoyzish, franzojsisch); פראנצויזיש (frantsoyzish)	French
+פרײַטאָג (fraytog, frajtog)	Friday
+גאַליציען (Galitsyen); גאַליציע (f) (Galitsie)	Galicia
+עזה פאס	Gaza Strip
+Georg	George
+גרוזיע (Gruzye)	Georgia
+דײַטש (m) (daytsh)	German
+דײַטש (daytsh)	Germanic
+דײַטשלאַנד (n) (Daytshland, Dajtschland)	Germany
+געסטאַפּאָ (gestapo)	Gestapo
+גריכנלאנד (n) (grikhenland)	Greece
+גריכיש (grikhish)	Greek
+חנוכה (f) (khanukka)	Hanukkah
+אַ פֿריילעכן פּסח (a freylekhn peysekh)	Happy Easter
+גליקלעכן נייעם יאָר (gliklekhn neyem yar)	Happy New Year
+הארי	Harry
+העברעיש (hebreish)	Hebrew
+הורדוס	Herod
+חיזבאלא (hizballa)	Hezbollah
+היטלער (Hitler); אדאלף היטלער (m) (Adolf Hitler)	Hitler
+חורבן אייראפע (khurbn eyrope); (khurbn) (halokaust)	Holocaust
+האנג קאנג	Hong Kong
+איך (kh'-)	I
+איך האָב אַ קשיא (ikh hob a kashe); איך האָב אַ פֿראַגע (ikh hob a frage)	I have a question
+איך ליבע דיך (ikh libe dikh), איך האָב דיך ליב (ikh hob dikh lib)	I love you
+איך דאַרפֿן דיין הילף (ikh darfn dayn hilf)	I need your help
+איסלאנד (Island)	Iceland
+אינדיע (Indie)	India
+אינטערנעט פראטאקאל (internet protokol)	Internet Protocol
+אייאויווע	Iowa
+איראן (Iran)	Iran
+איראַק (Irák)	Iraq
+ישראל (Yisroel)	Israel
+איטאַליעניש (italienish)	Italian
+איטאַליע (f) (italye)	Italy
+דזשאַמײקע (dzshameyke)	Jamaica
+יאַנואַר (m) (yanuar)	January
+יאפאן (Yapan)	Japan
+יריחו	Jericho
+ירושלים (Yerushaláyim)	Jerusalem
+ייִד (m) (Yid)	Jew
+ייִדיש (yidish)	Jewish
+ייִדישער אױטאָנאָמע געגנט (Yidisher Oytonome Gegnt)	Jewish Autonomous Oblast
+מוישה גרויס (m)	John Doe
+יולי (m) (yuli)	July
+יוני (m) (yuni)	June
+קאזאכסטאן (Kazakhstan)	Kazakhstan
+קו קלוקס קלען (qw qlwqs qlon)	Ku Klux Klan
+קורדיש (n) (kurdish)	Kurdish
+קעניגסבערג	Königsberg
+ליביע (Libye)	Libya
+לאָס־אַנדזשעלעס (Los-Andželes)	Los Angeles
+mentsh	Man
+מאַרץ (m) (marts)	March
+מארקס	Marx
+מײַ (n) (may)	May
+מיטלענדישער ים	Mediterranean Sea
+מערקור (Merkur)	Mercury
+פֿרײלעכע ניטל (freylekhe nitl)	Merry Christmas
+מעקסיקע (Meksike)	Mexico
+מיכאל (m) (Mikhoyl)	Michael
+מינסק (Minsk)	Minsk
+מיר (mir)	Mir
+מאָלעװ (Molev)	Mogilev
+מאלדאווע	Moldova
+מאָנטיק (móntik)	Monday
+לבנה	Moon
+מאראקא (Maroko)	Morocco
+מאסקװע (Moskve)	Moscow
+משה (m)	Moses
+מוחמד (m); מוכאַמאַד (m)	Muhammad
+מומביי (mumbai)	Mumbai
+נאצי	Nazi
+נאציזם (m) (natsizm)	Nazism
+האלאנד	Netherlands
+ניו־יאָרק (Nyu-York); ניו יאָרק (Nyu York)	New York City
+ניו-זילאנד	New Zealand
+נאָוועמבער (m) (november, nowember)	November
+אָקטאָבער (m) (oktober )	October
+אָדעס (Odes)	Odessa
+פאציפישער אקעאן (m) (patsifisher okean)	Pacific Ocean
+פאַקיסטאַן (Pakistán)	Pakistan
+פאלעסטינע	Palestine
+פּאָלעט (f) (Polet)	Paulette
+פּוילן (n) (Poyln)	Poland
+פּאָליאַק (m) (poljak); פּאָלקע (f) (polke)	Pole
+פּויליש (poylish)	Polish
+פּאָרטוגאַל (n) (Portugal)	Portugal
+פאטער	Potter
+פּראַג	Prague
+פוטין	Putin
+פיטאגאראס	Pythagoras
+רחל (f) (Rokhl)	Rachel
+רעפובליק פון לעטלאנד (f)	Republic of Latvia
+רעפובליק פון ליטע (f)	Republic of Lithuania
+ראמעניע	Romania
+רוסלאנד (n) (rusland)	Russia
+רוסיש (rusish)	Russian
+רוסישע פֿעדעראַציע (f) (rusishe federatsye)	Russian Federation
+שבת (m) (shabes)	Sabbath
+פעטערבורג	Saint Petersburg
+שבת#Yiddish'שבת (shabes)	Saturday
+שאָטלאַנד (shotland)	Scotland
+סיים (m) (seym)	Sejm
+סעלענאַ (f) (Salena)	Selena
+סעפּטעמבער (m) (september)	September
+סערביש (serbish)	Serbian
+סיביר (sibir)	Siberia
+סאָוועטיש (m) (sovetish)	Soviet
+ראַטןפֿאַרבאַנד (m) (ratnfarband)	Soviet Union
+שפּאַניע (shpanye)	Spain
+שפּאַניש (shpanish)	Spanish
+סטאלין (Stalin)	Stalin
+Sudetn	Sudeten
+Sudetnland, סודעטן, סודעטנלאנד	Sudetenland
+זונטיק (zúntik)	Sunday
+שוועדן	Sweden
+שווייץ (f) (sh'váyitz)	Switzerland
+סיריע (siriye)	Syria
+טייוואן (tayvan)	Taiwan
+טאדזשיקיסטאן (tadzshikistan)	Tajikistan
+טאליבאן	Taliban
+טאלין (talin)	Tallinn
+תּלמוד (m) (talmud)	Talmud
+טביליסי (tbilisi)	Tbilisi
+תל אביב (tel aviv)	Tel Aviv
+עשרת הדיברות (aseres hadibres) (p)	Ten Commandments
+דאָנערשטיק (dónershtik)	Thursday
+זיבנבורגן	Transylvania
+דינסטיק (dinstik)	Tuesday
+טערקײַ (f) (Terkay)	Turkey
+װעלטס האַנדל צענטער (velts hondl tsenter)	Twin Towers
+אוקראַינע (Ukraíne)	Ukraine
+אוקרײַניש (n) (ukraínisch)	Ukrainian
+פֿאַראײניקט קיניגרײַך (n) (far'eynikt kinigraykh)	United Kingdom
+(Fareynikte Shtatn)	United States of America
+אוזבעקיסטאן (uzbekistan)	Uzbekistan
+וואן גאך (van gokh); ווינצענט וואן גאך (vintsent van gokh)	Van Gogh
+ווילנע	Vilnius
+ווארשע	Warsaw
+מיטוואָך (m) (mitvokh, mitwoch)	Wednesday
+ווען	Wen
+מערב אייראפע (f) (meyrev eyrópeh)	Western Europe
+ווייסע הויז	White House
+וויקיווערטערבוך (vikiverterbukh)	Wiktionary
+פֿאָן (fon) (f)	Wiktionary:Usability/flag
+ברעסלוי (bresloy)	Wroclaw
+יאונדע (yaunde)	Yaoundé
+תימן (teyman)	Yemen
+יערעוואן (yerevan)	Yerevan
+ייִדיש (yidish, jidisch)	Yiddish
+יום-כּיפּור (m) (yonkiper)	Yom Kippur
+אַ ביסל (a bisl)	a little
+בויך (m) (boykh, bojch)	abdomen
+קאנטע (f) (konte)	account
+אַדיעקטיוו (m)	adjective
+אַדווערב (m)	adverb
+אַעראָפּלאַן (aeroplan) (m), אײַראָפּלאַן (ayroplan) (m)	aeroplane
+נאָך	after
+ווידער (vider); נאָכאַמאָל (nokhamol)	again
+וועקער (m) (veker)	alarm clock
+עליה (aliyá)	aliyah
+אַלע	all
+אלפאבעט (f) (alfabet)	alphabet
+אַלפֿאַבעטיש (alfabetish)	alphabetical
+אויך (oykh)	also
+בין (bin)	am
+אַ (a); אַן (an)	an
+אנאל סעקס	anal sex
+אַנאַרכיסט (m) (anarkhist)	anarchist
+אַנאַרכיסטיש (anarkhistish)	anarchistic
+און (un)	and
+מלאך (m) (malekh)	angel
+מוראַשקע (f) (murashke)	ant
+עפּל (m) (epl)	apple
+עפּלבוים (m) (eplboym)	apple tree
+אַפּריקאָס (m) (aprikos)	apricot
+אָרעם (m) (orem)	arm
+פֿײַל (f) (fayl)	arrow
+קינסטלער (m) (kinstler, kinsstler); קינסטלערין (f) (kinstlerin, kinsstlerin)	artist
+בעטן (betn)	ask
+תחת (m) (tokhes)	ass
+אַסטראָנמיע (f) (astronomie)	astronomy
+אטעאיזם	atheism
+פּאַטלעזשאַן (patlezhan)	aubergine
+זאַל (m) (zal)	auditorium
+טאַנטע (f) (tante)	aunt
+אױטאׇביאׇגראַפֿיע (f) (oytobiografie)	autobiography
+אווטאָנאָמע געגנט (avtonome gegnt) (f)	autonomous oblast
+האַרבּסט (n) (harbst); אָסיען (m) (osyen)	autumn
+בעיבי בומער (m) (beybi bumer)	baby boomer
+בײגל (m) (beygl)	bagel
+באַקן (bakn)	bake
+בעקערײַ (f) (bekeray)	bakery
+באַלאָן (balon) (m)	balloon
+קוישבאָל (koyshbol) (m), באסקעטבאל (basketbol) (m)	basketball
+זײַן (zayn)	be
+בער (m) (ber)	bear
+וואַנץ (vants) (f)	bedbug
+בין (bin)	bee
+דזשוכע (f) (dzshukhe)	beetle
+ביציקל (m) (bitsíkl); ראָווער (m) (róver); וועלאָסיפּעד (m) (velosipéd); ביציקלעט (m) (bitsiklét)	bicycle
+ביציקל (m) (bitsíkl); ראָווער (m) (róver); וועלאָסיפּעד (m) (velosipéd); ביציקלעט (m) (bitsiklét)	bike
+ביאכעמיע	biochemistry
+מיידל (f) (meydl)	bird
+געבוירן־טאָג (m) (geboyrn-tog); געבורצטאָג (m) (geburtstog)	birthday
+מוטער־צײכן (m) (muter-tseykn)	birthmark
+בייסעקסואלוטעט	bisexuality
+ביסקופּ (m) (biskup)	bishop
+שװאַרץ (shvarts)	black
+שווארצע לאך	black hole
+זײַ געזונט	bless you
+בלינצע (blintse)	blini
+בליצקריג (m) (blitzkrig)	blitzkrieg
+בלוט (n) (blut)	blood
+שיף (shif)	boat
+אַ גליקלעכע רײַזע (a gliklekhe rayze)	bon voyage
+ביין (m) (beyn); ביינער (beyner)	bone
+בוך (bukh)	book
+מוכר־ספֿרים (moykher-sforim) (m)	bookshop
+Eckveldt	boondocks
+שטיוול (m) (shtivl)	boot
+גרענעץ (m)	border
+באַרשט (borsht)	borscht
+בויגן (boygn) (m)	bow
+מוח (m) (moyekh)	brain
+ברוסט (f) (brust)	breast
+בריקל (n) (brikl)	bridge
+ברודער (m) (bruder)	brother
+קויל (f) (koyl)	bullet
+farnumen	busy
+אָבער (ober)	but
+פּוטער (f) (puter)	butter
+זומער־פֿייגעלע (n) (zumer-feygele); פֿלאַטערל (n) (flaterl)	butterfly
+קאקאא בוים	cacao
+קעמל (m) (keml)	camel
+די עמעסע מעשׂה (f) (di emeseh mayseh); די יענע מעשׂה (f) (di yeneh mayseh); ראַק	cancer
+ליכט (likht) (n) or (f)	candle
+הױפּטשטאָט (f) (hoyptshtot, hojptschtot)	capital city
+קוילנשטאף (m) (koilenshtof)	carbon
+טראגן (trogn)	carry
+פֿירן שטרוי קיין מצרים (Firn shtroy keyn mitsraim.)	carry coals to Newcastle
+קאַץ (kats) (f), קעץ (kets) (p), קאָטער (koter) (m), קאָטערס (koters) (p)	cat
+הייל (heyl)	cave
+צעדרבוים (m) (Tsederboym); צעדר (Tseder)	cedar
+מאביל טעלעפאן (mobil telefon) (m), צעלקע (tselke) (f)	cell phone
+סענטיפּעדע	centipede
+קייט (f) (keyt)	chain
+שטול (shtul)	chair
+מײַסטער (m) (mayster )	champion
+קעז (kez) (m)	cheese
+קינד (kind)	child
+קינדער (kinder)	children
+גאמבע	chin
+שאָקאָלאַד (m) (shokolad)	chocolate
+קלײַבן (klaybn), אויסקלײַבן (oysklaybn)	choose
+אַקאָרד (m) (akord)	chord
+קראָומיאַם	chromium
+קירך (f) (kirkh)	church
+חוצפּה (f) (khutspe)	chutzpah
+ייִדישן (yidishn)	circumcise
+שטאט (f)	city
+ליים (leym)	clay
+פּוצן (putsn)	clean
+זייגער (m) (zeyger)	clock
+טוך (n) (tukh)	cloth
+breg	coast
+שלאַנג (f) (shlang)	cock
+טאַראַקאַן	cockroach
+קאַווע (f) (kave)	coffee
+קאַלט (kalt)	cold
+קאלטער קריג (m) (kalter krig)	cold war
+קומען (komen)	come
+קאמוניזם (m) (komunizm)	communism
+קאָמפּאָנענט (komponent) (m)	component
+קאָמפּיוטער (m) (kompyuter)	computer
+חבר (khaver)	comrade
+מזל טובֿ (mazl tov)	congratulations
+קאנסערוואטיזם	conservatism
+קיכל (n) (kikhl)	cookie
+פעלד־גליאנדער (feld-gliander)	coriander
+דאָרפֿיש (dorfish)	country
+מוט (mut)	courage
+קו (f) (ku)	cow
+באַשאַפֿן ('bashafn')	create
+(groyzam)	cruel
+וויינען (veynen)	cry
+ציקל (m) (tsikl); ציקלען (tsiklen)	cycle
+דאַקסהונט (m) (dakshunt, daksshunt)	dachshund
+מילכיקס (n) (milkhiks)	dairy
+דאטן (f)	data
+טרעפֿונג (trefung) (f)	date
+טײטלבױם (m) (teitelboym)	date palm
+פֿאַרטאָג (m) (fartog)	dawn
+טאָג (m) (tog)	day
+פֿאַרטאָג (m) (fartog)	daybreak
+tsondokter	dentist
+טײַוול (m) (tayvl, tajwl); שׂטן (m) (sotn, ssotn)	devil
+טאָג־בוך (n) (tog–bukh)	diary
+ווערטערבוך (verterbukh); ווערטעביכער (verterbikher, werterbicher)	dictionary
+שווער (shver); האַרב (harb)	difficult
+דיפּלאָם (m) (diplom)	diploma
+דיסקוסיע (f) (diskusye)	discussion
+ekl	disgust
+טאָן	do
+רעדט איר אידיש (redt ir (y)idish); רעדסט דו אידיש (redst du (y)idish); רעדסטו אידיש (redstu (y)idish)	do you speak something
+דאָקטאָר (m) (doktor)	doctor
+הונט (m) (hunt); הינט (hint)	dog
+(beyshteier)	donation
+טיר (f) (tir)	door
+טױב ('toyb')	dove
+דראַקאָן (m) (drakon)	dragon
+טרוים (m) (troym)	dream
+טרינקען (trinken)	drink
+שיכּור (shiker)	drunk
+פֿאַרטריקנט (fartríknt)	dry
+שטויב (m) (shtoyb, schtojb)	dust
+וווינען	dwell
+בליצבריוו (m) (blitsbriv); בליצבריוול (m) (blitsbrivl)	e
+יעדער (yeder)	each
+אָדלער (odler) (m)	eagle
+באלדיק (baldik)	early
+ערטקווייק	earthquake
+מזרח (m) (mizrekh)	east
+עקאנאמיק (ekonomik)	economics
+בילדונג	education
+עלנבויגן (m) (elnboygn)	elbow
+עלעקטראניק	electronics
+יפּיטאַמי (ifitomi)	epitome
+יעדער (yeder)	every
+אויסדרוק (oysdruk) (m)	expression
+אױג (n) (oyg)	eye
+ברעמ (brem) (f)	eyebrow
+וויִע (viye) (f)	eyelash
+פֿאַנטאַסטיש (fantastish)	fabulous
+פנים (ponem)	face
+פֿאַנטאַסטיש (fantastish)	fantastic
+פֿאַסטן (fastn)	fast
+פֿאָטער (m) (foter); טאַטע (m) (tate)	father
+פעדעריישאַן (f)	federation
+פעלד (n)	field
+קעמפֿן (kemfn)	fight
+קנס (m) (knas)	fine
+פֿינגער (m) (finger)	finger
+נאָגל (m) (nogl)	fingernail
+טענענבוים (m) (Tenenboym)	fir
+פייער; פֿײַער	fire
+פֿיש (m) (fish)	fish
+פֿויסט (f) (foyst)	fist
+פאסן (pasn)	fit
+פֿינף (finf)	five
+פֿאָן (f) (fon)	flag
+בלום (f) (blum); קווייט (m) (kveyt, kwejt)	flower
+נעפּל (m) (nepl)	fog
+עסן (n) (esn)	food
+פֿוסבאָל (m) (fusbol)	football
+שטערן (m) (shtern)	forehead
+פרעמד (fremd)	foreign
+גאָפּל (m) (gopl)	fork
+פֿערציק (fertsik)	forty
+פֿוקס (m) (fuks, fukss); פֿוקסן (m)	fox
+פֿרײַנד (m) (fraynd, frajnd); פֿרײַנדין (f) (frayndin, frajndin)	friend
+זשאַבע (f) (zhabe, sschabe); זשאַבעס (f); פֿראָש (f) (frosh, frosch); פֿרעש (f)	frog
+פון	from
+פֿרוכט (frukht)	fruit
+פאנגוס (fungus)	fungus
+גאָרטן (m) (gorten)	garden
+גאז קאמער (f) (gas kamer)	gas chamber
+גאזאלין (gazolin)	gasoline
+גאוצ'אָ	gaucho
+זשאַנער (m) (zhaner )	genre
+געאָגראַפֿיע (f) (geografye )	geography
+געטא (geto)	ghetto
+גײַסט (m) (gayst); שד; רוח	ghost
+שענקען (shenken)	gift
+כיכיקען (khikhiken )	giggle
+דזשעראַף (dzheraf)	giraffe
+מיידל (n); מיידלעך (meydlekh, mejdlech)	girl
+געבן (gebn)	give
+גלאָז (gloz) (m'f)	glass
+גלאָבאַליסאַטיאָן	globalisation
+הענטשקע (f) (hentshke)	glove
+קליי (m) (kley)	glue
+גאָט (m) (got)	god
+גאָלד (n) (gold)	gold
+גוט־מארגן (gut-morgn)	good morning
+גאַנדז (f) (gandz)	goose
+גענדזל (n) (gendzl)	gosling
+גוי (goy)	goy
+גראמאטיק (gramatik)	grammar
+אייניקל (n) (eynikl)	grandchild
+שענקען (shenken)	grant
+(tsvinter)	graveyard
+שמאַלץ (shmalts)	grease
+גריסן (grisn)	greet
+פֿאַריבל	grudge
+היטן (hitn)	guard
+טרעפן (trefn)	guess
+שולד (f) (shuld)	guilt
+ציגײַנער (m) (tsigayner)	gypsy
+העלפֿט (f)	half
+האַנט (f) (hant, hent)	hand
+הענגען (hengen)	hang
+הענגאווער (hengover); קאַצניאָמער (m) (kotsenyamer)	hangover
+געשען (geshen)	happen
+שווער (shver); האַרב (harb)	hard
+האַרטער דיסק (m) (harter disk)	hard drive
+קוים (koym)	hardly
+האָז (m) (hoz)	hare
+הוט (hut) (m), קאַפּעליוש (kapelyush) (m)	hat
+האַס (f) (האַס)	hatred
+האָבן	have
+היי (hei) (n)	hay
+ער (er)	he
+קאפ (m)	head
+היילן (heyln)	heal
+gezundheit	health
+האַרץ (n) (harts)	heart
+הארץ אטאקע	heart attack
+העליום (n) (helium)	helium
+שלום־עליכם (sholem-aleykhem); גוט־מאָרגן (gut-morgn)	hello
+אַהער (aher)	here
+העלד (m) (held)	hero
+העלדין (f) (heldin)	heroine
+העטראסעקסואליטעט (f) (heteroseksualitet)	heterosexuality
+הייליק מלחמה (f) (heylik milkhama)	holy war
+פּאָסטטויב (f) (YIVO: posttoyb; posttojb)	homing pigeon
+האמאסעקסואלוטעט (homoseksualutet)	homosexuality
+האָניק (m) (honik)	honey
+פֿערדבין (f) (ferdbin)	hornet
+פֿערד (n) (ferd)	horse
+הונט (hunt) (m)	hound
+שעה (f) (sho)	hour
+הויז (n) (hoyz)	house
+?וואָס הערט זיך בײַ דיר (vos hert zikh bay dir?) (informal), ?וואָס מאַכסטו (vos makhstu?) (familiar), ?וואָס מאַכט איר (vos makht ir?) (formal)	how are you
+װיפֿל (vifl)	how many
+וויפֿל (vifl)	how much
+האלדזן (f) (haldzn)	hug
+הונדערט (hundert)	hundred
+הונגעריק (hungerik)	hungry
+הידראגען (hidrogen)	hydrogen
+אייז (aiz)	ice
+אויב (oyb), טאָמער (tomer), אַז (az)	if
+krankeit	illness
+בילד (bild)	image
+תּיכּף (teykef)	immediately
+וויכטיק (vikhtik)	important
+פֿאַרבעסערן (tarbesern)	improve
+פֿאַרבעסערונג (f) (tarbeserung)	improvement
+אינפעקציע (f) (infektzie)	infection
+באַאײַנפֿלוסן	influence
+וווּנד (vund) (f), (nerek), שאָדן (shodn) (m)	injury
+meshugas	insanity
+אינסעקט (m) (insekt, inssekt)	insect
+אינסולין (insulin)	insulin
+שׂכל (seykhl) (m)	intelligence
+אינטעליזשענט דעזיין (intelizhent dezayn)	intelligent design
+אינטערנל קאמבאסטשען ענזשין (m) (internal kombastshen enzhin)	internal combustion engine
+אינטיפאדע (f) (intifade)	intifada
+אײַזן (n) (ayzn, ajsn)	iron
+איז (iz)	is
+אינדזל (m) (indzl)	island
+עס (es)	it
+העלפאַנדביין	ivory
+שאַקאַל (m) (shakal)	jackal
+טאָג־בוך (f)	journal
+זשאנגלירן	juggling
+זאַפֿט (m) (zaft )	juice
+גערעכטיקייט (f) (gerekhtikeyt )	justice
+שאַ (sha)	keep quiet
+קעטשאָפּ	ketchup
+שליסל (m) (shlisl)	key
+טייטן (teytn); אומברענגען (umbrengen)	kill
+קיניג (m) (kinig)	king
+יאַרמלקע (f) (yarmlke)	kippah
+קיש מיר אין תּחת (kish mir in tokhes)	kiss my ass
+קיך (m) (kikh)	kitchen
+מעסער (m) (meser)	knife
+כּשר (kosher)	kosher
+אָזערע (f) (ozere)	lake
+שפּראַך (f) (shprakh)	language
+אַדװאָקאַט (m) (advokat)	lawyer
+לײגן (leygn)	lay
+בלײַ (blay)	lead
+פּיאַווקע (f) (pyavke)	leech
+לענג	length
+אויפֿגאַבע (oyfgabe); לעקציע (lektsye)	lesson
+בריוו (briv) (m)	letter
+ליבעראל	liberal
+ליבעראליזם	liberalism
+ביבליאָטעקער (m) (biblyoteker); ביבליאָטעקעראין (f) (biblyotekerin)	librarian
+ליגן (lign)	lie
+לעבן (n) (lebn)	life
+לעבן פארזיכערונג	life insurance
+בליץ (blits)	lightning
+גם־אַתּם (gam-atem)	likewise
+לינגוויסט (m) (lingvist)	linguist
+לינגוויסטיק (f) (lingvistik)	linguistics
+לייב (leyb) (m)	lion
+ליפּ (f) (lip)	lip
+הערן (hern)	listen
+ליטיום (n) (litium)	lithium
+וווינען (voynen)	live
+יאַשטשערקע (yashtsherke) (f)	lizard
+שליסן (shlisn)	lock
+לאַנג (lang)	long
+אַהבֿה (f) (aave); (f) (libe) (f) (libshaft)	love
+בתולה (f) (bsule)	maiden
+פּאָסט (f) (post)	mail
+קוקורוזע (f) (kukuruze)	maize
+מענטש (m) (mentsh); מענטשן (mentshn)	man
+מענלעך (menlekh)	manly
+אַ סך (a sakh)	many
+מעראַוואַנאַ	marijuana
+שדכן (m) (shadkhn)	matchmaker
+קימפּעט־פּאַלאַטע (f) (kimpet-palate)	maternity ward
+מאַטעמאַטיק (f) (matematik)	mathematics
+מבֿין (meyvn) (m)	maven
+מעל	meal
+פֿלייש (n) (fleysh)	meat
+טרעפן (trefn)	meet
+מעלאָן (m) (melon)	melon
+מנורה (f) (m'nóyre)	menorah
+מעטער (meter) (m)	meter
+מילך (f) (milkh)	milk
+מילכיקער (milkhiker)	milkman
+מיליאָן (milyon)	million
+מילליפּעדע	millipede
+שפּיגל (m) (shpigl)	mirror
+מישעגאָסס (míšegoss)	mishegoss
+מאביל טעלעפאן (m) (mobil telefon); צעלקע (f) (tselke)	mobile phone
+קראָט (m) (krot); מולטוואָרעס (m) (multvores)	mole
+אויגנבליק (m) (oygnblik); מאָמענט (m) (moment)	moment
+געלט (n) (gelt)	money
+חודש#Yiddish'חודש (khóydesh) (m)	month
+לבנה (f) (levoneh)	moon
+moral	morality
+מאָך (m) (mokh)	moss
+מאַמען (mamen)	mother
+מאַמע־לשון (n) (mame-loshn); מוטער־שפּראַך (f) (muter-shprakh)	mother tongue
+באַרג (m) (barg)	mountain
+טרויערן (troyern)	mourn
+מויל (moyl)	mouth
+אַ סך	much
+שוועמל (n) (shveml)	mushroom
+מוזיק (f) (muzik)	music
+מיוזיקל (m), מוזיקאַלישער ספּעקטאַקל (m)	musical
+פּיסק (m) (pisk)	muzzle
+מײַן	my
+misteriez	mysterious
+נאַקעט (naket)	naked
+אָנרופֿן (onrufn)	name
+נאנאָרי	nanori
+געבוירנער רעדער (m) (geboyrner reder)	native speaker
+נאַטירלעכע סעלעקציע (f) (natirlekhe selektsye)	natural selection
+ניטגוטקײַט (f) (nitgutkayt)	nausea
+נײַ (nay)	new
+קימפּעטקינד (n) (kimpetkind)	newborn
+צײַטונג (f) (tsáytung)	newspaper
+שוואַרצע (shvartze), שוואַרצער (shvartser)	nigger
+נאַכט (f) (nakht)	night
+נאכט העמד	nightdress
+נאכט העמד	nightgown
+נאכט העמד	nightie
+בײַזער חלום (bayzer kholem) (m)	nightmare
+אזאט (azot)	nitrogen
+ביט ניט צו (bíte nit tsu) (followed by an infinitive)	no
+ביטע ניט צו רױכערן (bite nit tsu raukhern)	no smoking
+לוקש	noodle
+צפֿון (m) (tsofn)	north
+ראץ	nose
+ניט (nit); נישט (nisht)	not
+סובסטאנטיוו (n) (substantiv)	noun
+נומער (m) (numer); צאָל (f) (tsol)	number
+נוס (m)	nut
+שבֿועה (f) (shvue)	oath
+פֿאָלגן (folgn)	obedience
+גראב	obesity
+געגנט (f) (gegnt)	oblast
+פון	of
+אַלט (alt)	old
+אַלטער קאַקער (m) (alter kaker)	old fart
+אויף (oyf)	on
+איינס (eyns)	one
+מיינונג (f) (meynung)	opinion
+מאַראַנץ (marants)	orange
+אָרגאַניזם	organism
+ארגאזם	orgasm
+אָרגאַסמיק	orgasmic
+אַנדערע	others
+איבער (iber)	over
+אָקס (m) (oks)	ox
+זויערשטאף (m) (zoierstof)	oxygen
+שמערץ (m) (shmerts)	pain
+פאנקרעאס (n) (pankreas)	pancreas
+פּאַפּיר (n) (papir)	paper
+פּאָפּוגײַ (popugay, popugaj); פּאַפּוגע (papuge)	parrot
+טײל (m)	part
+ווערטערקלאַס (m) (verterklas)	part of speech
+פאספארט	passport
+פּאַטריאָט (m) (patri'ot)	patriot
+פּאַווע (pave)	peacock
+פֿיסטאַשקע (f) (fistashke, fisstaschke); סטאַשקע (f) (stashke, sstaschke); רבי־ניסל (n) (rebe-nisl , rebe-nissl )	peanut
+פּעניס (m) (penis); אבֿר (eyver); מענלעכער אבֿר (m) (menlekher eyver)	penis
+פֿאָלק (n) (folk)	people
+פערעסטרויקא	perestroika
+גאזאלין (gazolin)	petrol
+שלום (sholem)	piece
+טויב (f)	pigeon
+שפּילקע (shpilke) (f)	pin
+סאסנע (sasne)	pine
+ליולקע (lyulke)	pipe
+פּיסטויל (m) (pistoyl)	pistol
+פֿאַרגעניגן (n)	pleasure
+פֿלוים (f) (floym)	plum
+קעשענע (f) (keshene); טאַש (m)	pocket
+קעשענע־זייגערל (n) (keshene-zeygerl)	pocket watch
+דיכטונג; פאעזיע	poetry
+פאגראם (m)	pogrom
+פּאליציי (f)	police
+פילעק	polygon
+פּויפּס (m) (poyps); פּויפּסט (m) (poypst)	pope
+פארנאגראפיע	pornography
+פונט (punt) (n)	pound
+בעטן (betn)	pray
+אומזיכער	precarious
+טראָגעדיקייט (trogedikeyt) (f)	pregnancy
+שיין (sheyn)	pretty
+פרימצאל (primtzal) (f)	prime number
+דרוקן (drukn)	print
+פּראָבלעם (problem)	problem
+פּראָנאָם (n) (pronom)	pronoun
+נבֿיא (m) (novi)	prophet
+נבֿיאה (f) (nevie)	prophetess
+שפּריכוואָרט (shprikhvort) (n), וועלצווערטל (veltsvertl) (n)	proverb
+פיראמיד (piramid)	pyramid
+קוואָדער (m) (kvoder)	quarter
+רבניש	rabbinical
+ראדיא	radio
+רעגן (m) (regn)	rain
+רעגנבויגן (m) (regnboygn)	rainbow
+לייענען (leyenen)	read
+frish	recent
+רויט (royt)	red
+רעליגיע (f) (religye)	religion
+רעפּטיליע (f) (reptilye, reptilje); רעפּטיליעס (f); שרץ (m) (sherets, scherez); שרצים (m)	reptile
+וווינען	reside
+גראם	rhyme
+רײַז (rayz) (m'f)	rice
+פֿינגערל (n) ('fingerl')	ring
+טײַך (m) (taykh)	river
+ראבאט (robot)	robot
+צימער (m) (tsimer)	room
+שטריק (shtrik) (m'f)	rope
+רויז (roiz) (f)	rose
+רובל (m) (rubl); קערבל (n) (kerbl)	ruble
+דאָרפֿיש (dorfish)	rural
+my nan	safari
+זעגלשיף (n) (zeglshif)	sailing ship
+פֿאַרקויף (m) (farkoyf)	sale
+פֿאַרקויפֿער (m) (farkoyfer)	salesman
+פֿאַרקויפֿער (m) (farkoyfer); פֿאַרקויפֿערין (f) (farkoyferin)	salesperson
+פֿאַרקויפֿערין (f) (farkoyferin)	saleswoman
+שפייאכץ	saliva
+זאַלץ (f) (zaltz)	salt
+זעלב (zelb), זעלביק (zelbik)	same
+גם־אַתּם (gam-atem)	same to you
+זאַמד (m)	sand
+זאָגן (zogn)	say
+שולע (f) (shule); שול (f) (shul)	school
+וויסנשאַפֿט (f) (visnshaft, wissnschaft)	science
+ים (m) (yam)	sea
+צוריכטן (tzu-RIKH-ten)	season
+סעקונדע (f) (sekunde)	second
+זען (zen)	see
+זעלטן (zeltn)	seldom
+פֿאַרקויפֿער (m) (farkoyfer); פֿאַרקויפֿערין (f) (farkoyferin)	seller
+זרע; זומען	semen
+שיקן (shikn)	send
+דינסט (m) (dinst)	service
+זיבן (zibn)	seven
+סעקסואלער אריענטאציע (seksualer orientatsie)	sexual orientation
+שאָטן (shotn) (m)	shadow
+שלום (shalóm)	shalom
+הײַפֿיש (m) (hayfish); שארק (shark)	shark
+זי (zi)	she
+שייד (f) (sheyd)	sheath
+שיידן (sheydn)	shed
+שיף (f) (shif, schif)	ship
+דרעק (n) (drek); קאַק (m) (kak)	shit
+שוך (shukh) (m)	shoe
+קראָם (krom); געשעפֿט (gesheft); געװעלב (gevalb); קלײט (kleyt)	shop
+טאַשן (tashn)	shuffle
+זילבער (n) (zilber)	silver
+זינגען (zingen)	sing
+זיצן (zitsn)	sit
+זעקס (zeks)	six
+הויט (f) (hoyt)	skin
+קליידל (kleidel) (n)	skirt
+שאַרבן (sharbn)	skull
+יאַרמלקע (f) (yarmlke)	skullcap
+שלאָף (shlof) (m)	sleep
+שמייכל (m); שמאָך (m) (shmokh)	smile
+רייכערן (reykhern)	smoke
+שׁנעק (m) (shnek)	snail
+שלאַנג (f) (shlang)	snake
+נאָס (m) (nos)	sneeze
+שנויץ (f) (shnoyts, schnojz)	snout
+שניי (m) (shney)	snow
+זיִיף (zeyf) (f) and (n)	soap
+פֿוסבאָל (m) (fusbol)	soccer
+סאציאליזם	socialism
+סאַדע (f) (sode)	soda
+ווײך (veykh)	soft
+סאָלדאַט (m) (soldat); זעלנער (m) (zelner)	soldier
+סאָלידאַרישקייט (solidarishkayt)	solidarity
+רעדן (redn)	speak
+בשׂימעדיק (bsimedik)	spicy
+שפּין (f) (shpin)	spider
+ספּינאַט (m) (spinat)	spinach
+לעפֿל (m) (lefl)	spoon
+ספּרענזשינעס (f) (sprenzhineh)	spring
+וועוורקע (f) (veverke); וועווריק (m) (vevrik)	squirrel
+טרעפּל (trepl)	stairs
+שטערן (m) (shtern)	star
+קאַרג (karg)	stingy
+שטיין (m) (shteyn)	stone
+שטרוי (m) (shtroy)	straw
+שלאגן (shlogn)	strike
+שטריקל (shtrikl) (n)	string
+שטאַרק (shtark)	strong
+אַבאָנירן (abonirn)	subscribe
+אויף (oyf); מיט אַ מאָל (mit a mol)	suddenly
+צוקער (m) (tsuker)	sugar
+טשעמאָדאַן (m) (chemodan)	suitcase
+שוועבל (m) (shvebl)	sulfur
+זומער (m) (zúmer)	summer
+זון (f) (zun)	sun
+ליווערן (livern)	supply
+שלײקעס (shleykes)	suspenders
+שוואַן (m) (IPA: /ʃvan/, YIVO: shvan); לאַבאָנדז (m) (IPA: /labɔnʣ/, YIVO: labondz)	swan
+שווימען (shvimen)	swim
+שווערד (f) (shverd, schwerd)	sword
+סיסטעם (f) (sistem)	system
+אוב	séance
+טיש (m) (tish); טישן (tishn)	table
+װײדל (m) (veydl); װײדלען (veydlen); (m) (shvants)שװענץ (shvents)	tail
+שנײַדער (m) (shnayder); שנײַדערקע (f) (shnayderke)	tailor
+נעמען (nemen)	take
+טאנק (m) (tank)	tank
+טיי (f) (tey, tej); טייען (f)	tea
+לערנען (lernen)	teach
+רײַסן (raysn)	tear
+ber (n)	teddy bear
+צענערלינג (tsenerling) (m)	teenager
+טעלעפֿאנירן (telefonirn)	telephone
+טעלעוויזיע (f) (televizye)	television
+שול (shul, shil)	temple
+טעראריזם (terorizm)	terrorism
+אַ דאַנק (a dank); אַ דאַנק דיר (a dank dir)	thank you
+אַ שיינעם דאַנק (a sheynem dank)	thank you very much
+דאנק (Dank)	thanks
+דער (m) (der), די (f) (di), דאָס (n) (das)	the
+הײַנטצוטאָג (haynttsutog)	these days
+זיי (zey)	they
+זאַך (zakh) (f), חפֿץ (kheyfets) (m)	thing
+דענקען (denken); טראכטען (trachten)	think
+דאָרשטיק (dorshtik)	thirsty
+דרײַצן	thirteen
+דו (m) (du)	thou
+טויזנט (m) (toyznt)	thousand
+טיגער (m) (tiger)	tiger
+מיד (m) (mid); מידע (f) (mide)	tired
+הײַנט (haynt)	today
+פֿינגער (m) (finger)	toe
+פּאָמידאָר (pomidor) (m)	tomato
+מצבֿה (matseyve)	tombstone
+צונג (f) (tsung)	tongue
+צאָן (m) (tson, zon)	tooth
+שטעטל (n) (shtetl)	town
+מסורה (f) (mesoyre)	tradition
+צעטרעטן (tsetretn)	trample
+איבערזעצן (iberzetsn, ibersezn)	translate
+איבערזעצונג (f) (iberzetsung, ibersezung)	translation
+איבערזעצער (m) (iberzetser, ibersezer); איבערזעצערין (iberzetserin, ibersezerin)	translator
+טרעטן (tretn); באַטרעטן (batretn)	tread
+בוים (boym)	tree
+שבֿט (m) (sheyvet, schejwet)	tribe
+אויטאָ (oyto) (m)	truck
+צאַר (m) (tsar)	tsar
+אינדיק (indik)	turkey
+דרייען (dreyen)	turn
+צווילינג (m) (tsviling)	twin
+צוויי (tsvey)	two
+מיאוס (mies)	ugly
+אונטערגרונט (untergrunt)	underground
+אונטערשטראײַכן (untershtraykhn)	underline
+פֿאַרשטיין (farshteyn)	understand
+אונטערנעמונג (f) (unternemung)	undertaking
+אוניווערס (m)	universe
+nusik	useful
+שייד (f) (sheyd, schejd); וואַגינע (f) (vagine, wagine); מוטערשייד (f) (mutersheyd, muterschejd)	vagina
+טאָל (tol) (m)	valley
+וועגעטאַריער (wegetarier)	vegetarian
+פֿאַרקויפֿער (m) (farkoyfer); פֿאַרקויפֿערין (f) (farkoyferin)	vendor
+ווערב; צייטווארט	verb
+זייער (zeyer)	very
+דאָרף (n) (dorf)	village
+בתולה (f) (bsule)	virgin
+ווירוס (m) (virus)	virus
+מאַשקע	vodka
+וואַרטן (vartn)	wait
+קעלנער (m) (kelner)	waiter
+קעלנערין (f) (kelnerin); קעלנערשע (f) (kelnershe)	waitress
+גיין (geyn); שפּאַצירן (shpatsirn)	walk
+וועלן (veln)	want
+מלחמה (f) (milkhome); קריג (f) (krig)	war
+זייגערל (n) (zeygerl)	watch
+װאַסער (n) (vaser)	water
+קאַווענע (m) (kavene)	watermelon
+כוואַליע (f) (khvalye)	wave
+מיר (mir)	we
+וואך (voəkh)	week
+ווײנען (veynen)	weep
+!װילקום (wilkum) (p), ברוכים־הבאים (brukhim-haboim) (s), ברוך־הבא (borekh-habo)	welcome
+קװאַל (kval) (m)	well
+וואל-פיש (m) (val-fish)	whale
+צו וואָס (tsu vos)	what for
+וואָס איז אייער נאָמען (vas iz ier nomen)	what is your name
+וויפֿל איז דער זייגער (vifl iz der zeyger?)	what time is it
+אַז (az)	when
+וווּ (vu)	where
+וואָסער (voser); וואָסערע (vosere)	which
+בײַטש (baytsh) (f)	whip
+ווייס (vais, wajss)	white
+זונה (f) (zoyne); הור (f) (hur); קורווע (f) (kurve)	whore
+למאַי (lemay); פֿאַרוואָס (farvos)	why
+ווײַב (n) (vayb, wajb); פֿרוי (f) (froy, froj)	wife
+אינדיק (indik)	wild turkey
+ערבה (arava)	willow
+ווינט (m) (vint)	wind
+װײַן (m) (vayn)	wine
+װינטער (m) (vínter)	winter
+ווינטשן (vintshn)	wish
+מיט (mit)	with
+אַ בראָך איז מיר (a brokh iz mir); אַ קלאָג איז מיר (a klog iz mir); וויי איז מיר (vey iz mir); וויי איז צו מיר (vey iz tsu mir); ווינד איז מיר (vind iz mir)	woe is me
+וואָלף (m) (volf)	wolf
+וואָלף־פֿיש (m) (volf-fish, wolf-fisch)	wolffish
+פֿרוי (f) (froy, froj)	woman
+וואָל (vol)	wool
+וואָלן (voln)	woolen
+וואָרט (n) (vort)	word
+אַרבעט (f)	work
+(Hebr'פראָלעטאריער פון אלע לענדער, פאראייניקט זיך!'lang=yi) (Proletarier fun ale lender, fareynikt zikh!)	workers of the world, unite
+וועלט (velt)	world
+וויקלען (viklen); הילן (hiln)	wrap
+שרײַבן (shraybn)	write
+שריפֿטשטעלער (m) (shriftshteler); שריפֿטשטעלערין (f) (shriftshtelerin, schriftschtelerin); שרײַבער (m) (shrayber, schrajber); שרײַבערין (f) (shrayberin, schrajberin)	writer
+יאַרמלקע (f) (yarmlke)	yarmulke
+יאר (n) (yar)	year
+יאָ (yo)	yes
+יאגא	yoga
+יאגארט (m) (yogurt)	yoghurt
+איר (ir)	you
+יונג (yung)	young

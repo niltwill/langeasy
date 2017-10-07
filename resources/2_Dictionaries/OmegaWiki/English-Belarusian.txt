@@ -1,0 +1,334 @@
+English	Belarusian
+Abkhazia	Абхазія
+Albania ; Republic of Albania	Альбанія
+Algeria ; People's Democratic Republic of Algeria	Альжыр ; Алжыр
+Antarctic Ocean ; Southern Ocean	Паўднёвы акіян
+Antarctica	Антарктыда
+April	красавік
+Arabic ; Standard Arabic	арабская
+Argentina ; Argentine Republic	Аргентына
+Armenia	Армэнія
+Armenian	армянская
+Atlantic Ocean	Атлянтычны акіян
+August	жнівень
+Australia ; Commonwealth of Australia	Аўстралія
+Austria ; Republic of Austria	Аўстрыя
+Azerbaijan ; Republic of Azerbaijan	Азэрбайджан
+Bahrain	Бахрэйн
+Bangladesh ; People's Republic of Bangladesh	Бангладэш
+Belarus ; Republic of Belarus	Беларусь
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	Беларуская ; беларуская
+Bokmål	нарвэская
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Босьнія і Герцагавіна
+Brazil	Бразілія
+Breton ; Breton	брэтонская
+Brunei ; Negara Brunei Darussalam	Брунэй
+Brussels	Брусэль
+Bulgaria ; Republic of Bulgaria	Балгарыя
+California	Каліфорнія
+Canada	Канада
+Caribbean Sea	Карыбскае мора
+Castilian ; Spanish ; Spanish	гішпанская
+Chad ; Republic of Chad	Чад
+Chile ; Republic of Chile	Чылі
+Christmas	Божае нараджэньне ; Ражджаство ; Нараджэньне Хрыстовае ; Раство ; Каляды
+Chuvash ; Chuvash ; Chuwash ; Chovash ; Chavash ; Chttash	чуваская
+Colombia ; Republic of Colombia	Калумбія
+Croatia ; Republic of Croatia	Харватыя
+Croatian ; Croation	харвацкая
+Cuba ; Republic of Cuba	Куба
+Cyprus ; Republic of Cyprus	Кіпр
+Czech ; Czech	чэскай
+Czech Republic ; Czechia	Чэхія
+Danish	дацкая
+December	сьнежань ; Сьнежань ; Снежань ; снежань
+Dutch	галяндзкая
+EU ; European Union	Эўрапейскі Зьвяз ; Эўразьвяз
+East Timor ; Democratic Republic of Timor-Leste	Тымор-Лешці
+England	Англія ; Ангельшчына
+English	ангельскай
+Erevan ; Yerevan	Ерэван
+Estonia ; Republic of Estonia	Эстонія
+Estonian	эстонскай
+Ethiopia ; Federal Democratic Republic of Ethiopia	Этыёпія
+Faroe Islands	Фарэрскія выспы
+Faroese ; Faeroese	фарэрская
+February	люты
+Finnish	фінская
+France	Францыя
+French ; French	француская
+French Polynesia	Француская Палінэзія
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Францускія Паўднёвыя Тэрыторыі
+Georgia	Грузія
+German	нямецкая
+Greece ; Hellenic Republic	Грэцыя
+Hebrew	габрэйскай
+Hindi ; Hindi	хіндзі
+Holland ; Kingdom of the Netherlands ; The Netherlands	Нідэрланды
+Honduras ; Republic of Honduras	Гандурас
+Hungarian	вугорская
+Hungary ; Republic of Hungary	Вугоршчына
+India ; Republic of India	Індыя
+Indian Ocean	Індыйскі акіян
+Indonesia ; Republic of Indonesia	Інданезія
+Indonesian	інданэзійская
+Iran ; Islamic Republic of Iran	Іран
+Iraq ; Republic of Iraq	Ірак
+Isle of Man ; Isle of Mann ; Mann	Востраў Мэн ; Мэн
+Israel ; State of Israel	Ізраіль
+Italian ; Italian	італьянская
+Italian Republic ; Italy	Італія
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Кот д'Івуар
+Jamaica	Ямайка
+January	студзень
+Japan ; State of Japan	Японія
+Japanese ; Japanese	японская
+Judaism	юдаізм
+July	ліпень
+June	чэрвень
+Karelian	карэльская
+Laos ; Lao People's Democratic Republic	Лаос
+Latvia ; Republic of Latvia	Латвія
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Горад Санкт-Пецярбург
+Liechtenstein ; Principality of Liechtenstein	Ліхтэнштайн ; Княства Ліхтэнштайн ; Княства Ліхтэнштэйн
+Lisbon	Лісабон
+Lithuania ; Republic of Lithuania	Летува ; Літва
+Macedonia ; Republic of Macedonia	Македонія
+Macedonian ; Macedonian	македонская
+Malta ; Republic of Malta	Мальта
+March	сакавік
+Massachusetts	Масачусэтс
+May	травень ; май
+Milan	Мілян
+Montenegro	Чарнагорыя
+Moscow	Масква
+Namibia	Намібія
+Nepal	Непал ; Нэпал
+New Zealand	Новая Зеландыя
+Northern Ireland	Паўночная Ірляндыя
+Norway ; Kingdom of Norway	Нарвегія
+November	лістапад
+Novial	навіяль
+October	кастрычнік
+Oklahoma	Аклагома
+Pacific Ocean	Ціхі акіян
+Pakistan ; Islamic Republic of Pakistan	Пакістан
+Persian ; Western Farsi ; Farsi	пэрсійдзкая
+Peru ; Republic of Peru	Пэру
+Phobos	Фобос ; Фобас
+Poland	Польшча
+Polish ; Polish	польская
+Portugal	Партугалія
+Portuguese ; Portuguese	партугальская
+Puerto Rico	Пуэрта-Рыка
+Qatar	Катар
+Romania	Румынія
+Romanian ; Romanaian	румынскай
+Rome	Рым
+Russia ; Russian Federation	Расея ; Расейская Фэдэрацыя
+Russian ; Russian	расейская
+Sanskrit ; Sanskrit	санскрыт
+Sapir–Whorf hypothesis	Гіпотэза Сэпіра-Ўорфа
+Saudi Arabia ; Kingdom of Saudi Arabia	Саудаўская Аравія
+Scotland	Шатляндыя ; Шатландыя ; Шкоцыя
+Seine	Сена
+September	верасень
+Serbia and Montenegro	Сэрбія і Чарнагорыя
+Slovakia	Славаччына
+Slovene ; Slovenian ; Slovenian	славенская
+South Africa	Паўднёва-Афрыканская Рэспубліка
+Spain	Іспанія
+Sri Lanka	Шры Лянка
+Switzerland	Швейцарыя
+Tehran	Тэгеран
+Turkey	Турцыя
+Turkish ; Turkish	турэцкая
+Turkmenistan	Туркмэністан
+Uganda ; Republic of Uganda	Уганда
+Ukraine	Украіна
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Злучаныя Штаты Амэрыкі ; Задзіночаныя Гаспадарствы Паўночнай Амэрыкі ; Злучаныя Штаты Амерыкі ; ЗША
+Vaduz	Вадуц
+Vatican City ; The Holy See ; State of the Vatican City	Ватыкан
+Vienna	Вена
+Vietnamese ; Vietnamese	Віетнамскай
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Выспы Ўоліс і Футуна
+Washington	Вашынгтон
+Wikipedia	Вікіпэдыя
+Wiktionary	Вікіслоўнік
+Yugoslavia	Югаславія
+Zulu	зулуская
+abbreviation	скарачэнне
+abhor ; loathe ; detest	ненавідзець
+abrasive	абразіўны
+actinium	актыній
+alchemist	альхімік
+allotropy	алатропія
+aluminium	алюміній
+amber	бурштын
+americium	амерыцый
+antimony	сурма
+argon	аргон
+arsenic	мыш'як
+astatine	астат
+astrometry	астраметрыя
+astrophysics	астрафізіка
+auction	аўкцыён
+barium	барый
+beaver	бабер
+beer	piva
+berkelium	берклій
+beryllium ; glucinium	берылій
+bismuth	вісмут
+blackbird	дрозд
+blog ; weblog ; web log	блоґ
+bohrium	борый
+boron	бор
+bromine	бром
+cadmium	кадмій
+caesium	цэзій
+calcium	кальцый
+californium	каліфорній
+carbon	вуглярод
+cerium	цэрый
+chlorine	хлор
+chromium	хром
+clothing ; apparel	адзенне
+cobalt	кобальт
+communism	камунізм
+constitution	к ; канстытуцыя
+constructed language ; artificial language	штучныя мовы
+copper	медзь
+cow	карова
+curium	кюрый
+currency	валюта
+darmstadtium	дармштатый
+deuterium	Дэўтэр
+dog	Byelorussian ; сабака
+dromedary	драмадэр
+dubnium	дубній
+duck	качка
+dysprosium	дыспрозій
+ear	вуха
+earth ; Earth ; the world ; Blue Planet	Зямля
+einsteinium	эйнштэйній
+erbium	эрбій
+europium	eўропій ; еўропій
+eye	вока
+fascism	фашызм
+father	бацька
+fermium	фермій
+fluorine	фтор
+francium	францый
+gadolinium	гадаліній
+gallium	галій
+germanium	германій
+goose	гусь
+gull	чайка
+hafnium	гафнiй
+handkerchief	смаркатка
+hassium	xасій
+hedgehog	вожык
+helium	гелій
+holmium	гольмiй
+honey	мёд
+horse	конь
+hydrogen	вадарод
+ideology	идеология
+indium	індый
+inflation	інфляцыя
+iodine	ёд
+iridium	iрыдый
+iron	жалеза
+journal ; mag ; magazine ; periodical	часопіс
+krypton	крыптон
+lanthanum	лантан
+lawrencium	лаўрэнсій
+lead	цвінец
+liberalism	лібэралізм
+library	бібліятэчная
+linguistics	мовазнаўства ; лінгві́стыка
+lithium	ліцій
+lutetium	лютэцый
+lynx	рысь
+magnesium	магній
+manganese	марганец
+mathematics	матэматыка
+meitnerium	мейтнерый
+mendelevium	мендзялевiй
+mercury	ртуць
+molybdenum	малiбдэн
+napkin	сурвэтка
+natural science	прыродазнаўчыя навукі
+neodymium	неадым
+neon	неон
+neptunium	нептунiй
+nickel	нікель
+niobium	нiобiй
+nitrogen	азот
+nobelium	нобелiй
+official language	афіцы́йная мо́ва
+osmium	осмiй
+ostrich	страус
+oxygen	кісларод
+oyster	вустрыцы
+palindrome	паліндром
+palladium	паладый
+penguin	пінгвін
+periodic table	Перыядычная сістэма элементаў
+pheasant	фазан
+philosophy	філасофія
+phone ; telephone	тэлефон
+phonetics	Фанэтыка
+phosphorus	фосфар
+pigeon ; dove	голуб
+platinum	плаціна
+plutonium ; plutonium ; plutonium	плутоній ; плутоній ; плутоній
+polonium	палоній
+potassium	калій
+praseodymium	празеадым
+prime number ; prime	просты лік
+promethium	праметый
+protactinium	пратактынiй
+rabbit	трус
+radium	радый
+radon	радон
+rhenium	рэнiй
+rhodium	родый
+rice	рыс
+roentgenium	рэнтгеній
+rubidium	рубідый
+ruthenium	рытэнiй
+rutherfordium	курчатовiй ; курчатовiй
+samarium	самарый
+scandium	скандый
+seaborgium	сіборгій
+sheep	авечка
+silicon	крэмній
+silver	серабро
+sodium	натрый
+strontium	стронцый
+sulphur	сера
+tantalum	тантал
+technetium	тэхнецый
+tellurium	тэлур
+terbium	тэрбій
+thallium	талiй
+thorium	торый
+tin	волава
+titanium	тытан
+turkey	індюк
+ununbium	унунбій
+ununhexium	унунгексій
+ununoctium	унуноктый
+ununpentium	унунпентый
+ununquadium	унунквадый
+ununseptium	унунсептый
+uranium	уран
+vanadium	ванадый
+water	вада
+xenon	ксенон
+xylophone	ксыляфон
+ytterbium	ітэрбій
+yttrium	iтрый
+zinc	цынк
+zirconium	цырконій

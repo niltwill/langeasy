@@ -1,0 +1,990 @@
+Spanish	﻿English
+negro	black
+azul	blue
+marrón	brown
+gris	gray
+verde	green
+naranja	orange
+rosa, rosado	pink
+rojizo, rojo	red
+morado, violeta	violet
+blanco, cándido	white
+amarillo	yellow
+par, pareja	couple
+ocho	eight
+dieciocho	eighteen
+ochenta	eighty
+once	eleven
+decimoquinto	fifteen
+cincuenta	fifty
+primero, primeramente	first
+cinco	five
+cuarenta	forty
+cuatro	four
+catorce	fourteen
+cien, ciento	hundred
+millón	million
+nueve	nine
+diecinueve	nineteen
+noventa	ninety
+cero, nada	nothing
+uno, a	one
+siete	seven
+diecisiete	seventeen
+setenta	seventy
+seis	six
+dieciséis	sixteen
+sesenta	sixty
+diez	ten
+tercero	third
+trece	thirteen
+treinta	thirty
+mil, millar	thousand
+mil, millar	thousand
+tres	three
+veinte	twenty
+dos	two
+brazo	arm
+espalda, dorso	back
+pico	beak
+sangre	blood
+tronco	body
+hueso	bone
+cerebro	brain
+aliento, respiración	breath
+célula, cámara	cell
+pecho	chest
+tórax	chest
+barba, barbilla	chin
+oído, oreja	ear
+ojo	eye
+cara, faz	face
+dedo	finger
+pie	foot
+frente	forehead
+gen	gene
+pelo	hair
+pelo, cabello	hair
+mano	hand
+cabeza	head
+corazón	heart
+rodilla	knee
+pierna	leg
+labio	lip
+boca	mouth
+músculo	muscle
+uña	nail
+cuello	neck
+nervio	nerve
+nariz	nose
+piel	skin
+estómago	stomach
+cola	tail
+garganta	throat
+pulgar	thumb
+dedo de pie	toe
+lengua	tongue
+diente	tooth
+ala	wing
+hormiga	ant
+oso	bear
+abeja	bee
+ave, pájaro	bird
+gato	cat
+vaca	cow
+perro	dog
+elefante	elephant
+pez	fish
+mosca	fly
+cabra	goat
+caballo	horse
+insecto	insect
+león	lion
+simio, mono	monkey
+marrano	pig
+oveja	sheep
+serpiente	snake
+tarde	afternoon
+edad	age
+abril	April
+agosto	August
+otoño	autumn
+comienzo, inicio	beginning
+siglo	century
+fecha	date
+día	day
+diciembre	December
+cabo, final	end
+anochecer, atardecer	evening
+febrero	February
+viernes	Friday
+futuro, porvenir	future
+h, hora	hour
+enero	January
+julio	July
+junio	June
+mayo	May
+medianoche	midnight
+minuto	minute
+instante, minuto	moment
+instante, momento	moment
+lunes	Monday
+mes	month
+mañana	morning
+noche	night
+noviembre	November
+recientemente	now
+octubre	October
+pasado	past
+pausa, suspensión	pause
+período, ciclo	period
+actualidad, presente	present
+sábado	Saturday
+temporada	season
+s, segundo	second
+septiembre	September
+primavera	spring
+verano	summer
+domingo	Sunday
+jueves	Thursday
+hoy	today
+mañana	tomorrow
+martes	Tuesday
+miércoles	Wednesday
+semana	week
+fin de semana	weekend
+instante, minuto	while
+invierno	winter
+año	year
+pan	bread
+almuerzo, desayuno	breakfast
+mantequilla	butter
+pastel	cake
+queso	cheese
+chocolate	chocolate
+huevo, óvulo	egg
+alimento, comida	food
+fruto	fruit
+almuerzo, comida	lunch
+comida	meal
+carne	meat
+aceite	oil
+arroz	rice
+ensalada	salad
+sal	salt
+bocadillo	sandwich
+salsa	sauce
+sopa, caldo	soup
+azúcar	sugar
+dulzura	sweet
+cerveza	beer
+café	coffee
+bebida	drink
+leche	milk
+batido	milkshake
+té	tea
+agua	water
+vino	wine
+manzana	apple
+damasco	apricot
+plátano	banana
+mora	blackberry
+cereza	cherry
+limón	lemon
+nuez	nut
+naranja	orange
+melocotón	peach
+pera	pear
+ananá	pineapple
+ciruela	plum
+frambuesa	raspberry
+fresa	strawberry
+alubia, judía	bean
+repollo	cabbage
+zanahoria	carrot
+pepino	cucumber
+ajo	garlic
+aceituna	olive
+cebolla	onion
+pastinaca sativa	parsnip
+patata	potato
+rábano	radish
+tomate	tomato
+criatura	baby
+nacimiento	birth
+cumpleaños	birthday
+chaval, chico	boy
+hermano, colega	brother
+hija, hijo	child
+hija	daughter
+muerte	death
+familia	family
+padre, papa	father
+amigo	friend
+chica, joven	girl
+abuelo	grandfather
+hombre	human
+esposo, hombre	husband
+existencia, vida	life
+hombre, varón	man
+matrimonio, unión	marriage
+madre	mother
+vecina, vecino	neighbor
+madre	parent
+mortal	person
+relación	relationship
+hermana	sister
+hijo	son
+boda, boda nupcial	wedding
+boda	wedding
+esposa	wife
+mujer	woman
+dirección, ubicación	address
+baño	bathroom
+alcoba, dormitorio	bedroom
+ladrillo	brick
+puerta, hoja	door
+piso, suelo	floor
+piso, planta	floor
+cochera	garage
+jardín	garden
+verja, reja	gate
+entrada, recibidor	hall
+casa, hogar	home
+casa	house
+cocina	kitchen
+techo	roof
+cuarto, habitación	room
+ducha	shower
+escalón	step
+baño, letrina	toilet
+muro, pared	wall
+pozo	well
+ventana	window
+cama	bed
+alfombra, tapete	carpet
+silla	chair
+armario	cupboard
+cortina	curtain
+mesa, escritorio	desk
+mueble, decoración	furniture
+asiento, banco	seat
+estante	shelf
+fregadero, pila	sink
+mesa	table
+bolso	bag
+bota	boot
+paño, tejido	cloth
+vestido, prenda	clothing
+chaqueta	coat
+cuello	collar
+sombrero	hat
+chaqueta	jacket
+joya	jewel
+anillo	ring
+camisa	shirt
+zapato	shoe
+falda, pollera	skirt
+calcetín	sock
+maleta	suitcase
+corbata	tie
+aire	air
+animal, bestia	animal
+rama	branch
+desarrollo, evolución	evolution
+cortijo, estancia	farm
+campo, terreno	field
+fuego, llama	fire
+flor	flower
+bosque, floresta	forest
+hierba	grass
+hoja	leaf
+existencia, vida	life
+rayo	lightning
+humedad	moisture
+naturaleza	nature
+flora, planta	plant
+raíz	root
+sexo	sex
+cielo	sky
+sueño	sleep
+olor, hedor	smell
+vapor	smoke
+fuente	spring
+tallo, pedúnculo	stem
+corriente, curso	stream
+árbol	tree
+ola	wave
+tiempo, clima	weather
+planeta	world
+aeropuerto, aeródromo	airport
+banco	bank
+puente	bridge
+edificio	building
+capital	capital
+castillo	castle
+iglesia	church
+cine, biógrafo	cinema
+ciudad, metrópolis	city
+fábrica, planta	factory
+apartamento, piso	flat
+clínica, hospital	hospital
+hotel	hotel
+biblioteca	library
+parque	park
+prisión	prison
+restaurante	restaurant
+carretera	road
+colegio, escuela	school
+estación	station
+calle, camino	street
+construcción, estructura	structure
+metro, metropolitano	subway
+supermercado	supermarket
+teatro	theater
+población, villa	town
+universidad	university
+pueblo	village
+accidente	accident
+barca	boat
+autobús, colectivo	bus
+auto, automóvil	car
+curva	curve
+expreso	express
+vuelo	flight
+viaje	journey
+pasajero, pasajera	passenger
+avión	plane
+barco, buque	ship
+patinazo	skid
+carril, riel	track
+ferrocarril, tren	train
+transporte	transport
+actor, intérprete	actor
+actriz	actress
+empresario, comerciante	businessman
+experto	expert
+general	general
+periodista, corresponsal	journalist
+juez, magistrado	judge
+autoridad, dirigente	leader
+ministro	minister
+músico	musician
+fotógrafo	photographer
+piloto	pilot
+agente, guardia	policeman
+político	politician
+presidente	president
+profesional	professional
+representante	representative
+marinero	sailor
+científico	scientist
+secretario	secretary
+criado	servant
+soldado	soldier
+autor, escritor	writer
+margen, orilla	bank
+playa	beach
+corriente, actual	current
+camino, curso	direction
+globo, mundo	Earth
+este, oriente	east
+altitud, altura	height
+colina, monte	hill
+isla	island
+lago	lake
+tierra	land
+mapa, plano	map
+luna	Moon
+norte	north
+campaña, llanura	plain
+parte, región	region
+río	river
+mar, océano	sea
+sur	south
+espacio	space
+estrella, astro	star
+sol	sun
+oeste	west
+nube	cloud
+rocío	dew
+niebla	fog
+escarcha	frost
+lluvia	rain
+arco iris	rainbow
+nieve	snow
+tormenta	storm
+trueno	thunder
+corriente, aire	wind
+ácido, agrio	acid
+sustancia química	chemical
+element elemento	chemical
+carbón	coal
+algodón	cotton
+polvo	dust
+tierra	earth
+grasa	fat
+vidrio	glass
+cola, goma	glue
+grano	grain
+hielo	ice
+hierro	iron
+cuero, piel	leather
+líquido, licor	liquid
+materia, sustancia	matter
+element metal	metallic
+petróleo	oil
+tóxico	poison
+polvo	powder
+arena	sand
+seda	silk
+jabón	soap
+acero	steel
+madera	wood
+lana	wool
+bolsa, bolso	bag
+cesto, aro	basket
+botella	bottle
+caja, cajita	box
+bote, lata	can
+taza	cup
+cajón	drawer
+sobre	envelope
+vaso, copa	glass
+plato	plate
+campana	bell
+botón, tecla	button
+pistola	gun
+macillo	hammer
+gancho, garfio	hook
+llave	key
+cerradura	lock
+fósforo	match
+clavo	nail
+aguja	needle
+bomba	pump
+cuerda	rope
+tijeras	scissors
+muelle	spring
+sello, cajetín	stamp
+azote	whip
+suma	addition
+ángulo	angle
+área, superficie	area
+centro	center
+círculo	circle
+curva, arco	curve
+grado	degree
+grado, nivel	degree
+diferencia, desigualdad	difference
+distancia	distance
+división, partición	division
+borde, canto	edge
+componente, elemento	element
+función, oficio	function
+mitad	half
+límite, raya	limit
+línea, linea	line
+red, malla	net
+orden	order
+exterior	outside
+porcentaje	percent
+punto, puntillo	point
+función, propósito	purpose
+consecuencia, resultado	result
+raíz	root
+norma, regla	rule
+conjunto	set
+lado	side
+cuadrado	square
+cuadrado	square
+sustitución	substitution
+superficie	surface
+monto, suma	total
+capacidad, ingenio	ability
+acción, acto	act
+acción, acto	action
+acción, actividad	activity
+adición	addition
+cantidad, cuantía	amount
+asalto, ataque	attack
+intento, tentativa	attempt
+actitud, disposición	attitude
+espalda	back
+comportamiento, conducta	behavior
+átomo, pedazo	bit
+golpe, impacto	blow
+descanso, pausa	break
+campaña, movimiento	campaign
+caso	case
+ocasión, oportunidad	chance
+alteración, cambio	change
+elección, selección	choice
+condición, situación	condition
+conexión	connection
+conexión	connection
+grieta	crack
+estrujamiento	crush
+corte, tajo	cut
+daño, perjuicio	damage
+peligro, riesgo	danger
+desaparición, muerte	death
+adorno, decoración	decoration
+defensa, guardia	defense
+destrucción	destruction
+elemento	detail
+dominación, dominio	dominance
+gota	drop
+deber	duty
+afán, dedicación	effort
+caída	fall
+característica, rasgo	feature
+combate, lucha	fight
+delantera	front
+golpe	hit
+agujero, cavidad	hole
+aumento, crecimiento	increase
+incremento, aumento	increase
+internet	internet
+choque, sacudida	jolt
+patada	kick
+clase, tipo	kind
+lazo, nudo	knot
+lista, repertorio	list
+mayoría	majority
+asunto, cosa	matter
+cabeza, cerebro	mind
+funcionamiento	operation
+contrario	opposite
+estallido, ruptura	outburst
+componente, parte	part
+parte, porcentaje	part
+personalidad	personality
+pedazo, trozo	piece
+lugar, sitio	place
+lugar, puesto	position
+energía	power
+práctica	practice
+proyecto, tarea	project
+propiedad	property
+calidad, cualidad	quality
+serenidad, sosiego	quiet
+alcance	reach
+estudio, informe	report
+responsabilidad, deber	responsibility
+descansar	rest
+regreso, vuelta	return
+ascensión, ascenso	rise
+peligro, riesgo	risk
+asiento, localidad	seat
+serie	serial
+conjunto, juego	set
+silencio, discreción	silence
+situación	situation
+trozo	slice
+estado	state
+paso, desplazamiento	step
+parada	stop
+gusto	taste
+cosa	thing
+auge, cima	top
+toque	touch
+tratamiento, trato	treatment
+temblor, escalofríos	tremble
+trampa	trick
+tipo	type
+empleo, uso	use
+camino, forma	way
+desgaste	wear
+todo, totalidad	whole
+voluntad	will
+deseo, anhelo	wish
+arte	art
+artista	artist
+banda	band
+cepillo	brush
+color	color
+concierto	concert
+diseño	design
+diversidad, diferencia	diversity
+diversión, distracción	entertainment
+éxito	hit
+imagen	image
+tinta	ink
+concepción, invención	invention
+estilo, forma	manner
+película, producción	movie
+museo	museum
+música	music
+nota, tono	note
+orquesta	orchestra
+pintura	paint
+cuadro, pintura	painting
+papel	paper
+pluma	pen
+lápiz	pencil
+foto, fotografía	picture
+poema, poesía	poem
+poesía, verso	poetry
+ritmo, compás	rhythm
+figura	shape
+cantante	singer
+canción	song
+escenario	stage
+estilo	style
+estilo, tendencia	vogue
+cuenta	account
+superioridad, ventaja	advantage
+anuncio, cartel	advertisement
+advertencia, consejo	advice
+acuerdo, pacto	agreement
+atención	attention
+autoridad, dominación	authority
+billete	banknote
+pacto, trato	bargain
+marca	brand
+negocio	business
+mujer de negocios, mujer empresaria	businesswoman
+capital	capital
+cambio	change
+talón, cheque	cheque
+comisión, comité	committee
+compañía	company
+competencia, rivalidad	competition
+cargo	complaint
+contrato	contract
+copia	copy
+coste, costo	cost
+consejo	council
+clase, curso	course
+cliente	customer
+necesidad	demand
+departamento	department
+dificultad, obstáculo	difficulty
+director	director
+economía	economy
+entorno, medio	environment
+experiencia, destreza	experience
+casa, firma	firm
+formulario	form
+agrupación, colectivo	group
+asistencia, ayuda	help
+vacaciones, feriado	holiday
+ingreso, ingresos	income
+industria	industry
+seguro	insurance
+interés	interest
+factura, recibo	invoice
+cometido, faena	job
+ley, derecho	law
+despedida	leave
+pérdida	loss
+dirección	management
+marca, señal	mark
+mercado	market
+materia	material
+media	mean
+encuentro, reunión	meeting
+dinero, plata	money
+ocupación	occupation
+oferta, ganga	offer
+oficina	office
+funcionario	officer
+operación, accionamiento	operation
+amo, dueña	owner
+bulto, lío	package
+pago	payment
+plan, programa	plan
+coste, precio	price
+dificultad, problema	problem
+producción, producto	product
+ganancia, utilidades	profit
+pertenencia, propiedad	property
+tarifa, tipo	rate
+restante, resto	rest
+pago, recompensa	reward
+derecho	right
+venta	sale
+división, parte	section
+apartado, sección	section
+servicio	service
+acción, título	share
+establecimiento, almacén	shop
+espectáculo, muestra	show
+destreza	skill
+personal	staff
+estructura	structure
+éxito	success
+apoyo, ayuda	support
+tabla	table
+carga, contribución	tax
+equipo, personal	team
+comercio	trade
+valor	value
+trabajo	work
+trabajador	worker
+anuncio, proclamación	announcement
+respuesta	answer
+aprobación, aceptación	approval
+argumento	argument
+ejemplar, libro	book
+llamada	call
+carácter	character
+discusión, disputa	controversy
+grito, protesta	cry
+datos	data
+decisión, determinación	decision
+diccionario, léxico	dictionary
+debate, discusión	discussion
+duda, incertidumbre	doubt
+experiencia	experience
+sentimiento	feeling
+humorismo	humor
+idea, pensamiento	idea
+información	information
+interés	interest
+entrevista	interview
+lenguaje	language
+lengua	language
+carácter, letra	letter
+carta, misiva	letter
+bola, historia	lie
+apariencia, aspecto	look
+revista	magazine
+correo	mail
+memoria	memory
+memoria	memory
+error, fallo	mistake
+nombre, apodo	name
+diario, periódico	newspaper
+notación, ángel	note
+número	number
+apreciación, opinión	opinion
+página, hoja	page
+pronunciación	pronunciation
+proposición	proposal
+protesta	protest
+demanda, pregunta	question
+reacción	reaction
+razón, motivo	reason
+relación	relation
+instancia, petición	request
+secreto	secret
+oración, frase	sentence
+signo	sign
+habla, lenguaje	speech
+ortografía	spelling
+criterio, estándar	standard
+afirmación, declaración	statement
+asunto, objeto	subject
+proposición, propuesta	suggestion
+voz	voice
+palabra, oferta	word
+escritura	writing
+day buenos días	good
+luck buena suerte, suerte	good
+hola	hello
+thanks muchas gracias	many
+no	no
+you very much muchas gracias	thank
+sí	yes
+Reino Unido	Britain
+China	China
+Republic República Checa	Czech
+República Francesa	France
+República Federal de Alemania	Germany
+República de la India	India
+Italia	Italy
+Japón	Japan
+Reino de España	Spain
+States of America Estados Unidos	United
+cámara	camera
+cámara	camera
+phone móvil, celular	cellular
+reloj	clock
+ordenador	computer
+ascensor	elevator
+motor	engine
+instrumento	instrument
+máquina	machine
+horno	oven
+tele, televisión	television
+reloj	watch
+clase, curso	class
+educación, formación	education
+educación	education
+educación, enseñanza	education
+examen, test	examination
+calificación, nota	grade
+conocimiento, saber	knowledge
+alumno, estudiante	student
+profesor, maestro	teacher
+formación, preparación	training
+miedo, terror	fear
+odio	hate
+amor, pasión	love
+placer, gusto	pleasure
+esperanza	promise
+choque	shock
+atención, cuidado	care
+resfriado	cold
+tos	cough
+afección, enfermedad	disease
+doctor, médico	doctor
+salud	health
+mes, regla	menstruation
+enfermera	nurse
+intervención, operación	operation
+dolor	pain
+paciente	patient
+punto	stitch
+hoja, cuchilla	blade
+tabla, tablero	board
+carta	card
+cadena	chain
+mazo, garrote	club
+pantalla	cover
+pluma	feather
+bandera	flag
+marco	frame
+asa, mango	handle
+carta	menu
+tuerca	nut
+alfiler	pin
+tubería, conducto	pipe
+porte	postage
+regalo, presente	present
+vela	sail
+rollo	scroll
+pepita, semilla	seed
+palo, vara	stick
+piedra, roca	stone
+billete, pasaje	ticket
+rueda	wheel
+alambre	wire
+equilibrio	balance
+masa, volumen	bulk
+carga	charge
+energía	energy
+luz	light
+masa	mass
+medición	measurement
+espejo	mirror
+movimiento	movement
+presión	pressure
+proceso	process
+medida, tamaño	size
+sonido	sound
+humo	steam
+fuerza	strength
+tiempo	time
+unidad	unit
+peso	weight
+compañero, novio	boyfriend
+compromiso, cita	date
+chica, compañera	girlfriend
+huésped, invitado	guest
+amor, cariño	honey
+beso	kiss
+fiesta	party
+sexo	sex
+sonrisa	smile
+asombro, desconcierto	surprise
+visita	visit
+alternativa, elección	alternative
+biología	biology
+causa	cause
+química	chemistry
+confrontación	comparison
+consecuencia, efecto	consequence
+control, mando	control
+ámbito, área	discipline
+descubrimiento, hallazgo	discovery
+hallazgo	discovery
+evento, suceso	event
+evidencia	evidence
+ejemplo	example
+evidencia, hecho	fact
+problema	issue
+centro, corazón	kernel
+método	method
+modelo	model
+estadio, etapa	phase
+procedimiento, proceso	procedure
+producción, creación	production
+programa	program
+proyecto	project
+alcance, ámbito	range
+investigación	research
+estudio, investigación	research
+ciencia	science
+sociedad	society
+sistema	system
+tecnología	technology
+teoría	theory
+tendencia	trend
+problema	trouble
+usuario	user
+ejército, tropa	army
+base	base
+asociación, club	club
+comitiva	company
+campeonato, competición	contest
+estado, nación	country
+juzgado, tribunal	court
+crimen, delito	crime
+civilización, cultura	culture
+democracia, república	democracy
+autoridad, dominio	dominion
+elección	election
+existencia, vida	existence
+hembra	female
+autoridad, gobierno	government
+historia	history
+individuo	individual
+institución, instituto	institution
+monarca, rey	king
+macho	male
+miembro	member
+nación	nation
+noticias	news
+ruido	noise
+orden	order
+organización	organization
+pase	pass
+pasaporte	passport
+paz	peace
+gente	people
+guardia, policía	police
+política	policy
+población	population
+mundo, pueblo	public
+castigo	punishment
+fe, religión	religion
+iglesia	religion
+estado	state
+título	title
+unión	union
+guerra	war
+voluntad	will
+testamento	will
+honor, laurel	award
+balón, pelota	ball
+béisbol	baseball
+bicicleta	bike
+campeonato	championship
+adversario, rival	competitor
+copa	cup
+fútbol	football
+juego	game
+gol	goal
+destino, lugar	goal
+oro	gold
+golf	golf
+salto	jump
+partido, equipo	match
+jugador	player
+marca	record
+plata	silver
+tenis	tennis
+lanzamiento	throw

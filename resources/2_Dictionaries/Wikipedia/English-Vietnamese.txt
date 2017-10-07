@@ -1,0 +1,4288 @@
+English	Vietnamese
+1 (number)	1 (số)
+10 (number)	10 (số)
+100 (number)	100 (số)
+1000	Thể loại:1000
+1000 (number)	1000 (số)
+11 (number)	11 (số)
+12 (number)	12 (số)
+13	13
+13 (number)	13 (số)
+14 (number)	14 (số)
+15 (number)	15 (số)
+16 (number)	16 (số)
+17 (number)	17 (số)
+1728	Thể loại:1728
+1750s	Thể loại:Thập niên 1750
+1760s	Thể loại:Thập niên 1760
+1770s	Thể loại:Thập niên 1770
+1780s	Thể loại:Thập niên 1780
+1790s	Thể loại:Thập niên 1790
+18 (number)	18 (số)
+1820s	Thể loại:Thập niên 1820
+1830s	Thể loại:Thập niên 1830
+1840s	Thể loại:Thập niên 1840
+1860s	Thể loại:Thập niên 1860
+1870s	Thể loại:Thập niên 1870
+1880s	Thể loại:Thập niên 1880
+1890s	Thể loại:Thập niên 1890
+19 (number)	19 (số)
+1900s	Thể loại:Thập niên 1900
+1920s	Thể loại:Thập niên 1920
+1930s	Thể loại:Thập niên 1930
+1940s	Thể loại:Thập niên 1940
+1950s	Thể loại:Thập niên 1950
+1960s	Thể loại:Thập niên 1960
+1970s	Thập niên 1970
+1970s	Thể loại:Thập niên 1970
+1980s	Thập niên 1980
+1980s	Thể loại:Thập niên 1980
+1990s	Thập niên 1990
+1990s	Thể loại:Thập niên 1990
+2 (number)	2 (số)
+20 (number)	20 (số)
+21 (number)	21 (số)
+22 (number)	22 (số)
+23 (number)	23 (số)
+24 (number)	24 (số)
+25 (number)	25 (số)
+26 (number)	26 (số)
+27 (number)	27 (số)
+28 (number)	28 (số)
+29 (number)	29 (số)
+3 (number)	3 (số)
+30 (number)	30 (số)
+31 (number)	31 (số)
+32 (number)	32 (số)
+33 (number)	33 (số)
+34 (number)	34 (số)
+35 (number)	35 (số)
+36 (number)	36 (số)
+37 (number)	37 (số)
+38 (number)	38 (số)
+39 (number)	39 (số)
+4 (number)	4 (số)
+40 (number)	40 (số)
+41 (number)	41 (số)
+42 (number)	42 (số)
+43 (number)	43 (số)
+45 (number)	45 (số)
+46 (number)	46 (số)
+49 (number)	49 (số)
+5 (number)	5 (số)
+50 (number)	50 (số)
+6 (number)	6 (số)
+60 (number)	60 (số)
+7 (number)	7 (số)
+8 (number)	8 (số)
+80 (number)	80 (số)
+9 (number)	9 (số)
+A	A
+ABC	ABC
+AIDS	AIDS
+ATP	ATP
+Aachen	Aachen
+Aarhus	Aarhus
+Abel Tasman	Abel Tasman
+Abelian group	Nhóm giao hoán
+Abidjan	Abidjan
+Abkhazia	Abkhazia
+Abraham	Abraham (Kinh Thánh)
+Abraham Lincoln	Abraham Lincoln
+Absolute value	Giá trị tuyệt đối
+Absolute zero	Nhiệt độ không tuyệt đối
+Abu Dhabi	Abu Dhabi
+Abuja	Abuja
+Acacia	Chi Keo
+Academy Award	Giải Oscar
+Acceleration	Gia tốc
+Accra	Accra
+Acetic acid	Axít axetic
+Achilles	Achilles (thần thoại)
+Acid	Axít
+Acid rain	Mưa axít
+Acne vulgaris	Mụn
+Aconcagua	Aconcagua
+Acoustics	Âm học
+Acoustics	Thể loại:Âm học
+Acre	Mẫu Anh
+Acre (state)	Acre (bang)
+Actinide	Nhóm Actini
+Actor	Diễn viên
+Ada (programming language)	Ada (ngôn ngữ lập trình)
+Adam Smith	Adam Smith
+Adansonia	Bao báp
+Addis Ababa	Addis Ababa
+Adelaide	Adelaide
+Adenine	Adenine
+Adenosine triphosphate	Adenosine triphosphate
+Admiral	Đô đốc
+Adolf Eichmann	Adolf Eichmann
+Adolf Hitler	Adolf Hitler
+Adriatic Sea	Biển Adriatic
+Advertising	Quảng cáo
+Aeneas	Aeneas
+Aerodynamics	Khí động lực học
+Aeschylus	Aeschylus
+Aesthetics	Mỹ học
+Affix	Phụ tố
+Afghanistan	Afghanistan
+Afghanistan	Thể loại:Afghanistan
+Africa	Châu Phi
+Africa	Thể loại:Châu Phi
+African American	Người Mỹ gốc Phi
+Afrikaans	Afrikaans
+Agatha Christie	Agatha Christie
+Agnatha	Siêu lớp Cá không hàm
+Agnosticism	Thuyết bất khả tri
+Agra	Agra
+Agriculture	Nông nghiệp
+Agriculture	Thể loại:Nông nghiệp
+Aikido	Aikido
+Ain	Ain
+Air force	Không quân
+Airbus	Airbus
+Aircraft	Thể loại:Khí cụ bay
+Aircraft carrier	Hàng không mẫu hạm
+Airport	Sân bay
+Ajax	Ajax
+Ajax (programming)	Ajax (lập trình)
+Akhenaten	Akhenaton
+Akira Kurosawa	Kurosawa Akira
+Al Gore	Al Gore
+Al-Qaeda	Al-Qaeda
+Alabama	Alabama
+Alan Turing	Alan Turing
+Alaska	Alaska
+Albania	Albania
+Albania	Thể loại:Albania
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Schweitzer	Albert Schweitzer
+Alberta	Alberta
+Alberta	Thể loại:Alberta
+Album	Album
+Albuquerque	Albuquerque, New Mexico
+Alchemy	Giả kim thuật
+Alchemy	Thể loại:Giả kim thuật
+Alcohol	Rượu (hoá học)
+Alcoholic beverage	Đồ uống có cồn
+Alcoholism	Chứng nghiện rượu
+Aldehyde	Anđehyt
+Aldous Huxley	Aldous Huxley
+Aleksandr Solzhenitsyn	Alexandr Isayevich Solzhenitsyn
+Aleutian Islands	Quần đảo Aleutian
+Alexander Fleming	Alexander Fleming
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Hamilton	Alexander Hamilton
+Alexander Pushkin	Aleksandr Sergeyevich Pushkin
+Alexander the Great	Alexandros Đại đế
+Alexandre Dumas	Alexandre Dumas
+Alexandre Dumas	Alexandre Dumas con
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Alfred the Great	Alfred Đại đế
+Algae	Tảo
+Algebra	Đại số
+Algebra	Thể loại:Đại số
+Algebraic number	Số đại số
+Algeria	Algérie
+Algeria	Thể loại:Algérie
+Algiers	Algiers
+Algorithm	Thuật toán
+Alhambra	Pháo đài Alhambra
+Alkali metal	Kim loại kiềm
+Alkaloid	Ancaloit
+Alkane	Ankan
+Alkene	Anken
+Allegory	Phúng dụ
+Allele	Allele
+Allen Ginsberg	Allen Ginsberg
+Allosaurus	Allosaurus
+Allotropy	Thù hình
+Alloy	Hợp kim
+Almaty	Almaty
+Alpha (letter)	Alpha (chữ)
+Alpha particle	Hạt alpha
+Alps	Alps
+Alsace	Alsace
+Altair	Sao Ngưu Lang
+Altay Mountains	Dãy núi Altay
+Alternating current	Điện xoay chiều
+Alternative medicine	Thể loại:Y học thay thế
+Aluminium	Nhôm
+Aluminium oxide	Ôxít nhôm
+Amanita phalloides	Nấm tử thần
+Amaryllidaceae	Họ Loa kèn đỏ
+Amaterasu	Amaterasu
+Amazon River	Sông Amazon
+Amber	Hổ phách
+American Civil War	Nội chiến Hoa Kỳ
+American Samoa	Samoa thuộc Mỹ
+American Standard Code for Information Interchange	ASCII
+Amerigo Vespucci	Amerigo Vespucci
+Amine	Amin
+Amino acid	Axít amin
+Amman	Amman
+Ammeter	Ampe kế
+Ammonia	Amoniac
+Ampere	Ampe
+Amplitude	Biên độ
+Amsterdam	Amsterdam
+Amur	Amur
+Anaheim	Anaheim, California
+Anal sex	Tình dục hậu môn
+Analytic geometry	Hình học giải tích
+Anatole France	Anatole France
+Anatomy	Thể loại:Giải phẫu học
+Anatomy	Giải phẫu học
+Anchorage	Anchorage
+Ancient history	Thể loại:Lịch sử cổ đại
+Andalusia	Andalucia
+Andaman Sea	Biển Andaman
+Andes	Andes
+Andhra Pradesh	Andhra Pradesh
+Andorra	Andorra
+Andrei Sakharov	Andrei Dmitrievich Sakharov
+Andrew Jackson	Andrew Jackson
+Andrew Johnson	Andrew Johnson
+Andromeda (constellation)	Tiên Nữ
+Andromeda Galaxy	Thiên hà Andromeda
+Andy Warhol	Andy Warhol
+Anemia	Thiếu máu
+Anemometer	Máy đo gió
+Anesthesia	Gây mê
+Angara River	Sông Angara
+Angel	Thiên sứ
+Angel Falls	Thác nước Ángel
+Angle	Góc
+Anglicanism	Anh giáo
+Angola	Angola
+Angola	Thể loại:Angola
+Anguilla	Anguilla
+Angular momentum	Mô men động lượng
+Angular velocity	Vận tốc góc
+Aniline	Anilin
+Animal	Động vật
+Anime	Hoạt hình Nhật Bản
+Anime	Thể loại:Anime
+Ankara	Ankara
+Anno Domini	Công Nguyên
+Anseriformes	Bộ Ngỗng
+Anseriformes	Thể loại:Bộ Ngỗng
+Ant	Kiến
+Antalya	Antalya
+Antananarivo	Antananarivo
+Antarctica	Châu Nam Cực
+Antenna (radio)	Ăngten
+Anthrax	Bệnh than
+Anthropology	Nhân chủng học
+Anthropology	Thể loại:Nhân chủng học
+Antibiotic	Kháng sinh
+Antibody	Kháng thể
+Antigen	Kháng nguyên
+Antigua and Barbuda	Antigua và Barbuda
+Antimatter	Phản vật chất
+Antimony	Antimon
+Antisemitism	Chủ nghĩa bài Do Thái
+Antisemitism	Thể loại:Chủ nghĩa bài Do Thái
+Antlia	Tức Đồng
+Antofagasta	Antofagasta
+Antoine Lavoisier	Antoine Lavoisier
+Anton Chekhov	Anton Pavlovich Chekhov
+Antonio Vivaldi	Antonio Vivaldi
+Anus	Hậu môn
+Apache	Apache
+Aphrodite	Aphrodite (thần thoại)
+Apiaceae	Họ Hoa tán
+Apodiformes	Bộ Yến
+Apollo	Apollo (thần thoại)
+Apollo (disambiguation)	Apollo (định hướng)
+Apollo program	Chương trình Apollo
+Apollo program	Thể loại:Chương trình Apollo
+Appalachian Mountains	Dãy Appalachian
+Appendicitis	Viêm ruột thừa
+Apple	Táo tây
+Applied mathematics	Toán học ứng dụng
+April	Tháng tư
+April 14	14 tháng 4
+April Fools' Day	Cá tháng tư
+Apus	Thiên Yến
+Aqua regia	Nước cường toan
+Aquamarine	Ngọc berin
+Aquarius (constellation)	Bảo Bình (chòm sao)
+Aquila (constellation)	Thiên Ưng
+Aquitaine	Aquitaine
+Ara (constellation)	Thiên Đàn (chòm sao)
+Arabian Peninsula	Bán đảo Ả Rập
+Arabic language	Tiếng Ả Rập
+Araceae	Họ Ráy
+Aragon	Aragon
+Aral Sea	Biển Aral
+Archaeology	Khảo cổ học
+Archaeology	Thể loại:Khảo cổ học
+Archaeopteryx	Archaeopteryx
+Archangel	Tổng lãnh thiên thần
+Archean	Liên đại Thái cổ
+Archimedes	Archimedes
+Archipelago	Quần đảo
+Architect	Kiến trúc sư
+Architecture	Kiến trúc
+Architecture	Thể loại:Kiến trúc
+Arctic Ocean	Bắc Băng Dương
+Area	Diện tích
+Arecaceae	Họ Cau
+Argentina	Argentina
+Argentina	Thể loại:Argentina
+Argon	Agon
+Aries (constellation)	Bạch Dương (chòm sao)
+Aristotle	Aristoteles
+Arithmetic progression	Cấp số cộng
+Arizona	Arizona
+Arizona	Thể loại:Arizona
+Arkansas	Arkansas
+Arles	Arles
+Armenia	Armenia
+Armenia	Thể loại:Armenia
+Army	Lục quân
+Arras	Arras
+Arsenic	Asen
+Art	Nghệ thuật
+Art history	Thể loại:Lịch sử nghệ thuật
+Artemis	Artemis (thần thoại)
+Artemisia (plant)	Chi Ngải
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Rimbaud	Arthur Rimbaud
+Arthur Schopenhauer	Arthur Schopenhauer
+Arthur Wellesley	Arthur Wellesley, Công tước thứ nhất của Wellington
+Artificial intelligence	Trí tuệ nhân tạo
+Artillery	Pháo binh
+Arts	Thể loại:Nghệ thuật
+Aruba	Aruba
+Asgard	Asgard (thần thoại)
+Asia	Châu Á
+Asia	Thể loại:Châu Á
+Asmara	Asmara
+Asphalt	Nhựa đường
+Aspirin	Aspirin
+Assam	Assam
+Assassination	Ám sát
+Assembly language	Hợp ngữ
+Association of Southeast Asian Nations	Hiệp hội các quốc gia Đông Nam Á
+Assyria	Assyria
+Astana	Astana
+Astatine	Astatin
+Asteraceae	Họ Cúc
+Asteroid	Tiểu hành tinh
+Asteroid belt	Vành đai tiểu hành tinh
+Asthenosphere	Quyển astheno
+Asthma	Bệnh suyễn
+Astigmatism (eye)	Loạn thị
+Astrobiology	Sinh học thiên văn
+Astronaut	Nhà du hành vũ trụ
+Astronomical unit	Đơn vị thiên văn
+Astronomy	Thiên văn học
+Astronomy	Thể loại:Thiên văn học
+Astronomy	Chủ đề:Thiên văn học
+Astrophysics	Vật lý thiên văn
+Astrophysics	Thể loại:Vật lý thiên văn
+Asynchronous Transfer Mode	ATM (giao thức)
+Atheism	Thể loại:Thuyết vô thần
+Athena	Athena (thần thoại)
+Athens	Athena
+Athletics	Thể loại:Điền kinh
+Atlanta	Atlanta, Georgia
+Atlantic Ocean	Đại Tây Dương
+Atlantic Ocean	Thể loại:Đại Tây Dương
+Atlantis	Atlantis
+Atoll	Đảo san hô vòng
+Atom	Nguyên tử
+Atomic clock	Đồng hồ nguyên tử
+Atomic mass	Nguyên tử lượng
+Atomic mass unit	Đơn vị khối lượng nguyên tử
+Atomic number	Số nguyên tử
+Au	Au
+Auckland	Auckland
+Auction	Đấu giá
+August	Tháng tám
+August 1	1 tháng 8
+August 15	15 tháng 8
+August 6	6 tháng 8
+Auguste Comte	Auguste Comte
+Augustine of Hippo	Augustine thành Hippo
+Augustus	Augustus
+Auriga (constellation)	Ngự Phu
+Aurora (astronomy)	Cực quang
+Austin	Austin, Texas
+Australasia	Australasia
+Australia	Úc
+Australia	Thể loại:Úc
+Australian dollar	Đô la Úc
+Austria	Áo
+Austria	Thể loại:Áo
+Austria-Hungary	Đế quốc Áo-Hung
+Autism	Tự kỷ
+Autobiography	Tự truyện
+Automobile	Ô tô
+Autumn	Mùa thu
+Auvergne (region)	Auvergne
+Averroes	Averroes
+Aviation	Thể loại:Hàng không
+Aviation	Hàng không
+Avignon	Avignon
+Avocado	Bơ (thực vật)
+Axiom	Tiên đề
+Ayn Rand	Ayn Rand
+Azerbaijan	Azerbaijan
+Azerbaijan	Thể loại:Azerbaijan
+Azores	Azores
+Azurite	Azurit
+B	B
+BASIC	BASIC
+Bacteria	Vi khuẩn
+Bacteria	Thể loại:Vi khuẩn
+Bactrian Camel	Lạc đà hai bướu
+Badminton	Cầu lông
+Baffin Bay	Vịnh Baffin
+Baffin Island	Đảo Baffin
+Baghdad	Bagdad
+Bahamas	Thể loại:Bahamas
+Bahrain	Bahrain
+Bahrain	Thể loại:Bahrain
+Baku	Baku
+Baldr	Balder (thần thoại)
+Balearic Islands	Quần đảo Balears
+Bali	Bali
+Balkans	Balkan
+Ballet	Kịch múa
+Ballistic missile	Tên lửa đạn đạo
+Ballpoint pen	Bút bi
+Baltic Sea	Biển Baltic
+Baltimore	Baltimore, Maryland
+Bamako	Bamako
+Bamboo	Tre
+Banana	Chuối
+Bangalore	Bengaluru
+Bangkok	Bangkok
+Bangladesh	Bangladesh
+Bangladesh	Thể loại:Bangladesh
+Bangui	Bangui
+Banjul	Banjul
+Bank	Ngân hàng
+Banknote	Tiền giấy
+Baptism	Báp têm
+Baptist	Baptist
+Barbados	Barbados
+Barbra Streisand	Barbra Streisand
+Barcelona	Barcelona
+Barcelona	Thể loại:Barcelona
+Barents Sea	Biển Barents
+Barium	Bari
+Barometer	Áp kế
+Barranquilla	Barranquilla
+Barrel (unit)	Thùng (đơn vị)
+Baryon	Baryon
+Basalt	Bazan
+Base (chemistry)	Bazơ
+Baseball	Bóng chày
+Baseball	Thể loại:Bóng chày
+Basil	É
+Basketball	Bóng rổ
+Basketball	Thể loại:Bóng rổ
+Basse-Normandie	Basse-Normandie
+Bassoon	Kèn dăm kép
+Bastille	Bastille
+Batman	Người dơi
+Battle of Austerlitz	Trận Austerlitz
+Battle of Marathon	Trận Marathon
+Battle of Midway	Trận Midway
+Battle of Verdun	Trận Verdun
+Battle of Waterloo	Trận Waterloo
+Battle of the Bulge	Trận Ardennes (Thế chiến thứ hai)
+Battle of the Somme	Trận Somme (1916)
+Battleship	Thiết giáp hạm
+Bauxite	Bauxit
+Bavaria	Bayern
+Bavaria	Thể loại:Bayern
+Bay Laurel	Nguyệt quế
+Bay of Bengal	Vịnh Bengal
+Bayonne	Bayonne
+Beaufort scale	Thang sức gió Beaufort
+Becquerel	Becơren
+Beer	Bia (đồ uống)
+Beer	Thể loại:Bia
+Beijing	Bắc Kinh
+Beirut	Beirut
+Belarus	Belarus
+Belarus	Thể loại:Belarus
+Belfast	Belfast
+Belgium	Bỉ
+Belgrade	Belgrade
+Belize	Belize
+Belo Horizonte	Belo Horizonte
+Benelux	Benelux
+Benin	Bénin
+Benito Mussolini	Benito Mussolini
+Benjamin Franklin	Benjamin Franklin
+Benjamin Harrison	Benjamin Harrison
+Bergen	Bergen
+Bering Sea	Biển Bering
+Bering Strait	Eo biển Bering
+Berlin	Berlin
+Berlin	Thể loại:Berlin
+Bermuda	Bermuda
+Bermuda	Thể loại:Bermuda
+Bermuda Triangle	Tam giác Bermuda
+Berne	Bern
+Bernhard Riemann	Bernhard Riemann
+Bertolt Brecht	Bertolt Brecht
+Bertrand Russell	Bertrand Russell
+Beryllium	Berili
+Bette Davis	Bette Davis
+Bhutan	Bhutan
+Bhutan	Thể loại:Bhutan
+Bible	Kinh Thánh
+Bible	Thể loại:Kinh thánh
+Bicycle	Xe đạp
+Big Bang	Vụ Nổ Lớn
+Bihar	Bihar
+Bikini	Áo tắm hai mảnh
+Bile	Mật
+Bill Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Binary star	Sao đôi
+Biochemistry	Hóa sinh
+Biochemistry	Thể loại:Hóa sinh
+Biological warfare	Vũ khí sinh học
+Biology	Sinh học
+Biology	Thể loại:Sinh học
+Biology	Wikipedia:Trang chính Sinh học
+Biome	Quần xã sinh vật
+Biophysics	Lý sinh học
+Biosphere	Sinh quyển
+Biotechnology	Công nghệ sinh học
+Biotechnology	Thể loại:Công nghệ sinh học
+Bird	Chim
+Birmingham	Birmingham, Alabama
+Bishkek	Bishkek
+Bishop	Giám mục
+Bismuth	Bitmut
+Bissau	Bissau
+Bit	Bit
+Black	Đen
+Black Sea	Biển Đen
+Black body	Vật đen
+Black hole	Hố đen
+Blaise Pascal	Blaise Pascal
+Blender (software)	Blender (phần mềm)
+Blitzkrieg	Chiến tranh chớp nhoáng
+Bloemfontein	Bloemfontein
+Blog	Blog
+Blood	Máu
+Blood plasma	Huyết tương
+Blood type	Nhóm máu
+Blue	Xanh lam
+Blue Whale	Cá voi xanh
+Blues	Nhạc blues
+Boat	Thuyền máy
+Bob Dylan	Bob Dylan
+Bobby Fischer	Bobby Fischer
+Bodhisattva	Bồ Tát
+Body mass index	Chỉ số khối cơ thể
+Bohemia	Bohemia
+Boiling point	Nhiệt độ bay hơi
+Bolivia	Bolivia
+Bollywood	Bollywood
+Bolshevik	Bolshevik
+Bomb	Bom
+Bomber	Máy bay ném bom
+Bond (finance)	Trái phiếu
+Bone	Xương
+Bone marrow	Tủy xương
+Bonn	Bonn
+Bonsai	Bonsai
+Book	Sách
+Book of Revelation	Sách Khải Huyền (Tân Ước)
+Boomerang	Bumerang
+Bordeaux	Bordeaux
+Boris Pasternak	Boris Leonidovich Pasternak
+Borneo	Borneo
+Boron	Bo
+Bosnia and Herzegovina	Bosna và Hercegovina
+Boson	Boson
+Bosporus	Eo biển Bosporus
+Boston	Boston, Massachusetts
+Bot	Tiêu bản:Bot
+Botany	Thực vật học
+Botany	Thể loại:Thực vật học
+Botswana	Botswana
+Botswana	Thể loại:Botswana
+Bourgogne	Bourgogne
+Bouvet Island	Đảo Bouvet
+Bow (weapon)	Cung
+Bowling	Bowling
+Boxing	Quyền Anh
+Brahmaputra River	Brahmaputra
+Brain	Não
+Brainstorming	Tập kích não
+Bram Stoker	Bram Stoker
+Brandenburg	Brandenburg
+Brassicaceae	Họ Cải
+Brassiere	Nịt ngực
+Bratislava	Bratislava
+Braunschweig	Braunschweig
+Brazil	Brasil
+Brazil	Thể loại:Brasil
+Brazzaville	Brazzaville
+Bread	Bánh mì
+Breast	Vú
+Breast cancer	Ung thư vú
+Bremen	Bremen
+Bretagne	Bretagne
+Brick	Gạch
+Bridge	Cầu
+Bridges	Thể loại:Cầu
+Bridgetown	Bridgetown
+Brigade	Lữ đoàn
+Brisbane	Brisbane
+Bristol	Bristol
+British Columbia	British Columbia
+British Empire	Đế quốc Anh
+British Virgin Islands	Quần đảo Virgin thuộc Anh
+British people	Thể loại:Người Anh
+Bromine	Brôm
+Bronze	Đồng thiếc
+Bronze Age	Thời đại đồ đồng
+Brown	Nâu
+Brown Bear	Gấu nâu
+Bruce Lee	Lý Tiểu Long
+Brunei	Brunei
+Brunei	Thể loại:Brunei
+Brussels	Bruxelles
+Bubonic plague	Dịch hạch
+Bucharest	Bucharest
+Buckingham Palace	Cung điện Buckingham
+Buckminster Fuller	Buckminster Fuller
+Budapest	Budapest
+Buddha	Phật
+Buddhism	Phật giáo
+Buddhism	Thể loại:Phật giáo
+Buenos Aires	Buenos Aires
+Bujumbura	Bujumbura
+Bulgaria	Bulgaria
+Bulgaria	Thể loại:Bulgaria
+Buoyancy	Lực đẩy Archimedes
+Burkina Faso	Burkina Faso
+Burma	Myanma
+Burma	Thể loại:Myanma
+Burundi	Thể loại:Burundi
+Bus	Xe buýt
+Businesspeople	Thể loại:Doanh nhân
+Buster Keaton	Buster Keaton
+Butane	Butan
+Butter	Bơ
+Butterfly	Bướm ngày
+Byte	Byte
+C	C
+C (programming language)	C (ngôn ngữ lập trình)
+CHAOS (Linux distribution)	CHAOS
+CN Tower	Tháp CN
+COBOL	COBOL
+Cacao	Cacao
+Cactus	Họ Xương rồng
+Cadmium	Cadmi
+Caelum	Điêu Cụ
+Caesium	Xêzi
+Caffeine	Caffein
+Cairo	Cairo
+Calais	Calais
+Calcite	Canxit
+Calcium	Canxi
+Calcium carbonate	Cacbonat canxi
+Calcium oxide	Ôxít canxi
+Calculus	Giải tích
+Calendar	Lịch
+California	California
+California	Thể loại:California
+Caligula	Caligula
+Calorie	Ca-lo
+Calvados	Calvados
+Calvin Coolidge	Calvin Coolidge
+Cambodia	Campuchia
+Cambodia	Thể loại:Campuchia
+Cambrian	Kỷ Cambri
+Cambridge	Cambridge
+Cambridge	Cambridge, Massachusetts
+Cambridge (disambiguation)	Cambridge (định hướng)
+Camel	Lạc đà
+Camembert (cheese)	Camembert (phó mát)
+Camera	Máy ảnh
+Cameroon	Cameroon
+Canada	Canada
+Canada	Thể loại:Canada
+Canal	Kênh đào
+Canary Islands	Quần đảo Canaria
+Canary Islands	Thể loại:Quần đảo Canaria
+Canberra	Canberra
+Cancer	Ung thư
+Cancer (constellation)	Cự Giải (chòm sao)
+Canidae	Họ Chó
+Canis Major	Đại Khuyển
+Canis Minor	Tiểu Khuyển
+Cannabis	Cần sa
+Cannes	Cannes
+Cannibalism	Ăn thịt đồng loại
+Canon (company)	Canon
+Canterbury	Canterbury
+Cantonese (linguistics)	Tiếng Quảng Đông
+Canute the Great	Canute Đại đế
+Capacitance	Điện dung
+Capacitor	Tụ điện
+Cape Horn	Cape Horn
+Cape Town	Cape Town
+Cape Verde	Cabo Verde
+Cape of Good Hope	Mũi Hảo Vọng
+Capital	Thủ đô
+Capital (economics)	Tư bản
+Capital punishment	Tử hình
+Capitalism	Chủ nghĩa tư bản
+Capricornus	Ma Kiết (chòm sao)
+Caracas	Caracas
+Carambola	Khế
+Carat (mass)	Cara
+Carat (purity)	Cara
+Carbon	Cacbon
+Carbon dioxide	Điôxít cacbon
+Carbon monoxide	Mônôxít cacbon
+Carboniferous	Kỷ Than đá
+Carboxylic acid	Axít cacboxylic
+Carburetor	Bộ chế hòa khí
+Cardiff	Cardiff
+Cardinal (Catholicism)	Hồng y
+Cardiovascular system	Thể loại:Hệ tim mạch
+Carina (constellation)	Thuyền Để
+Carnivora	Bộ Ăn thịt
+Carolus Linnaeus	Carl von Linné
+Cartesian coordinate system	Hệ tọa độ Descartes
+Cartography	Bản đồ học
+Cartography	Thể loại:Bản đồ học
+Caryophyllales	Bộ Cẩm chướng
+Casablanca	Casablanca
+Cashew	Điều
+Casino	Sòng bạc
+Caspian Sea	Biển Caspi
+Cassiopeia (constellation)	Tiên Hậu
+Cast iron	Gang
+Castling	Nhập thành
+Castries	Castries
+Cat	Mèo
+Cataphract	Cataphract
+Cataract	Cườm thủy tinh thể mắt
+Catfish	Bộ Cá da trơn
+Cathedral	Nhà thờ chính tòa
+Catholicism	Công giáo
+Catullus	Catullus
+Cauliflower	Súp lơ
+Causality	Hiệu ứng vật lý
+Cavalry	Kỵ binh
+Cave	Hang
+Caviar	Trứng cá muối
+Cayenne	Cayenne
+Cayman Islands	Quần đảo Cayman
+Celery	Cần tây
+Celestial mechanics	Thể loại:Cơ học thiên thể
+Celestial mechanics	Cơ học thiên thể
+Celestial sphere	Thiên cầu
+Cell (biology)	Tế bào
+Cell membrane	Màng tế bào
+Cello	Hồ cầm
+Cellulose	Cellulose
+Celsius	Độ Celsius
+Cenozoic	Đại Tân sinh
+Census	Điều tra dân số
+Centaur	Nhân mã
+Centaurus	Bán Nhân Mã
+Center of mass	Khối tâm
+Centimetre	Xentimét
+Central Africa	Trung Phi
+Central African Republic	Cộng hoà Trung Phi
+Central Intelligence Agency	Cơ quan Tình báo Trung ương Hoa Kỳ
+Central Powers	Liên minh Trung tâm
+Central bank	Ngân hàng trung ương
+Central nervous system	Hệ thần kinh trung ương
+Central processing unit	CPU
+Centre	Centre
+Centriole	Trung tử
+Century	Thế kỷ
+Cepheus (constellation)	Tiên Vương
+Ceres (dwarf planet)	Ceres (hành tinh lùn)
+Cerium	Xeri
+Cesare Borgia	Cesare Borgia
+Cetacea	Bộ Cá voi
+Cetus	Kình Ngư
+Chad	Tchad
+Chamaeleon	Yển Diên
+Champagne (wine)	Sâm panh
+Champagne-Ardenne	Champagne-Ardenne
+Channel Tunnel	Đường hầm eo biển Manche
+Charlemagne	Charlemagne
+Charles	Thái tử Charles, Hoàng tử xứ Wales
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles de Gaulle	Charles de Gaulle
+Charles the Bald	Charles II le Chauve
+Charlie Chaplin	Charlie Chaplin
+Charmed	Phép thuật (phim truyền hình)
+Chartres	Chartres
+Chauvinism	Chủ nghĩa Sôvanh
+Che Guevara	Che Guevara
+Chechnya	Chechnya
+Cheese	Pho mát
+Cheetah	Báo săn
+Chemical bond	Liên kết hóa học
+Chemical compound	Hợp chất
+Chemical element	Nguyên tố hóa học
+Chemical reaction	Phản ứng hóa học
+Chemical warfare	Vũ khí hóa học
+Chemistry	Hóa học
+Chemistry	Thể loại:Hóa học
+Chemistry	Wikipedia:Trang chính Hóa học
+Chemnitz	Chemnitz
+Chennai	Chennai
+Chernobyl	Chernobyl
+Chert	Đá lửa (lịch sử)
+Chess	Cờ vua
+Chess	Thể loại:Cờ vua
+Chester A. Arthur	Chester A. Arthur
+Chewing gum	Kẹo cao su
+Chiang Kai-shek	Tưởng Giới Thạch
+Chicago	Chicago
+Chickenpox	Bệnh thủy đậu
+Child	Trẻ em
+Chile	Chile
+Chimera (mythology)	Chimera (thần thoại)
+Chimpanzee	Tinh tinh
+China	Thể loại:Trung Quốc
+China	Trung Quốc
+Chlorine	Clo
+Chloroform	Clorofom
+Chlorophyll	Diệp lục
+Chloroplast	Lục lạp
+Chocolate	Sô-cô-la
+Choir	Hợp xướng
+Cholera	Bệnh tả
+Cholesterol	Cholesterol
+Chongqing	Trùng Khánh
+Chordate	Động vật có dây sống
+Christiaan Huygens	Christiaan Huygens
+Christian Dior	Christian Dior
+Christianity	Kitô giáo
+Christianity	Thể loại:Kitô giáo
+Christmas	Giáng sinh
+Christmas	Thể loại:Giáng sinh
+Christmas tree	Cây Giáng sinh
+Christopher Columbus	Cristoforo Colombo
+Chromatography	Sắc kí
+Chromium	Crom
+Chromosome	Nhiễm sắc thể
+Church (building)	Nhà thờ
+Church of England	Giáo hội Anh
+Ciconiiformes	Bộ Hạc
+Cigarette	Thuốc lá
+Cinnabar	Chu sa
+Circinus	Viên Quy
+Circulatory system	Hệ tuần hoàn
+Citric acid cycle	Chu trình Krebs
+Citrus	Chi Cam chanh
+Civil war	Nội chiến
+Civilization	Văn minh
+Clarinet	Kèn dăm đơn
+Class	Lớp
+Class (biology)	Lớp (sinh học)
+Class (computer science)	Lớp (khoa học máy tính)
+Classical mechanics	Cơ học cổ điển
+Classical music	Âm nhạc cổ điển
+Claude Monet	Claude Monet
+Claudius	Claudius
+Clay	Đất sét
+Cleveland	Cleveland, Ohio
+Client-server	Client-server
+Climate	Thể loại:Khí hậu
+Climatology	Khí hậu học
+Climatology	Thể loại:Khí hậu học
+Clinical depression	Trầm cảm
+Clitoris	Âm vật
+Clock	Đồng hồ
+Clock Tower	Big Ben
+Cloud	Mây
+Clove	Đinh hương (gia vị)
+Clover	Cỏ ba lá (Trifolium)
+Clovis I	Clovis I
+Coal	Than đá
+Cobalt	Coban
+Cocaine	Cocain
+Coccinellidae	Bọ rùa
+Cockroach	Gián
+Cocktail	Cocktail
+Coconut	Dừa
+Cocos (Keeling) Islands	Quần đảo Cocos (Keeling)
+Coffea	Cà phê (thực vật)
+Coffee	Cà phê
+Coffee	Thể loại:Cà phê
+Cognac (drink)	Cô nhắc
+Cognitive science	Khoa học nhận thức
+Cold War	Chiến tranh Lạnh
+Cold War	Thể loại:Chiến tranh Lạnh
+Colin Powell	Colin Powell
+Colloid	Hệ keo
+Cologne	Köln
+Colombia	Colombia
+Colombia	Thể loại:Colombia
+Colombo	Colombo
+Colonel	Đại tá
+Color	Màu sắc
+Colorado	Colorado
+Colosseum	Đấu trường La Mã
+Colossus of Rhodes	Tượng thần Mặt Trời ở Rhodes
+Colubrid	Họ Rắn nước
+Columba (constellation)	Thiên Cáp
+Columbia	Columbia
+Columbia River	Sông Columbia
+Columbia University	Đại học Columbia
+Columbidae	Chim bồ câu
+Columbus	Columbus, Ohio
+Columbus	Columbus
+Coma Berenices	Hậu Phát
+Comet	Sao chổi
+Commonwealth of Independent States	Cộng đồng các Quốc gia Độc lập
+Commonwealth of Nations	Khối Thịnh vượng chung Anh
+Communication	Thể loại:Truyền thông
+Communism	Chủ nghĩa cộng sản
+Communism	Thể loại:Cộng sản
+Comoros	Comoros
+Compact Disc	Đĩa CD
+Compass	La bàn
+Compiler	Trình biên dịch
+Complex number	Trường số phức
+Composer	Nhà soạn nhạc
+Composite material	Vật liệu composite
+Composite number	Hợp số
+Computer	Máy tính
+Computer architecture	Kiến trúc máy tính
+Computer display	Màn hình máy tính
+Computer file	Tập tin
+Computer graphics	Thể loại:Đồ họa máy tính
+Computer hardware	Phần cứng
+Computer hardware	Thể loại:Phần cứng
+Computer network	Mạng máy tính
+Computer programming	Lập trình
+Computer programming	Thể loại:Lập trình
+Computer science	Khoa học máy tính
+Computer science	Thể loại:Khoa học máy tính
+Computer software	Phần mềm
+Computer virus	Virus (máy tính)
+Computer-aided design	CAD
+Computing	Category:Khoa học máy tính
+Concentration	Nồng độ
+Concerto	Concerto
+Concord	Concord, New Hampshire
+Concrete	Bê tông
+Condom	Bao cao su
+Cone (geometry)	Mặt nón
+Confederate States of America	Liên minh miền Nam
+Confucianism	Nho giáo
+Confucius	Khổng Tử
+Congo	Congo
+Congo River	Sông Congo
+Conic section	Đường cô-nic
+Connecticut	Connecticut
+Connective tissue	Mô liên kết
+Conservation of energy	Bảo toàn năng lượng
+Constantine I	Constantine I
+Constantinople	Constantinople
+Constellation	Chòm sao
+Constitution (political)	Hiến pháp
+Contact lens	Kính áp tròng
+Continent	Lục địa
+Continental drift	Trôi dạt lục địa
+Continental shelf	Thềm lục địa
+Coordinated Universal Time	Giờ phối hợp quốc tế
+Copenhagen	Copenhagen
+Copper	Đồng (nguyên tố)
+Copyright	Quyền tác giả
+Coraciiformes	Bộ Sả
+Coral	San hô
+Coral reef	Rạn san hô
+Coriolis effect	Hiệu ứng Coriolis
+Cornell University	Đại học Cornell
+Corona Borealis	Bắc Miện
+Corsica	Corse
+Corvidae	Họ Quạ
+Corvus (constellation)	Ô Nha
+Cosmic microwave background radiation	Bức xạ phông vi sóng vũ trụ
+Cosmic ray	Bức xạ vũ trụ
+Costa Rica	Costa Rica
+Cotonou	Cotonou
+Cougar	Báo sư tử
+Coulomb	Coulomb (đơn vị)
+Coulomb's law	Lực tĩnh điện
+Country music	Nhạc đồng quê
+Court	Tòa án
+Covalent bond	Liên kết cộng hóa trị
+Coventry	Coventry
+Coyote	Chó sói đồng cỏ Bắc Mỹ
+Crab	Cận bộ Cua
+Crater (constellation)	Cự Tước
+Cretaceous	Kỷ Creta
+Crete	Crete
+Cricket	Cricket
+Cricket (insect)	Dế mèn
+Crime	Tội phạm
+Crimean War	Chiến tranh Crimea
+Criminology	Thể loại:Tội phạm học
+Croatia	Croatia
+Crocodile	Họ Cá sấu đích thực
+Crocodilia	Bộ Cá sấu
+Cronus	Cronus
+Cross product	Nhân vectơ
+Crossbow	Nỏ
+Cruiser	Tuần dương hạm
+Crust (geology)	Lớp vỏ (địa chất)
+Crustacean	Động vật giáp xác
+Crux	Nam Thập Tự
+Cryptography	Mật mã học
+Cryptography	Thể loại:Mật mã học
+Crystal	Tinh thể
+Ctenophore	Sứa lược
+Cuba	Cuba
+Cuba	Thể loại:Cuba
+Cube	Khối lập phương
+Cubic metre	Mét khối
+Cubism	Lập thể
+Cuculiformes	Bộ Cu cu
+Cucumber	Dưa chuột
+Cucurbitaceae	Họ Bầu bí
+Cultural Revolution	Cách mạng văn hóa
+Culture	Văn hóa
+Culture	Thể loại:Văn hóa
+Cumulus cloud	Mây tích
+Cupressaceae	Họ Hoàng đàn
+Curitiba	Curitiba
+Currency	Thể loại:Tiền tệ
+Currency	Tiền tệ
+Curry	Cà ri
+Cyan	Xanh lơ
+Cyanobacteria	Vi khuẩn lam
+Cybernetics	Điều khiển học
+Cygnus (constellation)	Thiên Nga (chòm sao)
+Cylinder (geometry)	Hình trụ tròn
+Cyperaceae	Họ Cói
+Cyprinid	Họ Cá chép
+Cypriniformes	Bộ Cá chép
+Cyprus	Cộng hòa Síp
+Cyrus the Great	Cyrus Đại đế
+Cytoplasm	Tế bào chất
+Cytosine	Cytosine
+Czech Republic	Cộng hòa Séc
+Czech Republic	Thể loại:Cộng hòa Séc
+Czechoslovakia	Tiệp Khắc
+Czechoslovakia	Thể loại:Tiệp Khắc
+D	D
+DNA	ADN
+DVD	Đĩa DVD
+Dahlia	Thược dược
+Dakar	Dakar
+Dalai Lama	Đạt-lại Lạt-ma
+Dallas	Dallas, Texas
+Damascus	Damascus
+Dance	Thể loại:Khiêu vũ
+Dandelion	Bồ công anh
+Daniel Defoe	Daniel Defoe
+Dante Alighieri	Dante Alighieri
+Danube	Sông Donau
+Dar es Salaam	Dar es Salaam
+Darfur	Darfur (địa lý)
+Darjeeling	Darjiling
+Dark matter	Vật chất tối
+Darwin	Darwin (Úc)
+Darwin	Darwin (định hướng)
+Das Kapital	Tư Bản (Karl Marx)
+Data	Dữ liệu
+Data mining	Khai phá dữ liệu
+Data structure	Cấu trúc dữ liệu
+Database	Cơ sở dữ liệu
+Database management system	Hệ quản trị cơ sở dữ liệu
+Date Palm	Chi Chà là
+David	David
+David Hilbert	David Hilbert
+David Hume	David Hume
+David Livingstone	David Livingstone
+David Ricardo	David Ricardo
+De facto	De facto
+Dead Sea	Biển Chết
+Death	Chết
+Death	Thể loại:Chết
+December	Tháng mười hai
+December 31	31 tháng 12
+December 8	8 tháng 12
+Decibel	Decibel
+Decimal	Hệ thập phân
+Decius (emperor)	Decius (hoàng đế)
+Declination	Xích vĩ
+Deco	Deco
+Deductive reasoning	Suy diễn logic
+Definition	Định nghĩa
+Deflation	Giảm phát
+Degree	Độ (định hướng)
+Degree (angle)	Độ (góc)
+Deimos (moon)	Deimos (vệ tinh)
+Delaware	Delaware
+Delft	Delft
+Delhi	Delhi
+Dell	Dell
+Delphi	Delphi
+Delphinus	Hải Đồn
+Deluge (mythology)	Đại hồng thủy
+Dementia	Chứng mất trí
+Demeter	Demeter
+Democracy	Dân chủ
+Democratic Party (United States)	Đảng Dân chủ Hoa Kỳ
+Democratic Republic of the Congo	Cộng hòa Dân chủ Congo
+Democratic Republic of the Congo	Thể loại:Cộng hòa Dân chủ Congo
+Democritus	Democritus
+Demon	Quỷ
+Deng Xiaoping	Đặng Tiểu Bình
+Dengue fever	Sốt xuất huyết Dengue
+Denmark	Đan Mạch
+Denmark	Thể loại:Đan Mạch
+Density	Mật độ
+Dentistry	Thể loại:Nha khoa
+Dentistry	Nha khoa
+Denver	Denver, Colorado
+Derivative	Đạo hàm và vi phân của hàm số
+Des Moines	Des Moines, Iowa
+Desert	Sa mạc
+Deserts	Thể loại:Sa mạc
+Design	Thể loại:Thiết kế
+Destroyer	Tàu khu trục
+Determinant	Định thức
+Detroit	Detroit, Michigan
+Device driver	Chương trình điều khiển
+Devonian	Kỷ Devon
+Dew	Sương
+Dew point	Điểm sương
+Dhaka	Dhaka
+Dharma	Pháp (Phật giáo)
+Diabetes mellitus	Đái tháo đường
+Dialect	Phương ngữ
+Dialectic	Biện chứng
+Diameter	Đường kính
+Diamond	Kim cương
+Diana	Diana, công nương xứ Wales
+Dice	Xúc xắc
+Dicotyledon	Thực vật hai lá mầm
+Dictatorship	Độc tài
+Dictionary	Từ điển
+Diesel	Dầu diesel
+Diesel engine	Động cơ Diesel
+Diffraction	Nhiễu xạ
+Digestive system	Thể loại:Hệ tiêu hoá
+Digital	Kỹ thuật số
+Digital camera	Máy ảnh số
+Digital subscriber line	DSL
+Dijon	Dijon
+Dinosaur	Khủng long
+Diocese	Giáo phận
+Diode	Điốt bán dẫn
+Diphtheria	Bệnh bạch hầu
+Diplodocus	Diplodocus
+Diplomacy	Ngoại giao
+Dire Straits	Dire Straits
+Direct current	Điện một chiều
+Disambiguation	Thể loại:Trang định hướng
+Distance	Khoảng cách
+Distillation	Chưng cất
+Divergence	Toán tử div
+Division (military)	Sư đoàn
+Djibouti (city)	Djibouti (thành phố)
+Dmitri Mendeleev	Dmitri Ivanovich Mendeleev
+Dnieper River	Sông Dnepr
+Dnipropetrovsk	Dnipropetrovsk
+Doberman Pinscher	Dobermann
+Doctor of the Church	Tiến sĩ Hội thánh
+Document	Văn kiện
+Dodoma	Dodoma
+Dog	Chó
+Doha	Doha
+Dollar	Đô la
+Domain (biology)	Vực (sinh học)
+Domain name	Tên miền
+Dome	Kiến trúc vòm
+Dominica	Dominica
+Dominican Republic	Cộng hòa Dominicana
+Don Quixote	Đôn Kihôtê
+Don River (Russia)	Sông Đông
+Donald Duck	Vịt Donald
+Donetsk	Donetsk
+Doppler effect	Hiệu ứng Doppler
+Dorado	Kiếm Ngư
+Doric order	Thức cột Doric
+Doris Lessing	Doris Lessing
+Dortmund	Dortmund
+Douala	Douala
+Double bass	Đại hồ cầm
+Douglas MacArthur	Douglas MacArthur
+Down syndrome	Hội chứng Down
+Draco (constellation)	Thiên Long
+Dragon	Rồng
+Drainage basin	Lưu vực
+Dresden	Dresden
+Dromedary	Lạc đà một bướu
+Drum	Trống
+Dualism	Thuyết nhị nguyên
+Dubai	Dubai
+Dublin	Dublin
+Dugong	Bò biển
+Duke University	Đại học Duke
+Dunkirk	Dunkerque
+Dushanbe	Dushanbe
+Dustin Hoffman	Dustin Hoffman
+Dutch people	Thể loại:Người Hà Lan
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dynamics (physics)	Động lực học
+Dynamite	Dynamit
+Dyslexia	Chứng khó đọc
+E	E
+E (mathematical constant)	Số e
+E-mail	Thư điện tử
+ETA	ETA
+Ear	Tai
+Earless seal	Họ Hải cẩu thật sự
+Earth	Trái Đất
+Earth	Thể loại:Trái Đất
+Earth science	Khoa học Trái Đất
+Earthquake	Động đất
+East	Hướng Đông
+East China Sea	Đông Hải (biển Trung Quốc)
+East Germany	Cộng hòa Dân chủ Đức
+East Timor	Đông Timor
+Easter	Lễ Phục Sinh
+Eastern Orthodox Church	Chính Thống giáo Đông phương
+Eclipse	Nhật thực
+Eclipse (software)	Eclipse (môi trường phát triển tích hợp)
+Ecliptic	Mặt phẳng hoàng đạo
+Ecology	Sinh thái học
+Ecology	Thể loại:Sinh thái học
+Econometrics	Kinh tế lượng
+Economics	Kinh tế học
+Economics	Thể loại:Kinh tế học
+Economy	Kinh tế
+Ecosystem	Hệ sinh thái
+Ecuador	Ecuador
+Ecuador	Thể loại:Ecuador
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edinburgh	Edinburgh
+Edmond Halley	Edmund Halley
+Edmonton	Edmonton, Alberta
+Edmund Hillary	Edmund Hillary
+Edo	Edo
+Education	Giáo dục
+Education	Thể loại:Giáo dục
+Edvard Munch	Edvard Munch
+Edward Gibbon	Edward Gibbon
+Edward Jenner	Edward Jenner
+Edwin Hubble	Edwin Hubble
+Eel	Bộ Cá chình
+Egg (biology)	Trứng gà
+Eggplant	Cà tím
+Egypt	Ai Cập
+Egypt	Thể loại:Ai Cập
+Eiffel Tower	Tháp Eiffel
+Ejaculation	Xuất tinh
+El Salvador	El Salvador
+El Salvador	Thể loại:El Salvador
+Elam	Elam
+Eleanor Roosevelt	Eleanor Roosevelt
+Election	Bầu cử
+Electric charge	Điện tích
+Electric current	Dòng điện
+Electric field	Điện trường
+Electric motor	Động cơ điện
+Electrical engineering	Thể loại:Kỹ thuật điện
+Electrical resistance	Điện trở
+Electricity	Điện
+Electricity	Thể loại:Điện học
+Electrocardiogram	Điện tâm đồ
+Electrochemistry	Điện hóa
+Electrochemistry	Thể loại:Điện hóa
+Electrolysis	Điện phân
+Electromagnetic radiation	Bức xạ điện từ
+Electromagnetism	Thể loại:Điện từ học
+Electron	Điện tử
+Electron microscope	Kính hiển vi điện tử
+Electronegativity	Độ âm điện
+Electronics	Điện tử học
+Electronics	Thể loại:Điện tử học
+Element	Nguyên tố
+Elementary particle	Hạt sơ cấp
+Elephant	Voi
+Elias Canetti	Elias Canetti
+Ellipse	Elíp
+Elvis Presley	Elvis Presley
+Emerald	Ngọc lục bảo
+Emily Dickinson	Emily Dickinson
+Emperor	Hoàng đế
+Empire	Đế quốc
+Empire State Building	Tòa nhà Empire State
+Empiricism	Chủ nghĩa kinh nghiệm
+Emulsion	Nhũ tương
+Encyclopedia	Bách khoa toàn thư
+Endemism	Đặc hữu
+Endocrinology	Thể loại:Nội tiết học
+Energy	Năng lượng
+Energy (society)	Năng lượng
+Engineer	Kỹ sư
+England	Anh
+English Channel	Biển Manche
+English Civil War	Cách mạng Anh
+English language	Tiếng Anh
+English language	Thể loại:Tiếng Anh
+Enrico Fermi	Enrico Fermi
+Entertainment	Thể loại:Giải trí
+Enthalpy	Enthalpy
+Entomology	Côn trùng học
+Entropy	Entropy
+Environment	Môi trường
+Enzyme	Enzym
+Eocene	Thế Eocen
+Eon (geology)	Liên đại địa chất
+Epic poetry	Sử thi
+Epicenter	Chấn tâm
+Epicurus	Epicurus
+Epidemiology	Dịch tễ học
+Epinephrine	Adrenaline
+Epistle to the Romans	Thư gởi các tín hữu tại Rôma
+Epithelium	Biểu mô
+Equation	Phương trình
+Equator	Xích đạo
+Equatorial Guinea	Guinea Xích Đạo
+Equidae	Họ Ngựa
+Eratosthenes	Eratosthenes
+Erectile dysfunction	Liệt dương
+Erection	Cương cứng
+Ericaceae	Họ Thạch nam
+Ericales	Bộ Thạch nam
+Eridanus (constellation)	Ba Giang
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Eris (dwarf planet)	Eris (hành tinh lùn)
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Ernst Werner von Siemens	Verner Von Siemens
+Eros (mythology)	Eros (thần thoại)
+Erwin Rommel	Erwin Rommel
+Escape velocity	Tốc độ vũ trụ cấp 2
+Escherichia coli	E. coli
+Esperanto	Quốc tế ngữ
+Espoo	Espoo
+Espresso	Cà phê espresso
+Essential oil	Tinh dầu
+Ester	Este
+Estonia	Thể loại:Estonia
+Estrogen	Estrogen
+Ethane	Êtan
+Ethanol	Êtanol
+Ether	Ete
+Ethernet	Ethernet
+Ethics	Luân lý học
+Ethics	Thể loại:Luân lý học
+Ethiopia	Ethiopia
+Ethiopia	Thể loại:Ethiopia
+Ethology	Tập tính học
+Ethylene	Êtilen
+Eucharist	Tiệc Thánh
+Euclid	Euclid
+Euclidean geometry	Hình học Euclide
+Eugene O'Neill	Eugene O'Neill
+Eukaryote	Sinh vật nhân chuẩn
+Eunuch	Hoạn quan
+Euphemism	Khinh từ
+Euphrates	Euphrates
+Eurasia	Lục địa Á-Âu
+Euro	Euro
+Europe	Châu Âu
+Europe	Thể loại:Châu Âu
+European Central Bank	Ngân hàng Trung ương Châu Âu
+European Magpie	Ác là
+European Union	Liên minh châu Âu
+European Union	Thể loại:Liên Minh Châu Âu
+Evanescence	Evanescence
+Evangelista Torricelli	Evangelista Torricelli
+Even-toed ungulate	Bộ Guốc chẵn
+Evolution	Tiến hóa
+Excalibur	Excalibur
+Exchange rate	Tỷ giá hối đoái
+Executive (government)	Quyền hành pháp
+Exodus	Sách Xuất hành
+Expected value	Giá trị kỳ vọng
+Explosion	Nổ
+Expo (exhibition)	Triển lãm thế giới
+Exponentiation	Lũy thừa
+Expressionism	Chủ nghĩa biểu hiện
+Extinction	Tuyệt chủng
+Eye	Mắt
+Eye	Thể loại:Mắt
+F	F
+F. Scott Fitzgerald	F. Scott Fitzgerald
+Fabaceae	Họ Đậu
+Fable	Ngụ ngôn
+Fact	Tiêu bản:Cần chú thích
+Factorial	Giai thừa
+Facula	Vết đen Mặt Trời
+Fagales	Bộ Dẻ gai
+Fahrenheit	Độ Fahrenheit
+Fair use	Sử dụng hợp lý
+Falcon	Chi Cắt
+Falkland Islands	Quần đảo Falkland
+Falun Gong	Pháp Luân Công
+Family	Thể loại:Gia đình
+Family (biology)	Họ (sinh học)
+Family history	Gia phả
+Family name	Họ
+Far East	Viễn Đông
+Farad	Farad
+Fascism	Chủ nghĩa phát xít
+Fascism	Thể loại:Chủ nghĩa phát xít
+Fashion	Thể loại:Thời trang
+Fashion	Thời trang
+Fauvism	Trường phái dã thú
+February	Tháng hai
+February 12	12 tháng 2
+February 14	14 tháng 2
+February 2	2 tháng 2
+February 22	22 tháng 2
+February 29	29 tháng 2
+February Revolution	Cách mạng Tháng Hai
+Feces	Phân
+Federal Bureau of Investigation	Cục Điều tra Liên bang
+Federal Reserve System	Cục Dự trữ Liên bang Hoa Kỳ
+Federico Fellini	Federico Fellini
+Fedora (Linux distribution)	Fedora Core
+Felidae	Họ Mèo
+Felix Mendelssohn	Felix Mendelssohn
+Feng shui	Phong thủy
+Fenugreek	Cỏ ca ri
+Ferdinand Magellan	Ferdinand Magellan
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermion	Fermion
+Ferry	Phà
+Fertile Crescent	Trăng lưỡi liềm mầu mỡ
+Fertilizer	Phân bón
+Feudalism	Phong kiến
+Fibonacci number	Dãy Fibonacci
+Fidel Castro	Fidel Castro
+Field (mathematics)	Trường (toán học)
+Fighter aircraft	Máy bay tiêm kích
+Fiji	Fiji
+File Allocation Table	FAT
+File Transfer Protocol	FTP
+Film	Thể loại:Phim
+Film	Điện ảnh
+Film	Chủ đề:Điện ảnh
+Finance	Thể loại:Tài chính
+Finland	Phần Lan
+Finland	Thể loại:Phần Lan
+Fir	Chi Linh sam
+Fire	Lửa
+Firewall (networking)	Tường lửa (mạng máy tính)
+First Crusade	Thập tự chinh thứ nhất
+First Epistle to the Corinthians	Thư thứ nhất gởi các tín hữu tại Côrintô
+Fish	Cá
+Fish	Thể loại:Cá
+Flamingo	Hồng hạc
+Flash memory	Bộ nhớ flash
+Flatulence	Trung tiện
+Flatworm	Giun dẹp
+Flea	Bọ chét
+Flint	Đá lửa (lịch sử)
+Floppy disk	Ổ đĩa mềm
+Florence	Firenze
+Florence Nightingale	Florence Nightingale
+Florida	Florida
+Flower	Hoa
+Flowering plant	Thực vật có hoa
+Fluid mechanics	Cơ học chất lưu
+Flute	Sáo ngang
+Fog	Sương mù
+Folic acid	Axít folic
+Food additive	Phụ gia thực phẩm
+Food chain	Chuỗi thức ăn
+Football (soccer)	Bóng đá
+Football (soccer)	Thể loại:Bóng đá
+Football (soccer) by country	Thể loại:Bóng đá theo quốc gia
+Football (soccer) clubs	Thể loại:Câu lạc bộ bóng đá
+Football (soccer) players	Thể loại:Cầu thủ bóng đá
+Forbidden City	Cố Cung
+Force	Lực
+Forest	Rừng
+Forestry	Lâm nghiệp
+Fork	Dĩa
+Form of government	Hình thức chính thể
+Formaldehyde	Fomanđêhít
+Formic acid	Axít formic
+Fornax	Thiên Lô
+Fort Worth	Forth Worth, Texas
+Fortran	Fortran
+Foucault pendulum	Con lắc Foucault
+Fourier series	Chuỗi Fourier
+Fractal	Phân dạng
+France	Pháp
+France	Thể loại:Pháp
+Francis Bacon	Francis Bacon
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francis Ford Coppola	Francis Ford Coppola
+Francis of Assisi	Francis thành Assisi
+Francisco Franco	Francisco Franco
+Francisco Goya	Francisco Goya
+Francisco Pizarro	Francisco Pizarro
+Francium	Franxi
+Franco-Prussian War	Chiến tranh Pháp-Phổ
+Frank Lloyd Wright	Frank Lloyd Wright
+Frankfurt	Frankfurt am Main
+Frankfurt	Thể loại:Frankfurt am Main
+Frankfurt (Oder)	Frankfurt (Oder)
+Frankfurt (disambiguation)	Frankfurt (định hướng)
+Franklin Pierce	Franklin Pierce
+Franz Kafka	Franz Kafka
+Franz Liszt	Franz Liszt
+Franz Schubert	Franz Schubert
+Fred Astaire	Fred Astaire
+Freedom of speech	Tự do ngôn luận
+Freeware	Phần mềm miễn phí
+French Polynesia	Polynésie thuộc Pháp
+French Revolution	Cách mạng Pháp
+French Revolution	Thể loại:Cách mạng Pháp
+French people	Thể loại:Người Pháp
+Frequency	Tần số
+Freshwater	Nước ngọt
+Fresno	Fresno, California
+Freyja	Freyja
+Freyr	Freyr
+Friction	Ma sát
+Friday	Thứ Sáu
+Fridtjof Nansen	Fridtjof Nansen
+Friedrich Engels	Friedrich Engels
+Frigg	Frigg
+Frog	Ếch
+Fruit	Thể loại:Trái cây
+Fuel	Nhiên liệu
+Fuel cell	Tế bào nhiên liệu
+Fugue	Tẩu pháp
+Fukuoka	Fukuoka (thành phố)
+Function (mathematics)	Hàm số
+Fundamental	Thể loại:Căn bản
+Fundamental interaction	Lực cơ bản
+Fungi	Thể loại:Nấm
+Fungus	Nấm
+Futurism (art)	Chủ nghĩa vị lai
+Fuzzy logic	Lôgic mờ
+Fyodor Dostoevsky	Fyodor Mikhailovich Dostoevsky
+G	G
+GIMP	GIMP
+GNOME	GNOME
+Gabon	Gabon
+Gaborone	Gaborone
+Gabriel Lippmann	Gabriel Lippmann
+Gaia (mythology)	Gaia (thần thoại)
+Galaxy	Thiên hà
+Galilee	Galilea
+Galileo Galilei	Galileo Galilei
+Galliformes	Bộ Gà
+Gallium	Gali
+Gallon	Gallon
+Gamal Abdel Nasser	Gamal Abdel Nasser
+Gambling	Đánh bạc
+Game theory	Lý thuyết trò chơi
+Gamma ray	Tia gamma
+Ganges	Sông Hằng
+Gansu	Cam Túc
+Gap	Gap, Hautes-Alpes
+Garden	Vườn cảnh
+Garfield	Garfield
+Garlic	Tỏi
+Gas	Chất khí
+Gas constant	Hằng số khí
+Gasoline	Xăng
+Gastrointestinal tract	Hệ tiêu hóa
+Gaul	Gaule
+Gautama Buddha	Thích-ca Mâu-ni
+Gaza Strip	Dải Gaza
+Geisha	Geisha
+Gemini (constellation)	Song Tử (chòm sao)
+Gemstone	Ngọc
+Gene	Gene
+Genealogy	Gia phả học
+General Agreement on Tariffs and Trade	Hiệp ước chung về thuế quan và mậu dịch
+General Officer	Đại tướng
+General relativity	Lý thuyết tương đối rộng
+Genesis	Sách Sáng thế
+Genetic code	Mã di truyền
+Genetic engineering	Kỹ thuật di truyền
+Genetics	Di truyền học
+Genetics	Thể loại:Di truyền học
+Geneva	Genève
+Genoa	Genova
+Genome	Bộ gene
+Genus	Chi (sinh học)
+Geochemistry	Địa hóa học
+Geography	Địa lý học
+Geography	Thể loại:Địa lý học
+Geography	Wikipedia:Trang chính Địa lý
+Geology	Thể loại:Địa chất học
+Geology	Địa chất học
+Geometric progression	Cấp số nhân
+Geometry	Hình học
+Geometry	Thể loại:Hình học
+Geomorphology	Thể loại:Địa mạo học
+Geophysics	Địa vật lý
+Geophysics	Thể loại:Địa vật lý
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+George Berkeley	George Berkeley
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+George Bush	George Bush
+George Frideric Handel	George Frideric Handel
+George Gershwin	George Gershwin
+George Marshall	George Marshall
+George Orwell	George Orwell
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georges Braque	Georges Braque
+Georgia (U.S. state)	Georgia
+Georgia (country)	Gruzia
+Gerald Ford	Gerald Ford
+German language	Tiếng Đức
+Germanium	Gecmani
+Germany	Đức
+Germany	Thể loại:Đức
+Gestapo	Gestapo
+Ghana	Ghana
+Ghana	Thể loại:Ghana
+Ghost	Ma
+Giacomo Puccini	Giacomo Puccini
+Giant Panda	Gấu trúc lớn
+Gibraltar	Gibraltar
+Ginkgo	Bạch quả
+Giordano Bruno	Giordano Bruno
+Giotto di Bondone	Giotto di Bondone
+Giovanni Boccaccio	Giovanni Boccaccio
+Giraffe	Hươu cao cổ
+Giraffidae	Họ Hươu cao cổ
+Gironde	Gironde
+Giuseppe Garibaldi	Giuseppe Garibaldi
+Giuseppe Verdi	Giuseppe Verdi
+Glacier	Sông băng
+Glasgow	Glasgow
+Glass	Thủy tinh
+Global Positioning System	Hệ thống định vị toàn cầu
+Global warming	Sự nóng lên của khí hậu toàn cầu
+Globalization	Toàn cầu hóa
+Globe artichoke	Atisô
+Glycerol	Glyxêrin
+Gnathostomata	Động vật có quai hàm
+Go (board game)	Cờ vây
+Goa	Goa
+Gobi Desert	Sa mạc Gobi
+God	Thiên Chúa
+Gold	Vàng
+Golden Gate Bridge	Cầu Cổng Vàng
+Golden Horde	Kim Trướng hãn quốc
+Golf	Golf
+Golgi apparatus	Bộ máy Golgi
+Gomel	Gomel
+Good Friday	Thứ sáu Tuần Thánh
+Google	Google
+Google	Thể loại:Google
+Gospel of Luke	Phúc âm Luca
+Gothic	Gothic
+Gothic architecture	Kiến trúc Gothic
+Government	Chính phủ
+Grace Kelly	Grace Kelly
+Gradient	Gradient
+Graffiti	Graffiti
+Graham Greene	Graham Greene
+Gram	Gam
+Grammar	Ngữ pháp
+Granada	Granada
+Grand Canyon	Grand Canyon
+Grand Slam (tennis)	Grand Slam quần vợt
+Granite	Granat
+Grape	Nho
+Grapefruit	Bưởi chùm
+Graphic design	Thể loại:Đồ họa
+Graphic design	Đồ họa
+Graphical user interface	GUI
+Graphite	Than chì
+Gravitation	Lực hấp dẫn
+Gravitational constant	Hằng số hấp dẫn
+Gray Wolf	Chó sói xám
+Graz	Graz
+Great Barrier Reef	Rạn san hô Great Barrier
+Great Britain	Đảo Anh
+Great Depression	Đại khủng hoảng
+Great Lakes	Ngũ Đại Hồ
+Great Rift Valley	Thung lũng lớn do vết nứt Trái Đất
+Great Wall of China	Vạn Lý Trường Thành
+Great white shark	Cá mập trắng lớn
+Greatest common divisor	Ước số chung lớn nhất
+Greece	Hy Lạp
+Greek mythology	Thần thoại Hy Lạp
+Greek mythology	Thể loại:Thần thoại Hy Lạp
+Green	Xanh lá cây
+Greenhouse effect	Hiệu ứng nhà kính
+Greenhouse gas	Khí nhà kính
+Greenland	Greenland
+Greenland Sea	Biển Greenland
+Greenpeace	Hòa bình xanh
+Gregor Mendel	Gregor Mendel
+Gregorian calendar	Lịch Gregory
+Grenoble	Grenoble
+Greta Garbo	Greta Garbo
+Grey	Xám
+Gross domestic product	Tổng sản phẩm nội địa
+Group (periodic table)	Nhóm tuần hoàn
+Group theory	Lý thuyết nhóm
+Grover Cleveland	Grover Cleveland
+Gruiformes	Bộ Sếu
+Grus (constellation)	Thiên Hạc
+Guadeloupe	Guadeloupe
+Guam	Guam
+Guangdong	Quảng Đông
+Guangzhou	Quảng Châu
+Guanine	Guanine
+Guatemala City	Thành phố Guatemala
+Guayaquil	Guayaquil
+Guernsey	Guernsey
+Guglielmo Marconi	Guglielmo Marconi
+Guillaume Apollinaire	Guillaume Apollinaire
+Guinea-Bissau	Guiné-Bissau
+Guitar	Ghi-ta
+Gujarat	Gujarat
+Gulf Stream	Hải lưu Gulf Stream
+Gulf War	Chiến tranh vùng Vịnh
+Gulf of Bothnia	Vịnh Bothnia
+Gulf of Finland	Vịnh Phần Lan
+Gulf of Mexico	Vịnh Mexico
+Gulf of Thailand	Vịnh Thái Lan
+Gunpowder Plot	Âm mưu thuốc súng
+Guppy	Cá bảy màu
+Gustav Klimt	Gustav Klimt
+Gustav Mahler	Gustav Mahler
+Gustave Flaubert	Gustave Flaubert
+Guy Fawkes	Guy Fawkes
+Guy de Maupassant	Guy de Maupassant
+Gymnosperm	Thực vật hạt trần
+Gypsum	Thạch cao
+H	H
+H. G. Wells	H. G. Wells
+HTML	HTML
+Habitat	Hệ sinh thái tự nhiên
+Hacker	Hacker
+Hadean	Liên đại Hỏa Thành
+Hades	Hades (thần thoại)
+Hadron	Hadron
+Hagia Sophia	Hagia Sophia
+Haifa	Haifa
+Haiku	Haiku
+Hail	Mưa đá
+Hair	Lông
+Haiti	Haiti
+Haiti	Thể loại:Haiti
+Halal	Halal
+Half-life	Chu kỳ bán rã
+Halle	Halle (Saale)
+Halloween	Halloween
+Halogen	Halogen
+Hamas	Hamas
+Hamburg	Hamburg
+Hamburg	Thể loại:Hamburg
+Hamburger	Hamburger
+Hamlet	Hamlet
+Hammurabi	Hammurabi
+Han Dynasty	Nhà Hán
+Hand grenade	Lựu đạn
+Handgun	Súng ngắn
+Hanging Gardens of Babylon	Vườn treo Babylon
+Hannibal	Hannibal
+Hanoi	Hà Nội
+Hanover	Hannover
+Hans Christian Andersen	Hans Christian Andersen
+Hanseatic League	Hanse
+Hanukkah	Hanukkah
+Happiness	Hạnh phúc
+Harare	Harare
+Harold Pinter	Harold Pinter
+Harriet Beecher Stowe	Harriet Beecher Stowe
+Haute-Normandie	Haute-Normandie
+Havana	La Habana
+Hawaii	Hawaii
+Hawaii	Thể loại:Hawaii
+Head of state	Nguyên thủ quốc gia
+Health	Thể loại:Sức khỏe
+Heart	Tim
+Hebei	Hà Bắc (Trung Quốc)
+Hectare	Hecta
+Hector	Hector (thần thoại)
+Hector Berlioz	Hector Berlioz
+Heimdall	Heimdall
+Heinrich Himmler	Heinrich Himmler
+Hel (being)	Hel (thần thoại)
+Helen Keller	Helen Keller
+Helicopter	Máy bay trực thăng
+Helios	Helios (thần thoại)
+Helium	Heli
+Hell	địa ngục
+Helsinki	Helsinki
+Hematology	Thể loại:Huyết học
+Hemoglobin	Hemoglobin
+Henri Becquerel	Henri Becquerel
+Henri Bergson	Henri Bergson
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henry (unit)	Henry (đơn vị)
+Henry Cavendish	Henry Cavendish
+Henry Ford	Henry Ford
+Henry James	Henry James
+Henry Kissinger	Henry Kissinger
+Hephaestus	Hephaistos
+Hera	Hera (thần thoại)
+Heraclitus	Heraclitus
+Heraldry	Thể loại:Huy hiệu
+Herbert Hoover	Herbert Hoover
+Herbert Spencer	Herbert Spencer
+Hercules (constellation)	Vũ Tiên (chòm sao)
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermann Minkowski	Hermann Minkowski
+Hermann von Helmholtz	Hermann von Helmholtz
+Hermaphrodite	Ái nam ái nữ
+Hermes	Hermes (thần thoại)
+Hero	Anh hùng dân tộc
+Herod the Great	Herod Đại đế
+Herodotus	Herodotus
+Heroin	Bạch phiến
+Hertz	Hertz
+Hesse	Hessen
+Hesse	Thể loại:Hessen
+Hestia	Hestia
+Hexadecimal	Hệ thập lục phân
+Hezbollah	Hezbollah
+Hibernation	Ngủ đông
+Hideki Yukawa	Yukawa Hideki
+Hilbert space	Không gian Hilbert
+Himalayas	Himalaya
+Hinduism	Ấn Độ giáo
+Hinduism	Thể loại:Ấn Độ giáo
+Hippocrates	Hippocrates
+Hippocratic Oath	Lời thề Hippocrates
+Hippopotamus	Hà mã
+Hirohito	Hirohito
+Hiroshima	Hiroshima (thành phố)
+Histology	Mô học
+Histology	Thể loại:Mô học
+History	Lịch sử
+History	Thể loại:Lịch sử
+Ho Chi Minh	Hồ Chí Minh
+Ho Chi Minh City	Thành phố Hồ Chí Minh
+Hobart	Hobart
+Hokusai	Hokusai
+Hollywood	Hollywood
+Holmium	Holmi
+Holocene	Thế Holocen
+Holy Grail	Chén Thánh
+Holy Roman Empire	Đế quốc La Mã Thần thánh
+Holy Spirit	Chúa Thánh Linh
+Homeostasis	Cân bằng nội môi
+Homer	Homer
+Hominidae	Họ Người
+Homo habilis	Homo habilis
+Homosexuality	Đồng tính luyến ái
+Honduras	Honduras
+Honey	Mật ong
+Hong Kong	Hồng Kông
+Hong Kong	Thể loại:Hồng Kông
+Honiara	Honiara
+Honolulu	Honolulu, Hawaii
+Horatio Nelson	Horatio Nelson
+Horn (instrument)	Kèn thợ săn
+Horn of Africa	Sừng Châu Phi
+Horsepower	Mã lực
+Hosni Mubarak	Hosni Mubarak
+Hospital	Bệnh viện
+Hotel	Khách sạn
+Hour	Giờ
+Hourglass	Đồng hồ cát
+House	Nhà
+Houston	Houston, Texas
+Hudson Bay	Vịnh Hudson
+Hugh Capet	Hugues Capet
+Huguenot	Huguenot
+Human	Loài người
+Humanism	Chủ nghĩa nhân đạo
+Hummingbird	Chim ruồi
+Humphrey Bogart	Humphrey Bogart
+Hunan	Hồ Nam
+Hundred Years' War	Chiến tranh Trăm năm
+Hungary	Hungary
+Hungary	Thể loại:Hungary
+Hyderabad	Hyderabad, Andhra Pradesh
+Hydra (constellation)	Trường Xà
+Hydrocarbon	Hyđrocacbon
+Hydrochloric acid	Axít clohiđric
+Hydroelectricity	Thủy điện
+Hydrogen	Hiđrô
+Hydrogen bond	Liên kết hiđrô
+Hydrogen peroxide	Nước ôxy già
+Hydrology	Thủy văn học
+Hydrology	Thể loại:Thủy văn học
+Hydrosphere	Thủy quyển
+Hydroxide	Hiđrôxít
+Hydrus	Thủy Xà
+Hyena	Linh cẩu
+Hymen	Màng trinh
+Hymenoptera	Thể loại:Bộ Cánh màng
+Hymenoptera	Bộ Cánh màng
+Hyperbola	Hyperbol
+Hyperion (mythology)	Hyperion (thần thoại)
+Hypertext	Siêu văn bản
+Hypertext Transfer Protocol	Hypertext Transfer Protocol
+Hypnosis	Thôi miên
+I	I
+I. M. Pei	Ieoh Ming Pei
+IPod	IPod
+Ian Fleming	Ian Fleming
+Iberian Peninsula	Bán đảo Iberia
+Ice age	Thời kỳ băng hà
+Iceland	Iceland
+Iceland	Thể loại:Iceland
+Idaho	Idaho
+Idealism	Chủ nghĩa duy tâm
+Identity element	Phần tử đơn vị
+Igloo	Lều tuyết
+Igneous rock	Đá lửa (địa chất)
+Igor Stravinsky	Igor Stravinsky
+Iguazu Falls	Thác Iguazu
+Iliad	Iliad
+Illinois	Illinois
+Immanuel Kant	Immanuel Kant
+Immunology	Miễn dịch học
+Immunology	Thể loại:Miễn dịch học
+Impressionism	Trường phái ấn tượng
+Incest	Loạn luân
+Incheon	Incheon
+Independence	Độc lập
+India	Ấn Độ
+India	Thể loại:Ấn Độ
+Indian Ocean	Ấn Độ Dương
+Indiana	Indiana
+Indianapolis	Indianapolis, Indiana
+Indira Gandhi	Indira Gandhi
+Indium	Indi
+Indochina	Đông Dương
+Indonesia	Indonesia
+Indonesia	Thể loại:Indonesia
+Inductive reasoning	Lập luận quy nạp
+Inductor	Cuộn cảm
+Indus (constellation)	Ấn Đệ An
+Indus River	Sông Ấn
+Industrial Revolution	Cách mạng công nghiệp
+Industry	Công nghiệp
+Industry	Thể loại:Công nghiệp
+Inequality	Bất đẳng thức
+Inertia	Quán tính
+Infantry	Bộ binh (quân đội)
+Infinity	Vô tận
+Inflammation	Viêm
+Inflation	Lạm phát
+Influenza	Bệnh cúm
+Information	Thông tin
+Information technology	Công nghệ thông tin
+Infrared	Hồng ngoại
+Infrastructure	Công trình hạ tầng xã hội
+Ingmar Bergman	Ingmar Bergman
+Ingrid Bergman	Ingrid Bergman
+Inner Mongolia	Nội Mông
+Inorganic chemistry	Hóa vô cơ
+Insect	Côn trùng
+Insecticide	Thuốc trừ sâu
+Insectivora	Bộ Ăn sâu bọ
+Insulin	Insulin
+Insurance	Bảo hiểm
+Integer	Số nguyên
+Integral	Tích phân
+Integrated circuit	Vi mạch
+Intellectual property	Sở hữu trí tuệ
+Intelligence quotient	IQ
+Intercontinental ballistic missile	Tên lửa liên lục địa
+Interference	Giao thoa
+International Atomic Energy Agency	Cơ quan Năng lượng Nguyên tử Quốc tế
+International Civil Aviation Organization	Tổ chức Hàng không Dân dụng Quốc tế
+International Court of Justice	Tòa án Quốc tế vì Công lý
+International Date Line	Đường đổi ngày quốc tế
+International Labour Organization	Tổ chức Lao động Quốc tế
+International Monetary Fund	Quỹ tiền tệ quốc tế
+International System of Units	SI
+International law	Thể loại:Luật quốc tế
+Internet	Internet
+Internet	Thể loại:Internet
+Internet Explorer	Microsoft Internet Explorer
+Internment	Trại tập trung
+Interpreter (computing)	Trình thông dịch
+Intersection (set theory)	Phép giao
+Invention	Sáng chế
+Io (moon)	Io (vệ tinh)
+Iodine	Iốt
+Ion	Ion
+Ionian Sea	Biển Ionia
+Ionic bond	Liên kết ion
+Iowa	Iowa
+Iran	Iran
+Iran	Thể loại:Iran
+Iran-Iraq War	Chiến tranh Iran-Iraq
+Iraq	Iraq
+Iraq	Thể loại:Iraq
+Ireland	Đảo Ireland
+Iridium	Iridi
+Irish people	Thể loại:Người Ireland
+Iron	Sắt
+Iron Age	Thời đại đồ sắt
+Irrational number	Số vô tỉ
+Irtysh River	Irtysh
+Isaac Asimov	Isaac Asimov
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isadora Duncan	Isadora Duncan
+Islam	Hồi giáo
+Islam	Thể loại:Hồi giáo
+Islamabad	Islamabad
+Island	Đảo
+Isle of Man	Đảo Man
+Isomer	Đồng phân
+Isoroku Yamamoto	Yamamoto Isoroku
+Isotope	Đồng vị
+Israel	Israel
+Israel	Thể loại:Israel
+Istanbul	Istanbul
+Istanbul	Thể loại:Istanbul
+Italo Calvino	Italo Calvino
+Italy	Ý
+Italy	Thể loại:Ý
+Ivan Pavlov	Ivan Petrovich Pavlov
+Ivan Turgenev	Ivan Sergeyevich Turgenev
+Iwo Jima	Iwo Jima
+J	J
+Jack London	Jack London
+Jacksonville	Jacksonville, Florida
+Jacques Cartier	Jacques Cartier
+Jacques Offenbach	Jacques Offenbach
+Jaguar	Báo đốm Mỹ
+Jakarta	Jakarta
+Jamaica	Jamaica
+James A. Garfield	James A. Garfield
+James Bond	James Bond
+James Buchanan	James Buchanan
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Joyce	James Joyce
+James K. Polk	James K. Polk
+James Madison	James Madison
+James Monroe	James Monroe
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+Jammu and Kashmir	Jammu và Kashmir
+Jane Austen	Jane Austen
+January	Tháng một
+January 1	1 tháng 1
+January 19	19 tháng 1
+January 20	20 tháng 1
+January 6	6 tháng 1
+Japan	Nhật Bản
+Japan	Thể loại:Nhật Bản
+Jaundice	Hoàng đản
+Java	Java
+Java (disambiguation)	Java (định hướng)
+Java (programming language)	Java (ngôn ngữ lập trình)
+Jawaharlal Nehru	Jawaharlal Nehru
+Jazz	Nhạc Jazz
+Jean Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jeddah	Jeddah
+Jefferson Davis	Jefferson Davis
+Jehovah's Witnesses	Nhân Chứng Giê-hô-va
+Jena	Jena
+Jersey	Jersey
+Jerusalem	Jerusalem
+Jesus	Giê-su
+Jew	Người Do Thái
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Joan of Arc	Jeanne d'Arc
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Gutenberg	Johannes Gutenberg
+Johannes Kepler	Johannes Kepler
+Johannes Vilhelm Jensen	Johannes Vilhelm Jensen
+Johannesburg	Johannesburg
+John Adams	John Adams
+John Bardeen	John Bardeen
+John Calvin	John Calvin
+John Dalton	John Dalton
+John Galsworthy	John Galsworthy
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Maynard Keynes	John Maynard Keynes
+John Napier	John Napier
+John Quincy Adams	John Quincy Adams
+John Steinbeck	John Steinbeck
+John Stuart Mill	John Stuart Mill
+John Tyler	John Tyler
+John von Neumann	John von Neumann
+Jordan	Jordan
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Goebbels	Paul Joseph Göbbels
+Joseph Haydn	Joseph Haydn
+Joseph Louis Gay-Lussac	Joseph Louis Gay-Lussac
+Joseph Stalin	Iosif Vissarionovich Stalin
+Joule	Joule
+Judaism	Do Thái giáo
+Judas Iscariot	Judas Iscariot
+Judo	Judo
+Jules Verne	Jules Verne
+Julian calendar	Lịch Julius
+Julius Caesar	Julius Caesar
+July	Tháng bảy
+July 1	1 tháng 7
+July 4	4 tháng 7
+June	Tháng sáu
+June 14	14 tháng 6
+June 21	21 tháng 6
+June 23	23 tháng 6
+June 24	24 tháng 6
+June 29	29 tháng 6
+June 3	3 tháng 6
+Jupiter	Sao Mộc
+Jurassic	Kỷ Jura
+Justinian I	Justinian I
+Jutland	Jutland
+K	K
+KGB	KGB
+Kabul	Kabul
+Kalahari Desert	Kalahari
+Kamchatka Peninsula	Bán đảo Kamchatka
+Kamikaze	Thần phong
+Kampala	Kampala
+Kandahar	Kandahar
+Kangaroo	Kangaroo
+Kansas	Kansas
+Kappa	Kappa
+Karachi	Karachi
+Karaoke	Karaoke
+Karate	Karate
+Karl Marx	Karl Marx
+Karl Popper	Karl Popper
+Karma	Nghiệp
+Karnataka	Karnataka
+Katharine Hepburn	Katharine Hepburn
+Kathmandu	Kathmandu
+Katowice	Katowice
+Kaunas	Kaunas
+Kayak	Kayak
+Kazakhstan	Kazakhstan
+Kazakhstan	Thể loại:Kazakhstan
+Kelvin	Kelvin
+Kentucky	Kentucky
+Kenya	Kenya
+Kenya	Thể loại:Kenya
+Kerosene	Dầu hỏa
+Ketchup	Ketchup
+Keyboard (computing)	Bàn phím máy tính
+Khan	Hãn
+Kharkiv	Kharkiv
+Khartoum	Khartoum
+Khmer Rouge	Khmer Đỏ
+Khufu	Khufu
+Kiev	Kiev
+Kigali	Kigali
+Kilogram	Kilôgam
+Kilometre	Kilômét
+Kimono	Kimono
+Kinetic energy	Động năng
+Kingdom (biology)	Giới (sinh học)
+Kingston	Kingston, Jamaica
+Kingstown	Kingstown
+Kinshasa	Kinshasa
+Kiribati	Kiribati
+Kiss	Hôn
+Knife	Dao
+Knight	Hiệp sĩ
+Knowledge	Tri thức
+Knut Hamsun	Knut Hamsun
+Koala	Koala
+Kobe	Kobe
+Kolkata	Kolkata
+Komodo dragon	Komodo
+Korea	Triều Tiên
+Korea	Thể loại:Triều Tiên
+Korean War	Chiến tranh Triều Tiên
+Kosovo	Kosovo
+Kremlin	Kremli
+Krypton	Krypton
+Ku Klux Klan	Ku Klux Klan
+Kuala Lumpur	Kuala Lumpur
+Kublai Khan	Hốt Tất Liệt
+Kuiper belt	Vành đai Kuiper
+Kung fu (term)	Kung fu
+Kunlun Mountains	Côn Lôn (núi)
+Kuomintang	Trung Hoa Quốc dân Đảng
+Kurdistan	Kurdistan
+Kursk	Kursk
+Kurt Waldheim	Kurt Waldheim
+Kuwait	Kuwait
+Kuwait City	Thành phố Kuwait
+Kyoto	Kyōto
+Kyrgyzstan	Kyrgyzstan
+Kyrgyzstan	Thể loại:Kyrgyzstan
+L	L
+LAMP (software bundle)	LAMP
+La Paz	La Paz
+Labour Party (UK)	Đảng Lao Động Anh
+Lacerta	Hiết Hổ
+Lagos	Lagos
+Lahore	Lahore
+Lake	Hồ
+Lake Baikal	Hồ Baikal
+Lake Chad	Hồ Tchad
+Lake Erie	Hồ Erie
+Lake Eyre	Hồ Eyre
+Lake Huron	Hồ Huron
+Lake Michigan	Hồ Michigan
+Lake Ontario	Hồ Ontario
+Lake Superior	Hồ Superior
+Lake Victoria	Hồ Victoria
+Language	Ngôn ngữ
+Languedoc-Roussillon	Languedoc-Roussillon
+Lanthanide	Nhóm Lantan
+Lanthanum	Lantan
+Laos	Lào
+Laos	Thể loại:Lào
+Laptev Sea	Biển Laptev
+Laptop	Máy tính xách tay
+Larva	Ấu trùng
+Las Vegas	Las Vegas, Nevada
+Laser	Laser
+Latin	Latinh
+Latin America	Mỹ Latinh
+Latvia	Latvia
+Latvia	Thể loại:Latvia
+Laurasia	Laurasia
+Lausanne	Lausanne
+Law	Luật pháp
+Law	Thể loại:Luật pháp
+Law enforcement	Thể loại:Cảnh sát
+Le Corbusier	Le Corbusier
+Le Havre	Le Havre
+Lead	Chì
+Leaf	Lá
+League of Nations	Hội Quốc Liên
+Leaning Tower of Pisa	Tháp nghiêng Pisa
+Leap year	Năm nhuận
+Learning	Học
+Lebanon	Liban
+Lebanon	Thể loại:Liban
+Leeds	Leeds
+Left-handed	Thuận tay trái
+Legend	Truyền thuyết
+Legislature	Lập pháp
+Lego	Lego
+Leicester	Leicester
+Leipzig	Leipzig
+Lena River	Sông Lena
+Length	Chiều dài
+Lens (optics)	Thấu kính
+Leo (constellation)	Sư Tử (chòm sao)
+Leon Trotsky	Lev Davidovich Trotsky
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Leonid Brezhnev	Leonid Ilyich Brezhnev
+Leopard	Báo hoa mai
+Leprosy	Bệnh phong cùi
+Lepton	Lepton
+Lepus (constellation)	Thiên Thố
+Lesotho	Lesotho
+Leukemia	Ung thư bạch cầu
+Lhasa	Lhasa
+Liberalism	Chủ nghĩa tự do
+Liberalism	Thể loại:Chủ nghĩa tự do
+Liberation Tigers of Tamil Eelam	Những con Hổ giải phóng Tamil
+Liberia	Liberia
+Libra (constellation)	Thiên Xứng (chòm sao)
+Library	Thư viện
+Library science	Khoa học thư viện
+Libreville	Libreville
+Libya	Libya
+Libya	Thể loại:Libya
+Lichen	Địa y
+Liechtenstein	Liechtenstein
+Life	Sự sống
+Life	Thể loại:Sự sống
+Light	Ánh sáng
+Light-emitting diode	Luxeon
+Light-year	Năm ánh sáng
+Lighter	Bật lửa
+Liliaceae	Họ Loa kèn
+Lilith	Lilith
+Lille	Lille
+Lilongwe	Lilongwe
+Lima	Lima
+Limestone	Đá vôi
+Limousin (region)	Limousin
+Line (mathematics)	Đường thẳng
+Linear algebra	Đại số tuyến tính
+Linear algebra	Thể loại:Đại số tuyến tính
+Linear equation	Phương trình tuyến tính
+Linguistics	Ngôn ngữ học
+Linguistics	Thể loại:Ngôn ngữ học
+Linux	Linux
+Linux	Thể loại:Linux
+Lion	Sư tử
+Lipid	Lipit
+Liquid crystal display	Màn hình tinh thể lỏng
+Lisbon	Lisboa
+Literature	Văn chương
+Literature	Thể loại:Văn học
+Literature	Chủ đề:Văn học
+Lithium	Liti
+Lithography	In thạch bản
+Lithosphere	Thạch quyển
+Lithuania	Litva
+Lithuania	Thể loại:Litva
+Litre	Lít
+Liverpool	Liverpool
+Livy	Titus Livius
+Ljubljana	Ljubljana
+Local area network	LAN
+Loch Ness	Loch Ness
+Loch Ness Monster	Quái vật hồ Loch Ness
+Locomotive	Đầu máy xe lửa
+Logic	Logic
+Logic	Thể loại:Lôgic
+Logo	Logo
+Loire	Loire
+Loki	Loki (thần thoại)
+Lolita	Lolita
+London	Luân Đôn
+London	Thể loại:London
+Long Beach	Long Beach, California
+Lord's Prayer	Kinh Lạy Cha
+Lorraine (region)	Lorraine
+Los Angeles	Los Angeles, California
+Loudspeaker	Loa
+Louis Aragon	Louis Aragon
+Louis Pasteur	Louis Pasteur
+Louisiana	Louisiana
+Louvre	Bảo tàng Louvre
+Love	Tình yêu
+Lower Saxony	Niedersachsen
+Luanda	Luanda
+Luciano Pavarotti	Luciano Pavarotti
+Ludwig Boltzmann	Ludwig Boltzmann
+Ludwig Mies van der Rohe	Ludwig Mies van der Rohe
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Luigi Pirandello	Luigi Pirandello
+Lunar eclipse	Nguyệt thực
+Lung	Phổi
+Lung cancer	Ung thư phổi
+Lungfish	Cá phổi
+Lupus (constellation)	Thiên Lang
+Lusaka	Lusaka
+Lutheranism	Giáo hội Luther
+Lux	Lux
+Luxembourg	Luxembourg
+Luxembourg (city)	Luxembourg (thành phố)
+Luxor	Luxor
+Luzon	Luzon
+Lychee	Vải (cây)
+Lyon	Lyon
+Lyra	Thiên Cầm (chòm sao)
+Lysosome	Lysosome
+M	M
+M-theory	Thuyết M
+MESSENGER	MESSENGER
+MIME	MIME
+MS-DOS	MS-DOS
+Macau	Ma Cao
+Macedon	Vương quốc Macedonia
+Macedonia	Macedonia (định hướng)
+Mach number	Số Mach
+Machine code	Ngôn ngữ máy
+Machine gun	Súng máy
+Machu Picchu	Machu Picchu
+Macroeconomics	Kinh tế học vĩ mô
+Macroeconomics	Thể loại:Kinh tế học vĩ mô
+Madagascar	Madagascar
+Madeira	Madeira
+Madison	Madison, Wisconsin
+Madonna (entertainer)	Madonna (ca sĩ)
+Madrid	Madrid
+Mafia	Mafia
+Maghreb	Maghreb
+Magma	Macma
+Magnesium	Magiê
+Magnet	Nam châm
+Magnetic field	Từ trường
+Magnetic resonance imaging	Chụp cộng hưởng từ
+Magnetism	Từ học
+Magnetism	Thể loại:Từ học
+Magnifying glass	Kính lúp
+Magnoliopsida	Thể loại:Thực vật hai lá mầm
+Maharashtra	Maharashtra
+Mahatma Gandhi	Mahatma Gandhi
+Mahayana	Đại thừa
+Main	Tiêu bản:Chính
+Maine	Maine
+Mainframe computer	Máy tính lớn
+Maitreya	Di-lặc
+Maize	Ngô
+Major	Thiếu tá
+Major scale	Âm giai Trưởng tự nhiên
+Malabo	Malabo
+Malachite	Malachit
+Malaria	Sốt rét
+Malay Peninsula	Bán đảo Mã Lai
+Malayan Tapir	Lợn vòi
+Malaysia	Malaysia
+Malaysia	Thể loại:Malaysia
+Malcolm X	Malcolm X
+Maldives	Maldives
+Mali	Mali
+Mallard	Vịt cổ xanh
+Malta	Malta
+Malvaceae	Họ Cẩm quỳ
+Mammal	Lớp Thú
+Mammoth	Voi ma mút
+Managua	Managua
+Manama	Manama
+Manatee	Lợn biển
+Manchester	Manchester
+Manchuria	Mãn Châu
+Mandala	Mạn-đà-la
+Mandarin (linguistics)	Quan thoại
+Manganese	Mangan
+Mango	Xoài
+Manhattan Project	Dự án Manhattan
+Manichaeism	Minh giáo
+Manila	Manila
+Manipur	Manipur
+Manitoba	Manitoba
+Mannheim	Mannheim
+Mantra	Chân ngôn
+Manuscript	Bản thảo
+Mao Zedong	Mao Trạch Đông
+Map	Bản đồ
+Maple	Chi Phong
+Maputo	Maputo
+Marcel Proust	Marcel Proust
+March	Tháng ba
+March 17	17 tháng 3
+March 19	19 tháng 3
+March 2	2 tháng 3
+March 25	25 tháng 3
+Marco Polo	Marco Polo
+Marcus Junius Brutus	Marcus Junius Brutus
+Margaret Mitchell	Margaret Mitchell
+Margaret Thatcher	Margaret Thatcher
+Maria Callas	Maria Callas
+Marie Antoinette	Marie Antoinette
+Marie Curie	Marie Curie
+Marilyn Monroe	Marilyn Monroe
+Mark Twain	Mark Twain
+Market	Chợ
+Marketing	Tiếp thị
+Marketing	Thể loại:Tiếp thị
+Markup language	Ngôn ngữ đánh dấu
+Marlene Dietrich	Marlene Dietrich
+Marrakech	Marrakech
+Marriage	Hôn nhân
+Mars	Thể loại:Sao Hỏa
+Marseille	Marseille
+Marshall Islands	Quần đảo Marshall
+Marshall Plan	Kế hoạch Marshall
+Martin Heidegger	Martin Heidegger
+Martin Luther	Martin Luther
+Martin Luther King	Martin Luther King
+Martin Scorsese	Martin Scorsese
+Martin Van Buren	Martin Van Buren
+Martinique	Martinique
+Marx Brothers	Anh em nhà Marx
+Marxism	Chủ nghĩa Marx
+Mary (mother of Jesus)	Maria (mẹ Giê-su)
+Mary Magdalene	Mary Magdalene
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Maryland	Maryland
+Maryland	Thể loại:Maryland
+Maseru	Maseru
+Mashhad	Mashhad
+Mass	Khối lượng
+Mass number	Số khối
+Massachusetts	Massachusetts
+Massachusetts	Thể loại:Massachusetts
+Massachusetts Institute of Technology	MIT
+Masturbation	Thủ dâm
+Materialism	Chủ nghĩa duy vật
+Mathematical logic	Thể loại:Lôgic toán
+Mathematics	Toán học
+Mathematics	Thể loại:Toán học
+Matrix (mathematics)	Ma trận (toán học)
+Matter	Vật chất
+Maundy Thursday	Thứ năm Tuần Thánh
+Mauritania	Mauritanie
+Mauritius	Mauritius
+Mauritius	Thể loại:Mauritius
+Max Born	Max Born
+Max Planck	Max Planck
+Max Weber	Max Weber
+Maxwell's equations	Phương trình Maxwell
+May	Tháng năm
+May 1	1 tháng 5
+May 24	24 tháng 5
+Mayenne	Mayenne
+Mayonnaise	Mayonnaise
+Measles	Sởi
+Measure (mathematics)	Độ đo
+Measurement	Thể loại:Khoa đo lường
+Measurement	Đo lường
+Mecca	Mecca
+Mechanical engineering	Kĩ thuật cơ khí
+Mechanical engineering	Thể loại:Kĩ thuật cơ khí
+Mechanics	Thể loại:Cơ học
+Median	Số trung vị
+Medicine	Y học
+Medicine	Thể loại:Y học
+Mediterranean	Thể loại:Địa Trung Hải
+Mediterranean Sea	Địa Trung Hải
+Medusa	Medusa
+Megabyte	Megabyte
+Mekong	Mê Kông
+Melanesia	Melanesia
+Memphis	Memphis (Ai Cập)
+Meningitis	Viêm màng não
+Menstrual cycle	Chu kỳ kinh nguyệt
+Mercantilism	Chủ nghĩa trọng thương
+Mercury	Thủy Tinh
+Mercury (element)	Thủy ngân
+Mercury (planet)	Sao Thủy
+Meridian (geography)	Kinh tuyến
+Meryl Streep	Meryl Streep
+Meson	Meson
+Mesopotamia	Lưỡng Hà
+Mesozoic	Đại Trung sinh
+Messenger RNA	RNA thông tin
+Metabolism	Trao đổi chất
+Metadata	Metadata
+Metal	Kim loại
+Metallic bond	Liên kết kim loại
+Metalloid	Á kim
+Metallurgy	Luyện kim
+Metallurgy	Thể loại:Luyện kim
+Metamorphic rock	Đá biến chất
+Metaphysics	Siêu hình học
+Metaphysics	Thể loại:Siêu hình học
+Meteor shower	Mưa sao băng
+Meteorite	Vẫn thạch
+Meteorology	Thể loại:Khí tượng học
+Meteorology	Khí tượng học
+Methodism	Phong trào Giám Lý
+Methylenedioxymethamphetamine	Thuốc lắc
+Metonymy	Hoán dụ
+Metre	Mét
+Metric space	Không gian mêtric
+Meuse	Meuse
+Meuse River	Sông Maas
+Mexico	Mexico
+Mexico	Thể loại:Mexico
+Mexico City	Thành phố Mexico
+Miami	Miami, Florida
+Michael Faraday	Michael Faraday
+Michel Ney	Michel Ney
+Michelangelo	Michelangelo
+Michigan	Michigan
+Mickey Mouse	Chuột Mickey
+Microbiology	Vi sinh vật học
+Microbiology	Thể loại:Vi sinh học
+Microeconomics	Kinh tế học vi mô
+Microeconomics	Thể loại:Kinh tế học vi mô
+Microorganism	Vi sinh vật
+Microprocessor	Vi xử lý
+Microscope	Kính hiển vi
+Microscopium	Hiển Vi Kính (chòm sao)
+Microwave	Vi ba
+Microwave oven	Lò vi sóng
+Middle Ages	Thời kỳ Trung Cổ
+Middle Ages	Thể loại:Thời Trung cổ
+Middle East	Trung Đông
+Middle East	Thể loại:Trung Đông
+Miguel de Cervantes	Miguel de Cervantes
+Mikhail Gorbachev	Mikhail Sergeyevich Gorbachyov
+Milan	Milano
+Mile	Dặm Anh
+Miles Davis	Miles Davis
+Military	Thể loại:Quân sự
+Military rank	Quân hàm
+Milk	Sữa
+Milky Way	Ngân Hà
+Millard Fillmore	Millard Fillmore
+Millimetre	Milimét
+Million	Triệu
+Milton Friedman	Milton Friedman
+Milwaukee	Milwaukee, Wisconsin
+Mindanao	Mindanao
+Mineral	Khoáng vật
+Mineralogy	Thể loại:Khoáng vật học
+Ming Dynasty	Nhà Minh
+Minimalism	Phong cách tối giản
+Mining	Khai mỏ
+Minister (government)	Bộ trưởng
+Minneapolis	Minneapolis, Minnesota
+Minnesota	Minnesota
+Minnesota	Thể loại:Minnesota
+Minor scale	Âm giai Thứ tự nhiên
+Minotaur	Minotaur
+Minsk	Minsk
+Minute	Phút
+Miocene	Thế Miocen
+Mississippi River	Sông Mississippi
+Missouri	Missouri
+Missouri	Thể loại:Missouri
+Missouri River	Sông Missouri
+Mitochondrion	Ti thể
+Mobile phone	Điện thoại di động
+Modem	Modem
+Modulation	Điều chế tín hiệu
+Mogadishu	Mogadishu
+Moldova	Moldova
+Mole (unit)	Mol
+Molecular biology	Sinh học phân tử
+Molecular biology	Thể loại:Sinh học phân tử
+Molecule	Phân tử
+Mollusca	Động vật thân mềm
+Molybdenum	Mô lip đen
+Momentum	Động lượng
+Monaco	Monaco
+Monaco	Thể loại:Monaco
+Monday	Thứ Hai
+Money	Tiền
+Mongolia	Mông Cổ
+Mongolia	Thể loại:Mông Cổ
+Monism	Thuyết nhất nguyên
+Monocotyledon	Thực vật một lá mầm
+Monopoly	Độc quyền (kinh tế)
+Monosodium glutamate	Glutamat natri
+Monotheism	Độc thần giáo
+Monrovia	Monrovia
+Mons	Mons
+Monsoon	Gió mùa
+Mont Blanc	Mont Blanc
+Montana	Montana
+Montenegro	Montenegro
+Montevideo	Montevideo
+Montreal	Montréal
+Montserrat	Montserrat
+Moon	Mặt Trăng
+Moravia	Moravia
+Morocco	Maroc
+Morocco	Thể loại:Maroc
+Morphine	Morphine
+Morphology	Hình thái học
+Morse code	Tín hiệu Morse
+Mortar (weapon)	Súng cối
+Moscow	Moskva
+Moscow	Thể loại:Moskva
+Moselle	Moselle
+Moses	Moses
+Mosquito	Muỗi
+Mossad	Mossad
+Motet	Bản Motet
+Mother Teresa	Mẹ Teresa
+Motion (physics)	Chuyển động
+Motorcycle	Mô tô
+Mount Athos	Núi Athos
+Mount Everest	Everest
+Mount Fuji	Núi Phú Sĩ
+Mount Kilimanjaro	Núi Kilimanjaro
+Mount McKinley	Núi McKinley
+Mount Rushmore	Núi Rushmore
+Mount St. Helens	Núi St. Helens
+Mountain	Núi
+Mountain pass	Đèo
+Mouse	Chuột
+Mozambique	Mozambique
+Muhammad	Muhammad
+Muhammad Ali	Muhammad Ali
+Mule	La (động vật)
+Mumbai	Mumbai
+Mummy	Xác ướp
+Munich	München
+Murmansk	Murmansk
+Musca	Thương Dăng
+Muscat	Muscat, Oman
+Muscle	Mô cơ
+Muse	Muse (thần thoại)
+Museum	Bảo tàng
+Music	Âm nhạc
+Music	Thể loại:Âm nhạc
+Musical Instrument Digital Interface	MIDI
+Musket	Súng hỏa mai
+Mustelidae	Họ Chồn
+Mutation	Đột biến sinh học
+Myanmar	Thể loại:Myanma
+Myocardial infarction	Nhồi máu cơ tim
+Myopia	Cận thị
+Mythology	Thể loại:Thần thoại
+N	N
+N'Djamena	N'Djamena
+NATO	NATO
+NATO	Thể loại:NATO
+Nadine Gordimer	Nadine Gordimer
+Nadir	Thiên để
+Nagasaki	Nagasaki (thành phố)
+Nagoya	Nagoya
+Nairobi	Nairobi
+Namib Desert	Sa mạc Namib
+Namibia	Namibia
+Namibia	Thể loại:Namibia
+Nancy	Nancy
+Nanjing	Nam Kinh
+Nanotechnology	Công nghệ nano
+Nantes	Nantes
+Napalm	Bom napan
+Naples	Napoli
+Napoleonic Wars	Các cuộc chiến tranh của Napoléon
+Nashville	Nashville, Tennessee
+Nathaniel Hawthorne	Nathaniel Hawthorne
+National Security Agency	Cơ quan An ninh Quốc gia Hoa Kỳ
+National anthem	Quốc ca
+National park	Vườn quốc gia
+Nationalism	Chủ nghĩa dân tộc
+Nationalism	Thể loại:Chủ nghĩa dân tộc
+Natural gas	Khí thiên nhiên
+Natural number	Số tự nhiên
+Natural science	Khoa học tự nhiên
+Nature	Tự nhiên
+Nature	Thể loại:Tự nhiên
+Nauru	Nauru
+Nautical mile	Hải lý
+Navigation	Thể loại:Định hướng
+Nazi Germany	Đức Quốc xã
+Nazi Germany	Thể loại:Đức Quốc Xã
+Nazi Party	Đảng Công nhân Đức Quốc gia Xã hội chủ nghĩa
+Nebraska	Nebraska
+Nebuchadrezzar II	Nebuchadrezzar II
+Necktie	Cà vạt
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Neon	Neon
+Nepal	Nepal
+Neptune	Sao Hải Vương
+Neptunium	Neptuni
+Nero	Nero
+Nerva	Nerva
+Nervous system	Thể loại:Hệ thần kinh
+Netherlands	Hà Lan
+Netherlands	Thể loại:Hà Lan
+Netherlands Antilles	Antille thuộc Hà Lan
+Network topology	Tô pô mạng
+Neurology	Thể loại:Thần kinh học
+Neutrino	Neutrino
+Neutron	Neutron
+Neutron star	Sao neutron
+Neva River	Sông Neva
+Nevada	Nevada
+New Brunswick	New Brunswick
+New Caledonia	Nouvelle-Calédonie
+New Delhi	New Delhi
+New England	New England
+New Guinea	New Guinea
+New Hampshire	New Hampshire
+New Jersey	New Jersey
+New Mexico	New Mexico
+New Orleans	New Orleans, Louisiana
+New South Wales	New South Wales
+New Testament	Tân Ước
+New World	Tân Thế giới
+New York	Tiểu bang New York
+New York (disambiguation)	New York (định hướng)
+New York City	Thành phố New York
+New York City	Thể loại:Thành phố New York
+New York Stock Exchange	Sở giao dịch chứng khoán New York
+New Zealand	New Zealand
+New Zealand	Thể loại:New Zealand
+Newfoundland (island)	Newfoundland (đảo)
+Newfoundland and Labrador	Newfoundland và Labrador
+Newport	Newport
+Newton	Newton
+Niagara Falls	Thác Niagara
+Niamey	Niamey
+Nicaragua	Nicaragua
+Nice	Nice
+Nicholas	Petrović Njegoš
+Nickel	Niken
+Nicolas Poussin	Nicolas Poussin
+Nicolaus Copernicus	Nicolaus Copernicus
+Nicotine	Nicotin
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niger	Niger
+Niger River	Sông Niger
+Nigeria	Nigeria
+Nikita Khrushchev	Nikita Sergeyevich Khrushchyov
+Nikola Tesla	Nikola Tesla
+Nile	Sông Nin
+Nile crocodile	Cá sấu sông Nin
+Ninja	Ninja
+Niobium	Niobi
+Nirvana	Niết-bàn
+Nitric acid	Axit nitric
+Nitrogen	Nitơ
+Nitroglycerin	Nitroglycerin
+Noam Chomsky	Noam Chomsky
+Nobel Prize	Giải thưởng Nobel
+Nobel Prize	Thể loại:Giải Nobel
+Nobility	Phong tước
+Nobility	Thể loại:Quý tộc
+Noble gas	Khí hiếm
+Nonmetal	Phi kim
+Norfolk Island	Đảo Norfolk
+Norma (constellation)	Củ Xích
+Normal distribution	Phân bố chuẩn
+Norn	Norn
+Norse mythology	Thần thoại Bắc Âu
+Norse mythology	Thể loại:Thần thoại Bắc Âu
+North	Hướng Bắc
+North Africa	Bắc Phi
+North America	Bắc Mỹ
+North America	Thể loại:Bắc Mỹ
+North Carolina	Bắc Carolina
+North Dakota	Bắc Dakota
+North Korea	Cộng hòa Dân chủ Nhân dân Triều Tiên
+North Korea	Thể loại:Bắc Triều Tiên
+North Pole	Bắc Cực
+North Sea	Bắc Hải (châu Âu)
+North Star	Sao Bắc cực
+Northern Europe	Bắc Âu
+Northern Hemisphere	Bắc bán cầu
+Northern Ireland	Bắc Ireland
+Northern Mariana Islands	Quần đảo Bắc Mariana
+Northern Territory	Lãnh thổ Bắc Úc
+Northwest Territories	Northwest Territories
+Norway	Na Uy
+Norwegian Sea	Biển Na Uy
+Nostradamus	Nostradamus
+Nouakchott	Nouakchott
+Noun	Danh từ
+Nova Scotia	Nova Scotia
+Novel	Tiểu thuyết
+November	Tháng mười một
+November 1	1 tháng 11
+November 11	11 tháng 11
+November 2	2 tháng 11
+November 5	5 tháng 11
+Nuclear fission	Phản ứng phân hạch hạt nhân
+Nuclear fusion	Phản ứng tổng hợp hạt nhân
+Nuclear physics	Vật lý hạt nhân
+Nuclear weapon	Vũ khí hạt nhân
+Nucleic acid	Axít nucleic
+Nucleotide	Nucleotide
+Number	Số (toán học)
+Nunavut	Nunavut
+Nuremberg	Nürnberg
+Nutrition	Thể loại:Dinh dưỡng
+Nymphaeaceae	Họ Súng
+O	O
+OPEC	Tổ chức các nước xuất khẩu dầu lửa
+Oakland	Oakland, California
+Oasis	Ốc đảo
+Ob River	Sông Obi
+Obesity	Béo phì
+Object-oriented programming	Lập trình hướng đối tượng
+Oboe	Ô-boa
+Ocean	Đại dương
+Ocean current	Hải lưu
+Oceania	Châu Đại Dương
+Oceania	Thể loại:Châu Đại Dương
+Octal	Hệ bát phân
+Octans	Nam Cực (chòm sao)
+October	Tháng mười
+October 12	12 tháng 10
+October 24	24 tháng 10
+Octopus	Bạch tuộc
+Ode	Ode
+Oder River	Oder
+Odessa	Odessa
+Odin	Odin
+Odyssey	Odyssey
+Oedipus	Oedipus (thần thoại)
+Offside (football)	Việt vị
+Ohio	Ohio
+Ohio	Thể loại:Ohio
+Ohm	Ohm
+Ohm's law	Định luật Ohm
+Oil painting	Sơn dầu
+Oklahoma	Oklahoma
+Oktoberfest	Lễ hội tháng Mười
+Old Testament	Cựu Ước
+Oligarchy	Oligarchy
+Oligocene	Thế Oligocen
+Oliver Stone	Oliver Stone
+Olympia	Olympia, Hy Lạp
+Olympic Games	Thế vận hội
+Oman	Oman
+Oncology	Thể loại:Ung thư học
+Onion	Hành tây
+Ontario	Ontario
+Ontology	Bản thể luận
+Oort cloud	Đám mây Oort
+Opal	Đá opal
+Opera	Opera
+Opera (Internet suite)	Opera (trình duyệt)
+Operating system	Hệ điều hành
+Ophiuchus	Xà Phu
+Optical illusion	Ảo ảnh (quang học)
+Optics	Quang học
+Optics	Thể loại:Quang học
+Optimization (mathematics)	Tối ưu hóa (toán học)
+Oral sex	Giao hợp bằng miệng
+Orange (colour)	Da cam
+Orange (fruit)	Cam
+Orbit	Quỹ đạo
+Orca	Cá hổ kình
+Orchestra	Dàn nhạc giao hưởng
+Orchidaceae	Họ Phong lan
+Order (biology)	Bộ (sinh học)
+Ordovician	Kỷ Ordovic
+Oregon	Oregon
+Oregon	Thể loại:Oregon
+Organelle	Bào quan
+Organic chemistry	Hóa hữu cơ
+Organic chemistry	Thể loại:Hóa hữu cơ
+Organic compound	Hợp chất hữu cơ
+Organism	Sinh vật
+Orgasm	Cực khoái
+Origami	Origami
+Orion (constellation)	Lạp Hộ
+Orissa	Orissa
+Orpheus	Orpheus
+Orson Welles	Orson Welles
+Osaka	Ōsaka
+Osama bin Laden	Osama bin Laden
+Oscar Wilde	Oscar Wilde
+Oscillation	Dao động
+Oslo	Oslo
+Osteichthyes	Siêu lớp Cá xương
+Ostrich	Đà điểu
+Ottawa	Ottawa
+Otto I	Otto I, Hoàng đế La Mã thần thánh
+Otto von Bismarck	Otto von Bismarck
+Ottoman Empire	Đế quốc Ottoman
+Ottoman Empire	Thể loại:Đế quốc Ottoman
+Ounce	Ounce
+Oviedo	Oviedo
+Oxford	Oxford
+Oxide	Ôxít
+Oxygen	Ôxy
+Ozone	Ôzôn
+Ozone layer	Lớp ôzôn
+P	P
+PH	PH
+Pablo Neruda	Pablo Neruda
+Pablo Picasso	Pablo Picasso
+Pacific Ocean	Thái Bình Dương
+Pacific Ocean	Thể loại:Thái Bình Dương
+Padua	Padova
+Painting	Thể loại:Hội họa
+Pakistan	Pakistan
+Pakistan	Thể loại:Pakistan
+Palace of Versailles	Lâu đài Versailles
+Palau	Palau
+Paleocene	Thế Paleocen
+Paleolithic	Thời đại đồ đá cũ
+Paleontology	Cổ sinh vật học
+Paleozoic	Đại Cổ sinh
+Palestine	Palestine
+Palestine	Thể loại:Palestine
+Palestine Liberation Organization	Tổ chức Giải phóng Palestine
+Pali	Tiếng Pali
+Palladium	Paladi
+Palm Sunday	Chúa nhật Lễ Lá
+Panama	Panama
+Panama	Thể loại:Panama
+Panama Canal	Kênh đào Panama
+Panama City	Thành phố Panama
+Pancreas	Tụy
+Pandemic	Đại dịch
+Pangaea	Pangaea
+Panthera	Chi Báo
+Papua New Guinea	Papua New Guinea
+Parabola	Parabol
+Paradigm	Mẫu hình
+Paragliding	Dù lượn
+Paraguay	Paraguay
+Parallax	Thị sai
+Parallelogram	Hình bình hành
+Paris	Paris
+Paris	Thể loại:Paris
+Paris (mythology)	Paris (thần thoại)
+Parsec	Parsec
+Parsley	Mùi tây
+Parthenon	Đền Parthenon
+Particle physics	Vật lý hạt
+Particle physics	Thể loại:Vật lý hạt
+Pascal	Pascal (định hướng)
+Pascal (programming language)	Pascal (ngôn ngữ lập trình)
+Pascal (unit)	Pascal
+Passerine	Bộ Sẻ
+Passover	Lễ Vượt Qua
+Passport	Hộ chiếu
+Password	Mật khẩu truy nhập
+Pathology	Bệnh học thực vật
+Patras	Patras
+Patrick White	Patrick White
+Patriotism	Chủ nghĩa yêu nước
+Paul Johann Ludwig von Heyse	Paul Johann Ludwig von Heyse
+Paul Klee	Paul Klee
+Paul McCartney	Paul McCartney
+Paul Verlaine	Paul Verlaine
+Paul the Apostle	Sứ đồ Phao-lô
+Paul von Hindenburg	Paul von Hindenburg
+Pauli exclusion principle	Nguyên lý loại trừ
+Pavo (constellation)	Khổng Tước
+Pays de la Loire	Pays de la Loire
+Peace	Hòa bình
+Peach	Đào (cây)
+Peafowl	Công (chim)
+Peanut	Lạc
+Pearl	Ngọc trai
+Pearl Harbor	Trân Châu Cảng
+Pedagogy	Phương pháp giáo dục
+Pedagogy	Thể loại:Phương pháp giáo dục
+Pediatrics	Nhi khoa
+Pedophilia	Ái nhi
+Pegasus (constellation)	Phi Mã
+Pencil	Bút chì
+Penguin	Chim cánh cụt
+Peninsula	Bán đảo
+Pennsylvania	Pennsylvania
+Pennsylvania	Thể loại:Pennsylvania
+Pentecost	Lễ Thất Tuần
+Pentecostalism	Phong trào Ngũ Tuần
+People	Thể loại:Nhân vật
+People's Republic of China	Cộng hòa Nhân dân Trung Hoa
+Perception	Tri giác
+Percy Bysshe Shelley	Percy Bysshe Shelley
+Perestroika	Perestroika
+Perfume	Nước hoa
+Period (periodic table)	Chu kỳ tuần hoàn
+Periodic table	Bảng tuần hoàn
+Perm	Pecmi
+Permian	Kỷ Permi
+Permutation	Hoán vị
+Perpetual motion	Động cơ vĩnh cửu
+Perseus (constellation)	Anh Tiên
+Persian Empire	Đế quốc Ba Tư
+Persian Gulf	Vịnh Ba Tư
+Personal digital assistant	Thiết bị kỹ thuật số hỗ trợ cá nhân
+Perth	Perth, Tây Úc
+Peru	Peru
+Peru	Thể loại:Peru
+Pesticide	Thuốc trừ dịch hại
+Peter Paul Rubens	Peter Paul Rubens
+Petrarch	Francesco Petrarca
+Petroleum	Dầu mỏ
+Phanerozoic	Liên đại Hiển sinh
+Pharaoh	Pharaoh
+Pharmacology	Dược lý học
+Pharmacology	Thể loại:Dược lý học
+Phenol	Phenol
+Philadelphia	Philadelphia, Pennsylvania
+Philately	Tem học
+Philately	Thể loại:Tem học
+Philip II of Macedon	Philip II của Macedonia
+Philipp Lenard	Philipp Lenard
+Philippines	Philippines
+Philippines	Thể loại:Philippines
+Philology	Văn hiến học
+Philosopher's stone	Hòn đá triết lí
+Philosophy	Triết học
+Philosophy	Thể loại:Triết học
+Philosophy	Chủ đề:Triết học
+Phnom Penh	Phnôm Pênh
+Phobos (moon)	Phobos (vệ tinh)
+Phoenix	Phoenix, Arizona
+Phoenix (constellation)	Phượng Hoàng (chòm sao)
+Phoenix (spacecraft)	Phoenix (tàu vũ trụ)
+Phosphoric acid	Axít phốtphoric
+Phosphorus	Phốtpho
+Photography	Nhiếp ảnh
+Photography	Thể loại:Nhiếp ảnh
+Photon	Photon
+Photosynthesis	Quang hợp
+Physical chemistry	Hóa lý
+Physical chemistry	Thể loại:Hóa lý
+Physician	Thầy thuốc
+Physics	Vật lý học
+Physics	Thể loại:Vật lý học
+Physics	Chủ đề:Vật lý
+Physiology	Sinh lý học
+Physiology	Thể loại:Sinh lý học
+Pi	Pi
+Piano	Dương cầm
+Picardie	Picardie
+Pictor	Hội Giá
+Pidgin (software)	Pidgin
+Pierre Curie	Pierre Curie
+Pierre de Fermat	Pierre de Fermat
+Pieter Zeeman	Pieter Zeeman
+Pinaceae	Họ Thông
+Ping	Ping
+Pink	Hồng (màu)
+Piracy	Cướp biển
+Pizza	Pizza
+Plane (mathematics)	Mặt phẳng
+Planet	Hành tinh
+Plankton	Sinh vật phù du
+Plant	Thực vật
+Plasma (physics)	Plasma
+Plasmid	Plasmid
+Plastic	Chất dẻo
+Plastid	Lạp thể
+Plate tectonics	Mảng kiến tạo
+Platinum	Bạch kim
+Plato	Platon
+Platypus	Thú mỏ vịt
+Playboy	Playboy
+Pleiades (star cluster)	Tua Rua
+Pleistocene	Thế Pleistocen
+Pliocene	Thế Pliocen
+Plum	Mận
+Pluto	Sao Diêm Vương
+Pneumonia	Viêm phổi
+Poaceae	Họ Hòa thảo
+Poetry	Thơ
+Poetry	Thể loại:Thơ
+Point (geometry)	Điểm (hình học)
+Poison	Chất độc
+Poitiers	Poitiers
+Poitou-Charentes	Poitou-Charentes
+Poker	Poker
+Poland	Ba Lan
+Poland	Thể loại:Ba Lan
+Polar bear	Gấu trắng Bắc Cực
+Polaris	Polaris
+Police	Cảnh sát
+Poliomyelitis	Bệnh viêm tủy xám
+Political science	Chính trị học
+Politics	Chính trị
+Politics	Thể loại:Chính trị
+Pollination	Thụ phấn
+Pollution	Ô nhiễm môi trường
+Polonium	Polonium
+Polyethylene	Polyetylen
+Polygon	Đa giác
+Polymer	Polyme
+Polynomial	Đa thức
+Polyvinyl chloride	Polyvinyl clorua
+Pomelo	Bưởi
+Pompeii	Pompeii
+Pompey	Pompey
+Pop music	Nhạc Pop
+Pope	Giáo hoàng
+Poplar	Dương (thực vật)
+Port	Cảng
+Port Louis	Port Louis
+Port Moresby	Port Moresby
+Port of Spain	Port of Spain
+Port-au-Prince	Port-au-Prince
+Portland	Portland, Oregon
+Portland	Portland
+Portsmouth	Portsmouth
+Portugal	Bồ Đào Nha
+Poseidon	Poseidon (thần thoại)
+Positron	Positron
+Postage stamp	Tem thư
+Postal code	Mã bưu chính
+Potassium	Kali
+Potato	Khoai tây
+Potential energy	Thế năng
+Potsdam	Potsdam
+Pound sterling	Bảng Anh
+Poverty	Nghèo
+Power (physics)	Công suất
+Prague	Praha
+Prague	Thể loại:Praha
+Precession	Tiến động
+Precipitation (meteorology)	Giáng thủy
+Prehistory	Thời tiền sử
+Prehistory	Thể loại:Tiền sử
+President	Tổng thống
+President of the United States	Tổng thống Hoa Kỳ
+Pressure	Áp suất
+Price	Giá cả
+Primate	Linh trưởng
+Primates	Thể loại:Bộ Linh trưởng
+Prime Meridian	Kinh tuyến gốc
+Prime minister	Thủ tướng
+Prime number	Số nguyên tố
+Prince Edward Island	Đảo Hoàng tử Edward
+Princeton University	Đại học Princeton
+Principle of relativity	Thuyết tương đối
+Printing	In ấn
+Prism (optics)	Lăng kính
+Prison	Nhà tù
+Prisoner of war	Tù binh
+Prix Goncourt	Giải Goncourt
+Probability theory	Lý thuyết xác suất
+Probability theory	Thể loại:Lí thuyết xác suất
+Professor	Giáo sư
+Profit	Lợi nhuận
+Programmer	Lập trình viên
+Programming language	Ngôn ngữ lập trình
+Project	Dự án
+Prokaryote	Sinh vật nhân sơ
+Propane	Prôpan
+Protein	Protein
+Proterozoic	Liên đại Nguyên Sinh
+Protestant Reformation	Cải cách Kháng Cách
+Protestantism	Tin Lành
+Protocol	Giao thức
+Proton	Proton
+Protozoa	Động vật nguyên sinh
+Prunus	Chi Mận mơ
+Prussia	Vương quốc Phổ
+Pseudoscience	Thể loại:Giả khoa học
+Pseudoscience	Giả khoa học
+Psoriasis	Bệnh vẩy nến
+Psychiatry	Thể loại:Tâm thần học
+Psychoanalysis	Phân tâm học
+Psychology	Tâm lý học
+Psychology	Thể loại:Tâm lý học
+Psychotherapy	Tâm lý trị liệu
+Ptolemaic dynasty	Nhà Ptolemy
+Ptolemy	Claudius Ptolemaeus
+Puberty	Tuổi dậy thì
+Public domain	Phạm vi công cộng
+Puerto Rico	Puerto Rico
+Pulsar	Pulsar
+Pump	Máy bơm
+Puppis	Thuyền Vĩ
+Pyongyang	Bình Nhưỡng
+Pyrenees	Pyrénées
+Pythagoras	Pythagoras
+Python (programming language)	Python (ngôn ngữ lập trình)
+Pyxis	La Bàn
+Q	Q
+Qatar	Qatar
+Qin Dynasty	Nhà Tần
+Qing Dynasty	Nhà Thanh
+Quadratic equation	Phương trình bậc hai
+Quadrilateral	Tứ giác
+Quantum mechanics	Cơ học lượng tử
+Quantum mechanics	Category:Cơ học lượng tử
+Quark	Quark
+Quartz	Thạch anh
+Quasar	Quasar
+Quaternary	Phân đại Đệ tứ
+Quebec	Québec
+Quebec City	Thành phố Québec
+Queensland	Queensland
+Question mark	Dấu chấm hỏi
+Quito	Quito
+R	R
+RAF (disambiguation)	RAF
+RAID	RAID
+RNA	RNA
+Ra	Thần Ra
+Rabat	Rabat
+Rabindranath Tagore	Rabindranath Tagore
+Rachel Carson	Rachel Carson
+Racism	Phân biệt chủng tộc
+Radar	Radar
+Radio	Thể loại:Truyền thanh
+Radius	Bán kính
+Radon	Radon
+Rain	Mưa
+Rainbow	Cầu vồng
+Rainer Maria Rilke	Rainer Maria Rilke
+Ralph Waldo Emerson	Ralph Waldo Emerson
+Ramadan	Ramadan
+Ramayana	Ramayana
+Ramesses II	Ramesses II
+Random access memory	RAM
+Ranunculaceae	Họ Mao lương
+Rape	Hiếp dâm
+Raphael	Raffaello
+Rapid transit	Thể loại:Tàu điện ngầm
+Rational number	Số hữu tỉ
+Ratite	Bộ Đà điểu
+Read-only memory	Bộ nhớ chỉ đọc
+Real number	Số thực
+Recession	Suy thoái kinh tế
+Recife	Recife
+Rectangle	Hình chữ nhật
+Rectifier	Mạch chỉnh lưu
+Recursion	Đệ qui
+Red	Đỏ
+Red Army Faction	Phái Hồng quân
+Red Sea	Biển Đỏ
+Red algae	Tảo đỏ
+Red blood cell	Hồng cầu
+Red dwarf	Sao lùn đỏ
+Red giant	Sao khổng lồ đỏ
+Redshift	Dịch chuyển đỏ
+Redshift (disambiguation)	Dịch chuyển đỏ
+Reduced instruction set computer	RISC
+Referendum	Trưng cầu dân ý
+Refraction	Khúc xạ
+Refractive index	Chiết suất
+Regiment	Trung đoàn
+Reims	Reims
+Reincarnation	Đầu thai
+Relation (mathematics)	Quan hệ (toán học)
+Relativity	Thể loại:Thuyết tương đối
+Religion	Tôn giáo
+Religion	Thể loại:Tôn giáo
+Rembrandt	Rembrandt
+Renaissance	Phục Hưng
+Renaissance	Thể loại:Phục Hưng
+Reptile	Động vật bò sát
+Republic	Cộng hòa
+Republic of China	Trung Hoa Dân Quốc
+Republic of Ireland	Cộng hòa Ireland
+Republic of Ireland	Thể loại:Ireland
+Republic of the Congo	Cộng hoà Congo
+Republican Party (United States)	Đảng Cộng hòa Hoa Kỳ
+Reticulum	Võng Cổ
+Revolution	Cách mạng
+Rhea (mythology)	Rhea (thần thoại)
+Rhine	Rhine
+Rhinoceros	Họ Tê giác
+Rhode Island	Rhode Island
+Rhodium	Rhodi
+Rhombus	Hình thoi
+Rhythm and blues	Rhythm and blues
+Ribosome	Ribosome
+Rice	Lúa
+Richard Feynman	Richard Feynman
+Richard Nixon	Richard Nixon
+Richard Strauss	Richard Strauss
+Richard Wagner	Richard Wagner
+Riga	Riga
+Right ascension	Xích kinh
+Ring (mathematics)	Vành
+Ringo Starr	Ringo Starr
+Rio de Janeiro	Rio de Janeiro
+Rio de Janeiro (state)	Rio de Janeiro (bang)
+River	Sông
+River Thames	Sông Thames
+Riyadh	Riyadh
+Road	Đường giao thông
+Roald Amundsen	Roald Amundsen
+Robert Andrews Millikan	Robert Millikan
+Robert Boyle	Robert Boyle
+Robert Burns	Robert Burns
+Robert De Niro	Robert De Niro
+Robert E. Lee	Robert E. Lee
+Robert Koch	Robert Koch
+Robert Oppenheimer	Robert Oppenheimer
+Robert Schumann	Robert Schumann
+Robot	Người máy
+Rock (geology)	Đá (địa chất)
+Rock music	Thể loại:Nhạc rock
+Rocket	Rốc két
+Rocky Mountains	Dãy núi Rocky
+Rococo	Kiến trúc Rococo
+Rodent	Bộ Gặm nhấm
+Roger Bacon	Roger Bacon
+Roman Catholic Church	Giáo hội Công giáo Rôma
+Roman Empire	Đế quốc La Mã
+Roman Republic	Cộng hòa La Mã
+Roman calendar	Lịch La Mã
+Roman law	Luật La Mã
+Roman legion	Lê dương La Mã
+Roman mythology	Thần thoại La Mã
+Roman mythology	Thể loại:Thần thoại La Mã
+Romania	Romania
+Romania	Thể loại:Romania
+Romanticism	Chủ nghĩa lãng mạn
+Rome	Roma
+Ronald Reagan	Ronald Reagan
+Root	Rễ
+Rosales	Bộ Hoa hồng
+Rosario	Rosario
+Rostock	Rostock
+Rotifer	Luân trùng
+Rotterdam	Rotterdam
+Router	Router
+Royal Air Force	Không quân Hoàng gia Anh
+Rubber	Cao su
+Rubidium	Rubidi
+Ruby	Hồng ngọc
+Ruby (programming language)	Ruby (ngôn ngữ lập trình)
+Rudolf Diesel	Rudolf Diesel
+Rudyard Kipling	Rudyard Kipling
+Rupert Murdoch	Rupert Murdoch
+Russia	Nga
+Russia	Thể loại:Nga
+Russian Orthodox Church	Chính Thống giáo Nga
+Russian Revolution (1917)	Cách mạng Tháng Mười
+Russo-Japanese War	Chiến tranh Nga-Nhật
+Ruthenium	Rutheni
+Rutherford B. Hayes	Rutherford B. Hayes
+Rwanda	Rwanda
+S	S
+SOS	SOS
+Sacramento	Sacramento, California
+Saddam Hussein	Saddam Hussein
+Sagitta	Thiên Tiễn
+Sahara	Sa mạc Sahara
+Saint	Thánh (Kitô Giáo)
+Saint Kitts and Nevis	Saint Kitts và Nevis
+Saint Lucia	Saint Lucia
+Saint Nicholas	Thánh Nicolas
+Saint Petersburg	Sankt-Peterburg
+Saint Petersburg	Thể loại:Sankt-Peterburg
+Saint Vincent and the Grenadines	Saint Vincent và Grenadines
+Sake	Sake
+Saladin	Saladin
+Salem	Salem, Oregon
+Saliva	Nước miếng
+Salman Rushdie	Salman Rushdie
+Salmonidae	Họ Cá hồi
+Salt	Muối ăn
+Salt (chemistry)	Muối (hóa học)
+Salt Lake City	Salt Lake City, Utah
+Salvador	Salvador, Bahia
+Salzburg	Salzburg
+Samsara	Luân hồi
+Samuel Beckett	Samuel Beckett
+Samuel F. B. Morse	Samuel Morse
+Samurai	Samurai
+San Antonio	San Antonio, Texas
+San Diego	San Diego, California
+San Francisco	San Francisco, California
+San Jose	San Jose, California
+San Marino	San Marino
+San Marino	Thành phố San Marino
+San Salvador	San Salvador
+Sand	Cát
+Sandstone	Đá cát
+Sandwich	Bánh mì kẹp
+Sanskrit	Tiếng Phạn
+Santa Claus	Ông già Noel
+Santiago	Santiago de Chile
+Santiago de Cuba	Santiago de Cuba
+Santo Domingo	Santo Domingo
+Sapphire	Xa-phia
+Sappho	Sappho
+Sapporo	Sapporo
+Sarah Bernhardt	Sarah Bernhardt
+Sarin	Sarin
+Saskatchewan	Saskatchewan
+Satellite	Vệ tinh
+Saturday	Thứ Bảy
+Saturn	Sao Thổ
+Saudi Arabia	Ả Rập Saudi
+Saul Bellow	Saul Bellow
+Saxony	Sachsen
+Scandinavia	Scandinavia
+Scandium	Scandi
+Scheme (programming language)	Scheme
+Scholasticism	Triết học kinh viện
+Schutzstaffel	Schutzstaffel
+Science	Khoa học
+Science	Thể loại:Khoa học
+Sciuridae	Họ Sóc
+Scorpion	Bọ cạp
+Scorpius	Thiên Hạt (định hướng)
+Scotland	Scotland
+Scouting	Hướng đạo
+Scrotum	Bìu dái
+Sculptor (constellation)	Ngọc Phu
+Sculpture	Thể loại:Điêu khắc
+Sea	Biển
+Sea cucumber	Hải sâm
+Sea level	Mực nước biển
+Sea of Azov	Biển Azov
+Sea of Japan	Biển Nhật Bản
+Sea of Marmara	Biển Marmara
+Sea of Okhotsk	Biển Okhotsk
+Seahorse	Cá ngựa
+Search engine	Máy truy tìm dữ liệu
+Sears Tower	Sears Tower
+Season	Mùa
+Seattle	Seattle, Washington
+Second	Giây
+Second Vatican Council	Công đồng Vatican II
+Second law of thermodynamics	Định luật hai nhiệt động lực học
+Security	Thể loại:An ninh
+Sedimentary rock	Đá trầm tích
+Seine	Sông Seine
+Seismology	Địa chấn học
+Seismology	Thể loại:Địa chấn học
+Selenium	Selen
+Seleucus I Nicator	Seleucus I Nicator
+Semantics	Thể loại:Ngữ nghĩa học
+Semen	Tinh dịch
+Semiconductor	Chất bán dẫn
+Senegal	Sénégal
+Senegal	Thể loại:Sénégal
+Seoul	Seoul
+Seppuku	Seppuku
+September	Tháng chín
+September 11	11 tháng 9
+September 11	Sự kiện 11 tháng 9
+September 17	17 tháng 9
+September 29	29 tháng 9
+Sequence	Dãy (toán học)
+Serbia	Serbia
+Serbia and Montenegro	Serbia và Montenegro
+Serbia and Montenegro	Thể loại:Serbia và Montenegro
+Sergei Eisenstein	Sergei Mikhailovich Eisenstein
+Sergei Rachmaninoff	Sergei Vasilievich Rachmaninoff
+Series (mathematics)	Chuỗi (toán học)
+Serpens	Cự Xà
+Server (computing)	Máy chủ
+Set	Tập hợp
+Sevastopol	Sevastopol
+Seven Years' War	Chiến tranh Bảy năm
+Severe acute respiratory syndrome	SARS
+Seville	Sevilla
+Sexual intercourse	Quan hệ tình dục
+Sexuality	Thể loại:Tính dục
+Sexually transmitted disease	Bệnh lây truyền qua đường tình dục
+Seychelles	Seychelles
+Shanghai	Thượng Hải
+Shareware	Shareware
+Shark	Cá mập
+Sherlock Holmes	Sherlock Holmes
+Shinto	Shintō
+Shogi	Shogi
+Shogun	Shōgun
+Shrimp	Tôm thực sự
+Siberia	Siberi
+Sichuan	Tứ Xuyên
+Siemens (unit)	Siemens (đơn vị)
+Sierra Leone	Sierra Leone
+Sigmund Freud	Sigmund Freud
+Sign language	Ngôn ngữ ký hiệu
+Sigrid Undset	Sigrid Undset
+Sikkim	Sikkim
+Silesia	Silesia
+Silicon	Silic
+Silicon Valley	Silicon Valley
+Silk	Lụa
+Silk Road	Con đường tơ lụa
+Silurian	Kỷ Silur
+Silver	Bạc
+Simone de Beauvoir	Simone de Beauvoir
+Sinclair Lewis	Sinclair Lewis
+Singapore	Singapore
+Singapore	Thể loại:Singapore
+Sitting Bull	Sitting Bull
+Situation comedy	Hài kịch tình huống
+Six-Day War	Chiến tranh Sáu ngày
+Skagerrak	Skagerrak
+Skin	Da
+Skopje	Skopje
+Skyscraper	Nhà chọc trời
+Slavery	Nô lệ
+Slovakia	Slovakia
+Slovakia	Thể loại:Slovakia
+Slovenia	Slovenia
+Snake	Rắn
+Snow	Tuyết
+Soap	Xà phòng
+Socialism	Chủ nghĩa xã hội
+Society	Xã hội
+Society of Jesus	Dòng Tên
+Sociology	Xã hội học
+Sociology	Thể loại:Xã hội học
+Socrates	Socrates
+Sodium	Natri
+Sodium chloride	Clorua natri
+Sodium hydroxide	Natri hydroxit
+Sofia	Sofia (tỉnh)
+Software	Thể loại:Phần mềm
+Soil	Đất
+Solanaceae	Họ Cà
+Solanaceae	Thể loại:Họ Cà
+Solar System	Hệ Mặt Trời
+Solar System	Thể loại:Hệ Mặt Trời
+Solar cell	Pin mặt trời
+Solar eclipse	Nhật thực
+Solar energy	Năng lượng Mặt Trời
+Solar wind	Gió Mặt Trời
+Solid	Chất rắn
+Solid state	Chất rắn
+Solomon Islands	Quần đảo Solomon
+Somalia	Somalia
+Somme	Somme
+Sonata	Sonata
+Song	Bài hát
+Sophia Loren	Sophia Loren
+Sorbonne	Sorbonne
+Sorghum	Chi Lúa miến
+Sorting algorithm	Thuật toán sắp xếp
+Soul	Linh hồn
+Sound	Âm thanh
+Source code	Mã nguồn
+South	Hướng Nam
+South Africa	Thể loại:Nam Phi
+South America	Nam Mỹ
+South America	Thể loại:Nam Mỹ
+South Australia	Nam Úc (tiểu bang)
+South Carolina	Nam Carolina
+South China Sea	Biển Đông
+South Dakota	Nam Dakota
+South Korea	Hàn Quốc
+South Korea	Thể loại:Hàn Quốc
+South Pole	Nam Cực
+South Vietnam	Việt Nam Cộng hòa
+Southeast Asia	Đông Nam Á
+Southern Hemisphere	Nam bán cầu
+Soviet Union	Liên Xô
+Soviet Union	Thể loại:Liên Xô
+Soybean	Đậu tương
+Spacecraft	Tàu vũ trụ
+Spaghetti	Mỳ ống Italia
+Spain	Tây Ban Nha
+Spain	Thể loại:Tây Ban Nha
+Spam (electronic)	Thư rác (điện tử)
+Spanish Civil War	Nội chiến Tây Ban Nha
+Spanish people	Thể loại:Người Tây Ban Nha
+Special relativity	Lý thuyết tương đối hẹp
+Species	Loài
+Spectroscopy	Phổ học
+Speed of light	Tốc độ ánh sáng
+Spencer Tracy	Spencer Tracy
+Spermatophyte	Thực vật có hạt
+Spermatozoon	Tinh trùng
+Sphinx	Nhân sư
+Spice	Gia vị
+Spider	Nhện
+Spin (physics)	Spin
+Spinal cord	Tủy sống
+Spleen	Lách
+Sport	Thể thao
+Spring (season)	Mùa xuân
+Springfield	Springfield, Illinois
+Spyware	Phần mềm gián điệp
+Square (geometry)	Hình vuông
+Square metre	Mét vuông
+Sri Lanka	Sri Lanka
+Sri Lanka	Thể loại:Sri Lanka
+Stadium	Sân vận động
+Stainless steel	Thép không gỉ
+Stanford University	Đại học Stanford
+Stanley Kubrick	Stanley Kubrick
+Star	Ngôi sao
+Starch	Tinh bột
+State	Quốc gia
+Statistical mechanics	Cơ học thống kê
+Statistics	Thống kê
+Statue of Liberty	Tượng Nữ thần Tự do
+Stavanger	Stavanger
+Steam engine	Động cơ hơi nước
+Steel	Thép
+Stefan Zweig	Stefan Zweig
+Steffi Graf	Steffi Graf
+Stegosaurus	Stegosaurus
+Stendhal	Stendhal
+Stephen Hawking	Stephen Hawking
+Steppe	Thảo nguyên
+Steven Spielberg	Steven Spielberg
+Stock exchange	Sàn giao dịch chứng khoán
+Stockholm	Stockholm
+Stomach	Dạ dày
+Stonehenge	Stonehenge
+Storm	Bão
+Strait	Eo biển
+Strait of Gibraltar	Eo biển Gibraltar
+Strait of Hormuz	Eo biển Hormuz
+Straits	Thể loại:Eo biển
+Strasbourg	Strasbourg
+Stratosphere	Tầng bình lưu
+Strawberry	Dâu tây
+String theory	Lý thuyết dây
+Stroke	Tai biến mạch máu não
+Strong interaction	Lực tương tác mạnh
+Strontium	Strontium
+Stub	Tiêu bản:Sơ khai
+Stupa	Stupa
+Sturmabteilung	SA
+Stuttgart	Stuttgart
+Styx	Sông Styx (thần thoại)
+Sub-Saharan Africa	Châu Phi hạ Sahara
+Sublimation (chemistry)	Thăng hoa
+Submarine	Tàu ngầm
+Subversion (software)	Subversion
+Sudan	Sudan
+Sudan	Thể loại:Sudan
+Sudoku	Sudoku
+Suez Canal	Kênh đào Suez
+Suharto	Suharto
+Sukarno	Sukarno
+Sulawesi	Sulawesi
+Sulfur	Lưu huỳnh
+Sulfur dioxide	Điôxít lưu huỳnh
+Sulfuric acid	Axít sulfuric
+Sumatra	Sumatra
+Summer	Mùa hạ
+Sumo	Sumo
+Sun	Mặt Trời
+Sun Yat-sen	Tôn Dật Tiên
+Sunday	Chủ nhật
+Sunflower	Hướng dương
+Sunspot	Vết đen Mặt Trời
+Supercomputer	Siêu máy tính
+Superconductivity	Siêu dẫn
+Supernova	Siêu tân tinh
+Supreme Court of the United States	Tối cao Pháp viện Hoa Kỳ
+Surface tension	Sức căng bề mặt
+Surgeon	Ngoại khoa
+Surgery	Ngoại khoa
+Surgery	Thể loại:Ngoại khoa
+Suriname	Suriname
+Sushi	Sushi
+Svalbard	Svalbard
+Swallow	Họ Nhạn
+Swan	Thiên nga
+Swastika	Chữ Vạn
+Swaziland	Swaziland
+Sweden	Thụy Điển
+Sweden	Thể loại:Thụy Điển
+Sweet potato	Khoai lang
+Swimming	Bơi lội
+Swiss people	Thể loại:Người Thụy Sĩ
+Switzerland	Thụy Sĩ
+Switzerland	Thể loại:Thụy Sĩ
+Sword	Kiếm
+Sydney	Sydney
+Sylvia Plath	Sylvia Plath
+Symbol	Biểu tượng
+Symphony	Giao hưởng
+Symptom	Triệu chứng
+Syndicate	Công đoàn
+Syphilis	Giang mai
+Syria	Syria
+System	Hệ thống
+T	T
+T. S. Eliot	T. S. Eliot
+Table tennis	Bóng bàn
+Taekwondo	Taekwondo
+Tai chi chuan	Thái cực quyền
+Taipei	Đài Bắc
+Taiwan	Thể loại:Đài Loan
+Taiwan	Đài Loan
+Taj Mahal	Taj Mahal
+Tajikistan	Tajikistan
+Tajikistan	Thể loại:Tajikistan
+Taliban	Taliban
+Tallahassee	Tallahassee, Florida
+Tallinn	Tallinn
+Tamil Nadu	Tamil Nadu
+Tampa	Tampa, Florida
+Tampere	Tampere
+Tanakh	Tanakh
+Tang Dynasty	Nhà Đường
+Tank	Xe tăng
+Tantalum	Tantali
+Tanzania	Tanzania
+Tanzania	Thể loại:Tanzania
+Taoism	Đạo giáo
+Tapir	Họ Lợn vòi
+Tartarus	Tartarus
+Tashkent	Tashkent
+Tasmania	Tasmania
+Taurus (constellation)	Kim Ngưu (chòm sao)
+Tax	Thuế
+Taxation	Thể loại:Thuế
+Taxonomy	Phân loại học
+Tbilisi	Tbilisi
+Tea	Trà
+Tea	Thể loại:Trà
+Technetium	Tecneti
+Techno	Techno
+Technology	Công nghệ
+Technology	Thể loại:Kỹ thuật
+Tegucigalpa	Tegucigalpa
+Tehran	Tehran
+Tel Aviv	Tel Aviv
+Telecommunication	Viễn thông
+Telepathy	Thần giao cách cảm
+Telephone	Điện thoại
+Telescope	Kính viễn vọng
+Telescopium	Viễn Vọng Kính (chòm sao)
+Television	Tivi
+Television	Thể loại:Truyền hình
+Tellurium	Telua
+Temperature	Nhiệt độ
+Temple	Đền
+Temple of Artemis	Đền Artemis
+Ten Commandments	Mười điều răn
+Tennessee	Tennessee
+Tennis	Quần vợt
+Tennis	Thể loại:Quần vợt
+Tenzing Norgay	Tenzing Norgay
+Tequila	Tequila
+Termite	Mối
+Terrestrial planet	Hành tinh kiểu Trái Đất
+Terrorism	Khủng bố
+Terrorism	Thể loại:Khủng bố
+Tesla (unit)	Tesla
+Tetanus	Bệnh phong đòn gánh
+Texas	Texas
+Texas	Thể loại:Texas
+Textile	Vải
+Thailand	Thái Lan
+Thailand	Thể loại:Thái Lan
+Thales	Thales
+Thallium	Tali
+Thanksgiving	Lễ Tạ ơn
+Thanksgiving (Canada)	Lễ Tạ ơn
+Thanksgiving (United States)	Lễ Tạ ơn
+Thanksgiving (disambiguation)	Lễ Tạ ơn
+The Gambia	Gambia
+The Hague	Den Haag
+The Star-Spangled Banner	The Star-Spangled Banner
+Theatre	Thể loại:Nhà hát
+Thebes	Thebes, Ai Cập
+Theodolite	Máy kinh vĩ
+Theodor Mommsen	Theodor Mommsen
+Theodore Roosevelt	Theodore Roosevelt
+Theology	Thể loại:Thần học
+Theorem	Định lý toán học
+Theory	Lý thuyết
+Theory of relativity	Lý thuyết tương đối
+Theravada	Thượng toạ bộ
+Thermodynamics	Nhiệt động lực học
+Thermodynamics	Thể loại:Nhiệt động lực học
+Thermometer	Nhiệt kế
+Third Crusade	Thập tự chinh thứ ba
+Third World	Thế giới thứ ba
+Thirty Years' War	Chiến tranh Ba mươi năm
+Thomas Aquinas	Tommaso d'Aquino
+Thomas Edison	Thomas Alva Edison
+Thomas Jefferson	Thomas Jefferson
+Thomas Malthus	Thomas Malthus
+Thomas Mann	Thomas Mann
+Thomas Paine	Thomas Paine
+Thor	Thor (thần thoại)
+Thuringia	Thüringen
+Thursday	Thứ Năm
+Thymine	Thymine
+Thyroid	Giáp trạng
+Tianjin	Thiên Tân
+Tiberius	Tiberius
+Tibet	Tây Tạng
+Tide	Thủy triều
+Tiger	Hổ
+Tigris	Tigris
+Tilia	Chi Đoạn
+Timbuktu	Timbuktu
+Time	Thời gian
+Time (magazine)	Tạp chí Time
+Time zone	Múi giờ
+Timur	Timur
+Tin	Thiếc
+Tirana	Tirana
+Tissue (biology)	Mô
+Titan (disambiguation)	Titan (định hướng)
+Titan (moon)	Titan (vệ tinh)
+Titan (mythology)	Titan (thần thoại)
+Titanic (disambiguation)	Titanic (định hướng)
+Titanium	Titan
+Tofu	Tào phớ
+Togo	Togo
+Tokyo	Tokyo
+Toluene	Toluen
+Tom Hanks	Tom Hanks
+Tom and Jerry	Tom và Jerry
+Tomato	Cà chua
+Tonga	Tonga
+Tongue	Lưỡi
+Toni Morrison	Toni Morrison
+Tony Blair	Tony Blair
+Toothbrush	Bàn chải đánh răng
+Topology	Tô pô
+Topology	Thể loại:Toán học tô pô
+Tornado	Vòi rồng
+Toronto	Toronto
+Torpedo	Ngư lôi
+Torque	Mô men lực
+Totalitarianism	Chủ nghĩa toàn trị
+Toulon	Toulon
+Toulouse	Toulouse
+Tour de France	Tour de France
+Tourism	Du lịch
+Tourism	Thể loại:Du lịch
+Tours	Tours
+Tower	Tháp
+Town	Thành phố
+Toyota	Toyota
+Tractor	Máy kéo
+Trade	Thương mại
+Trade union	Công đoàn
+Trademark	Thương hiệu
+Train	Tàu hỏa
+Train station	Nhà ga
+Trajan	Trajan
+Tram	Tàu điện
+Transcendental number	Số siêu việt
+Transformer	Máy biến thế
+Transistor	Tranzito
+Transmission Control Protocol	TCP
+Trapezoid	Hình thang
+Treaty of Versailles	Hòa ước Versailles
+Triangle	Tam giác
+Triangulum	Tam Giác (chòm sao)
+Triangulum Australe	Nam Tam Giác
+Triassic	Kỷ Trias
+Tributary	Chi lưu
+Triceratops	Triceratops
+Trigonometric function	Hàm lượng giác
+Trigonometry	Lượng giác
+Trinidad and Tobago	Trinidad và Tobago
+Trinitrotoluene	TNT
+Trinity	Ba Ngôi
+Tripoli	Tripoli
+Triton (moon)	Triton (vệ tinh)
+Triumphal arch	Khải hoàn môn
+Trojan Horse	Con ngựa thành Troy
+Trojan War	Chiến tranh thành Troy
+Trojan horse (computing)	Ngựa thành Troy (tin học)
+Trombone	Trombone
+Trondheim	Trondheim
+Tropic of Cancer	Chí tuyến Bắc
+Tropic of Capricorn	Chí tuyến Nam
+Tropics	Nhiệt đới
+Troposphere	Tầng đối lưu
+Truck	Xe tải
+Truman Doctrine	Học thuyết Truman
+Trumpet	Trumpet
+Tsar	Sa hoàng
+Tsunami	Sóng thần
+Tuberculosis	Lao
+Tucana	Đỗ Quyên (chòm sao)
+Tuesday	Thứ Ba
+Tungsten	Volfram
+Tunis	Tunis
+Tunisia	Tunisia
+Turbine	Turbine
+Turin	Torino
+Turkey	Thổ Nhĩ Kỳ
+Turkey	Thể loại:Thổ Nhĩ Kỳ
+Turkmenistan	Turkmenistan
+Turkmenistan	Thể loại:Turkmenistan
+Turtle	Rùa
+Tuvalu	Tuvalu
+Tux	Tux
+Tycho Brahe	Tycho Brahe
+Typewriter	Máy đánh chữ
+Tyrannosaurus	Tyrannosaurus rex
+U	U (mẫu tự)
+UNESCO	Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hiệp Quốc
+Uganda	Uganda
+Uganda	Thể loại:Uganda
+Ukraine	Ukraina
+Ukraine	Thể loại:Ukraina
+Ulan Bator	Ulan Bator
+Ulster	Ulster
+Ultraviolet	Tia cực tím
+Ulysses S. Grant	Ulysses S. Grant
+Uncertainty principle	Nguyên lý bất định
+Unemployment	Thất nghiệp
+Unidentified flying object	UFO
+Uniform Resource Locator	URL
+Union (set theory)	Phép hợp
+United Arab Emirates	Các Tiểu vương quốc Ả Rập Thống nhất
+United Kingdom	Vương quốc Liên hiệp Anh và Bắc Ireland
+United Kingdom	Thể loại:Vương quốc Liên hiệp Anh và Bắc Ireland
+United Nations	Liên Hiệp Quốc
+United Nations	Thể loại:Liên Hiệp Quốc
+United Nations Children's Fund	Quỹ Nhi đồng Liên Hiệp Quốc
+United States	Hoa Kỳ
+United States	Thể loại:Hoa Kỳ
+United States Air Force	Không quân Hoa Kỳ
+United States Congress	Quốc hội Hoa Kỳ
+United States Constitution	Hiến pháp Hoa Kỳ
+United States House of Representatives	Hạ viện Hoa Kỳ
+United States Military Academy	Học viện Quân sự West Point Hoa Kỳ
+United States Navy	Hải quân Hoa Kỳ
+United States Senate	Thượng viện Hoa Kỳ
+United States Virgin Islands	Quần đảo Virgin thuộc Mỹ
+United States dollar	Đô la Mỹ
+Universe	Vũ trụ
+University of Chicago	Đại học Chicago
+University of Pennsylvania	Đại học Pennsylvania
+Unix	Unix
+Unix	Thể loại:Unix
+Upanishad	Áo nghĩa thư
+Uppsala	Uppsala
+Uracil	Uracil
+Ural Mountains	Núi Ural
+Uranium	Urani
+Uranus	Sao Thiên Vương
+Urea	Urê
+Ursa Major	Đại Hùng
+Ursa Minor	Tiểu Hùng
+Uruguay	Uruguay
+Utah	Utah
+Uttar Pradesh	Uttar Pradesh
+Uzbekistan	Uzbekistan
+Uzbekistan	Thể loại:Uzbekistan
+V	V
+Vaccine	Vắc-xin
+Vacuum	Chân không
+Vacuum tube	Đèn điện tử chân không
+Vagina	Âm đạo
+Valence	Valence, Drôme
+Valence (chemistry)	Hóa trị
+Valencia	Valencia, Tây Ban Nha
+Valentina Tereshkova	Valentina Vladimirovna Tereshkova
+Valentine's Day	Ngày Valentine
+Valhalla	Valhalla
+Valletta	Valletta
+Valley	Thung lũng
+Vampire	Ma cà rồng
+Vanadium	Vanađi
+Vancouver	Vancouver, British Columbia
+Vanir	Vanir
+Vanuatu	Vanuatu
+Variance	Phương sai
+Vatican City	Thành Vatican
+Vatican City	Thể loại:Thành Vatican
+Vector (spatial)	Vectơ
+Vega	Sao Chức Nữ
+Vegetable	Rau
+Vegetarianism	Ăn chay
+Vela (constellation)	Thuyền Phàm
+Velociraptor	Velociraptor
+Velocity	Vận tốc
+Venezuela	Venezuela
+Venice	Venezia
+Venus	Sao Kim
+Vermont	Vermont
+Versailles	Versailles
+Vertebrate	Động vật có xương sống
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Victoria	Victoria, British Columbia
+Victoria (Australia)	Victoria (Úc)
+Victoria Falls	Thác Victoria
+Video	Phim video
+Vienna	Wien
+Vienne	Vienne
+Vientiane	Viêng Chăn
+Vietnam	Việt Nam
+Vietnam	Thể loại:Việt Nam
+Vietnam War	Chiến tranh Việt Nam
+Vietnam War	Thể loại:Chiến tranh Việt Nam
+Viking	Người Viking
+Village	Làng
+Vilnius	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Viola	Vĩ cầm trầm
+Violin	Vĩ cầm
+Virgil	Virgil
+Virginia	Virginia
+Virginia	Thể loại:Virginia
+Virginia Woolf	Virginia Woolf
+Virginity	Trinh nữ
+Virgo (constellation)	Thất Nữ (chòm sao)
+Virtual reality	Thực tế ảo
+Virus	Virus
+Viscosity	Độ nhớt
+Vishnu	Vishnu
+Vitamin	Vitamin
+Vitamin A	Vitamin A
+Vitamin B6	Pyridoxin
+Vitamin C	Vitamin C
+Vittorio De Sica	Vittorio De Sica
+Vitus Bering	Vitus Bering
+Vladimir Lenin	Vladimir Ilyich Lenin
+Vladimir Nabokov	Vladimir Vladimirovich Nabokov
+Vladimir Putin	Vladimir Putin
+Vladivostok	Vladivostok
+Volans	Phi Ngư
+Volcano	Núi lửa
+Volcanology	Thể loại:Núi lửa học
+Volga River	Sông Volga
+Volgograd	Volgograd
+Volleyball	Bóng chuyền
+Volleyball	Thể loại:Bóng chuyền
+Volt	Vôn
+Voltaire	Voltaire
+Volume	Thể tích
+Vulpecula	Hồ Ly
+W	W
+WYSIWYG	WYSIWYG
+Wake Island	Đảo Wake
+Wales	Wales
+Walt Disney	Walt Disney
+Walt Whitman	Walt Whitman
+Walter Gropius	Walter Gropius
+Walter Scott	Walter Scott
+War	Chiến tranh
+War of the Spanish Succession	Chiến tranh Kế vị Tây Ban Nha
+Warsaw	Warszawa
+Wart	Mụn cóc
+Washington	Washington, D.C.
+Washington	Tiểu bang Washington
+Washington (disambiguation)	Washington (định hướng)
+Wassily Kandinsky	Wassily Kandinsky
+Water	Nước
+Waterfall	Thác
+Watergate scandal	Vụ Watergate
+Watermelon	Dưa hấu
+Watt	Watt
+Wave	Chuyển động sóng
+Wavelength	Bước sóng
+Weak interaction	Lực tương tác yếu
+Weapon	Vũ khí
+Weather	Thời tiết
+Web browser	Trình duyệt web
+Web page	Website
+Webcam	Webcam
+Weber (unit)	Weber
+Website	Website
+Wednesday	Thứ Tư
+Weight	Lực hấp dẫn#Tr.E1.BB.8Dng l.E1.BB.B1c
+Weimar	Weimar
+Weimar Republic	Cộng hòa Weimar
+Welding	Hàn (công nghệ)
+Wellington	Wellington
+Wernher von Braun	Wernher von Braun
+West	Hướng Tây
+West Africa	Tây Phi
+West Bank	Bờ Tây
+West Bengal	Tây Bengal
+West Virginia	Tây Virginia
+Western Australia	Tây Úc (tiểu bang)
+Western Sahara	Tây Sahara
+Wheat	Lúa mì
+Whisky	Whisky
+White House	Nhà Trắng
+White Sea	Biển Trắng
+White blood cell	Bạch cầu
+White dwarf	Sao lùn trắng
+Wiesbaden	Wiesbaden
+William Blake	William Blake
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Golding	William Golding
+William Harvey	William Harvey
+William Henry Harrison	William Henry Harrison
+William Herschel	William Herschel
+William Howard Taft	William Howard Taft
+William James	William James
+William McKinley	William McKinley
+William Rowan Hamilton	William Rowan Hamilton
+William Shakespeare	William Shakespeare
+William Shockley	William Shockley
+Willow	Chi Liễu
+Wind power	Năng lượng gió
+Windhoek	Windhoek
+Windmill	Cối xay gió
+Wine	Rượu vang
+Winston Churchill	Winston Churchill
+Winter	Mùa đông
+Winter Olympic Games	Thế vận hội Mùa đông
+Winter Olympic Games	Thể loại:Thế vận hội Mùa đông
+Wisconsin	Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Wolfgang Pauli	Wolfgang Ernst Pauli
+Wood	Gỗ
+Woodrow Wilson	Woodrow Wilson
+Woody Allen	Woody Allen
+Word processor	Chương trình soạn thảo văn bản
+World	Thế giới
+World Bank	Nhóm Ngân hàng Thế giới
+World Health Organization	Tổ chức Y tế Thế giới
+World Trade Center	Trung tâm Thương mại Thế giới
+World Trade Organization	Tổ chức Thương mại Thế giới
+World War I	Đệ nhất thế chiến
+World War I	Thể loại:Đệ nhất thế chiến
+World War II	Đệ nhị thế chiến
+World War II	Thể loại:Đệ nhị thế chiến
+World Wide Web	World Wide Web
+World Wide Web	Thể loại:World Wide Web
+Wormhole	Hố giun
+Wuhan	Vũ Hán
+Wyoming	Wyoming
+X	X
+X-ray	Tia X
+Xenon	Xenon
+Xinjiang	Tân Cương
+Y	Y
+Yahweh	Giêhôva
+Yakuza	Yakuza
+Yale University	Đại học Yale
+Yalta Conference	Hội nghị Yalta
+Yangon	Yangon
+Yangtze River	Dương Tử
+Yard	Yard
+Yasser Arafat	Yasser Arafat
+Yeast	Men (sinh vật)
+Yellow	Vàng (màu)
+Yellow River	Hoàng Hà
+Yellow Sea	Hoàng Hải
+Yellowstone National Park	Vườn quốc gia Yellowstone
+Yemen	Yemen
+Yenisei River	Sông Enisei
+Yerevan	Yerevan
+Yggdrasil	Yggdrasil
+Yoga	Yoga
+Yoghurt	Sữa chua
+Yokohama	Yokohama
+Yosemite National Park	Vườn quốc gia Yosemite
+Yttrium	Yttri
+Yuan Dynasty	Nhà Nguyên
+Yugoslavia	Nam Tư
+Yukon	Yukon
+Yunnan	Vân Nam
+Yuri Gagarin	Yuri Alekseievich Gagarin
+Z	Z
+Zachary Taylor	Zachary Taylor
+Zagreb	Zagreb
+Zambia	Zambia
+Zanzibar	Zanzibar
+Zaragoza	Zaragoza
+Zealand	Zealand
+Zen	Thiền tông
+Zenith	Thiên đỉnh
+Zeus	Zeus
+Zimbabwe	Zimbabwe
+Zinc	Kẽm
+Zirconium	Zirconi
+Zoology	Động vật học
+Zoology	Thể loại:Động vật học

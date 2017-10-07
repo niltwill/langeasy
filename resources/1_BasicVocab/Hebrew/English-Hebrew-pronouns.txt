@@ -1,0 +1,19 @@
+﻿English	Hebrew
+everybody	כולם (kulám), כולם (kulám)
+everything	הכל (hachol)
+he	הוא (hu)
+her	שלה (f) (shela)
+his	שלו (shello)
+it	זה
+me	לי
+my	שלי (shelí)
+she	היא (heya'a)
+that	ההוא,
+they	הם (m) (hēm), הן (f) (hēn)
+this	זה (m) (zeh), אלה (eleh)
+us	אותנו
+we	אנו
+what	מה (ma)
+when	מתי (matay)
+who	מי
+you	אתה (m), את (f)

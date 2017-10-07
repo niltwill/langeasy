@@ -1,0 +1,64 @@
+Turkish	﻿English
+ötesinde	above
+tekrar	again
+hemen hemen	almost
+boyunca	along
+zaten	already
+hep	always
+aşağı yukarı	approximately
+kadar	as
+evvel	before
+arkasında	behind
+ötesinde	beyond
+ile	by
+doğrudan	directly
+erken	early
+her bir	either
+kâfi	enough
+hatta	even
+tam	exactly
+önce	first
+genellikle	generally
+burada	here
+burada	here
+buna rağmen	however
+hemen	immediately
+içine	in
+cidden	indeed
+içinde	inside
+yerine	instead
+geç	late
+az	little
+sadece	merely
+asla	never
+değil	not
+açık	obviously
+sık sık	often
+eskiden	once
+özellikle	particularly
+belki	possibly
+belki	probably
+çabuk çabuk	quickly
+gerçekten	really
+çok	really
+geçenlerde	recently
+yavaşça	slowly
+öyle	so
+yalnız	solely
+bazen	sometimes
+hemen	soon
+hâlâ	still
+böyle	such
+mutlaka	surely
+o zaman	then
+işte	there
+oradan	therefore
+bugün	today
+birlikte	together
+yarın	tomorrow
+bu gece	tonight
+dahi	too
+yukarı	up
+genellikle	usually
+çok	very
+iyi	well

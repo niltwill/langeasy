@@ -1,0 +1,1610 @@
+English	Irish
+1	1
+100	100
+100 (number)	100 (uimhir)
+13	13
+13 (number)	13 (uimhir)
+1728	1728
+1750s	1750í
+1760s	1760í
+1770s	1770í
+1780s	1780í
+1790s	1790í
+1820s	1820í
+1830s	1830í
+1840s	1840í
+1850s	1850í
+1860s	1860í
+1870s	1870í
+1880s	1880í
+1890s	1890í
+1900s	1900í
+1920s	1920idí
+1930s	1930idí
+1940s	1940idí
+1950s	1950idí
+1960s	1960idí
+1970s	1970idí
+1980s	1980idí
+1990s	1990idí
+2	2
+3	3
+33	33
+37	37
+4	4
+40	40
+41	41
+42	42
+5	5
+6	6
+60	60
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (number)	7 (uimhir)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+80	80
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+AIDS	SEIF
+Aachen	Aachen
+Abraham Lincoln	Abraham Lincoln
+Abuja	Abuja
+Academy Award	Gradaim an Acadaimh
+Acceleration	Luasghéarú
+Accra	Accra
+Acetic acid	Aigéad aicéiteach
+Acre (state)	Acre
+Acropolis	Acrapolas
+Adam Smith	Adam Smith
+Addis Ababa	Adas Ababa
+Adelaide	Adelaide
+Adolf Hitler	Adolf Hitler
+Aeneid	An Aeinéid
+Afghanistan	An Afganastáin
+Africa	An Afraic
+Afrikaans	Afracáinis
+Agnosticism	Agnóisí
+Agriculture	Talmhaíocht
+Ajax (programming)	AJAX
+Al Capone	Al Capone
+Al Gore	Al Gore
+Alabama	Alabama
+Alabama	Catagóir:Alabama
+Alan Turing	Alan Turing
+Alaska	Alasca
+Albania	An Albáin
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Einstein	Albert Einstein
+Alberta	Alberta
+Alchemy	Ailceimic
+Aleksandr Solzhenitsyn	Aleksandr Solzhenitsyn
+Alexander Graham Bell	Alexander Graham Bell
+Alexander the Great	Alastar Mór
+Alfred Nobel	Alfred Nobel
+Alfred the Great	Ailfrid Mór
+Algae	Algaí
+Algeria	An Ailgéir
+Almaty	Almaty
+Alpha (letter)	Alfa
+Alphabet	Aibítir
+Alps	Sliabh Alpa
+Aluminium	Alúmanam
+Amazon River	An Amasóin
+Amedeo Avogadro	Amadeo Avogadro
+American Civil War	Cogadh Cathartha SAM
+American Revolutionary War	Cogadh Réabhlóideach Mheiriceá
+American Standard Code for Information Interchange	ASCII
+American football	Peil Mheiriceánach
+Amethyst	Aimitis
+Amharic	Amairis
+Amman	Amman
+Ammonia	Amóinia
+Ampere	Aimpéar
+Amphibian	Amfaibiach
+Amsterdam	Amstardam
+Anchorage	Anchorage
+Andalusia	Andalucía
+Andes	Na hAindéis
+Andorra	Andóra
+Andrew Jackson	Andrew Jackson
+Andrew Johnson	Andrew Johnson
+Andromeda (constellation)	Andraiméide (réaltbhuíon)
+Andromeda Galaxy	Réaltra Andraiméide
+Angola	Angóla
+Angular momentum	Móiminteam uilleach
+Animal	Ainmhí
+Anno Domini	Anno Domini
+Antananarivo	Antananarivo
+Antarctica	Antartaice
+Anthropology	Antraipeolaíocht
+Antigua and Barbuda	Antigua agus Barbúda
+Antimony	Antamón
+Antlia	An tAerchaidéal
+Antoine Lavoisier	Antoine Lavoisier
+Antwerp	Antwerpen
+Apache	Apaisigh
+Applied mathematics	Matamaitic fheidhmeach
+April	Aibreán
+April 14	14 Aibreán
+Apulia	Puglia
+Apus	Éan Parthais (réaltbhuíon)
+Aquarius (constellation)	An tUisceadóir
+Aquila (constellation)	An tIolar
+Ara (constellation)	An Altóir
+Arabic language	Araibis
+Aragon	An Aragóin
+Archaeology	Seandálaíocht
+Archimedes	Airciméidéas
+Architecture	Ailtireacht
+Architecture	Catagóir:Ailtireacht
+Arctic Ocean	An tAigéan Artach
+Argentina	An Airgintín
+Argentina	Catagóir:An Airgintín
+Aries (constellation)	An Reithe
+Aristotle	Arastotail
+Arizona	Arizona
+Arizona	Catagóir:Arizona
+Ark of the Covenant	Áirc an Chonartha
+Arkansas	Arkansas
+Armenia	An Airméin
+Armenia	Catagóir:An Airméin
+Armenian language	Airméinis
+Arsenic	Arsanaic
+Art	Ealaín
+Arthropod	Artrapód
+Arthur Miller	Arthur Miller
+Arthur Schopenhauer	Arthur Schopenhauer
+Arthur Wellesley	Arthur Wellesley, an chéad Diúc Wellington
+Ash Wednesday	Céadaoin an Luaithrigh
+Asia	An Áise
+Astana	Astana
+Astatine	Astaitín
+Asteroid belt	Crios astaróideach
+Astronomer	Réalteolaí
+Astronomy	Réalteolaíocht
+Astronomy	Catagóir:Réalteolaíocht
+Athens	An Aithin
+Athletics (track and field)	Lúthchleasaíocht
+Atlanta	Atlanta, Georgia
+Atlantic Ocean	An tAigéan Atlantach
+Atom	Adamh
+Atomic mass	Mais adamhach
+Atomic number	Uimhir adamhach
+August	Lúnasa
+August 1	1 Lúnasa
+August 15	15 Lúnasa
+August 6	6 Lúnasa
+Augustine of Hippo	Naomh Agaistín
+Augustus	Ágastas
+Auriga (constellation)	An tAra
+Austin	Austin, Texas
+Australasia	An Astraláise
+Australia	An Astráil
+Austria	An Ostair
+Autism	Uathachas
+Automobile	Gluaisteán
+Aviation	Catagóir:Aeriompar
+Azerbaijan	An Asarbaiseáin (tír)
+Bacteria	Baictéar
+Baghdad	Bagdad
+Bahrain	Bairéin
+Balearic Islands	Na hOileáin Bhailéaracha
+Balkans	Na Balcáin
+Baltic Sea	An Mhuir Bhailt
+Bangkok	Bancác
+Bangladesh	An Bhangladéis
+Barbados	Barbadós
+Barcelona	Barcelona
+Bari	Bari
+Barium	Bairiam
+Basalt	Basalt
+Baseball	Daorchluiche
+Basilicata	Basilicata
+Basketball	Cispheil
+Bass guitar	Dordghiotár
+Batman	Batman
+Battle of Hastings	Cath Hastings
+Battle of Marathon	Cath Mharatóin
+Battle of Thermopylae	Cath Thermopylae
+Battle of the Somme	Cath na Somme
+Bavaria	An Bhaváir
+Bayonne	Baiona
+Beer	Beoir
+Beijing	Béising
+Beirut	Béiriút
+Belarus	An Bhealarúis
+Belfast	Béal Feirste
+Belgium	An Bheilg
+Belgrade	Béalgrád
+Belize	An Bheilís
+Benin	Beinin
+Benito Mussolini	Benito Mussolini
+Benjamin Disraeli	Benjamin Disraeli, an Chéad Iarla Beaconsfield
+Benjamin Harrison	Benjamin Harrison
+Beowulf	Beowulf
+Berlin	Beirlín
+Bertolt Brecht	Bertolt Brecht
+Beryllium	Beirilliam
+Beta (letter)	Béite
+Bethlehem	Beitheal
+Bhutan	An Bhútain
+Bible	An Bíobla
+Bicycle	Rothar
+Big Bang	Ollphléasc
+Bill Clinton	William J. Clinton
+Bill Gates	Bill Gates
+Biography	Beathaisnéis
+Biology	Bitheolaíocht
+Biology	Catagóir:Bitheolaíocht
+Bird	Éan
+Birmingham	Birmingham, Alabama
+Bismuth	Biosmat
+Bit	Giotán
+Black hole	Dúpholl
+Blaise Pascal	Blaise Pascal
+Blog	Blag
+Blue	Gorm
+Bob Dylan	Bob Dylan
+Bob Marley	Bob Marley
+Bobby Fischer	Bobby Fischer
+Boise	Boise, Idaho
+Bolivia	An Bholaiv
+Bolivia	Catagóir:An Bholaiv
+Bologna	Bologna
+Bordeaux	Bordeaux
+Boron	Bórón
+Bosnia and Herzegovina	An Bhoisnia-Heirseagaivéin
+Boston	Bostún
+Bot	Teimpléad:Bot
+Botswana	An Bhotsuáin
+Boxing	Dornálaíocht
+Bram Stoker	Bram Stoker
+Brandenburg	Brandenburg
+Bratislava	An Bhratasláiv
+Brazil	An Bhrasaíl
+Brazil	Catagóir:An Bhrasaíl
+Bread	Arán
+Bretagne	An Bhriotáin
+Bridgetown	Bridgetown
+Brisbane	Brisbane
+Bristol	Briostó
+British Columbia	An Cholóim Bhriotanach
+British Virgin Islands	Oileáin Bhriotanacha na Maighdean
+Bromine	Bróimín
+Brooklyn	Brooklyn
+Bruges	Brugge
+Brunei	Brúiné
+Brussels	An Bhruiséil
+Bucharest	Búcairist
+Buckingham Palace	Pálás Buckingham
+Budapest	Búdaipeist
+Buddha	An Búda
+Buddhism	Búdachas
+Buddy Holly	Buddy Holly
+Buenos Aires	Buenos Aires
+Bujumbura	Bujumbura
+Bulgaria	An Bhulgáir
+Burkina Faso	Buircíne Fasó
+Burma	Maenmar
+Business	Gnó
+Byte	Beart (ríomhaireacht)
+C	C
+C (programming language)	C (Teanga ríomhchlárúcháin)
+C. S. Lewis	C. S. Lewis
+COBOL	COBOL
+Cadmium	Caidmiam
+Caelum	An Siséal
+Caesium	Caeisiam
+Caffeine	Caiféin
+Cairo	Caireo
+Calabria	Calabria
+California	California
+California	Catagóir:California
+Caligula	Caligula
+Callisto (moon)	Callisto (gealach)
+Calvin Coolidge	Calvin Coolidge
+Cambodia	An Chambóid
+Cameroon	Camarún
+Campania	Campania
+Canada	Ceanada
+Canada	Catagóir:Ceanada
+Canary Islands	Na hOileáin Chanáracha
+Canberra	Canberra
+Cancer (constellation)	An Portán
+Canis Major	An Madra Mór
+Canis Minor	An Madra Beag
+Cape Verde	Rinn Verde
+Capital	Príomhchathair
+Capricornus	An Gabhar
+Carbohydrate	Carbaihiodráit
+Carbon	Carbón
+Carbon dioxide	Dé-ocsaíde charbóin
+Cardiff	Caerdydd
+Cardinal Richelieu	Cairdinéal de Richelieu
+Caribbean Sea	Muir na Cairibe
+Carina (constellation)	An Chíle
+Carl Jung	Carl Jung
+Carolus Linnaeus	Carl von Linné
+Carson City	Carson City, Nevada
+Cassiopeia (constellation)	Caiseoipé (réaltbhuíon)
+Cat	Cat
+Catalonia	An Chatalóin
+Cecil Rhodes	Cecil Rhodes
+Cell (biology)	Cill (bitheolaíocht)
+Census	Daonáireamh
+Centaurus	An Ceinteár
+Central African Republic	Poblacht na hAfraice Láir
+Central Intelligence Agency	Central Intelligence Agency
+Century	Aois
+Cepheus (constellation)	Ceiféas (réaltbhuíon)
+Ceres (dwarf planet)	1 Ceres
+Cetus	An Míol Mór
+Chad	Sead
+Chamaeleon	An Caimileon
+Charlemagne	Charlemagne
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles de Gaulle	Charles de Gaulle
+Charon (moon)	Carón
+Che Guevara	Che Guevara
+Chechnya	An tSeisnia
+Chemical element	Dúil cheimiceach
+Chemistry	Ceimic
+Chemistry	Catagóir:Ceimic
+Chess	Ficheall
+Chester A. Arthur	Chester A. Arthur
+Chicago	Chicago
+Child	Leanbh
+Chile	An tSile
+Chlorine	Clóirín
+Chocolate	Seacláid
+Chord (music)	Corda (ceol)
+Chordate	Cordaigh
+Christiaan Huygens	Christiaan Huygens
+Christianity	Críostaíocht
+Christianity	Catagóir:Críostaíocht
+Christmas	An Nollaig
+Christopher Columbus	Criostóir Colambas
+Chuck Berry	Chuck Berry
+Cicero	Cicearó
+Clark Gable	Clark Gabel
+Class (biology)	Rang (bitheolaíocht)
+Clement Attlee	Clement Attlee
+Cleveland	Cleveland, Ohio
+Climate	Aeráid
+Climate change	Athrú aeráide
+Cobalt	Cóbalt
+Coffee	Caife
+Cold War	Cogadh Fuar
+Cold War	Catagóir:An Cogadh Fuar
+Colin Powell	Colin Powell
+Cologne	Köln
+Colombia	An Cholóim
+Colombia	Catagóir:An Cholóim
+Colorado	Colorado
+Columba (constellation)	An Colm
+Coma Berenices	Folt Bheirnicé
+Comet	Cóiméad
+Communism	Cumannachas
+Communism	Catagóir:Cumannachas
+Comoros	Oileáin Chomóra
+Compact Disc	Dlúthdhiosca
+Compass	Compás
+Computer	Ríomhaire
+Computer program	Ríomhchlár
+Computer programming	Catagóir:Ríomhchlárúchán
+Computer science	Ríomheolaíocht
+Computer science	Catagóir:Ríomhaireacht
+Computer virus	Víreas ríomhaireachta
+Computing	Catagóir:Ríomhaireacht
+Connecticut	Connecticut
+Conservatism	Coimeádachas
+Continent	Mór-roinn
+Cooking	Cócaireacht
+Coordinated Universal Time	Am Uilíoch Comheagartha
+Copenhagen	Cóbanhávan
+Copper	Copar
+Cork (city)	Corcaigh
+Cornwall	Corn na Breataine
+Corona Borealis	Coróin an Tuaiscirt
+Corsica	An Chorsaic
+Corvus (constellation)	An Préachán
+Costa Rica	Cósta Ríce
+Coventry	Coventry
+Crater (constellation)	An Cupán
+Creationism	Cruthaíochtachas
+Cricket	Cruicéad
+Crimea	An Chrimé
+Croatia	An Chróit
+Crux	An Chros
+Cuba	Cúba
+Cubism	Ciúbachas
+Culture	Cultúr
+Curitiba	Curitiba
+Currency	Airgeadra
+Cygnus (constellation)	An Eala
+Cyprus	An Chipir
+Cyprus	Catagóir:An Chipir
+Cyrillic alphabet	Aibítir Choireallach
+Czech Republic	Poblacht na Seice
+DNA	ADN
+Dallas	Dallas, Texas
+Damascus	An Damaisc
+Dance	Damhsa
+Dante Alighieri	Dainté Ailigéirí
+Danube	An Danóib
+Dar es Salaam	Dárasalám
+Darfur	Darfur
+Darwin	Darwin
+Database	Bunachar sonraí
+David Livingstone	David Livingstone
+Day	Lá
+De facto	De facto
+Dead Sea	An Mhuir Mharbh
+December	Nollaig
+December 31	31 Nollaig
+December 8	8 Nollaig
+Declination	Diallas
+Deco	Anderson Luis de Souza
+Deimos (moon)	Deimos
+Delaware	Delaware
+Delphinus	An Deilf
+Delta (letter)	Deilte
+Dementia	Néaltrú
+Democracy	Daonlathas
+Democratic Party (United States)	Páirtí Daonlathach (Stáit Aontaithe)
+Democratic Republic of the Congo	Poblacht Dhaonlathach an Chongó
+Denmark	An Danmhairg
+Denver	Denver
+Desert	Fásach
+Desmond Tutu	Desmond Tutu
+Detroit	Detroit, Michigan
+Diana	Diana, Banphrionsa na Breataine Bige
+Diego Rivera	Diego Rivera
+Dietrich Bonhoeffer	Dietrich Bonhoeffer
+Disambiguation	Catagóir:Idirdhealáin
+Disease	Galair
+Djibouti (city)	Diobúití (cathair)
+Dmitri Mendeleev	Dmítrí Meindeiléiv
+Dodoma	Dodoma
+Domain (biology)	Fearann (bitheolaíocht)
+Dominica	Doiminice
+Dominican Republic	An Phoblacht Dhoiminiceach
+Don Quixote	Don Quixote
+Dorado	An Colgán
+Draco (constellation)	An Dragan
+Drama	Drámaíocht
+Druid	Draoithe
+Dubai	Dubai
+Dublin	Baile Átha Cliath
+Dwight D. Eisenhower	Dwight D. Eisenhower
+E-mail	Ríomhphost
+ETA	ETA
+Earth	An Domhan
+Earth science	Eolaíocht an domhain
+East Timor	An Tíomór Thoir
+Easter	Cáisc
+Ecology	Éiceolaíocht
+Economics	Eacnamaíocht
+Economy	Eacnamaíocht
+Ecuador	Eacuadór
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edinburgh	Dún Éideann
+Edmund Hillary	Edmund Hillary
+Education	Oideachas
+Egypt	An Éigipt
+Eindhoven	Eindhoven
+El Salvador	An tSalvadóir
+Electricity	Leictreachas
+Electron	Leictreon
+Element	Dúil
+Elvis Presley	Elvis Presley
+Emilia-Romagna	Emilia-Romagna
+Emiliano Zapata	Emiliano Zapata
+Emily Dickinson	Emily Dickinson
+Engineering	Catagóir:Innealtóireacht
+England	Sasana
+English Civil War	Cogadh Cathartha Shasana
+English language	Béarla
+Epsilon	Eipsealón
+Equatorial Guinea	An Ghuine Mheánchriosach
+Eridanus (constellation)	An Abhainn
+Eris (dwarf planet)	Eris (abhacphláinéad)
+Ernest Hemingway	Ernest Hemingway
+Esperanto	Esperanto
+Esperanto	Catagóir:Esperanto
+Eta (letter)	Éite
+Ethernet	Ethernet
+Ethiopia	An Aetóip
+Eukaryote	Eocarót
+Eurasia	An Eoráise
+Euro	Euro
+Europa (moon)	Europa (gealach)
+Europe	An Eoraip
+Europe	Catagóir:An Eoraip
+European Union	An tAontas Eorpach
+European Union	Catagóir:An tAontas Eorpach
+Eva Braun	Eva Braun
+Exodus	Eaxodus
+Falkland Islands	Oileáin Fháclainne
+Fascism	Faisisteachas
+Fast food	Mearbhia
+February	Feabhra
+February 12	12 Feabhra
+February 14	14 Feabhra
+February 2	2 Feabhra
+February 22	22 Feabhra
+February 29	29 Feabhra
+February Revolution	Réabhlóid na Feabhra
+Federated States of Micronesia	Stáit Chónaidhme na Micrinéise
+Fencing	Pionsóireacht
+Ferdinand Magellan	Fernão de Magalhães
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermentation (biochemistry)	Coipeadh
+Fidel Castro	Fidel Castro
+Field hockey	Haca
+Fiji	Fidsí
+File Transfer Protocol	FTP
+Film	Scannán
+Finland	An Fhionlainn
+Finland	Catagóir:An Fhionlainn
+Fish	Iasc
+Flanders	An Phléimeann
+Florence	Flórans
+Florida	Florida
+Folklore	Béaloideas
+Football (soccer)	Sacar
+Football (soccer) managers	Catagóir:Bainisteoirí sacair
+Fornax	An Fhoirnéis
+Fortran	FORTRAN
+Fossil fuel	Breosla iontaiseach
+France	An Fhrainc
+France	Catagóir:An Fhrainc
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francisco Franco	Francisco Franco
+Francium	Frainciam
+Frank Lloyd Wright	Frank Lloyd Wright
+Frank Sinatra	Frank Sinatra
+Frankfurt	Frankfurt
+Franklin Pierce	Franklin Pierce
+Franz Kafka	Franz Kafka
+Franz Liszt	Franz Liszt
+French Revolution	Réabhlóid na Fraince (1789)
+Friday	Aoine
+Friedrich Engels	Friedrich Engels
+Friesland	Friesland
+Friuli-Venezia Giulia	Friuli-Venezia Giulia
+Fundamental	Catagóir:Bunúsach
+Fundamentalism	Bunúsaíocht
+Fungus	Fungas
+GNOME	GNOME
+Gabon	An Ghabúin
+Gaborone	Gaborone
+Galaxy	Réaltra
+Galicia (Spain)	An Ghailís
+Galileo Galilei	Galileo Galilei
+Gallium	Gailliam
+Galway	Gaillimh
+Game	Cluiche
+Gamma	Gáma
+Ganymede (moon)	Ganymede (gealach)
+Gardening	Garraíodóireacht
+Gaza Strip	Stráice Gaza
+Gemini (constellation)	An Cúpla
+Genesis	Geineasas
+Genetics	Géineolaíocht
+Genoa	Genova
+Genocide	Cinedhíothú
+Genus	Géineas
+Geography	Tíreolaíocht
+Geography	Catagóir:Tíreolaíocht
+Geology	Catagóir:Geolaíocht
+Geology	Geolaíocht
+George Berkeley	George Berkeley
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+George Harrison	George Harrison
+George Lucas	George Lucas
+George Orwell	George Orwell
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georgetown	Georgetown
+Georgia (U.S. state)	Georgia (stát S.A.M.)
+Georgia (country)	An tSeoirsia
+Gerald Ford	Gerald R. Ford
+German language	Gearmáinis
+Germanium	Gearmáiniam
+Germany	An Ghearmáin
+Germany	Catagóir:An Ghearmáin
+Geronimo	Geronimo
+Ghana	Gána
+Giovanni Boccaccio	Giovanni Boccaccio
+Giuseppe Verdi	Giuseppe Verdi
+Glasgow	Glaschú
+Globalization	Domhandas
+Go (board game)	Gó (bordchluiche)
+Gold	Ór
+Golden Horde	An Mathshlua Órga
+Golf	Galf
+Good Friday	Aoine an Chéasta
+Google	Google
+Gothenburg	Göteborg
+Government	Rialtas
+Granada	Granada
+Grand Canyon	An Cainneon Mór
+Granite	Eibhear
+Gravitation	Imtharraingt
+Great Barrier Reef	An Mhórsceir Bhacainneach
+Great Britain	An Bhreatain
+Great Depression	An Spealadh Mór
+Greece	An Ghréig
+Greek alphabet	Aibítir Ghréagach
+Greenland	An Ghraonlainn
+Greenland	Catagóir:An Ghraonlainn
+Gregor Mendel	Gregor Mendel
+Grover Cleveland	Grover Cleveland
+Grozny	Grozny
+Grus (constellation)	An Chorr
+Guglielmo Marconi	Guglielmo Marconi
+Guillotine	Gilitín
+Guinea	An Ghuine
+Guinea-Bissau	Guine Bhissau
+Gulag	GULag
+Gulf Stream	Sruth Murascaille Mheicsiceo
+Gulf War	Cogadh na Murascaille
+Gulf of Finland	Murascaill na Fionlainne
+Gulf of Guinea	Murascaill Guine
+Gulf of Mexico	Murascaill Mheicsiceo
+Gynaecology	Liacht bhan
+H. G. Wells	H. G. Wells
+HTML	HTML
+Haemophilia	Haemaifilia
+Hail Mary	Fáilte an Aingil
+Haiti	Háití
+Half-life	Leathré
+Halloween	Oíche Shamhna
+Hallucination	Bréagchéadfa
+Hamburg	Hamburg
+Hanoi	Ha Noi
+Hans Christian Andersen	Hans Christian Andersen
+Harare	Harare
+Harold Pinter	Harold Pinter
+Harrisburg	Harrisburg, Pennsylvania
+Harry Houdini	Harry Houdini
+Hartford	Hartford, Connecticut
+Hawaii	Haváí
+Heart	Croí
+Hebrew alphabet	Aibítir Eabhraise
+Heinrich Himmler	Heinrich Himmler
+Helicopter	Ingearán
+Helium	Héiliam
+Helsinki	Heilsincí
+Henry Ford	Henry Ford
+Heracles	Earcail
+Herbert Hoover	Herbert C. Hoover
+Hercules	Earcail
+Hercules (constellation)	Earcail (réaltbhuíon)
+Hero of Alexandria	Hearó Chathair Alastair
+Herodotus	Heireadótas
+Hesse	Hesse
+Hinduism	Hiondúchas
+Hippocrates	Hipeacraitéas
+Hirohito	Hirohito
+Hispaniola	An Easpáinneoil
+History	Stair
+History	Catagóir:Stair
+Ho Chi Minh City	Cathair Ho Chi Minh
+Hobart	Hobart
+Hobby	Caitheamh aimsire
+Holiday	Lá saoire
+Hollywood	Hollywood
+Holy Grail	An Soitheach Naofa
+Holy Spirit	An Spiorad Naomh
+Homer	Hóiméar
+Honduras	Hondúras
+Hong Kong	Hong Cong
+Hosni Mubarak	Hosni Mubarak
+Houston	Houston, Texas
+Hudson River	Abhainn an Hudson
+Hugh Capet	Hugues Capet na Fraince
+Human	Duine
+Hungary	An Ungáir
+Hydra (constellation)	An Phéist Uisce
+Hydrocarbon	Hidreacarbón
+Hydrogen	Hidrigin
+Hydrus	An Phéist Bheag
+Hypertext	Hipirtéacs
+Hypertext Transfer Protocol	Prótacal Aistrithe Hipirtéacs
+Ian Fleming	Ian Fleming
+Iceland	An Íoslainn
+Iceland	Catagóir:An Íoslainn
+Idaho	Idaho
+Ido	Ido
+Iliad	Íliad
+Illinois	Illinois
+Illinois	Catagóir:Illinois
+Immanuel Kant	Immanuel Kant
+India	An India
+Indian Ocean	An tAigéan Indiach
+Indiana	Indiana
+Indianapolis	Indianapolis, Indiana
+Indium	Indiam
+Indonesia	An Indinéis
+Indus (constellation)	An tIndiach
+Ingmar Bergman	Ingmar Bergman
+Insect	Feithid
+International System of Units	Córas Idirnáisiúnta na nAonad
+Internet	Idirlíon
+Io (moon)	Io (gealach)
+Iodine	Iaidín
+Iota	Ióta
+Iowa	Iowa
+Iran	An Iaráin
+Iraq	An Iaráic
+Ireland	Éire
+Irish Republican Army	IRA
+Irish Sea	Muir Éireann
+Iron	Iarann
+Isaac Asimov	Isaac Asimov
+Isaac Newton	Isaac Newton
+Islam	Ioslam
+Islamabad	Islamabad
+Island	Oileán
+Isle of Man	Oileán Mhanann
+Isotope	Iseatóp
+Israel	Iosrael
+Istanbul	Iostanbúl
+Italy	An Iodáil
+Italy	Catagóir:An Iodáil
+Jacques Cartier	Jacques Cartier
+Jakarta	Iacárta
+Jamaica	Iamáice
+James A. Garfield	James A. Garfield
+James Buchanan	James Buchanan
+James Cook	James Cook
+James Joyce	James Joyce
+James K. Polk	James Knox Polk
+James Madison	James Madison
+James Monroe	James Monroe
+Jane Austen	Jane Austen
+Janis Joplin	Janis Joplin
+January	Eanáir
+January 1	1 Eanáir
+January 19	19 Eanáir
+January 20	20 Eanáir
+January 6	6 Eanáir
+Japan	An tSeapáin
+Japan	Catagóir:An tSeapáin
+Java	Iáva
+Java (programming language)	Java
+Jawaharlal Nehru	Jawaharlal Nehru
+Jazz	Snagcheol
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jeddah	Jeddah
+Jerusalem	Iarúsailéim
+Jesus	Íosa Críost
+Jet engine	Scairdinneall
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Gutenberg	Johannes Gutenberg
+Johannes Kepler	Johannes Kepler
+John Adams	John Adams
+John Calvin	Eoin Cailvín
+John Dalton	John Dalton
+John Lennon	John Lennon
+John Locke	John Locke
+John Major	John Major
+John Quincy Adams	John Quincy Adams
+John Tyler	John Tyler
+John Wayne	John Wayne
+Johnny Cash	Johnny Cash
+Joint	Alt (anatamaíocht)
+Jordan	An Iordáin
+Joseph Conrad	Joseph Conrad
+Joseph Goebbels	Joseph Goebbels
+Joseph Stalin	Iósaf Stailín
+Judaism	Giúdachas
+Julius Caesar	Iúil Caesar
+July	Iúil
+July 1	1 Iúil
+July 4	4 Iúil
+June	Meitheamh
+June 14	14 Meitheamh
+June 21	21 Meitheamh
+June 23	23 Meitheamh
+June 24	24 Meitheamh
+June 29	29 Meitheamh
+June 3	3 Meitheamh
+Juneau	Juneau
+Jupiter	Iúpatar (pláinéad)
+KGB	KGB
+Kabul	Cabúl
+Kansas	Kansas
+Kappa	Capa
+Karachi	Karachi
+Karl Marx	Karl Marx
+Katowice	Katowice
+Kayak	Cadhc
+Kazakhstan	An Chasacstáin
+Kelvin	Ceilvin
+Kent	Kent
+Kentucky	Kentucky
+Kenya	An Chéinia
+Khartoum	Cartúm
+Kigali	Kigali
+Kilogram	Cileagram
+Kingdom (biology)	Ríocht (Bitheolaíocht)
+Kolkata	Calcúta
+Kosovo	An Chosaiv
+Krypton	Crioptón
+Kuiper belt	Crios Kuiper
+Kuwait	Cuáit
+Kyrgyzstan	An Chirgeastáin
+La Paz	La Paz
+Lady Jane Grey	An Bantiarna Jane Grey
+Lagos	Lagos
+Lake Tanganyika	Loch Tanganyika
+Lambda	Lambda
+Lancelet	Cephalochordata
+Language	Teanga (cumarsáid)
+Laos	Laos
+Las Vegas	Las Vegas, Nevada
+Latin	Laidin
+Latin America	Meiriceá Laidineach
+Latin alphabet	Aibítir Laidineach
+Latvia	An Laitvia
+Law	Dlí
+Lazio	Latium
+Lead	Luaidhe
+League of Nations	Conradh na Náisiún
+Lebanon	An Liobáin
+Lebanon	Catagóir:An Liobáin
+Lee Harvey Oswald	Lee Harvey Oswald
+Leicester	Leicester
+Lent	Carghas
+Leo (constellation)	An Leon
+Leon Trotsky	Leon Trotscaí
+Leonardo da Vinci	Leonardo da Vinci
+Leonid Brezhnev	Leonid Brezhnev
+Lepus (constellation)	An Giorria
+Lesotho	Leosóta
+Lewis Carroll	Lewis Carroll
+Lhasa	Leasa
+Liberalism	Liobrálachas
+Liberia	An Libéir
+Libra (constellation)	An Mheá
+Libya	An Libia
+Lichen	Léicean
+Liechtenstein	Lichtinstéin
+Light	Solas
+Light-year	Solasbhliain
+Liguria	Liguria
+Lima	Lima
+Limerick	Luimneach
+Lingua franca	Francbhéarla
+Linguistics	Teangeolaíocht
+Linguistics	Catagóir:Teangeolaíocht
+Linux	Linux
+Lipid	Lipidí
+Lisbon	Liospóin
+Lisp (programming language)	LISP
+Literature	Litríocht
+Literature	Catagóir:Litríocht
+Lithium	Litiam
+Lithuania	An Liotuáin
+Liverpool	Learpholl
+Livy	Livias
+Ljubljana	Liúibleána
+Local area network	Líonra achair logánta
+Lombardy	Lombardia
+London	Londain
+Long Island	An tOileán Fada
+Los Angeles	Los Angeles
+Louisiana	Louisiana
+Louisiana	Catagóir:Louisiana
+Louvre	Louvre
+Luciano Pavarotti	Luciano Pavarotti
+Ludwig van Beethoven	Ludwig van Beethoven
+Lupus (constellation)	An Faolchú
+Lusaka	Lusaka
+Luxembourg	Lucsamburg
+Luxembourg (city)	Lucsamburg (cathair)
+Lynx (constellation)	An Lincse
+Lyra	An Lir
+MS-DOS	MS-DOS
+Macbeth	Macbeth (dráma)
+Macedonia	An Mhacadóin
+Madagascar	Madagascar
+Madrid	Maidrid
+Madrid (autonomous community)	Comhphobal Maidrid
+Mafia	Mafia
+Mahatma Gandhi	Mahatma Gandhi
+Maine	Maine
+Malabo	Malabo
+Malaysia	An Mhalaeisia
+Maldives	Oileáin Mhaildíve
+Mali	Mailí
+Malta	Málta
+Maltese language	Máltais
+Mammal	Mamach
+Manchester	Manchain
+Manhattan	Manhattan
+Manila	Mainile
+Manitoba	Manitoba
+Mao Zedong	Mao Tse-tung
+Maputo	Maputo
+March	Márta
+March 17	17 Márta
+March 19	19 Márta
+March 2	2 Márta
+March 25	25 Márta
+Marche	Marche
+Marco Polo	Marco Polo
+Margaret Thatcher	Margaret Thatcher
+Marie Antoinette	Marie Antoinette na hOstaire
+Marilyn Monroe	Marilyn Monroe
+Mario Vargas Llosa	Mario Vargas Llosa
+Mark Twain	Mark Twain
+Marlene Dietrich	Marlene Dietrich
+Mars (disambiguation)	Mars
+Marseille	Marseille
+Marshall Islands	Oileáin Marshall
+Martin Luther	Martin Luther
+Martin Luther King	Martin Luther King
+Martin Van Buren	Martin Van Buren
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Maryland	Maryland
+Massachusetts	Massachusetts
+Massachusetts Institute of Technology	Massachusetts Institute of Technology
+Mathematics	Matamaitic
+Matter	Damhna
+Matterhorn	Sliabh Cervin
+Mauritania	An Mháratáin
+Mauritius	Oileán Mhuirís
+Max Planck	Max Planck
+May	Bealtaine
+May 1	1 Bealtaine
+May 24	24 Bealtaine
+Mecca	Meice
+Medicine	Míochaine
+Mediterranean Sea	An Mheánmhuir
+Mel Gibson	Mel Gibson
+Mensa (constellation)	An Tábla
+Mercury (element)	Mearcair (airgead beo)
+Mercury (planet)	Mearcair (pláinéad)
+Mermaid	Maighdean mhara
+Meteorology	Catagóir:Meitéareolaíocht
+Metre	Méadar
+Mexico	Meicsiceo
+Mexico	Catagóir:Meicsiceo
+Michigan	Michigan
+Michigan	Catagóir:Michigan
+Mick Jagger	Mick Jagger
+Microbiology	Micribhitheolaíocht
+Microscopium	An Micreascóp
+Microwave oven	Micreathonnán
+Miguel de Cervantes	Miguel de Cervantes
+Mikhail Gorbachev	Míchail Gorbaitsov
+Milan	Milano
+Milk	Bainne
+Milky Way	Bealach na Bó Finne
+Millard Fillmore	Millard Fillmore
+Mineral	Mianra
+Minneapolis	Minneapolis, Minnesota
+Minnesota	Minnesota
+Minnesota	Catagóir:Minnesota
+Minsk	Minsc
+Mississippi River	Abhainn Mississippi
+Missouri	Missouri
+Mobile phone	Fón póca
+Modem	Móideim
+Mogadishu	Mogaidisiú
+Moldova	An Mholdóiv
+Molecule	Móilín
+Molise	Molise
+Monaco	Monacó
+Monarchy	Monarcacht
+Monday	Luan
+Mongolia	An Mhongóil
+Mongolia	Catagóir:An Mhongóil
+Montana	Montana
+Monte Carlo	Monte Carlo
+Montenegro	Montainéagró
+Montgomery	Montgomery, Alabama
+Montreal	Montréal
+Montserrat	Montsarat
+Moon	An Ghealach
+Morocco	Maracó
+Morpheme	Moirféim
+Moscow	Moscó
+Mosque	Mosc
+Mount Everest	Teomólongma
+Mount Kilimanjaro	Cilimeaindearó
+Mountain	Sliabh
+Mountain range	Sliabhraon
+Mozambique	Mósaimbíc
+Mu (letter)	Mú
+Muhammad Ali	Muhammad Ali
+Multimedia	Ilmheáin
+Mumbai	Mumbai
+Musca	An Chuileog
+Mushroom	Fungas
+Music	Ceol
+Music	Catagóir:Ceol
+Musician	Ceoltóir
+Mycology	Míceolaíocht
+Mythology	Miotaseolaíocht
+NATO	Eagraíocht Chonradh an Atlantaigh Thuaidh
+Nairobi	Nairobi
+Namibia	An Namaib
+Naples	Napoli
+Nation	Náisiún
+National anthem	Amhrán náisiúnta
+Nationalism	Náisiúnachas
+Nauru	Nárú
+Nebraska	Nebraska
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Neon	Neon
+Nepal	Neipeal
+Neptune	Neiptiún (pláinéad)
+Nero	Nearó
+Netherlands	An Ísiltír
+Neurology	Néareolaíocht
+Neuron	Cillín néarach
+Neutron	Neodrón
+Neutron star	Neodrónréalta
+Nevada	Nevada
+Nevada	Catagóir:Nevada
+Neville Chamberlain	Neville Chamberlain
+New England	Sasana Nua
+New Hampshire	New Hampshire
+New Jersey	New Jersey
+New Mexico	Nua-Mheicsiceo
+New Orleans	New Orleans, Louisiana
+New South Wales	New South Wales
+New York	Nua-Eabhrac (stát)
+New York (disambiguation)	Nua-Eabhrac
+New York City	Nua-Eabhrac (cathair)
+New Zealand	An Nua-Shéalainn
+Newfoundland (island)	Talamh an Éisc
+Newfoundland and Labrador	Talamh an Éisc agus Labradóir
+Newport	Casnewydd
+Niagara Falls	Eas Niagara
+Nicaragua	Nicearagua
+Nicolaus Copernicus	Nicolaus Copernicus
+Nicosia	An Leafcóis
+Niels Bohr	Niels Bohr
+Niger	An Nígir
+Nigeria	An Nigéir
+Nihilism	Nihilí
+Nikita Khrushchev	Nikita Khrushchev
+Nile	An Níl
+Nitrogen	Nítrigin
+Nix (moon)	Nix
+Noam Chomsky	Noam Chomsky
+Nobel Prize	Duais Nobel
+Norfolk	Norfolk
+Norma (constellation)	An Riail
+Normandy	An Normainn
+North America	Meiriceá Thuaidh
+North America	Catagóir:Meiriceá Thuaidh
+North Carolina	Carolina Thuaidh
+North Dakota	Dakota Thuaidh
+North Korea	An Chóiré Thuaidh
+North Sea	An Mhuir Thuaidh
+North Yorkshire	Yorkshire Thuaidh
+Northern Ireland	Tuaisceart Éireann
+Northern Territory	Críoch an Tuaiscirt
+Norway	An Iorua
+Nova Scotia	Albain Nua
+Novel	Úrscéal
+November	Samhain
+November 1	1 Samhain
+November 11	11 Samhain
+November 2	2 Samhain
+November 5	5 Samhain
+Nu (letter)	Nú
+Nucleon	Núicléón
+Nunavut	Nunavut
+OPEC	Eagraíocht Tíortha Onnmhairithe an Pheitriliam
+Oceania	An Aigéine
+Octans	An tOchtamhán
+October	Deireadh Fómhair
+October 12	12 Deireadh Fómhair
+October 24	24 Deireadh Fómhair
+October Revolution	Réabhlóid Dheireadh Fómhair
+Odyssey	An Odaisé
+Ohio	Ohio
+Ohm's law	Dlí Ohm
+Oklahoma	Oklahoma
+Oliver Cromwell	Oilibhéar Cromail
+Olympia	Olympia
+Olympic Games	Cluichí Oilimpeacha
+Oman	Óman
+Omicron	Oimeacrón
+Ontario	Ontario
+Ontology	Onteolaíocht
+Oort cloud	Scamall Oort
+Opera	Ceoldráma (opera)
+Operating system	Córas oibriúcháin
+Ophiuchus	Fear na bPéisteanna
+Oregon	Oregon
+Orion (constellation)	An Bodach
+Osama bin Laden	Osama bin Laden
+Oscar Wilde	Oscar Wilde
+Oslo	Osló
+Ottawa	Ottawa
+Otto von Bismarck	Otto von Bismarck
+Ovid	Óivid
+Oxford	Oxford
+Oxygen	Ocsaigin
+Pablo Picasso	Pablo Picasso
+Pacific Ocean	An tAigéan Ciúin
+Pakistan	An Phacastáin
+Palace of Versailles	Pálás Versailles
+Palau	Palau
+Palermo	Palermo
+Palestine	An Phalaistín
+Panama	Panama
+Papua New Guinea	Nua-Ghuine Phapua
+Paracelsus	Paracelsus
+Paraguay	Paragua
+Paranoia	Paranóia
+Paris	Páras
+Parliament	Parlaimint
+Paul McCartney	Paul McCartney
+Paul the Apostle	Naomh Pól
+Pavo (constellation)	An Phéacóg
+Pegasus (constellation)	Peigeasas (réaltbhuíon)
+Peloponnesian War	Cogadh na Peilipinéise
+Pennsylvania	Pennsylvania
+People's Republic of China	Daon-Phoblacht na Síne
+Perciformes	Perciform
+Periodic table	Tábla peiriadach
+Pernambuco	Pernambuco
+Perth	Perth
+Peru	Peiriú
+Phi (letter)	Fí
+Philippines	Na hOileáin Fhilipíneacha
+Philosophy	Fealsúnacht
+Phoenix	Phoenix, Arizona
+Phoenix (constellation)	An Féinics
+Phoneme	Fóinéim
+Phosphorus	Fosfar
+Photography	Grianghrafadóireacht
+Photon	Fótón
+Phylum	Fíleam
+Physician	Dochtúir leighis
+Physics	Fisic
+Physics	Catagóir:Fisic
+Pi (letter)	Pí
+Pictor	An Péintéir
+Pidgin	Nasctheanga
+Piedmont	Piedmont (na hIodáile)
+Pisa	Pisa
+Pisces (constellation)	Na hÉisc
+Pixel	Picteilín
+Pizza	Píotsa
+Planet	Pláinéad
+Plant	Planda
+Plato	Platón
+Pluto	Plútón (abhacphláinéad)
+Plutonium	Plútóiniam
+Plymouth	Plymouth
+Podcast	Podchraolachán
+Poetry	Filíocht
+Poland	An Pholainn
+Poland	Catagóir:An Pholainn
+Politics	Polaitíocht
+Politics	Catagóir:Polaitíocht
+Polonium	Polóiniam
+Pope	Pápa
+Portugal	An Phortaingéil
+Portugal	Catagóir:An Phortaingéil
+Potassium	Potaisiam
+Prague	Prág
+Precession	Luainíocht
+President of the United States	Uachtarán na Stát Aontaithe
+Prime minister	Príomh-Aire
+Prime number	Uimhir phríomha
+Prokaryote	Prócarót
+Protestant Reformation	Athleasú Creidimh
+Protestantism	Protastúnachas
+Protist	Prótaisteach
+Proton	Prótón
+Prussia	An Phrúis
+Psychiatry	Síciatracht
+Psychology	Síceolaíocht
+Psychology	Catagóir:Síceolaíocht
+Ptolemy	Tolamaes
+Puerto Rico	Pórtó Rice
+Puppis	Deireadh na Loinge
+Pyongyang	Pyongyang
+Pyrenees	Piréiní
+Pythagoras	Píotagarás
+Pyxis	Compás an Mhairnéalaigh
+Qatar	Catar
+Quark	Cuarc
+Quebec	Québec
+Queens	Queens
+Queensland	Queensland
+Rabat	Rabat
+Racism	Ciníochas
+Radio	Catagóir:Raidió
+Radioactive decay	Meath radaighníomhach
+Radon	Radón
+Random access memory	Cuimhne randamrochtana
+Religion	Creideamh
+Religion	Catagóir:Reiligiún
+Religious Society of Friends	Cumann na gCarad
+Renaissance	An Renaissance
+Republic	Poblacht
+Republic of Ireland	Poblacht na hÉireann
+Republic of Ireland	Catagóir:Éire
+Republic of the Congo	Poblacht an Chongó
+Republican Party (United States)	Páirtí Poblachtach (Stáit Aontaithe)
+Reticulum	An Líontán
+Rho (letter)	Ró
+Rhode Island	Oileán Rhode
+Richard Nixon	Richard Nixon
+Richard Wagner	Richard Wagner
+Riga	Ríge
+Ringo Starr	Ringo Starr
+Rio de Janeiro	Rio de Janeiro
+Rio de Janeiro (state)	Rio de Janeiro (stát)
+River Thames	Abhainn na Tamaise
+Riyadh	Riyadh
+Roald Amundsen	Roald Amundsen
+Robert A. Heinlein	Robert Anson Heinlein
+Robert Boyle	Robert Boyle
+Robert Koch	Robert Koch
+Robin Hood	Robin Hood
+Rock	Cloch, Páipéar, Siosúr
+Rocket	Roicéad
+Roman Catholic Church	Eaglais Chaitliceach Rómhánach
+Romania	An Rómáin
+Rome	An Róimh
+Ronald Reagan	Ronald W. Reagan
+Rosa Parks	Rosa Parks
+Router	Ródaire
+Rubidium	Rúbaidiam
+Rugby football	Rugbaí
+Russia	An Rúis
+Russia	Catagóir:An Rúis
+Russian Revolution (1917)	Réabhlóid na Rúise 1917
+Rutherford B. Hayes	Rutherford B. Hayes
+Rwanda	Ruanda
+Sacramento	Sacramento
+Saddam Hussein	Saddam Hussein
+Sagitta	An tSaighead
+Sagittarius (constellation)	An Saighdeoir
+Sahara	An Sahára
+Saint Andrew	Naomh Aindriú
+Saint Kitts and Nevis	San Críostóir-Nimheas
+Saint Lucia	San Lúisia
+Saint Patrick	Naomh Pádraig
+Saint Paul	Saint Paul, Minnesota
+Saint Peter	Naomh Peadar
+Saint Petersburg	Cathair Pheadair
+Saint Vincent and the Grenadines	San Uinseann agus na Greanáidíní
+Saladin	Saladin
+Salvador	Salvador
+Samoa	Samó
+Samuel Beckett	Samuel Beckett
+San Diego	San Diego, California
+San Francisco	San Francisco, California
+San Juan	San Juan
+San Marino	San Mairíne
+Sanskrit	Sanscrait
+Santa Fe	Santa Fe, Nua-Mheicsiceo
+Santiago	Santiago de Chile
+Sarajevo	Sairéavó
+Sardinia	An tSairdín
+Saturday	Satharn
+Saturn	Satarn (pláinéad)
+Saudi Arabia	An Araib Shádach
+Saul Bellow	Saul Bellow
+Saxony	An tSacsain
+Scandinavia	Críoch Lochlann
+Science	Eolaíocht
+Science	Catagóir:Eolaíocht
+Scorpius	An Scairp
+Scotland	Albain
+Scottish Gaelic	Gaeilge na hAlban
+Sculptor (constellation)	An Dealbhóir
+Seattle	Seattle
+Second	Soicind
+Selenium	Seiléiniam
+Senegal	An tSeineagáil
+Seoul	Seoul
+September	Meán Fómhair
+September 11	11 Meán Fómhair
+September 11	9/11
+September 17	17 Meán Fómhair
+September 29	29 Meán Fómhair
+Serbia	An tSeirbia
+Serpens	An Phéist
+Seven Years' War	Cogadh na Seacht mBliana
+Seville	Sevilla
+Seychelles	Na Séiséil
+Shanghai	Shang-hai
+Sheffield	Sheffield
+Sicily	An tSicil
+Sierra Leone	Siarra Leon
+Sigma	Sigme
+Sigmund Freud	Sigmund Freud
+Sign language	Teanga chomharthaíochta
+Silicon	Sileacan
+Silver	Airgead (dúil)
+Simone de Beauvoir	Simone de Beauvoir
+Singapore	Singeapór
+Sitting Bull	Tarbh Suite
+Slovakia	An tSlóvaic
+Slovenia	An tSlóivéin
+Snooker	Snúcar
+Socialism	Sóisialachas
+Sociolinguistics	Sochtheangeolaíocht
+Sociology	Socheolaíocht
+Socrates	Sócraitéas
+Sodium	Sóidiam
+Software	Catagóir:Bogearraí
+Solar System	Grianchóras
+Somalia	An tSomáil
+Soul	Anam
+Sound	Fuaim
+South America	Meiriceá Theas
+South America	Catagóir:Meiriceá Theas
+South Carolina	Carolina Theas
+South Dakota	Dakota Theas
+South Korea	An Chóiré Theas
+Soviet Union	An tAontas Sóivéadach
+Spain	An Spáinn
+Spain	Catagóir:An Spáinn
+Spanish Civil War	Cogadh Cathartha na Spáinne
+Sparta	Sparta
+Spermatophyte	Spermatophyta
+Sport	Spórt
+Sri Lanka	Srí Lanca
+St. Louis	St. Louis
+State	Tír
+Staten Island	Oileán Staten, Nua Eabhrac
+Statistics	Staidreamh
+Steel	Cruach (miotal)
+Stephen Hawking	Stephen Hawking
+Sting	Sting
+Stockholm	Stócólm
+Stub	Teimpléad:Stumpa
+Sudan	An tSúdáin
+Sudoku	Sūdoku
+Sulfur	Sulfar
+Sun	An Ghrian
+Sunday	Domhnach
+Supernova	Ollnóva
+Surgeon	Máinliacht
+Surgery	Máinliacht
+Suriname	Suranam
+Swallow	Fáinleog
+Swaziland	An tSuasalainn
+Sweden	An tSualainn
+Switzerland	An Eilvéis
+Sydney	Sydney
+Syria	An tSiria
+Taj Mahal	Taj Mahal
+Tajikistan	An Táidsíceastáin
+Tallahassee	Tallahassee
+Tallinn	Tallinn
+Tampere	Tampere
+Tanzania	An Tansáin
+Tasmania	An Tasmáin
+Tau	Tó
+Taurus (constellation)	an Tarbh
+Tbilisi	Tbilisi
+Tegucigalpa	Tegucigalpa
+Tehran	Tehran
+Telecommunication	Teileachumarsáid
+Telescopium	An Teileascóp
+Television	Teilifís
+Tellurium	Teallúiream
+Tennessee	Tennessee
+Tennis	Leadóg
+Tethys (moon)	Tethys
+Texas	Texas
+Texas	Catagóir:Texas
+Thailand	An Téalainn
+Thales	Tailéas
+Thallium	Tailliam
+The Gambia	An Ghaimbia
+The Hague	An Háig
+Theodore Roosevelt	Theodore Roosevelt
+Theta	Téite
+Thomas Aquinas	Tomás ó Aquino
+Thomas Edison	Thomas Edison
+Thomas Jefferson	Thomas Jefferson
+Thomas Mann	Thomas Mann
+Thomas More	Thomas More
+Thucydides	Thucydides
+Thuringia	Thüringen
+Thursday	Déardaoin
+Tiber	Tibir
+Tibet	Catagóir:An Tibéid
+Timur	Timur Bacach
+Tin	Stán
+Tocantins (state)	Tocantins
+Togo	Tóga
+Toledo	Toledo
+Tom Hanks	Tom Hanks
+Tonga	Tonga
+Tongue	Teanga (anatamaíocht)
+Tony Blair	Tony Blair
+Torah	Tóra
+Toronto	Torontó
+Tower of London	Túr Londan
+Train	Traein
+Tram	Tram
+Transportation	Catagóir:Iompar
+Trento	Trento
+Triangulum	An Triantán
+Triangulum Australe	Triantán an Deiscirt
+Trinidad and Tobago	Oileán na Tríonóide agus Tobága
+Trinity	Tríonóid
+Trombone	Trombón
+Troy	Traoi
+Trumpet	Trumpa
+Truth	Fírinne
+Tsunami	Súnámaí
+Tuberculosis	Eitinn
+Tucana	An Túcán
+Tuesday	Máirt
+Tunicate	Urochordata
+Tunisia	An Túinéis
+Turkey	An Tuirc
+Turkmenistan	An Tuircméanastáin
+Tuscany	An Tuscáin
+Tuvalu	Tuvalu
+UNESCO	UNESCO
+Uganda	Uganda
+Ukraine	An Úcráin
+Ulan Bator	Ulánbátar
+Ulster	Cúige Uladh
+Ulysses S. Grant	Ulysses S. Grant
+Umbria	Umbria
+Unidentified flying object	Úfó
+United Arab Emirates	Aontas na nÉimíríochtaí Arabacha
+United Kingdom	An Ríocht Aontaithe
+United Kingdom	Catagóir:Ríocht Aontaithe
+United Nations	Náisiúin Aontaithe
+United States	Stáit Aontaithe Mheiriceá
+United States	Catagóir:Stáit Aontaithe Mheiriceá
+United States Senate	Seanad Stáit Aontaithe Mheiriceá
+University	Ollscoil
+Ununhexium	Únúinheicsiam
+Upsilon	Upsalón
+Uranium	Úráiniam
+Uranus	Úránas (pláinéad)
+Urdu	Urdais
+Ursa Major	An Béar Mór
+Ursa Minor	An Béar Beag
+Uruguay	Uragua
+Utah	Utah
+Utrecht (city)	Utrecht (cathair)
+Utrecht (province)	Utrecht (cúige)
+Uzbekistan	An Úisbéiceastáin
+Valletta	Vaileite
+Vancouver	Vancouver
+Vanuatu	Vanuatú
+Vatican City	Cathair na Vatacáine
+Vega	Vega (réalta)
+Vela (constellation)	Na Seolta
+Veneto	Veneto
+Venezuela	Veiniséala
+Venice	An Veinéis
+Venus	Véineas (pláinéad)
+Venus (disambiguation)	Véineas
+Vermont	Vermont
+Vertebrate	Veirteabrach
+Victor Hugo	Victor Hugo
+Victoria	Victoria, an Cholóim Bhriotanach
+Victoria (Australia)	Victoria (stát)
+Victoria Falls	Mosi-oa-Tunya
+Video	Físeán
+Vienna	Vín
+Vietnam	Vítneam
+Vietnam	Catagóir:Vítneam
+Vietnam War	Cogadh Vítneam
+Viking	Na Lochlannaigh
+Vilnius	Vilnias
+Vincent van Gogh	Vincent van Gogh
+Virgil	Veirgil
+Virginia	Virginia
+Virgo (constellation)	An Mhaighdean
+Virus	Víreas
+Vladimir Lenin	Vlaidímír Léinín
+Vladimir Putin	Vladímír Pútín
+Volans	An tIasc Eitilte
+Voltaire	Voltaire
+Vulpecula	An Sionnach
+Wales	An Bhreatain Bheag
+Wales	Catagóir:An Bhreatain Bheag
+Walt Disney	Walt Disney
+Walter Scott	Walter Scott
+Wars of the Roses	Cogadh na Rósanna
+Warsaw	Vársá
+Washington	Washington
+Water	Uisce
+Weather	Aimsir (meitéareolaíocht)
+Web browser	Brabhsálaí gréasáin
+Wednesday	Céadaoin
+Weimar Republic	Poblacht Weimar
+West Virginia	Virginia Thiar
+Western Australia	Iarthar na hAstráile
+Whisky	Uisce beatha
+Wide area network	Líonra achair fhairsing
+William Butler Yeats	W. B. Yeats
+William Gladstone	William Ewart Gladstone
+William Harvey	William Harvey
+William Henry Harrison	William Henry Harrison
+William Howard Taft	William H. Taft
+William II	Uilliam II na Gearmáine
+William McKinley	William McKinley
+William Rowan Hamilton	William Rowan Hamilton
+William Shakespeare	William Shakespeare
+Wine	Fíon
+Winston Churchill	Winston Churchill
+Wisconsin	Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Woman	Bean
+Woodrow Wilson	Woodrow Wilson
+Woody Allen	Woody Allen
+World War I	An Chéad Chogadh Domhanda
+World War II	An Dara Cogadh Domhanda
+World War II	Catagóir:An Dara Cogadh Domhanda
+World Wide Web	Gréasán Domhanda
+Wyoming	Wyoming
+Xenon	Xeanón
+Xenophon	Xenophon
+Xi	Xí
+Yasser Arafat	Iasar Arafat
+Year	Bliain
+Yemen	Poblacht Éimin
+York	Eabhrac
+Yuri Gagarin	Yuri Gagarin
+Zachary Taylor	Zachary Taylor
+Zaragoza	Zaragoza
+Zeta	Zéite
+Zimbabwe	An tSiombáib
+Zimbabwe	Catagóir:An tSiombáib
+Zinc	Sinc
+Zombie	Zombaí
+Zoology	Zó-eolaíocht
+Zoroaster	Sorastar
+Zoroastrianism	Sorastrachas

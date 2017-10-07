@@ -1,0 +1,229 @@
+﻿English	Danish
+be	være
+break	bryde
+buy	købe
+close	lukke
+come	komme
+cut	klippe
+dance	danse
+do	anvende
+draw	tegne
+drink	drikke
+eat	spise
+fall	falde
+find	finde
+fire	affyre
+fly	flyve
+follow	følge
+forget	glemme
+get	få
+give	give
+have	få
+hear	erfare
+help	assistere
+hope	håbe
+jump	springe
+kiss	kysse
+laugh	grine
+learn	erfare
+lie	ligge
+lie	lyve
+like	bryde sig om
+listen	lytte
+look	se
+lose	miste
+love	elske
+meet	støde på
+move	flytte
+need	behøve
+offer	tilbyde
+open	åbne
+pay	betale
+play	lege
+pull	hive
+push	skubbe
+put	anbringe
+read	læse
+remember	mindes
+run	løbe
+say	sige
+sell	sælge
+sing	synge
+sit	sidde
+smile	smile
+take	tage
+talk	sige
+understand	forstå
+use	bruge
+wait	vente
+write	skrive
+accept	tage imod
+accuse	beskylde
+achieve	nå
+act	handle
+admit	erkende
+agree	stemme overens
+allow	tillade
+announce	meddele
+argue	diskutere
+arrive	komme
+ask	spørge
+attack	angribe
+avoid	undgå
+be	leve
+beat	overvinde
+become	blive
+benefit	gavne
+bring	give
+build	bygge
+call	ringe
+carry	bære
+change	forandre
+choose	vælge
+classify	klassificere
+clean	rense
+compare	sammenligne med
+contain	indeholde
+continue	vedblive med
+control	beherske
+cook	lave mad
+copy	kopiere
+cough	hoste
+crush	knuse
+cry	tude
+decide	beslutte
+describe	skildre
+design	formgive
+desire	gerne ville have
+develop	fremkalde
+die	omkomme
+discover	opdage
+discuss	diskutere
+divide	dele
+drive	køre
+embrace	omfatte
+encourage	opmuntre
+end	slutte
+enhance	forbedre
+enjoy	nyde
+enter	komme ind
+establish	oprette
+estimate	vurdere
+exceed	overgå
+exist	eksistere
+expect	afvente
+explain	forklare
+fight	kæmpe
+fill	fylde
+find	opdage
+forgive	tilgive
+free	befri
+grow	gro
+happen	ske
+hate	hade
+hide	skjule
+hold	holde
+identify	identificere
+include	inkludere
+increase	stige
+injure	krænke
+introduce	introducere
+join	forbinde
+keep	holde
+kick	sparke
+kill	dræbe
+land	lande
+last	holde
+lead	lede
+leave	efterlade
+let	lade
+lift	hejse
+limit	begrænse
+load	oplade
+lock	låse
+look	se ud
+lose	tabe
+manage	lede
+marry	gifte sig
+match	passe til
+mean	betyde
+mean	mene
+measure	måle
+mention	omtale
+miss	gå glip af
+miss	ramme ved siden af
+name	kalde
+own	eje
+pass	on overgive
+peel	skrælle
+plow	pløje
+poison	forgifte
+polish	pudse
+prepare	lave
+press	trykke sig
+prevent	forhindre
+print	trykke
+process	fremkalde
+protest	protestere
+prove	bevise
+publish	udgive
+raise	opdrage
+rate	vurdere
+reach	nå
+receive	modtage
+record	optage
+reduce	reducere
+reflect	reflektere
+refuse	afvise
+remove	fjerne
+render	stille tilbage
+reply	svare
+report	rapportere
+represent	symbolisere
+request	anmode om
+respect	ære
+reveal	afsløre
+risk	tage chancen
+rule	regere
+save	spare sammen
+save	redde
+see	se
+see	anse
+send	sende
+serve	gøre tjeneste
+sew	sy
+shout	skrige
+show	vise
+smell	dufte
+smell	dufte
+spend	tilbringe
+stand	holde
+stay	forblive
+steal	stjæle
+stop	standse
+study	studere
+suggest	foreslå
+supply	forsyne
+support	bakke op
+surprise	overraske
+taste	smage
+teach	undervise
+test	teste
+thank	takke
+throw	kaste
+title	kalde
+trade	handle
+train	uddanne
+travel	gå
+treat	behandle
+try	forsøge
+turn	dreje
+visit	se
+walk	gå
+warm	varme
+wash	vaske
+watch	betragte
+wear	have på
+weigh	veje
+win	vinde
+wish	ønske

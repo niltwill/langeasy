@@ -1,0 +1,7 @@
+Swedish	﻿English
+och	and
+emedan	because
+för	for
+om	if
+eller	or
+än	than

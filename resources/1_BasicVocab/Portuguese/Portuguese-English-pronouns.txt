@@ -1,0 +1,31 @@
+Portuguese	﻿English
+qualquer coisa	anything
+tudo	everything
+ele	he
+dela	her
+ele	him
+se	himself
+dele	his
+isto	it
+ele mesmo	itself
+mim	me
+meu	my
+nosso	our
+ela	she
+aquele	that
+seu	their
+lhes	them
+estes	these
+eles	they
+isto	this
+nos	us
+nós	we
+o que	what
+quando	when
+qual	which
+qual	which
+quem	who
+quem	whom
+cujo	whose
+tu, você	you
+teu (m), tua (f)	your

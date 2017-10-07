@@ -1,0 +1,450 @@
+Neapolitan	English
+1	1
+Uno	1 (number)
+10	10
+Diece	10 (number)
+100	100
+1000	1000
+101	101
+105	105
+11	11
+Unnece	11 (number)
+110	110
+115	115
+12	12
+Dùrece	12 (number)
+120	120
+125	125
+13	13
+130	130
+135	135
+14	14
+Quattuòrdece	14 (number)
+140	140
+144	144
+145	145
+15	15
+Quìnnece	15 (number)
+150	150
+155	155
+16	16
+Sìrece	16 (number)
+160	160
+165	165
+17	17
+Dicessètte	17 (number)
+170	170
+1728	1728
+175	175
+18	18
+Diciòtte	18 (number)
+180	180
+19	19
+Dicennòve	19 (number)
+190	190
+2	2
+Ddoje	2 (number)
+20	20
+Vinte	20 (number)
+200	200
+21	21
+Vintùne	21 (number)
+22	22
+Vintiròie	22 (number)
+23	23
+Vintitrè	23 (number)
+24	24
+Vintiquàtte	24 (number)
+25	25
+Vinticìnche	25 (number)
+26	26
+Vintisèie	26 (number)
+27	27
+Vintisètte	27 (number)
+28	28
+Vintòtte	28 (number)
+29	29
+Vintinòve	29 (number)
+3	3
+30	30
+Trenta	30 (number)
+300	300
+31	31
+Trentùne	31 (number)
+32	32
+Trentaròie	32 (number)
+33	33
+Trentatrè	33 (number)
+34	34
+Trentaquàtte	34 (number)
+35	35
+Trentacìnche	35 (number)
+36	36
+Trentasèie	36 (number)
+37	37
+Trentasètte	37 (number)
+38	38
+Trentòtte	38 (number)
+39	39
+Trentanòve	39 (number)
+4	4
+40	40
+Quaranta	40 (number)
+400	400
+41	41
+Quarantùno	41 (number)
+42	42
+Quarantadòje	42 (number)
+43	43
+Quarantatrè	43 (number)
+44	44
+45	45
+Quarantacìnche	45 (number)
+46	46
+Quarantasèie	46 (number)
+47	47
+48	48
+49	49
+Quarantanòve	49 (number)
+5	5
+50	50
+Cinquànta	50 (number)
+500	500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+Seie	6 (number)
+60	60
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+Sette	7 (number)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+Otto	8 (number)
+80	80
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+Nove	9 (number)
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+Abraham Lincoln	Abraham Lincoln
+Cugliandra	Acorn
+Mar Adriateco	Adriatic Sea
+Categoria:Africa	Africa
+Agrigento	Agrigento
+Alabama	Alabama
+Uerra civile merricana	American Civil War
+Anime	Anime
+Anversa	Antwerp
+Abbrile	April
+14 'e abbrile	April 14
+Pùglia	Apulia
+Archeologgia	Archaeology
+Architettura	Architecture
+Categoria:Architettura	Architecture
+Argentina	Argentina
+Arte	Art
+Categoria:Arte	Arts
+Asia	Asia
+Categoria:Asia	Asia
+Astronumia	Astronomy
+Categoria:Astronumia	Astronomy
+Aùsto	August
+1 'e aùsto	August 1
+15 'e aùsto	August 15
+6 'e aùsto	August 6
+Bari	Bari
+Vasenicola	Basil
+Lucania	Basilicata
+Beirut	Beirut
+Belge	Belgium
+Berlino	Berlin
+Categoria:Berlino	Berlin
+Biologgia	Biology
+Bologna	Bologna
+Bolzano	Bolzano
+Libbro	Book
+Bosnia-Erzegovina	Bosnia and Herzegovina
+Brescia	Brescia
+Brinnese	Brindisi
+Bruce Lee	Bruce Lee
+Bruxelles	Brussels
+Buenos Aires	Buenos Aires
+Calavria	Calabria
+Campania	Campania
+Canadà	Canada
+Crapecuorno	Capricornus
+Ceramica	Ceramic
+Caso	Cheese
+Cerasa	Cherry
+Cicero	Chickpea
+Categoria:Crestianesemo	Christianity
+Categoria:Natale	Christmas
+Scarrafone	Cockroach
+Computer	Computer
+Categoria:Nfurmatica	Computer science
+Custantenobbule	Constantinople
+Copenaghen	Copenhagen
+Cremona	Cremona
+Cricket	Cricket
+Categoria:Cultura	Culture
+Curitiba	Curitiba
+Ballo	Dance
+Categoria:Danza	Dance
+Categoria:Journe 'e l'anno	Days
+Dicembre	December
+31 'e dicembre	December 31
+8 'e dicembre	December 8
+Danemarca	Denmark
+Dezziunario	Dictionary
+Fotografía diggitale	Digital photography
+Dipromazzia	Diplomacy
+Categoria:Disambigua	Disambiguation
+Terra	Earth
+Pasca crestiana	Easter
+Aducazzione	Education
+Mulignana	Eggplant
+Naggitto	Egypt
+Emilia-Rumagna	Emilia-Romagna
+Lengua ngrese	English language
+Enrico Caruso	Enrico Caruso
+Ernest Hemingway	Ernest Hemingway
+Meles meles	Eurasian Badger
+Frevaro	February
+12 'e frevaro	February 12
+14 'e frevaro	February 14
+2 'e frevaro	February 2
+22 'e frevaro	February 22
+29 'e frevaro	February 29
+Ferrara	Ferrara
+Categoria:Cinema	Film
+Pellicule	Film
+Ffuoco	Fire
+Flea	Flea
+Sciorenza	Florence
+Folklore	Folklore
+Franza	France
+Categoria:Franza	France
+Frankfurt	Frankfurt
+Viernarì	Friday
+Frutto	Fruit
+Gaetano Donizetti	Gaetano Donizetti
+Ciardino	Garden
+Genova	Genoa
+Categoria:Giugrafia	Geography
+George W. Bush	George W. Bush
+Lengua germanese	German language
+Germania	Germany
+Giordano Bruno	Giordano Bruno
+Vrito	Glass
+Gracia	Greece
+Calannario greguriano	Gregorian calendar
+Gugliemo Marconi	Guglielmo Marconi
+Assia	Hesse
+Storiografia	Historiography
+Categoria:Storia	History
+Spassatiempe	Hobby
+Ungaria	Hungary
+Ipotesi	Hypothesis
+Innia	India
+Indonesia	Indonesia
+Isula	Island
+Israele	Israel
+Italia	Italy
+Jacques Cartier	Jacques Cartier
+Jennaro	January
+1 'e jennaro	January 1
+19 'e jennaro	January 19
+20 'e jennaro	January 20
+6 'e jennaro	January 6
+Giappone	Japan
+Marranzano	Jew's harp
+Luglio	July
+1 'e luglio	July 1
+4 'e luglio	July 4
+Giùgno	June
+14 'e giùgno	June 14
+21 'e giùgno	June 21
+23 'e giùgno	June 23
+24 'e giùgno	June 24
+29 'e giùgno	June 29
+3 'e giùgno	June 3
+Katovice	Katowice
+L'Aquila	L'Aquila
+La Spezia	La Spezia
+Laos	Laos
+Lengua latina	Latin
+Lazzio	Lazio
+Libbano	Lebanon
+Lipsia	Leipzig
+Libbia	Libya
+Luce	Light
+Liguria	Liguria
+Litteratura	Literature
+Categoria:Litteratura	Literature
+Lituania	Lithuania
+Lummardìa	Lombardy
+Lublino	Lublin
+Granone	Maize
+Lamantino	Manatee
+Mantova	Mantua
+Manascritto	Manuscript
+Màrzo	March
+17 'e màrzo	March 17
+19 'e màrzo	March 19
+2 'e màrzo	March 2
+25 'e màrzo	March 25
+Marche	Marche
+Categoria:Matemàteca	Mathematics
+Majo	May
+1 'e maggio	May 1
+24 'e maggio	May 24
+Mericina	Medicine
+Memphis	Memphis
+Messina	Messina
+Milano	Milan
+Mulise	Molise
+Lunnerì	Monday
+Montenegro	Montenegro
+Mundreale	Montreal
+Luna	Moon
+Vesuvio	Mount Vesuvius
+Monaco 'e Baviera	Munich
+Categoria:Múseca	Music
+Napule	Naples
+Ulanna	Netherlands
+Nova York	New York City
+Premmio Nobel	Nobel Prize
+Nuvembre	November
+1 'e nuvembre	November 1
+11 'e nuvembre	November 11
+2 'e nuvembre	November 2
+5 'e nuvembre	November 5
+Ottovre	October
+12 'e ottovre	October 12
+24 'e ottovre	October 24
+Padova	Padua
+Palermo	Palermo
+Paraguay	Paraguay
+Parigge	Paris
+Petrusino	Parsley
+Fotografía	Photography
+Físeca	Physics
+Categoria:Físeca	Physics
+Piemunte	Piedmont
+Pisa	Pisa
+Pizza	Pizza
+Chianeta	Planet
+Pulonnia	Poland
+Categoria:Pulonnia	Poland
+Categoria:Puliteca	Politics
+Pompei	Pompeii
+Purcellamma	Porcelain
+Purtuallo	Portugal
+Elenco 'e contranomme	Pseudonym
+Psicologgia	Psychology
+Quetzalcoatl	Quetzalcoatl
+Ravenna	Ravenna
+Mar Ruosso	Red Sea
+Reggione	Region
+Religgione	Religion
+Categoria:Religgione	Religion
+Sciummo	River
+Romma	Rome
+Categoria:Romma	Rome
+Salierno	Salerno
+San Marino	San Marino
+Zardegna	Sardinia
+Sassonia	Saxony
+Scultura	Sculpture
+Senegal	Senegal
+Settembre	September
+11 'e settembre	September 11
+17 'e settembre	September 17
+29 'e settembre	September 29
+Serbia	Serbia
+Sicilia	Sicily
+Solanaceae	Solanaceae
+Categoria:Solanaceae	Solanaceae
+Sofia Loren	Sophia Loren
+Spagna	Spain
+Sport	Sport
+Posema	Starch
+Sole	Sun
+Dummeneca	Sunday
+Sguezia	Sweden
+Sguizzera	Switzerland
+Categoria:Sguizzera	Switzerland
+Siracusa	Syracuse
+Ucchiarone	Telescope
+Tennessee	Tennessee
+Tiatro	Theatre
+Gioverì	Thursday
+Tivoli	Tivoli
+Pummarola	Tomato
+Diente	Tooth
+Trento	Trento
+Marterì	Tuesday
+Turino	Turin
+Turchía	Turkey
+Mar Tirreno	Tyrrhenian Sea
+Organizzazione d''e Nazzione Aunite pe ll'Aducazione, 'a Scienza e 'a Cultura	UNESCO
+Umbria	Umbria
+Gran Vretagna	United Kingdom
+State Aunite d'Amereca	United States
+Annevierzo	Universe
+Univerzità	University
+Cità d''o Vaticano	Vatican City
+Veneto	Veneto
+Venezia	Venice
+Verona	Verona
+Pareto	Vilfredo Pareto
+Vilnius	Vilnius
+Vittorio De Sica	Vittorio De Sica
+Varsavia	Warsaw
+Miercurì	Wednesday
+Wiesbaden	Wiesbaden
+William James	William James
+Fenesta	Window
+Winston Churchill	Winston Churchill
+Yemen	Yemen

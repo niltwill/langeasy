@@ -1,0 +1,273 @@
+Russian	﻿English
+быть	be
+начинаться	begin
+разбить	break
+купить	buy
+закрывать	close
+приходить	come
+резать	cut
+танцевать	dance
+проводить, практиковать	do
+рисовать	draw
+пить	drink
+есть	eat
+падать, упасть	fall
+чувствовать	feel
+находить	find
+стрелять	fire
+летать	fly
+следовать	follow
+забыть, забывать	forget
+получить	get
+давать	give
+иметь	have
+слышать	hear
+помочь	help
+надеяться	hope
+прыгать, скакать	jump
+целовать	kiss
+знать	know
+смеяться	laugh
+учить(ся)	learn
+лежать	lie
+лгать	lie
+нравиться, любить	like
+слушать	listen
+смотреть	look
+терять	lose
+любить	love
+делать	make
+встречать(ся)	meet
+двигать	move
+требовать	need
+предложить	offer
+открыть	open
+платить	pay
+играть	play
+тянуть	pull
+толкнуть	push
+класть	put
+читать	read
+помнить	remember
+бежать	run
+говорить	say
+продать	sell
+петь	sing
+сидеть	sit
+улыбаться	smile
+плавать	swim
+взять, брать	take
+говорить	talk
+понимать	understand
+использовать	use
+ждать	wait
+писать	write
+принять	accept
+обвинить	accuse
+достигать	achieve
+действовать	act
+придать	add
+сосчитать	add
+припустить, признать	admit
+поблиять	affect
+согласиться	agree
+разрешить	allow
+сообщить	announce
+спорить	argue
+приехать	arrive
+спрашивать	ask
+атаковать	attack
+уклониться, избежать	avoid
+жить	be
+нести	bear
+победить	beat
+стать	become
+относиться	behave
+верить	believe
+преуспевать	benefit
+куснуть	bite
+принести	bring
+строить	build
+спалить	burn
+звонить	call
+заботиться	care
+перенести	carry
+схватить	catch
+побудить	cause
+изменить	change
+выбрать	choose
+сортировать	classify
+чистить	clean
+сравнивать	compare
+соединить	connect
+заключать в себе, охватывать	contain
+продолжать	continue
+контролировать	control
+варить	cook
+копировать	copy
+кашлять	cough
+считать, пересчитывать	count
+разгромить	crush
+смять	crush
+плакать	cry
+решить	decide
+вручить	deliver
+описать	describe
+предложить	design
+хотеть	desire
+развиваться	develop
+умереть	die
+узнавать	discover
+дискутировать	discuss
+не любить	dislike
+разделить	divide
+сомневаться	doubt
+водить	drive
+заключать в себе, охватывать	embrace
+ободрить	encourage
+кончать	end
+увеличить	enhance
+радоваться	enjoy
+вступить	enter
+основать	establish
+оценить	estimate
+преодолеть	exceed
+быть	exist
+ждать	expect
+объяснять	explain
+выразить	express
+драться	fight
+наполнить	fill
+обнаружить	find
+out определить, узнать	find
+закончить, докончить	finish
+выравнить	flush
+простить	forgive
+освободить	free
+up поддаться	give
+расти	grow
+случиться	happen
+ненавидеть	hate
+скрывать	hide
+держать	hold
+опознать	identify
+включать	imply
+включить	include
+увеличивать(ся)	increase
+ранить	injure
+привести	introduce
+представить	introduce
+соединить(ся)	join
+сохранить	keep
+лягнуть	kick
+убить	kill
+приземлиться	land
+обойтись	last
+завести	lead
+оставить	leave
+оставить	let
+поднять	lift
+ограничивать	limit
+зарядить	load
+замкнуть	lock
+казаться	look
+проиграть	lose
+вести	manage
+жениться	marry
+сходиться	match
+обозначать	mean
+замышлять	mean
+мерить	measure
+цитировать	mention
+упустить	miss
+промахнуться	miss
+назвать	name
+управлять	operate
+приказать	order
+владеть	own
+on передавать	pass
+чистить	peel
+наметить	plan
+обрадовать	please
+пахать	plow
+отравить	poison
+глянцевать	polish
+приготовить	prepare
+сжать, нажать	press
+предотвратить	prevent
+напечатать	print
+выработать	process
+нажива, получать доход	profit
+возражать, протестовать	protest
+доказать	prove
+издать	publish
+воспитать	raise
+оценивать	rate
+достичь	reach
+получить	receive
+записать	record
+сократить	reduce
+отражать	reflect
+отказаться	refuse
+убрать	remove
+вернуть	render
+заменить	replace
+отвечать, ответить	reply
+сообщать	report
+символизировать	represent
+просить	request
+учитывать	respect
+отдыхать	rest
+разоблачить, открыть	reveal
+рисковать	risk
+off округлять(ся)	round
+править	rule
+копить	save
+спасти	save
+видеть	see
+считать	see
+послать, отправить	send
+служить	serve
+шить	sew
+разделять	share
+кричать	shout
+показать	show
+ударить	smash
+пахнуть	smell
+вонять	smell
+чуять	smell
+курить	smoke
+проходить	spend
+стоять	stand
+остаться	stay
+красть, воровать	steal
+останавить	stop
+изучать	study
+терпеть	suffer
+предложить	suggest
+предоставить	supply
+поддерживать	support
+предполагать	suppose
+удивить	surprise
+poпробовать	taste
+обучать	teach
+испытать	test
+благодарить	thank
+думать	think
+бросать, кидать	throw
+назвать	title
+торговать	trade
+дрессировать	train
+ходить	travel
+лечить	treat
+обмануть	trick
+попробовать	try
+повернуть	turn
+посетить	visit
+идти	walk
+нагревать	warm
+вымыть	wash
+смотреть	watch
+носить	wear
+взвешивать(ся)	weigh
+выиграть, победить	win

@@ -1,0 +1,181 @@
+Romanian	﻿English
+a rupe	break
+a cumpãra	buy
+a închide	close
+a veni	come
+a dansa	dance
+a exercita	do
+a desena	draw
+a bea	drink
+a trage	fire
+a zbura	fly
+a urma	follow
+a uita	forget
+a da	give
+a avea	have
+a afla	hear
+ajuta	help
+a spera	hope
+a sări	jump
+a consta	lie
+a auzi	listen
+a se uita	look
+a pierde	lose
+iubi	love
+a (se) mişca	move
+avea nevoie de	need
+a oferi	offer
+a (se) deschide	open
+a achita	pay
+a se juca	play
+a trage	pull
+a împinge	push
+a culca	put
+a-şi aminti	remember
+a alerga	run
+a povesti	say
+a se vinde	sell
+a zâmbi	smile
+a vorbi	talk
+a folosi	use
+a scrie	write
+accepta	accept
+recunoaşte	admit
+a fi de acord	agree
+anunţa	announce
+a sosi	arrive
+a cere	ask
+ataca	attack
+evita	avoid
+a trăi	be
+a purta	bear
+a deveni	become
+a crede	believe
+a construi	build
+a chema	call
+a duce	carry
+a (se) schimba	change
+a alege	choose
+a clasifica	classify
+a compara	compare
+conţine	contain
+a continua	continue
+a controla	control
+a găti	cook
+copia	copy
+a strivi	crush
+a plânge	cry
+a (se) hotărî	decide
+descrie	describe
+a vrea	desire
+a developa	develop
+a muri	die
+a descoperi	discover
+a discuta	discuss
+a împărţi	divide
+a cuprinde	embrace
+a încuraja	encourage
+creşte	enhance
+a intra	enter
+stabili	establish
+a întrece	exceed
+a exista	exist
+aştepta	expect
+explica	explain
+luptă	fight
+a (se) umple	fill
+descoperi	find
+termina	finish
+a egala	flush
+a ierta	forgive
+a elibera	free
+a se produce	happen
+a urî	hate
+a ascunde	hide
+a rezista	hold
+identifica	identify
+răni	injure
+a prezenta	introduce
+a uni	join
+a păstra	keep
+a lovi	kick
+a ucide	kill
+a debarca	land
+a conduce	lead
+a lăsa	leave
+a ridica	lift
+a limita	limit
+a (se) încuia	lock
+a părea	look
+a pierde	lose
+a conduce	manage
+a se potrivi	match
+a însemna	mean
+a intenţiona	mean
+a menţiona	mention
+a pierde	miss
+a boteza	name
+a poseda	own
+otravă	poison
+a lustrui	polish
+a (se) pregăti	prepare
+împiedica	prevent
+a prelucra	process
+a protesta	protest
+a dovedi	prove
+publica	publish
+ridica	raise
+a aprecia	rate
+a ajunge	reach
+a primi	receive
+a înregistra	record
+a reduce	reduce
+a reflecta	reflect
+a refuza	refuse
+a lua	remove
+înlocui	replace
+a replica	reply
+a anunţa	report
+a simboliza	represent
+a cere	request
+respecta	respect
+a dezvălui	reveal
+a risca	risk
+a economisi	save
+a salva	save
+a vedea	see
+a considera	see
+poştă	send
+a coase	sew
+a împărţi	share
+a striga	shout
+a demonstra	show
+a mirosi	smell
+a mirosi	smell
+a petrece	spend
+a sta	stand
+a fura	steal
+a opri	stop
+a studia	study
+sugera	suggest
+furniza	supply
+sprijini	support
+a surprinde	surprise
+a gusta	taste
+instrui	teach
+a încerca	test
+mulţumi	thank
+a arunca	throw
+a intitula	title
+comerţ	trade
+antrena	train
+a merge	travel
+a trata	treat
+înşela	trick
+a încerca	try
+a vizita	visit
+a se plimba	walk
+a (se) spăla	wash
+a privi	watch
+a cântări	weigh
+victorie	win

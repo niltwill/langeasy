@@ -1,0 +1,8 @@
+﻿English	Hungarian
+and	és
+because	mert
+for	ugyanis
+if	ha
+or	vagy
+than	mint
+until	-ig

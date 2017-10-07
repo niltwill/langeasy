@@ -1,0 +1,7427 @@
+Japanese	English
+1年	1
+1	1 (number)
+10年	10
+10	10 (number)
+100年	100
+Category:100年	100
+100	100 (number)
+1000年	1000
+Category:1000年	1000
+1000	1000 (number)
+101年	101
+105年	105
+11年	11
+11	11 (number)
+110年	110
+115年	115
+12年	12
+Category:12年	12
+12	12 (number)
+120年	120
+125年	125
+13年	13
+13	13 (number)
+130年	130
+135年	135
+14年	14
+Category:14年	14
+14	14 (number)
+140年	140
+144年	144
+145年	145
+15年	15
+15	15 (number)
+150年	150
+1530年代	1530s
+155年	155
+16年	16
+Category:16年	16
+16	16 (number)
+160年	160
+165年	165
+17年	17
+Category:17年	17
+17	17 (number)
+170年	170
+1728年	1728
+Category:1728年	1728
+175年	175
+1750年代	1750s
+Category:1750年代	1750s
+1760年代	1760s
+Category:1760年代	1760s
+1770年代	1770s
+Category:1770年代	1770s
+1780年代	1780s
+Category:1780年代	1780s
+1790年代	1790s
+Category:1790年代	1790s
+18年	18
+18	18 (number)
+180年	180
+1820年代	1820s
+Category:1820年代	1820s
+1830年代	1830s
+Category:1830年代	1830s
+1840年代	1840s
+Category:1840年代	1840s
+1850年代	1850s
+1860年代	1860s
+Category:1860年代	1860s
+1870年代	1870s
+Category:1870年代	1870s
+1880年代	1880s
+Category:1880年代	1880s
+1890年代	1890s
+Category:1890年代	1890s
+19年	19
+19	19 (number)
+190年	190
+1900年代	1900s
+Category:1900年代	1900s
+1920年代	1920s
+Category:1920年代	1920s
+1930年代	1930s
+Category:1930年代	1930s
+1940年代	1940s
+Category:1940年代	1940s
+1950年代	1950s
+Category:1950年代	1950s
+1960年代	1960s
+Category:1960年代	1960s
+1970年代	1970s
+Category:1970年代	1970s
+1980年代	1980s
+Category:1980年代	1980s
+1990年代	1990s
+Category:1990年代	1990s
+2年	2
+2	2 (number)
+20年	20
+20	20 (number)
+200年	200
+21年	21
+21	21 (number)
+22年	22
+22	22 (number)
+23年	23
+23	23 (number)
+24年	24
+24 -TWENTY FOUR-	24 (TV series)
+24	24 (number)
+25年	25
+25	25 (number)
+26年	26
+26	26 (number)
+27年	27
+27	27 (number)
+28年	28
+28	28 (number)
+29年	29
+29	29 (number)
+3年	3
+3	3 (number)
+30年	30
+30	30 (number)
+300年	300
+31年	31
+31	31 (number)
+32年	32
+32	32 (number)
+33年	33
+33	33 (number)
+34年	34
+34	34 (number)
+35年	35
+35	35 (number)
+36年	36
+36	36 (number)
+37年	37
+37	37 (number)
+38年	38
+38	38 (number)
+39年	39
+39	39 (number)
+4年	4
+4	4 (number)
+40年	40
+40	40 (number)
+400年	400
+41年	41
+41	41 (number)
+42年	42
+42	42 (number)
+43年	43
+43	43 (number)
+44年	44
+45年	45
+45	45 (number)
+46年	46
+46	46 (number)
+47年	47
+48年	48
+49年	49
+49	49 (number)
+5年	5
+5	5 (number)
+50年	50
+50	50 (number)
+500年	500
+Category:500年	500
+51年	51
+52年	52
+53年	53
+54年	54
+55年	55
+56年	56
+57年	57
+58年	58
+59年	59
+6年	6
+6	6 (number)
+60年	60
+60	60 (number)
+61年	61
+62年	62
+63年	63
+64年	64
+65年	65
+66年	66
+67年	67
+68年	68
+69年	69
+7年	7
+7	7 (number)
+70年	70
+71年	71
+72年	72
+73年	73
+74年	74
+75年	75
+76年	76
+77年	77
+78年	78
+79年	79
+8年	8
+8	8 (number)
+80年	80
+80	80 (number)
+81年	81
+82年	82
+83年	83
+84年	84
+85年	85
+86年	86
+87年	87
+88年	88
+89年	89
+9年	9
+9	9 (number)
+90年	90
+91年	91
+92年	92
+93年	93
+94年	94
+95年	95
+96年	96
+97年	97
+98年	98
+99年	99
+A	A
+А	A (Cyrillic)
+ア・カペラ	A cappella
+ABC	ABC
+後天性免疫不全症候群	AIDS
+ALGOL	ALGOL
+ATP	ATP
+AZアルクマール	AZ (football club)
+アーヘン	Aachen
+オールボー	Aalborg
+アーレ川	Aar
+ツチブタ	Aardvark
+オーフス	Aarhus
+アロン	Aaron
+そろばん	Abacus
+アーバーダーン	Abadan
+修道院長	Abbot
+略語	Abbreviation
+腹	Abdomen
+アベル・タスマン	Abel Tasman
+アーベル群	Abelian group
+アバディーン	Aberdeen
+アビジャン	Abidjan
+アブハジア	Abkhazia
+Category:アブハジア	Abkhazia
+奴隷制度廃止運動	Abolitionism
+人工妊娠中絶	Abortion
+アブラハム	Abraham
+エイブラハム・リンカーン	Abraham Lincoln
+アブサン	Absinthe
+絶対等級	Absolute magnitude
+絶対値	Absolute value
+絶対零度	Absolute zero
+抽象絵画	Abstract art
+抽象表現主義	Abstract expressionism
+抽象化	Abstraction
+アブダビ	Abu Dhabi
+アブダビ	Abu Dhabi (emirate)
+アブジャ	Abuja
+アカシア	Acacia
+アカデミー賞	Academy Award
+アカプルコ	Acapulco
+加速度	Acceleration
+タカ科 (Sibley)	Accipitridae
+アコーディオン	Accordion
+会計	Accountancy
+Category:会計	Accountancy
+アクラ	Accra
+対格	Accusative case
+アセトアルデヒド	Acetaldehyde
+酢酸	Acetic acid
+アセトン	Acetone
+アセチルコリン	Acetylcholine
+アセチレン	Acetylene
+アケロン川	Acheron
+セイヨウノコギリソウ	Achillea millefolium
+アキレウス	Achilles
+酸	Acid
+酸性雨	Acid rain
+ニキビ	Acne vulgaris
+アコンカグア	Aconcagua
+ドングリ	Acorn
+音響学	Acoustics
+エーカー	Acre
+アッコ	Acre
+アクレ州	Acre (state)
+アクロポリス	Acropolis
+アクチノイド	Actinide
+アクチニウム	Actinium
+俳優	Actor
+使徒行伝	Acts of the Apostles
+鍼	Acupuncture
+人身攻撃	Ad hominem
+Ada	Ada (programming language)
+アダム	Adam
+アダム・スミス	Adam Smith
+アダナ	Adana
+バオバブ	Adansonia
+依存症	Addiction
+アディスアベバ	Addis Ababa
+加法	Addition
+アデレード	Adelaide
+アデン	Aden
+アデニン	Adenine
+アデノシン三リン酸	Adenosine triphosphate
+断熱過程	Adiabatic process
+アディジェ川	Adige
+形容詞	Adjective
+海軍大将	Admiral
+青年期	Adolescence
+アドルフ・アイヒマン	Adolf Eichmann
+アドルフ・ヒトラー	Adolf Hitler
+アドーニス	Adonis
+養子縁組	Adoption
+副腎	Adrenal gland
+アドリア海	Adriatic Sea
+吸着	Adsorption
+大人	Adult
+アドベント	Advent
+副詞	Adverb
+広告	Advertising
+エーゲ海	Aegean Sea
+アエネアス	Aeneas
+アエネイス	Aeneid
+アイオロス	Aeolus
+空気力学	Aerodynamics
+浮遊粉塵	Aerosol
+アイスキュロス	Aeschylus
+アイソーポス	Aesop
+美学	Aesthetics
+接辞	Affix
+アフガニスタン	Afghanistan
+Category:アフガニスタン	Afghanistan
+アフリカ	Africa
+Category:アフリカ	Africa
+アフリカ系アメリカ人	African American
+アフリカーンス語	Afrikaans
+アガメムノーン	Agamemnon
+寒天	Agar
+メノウ	Agate
+アガサ・クリスティ	Agatha Christie
+攻撃行動	Aggression
+無顎類	Agnatha
+不可知論	Agnosticism
+アゴラ	Agora
+広場恐怖症	Agoraphobia
+アーグラ	Agra
+農業	Agriculture
+Category:農業	Agriculture
+アグリジェント	Agrigento
+合気道	Aikido
+アン県	Ain
+空軍	Air force
+エアバス	Airbus
+航空機	Aircraft
+Category:航空機	Aircraft
+航空母艦	Aircraft carrier
+航空会社	Airline
+空港	Airport
+アイアース	Ajax
+大アイアース	Ajax (mythology)
+Ajax	Ajax (programming)
+アメンホテプ4世	Akhenaten
+黒澤明	Akira Kurosawa
+アル・カポネ	Al Capone
+アル・ゴア	Al Gore
+アルカーイダ	Al-Qaeda
+アラバマ州	Alabama
+Category:アラバマ州	Alabama
+アラン・シェパード	Alan Shepard
+アラン・チューリング	Alan Turing
+アラニン	Alanine
+アラスカ州	Alaska
+Category:アラスカ州	Alaska
+アルバン・ベルク	Alban Berg
+アルバニア	Albania
+Category:アルバニア	Albania
+オールバニ (ニューヨーク州)	Albany
+アホウドリ亜科 (Sibley)	Albatross
+アルベド	Albedo
+アルバート・マイケルソン	Albert Abraham Michelson
+アルベール・カミュ	Albert Camus
+アルベルト・アインシュタイン	Albert Einstein
+アルベルト・シュバイツァー	Albert Schweitzer
+アルベルト・シュペーア	Albert Speer
+アルバータ州	Alberta
+Category:アルバータ州	Alberta
+アルビノ	Albinism
+曹長石	Albite
+アルバム	Album
+アルバカーキ	Albuquerque
+錬金術	Alchemy
+Category:錬金術	Alchemy
+アルコール	Alcohol
+酒	Alcoholic beverage
+アルコール依存症	Alcoholism
+アルデバラン	Aldebaran
+アルデヒド	Aldehyde
+ハンノキ	Alder
+オルダス・ハクスリー	Aldous Huxley
+アレック・ギネス	Alec Guinness
+アレクサンドル・ソルジェニーツィン	Aleksandr Solzhenitsyn
+アレッポ	Aleppo
+アリューシャン列島	Aleutian Islands
+アレクサンダー	Alexander
+アレクサンダー・フレミング	Alexander Fleming
+グレアム・ベル	Alexander Graham Bell
+アレクサンダー・ハミルトン	Alexander Hamilton
+アレキサンダー・ポープ	Alexander Pope
+アレクサンドル・プーシキン	Alexander Pushkin
+アレクサンドロス3世	Alexander the Great
+アレクサンドル・デュマ・ペール	Alexandre Dumas
+アレクサンドル・デュマ・フィス	Alexandre Dumas
+アレクサンドリア	Alexandria
+アレクシス・ド・トクヴィル	Alexis de Tocqueville
+アルフレド・ドレフュス	Alfred Dreyfus
+アルフレッド・ヒッチコック	Alfred Hitchcock
+アルフレッド・ノーベル	Alfred Nobel
+アルフレッド・ノース・ホワイトヘッド	Alfred North Whitehead
+アルフレッド・ラッセル・ウォレス	Alfred Russel Wallace
+アルフレッド大王	Alfred the Great
+藻類	Algae
+代数学	Algebra
+Category:代数学	Algebra
+代数的数	Algebraic number
+アルジェリア	Algeria
+Category:アルジェリア	Algeria
+アルジェ	Algiers
+アルゴリズム	Algorithm
+アルハンブラ宮殿	Alhambra
+アリー・イブン・アビー＝ターリブ	Ali
+第1族元素	Alkali metal
+アルカロイド	Alkaloid
+アルカン	Alkane
+アルケン	Alkene
+アルキン	Alkyne
+アッラーフ	Allah
+アレゴリー	Allegory
+対立遺伝子	Allele
+アレン・ギンズバーグ	Allen Ginsberg
+アレルギー	Allergy
+頭韻法	Alliteration
+異音	Allophone
+アロサウルス	Allosaurus
+同素体	Allotropy
+合金	Alloy
+生活暦	Almanac
+アルマトイ	Almaty
+アーモンド	Almond
+アロエ	Aloe
+Α	Alpha (letter)
+ケンタウルス座アルファ星	Alpha Centauri
+アルファ粒子	Alpha particle
+アルファベット	Alphabet
+アルプス山脈	Alps
+アルザス地域圏	Alsace
+アルタイル	Altair
+祭壇	Altar
+アルタイ山脈	Altay Mountains
+交流	Alternating current
+Category:代替医療	Alternative medicine
+代替医療	Alternative medicine
+奉仕	Altruism
+アルミニウム	Aluminium
+酸化アルミニウム	Aluminium oxide
+アルヴァ・アールト	Alvar Aalto
+アルツハイマー型認知症	Alzheimer's disease
+ベニテングタケ	Amanita muscaria
+タマゴテングタケ	Amanita phalloides
+ヒガンバナ科	Amaryllidaceae
+天照大神	Amaterasu
+アマゾン川	Amazon River
+大使	Ambassador
+コハク	Amber
+アンブロジウス	Ambrose
+アメデオ・アヴォガドロ	Amedeo Avogadro
+アメリア・イアハート	Amelia Earhart
+アメリカバイソン	American Bison
+アメリカグマ	American Black Bear
+南北戦争	American Civil War
+アメリカ独立戦争	American Revolutionary War
+アメリカ領サモア	American Samoa
+ASCII	American Standard Code for Information Interchange
+アメリカンフットボール	American football
+Category:アメリカンフットボール	American football
+アメリシウム	Americium
+アメリゴ・ヴェスプッチ	Amerigo Vespucci
+アメシスト	Amethyst
+アムハラ語	Amharic
+アミド	Amide
+アミン	Amine
+アミノ酸	Amino acid
+アーミッシュ	Amish
+アンマン	Amman
+電流計	Ammeter
+アンモニア	Ammonia
+健忘	Amnesia
+恩赦	Amnesty
+アンペア	Ampere
+アンフェタミン	Amphetamine
+両生類	Amphibian
+アンフィテアトルム	Amphitheatre
+アンフォラ	Amphora
+振幅	Amplitude
+アムステルダム	Amsterdam
+Category:アムステルダム	Amsterdam
+アメン	Amun
+アムール川	Amur
+アナバプテスト	Anabaptist
+アナグラム	Anagram
+アナハイム	Anaheim
+アナルセックス	Anal sex
+解析幾何学	Analytic geometry
+アナキズム	Anarchism
+Category:無政府主義	Anarchism
+カモ科 (Sibley)	Anatidae
+アナトール・フランス	Anatole France
+Category:解剖学	Anatomy
+解剖学	Anatomy
+アナクサゴラス	Anaxagoras
+アナクシマンドロス	Anaximander
+錨	Anchor
+アンカレッジ	Anchorage
+Category:古代史	Ancient history
+アンダルシア州	Andalusia
+アンダマン海	Andaman Sea
+アンデルス・セルシウス	Anders Celsius
+アンデス山脈	Andes
+アーンドラ・プラデーシュ州	Andhra Pradesh
+アンドラ	Andorra
+Category:アンドラ	Andorra
+アンドレーア・パッラーディオ	Andrea Palladio
+アンドレイ・サハロフ	Andrei Sakharov
+アンドレイ・タルコフスキー	Andrei Tarkovsky
+アンドリュー・ジャクソン	Andrew Jackson
+アンドリュー・ジョンソン	Andrew Johnson
+アンドルー・ロイド・ウェバー	Andrew Lloyd Webber
+人造人間	Android
+アンドロメダ (曖昧さ回避)	Andromeda
+アンドロメダ座	Andromeda (constellation)
+アンドロメダ	Andromeda (mythology)
+アンドロメダ銀河	Andromeda Galaxy
+アンディ・ウォーホル	Andy Warhol
+貧血	Anemia
+風速計	Anemometer
+麻酔	Anesthesia
+アンガラ川	Angara River
+天使	Angel
+エンジェルフォール	Angel Falls
+角度	Angle
+聖公会	Anglicanism
+アンゴラ	Angola
+Category:アンゴラ	Angola
+アンギラ	Anguilla
+角運動量	Angular momentum
+角速度	Angular velocity
+ボエティウス	Anicius Manlius Severinus Boethius
+アニリン	Aniline
+動物	Animal
+畜産	Animal husbandry
+アニメーション	Animation
+アニメ	Anime
+Category:日本のアニメ作品	Anime
+アニミズム	Animism
+アニス	Anise
+アンカラ	Ankara
+アナポリス (メリーランド州)	Annapolis
+アンナプルナ	Annapurna
+アン・ブーリン	Anne Boleyn
+環形動物	Annelid
+西暦	Anno Domini
+受胎告知	Annunciation
+アノード	Anode
+カモ目	Anseriformes
+Category:カモ目	Anseriformes
+アリ	Ant
+アンタキヤ	Antakya
+アンタルヤ	Antalya
+アンタナナリボ	Antananarivo
+南極大陸	Antarctica
+Category:南極	Antarctica
+アンタレス	Antares
+アンテナ	Antenna (radio)
+アンソニー・ホプキンス	Anthony Hopkins
+炭疽症	Anthrax
+人類学	Anthropology
+Category:人類学	Anthropology
+アントロポゾフィー	Anthroposophy
+抗生物質	Antibiotic
+抗体	Antibody
+反キリスト	Antichrist
+抗原	Antigen
+アンティゴネー	Antigone
+アンティグア・バーブーダ	Antigua and Barbuda
+Category:アンティグア・バーブーダ	Antigua and Barbuda
+反物質	Antimatter
+アンチモン	Antimony
+酸化防止剤	Antioxidant
+対立教皇	Antipope
+反ユダヤ主義	Antisemitism
+Category:反ユダヤ主義	Antisemitism
+ポンプ座	Antlia
+アントファガスタ	Antofagasta
+アントワーヌ・ラヴォアジエ	Antoine Lavoisier
+アントン・ブルックナー	Anton Bruckner
+アントン・チェーホフ	Anton Chekhov
+アントニオ・ストラディバリ	Antonio Stradivari
+アントニオ・ヴィヴァルディ	Antonio Vivaldi
+対義語	Antonym
+アントウェルペン	Antwerp
+アントウェルペン州	Antwerp (province)
+アヌビス	Anubis
+肛門	Anus
+大動脈	Aorta
+アパッチ族	Apache
+燐灰石	Apatite
+ヒト上科	Ape
+失語症	Aphasia
+格言	Aphorism
+アプロディーテー	Aphrodite
+アピア	Apia
+セリ科	Apiaceae
+外典	Apocrypha
+アマツバメ目	Apodiformes
+アポローン	Apollo
+アポロ	Apollo (disambiguation)
+アポロ計画	Apollo program
+Category:アポロ計画	Apollo program
+アポトーシス	Apoptosis
+アパラチア山脈	Appalachian Mountains
+虫垂炎	Appendicitis
+リンゴ	Apple
+応用数学	Applied mathematics
+アンズ	Apricot
+4月	April
+4月14日	April 14
+エイプリルフール	April Fools' Day
+アプス	Apse
+プッリャ州	Apulia
+ふうちょう座	Apus
+アカバ	Aqaba
+王水	Aqua regia
+アクアマリン	Aquamarine
+水族館	Aquarium
+みずがめ座	Aquarius (constellation)
+用水路	Aqueduct
+わし座	Aquila (constellation)
+アキテーヌ地域圏	Aquitaine
+さいだん座	Ara (constellation)
+アラブ人	Arab
+アラブ連盟	Arab League
+アラビア半島	Arabian Peninsula
+アラビア海	Arabian Sea
+アラビア文字	Arabic alphabet
+アラビア語	Arabic language
+サトイモ科	Araceae
+クモ綱	Arachnid
+アラフラ海	Arafura Sea
+アラゴン州	Aragon
+アラル海	Aral Sea
+アラム・ハチャトゥリアン	Aram Khachaturian
+アルカディア	Arcadia
+アルカンジェロ・コレッリ	Arcangelo Corelli
+アーチ	Arch
+考古学	Archaeology
+Category:考古学	Archaeology
+始祖鳥	Archaeopteryx
+大天使	Archangel
+大主教	Archbishop
+始生代	Archean
+元型	Archetype
+アルキメデス	Archimedes
+列島	Archipelago
+建築家	Architect
+建築	Architecture
+Category:建築	Architecture
+公文書館	Archive
+主竜類	Archosaur
+北極	Arctic
+北極圏	Arctic Circle
+北極海	Arctic Ocean
+ホッキョクギツネ	Arctic fox
+アルデンヌ	Ardennes
+アルデンヌ県	Ardennes (department)
+アール	Are
+面積	Area
+ヤシ	Arecaceae
+アレース	Ares
+アルゼンチン	Argentina
+Category:アルゼンチン	Argentina
+アルゴン	Argon
+アルゴス (地名)	Argos
+アリア	Aria
+アリアドネー	Ariadne
+アリウス派	Arianism
+おひつじ座	Aries (constellation)
+アリスタルコス	Aristarchus of Samos
+貴族制	Aristocracy
+アリストパネス	Aristophanes
+アリストテレス	Aristotle
+算術	Arithmetic
+Category:算術	Arithmetic
+等差数列	Arithmetic progression
+アリゾナ州	Arizona
+Category:アリゾナ州	Arizona
+契約の箱	Ark of the Covenant
+アーカンソー州	Arkansas
+Category:アーカンソー州	Arkansas
+アルル	Arles
+アルマジロ	Armadillo
+アルメニア	Armenia
+Category:アルメニア	Armenia
+アルメニア語	Armenian language
+アルミニウス (ゲルマン人)	Arminius
+鎧	Armour
+陸軍	Army
+アーネム	Arnhem
+アルノ川	Arno River
+アルノルト・シェーンベルク	Arnold Schoenberg
+芳香族炭化水素	Aromatic hydrocarbon
+火縄銃	Arquebus
+アラス	Arras
+矢	Arrow
+ヒ素	Arsenic
+芸術	Art
+アール・デコ	Art Deco
+アール・ヌーヴォー	Art Nouveau
+Category:芸術の歴史	Art history
+美術史	Art history
+アルテミス	Artemis
+ヨモギ属	Artemisia (plant)
+ニガヨモギ	Artemisia absinthium
+動脈	Artery
+関節炎	Arthritis
+節足動物	Arthropod
+アーサー・コンプトン	Arthur Compton
+アーサー・コナン・ドイル	Arthur Conan Doyle
+アーサー・ミラー	Arthur Miller
+アルチュール・ランボー	Arthur Rimbaud
+アルトゥル・ショーペンハウアー	Arthur Schopenhauer
+ウェリントン公アーサー・ウェルズリー	Arthur Wellesley
+人工知能	Artificial intelligence
+Category:人工知能	Artificial intelligence
+大砲	Artillery
+Category:大砲	Artillery
+美術家	Artist
+Category:芸術	Arts
+アルトゥーロ・トスカニーニ	Arturo Toscanini
+アルバ	Aruba
+Category:アルバ	Aruba
+石綿	Asbestos
+アスクレーピオス	Asclepius
+非性愛	Asexuality
+アースガルズ	Asgard
+灰の水曜日	Ash Wednesday
+アッシュールバニパル	Ashurbanipal
+アジア	Asia
+Category:アジア	Asia
+アスマラ	Asmara
+アスパルテーム	Aspartame
+アスファルト	Asphalt
+アスピリン	Aspirin
+アッサム州	Assam
+暗殺	Assassination
+アセンブリ言語	Assembly language
+東南アジア諸国連合	Association of Southeast Asian Nations
+アッシリア	Assyria
+Category:アッシリア	Assyria
+アスタナ	Astana
+アスタチン	Astatine
+キク科	Asteraceae
+Category:キク科	Asteraceae
+小惑星	Asteroid
+小惑星帯	Asteroid belt
+アセノスフェア	Asthenosphere
+気管支喘息	Asthma
+乱視	Astigmatism (eye)
+アストラハン	Astrakhan
+宇宙生物学	Astrobiology
+アストロラーベ	Astrolabe
+占星術	Astrology
+Category:占星術	Astrology
+位置天文学	Astrometry
+宇宙飛行士	Astronaut
+天文学者	Astronomer
+天文単位	Astronomical unit
+天文学	Astronomy
+Category:天文学	Astronomy
+Portal:天文学	Astronomy
+天体物理学	Astrophysics
+Category:天体物理学	Astrophysics
+アスワン	Aswan
+漸近線	Asymptote
+Asynchronous Transfer Mode	Asynchronous Transfer Mode
+アタカマ砂漠	Atacama Desert
+アテン	Aten
+アテーナー	Athena
+アテネ	Athens
+Category:陸上競技	Athletics
+陸上競技	Athletics (track and field)
+アトランタ	Atlanta
+大西洋	Atlantic Ocean
+Category:大西洋	Atlantic Ocean
+アトランティス	Atlantis
+アトラス (曖昧さ回避)	Atlas (disambiguation)
+アトラス (衛星)	Atlas (moon)
+アトラス	Atlas (mythology)
+アトラス山脈	Atlas Mountains
+大気圏	Atmosphere
+気圧	Atmospheric pressure
+環礁	Atoll
+原子	Atom
+原子時計	Atomic clock
+原子量	Atomic mass
+原子質量単位	Atomic mass unit
+原子番号	Atomic number
+Category:原子物理学	Atomic physics
+原子物理学	Atomic physics
+アトロピン	Atropine
+アッティカ	Attica
+アッティラ	Attila the Hun
+AU	Au
+オークランド (ニュージーランド)	Auckland
+競売	Auction
+8月	August
+8月1日	August 1
+8月15日	August 15
+8月6日	August 6
+ヨハン・アウグスト・ストリンドベリ	August Strindberg
+オーガスタ (メイン州)	Augusta
+オーギュスト・コント	Auguste Comte
+オーギュスト・ロダン	Auguste Rodin
+アウグスティヌス	Augustine of Hippo
+アウグストゥス	Augustus
+ぎょしゃ座	Auriga (constellation)
+オーロラ (曖昧さ回避)	Aurora
+オーロラ	Aurora (astronomy)
+オースティン	Austin
+オーストララシア	Australasia
+オーストラリア	Australia
+Category:オーストラリア	Australia
+オーストラリア・ドル	Australian dollar
+アウストラロピテクス属	Australopithecus
+オーストリア	Austria
+Category:オーストリア	Austria
+オーストリア＝ハンガリー帝国	Austria-Hungary
+作家	Author
+権威	Authority
+自閉症	Autism
+モータースポーツ	Auto racing
+自伝	Autobiography
+現金自動預け払い機	Automated teller machine
+自動車	Automobile
+自律神経系	Autonomic nervous system
+独立栄養生物	Autotroph
+秋	Autumn
+オーヴェルニュ地域圏	Auvergne (region)
+雪崩	Avalanche
+アバンギャルド	Avant-garde
+アヴァターラ	Avatar
+カラスムギ属	Avena
+イブン＝ルシュド	Averroes
+アヴェスター	Avesta
+Category:航空	Aviation
+航空	Aviation
+イブン＝スィーナー	Avicenna
+アヴィニョン	Avignon
+アボカド	Avocado
+アボガドロの法則	Avogadro's law
+斧	Axe
+公理	Axiom
+神経繊維	Axon
+アーヤトッラー	Ayatollah
+アイン・ランド	Ayn Rand
+アゼルバイジャン	Azerbaijan
+Category:アゼルバイジャン	Azerbaijan
+方位角	Azimuth
+アゾレス諸島	Azores
+アステカ	Aztec
+藍銅鉱	Azurite
+B	B
+BASIC	BASIC
+バアル	Baal
+ヒヒ	Baboon
+バビロン	Babylon
+バビロニア	Babylonia
+バックギャモン	Backgammon
+真正細菌	Bacteria
+Category:真正細菌	Bacteria
+ファージ	Bacteriophage
+フタコブラクダ	Bactrian Camel
+バドミントン	Badminton
+バフィン湾	Baffin Bay
+バフィン島	Baffin Island
+バグダード	Baghdad
+Category:バハマ	Bahamas
+バーレーン	Bahrain
+Category:バーレーン	Bahrain
+バハ・カリフォルニア州	Baja California
+バクラヴァ	Baklava
+バクー	Baku
+バラライカ	Balalaika
+貸借対照表	Balance sheet
+バルドル	Baldr
+バレアレス諸島	Balearic Islands
+ヒゲクジラ亜目	Baleen whale
+バリ島	Bali
+バルカン山脈	Balkan Mountains
+バルカン戦争	Balkan Wars
+バルカン半島	Balkans
+ボール	Ball
+バレエ	Ballet
+Category:バレエ	Ballet
+弾道ミサイル	Ballistic missile
+ボールペン	Ballpoint pen
+バルト海	Baltic Sea
+ボルチモア	Baltimore
+バマコ	Bamako
+竹	Bamboo
+バナナ	Banana
+バナナ共和国	Banana republic
+バンガロール	Bangalore
+バンコク	Bangkok
+バングラデシュ	Bangladesh
+Category:バングラデシュ	Bangladesh
+バンギ	Bangui
+バンジュール	Banjul
+銀行	Bank
+紙幣	Banknote
+Category:銀行	Banks
+洗礼	Baptism
+バプテスト教会	Baptist
+バール (単位)	Bar (unit)
+バルバドス	Barbados
+Category:バルバドス	Barbados
+野蛮	Barbarian
+バーブラ・ストライサンド	Barbra Streisand
+バルセロナ	Barcelona
+Category:バルセロナ	Barcelona
+バレンツ海	Barents Sea
+バーリ	Bari
+バリウム	Barium
+オオムギ	Barley
+メンフクロウ	Barn Owl
+ツバメ	Barn Swallow
+気圧計	Barometer
+男爵	Baron
+バロック	Baroque
+バランキヤ	Barranquilla
+バレル	Barrel (unit)
+バリオン	Baryon
+玄武岩	Basalt
+塩基	Base (chemistry)
+野球	Baseball
+Category:野球	Baseball
+バーゼル	Basel
+Bash	Bash
+担子菌門	Basidiomycota
+バジリコ	Basil
+カイサリアのバシレイオス	Basil of Caesarea
+バシリカ	Basilica
+バジリカータ州	Basilicata
+バシリスクス	Basiliscus
+バジリスク	Basilisk
+バスケットボール	Basketball
+Category:バスケットボール	Basketball
+バスラ	Basra
+エレクトリックベース	Bass guitar
+バス・ノルマンディー地域圏	Basse-Normandie
+バセテール	Basseterre
+ファゴット	Bassoon
+バステト	Bast (mythology)
+バスティーユ牢獄	Bastille
+コウモリ	Bat
+バース (イギリス)	Bath
+バットマン	Batman
+バトンルージュ	Baton Rouge
+Category:翼手目	Bats
+大隊	Battalion
+電池	Battery (electricity)
+アウステルリッツの戦い	Battle of Austerlitz
+バトル・オブ・ブリテン	Battle of Britain
+ヘースティングスの戦い	Battle of Hastings
+レパントの海戦	Battle of Lepanto (1571)
+マラトンの戦い	Battle of Marathon
+ミッドウェー海戦	Battle of Midway
+テルモピュライの戦い	Battle of Thermopylae
+トラファルガーの海戦	Battle of Trafalgar
+ヴェルダンの戦い	Battle of Verdun
+ワーテルローの戦い	Battle of Waterloo
+バルジの戦い	Battle of the Bulge
+ソンムの戦い	Battle of the Somme
+戦艦	Battleship
+バウハウス	Bauhaus
+ボーキサイト	Bauxite
+バイエルン州	Bavaria
+Category:バイエルン	Bavaria
+ゲッケイジュ	Bay Laurel
+ベンガル湾	Bay of Bengal
+ビスケー湾	Bay of Biscay
+バイエル社	Bayer
+銃剣	Bayonet
+バイヨンヌ	Bayonne
+砂浜	Beach
+ビーグル	Beagle
+くちばし	Beak
+クマ	Bear
+ボフォート海	Beaufort Sea
+風力	Beaufort scale
+ビーバー	Beaver
+ビバップ	Bebop
+ベクレル	Becquerel
+ベッド	Bed
+ベーダ・ヴェネラビリス	Bede
+ベドウィン	Bedouin
+ハチ	Bee
+ブナ	Beech
+ビール	Beer
+Category:ビール	Beer
+甲虫類	Beetle
+行動主義心理学	Behaviorism
+北京市	Beijing
+ベイルート	Beirut
+ベラルーシ	Belarus
+Category:ベラルーシ	Belarus
+ベルファスト	Belfast
+ベルギー	Belgium
+Category:ベルギー	Belgium
+ベオグラード	Belgrade
+ベリサリウス	Belisarius
+ベリーズ	Belize
+Category:ベリーズ	Belize
+鐘	Bell (instrument)
+ベレロポン	Bellerophon
+ベリーダンス	Belly dance
+ベロオリゾンテ	Belo Horizonte
+シロイルカ	Beluga
+ベネルクス	Benelux
+ベンガル地方	Bengal
+ベンガジ	Benghazi
+ベナン	Benin
+Category:ベナン	Benin
+ベニート・ムッソリーニ	Benito Mussolini
+ベンジャミン・ブリテン	Benjamin Britten
+ベンジャミン・ディズレーリ	Benjamin Disraeli
+ベンジャミン・フランクリン	Benjamin Franklin
+ベンジャミン・ハリソン	Benjamin Harrison
+ベニー・グッドマン	Benny Goodman
+ベオウルフ	Beowulf
+ベルゲン	Bergen
+ベーリング海	Bering Sea
+ベーリング海峡	Bering Strait
+バークリウム	Berkelium
+バークシャー	Berkshire
+ベルリン	Berlin
+Category:ベルリン	Berlin
+バミューダ諸島	Bermuda
+Category:バミューダ諸島	Bermuda
+バミューダトライアングル	Bermuda Triangle
+ベルナルド・ベルトルッチ	Bernardo Bertolucci
+ベルン	Berne
+ベルンハルト・リーマン	Bernhard Riemann
+ベリー	Berry
+ベルトルト・ブレヒト	Bertolt Brecht
+バートランド・ラッセル	Bertrand Russell
+緑柱石	Beryl
+ベリリウム	Beryllium
+Β	Beta (letter)
+ベータ崩壊	Beta decay
+ベテルギウス	Betelgeuse
+ベツレヘム	Bethlehem
+ベティ・デイヴィス	Bette Davis
+ビバリーヒルズ	Beverly Hills
+ベグ	Bey
+ブータン	Bhutan
+Category:ブータン	Bhutan
+聖書	Bible
+Category:聖書	Bible
+書誌学	Bibliography
+自転車	Bicycle
+ビッグバン	Big Bang
+ビハール州	Bihar
+ビキニ (水着)	Bikini
+胆汁	Bile
+ビル・クリントン	Bill Clinton
+ビル・ゲイツ	Bill Gates
+ビリー・ワイルダー	Billy Wilder
+連星	Binary star
+双眼鏡	Binoculars
+生化学	Biochemistry
+Category:生化学	Biochemistry
+生物多様性	Biodiversity
+生物地理学	Biogeography
+伝記	Biography
+生物兵器	Biological warfare
+生物学	Biology
+Category:生物学	Biology
+Portal:生物学	Biology
+バイオマス	Biomass
+生物群系	Biome
+生体認証	Biometrics
+生物物理学	Biophysics
+病理学#.E7.94.9F.E6.A4.9C.E7.B5.84.E7.B9.94.E8.A8.BA	Biopsy
+生物圏	Biosphere
+バイオテクノロジー	Biotechnology
+Category:バイオテクノロジー	Biotechnology
+ビオチン	Biotin
+双極性障害	Bipolar disorder
+カバノキ属	Birch
+鳥類	Bird
+バーミングハム (アラバマ州)	Birmingham
+避妊	Birth control
+両性愛	Bisexuality
+ビシュケク	Bishkek
+司教	Bishop
+ビショップ	Bishop (chess)
+ビスマーク (ノースダコタ州)	Bismarck
+ビスマルク	Bismarck (disambiguation)
+ビスマス	Bismuth
+ビサウ	Bissau
+ビット	Bit
+ビテュニア	Bithynia
+二枚貝	Bivalvia
+黒	Black
+ペスト#14世紀の大流行	Black Death
+シュヴァルツヴァルト	Black Forest
+トビ	Black Kite
+黒海	Black Sea
+ナベコウ	Black Stork
+黒体	Black body
+ブラックホール	Black hole
+コショウ	Black pepper
+クロウタドリ	Blackbird
+ブレーズ・パスカル	Blaise Pascal
+Blender	Blender (software)
+失明	Blindness
+電撃戦	Blitzkrieg
+ブルームフォンテーン	Bloemfontein
+ブログ	Blog
+血液	Blood
+血漿	Blood plasma
+血圧	Blood pressure
+血液型	Blood type
+血管	Blood vessel
+青	Blue
+シロナガスクジラ	Blue Whale
+ブルース	Blues
+イノシシ	Boar
+ボードゲーム	Board game
+ボブ・ディラン	Bob Dylan
+ボブ・マーリー	Bob Marley
+ボビー・フィッシャー	Bobby Fischer
+ボブスレー	Bobsleigh
+菩薩	Bodhisattva
+ボディマス指数	Body mass index
+ボディビル	Bodybuilding
+ボヘミア	Bohemia
+ボーリウム	Bohrium
+沸点	Boiling point
+ボイシ	Boise
+ヤマドリタケ	Boletus edulis
+ボリビア	Bolivia
+Category:ボリビア	Bolivia
+ボリウッド	Bollywood
+ボローニャ	Bologna
+ボリシェヴィキ	Bolshevik
+ボルツァーノ	Bolzano
+爆弾	Bomb
+爆撃機	Bomber
+カイコ	Bombyx mori
+債券	Bond (finance)
+骨	Bone
+骨髄	Bone marrow
+ボン	Bonn
+盆栽	Bonsai
+本	Book
+エステル記	Book of Esther
+ヨシュア記	Book of Joshua
+士師記	Book of Judges
+モルモン書	Book of Mormon
+民数記	Book of Numbers
+ヨハネの黙示録	Book of Revelation
+ルツ記	Book of Ruth
+ブール代数	Boolean algebra (structure)
+ブーメラン	Boomerang
+ボルドー	Bordeaux
+ボリス・ゴドゥノフ	Boris Godunov
+ボリス・パステルナーク	Boris Pasternak
+ボリス・スパスキー	Boris Spassky
+ボルネオ島	Borneo
+ホウ素	Boron
+ボスニア・ヘルツェゴビナ	Bosnia and Herzegovina
+Category:ボスニア・ヘルツェゴビナ	Bosnia and Herzegovina
+ボース粒子	Boson
+ボスポラス海峡	Bosporus
+ボストン	Boston
+ボストン茶会事件	Boston Tea Party
+Template:Bot	Bot
+植物園	Botanical garden
+植物学	Botany
+Category:植物学	Botany
+ボツワナ	Botswana
+Category:ボツワナ	Botswana
+ボトル	Bottle
+ハンドウイルカ	Bottlenose Dolphin
+ブルジョワジー	Bourgeoisie
+ブルゴーニュ地域圏	Bourgogne
+ブーベ島	Bouvet Island
+ウシ科	Bovid
+弓 (武器)	Bow (weapon)
+ボウリング	Bowling
+ボクサー (犬)	Boxer (dog)
+Category:ボクサー	Boxers
+ボクシング	Boxing
+Category:ボクシング	Boxing
+ボイルの法則	Boyle's law
+括弧	Bracket
+ブラガ	Braga
+ブラフマー	Brahma
+ブラマプトラ川	Brahmaputra River
+点字	Braille
+脳	Brain
+ブレインストーミング	Brainstorming
+ブラム・ストーカー	Bram Stoker
+ブランデンブルク州	Brandenburg
+ブランデー	Brandy
+黄銅	Brass
+アブラナ科	Brassicaceae
+ブラジャー	Brassiere
+ブラチスラヴァ	Bratislava
+ブラウンシュヴァイク	Braunschweig
+ブラジル	Brazil
+Category:ブラジル	Brazil
+ブラザヴィル	Brazzaville
+パン	Bread
+乳房	Breast
+乳癌	Breast cancer
+ブレーメン	Bremen
+ブレーメン州	Bremen (state)
+ブレーマーハーフェン	Bremerhaven
+ブレシア	Brescia
+ブレスト (フランス)	Brest
+ブレスト (ベラルーシ)	Brest
+ブレスト	Brest
+ブルターニュ地域圏	Bretagne
+煉瓦	Brick
+橋	Bridge
+Category:橋	Bridges
+ブリッジタウン	Bridgetown
+旅団	Brigade
+ブライトン	Brighton
+ブリンディジ	Brindisi
+ブリスベン	Brisbane
+ブリストル	Bristol
+ブリティッシュコロンビア州	British Columbia
+イギリス帝国	British Empire
+ブリテン諸島	British Isles
+イギリス領ヴァージン諸島	British Virgin Islands
+Category:イギリスの人物	British people
+ブルノ	Brno
+ブロードウェイ (ニューヨーク)	Broadway (New York City)
+ブロッコリー	Broccoli
+臭素	Bromine
+青銅	Bronze
+青銅器時代	Bronze Age
+ブルックリン区	Brooklyn
+ブルックリン橋	Brooklyn Bridge
+茶色	Brown
+ヒグマ	Brown Bear
+ブラウン運動	Brownian motion
+ブルース・リー	Bruce Lee
+ブルッヘ	Bruges
+ブルネイ	Brunei
+Category:ブルネイ	Brunei
+ブリュッセル	Brussels
+ペスト	Bubonic plague
+ブカレスト	Bucharest
+バッキンガム宮殿	Buckingham Palace
+バックミンスター・フラー	Buckminster Fuller
+ソバ	Buckwheat
+ブダペスト	Budapest
+仏陀	Buddha
+仏教	Buddhism
+Category:仏教	Buddhism
+バディ・ホリー	Buddy Holly
+ブエノスアイレス	Buenos Aires
+バッファロー (ニューヨーク州)	Buffalo
+建築物	Building
+ブジュンブラ	Bujumbura
+ブルガリア	Bulgaria
+Category:ブルガリア	Bulgaria
+マルハナバチ属	Bumblebee
+アルキメデスの原理	Buoyancy
+官僚制	Bureaucracy
+首長	Burgomaster
+ブルキナファソ	Burkina Faso
+Category:ブルキナファソ	Burkina Faso
+ミャンマー	Burma
+Category:ミャンマー	Burma
+ブルカ	Burqa
+ブルサ	Bursa
+Category:ブルンジ	Burundi
+バス (交通機関)	Bus
+バス (コンピュータ)	Bus (computing)
+ビジネス	Business
+Category:実業家	Businesspeople
+バスター・キートン	Buster Keaton
+ブタン	Butane
+バター	Butter
+チョウ	Butterfly
+バタフライ効果	Butterfly effect
+ブィドゴシュチュ	Bydgoszcz
+バイト (情報)	Byte
+Category:東ローマ帝国	Byzantine Empire
+C	C
+C言語	C (programming language)
+C・S・ルイス	C. S. Lewis
+CD (曖昧さ回避)	CD (disambiguation)
+CHAOS	CHAOS (Linux distribution)
+CNタワー	CN Tower
+COBOL	COBOL
+キャバレー	Cabaret
+カカオ	Cacao
+キャッシュ (コンピュータシステム)	Cache
+サボテン	Cactus
+カドミウム	Cadmium
+カドモス	Cadmus
+ちょうこくぐ座	Caelum
+セシウム	Caesium
+カフェイン	Caffeine
+カイロ (エジプト)	Cairo
+ケーキ	Cake
+カラブリア州	Calabria
+カレー (フランス)	Calais
+方解石	Calcite
+カルシウム	Calcium
+炭酸カルシウム	Calcium carbonate
+酸化カルシウム	Calcium oxide
+電卓	Calculator
+微分積分学	Calculus
+カルデラ	Caldera
+暦	Calendar
+口径	Caliber
+カリフォルニア州	California
+Category:カリフォルニア州	California
+カリホルニウム	Californium
+カリグラ	Caligula
+カリフ	Caliph
+カリグラフィー	Calligraphy
+カリオペー	Calliope
+カリスト (衛星)	Callisto (moon)
+カリストー	Callisto (mythology)
+カロリー	Calorie
+カルヴァドス県	Calvados
+ゴルゴタの丘	Calvary
+カルビン・クーリッジ	Calvin Coolidge
+カルヴァン主義	Calvinism
+カリュプソー	Calypso (mythology)
+カンボジア	Cambodia
+Category:カンボジア	Cambodia
+カンブリア紀	Cambrian
+ケンブリッジ	Cambridge
+ケンブリッジ (マサチューセッツ州)	Cambridge
+ケンブリッジ (曖昧さ回避)	Cambridge (disambiguation)
+ラクダ	Camel
+カマンベールチーズ	Camembert (cheese)
+カメラ	Camera
+カメルーン	Cameroon
+Category:カメルーン	Cameroon
+カンパニア州	Campania
+カナダ	Canada
+Category:カナダ	Canada
+カナダドル	Canadian dollar
+運河	Canal
+カナリア諸島	Canary Islands
+Category:カナリア諸島	Canary Islands
+キャンベラ	Canberra
+悪性腫瘍	Cancer
+かに座	Cancer (constellation)
+カンデラ	Candela
+ろうそく	Candle
+イヌ科	Canidae
+おおいぬ座	Canis Major
+こいぬ座	Canis Minor
+アサ	Cannabis
+大麻	Cannabis (drug)
+カンヌ	Cannes
+カニバリズム	Cannibalism
+カノン砲	Cannon
+カヌー	Canoe
+キヤノン	Canon (company)
+カノープス	Canopus
+カンタータ	Cantata
+カンタベリー	Canterbury
+広東語	Cantonese (linguistics)
+クヌーズ1世 (デンマーク王)	Canute the Great
+静電容量	Capacitance
+コンデンサ	Capacitor
+ケープカナベラル	Cape Canaveral
+ホーン岬	Cape Horn
+ケープタウン	Cape Town
+カーボベルデ	Cape Verde
+Category:カーボベルデ	Cape Verde
+喜望峰	Cape of Good Hope
+首都	Capital
+資本	Capital (economics)
+死刑	Capital punishment
+資本主義	Capitalism
+カッパドキア	Cappadocia
+やぎ座	Capricornus
+トウガラシ属	Capsicum
+カラカル	Caracal
+カラカス	Caracas
+スターフルーツ	Carambola
+カラット	Carat (mass)
+カラット	Carat (purity)
+ミケランジェロ・メリージ	Caravaggio
+炭水化物	Carbohydrate
+炭素	Carbon
+炭素循環	Carbon cycle
+二酸化炭素	Carbon dioxide
+一酸化炭素	Carbon monoxide
+炭酸	Carbonic acid
+石炭紀	Carboniferous
+カルボン酸	Carboxylic acid
+キャブレター	Carburetor
+カードゲーム	Card game
+カルダモン	Cardamom
+カーディフ	Cardiff
+枢機卿	Cardinal (Catholicism)
+リシュリュー	Cardinal Richelieu
+循環器学	Cardiology
+Category:循環器学	Cardiology
+Category:循環器	Cardiovascular system
+西インド諸島	Caribbean
+Category:カリブ海	Caribbean
+カリブ海	Caribbean Sea
+戯画	Caricature
+りゅうこつ座	Carina (constellation)
+カール・デイヴィッド・アンダーソン	Carl David Anderson
+カール・グスタフ・ユング	Carl Jung
+カール・ルイス	Carl Lewis
+カール・マリア・フォン・ウェーバー	Carl Maria von Weber
+カール・オルフ	Carl Orff
+謝肉祭	Carnival
+ネコ目	Carnivora
+肉食動物	Carnivore
+食虫植物	Carnivorous plant
+カロリング朝	Carolingian dynasty
+カール・フォン・リンネ	Carolus Linnaeus
+カルパティア山脈	Carpathian Mountains
+ニンジン	Carrot
+カーソンシティ (ネバダ州)	Carson City
+カルタヘナ	Cartagena
+直交座標系	Cartesian coordinate system
+直積集合	Cartesian product
+カルタゴ	Carthage
+地図学	Cartography
+Category:地図学	Cartography
+ケーリー・グラント	Cary Grant
+ナデシコ目	Caryophyllales
+カサブランカ	Casablanca
+カシューナッツ	Cashew
+カジノ	Casino
+カスピ海	Caspian Sea
+カッサンドラー	Cassandra
+カシオペヤ座	Cassiopeia (constellation)
+鋳鉄	Cast iron
+カースト	Caste
+カスティーリャ	Castile (historical region)
+城	Castle
+キャスリング	Castling
+カストリーズ	Castries
+ネコ	Cat
+カタルーニャ州	Catalonia
+Category:カタルーニャ州	Catalonia
+触媒	Catalysis
+カタフラクト	Cataphract
+白内障	Cataract
+ナマズ目	Catfish
+カタリ派	Catharism
+大聖堂	Cathedral
+キャサリン・パー	Catherine Parr
+キャサリン・オブ・アラゴン	Catherine of Aragon
+カソード	Cathode
+カトリシズム	Catholicism
+ウシ	Cattle
+アマサギ	Cattle Egret
+ガイウス・ウァレリウス・カトゥルス	Catullus
+カフカース	Caucasus
+Category:カフカス	Caucasus
+カフカース山脈	Caucasus Mountains
+カリフラワー	Cauliflower
+因果	Causality
+騎兵	Cavalry
+洞窟	Cave
+キャビア	Caviar
+カイエンヌ	Cayenne
+ケイマン諸島	Cayman Islands
+セシル・ローズ	Cecil Rhodes
+ヒマラヤスギ属	Cedar
+セロリ	Celery
+天の赤道	Celestial equator
+Category:天体力学	Celestial mechanics
+天体力学	Celestial mechanics
+天球	Celestial sphere
+禁欲	Celibacy
+細胞	Cell (biology)
+細胞膜	Cell membrane
+細胞核	Cell nucleus
+細胞壁	Cell wall
+チェロ	Cello
+セルロース	Cellulose
+セルシウス度	Celsius
+セメント	Cement
+墓地	Cemetery
+新生代	Cenozoic
+国勢調査	Census
+ケンタウロス	Centaur
+ケンタウルス座	Centaurus
+重心	Center of mass
+センチメートル	Centimetre
+中部アフリカ	Central Africa
+中央アフリカ	Central African Republic
+Category:中央アフリカ	Central African Republic
+中央アメリカ	Central America
+Category:中央アメリカ	Central America
+アメリカ中央情報局	Central Intelligence Agency
+セントラル・パーク	Central Park
+中央同盟国	Central Powers
+中央銀行	Central bank
+中枢神経系	Central nervous system
+CPU	Central processing unit
+サントル地域圏	Centre
+世紀	Century
+頭足類	Cephalopod
+ケフェウス座	Cepheus (constellation)
+セラミックス	Ceramic
+ケルベロス	Cerberus
+穀物	Cereal
+小脳	Cerebellum
+セレス	Ceres
+ケレス (準惑星)	Ceres (dwarf planet)
+ケレース	Ceres (mythology)
+セリウム	Cerium
+チェーザレ・ボルジア	Cesare Borgia
+サナダムシ	Cestoda
+クジラ目	Cetacea
+くじら座	Cetus
+チャド	Chad
+Category:チャド	Chad
+ズアオアトリ	Chaffinch
+椅子	Chair
+玉髄	Chalcedony
+カメレオン座	Chamaeleon
+シャモア	Chamois
+シャンパン	Champagne (wine)
+シャンパーニュ＝アルデンヌ地域圏	Champagne-Ardenne
+英仏海峡トンネル	Channel Tunnel
+カオス	Chaos (mythology)
+チドリ目	Charadriiformes
+カール大帝	Charlemagne
+シャルルロワ	Charleroi
+チャールズ (プリンス・オブ・ウェールズ)	Charles
+シャルル・ボードレール	Charles Baudelaire
+チャールズ・ダーウィン	Charles Darwin
+チャールズ・ディケンズ	Charles Dickens
+シャルル・フーリエ	Charles Fourier
+チャールズ・リンドバーグ	Charles Lindbergh
+チャールズ・サンダース・パース	Charles Peirce
+チャールズ・ウィルソン	Charles Thomson Rees Wilson
+シャルル・ド・ゴール	Charles de Gaulle
+シャルル2世 (西フランク王)	Charles the Bald
+チャールストン (ウェストバージニア州)	Charleston
+チャールズ・チャップリン	Charlie Chaplin
+チャーリー・パーカー	Charlie Parker
+シャーロット (ノースカロライナ州)	Charlotte
+チャームド	Charmed
+カロン (衛星)	Charon (moon)
+カローン	Charon (mythology)
+シャルトル	Chartres
+排外主義	Chauvinism
+チェ・ゲバラ	Che Guevara
+チェチェン共和国	Chechnya
+Category:チェチェン	Chechnya
+チーズ	Cheese
+チーター	Cheetah
+チェリャビンスク	Chelyabinsk
+化学結合	Chemical bond
+化合物	Chemical compound
+元素	Chemical element
+化学工学	Chemical engineering
+化学式	Chemical formula
+化学反応	Chemical reaction
+化学兵器	Chemical warfare
+化学	Chemistry
+Category:化学	Chemistry
+Portal:化学	Chemistry
+ケムニッツ	Chemnitz
+化学療法	Chemotherapy
+チェンナイ	Chennai
+小切手	Cheque
+チョルノーブィリ	Chernobyl
+サクランボ	Cherry
+燧石	Chert
+智天使	Cherub
+チェス	Chess
+Category:チェス	Chess
+オープニング (チェス)	Chess opening
+チェスター・A・アーサー	Chester A. Arthur
+クリ	Chestnut
+チューインガム	Chewing gum
+シャイアン (ワイオミング州)	Cheyenne
+Χ	Chi (letter)
+蒋介石	Chiang Kai-shek
+シカゴ	Chicago
+ニワトリ	Chicken
+水痘	Chickenpox
+ヒヨコマメ	Chickpea
+チワワ州	Chihuahua
+子供	Child
+分娩	Childbirth
+チリ	Chile
+Category:チリ	Chile
+チンボラソ	Chimborazo (volcano)
+キマイラ	Chimera (mythology)
+チンパンジー属	Chimpanzee
+Category:中国	China
+中国	China
+キオス	Chios
+ケイローン	Chiron
+キチン質	Chitin
+塩素	Chlorine
+クロロホルム	Chloroform
+クロロフィル	Chlorophyll
+葉緑体	Chloroplast
+チョコレート	Chocolate
+合唱	Choir
+コレラ	Cholera
+コレステロール	Cholesterol
+軟骨魚綱	Chondrichthyes
+重慶市	Chongqing
+和音	Chord (music)
+脊索動物	Chordate
+クライストチャーチ	Christchurch
+クリスティアーン・ホイヘンス	Christiaan Huygens
+クリスチャン・ディオール	Christian Dior
+キリスト教	Christianity
+Category:キリスト教	Christianity
+クリスマス	Christmas
+Category:クリスマス	Christmas
+クリスマス・イヴ	Christmas Eve
+クリスマスツリー	Christmas tree
+クリストファー・コロンブス	Christopher Columbus
+クリストファー・マーロウ	Christopher Marlowe
+クロマチン	Chromatin
+クロマトグラフィー	Chromatography
+クロム	Chromium
+染色体	Chromosome
+チャック・ベリー	Chuck Berry
+チュクチ海	Chukchi Sea
+教会	Church
+教会堂	Church (building)
+イングランド国教会	Church of England
+マルクス・トゥッリウス・キケロ	Cicero
+コウノトリ目	Ciconiiformes
+シードル	Cider
+紙巻きタバコ	Cigarette
+シンデレラ	Cinderella
+辰砂	Cinnabar
+シナモン	Cinnamon
+キルケー	Circe
+コンパス座	Circinus
+円 (数学)	Circle
+循環器	Circulatory system
+割礼	Circumcision
+サーカス	Circus
+肝硬変	Cirrhosis
+市民	Citizenship
+クエン酸	Citric acid
+クエン酸回路	Citric acid cycle
+柑橘類	Citrus
+都市国家	City-state
+内戦	Civil war
+文明	Civilization
+シヴィライゼーション	Civilization (computer game)
+クラリネット	Clarinet
+クラーク・ゲーブル	Clark Gable
+クラス	Class
+綱 (分類学)	Class (biology)
+クラス (コンピュータ)	Class (computer science)
+古典力学	Classical mechanics
+クラシック音楽	Classical music
+Category:クラシック音楽	Classical music
+古典主義	Classicism
+クロード・モネ	Claude Monet
+クロード・シャノン	Claude Shannon
+クラウディオ・モンテヴェルディ	Claudio Monteverdi
+クラウディウス	Claudius
+鎖骨	Clavicle
+粘土	Clay
+音部記号	Clef
+クレメント・アトリー	Clement Attlee
+クレオパトラ (曖昧さ回避)	Cleopatra (disambiguation)
+聖職者	Clergy
+クリーブランド (オハイオ州)	Cleveland
+クライアントサーバモデル	Client-server
+気候	Climate
+Category:気候	Climate
+気候変動	Climate change
+気候学	Climatology
+Category:気候学	Climatology
+うつ病	Clinical depression
+クレイオー	Clio
+陰核	Clitoris
+時計	Clock
+ビッグ・ベン	Clock Tower
+クローニング	Cloning
+Category:衣類	Clothing
+衣類	Clothing
+雲	Cloud
+クローブ	Clove
+クローバー	Clover
+クロヴィス1世	Clovis I
+刺胞動物	Cnidaria
+石炭	Coal
+海岸	Coast
+紋章	Coat of arms
+コバルト	Cobalt
+コカイン	Cocaine
+テントウムシ	Coccinellidae
+オウム	Cockatoo
+ゴキブリ	Cockroach
+カクテル	Cocktail
+ココナッツ	Coconut
+ココス (キーリング) 諸島	Cocos (Keeling) Islands
+コデイン	Codeine
+コーヒーノキ	Coffea
+コーヒー	Coffee
+Category:コーヒー	Coffee
+コニャック	Cognac (drink)
+認知心理学	Cognitive psychology
+認知科学	Cognitive science
+硬貨	Coin
+コーラ (飲料)	Cola
+コルキス	Colchis
+冷戦	Cold War
+Category:冷戦	Cold War
+コリン・パウエル	Colin Powell
+コラージュ	Collage
+コラーゲン	Collagen
+コロイド	Colloid
+ケルン	Cologne
+コロンビア	Colombia
+Category:コロンビア	Colombia
+コロンボ	Colombo
+大佐	Colonel
+植民地	Colony
+色	Color
+色覚異常	Color blindness
+コロラド州	Colorado
+Category:コロラド州	Colorado
+コロラド川	Colorado River
+コロッセオ	Colosseum
+ロードス島の巨像	Colossus of Rhodes
+ナミヘビ科	Colubrid
+はと座	Columba (constellation)
+コロンビア (サウスカロライナ州)	Columbia
+コロンビア (曖昧さ回避)	Columbia
+コロンビア川	Columbia River
+コロンビア大学	Columbia University
+鳩	Columbidae
+Category:ハト目	Columbiformes
+ハト目	Columbiformes
+コロンバス (オハイオ州)	Columbus
+コロンブス	Columbus
+昏睡	Coma
+かみのけ座	Coma Berenices
+燃焼	Combustion
+喜劇	Comedy
+コメニウス	Comenius
+彗星	Comet
+コンマ	Comma (punctuation)
+コンメディア・デッラルテ	Commedia dell'arte
+Category:商業	Commerce
+イチジク	Common Fig
+風邪	Common cold
+独立国家共同体	Commonwealth of Independent States
+イギリス連邦	Commonwealth of Nations
+Category:通信	Communication
+通信	Communication
+共産主義	Communism
+Category:共産主義	Communism
+コモロ	Comoros
+Category:コモロ	Comoros
+コンパクトディスク	Compact Disc
+中隊	Company (military unit)
+方位磁針	Compass
+コンパス	Compass (drafting)
+競技	Competition
+コンパイラ	Compiler
+CISC	Complex instruction set computer
+複素数	Complex number
+作曲家	Composer
+複合材料	Composite material
+合成数	Composite number
+計算言語学	Computational linguistics
+コンピュータ断層撮影	Computed tomography
+コンピュータ	Computer
+コンピュータ・アーキテクチャ	Computer architecture
+ディスプレイ (コンピュータ)	Computer display
+ファイル (コンピュータ)	Computer file
+Category:コンピュータグラフィックス	Computer graphics
+ハードウェア	Computer hardware
+Category:ハードウェア	Computer hardware
+コンピュータネットワーク	Computer network
+プログラム (コンピュータ)	Computer program
+プログラミング (コンピュータ)	Computer programming
+Category:プログラミング	Computer programming
+計算機科学	Computer science
+Category:計算機科学	Computer science
+ソフトウェア	Computer software
+コンピュータウイルス	Computer virus
+CAD	Computer-aided design
+Category:コンピュータ	Computing
+コナクリ	Conakry
+濃度	Concentration
+協奏曲	Concerto
+コンコード (ニューハンプシャー州)	Concord
+コンクリート	Concrete
+コンドーム	Condom
+指揮 (音楽)	Conducting
+円錐	Cone (geometry)
+アメリカ連合国	Confederate States of America
+国家連合	Confederation
+告解	Confession
+堅信	Confirmation
+紛争	Conflict
+儒教	Confucianism
+孔子	Confucius
+コンゴ	Congo
+コンゴ川	Congo River
+円錐曲線	Conic section
+コネチカット州	Connecticut
+Category:コネチカット州	Connecticut
+結合組織	Connective tissue
+コンキスタドール	Conquistador
+合意	Consensus
+エネルギー保存の法則	Conservation of energy
+保守	Conservatism
+子音	Consonant
+コンスタンティヌス1世	Constantine I
+コンスタンティノポリス	Constantinople
+星座	Constellation
+憲法	Constitution (political)
+執政官	Consul
+消費	Consumption (economics)
+コンタクトレンズ	Contact lens
+大陸	Continent
+大陸移動説	Continental drift
+大陸棚	Continental shelf
+契約	Contract
+コントラクトブリッジ	Contract bridge
+対流	Convection
+料理	Cooking
+生活協同組合	Cooperative
+座標	Coordinate system
+協定世界時	Coordinated Universal Time
+コペンハーゲン	Copenhagen
+銅	Copper
+著作権	Copyright
+コーラングレ	Cor anglais
+ブッポウソウ目	Coraciiformes
+サンゴ	Coral
+珊瑚海	Coral Sea
+サンゴ礁	Coral reef
+コリアンダー	Coriander
+コリントス	Corinth
+コリオリの力	Coriolis effect
+コーク (アイルランド)	Cork (city)
+ウ科 (Sibley)	Cormorant
+角膜	Cornea
+コーネル大学	Cornell University
+コーンウォール	Cornwall
+かんむり座	Corona Borealis
+株式会社	Corporation
+腐食	Corrosion
+コルシカ島	Corsica
+コランダム	Corundum
+コルベット	Corvette
+カラス科	Corvidae
+からす座	Corvus (constellation)
+宇宙背景放射	Cosmic microwave background radiation
+宇宙線	Cosmic ray
+宇宙論	Cosmology
+Category:宇宙論・宇宙物理学	Cosmology
+コスタリカ	Costa Rica
+Category:コスタリカ	Costa Rica
+コトヌー	Cotonou
+コトパクシ山	Cotopaxi
+木綿	Cotton
+ピューマ	Cougar
+クーロン	Coulomb
+クーロンの法則	Coulomb's law
+カルケドン公会議	Council of Chalcedon
+エフェソス公会議	Council of Ephesus
+トリエント公会議	Council of Trent
+対位法	Counterpoint
+国家	Country
+カントリー・ミュージック	Country music
+裁判所	Court
+共有結合	Covalent bond
+コヴェントリー	Coventry
+コヨーテ	Coyote
+カニ	Crab
+かに星雲	Crab Nebula
+ツル	Crane (bird)
+コップ座	Crater (constellation)
+創造論	Creationism
+クレモナ	Cremona
+白亜紀	Cretaceous
+クレタ島	Crete
+クリケット	Cricket
+コオロギ	Cricket (insect)
+犯罪	Crime
+クリミア自治共和国	Crimea
+クリミア戦争	Crimean War
+Category:刑法	Criminal law
+犯罪学	Criminology
+Category:犯罪学	Criminology
+クロアチア	Croatia
+Category:クロアチア	Croatia
+クロコダイル科	Crocodile
+ワニ	Crocodilia
+クロノス	Cronus
+十字	Cross
+クロス積	Cross product
+クロスボウ	Crossbow
+クロスワードパズル	Crossword
+鴉	Crow
+磔	Crucifixion
+巡洋艦	Cruiser
+地殻	Crust (geology)
+甲殻類	Crustacean
+みなみじゅうじ座	Crux
+暗号理論	Cryptography
+Category:暗号技術	Cryptography
+結晶	Crystal
+結晶学	Crystallography
+Category:結晶学	Crystallography
+有櫛動物	Ctenophore
+キューバ	Cuba
+Category:キューバ	Cuba
+正六面体	Cube
+立方メートル	Cubic metre
+キュビスム	Cubism
+カッコウ目	Cuculiformes
+キュウリ	Cucumber
+ウリ科	Cucurbitaceae
+文化大革命	Cultural Revolution
+文化	Culture
+Category:文化	Culture
+カンブリア (イングランド)	Cumbria
+積雲	Cumulus cloud
+ヒノキ科	Cupressaceae
+クリチバ	Curitiba
+キュリウム	Curium
+カーリング	Curling
+Category:通貨	Currency
+通貨	Currency
+カレー	Curry
+曲線	Curve
+クスコ	Cusco
+シアン (色)	Cyan
+シアン化物	Cyanide
+藍藻	Cyanobacteria
+キュベレー	Cybele
+サイバネティックス	Cybernetics
+サイバーパンク	Cyberpunk
+キクラデス諸島	Cyclades
+サイクリング	Cycling
+Category:自転車	Cycling
+サイクロン	Cyclone
+キュクロープス	Cyclops
+はくちょう座	Cygnus (constellation)
+円柱 (数学)	Cylinder (geometry)
+カヤツリグサ科	Cyperaceae
+コイ科	Cyprinid
+コイ目	Cypriniformes
+キプロス	Cyprus
+Category:キプロス	Cyprus
+キリル文字	Cyrillic alphabet
+大キュロス	Cyrus the Great
+嚢胞性線維症	Cystic fibrosis
+細胞質	Cytoplasm
+シトシン	Cytosine
+細胞骨格	Cytoskeleton
+チェコ	Czech Republic
+Category:チェコ	Czech Republic
+チェコスロバキア	Czechoslovakia
+Category:チェコスロバキア	Czechoslovakia
+D	D
+D・H・ローレンス	D. H. Lawrence
+D・W・グリフィス	D. W. Griffith
+DDT	DDT
+デオキシリボ核酸	DNA
+DOS (OS)	DOS
+DVD	DVD
+ダックスフント	Dachshund
+ダダイスム	Dada
+ダイダロス	Daedalus
+ダガー	Dagger
+ダゲレオタイプ	Daguerreotype
+ダリア	Dahlia
+ダカール	Dakar
+ダライ・ラマ	Dalai Lama
+ダラス	Dallas
+ダルマチア	Dalmatia
+ダム	Dam
+ダマスカス	Damascus
+ダンス	Dance
+Category:ダンス	Dance
+タンポポ	Dandelion
+ダニエル・ベルヌーイ	Daniel Bernoulli
+ダニエル・デフォー	Daniel Defoe
+ダニエル・オルテガ	Daniel Ortega
+デンマーク・クローネ	Danish krone
+ダンテ・アリギエーリ	Dante Alighieri
+ドナウ川	Danube
+ダプネー	Daphne
+ダルエスサラーム	Dar es Salaam
+ダーダネルス海峡	Dardanelles
+ダルフール	Darfur
+ダージリン	Darjeeling
+暗黒物質	Dark matter
+ダームスタチウム	Darmstadtium
+ダーウィン (オーストラリア)	Darwin
+ダーウィン	Darwin
+資本論	Das Kapital
+データ	Data
+データマイニング	Data mining
+データ構造	Data structure
+データベース	Database
+データベース管理システム	Database management system
+ナツメヤシ	Date Palm
+与格	Dative case
+ダウガフピルス	Daugavpils
+ダビデ	David
+ダフィット・ヒルベルト	David Hilbert
+デイヴィッド・ヒューム	David Hume
+デイヴィッド・リヴィングストン	David Livingstone
+デヴィッド・リカード	David Ricardo
+デビスカップ	Davis Cup
+日	Day
+Category:日付	Days
+デ・ファクト	De facto
+輔祭	Deacon
+死海	Dead Sea
+死海文書	Dead Sea scrolls
+ベラドンナ	Deadly nightshade
+死	Death
+Category:死	Death
+10年紀	Decade
+12月	December
+12月31日	December 31
+12月8日	December 8
+デシベル	Decibel
+十進法	Decimal
+デキウス	Decius (emperor)
+赤緯	Declination
+デコ・ソウザ	Deco
+脱構築	Deconstruction
+演繹	Deductive reasoning
+シカ	Deer
+定義	Definition
+デフレーション	Deflation
+度	Degree
+度 (角度)	Degree (angle)
+ダイモス (衛星)	Deimos (moon)
+理神論	Deism
+デラウェア州	Delaware
+Category:デラウェア州	Delaware
+デルフト	Delft
+デリー	Delhi
+デル	Dell
+デルポイ	Delphi
+いるか座	Delphinus
+デルタ	Delta
+Δ	Delta (letter)
+大洪水	Deluge (mythology)
+デマゴーグ	Demagogy
+認知症	Dementia
+デーメーテール	Demeter
+民主主義	Democracy
+民主党 (アメリカ)	Democratic Party (United States)
+コンゴ民主共和国	Democratic Republic of the Congo
+Category:コンゴ民主共和国	Democratic Republic of the Congo
+デモクリトス	Democritus
+人口統計学	Demography
+Category:人口	Demography
+悪霊	Demon
+デモステネス	Demosthenes
+トウ小平	Deng Xiaoping
+デング熱	Dengue fever
+ドゥニ・ディドロ	Denis Diderot
+デンマーク	Denmark
+Category:デンマーク	Denmark
+ガーボル・デーネシュ	Dennis Gabor
+密度	Density
+う蝕	Dental caries
+Category:歯学	Dentistry
+歯科学	Dentistry
+デンバー	Denver
+微分法	Derivative
+皮膚科学	Dermatology
+デモイン	Des Moines
+砂漠	Desert
+Category:砂漠	Deserts
+デジデリウス・エラスムス	Desiderius Erasmus
+デザイン	Design
+Category:デザイン	Design
+デズモンド・ムピロ・ツツ	Desmond Tutu
+駆逐艦	Destroyer
+行列式	Determinant
+決定論	Determinism
+デトロイト	Detroit
+重水素	Deuterium
+申命記	Deuteronomy
+発達心理学	Developmental psychology
+デバイスドライバ	Device driver
+デヴォン	Devon
+デボン紀	Devonian
+露	Dew
+露点温度	Dew point
+デューイ十進分類法	Dewey Decimal Classification
+ダッカ	Dhaka
+法 (仏教)	Dharma
+ダウラギリ	Dhaulagiri
+ドール	Dhole
+糖尿病	Diabetes mellitus
+ダイアクリティカルマーク	Diacritic
+方言	Dialect
+弁証法	Dialectic
+唯物弁証法	Dialectical materialism
+径	Diameter
+ダイヤモンド	Diamond
+ダイアナ (プリンセス・オブ・ウェールズ)	Diana
+ディアナ	Diana (mythology)
+下痢	Diarrhea
+ディアスポラ	Diaspora
+珪藻	Diatom
+サイコロ	Dice
+双子葉植物	Dicotyledon
+独裁政治	Dictatorship
+辞典	Dictionary
+ディエゴ・リベラ	Diego Rivera
+軽油	Diesel
+ディーゼルエンジン	Diesel engine
+ディートリッヒ・ボンヘッファー	Dietrich Bonhoeffer
+微分方程式	Differential equation
+回折	Diffraction
+拡散	Diffusion
+消化	Digestion
+Category:消化器	Digestive system
+デジタル	Digital
+デジタルカメラ	Digital camera
+デジタル写真	Digital photography
+デジタル加入者線	Digital subscriber line
+ディジョン	Dijon
+イノンド	Dill
+次元	Dimension
+ディンゴ	Dingo
+恐竜	Dinosaur
+教区	Diocese
+ディオクレティアヌス	Diocletian
+ダイオード	Diode
+ディオニューソス	Dionysus
+ジフテリア	Diphtheria
+二重母音	Diphthong
+ディプロドクス	Diplodocus
+外交	Diplomacy
+Category:外交	Diplomacy
+ダイアー・ストレイツ	Dire Straits
+直流	Direct current
+二糖	Disaccharide
+Category:曖昧さ回避	Disambiguation
+ディスクジョッキー	Disc jockey
+ディスクール	Discourse
+差別	Discrimination
+病気	Disease
+距離	Distance
+蒸留	Distillation
+発散	Divergence
+除法	Division (mathematics)
+師団	Division (military)
+離婚	Divorce
+ディジー・ガレスピー	Dizzy Gillespie
+Category:ジブチ	Djibouti
+ジブチ市	Djibouti (city)
+ドミトリ・メンデレーエフ	Dmitri Mendeleev
+ドミートリイ・ショスタコーヴィチ	Dmitri Shostakovich
+ドニエプル川	Dnieper River
+ドニプロペトロウシク	Dnipropetrovsk
+ドーベルマン	Doberman Pinscher
+教会博士	Doctor of the Church
+文書	Document
+正十二面体	Dodecahedron
+ドデカネス諸島	Dodecanese
+ドードー	Dodo
+ドドマ	Dodoma
+イヌ	Dog
+教義	Dogma
+ドーハ	Doha
+ドル	Dollar
+ドリー (羊)	Dolly (sheep)
+支石墓	Dolmen
+ドロマイト	Dolomite
+イルカ	Dolphin
+ドメイン (分類学)	Domain (biology)
+ドーム	Dome
+ドゥームズデイ・ブック	Domesday Book
+家畜化	Domestication
+ドミニカ国	Dominica
+Category:ドミニカ国	Dominica
+ドミニコ会	Dominican Order
+ドミニカ共和国	Dominican Republic
+Category:ドミニカ共和国	Dominican Republic
+ドミティアヌス	Domitian
+ドン・キホーテ	Don Quixote
+ドン川	Don River (Russia)
+ドナルドダック	Donald Duck
+ドナテッロ	Donatello
+ドナト・ブラマンテ	Donato Bramante
+ドネツィク	Donetsk
+ロバ	Donkey
+扉	Door
+ドーパミン	Dopamine
+ドップラー効果	Doppler effect
+かじき座	Dorado
+ドーリア式	Doric order
+ドリス・レッシング	Doris Lessing
+ドルトムント	Dortmund
+ドゥアラ	Douala
+コントラバス	Double bass
+ダグラス・マッカーサー	Douglas MacArthur
+ドーバー (デラウェア州)	Dover
+ドーバー (イギリス)	Dover
+ダウン症候群	Down syndrome
+りゅう座	Draco (constellation)
+ドラキュラ	Dracula
+ドラゴン	Dragon
+流域	Drainage basin
+ドラマ	Drama
+チェッカー	Draughts
+夢	Dream
+ドレスデン	Dresden
+飲料	Drink
+ヒトコブラクダ	Dromedary
+旱魃	Drought
+薬物依存症	Drug addiction
+ドルイド	Druid
+太鼓	Drum
+二元論	Dualism
+二元論	Dualism (philosophy of mind)
+ドバイ	Dubai
+ダブリン	Dublin
+ドブニウム	Dubnium
+ドゥブロヴニク	Dubrovnik
+鴨	Duck
+ジュゴン	Dugong
+公爵	Duke
+デューク・エリントン	Duke Ellington
+デューク大学	Duke University
+砂丘	Dune
+ダンケルク	Dunkirk
+十二指腸	Duodenum
+ダーバン	Durban
+ドゥシャンベ	Dushanbe
+ダスティン・ホフマン	Dustin Hoffman
+Category:オランダの人物	Dutch people
+ドワイト・D・アイゼンハワー	Dwight D. Eisenhower
+動力学	Dynamics (physics)
+ダイナマイト	Dynamite
+王朝	Dynasty
+ディスレクシア	Dyslexia
+ジスプロシウム	Dysprosium
+ディストピア	Dystopia
+E	E
+ネイピア数	E (mathematical constant)
+電子メール	E-mail
+E.T.A.ホフマン	E. T. A. Hoffmann
+ETA (民族組織)	ETA
+鷲	Eagle
+耳	Ear
+アシカ科	Eared seal
+アザラシ	Earless seal
+地球	Earth
+Category:地球	Earth
+地球科学	Earth science
+地震	Earthquake
+東	East
+東アフリカ	East Africa
+東シナ海	East China Sea
+ドイツ民主共和国	East Germany
+イースト・サセックス	East Sussex
+東ティモール	East Timor
+Category:東ティモール	East Timor
+復活祭	Easter
+正教会	Eastern Orthodox Church
+エボラ出血熱	Ebola
+エブロ川	Ebro
+離心率	Eccentricity (mathematics)
+コヘレトの言葉	Ecclesiastes
+ハリモグラ	Echidna
+エキドナ	Echidna (mythology)
+棘皮動物	Echinoderm
+食 (天文)	Eclipse
+Eclipse (統合開発環境)	Eclipse (software)
+黄道	Ecliptic
+ニッチ	Ecological niche
+生態学	Ecology
+Category:生態学	Ecology
+計量経済学	Econometrics
+経済学	Economics
+Category:経済学	Economics
+経済	Economy
+生態系	Ecosystem
+エクアドル	Ecuador
+Category:エクアドル	Ecuador
+公会議	Ecumenical council
+エドガー・アラン・ポー	Edgar Allan Poe
+エドガー・ドガ	Edgar Degas
+エドガー・ライス・バローズ	Edgar Rice Burroughs
+エディンバラ	Edinburgh
+エディルネ	Edirne
+エドモンド・ハレー	Edmond Halley
+エドモントン	Edmonton
+エドマンド・バーク	Edmund Burke
+エドモンド・ヒラリー	Edmund Hillary
+エトムント・フッサール	Edmund Husserl
+江戸	Edo
+エドゥアルト・ブフナー	Eduard Buchner
+教育	Education
+Category:教育	Education
+エドヴァルド・グリーグ	Edvard Grieg
+エドヴァルド・ムンク	Edvard Munch
+エドワード・ギボン	Edward Gibbon
+エドワード・ジェンナー	Edward Jenner
+エドワード・テラー	Edward Teller
+エドワード懺悔王	Edward the Confessor
+エドウィン・ハッブル	Edwin Hubble
+ウナギ目	Eel
+卵	Egg (biology)
+ナス	Eggplant
+エジプト	Egypt
+Category:エジプト	Egypt
+エジプト・ポンド	Egyptian pound
+エジプト学	Egyptology
+エッフェル塔	Eiffel Tower
+アイントホーフェン	Eindhoven
+アインスタイニウム	Einsteinium
+射精	Ejaculation
+エル・シド	El Cid
+エル・グレコ	El Greco
+エル・パソ (テキサス州)	El Paso
+エルサルバドル	El Salvador
+Category:エルサルバドル	El Salvador
+エラム	Elam
+エルベ川	Elbe
+エレノア・ルーズベルト	Eleanor Roosevelt
+選挙	Election
+エーレクトラー	Electra
+電荷	Electric charge
+電流	Electric current
+電場	Electric field
+エレクトリックギター	Electric guitar
+電動機	Electric motor
+Category:電気工学	Electrical engineering
+電気工学	Electrical engineering
+電気抵抗	Electrical resistance
+電気	Electricity
+Category:電気	Electricity
+心電図	Electrocardiogram
+電気化学	Electrochemistry
+Category:電気化学	Electrochemistry
+電気分解	Electrolysis
+電解液	Electrolyte
+電磁波	Electromagnetic radiation
+電磁スペクトル	Electromagnetic spectrum
+電磁気学	Electromagnetism
+Category:電磁気学	Electromagnetism
+電子	Electron
+電子顕微鏡	Electron microscope
+電気陰性度	Electronegativity
+電子工学	Electronics
+Category:電子工学	Electronics
+エレジー	Elegy
+エレメント	Element
+基本粒子	Elementary particle
+ゾウ	Elephant
+エレベーター	Elevator
+エルフ	Elf
+エリア・カザン	Elia Kazan
+エリアス・カネッティ	Elias Canetti
+エリヤ	Elijah
+エリザベス・テイラー	Elizabeth Taylor
+エラ・フィッツジェラルド	Ella Fitzgerald
+楕円	Ellipse
+リーダー (記号)	Ellipsis
+ニレ	Elm
+エルヴィス・プレスリー	Elvis Presley
+胚	Embryo
+エメラルド	Emerald
+エミリア＝ロマーニャ州	Emilia-Romagna
+エミリアーノ・サパタ	Emiliano Zapata
+エミリー・ディキンソン	Emily Dickinson
+アミール	Emir
+エマ・ゴールドマン	Emma Goldman
+顔文字	Emoticon
+感情	Emotion
+Category:心	Emotion
+共感	Empathy
+エンペドクレス	Empedocles
+皇帝	Emperor
+コウテイペンギン	Emperor Penguin
+帝国	Empire
+エンパイア・ステート・ビルディング	Empire State Building
+経験論	Empiricism
+エミュー	Emu
+エミュレータ	Emulator
+エマルション	Emulsion
+百科事典	Encyclopedia
+固有種	Endemism
+内分泌器	Endocrine system
+内分泌学	Endocrinology
+Category:内分泌学	Endocrinology
+エネルギー	Energy
+Category:エネルギー	Energy
+エネルギー資源	Energy (society)
+エンジン	Engine
+技術者	Engineer
+工学	Engineering
+Category:工学	Engineering
+イングランド	England
+Category:イングランド	England
+イギリス海峡	English Channel
+イングランド内戦	English Civil War
+英語	English language
+Category:英語	English language
+Category:イングランドの人物	English people
+エンキ (メソポタミア神話)	Enki
+エンリコ・カルーソー	Enrico Caruso
+エンリコ・フェルミ	Enrico Fermi
+Category:娯楽	Entertainment
+エンタルピー	Enthalpy
+昆虫学	Entomology
+Category:昆虫学	Entomology
+エントロピー	Entropy
+Category:環境	Environment
+環境	Environment
+酵素	Enzyme
+始新世	Eocene
+累代	Eon (geology)
+エーオース	Eos
+エフェソス	Ephesus
+叙事詩	Epic poetry
+震源#震央	Epicenter
+エピクテトス	Epictetus
+エピクロス	Epicurus
+伝染病	Epidemic
+疫学	Epidemiology
+金石学	Epigraphy
+てんかん	Epilepsy
+エピメーテウス	Epimetheus (mythology)
+アドレナリン	Epinephrine
+公現祭	Epiphany (Christian)
+イピロス	Epirus (periphery)
+認識論	Epistemology
+ガラテヤの信徒への手紙	Epistle to the Galatians
+ローマの信徒への手紙	Epistle to the Romans
+上皮細胞	Epithelium
+Ε	Epsilon
+方程式	Equation
+赤道	Equator
+赤道ギニア	Equatorial Guinea
+Category:赤道ギニア	Equatorial Guinea
+ウマ科	Equidae
+分点	Equinox
+トクサ植物門	Equisetum
+イレイジャー	Erasure
+エラトー	Erato
+エラトステネス	Eratosthenes
+エルビウム	Erbium
+エレボス	Erebus
+勃起不全	Erectile dysfunction
+勃起	Erection
+ツツジ科	Ericaceae
+ツツジ目	Ericales
+エリダヌス座	Eridanus (constellation)
+エリク・アクセル・カールフェルト	Erik Axel Karlfeldt
+エリック・サティ	Erik Satie
+エリス (準惑星)	Eris (dwarf planet)
+エリス	Eris (mythology)
+Category:エリトリア	Eritrea
+アーネスト・ヘミングウェイ	Ernest Hemingway
+アーネスト・ラザフォード	Ernest Rutherford
+ヴェルナー・フォン・ジーメンス	Ernst Werner von Siemens
+エロース	Eros (mythology)
+侵食	Erosion
+エロティカ	Erotica
+エルヴィン・ロンメル	Erwin Rommel
+宇宙速度	Escape velocity
+終末論	Eschatology
+大腸菌	Escherichia coli
+エスファハーン	Esfahan
+食道	Esophagus
+エスペラント	Esperanto
+Category:エスペラント	Esperanto
+スパイ	Espionage
+エスポー (都市)	Espoo
+エスプレッソ	Espresso
+随筆	Essay
+エッセン	Essen
+精油	Essential oil
+エセックス	Essex
+エステル	Ester
+Category:エストニア	Estonia
+エストロゲン	Estrogen
+Η	Eta (letter)
+エッチング	Etching
+エタン	Ethane
+エタノール	Ethanol
+エーテル (化学)	Ether
+イーサネット	Ethernet
+倫理学	Ethics
+Category:倫理	Ethics
+エチオピア	Ethiopia
+Category:エチオピア	Ethiopia
+民族	Ethnic group
+民族誌	Ethnography
+Category:民族学	Ethnology
+動物行動学	Ethology
+エチレン	Ethylene
+語源	Etymology
+ユーカリ	Eucalyptus
+聖餐	Eucharist
+エウクレイデス	Euclid
+ユークリッド幾何学	Euclidean geometry
+ユージン・オニール	Eugene O'Neill
+真核生物	Eukaryote
+宦官	Eunuch
+婉曲法	Euphemism
+ユーフラテス川	Euphrates
+ユーラシア大陸	Eurasia
+アナグマ	Eurasian Badger
+エウリピデス	Euripides
+ユーロ	Euro
+エウロパ (衛星)	Europa (moon)
+エウロペ	Europa (mythology)
+ヨーロッパ	Europe
+Category:ヨーロッパ	Europe
+欧州中央銀行	European Central Bank
+欧州共同体	European Community
+カササギ	European Magpie
+欧州連合	European Union
+Category:欧州連合	European Union
+ユウロピウム	Europium
+エウセビオス	Eusebius of Caesarea
+エウテルペー	Euterpe
+安楽死	Euthanasia
+エヴァ・ブラウン	Eva Braun
+エヴァネッセンス	Evanescence
+エヴァンジェリスタ・トリチェリ	Evangelista Torricelli
+蒸発	Evaporation
+ウシ目	Even-toed ungulate
+進化	Evolution
+エクスカリバー	Excalibur
+為替レート	Exchange rate
+感嘆符	Exclamation mark
+破門	Excommunication
+行政	Executive (government)
+露出狂	Exhibitionism
+実存主義	Existentialism
+出エジプト記	Exodus
+期待値	Expected value
+実験	Experiment
+爆発	Explosion
+国際博覧会	Expo (exhibition)
+指数関数	Exponential function
+冪乗	Exponentiation
+表現主義	Expressionism
+絶滅	Extinction
+目	Eye
+Category:目	Eye
+エズラ・パウンド	Ezra Pound
+F	F
+F・スコット・フィッツジェラルド	F. Scott Fitzgerald
+マメ科	Fabaceae
+寓話	Fable
+顔	Face
+Template:要出典	Fact
+階乗	Factorial
+工場	Factory
+白斑	Facula
+ファド	Fado
+Category:ブナ科	Fagaceae
+ブナ目	Fagales
+華氏	Fahrenheit
+フェアユース	Fair use
+フェアリー	Fairy
+童話	Fairy tale
+ハヤブサ属	Falcon
+タカ目	Falconiformes
+フォークランド諸島	Falkland Islands
+誤謬	Fallacy
+輸卵管	Fallopian tube
+ダマジカ	Fallow Deer
+法輪功	Falun Gong
+Category:家族	Family
+科 (分類学)	Family (biology)
+家族史	Family history
+姓	Family name
+ファンタジー	Fantasy
+極東	Far East
+ファラド	Farad
+Category:フェロー諸島	Faroe Islands
+ファシズム	Fascism
+Category:ファシズム	Fascism
+Category:ファッション	Fashion
+ファッション	Fashion
+ファーストフード	Fast food
+断食	Fasting
+ファタハ	Fatah
+脂肪酸	Fatty acid
+断層	Fault (geology)
+動物相	Fauna
+フォーヴィスム	Fauvism
+ファクシミリ	Fax
+恐怖	Fear
+羽根	Feather
+2月	February
+2月12日	February 12
+2月14日	February 14
+2月2日	February 2
+2月22日	February 22
+2月29日	February 29
+2月革命 (1917年)	February Revolution
+糞	Feces
+連邦捜査局	Federal Bureau of Investigation
+連邦準備制度	Federal Reserve System
+ミクロネシア連邦	Federated States of Micronesia
+Category:ミクロネシア連邦	Federated States of Micronesia
+連邦	Federation
+フェデリコ・フェリーニ	Federico Fellini
+Fedora Core	Fedora (Linux distribution)
+フィードバック	Feedback
+長石	Feldspar
+ネコ科	Felidae
+フェリックス・メンデルスゾーン	Felix Mendelssohn
+フェミニズム	Feminism
+Category:フェミニズム	Feminism
+フェンシング	Fencing
+風水	Feng shui
+フェンネル	Fennel
+フェンリル	Fenrir
+フェヌグリーク	Fenugreek
+フェルディナント2世 (神聖ローマ皇帝)	Ferdinand II
+フェルディナンド・マゼラン	Ferdinand Magellan
+フェルディナン・ド・ソシュール	Ferdinand de Saussure
+発酵	Fermentation (biochemistry)
+醗酵	Fermentation (food)
+フェルミ粒子	Fermion
+フェルミウム	Fermium
+シダ植物門	Fern
+フェラーラ	Ferrara
+フェリー	Ferry
+肥沃な三日月地帯	Fertile Crescent
+受精	Fertilisation
+肥料	Fertilizer
+胎児	Fetus
+封建制	Feudalism
+発熱	Fever
+フィアット	Fiat
+フィボナッチ数	Fibonacci number
+Category:フィクション	Fiction
+キャラクター	Fictional character
+フィデル・カストロ	Fidel Castro
+体 (数学)	Field (mathematics)
+フィールドホッケー	Field hockey
+戦闘機	Fighter aircraft
+フィギュアスケート	Figure skating
+フィジー	Fiji
+Category:フィジー	Fiji
+File Allocation Table	File Allocation Table
+File Transfer Protocol	File Transfer Protocol
+ファイルシステム	File system
+フィリッポ・ブルネレスキ	Filippo Brunelleschi
+Category:映画	Film
+映画	Film
+Portal:映画	Film
+映画監督	Film director
+ナガスクジラ	Fin Whale
+Category:金融	Finance
+金融	Finance
+指	Finger
+指紋	Fingerprint
+フィンランド	Finland
+Category:フィンランド	Finland
+モミ属	Fir
+火	Fire
+火器	Firearm
+消防士	Firefighter
+ファイアーウォール	Firewall (networking)
+ファームウェア	Firmware
+第1コンスタンティノポリス公会議	First Council of Constantinople
+第1ニカイア公会議	First Council of Nicaea
+第1回十字軍	First Crusade
+コリントの信徒への手紙一	First Epistle to the Corinthians
+応急処置	First aid
+母語	First language
+魚類	Fish
+Category:魚類	Fish
+釣り	Fishing
+Category:釣り	Fishing
+フィヨルド	Fjord
+旗	Flag
+鞭毛	Flagellum
+フラメンコ	Flamenco
+フラミンゴ	Flamingo
+フランドル	Flanders
+フラッシュメモリ	Flash memory
+屁	Flatulence
+扁形動物	Flatworm
+ノミ	Flea
+フラマン語	Flemish (linguistics)
+燧石	Flint
+フリップフロップ	Flip-flop (electronics)
+洪水	Flood
+フロッピーディスク	Floppy disk
+フィレンツェ	Florence
+フローレンス・ナイチンゲール	Florence Nightingale
+フロリダ州	Florida
+Category:フロリダ州	Florida
+小麦粉	Flour
+花	Flower
+被子植物	Flowering plant
+流体	Fluid
+流体力学	Fluid mechanics
+蛍石	Fluorite
+笛	Flute
+ハエ目	Fly
+霧	Fog
+葉酸	Folic acid
+フォークソング	Folk music
+伝承	Folklore
+Category:伝承	Folklore
+食品	Food
+食品添加物	Food additive
+国際連合食糧農業機関	Food and Agriculture Organization
+食物連鎖	Food chain
+足	Foot
+フィート	Foot (unit of length)
+サッカー	Football (soccer)
+Category:サッカー	Football (soccer)
+Category:各国のサッカー	Football (soccer) by country
+Category:サッカークラブ	Football (soccer) clubs
+Category:サッカー指導者	Football (soccer) managers
+Category:サッカー選手	Football (soccer) players
+Category:サッカー競技場	Football (soccer) venues
+紫禁城	Forbidden City
+力	Force
+森林	Forest
+林業	Forestry
+フォーク (食器)	Fork
+政治体制	Form of government
+ホルムアルデヒド	Formaldehyde
+ギ酸	Formic acid
+ろ座	Fornax
+フォートワース	Fort Worth
+要塞	Fortification
+FORTRAN	Fortran
+化石	Fossil
+化石燃料	Fossil fuel
+フーコーの振り子	Foucault pendulum
+噴水	Fountain
+フーリエ級数	Fourier series
+第4回十字軍	Fourth Crusade
+キツネ	Fox
+フラクタル	Fractal
+分数	Fraction (mathematics)
+フランス	France
+Category:フランス	France
+フランシス・ベーコン (哲学者)	Francis Bacon
+フランシス・クリック	Francis Crick
+フランシス・ドレーク	Francis Drake
+フランシス・フォード・コッポラ	Francis Ford Coppola
+フランツ2世 (神聖ローマ皇帝)	Francis II
+フランシス・プーランク	Francis Poulenc
+アッシジのフランチェスコ	Francis of Assisi
+フランシスコ会	Franciscan
+フランシスコ・フランコ	Francisco Franco
+フランシスコ・デ・ゴヤ	Francisco Goya
+フランシスコ・ピサロ	Francisco Pizarro
+フランシウム	Francium
+普仏戦争	Franco-Prussian War
+フランク・ロイド・ライト	Frank Lloyd Wright
+フランク・シナトラ	Frank Sinatra
+フランクフォート (ケンタッキー州)	Frankfort
+フランクフルト・アム・マイン	Frankfurt
+Category:フランクフルト・アム・マイン	Frankfurt
+フランクフルト・アン・デア・オーダー	Frankfurt (Oder)
+フランクフルト (曖昧さ回避)	Frankfurt (disambiguation)
+フランクリン・ピアース	Franklin Pierce
+フランス・ハルス	Frans Hals
+フランツ・カフカ	Franz Kafka
+フランツ・リスト	Franz Liszt
+フランツ・シューベルト	Franz Schubert
+フレッド・アステア	Fred Astaire
+フリードリヒ1世 (神聖ローマ皇帝)	Frederick I
+フリードリヒ2世 (神聖ローマ皇帝)	Frederick II
+フレデリック・サンガー	Frederick Sanger
+フレデリック・ソディ	Frederick Soddy
+フレデリクトン	Fredericton
+フリーステイト州	Free State
+自由意志	Free will
+自由	Freedom (philosophy)
+表現の自由	Freedom of speech
+フリーメイソン	Freemasonry
+フリータウン	Freetown
+フリーウェア	Freeware
+フランス領ポリネシア	French Polynesia
+Category:フランス領ポリネシア	French Polynesia
+フランス革命	French Revolution
+Category:フランス革命	French Revolution
+フランス・フラン	French franc
+Category:フランスの人物	French people
+周波数	Frequency
+フレスコ	Fresco
+淡水	Freshwater
+フレズノ	Fresno
+フレイヤ	Freyja
+フレイ	Freyr
+摩擦	Friction
+金曜日	Friday
+フリチョフ・ナンセン	Fridtjof Nansen
+フリードリヒ・エンゲルス	Friedrich Engels
+フリースラント州	Friesland
+フリゲート	Frigate
+フリッグ	Frigg
+フリッツ・ハーバー	Fritz Haber
+フリウリ＝ヴェネツィア・ジュリア州	Friuli-Venezia Giulia
+カエル	Frog
+フルクトース	Fructose
+果実	Fruit
+Category:果物	Fruit
+フッキング (オーストリア)	Fucking
+燃料	Fuel
+燃料電池	Fuel cell
+フーガ	Fugue
+福岡市	Fukuoka
+満月	Full moon
+フナフティ島	Funafuti
+関数 (数学)	Function (mathematics)
+Category:主要カテゴリ	Fundamental
+基本相互作用	Fundamental interaction
+原理主義	Fundamentalism
+Category:菌類	Fungi
+菌類	Fungus
+ケーブルカー	Funicular
+ファンク	Funk
+Category:家具	Furniture
+家具	Furniture
+未来	Future
+未来派	Futurism (art)
+ファジィ論理	Fuzzy logic
+フョードル・ドストエフスキー	Fyodor Dostoevsky
+G	G
+GIMP	GIMP
+GNOME	GNOME
+GNU	GNU
+ガボン	Gabon
+Category:ガボン	Gabon
+ハボローネ	Gaborone
+ガブリエル	Gabriel
+ガブリエル・リップマン	Gabriel Lippmann
+ガドリニウム	Gadolinium
+ガエターノ・ドニゼッティ	Gaetano Donizetti
+ガイア	Gaia (mythology)
+ガラティア	Galatia
+銀河	Galaxy
+ガレノス	Galen
+方鉛鉱	Galena
+ガリツィア	Galicia (Central Europe)
+ガリシア州	Galicia (Spain)
+ガリラヤ	Galilee
+ガリレオ (探査機)	Galileo (spacecraft)
+ガリレオ・ガリレイ	Galileo Galilei
+胆嚢	Gallbladder
+ガレー船	Galley
+キジ目	Galliformes
+Category:キジ目	Galliformes
+ガリウム	Gallium
+ガロン	Gallon
+ゴールウェイ	Galway
+ガマール・アブドゥン＝ナーセル	Gamal Abdel Nasser
+ギャンブル	Gambling
+ゲーム	Game
+ゲーム理論	Game theory
+Γ	Gamma
+ガンマ線	Gamma ray
+ガネーシャ	Ganesha
+ガンジス川	Ganges
+ギャンジャ	Ganja
+甘粛省	Gansu
+ガニュメーデース	Ganymede
+ガニメデ (衛星)	Ganymede (moon)
+ギャップ (フランス)	Gap
+庭園	Garden
+エデンの園	Garden of Eden
+園芸	Gardening
+ガーフィールド	Garfield
+ガーゴイル	Gargoyle
+ニンニク	Garlic
+柘榴石	Garnet
+ガロンヌ川	Garonne
+気体	Gas
+気体定数	Gas constant
+木星型惑星	Gas giant
+ガソリン	Gasoline
+消化器	Gastrointestinal tract
+腹足綱	Gastropoda
+ガリア	Gaul
+釈迦	Gautama Buddha
+ガザ	Gaza
+ガザ地区	Gaza Strip
+歯車	Gear
+ゲブ	Geb
+芸妓	Geisha
+ふたご座	Gemini (constellation)
+宝石	Gemstone
+遺伝子	Gene
+系譜学	Genealogy
+関税および貿易に関する一般協定	General Agreement on Tariffs and Trade
+将軍	General Officer
+一般相対性理論	General relativity
+創世記	Genesis
+コドン	Genetic code
+遺伝子工学	Genetic engineering
+遺伝学	Genetics
+Category:遺伝学	Genetics
+ジュネーヴ	Geneva
+ジン (アラブ)	Genie
+属格	Genitive case
+ジェノヴァ	Genoa
+ジェノサイド	Genocide
+Category:大量虐殺	Genocide
+ゲノム	Genome
+遺伝子型	Genotype
+属 (分類学)	Genus
+地球化学	Geochemistry
+測地学	Geodesy
+ジェフリー・チョーサー	Geoffrey Chaucer
+地理学	Geography
+Category:地理	Geography
+Portal:地理学	Geography
+Category:地質学	Geology
+地質学	Geology
+等比数列	Geometric progression
+幾何学	Geometry
+Category:幾何学	Geometry
+地形学	Geomorphology
+地球物理学	Geophysics
+Category:地球物理学	Geophysics
+地政学	Geopolitics
+ゲオルク・フィリップ・テレマン	Georg Philipp Telemann
+ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル	Georg Wilhelm Friedrich Hegel
+ジョージ・バークリー	George Berkeley
+ジョージ・バーナード・ショー	George Bernard Shaw
+ジョージ・ブール	George Boole
+ジョージ・ブッシュ	George Bush
+ゲオルク・フリードリヒ・ヘンデル	George Frideric Handel
+ジョージ・ガーシュウィン	George Gershwin
+ジョージ・ハリスン	George Harrison
+ジョージ・ルーカス	George Lucas
+ジョージ・C・マーシャル	George Marshall
+ジョージ・オーウェル	George Orwell
+ジョージ・パジェット・トムソン	George Paget Thomson
+ジョルジュ・サンド	George Sand
+ジョージ・スチーブンソン	George Stephenson
+ジョージ・W・ブッシュ	George W. Bush
+ジョージ・ワシントン	George Washington
+ジョルジュ・ビゼー	Georges Bizet
+ジョルジュ・ブラック	Georges Braque
+ジョルジュ・クレマンソー	Georges Clemenceau
+ジョルジュ・シムノン	Georges Simenon
+ジョージタウン (ガイアナ)	Georgetown
+ジョージア州	Georgia (U.S. state)
+Category:ジョージア州	Georgia (U.S. state)
+グルジア	Georgia (country)
+Category:グルジア	Georgia (country)
+ジェラルド・R・フォード	Gerald Ford
+ジェラルド・カイパー	Gerard Kuiper
+ジャーマン・シェパード・ドッグ	German Shepherd Dog
+ドイツ語	German language
+Category:ドイツ語	German language
+ドイツマルク	German mark
+ゲルマニウム	Germanium
+ドイツ	Germany
+Category:ドイツ	Germany
+ジェロニモ	Geronimo
+ゲシュタポ	Gestapo
+間欠泉	Geyser
+ガーナ	Ghana
+Category:ガーナ	Ghana
+ヘント	Ghent
+ゲットー	Ghetto
+亡霊	Ghost
+ジャコモ・プッチーニ	Giacomo Puccini
+ジャイアントパンダ	Giant Panda
+テナガザル	Gibbon
+ジブラルタル	Gibraltar
+Category:ジブラルタル	Gibraltar
+ギガバイト	Gigabyte
+ギルガメシュ	Gilgamesh
+ショウガ	Ginger
+イチョウ	Ginkgo
+ジョルダーノ・ブルーノ	Giordano Bruno
+ジョルジョ・ヴァザーリ	Giorgio Vasari
+ジョルジョ・デ・キリコ	Giorgio de Chirico
+ジョット・ディ・ボンドーネ	Giotto di Bondone
+ジョヴァンニ・ボッカッチョ	Giovanni Boccaccio
+キリン	Giraffe
+キリン科	Giraffidae
+ジロラモ・サヴォナローラ	Girolamo Savonarola
+ジロンド県	Gironde
+ジュゼッペ・ガリバルディ	Giuseppe Garibaldi
+ジュゼッペ・ヴェルディ	Giuseppe Verdi
+ギーザ	Giza
+氷河	Glacier
+剣闘士	Gladiator
+腺	Gland
+グラスゴー	Glasgow
+グラスノスチ	Glasnost
+ガラス	Glass
+眼鏡	Glasses
+グライダー	Glider
+グローバル・ポジショニング・システム	Global Positioning System
+地球温暖化	Global warming
+グローバリゼーション	Globalization
+アーティチョーク	Globe artichoke
+グロスタシャー	Gloucestershire
+グルカゴン	Glucagon
+グルコース	Glucose
+グルーオン	Gluon
+グルタミン酸	Glutamic acid
+グリセリン	Glycerol
+グリシン	Glycine
+グリコーゲン	Glycogen
+解糖系	Glycolysis
+顎口上綱	Gnathostomata
+片麻岩	Gneiss
+グノーシス主義	Gnosticism
+囲碁	Go (board game)
+ゴア州	Goa
+ゴールキーパー	Goalkeeper
+ヤギ	Goat
+ゴビ砂漠	Gobi Desert
+神	God
+ゴラン高原	Golan Heights
+金	Gold
+ゴルダ・メイア	Golda Meir
+イヌワシ	Golden Eagle
+ゴールデンゲートブリッジ	Golden Gate Bridge
+ジョチ・ウルス	Golden Horde
+ゴールデン・レトリバー	Golden Retriever
+ゴルフ	Golf
+Category:ゴルフ	Golf
+ゴルジ体	Golgi apparatus
+ホメリ	Gomel
+聖金曜日	Good Friday
+Google	Google
+Category:Google	Google
+グーゴル	Googol
+ゴルゴン	Gorgon
+ゴリラ	Gorilla
+オオタカ	Goshawk
+福音書	Gospel
+ルカによる福音書	Gospel of Luke
+ヨーテボリ	Gothenburg
+ゴシック	Gothic
+ゴシック建築	Gothic architecture
+ゴットホルト・エフライム・レッシング	Gotthold Ephraim Lessing
+ゴットリープ・ダイムラー	Gottlieb Daimler
+痛風	Gout
+政府	Government
+グレース・ケリー	Grace Kelly
+勾配	Gradient
+落書き	Graffiti
+グレアム・グリーン	Graham Greene
+グラム	Gram
+文法	Grammar
+Category:文法	Grammar
+性 (文法)	Grammatical gender
+グラナダ	Granada
+グランド・キャニオン	Grand Canyon
+グランドスラム (テニス)	Grand Slam (tennis)
+グランドマスター	Grandmaster (chess)
+花崗岩	Granite
+ブドウ	Grape
+グレープフルーツ	Grapefruit
+Category:グラフィックデザイン	Graphic design
+グラフィックデザイン	Graphic design
+グラフィカルユーザインタフェース	Graphical user interface
+グラファイト	Graphite
+万有引力	Gravitation
+万有引力定数	Gravitational constant
+重力子	Graviton
+グレイ (単位)	Gray (unit)
+オオカミ	Gray Wolf
+グラーツ	Graz
+グレート・バリア・リーフ	Great Barrier Reef
+グレートブリテン島	Great Britain
+カンムリカイツブリ	Great Crested Grebe
+世界恐慌	Great Depression
+五大湖	Great Lakes
+大地溝帯	Great Rift Valley
+万里の長城	Great Wall of China
+ホホジロザメ	Great white shark
+大アンティル諸島	Greater Antilles
+グレーター・ロンドン	Greater London
+最大公約数	Greatest common divisor
+カイツブリ目	Grebe
+ギリシャ	Greece
+Category:ギリシャ	Greece
+ギリシア文字	Greek alphabet
+Category:ギリシア文字	Greek alphabet
+ギリシア火薬	Greek fire
+ギリシア神話	Greek mythology
+Category:ギリシア神話	Greek mythology
+緑	Green
+ビニールハウス	Greenhouse
+温室効果	Greenhouse effect
+温室効果ガス	Greenhouse gas
+グリーンランド	Greenland
+Category:グリーンランド	Greenland
+グリーンランド海	Greenland Sea
+グリーンピース (NGO)	Greenpeace
+グリニッジ	Greenwich
+グリニッジ標準時	Greenwich Mean Time
+グレゴール・ヨハン・メンデル	Gregor Mendel
+グレゴリオ暦	Gregorian calendar
+Category:グレナダ	Grenada
+グルノーブル	Grenoble
+グレタ・ガルボ	Greta Garbo
+灰色	Grey
+ハイイロガン	Greylag Goose
+グリフォン	Griffin
+シロエリハゲワシ	Griffon Vulture
+国内総生産	Gross domestic product
+グループ	Group
+群 (数学)	Group (mathematics)
+元素の族	Group (periodic table)
+グロバー・クリーブランド	Grover Cleveland
+グロズヌイ	Grozny
+ツル目	Gruiformes
+つる座	Grus (constellation)
+グアダラハラ (メキシコ)	Guadalajara
+グアドループ	Guadeloupe
+グアム	Guam
+広東省	Guangdong
+広州市	Guangzhou
+グアニン	Guanine
+グアノ	Guano
+Category:グアテマラ	Guatemala
+グアテマラシティ	Guatemala City
+グアヤキル	Guayaquil
+ガーンジー島	Guernsey
+グリエルモ・マルコーニ	Guglielmo Marconi
+ギルド	Guild
+ギヨーム・アポリネール	Guillaume Apollinaire
+ギロチン	Guillotine
+ギニア	Guinea
+Category:ギニア	Guinea
+テンジクネズミ#モルモット	Guinea pig
+ギニアビサウ	Guinea-Bissau
+Category:ギニアビサウ	Guinea-Bissau
+ギター	Guitar
+グジャラート州	Gujarat
+グラグ	Gulag
+メキシコ湾流	Gulf Stream
+湾岸戦争	Gulf War
+アデン湾	Gulf of Aden
+アカバ湾	Gulf of Aqaba
+ボスニア湾	Gulf of Bothnia
+フィンランド湾	Gulf of Finland
+ギニア湾	Gulf of Guinea
+メキシコ湾	Gulf of Mexico
+オマーン湾	Gulf of Oman
+リガ湾	Gulf of Riga
+タイランド湾	Gulf of Thailand
+カモメ族 (Sibley)	Gull
+黒色火薬	Gunpowder
+火薬陰謀事件	Gunpowder Plot
+グッピー	Guppy
+グスタフ・クリムト	Gustav Klimt
+グスタフ・ヘルツ	Gustav Ludwig Hertz
+グスタフ・マーラー	Gustav Mahler
+ギュスターヴ・クールベ	Gustave Courbet
+ギュスターヴ・フローベール	Gustave Flaubert
+ガイ・フォークス	Guy Fawkes
+ギ・ド・モーパッサン	Guy de Maupassant
+Category:ガイアナ	Guyana
+体操	Gymnastics
+裸子植物	Gymnosperm
+婦人科学	Gynaecology
+石膏	Gypsum
+ジャイロスコープ	Gyroscope
+H	H
+ハーバート・ジョージ・ウェルズ	H. G. Wells
+ヒト免疫不全ウイルス	HIV
+HyperText Markup Language	HTML
+生息地	Habitat
+ハッカー	Hacker
+冥王代	Hadean
+ハーデース	Hades
+ハディース	Hadith
+ハドリアヌス	Hadrian
+ハドリアヌスの長城	Hadrian's Wall
+ハドロン	Hadron
+血友病	Haemophilia
+ハフニウム	Hafnium
+アヤソフィア	Hagia Sophia
+ハイファ	Haifa
+俳句	Haiku
+雹	Hail
+アヴェ・マリア	Hail Mary
+毛 (動物)	Hair
+ハイチ	Haiti
+Category:ハイチ	Haiti
+ハッジ	Hajj
+ハラール	Halal
+ハルバード	Halberd
+半減期	Half-life
+ハレ	Halle
+ハロウィン	Halloween
+幻覚	Hallucination
+第17族元素	Halogen
+ハマース	Hamas
+ハンブルク	Hamburg
+Category:ハンブルク	Hamburg
+ハンバーガー	Hamburger
+ハムレット	Hamlet
+槌	Hammer
+鎌と槌	Hammer and sickle
+ハンムラビ	Hammurabi
+ハンプシャー	Hampshire
+ハムスター	Hamster
+漢	Han Dynasty
+手	Hand
+手榴弾	Hand grenade
+拳銃	Handgun
+絞首刑	Hanging
+バビロンの空中庭園	Hanging Gardens of Babylon
+ハンナ・アーレント	Hannah Arendt
+ハンニバル	Hannibal
+ハノイ	Hanoi
+ハノーファー	Hanover
+ハンス・ベーテ	Hans Bethe
+ハンス・クリスチャン・アンデルセン	Hans Christian Andersen
+ハンザ同盟	Hanseatic League
+ハヌカー	Hanukkah
+ハヌマーン	Hanuman
+幸福	Happiness
+ハラレ	Harare
+硬さ	Hardness
+ハレム	Harem
+ハーレム (ニューヨーク市)	Harlem
+ハーモニカ	Harmonica
+和声	Harmony
+ハロルド・ピンター	Harold Pinter
+ハープ	Harp
+チェンバロ	Harpsichord
+ハルピュイア	Harpy
+ハリエット・ビーチャー・ストウ	Harriet Beecher Stowe
+ハリエット・タブマン	Harriet Tubman
+ハリスバーグ (ペンシルバニア州)	Harrisburg
+ハリー・フーディーニ	Harry Houdini
+ハートフォード (コネチカット州)	Hartford
+ハッシウム	Hassium
+憎悪	Hatred
+オート・ノルマンディー地域圏	Haute-Normandie
+ハバナ	Havana
+ハワイ州	Hawaii
+Category:ハワイ州	Hawaii
+ハシバミ属	Hazel
+頭	Head
+元首	Head of state
+健康	Health
+Category:健康	Health
+心臓	Heart
+熱	Heat
+熱機関	Heat engine
+天国	Heaven
+Category:ヘヴィメタル	Heavy metal
+ヘヴィメタル	Heavy metal music
+重水	Heavy water
+ヘーベー	Hebe (mythology)
+河北省	Hebei
+ヘブライ文字	Hebrew alphabet
+ユダヤ暦	Hebrew calendar
+ヘブリディーズ諸島	Hebrides
+ヘカテー	Hecate
+ヘクタール	Hectare
+ヘクトル	Hector
+エクトル・ベルリオーズ	Hector Berlioz
+ハリネズミ	Hedgehog
+快楽主義	Hedonism
+ヘイムダル	Heimdall
+ハインリヒ・ヘルツ	Heinrich Hertz
+ハインリヒ・ヒムラー	Heinrich Himmler
+ハインリッヒ・シュリーマン	Heinrich Schliemann
+ヘル	Hel (being)
+ヘレネー	Helen
+ヘレン・ケラー	Helen Keller
+ヘレナ (モンタナ州)	Helena
+ヘリコプター	Helicopter
+ヘーリオス	Helios
+ヘリウム	Helium
+地獄 (キリスト教)	Hell
+ヘルムート・シュミット	Helmut Schmidt
+ヘルシンキ	Helsinki
+赤鉄鉱	Hematite
+血液学	Hematology
+Category:血液学	Hematology
+ヘモグロビン	Hemoglobin
+痔	Hemorrhoid
+アンリ・ベクレル	Henri Becquerel
+アンリ・ベルクソン	Henri Bergson
+アンリ・マティス	Henri Matisse
+ヘンリック・イプセン	Henrik Ibsen
+ヘンリー	Henry (unit)
+ヘンリー・キャヴェンディッシュ	Henry Cavendish
+ヘンリー・デイヴィッド・ソロー	Henry David Thoreau
+ヘンリー・フォンダ	Henry Fonda
+ヘンリー・フォード	Henry Ford
+ヘンリー・ジェイムズ	Henry James
+ヘンリー・キッシンジャー	Henry Kissinger
+ヘンリー・ミラー	Henry Miller
+ヘンリー・ムーア	Henry Moore
+ヘンリー・パーセル	Henry Purcell
+肝炎	Hepatitis
+ヘーパイストス	Hephaestus
+ヘーラー	Hera
+ヘーラクレース	Heracles
+ヘラクレイトス	Heraclitus
+紋章学	Heraldry
+Category:紋章学	Heraldry
+ヘラート	Herat
+ハーバート・フーヴァー	Herbert Hoover
+ヘルベルト・マルクーゼ	Herbert Marcuse
+ハーバート・スペンサー	Herbert Spencer
+ヘラクレス	Hercules
+ヘルクレス座	Hercules (constellation)
+異端	Heresy
+ハーマン・メルヴィル	Herman Melville
+ヘルマン・ヘッセ	Hermann Hesse
+ヘルマン・ミンコフスキー	Hermann Minkowski
+ヘルマン・フォン・ヘルムホルツ	Hermann von Helmholtz
+雌雄同体	Hermaphrodite
+解釈学	Hermeneutics
+ヘルメース	Hermes
+ヒーロー	Hero
+アレクサンドリアのヘロン	Hero of Alexandria
+ヘロデ大王	Herod the Great
+ヘロドトス	Herodotus
+ヘロイン	Heroin
+サギ科	Heron
+セグロカモメ	Herring Gull
+ハートフォードシャー	Hertfordshire
+ヘルツ	Hertz
+ヘーシオドス	Hesiod
+ヘスペリス	Hesperides
+ヘッセン州	Hesse
+Category:ヘッセン	Hesse
+ヘスティアー	Hestia
+異性愛	Heterosexuality
+従属栄養生物	Heterotroph
+十六進法	Hexadecimal
+六角形	Hexagon
+ヒズボラ	Hezbollah
+冬眠	Hibernation
+湯川秀樹	Hideki Yukawa
+ヒエロニムス・ボス	Hieronymus Bosch
+ヒルベルト空間	Hilbert space
+ヒマラヤ山脈	Himalayas
+ヒンドゥークシュ山脈	Hindu Kush
+ヒンドゥー教	Hinduism
+Category:ヒンドゥー教	Hinduism
+ヒッパルコス	Hipparchus
+ヒッピー	Hippie
+ヒポクラテス	Hippocrates
+ヒポクラテスの誓い	Hippocratic Oath
+カバ	Hippopotamus
+昭和天皇	Hirohito
+広島市	Hiroshima
+イスパニョーラ島	Hispaniola
+ヒスチジン	Histidine
+組織学	Histology
+Category:組織学	Histology
+ヒストン	Histone
+史学史	Historiography
+歴史	History
+Category:歴史	History
+Portal:歴史	History
+ホー・チ・ミン	Ho Chi Minh
+ホーチミン市	Ho Chi Minh City
+ホバート	Hobart
+ホビット	Hobbit
+趣味	Hobby
+葛飾北斎	Hokusai
+祝日	Holiday
+ハリウッド	Hollywood
+ホルミウム	Holmium
+完新世	Holocene
+ホログラフィー	Holography
+聖杯	Holy Grail
+神聖ローマ帝国	Holy Roman Empire
+Category:神聖ローマ帝国	Holy Roman Empire
+聖霊	Holy Spirit
+ホメオパシー	Homeopathy
+恒常性	Homeostasis
+ホメーロス	Homer
+ヒト科	Hominidae
+ヒト属	Homo (genus)
+ホモ・エレクトス	Homo erectus
+ホモ・ハビリス	Homo habilis
+同音異義語	Homonym
+ホモフォビア	Homophobia
+同性愛	Homosexuality
+ホンジュラス	Honduras
+Category:ホンジュラス	Honduras
+蜂蜜	Honey
+ヨーロッパハチクマ	Honey Buzzard
+香港	Hong Kong
+Category:香港	Hong Kong
+ホニアラ	Honiara
+ホノルル	Honolulu
+水タバコ	Hookah
+振動運動#.E3.83.95.E3.83.83.E3.82.AF.E3.81.AE.E6.B3.95.E5.89.87	Hooke's law
+ヤツガシラ	Hoopoe
+ホラティウス	Horace
+ホレーショ・ネルソン	Horatio Nelson
+地平線	Horizon
+ホルモン	Hormone
+角	Horn (anatomy)
+ホルン	Horn (instrument)
+アフリカの角	Horn of Africa
+ホロスコープ	Horoscope
+ウマ	Horse
+競馬	Horse racing
+馬力	Horsepower
+ホルス	Horus
+ホスニー・ムバーラク	Hosni Mubarak
+病院	Hospital
+ホテル	Hotel
+時間 (単位)	Hour
+砂時計	Hourglass
+家屋	House
+Dr.HOUSE	House (TV series)
+ハツカネズミ	House Mouse
+イエスズメ	House Sparrow
+ヒューストン	Houston
+ホバークラフト	Hovercraft
+ハワード・カーター	Howard Carter (archaeologist)
+ハッブルの法則	Hubble's law
+ハドソン湾	Hudson Bay
+ハドソン川	Hudson River
+ユーグ・カペー	Hugh Capet
+フーゴー・グローティウス	Hugo Grotius
+ユグノー	Huguenot
+人間	Human
+ヒューマニズム	Humanism
+Category:人文科学	Humanities
+上腕骨	Humerus
+湿度	Humidity
+ハチドリ	Hummingbird
+Category:ユーモア	Humor
+ユーモア	Humour
+ザトウクジラ	Humpback Whale
+ハンフリー・ボガート	Humphrey Bogart
+腐植土	Humus
+湖南省	Hunan
+百年戦争	Hundred Years' War
+ハンガリー	Hungary
+Category:ハンガリー	Hungary
+狩猟	Hunting
+フツ	Hutu
+雑種	Hybrid
+ハイデラバード	Hyderabad
+うみへび座	Hydra (constellation)
+炭化水素	Hydrocarbon
+塩酸	Hydrochloric acid
+水力発電	Hydroelectricity
+水素	Hydrogen
+水素結合	Hydrogen bond
+シアン化水素	Hydrogen cyanide
+過酸化水素	Hydrogen peroxide
+水文学	Hydrology
+Category:水文学	Hydrology
+加水分解	Hydrolysis
+水圏	Hydrosphere
+水酸化物	Hydroxide
+みずへび座	Hydrus
+ハイエナ	Hyena
+Category:衛生	Hygiene
+処女膜	Hymen
+ハチ目	Hymenoptera
+賛美歌	Hymn
+双曲線	Hyperbola
+誇張法	Hyperbole
+ヒペリオン (衛星)	Hyperion (moon)
+ヒュペリーオーン	Hyperion (mythology)
+高血圧	Hypertension
+ハイパーテキスト	Hypertext
+Hypertext Transfer Protocol	Hypertext Transfer Protocol
+ヒュプノス	Hypnos
+催眠	Hypnosis
+視床下部	Hypothalamus
+仮説	Hypothesis
+I	I
+イオ・ミン・ペイ	I. M. Pei
+IPod	IPod
+イアン・フレミング	Ian Fleming
+イアペトゥス (衛星)	Iapetus (moon)
+イーアペトス	Iapetus (mythology)
+イベリア半島	Iberian Peninsula
+イブプロフェン	Ibuprofen
+氷	Ice
+氷河期	Ice age
+アイスクリーム	Ice cream
+アイスホッケー	Ice hockey
+Category:アイスホッケー	Ice hockey
+氷山	Iceberg
+アイスランド	Iceland
+Category:アイスランド	Iceland
+魚類学	Ichthyology
+イコン	Icon
+聖像破壊運動	Iconoclasm
+アイダホ州	Idaho
+Category:アイダホ州	Idaho
+理想気体	Ideal gas
+観念論	Idealism
+単位元	Identity element
+単位行列	Identity matrix
+イデオロギー	Ideology
+イド語	Ido
+イグルー	Igloo
+イグナチオ・デ・ロヨラ	Ignatius of Loyola
+火成岩	Igneous rock
+イーゴリ・ストラヴィンスキー	Igor Stravinsky
+イグアスの滝	Iguazu Falls
+イーリアス	Iliad
+イリノイ州	Illinois
+Category:イリノイ州	Illinois
+イリュリア	Illyria
+イメージスキャナ	Image scanner
+イマーム	Imam
+イマヌエル・カント	Immanuel Kant
+免疫系	Immune system
+免疫学	Immunology
+Category:免疫学	Immunology
+帝国主義	Imperialism
+印象派	Impressionism
+近親相姦	Incest
+インチ	Inch
+仁川広域市	Incheon
+斜面	Inclined plane
+独立	Independence
+インド	India
+Category:インド	India
+インド洋	Indian Ocean
+Category:インド洋	Indian Ocean
+インディアナ州	Indiana
+Category:インディアナ州	Indiana
+インディアナポリス	Indianapolis
+インディラ・ガンディー	Indira Gandhi
+インジウム	Indium
+インドシナ半島	Indochina
+インドネシア	Indonesia
+Category:インドネシア	Indonesia
+インドラ	Indra
+インダクタンス	Inductance
+帰納	Inductive reasoning
+コイル	Inductor
+贖宥状	Indulgence
+インディアン座	Indus (constellation)
+インダス川	Indus River
+産業革命	Industrial Revolution
+産業	Industry
+Category:産業	Industry
+不等式	Inequality
+慣性	Inertia
+歩兵	Infantry
+感染症	Infectious disease
+不定詞	Infinitive
+無限	Infinity
+炎症	Inflammation
+インフレーション	Inflation
+インフルエンザ	Influenza
+情報	Information
+情報技術	Information technology
+情報理論	Information theory
+赤外線	Infrared
+インフラストラクチャー	Infrastructure
+イングマール・ベルイマン	Ingmar Bergman
+イングリッド・バーグマン	Ingrid Bergman
+内モンゴル自治区	Inner Mongolia
+イノベーション	Innovation
+インスブルック	Innsbruck
+無機化学	Inorganic chemistry
+異端審問	Inquisition
+昆虫類	Insect
+殺虫剤	Insecticide
+モグラ目	Insectivora
+制度	Institution
+インスリン	Insulin
+保険	Insurance
+整数	Integer
+積分法	Integral
+集積回路	Integrated circuit
+知的財産権	Intellectual property
+知能	Intelligence
+知能指数	Intelligence quotient
+大陸間弾道ミサイル	Intercontinental ballistic missile
+利子	Interest
+干渉 (物理学)	Interference
+感動詞	Interjection
+インターリングア	Interlingua
+国際原子力機関	International Atomic Energy Agency
+国際民間航空機関	International Civil Aviation Organization
+国際司法裁判所	International Court of Justice
+国際日付変更線	International Date Line
+国際労働機関	International Labour Organization
+国際通貨基金	International Monetary Fund
+国際単位系	International System of Units
+Category:国際法	International law
+国際機関	International organization
+インターネット	Internet
+Category:インターネット	Internet
+Internet Explorer	Internet Explorer
+強制収容所	Internment
+インタプリタ	Interpreter (computing)
+積集合	Intersection (set theory)
+音程	Interval (music)
+腸	Intestine
+イントラネット	Intranet
+発明	Invention
+無脊椎動物	Invertebrate
+イオ (衛星)	Io (moon)
+イーオー	Io (mythology)
+ヨウ素	Iodine
+イオン	Ion
+イオニア	Ionia
+イオニア海	Ionian Sea
+イオン結合	Ionic bond
+電離層	Ionosphere
+Ι	Iota
+アイオワ州	Iowa
+Category:アイオワ州	Iowa
+イラン	Iran
+Category:イラン	Iran
+イラン・イラク戦争	Iran-Iraq War
+イラク	Iraq
+Category:イラク	Iraq
+アイルランド島	Ireland
+Category:アイルランド	Ireland
+エイレナイオス	Irenaeus
+イリジウム	Iridium
+虹彩	Iris (anatomy)
+イーリス	Iris (mythology)
+アイルランド共和軍	Irish Republican Army
+アイリッシュ海	Irish Sea
+Category:アイルランドの人物	Irish people
+鉄	Iron
+鉄器時代	Iron Age
+鉄のカーテン	Iron Curtain
+アイアン・メイデン	Iron Maiden
+イロニー	Irony
+無理数	Irrational number
+民族統一主義	Irredentism
+エルティシ川	Irtysh River
+イサク	Isaac
+アイザック・アシモフ	Isaac Asimov
+アイザック・バシェヴィス・シンガー	Isaac Bashevis Singer
+アイザック・ニュートン	Isaac Newton
+イサドラ・ダンカン	Isadora Duncan
+イシュマエル	Ishmael
+イシス	Isis
+イスラム教	Islam
+Category:イスラム教	Islam
+イスラマバード	Islamabad
+ヒジュラ暦	Islamic calendar
+島	Island
+マン島	Isle of Man
+Category:マン島	Isle of Man
+ワイト島	Isle of Wight
+異性体	Isomer
+山本五十六	Isoroku Yamamoto
+同位体	Isotope
+イスラエル	Israel
+Category:イスラエル	Israel
+イスタンブル	Istanbul
+Category:イスタンブル	Istanbul
+地峡	Isthmus
+パナマ地峡	Isthmus of Panama
+イタリア半島	Italian Peninsula
+イタロ・カルヴィーノ	Italo Calvino
+イタリア	Italy
+Category:イタリア	Italy
+イタキ島	Ithaca
+イワン・レンドル	Ivan Lendl
+イワン・パブロフ	Ivan Pavlov
+イワン・ツルゲーネフ	Ivan Turgenev
+象牙	Ivory
+アイビー・リーグ	Ivy League
+硫黄島 (東京都)	Iwo Jima
+J	J
+J・D・サリンジャー	J. D. Salinger
+ジェームス・マシュー・バリー	J. M. Barrie
+ジャック・ケルアック	Jack Kerouac
+ジャック・レモン	Jack Lemmon
+ジャック・ロンドン	Jack London
+切り裂きジャック	Jack the Ripper
+ニシコクマルガラス	Jackdaw
+ジャクソン (ミシシッピ州)	Jackson
+ジャクソン・ポロック	Jackson Pollock
+ジャクソンビル	Jacksonville
+ヤコブ (旧約聖書)	Jacob
+ジャック・カルティエ	Jacques Cartier
+ジャック・デリダ	Jacques Derrida
+ジャック・オッフェンバック	Jacques Offenbach
+ヒスイ	Jade
+ジャガー	Jaguar
+ジャイナ教	Jainism
+ジャカルタ	Jakarta
+ジャラーラーバード	Jalalabad
+ジャマイカ	Jamaica
+Category:ジャマイカ	Jamaica
+ヤコブ (ゼベダイの子)	James
+ジェームズ・ガーフィールド	James A. Garfield
+ジェームズ・ボンド	James Bond
+ジェームズ・ブキャナン	James Buchanan
+ジェームズ・クラーク・マクスウェル	James Clerk Maxwell
+ジェームズ・クック	James Cook
+ジェイムス・フランク	James Franck
+ジェイムズ・ジョイス	James Joyce
+ジェームズ・ポーク	James K. Polk
+ジェームズ・マディスン	James Madison
+ジェームズ・モンロー	James Monroe
+ジェームズ・ネイスミス	James Naismith
+ジェームズ・プレスコット・ジュール	James Prescott Joule
+ジェームズ・ワット	James Watt
+ジャンムー・カシミール州	Jammu and Kashmir
+ヤン・フス	Jan Hus
+ヤン・ファン・エイク	Jan van Eyck
+ジェーン・オースティン	Jane Austen
+ジェーン・フォンダ	Jane Fonda
+ジェーン・シーモア	Jane Seymour
+ジャニス・ジョプリン	Janis Joplin
+イェニチェリ	Janissary
+1月	January
+1月1日	January 1
+1月19日	January 19
+1月20日	January 20
+1月6日	January 6
+ヤヌス (衛星)	Janus (moon)
+ヤーヌス	Janus (mythology)
+日本	Japan
+Category:日本	Japan
+イーアソーン	Jason
+黄疸	Jaundice
+ジャワ島	Java
+Java (曖昧さ回避)	Java (disambiguation)
+Java	Java (programming language)
+ジャワハルラール・ネルー	Jawaharlal Nehru
+ジャズ	Jazz
+Category:ジャズ	Jazz
+ドミニク・アングル	Jean Auguste Dominique Ingres
+ジャン・コクトー	Jean Cocteau
+ジャン・ピアジェ	Jean Piaget
+ジャン・ラシーヌ	Jean Racine
+ジャン・シベリウス	Jean Sibelius
+ジャン・ド・ラ・フォンテーヌ	Jean de La Fontaine
+ジャン＝ジャック・ルソー	Jean-Jacques Rousseau
+ジャン＝ポール・サルトル	Jean-Paul Sartre
+ジャン＝フィリップ・ラモー	Jean-Philippe Rameau
+ジッダ	Jeddah
+ジェファーソンシティ (ミズーリ州)	Jefferson City
+ジェファーソン・デイヴィス	Jefferson Davis
+ヤハウェ	Jehovah
+エホバの証人	Jehovah's Witnesses
+クラゲ	Jellyfish
+イェーナ	Jena
+ジェレミ・ベンサム	Jeremy Bentham
+ヘレス・デ・ラ・フロンテーラ	Jerez de la Frontera
+エリコ	Jericho
+ヒエロニムス	Jerome
+ジャージー島	Jersey
+エルサレム	Jerusalem
+Category:エルサレム	Jerusalem
+イエス・キリスト	Jesus
+ジェットエンジン	Jet engine
+ユダヤ人	Jew
+口琴	Jew's harp
+ジハード	Jihad
+ジミ・ヘンドリックス	Jimi Hendrix
+ジミー・カーター	Jimmy Carter
+ジャンヌ・ダルク	Joan of Arc
+ヨハン・ベルヌーイ	Johann Bernoulli
+ヨハン・ゼバスティアン・バッハ	Johann Sebastian Bach
+ヨハン・ヴォルフガング・フォン・ゲーテ	Johann Wolfgang von Goethe
+ヨハネス・ブラームス	Johannes Brahms
+ヨハネス・ファン・デル・ワールス	Johannes Diderik van der Waals
+ヨハネス・グーテンベルク	Johannes Gutenberg
+ヨハネス・ケプラー	Johannes Kepler
+ヨハネス・ヴィルヘルム・イェンセン	Johannes Vilhelm Jensen
+ヨハネスブルグ	Johannesburg
+ジョン・アダムズ	John Adams
+ジョン・バーディーン	John Bardeen
+ジョン・ケージ	John Cage
+ジャン・カルヴァン	John Calvin
+ヨハネス・クリュソストモス	John Chrysostom
+ジョン・ドルトン	John Dalton
+ジョン・デューイ	John Dewey
+ジョン・ゴールズワージー	John Galsworthy
+ジョン・ハーシェル	John Herschel
+ジョン・キーツ	John Keats
+ジョン・レノン	John Lennon
+ジョン・ロック	John Locke
+ジョン・メージャー	John Major
+ジョン・メイナード・ケインズ	John Maynard Keynes
+ジョン・ミルトン	John Milton
+ジョン・ネイピア	John Napier
+ジョン・クィンシー・アダムズ	John Quincy Adams
+ジョン・ラスキン	John Ruskin
+ジョン・スタインベック	John Steinbeck
+ジョン・スチュアート・ミル	John Stuart Mill
+ジョン・タイラー	John Tyler
+ジョン・ウェイン	John Wayne
+ジョン・ウィクリフ	John Wycliffe
+洗礼者ヨハネ	John the Baptist
+ジョン・フォン・ノイマン	John von Neumann
+ジョニー・キャッシュ	Johnny Cash
+関節	Joint
+ジョナサン・スウィフト	Jonathan Swift
+ヨルダン	Jordan
+Category:ヨルダン	Jordan
+ヨルダン川	Jordan River
+ホルヘ・ルイス・ボルヘス	Jorge Luis Borges
+ジョゼフ・コンラッド	Joseph Conrad
+ヨーゼフ・ゲッベルス	Joseph Goebbels
+フランツ・ヨーゼフ・ハイドン	Joseph Haydn
+ジョセフ・ルイ・ゲイ＝リュサック	Joseph Louis Gay-Lussac
+ジョセフ・マッカーシー	Joseph McCarthy
+ジョゼフ・プリーストリー	Joseph Priestley
+ジョーゼフ・ピューリツァー	Joseph Pulitzer
+ヨーゼフ・シュンペーター	Joseph Schumpeter
+ジョセフ・スミス・ジュニア	Joseph Smith
+ヨシフ・スターリン	Joseph Stalin
+フラウィウス・ヨセフス	Josephus
+ジュール	Joule
+Category:報道	Journalism
+報道	Journalism
+ジャーナリスト	Journalist
+ヨウィアヌス	Jovian
+ジョイスティック	Joystick
+ユダヤ教	Judaism
+Category:ユダヤ教	Judaism
+イスカリオテのユダ	Judas Iscariot
+ユダヤ	Judea
+柔道	Judo
+ジュディ・ガーランド	Judy Garland
+柔術	Jujutsu
+ジュール・ヴェルヌ	Jules Verne
+ユリウス暦	Julian calendar
+ユリアヌス	Julian the Apostate
+ガイウス・ユリウス・カエサル	Julius Caesar
+7月	July
+7月1日	July 1
+7月4日	July 4
+6月	June
+6月14日	June 14
+6月21日	June 21
+6月23日	June 23
+6月24日	June 24
+6月29日	June 29
+6月3日	June 3
+ジュノー (アラスカ州)	Juneau
+ビャクシン属	Juniper
+ユーノー	Juno (mythology)
+木星	Jupiter
+Category:木星	Jupiter
+ジュピター	Jupiter (disambiguation)
+ユーピテル	Jupiter (mythology)
+ジュラ紀	Jurassic
+ユスティニアヌス1世	Justinian I
+ユトランド半島	Jutland
+K	K
+K2	K2
+ソ連国家保安委員会	KGB
+カアバ	Kaaba
+カバラ	Kabbalah
+カーブル	Kabul
+カラハリ砂漠	Kalahari Desert
+カムチャツカ半島	Kamchatka Peninsula
+特別攻撃隊	Kamikaze
+カンパラ	Kampala
+カンダハール	Kandahar
+カンガルー	Kangaroo
+カンザス州	Kansas
+Category:カンザス州	Kansas
+カンザスシティ (ミズーリ州)	Kansas City
+Κ	Kappa
+カラ海	Kara Sea
+カラチ	Karachi
+カラコルム山脈	Karakoram
+カラオケ	Karaoke
+空手道	Karate
+カレン・ブリクセン	Karen Blixen
+カール・バルト	Karl Barth
+カール・ヤスパース	Karl Jaspers
+カール・マルクス	Karl Marx
+カール・ポパー	Karl Popper
+業	Karma
+カルナータカ州	Karnataka
+キャサリン・ヘプバーン	Katharine Hepburn
+カトマンズ	Kathmandu
+カトヴィツェ	Katowice
+カウナス	Kaunas
+カヤック	Kayak
+カザフスタン	Kazakhstan
+Category:カザフスタン	Kazakhstan
+カザン	Kazan
+カジミール・マレーヴィチ	Kazimir Malevich
+ケルビン	Kelvin
+ケント (イングランド)	Kent
+ケンタッキー州	Kentucky
+Category:ケンタッキー州	Kentucky
+ケニア	Kenya
+Category:ケニア	Kenya
+カーネル	Kernel (computer science)
+ケロシン	Kerosene
+ケチャップ	Ketchup
+ケトン	Ketone
+キーボード (コンピュータ)	Keyboard (computing)
+鍵盤楽器	Keyboard instrument
+ハバロフスク	Khabarovsk
+ハーン	Khan
+ハルキウ	Kharkiv
+ハルツーム	Khartoum
+クメール・ルージュ	Khmer Rouge
+クフ	Khufu
+キブツ	Kibbutz
+腎臓	Kidney
+キエフ	Kiev
+キガリ	Kigali
+キロバイト	Kilobyte
+キログラム	Kilogram
+キロメートル	Kilometre
+キロメートル毎時	Kilometres per hour
+和服	Kimono
+幼稚園	Kindergarten
+運動学	Kinematics
+運動エネルギー	Kinetic energy
+キング (チェス)	King (chess)
+アーサー王	King Arthur
+リア王	King Lear
+界 (生物学)	Kingdom (biology)
+キングストン (ジャマイカ)	Kingston
+キングスタウン	Kingstown
+キンシャサ	Kinshasa
+キリバス	Kiribati
+Category:キリバス	Kiribati
+キルクーク	Kirkuk
+接吻	Kiss
+凧	Kite
+キーウィ (鳥)	Kiwi
+膝	Knee
+クネセト	Knesset
+ナイフ	Knife
+騎士	Knight
+ナイト (チェス)	Knight (chess)
+クノッソス	Knossos
+ノット	Knot (speed)
+知識	Knowledge
+クヌート・ハムスン	Knut Hamsun
+コアラ	Koala
+神戸市	Kobe
+コラ半島	Kola Peninsula
+コルカタ	Kolkata
+コモドオオトカゲ	Komodo dragon
+Konqueror	Konqueror
+コンラート・アデナウアー	Konrad Adenauer
+朝鮮	Korea
+Category:朝鮮	Korea
+朝鮮戦争	Korean War
+コソボ	Kosovo
+Category:コソボ	Kosovo
+クラカタウ	Krakatoa
+クリシュナ	Krishna
+クリプトン	Krypton
+クー・クラックス・クラン	Ku Klux Klan
+クアラルンプール	Kuala Lumpur
+クビライ	Kublai Khan
+エッジワース・カイパーベルト	Kuiper belt
+キンカン	Kumquat
+功夫	Kung fu (term)
+崑崙山脈	Kunlun Mountains
+中国国民党	Kuomintang
+クラ川	Kura River
+クルディスタン	Kurdistan
+Category:クルド	Kurdistan
+クルディスタン労働者党	Kurdistan Workers Party
+クルスク	Kursk
+カート・ヴォネガット	Kurt Vonnegut
+クルト・ヴァルトハイム	Kurt Waldheim
+クウェート	Kuwait
+Category:クウェート	Kuwait
+クウェート (市)	Kuwait City
+クワズール・ナタール州	KwaZulu-Natal
+京都市	Kyoto
+キルギス	Kyrgyzstan
+Category:キルギス	Kyrgyzstan
+L	L
+ラクイラ	L'Aquila
+LAMP	LAMP (software bundle)
+ラパス	La Paz
+ラプラタ (アルゼンチン)	La Plata
+ラ・スペツィア	La Spezia
+LaTeX	LaTeX
+研究室	Laboratory
+労働党 (イギリス)	Labour Party (UK)
+ラブラドール・レトリバー	Labrador Retriever
+とかげ座	Lacerta
+乳酸	Lactic acid
+ラクトース	Lactose
+ジェーン・グレイ	Lady Jane Grey
+ウサギ目	Lagomorpha
+ラゴス	Lagos
+ラホール	Lahore
+レッセフェール	Laissez-faire
+湖沼	Lake
+バイカル湖	Lake Baikal
+バラトン湖	Lake Balaton
+チャド湖	Lake Chad
+ボーデン湖	Lake Constance
+エリー湖	Lake Erie
+エーア湖	Lake Eyre
+レマン湖	Lake Geneva
+ヒューロン湖	Lake Huron
+イリメニ湖	Lake Ilmen
+ラドガ湖	Lake Ladoga
+マラウイ湖	Lake Malawi
+ミシガン湖	Lake Michigan
+オネガ湖	Lake Onega
+オンタリオ湖	Lake Ontario
+スペリオル湖	Lake Superior
+タンガニーカ湖	Lake Tanganyika
+ヴィクトリア湖	Lake Victoria
+ラクシュミ	Lakshmi
+Λ	Lambda
+シソ科	Lamiaceae
+ヒゲワシ	Lammergeier
+ヤツメウナギ	Lamprey
+ランカシャー	Lancashire
+ナメクジウオ	Lancelet
+最終処分場	Landfill
+言語	Language
+ラングドック＝ルシヨン地域圏	Languedoc-Roussillon
+ランシング (ミシガン州)	Lansing
+ランタノイド	Lanthanide
+ランタン	Lanthanum
+ラオス	Laos
+Category:ラオス	Laos
+ラプテフ海	Laptev Sea
+ラップトップパソコン	Laptop
+カラマツ	Larch
+幼虫	Larva
+喉頭	Larynx
+ラスベガス	Las Vegas
+ラスコー洞窟	Lascaux
+レーザー	Laser
+旋盤	Lathe
+ラテン語	Latin
+ラテンアメリカ	Latin America
+ラテン文字	Latin alphabet
+緯度	Latitude
+ラトビア	Latvia
+Category:ラトビア	Latvia
+笑い	Laughter
+ローラシア大陸	Laurasia
+ローザンヌ	Lausanne
+溶岩	Lava
+法 (法学)	Law
+Category:法	Law
+Category:警察	Law enforcement
+ローレンシウム	Lawrencium
+弁護士	Lawyer
+ラツィオ州	Lazio
+ル・コルビュジエ	Le Corbusier
+ル・アーヴル	Le Havre
+鉛	Lead
+葉	Leaf
+国際連盟	League of Nations
+ピサの斜塔	Leaning Tower of Pisa
+閏年	Leap year
+学習	Learning
+レバノン	Lebanon
+Category:レバノン	Lebanon
+レーダー (ギリシア神話)	Leda (mythology)
+リー・ハーヴェイ・オズワルド	Lee Harvey Oswald
+リーズ	Leeds
+左利き	Left-handed
+伝説	Legend
+立法府	Legislature
+レゴ	Lego
+レスター	Leicester
+ライデン	Leiden
+ライプツィヒ	Leipzig
+レモン	Lemon
+レモンバーム	Lemon balm
+レナ川	Lena River
+長さ	Length
+レンズ	Lens (optics)
+四旬節	Lent
+レンズマメ	Lentil
+しし座	Leo (constellation)
+レオ1世 (東ローマ皇帝)	Leo I (emperor)
+レフ・トロツキー	Leon Trotsky
+レナード・バーンスタイン	Leonard Bernstein
+レオナルド・ダ・ヴィンチ	Leonardo da Vinci
+レオンハルト・オイラー	Leonhard Euler
+レオニード・ブレジネフ	Leonid Brezhnev
+ヒョウ	Leopard
+チョウ目	Lepidoptera
+ハンセン病	Leprosy
+レプトン (素粒子)	Lepton
+うさぎ座	Lepus (constellation)
+レズビアン	Lesbian
+レソト	Lesotho
+Category:レソト	Lesotho
+小アンティル諸島	Lesser Antilles
+レートー	Leto
+白血病	Leukemia
+レバント	Levant
+てこ	Lever
+レヴィアタン	Leviathan
+レビ記	Leviticus
+ルイス・キャロル	Lewis Carroll
+語彙論	Lexicology
+ラサ	Lhasa
+ローツェ	Lhotse
+自由主義	Liberalism
+Category:自由主義	Liberalism
+タミル・イーラム解放のトラ	Liberation Tigers of Tamil Eelam
+リベリア	Liberia
+Category:リベリア	Liberia
+てんびん座	Libra (constellation)
+図書館	Library
+図書館情報学	Library science
+リブレット (音楽)	Libretto
+リーブルヴィル	Libreville
+リビア	Libya
+Category:リビア	Libya
+地衣類	Lichen
+嘘	Lie
+リヒテンシュタイン	Liechtenstein
+Category:リヒテンシュタイン	Liechtenstein
+中尉	Lieutenant
+生命	Life
+光	Light
+発光ダイオード	Light-emitting diode
+光年	Light-year
+ライター	Lighter
+灯台	Lighthouse
+雷	Lightning
+リグーリア州	Liguria
+リグリア海	Ligurian Sea
+ユリ科	Liliaceae
+リリス	Lilith
+リール (フランス)	Lille
+リロングウェ	Lilongwe
+リマ	Lima
+リムリック	Limerick
+石灰岩	Limestone
+極限	Limit (mathematics)
+陸水学	Limnology
+リムーザン地域圏	Limousin (region)
+リンカーン (ネブラスカ州)	Lincoln
+リンカーン	Lincoln
+リンカンシャー	Lincolnshire
+直線	Line (mathematics)
+線型代数学	Linear algebra
+Category:線型代数学	Linear algebra
+線型方程式	Linear equation
+リングワ・フランカ	Lingua franca
+言語学	Linguistics
+Category:言語学	Linguistics
+ライナス・ポーリング	Linus Pauling
+Linux	Linux
+Category:Linux	Linux
+リンツ	Linz
+ライオン	Lion
+脂質	Lipid
+リキュール	Liqueur
+液体	Liquid
+液晶ディスプレイ	Liquid crystal display
+甘草	Liquorice
+リスボン	Lisbon
+リーゼ・マイトナー	Lise Meitner
+LISP	Lisp (programming language)
+文学	Literature
+Category:文学	Literature
+Portal:文学	Literature
+リチウム	Lithium
+リトグラフ	Lithography
+リソスフェア	Lithosphere
+リトアニア	Lithuania
+Category:リトアニア	Lithuania
+リットル	Litre
+コキンメフクロウ	Little Owl
+リヴァプール	Liverpool
+リヴォニア	Livonia
+ティトゥス・リウィウス	Livy
+トカゲ	Lizard
+リュブリャナ	Ljubljana
+リャマ	Llama
+借用語	Loanword
+Local Area Network	Local area network
+ネス湖	Loch Ness
+ネッシー	Loch Ness Monster
+機関車	Locomotive
+対数	Logarithm
+論理学	Logic
+Category:論理学	Logic
+論理回路	Logic gate
+物流	Logistics
+ロゴタイプ	Logo
+ロワール県	Loire
+ロワール川	Loire River
+ロキ	Loki
+ロリータ	Lolita
+ロンバルディア州	Lombardy
+ロンドン	London
+Category:ロンドン	London
+ロングビーチ (カリフォルニア州)	Long Beach
+ロングアイランド	Long Island
+走幅跳	Long jump
+トラフズク	Long-eared Owl
+ロペ・デ・ベガ	Lope de Vega
+主の祈り	Lord's Prayer
+ロレーヌ地域圏	Lorraine (region)
+ロサンゼルス	Los Angeles
+ロット県	Lot (department)
+スピーカー	Loudspeaker
+ルイ・アラゴン	Louis Aragon
+ルイ・アームストロング	Louis Armstrong
+ルイ・ブライユ	Louis Braille
+ルイ・パスツール	Louis Pasteur
+ルートヴィヒ1世 (フランク王)	Louis the Pious
+ルイ2世 (西フランク王)	Louis the Stammerer
+ルイジアナ州	Louisiana
+Category:ルイジアナ州	Louisiana
+ルイビル	Louisville
+ルーヴル美術館	Louvre
+愛	Love
+低ザクセン語	Low German
+ニーダーザクセン州	Lower Saxony
+ルアンダ	Luanda
+ルブリン	Lublin
+ルツェルン	Lucerne
+ルチアーノ・パヴァロッティ	Luciano Pavarotti
+ルシファー	Lucifer
+ルクレティウス	Lucretius
+ルクレツィア・ボルジア	Lucrezia Borgia
+ルートヴィッヒ・ボルツマン	Ludwig Boltzmann
+ミース・ファン・デル・ローエ	Ludwig Mies van der Rohe
+ルートヴィヒ・ウィトゲンシュタイン	Ludwig Wittgenstein
+ルートヴィヒ・ヴァン・ベートーヴェン	Ludwig van Beethoven
+ドイツ空軍	Luftwaffe
+ルイージ・ガルヴァーニ	Luigi Galvani
+ルイジ・ピランデルロ	Luigi Pirandello
+ルーメン	Lumen (unit)
+ルミネセンス	Luminescence
+月食	Lunar eclipse
+ルンド	Lund
+肺	Lung
+肺癌	Lung cancer
+ハイギョ	Lungfish
+おおかみ座	Lupus (constellation)
+ルサカ	Lusaka
+ルシタニア	Lusitania
+リュート	Lute
+ルテチウム	Lutetium
+ルーテル教会	Lutheranism
+ルクス	Lux
+ルクセンブルク	Luxembourg
+Category:ルクセンブルク	Luxembourg
+ルクセンブルク (都市)	Luxembourg (city)
+ルクソール	Luxor
+ルソン島	Luzon
+レイシ	Lychee
+リディア	Lydia
+リンパ系	Lymphatic system
+やまねこ座	Lynx (constellation)
+Lynx (ウェブブラウザ)	Lynx (web browser)
+リヨン	Lyon
+こと座	Lyra
+LSD (薬物)	Lysergic acid diethylamide
+リシン	Lysine
+リソソーム	Lysosome
+M	M
+M理論	M-theory
+メッセンジャー (探査機)	MESSENGER
+Multipurpose Internet Mail Extensions	MIME
+MS-DOS	MS-DOS
+マカオ	Macau
+マクベス (シェイクスピア)	Macbeth
+マケドニア王国	Macedon
+マケドニア (曖昧さ回避)	Macedonia
+マケドニア (ギリシャ)	Macedonia (Greece)
+マッハ数	Mach number
+機械	Machine
+機械語	Machine code
+機関銃	Machine gun
+機械翻訳	Machine translation
+マチュ・ピチュ	Machu Picchu
+Macintosh	Macintosh
+マクロ経済学	Macroeconomics
+マダガスカル	Madagascar
+Category:マダガスカル	Madagascar
+マデイラ諸島	Madeira
+マディソン	Madison
+マドンナ (歌手)	Madonna (entertainer)
+マドリード	Madrid
+マドリード州	Madrid (autonomous community)
+マフィア	Mafia
+雑誌	Magazine
+マゼンタ	Magenta
+マグリブ	Maghreb
+魔術	Magic (paranormal)
+魔方陣	Magic square
+マジノ線	Maginot Line
+マグマ	Magma
+マグナ・カルタ	Magna Carta
+マグネシウム	Magnesium
+磁石	Magnet
+磁場	Magnetic field
+核磁気共鳴画像法	Magnetic resonance imaging
+磁性	Magnetism
+Category:磁気	Magnetism
+磁鉄鉱	Magnetite
+拡大鏡	Magnifying glass
+マハーラーシュトラ州	Maharashtra
+マハトマ・ガンディー	Mahatma Gandhi
+大乗仏教	Mahayana
+郵便	Mail
+モーシェ・ベン＝マイモーン	Maimonides
+マイン川	Main
+Template:Main	Main
+メイン州	Maine
+Category:メイン州	Maine
+メインフレーム	Mainframe computer
+弥勒菩薩	Maitreya
+トウモロコシ	Maize
+少佐	Major
+長音階	Major scale
+マヨルカ島	Majorca
+マカルー	Makalu
+マラボ	Malabo
+孔雀石	Malachite
+軟甲綱	Malacostraca
+マラリア	Malaria
+Category:マラウイ	Malawi
+マレー半島	Malay Peninsula
+マレーバク	Malayan Tapir
+マレーシア	Malaysia
+Category:マレーシア	Malaysia
+マルコムX	Malcolm X
+モルディブ	Maldives
+Category:モルディブ	Maldives
+マリ共和国	Mali
+Category:マリ共和国	Mali
+マガモ	Mallard
+マルタ	Malta
+Category:マルタ	Malta
+マルタ語	Maltese language
+マルトース	Maltose
+アオイ科	Malvaceae
+哺乳類	Mammal
+マンモス	Mammoth
+経営管理論	Management
+マナグア	Managua
+マナーマ	Manama
+マナティー	Manatee
+マンチェスター	Manchester
+満州	Manchuria
+曼荼羅	Mandala
+中国官話	Mandarin (linguistics)
+マンダリンオレンジ	Mandarin orange
+マンデルブロ集合	Mandelbrot set
+マンガン	Manganese
+マンゴー	Mango
+マングローブ	Mangrove
+マンハッタン	Manhattan
+マンハッタン計画	Manhattan Project
+マニ教	Manichaeism
+マニラ	Manila
+マニプル州	Manipur
+マニトバ州	Manitoba
+マニエリスム	Mannerism
+マンハイム	Mannheim
+マントル	Mantle (geology)
+マントラ	Mantra
+マントヴァ	Mantua
+マヌエル・デ・ファリャ	Manuel de Falla
+写本	Manuscript
+毛沢東	Mao Zedong
+毛沢東思想	Maoism
+地図	Map
+カエデ	Maple
+マプト	Maputo
+マラソン	Marathon
+大理石	Marble
+マルク・シャガール	Marc Chagall
+マルセル・デュシャン	Marcel Duchamp
+マルセル・マルソー	Marcel Marceau
+マルセル・プルースト	Marcel Proust
+3月	March
+3月17日	March 17
+3月19日	March 19
+3月2日	March 2
+3月25日	March 25
+マルケ州	Marche
+マルコ・ポーロ	Marco Polo
+マルクス・アウレリウス・アントニヌス	Marcus Aurelius
+マルクス・ユニウス・ブルートゥス	Marcus Junius Brutus
+マルクス・ウィプサニウス・アグリッパ	Marcus Vipsanius Agrippa
+マルドゥク	Marduk
+マーガレット・ミード	Margaret Mead
+マーガレット・ミッチェル	Margaret Mitchell
+マーガレット・サッチャー	Margaret Thatcher
+マリア・カラス	Maria Callas
+マリアナ諸島	Mariana Islands
+マリー・アントワネット	Marie Antoinette
+マリ・キュリー	Marie Curie
+マリエハムン	Mariehamn
+マリリン・モンロー	Marilyn Monroe
+マリオ・バルガス・リョサ	Mario Vargas Llosa
+マルクス・アントニウス	Mark Antony
+マーク・トウェイン	Mark Twain
+市場	Market
+マーケティング	Marketing
+Category:マーケティング	Marketing
+マークアップ言語	Markup language
+マレーネ・ディートリッヒ	Marlene Dietrich
+マルキ・ド・サド	Marquis de Sade
+マラケシュ	Marrakech
+結婚	Marriage
+Category:火星	Mars
+マーズ	Mars (disambiguation)
+マルス (ローマ神話)	Mars (mythology)
+マルセイユ	Marseille
+マーシャル諸島	Marshall Islands
+Category:マーシャル諸島共和国	Marshall Islands
+マーシャル・プラン	Marshall Plan
+フクロネズミ目	Marsupial
+マルティン・ブーバー	Martin Buber
+マルティン・ハイデッガー	Martin Heidegger
+マルティン・ルター	Martin Luther
+マーティン・ルーサー・キング・ジュニア	Martin Luther King
+マーティン・スコセッシ	Martin Scorsese
+マーティン・ヴァン・ビューレン	Martin Van Buren
+マルチナ・ナブラチロワ	Martina Navratilova
+マルティニーク	Martinique
+殉教	Martyr
+マルクス兄弟	Marx Brothers
+マルクス主義	Marxism
+Category:マルクス主義	Marxism
+イエスの母マリア	Mary (mother of Jesus)
+マグダラのマリア	Mary Magdalene
+メアリー・シェリー	Mary Shelley
+メアリ・ウルストンクラフト	Mary Wollstonecraft
+メリーランド州	Maryland
+Category:メリーランド州	Maryland
+マセル	Maseru
+マシュハド	Mashhad
+質量	Mass
+ミサ	Mass (liturgy)
+質量数	Mass number
+マサチューセッツ州	Massachusetts
+Category:マサチューセッツ州	Massachusetts
+マサチューセッツ工科大学	Massachusetts Institute of Technology
+オナニー	Masturbation
+マタ・ハリ	Mata Hari
+マッチ	Match
+唯物論	Materialism
+数理論理学	Mathematical logic
+Category:数理論理学	Mathematical logic
+証明	Mathematical proof
+数学	Mathematics
+Category:数学	Mathematics
+Portal:数学	Mathematics
+行列	Matrix (mathematics)
+物質	Matter
+マッターホルン	Matterhorn
+マウナ・ケア山	Mauna Kea
+マウナ・ロア山	Mauna Loa
+聖木曜日	Maundy Thursday
+モーリス・ラヴェル	Maurice Ravel
+モーリタニア	Mauritania
+Category:モーリタニア	Mauritania
+モーリシャス	Mauritius
+Category:モーリシャス	Mauritius
+マックス・ボルン	Max Born
+マックス・ブルッフ	Max Bruch
+マックス・エルンスト	Max Ernst
+マックス・プランク	Max Planck
+マックス・ヴェーバー	Max Weber
+マクシミアヌス	Maximian
+マクスウェルの方程式	Maxwell's equations
+5月	May
+5月1日	May 1
+5月24日	May 24
+マイエンヌ県	Mayenne
+カゲロウ	Mayfly
+マヨネーズ	Mayonnaise
+市町村長	Mayor
+ムババーネ	Mbabane
+マッカーシズム	McCarthyism
+蜂蜜酒	Mead
+麻疹	Measles
+測度論	Measure (mathematics)
+Category:測定	Measurement
+測定	Measurement
+肉	Meat
+メッカ	Mecca
+機械工学	Mechanical engineering
+Category:機械工学	Mechanical engineering
+Category:力学	Mechanics
+力学	Mechanics
+メーデイア	Medea
+中央値	Median
+メディチ家	Medici
+医学	Medicine
+Category:医学	Medicine
+マディーナ	Medina
+瞑想	Meditation
+Category:地中海	Mediterranean
+地中海	Mediterranean Sea
+メドゥーサ	Medusa
+ミーアキャット	Meerkat
+メガバイト	Megabyte
+減数分裂	Meiosis
+マイスター・エックハルト	Meister Eckhart
+マイトネリウム	Meitnerium
+メコン川	Mekong
+メル・ギブソン	Mel Gibson
+メラネシア	Melanesia
+メロディ	Melody
+ウリ	Melon
+メルポメネー	Melpomene
+融解	Melting
+融点	Melting point
+ミーム	Meme
+記憶	Memory
+メンフィス (テネシー州)	Memphis
+メンフィス (エジプト)	Memphis
+メナヘム・ベギン	Menachem Begin
+メンデレビウム	Mendelevium
+メネラーオス	Menelaus
+髄膜炎	Meningitis
+テーブルさん座	Mensa (constellation)
+月経	Menstrual cycle
+月経	Menstruation
+精神疾患	Mental disorder
+ミント	Mentha
+重商主義	Mercantilism
+傭兵	Mercenary
+マーキュリー	Mercury
+水銀	Mercury (element)
+メルクリウス	Mercury (mythology)
+水星	Mercury (planet)
+子午線	Meridian (geography)
+人魚	Mermaid
+メロヴィング朝	Merovingian
+メリル・ストリープ	Meryl Streep
+メスカリン	Mescaline
+中石器時代	Mesolithic
+中間子	Meson
+メソポタミア	Mesopotamia
+Category:古代メソポタミア	Mesopotamia
+中間圏	Mesosphere
+中生代	Mesozoic
+伝令RNA	Messenger RNA
+メシア	Messiah
+メッシーナ	Messina
+代謝	Metabolism
+メタデータ	Metadata
+金属	Metal
+金属結合	Metallic bond
+半金属	Metalloid
+金属工学	Metallurgy
+変成岩	Metamorphic rock
+メタファー	Metaphor
+形而上学	Metaphysics
+Category:形而上学	Metaphysics
+転移 (医学)	Metastasis
+流星群	Meteor shower
+隕石	Meteorite
+流星物質	Meteoroid
+Category:気象学	Meteorology
+気象学	Meteorology
+メタドン	Methadone
+メタンフェタミン	Methamphetamine
+メタノール	Methanol
+メチオニン	Methionine
+メソジスト	Methodism
+メチレンジオキシメタンフェタミン	Methylenedioxymethamphetamine
+メティス (衛星)	Metis (moon)
+換喩	Metonymy
+メートル	Metre
+距離空間	Metric space
+ムーズ県	Meuse
+マース川	Meuse River
+メキシコ	Mexico
+Category:メキシコ	Mexico
+メキシコシティ	Mexico City
+マイアミ	Miami
+雲母	Mica
+ミカエル	Michael (archangel)
+マイケル・ファラデー	Michael Faraday
+ミシェル・ネイ	Michel Ney
+ミケランジェロ・ブオナローティ	Michelangelo
+ミシガン州	Michigan
+Category:ミシガン州	Michigan
+ミック・ジャガー	Mick Jagger
+ミッキーマウス	Mickey Mouse
+微生物学	Microbiology
+Category:微生物学	Microbiology
+ミクロ経済学	Microeconomics
+ミクロネシア	Micronesia
+微生物	Microorganism
+マイクロフォン	Microphone
+マイクロプロセッサ	Microprocessor
+顕微鏡	Microscope
+けんびきょう座	Microscopium
+マイクロ波	Microwave
+電子レンジ	Microwave oven
+中世	Middle Ages
+Category:中世ヨーロッパ	Middle Ages
+中東	Middle East
+Category:中東	Middle East
+白夜	Midnight sun
+頭痛#.E7.89.87.E9.A0.AD.E7.97.9B	Migraine
+ミゲル・デ・セルバンテス	Miguel de Cervantes
+マイク・タイソン	Mike Tyson
+ミハイル・バクーニン	Mikhail Bakunin
+ミハイル・グリンカ	Mikhail Glinka
+ミハイル・ゴルバチョフ	Mikhail Gorbachev
+ミラノ	Milan
+マイル	Mile
+マイルス・デイヴィス	Miles Davis
+Category:軍事	Military
+軍隊における階級呼称一覧	Military rank
+乳	Milk
+銀河系	Milky Way
+ミラード・フィルモア	Millard Fillmore
+ミレニアム	Millennium
+ミリメートル	Millimetre
+1000000	Million
+ヤスデ	Millipede
+ミルトン・フリードマン	Milton Friedman
+ミルウォーキー	Milwaukee
+ミナレット	Minaret
+ミンダナオ島	Mindanao
+鉱物	Mineral
+ミネラルウォーター	Mineral water
+鉱物学	Mineralogy
+Category:鉱物学	Mineralogy
+ミネルウァ	Minerva
+明	Ming Dynasty
+ミニマル	Minimalism
+鉱業	Mining
+大臣	Minister (government)
+ミネアポリス	Minneapolis
+ミネソタ州	Minnesota
+Category:ミネソタ州	Minnesota
+クレタ文明	Minoan civilization
+短音階	Minor scale
+ミーノース	Minos
+ミーノータウロス	Minotaur
+ミンスク	Minsk
+分	Minute
+中新世	Miocene
+奇跡	Miracle
+鏡	Mirror
+ミシュナー	Mishnah
+Category:ミシシッピ州	Mississippi
+ミシシッピ川	Mississippi River
+ミズーリ州	Missouri
+Category:ミズーリ州	Missouri
+ミズーリ川	Missouri River
+ミトコンドリア	Mitochondrion
+ムネモシュネ	Mnemosyne
+携帯電話	Mobile phone
+モデム	Modem
+モダニズム	Modernism
+モデスト・ムソルグスキー	Modest Mussorgsky
+変調方式	Modulation
+モガディシュ	Mogadishu
+モイライ	Moirae
+カビ	Mold
+モルドバ	Moldova
+Category:モルドバ	Moldova
+モル	Mole (unit)
+分子生物学	Molecular biology
+Category:分子生物学	Molecular biology
+分子	Molecule
+モリーゼ州	Molise
+軟体動物	Mollusca
+火炎瓶	Molotov cocktail
+モリブデン	Molybdenum
+モンバサ	Mombasa
+運動量	Momentum
+モナコ	Monaco
+Category:モナコ	Monaco
+君主	Monarch
+君主制	Monarchy
+Category:君主制	Monarchy
+月曜日	Monday
+貨幣	Money
+モンゴル国	Mongolia
+Category:モンゴル国	Mongolia
+マングース	Mongoose
+モニカ・セレシュ	Monica Seles
+一元論	Monism
+単子葉植物	Monocotyledon
+モノマー	Monomer
+独占	Monopoly
+モノポリー	Monopoly (game)
+単糖	Monosaccharide
+グルタミン酸ナトリウム	Monosodium glutamate
+一神教	Monotheism
+カモノハシ目	Monotreme
+モンロー主義	Monroe Doctrine
+モンロビア	Monrovia
+モンス	Mons
+モンスーン	Monsoon
+モンブラン	Mont Blanc
+モンタナ州	Montana
+Category:モンタナ州	Montana
+モンテカルロ	Monte Carlo
+モンテネグロ	Montenegro
+Category:モンテネグロ	Montenegro
+モンテレー	Monterrey
+モンテビデオ	Montevideo
+モンゴメリー (アラバマ州)	Montgomery
+月 (暦)	Month
+モントピリア (バーモント州)	Montpelier
+モントリオール	Montreal
+モントセラト	Montserrat
+月	Moon
+ヘラジカ	Moose
+道徳	Morality
+モラヴィア	Moravia
+モロッコ	Morocco
+Category:モロッコ	Morocco
+形態素	Morpheme
+モルヒネ	Morphine
+形態学	Morphology
+形態論	Morphology (linguistics)
+モールス符号	Morse code
+迫撃砲	Mortar (weapon)
+モザイク	Mosaic
+モスクワ	Moscow
+Category:モスクワ	Moscow
+モゼル県	Moselle
+モーセ	Moses
+モーシェ・ダヤン	Moshe Dayan
+モスク	Mosque
+カ	Mosquito
+蘚類	Moss
+モサド	Mossad
+モースル	Mosul
+モテット	Motet
+母親	Mother
+マザー・テレサ	Mother Teresa
+母の日	Mother's Day
+運動 (物理学)	Motion (physics)
+オートバイ	Motorcycle
+標語	Motto
+アララト山	Mount Ararat
+アトス山	Mount Athos
+エトナ火山	Mount Etna
+エベレスト	Mount Everest
+富士山	Mount Fuji
+キリマンジャロ	Mount Kilimanjaro
+デナリ	Mount McKinley
+オリンポス山	Mount Olympus
+ピナトゥボ山	Mount Pinatubo
+ラシュモア山	Mount Rushmore
+セント・ヘレンズ山	Mount St. Helens
+ヴェスヴィオ	Mount Vesuvius
+山	Mountain
+マウンテンバイク	Mountain bike
+峠	Mountain pass
+山脈	Mountain range
+マウス (コンピュータ)	Mouse (computing)
+モザンビーク	Mozambique
+Category:モザンビーク	Mozambique
+Μ	Mu (letter)
+ムアッジン	Muezzin
+ムハンマド・イブン＝アブドゥッラーフ	Muhammad
+モハメド・アリ	Muhammad Ali
+クワ	Mulberry
+ラバ	Mule
+マルチメディア	Multimedia
+多発性硬化症	Multiple sclerosis
+乗法	Multiplication
+ムンバイ	Mumbai
+ミイラ	Mummy
+ミュンヘン	Munich
+基礎自治体	Municipality
+ミュー粒子	Muon
+ムルマンスク	Murmansk
+マーフィーの法則	Murphy's law
+マレー・ゲルマン	Murray Gell-Mann
+バナナ	Musa (genus)
+はえ座	Musca
+マスカット	Muscat
+筋肉	Muscle
+ムーサ	Muse
+博物館	Museum
+キノコ	Mushroom
+音楽	Music
+Category:音楽	Music
+MIDI	Musical Instrument Digital Interface
+楽器	Musical instrument
+音階	Musical scale
+音楽家	Musician
+音楽学	Musicology
+マスケット銃	Musket
+イタチ科	Mustelidae
+突然変異	Mutation
+コブハクチョウ	Mute Swan
+Category:ミャンマー	Myanmar
+ミケーネ	Mycenae
+真菌学	Mycology
+心筋梗塞	Myocardial infarction
+近視	Myopia
+多足類	Myriapoda
+神秘主義	Mysticism
+神話	Myth
+神話	Mythology
+Category:神話	Mythology
+N	N
+ンジャメナ	N'Djamena
+NASDAQ	NASDAQ
+北大西洋条約機構	NATO
+Category:NATO	NATO
+ナディン・ゴーディマー	Nadine Gordimer
+天底	Nadir
+長崎市	Nagasaki
+名古屋市	Nagoya
+ナワトル語	Nahuatl
+爪	Nail (anatomy)
+釘	Nail (fastener)
+ナイロビ	Nairobi
+ナミブ砂漠	Namib Desert
+ナミビア	Namibia
+Category:ナミビア	Namibia
+ナミュール	Namur (city)
+ナンシー	Nancy
+ナンガ・パルバット	Nanga Parbat
+南京市	Nanjing
+ナノテクノロジー	Nanotechnology
+ナント	Nantes
+ナパーム弾	Napalm
+ナポリ	Naples
+ナポレオン戦争	Napoleonic Wars
+ナルキッソス	Narcissus (mythology)
+ナッシュビル	Nashville
+ナッソー	Nassau
+ナサニエル・ホーソーン	Nathaniel Hawthorne
+国民	Nation
+アメリカ国家安全保障局	National Security Agency
+国歌	National anthem
+国立公園	National park
+ナショナリズム	Nationalism
+天然ガス	Natural gas
+自然言語処理	Natural language processing
+自然数	Natural number
+自然科学	Natural science
+自然選択説	Natural selection
+自然	Nature
+Category:自然	Nature
+ヌーディズム	Naturism
+ナウル	Nauru
+Category:ナウル	Nauru
+海里	Nautical mile
+Category:航海術	Navigation
+航海	Navigation
+海軍	Navy
+ナザレ	Nazareth
+ナチス・ドイツ	Nazi Germany
+Category:ナチス・ドイツ	Nazi Germany
+国家社会主義ドイツ労働者党	Nazi Party
+ネアンデルタール人	Neanderthal
+ネブラスカ州	Nebraska
+Category:ネブラスカ州	Nebraska
+ネブカドネザル2世	Nebuchadrezzar II
+星雲	Nebula
+ネッカー川	Neckar
+ネクタイ	Necktie
+ネフェルティティ	Nefertiti
+ネゲヴ	Negev
+ニール・アームストロング	Neil Armstrong
+ネルソン・マンデラ	Nelson Mandela
+線形動物	Nematode
+ネメアの獅子	Nemean Lion
+ネメシス	Nemesis (mythology)
+ネオジム	Neodymium
+新石器時代	Neolithic
+新語	Neologism
+ネオン	Neon
+ネオプラトニズム	Neoplatonism
+ネパール	Nepal
+Category:ネパール	Nepal
+ネフティス	Nephthys
+海王星	Neptune
+ネプツニウム	Neptunium
+ネレイド (衛星)	Nereid (moon)
+ネロ	Nero
+ネルウァ	Nerva
+神経系	Nervous system
+Category:神経	Nervous system
+巣	Nest
+ネストリウス派	Nestorianism
+オランダ	Netherlands
+Category:オランダ	Netherlands
+オランダ領アンティル	Netherlands Antilles
+ネットワーク構成	Network topology
+神経学	Neurology
+Category:神経学	Neurology
+神経細胞	Neuron
+神経伝達物質	Neurotransmitter
+ニュートリノ	Neutrino
+中性子	Neutron
+中性子星	Neutron star
+ネヴァ川	Neva River
+ネバダ州	Nevada
+Category:ネバダ州	Nevada
+ネヴィル・チェンバレン	Neville Chamberlain
+ニューブランズウィック州	New Brunswick
+ニューカレドニア	New Caledonia
+ニューデリー	New Delhi
+ニューイングランド	New England
+ニューギニア島	New Guinea
+ニューハンプシャー州	New Hampshire
+Category:ニューハンプシャー州	New Hampshire
+ニュージャージー州	New Jersey
+Category:ニュージャージー州	New Jersey
+ニューメキシコ州	New Mexico
+Category:ニューメキシコ州	New Mexico
+ニューオーリンズ	New Orleans
+ニューサウスウェールズ州	New South Wales
+新約聖書	New Testament
+新世界	New World
+元日	New Year
+ニューヨーク州	New York
+Category:ニューヨーク州	New York
+ニューヨーク (曖昧さ回避)	New York (disambiguation)
+ニューヨーク	New York City
+Category:ニューヨーク市	New York City
+ニューヨーク証券取引所	New York Stock Exchange
+ニュージーランド	New Zealand
+Category:ニュージーランド	New Zealand
+ニューアーク (ニュージャージー州)	Newark
+ニューファンドランド島	Newfoundland (island)
+ニューファンドランド・ラブラドール州	Newfoundland and Labrador
+ニューポート	Newport
+ニュートン	Newton
+ナイアシン	Niacin
+ナイアガラの滝	Niagara Falls
+ニアメ	Niamey
+ニカラグア	Nicaragua
+Category:ニカラグア	Nicaragua
+ニース	Nice
+ニカイア・コンスタンティノポリス信条	Nicene Creed
+ニッケル	Nickel
+ニコラ・プッサン	Nicolas Poussin
+ニコラウス・コペルニクス	Nicolaus Copernicus
+ニコシア	Nicosia
+ニコチン	Nicotine
+ニールス・ボーア	Niels Bohr
+ニールス・アーベル	Niels Henrik Abel
+ニジェール	Niger
+Category:ニジェール	Niger
+ニジェール川	Niger River
+ナイジェリア	Nigeria
+Category:ナイジェリア	Nigeria
+夜	Night
+サヨナキドリ	Nightingale
+ニヒリズム	Nihilism
+ナイメーヘン	Nijmegen
+ナイキ	Nike
+ニケ	Nike (mythology)
+ニキータ・フルシチョフ	Nikita Khrushchev
+ニコラ・テスラ	Nikola Tesla
+ナイル川	Nile
+ナイルワニ	Nile crocodile
+ニネヴェ (メソポタミア)	Nineveh
+忍者	Ninja
+ニオブ	Niobium
+涅槃	Nirvana
+硝酸	Nitric acid
+窒素	Nitrogen
+ニトログリセリン	Nitroglycerin
+ニクス (衛星)	Nix (moon)
+ニョルズ	Njord
+ノア (聖書)	Noah
+ノーム・チョムスキー	Noam Chomsky
+ノーベル賞	Nobel Prize
+Category:ノーベル賞	Nobel Prize
+ノーベリウム	Nobelium
+貴族	Nobility
+Category:貴族	Nobility
+第18族元素	Noble gas
+遊牧民	Nomad
+主格	Nominative case
+非金属元素	Nonmetal
+ノーフォーク	Norfolk
+ノーフォーク島	Norfolk Island
+じょうぎ座	Norma (constellation)
+正規分布	Normal distribution
+ノーマン・メイラー	Norman Mailer
+ノルマンディー	Normandy
+ノルン	Norn
+北欧神話	Norse mythology
+Category:北欧神話	Norse mythology
+北	North
+北アフリカ	North Africa
+北アメリカ	North America
+Category:北アメリカ	North America
+ノースカロライナ州	North Carolina
+Category:ノースカロライナ州	North Carolina
+ノースダコタ州	North Dakota
+Category:ノースダコタ州	North Dakota
+北島 (ニュージーランド)	North Island
+朝鮮民主主義人民共和国	North Korea
+Category:朝鮮民主主義人民共和国	North Korea
+北極点	North Pole
+北海	North Sea
+北極星	North Star
+ノース・ヨークシャー	North Yorkshire
+北ヨーロッパ	Northern Europe
+北半球	Northern Hemisphere
+北アイルランド	Northern Ireland
+Category:北アイルランド	Northern Ireland
+北マリアナ諸島	Northern Mariana Islands
+ノーザンテリトリー	Northern Territory
+ノースウエスト準州	Northwest Territories
+ノルウェー	Norway
+Category:ノルウェー	Norway
+ノルウェー海	Norwegian Sea
+ノルウェー・クローネ	Norwegian krone
+鼻	Nose
+ノストラダムス	Nostradamus
+音符	Note
+ヌアクショット	Nouakchott
+名詞	Noun
+ノバスコシア州	Nova Scotia
+ノヴァヤゼムリャ	Novaya Zemlya
+小説	Novel
+11月	November
+11月1日	November 1
+11月11日	November 11
+11月2日	November 2
+11月5日	November 5
+ノヴィアル	Novial
+ノヴォシビルスク	Novosibirsk
+Ν	Nu (letter)
+核分裂反応	Nuclear fission
+原子核融合	Nuclear fusion
+原子核物理学	Nuclear physics
+Category:原子核物理学	Nuclear physics
+原子力	Nuclear power
+核兵器	Nuclear weapon
+核酸	Nucleic acid
+核子	Nucleon
+ヌクレオチド	Nucleotide
+数	Number
+Category:数	Numbers
+ヌミディア	Numidia
+貨幣学	Numismatics
+Category:貨幣学	Numismatics
+ヌナブト準州	Nunavut
+ニュルンベルク	Nuremberg
+種実類	Nut (fruit)
+ナツメグ	Nutmeg
+Category:栄養学	Nutrition
+ニンフ	Nymph
+スイレン科	Nymphaeaceae
+ニュクス	Nyx (mythology)
+O	O
+石油輸出国機構	OPEC
+オアフ島	Oahu
+オーク	Oak
+オークランド (カリフォルニア州)	Oakland
+オアシス	Oasis
+エンバク	Oat
+オアハカ州	Oaxaca
+オビ川	Ob River
+オベリスク	Obelisk
+肥満	Obesity
+オブジェクト指向プログラミング	Object-oriented programming
+オーボエ	Oboe
+天文台	Observatory
+黒曜石	Obsidian
+オッカムの剃刀	Occam's razor
+大洋	Ocean
+海流	Ocean current
+オセアニア	Oceania
+Category:オセアニア	Oceania
+オーケアニス	Oceanid
+海洋学	Oceanography
+Category:海洋学	Oceanography
+オーケアノス	Oceanus
+八進法	Octal
+はちぶんぎ座	Octans
+オクターヴ	Octave
+10月	October
+10月12日	October 12
+10月24日	October 24
+ロシア革命	October Revolution
+タコ	Octopus
+頌歌	Ode
+オーデル川	Oder River
+オデッサ (オデッサ州)	Odessa
+オーディン	Odin
+トンボ	Odonata
+オデュッセウス	Odysseus
+オデュッセイア	Odyssey
+オイディプス	Oedipus
+オフサイド (サッカー)	Offside (football)
+オハイオ州	Ohio
+Category:オハイオ州	Ohio
+オーム	Ohm
+オームの法則	Ohm's law
+油	Oil
+油	Oil (disambiguation)
+油彩	Oil painting
+オカピ	Okapi
+オクラホマ州	Oklahoma
+Category:オクラホマ州	Oklahoma
+オクラホマシティ	Oklahoma City
+オクトーバーフェスト	Oktoberfest
+古代教会スラヴ語	Old Church Slavonic
+古ノルド語	Old Norse
+旧約聖書	Old Testament
+寡頭制	Oligarchy
+漸新世	Oligocene
+寡占	Oligopoly
+オリーブ	Olive
+オリーブ・オイル	Olive oil
+オリバー・クロムウェル	Oliver Cromwell
+オリバー・ストーン	Oliver Stone
+カンラン石	Olivine
+オリンピア (ワシントン州)	Olympia
+オリンピア (ギリシャ)	Olympia
+近代オリンピック	Olympic Games
+Category:オリンピック	Olympics
+オマハ	Omaha
+オマーン	Oman
+Category:オマーン	Oman
+Ω	Omega
+Ο	Omicron
+オムスク	Omsk
+Category:腫瘍学	Oncology
+タマネギ	Onion
+オンタリオ州	Ontario
+Category:オンタリオ州	Ontario
+存在論	Ontology
+オールトの雲	Oort cloud
+オパール	Opal
+オペル	Opel
+オペラ	Opera
+Opera	Opera (Internet suite)
+オペレーティングシステム	Operating system
+オペレッタ	Operetta
+へびつかい座	Ophiuchus
+アヘン	Opium
+光ファイバー	Optical fiber
+錯視	Optical illusion
+光学	Optics
+Category:光学	Optics
+最適化問題	Optimization (mathematics)
+オーラルセックス	Oral sex
+オレンジ色	Orange (colour)
+オレンジ	Orange (fruit)
+オランウータン	Orangutan
+オラトリオ	Oratorio
+軌道 (力学)	Orbit
+シャチ	Orca
+オーケストラ	Orchestra
+ラン科	Orchidaceae
+目 (分類学)	Order (biology)
+ベネディクト会	Order of Saint Benedict
+オルドビス紀	Ordovician
+オレガノ	Oregano
+オレゴン州	Oregon
+Category:オレゴン州	Oregon
+オレステース	Orestes (mythology)
+器官	Organ (anatomy)
+オルガン	Organ (music)
+細胞小器官	Organelle
+有機化学	Organic chemistry
+Category:有機化学	Organic chemistry
+有機化合物	Organic compound
+生物	Organism
+組織 (社会科学)	Organization
+米州機構	Organization of American States
+オーガズム	Orgasm
+折り紙	Origami
+オリゲネス	Origen
+原罪	Original sin
+オリノコ川	Orinoco
+オリオン座	Orion (constellation)
+オリッサ州	Orissa
+オーランド	Orlando
+鳥類学	Ornithology
+Category:鳥類学	Ornithology
+オルフェウス	Orpheus
+オーソン・ウェルズ	Orson Welles
+正書法	Orthography
+大阪市	Osaka
+ウサーマ・ビン＝ラーディン	Osama bin Laden
+オスカー・ワイルド	Oscar Wilde
+振動 (物理現象)	Oscillation
+オシリス	Osiris
+オスロ	Oslo
+オスマン1世	Osman I
+オスミウム	Osmium
+ミサゴ	Osprey
+硬骨魚綱	Osteichthyes
+骨粗鬆症	Osteoporosis
+オストラヴァ	Ostrava
+ダチョウ	Ostrich
+オセロ (シェイクスピア)	Othello
+オト	Otho
+オタワ	Ottawa
+オットー・ハーン	Otto Hahn
+オットー1世 (神聖ローマ皇帝)	Otto I
+オットー・フォン・ビスマルク	Otto von Bismarck
+オスマン帝国	Ottoman Empire
+Category:オスマン帝国	Ottoman Empire
+オンス	Ounce
+卵巣	Ovary
+オウィディウス	Ovid
+オビエド	Oviedo
+卵子	Ovum
+フクロウ目	Owl
+オックスフォード	Oxford
+酸化数	Oxidation state
+酸化物	Oxide
+酸素	Oxygen
+撞着語法	Oxymoron
+オキシトシン	Oxytocin
+オゾン	Ozone
+オゾン層	Ozone layer
+P	P
+PAL	PAL
+水素イオン指数	PH
+パブロ・ネルーダ	Pablo Neruda
+パブロ・ピカソ	Pablo Picasso
+太平洋	Pacific Ocean
+Category:太平洋	Pacific Ocean
+平和主義	Pacifism
+パドヴァ	Padua
+ペイガニズム	Paganism
+Category:絵画	Painting
+パキスタン	Pakistan
+Category:パキスタン	Pakistan
+ヴェルサイユ宮殿	Palace of Versailles
+パラオ	Palau
+Category:パラオ	Palau
+暁新世	Paleocene
+旧石器時代	Paleolithic
+古生物学	Paleontology
+Category:古生物学	Paleontology
+古生代	Paleozoic
+パレルモ	Palermo
+パレスチナ	Palestine
+Category:パレスチナ	Palestine
+パレスチナ解放機構	Palestine Liberation Organization
+パレスチナ自治政府	Palestinian National Authority
+パーリ語	Pali
+回文	Palindrome
+パラジウム	Palladium
+聖枝祭	Palm Sunday
+パルミラ遺跡	Palmyra
+パミール高原	Pamir Mountains
+パーン (ギリシア神話)	Pan (mythology)
+パナマ	Panama
+Category:パナマ	Panama
+パナマ運河	Panama Canal
+パナマ市	Panama City
+膵臓	Pancreas
+パンデミック	Pandemic
+パンドーラー	Pandora
+パンゲア大陸	Pangaea
+汎神論	Pantheism
+パンテオン (ローマ)	Pantheon
+ヒョウ属	Panthera
+教皇領	Papal States
+パプアニューギニア	Papua New Guinea
+Category:パプアニューギニア	Papua New Guinea
+パピルス	Papyrus
+放物線	Parabola
+パラケルスス	Paracelsus
+パラシュート	Parachute
+パラダイム	Paradigm
+パラドックス	Paradox
+パラグライダー	Paragliding
+パラグアイ	Paraguay
+Category:パラグアイ	Paraguay
+両眼視差	Parallax
+平行四辺形	Parallelogram
+パラマリボ	Paramaribo
+偏執病	Paranoia
+性的倒錯	Paraphilia
+超心理学	Parapsychology
+寄生	Parasitism
+羊皮紙	Parchment
+パリ	Paris
+Category:パリ	Paris
+パリス	Paris (mythology)
+奇数	Parity (mathematics)
+パーキンソン病	Parkinson's disease
+議会	Parliament
+パルメニデス	Parmenides
+パロディ	Parody
+オウム目	Parrot
+パーセク	Parsec
+パセリ	Parsley
+パルテノン神殿	Parthenon
+パルティア	Parthia
+素粒子物理学	Particle physics
+Category:素粒子物理学	Particle physics
+パールヴァティー	Parvati
+パスカル (曖昧さ回避)	Pascal
+Pascal	Pascal (programming language)
+パスカル	Pascal (unit)
+Category:スズメ目	Passeriformes
+スズメ目	Passerine
+過越	Passover
+パスポート	Passport
+パスワード	Password
+パスチャライゼーション	Pasteurization
+パタゴニア	Patagonia
+特許	Patent
+病理学	Pathology
+パトラ	Patras
+総主教	Patriarch
+パトリック・ホワイト	Patrick White
+愛国心	Patriotism
+ポール・ゴーギャン	Paul Gauguin
+パウル・フォン・ハイゼ	Paul Johann Ludwig von Heyse
+パウル・クレー	Paul Klee
+ポール・マッカートニー	Paul McCartney
+ポール・ニューマン	Paul Newman
+ポール・ヴェルレーヌ	Paul Verlaine
+パウロ	Paul the Apostle
+パウル・フォン・ヒンデンブルク	Paul von Hindenburg
+パウリの排他原理	Pauli exclusion principle
+くじゃく座	Pavo (constellation)
+ポーン	Pawn (chess)
+ペイ・ド・ラ・ロワール地域圏	Pays de la Loire
+エンドウ	Pea
+平和	Peace
+ヴェストファーレン条約	Peace of Westphalia
+モモ	Peach
+クジャク	Peafowl
+ラッカセイ	Peanut
+ナシ属	Pear
+真珠	Pearl
+真珠湾	Pearl Harbor
+泥炭	Peat
+教育学	Pedagogy
+Category:教育学	Pedagogy
+小児科学	Pediatrics
+ペドフィリア	Pedophilia
+ヨーロッパナラ	Pedunculate Oak
+ペーガソス	Pegasus
+ペガスス座	Pegasus (constellation)
+ペロポネソス半島	Peloponnese
+ペロポネソス戦争	Peloponnesian War
+鉛筆	Pencil
+振り子	Pendulum
+ペーネロペー	Penelope
+ペンギン	Penguin
+ペニシリン	Penicillin
+半島	Peninsula
+ペンシルバニア州	Pennsylvania
+Category:ペンシルバニア州	Pennsylvania
+五角形	Pentagon
+五芒星	Pentagram
+ペンテコステ	Pentecost
+ペンテコステ派	Pentecostalism
+Category:人物	People
+中華人民共和国	People's Republic of China
+ピピン3世	Pepin the Short
+ペプシコーラ	Pepsi
+ペプチド	Peptide
+パーセント	Percentage
+知覚	Perception
+スズキ目	Perciformes
+打楽器	Percussion instrument
+パーシー・ビッシュ・シェリー	Percy Bysshe Shelley
+ハヤブサ	Peregrine Falcon
+ペレストロイカ	Perestroika
+香水	Perfume
+ペリクレス	Pericles
+元素の周期	Period (periodic table)
+周期表	Periodic table
+ペルミ	Perm
+永久凍土	Permafrost
+ペルム紀	Permian
+順列	Permutation
+ペルナンブーコ州	Pernambuco
+永久機関	Perpetual motion
+ペルセポネー	Persephone
+ペルセポリス	Persepolis
+ペルセウス	Perseus
+ペルセウス座	Perseus (constellation)
+ペルシア	Persian Empire
+ペルシア湾	Persian Gulf
+携帯情報端末	Personal digital assistant
+パース (西オーストラリア州)	Perth
+ペルー	Peru
+Category:ペルー	Peru
+農薬	Pesticide
+ピエール・アベラール	Peter Abelard
+ピーテル・パウル・ルーベンス	Peter Paul Rubens
+ピーター・セラーズ	Peter Sellers
+ペトラルカ	Petrarch
+石油	Petroleum
+岩石学	Petrology
+顕生代	Phanerozoic
+ファラオ	Pharaoh
+薬理学	Pharmacology
+Category:薬理学	Pharmacology
+咽頭	Pharynx
+相	Phase (matter)
+フェノール	Phenol
+現象学	Phenomenology
+表現型	Phenotype
+フェニルアラニン	Phenylalanine
+フェニルケトン尿症	Phenylketonuria
+Φ	Phi (letter)
+フィラデルフィア	Philadelphia
+郵便学	Philately
+Category:郵趣	Philately
+ピリッポス2世	Philip II of Macedon
+フェリペ2世 (スペイン王)	Philip II of Spain
+フィリップ・レーナルト	Philipp Lenard
+フィリピン海	Philippine Sea
+フィリピン	Philippines
+Category:フィリピン	Philippines
+文献学	Philology
+Category:文献学	Philology
+賢者の石	Philosopher's stone
+哲学	Philosophy
+Category:哲学	Philosophy
+Portal:哲学	Philosophy
+プノンペン	Phnom Penh
+恐怖症	Phobia
+フォボス (衛星)	Phobos (moon)
+フェニキア	Phoenicia
+フェニックス (アリゾナ州)	Phoenix
+フェニックス (曖昧さ回避)	Phoenix
+ほうおう座	Phoenix (constellation)
+フェニックス	Phoenix (mythology)
+フェニックス (探査機)	Phoenix (spacecraft)
+音素	Phoneme
+音声学	Phonetics
+Category:音声学	Phonetics
+音韻論	Phonology
+リン酸塩	Phosphate
+リン酸	Phosphoric acid
+リン	Phosphorus
+写真	Photography
+Category:写真	Photography
+光子	Photon
+光球	Photosphere
+光合成	Photosynthesis
+門 (分類学)	Phylum
+物理化学	Physical chemistry
+Category:物理化学	Physical chemistry
+医師	Physician
+物理学	Physics
+Category:物理学	Physics
+Portal:物理学	Physics
+生理学	Physiology
+Category:生理学	Physiology
+円周率	Pi
+Π	Pi (letter)
+ピアノ	Piano
+ピカルディ地域圏	Picardie
+キツツキ目	Piciformes
+がか座	Pictor
+ピジン言語	Pidgin
+Pidgin	Pidgin (software)
+ピエモンテ州	Piedmont
+ピア (サウスダコタ州)	Pierre
+ピエール・キュリー	Pierre Curie
+ピエール・ド・フェルマー	Pierre de Fermat
+ピエト・モンドリアン	Piet Mondrian
+ピーター・ゼーマン	Pieter Zeeman
+顔料	Pigment
+プルゼニ	Pilsen
+マツ科	Pinaceae
+ピンダロス	Pindar
+マツ	Pine
+パイナップル	Pineapple
+Ping	Ping
+ピンク	Pink
+アシカ亜目	Pinniped
+海賊	Piracy
+ピサ	Pisa
+うお座	Pisces (constellation)
+ピストン	Piston
+ピッツバーグ	Pittsburgh
+下垂体	Pituitary gland
+ピクセル	Pixel
+ピザ	Pizza
+盗作	Plagiarism
+平面	Plane (mathematics)
+惑星	Planet
+惑星状星雲	Planetary nebula
+プランクトン	Plankton
+植物	Plant
+プラズマ	Plasma (physics)
+プラスミド	Plasmid
+合成樹脂	Plastic
+色素体	Plastid
+プレートテクトニクス	Plate tectonics
+血小板	Platelet
+白金	Platinum
+プラトン	Plato
+カモノハシ	Platypus
+PLAYBOY	Playboy
+トランプ	Playing card
+プレアデス星団	Pleiades (star cluster)
+更新世	Pleistocene
+プレヴェン	Pleven
+ガイウス・プリニウス・セクンドゥス	Pliny the Elder
+ガイウス・プリニウス・カエキリウス・セクンドゥス	Pliny the Younger
+鮮新世	Pliocene
+プロティノス	Plotinus
+プロヴディフ	Plovdiv
+スモモ亜属	Plum
+プルタルコス	Plutarch
+冥王星	Pluto
+プルート (曖昧さ回避)	Pluto (disambiguation)
+プルトニウム	Plutonium
+プリマス	Plymouth
+肺炎	Pneumonia
+ポー川	Po River
+イネ科	Poaceae
+ポッドキャスト	Podcast
+詩	Poetry
+Category:詩	Poetry
+ポグロム	Pogrom
+毒	Poison
+ポワチエ	Poitiers
+ポワトゥー＝シャラント地域圏	Poitou-Charentes
+ポーカー	Poker
+ポーランド	Poland
+Category:ポーランド	Poland
+ホッキョクグマ	Polar bear
+ポラリス (恒星)	Polaris
+警察	Police
+急性灰白髄炎	Poliomyelitis
+政党	Political party
+政治学	Political science
+Category:政治学	Political science
+政治家	Politician
+政治	Politics
+Category:政治	Politics
+花粉	Pollen
+受粉	Pollination
+公害	Pollution
+ポロ	Polo
+ポロニウム	Polonium
+ポリエチレン	Polyethylene
+一夫多妻制	Polygamy
+多角形	Polygon
+多面体	Polyhedron
+ポリュムニアー	Polyhymnia
+重合体	Polymer
+ポリネシア	Polynesia
+多項式	Polynomial
+多神教	Polytheism
+ポリ塩化ビニル	Polyvinyl chloride
+ザクロ	Pomegranate
+ブンタン	Pomelo
+ポンペイ	Pompeii
+グナエウス・ポンペイウス	Pompey
+ポンティウス・ピラトゥス	Pontius Pilate
+ポップアート	Pop art
+ポップ・ミュージック	Pop music
+教皇	Pope
+アレクサンデル6世 (ローマ教皇)	Pope Alexander VI
+ポプラ	Poplar
+人口	Population
+ポピュリズム	Populism
+陶磁器	Porcelain
+ポルノグラフィ	Pornography
+港湾	Port
+ポートルイス	Port Louis
+ポートモレスビー	Port Moresby
+ポートビラ	Port Vila
+ポートオブスペイン	Port of Spain
+ポルトープランス	Port-au-Prince
+ポートランド (オレゴン州)	Portland
+ポートランド	Portland
+ポルト	Porto
+肖像	Portrait
+ポーツマス (イングランド)	Portsmouth
+ポルトガル	Portugal
+Category:ポルトガル	Portugal
+ポセイドーン	Poseidon
+陽電子	Positron
+切手	Postage stamp
+郵便番号	Postal code
+ポストモダン	Postmodernism
+カリウム	Potassium
+硝酸カリウム	Potassium nitrate
+ジャガイモ	Potato
+位置エネルギー	Potential energy
+ポツダム	Potsdam
+ポンド (質量)	Pound (mass)
+UKポンド	Pound sterling
+貧困	Poverty
+仕事率	Power (physics)
+発電所	Power station
+プラエトル	Praetor
+プラハ	Prague
+Category:プラハ	Prague
+プライア	Praia
+プラセオジム	Praseodymium
+祈り	Prayer
+先カンブリア時代	Precambrian
+歳差	Precession
+降水	Precipitation (meteorology)
+妊娠	Pregnancy
+先史時代	Prehistory
+Category:先史時代	Prehistory
+大統領	President
+アメリカ合衆国大統領	President of the United States
+圧力	Pressure
+プレトリア	Pretoria
+プリアモス	Priam
+価格	Price
+司祭	Priest
+サル目	Primate
+Category:サル目	Primates
+グリニッジ子午線	Prime Meridian
+首相	Prime minister
+素数	Prime number
+プリンスエドワードアイランド州	Prince Edward Island
+フィリップ (エディンバラ公)	Prince Philip
+プリンス・オブ・ウェールズ	Prince of Wales
+プリンストン大学	Princeton University
+相対性原理	Principle of relativity
+印刷	Printing
+プリオン	Prion
+角柱	Prism (geometry)
+プリズム	Prism (optics)
+刑務所	Prison
+捕虜	Prisoner of war
+ゴンクール賞	Prix Goncourt
+確率	Probability
+確率論	Probability theory
+Category:確率論	Probability theory
+アライグマ科	Procyonidae
+教授	Professor
+利益	Profit
+プログラマ	Programmer
+プログラミング言語	Programming language
+プログレッシブ・ロック	Progressive rock
+プロジェクト	Project
+原核生物	Prokaryote
+Prolog	Prolog
+プロメーテウス	Prometheus
+プロメチウム	Promethium
+代名詞	Pronoun
+プロパガンダ	Propaganda
+プロパン	Propane
+預言者	Prophet
+散文	Prose
+前立腺	Prostate
+プロトアクチニウム	Protactinium
+保護国	Protectorate
+タンパク質	Protein
+原生代	Proterozoic
+宗教改革	Protestant Reformation
+プロテスタント	Protestantism
+原生生物	Protist
+Category:原生生物	Protista
+プロトコル	Protocol
+陽子	Proton
+原生動物	Protozoa
+プロビデンス (ロードアイランド州)	Providence
+プロキシマ・ケンタウリ	Proxima Centauri
+サクラ属	Prunus
+プロイセン	Prussia
+詩篇	Psalms
+偽名	Pseudonym
+Category:疑似科学	Pseudoscience
+疑似科学	Pseudoscience
+Ψ	Psi (letter)
+乾癬	Psoriasis
+精神医学	Psychiatry
+Category:精神医学	Psychiatry
+精神分析学	Psychoanalysis
+心理学	Psychology
+Category:心理学	Psychology
+精神病	Psychosis
+心理療法	Psychotherapy
+プタハ	Ptah
+翼竜	Pterosaur
+プトレマイオス朝	Ptolemaic dynasty
+クラウディオス・プトレマイオス	Ptolemy
+思春期	Puberty
+パブリックドメイン	Public domain
+パブリック・リレーションズ	Public relations
+プエルトリコ	Puerto Rico
+Category:プエルトリコ	Puerto Rico
+プーラ (クロアチア)	Pula
+滑車	Pulley
+パルサー	Pulsar
+ポンプ	Pump
+約物	Punctuation
+パンジャーブ州 (インド)	Punjab (India)
+Category:パンク	Punk
+パンク・ロック	Punk rock
+瞳孔	Pupil
+とも座	Puppis
+平壌	Pyongyang
+ピラミッド	Pyramid
+角錐	Pyramid (geometry)
+ピレネー山脈	Pyrenees
+黄鉄鉱	Pyrite
+ピュタゴラス	Pythagoras
+Python	Python (programming language)
+らしんばん座	Pyxis
+Q	Q
+カタール	Qatar
+Category:カタール	Qatar
+秦	Qin Dynasty
+清	Qing Dynasty
+二次方程式	Quadratic equation
+四角形	Quadrilateral
+クァエストル	Quaestor
+場の量子論	Quantum field theory
+量子力学	Quantum mechanics
+Category:量子力学	Quantum mechanics
+検疫	Quarantine
+クォーク	Quark
+石英	Quartz
+クエーサー	Quasar
+第四紀	Quaternary
+四元数	Quaternion
+ケベック州	Quebec
+Category:ケベック州	Quebec
+ケベック (ケベック州)	Quebec City
+ケチュア	Quechua
+クイーン (チェス)	Queen (chess)
+クイーンズ区	Queens
+クイーンズランド州	Queensland
+クエンティン・タランティーノ	Quentin Tarantino
+疑問符	Question mark
+ケツァルコアトル	Quetzalcoatl
+マルメロ	Quince
+キト	Quito
+R	R
+RAID	RAID
+リボ核酸	RNA
+ラー	Ra
+ラバト	Rabat
+ラビ	Rabbi
+ラビンドラナート・タゴール	Rabindranath Tagore
+タヌキ	Raccoon Dog
+人種	Race
+レイチェル・カーソン	Rachel Carson
+人種差別	Racism
+Category:人種差別	Racism
+レーダー	Radar
+ラジアン	Radian
+Category:ラジオ	Radio
+電波望遠鏡	Radio telescope
+放射性崩壊	Radioactive decay
+放射性炭素年代測定	Radiocarbon dating
+放射線医学	Radiology
+ラジウム	Radium
+半径	Radius
+ラドン	Radon
+雨	Rain
+虹	Rainbow
+ライナー・マリア・リルケ	Rainer Maria Rilke
+ローリー (ノースカロライナ州)	Raleigh
+ラルフ・ワルド・エマーソン	Ralph Waldo Emerson
+ラーマ	Rama
+ラマダーン	Ramadan
+ラーマーヤナ	Ramayana
+ラムセス2世	Ramesses II
+Random Access Memory	Random access memory
+キンポウゲ科	Ranunculaceae
+強姦	Rape
+アブラナ	Rapeseed
+ラファエロ・サンティ	Raphael
+ラファエル	Raphael (archangel)
+ラズベリー	Raspberry
+クマネズミ属	Rat
+有理数	Rational number
+ダチョウ目	Ratite
+ラヴェンナ	Ravenna
+ラーワルピンディー	Rawalpindi
+レイ・ブラッドベリ	Ray Bradbury
+Read Only Memory	Read-only memory
+実数	Real number
+景気後退	Recession
+レシフェ	Recife
+長方形	Rectangle
+整流器	Rectifier
+再帰	Recursion
+リサイクル	Recycling
+赤	Red
+ドイツ赤軍	Red Army Faction
+アカシカ	Red Deer
+アカギツネ	Red Fox
+レッサーパンダ	Red Panda
+紅海	Red Sea
+紅藻	Red algae
+赤血球	Red blood cell
+赤色矮星	Red dwarf
+赤色巨星	Red giant
+赤方偏移	Redshift
+赤方偏移	Redshift (disambiguation)
+RISC	Reduced instruction set computer
+住民投票	Referendum
+屈折	Refraction
+屈折率	Refractive index
+難民	Refugee
+摂政	Regent
+レゲエ	Reggae
+連隊	Regiment
+レジャイナ	Regina
+地域	Region
+ランス (マルヌ県)	Reims
+転生	Reincarnation
+トナカイ	Reindeer
+相対主義	Relativism
+Category:相対性理論	Relativity
+継電器	Relay
+宗教	Religion
+Category:宗教	Religion
+クエーカー	Religious Society of Friends
+レンブラント・ファン・レイン	Rembrandt
+ルネサンス	Renaissance
+Category:ルネサンス	Renaissance
+生殖	Reproduction
+爬虫類	Reptile
+共和制	Republic
+中華民国	Republic of China
+アイルランド	Republic of Ireland
+Category:アイルランド	Republic of Ireland
+コンゴ共和国	Republic of the Congo
+Category:コンゴ共和国	Republic of the Congo
+共和党 (アメリカ)	Republican Party (United States)
+レクイエム	Requiem
+抵抗器	Resistor
+呼吸器	Respiratory system
+レストラン	Restaurant
+レチクル座	Reticulum
+網膜	Retina
+ビタミンA	Retinol
+革命	Revolution
+レア (衛星)	Rhea (moon)
+レアー	Rhea (mythology)
+レニウム	Rhenium
+修辞学	Rhetoric
+Category:修辞学	Rhetoric
+ライン川	Rhine
+サイ	Rhinoceros
+Ρ	Rho (letter)
+ロードアイランド州	Rhode Island
+Category:ロードアイランド州	Rhode Island
+ロードス島	Rhodes
+ロジウム	Rhodium
+菱形	Rhombus
+韻文	Rhyme
+リズム	Rhythm
+リズム・アンド・ブルース	Rhythm and blues
+肋骨	Rib
+リボフラビン	Riboflavin
+リボソーム	Ribosome
+米	Rice
+リチャード・P・ファインマン	Richard Feynman
+リチャード・ニクソン	Richard Nixon
+リヒャルト・シュトラウス	Richard Strauss
+リヒャルト・ワーグナー	Richard Wagner
+リチャード・ライト (音楽家)	Richard Wright (musician)
+リッチモンド (バージニア州)	Richmond
+リガ	Riga
+リゲル	Rigel
+赤経	Right ascension
+環 (数学)	Ring (mathematics)
+リンゴ・スター	Ringo Starr
+リオ・グランデ川	Rio Grande
+リオデジャネイロ市	Rio de Janeiro
+リオデジャネイロ州	Rio de Janeiro (state)
+川	River
+テムズ川	River Thames
+リヤド	Riyadh
+道路	Road
+ロアール・アムンセン	Roald Amundsen
+ロバート・A・ハインライン	Robert A. Heinlein
+ロバート・ミリカン	Robert Andrews Millikan
+ロバート・ボイル	Robert Boyle
+ロバート・バーンズ	Robert Burns
+ロバート・デ・ニーロ	Robert De Niro
+ロバート・E・リー	Robert E. Lee
+ロバート・スコット	Robert Falcon Scott
+ロバート・フック	Robert Hooke
+ロベルト・コッホ	Robert Koch
+ロバート・ルイス・スティーヴンソン	Robert Louis Stevenson
+ロバート・オッペンハイマー	Robert Oppenheimer
+ロバート・オウエン	Robert Owen
+ロバート・レッドフォード	Robert Redford
+ロベルト・シューマン	Robert Schumann
+ロビン・フッド	Robin Hood
+ロボット	Robot
+じゃんけん	Rock
+岩石	Rock (geology)
+ロックンロール	Rock and roll
+ロック (音楽)	Rock music
+Category:ロック	Rock music
+ロケット	Rocket
+ロッキー山脈	Rocky Mountains
+ロココ	Rococo
+ネズミ目	Rodent
+ノロジカ	Roe Deer
+レントゲニウム	Roentgenium
+ロジャー・ベーコン	Roger Bacon
+カトリック教会	Roman Catholic Church
+ローマ帝国	Roman Empire
+共和政ローマ	Roman Republic
+ローマ暦	Roman calendar
+ローマ法	Roman law
+ローマ軍団	Roman legion
+ローマ神話	Roman mythology
+Category:ローマ神話	Roman mythology
+ルーマニア	Romania
+Category:ルーマニア	Romania
+ロマンシュ語	Romansh
+ロマン主義	Romanticism
+ローマ	Rome
+Category:ローマ	Rome
+ロナルド・レーガン	Ronald Reagan
+屋根	Roof
+ミヤマガラス	Rook (bird)
+ルーク	Rook (chess)
+ルーズベルト	Roosevelt
+根	Root
+ローザ・パークス	Rosa Parks
+バラ科	Rosaceae
+バラ目	Rosales
+ロサリオ	Rosario
+ロザリオ	Rosary
+バラ	Rose
+ロゾー	Roseau
+ローズマリー	Rosemary
+ロゼッタ・ストーン	Rosetta Stone
+ローシュ・ハッシャーナー	Rosh Hashanah
+ロス海	Ross Sea
+ロストック	Rostock
+輪形動物	Rotifer
+ロッテルダム	Rotterdam
+ルーター	Router
+ボート	Rowing (sport)
+イギリス空軍	Royal Air Force
+王立協会	Royal Society
+ゴム	Rubber
+ルビコン川	Rubicon
+ルビジウム	Rubidium
+ルーブル	Ruble
+ラズベリー	Rubus idaeus
+ルビー	Ruby
+Ruby	Ruby (programming language)
+ルドルフ・ディーゼル	Rudolf Diesel
+ルドルフ・ヘス	Rudolf Hess
+ルドルフ・シュタイナー	Rudolf Steiner
+ラドヤード・キップリング	Rudyard Kipling
+ラグビー	Rugby football
+ルパート・マードック	Rupert Murdoch
+ロシア	Russia
+Category:ロシア	Russia
+ロシア正教会	Russian Orthodox Church
+ロシア革命	Russian Revolution (1917)
+日露戦争	Russo-Japanese War
+ルテニウム	Ruthenium
+ラザフォード・ヘイズ	Rutherford B. Hayes
+ラザホージウム	Rutherfordium
+ルワンダ	Rwanda
+Category:ルワンダ	Rwanda
+ライムギ	Rye
+S	S
+SOAP (プロトコル)	SOAP
+SOS	SOS
+秘跡	Sacrament
+サクラメント (カリフォルニア州)	Sacramento
+サッダーム・フセイン	Saddam Hussein
+Safari	Safari (web browser)
+サフラン	Saffron
+や座	Sagitta
+いて座	Sagittarius (constellation)
+サハラ砂漠	Sahara
+帆	Sail
+聖人	Saint
+アンデレ	Saint Andrew
+ゲオルギウス	Saint George
+セントクリストファー・ネイビス	Saint Kitts and Nevis
+Category:セントクリストファー・ネイビス	Saint Kitts and Nevis
+セントローレンス川	Saint Lawrence River
+セントルシア	Saint Lucia
+Category:セントルシア	Saint Lucia
+セント・マーチン島	Saint Martin
+ミラのニコラオス	Saint Nicholas
+パトリキウス	Saint Patrick
+セントポール (ミネソタ州)	Saint Paul
+ペトロ	Saint Peter
+サンクトペテルブルク	Saint Petersburg
+Category:サンクトペテルブルク	Saint Petersburg
+セントビンセント・グレナディーン	Saint Vincent and the Grenadines
+Category:セントビンセント・グレナディーン	Saint Vincent and the Grenadines
+日本酒	Sake
+サラーフッディーン	Saladin
+有尾目	Salamander
+セイラム (オレゴン州)	Salem
+サレルノ	Salerno
+唾液	Saliva
+サルマン・ラシュディ	Salman Rushdie
+サケ類	Salmonidae
+塩	Salt
+塩	Salt (chemistry)
+ソルトレイクシティ	Salt Lake City
+サルヴァドール	Salvador
+ザルツブルク	Salzburg
+ザルツブルク州	Salzburg (state)
+サマーラ	Samara
+サマリウム	Samarium
+サマルカンド	Samarkand
+サモア	Samoa
+Category:サモア	Samoa
+輪廻	Samsara
+サミュエル・ベケット	Samuel Beckett
+サミュエル・モールス	Samuel F. B. Morse
+サミュエル・テイラー・コールリッジ	Samuel Taylor Coleridge
+武士	Samurai
+サンアントニオ	San Antonio
+サンディエゴ	San Diego
+サンフランシスコ	San Francisco
+サンノゼ (カリフォルニア州)	San Jose
+サンフアン (プエルトリコ)	San Juan
+サンマリノ	San Marino
+Category:サンマリノ	San Marino
+サンマリノ市	San Marino
+サンサルバドル	San Salvador
+砂	Sand
+サンドロ・ボッティチェッリ	Sandro Botticelli
+砂岩	Sandstone
+サンドイッチ	Sandwich
+サンスクリット	Sanskrit
+サンタクロース	Santa Claus
+サンタフェ (ニューメキシコ州)	Santa Fe
+サンティアゴ (チリ)	Santiago
+サンティアゴ	Santiago
+サンティアーゴ・デ・クーバ	Santiago de Cuba
+サントドミンゴ	Santo Domingo
+サントス市	Santos (Săo Paulo)
+サファイア	Sapphire
+サッポー	Sappho
+札幌市	Sapporo
+サラ・ベルナール	Sarah Bernhardt
+サラエボ	Sarajevo
+サラトフ	Saratov
+サルコファガス	Sarcophagus
+イワシ	Sardine
+サルデーニャ	Sardinia
+サーリー (イラン)	Sari
+サリン	Sarin
+サスカチュワン州	Saskatchewan
+サタン	Satan
+サタニズム	Satanism
+人工衛星	Satellite
+風刺	Satire
+土曜日	Saturday
+土星	Saturn
+Category:土星	Saturn
+サターン	Saturn (disambiguation)
+サートゥルヌス	Saturn (mythology)
+サテュロス	Satyr
+ソース (調味料)	Sauce
+サウジアラビア	Saudi Arabia
+Category:サウジアラビア	Saudi Arabia
+ソール・ベロー	Saul Bellow
+ソーセージ	Sausage
+サバナ気候	Savanna
+ザクセン州	Saxony
+Category:ザクセン	Saxony
+サクソフォーン	Saxophone
+スカンディナヴィア	Scandinavia
+スカンディナヴィア半島	Scandinavian Peninsula
+スカンジウム	Scandium
+肩甲骨	Scapula
+スヘルデ川	Scheldt
+Scheme	Scheme (programming language)
+統合失調症	Schizophrenia
+スコラ学	Scholasticism
+学校	School
+親衛隊 (ナチス)	Schutzstaffel
+科学	Science
+Category:科学	Science
+サイエンス・フィクション	Science fiction
+Category:SF	Science fiction
+科学的方法	Scientific method
+科学者	Scientist
+サイエントロジー	Scientology
+大スキピオ	Scipio Africanus
+はさみ	Scissors
+リス	Sciuridae
+サソリ	Scorpion
+さそり座	Scorpius
+スコットランド	Scotland
+Category:スコットランド	Scotland
+ヨーロッパアカマツ	Scots Pine
+スコットランド・ゲール語	Scottish Gaelic
+ボーイスカウト	Scouting
+スクラブル	Scrabble
+ねじ	Screw
+ドライバー (工具)	Screwdriver
+陰嚢	Scrotum
+ちょうこくしつ座	Sculptor (constellation)
+彫刻	Sculpture
+Category:彫刻	Sculpture
+海	Sea
+ラッコ	Sea Otter
+イソギンチャク	Sea anemone
+ナマコ	Sea cucumber
+海面	Sea level
+アゾフ海	Sea of Azov
+日本海	Sea of Japan
+マルマラ海	Sea of Marmara
+オホーツク海	Sea of Okhotsk
+ウニ	Sea urchin
+シーボーギウム	Seaborgium
+タツノオトシゴ	Seahorse
+検索エンジン	Search engine
+シアーズ・タワー	Sears Tower
+季節	Season
+シアトル	Seattle
+秒	Second
+第2回十字軍	Second Crusade
+第2バチカン公会議	Second Vatican Council
+熱力学第二法則	Second law of thermodynamics
+カルト	Sect
+Category:セキュリティ技術	Security
+堆積岩	Sedimentary rock
+種子	Seed
+セゴビア	Segovia
+セーヌ川	Seine
+地震学	Seismology
+Category:地震学	Seismology
+セレネ	Selene
+セレン	Selenium
+セレウコス1世	Seleucus I Nicator
+意味論	Semantics
+Category:意味論	Semantics
+精液	Semen
+セミコロン	Semicolon
+半導体	Semiconductor
+記号学	Semiotics
+元老院	Senate
+セネガル	Senegal
+Category:セネガル	Senegal
+ソウル特別市	Seoul
+切腹	Seppuku
+9月	September
+9月11日	September 11
+アメリカ同時多発テロ事件	September 11
+9月17日	September 17
+9月29日	September 29
+七十人訳聖書	Septuagint
+列 (数学)	Sequence
+セルビア	Serbia
+Category:セルビア	Serbia
+セルビア・モンテネグロ	Serbia and Montenegro
+Category:セルビア・モンテネグロ	Serbia and Montenegro
+農奴制	Serfdom
+セルゲイ・エイゼンシュテイン	Sergei Eisenstein
+セルゲイ・ラフマニノフ	Sergei Rachmaninoff
+級数	Series (mathematics)
+セリン	Serine
+セロトニン	Serotonin
+へび座	Serpens
+サーバ	Server (computing)
+集合	Set
+セト	Set (mythology)
+集合論	Set theory
+Category:集合論	Set theory
+セヴァストポリ	Sevastopol
+七年戦争	Seven Years' War
+重症急性呼吸器症候群	Severe acute respiratory syndrome
+セビリア	Seville
+性別	Sex
+生殖器	Sex organ
+性差別	Sexism
+六分儀	Sextant
+性行為	Sexual intercourse
+Category:性	Sexuality
+性行為感染症	Sexually transmitted disease
+セーシェル	Seychelles
+Category:セーシェル	Seychelles
+シャー	Shah
+シャハーダ	Shahadah
+シャーマニズム	Shamanism
+上海市	Shanghai
+株式	Share (finance)
+シェアウェア	Shareware
+シャリーア	Sharia
+サメ	Shark
+シェフィールド	Sheffield
+シャーロック・ホームズ	Sherlock Holmes
+シェトランド諸島	Shetland
+盾	Shield
+四国	Shikoku
+神道	Shinto
+船	Ship
+シヴァ	Shiva
+将棋	Shogi
+征夷大将軍	Shogun
+速記	Shorthand
+低木	Shrub
+シベリア	Siberia
+シベリアン・ハスキー	Siberian Husky
+四川省	Sichuan
+シチリア	Sicily
+Category:シチリア州	Sicily
+ジーメンス	Siemens (unit)
+シエラレオネ	Sierra Leone
+Category:シエラレオネ	Sierra Leone
+Σ	Sigma
+ジークムント・フロイト	Sigmund Freud
+手話	Sign language
+シグリ・ウンセット	Sigrid Undset
+シク教	Sikhism
+シッキム州	Sikkim
+シレジア	Silesia
+ケイ素	Silicon
+シリコンバレー	Silicon Valley
+二酸化ケイ素	Silicon dioxide
+絹	Silk
+シルクロード	Silk Road
+シルル紀	Silurian
+銀	Silver
+シモーヌ・ド・ボーヴォワール	Simone de Beauvoir
+宗教における罪	Sin
+シナイ半島	Sinai Peninsula
+シンクレア・ルイス	Sinclair Lewis
+シンガポール	Singapore
+Category:シンガポール	Singapore
+シングル	Single (music)
+セイレーン	Siren
+ジュゴン目	Sirenia
+シリウス	Sirius
+システィーナ礼拝堂	Sistine Chapel
+シーシュポス	Sisyphus
+シッティング・ブル	Sitting Bull
+シチュエーション・コメディ	Situation comedy
+第三次中東戦争	Six-Day War
+スカゲラク海峡	Skagerrak
+スケートボード	Skateboard
+Category:骨	Skeletal system
+懐疑主義	Skepticism
+皮膚	Skin
+スキンヘッド	Skinhead
+スコピエ	Skopje
+頭蓋骨	Skull
+スカイラブ計画	Skylab
+超高層建築物	Skyscraper
+スラッシュ (ミュージシャン)	Slash (musician)
+奴隷	Slavery
+スレイヤー	Slayer
+睡眠	Sleep
+スロバキア	Slovakia
+Category:スロバキア	Slovakia
+スロベニア	Slovenia
+Category:スロベニア	Slovenia
+小腸	Small intestine
+スモッグ	Smog
+スモレンスク	Smolensk
+ヘビ	Snake
+スヌーカー	Snooker
+雪	Snow
+石鹸	Soap
+社会心理学	Social psychology
+社会主義	Socialism
+Category:社会主義	Socialism
+社会党 (フランス)	Socialist Party (France)
+Category:社会	Society
+社会	Society
+イエズス会	Society of Jesus
+社会言語学	Sociolinguistics
+社会学	Sociology
+Category:社会学	Sociology
+ソクラテス	Socrates
+ナトリウム	Sodium
+炭酸水素ナトリウム	Sodium bicarbonate
+塩化ナトリウム	Sodium chloride
+水酸化ナトリウム	Sodium hydroxide
+ソフィア (ブルガリア)	Sofia
+ソフトボール	Softball
+Category:ソフトウェア	Software
+土壌	Soil
+ナス科	Solanaceae
+Category:ナス科	Solanaceae
+太陽系	Solar System
+Category:太陽系	Solar System
+太陽電池	Solar cell
+日食	Solar eclipse
+太陽エネルギー	Solar energy
+太陽風	Solar wind
+固体	Solid
+固体	Solid state
+独立自主管理労働組合「連帯」	Solidarity
+ソロモン王	Solomon
+ソロモン諸島	Solomon Islands
+Category:ソロモン諸島	Solomon Islands
+ソロン	Solon
+至点	Solstice
+溶液	Solution
+溶媒	Solvent
+ソマリア	Somalia
+Category:ソマリア	Somalia
+サマセット	Somerset
+ソンム県	Somme
+ソナタ	Sonata
+歌	Song
+雅歌	Song of Solomon
+ソネット	Sonnet
+ソフィア・ローレン	Sophia Loren
+詭弁	Sophism
+ソポクレス	Sophocles
+ソプラノ	Soprano
+パリ大学	Sorbonne
+モロコシ属	Sorghum
+ソート	Sorting algorithm
+霊魂	Soul
+音	Sound
+スープ	Soup
+ソースコード	Source code
+南	South
+Category:南アフリカ共和国	South Africa
+南アメリカ	South America
+Category:南アメリカ	South America
+南オーストラリア州	South Australia
+サウスカロライナ州	South Carolina
+Category:サウスカロライナ州	South Carolina
+南シナ海	South China Sea
+サウスダコタ州	South Dakota
+Category:サウスダコタ州	South Dakota
+南島 (ニュージーランド)	South Island
+大韓民国	South Korea
+Category:大韓民国	South Korea
+南極点	South Pole
+ベトナム共和国	South Vietnam
+東南アジア	Southeast Asia
+南半球	Southern Hemisphere
+主権	Sovereignty
+ソビエト連邦	Soviet Union
+Category:ソビエト社会主義共和国連邦	Soviet Union
+ダイズ	Soybean
+空間	Space
+スペースシャトル	Space Shuttle
+宇宙ステーション	Space station
+宇宙船	Spacecraft
+スパゲッティ	Spaghetti
+スペイン	Spain
+Category:スペイン	Spain
+スパム (メール)	Spam (electronic)
+スペイン内戦	Spanish Civil War
+Category:スペインの人物	Spanish people
+米西戦争	Spanish-American War
+スパルタ	Sparta
+槍	Spear
+特殊相対性理論	Special relativity
+種 (分類学)	Species
+分光法	Spectroscopy
+速さ	Speed
+光速	Speed of light
+洞穴学	Speleology
+スペンサー・トレイシー	Spencer Tracy
+マッコウクジラ	Sperm Whale
+種子植物	Spermatophyte
+精子	Spermatozoon
+球面	Sphere
+スフィンクス	Sphinx
+香辛料	Spice
+クモ	Spider
+スピン角運動量	Spin (physics)
+ホウレンソウ	Spinach
+脊髄	Spinal cord
+渦巻銀河	Spiral galaxy
+脾臓	Spleen
+スプリト	Split
+海綿	Sponge
+スポーツ	Sport
+表計算ソフト	Spreadsheet
+シュプレー川	Spree
+春	Spring (season)
+スプリングフィールド (イリノイ州)	Springfield
+スパイウェア	Spyware
+有鱗目 (爬虫類)	Squamata
+正方形	Square (geometry)
+平方メートル	Square metre
+平方根	Square root
+スカッシュ (スポーツ)	Squash (sport)
+リス	Squirrel
+スリランカ	Sri Lanka
+Category:スリランカ	Sri Lanka
+セントルイス	St. Louis
+スタジアム	Stadium
+ステンドグラス	Stained glass
+ステンレス鋼	Stainless steel
+スターリニズム	Stalinism
+Standard Generalized Markup Language	Standard Generalized Markup Language
+標準偏差	Standard deviation
+スタンフォード大学	Stanford University
+スタンリー・キューブリック	Stanley Kubrick
+恒星	Star
+ダビデの星	Star of David
+デンプン	Starch
+ヒトデ	Starfish
+州	State
+スタテンアイランド	Staten Island
+統計力学	Statistical mechanics
+統計学	Statistics
+Category:統計学	Statistics
+自由の女神像 (ニューヨーク)	Statue of Liberty
+スタヴァンゲル	Stavanger
+蒸気機関	Steam engine
+鋼	Steel
+シュテファン・ツヴァイク	Stefan Zweig
+シュテフィ・グラフ	Steffi Graf
+ステゴサウルス	Stegosaurus
+幹細胞	Stem cell
+スタンダール	Stendhal
+スティーヴン・ホーキング	Stephen Hawking
+ステップ (地形)	Steppe
+ステラジアン	Steradian
+胸骨	Sternum
+ステロイド	Steroid
+スティーヴン・スピルバーグ	Steven Spielberg
+スティング (ミュージシャン)	Sting
+証券取引所	Stock exchange
+ストックホルム	Stockholm
+ストア派	Stoicism
+胃	Stomach
+石器時代	Stone Age
+ストーンヘンジ	Stonehenge
+コウノトリ科	Stork
+嵐	Storm
+海峡	Strait
+ジブラルタル海峡	Strait of Gibraltar
+ホルムズ海峡	Strait of Hormuz
+マゼラン海峡	Strait of Magellan
+メッシーナ海峡	Strait of Messina
+Category:海峡	Straits
+ストラスブール	Strasbourg
+戦略	Strategy
+層序学	Stratigraphy
+成層圏	Stratosphere
+イチゴ	Strawberry
+ストレス (生体)	Stress (medicine)
+弦理論	String theory
+脳梗塞	Stroke
+強い相互作用	Strong interaction
+ストロンチウム	Strontium
+構造主義	Structuralism
+Template:Stub	Stub
+在籍者 (学習者)	Student
+卒塔婆	Stupa
+突撃隊	Sturmabteilung
+シュトゥットガルト	Stuttgart
+ステュクス	Styx
+ブラックアフリカ	Sub-Saharan Africa
+サブカルチャー	Subculture
+昇華 (化学)	Sublimation (chemistry)
+潜水艦	Submarine
+部分集合	Subset
+減法	Subtraction
+Subversion	Subversion (software)
+スクレ (ボリビア)	Sucre
+スクロース	Sucrose
+スーダン	Sudan
+Category:スーダン	Sudan
+数独	Sudoku
+スエズ運河	Suez Canal
+接尾辞	Suffix
+スーフィズム	Sufism
+砂糖	Sugar
+スハルト	Suharto
+スカルノ	Sukarno
+スラウェシ島	Sulawesi
+硫黄	Sulfur
+二酸化硫黄	Sulfur dioxide
+マスタードガス	Sulfur mustard
+硫酸	Sulfuric acid
+スルターン	Sultan
+スマトラ島	Sumatra
+シュメール	Sumer
+夏	Summer
+相撲	Sumo
+太陽	Sun
+Category:太陽	Sun
+孫文	Sun Yat-sen
+日曜日	Sunday
+日時計	Sundial
+ヒマワリ	Sunflower
+スンナ派	Sunni Islam
+太陽黒点	Sunspot
+スーパーコンピュータ	Supercomputer
+超伝導	Superconductivity
+スーパーマン	Superman
+超新星	Supernova
+合衆国最高裁判所	Supreme Court of the United States
+スーラ (クルアーン)	Sura
+表面張力	Surface tension
+外科学	Surgeon
+外科学	Surgery
+Category:外科学	Surgery
+スリナム	Suriname
+Category:スリナム	Suriname
+シュルレアリスム	Surrealism
+サリー (イングランド)	Surrey
+スーザン・ソンタグ	Susan Sontag
+寿司	Sushi
+スバ	Suva
+スヴァールバル諸島	Svalbard
+ツバメ科 (Sibley)	Swallow
+ハクチョウ属	Swan
+卍	Swastika
+スワジランド	Swaziland
+Category:スワジランド	Swaziland
+スウェーデン	Sweden
+Category:スウェーデン	Sweden
+スウェーデン・クローナ	Swedish krona
+サツマイモ	Sweet potato
+水泳	Swimming
+Category:水泳	Swimming
+スイス・フラン	Swiss franc
+Category:スイスの人物	Swiss people
+スイス	Switzerland
+Category:スイス	Switzerland
+剣	Sword
+シドニー	Sydney
+音節	Syllable
+シルヴィア・プラス	Sylvia Plath
+共生	Symbiosis
+シンボル	Symbol
+交響曲	Symphony
+症候学	Symptom
+シナゴーグ	Synagogue
+シンジケート	Syndicate
+共感覚	Synesthesia
+類義語	Synonym
+統語論	Syntax
+シンセサイザー	Synthesizer
+梅毒	Syphilis
+シラクサ	Syracuse
+シリア	Syria
+Category:シリア	Syria
+システム	System
+T	T
+トーマス・エドワード・ロレンス	T. E. Lawrence
+T・S・エリオット	T. S. Eliot
+テーブル (家具)	Table (furniture)
+卓球	Table tennis
+タブー	Taboo
+タキトゥス	Tacitus
+テコンドー	Taekwondo
+タホ川	Tagus
+タヒチ島	Tahiti
+太極拳	Tai chi chuan
+尾	Tail
+台北市	Taipei
+Category:台湾	Taiwan
+台湾	Taiwan
+タージ・マハル	Taj Mahal
+タジキスタン	Tajikistan
+Category:タジキスタン	Tajikistan
+滑石	Talc
+ターリバーン	Taliban
+タラハシー	Tallahassee
+タリン	Tallinn
+タルムード	Talmud
+タミル・ナードゥ州	Tamil Nadu
+タンパ	Tampa
+タンペレ	Tampere
+タナハ	Tanakh
+唐	Tang Dynasty
+タンジェ	Tangier
+タンゴ	Tango (dance)
+戦車	Tank
+タンタル	Tantalum
+タンザニア	Tanzania
+Category:タンザニア	Tanzania
+道教	Taoism
+バク	Tapir
+緩歩動物	Tardigrade
+タルヌ県	Tarn
+タラゴン	Tarragon
+タルタロス	Tartarus
+タルトゥ	Tartu
+タシュケント	Tashkent
+タスマン海	Tasman Sea
+タスマニア州	Tasmania
+タスマニアデビル	Tasmanian Devil
+味覚	Taste
+入れ墨	Tattoo
+Τ	Tau
+おうし座	Taurus (constellation)
+モリフクロウ	Tawny Owl
+租税	Tax
+Category:租税	Taxation
+タクシー	Taxicab
+タクソン	Taxon
+分類学	Taxonomy
+ヨーロッパイチイ	Taxus baccata
+トビリシ	Tbilisi
+茶	Tea
+Category:茶	Tea
+教員	Teacher
+テクネチウム	Technetium
+テクノ	Techno
+テクノロジー	Technology
+Category:技術	Technology
+テグシガルパ	Tegucigalpa
+テヘラン	Tehran
+テルアビブ	Tel Aviv
+電気通信	Telecommunication
+電報	Telegraphy
+テレパシー	Telepathy
+電話機	Telephone
+望遠鏡	Telescope
+ぼうえんきょう座	Telescopium
+テレビ	Television
+Category:テレビ	Television
+テルル	Tellurium
+温度	Temperature
+寺院	Temple
+アルテミス神殿	Temple of Artemis
+モーセの十戒	Ten Commandments
+テネリフェ島	Tenerife
+テネシー州	Tennessee
+Category:テネシー州	Tennessee
+テネシー・ウィリアムズ	Tennessee Williams
+テニス	Tennis
+Category:テニス	Tennis
+テノール	Tenor
+テンジン・ノルゲイ	Tenzing Norgay
+テキーラ	Tequila
+テルビウム	Terbium
+シロアリ	Termite
+テルプシコラー	Terpsichore
+地球型惑星	Terrestrial planet
+テロリズム	Terrorism
+Category:テロリズム	Terrorism
+テルトゥリアヌス	Tertullian
+テスラ	Tesla (unit)
+精巣	Testicle
+テストステロン	Testosterone
+破傷風	Tetanus
+テティス (衛星)	Tethys (moon)
+テーテュース	Tethys (mythology)
+三角錐	Tetrahedron
+テトラヒドロカンナビノール	Tetrahydrocannabinol
+四肢動物	Tetrapod
+テキサス州	Texas
+Category:テキサス州	Texas
+織物	Textile
+タイ王国	Thailand
+Category:タイ王国	Thailand
+タレス	Thales
+タレイア	Thalia
+タリウム	Thallium
+タナトス	Thanatos
+感謝祭	Thanksgiving
+感謝祭	Thanksgiving (Canada)
+感謝祭	Thanksgiving (United States)
+感謝祭	Thanksgiving (disambiguation)
+ガンビア	The Gambia
+Category:ガンビア	The Gambia
+ハーグ	The Hague
+星条旗 (国歌)	The Star-Spangled Banner
+演劇	Theatre
+Category:演劇	Theatre
+テーベ (衛星)	Thebe (moon)
+テーバイ	Thebes
+テーベ	Thebes
+テイアー	Theia
+テミス	Themis
+テミストクレス	Themistocles
+神政政治	Theocracy
+トランシット	Theodolite
+テオドール・モムゼン	Theodor Mommsen
+セオドア・ルーズベルト	Theodore Roosevelt
+テオドシウス1世	Theodosius I
+神学	Theology
+Category:神学	Theology
+定理	Theorem
+理論	Theory
+相対性理論	Theory of relativity
+上座部仏教	Theravada
+熱力学	Thermodynamics
+Category:熱力学	Thermodynamics
+温度計	Thermometer
+テーセウス	Theseus
+テッサロニキ	Thessaloniki
+テッサリア	Thessaly
+Θ	Theta
+テティス	Thetis
+チアミン	Thiamine
+シンクタンク	Think tank
+第3回十字軍	Third Crusade
+第三世界	Third World
+三十年戦争	Thirty Years' War
+トマス・アクィナス	Thomas Aquinas
+トーマス・エジソン	Thomas Edison
+トーマス・ハーディ	Thomas Hardy
+トマス・ホッブズ	Thomas Hobbes
+トーマス・ジェファーソン	Thomas Jefferson
+トマス・ロバート・マルサス	Thomas Malthus
+トーマス・マン	Thomas Mann
+トマス・モア	Thomas More
+トマス・ペイン	Thomas Paine
+トマス・ヤング	Thomas Young (scientist)
+トール	Thor
+トリウム	Thorium
+トート	Thoth
+思考	Thought
+トラキア	Thrace
+トゥキディデス	Thucydides
+ツリウム	Thulium
+親指	Thumb
+テューリンゲン州	Thuringia
+Category:テューリンゲン	Thuringia
+木曜日	Thursday
+フクロオオカミ	Thylacine
+タイム (植物)	Thyme
+チミン	Thymine
+甲状腺	Thyroid
+天津市	Tianjin
+テヴェレ川	Tiber
+ティベリウス	Tiberius
+チベット	Tibet
+Category:チベット	Tibet
+ティチーノ州	Ticino
+潮汐	Tide
+ティエラ・デル・フエゴ	Tierra del Fuego
+トラ	Tiger
+チグリス川	Tigris
+シナノキ属	Tilia
+トンブクトゥ	Timbuktu
+時間	Time
+Category:時間	Time
+タイム (雑誌)	Time (magazine)
+標準時	Time zone
+ティモール島	Timor
+ティムール	Timur
+スズ	Tin
+ティラナ	Tirana
+組織 (生物学)	Tissue (biology)
+シジュウカラ科	Tit (bird)
+タイタン	Titan (disambiguation)
+タイタン (衛星)	Titan (moon)
+ティーターン	Titan (mythology)
+チタニア	Titania (moon)
+タイタニック	Titanic (disambiguation)
+チタン	Titanium
+ティツィアーノ・ヴェチェッリオ	Titian
+ティトゥス	Titus
+ティヴォリ	Tivoli
+タバコ	Tobacco
+トカンティンス州	Tocantins (state)
+ビタミンE	Tocopherol
+豆腐	Tofu
+トーゴ	Togo
+Category:トーゴ	Togo
+東京都	Tokyo
+トレド	Toledo
+トルエン	Toluene
+トム・ハンクス	Tom Hanks
+トムとジェリー	Tom and Jerry
+トマト	Tomato
+トン	Ton
+トンガ	Tonga
+Category:トンガ	Tonga
+舌	Tongue
+トニ・モリスン	Toni Morrison
+トン	Tonne
+トニー・ブレア	Tony Blair
+道具	Tool
+歯	Tooth
+歯ブラシ	Toothbrush
+トパーズ	Topaz
+トピカ (カンザス州)	Topeka
+位相幾何学	Topology
+Category:位相幾何学	Topology
+モーセ五書	Torah
+竜巻	Tornado
+トロント	Toronto
+魚雷	Torpedo
+トルク	Torque
+リクガメ	Tortoise
+拷問	Torture
+トーラス	Torus
+全体主義	Totalitarianism
+トゥーロン	Toulon
+トゥールーズ	Toulouse
+ツール・ド・フランス	Tour de France
+観光	Tourism
+Category:観光	Tourism
+トゥール	Tours
+塔	Tower
+バベルの塔	Tower of Babel
+ロンドン塔	Tower of London
+村落	Town
+毒	Toxicity
+毒性学	Toxicology
+玩具	Toy
+トヨタ自動車	Toyota
+トラクター	Tractor
+貿易	Trade
+労働組合	Trade union
+商標	Trademark
+伝統	Tradition
+ギリシア悲劇	Tragedy
+列車	Train
+鉄道駅	Train station
+トラヤヌス	Trajan
+路面電車	Tram
+超越数	Transcendental number
+変圧器	Transformer
+トランジスタ	Transistor
+翻字	Transliteration
+Transmission Control Protocol	Transmission Control Protocol
+Category:交通	Transportation
+性転換	Transsexualism
+トランシルヴァニア	Transylvania
+台形	Trapezoid
+条約	Treaty
+ヴェルサイユ条約	Treaty of Versailles
+木	Tree
+トレント	Trento
+トレントン (ニュージャージー州)	Trenton
+三角形	Triangle
+さんかく座	Triangulum
+みなみのさんかく座	Triangulum Australe
+三畳紀	Triassic
+支流	Tributary
+トリケラトプス	Triceratops
+トリーア	Trier
+三角関数	Trigonometric function
+三角法	Trigonometry
+三葉虫	Trilobite
+三部作	Trilogy
+トリニダード島	Trinidad
+トリニダード・トバゴ	Trinidad and Tobago
+Category:トリニダード・トバゴ	Trinidad and Tobago
+トリニトロトルエン	Trinitrotoluene
+三位一体	Trinity
+トリポリ (リビア)	Tripoli
+三脚巴	Triskelion
+三重水素	Tritium
+トリトン (衛星)	Triton (moon)
+トリートーン	Triton (mythology)
+凱旋門	Triumphal arch
+トロイアの木馬	Trojan Horse
+トロイア戦争	Trojan War
+トロイの木馬 (コンピュータ)	Trojan horse (computing)
+トロール	Troll
+荒らし	Troll (Internet)
+トロリーバス	Trolleybus
+トロンボーン	Trombone
+トロンハイム	Trondheim
+北回帰線	Tropic of Cancer
+南回帰線	Tropic of Capricorn
+熱帯	Tropics
+対流圏	Troposphere
+トロツキズム	Trotskyism
+イリオス	Troy
+貨物自動車	Truck
+トルーマン・ドクトリン	Truman Doctrine
+トランペット	Trumpet
+真理	Truth
+トリグブ・リー	Trygve Lie
+トリプトファン	Tryptophan
+ツァーリ	Tsar
+津波	Tsunami
+トゥアレグ	Tuareg
+チューバ	Tuba
+セイヨウショウロ	Tuber (genus)
+結核	Tuberculosis
+きょしちょう座	Tucana
+ツーソン	Tucson
+火曜日	Tuesday
+チューリップ	Tulip
+腫瘍	Tumor
+ツンドラ	Tundra
+タングステン	Tungsten
+尾索動物	Tunicate
+チュニス	Tunis
+チュニジア	Tunisia
+Category:チュニジア	Tunisia
+トンネル	Tunnel
+タービン	Turbine
+トリノ	Turin
+チューリングマシン	Turing machine
+トルコ	Turkey
+Category:トルコ	Turkey
+トルクメニスタン	Turkmenistan
+Category:トルクメニスタン	Turkmenistan
+ウコン	Turmeric
+カメ	Turtle
+トスカーナ州	Tuscany
+ツバル	Tuvalu
+Category:ツバル	Tuvalu
+タックス	Tux
+ティコ・ブラーエ	Tycho Brahe
+タイプライター	Typewriter
+テューポーン	Typhon
+タイポグラフィ	Typography
+Category:タイポグラフィ	Typography
+ティラノサウルス	Tyrannosaurus
+ティルス	Tyre
+チロル州	Tyrol (state)
+ティレニア海	Tyrrhenian Sea
+U	U
+国際連合教育科学文化機関	UNESCO
+ウファ	Ufa
+ウガンダ	Uganda
+Category:ウガンダ	Uganda
+ウクライナ	Ukraine
+Category:ウクライナ	Ukraine
+ウランバートル	Ulan Bator
+アルスター	Ulster
+超音波	Ultrasound
+紫外線	Ultraviolet
+ユリシーズ・グラント	Ulysses S. Grant
+傘	Umbrella
+ウンブリア州	Umbria
+不確定性原理	Uncertainty principle
+失業	Unemployment
+ユニコーン	Unicorn
+未確認飛行物体	Unidentified flying object
+Uniform Resource Locator	Uniform Resource Locator
+和集合	Union (set theory)
+アラブ首長国連邦	United Arab Emirates
+Category:アラブ首長国連邦	United Arab Emirates
+アラブ連合共和国	United Arab Republic
+イギリス	United Kingdom
+Category:イギリス	United Kingdom
+国際連合	United Nations
+Category:国際連合	United Nations
+国際連合児童基金	United Nations Children's Fund
+アメリカ合衆国	United States
+Category:アメリカ合衆国	United States
+アメリカ空軍	United States Air Force
+アメリカ合衆国議会	United States Congress
+アメリカ合衆国憲法	United States Constitution
+アメリカ合衆国下院	United States House of Representatives
+陸軍士官学校 (アメリカ合衆国)	United States Military Academy
+アメリカ海軍	United States Navy
+アメリカ合衆国上院	United States Senate
+アメリカ領ヴァージン諸島	United States Virgin Islands
+アメリカ合衆国ドル	United States dollar
+宇宙	Universe
+大学	University
+シカゴ大学	University of Chicago
+ペンシルバニア大学	University of Pennsylvania
+UNIX	Unix
+Category:UNIX	Unix
+ウンウンビウム	Ununbium
+ウンウンヘキシウム	Ununhexium
+ウンウンペンチウム	Ununpentium
+ウンウンクアジウム	Ununquadium
+ウンウントリウム	Ununtrium
+ウパニシャッド	Upanishad
+ウプサラ	Uppsala
+Υ	Upsilon
+ウル	Ur
+ウラシル	Uracil
+ウラル山脈	Ural Mountains
+ウーラニアー	Urania
+ウラン	Uranium
+天王星	Uranus
+Category:天王星	Uranus
+ウーラノス	Uranus (mythology)
+ウルドゥー語	Urdu
+尿素	Urea
+尿	Urine
+おおぐま座	Ursa Major
+こぐま座	Ursa Minor
+ウルグアイ	Uruguay
+Category:ウルグアイ	Uruguay
+ユタ州	Utah
+Category:ユタ州	Utah
+子宮	Uterus
+功利主義	Utilitarianism
+ユートピア	Utopia
+ユトレヒト	Utrecht (city)
+ユトレヒト州	Utrecht (province)
+ウッタル・プラデーシュ州	Uttar Pradesh
+ウズベキスタン	Uzbekistan
+Category:ウズベキスタン	Uzbekistan
+V	V
+ワクチン	Vaccine
+液胞	Vacuole
+真空	Vacuum
+真空管	Vacuum tube
+ファドゥーツ	Vaduz
+膣	Vagina
+ヴァランス	Valence
+原子価	Valence (chemistry)
+バレンシア (スペイン)	Valencia
+バレンシア	Valencia
+ワレンチナ・テレシコワ	Valentina Tereshkova
+バレンタインデー	Valentine's Day
+ヴァルハラ	Valhalla
+ワルキューレ	Valkyrie
+バレッタ	Valletta
+谷	Valley
+吸血鬼	Vampire
+バナジウム	Vanadium
+バンクーバー (ブリティッシュコロンビア州)	Vancouver
+バンクーバー島	Vancouver Island
+ヴァンダリズム	Vandalism
+ヴァン神族	Vanir
+バヌアツ	Vanuatu
+Category:バヌアツ	Vanuatu
+ヴァール県	Var (department)
+分散	Variance
+ヴァルナ (ブルガリア)	Varna
+維管束植物	Vascular plant
+バチカン	Vatican City
+Category:バチカン	Vatican City
+幾何ベクトル	Vector (spatial)
+ベガ	Vega
+野菜	Vegetable
+ベジタリアニズム	Vegetarianism
+静脈	Vein
+ほ座	Vela (constellation)
+ヴェロキラプトル	Velociraptor
+速度	Velocity
+ヴェネト州	Veneto
+ベネズエラ	Venezuela
+Category:ベネズエラ	Venezuela
+ヴェネツィア	Venice
+金星	Venus
+ヴィーナス (曖昧さ回避)	Venus (disambiguation)
+ウェヌス	Venus (mythology)
+動詞	Verb
+バーモント州	Vermont
+Category:バーモント州	Vermont
+ヴェローナ	Verona
+ヴェルサイユ	Versailles
+椎骨	Vertebra
+脊椎	Vertebral column
+脊椎動物	Vertebrate
+ウェスパシアヌス	Vespasian
+ウェスタ	Vesta (mythology)
+拒否権	Veto
+アメリカ合衆国副大統領	Vice President of the United States
+ヴィシー	Vichy
+ヴィクトル・ユーゴー	Victor Hugo
+ヴィクトリア (セーシェル)	Victoria
+ビクトリア (ブリティッシュコロンビア州)	Victoria
+ヴィクトリア	Victoria
+ビクトリア州	Victoria (Australia)
+ヴィクトリアの滝	Victoria Falls
+ビデオ	Video
+コンピュータゲーム	Video game
+ウィーン	Vienna
+Category:ウィーン	Vienna
+ヴィエンヌ県	Vienne
+ヴィエンチャン	Vientiane
+ベトナム	Vietnam
+Category:ベトナム	Vietnam
+ベトナム戦争	Vietnam War
+Category:ベトナム戦争	Vietnam War
+ヴァイキング	Viking
+ヴィルフレド・パレート	Vilfredo Pareto
+村	Village
+ビリニュス	Vilnius
+フィンセント・ファン・ゴッホ	Vincent van Gogh
+ヴィンチェンツォ・ベッリーニ	Vincenzo Bellini
+酢	Vinegar
+ヴィオラ	Viola
+暴力	Violence
+ヴァイオリン	Violin
+ウェルギリウス	Virgil
+ヴァージン諸島	Virgin Islands
+バージニア州	Virginia
+Category:バージニア州	Virginia
+ヴァージニア・ウルフ	Virginia Woolf
+処女	Virginity
+おとめ座	Virgo (constellation)
+仮想記憶	Virtual memory
+バーチャルリアリティ	Virtual reality
+徳	Virtue
+ウイルス	Virus
+粘度	Viscosity
+ヴィシュヌ	Vishnu
+ヴィスワ川	Vistula
+ビタミン	Vitamin
+ビタミンA	Vitamin A
+ビタミンB6	Vitamin B6
+ビタミンC	Vitamin C
+ビタミンD	Vitamin D
+ビタミンK	Vitamin K
+ヴィットリオ・デ・シーカ	Vittorio De Sica
+ヴィトゥス・ベーリング	Vitus Bering
+ヴィヴィアン・リー	Vivien Leigh
+ウラジーミル・レーニン	Vladimir Lenin
+ウラジーミル・ナボコフ	Vladimir Nabokov
+ウラジーミル・プーチン	Vladimir Putin
+ウラジオストク	Vladivostok
+呼格	Vocative case
+ウォッカ	Vodka
+とびうお座	Volans
+火山	Volcano
+Category:火山学	Volcanology
+火山学	Volcanology
+ヴォルガ川	Volga River
+ヴォルゴグラード	Volgograd
+バレーボール	Volleyball
+Category:バレーボール	Volleyball
+ボルト (単位)	Volt
+電圧	Voltage
+ヴォルテール	Voltaire
+体積	Volume
+嘔吐	Vomiting
+ブードゥー教	Voodoo
+母音	Vowel
+ウゥルカーヌス	Vulcan (mythology)
+俗ラテン語	Vulgar Latin
+ヴルガータ	Vulgate
+こぎつね座	Vulpecula
+外陰部	Vulva
+W	W
+サマセット・モーム	W. Somerset Maugham
+WYSIWYG	WYSIWYG
+ワッハーブ派	Wahhabism
+ウェーク島	Wake Island
+ウェールズ	Wales
+Category:ウェールズ	Wales
+クルミ	Walnut
+セイウチ	Walrus
+ウォルト・ディズニー	Walt Disney
+ウォルト・ホイットマン	Walt Whitman
+ヴァルター・グロピウス	Walter Gropius
+ウォルター・スコット	Walter Scott
+戦争	War
+Category:戦争	War
+戦争犯罪	War crime
+スペイン継承戦争	War of the Spanish Succession
+薔薇戦争	Wars of the Roses
+ワルシャワ	Warsaw
+イボ	Wart
+洗濯機	Washing machine
+ワシントンD.C.	Washington
+ワシントン州	Washington
+Category:ワシントン州	Washington
+ワシントン	Washington (disambiguation)
+ワシリー・カンディンスキー	Wassily Kandinsky
+廃棄物	Waste
+水	Water
+Category:水	Water
+水球	Water polo
+滝	Waterfall
+ウォーターゲート事件	Watergate scandal
+スイカ	Watermelon
+ワット	Watt
+キロワット時	Watt-hour
+波動	Wave
+波長	Wavelength
+蝋	Wax
+弱い相互作用	Weak interaction
+武器	Weapon
+気象	Weather
+ウェブブラウザ	Web browser
+ウェブページ	Web page
+Webカメラ	Webcam
+ウェーバ	Weber (unit)
+ウェブサイト	Website
+水曜日	Wednesday
+週	Week
+重さ	Weight
+重量挙げ	Weightlifting
+ヴァイマル	Weimar
+ヴァイマル共和政	Weimar Republic
+溶接	Welding
+ウェリントン	Wellington
+狼男	Werewolf
+ヴェルナー・フォン・ブラウン	Wernher von Braun
+ヴェーザー川	Weser River
+西	West
+西アフリカ	West Africa
+ヨルダン川西岸地区	West Bank
+西ベンガル州	West Bengal
+西ベルリン	West Berlin
+西ドイツ	West Germany
+ウェスト・サセックス	West Sussex
+ウェストバージニア州	West Virginia
+Category:ウェストバージニア州	West Virginia
+西オーストラリア州	Western Australia
+西ローマ帝国	Western Roman Empire
+西サハラ	Western Sahara
+Category:西サハラ	Western Sahara
+ウェストミンスター寺院	Westminster Abbey
+クジラ	Whale
+コムギ	Wheat
+車輪	Wheel
+ウイスキー	Whisky
+ホワイトハウス	White House
+白海	White Sea
+白血球	White blood cell
+白色矮星	White dwarf
+ホワイトホース (ユーコン準州)	Whitehorse
+ウィッカ	Wicca
+Wide Area Network	Wide area network
+ヴィースバーデン	Wiesbaden
+ヤマネコ (種)	Wildcat
+ヴィルヘルム・オストヴァルト	Wilhelm Ostwald
+遺言	Will (law)
+ウィリアム・ブレイク	William Blake
+ウィリアム・バトラー・イェイツ	William Butler Yeats
+ウィリアム・フォークナー	William Faulkner
+ウィリアム・グラッドストン	William Gladstone
+ウィリアム・ゴールディング	William Golding
+ウイリアム・ハーベー	William Harvey
+ウィリアム・ハリソン	William Henry Harrison
+ウィリアム・ハーシェル	William Herschel
+ウィリアム・タフト	William Howard Taft
+ヴィルヘルム1世 (ドイツ皇帝)	William I
+ヴィルヘルム2世 (ドイツ皇帝)	William II
+ウィリアム・ジェームズ	William James
+ウィリアム・マッキンリー	William McKinley
+ウィリアム・ローワン・ハミルトン	William Rowan Hamilton
+ウィリアム・シェイクスピア	William Shakespeare
+ウィリアム・ショックレー	William Shockley
+ウィリアム・ワーズワース	William Wordsworth
+オッカムのウィリアム	William of Ockham
+ヤナギ	Willow
+ヴィリー・ブラント	Willy Brandt
+管楽器	Wind instrument
+風力発電	Wind power
+ウィントフック	Windhoek
+風車	Windmill
+窓	Window
+ワイン	Wine
+Category:ワイン	Wine
+ウィニペグ	Winnipeg
+ウィンストン・チャーチル	Winston Churchill
+冬	Winter
+冬季オリンピック	Winter Olympic Games
+Category:冬季オリンピック	Winter Olympic Games
+ウィスコンシン州	Wisconsin
+Category:ウィスコンシン州	Wisconsin
+ヴォルフガング・アマデウス・モーツァルト	Wolfgang Amadeus Mozart
+ヴォルフガング・パウリ	Wolfgang Pauli
+女性	Woman
+木材	Wood
+ウッドロウ・ウィルソン	Woodrow Wilson
+木管楽器	Woodwind instrument
+ウディ・アレン	Woody Allen
+ウスターシャー	Worcestershire
+語	Word
+ワードプロセッサ	Word processor
+世界	World
+世界銀行	World Bank
+世界保健機関	World Health Organization
+世界気象機関	World Meteorological Organization
+ワールドトレードセンター (ニューヨーク)	World Trade Center
+世界貿易機関	World Trade Organization
+第一次世界大戦	World War I
+Category:第一次世界大戦	World War I
+第二次世界大戦	World War II
+Category:第二次世界大戦	World War II
+World Wide Web	World Wide Web
+Category:World Wide Web	World Wide Web
+世界大戦	World war
+虫	Worm
+ワームホール	Wormhole
+著作家	Writer
+文字	Writing system
+武漢市	Wuhan
+ワイオミング州	Wyoming
+Category:ワイオミング州	Wyoming
+X	X
+X線	X-ray
+アリクイ目	Xenarthra
+キセノン	Xenon
+クセノパネス	Xenophanes
+外国人嫌悪	Xenophobia
+クセノポン	Xenophon
+Ξ	Xi
+新疆ウイグル自治区	Xinjiang
+シロフォン	Xylophone
+Y	Y
+ヤハウェ	Yahweh
+ヤク	Yak
+ヤクザ	Yakuza
+イェール大学	Yale University
+ヤルタ	Yalta
+ヤルタ会談	Yalta Conference
+ヤンゴン	Yangon
+長江	Yangtze River
+ヤード	Yard
+ヤーセル・アラファート	Yasser Arafat
+年	Year
+酵母	Yeast
+黄色	Yellow
+黄河	Yellow River
+黄海	Yellow Sea
+イエローストーン国立公園	Yellowstone National Park
+イエメン	Yemen
+Category:イエメン	Yemen
+エニセイ川	Yenisei River
+エレバン	Yerevan
+イエティ	Yeti
+ユグドラシル	Yggdrasil
+ヨーヨー	Yo-yo
+ヨーガ	Yoga
+ヨーグルト	Yoghurt
+オノ・ヨーコ	Yoko Ono
+横浜市	Yokohama
+ヨム・キプル	Yom Kippur
+第四次中東戦争	Yom Kippur War
+ヨーク (イングランド)	York
+ヨセミテ国立公園	Yosemite National Park
+ヤング率	Young's modulus
+イッテルビウム	Ytterbium
+イットリウム	Yttrium
+元 (王朝)	Yuan Dynasty
+ユーゴスラビア	Yugoslavia
+Category:ユーゴスラビア	Yugoslavia
+ユーコン準州	Yukon
+雲南省	Yunnan
+ユーリイ・ガガーリン	Yuri Gagarin
+Z	Z
+ザカリー・テイラー	Zachary Taylor
+ザグレブ	Zagreb
+ザンベジ川	Zambezi
+ザンビア	Zambia
+Category:ザンビア	Zambia
+ザンジバル	Zanzibar
+サラゴサ	Zaragoza
+シェラン島	Zealand
+シマウマ	Zebra
+禅	Zen
+天頂	Zenith
+ゼノン (東ローマ皇帝)	Zeno (emperor)
+ゼノン (ストア派)	Zeno of Citium
+ゼノン (エレア派)	Zeno of Elea
+Ζ	Zeta
+ゼウス	Zeus
+ゼウス	Zeus (disambiguation)
+ジッグラト	Ziggurat
+ジンバブエ	Zimbabwe
+Category:ジンバブエ	Zimbabwe
+亜鉛	Zinc
+シオニズム	Zionism
+ジルコニウム	Zirconium
+黄道十二星座	Zodiac
+ゾンビ	Zombie
+動物園	Zoo
+動物学	Zoology
+Category:動物学	Zoology
+ザラスシュトラ	Zoroaster
+ゾロアスター教	Zoroastrianism
+ズールー人	Zulu

@@ -1,0 +1,275 @@
+English	English
+
+be	be
+begin, start	begin
+break	break
+buy, purchase	buy
+close, shut	close
+come, come up	come
+cut	cut
+dance	dance
+do, practice	do
+draw, describe	draw
+drink, imbibe	drink
+eat	eat
+fall	fall
+feel, sense	feel
+find, regain	find
+fire, open fire	fire
+fly, wing	fly
+follow	follow
+forget	forget
+get, acquire	get
+give	give
+have	have
+hear	hear
+help, assist	help
+hope	hope
+jump, leap	jump
+kiss, osculate	kiss
+know	know
+laugh	laugh
+learn	learn
+lie	lie
+lie	lie
+like	like
+listen, hear	listen
+look	look
+lose	lose
+love	love
+make, do	make
+meet, run into	meet
+move, displace	move
+need, necessitate	need
+offer	offer
+open, open up	open
+pay	pay
+play	play
+pull, draw	pull
+push, force	push
+put, set	put
+read	read
+remember, recall	remember
+run	run
+say, tell	say
+sell	sell
+sing	sing
+sit, sit down	sit
+smile	smile
+swim	swim
+take, get hold of	take
+talk, speak	talk
+understand	understand
+use, utilize	use
+wait	wait
+write	write
+accept, take	accept
+accuse, charge	accuse
+achieve, accomplish	achieve
+act, move	act
+add	add
+add, add together	add
+admit, acknowledge	admit
+affect	affect
+agree, concur	agree
+allow, let	allow
+announce, denote	announce
+argue	argue
+arrive	arrive
+ask, inquire	ask
+attack, assault	attack
+avoid	avoid
+be, live	be
+bear	bear
+beat, vanquish	beat
+become, get	become
+behave, comport	behave
+believe	believe
+benefit, do good	benefit
+bite, seize with teeth	bite
+bring	bring
+build, construct	build
+burn, burn down	burn
+call, telephone	call
+care	care
+carry, transport	carry
+catch	catch
+cause, induce	cause
+change, alter	change
+choose, select	choose
+classify, class	classify
+clean, make clean	clean
+compare	compare
+connect, associate	connect
+contain, incorporate	contain
+continue, go on	continue
+control, command	control
+cook	cook
+copy, re-create	copy
+cough	cough
+count, number	count
+crush	crush
+crush, squash	crush
+cry, weep	cry
+decide, determine	decide
+deliver	deliver
+describe	describe
+design, plan	design
+desire, want	desire
+develop	develop
+die, decease	die
+discover, find	discover
+discuss	discuss
+dislike	dislike
+divide, split	divide
+doubt	doubt
+drive	drive
+embrace, encompass	embrace
+encourage	encourage
+end, stop	end
+enhance, heighten	enhance
+enjoy	enjoy
+enter, come in	enter
+establish, found	establish
+estimate, gauge	estimate
+exceed, transcend	exceed
+exist, be	exist
+expect, await	expect
+explain, explicate	explain
+express, state	express
+fight, contend	fight
+fill, fill up	fill
+find, detect	find
+out find out, ascertain	find
+finish, complete	finish
+flush, level	flush
+forgive	forgive
+free, liberate	free
+up give up, surrender	give
+grow	grow
+happen, occur	happen
+hate, detest	hate
+hide, conceal	hide
+hold, take hold	hold
+identify, place	identify
+imply, involve	imply
+include	include
+increase	increase
+injure, wound	injure
+introduce, innovate	introduce
+introduce, present	introduce
+join, bring together	join
+keep, maintain	keep
+kick	kick
+kill	kill
+land, set down	land
+last, endure	last
+lead, direct	lead
+leave	leave
+let	let
+lift, raise	lift
+limit, restrict	limit
+load, charge	load
+lock	lock
+look, appear	look
+lose	lose
+manage, handle	manage
+marry, get married	marry
+match, correspond	match
+mean	mean
+mean, intend	mean
+measure	measure
+mention, cite	mention
+miss	miss
+miss	miss
+name, call	name
+operate, control	operate
+order, enjoin	order
+own, have	own
+on pass on, give	pass
+peel, pare	peel
+plan	plan
+please, delight	please
+plow, plough	plow
+poison	poison
+polish	polish
+prepare, set up	prepare
+press	press
+prevent, forestall	prevent
+print, impress	print
+process, treat	process
+profit, turn a profit	profit
+protest	protest
+prove, show	prove
+publish, issue	publish
+raise, rear	raise
+rate, grade	rate
+reach, attain	reach
+receive, have	receive
+record, tape	record
+reduce, cut down	reduce
+reflect, reverberate	reflect
+refuse, reject	refuse
+remove, withdraw	remove
+render, return	render
+replace, supersede	replace
+reply, answer	reply
+report	report
+represent, stand for	represent
+request, call for	request
+respect, honour	respect
+rest	rest
+reveal, disclose	reveal
+risk, chance	risk
+off round off, round	round
+rule, govern	rule
+save, preserve	save
+save, salvage	save
+see	see
+see, consider	see
+send, post	send
+serve	serve
+sew, sew together	sew
+share	share
+shout, shout out	shout
+show, exhibit	show
+smash, nail	smash
+smell	smell
+smell	smell
+smell	smell
+smoke	smoke
+spend, pass	spend
+stand, stand up	stand
+stay, remain	stay
+steal	steal
+stop, halt	stop
+study	study
+suffer, endure	suffer
+suggest, propose	suggest
+supply, provide	supply
+support, back up	support
+suppose, say	suppose
+surprise	surprise
+taste, savour	taste
+teach, instruct	teach
+test, try	test
+thank, give thanks	thank
+think, cogitate	think
+throw	throw
+title, entitle	title
+trade, merchandise	trade
+train	train
+travel, go	travel
+treat, care for	treat
+trick, fob	trick
+try, attempt	try
+turn	turn
+visit, see	visit
+walk	walk
+warm	warm
+wash, launder	wash
+watch, see	watch
+wear, have on	wear
+weigh	weigh
+win	win
+wish	wish

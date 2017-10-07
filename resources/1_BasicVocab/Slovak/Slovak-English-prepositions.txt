@@ -1,0 +1,17 @@
+Slovak	﻿English
+proti	against
+uprostred	among
+na	at
+na	at
+cez	during
+pre	for
+z, od	from
+z, od	from
+do	into
+od	of
+na	on
+na	on
+od	since
+ku	to
+s	with
+s	with

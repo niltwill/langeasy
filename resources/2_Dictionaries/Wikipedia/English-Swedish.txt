@@ -1,0 +1,7358 @@
+English	Swedish
+0 (number)	0 (tal)
+1	1
+1 (number)	1 (tal)
+10	10
+10 (number)	10 (tal)
+100	100
+100	Kategori:100
+100 (number)	100 (tal)
+1000	1000
+1000	Kategori:1000
+101	101
+105	105
+11	11
+11 (number)	11 (tal)
+110	110
+115	115
+12	12
+12	Kategori:12
+12 (number)	12 (tal)
+120	120
+125	125
+13	13
+13 (number)	13 (tal)
+130	130
+135	135
+14	14
+14	Kategori:14
+14 (number)	14 (tal)
+140	140
+144	144
+145	145
+15	15
+15 (number)	15 (tal)
+150	150
+1530s	1530-talet
+155	155
+16	16
+16	Kategori:16
+16 (number)	16 (tal)
+160	160
+165	165
+17	17
+17	Kategori:17
+17 (number)	17 (tal)
+170	170
+1728	1728
+1728	Kategori:1728
+175	175
+1750s	1750-talet
+1750s	Kategori:1750-talet
+1760s	1760-talet
+1760s	Kategori:1760-talet
+1770s	1770-talet
+1770s	Kategori:1770-talet
+1780s	1780-talet
+1780s	Kategori:1780-talet
+1790s	1790-talet
+1790s	Kategori:1790-talet
+18	18
+18 (number)	18 (tal)
+180	180
+1820s	1820-talet
+1820s	Kategori:1820-talet
+1830s	1830-talet
+1830s	Kategori:1830-talet
+1840s	1840-talet
+1840s	Kategori:1840-talet
+1850s	1850-talet
+1860s	1860-talet
+1860s	Kategori:1860-talet
+1870s	1870-talet
+1870s	Kategori:1870-talet
+1880s	1880-talet
+1880s	Kategori:1880-talet
+1890s	1890-talet
+1890s	Kategori:1890-talet
+19	19
+19 (number)	19 (tal)
+190	190
+1900s	1900-talet (decennium)
+1900s	Kategori:1900-talet (decennium)
+1920s	1920-talet
+1920s	Kategori:1920-talet
+1930s	1930-talet
+1930s	Kategori:1930-talet
+1940s	1940-talet
+1940s	Kategori:1940-talet
+1950s	1950-talet
+1950s	Kategori:1950-talet
+1960s	1960-talet
+1960s	Kategori:1960-talet
+1970s	1970-talet
+1970s	Kategori:1970-talet
+1980s	1980-talet
+1980s	Kategori:1980-talet
+1990s	1990-talet
+1990s	Kategori:1990-talet
+2	2
+2 (number)	2 (tal)
+20	20
+20 (number)	20 (tal)
+200	200
+21	21
+21 (number)	21 (tal)
+22	22
+22 (number)	22 (tal)
+23	23
+23 (number)	23 (tal)
+24	24
+24 (TV series)	24 (TV-serie)
+24 (number)	24 (tal)
+25	25
+25 (number)	25 (tal)
+26	26
+26 (number)	26 (tal)
+27	27
+27 (number)	27 (tal)
+28	28
+28 (number)	28 (tal)
+29	29
+29 (number)	29 (tal)
+3	3
+3 (number)	3 (tal)
+30	30
+30 (number)	30 (tal)
+300	300
+31	31
+31 (number)	31 (tal)
+32	32
+32 (number)	32 (tal)
+33	33
+33 (number)	33 (tal)
+34	34
+34 (number)	34 (tal)
+35	35
+35 (number)	35 (tal)
+36	36
+36 (number)	36 (tal)
+37	37
+37 (number)	37 (tal)
+38	38
+38 (number)	38 (tal)
+39	39
+39 (number)	39 (tal)
+4	4
+4 (number)	4 (tal)
+40	40
+40 (number)	40 (tal)
+400	400
+41	41
+41 (number)	41 (tal)
+42	42
+42 (number)	42 (tal)
+43	43
+43 (number)	43 (tal)
+44	44
+45	45
+45 (number)	45 (tal)
+46	46
+46 (number)	46 (tal)
+47	47
+48	48
+49	49
+49 (number)	49 (tal)
+5	5
+5 (number)	5 (tal)
+50	50
+50 (number)	50 (tal)
+500	500
+500	Kategori:500
+51	51
+52	52
+53	53
+54	54
+55	55
+56	56
+57	57
+58	58
+59	59
+6	6
+6 (number)	6 (tal)
+60	60
+60 (number)	60 (tal)
+61	61
+62	62
+63	63
+64	64
+65	65
+66	66
+67	67
+68	68
+69	69
+7	7
+7 (number)	7 (tal)
+70	70
+71	71
+72	72
+73	73
+74	74
+75	75
+76	76
+77	77
+78	78
+79	79
+8	8
+8 (number)	8 (tal)
+80	80
+80 (number)	80 (tal)
+81	81
+82	82
+83	83
+84	84
+85	85
+86	86
+87	87
+88	88
+89	89
+9	9
+9 (number)	9 (tal)
+90	90
+91	91
+92	92
+93	93
+94	94
+95	95
+96	96
+97	97
+98	98
+99	99
+A	A
+A (Cyrillic)	А
+A cappella	A cappella
+ABC	ABC
+AIDS	AIDS
+ALGOL	Algol (programspråk)
+ATP	ATP
+AZ (football club)	AZ Alkmaar
+Aachen	Aachen
+Aalborg	Ålborg
+Aar	Aare
+Aardvark	Jordsvin
+Aarhus	Århus
+Aaron	Aron
+Abacus	Abakus
+Abadan	Abadan
+Abbot	Abbot
+Abbreviation	Förkortning
+Abdomen	Buken
+Abel Tasman	Abel Tasman
+Abelian group	Abelsk grupp
+Aberdeen	Aberdeen
+Abidjan	Abidjan
+Abkhazia	Abchazien
+Abkhazia	Kategori:Abchazien
+Abolitionism	Abolitionism
+Abortion	Abort
+Abraham	Abraham (patriark)
+Abraham Lincoln	Abraham Lincoln
+Absinthe	Absint
+Absolute magnitude	Absolut magnitud
+Absolute value	Absolutbelopp
+Absolute zero	Absoluta nollpunkten
+Abstract art	Abstrakt konst
+Abstract expressionism	Abstrakt expressionism
+Abstraction	Abstraktion
+Abu Dhabi	Abu Dhabi
+Abu Dhabi (emirate)	Abu Dhabi
+Abuja	Abuja
+Acacia	Akacior
+Academy Award	Oscar
+Acapulco	Acapulco
+Acceleration	Acceleration
+Accipitridae	Hökartade rovfåglar
+Accordion	Dragspel
+Accountancy	Redovisning
+Accra	Accra
+Accusative case	Ackusativ
+Acetaldehyde	Acetaldehyd
+Acetic acid	Ättiksyra
+Acetone	Aceton
+Acetylcholine	Acetylkolin
+Acetylene	Etyn
+Acheron	Acheron
+Achillea millefolium	Röllika
+Achilles	Akilles
+Acid	Syra
+Acid rain	Surt regn
+Acne vulgaris	Akne
+Aconcagua	Aconcagua
+Acorn	Ekollon
+Acoustics	Akustik
+Acoustics	Kategori:Akustik
+Acre	Acre
+Acre	Akko
+Acre (state)	Acre (delstat)
+Acropolis	Akropolis
+Actinide	Aktinoider
+Actinium	Aktinium
+Actor	Skådespelare
+Acts of the Apostles	Apostlagärningarna
+Acupuncture	Akupunktur
+Ad hominem	Ad hominem-argument
+Ada (programming language)	Ada (programspråk)
+Adam Smith	Adam Smith
+Adana	Adana
+Adansonia	Apbrödsträd
+Addiction	Beroende
+Addis Ababa	Addis Abeba
+Addition	Addition
+Adelaide	Adelaide
+Aden	Aden
+Adenine	Adenin
+Adenosine triphosphate	Adenosintrifosfat
+Adiabatic process	Adiabatisk process
+Adige	Adige
+Adjective	Adjektiv
+Admiral	Amiral
+Adolescence	Adolescens
+Adolf Eichmann	Adolf Eichmann
+Adolf Hitler	Adolf Hitler
+Adonis	Adonis
+Adoption	Adoption
+Adrenal gland	Binjure
+Adriatic Sea	Adriatiska havet
+Adsorption	Adsorption
+Adult	Vuxen
+Advent	Advent
+Adverb	Adverb
+Advertising	Reklam
+Aegean Sea	Egeiska havet
+Aeneas	Aeneas
+Aeneid	Aeneiden
+Aeolus	Aiolos
+Aerodynamics	Aerodynamik
+Aerosol	Aerosol
+Aeschylus	Aischylos
+Aesop	Aisopos
+Aesthetics	Estetik
+Affix	Affix
+Afghanistan	Afghanistan
+Afghanistan	Kategori:Afghanistan
+Africa	Afrika
+Africa	Kategori:Afrika
+African American	Afroamerikaner
+Afrikaans	Afrikaans
+Agamemnon	Agamemnon
+Agar	Agar
+Agate	Agat
+Agatha Christie	Agatha Christie
+Agnatha	Käklösa fiskar
+Agnosticism	Agnosticism
+Agora	Agora
+Agoraphobia	Agorafobi
+Agra	Agra
+Agriculture	Jordbruk
+Agriculture	Kategori:Jordbruk
+Agrigento	Agrigento
+Aikido	Aikido
+Ain	Ain
+Air force	Flygvapen
+Airbus	Airbus
+Aircraft	Flygmaskin
+Aircraft	Kategori:Flygplan
+Aircraft carrier	Hangarfartyg
+Airport	Flygplats
+Ajax	Ajax
+Ajax (mythology)	Ajax (mytologi)
+Ajax (programming)	AJAX
+Akhenaten	Akhenaton
+Akira Kurosawa	Akira Kurosawa
+Al Capone	Al Capone
+Al Gore	Al Gore
+Al-Qaeda	Al-Qaida
+Alabama	Alabama
+Alabama	Kategori:Alabama
+Alan Shepard	Alan Shepard
+Alan Turing	Alan Turing
+Alanine	Alanin
+Alaska	Alaska
+Alaska	Kategori:Alaska
+Alban Berg	Alban Berg
+Albania	Albanien
+Albania	Kategori:Albanien
+Albany	Albany, New York
+Albatross	Albatrosser
+Albedo	Albedo
+Albert Abraham Michelson	Albert Abraham Michelson
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Schweitzer	Albert Schweitzer
+Albert Speer	Albert Speer
+Alberta	Alberta
+Alberta	Kategori:Alberta
+Albinism	Albinism
+Albite	Albit
+Album	Musikalbum
+Albuquerque	Albuquerque
+Alchemy	Alkemi
+Alchemy	Kategori:Alkemi
+Alcohol	Alkoholer
+Alcoholic beverage	Alkoholdryck
+Alcoholism	Alkoholism
+Aldebaran	Aldebaran
+Aldehyde	Aldehyd
+Alder	Alsläktet
+Aldous Huxley	Aldous Huxley
+Alec Guinness	Alec Guinness
+Aleksandr Solzhenitsyn	Aleksandr Solzjenitsyn
+Aleppo	Aleppo
+Aleutian Islands	Aleuterna
+Alexander	Alexander
+Alexander Fleming	Alexander Fleming
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Hamilton	Alexander Hamilton
+Alexander Pope	Alexander Pope
+Alexander Pushkin	Aleksandr Pusjkin
+Alexander the Great	Alexander den store
+Alexandre Dumas	Alexandre Dumas d.ä.
+Alexandre Dumas	Alexandre Dumas d.y.
+Alexandria	Alexandria
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Dreyfus	Alfred Dreyfus
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Alfred North Whitehead	Alfred North Whitehead
+Alfred Russel Wallace	Alfred Russel Wallace
+Alfred the Great	Alfred den store
+Algae	Alger
+Algebra	Algebra
+Algebra	Kategori:Algebra
+Algebraic number	Algebraiskt tal
+Algeria	Algeriet
+Algeria	Kategori:Algeriet
+Algiers	Alger (stad)
+Algorithm	Algoritm
+Alhambra	Alhambra
+Ali	Ali ibn Abi Talib
+Alkali metal	Alkalimetall
+Alkaloid	Alkaloid
+Alkane	Alkan
+Alkene	Alken
+Alkyne	Alkyn
+Allah	Allah
+Allegory	Allegori
+Allele	Allel
+Allen Ginsberg	Allen Ginsberg
+Allergy	Allergi
+Alliteration	Allitteration
+Allophone	Allofon
+Allosaurus	Allosaurus
+Allotropy	Allotropi
+Alloy	Legering
+Almanac	Almanacka
+Almaty	Almaty
+Almond	Mandel
+Aloe	Aloesläktet
+Alpha (letter)	Alfa
+Alpha Centauri	Alfa Centauri
+Alpha particle	Alfastrålning
+Alphabet	Alfabet
+Alps	Alperna
+Alsace	Alsace
+Altair	Altair
+Altar	Altare
+Altay Mountains	Altaj
+Alternating current	Växelström
+Alternative medicine	Kategori:Alternativmedicin
+Alternative medicine	Alternativmedicin
+Altruism	Altruism
+Aluminium	Aluminium
+Aluminium oxide	Aluminiumoxid
+Alvar Aalto	Alvar Aalto
+Alzheimer's disease	Alzheimers sjukdom
+Amanita muscaria	Röd flugsvamp
+Amanita phalloides	Lömsk flugsvamp
+Amaryllidaceae	Amaryllisväxter
+Amaterasu	Amaterasu
+Amazon River	Amazonfloden
+Ambassador	Ambassadör
+Amber	Bärnsten
+Ambrose	Ambrosius av Milano
+Amedeo Avogadro	Amadeo Avogadro
+Amelia Earhart	Amelia Earhart
+American Bison	Bisonoxe
+American Black Bear	Svartbjörn
+American Civil War	Amerikanska inbördeskriget
+American Revolutionary War	Amerikanska revolutionskriget
+American Samoa	Amerikanska Samoa
+American Standard Code for Information Interchange	ASCII
+American football	Amerikansk fotboll
+American football	Kategori:Amerikansk fotboll
+Americium	Americium
+Amerigo Vespucci	Amerigo Vespucci
+Amethyst	Ametist
+Amharic	Amhariska
+Amide	Amid
+Amine	Amin
+Amino acid	Aminosyra
+Amish	Amish
+Amman	Amman
+Ammeter	Amperemeter
+Ammonia	Ammoniak
+Amnesia	Amnesi
+Ampere	Ampere
+Amphetamine	Amfetamin
+Amphibian	Groddjur
+Amphitheatre	Amfiteater
+Amphora	Amfora
+Amplitude	Amplitud
+Amsterdam	Amsterdam
+Amsterdam	Kategori:Amsterdam
+Amun	Amon
+Amur	Amur
+Anabaptist	Anabaptism
+Anagram	Anagram
+Anaheim	Anaheim
+Anal sex	Analsex
+Analytic geometry	Analytisk geometri
+Anarchism	Anarkism
+Anarchism	Kategori:Anarkism
+Anarchy	Anarki
+Anatidae	Egentliga andfåglar
+Anatole France	Anatole France
+Anatomy	Kategori:Anatomi
+Anatomy	Anatomi
+Anaxagoras	Anaxagoras
+Anaximander	Anaximander
+Anchor	Ankare
+Anchorage	Anchorage
+Ancient Greek	Klassisk grekiska
+Ancient history	Kategori:Antiken
+Andalusia	Andalusien
+Andaman Sea	Andamansjön
+Anders Celsius	Anders Celsius
+Andes	Anderna
+Andhra Pradesh	Andhra Pradesh
+Andorra	Andorra
+Andorra	Kategori:Andorra
+Andrea Palladio	Andrea Palladio
+Andrei Sakharov	Andrej Sacharov
+Andrei Tarkovsky	Andrej Tarkovskij
+Andrew Jackson	Andrew Jackson
+Andrew Johnson	Andrew Johnson
+Andrew Lloyd Webber	Andrew Lloyd Webber
+Android	Android
+Andromeda	Andromeda
+Andromeda (constellation)	Andromeda (stjärnbild)
+Andromeda (mythology)	Andromeda (mytologi)
+Andromeda Galaxy	Andromedagalaxen
+Andy Warhol	Andy Warhol
+Anemia	Anemi
+Anemometer	Anemometer
+Anesthesia	Anestesi
+Angel	Ängel
+Angel Falls	Angelfallen
+Angle	Vinkel
+Anglicanism	Anglikanska kyrkogemenskapen
+Angola	Angola
+Angola	Kategori:Angola
+Anguilla	Anguilla
+Angular momentum	Rörelsemängdsmoment
+Angular velocity	Rotationshastighet
+Anicius Manlius Severinus Boethius	Anicius Manlius Severinus Boethius
+Aniline	Anilin
+Animal	Djur
+Animal husbandry	Djurskötsel
+Animation	Animering
+Anime	Anime
+Anime	Kategori:Anime
+Animism	Animism
+Anise	Anis
+Ankara	Ankara
+Annapolis	Annapolis
+Annapurna	Annapurna
+Anne Boleyn	Anne Boleyn
+Annelid	Ringmaskar
+Anno Domini	Efter Kristus
+Annunciation	Bebådelsen
+Anode	Anod
+Anseriformes	Andfåglar
+Anseriformes	Kategori:Andfåglar
+Ant	Myror
+Antakya	Antakya
+Antalya	Antalya
+Antananarivo	Antananarivo
+Antarctica	Antarktis
+Antarctica	Kategori:Antarktis
+Antares	Antares
+Antenna (radio)	Antenn
+Anthony Hopkins	Anthony Hopkins
+Anthrax	Mjältbrand
+Anthropology	Antropologi
+Anthropology	Kategori:Antropologi
+Anthroposophy	Antroposofi
+Antibiotic	Antibiotikum
+Antibody	Antikropp
+Antichrist	Antikrist
+Anticyclone	Högtryck
+Antigen	Antigen
+Antigone	Antigone
+Antigua and Barbuda	Antigua och Barbuda
+Antigua and Barbuda	Kategori:Antigua och Barbuda
+Antimatter	Antimateria
+Antimony	Antimon
+Antioxidant	Antioxidant
+Antipope	Motpåve
+Antisemitism	Antisemitism
+Antisemitism	Kategori:Antisemitism
+Antlia	Luftpumpen
+Antofagasta	Antofagasta
+Antoine Lavoisier	Antoine Laurent de Lavoisier
+Anton Bruckner	Anton Bruckner
+Anton Chekhov	Anton Tjechov
+Antonio Stradivari	Antonio Stradivari
+Antonio Vivaldi	Antonio Vivaldi
+Antonym	Antonym
+Antwerp	Antwerpen
+Antwerp (province)	Antwerpen (provins)
+Anubis	Anubis
+Anus	Analöppning
+Aorta	Aorta
+Apache	Apacher
+Apatite	Apatit
+Ape	Hominoidea
+Aphasia	Afasi
+Aphorism	Aforism
+Aphrodite	Afrodite
+Apia	Apia
+Apiaceae	Flockblommiga växter
+Apocrypha	Apokryferna
+Apodiformes	Seglarfåglar
+Apollo	Apollon
+Apollo (disambiguation)	Apollo
+Apollo program	Apolloprogrammet
+Apollo program	Kategori:Apolloprogrammet
+Apoptosis	Apoptos
+Appalachian Mountains	Appalacherna
+Appendicitis	Blindtarmsinflammation
+Apple	Äpple
+Applied mathematics	Tillämpad matematik
+Apricot	Aprikos
+April	April
+April 14	14 april
+April Fools' Day	Aprilskämt
+Apse	Absid
+Apulia	Apulien
+Apus	Paradisfågeln
+Aqaba	Akaba
+Aqua regia	Kungsvatten
+Aquamarine	Akvamarin
+Aquarium	Akvarium
+Aquarius (constellation)	Vattumannen (stjärnbild)
+Aqueduct	Akvedukt
+Aquila (constellation)	Örnen (stjärnbild)
+Aquitaine	Aquitaine
+Ara (constellation)	Altaret
+Arab	Araber
+Arab League	Arabförbundet
+Arabian Peninsula	Arabiska halvön
+Arabian Sea	Arabiska havet
+Arabic alphabet	Arabiska alfabetet
+Arabic language	Arabiska
+Araceae	Kallaväxter
+Arachnid	Spindeldjur
+Arafura Sea	Arafurahavet
+Aragon	Aragonien
+Aral Sea	Aralsjön
+Aram Khachaturian	Aram Chatjaturjan
+Arcadia	Arkadien
+Arcangelo Corelli	Arcangelo Corelli
+Arch	Båge
+Archaeology	Arkeologi
+Archaeology	Kategori:Arkeologi
+Archaeopteryx	Archaeopteryx
+Archangel	Ärkeänglar
+Archbishop	Ärkebiskop
+Archean	Arkeikum
+Archetype	Arketyp
+Archimedes	Arkimedes
+Archipelago	Ögrupp
+Architect	Arkitekt
+Architecture	Arkitektur
+Architecture	Kategori:Arkitektur
+Archive	Arkiv
+Archosaur	Härskarödlor
+Arctic	Arktis
+Arctic Ocean	Norra ishavet
+Arctic fox	Fjällräv
+Ardennes	Ardennerna
+Ardennes (department)	Ardennes
+Area	Ytmått
+Arecaceae	Palmer
+Ares	Ares
+Argentina	Argentina
+Argentina	Kategori:Argentina
+Argon	Argon
+Argos	Argos (stad)
+Aria	Aria
+Ariadne	Ariadne
+Arianism	Arianism
+Aries (constellation)	Väduren (stjärnbild)
+Aristarchus of Samos	Aristarchos (astronom)
+Aristocracy	Aristokrati
+Aristophanes	Aristofanes
+Aristotle	Aristoteles
+Arithmetic	Aritmetik
+Arithmetic	Kategori:Aritmetik
+Arithmetic progression	Aritmetisk följd
+Arius	Arius
+Arizona	Arizona
+Arizona	Kategori:Arizona
+Ark of the Covenant	Förbundsarken
+Arkansas	Arkansas
+Arkansas	Kategori:Arkansas
+Arles	Arles
+Armadillo	Bältdjur
+Armenia	Armenien
+Armenia	Kategori:Armenien
+Armenian language	Armeniska
+Arminius	Arminius
+Army	Armé
+Arnhem	Arnhem
+Arno River	Arno
+Arnold Schoenberg	Arnold Schönberg
+Aromatic hydrocarbon	Aromatiska kolväten
+Arquebus	Arkebuse
+Arras	Arras
+Arrow	Pil (vapen)
+Arsenic	Arsenik
+Art	Konst
+Art Deco	Art déco
+Art Nouveau	Jugend
+Art history	Kategori:Konstens historia
+Art history	Konsthistoria
+Artemis	Artemis
+Artemisia (plant)	Malörter
+Artemisia absinthium	Malört
+Artery	Artär
+Arthropod	Leddjur
+Arthur Compton	Arthur Compton
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Miller	Arthur Miller
+Arthur Rimbaud	Arthur Rimbaud
+Arthur Schopenhauer	Arthur Schopenhauer
+Arthur Wellesley	Arthur Wellesley Wellington
+Artificial intelligence	Artificiell intelligens
+Artificial intelligence	Kategori:Artificiell intelligens
+Artillery	Artilleri
+Artillery	Kategori:Artilleri
+Artist	Konstnär
+Arts	Kategori:Konst
+Arturo Toscanini	Arturo Toscanini
+Aruba	Aruba
+Aruba	Kategori:Aruba
+Asbestos	Asbest
+Asclepius	Asklepios
+Asexuality	Asexualitet
+Asgard	Asgård
+Ash Wednesday	Askonsdagen
+Ashurbanipal	Ashurbanipal
+Asia	Asien
+Asia	Kategori:Asien
+Asmara	Asmara
+Aspartame	Aspartam
+Asphalt	Asfalt
+Aspirin	Acetylsalicylsyra
+Assam	Assam
+Assassination	Attentat
+Association of Southeast Asian Nations	ASEAN
+Assyria	Assyrien
+Astana	Astana
+Astatine	Astat
+Asteraceae	Korgblommiga växter
+Asteraceae	Kategori:Korgblommiga växter
+Asteroid	Asteroid
+Asteroid belt	Asteroidbältet
+Asthenosphere	Astenosfär
+Asthma	Astma
+Astigmatism (eye)	Astigmatism
+Astrakhan	Astrachan
+Astrobiology	Astrobiologi
+Astrolabe	Astrolabium
+Astrology	Astrologi
+Astrology	Kategori:Astrologi
+Astrometry	Astrometri
+Astronaut	Rymdfarare
+Astronomical unit	Astronomisk enhet
+Astronomy	Astronomi
+Astronomy	Kategori:Astronomi
+Astronomy	Portal:Astronomi
+Astrophysics	Astrofysik
+Astrophysics	Kategori:Astrofysik
+Aswan	Assuan
+Asymptote	Asymptot
+Asynchronous Transfer Mode	Asynchronous Transfer Mode (it)
+Atacama Desert	Atacamaöknen
+Aten	Aton
+Athena	Athena
+Athens	Aten
+Athletics	Kategori:Friidrott
+Athletics (track and field)	Friidrott
+Atlanta	Atlanta
+Atlantic Ocean	Atlanten
+Atlantis	Atlantis
+Atlas (disambiguation)	Atlas (olika betydelser)
+Atlas (moon)	Atlas (måne)
+Atlas (mythology)	Atlas
+Atlas Mountains	Atlasbergen
+Atmosphere (unit)	Atmosfär (tryckenhet)
+Atmospheric pressure	Lufttryck
+Atoll	Atoll
+Atom	Atom
+Atomic clock	Atomur
+Atomic mass	Atommassa
+Atomic mass unit	Atommassenhet
+Atomic number	Atomnummer
+Atomic physics	Kategori:Atomfysik
+Atomic physics	Atomfysik
+Atreus	Atreus
+Atropine	Atropin
+Attica	Attika
+Attila the Hun	Attila
+Au	AU
+Auckland	Auckland
+Auction	Auktion
+August	Augusti
+August 1	1 augusti
+August 15	15 augusti
+August 6	6 augusti
+August Strindberg	August Strindberg
+Augusta	Augusta, Maine
+Auguste Comte	Auguste Comte
+Auguste Rodin	Auguste Rodin
+Augustine of Hippo	Augustinus
+Augustus	Augustus
+Auriga (constellation)	Kusken
+Aurora	Aurora
+Aurora (astronomy)	Polarsken
+Austin	Austin, Texas
+Australasia	Australiska regionen
+Australia	Australien
+Australia	Kategori:Australien
+Australian dollar	Australisk dollar
+Australopithecus	Australopithecus
+Austria	Österrike
+Austria	Kategori:Österrike
+Austria-Hungary	Österrike-Ungern
+Author	Författare
+Authority	Auktoritet
+Autism	Autism
+Auto racing	Bilsport
+Autobiography	Självbiografi
+Automated teller machine	Uttagsautomat
+Automobile	Bil
+Autotroph	Autotrof
+Autumn	Höst
+Auvergne (region)	Auvergne
+Avalanche	Lavin
+Avant-garde	Avantgarde
+Avatar	Avatar
+Averroes	Averroës
+Avesta	Avesta (religiös skrift)
+Aviation	Kategori:Flyg
+Aviation	Luftfart
+Avicenna	Avicenna
+Avignon	Avignon
+Avocado	Avokado
+Avogadro's law	Avogadros lag
+Axe	Yxa
+Axiom	Axiom
+Axon	Axon
+Ayatollah	Ayatollah
+Ayn Rand	Ayn Rand
+Azerbaijan	Azerbajdzjan
+Azerbaijan	Kategori:Azerbajdzjan
+Azimuth	Asimut
+Azores	Azorerna
+Aztec	Azteker
+Azurite	Azurit
+B	B
+BASIC	BASIC
+Baal	Baal
+Baboon	Babianer
+Babylon	Babylon
+Babylonia	Babylonien
+Backgammon	Backgammon
+Bacteria	Bakterier
+Bacteria	Kategori:Bakterier
+Bacteriophage	Bakteriofag
+Bactrian Camel	Kamel
+Badminton	Badminton
+Baffin Bay	Baffinbukten
+Baffin Island	Baffin Island
+Baghdad	Bagdad
+Bahamas	Kategori:Bahamas
+Bahrain	Bahrain
+Bahrain	Kategori:Bahrain
+Baja California	Baja California (delstat)
+Baklava	Baklava
+Baku	Baku
+Balalaika	Balalajka
+Balance sheet	Balansräkning
+Baldr	Balder
+Balearic Islands	Balearerna
+Baleen whale	Bardvalar
+Bali	Bali
+Balkan Mountains	Balkanbergen
+Balkan Wars	Balkankrigen
+Balkans	Balkanhalvön
+Ball	Boll
+Ballet	Balett
+Ballet	Kategori:Balett
+Ballistic missile	Ballistisk robot
+Ballpoint pen	Kulspetspenna
+Baltic Sea	Östersjön
+Baltimore	Baltimore
+Bamako	Bamako
+Bamboo	Bambu
+Banana	Banan
+Banana republic	Bananrepublik
+Bangalore	Bangalore
+Bangkok	Bangkok
+Bangladesh	Bangladesh
+Bangladesh	Kategori:Bangladesh
+Bangui	Bangui
+Banjul	Banjul
+Bank	Bank
+Banknote	Sedel
+Banks	Kategori:Banker
+Baptism	Dop
+Baptist	Baptism
+Bar (unit)	Bar (måttenhet)
+Barbados	Barbados
+Barbados	Kategori:Barbados
+Barbarian	Barbar
+Barbra Streisand	Barbra Streisand
+Barcelona	Barcelona
+Barcelona	Kategori:Barcelona
+Barents Sea	Barents hav
+Bari	Bari
+Barium	Barium
+Barley	Korn
+Barn Owl	Tornuggla
+Barn Swallow	Ladusvala
+Barometer	Barometer
+Baron	Baron
+Baroque	Barock
+Barranquilla	Barranquilla
+Barrel (unit)	Fat (mått)
+Baryon	Baryon
+Basalt	Basalt
+Base (chemistry)	Bas (kemi)
+Baseball	Baseboll
+Baseball	Kategori:Baseboll
+Basel	Basel
+Bash	Bash
+Basidiomycota	Basidiesvampar
+Basil	Basilika (krydda)
+Basil of Caesarea	Basileios den store
+Basilica	Basilika
+Basilicata	Basilicata
+Basiliscus	Basiliskos
+Basilisk	Basilisk
+Basketball	Basket
+Basketball	Kategori:Basket
+Basra	Basra
+Bass guitar	Elbas
+Basse-Normandie	Basse-Normandie
+Basseterre	Basseterre
+Bassoon	Fagott
+Bastille	Bastiljen
+Bat	Fladdermöss
+Bath	Bath
+Batman	Batman
+Baton Rouge	Baton Rouge
+Bats	Kategori:Fladdermöss
+Battalion	Bataljon
+Battery (electricity)	Batteri (elektricitet)
+Battle of Austerlitz	Slaget vid Austerlitz
+Battle of Britain	Slaget om Storbritannien
+Battle of Hastings	Slaget vid Hastings
+Battle of Lepanto (1571)	Slaget vid Lepanto
+Battle of Marathon	Slaget vid Marathon
+Battle of Midway	Slaget vid Midway
+Battle of Thermopylae	Slaget vid Thermopyle
+Battle of Trafalgar	Slaget vid Trafalgar
+Battle of Verdun	Slaget vid Verdun
+Battle of Waterloo	Slaget vid Waterloo
+Battle of the Bulge	Ardenneroffensiven
+Battle of the Somme	Slaget vid Somme
+Battleship	Slagskepp
+Bauhaus	Bauhaus
+Bauxite	Bauxit
+Bavaria	Bayern
+Bavaria	Kategori:Bayern
+Bay Laurel	Lager (växt)
+Bay of Bengal	Bengaliska bukten
+Bay of Biscay	Biscayabukten
+Bayer	Bayer AG
+Bayonet	Bajonett
+Bayonne	Bayonne
+Beach	Strand
+Beagle	Beagle (hundras)
+Beak	Näbb
+Bear	Björnar
+Beaufort Sea	Beauforthavet
+Beaufort scale	Beauforts skala
+Beaver	Bävrar
+Bebop	Bebop
+Becquerel	Becquerel
+Bed	Säng
+Bede	Beda venerabilis
+Bedouin	Beduiner
+Bee	Bin
+Beech	Bok (träd)
+Beekeeping	Kategori:Biodling
+Beer	Öl
+Beer	Kategori:Öl
+Beetle	Skalbaggar
+Behaviorism	Behaviorism
+Beijing	Peking
+Beirut	Beirut
+Belarus	Vitryssland
+Belarus	Kategori:Vitryssland
+Belfast	Belfast
+Belgium	Belgien
+Belgium	Kategori:Belgien
+Belgrade	Belgrad
+Belisarius	Belisarius
+Belize	Belize
+Belize	Kategori:Belize
+Bell (instrument)	Klocka
+Bellerophon	Bellerofon
+Belly dance	Orientalisk dans
+Belo Horizonte	Belo Horizonte
+Beluga	Vitval
+Benelux	Benelux
+Bengal	Bengalen
+Benin	Benin
+Benin	Kategori:Benin
+Benito Mussolini	Benito Mussolini
+Benjamin Britten	Benjamin Britten
+Benjamin Disraeli	Benjamin Disraeli
+Benjamin Franklin	Benjamin Franklin
+Benjamin Harrison	Benjamin Harrison
+Benny Goodman	Benny Goodman
+Beowulf	Beowulf
+Bergen	Bergen
+Bering Sea	Berings hav
+Bering Strait	Berings sund
+Berkelium	Berkelium
+Berkshire	Berkshire
+Berlin	Berlin
+Berlin	Kategori:Berlin
+Bermuda	Bermuda
+Bermuda	Kategori:Bermuda
+Bermuda Triangle	Bermudatriangeln
+Bernardo Bertolucci	Bernardo Bertolucci
+Berne	Bern
+Bernhard Riemann	Bernhard Riemann
+Berry	Bär (botanik)
+Bertolt Brecht	Bertolt Brecht
+Bertrand Russell	Bertrand Russell
+Beryl	Beryll
+Beryllium	Beryllium
+Beta (letter)	Beta
+Beta decay	Betasönderfall
+Betelgeuse	Betelgeuse
+Bethlehem	Betlehem
+Bette Davis	Bette Davis
+Beverly Hills	Beverly Hills, Kalifornien
+Bey	Bej
+Bhutan	Bhutan
+Bhutan	Kategori:Bhutan
+Bible	Bibeln
+Bible	Kategori:Bibeln
+Bibliography	Bibliografi
+Bicycle	Cykel
+Big Bang	Big Bang
+Bihar	Bihar
+Bikini	Bikini
+Bile	Galla
+Bill Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Billy Wilder	Billy Wilder
+Binary star	Dubbelstjärna
+Binoculars	Kikare
+Biochemistry	Biokemi
+Biochemistry	Kategori:Biokemi
+Biodiversity	Biologisk mångfald
+Biogeography	Biogeografi
+Biography	Biografi
+Biological warfare	Biologiska vapen
+Biology	Biologi
+Biology	Kategori:Biologi
+Biomass	Biomassa
+Biome	Biom
+Biometrics	Biometri
+Biophysics	Biofysik
+Biopsy	Biopsi
+Biosphere	Biosfär
+Biotechnology	Bioteknik
+Biotechnology	Kategori:Bioteknik
+Biotin	Biotin
+Bipolar disorder	Bipolärt syndrom
+Birch	Björksläktet
+Bird	Fåglar
+Birmingham	Birmingham, Alabama
+Birth control	Preventivmedel
+Bisexuality	Bisexualitet
+Bishkek	Bisjkek
+Bishop	Biskop
+Bishop (chess)	Löpare (schack)
+Bismarck	Bismarck, North Dakota
+Bismarck (disambiguation)	Bismarck (olika betydelser)
+Bismuth	Vismut
+Bissau	Bissau
+Bit	Bit
+Bithynia	Bithynien
+Bivalvia	Musslor
+Black	Svart
+Black Death	Digerdöden
+Black Forest	Schwarzwald
+Black Kite	Brun glada
+Black Sea	Svarta havet
+Black Stork	Svart stork
+Black body	Svartkroppsstrålning
+Black hole	Svart hål
+Black pepper	Pepparplanta
+Blackbird	Koltrast
+Blaise Pascal	Blaise Pascal
+Blender (software)	Blender
+Blindness	Blindhet
+Blitzkrieg	Blixtkrig
+Bloemfontein	Bloemfontein
+Blog	Blogg
+Blood	Blod
+Blood plasma	Blodplasma
+Blood pressure	Blodtryck
+Blood type	Blodgrupper
+Blood vessel	Blodkärl
+Blue	Blå
+Blue Whale	Blåval
+Blues	Blues
+Boar	Vildsvin
+Board game	Brädspel
+Boat	Båt
+Bob Dylan	Bob Dylan
+Bob Marley	Bob Marley
+Bobby Fischer	Bobby Fischer
+Bobsleigh	Bob (sport)
+Bodhisattva	Bodhisattva
+Body mass index	BMI
+Bodybuilding	Bodybuilding
+Bohemia	Böhmen
+Bohrium	Bohrium
+Boiling point	Kokpunkt
+Boise	Boise
+Boletus edulis	Stensopp
+Bolivia	Bolivia
+Bolivia	Kategori:Bolivia
+Bollywood	Bollywood
+Bologna	Bologna
+Bolshevik	Bolsjevik
+Bolzano	Bolzano
+Bomb	Bomb
+Bomber	Bombflygplan
+Bombyx mori	Silkesfjäril
+Bond (finance)	Obligation
+Bone	Ben (skelett)
+Bone marrow	Benmärg
+Bonn	Bonn
+Bonsai	Bonsai
+Book	Bok
+Book of Esther	Esters bok
+Book of Joshua	Josua
+Book of Judges	Domarboken
+Book of Mormon	Mormons bok
+Book of Numbers	Fjärde Moseboken
+Book of Revelation	Uppenbarelseboken
+Book of Ruth	Ruts bok
+Boolean algebra (structure)	Boolesk algebra
+Boomerang	Bumerang
+Bordeaux	Bordeaux
+Boris Godunov	Boris Godunov
+Boris Pasternak	Boris Pasternak
+Boris Spassky	Boris Spasskij
+Borneo	Borneo
+Boron	Bor
+Bosnia and Herzegovina	Bosnien och Hercegovina
+Bosnia and Herzegovina	Kategori:Bosnien och Hercegovina
+Boson	Boson
+Bosporus	Bosporen
+Boston	Boston
+Boston Tea Party	Tebjudningen i Boston
+Bot	Mall:Bot
+Botanical garden	Botanisk trädgård
+Botany	Botanik
+Botany	Kategori:Botanik
+Botswana	Botswana
+Botswana	Kategori:Botswana
+Bottle	Flaska
+Bottlenose Dolphin	Öresvin
+Bourgeoisie	Bourgeoisie
+Bourgogne	Bourgogne
+Bouvet Island	Bouvetön
+Bovid	Slidhornsdjur
+Bow (weapon)	Pilbåge
+Bowling	Bowling
+Boxer (dog)	Boxer
+Boxers	Kategori:Boxare
+Boxing	Boxning
+Boxing	Kategori:Boxning
+Boyle's law	Boyles lag
+Bracket	Parentes
+Braga	Braga
+Brahma	Brahma
+Brahmaputra River	Brahmaputra
+Braille	Punktskrift
+Brain	Hjärna
+Brainstorming	Brainstorming
+Bram Stoker	Bram Stoker
+Brandenburg	Brandenburg
+Brandy	Brandy (spritdryck)
+Brass	Mässing
+Brassicaceae	Korsblommiga växter
+Brassiere	Behå
+Bratislava	Bratislava
+Braunschweig	Braunschweig
+Brazil	Brasilien
+Brazil	Kategori:Brasilien
+Brazzaville	Brazzaville
+Bread	Bröd
+Breast	Bröstkörtlar
+Breast cancer	Bröstcancer
+Bremen	Bremen
+Bremen (state)	Bremen (delstat)
+Bremerhaven	Bremerhaven
+Brescia	Brescia
+Brest	Brest, Frankrike
+Brest	Brest, Vitryssland
+Brest	Brest
+Bretagne	Bretagne
+Brick	Murtegel
+Bridge	Bro
+Bridges	Kategori:Broar
+Bridgetown	Bridgetown
+Brigade	Brigad
+Brighton	Brighton
+Brindisi	Brindisi
+Brisbane	Brisbane
+Bristol	Bristol
+British Columbia	British Columbia
+British Empire	Brittiska imperiet
+British Isles	Brittiska öarna
+British Virgin Islands	Brittiska Jungfruöarna
+British people	Kategori:Britter
+Brno	Brno
+Broadway (New York City)	Broadway
+Broccoli	Broccoli
+Bromine	Brom
+Bronze	Brons
+Bronze Age	Bronsåldern
+Brooklyn	Brooklyn
+Brooklyn Bridge	Brooklyn Bridge
+Brown	Brun
+Brown Bear	Brunbjörn
+Brownian motion	Brownsk rörelse
+Bruce Lee	Bruce Lee
+Bruges	Brygge
+Brunei	Brunei
+Brunei	Kategori:Brunei
+Brussels	Bryssel
+Bubonic plague	Pest
+Bucharest	Bukarest
+Buckingham Palace	Buckingham Palace
+Buckminster Fuller	Buckminster Fuller
+Buckwheat	Bovete
+Budapest	Budapest
+Buddha	Buddha (titel)
+Buddhism	Buddhism
+Buddhism	Kategori:Buddhism
+Buddy Holly	Buddy Holly
+Buenos Aires	Buenos Aires
+Buffalo	Buffalo, New York
+Building	Byggnad
+Bujumbura	Bujumbura
+Bulgaria	Bulgarien
+Bulgaria	Kategori:Bulgarien
+Bumblebee	Humlor
+Buoyancy	Arkimedes princip
+Bureaucracy	Byråkrati
+Burgomaster	Borgmästare
+Burkina Faso	Burkina Faso
+Burkina Faso	Kategori:Burkina Faso
+Burma	Burma
+Burma	Kategori:Burma
+Burqa	Burka
+Bursa	Bursa (stad)
+Burundi	Kategori:Burundi
+Bus	Buss
+Bus (computing)	Buss (elektronisk term)
+Business	Näringsliv
+Businesspeople	Kategori:Personer inom näringsliv
+Buster Keaton	Buster Keaton
+Butane	Butan
+Butter	Smör
+Butterfly	Dagfjärilar
+Butterfly effect	Fjärilseffekten
+Bydgoszcz	Bydgoszcz
+Byte	Byte (enhet)
+Byzantine Empire	Kategori:Bysantinska riket
+C	C
+C (programming language)	C (programspråk)
+C. S. Lewis	C.S. Lewis
+CD (disambiguation)	CD (olika betydelser)
+CHAOS (Linux distribution)	CHAOS
+CN Tower	CN Tower
+COBOL	COBOL
+Cabaret	Kabaré
+Cacao	Kakao
+Cache	Cache
+Cactus	Kaktusväxter
+Cadmium	Kadmium
+Cadmus	Kadmos
+Caelum	Gravstickeln
+Caesium	Cesium
+Caffeine	Koffein
+Cairo	Kairo
+Cake	Tårta
+Calabria	Kalabrien
+Calais	Calais
+Calcite	Kalkspat
+Calcium	Kalcium
+Calcium carbonate	Kalciumkarbonat
+Calcium oxide	Kalciumoxid
+Calculator	Miniräknare
+Calculus	Matematisk analys
+Caldera	Caldera
+Calendar	Kalender
+Caliber	Kaliber
+California	Kalifornien
+California	Kategori:Kalifornien
+Californium	Californium
+Caligula	Caligula
+Caliph	Kalif
+Caliphate	Kalifat
+Calligraphy	Kalligrafi
+Calliope	Kalliope
+Callisto (moon)	Callisto
+Callisto (mythology)	Kallisto
+Calorie	Kalori
+Calvados	Calvados
+Calvary	Golgata
+Calvin Coolidge	Calvin Coolidge
+Calypso (mythology)	Kalypso
+Cambodia	Kambodja
+Cambodia	Kategori:Kambodja
+Cambrian	Kambrium
+Cambridge	Cambridge
+Cambridge	Cambridge, Massachusetts
+Cambridge (disambiguation)	Cambridge (olika betydelser)
+Camel	Camelus
+Camembert (cheese)	Camembert
+Camera	Kamera
+Cameroon	Kamerun
+Cameroon	Kategori:Kamerun
+Campania	Kampanien
+Canada	Kanada
+Canada	Kategori:Kanada
+Canadian dollar	Kanadensisk dollar
+Canal	Kanal
+Canary Islands	Kanarieöarna
+Canary Islands	Kategori:Kanarieöarna
+Canberra	Canberra
+Cancer	Cancer
+Cancer (constellation)	Kräftan (stjärnbild)
+Candela	Candela
+Candle	Levande ljus
+Canidae	Hunddjur
+Canis Major	Stora hunden
+Canis Minor	Lilla hunden
+Cannabis	Cannabis
+Cannabis (drug)	Cannabis
+Cannes	Cannes
+Cannibalism	Kannibalism
+Cannon	Kanon
+Canoe	Kanot
+Canon (company)	Canon
+Cantata	Kantat
+Canterbury	Canterbury
+Cantonese (linguistics)	Kantonesiska
+Canute the Great	Knut den store
+Capacitance	Kapacitans
+Capacitor	Kondensator
+Cape Canaveral	Cape Canaveral
+Cape Horn	Kap Horn
+Cape Town	Kapstaden
+Cape Verde	Kap Verde
+Cape Verde	Kategori:Kap Verde
+Cape of Good Hope	Godahoppsudden
+Capital	Huvudstad
+Capital (economics)	Kapital
+Capital punishment	Dödsstraff
+Capitalism	Kapitalism
+Cappadocia	Kappadokien
+Capricornus	Stenbocken (stjärnbild)
+Capsicum	Spanskpepparsläktet
+Caracal	Ökenlo
+Caracas	Caracas
+Carambola	Carambola
+Carat (mass)	Karat
+Carat (purity)	Karat
+Caravaggio	Caravaggio
+Carbohydrate	Kolhydrat
+Carbon	Kol
+Carbon cycle	Kolcykeln
+Carbon dioxide	Koldioxid
+Carbon monoxide	Kolmonoxid
+Carbonic acid	Kolsyra
+Carboniferous	Karbon
+Carboxylic acid	Karboxylsyra
+Carburetor	Förgasare
+Card game	Kortspel
+Cardamom	Kardemumma
+Cardiff	Cardiff
+Cardinal (Catholicism)	Kardinal
+Cardinal Richelieu	Armand-Jean du Plessis Richelieu
+Cardiology	Kardiologi
+Cardiology	Kategori:Kardiologi
+Cardiovascular system	Kategori:Kardiovaskulära systemet
+Caribbean	Västindien
+Caribbean Sea	Karibiska havet
+Caricature	Karikatyr
+Carina (constellation)	Kölen (stjärnbild)
+Carl David Anderson	Carl D. Anderson
+Carl Jung	Carl Gustav Jung
+Carl Lewis	Carl Lewis
+Carl Maria von Weber	Carl Maria von Weber
+Carl Orff	Carl Orff
+Carnival	Karneval
+Carnivora	Rovdjur
+Carnivore	Köttätare
+Carnivorous plant	Köttätande växter
+Carolingian dynasty	Karolinger
+Carolus Linnaeus	Carl von Linné
+Carpathian Mountains	Karpaterna
+Carrot	Morot
+Carson City	Carson City
+Cartagena	Cartagena, Spanien
+Cartesian coordinate system	Kartesiskt koordinatsystem
+Carthage	Karthago
+Cartography	Kartografi
+Cartography	Kategori:Kartografi
+Cary Grant	Cary Grant
+Caryophyllales	Caryophyllales
+Casablanca	Casablanca
+Cashew	Cashew
+Casino	Kasino
+Caspian Sea	Kaspiska havet
+Cassandra	Kassandra
+Cassiopeia (constellation)	Cassiopeja
+Cast iron	Gjutjärn
+Caste	Kast
+Castile (historical region)	Kastilien
+Castle	Borg
+Castling	Rockad
+Castries	Castries
+Casus belli	Casus belli
+Cat	Katt
+Catalonia	Katalonien
+Catalonia	Kategori:Katalonien
+Catalysis	Katalysator
+Cataphract	Katafrakt
+Cataract	Grå starr
+Catfish	Malartade fiskar
+Catharism	Katarer
+Cathedral	Katedral
+Catherine Parr	Katarina Parr
+Catherine of Aragon	Katarina av Aragonien
+Cathode	Katod
+Catholicism	Katolsk
+Cattle	Nötkreatur
+Cattle Egret	Kohäger
+Catullus	Catullus
+Caucasus	Kaukasien
+Caucasus	Kategori:Kaukasien
+Caucasus Mountains	Kaukasus
+Cauliflower	Blomkål
+Causality	Kausalitet
+Cavalry	Kavalleri
+Cave	Grotta
+Caviar	Kaviar
+Cayenne	Cayenne
+Cayman Islands	Caymanöarna
+Cecil Rhodes	Cecil Rhodes
+Cedar	Cedersläktet
+Celery	Selleri
+Celestial equator	Himmelsekvator
+Celestial mechanics	Kategori:Celest mekanik
+Celestial mechanics	Celest mekanik
+Celestial sphere	Stjärnhimmel
+Celibacy	Celibat
+Cell (biology)	Cell
+Cell membrane	Cellmembran
+Cell nucleus	Cellkärna
+Cell wall	Cellvägg
+Cello	Cello
+Cellulose	Cellulosa
+Celsius	Grad Celsius
+Cement	Cement
+Cemetery	Begravningsplats
+Cenozoic	Kenozoikum
+Census	Folkräkning
+Centaur	Kentaurer
+Centaurus	Kentauren
+Center of mass	Masscentrum
+Central Africa	Centralafrika
+Central African Republic	Centralafrikanska republiken
+Central African Republic	Kategori:Centralafrikanska republiken
+Central America	Centralamerika
+Central America	Kategori:Centralamerika
+Central Intelligence Agency	CIA
+Central Park	Central Park
+Central Powers	Centralmakterna
+Central bank	Centralbank
+Central nervous system	Centrala nervsystemet
+Central processing unit	CPU
+Centre	Centre
+Centriole	Centriol
+Century	Sekel
+Cephalopod	Bläckfiskar
+Cepheus (constellation)	Cepheus
+Ceramic	Keramik
+Cerberus	Kerberos
+Cereal	Spannmål
+Cerebellum	Lillhjärnan
+Ceres	Ceres
+Ceres (dwarf planet)	1 Ceres
+Ceres (mythology)	Ceres (mytologi)
+Cerium	Cerium
+Cesare Borgia	Cesare Borgia
+Cestoda	Bandmaskar
+Cetacea	Valar
+Cetus	Valfisken (stjärnbild)
+Chad	Tchad
+Chad	Kategori:Tchad
+Chaffinch	Bofink
+Chair	Stol
+Chalcedony	Kalcedon
+Chamaeleon	Kameleonten
+Chamois	Gems
+Champagne (wine)	Blanc de noirs
+Champagne-Ardenne	Champagne-Ardenne
+Channel Tunnel	Kanaltunneln
+Chaos (mythology)	Chaos
+Charadriiformes	Vadarfåglar
+Charlemagne	Karl den store
+Charleroi	Charleroi
+Charles	Charles av Storbritannien
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles Fourier	Charles Fourier
+Charles Lindbergh	Charles Lindbergh
+Charles Peirce	Charles Peirce
+Charles Thomson Rees Wilson	C.T.R. Wilson
+Charles de Gaulle	Charles de Gaulle
+Charles the Bald	Karl den skallige
+Charleston	Charleston, West Virginia
+Charlie Chaplin	Charlie Chaplin
+Charlie Parker	Charlie Parker
+Charlotte	Charlotte, North Carolina
+Charmed	Förhäxad
+Charon (moon)	Charon (måne)
+Charon (mythology)	Charon
+Chartres	Chartres
+Chauvinism	Chauvinism
+Che Guevara	Che Guevara
+Chechnya	Tjetjenien
+Chechnya	Kategori:Tjetjenien
+Cheese	Ost
+Cheetah	Gepard
+Chelyabinsk	Tjeljabinsk
+Chemical bond	Kemisk bindning
+Chemical compound	Kemisk förening
+Chemical element	Grundämne
+Chemical engineering	Kemiteknik
+Chemical formula	Summaformel
+Chemical reaction	Kemisk reaktion
+Chemical warfare	Kemiska vapen
+Chemistry	Kemi
+Chemistry	Kategori:Kemi
+Chemnitz	Chemnitz
+Chemotherapy	Kemoterapi
+Chennai	Madras
+Cheque	Check (betalningsmedel)
+Chernobyl	Tjernobyl
+Cherry	Körsbär
+Chert	Flinta
+Cherub	Kerub
+Chess	Schack
+Chess	Kategori:Schack
+Chess opening	Schacköppning
+Chester A. Arthur	Chester A. Arthur
+Chestnut	Kastanjesläktet
+Chewing gum	Tuggummi
+Cheyenne	Cheyenne, Wyoming
+Chi (letter)	Chi
+Chiang Kai-shek	Chiang Kai-shek
+Chicago	Chicago
+Chicken	Höns
+Chickenpox	Vattkoppor
+Chickpea	Kikärt
+Chihuahua	Chihuahua (delstat)
+Child	Barn
+Childbirth	Förlossning
+Chile	Chile
+Chile	Kategori:Chile
+Chimborazo (volcano)	Chimborazo
+Chimera (mythology)	Chimaira
+Chimpanzee	Schimpanser
+China	Kategori:Kina
+China	Kina (region)
+Chios	Chios
+Chiron	Keiron
+Chitin	Kitin
+Chlorine	Klor
+Chloroform	Kloroform
+Chlorophyll	Klorofyll
+Chloroplast	Kloroplast
+Chocolate	Choklad
+Choir	Kör
+Cholera	Kolera
+Cholesterol	Kolesterol
+Chondrichthyes	Broskfiskar
+Chongqing	Chongqing
+Chord (music)	Ackord
+Chordate	Ryggsträngsdjur
+Christchurch	Christchurch, Nya Zeeland
+Christiaan Huygens	Christiaan Huygens
+Christian Dior	Christian Dior
+Christianity	Kristendom
+Christianity	Kategori:Kristendom
+Christmas	Jul
+Christmas	Kategori:Jul
+Christmas Eve	Julafton
+Christmas tree	Julgran
+Christopher Columbus	Christofer Columbus
+Christopher Marlowe	Christopher Marlowe
+Chromatin	Kromatin
+Chromatography	Kromatografi
+Chromium	Krom
+Chromosome	Kromosom
+Chuck Berry	Chuck Berry
+Chukchi Sea	Tjuktjerhavet
+Church	Kyrkan
+Church (building)	Kyrka
+Church of England	Engelska kyrkan
+Cicero	Cicero
+Ciconiiformes	Storkfåglar
+Cider	Cider
+Cigarette	Cigarett
+Cinderella	Askungen
+Cinnamon	Äkta kanel
+Circe	Kirke
+Circinus	Cirkelpassaren
+Circle	Cirkel
+Circulatory system	Kardiovaskulära systemet
+Circumcision	Manlig omskärelse
+Circus	Cirkus
+Cirrhosis	Skrumplever
+Citizenship	Medborgarskap
+Citric acid	Citronsyra
+Citric acid cycle	Citronsyracykeln
+Citrus	Citrussläktet
+City-state	Stadsstat
+Civil war	Inbördeskrig
+Civilization	Civilisation
+Civilization (computer game)	Sid Meier's Civilization
+Clarinet	Klarinett
+Clark Gable	Clark Gable
+Class	Klass
+Class (biology)	Klass (biologi)
+Class (computer science)	Klass (programmering)
+Classical mechanics	Klassisk mekanik
+Classical music	Klassisk musik
+Classical music	Kategori:Klassisk musik
+Classicism	Klassicism
+Claude Monet	Claude Monet
+Claude Shannon	Claude Shannon
+Claudio Monteverdi	Claudio Monteverdi
+Claudius	Claudius
+Clavicle	Nyckelben
+Clay	Lera
+Clef	Klav
+Clement Attlee	Clement Attlee
+Cleopatra (disambiguation)	Kleopatra (olika betydelser)
+Clergy	Klerk
+Cleveland	Cleveland
+Client-server	Klient–server
+Climate	Klimat
+Climate change	Klimatförändring
+Climatology	Klimatologi
+Climatology	Kategori:Klimatologi
+Clinical depression	Depression
+Clio	Klio
+Clitoris	Klitoris
+Clock	Ur
+Clock Tower	Big Ben
+Cloning	Kloning
+Clothing	Kategori:Kläder
+Clothing	Kläder
+Cloud	Moln
+Clove	Kryddnejlika
+Clover	Klövrar
+Clovis I	Klodvig I
+Cnidaria	Nässeldjur
+Coal	Kol (bränsle)
+Coast	Kust
+Coat of arms	Heraldiskt vapen
+Cobalt	Kobolt
+Cocaine	Kokain
+Coccinellidae	Nyckelpigor
+Cockatoo	Kakaduor
+Cockroach	Kackerlackor
+Cocktail	Cocktail
+Coconut	Kokospalm
+Cocos (Keeling) Islands	Kokosöarna
+Codeine	Kodein
+Coffea	Kaffesläktet
+Coffee	Kaffe
+Coffee	Kategori:Kaffe
+Cognac (drink)	Konjak
+Cognitive psychology	Kognitiv psykologi
+Cognitive science	Kognitionsvetenskap
+Coin	Mynt
+Cola	Cola
+Colchis	Kolchis
+Cold War	Kalla kriget
+Cold War	Kategori:Kalla kriget
+Colin Powell	Colin Powell
+Collage	Collage
+Collagen	Kollagen
+Colloid	Kolloid
+Cologne	Köln
+Colombia	Colombia
+Colombia	Kategori:Colombia
+Colombo	Colombo
+Colonel	Överste
+Colony	Koloni
+Color	Färg
+Color blindness	Färgblindhet
+Colorado	Colorado
+Colorado	Kategori:Colorado
+Colorado River	Coloradofloden
+Colosseum	Colosseum
+Colossus of Rhodes	Kolossen på Rhodos
+Colubrid	Snokar
+Columba (constellation)	Duvan
+Columbia	Columbia, South Carolina
+Columbia	Columbia
+Columbia River	Columbiafloden
+Columbia University	Columbia University
+Columbidae	Duvor
+Columbiformes	Kategori:Duvfåglar
+Columbiformes	Duvfåglar
+Columbus	Columbus, Ohio
+Columbus	Columbus (olika betydelser)
+Coma	Koma
+Coma Berenices	Berenikes hår
+Combustion	Förbränning
+Comedy	Komedi
+Comenius	Johan Amos Comenius
+Comet	Komet
+Comma (punctuation)	Kommatecken
+Commedia dell'arte	Commedia dell'arte
+Common Fig	Fikon
+Common cold	Förkylning
+Commonwealth of Independent States	Oberoende staters samvälde
+Commonwealth of Nations	Samväldet
+Communication	Kategori:Kommunikation
+Communication	Kommunikation
+Communism	Kommunism
+Communism	Kategori:Kommunism
+Comoros	Komorerna
+Comoros	Kategori:Komorerna
+Compact Disc	CD
+Company (military unit)	Kompani
+Compass	Kompass
+Compass (drafting)	Passare
+Competition	Konkurrens
+Compiler	Kompilator
+Complex instruction set computer	CISC
+Complex number	Komplexa tal
+Composer	Kompositör
+Composite material	Komposit
+Computed tomography	Datortomografi
+Computer	Dator
+Computer architecture	Datorarkitektur
+Computer display	Bildskärm
+Computer file	Fil (data)
+Computer graphics	Kategori:Datorgrafik
+Computer hardware	Maskinvara
+Computer network	Datornätverk
+Computer program	Datorprogram
+Computer programming	Programmering
+Computer programming	Kategori:Programmering
+Computer science	Datavetenskap
+Computer science	Kategori:Datavetenskap
+Computer software	Programvara
+Computer virus	Datorvirus
+Computer-aided design	CAD
+Computing	Kategori:Datasystem
+Conakry	Conakry
+Concentration	Koncentration
+Concerto	Konsert (musikstycke)
+Concord	Concord, New Hampshire
+Concrete	Betong
+Condom	Kondom
+Conducting	Dirigent
+Cone (geometry)	Kon
+Confederate States of America	Amerikas konfedererade stater
+Confederation	Konfederation
+Confession	Botens sakrament
+Confirmation	Konfirmation
+Conflict	Konflikt
+Confucianism	Konfucianism
+Confucius	Konfucius
+Congo	Kongo
+Congo River	Kongofloden
+Conic section	Kägelsnitt
+Connecticut	Connecticut
+Connecticut	Kategori:Connecticut
+Connective tissue	Bindväv
+Conquistador	Conquistador
+Consensus	Konsensus
+Conservation of energy	Energiprincipen
+Conservatism	Konservatism
+Consonant	Konsonant
+Constantine I	Konstantin den store
+Constantinople	Konstantinopel
+Constellation	Stjärnbild
+Constitution (political)	Grundlag
+Consul	Konsul (Rom)
+Consumption (economics)	Konsumtion
+Contact lens	Kontaktlins
+Continent	Världsdelar och kontinenter
+Continental shelf	Kontinentalsockel
+Contract bridge	Bridge
+Convection	Konvektion
+Cooking	Matlagning
+Cooperative	Kooperativ
+Coordinate system	Koordinatsystem
+Coordinated Universal Time	Koordinerad universell tid
+Copenhagen	Köpenhamn
+Copper	Koppar
+Copyright	Upphovsrätt
+Cor anglais	Engelskt horn
+Coraciiformes	Praktfåglar
+Coral	Koralldjur
+Coral Sea	Korallhavet
+Coral reef	Korallrev
+Coriander	Koriander
+Corinth	Korinth
+Coriolis effect	Corioliseffekten
+Cork (city)	Cork
+Cormorant	Skarvar
+Cornea	Hornhinna
+Cornell University	Cornell University
+Cornwall	Cornwall
+Corona Borealis	Norra kronan
+Corrosion	Korrosion
+Corsica	Korsika
+Corundum	Korund
+Corvette	Korvett
+Corvidae	Kråkfåglar
+Corvus (constellation)	Korpen (stjärnbild)
+Cosmic microwave background radiation	Kosmisk bakgrundsstrålning
+Cosmic ray	Kosmiska partiklar
+Cosmology	Kosmologi
+Cosmology	Kategori:Kosmologi
+Costa Rica	Costa Rica
+Costa Rica	Kategori:Costa Rica
+Cotonou	Cotonou
+Cotopaxi	Cotopaxi
+Cotton	Bomullsläktet
+Cougar	Puma
+Coulomb	Coulomb
+Coulomb's law	Coulombs lag
+Council of Chalcedon	Konciliet i Chalcedon
+Council of Ephesus	Konciliet i Efesus
+Council of Trent	Tridentinska kyrkomötet
+Counterpoint	Kontrapunkt
+Country	Land
+Country music	Countrymusik
+Court	Domstol
+Covalent bond	Kovalent bindning
+Coventry	Coventry
+Coyote	Prärievarg
+Crab	Krabbor
+Crab Nebula	Krabbnebulosan
+Crane (bird)	Tranor
+Crater (constellation)	Bägaren
+Creationism	Kreationism
+Cremona	Cremona
+Cretaceous	Krita (geologi)
+Crete	Kreta
+Cricket	Cricket
+Cricket (insect)	Syrsor
+Crime	Brott
+Crimea	Krim
+Crimean War	Krimkriget
+Criminal law	Kategori:Straffrätt
+Criminal law	Straffrätt
+Criminology	Kriminologi
+Criminology	Kategori:Kriminologi
+Croatia	Kroatien
+Croatia	Kategori:Kroatien
+Crocodile	Krokodiler
+Crocodilia	Krokodildjur
+Cronus	Kronos
+Cross	Kors
+Cross product	Kryssprodukt
+Crossbow	Armborst
+Crossword	Korsord
+Crow	Kråkor
+Crucifixion	Korsfästelse
+Cruiser	Kryssare
+Crust (geology)	Jordskorpa
+Crustacean	Kräftdjur
+Crux	Södra korset
+Cryptography	Kryptografi
+Cryptography	Kategori:Kryptologi
+Crystal	Kristall
+Ctenophore	Kammaneter
+Cuba	Kuba
+Cuba	Kategori:Kuba
+Cube	Kub (geometri)
+Cubic metre	Kubikmeter
+Cubism	Kubism
+Cuculiformes	Gökfåglar
+Cucumber	Gurka
+Cucurbitaceae	Gurkväxter
+Cultural Revolution	Kulturrevolutionen
+Culture	Kultur
+Culture	Kategori:Kultur
+Cumbria	Cumbria
+Cumulus cloud	Cumulus
+Curitiba	Curitiba
+Curium	Curium
+Curling	Curling
+Currency	Kategori:Valutor
+Currency	Valuta
+Curry	Curry
+Curve	Kurva
+Cusco	Cusco
+Cyan	Cyan
+Cyanide	Cyanider
+Cyanobacteria	Cyanobakterier
+Cybele	Kybele
+Cybernetics	Cybernetik
+Cyberpunk	Cyberpunk
+Cyclades	Kykladerna
+Cycling	Cykelsport
+Cycling	Kategori:Cykelsport
+Cyclops	Cykloper
+Cygnus (constellation)	Svanen (stjärnbild)
+Cylinder (geometry)	Cylinder
+Cyperaceae	Halvgräs
+Cyprinid	Karpfiskar
+Cypriniformes	Karpartade fiskar
+Cyprus	Cypern
+Cyprus	Kategori:Cypern
+Cyrillic alphabet	Kyrilliska alfabetet
+Cyrus the Great	Kyros II
+Cystic fibrosis	Cystisk fibros
+Cytoplasm	Cytoplasma
+Cytosine	Cytosin
+Cytoskeleton	Cellskelett
+Czech Republic	Tjeckien
+Czech Republic	Kategori:Tjeckien
+Czechoslovakia	Tjeckoslovakien
+Czechoslovakia	Kategori:Tjeckoslovakien
+D	D
+D. H. Lawrence	D.H. Lawrence
+D. W. Griffith	D.W. Griffith
+DDT	DDT
+DNA	DNA
+DOS	DOS
+DVD	DVD
+Dachshund	Tax
+Dada	Dadaism
+Daedalus	Daidalos
+Dagger	Dolk
+Daguerreotype	Daguerrotypi
+Dakar	Dakar
+Dalai Lama	Dalai lama
+Dallas	Dallas
+Dalmatia	Dalmatien
+Dam	Dammbyggnad
+Damascus	Damaskus
+Dance	Dans
+Dance	Kategori:Dans
+Dandelion	Maskrosor
+Daniel Bernoulli	Daniel Bernoulli
+Daniel Defoe	Daniel Defoe
+Daniel Ortega	Daniel Ortega
+Danish krone	Dansk krona
+Dante Alighieri	Dante Alighieri
+Danube	Donau
+Daphne	Dafne
+Dar es Salaam	Dar es-Salaam
+Dardanelles	Dardanellerna
+Darfur	Darfur
+Darjeeling	Darjeeling
+Dark matter	Mörk materia
+Darmstadtium	Darmstadtium
+Darwin	Darwin, Australien
+Darwin	Darwin
+Das Kapital	Kapitalet
+Data	Data (mönster)
+Data mining	Data mining
+Data structure	Datastruktur
+Database	Databas
+Database management system	Databashanterare
+Date Palm	Dadelpalm
+Dative case	Dativ
+Daugavpils	Daugavpils
+David	Kung David
+David Hilbert	David Hilbert
+David Hume	David Hume
+David Livingstone	David Livingstone
+David Ricardo	David Ricardo
+Davis Cup	Davis Cup
+Day	Dygn
+Days	Kategori:Datum
+De facto	De facto
+Deacon	Diakon
+Dead Sea	Döda havet
+Dead Sea scrolls	Dödahavsrullarna
+Deadly nightshade	Belladonna
+Death	Döden
+Death	Kategori:Döden
+Decade	Decennium
+December	December
+December 31	31 december
+December 8	8 december
+Decibel	Decibel
+Decimal	Decimala talsystemet
+Decius (emperor)	Decius
+Declination	Deklination (astronomi)
+Deco	Deco
+Deconstruction	Dekonstruktion
+Deductive reasoning	Deduktion
+Deer	Hjortdjur
+Definition	Definition
+Deflation	Deflation
+Degree	Grad
+Degree (angle)	Vinkelgrad
+Deimos (moon)	Deimos (måne)
+Deism	Deism
+Delaware	Delaware
+Delaware	Kategori:Delaware
+Delft	Delft
+Delhi	Delhi
+Dell	Dell
+Delphi	Delfi
+Delphinus	Delfinen
+Delta	Delta (olika betydelser)
+Delta (letter)	Delta
+Deluge (mythology)	Syndafloden
+Demagogy	Demagogi
+Dementia	Demens
+Demeter	Demeter
+Democracy	Demokrati
+Democratic Party (United States)	Demokratiska partiet
+Democratic Republic of the Congo	Kongo-Kinshasa
+Democratic Republic of the Congo	Kategori:Kongo-Kinshasa
+Democritus	Demokritos
+Demography	Demografi
+Demography	Kategori:Demografi
+Demon	Demon
+Demosthenes	Demosthenes
+Deng Xiaoping	Deng Xiaoping
+Dengue fever	Denguefeber
+Denis Diderot	Denis Diderot
+Denmark	Danmark
+Denmark	Kategori:Danmark
+Dennis Gabor	Dennis Gabor
+Density	Densitet
+Dental caries	Karies
+Dentistry	Kategori:Odontologi
+Dentistry	Tandvård
+Denver	Denver
+Derivative	Derivata
+Dermatology	Dermatologi
+Des Moines	Des Moines
+Desert	Öken
+Deserts	Kategori:Öknar
+Desiderius Erasmus	Erasmus av Rotterdam
+Design	Formgivning
+Desmond Tutu	Desmond Tutu
+Destroyer	Jagare
+Determinant	Determinant
+Determinism	Determinism
+Detroit	Detroit
+Deuterium	Deuterium
+Deuteronomy	Femte Moseboken
+Developmental psychology	Utvecklingspsykologi
+Device driver	Drivrutin
+Devon	Devon, England
+Devonian	Devon (period)
+Dew	Dagg
+Dew point	Daggpunkt
+Dewey Decimal Classification	Dewey Decimal Classification
+Dhaka	Dacca
+Dhaulagiri	Dhaulagiri
+Dhole	Asiatisk vildhund
+Diabetes mellitus	Diabetes
+Diacritic	Diakritiskt tecken
+Dialect	Dialekt
+Dialectic	Dialektik
+Dialectical materialism	Materialistisk dialektik
+Diameter	Diameter
+Diamond	Diamant
+Diana	Prinsessan Diana
+Diana (mythology)	Diana
+Diarrhea	Diarré
+Diaspora	Diaspora
+Diatom	Kiselalger
+Dice	Tärning
+Dicotyledon	Tvåhjärtbladiga
+Dictatorship	Diktatur
+Dictionary	Ordbok
+Diego Rivera	Diego Rivera
+Diesel	Dieselolja
+Diesel engine	Dieselmotor
+Dietrich Bonhoeffer	Dietrich Bonhoeffer
+Differential equation	Differentialekvation
+Diffraction	Diffraktion
+Diffusion	Diffusion
+Digestion	Matspjälkning
+Digestive system	Kategori:Matspjälkning
+Digital	Digital
+Digital camera	Digitalkamera
+Digital subscriber line	Digital Subscriber Line
+Dijon	Dijon
+Dill	Dill
+Dimension	Dimension
+Dingo	Dingo
+Dinosaur	Dinosaurier
+Diocese	Stift (kyrkligt förvaltningsområde)
+Diocletian	Diocletianus
+Diode	Diod
+Dionysus	Dionysos
+Diphtheria	Difteri
+Diphthong	Diftong
+Diplodocus	Diplodocus
+Diplomacy	Diplomati
+Diplomacy	Kategori:Diplomati
+Dire Straits	Dire Straits
+Direct current	Likström
+Disaccharide	Disackarider
+Disambiguation	Kategori:Förgreningssidor
+Disc jockey	DJ
+Discourse	Diskurs
+Discrimination	Diskriminering
+Disease	Sjukdom
+Distance	Avstånd
+Distillation	Destillation
+Division (mathematics)	Division (matematik)
+Division (military)	Division (militärt förband)
+Divorce	Skilsmässa
+Dizzy Gillespie	Dizzy Gillespie
+Djibouti	Kategori:Djibouti
+Djibouti (city)	Djibouti (stad)
+Dmitri Mendeleev	Dmitrij Mendelejev
+Dmitri Shostakovich	Dmitrij Sjostakovitj
+Dnieper River	Dnepr
+Dnipropetrovsk	Dnipropetrovsk
+Doberman Pinscher	Dobermann
+Doctor of the Church	Kyrkolärare
+Document	Dokument
+Dodecahedron	Dodekaeder
+Dodecanese	Dodekanisos
+Dodo	Dront
+Dodoma	Dodoma
+Dog	Hund
+Dogma	Dogm
+Doha	Doha
+Dollar	Dollar
+Dolly (sheep)	Dolly (får)
+Dolmen	Dös
+Dolomite	Dolomit
+Dolphin	Delfiner
+Domain (biology)	Domän (biologi)
+Domain name	Domännamn
+Dome	Kupolvalv
+Domesday Book	Domesday Book
+Domestication	Domesticering
+Dominica	Dominica
+Dominica	Kategori:Dominica
+Dominican Order	Dominikanorden
+Dominican Republic	Dominikanska republiken
+Dominican Republic	Kategori:Dominikanska republiken
+Domitian	Domitianus
+Don Quixote	Don Quijote
+Don River (Russia)	Don (flod)
+Donald Duck	Kalle Anka
+Donatello	Donatello
+Donato Bramante	Donato Bramante
+Donetsk	Donetsk
+Donkey	Åsna
+Door	Dörr
+Dopamine	Dopamin
+Doppler effect	Dopplereffekt
+Dorado	Svärdfisken
+Doric order	Dorisk ordning
+Doris Lessing	Doris Lessing
+Dortmund	Dortmund
+Douala	Douala
+Double bass	Kontrabas
+Douglas MacArthur	Douglas MacArthur
+Dover	Dover, Delaware
+Dover	Dover
+Down syndrome	Downs syndrom
+Draco (constellation)	Draken (stjärnbild)
+Dragon	Drake
+Drainage basin	Avrinningsområde
+Drama	Drama
+Draughts	Damspel
+Dream	Dröm
+Dresden	Dresden
+Drink	Dryck
+Dromedary	Dromedar
+Drought	Torka
+Drug addiction	Narkomani
+Druid	Druid
+Drum	Trumma
+Dualism	Dualism
+Dualism (philosophy of mind)	Dualism
+Dubai	Dubai
+Dublin	Dublin
+Dubnium	Dubnium
+Dubrovnik	Dubrovnik
+Duck	Änder
+Dugong	Dugonger
+Duke	Hertig
+Duke Ellington	Duke Ellington
+Duke University	Duke University
+Dune	Sanddyn
+Dunkirk	Dunkerque
+Duodenum	Tolvfingertarm
+Durban	Durban
+Dushanbe	Dusjanbe
+Dustin Hoffman	Dustin Hoffman
+Dutch people	Kategori:Nederländare
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dynamite	Dynamit
+Dynasty	Dynasti
+Dyslexia	Dyslexi
+Dysprosium	Dysprosium
+Dystopia	Dystopi
+E	E
+E (mathematical constant)	E (tal)
+E-mail	E-post
+E. T. A. Hoffmann	E.T.A. Hoffmann
+ETA	ETA
+Eagle	Örn
+Ear	Öra
+Eared seal	Öronsälar
+Earless seal	Öronlösa sälar
+Earth	Jorden
+Earth	Kategori:Jorden
+Earth science	Geovetenskap
+Earthquake	Jordbävning
+East	Öster
+East Africa	Östafrika
+East China Sea	Östkinesiska havet
+East Germany	Östtyskland
+East Sussex	East Sussex
+East Timor	Östtimor
+East Timor	Kategori:Östtimor
+Easter	Påsk
+Eastern Orthodox Church	Östortodox kristendom
+Ebola	Ebolafeber
+Ebro	Ebro
+Eccentricity (mathematics)	Excentricitet
+Ecclesiastes	Predikaren
+Echidna	Myrpiggsvin
+Echidna (mythology)	Echidna
+Echinoderm	Tagghudingar
+Eclipse	Eklips
+Eclipse (software)	Eclipse
+Ecliptic	Ekliptikan
+Ecological niche	Ekologisk nisch
+Ecology	Ekologi
+Ecology	Kategori:Ekologi
+Econometrics	Ekonometri
+Economics	Nationalekonomi
+Economics	Kategori:Ekonomi
+Economy	Ekonomi
+Ecosystem	Ekosystem
+Ecuador	Ecuador
+Ecuador	Kategori:Ecuador
+Ecumenical council	Koncilium
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edinburgh	Edinburgh
+Edirne	Edirne
+Edmond Halley	Edmond Halley
+Edmonton	Edmonton
+Edmund Burke	Edmund Burke
+Edmund Hillary	Edmund Hillary
+Edmund Husserl	Edmund Husserl
+Edo	Edo
+Eduard Buchner	Eduard Buchner
+Education	Utbildning
+Education	Kategori:Utbildning
+Edvard Grieg	Edvard Grieg
+Edvard Munch	Edvard Munch
+Edward Gibbon	Edward Gibbon
+Edward Jenner	Edward Jenner
+Edward Teller	Edward Teller
+Edward the Confessor	Edvard Bekännaren
+Edwin Hubble	Edwin Hubble
+Eel	Ålartade fiskar
+Egg (biology)	Ägg
+Eggplant	Aubergine
+Egypt	Egypten
+Egypt	Kategori:Egypten
+Egyptian pound	Egyptiskt pund
+Egyptology	Egyptologi
+Eiffel Tower	Eiffeltornet
+Eindhoven	Eindhoven
+Einsteinium	Einsteinium
+Ejaculation	Ejakulation
+El Cid	El Cid (person)
+El Greco	El Greco
+El Paso	El Paso
+El Salvador	El Salvador
+El Salvador	Kategori:El Salvador
+Elam	Elam
+Elbe	Elbe
+Eleanor Roosevelt	Eleanor Roosevelt
+Election	Val
+Electra	Elektra
+Electric charge	Elektrisk laddning
+Electric current	Elektrisk ström
+Electric field	Elektriskt fält
+Electric guitar	Elgitarr
+Electric motor	Elektrisk motor
+Electrical engineering	Kategori:Elektroteknik
+Electrical engineering	Elektroteknik
+Electrical resistance	Resistans
+Electricity	Elektricitet
+Electricity	Kategori:Elektricitet
+Electrocardiogram	EKG
+Electrochemistry	Elektrokemi
+Electrochemistry	Kategori:Elektrokemi
+Electrolysis	Elektrolys
+Electrolyte	Elektrolyt
+Electromagnetic radiation	Elektromagnetisk strålning
+Electromagnetism	Elektromagnetism
+Electromagnetism	Kategori:Elektromagnetism
+Electron	Elektron
+Electron microscope	Elektronmikroskop
+Electronegativity	Elektronegativitet
+Electronics	Elektronik
+Electronics	Kategori:Elektronik
+Elegy	Elegi
+Element	Element
+Elementary particle	Elementarpartikel
+Elephant	Elefanter
+Elevator	Hiss
+Elf	Quendi
+Elia Kazan	Elia Kazan
+Elias Canetti	Elias Canetti
+Elijah	Elia
+Elizabeth Taylor	Elizabeth Taylor
+Ella Fitzgerald	Ella Fitzgerald
+Ellipse	Ellips (matematik)
+Ellipsis	Uteslutningstecken
+Elm	Almsläktet
+Elvis Presley	Elvis Presley
+Embryo	Embryo
+Embryology	Embryologi
+Emerald	Smaragd
+Emilia-Romagna	Emilia-Romagna
+Emiliano Zapata	Emiliano Zapata
+Emily Dickinson	Emily Dickinson
+Emir	Emir
+Emma Goldman	Emma Goldman
+Emoticon	Uttryckssymbol
+Emotion	Känsla
+Emotion	Kategori:Känslor
+Empathy	Empati
+Empedocles	Empedokles
+Emperor	Kejsare
+Emperor Penguin	Kejsarpingvin
+Empire	Imperium
+Empire State Building	Empire State Building
+Empiricism	Empiri
+Emu	Australisk emu
+Emulator	Emulator
+Emulsion	Emulsion
+Encyclopedia	Uppslagsverk
+Endemism	Endemism
+Endocrine system	Endokrina systemet
+Endocrinology	Endokrinologi
+Endocrinology	Kategori:Endokrinologi
+Energy	Energi
+Energy	Kategori:Energi
+Energy (society)	Energi
+Engine	Motor
+Engineer	Ingenjör
+England	England
+England	Kategori:England
+English Channel	Engelska kanalen
+English Civil War	Engelska inbördeskriget
+English language	Engelska
+English language	Kategori:Engelska
+English people	Kategori:Engelsmän
+Enki	Enki
+Enrico Caruso	Enrico Caruso
+Enrico Fermi	Enrico Fermi
+Enthalpy	Entalpi
+Entomology	Entomologi
+Entomology	Kategori:Entomologi
+Entropy	Entropi
+Environment	Kategori:Miljö
+Environment	Miljö
+Enzyme	Enzym
+Eocene	Eocen
+Eon (geology)	Eon (geologi)
+Eos	Eos
+Ephesus	Efesos
+Epic poetry	Epik
+Epicenter	Epicentrum
+Epictetus	Epiktetos
+Epicurus	Epikuros
+Epidemic	Epidemi
+Epidemiology	Epidemiologi
+Epigraphy	Epigrafik
+Epilepsy	Epilepsi
+Epimetheus (mythology)	Epimetheus
+Epinephrine	Adrenalin
+Epiphany (Christian)	Trettondedag jul
+Epirus (periphery)	Epirus
+Epistemology	Kunskapsteori
+Epistle to the Galatians	Galaterbrevet
+Epistle to the Romans	Romarbrevet
+Epithelium	Epitel
+Epsilon	Epsilon
+Equation	Ekvation
+Equator	Ekvator
+Equatorial Guinea	Ekvatorialguinea
+Equatorial Guinea	Kategori:Ekvatorialguinea
+Equidae	Hästdjur
+Equinox	Dagjämning
+Equisetum	Fräken
+Erasure	Erasure
+Erato	Erato
+Eratosthenes	Eratosthenes
+Erbium	Erbium
+Erebus	Erebos
+Erectile dysfunction	Impotens
+Erection	Erektion
+Ericaceae	Ljungväxter
+Ericales	Ericales
+Eridanus (constellation)	Floden Eridanus
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Erik Satie	Erik Satie
+Eris (dwarf planet)	Eris (dvärgplanet)
+Eris (mythology)	Eris (gudinna)
+Eritrea	Kategori:Eritrea
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Ernst Werner von Siemens	Werner von Siemens
+Eros (mythology)	Eros (gud)
+Erosion	Erosion
+Erotica	Erotik
+Erwin Rommel	Erwin Rommel
+Escape velocity	Flykthastighet
+Eschatology	Eskatologi
+Escherichia coli	Escherichia coli
+Esfahan	Isfahan
+Esophagus	Matstrupe
+Esperanto	Esperanto
+Esperanto	Kategori:Esperanto
+Espionage	Spioneri
+Espoo	Esbo
+Espresso	Espresso
+Essay	Essä
+Essen	Essen
+Essential oil	Eterisk olja
+Essex	Essex
+Ester	Estrar
+Estonia	Kategori:Estland
+Estrogen	Östrogen
+Eta (letter)	Eta
+Etching	Etsning (konst)
+Ethane	Etan
+Ethanol	Etanol
+Ether	Etrar
+Ethernet	Ethernet
+Ethics	Etik
+Ethics	Kategori:Etik
+Ethiopia	Etiopien
+Ethiopia	Kategori:Etiopien
+Ethnic group	Etnicitet
+Ethnography	Etnografi
+Ethnology	Kategori:Etnologi
+Ethology	Etologi
+Ethylene	Eten
+Etymology	Etymologi
+Eucalyptus	Eukalyptussläktet
+Eucharist	Nattvard
+Euclid	Euklides
+Euclidean geometry	Euklidisk geometri
+Eugene O'Neill	Eugene O'Neill
+Eukaryote	Eukaryoter
+Eunuch	Eunuck
+Euphemism	Eufemism
+Euphrates	Eufrat
+Eurasia	Eurasien
+Eurasian Badger	Europeisk grävling
+Euripides	Euripides
+Euro	Euro
+Europa (moon)	Europa (måne)
+Europa (mythology)	Europa (mytologi)
+Europe	Europa
+Europe	Kategori:Europa
+European Central Bank	Europeiska centralbanken
+European Community	Europeiska gemenskapen
+European Magpie	Skata
+European Union	Europeiska unionen
+European Union	Kategori:Europeiska unionen
+Europium	Europium
+Eusebius of Caesarea	Eusebios av Caesarea
+Euterpe	Euterpe
+Euthanasia	Dödshjälp
+Eva Braun	Eva Braun
+Evanescence	Evanescence
+Evangelista Torricelli	Evangelista Torricelli
+Evaporation	Avdunstning
+Even-toed ungulate	Partåiga hovdjur
+Evolution	Evolution
+Excalibur	Excalibur
+Exchange rate	Växelkurs
+Exclamation mark	Utropstecken
+Excommunication	Bannlysning
+Executive (government)	Verkställande makt
+Exhibitionism	Exhibitionism
+Existentialism	Existentialism
+Exodus	Andra Moseboken
+Expected value	Väntevärde
+Experiment	Experiment
+Explosion	Explosion
+Expo (exhibition)	Världsutställning
+Exponential function	Exponentialfunktion
+Exponentiation	Potens (matematik)
+Expressionism	Expressionism
+Extinction	Utrotning
+Eye	Öga
+Eye	Kategori:Ögat
+Ezra Pound	Ezra Pound
+F	F
+F. Scott Fitzgerald	F. Scott Fitzgerald
+Fabaceae	Ärtväxter
+Fable	Fabel
+Face	Ansikte
+Fact	Mall:Källa behövs
+Factorial	Fakultet (matematik)
+Factory	Fabrik
+Facula	Solfläckar
+Fado	Fado
+Fagaceae	Kategori:Bokväxter
+Fagales	Fagales
+Fahrenheit	Grad Fahrenheit
+Fair use	Fair use
+Fairy	Fe (väsen)
+Fairy tale	Saga (fantasi)
+Falcon	Egentliga falkar
+Falconiformes	Rovfåglar
+Falkland Islands	Falklandsöarna
+Fallacy	Argumentationsfel
+Fallopian tube	Äggledare
+Fallow Deer	Dovhjort
+Falun Gong	Falungong
+Family	Kategori:Familjeliv
+Family (biology)	Familj (biologi)
+Family history	Genealogi
+Family name	Efternamn
+Fantasy	Fantasy
+Far East	Fjärran östern
+Farad	Farad
+Faroe Islands	Kategori:Färöarna
+Fascism	Fascism
+Fascism	Kategori:Fascism
+Fashion	Kategori:Mode
+Fashion	Mode
+Fast food	Snabbmat
+Fasting	Fasta
+Fatah	Fatah
+Fatty acid	Fettsyra
+Fault (geology)	Förkastning
+Fauna	Fauna
+Fauvism	Fauvism
+Fax	Telefax
+Fear	Rädsla
+Feather	Fjäder (biologi)
+February	Februari
+February 12	12 februari
+February 14	14 februari
+February 2	2 februari
+February 22	22 februari
+February 29	29 februari
+February Revolution	Februarirevolutionen 1917
+Feces	Avföring
+Federal Bureau of Investigation	FBI
+Federal Reserve System	Federal Reserve
+Federated States of Micronesia	Mikronesiens federerade stater
+Federated States of Micronesia	Kategori:Mikronesiens federerade stater
+Federation	Federation
+Federico Fellini	Federico Fellini
+Fedora (Linux distribution)	Fedora Core
+Feedback	Återkoppling
+Feldspar	Fältspat
+Felidae	Kattdjur
+Felix Mendelssohn	Felix Mendelssohn
+Feminism	Feminism
+Feminism	Kategori:Feminism
+Fencing	Fäktning
+Feng shui	Fengshui
+Fennel	Fänkål
+Fenrir	Fenrisulven
+Fenugreek	Bockhornsklöver
+Ferdinand II	Ferdinand II (tysk-romersk kejsare)
+Ferdinand Magellan	Ferdinand Magellan
+Ferdinand de Saussure	Ferdinand de Saussure
+Fermentation (biochemistry)	Fermentation
+Fermentation (food)	Fermentering
+Fermion	Fermion
+Fermium	Fermium
+Fern	Ormbunksväxter
+Ferrara	Ferrara
+Ferry	Färja
+Fertile Crescent	Bördiga halvmånen
+Fertilisation	Befruktning
+Fertilizer	Gödsel
+Fetus	Foster
+Feudalism	Feodalism
+Fever	Feber
+Fiat	Fiat
+Fibonacci number	Fibonaccital
+Fiction	Kategori:Fiktion
+Fictional character	Litterär figur
+Fidel Castro	Fidel Castro
+Field (mathematics)	Kropp (matematik)
+Field hockey	Landhockey
+Fighter aircraft	Jaktplan
+Figure skating	Konståkning
+Fiji	Fiji
+Fiji	Kategori:Fiji
+File Allocation Table	FAT
+File Transfer Protocol	File Transfer Protocol
+File system	Filsystem
+Filippo Brunelleschi	Filippo Brunelleschi
+Film	Kategori:Film
+Film	Film
+Film	Portal:Film
+Film director	Filmregissör
+Fin Whale	Sillval
+Finance	Kategori:Finansväsen
+Finance	Finans
+Finger	Finger
+Fingerprint	Fingeravtryck
+Finland	Finland
+Finland	Kategori:Finland
+Fir	Ädelgranssläktet
+Fire	Eld
+Firearm	Eldvapen
+Firefighter	Brandförsvar
+Firewall (networking)	Brandvägg
+Firmware	Firmware
+First Council of Constantinople	Första konciliet i Konstantinopel
+First Council of Nicaea	Första konciliet i Nicaea
+First Crusade	Första korståget
+First Epistle to the Corinthians	Första Korinthierbrevet
+First aid	Första hjälpen
+First language	Modersmål
+Fish	Fiskar
+Fishing	Fiske
+Fishing	Kategori:Fiske
+Fjord	Fjord
+Flag	Flagga
+Flagellum	Flagell
+Flamenco	Flamenco
+Flamingo	Flamingoer
+Flanders	Flandern
+Flash memory	Flashminne
+Flatulence	Flatulens
+Flatworm	Plattmaskar
+Flea	Loppor
+Flemish (linguistics)	Flamländska
+Flint	Flinta
+Flip-flop (electronics)	Vippa
+Flood	Översvämning
+Floppy disk	Diskett
+Florence	Florens
+Florence Nightingale	Florence Nightingale
+Florida	Florida
+Florida	Kategori:Florida
+Flour	Mjöl
+Flower	Blomma
+Flowering plant	Gömfröväxter
+Fluid	Fluid
+Fluid mechanics	Strömningsmekanik
+Fluorite	Fluorit
+Flute	Flöjt
+Fly	Tvåvingar
+Fog	Dimma
+Folic acid	Folsyra
+Folk music	Folkmusik
+Folklore	Folklore
+Folklore	Kategori:Folkminnen
+Food	Mat
+Food additive	Livsmedelstillsats
+Food and Agriculture Organization	FAO
+Food chain	Näringskedja
+Foot	Fot
+Foot (unit of length)	Fot (enhet)
+Football (soccer)	Fotboll
+Football (soccer)	Kategori:Fotboll
+Football (soccer) clubs	Kategori:Fotbollsklubbar
+Football (soccer) managers	Kategori:Fotbollstränare
+Football (soccer) players	Kategori:Fotbollsspelare
+Football (soccer) venues	Kategori:Fotbollsanläggningar
+Forbidden City	Förbjudna staden
+Force	Kraft
+Forest	Skog
+Forestry	Skogsbruk
+Fork	Gaffel
+Form of government	Statsskick
+Formaldehyde	Formaldehyd
+Formic acid	Myrsyra
+Fornax	Ugnen
+Fort Worth	Fort Worth
+Fortification	Fästning
+Fortran	Fortran
+Fossil	Fossil
+Fossil fuel	Fossila bränslen
+Foucault pendulum	Foucaults pendel
+Fountain	Fontän
+Fourier series	Fourierserie
+Fox	Rävar
+Fractal	Fraktal
+Fraction (mathematics)	Bråk
+France	Frankrike
+France	Kategori:Frankrike
+Francis Bacon	Francis Bacon
+Francis Crick	Francis Crick
+Francis Drake	Francis Drake
+Francis Ford Coppola	Francis Ford Coppola
+Francis II	Frans II (tysk-romersk kejsare)
+Francis Poulenc	Francis Poulenc
+Francis of Assisi	Franciskus av Assisi
+Franciscan	Franciskanorden
+Francisco Franco	Francisco Franco
+Francisco Goya	Francisco de Goya
+Francisco Pizarro	Francisco Pizarro
+Francium	Francium
+Franco-Prussian War	Fransk-tyska kriget
+Frank Lloyd Wright	Frank Lloyd Wright
+Frank Sinatra	Frank Sinatra
+Frankfort	Frankfort, Kentucky
+Frankfurt	Frankfurt am Main
+Frankfurt	Kategori:Frankfurt am Main
+Frankfurt (Oder)	Frankfurt (Oder)
+Frankfurt (disambiguation)	Frankfurt (olika betydelser)
+Franklin Pierce	Franklin Pierce
+Frans Hals	Frans Hals
+Franz Kafka	Franz Kafka
+Franz Liszt	Franz Liszt
+Franz Schubert	Franz Schubert
+Fred Astaire	Fred Astaire
+Frederick I	Fredrik I Barbarossa
+Frederick II	Fredrik II (tysk-romersk kejsare)
+Frederick Sanger	Frederick Sanger
+Frederick Soddy	Frederick Soddy
+Fredericton	Fredericton
+Free State	Fristatsprovinsen
+Free will	Fri vilja
+Freedom (philosophy)	Frihet
+Freedom of speech	Yttrandefrihet
+Freemasonry	Frimureri
+Freetown	Freetown
+Freeware	Gratisprogram
+French Polynesia	Franska Polynesien
+French Polynesia	Kategori:Franska Polynesien
+French Revolution	Franska revolutionen
+French Revolution	Kategori:Franska revolutionen
+French people	Kategori:Fransmän
+Frequency	Frekvens
+Fresco	Fresk
+Freshwater	Sötvatten
+Fresno	Fresno
+Freyja	Fröja
+Freyr	Frö (mytologi)
+Friction	Friktion
+Friday	Fredag
+Fridtjof Nansen	Fridtjof Nansen
+Friedrich Engels	Friedrich Engels
+Friesland	Friesland
+Frigate	Fregatt
+Frigg	Frigg
+Fritz Haber	Fritz Haber
+Friuli-Venezia Giulia	Friuli-Venezia Giulia
+Frog	Stjärtlösa groddjur
+Fructose	Fruktos
+Fruit	Frukt
+Fruit	Kategori:Frukter
+Fucking	Fucking
+Fuel	Bränsle
+Fuel cell	Bränslecell
+Fugue	Fuga
+Fukuoka	Fukuoka
+Full moon	Fullmåne
+Funafuti	Funafuti
+Function (mathematics)	Funktion
+Fundamental	Kategori:Topp
+Fundamental interaction	Fundamental växelverkan
+Fundamentalism	Fundamentalism
+Fungi	Kategori:Svampar
+Fungus	Svampar
+Funicular	Bergbana
+Funk	Funk
+Furniture	Kategori:Möbler
+Furniture	Möbler
+Future	Framtid
+Futurism (art)	Futurism
+Fuzzy logic	Suddig logik
+Fyodor Dostoevsky	Fjodor Dostojevskij
+G	G
+GIMP	GIMP
+GNOME	GNOME
+GNU	GNU
+Gabon	Gabon
+Gabon	Kategori:Gabon
+Gaborone	Gaborone
+Gabriel	Gabriel
+Gabriel Lippmann	Gabriel Lippmann
+Gadolinium	Gadolinium
+Gaetano Donizetti	Gaetano Donizetti
+Gaia (mythology)	Gaia
+Galatia	Galatien
+Galaxy	Galax
+Galen	Galenos
+Galena	Blyglans
+Galicia (Central Europe)	Galizien
+Galicia (Spain)	Galicien
+Galilee	Galileen
+Galileo (spacecraft)	Galileo (rymdsond)
+Galileo Galilei	Galileo Galilei
+Gallbladder	Gallblåsa
+Galley	Galär
+Galliformes	Hönsfåglar
+Galliformes	Kategori:Hönsfåglar
+Gallium	Gallium
+Gallon	Gallon
+Galway	Galway
+Gamal Abdel Nasser	Gamal Abdel Nasser
+Gambling	Hasardspel
+Game	Spel
+Game theory	Spelteori
+Gamma	Gamma
+Gamma ray	Gammastrålning
+Ganesha	Ganesha
+Ganges	Ganges
+Ganja	Gəncə
+Gansu	Gansu
+Ganymede	Ganymedes
+Ganymede (moon)	Ganymedes (måne)
+Gap	Gap
+Garden	Trädgård
+Garden of Eden	Eden
+Garfield	Katten Gustaf
+Gargoyle	Vattenkastare
+Garlic	Vitlök
+Garnet	Granater
+Garonne	Garonne
+Gas	Gas
+Gas constant	Allmänna gaskonstanten
+Gas giant	Gasjätte
+Gasoline	Bensin
+Gastrointestinal tract	Mag-tarmkanalen
+Gastropoda	Snäckor
+Gaul	Gallien
+Gautama Buddha	Buddha
+Gay	Gay
+Gaza	Gaza
+Gaza Strip	Gazaremsan
+Gear	Kugghjul
+Geb	Geb
+Geisha	Geisha
+Gemini (constellation)	Tvillingarna (stjärnbild)
+Gemstone	Ädelsten
+Gene	Gen
+Genealogy	Genealogi
+Genealogy	Kategori:Genealogi
+General Agreement on Tariffs and Trade	General Agreement on Tariffs and Trade
+General Officer	General
+General relativity	Allmänna relativitetsteorin
+Genesis	Första Moseboken
+Genetic code	Genetiska koden
+Genetic engineering	Genetisk modifiering
+Genetics	Genetik
+Genetics	Kategori:Genetik
+Geneva	Genève
+Genie	Djinner
+Genitive case	Genitiv
+Genoa	Genua
+Genocide	Folkmord
+Genome	Genom
+Genotype	Genotyp
+Genus	Släkte
+Geodesy	Geodesi
+Geodesy	Kategori:Geodesi
+Geoffrey Chaucer	Geoffrey Chaucer
+Geography	Geografi
+Geography	Kategori:Geografi
+Geography	Portal:Geografi
+Geology	Kategori:Geologi
+Geology	Geologi
+Geometric progression	Geometrisk funktion
+Geometry	Geometri
+Geometry	Kategori:Geometri
+Geomorphology	Geomorfologi
+Geomorphology	Kategori:Geomorfologi
+Geophysics	Geofysik
+Geophysics	Kategori:Geofysik
+Geopolitics	Geopolitik
+Georg Philipp Telemann	Georg Philipp Telemann
+Georg Wilhelm Friedrich Hegel	Friedrich Hegel
+George Berkeley	George Berkeley
+George Bernard Shaw	George Bernard Shaw
+George Boole	George Boole
+George Bush	George Bush
+George Frideric Handel	Georg Friedrich Händel
+George Gershwin	George Gershwin
+George Harrison	George Harrison
+George Lucas	George Lucas
+George Marshall	George C. Marshall
+George Orwell	George Orwell
+George Paget Thomson	George Paget Thomson
+George Sand	George Sand
+George Stephenson	George Stephenson
+George W. Bush	George W. Bush
+George Washington	George Washington
+Georges Bizet	Georges Bizet
+Georges Braque	Georges Braque
+Georges Clemenceau	Georges Clemenceau
+Georges Simenon	Georges Simenon
+Georgetown	Georgetown, Guyana
+Georgia (U.S. state)	Georgia
+Georgia (U.S. state)	Kategori:Georgia
+Georgia (country)	Georgien
+Georgia (country)	Kategori:Georgien
+Gerald Ford	Gerald Ford
+Gerard Kuiper	Gerard Kuiper
+German Shepherd Dog	Schäferhund
+German language	Tyska
+German language	Kategori:Tyska
+German mark	D-mark
+Germanium	Germanium
+Germany	Tyskland
+Germany	Kategori:Tyskland
+Geronimo	Geronimo
+Gestapo	Gestapo
+Geyser	Gejser
+Ghana	Ghana
+Ghana	Kategori:Ghana
+Ghent	Gent
+Ghetto	Getto
+Ghost	Spöke
+Giacomo Puccini	Giacomo Puccini
+Giant Panda	Jättepanda
+Gibbon	Gibboner
+Gibraltar	Gibraltar
+Gibraltar	Kategori:Gibraltar
+Gilgamesh	Gilgamesh
+Ginger	Ingefära
+Ginkgo	Ginkgo
+Giordano Bruno	Giordano Bruno
+Giorgio Vasari	Giorgio Vasari
+Giorgio de Chirico	Giorgio de Chirico
+Giotto di Bondone	Giotto di Bondone
+Giovanni Boccaccio	Giovanni Boccaccio
+Giraffe	Giraff
+Giraffidae	Giraffdjur
+Girolamo Savonarola	Girolamo Savonarola
+Gironde	Gironde (departement)
+Giuseppe Garibaldi	Giuseppe Garibaldi
+Giuseppe Verdi	Giuseppe Verdi
+Giza	Giza
+Glacier	Glaciär
+Gladiator	Gladiator
+Gland	Körtel
+Glasgow	Glasgow
+Glasnost	Glasnost
+Glass	Glas
+Glasses	Glasögon
+Glider	Glidflygplan
+Global Positioning System	GPS
+Global warming	Global uppvärmning
+Globalization	Globalisering
+Globe artichoke	Kronärtskocka
+Gloucestershire	Gloucestershire
+Glucagon	Glukagon
+Glucose	Glukos
+Gluon	Gluon
+Glutamic acid	Glutaminsyra
+Glycerol	Propantriol
+Glycine	Glycin
+Glycogen	Glykogen
+Glycolysis	Glykolys
+Gnathostomata	Käkförsedda ryggradsdjur
+Gneiss	Gnejs
+Gnosticism	Gnosticism
+Go (board game)	Go (brädspel)
+Goa	Goa
+Goalkeeper	Målvakt
+Goat	Tamget
+Gobi Desert	Gobiöknen
+God	Gud
+Golan Heights	Golanhöjderna
+Gold	Guld
+Golda Meir	Golda Meir
+Golden Eagle	Kungsörn
+Golden Gate Bridge	Golden Gate-bron
+Golden Horde	Gyllene horden
+Golden Retriever	Golden retriever
+Golf	Golf
+Golf	Kategori:Golf
+Golgi apparatus	Golgiapparaten
+Gomel	Homel
+Good Friday	Långfredagen
+Google	Google
+Google	Kategori:Google
+Googol	Googol
+Gorgon	Gorgoner
+Gorilla	Gorillor
+Goshawk	Duvhök
+Gospel	Evangelium
+Gospel of Luke	Lukasevangeliet
+Gothenburg	Göteborg
+Gothic	Gotisk
+Gothic architecture	Gotisk arkitektur
+Gotthold Ephraim Lessing	Gotthold Ephraim Lessing
+Gottlieb Daimler	Gottlieb Daimler
+Gout	Gikt
+Government	Regering
+Grace Kelly	Grace Kelly
+Gradient	Gradient
+Graffiti	Graffiti
+Graham Greene	Graham Greene
+Gram	Gram
+Grammar	Grammatik
+Grammar	Kategori:Grammatik
+Grammatical gender	Grammatiskt genus
+Granada	Granada (stad)
+Grand Canyon	Grand Canyon
+Grand Slam (tennis)	Tennisens Grand Slam
+Grandmaster (chess)	Schacktitlar
+Granite	Granit
+Grapefruit	Grapefrukt
+Graphic design	Kategori:Grafisk teknik
+Graphic design	Grafisk design
+Graphical user interface	Grafiskt användargränssnitt
+Graphite	Grafit
+Gravitation	Gravitation
+Gravitational constant	Gravitationskonstant
+Graviton	Graviton
+Gray (unit)	Gray
+Gray Wolf	Varg
+Graz	Graz
+Great Barrier Reef	Stora barriärrevet
+Great Britain	Storbritannien (ö)
+Great Crested Grebe	Skäggdopping
+Great Depression	Den stora depressionen
+Great Lakes	Stora sjöarna
+Great Rift Valley	Östafrikanska gravsänkesystemet
+Great Wall of China	Kinesiska muren
+Great white shark	Vithaj
+Greater Antilles	Stora Antillerna
+Greater London	Storlondon
+Greatest common divisor	Största gemensamma delare
+Grebe	Doppingar
+Greece	Grekland
+Greece	Kategori:Grekland
+Greek alphabet	Grekiska alfabetet
+Greek alphabet	Kategori:Grekiska alfabetet
+Greek fire	Grekisk eld
+Greek mythology	Grekisk mytologi
+Greek mythology	Kategori:Grekisk mytologi
+Green	Grön
+Greenhouse	Växthus
+Greenhouse effect	Växthuseffekten
+Greenhouse gas	Växthusgas
+Greenland	Grönland
+Greenland	Kategori:Grönland
+Greenland Sea	Grönlandshavet
+Greenpeace	Greenpeace
+Greenwich	Greenwich
+Greenwich Mean Time	Greenwich Mean Time
+Gregor Mendel	Gregor Mendel
+Gregorian calendar	Gregorianska kalendern
+Grenada	Kategori:Grenada
+Grenoble	Grenoble
+Greta Garbo	Greta Garbo
+Grey	Grå
+Greylag Goose	Grågås
+Griffin	Grip
+Griffon Vulture	Gåsgam
+Group	Grupp
+Group (mathematics)	Grupp (matematik)
+Group (periodic table)	Periodiska systemets grupper
+Group theory	Grupp (matematik)
+Grover Cleveland	Grover Cleveland
+Grozny	Groznyj
+Gruiformes	Tran- och rallfåglar
+Grus (constellation)	Tranan
+Guadalajara	Guadalajara, Mexiko
+Guadeloupe	Guadeloupe
+Guam	Guam
+Guangdong	Guangdong
+Guangzhou	Guangzhou
+Guanine	Guanin
+Guano	Guano
+Guatemala	Kategori:Guatemala
+Guatemala City	Guatemala City
+Guayaquil	Guayaquil
+Guernsey	Guernsey
+Guglielmo Marconi	Guglielmo Marconi
+Guild	Skråväsen
+Guillaume Apollinaire	Guillaume Apollinaire
+Guillotine	Giljotin
+Guinea	Guinea
+Guinea	Kategori:Guinea
+Guinea pig	Marsvin
+Guinea-Bissau	Guinea-Bissau
+Guinea-Bissau	Kategori:Guinea-Bissau
+Guitar	Gitarr
+Gujarat	Gujarat
+Gulag	Gulag
+Gulf Stream	Golfströmmen
+Gulf War	Kuwaitkriget
+Gulf of Aden	Adenviken
+Gulf of Aqaba	Akabaviken
+Gulf of Bothnia	Bottniska viken
+Gulf of Finland	Finska viken
+Gulf of Guinea	Guineabukten
+Gulf of Mexico	Mexikanska golfen
+Gulf of Oman	Omanbukten
+Gulf of Riga	Rigabukten
+Gull	Måsar och trutar
+Gunpowder	Krut
+Gunpowder Plot	Krutkonspirationen 1604
+Guppy	Guppy
+Gustav Klimt	Gustav Klimt
+Gustav Ludwig Hertz	Gustav Hertz
+Gustav Mahler	Gustav Mahler
+Gustave Courbet	Gustave Courbet
+Gustave Flaubert	Gustave Flaubert
+Guy Fawkes	Guy Fawkes
+Guy de Maupassant	Guy de Maupassant
+Guyana	Kategori:Guyana
+Gymnastics	Gymnastik
+Gymnosperm	Nakenfröiga växter
+Gynaecology	Gynekologi
+Gypsum	Gips
+Gyroscope	Gyroskop
+H	H
+H. G. Wells	H.G. Wells
+HIV	HIV
+HTML	HTML
+Habitat	Habitat
+Hacker	Hackare
+Hadean	Hadeikum
+Hades	Hades
+Hadith	Hadith
+Hadrian	Hadrianus
+Hadrian's Wall	Hadrianus mur
+Hadron	Hadron
+Haemophilia	Blödarsjuka
+Hafnium	Hafnium
+Hagia Sophia	Hagia Sofia
+Haifa	Haifa
+Haiku	Haiku
+Hail	Hagel
+Hail Mary	Ave Maria
+Hair	Hår
+Haiti	Haiti
+Haiti	Kategori:Haiti
+Hajj	Hajj
+Halal	Halal
+Halberd	Hillebard
+Half-life	Halveringstid
+Halle	Halle an der Saale
+Halloween	Halloween
+Hallucination	Hallucination
+Halogen	Halogen
+Hamas	Hamas
+Hamburg	Hamburg
+Hamburg	Kategori:Hamburg
+Hamburger	Hamburgare
+Hamlet	Hamlet
+Hammer	Hammare (handverktyg)
+Hammer and sickle	Hammaren och skäran
+Hammurabi	Hammurabi
+Hampshire	Hampshire
+Hamster	Hamstrar
+Han Dynasty	Handynastin
+Hand	Hand
+Hand grenade	Handgranat
+Handgun	Pistol
+Hanging	Hängning
+Hanging Gardens of Babylon	Babylons hängande trädgårdar
+Hannah Arendt	Hannah Arendt
+Hannibal	Hannibal
+Hanoi	Hanoi
+Hanover	Hannover
+Hans Bethe	Hans Bethe
+Hans Christian Andersen	H.C. Andersen
+Hanseatic League	Hansan
+Hanukkah	Chanukka
+Hanuman	Hanuman
+Harare	Harare
+Hardness	Hårdhet
+Harem	Harem
+Harlem	Harlem
+Harmonica	Munspel
+Harmony	Harmoni
+Harold Pinter	Harold Pinter
+Harp	Harpa
+Harpsichord	Cembalo
+Harpy	Harpyja
+Harriet Beecher Stowe	Harriet Beecher Stowe
+Harriet Tubman	Harriet Tubman
+Harrisburg	Harrisburg
+Harry Houdini	Harry Houdini
+Hartford	Hartford
+Hassium	Hassium
+Hatred	Hat
+Haute-Normandie	Haute-Normandie
+Havana	Havanna
+Hawaii	Hawaii
+Hawaii	Kategori:Hawaii
+Hazel	Hassel
+Head	Huvud
+Head of state	Statschef
+Health	Hälsa
+Health	Kategori:Hälsa
+Heart	Hjärta
+Heat	Värmemängd
+Heat engine	Värmemaskin
+Heaven	Himmelriket
+Heavy metal	Kategori:Metal
+Heavy metal music	Heavy metal
+Heavy water	Tungt vatten
+Hebe (mythology)	Hebe
+Hebei	Hebei
+Hebrew alphabet	Hebreiska alfabetet
+Hebrew calendar	Judiska kalendern
+Hebrides	Hebriderna
+Hecate	Hekate
+Hectare	Hektar
+Hector	Hektor
+Hector Berlioz	Hector Berlioz
+Hedgehog	Igelkottar
+Hedonism	Hedonism
+Heimdall	Heimdall
+Heinrich Hertz	Heinrich Hertz
+Heinrich Himmler	Heinrich Himmler
+Heinrich Schliemann	Heinrich Schliemann
+Hel (being)	Hel
+Helen	Helena (mytologisk gestalt)
+Helen Keller	Helen Keller
+Helena	Helena, Montana
+Helicopter	Helikopter
+Helios	Helios
+Helium	Helium
+Hell	Helvete
+Helmut Schmidt	Helmut Schmidt
+Helsinki	Helsingfors
+Hematite	Hematit
+Hematology	Hematologi
+Hemoglobin	Hemoglobin
+Hemorrhoid	Hemorrojder
+Henri Becquerel	Henri Becquerel
+Henri Bergson	Henri Bergson
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henry (unit)	Henry (enhet)
+Henry Cavendish	Henry Cavendish
+Henry David Thoreau	Henry David Thoreau
+Henry Fonda	Henry Fonda
+Henry Ford	Henry Ford
+Henry James	Henry James
+Henry Kissinger	Henry Kissinger
+Henry Miller	Henry Miller
+Henry Moore	Henry Moore
+Henry Purcell	Henry Purcell
+Hepatitis	Hepatit
+Hephaestus	Hefaistos
+Hera	Hera
+Heracles	Herakles
+Heraclitus	Herakleitos
+Heraldry	Heraldik
+Heraldry	Kategori:Heraldik
+Herat	Herat
+Herbert Hoover	Herbert Hoover
+Herbert Marcuse	Herbert Marcuse
+Herbert Spencer	Herbert Spencer
+Hercules	Herakles
+Hercules (constellation)	Herkules (stjärnbild)
+Heresy	Kätteri
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermann Minkowski	Hermann Minkowski
+Hermann von Helmholtz	Hermann von Helmholtz
+Hermaphrodite	Hermafrodit
+Hermeneutics	Hermeneutik
+Hermes	Hermes
+Hero	Hjälte
+Hero of Alexandria	Heron
+Herod the Great	Herodes den store
+Herodotus	Herodotos
+Heroin	Heroin
+Heron	Hägrar
+Herring Gull	Gråtrut
+Hertfordshire	Hertfordshire
+Hertz	Hertz
+Hesiod	Hesiodos
+Hesperides	Hesperiderna
+Hesse	Hessen
+Hesse	Kategori:Hessen
+Hestia	Hestia
+Heterosexuality	Heterosexualitet
+Heterotroph	Heterotrofi
+Hexadecimal	Hexadecimala talsystemet
+Hexagon	Hexagon
+Hezbollah	Hizbollah
+Hibernation	Vinterdvala
+Hideki Yukawa	Hideki Yukawa
+Hieronymus Bosch	Hieronymus Bosch
+Hilbert space	Hilbertrum
+Himalayas	Himalaya
+Hindu Kush	Hindukush
+Hinduism	Hinduism
+Hinduism	Kategori:Hinduism
+Hipparchus	Hipparchos
+Hippie	Hippie
+Hippocrates	Hippokrates
+Hippocratic Oath	Hippokrates ed
+Hippopotamus	Flodhäst
+Hirohito	Hirohito
+Hiroshima	Hiroshima
+Hispaniola	Hispaniola
+Histidine	Histidin
+Histology	Histologi
+Histology	Kategori:Histologi
+Histone	Histon
+Historiography	Historiografi
+History	Historia
+History	Kategori:Historia
+History	Portal:Historia
+Ho Chi Minh	Ho Chi Minh
+Ho Chi Minh City	Ho Chi Minh-staden
+Hobart	Hobart
+Hobbit	Hober
+Hobby	Hobby
+Hokusai	Hokusai
+Holiday	Helgdag
+Hollywood	Hollywood
+Holmium	Holmium
+Holocene	Holocen
+Holography	Holografi
+Holy Grail	Graal
+Holy Roman Empire	Tysk-romerska riket
+Holy Roman Empire	Kategori:Tysk-romerska riket
+Holy Spirit	Den Helige Ande
+Homeopathy	Homeopati
+Homeostasis	Homeostas
+Homer	Homeros
+Hominidae	Hominid/hominin
+Homo (genus)	Människor (släkte)
+Homo erectus	Homo erectus
+Homo habilis	Homo habilis
+Homonym	Homonym
+Homosexuality	Homosexualitet
+Honduras	Honduras
+Honduras	Kategori:Honduras
+Honey	Honung
+Honey Buzzard	Bivråk
+Hong Kong	Hongkong
+Hong Kong	Kategori:Hongkong
+Honiara	Honiara
+Honolulu	Honolulu
+Hookah	Vattenpipa
+Hooke's law	Hookes lag
+Hoopoe	Härfågel
+Horace	Horatius
+Horatio Nelson	Horatio Nelson
+Horizon	Horisont
+Hormone	Hormon
+Horn (anatomy)	Horn (utskott)
+Horn (instrument)	Valthorn
+Horn of Africa	Afrikas horn
+Horoscope	Horoskop
+Horse	Häst
+Horse racing	Hästkapplöpning
+Horsepower	Hästkraft
+Horus	Horus
+Hosni Mubarak	Hosni Mubarak
+Hospital	Sjukhus
+Hotel	Hotell
+Hour	Timme
+Hourglass	Timglas
+House	Hus
+House (TV series)	House (TV-serie)
+House Mouse	Husmus
+House Sparrow	Gråsparv
+Houston	Houston
+Hovercraft	Svävare
+Howard Carter (archaeologist)	Howard Carter
+Hubble's law	Hubbles lag
+Hudson Bay	Hudson Bay
+Hudson River	Hudsonfloden
+Hugh Capet	Hugo Capet
+Hugo Grotius	Hugo Grotius
+Huguenot	Hugenotter
+Human	Människa
+Humanism	Humanism
+Humanities	Kategori:Humaniora
+Humerus	Överarmsben
+Humidity	Luftfuktighet
+Hummingbird	Kolibrier
+Humor	Kategori:Humor
+Humour	Humor
+Humpback Whale	Knölval
+Humphrey Bogart	Humphrey Bogart
+Humus	Humus
+Hunan	Hunan
+Hundred Years' War	Hundraårskriget
+Hungary	Ungern
+Hungary	Kategori:Ungern
+Hunger	Hunger
+Hunting	Jakt
+Hutu	Hutuer
+Hybrid	Hybrid (biologi)
+Hyderabad	Hyderabad
+Hydra (constellation)	Vattenormen
+Hydrocarbon	Kolväte
+Hydrochloric acid	Saltsyra
+Hydroelectricity	Vattenkraft
+Hydrogen	Väte
+Hydrogen bond	Vätebindning
+Hydrogen cyanide	Vätecyanid
+Hydrogen peroxide	Väteperoxid
+Hydrology	Hydrologi
+Hydrology	Kategori:Hydrologi
+Hydrolysis	Hydrolys
+Hydrosphere	Hydrosfären
+Hydroxide	Hydroxidjon
+Hydrus	Lilla vattenormen
+Hyena	Hyenor
+Hygiene	Kategori:Hygien
+Hymen	Hymen
+Hymenoptera	Kategori:Steklar
+Hymenoptera	Steklar
+Hymn	Hymn
+Hyperbola	Hyperbel
+Hyperbole	Hyperbol
+Hyperion (moon)	Hyperion (måne)
+Hyperion (mythology)	Hyperion
+Hypertension	Högt blodtryck
+Hypertext	Hypertext
+Hypertext Transfer Protocol	HTTP
+Hypnos	Hypnos (gud)
+Hypnosis	Hypnos
+Hypothalamus	Hypotalamus
+Hypothesis	Hypotes
+I	I
+I. M. Pei	I.M. Pei
+IPod	IPod
+Ian Fleming	Ian Fleming
+Iapetus (moon)	Japetus
+Iapetus (mythology)	Iapetos
+Iberian Peninsula	Iberiska halvön
+Ibuprofen	Ibuprofen
+Ice	Is
+Ice age	Istid
+Ice cream	Glass
+Ice hockey	Ishockey
+Ice hockey	Kategori:Ishockey
+Iceberg	Isberg
+Iceland	Island
+Iceland	Kategori:Island
+Ichthyology	Iktyologi
+Icon	Ikon (religion)
+Iconoclasm	Ikonoklasm
+Idaho	Idaho
+Idaho	Kategori:Idaho
+Ideal gas	Ideal gas
+Idealism	Idealism
+Identity element	Neutralt element
+Identity matrix	Enhetsmatris
+Ideology	Ideologi
+Ido	Ido
+Igloo	Iglo
+Ignatius of Loyola	Ignatius av Loyola
+Igneous rock	Magmatisk bergart
+Igor Stravinsky	Igor Stravinskij
+Iguazu Falls	Iguassufallen
+Iliad	Iliaden
+Illinois	Illinois
+Illinois	Kategori:Illinois
+Illyria	Illyrien
+Image scanner	Bildläsare
+Imam	Imam
+Immanuel Kant	Immanuel Kant
+Immune system	Immunförsvar
+Immunology	Immunologi
+Immunology	Kategori:Immunologi
+Imperialism	Imperialism
+Impressionism	Impressionism (måleri)
+Incest	Incest
+Inch	Tum
+Incheon	Inchon
+Inclined plane	Lutande planet
+Independence	Självständighet
+India	Indien
+India	Kategori:Indien
+Indian Ocean	Indiska oceanen
+Indian Ocean	Kategori:Indiska oceanen
+Indiana	Indiana
+Indiana	Kategori:Indiana
+Indianapolis	Indianapolis
+Indira Gandhi	Indira Gandhi
+Indium	Indium
+Indochina	Indokina
+Indonesia	Indonesien
+Indonesia	Kategori:Indonesien
+Indra	Indra
+Inductance	Induktans
+Inductive reasoning	Induktion (filosofi)
+Inductor	Spole
+Indulgence	Avlatsbrev
+Indus (constellation)	Indianen
+Indus River	Indus
+Industrial Revolution	Industriella revolutionen
+Industry	Industri
+Industry	Kategori:Industri
+Inequality	Olikhet
+Inertia	Tröghet
+Infantry	Infanteri
+Infectious disease	Infektionssjukdom
+Infinitive	Infinitiv
+Infinity	Oändlighet
+Inflammation	Inflammation
+Inflation	Inflation
+Influenza	Influensa
+Information	Information
+Information technology	Informationsteknik
+Information theory	Informationsteori
+Infrared	Infraröd strålning
+Infrastructure	Infrastruktur
+Ingmar Bergman	Ingmar Bergman
+Ingrid Bergman	Ingrid Bergman
+Inner Mongolia	Inre Mongoliet
+Innovation	Innovation
+Innsbruck	Innsbruck
+Inorganic chemistry	Oorganisk kemi
+Inorganic chemistry	Kategori:Oorganisk kemi
+Inquisition	Inkvisitionen
+Insect	Insekter
+Insectivora	Äkta insektsätare
+Insulin	Insulin
+Insurance	Försäkring
+Integer	Heltal
+Integral	Integral
+Integrated circuit	Integrerad krets
+Intellectual property	Immaterialrätt
+Intelligence	Intelligens
+Intelligence quotient	IQ
+Intercontinental ballistic missile	Interkontinental ballistisk robot
+Interest	Ränta
+Interjection	Interjektion
+Interlingua	Interlingua
+International Atomic Energy Agency	IAEA
+International Civil Aviation Organization	International Civil Aviation Organization
+International Court of Justice	Internationella domstolen i Haag
+International Date Line	Datumgränsen
+International Labour Organization	International Labour Organization
+International Monetary Fund	Internationella valutafonden
+International System of Units	SI
+International law	Kategori:Internationell rätt
+International organization	Mellanstatlig organisation
+Internet	Internet
+Internet	Kategori:Internet
+Internet Explorer	Internet Explorer
+Internment	Koncentrationsläger
+Interpreter (computing)	Interpretator
+Intersection (set theory)	Snitt
+Interval (music)	Intervall (musik)
+Intranet	Intranät
+Invention	Uppfinning
+Invertebrate	Ryggradslösa djur
+Io (moon)	Io (måne)
+Io (mythology)	Io
+Iodine	Jod
+Ion	Jon
+Ionia	Jonien
+Ionian Sea	Joniska havet
+Ionic bond	Jonbindning
+Ionosphere	Jonosfär
+Iota	Jota
+Iowa	Iowa
+Iowa	Kategori:Iowa
+Iran	Iran
+Iran	Kategori:Iran
+Iran-Iraq War	Iran-Irak-kriget
+Iraq	Irak
+Iraq	Kategori:Irak
+Ireland	Kategori:Irland
+Irenaeus	Irenaeus
+Iridium	Iridium
+Iris (anatomy)	Regnbågshinna
+Iris (mythology)	Iris (mytologi)
+Irish Republican Army	Irländska republikanska armén
+Irish Sea	Irländska sjön
+Irish people	Kategori:Irländare
+Iron	Järn
+Iron Age	Järnåldern
+Iron Curtain	Järnridån
+Iron Maiden	Iron Maiden
+Irony	Ironi
+Irrational number	Irrationellt tal
+Irredentism	Irredentism
+Irtysh River	Irtysj
+Isaac	Isak (Bibeln)
+Isaac Asimov	Isaac Asimov
+Isaac Bashevis Singer	Isaac Bashevis Singer
+Isaac Newton	Isaac Newton
+Isadora Duncan	Isadora Duncan
+Ishmael	Ismael
+Isis	Isis
+Islam	Islam
+Islam	Kategori:Islam
+Islamabad	Islamabad
+Islamic calendar	Muslimska kalendern
+Island	Ö (landområde)
+Isle of Man	Isle of Man
+Isle of Man	Kategori:Isle of Man
+Isle of Wight	Isle of Wight
+Isomer	Isomeri
+Isoroku Yamamoto	Isoroku Yamamoto
+Isotope	Isotop
+Israel	Israel
+Israel	Kategori:Israel
+Istanbul	İstanbul
+Istanbul	Kategori:Istanbul
+Isthmus	Näs
+Isthmus of Panama	Panamanäset
+Italian Peninsula	Apenninska halvön
+Italo Calvino	Italo Calvino
+Italy	Italien
+Italy	Kategori:Italien
+Ithaca	Ithaka
+Ivan Lendl	Ivan Lendl
+Ivan Pavlov	Ivan Pavlov
+Ivan Turgenev	Ivan Turgenjev
+Ivory	Elfenben
+Ivy League	Ivy League
+Iwo Jima	Iwo To
+J	J
+J. D. Salinger	J.D. Salinger
+J. M. Barrie	J.M. Barrie
+Jack Kerouac	Jack Kerouac
+Jack Lemmon	Jack Lemmon
+Jack London	Jack London
+Jack the Ripper	Jack Uppskäraren
+Jackdaw	Kaja
+Jackson	Jackson, Mississippi
+Jackson Pollock	Jackson Pollock
+Jacksonville	Jacksonville, Florida
+Jacob	Jakob (patriark)
+Jacques Cartier	Jacques Cartier
+Jacques Derrida	Jacques Derrida
+Jacques Offenbach	Jacques Offenbach
+Jade	Jade
+Jaguar	Jaguar
+Jainism	Jainism
+Jakarta	Jakarta
+Jalalabad	Jalalabad
+Jamaica	Jamaica
+Jamaica	Kategori:Jamaica
+James	Jakob (apostel)
+James A. Garfield	James Garfield
+James Bond	James Bond
+James Buchanan	James Buchanan
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Franck	James Franck
+James Joyce	James Joyce
+James K. Polk	James K. Polk
+James Madison	James Madison
+James Monroe	James Monroe
+James Naismith	James Naismith
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+Jammu and Kashmir	Jammu och Kashmir
+Jan Hus	Jan Hus
+Jan van Eyck	Jan van Eyck
+Jane Austen	Jane Austen
+Jane Fonda	Jane Fonda
+Jane Seymour	Jane Seymour
+Janis Joplin	Janis Joplin
+Janissary	Janitsjarer
+January	Januari
+January 1	1 januari
+January 19	19 januari
+January 20	20 januari
+January 6	6 januari
+Janus (moon)	Janus (måne)
+Janus (mythology)	Janus
+Japan	Japan
+Japan	Kategori:Japan
+Jason	Jason
+Jaundice	Gulsot
+Java	Java
+Java (disambiguation)	Java (olika betydelser)
+Java (programming language)	Java (programmeringsspråk)
+Jawaharlal Nehru	Jawaharlal Nehru
+Jazz	Jazz
+Jazz	Kategori:Jazz
+Jean Auguste Dominique Ingres	Jean Auguste Dominique Ingres
+Jean Cocteau	Jean Cocteau
+Jean Piaget	Jean Piaget
+Jean Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Paul Sartre	Jean-Paul Sartre
+Jean-Philippe Rameau	Jean-Philippe Rameau
+Jeddah	Jidda
+Jefferson City	Jefferson City
+Jefferson Davis	Jefferson Davis
+Jehovah's Witnesses	Jehovas vittnen
+Jellyfish	Maneter
+Jena	Jena
+Jeremy Bentham	Jeremy Bentham
+Jerez de la Frontera	Jerez de la Frontera
+Jericho	Jeriko
+Jerome	Hieronymus
+Jersey	Jersey
+Jerusalem	Jerusalem
+Jerusalem	Kategori:Jerusalem
+Jesus	Jesus
+Jet engine	Jetmotor
+Jew	Judar
+Jew's harp	Mungiga
+Jihad	Jihad
+Jimi Hendrix	Jimi Hendrix
+Jimmy Carter	Jimmy Carter
+Joan of Arc	Jeanne d'Arc
+Johann Bernoulli	Johann Bernoulli
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Diderik van der Waals	Johannes Diderik van der Waals
+Johannes Gutenberg	Johannes Gutenberg
+Johannes Kepler	Johannes Kepler
+Johannes Vilhelm Jensen	Johannes V. Jensen
+Johannesburg	Johannesburg
+John Adams	John Adams
+John Bardeen	John Bardeen
+John Cage	John Cage
+John Calvin	Jean Calvin
+John Chrysostom	Johannes Chrysostomos
+John Dalton	John Dalton
+John Dewey	John Dewey
+John Galsworthy	John Galsworthy
+John Herschel	John Herschel
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Major	John Major
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John Napier	John Napier
+John Quincy Adams	John Quincy Adams
+John Ruskin	John Ruskin
+John Steinbeck	John Steinbeck
+John Stuart Mill	John Stuart Mill
+John Tyler	John Tyler
+John Wayne	John Wayne
+John Wycliffe	John Wycliffe
+John the Baptist	Johannes döparen
+John von Neumann	John von Neumann
+Johnny Cash	Johnny Cash
+Joint	Led
+Jonathan Swift	Jonathan Swift
+Jordan	Jordanien
+Jordan	Kategori:Jordanien
+Jordan River	Jordan
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Conrad	Joseph Conrad
+Joseph Goebbels	Joseph Goebbels
+Joseph Haydn	Joseph Haydn
+Joseph Louis Gay-Lussac	Louis Joseph Gay-Lussac
+Joseph McCarthy	Joseph McCarthy
+Joseph Priestley	Joseph Priestley
+Joseph Pulitzer	Joseph Pulitzer
+Joseph Schumpeter	Joseph Schumpeter
+Joseph Smith	Joseph Smith
+Joseph Stalin	Josef Stalin
+Josephus	Josefus
+Joule	Joule
+Journalism	Kategori:Journalistik
+Journalism	Journalistik
+Journalist	Journalist
+Jovian	Jovianus
+Joystick	Styrspak
+Judaism	Judendom
+Judaism	Kategori:Judendom
+Judas Iscariot	Judas Iskariot
+Judea	Judeen
+Judo	Judo
+Judy Garland	Judy Garland
+Jujutsu	Jujutsu
+Jules Verne	Jules Verne
+Julian calendar	Julianska kalendern
+Julian the Apostate	Julianus Apostata
+Julius Caesar	Julius Caesar
+July	Juli
+July 1	1 juli
+July 4	4 juli
+June	Juni
+June 14	14 juni
+June 21	21 juni
+June 23	23 juni
+June 24	24 juni
+June 29	29 juni
+June 3	3 juni
+Juneau	Juneau
+Juniper	Ensläktet
+Jupiter	Jupiter
+Jupiter	Kategori:Jupiter
+Jupiter (disambiguation)	Jupiter (olika betydelser)
+Jupiter (mythology)	Jupiter (mytologi)
+Jurassic	Jura (period)
+Justinian I	Justinianus
+Jutland	Jylland
+K	K
+K2	K2
+KGB	KGB
+Kaaba	Kaba
+Kabbalah	Kabbala
+Kabul	Kabul
+Kalahari Desert	Kalahariöknen
+Kamchatka Peninsula	Kamtjatka
+Kamikaze	Kamikaze
+Kampala	Kampala
+Kandahar	Kandahar
+Kangaroo	Kängurudjur
+Kansas	Kansas
+Kansas	Kategori:Kansas
+Kansas City	Kansas City, Missouri
+Kappa	Kappa (bokstav)
+Kara Sea	Karahavet
+Karachi	Karachi
+Karakoram	Karakoram
+Karaoke	Karaoke
+Karate	Karate
+Karen Blixen	Karen Blixen
+Karl Barth	Karl Barth
+Karl Jaspers	Karl Jaspers
+Karl Marx	Karl Marx
+Karl Popper	Karl Popper
+Karma	Karma
+Karnataka	Karnataka
+Katharine Hepburn	Katharine Hepburn
+Kathmandu	Katmandu
+Katowice	Katowice
+Kaunas	Kaunas
+Kayak	Kajak
+Kazakhstan	Kazakstan
+Kazakhstan	Kategori:Kazakstan
+Kazan	Kazan
+Kazimir Malevich	Kazimir Malevitj
+Kelvin	Kelvin
+Kent	Kent, England
+Kentucky	Kentucky
+Kentucky	Kategori:Kentucky
+Kenya	Kenya
+Kenya	Kategori:Kenya
+Kernel (computer science)	Operativsystemkärna
+Kerosene	Fotogen
+Ketchup	Ketchup
+Ketone	Keton
+Keyboard (computing)	Tangentbord
+Keyboard instrument	Klaverinstrument
+Khabarovsk	Chabarovsk
+Khan	Khan
+Kharkiv	Charkiv
+Khartoum	Khartoum
+Khmer Rouge	Röda khmererna
+Khufu	Cheops
+Kibbutz	Kibbutz
+Kidney	Njure
+Kiev	Kiev
+Kigali	Kigali
+Kilogram	Kilogram
+Kilometre	Kilometer
+Kilometres per hour	Kilometer per timme
+Kimono	Kimono
+Kindergarten	Förskola
+Kinetic energy	Kinetisk energi
+King (chess)	Kung (schack)
+King Arthur	Kung Artur
+King Lear	Kung Lear
+Kingdom (biology)	Rike (biologi)
+Kingston	Kingston
+Kingstown	Kingstown
+Kinshasa	Kinshasa
+Kiribati	Kiribati
+Kiribati	Kategori:Kiribati
+Kirkuk	Kirkuk
+Kiss	Kyss
+Kite	Drake (leksak)
+Kiwi	Kivier
+Knee	Knä
+Knesset	Knesset
+Knife	Kniv
+Knight	Riddare
+Knight (chess)	Springare
+Knossos	Knossos
+Knot (speed)	Knop (enhet)
+Knowledge	Kunskap
+Knut Hamsun	Knut Hamsun
+Koala	Koala
+Kobe	Kobe
+Kola Peninsula	Kolahalvön
+Kolkata	Calcutta
+Komodo dragon	Komodovaran
+Konqueror	Konqueror
+Konrad Adenauer	Konrad Adenauer
+Korea	Korea
+Korea	Kategori:Korea
+Korean War	Koreakriget
+Kosovo	Kosovo
+Kosovo	Kategori:Kosovo
+Krakatoa	Krakatoa
+Kremlin	Kreml
+Krishna	Krishna
+Krypton	Krypton
+Ku Klux Klan	Ku Klux Klan
+Kuala Lumpur	Kuala Lumpur
+Kublai Khan	Khubilai khan
+Kuiper belt	Kuiperbältet
+Kumquat	Kumquat
+Kung fu (term)	Kung fu
+Kunlun Mountains	Kunlun
+Kuomintang	Kinas nationella folkparti
+Kura River	Kura
+Kurdistan	Kurdistan
+Kurdistan	Kategori:Kurdistan
+Kurdistan Workers Party	PKK
+Kursk	Kursk
+Kurt Vonnegut	Kurt Vonnegut
+Kurt Waldheim	Kurt Waldheim
+Kuwait	Kuwait
+Kuwait	Kategori:Kuwait
+Kuwait City	Kuwait City
+KwaZulu-Natal	KwaZulu-Natal
+Kyoto	Kyoto
+Kyrgyzstan	Kirgizistan
+Kyrgyzstan	Kategori:Kirgizistan
+L	L
+L'Aquila	L'Aquila
+LAMP (software bundle)	LAMP
+La Paz	La Paz
+La Plata	La Plata
+La Spezia	La Spezia
+LaTeX	LaTeX
+Laboratory	Laboratorium
+Labour Party (UK)	Labour Party
+Labrador Retriever	Labrador retriever
+Lacerta	Ödlan
+Lactic acid	Mjölksyra
+Lactose	Laktos
+Lady Jane Grey	Jane Grey
+Lagomorpha	Hardjur
+Lagos	Lagos
+Lahore	Lahore
+Laissez-faire	Laissez faire
+Lake	Insjö
+Lake Baikal	Bajkalsjön
+Lake Balaton	Balaton
+Lake Chad	Tchadsjön
+Lake Constance	Bodensjön
+Lake Erie	Eriesjön
+Lake Eyre	Eyresjön
+Lake Geneva	Genèvesjön
+Lake Huron	Huronsjön
+Lake Ilmen	Ilmen
+Lake Ladoga	Ladoga
+Lake Malawi	Malawisjön
+Lake Michigan	Michigansjön
+Lake Onega	Onega
+Lake Ontario	Ontariosjön
+Lake Superior	Övre sjön
+Lake Tanganyika	Tanganyikasjön
+Lake Victoria	Victoriasjön
+Lakshmi	Lakshmi
+Lambda	Lambda
+Lamiaceae	Kransblommiga växter
+Lammergeier	Lammgam
+Lamprey	Nejonögon
+Lancashire	Lancashire
+Lancelet	Lansettfiskar
+Landfill	Soptipp
+Language	Språk
+Languedoc-Roussillon	Languedoc-Roussillon
+Lansing	Lansing
+Lanthanide	Lantanoider
+Lanthanum	Lantan
+Laos	Laos
+Laos	Kategori:Laos
+Laptev Sea	Laptevhavet
+Laptop	Bärbar dator
+Larch	Lärkträdssläktet
+Larva	Larv
+Larynx	Struphuvud
+Las Vegas	Las Vegas
+Lascaux	Lascaux
+Laser	Laser
+Lathe	Svarv
+Latin	Latin
+Latin America	Latinamerika
+Latin alphabet	Latinska alfabetet
+Latitude	Latitud
+Latvia	Lettland
+Latvia	Kategori:Lettland
+Laughter	Skratt
+Laurasia	Laurasien
+Lausanne	Lausanne
+Lava	Lava
+Law	Juridik
+Law	Kategori:Juridik
+Law enforcement	Kategori:Polis
+Lawrencium	Lawrencium
+Lawyer	Advokat
+Lazio	Lazio
+Le Corbusier	Le Corbusier
+Le Havre	Le Havre
+Lead	Bly
+Leaf	Blad
+League of Nations	Nationernas förbund
+Leaning Tower of Pisa	Lutande tornet i Pisa
+Leap year	Skottår
+Learning	Studieteknik
+Lebanon	Libanon
+Lebanon	Kategori:Libanon
+Leda (mythology)	Leda
+Lee Harvey Oswald	Lee Harvey Oswald
+Leeds	Leeds
+Left-handed	Vänsterhänthet
+Legend	Legend
+Legislature	Lagstiftande makt
+Lego	LEGO
+Leicester	Leicester
+Leiden	Leiden
+Leipzig	Leipzig
+Lemon	Citron
+Lemon balm	Citronmeliss
+Lena River	Lena (flod)
+Length	Längd
+Lens (optics)	Lins
+Lent	Fasta
+Lentil	Lins (växt)
+Leo (constellation)	Lejonet (stjärnbild)
+Leo I (emperor)	Leo I (bysantinsk kejsare)
+Leon Trotsky	Lev Trotskij
+Leonard Bernstein	Leonard Bernstein
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Leonid Brezhnev	Leonid Brezjnev
+Leopard	Leopard
+Lepidoptera	Fjärilar
+Leprosy	Lepra
+Lepton	Lepton
+Lepus (constellation)	Haren (stjärnbild)
+Lesbian	Lesbisk
+Lesotho	Lesotho
+Lesotho	Kategori:Lesotho
+Lesser Antilles	Små Antillerna
+Leto	Leto
+Letter (alphabet)	Bokstav
+Leukemia	Leukemi
+Levant	Levanten
+Lever	Hävstång
+Leviathan	Leviatan
+Leviticus	Tredje Moseboken
+Lewis Carroll	Lewis Carroll
+Lhasa	Lhasa
+Lhotse	Lhotse
+Liberalism	Liberalism
+Liberalism	Kategori:Liberalism
+Liberation Tigers of Tamil Eelam	Tamilska befrielsetigrarna
+Liberia	Liberia
+Liberia	Kategori:Liberia
+Libra (constellation)	Vågen (stjärnbild)
+Library	Bibliotek
+Library science	Biblioteks- och informationsvetenskap
+Libretto	Libretto
+Libreville	Libreville
+Libya	Libyen
+Libya	Kategori:Libyen
+Lichen	Lav
+Lie	Lögn
+Liechtenstein	Liechtenstein
+Liechtenstein	Kategori:Liechtenstein
+Lieutenant	Löjtnant
+Life	Liv
+Life	Kategori:Liv
+Light	Ljus
+Light-emitting diode	Lysdiod
+Light-year	Ljusår
+Lighter	Tändare
+Lighthouse	Fyr
+Liguria	Ligurien
+Ligurian Sea	Liguriska havet
+Liliaceae	Liljeväxter
+Lilith	Lilit
+Lille	Lille
+Lilongwe	Lilongwe
+Lima	Lima
+Limerick	Limerick
+Limestone	Kalksten
+Limit (mathematics)	Gränsvärde
+Limnology	Limnologi
+Limousin (region)	Limousin
+Lincoln	Lincoln, Nebraska
+Lincoln	Lincoln
+Lincolnshire	Lincolnshire
+Line (mathematics)	Rät linje
+Linear algebra	Linjär algebra
+Linear algebra	Kategori:Linjär algebra
+Linear equation	Linjär ekvation
+Lingua franca	Lingua franca
+Linguistics	Språkvetenskap
+Linguistics	Kategori:Lingvistik
+Linus Pauling	Linus Pauling
+Linux	Linux
+Linux	Kategori:Linux
+Linz	Linz
+Lion	Lejon
+Lipid	Lipid
+Liqueur	Likör
+Liquid	Vätska
+Liquid crystal display	Flytande kristallskärm
+Liquorice	Lakritsrot
+Lisbon	Lissabon
+Lise Meitner	Lise Meitner
+Lisp (programming language)	Lisp
+Literacy	Läskunnighet
+Literature	Litteratur
+Literature	Kategori:Litteratur
+Literature	Portal:Litteratur
+Lithium	Litium
+Lithography	Litografi
+Lithosphere	Litosfär
+Lithuania	Litauen
+Lithuania	Kategori:Litauen
+Litre	Liter
+Little Owl	Minervauggla
+Liverpool	Liverpool
+Livonia	Livland
+Livy	Titus Livius
+Lizard	Ödlor
+Ljubljana	Ljubljana
+Llama	Lama
+Loanword	Lånord
+Local area network	Local Area Network
+Loch Ness	Loch Ness
+Loch Ness Monster	Loch Ness-odjuret
+Locomotive	Lok
+Logarithm	Logaritm
+Logic	Logik
+Logic	Kategori:Logik
+Logic gate	Logisk grind
+Logistics	Logistik
+Logo	Logotyp
+Loire	Loire (departement)
+Loire River	Loire
+Loki	Loke
+Lolita	Lolita (roman)
+Lombardy	Lombardiet
+London	London
+London	Kategori:London
+Long Beach	Long Beach, Kalifornien
+Long Island	Long Island
+Long jump	Längdhopp
+Long-eared Owl	Hornuggla
+Lope de Vega	Lope de Vega
+Lord's Prayer	Herrens bön
+Lorraine (region)	Lorraine
+Los Angeles	Los Angeles
+Lot (department)	Lot (departement)
+Loudspeaker	Högtalare
+Louis Aragon	Louis Aragon
+Louis Armstrong	Louis Armstrong
+Louis Braille	Louis Braille
+Louis Pasteur	Louis Pasteur
+Louis the Pious	Ludvig den fromme
+Louis the Stammerer	Ludvig den stammande
+Louisiana	Louisiana
+Louisiana	Kategori:Louisiana
+Louisville	Louisville
+Louvre	Louvren
+Love	Kärlek
+Low German	Lågtyska
+Lower Saxony	Niedersachsen
+Luanda	Luanda
+Lublin	Lublin
+Lucerne	Luzern
+Luciano Pavarotti	Luciano Pavarotti
+Lucifer	Lucifer
+Lucretius	Lucretius
+Lucrezia Borgia	Lucrezia Borgia
+Ludwig Boltzmann	Ludwig Boltzmann
+Ludwig Mies van der Rohe	Ludwig Mies van der Rohe
+Ludwig Wittgenstein	Ludwig Wittgenstein
+Ludwig van Beethoven	Ludwig van Beethoven
+Luftwaffe	Tysklands flygvapen
+Luigi Galvani	Luigi Galvani
+Luigi Pirandello	Luigi Pirandello
+Lumen (unit)	Lumen
+Luminescence	Luminiscens
+Lunar eclipse	Månförmörkelse
+Lund	Lund
+Lung	Lunga
+Lung cancer	Lungcancer
+Lungfish	Lungfiskar
+Lupus (constellation)	Vargen (stjärnbild)
+Lusaka	Lusaka
+Lute	Luta
+Lutetium	Lutetium
+Lutheranism	Lutheraner
+Lux	Lux
+Luxembourg	Luxemburg
+Luxembourg	Kategori:Luxemburg
+Luxembourg (city)	Luxemburg (stad)
+Luxor	Luxor
+Luzon	Luzon
+Lychee	Litchi
+Lydia	Lydien
+Lymphatic system	Lymfatiska systemet
+Lynx (constellation)	Lodjuret
+Lynx (web browser)	Lynx (webbläsare)
+Lyon	Lyon
+Lyra	Lyran (stjärnbild)
+Lysergic acid diethylamide	LSD
+Lysine	Lysin
+Lysosome	Lysosom
+M	M
+M-theory	M-teori
+MESSENGER	MESSENGER
+MIME	MIME
+MS-DOS	MS-DOS
+Macau	Macao
+Macbeth	Macbeth (pjäs)
+Macedonia	Makedonien (olika betydelser)
+Macedonia (Greece)	Makedonien (region i Grekland)
+Mach number	Mach
+Machine	Maskin
+Machine code	Maskinkod
+Machine gun	Kulspruta
+Machine translation	Maskinöversättning
+Machu Picchu	Machu Picchu
+Macintosh	Macintosh
+Macroeconomics	Makroekonomi
+Macroeconomics	Kategori:Makroekonomi
+Madagascar	Madagaskar
+Madagascar	Kategori:Madagaskar
+Madeira	Madeira
+Madison	Madison, Wisconsin
+Madonna (entertainer)	Madonna (artist)
+Madrid	Madrid
+Madrid (autonomous community)	Madrid (autonom region)
+Mafia	Maffia
+Magazine	Tidskrift
+Magenta	Magenta
+Maghreb	Maghreb
+Magic (paranormal)	Magi
+Magic square	Magisk kvadrat
+Maginot Line	Maginotlinjen
+Magma	Magma
+Magna Carta	Magna Charta
+Magnesium	Magnesium
+Magnet	Magnet
+Magnetic field	Magnetfält
+Magnetic resonance imaging	Magnetisk resonanstomografi
+Magnetism	Magnetism
+Magnetism	Kategori:Magnetism
+Magnetite	Magnetit
+Magnifying glass	Förstoringsglas
+Magnoliopsida	Kategori:Eudicotyledonae
+Maharashtra	Maharashtra
+Mahatma Gandhi	Mahatma Gandhi
+Mahayana	Mahayana
+Mail	Post
+Maimonides	Maimonides
+Main	Main
+Main	Mall:Huvudartikel
+Maine	Maine
+Maine	Kategori:Maine
+Mainframe computer	Stordator
+Maitreya	Maitreya
+Maize	Majs
+Major	Major
+Major scale	Dur
+Majorca	Mallorca
+Makalu	Makalu
+Malabo	Malabo
+Malachite	Malakit
+Malacostraca	Storkräftor
+Malaria	Malaria
+Malawi	Kategori:Malawi
+Malay Peninsula	Malackahalvön
+Malayan Tapir	Schabraktapir
+Malaysia	Malaysia
+Malaysia	Kategori:Malaysia
+Malcolm X	Malcolm X
+Maldives	Maldiverna
+Maldives	Kategori:Maldiverna
+Mali	Mali
+Mali	Kategori:Mali
+Mallard	Gräsand
+Malta	Malta
+Malta	Kategori:Malta
+Maltese language	Maltesiska
+Maltose	Maltos
+Malvaceae	Malvaväxter
+Mammal	Däggdjur
+Mammoth	Mammutar
+Management	Ledarskap
+Managua	Managua
+Manama	Manama
+Manatee	Manater
+Manchester	Manchester
+Manchuria	Manchuriet
+Mandala	Mandala
+Mandarin (linguistics)	Mandarin (språk)
+Mandarin orange	Mandarin (frukt)
+Mandelbrot set	Mandelbrotmängden
+Manganese	Mangan
+Mango	Mangosläktet
+Mangrove	Mangrove
+Manhattan	Manhattan
+Manhattan Project	Manhattanprojektet
+Manichaeism	Manikeism
+Manila	Manila
+Manipur	Manipur
+Manitoba	Manitoba
+Mannerism	Manierism
+Mannheim	Mannheim
+Mantle (geology)	Manteln
+Mantra	Mantra
+Mantua	Mantua
+Manuel de Falla	Manuel de Falla
+Manuscript	Handskrift
+Mao Zedong	Mao Zedong
+Maoism	Maoism
+Map	Karta
+Maple	Lönnsläktet
+Maputo	Maputo
+Marathon	Maraton
+Marble	Marmor
+Marc Chagall	Marc Chagall
+Marcel Duchamp	Marcel Duchamp
+Marcel Marceau	Marcel Marceau
+Marcel Proust	Marcel Proust
+March	Mars
+March 17	17 mars
+March 19	19 mars
+March 2	2 mars
+March 25	25 mars
+Marche	Marche
+Marco Polo	Marco Polo
+Marcus Aurelius	Marcus Aurelius
+Marcus Junius Brutus	Marcus Junius Brutus
+Marcus Vipsanius Agrippa	Marcus Vipsanius Agrippa
+Marduk	Marduk
+Margaret Mead	Margaret Mead
+Margaret Mitchell	Margaret Mitchell
+Margaret Thatcher	Margaret Thatcher
+Maria Callas	Maria Callas
+Mariana Islands	Marianerna
+Marie Antoinette	Marie Antoinette
+Marie Curie	Marie Curie
+Mariehamn	Mariehamn
+Marilyn Monroe	Marilyn Monroe
+Mario Vargas Llosa	Mario Vargas Llosa
+Mark Antony	Marcus Antonius
+Mark Twain	Mark Twain
+Market	Marknad
+Marketing	Marknadsföring
+Marketing	Kategori:Marknadsföring
+Markup language	Märkspråk
+Marlene Dietrich	Marlene Dietrich
+Marquis de Sade	Markis de Sade
+Marrakech	Marrakech
+Marriage	Äktenskap
+Mars	Kategori:Mars
+Mars (disambiguation)	Mars (olika betydelser)
+Mars (mythology)	Mars (mytologi)
+Marseille	Marseille
+Marshall Islands	Marshallöarna
+Marshall Islands	Kategori:Marshallöarna
+Marshall Plan	Marshallplanen
+Marsupial	Pungdjur
+Martin Buber	Martin Buber
+Martin Heidegger	Martin Heidegger
+Martin Luther	Martin Luther
+Martin Luther King	Martin Luther King
+Martin Scorsese	Martin Scorsese
+Martin Van Buren	Martin Van Buren
+Martina Navratilova	Martina Navratilova
+Martinique	Martinique
+Martyr	Martyr
+Marx Brothers	Bröderna Marx
+Marxism	Marxism
+Marxism	Kategori:Marxism
+Mary (mother of Jesus)	Jungfru Maria
+Mary Magdalene	Maria från Magdala
+Mary Shelley	Mary Shelley
+Mary Wollstonecraft	Mary Wollstonecraft
+Maryland	Maryland
+Maryland	Kategori:Maryland
+Maseru	Maseru
+Mashhad	Mashhad
+Mass	Massa
+Mass (liturgy)	Mässa
+Mass number	Masstal
+Massachusetts	Massachusetts
+Massachusetts	Kategori:Massachusetts
+Massachusetts Institute of Technology	Massachusetts Institute of Technology
+Masturbation	Onani
+Mata Hari	Mata Hari
+Match	Tändsticka
+Materialism	Materialism
+Mathematical logic	Matematisk logik
+Mathematical logic	Kategori:Matematisk logik
+Mathematical proof	Bevis
+Mathematics	Matematik
+Mathematics	Kategori:Matematik
+Matrix (mathematics)	Matris (matematik)
+Matter	Materia
+Matterhorn	Matterhorn
+Mauna Kea	Mauna Kea
+Mauna Loa	Mauna Loa
+Maundy Thursday	Skärtorsdagen
+Maurice Ravel	Maurice Ravel
+Mauritania	Mauretanien
+Mauritania	Kategori:Mauretanien
+Mauritius	Mauritius
+Mauritius	Kategori:Mauritius
+Max Born	Max Born (fysiker)
+Max Bruch	Max Bruch
+Max Ernst	Max Ernst
+Max Planck	Max Planck
+Max Weber	Max Weber
+Maximian	Maximianus
+Maxwell's equations	Maxwells ekvationer
+May	Maj
+May 1	1 maj
+May 24	24 maj
+Mayenne	Mayenne
+Mayfly	Dagsländor
+Mayonnaise	Majonnäs
+Mayor	Borgmästare
+Mbabane	Mbabane
+McCarthyism	McCarthyism
+Mead	Mjöd
+Measles	Mässling
+Measure (mathematics)	Mått (matematik)
+Measurement	Kategori:Mätteknik
+Measurement	Mätning
+Meat	Kött
+Mecca	Mekka
+Mechanical engineering	Maskinteknik
+Mechanical engineering	Kategori:Maskinteknik
+Mechanics	Kategori:Mekanik
+Medea	Medea
+Median	Median
+Medication	Läkemedel
+Medici	Medici
+Medicine	Medicinsk vetenskap
+Medicine	Kategori:Medicin
+Medina	Medina
+Meditation	Meditation
+Mediterranean	Kategori:Medelhavet
+Mediterranean Sea	Medelhavet
+Medusa	Medusa
+Meerkat	Surikat
+Meiosis	Meios
+Meister Eckhart	Johannes Eckhart
+Meitnerium	Meitnerium
+Mekong	Mekong
+Mel Gibson	Mel Gibson
+Melanesia	Melanesien
+Melody	Melodi
+Melpomene	Melpomene
+Melting	Smältning
+Melting point	Smältpunkt
+Meme	Mem
+Memory	Minne
+Memphis	Memphis, Tennessee
+Memphis	Memfis
+Menachem Begin	Menachem Begin
+Mendelevium	Mendelevium
+Menelaus	Menelaos
+Meningitis	Hjärnhinneinflammation
+Mensa (constellation)	Taffelberget (stjärnbild)
+Menstrual cycle	Menstruation
+Mental disorder	Psykisk störning
+Mentha	Myntor
+Mercantilism	Merkantilism
+Mercenary	Legosoldat
+Mercury	Mercury
+Mercury (element)	Kvicksilver
+Mercury (mythology)	Mercurius
+Mercury (planet)	Merkurius
+Meridian (geography)	Meridian
+Meritocracy	Meritokrati
+Mermaid	Sjöjungfru
+Merovingian	Merovinger
+Meryl Streep	Meryl Streep
+Mescaline	Meskalin
+Mesolithic	Mesolitikum
+Meson	Meson
+Mesopotamia	Mesopotamien
+Mesopotamia	Kategori:Mesopotamien
+Mesosphere	Mesosfär
+Mesozoic	Mesozoikum
+Messenger RNA	Budbärar-RNA
+Messiah	Messias
+Messina	Messina
+Metabolism	Metabolism
+Metadata	Metadata
+Metal	Metall
+Metallic bond	Metallbindning
+Metalloid	Metalloid
+Metallurgy	Metallurgi
+Metallurgy	Kategori:Metallurgi
+Metamorphic rock	Metamorf bergart
+Metaphor	Metafor
+Metaphysics	Metafysik
+Metaphysics	Kategori:Metafysik
+Metastasis	Metastas
+Meteor shower	Meteorregn
+Meteorite	Meteorit
+Meteoroid	Meteoroid
+Meteorology	Kategori:Meteorologi
+Meteorology	Meteorologi
+Methadone	Metadon
+Methamphetamine	Metamfetamin
+Methanol	Metanol
+Methionine	Metionin
+Methodism	Metodism
+Methylenedioxymethamphetamine	Ecstasy
+Metis (moon)	Metis (måne)
+Metonymy	Metonym
+Metre	Meter
+Metric space	Metriskt rum
+Meuse	Meuse
+Meuse River	Meuse (flod)
+Mexico	Mexiko
+Mexico	Kategori:Mexiko
+Mexico City	Mexico City
+Miami	Miami
+Mica	Glimmer
+Michael (archangel)	Mikael (ärkeängel)
+Michael Faraday	Michael Faraday
+Michel Ney	Michel Ney
+Michelangelo	Michelangelo Buonarroti
+Michigan	Michigan
+Michigan	Kategori:Michigan
+Mick Jagger	Mick Jagger
+Mickey Mouse	Musse Pigg
+Microbiology	Mikrobiologi
+Microbiology	Kategori:Mikrobiologi
+Microeconomics	Mikroekonomi
+Microeconomics	Kategori:Mikroekonomi
+Micronesia	Mikronesien
+Microorganism	Mikroorganism
+Microphone	Mikrofon
+Microprocessor	Mikroprocessor
+Microscope	Mikroskop
+Microscopium	Mikroskopet
+Microwave	Mikrovågor
+Microwave oven	Mikrovågsugn
+Middle Ages	Medeltiden
+Middle Ages	Kategori:Medeltiden
+Middle East	Mellanöstern
+Middle East	Kategori:Mellanöstern
+Midnight sun	Midnattssol
+Migraine	Migrän
+Miguel de Cervantes	Miguel Cervantes
+Mike Tyson	Mike Tyson
+Mikhail Bakunin	Michail Bakunin
+Mikhail Glinka	Michail Glinka
+Mikhail Gorbachev	Michail Gorbatjov
+Milan	Milano
+Mile	Engelsk mil
+Miles Davis	Miles Davis
+Milk	Mjölk
+Milky Way	Vintergatan
+Millard Fillmore	Millard Fillmore
+Millennium	Millennium
+Million	Miljon
+Millipede	Dubbelfotingar
+Milton Friedman	Milton Friedman
+Milwaukee	Milwaukee
+Minaret	Minaret
+Mindanao	Mindanao
+Mineral	Mineral
+Mineral water	Mineralvatten
+Mineralogy	Mineralogi
+Mineralogy	Kategori:Mineralogi
+Minerva	Minerva
+Ming Dynasty	Mingdynastin
+Minimalism	Minimalism
+Mining	Gruvdrift
+Minister (government)	Statsråd
+Minneapolis	Minneapolis
+Minnesota	Minnesota
+Minnesota	Kategori:Minnesota
+Minoan civilization	Minoer
+Minor scale	Moll
+Minos	Minos
+Minotaur	Minotauros
+Minsk	Minsk
+Minute	Minut
+Miocene	Miocen
+Miracle	Mirakel
+Mirror	Spegel
+Mishnah	Mishna
+Mississippi	Kategori:Mississippi
+Mississippi River	Mississippifloden
+Missouri	Missouri
+Missouri	Kategori:Missouri
+Missouri River	Missourifloden
+Mitochondrion	Mitokondrie
+Mnemosyne	Mnemosyne
+Mobile phone	Mobiltelefoni
+Modem	Modem
+Modernism	Modernism
+Modest Mussorgsky	Modest Musorgskij
+Modulation	Modulation
+Mogadishu	Mogadishu
+Moirae	Moirerna
+Mold	Mögel
+Moldova	Moldavien
+Moldova	Kategori:Moldavien
+Mole (unit)	Mol
+Molecular biology	Molekylärbiologi
+Molecular biology	Kategori:Molekylärbiologi
+Molecule	Molekyl
+Molise	Molise
+Mollusca	Blötdjur
+Molotov cocktail	Molotovcocktail
+Molybdenum	Molybden
+Mombasa	Mombasa
+Momentum	Rörelsemängd
+Monaco	Monaco
+Monaco	Kategori:Monaco
+Monarch	Monark
+Monarchy	Monarki
+Monarchy	Kategori:Monarki
+Monastery	Kloster
+Monday	Måndag
+Money	Pengar
+Mongolia	Mongoliet
+Mongolia	Kategori:Mongoliet
+Mongoose	Manguster
+Monica Seles	Monica Seles
+Monism	Monism
+Monocotyledon	Enhjärtbladiga växter
+Monomer	Monomer
+Monopoly	Monopol
+Monopoly (game)	Monopol (spel)
+Monosaccharide	Monosackarid
+Monosodium glutamate	Natriumglutamat
+Monotheism	Monoteism
+Monotreme	Kloakdjur
+Monroe Doctrine	Monroedoktrinen
+Monrovia	Monrovia
+Mons	Mons
+Monsoon	Monsun
+Mont Blanc	Mont Blanc
+Montana	Montana
+Montana	Kategori:Montana
+Monte Carlo	Monte Carlo
+Montenegro	Montenegro
+Montenegro	Kategori:Montenegro
+Monterrey	Monterrey
+Montevideo	Montevideo
+Montgomery	Montgomery, Alabama
+Month	Månad
+Montpelier	Montpelier, Vermont
+Montreal	Montréal
+Montserrat	Montserrat
+Moon	Månen
+Moose	Älg
+Morality	Moral
+Moravia	Mähren
+Morocco	Marocko
+Morocco	Kategori:Marocko
+Morpheme	Morfem
+Morphine	Morfin
+Morphology	Morfologi
+Morphology (linguistics)	Morfologi (lingvistik)
+Morse code	Morsealfabetet
+Mortar (weapon)	Granatkastare
+Mosaic	Mosaik
+Moscow	Moskva
+Moscow	Kategori:Moskva
+Moselle	Moselle
+Moses	Mose
+Moshe Dayan	Moshe Dayan
+Mosque	Moské
+Moss	Bladmossor
+Mossad	Mossad
+Mosul	Mosul
+Motet	Motett
+Mother	Moder
+Mother Teresa	Moder Teresa
+Mother's Day	Mors dag
+Motion (physics)	Rörelse (fysik)
+Motorcycle	Motorcykel
+Motto	Valspråk
+Mount Ararat	Ararat
+Mount Athos	Athos
+Mount Etna	Etna
+Mount Everest	Mount Everest
+Mount Fuji	Fuji
+Mount Kilimanjaro	Kilimanjaro
+Mount McKinley	Mount McKinley
+Mount Olympus	Olympen
+Mount Pinatubo	Pinatubo
+Mount Rushmore	Mount Rushmore National Memorial
+Mount St. Helens	Mount Saint Helens
+Mount Vesuvius	Vesuvius
+Mountain	Berg
+Mountain bike	Mountainbike
+Mountain range	Bergskedja
+Mouse	Möss
+Mouse (computing)	Datormus
+Mozambique	Moçambique
+Mozambique	Kategori:Moçambique
+Mu (letter)	My
+Muezzin	Muezzin
+Muhammad	Muhammed
+Muhammad Ali	Muhammad Ali
+Mulberry	Mullbärssläktet
+Mule	Mula
+Multimedia	Multimedier
+Multiple sclerosis	Multipel skleros
+Multiplication	Multiplikation
+Mumbai	Bombay
+Mummy	Mumie
+Munich	München
+Municipality	Kommun
+Muon	Myon
+Murmansk	Murmansk
+Murphy's law	Murphys lag
+Murray Gell-Mann	Murray Gell-Mann
+Musa (genus)	Bananer
+Musca	Flugan (stjärnbild)
+Muscat	Muskat
+Muscle	Muskel
+Muse	Muserna
+Museum	Museum
+Mushroom	Svampar
+Music	Musik
+Music	Kategori:Musik
+Musical Instrument Digital Interface	MIDI
+Musical instrument	Musikinstrument
+Musical scale	Skala (musik)
+Musician	Musiker
+Musicology	Musikvetenskap
+Musket	Musköt
+Mustelidae	Mårddjur
+Mutation	Mutation
+Mute Swan	Knölsvan
+Myanmar	Kategori:Burma
+Mycenae	Mykene
+Mycology	Mykologi
+Myocardial infarction	Hjärtinfarkt
+Myopia	Närsynthet
+Myriapoda	Mångfotingar
+Mysticism	Mystik
+Myth	Myt
+Mythology	Mytologi
+Mythology	Kategori:Mytologi
+N	N
+N'Djamena	N'Djamena
+NASDAQ	NASDAQ
+NATO	Nato
+NATO	Kategori:NATO
+Nadine Gordimer	Nadine Gordimer
+Nagasaki	Nagasaki
+Nagoya	Nagoya
+Nahuatl	Nahuatl
+Nail (anatomy)	Naglar
+Nail (fastener)	Spik
+Nairobi	Nairobi
+Namib Desert	Namiböknen
+Namibia	Namibia
+Namibia	Kategori:Namibia
+Namur (city)	Namur
+Nancy	Nancy
+Nanga Parbat	Nanga Parbat
+Nanjing	Nanjing
+Nanotechnology	Nanoteknik
+Nantes	Nantes
+Napalm	Napalm
+Naples	Neapel
+Napoleonic Wars	Napoleonkrigen
+Narcissus (mythology)	Narkissos
+Nashville	Nashville
+Nassau	Nassau, Bahamas
+Nathaniel Hawthorne	Nathaniel Hawthorne
+Nation	Nation
+National Security Agency	National Security Agency
+National anthem	Nationalsång
+National park	Nationalpark
+Nationalism	Nationalism
+Nationalism	Kategori:Nationalism
+Natural gas	Naturgas
+Natural number	Naturliga tal
+Natural science	Naturvetenskap
+Natural selection	Naturligt urval
+Nature	Natur
+Nature	Kategori:Natur
+Naturism	Naturism
+Nauru	Nauru
+Nauru	Kategori:Nauru
+Nautical mile	Nautisk mil
+Navigation	Kategori:Navigation
+Navigation	Navigation
+Nazareth	Nasaret
+Nazi Germany	Nazityskland
+Nazi Germany	Kategori:Nazityskland
+Nazi Party	Nationalsocialistiska tyska arbetarepartiet
+Nazism	Kategori:Nazism
+Neanderthal	Neandertalmänniska
+Nebraska	Nebraska
+Nebraska	Kategori:Nebraska
+Nebuchadrezzar II	Nebukadnessar II
+Nebula	Nebulosa
+Neckar	Neckar
+Necktie	Slips
+Nefertiti	Nefertiti
+Negev	Negev
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Nematode	Rundmaskar
+Nemean Lion	Nemeiska lejonet
+Nemesis (mythology)	Nemesis
+Neodymium	Neodym
+Neolithic	Neolitikum
+Neologism	Neologism
+Neon	Neon
+Neoplatonism	Nyplatonism
+Nepal	Nepal
+Nepal	Kategori:Nepal
+Nephthys	Neftys
+Neptune	Neptunus
+Neptunium	Neptunium
+Nereid (moon)	Nereid
+Nero	Nero
+Nerva	Nerva
+Nervous system	Nervsystemet
+Nervous system	Kategori:Nervsystemet
+Nest	Rede
+Nestorianism	Nestorianism
+Netherlands	Nederländerna
+Netherlands	Kategori:Nederländerna
+Netherlands Antilles	Nederländska Antillerna
+Neurology	Neurologi
+Neurology	Kategori:Neurologi
+Neuron	Nervcell
+Neurotransmitter	Signalsubstans
+Neutrino	Neutrino
+Neutron	Neutron
+Neutron star	Neutronstjärna
+Neva River	Neva
+Nevada	Nevada
+Nevada	Kategori:Nevada
+Neville Chamberlain	Neville Chamberlain
+New Brunswick	New Brunswick
+New Caledonia	Nya Kaledonien
+New Delhi	New Delhi
+New England	New England
+New Guinea	Nya Guinea
+New Hampshire	New Hampshire
+New Hampshire	Kategori:New Hampshire
+New Jersey	New Jersey
+New Jersey	Kategori:New Jersey
+New Mexico	New Mexico
+New Mexico	Kategori:New Mexico
+New Orleans	New Orleans
+New South Wales	New South Wales
+New Testament	Nya testamentet
+New World	Nya världen
+New Year	Nyår
+New York	New York (delstat)
+New York	Kategori:New York
+New York (disambiguation)	New York (olika betydelser)
+New York City	New York
+New York City	Kategori:New York City
+New York Stock Exchange	New York Stock Exchange
+New Zealand	Nya Zeeland
+New Zealand	Kategori:Nya Zeeland
+Newark	Newark, New Jersey
+Newfoundland (island)	Newfoundland
+Newfoundland and Labrador	Newfoundland och Labrador
+Newport	Newport
+Newton	Newton (enhet)
+Niacin	Niacin
+Niagara Falls	Niagarafallen
+Niamey	Niamey
+Nicaragua	Nicaragua
+Nicaragua	Kategori:Nicaragua
+Nice	Nice
+Nicene Creed	Nicaenska trosbekännelsen
+Nicholas	Huset Petrović Njegoš
+Nickel	Nickel
+Nicolas Poussin	Nicolas Poussin
+Nicolaus Copernicus	Nicolaus Copernicus
+Nicosia	Nicosia
+Nicotine	Nikotin
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niger	Niger
+Niger	Kategori:Niger
+Niger River	Niger (flod)
+Nigeria	Nigeria
+Nigeria	Kategori:Nigeria
+Night	Natt
+Nightingale	Sydnäktergal
+Nihilism	Nihilism
+Nijmegen	Nijmegen
+Nike	Nike (företag)
+Nike (mythology)	Nike (mytologi)
+Nikita Khrushchev	Nikita Chrusjtjov
+Nikola Tesla	Nikola Tesla
+Nile	Nilen
+Nile crocodile	Nilkrokodil
+Nineveh	Nineve
+Ninja	Ninja
+Niobium	Niob
+Nirvana	Nirvana
+Nitric acid	Salpetersyra
+Nitrogen	Kväve
+Nitroglycerin	Nitroglycerin
+Nix (moon)	Nix (måne)
+Njord	Njord
+Noah	Noa
+Noam Chomsky	Noam Chomsky
+Nobel Prize	Nobelpriset
+Nobel Prize	Kategori:Nobelpriset
+Nobelium	Nobelium
+Nobility	Adel
+Nobility	Kategori:Adel
+Noble gas	Ädelgas
+Nomad	Nomader
+Nominative case	Nominativ
+Nonmetal	Icke-metall
+Norfolk	Norfolk, England
+Norfolk Island	Norfolkön
+Norma (constellation)	Vinkelhaken
+Normal distribution	Normalfördelning
+Norman Mailer	Norman Mailer
+Normandy	Normandie
+Norn	Nornor
+Norse mythology	Nordisk mytologi
+Norse mythology	Kategori:Nordisk mytologi
+North	Norr
+North Africa	Nordafrika
+North America	Nordamerika
+North America	Kategori:Nordamerika
+North Carolina	North Carolina
+North Carolina	Kategori:North Carolina
+North Dakota	North Dakota
+North Dakota	Kategori:North Dakota
+North Island	Nordön
+North Korea	Nordkorea
+North Korea	Kategori:Nordkorea
+North Pole	Nordpolen
+North Sea	Nordsjön
+North Yorkshire	North Yorkshire
+Northern Europe	Nordeuropa
+Northern Hemisphere	Norra halvklotet
+Northern Ireland	Nordirland
+Northern Ireland	Kategori:Nordirland
+Northern Mariana Islands	Nordmarianerna
+Northern Territory	Northern Territory
+Northern pike	Gädda
+Northwest Territories	Northwest Territories
+Norway	Norge
+Norway	Kategori:Norge
+Norwegian Sea	Norska havet
+Norwegian krone	Norsk krona
+Nose	Näsa
+Nostradamus	Nostradamus
+Note	Notskrift
+Nouakchott	Nouakchott
+Noun	Substantiv
+Nova Scotia	Nova Scotia
+Novaya Zemlya	Novaja Zemlja
+Novel	Roman
+November	November
+November 1	1 november
+November 11	11 november
+November 2	2 november
+November 5	5 november
+Novosibirsk	Novosibirsk
+Nu (letter)	Ny
+Nuclear fission	Fission
+Nuclear fusion	Fusion
+Nuclear physics	Kärnfysik
+Nuclear power	Kärnkraft
+Nuclear weapon	Kärnvapen
+Nucleic acid	Nukleinsyra
+Nucleon	Nukleon
+Nucleotide	Nukleotid
+Number	Tal (matematik)
+Numbers	Kategori:Tal
+Numidia	Numidien
+Numismatics	Numismatik
+Numismatics	Kategori:Numismatik
+Nunavut	Nunavut
+Nuremberg	Nürnberg
+Nut (fruit)	Nöt
+Nutmeg	Muskot
+Nutrition	Kategori:Näringslära
+Nymph	Nymf
+Nymphaeaceae	Näckrosväxter
+Nyx (mythology)	Nyx
+O	O
+OPEC	OPEC
+Oahu	Oahu
+Oak	Eksläktet
+Oakland	Oakland, Kalifornien
+Oasis	Oas
+Oat	Havre
+Oaxaca	Oaxaca
+Ob River	Ob
+Obelisk	Obelisk
+Obesity	Övervikt
+Object-oriented programming	Objektorienterad programmering
+Oboe	Oboe
+Observatory	Observatorium
+Obsidian	Obsidian
+Occam's razor	Ockhams rakkniv
+Ocean	Hav#V.C3.A4rldshav
+Ocean current	Havsström
+Oceania	Oceanien
+Oceania	Kategori:Oceanien
+Oceanid	Okeanider
+Oceanography	Oceanografi
+Oceanography	Kategori:Oceanografi
+Oceanus	Okeanos
+Octal	Oktala talsystemet
+Octans	Oktanten
+Octave	Oktav
+October	Oktober
+October 12	12 oktober
+October 24	24 oktober
+October Revolution	Oktoberrevolutionen
+Octopus	Åttaarmade bläckfiskar
+Ode	Ode
+Oder River	Oder
+Odessa	Odessa
+Odin	Oden
+Odonata	Trollsländor
+Odysseus	Odysseus
+Odyssey	Odysséen
+Oedipus	Oidipus
+Offside (football)	Offside (fotboll)
+Ohio	Ohio
+Ohio	Kategori:Ohio
+Ohm	Ohm
+Ohm's law	Ohms lag
+Oil	Olja
+Oil (disambiguation)	Olja
+Oil painting	Oljemåleri
+Okapi	Okapi
+Oklahoma	Oklahoma
+Oklahoma	Kategori:Oklahoma
+Oklahoma City	Oklahoma City
+Oktoberfest	Oktoberfest
+Old Church Slavonic	Fornkyrkoslaviska
+Old Norse	Fornnordiska
+Old Testament	Gamla testamentet
+Oligarchy	Oligarki
+Oligocene	Oligocen
+Oligopoly	Oligopol
+Olive	Olivträd
+Olive oil	Olivolja
+Oliver Cromwell	Oliver Cromwell
+Oliver Stone	Oliver Stone
+Olivine	Olivin
+Olympia	Olympia, Washington
+Olympia	Olympia
+Olympic Games	Olympiska spelen
+Olympics	Kategori:Olympiska spelen
+Omaha	Omaha, Nebraska
+Oman	Oman
+Oman	Kategori:Oman
+Omega	Omega
+Omicron	Omikron
+Omsk	Omsk
+Oncology	Kategori:Onkologi
+Onion	Lök (art)
+Onomastics	Onomastik
+Ontario	Ontario
+Ontario	Kategori:Ontario
+Ontology	Ontologi
+Oort cloud	Oorts kometmoln
+Opal	Opal
+Opel	Opel
+Opera	Opera
+Opera (Internet suite)	Opera (webbläsare)
+Operating system	Operativsystem
+Operetta	Operett
+Ophiuchus	Ormbäraren
+Opium	Opium
+Optical fiber	Fiberoptik
+Optical illusion	Optisk illusion
+Optics	Optik
+Optics	Kategori:Optik
+Optimization (mathematics)	Optimeringslära
+Oral sex	Oralsex
+Orange (colour)	Orange
+Orange (fruit)	Apelsin
+Orangutan	Orangutang
+Oratorio	Oratorium
+Orbit	Omloppsbana
+Orca	Späckhuggare
+Orchestra	Orkester
+Orchidaceae	Orkidéer
+Order (biology)	Ordning (biologi)
+Order of Saint Benedict	Benediktinorden
+Ordovician	Ordovicium
+Oregano	Oregano
+Oregon	Oregon
+Oregon	Kategori:Oregon
+Orestes (mythology)	Orestes
+Organ (anatomy)	Organ
+Organelle	Organell
+Organic chemistry	Organisk kemi
+Organic chemistry	Kategori:Organisk kemi
+Organic compound	Organisk förening
+Organism	Organism
+Organization	Organisation
+Organization of American States	Organization of American States
+Orgasm	Orgasm
+Origami	Origami
+Origen	Origenes
+Original sin	Arvsynd
+Orinoco	Orinoco
+Orion (constellation)	Orion (stjärnbild)
+Orissa	Orissa
+Orlando	Orlando, Florida
+Ornithology	Ornitologi
+Ornithology	Kategori:Ornitologi
+Orpheus	Orfeus
+Orson Welles	Orson Welles
+Orthography	Ortografi
+Osaka	Osaka
+Osama bin Laden	Usama bin Ladin
+Oscar Wilde	Oscar Wilde
+Oscillation	Oscillation
+Osiris	Osiris
+Oslo	Oslo
+Osman I	Osman I
+Osmium	Osmium
+Osprey	Fiskgjuse
+Osteichthyes	Benfiskar
+Osteoporosis	Benskörhet
+Ostrava	Ostrava
+Ostrich	Struts
+Othello	Othello
+Otho	Otho
+Ottawa	Ottawa
+Otto Hahn	Otto Hahn
+Otto I	Otto I (tysk-romersk kejsare)
+Otto von Bismarck	Otto von Bismarck
+Ottoman Empire	Osmanska riket
+Ottoman Empire	Kategori:Osmanska riket
+Ounce	Uns
+Ovary	Äggstock
+Ovid	Ovidius
+Oviedo	Oviedo
+Ovis	Får
+Owl	Ugglor
+Oxford	Oxford
+Oxidation state	Oxidationstillstånd
+Oxide	Oxider
+Oxygen	Syre
+Oxymoron	Självmotsägelse
+Oxytocin	Oxytocin
+Ozone	Ozon
+Ozone layer	Ozonlagret
+P	P
+PAL	Phase Alternating Line
+PH	PH
+Pablo Neruda	Pablo Neruda
+Pablo Picasso	Pablo Picasso
+Pacific Ocean	Stilla havet
+Pacific Ocean	Kategori:Stilla havet
+Pacifism	Pacifism
+Padua	Padua
+Paganism	Paganism
+Pakistan	Pakistan
+Pakistan	Kategori:Pakistan
+Palace of Versailles	Slottet i Versailles
+Palau	Palau
+Palau	Kategori:Palau
+Paleocene	Paleocen
+Paleolithic	Paleolitikum
+Paleontology	Paleontologi
+Paleontology	Kategori:Paleontologi
+Paleozoic	Paleozoikum
+Palermo	Palermo
+Palestine	Palestina
+Palestine	Kategori:Palestina
+Palestine Liberation Organization	PLO
+Palestinian National Authority	Palestinska myndigheten
+Pali	Pali
+Palindrome	Palindrom
+Palladium	Palladium
+Palm Sunday	Palmsöndagen
+Palmyra	Palmyra
+Pamir Mountains	Pamir
+Pan (mythology)	Pan
+Panama	Panama
+Panama	Kategori:Panama
+Panama Canal	Panamakanalen
+Panama City	Panama City
+Pancreas	Bukspottkörtel
+Pandemic	Pandemi
+Pandora	Pandora (mytologi)
+Pangaea	Pangea
+Pantheism	Panteism
+Pantheon	Pantheon
+Panthera	Panthera
+Papal States	Kyrkostaten
+Papua New Guinea	Papua Nya Guinea
+Papua New Guinea	Kategori:Papua Nya Guinea
+Papyrus	Papyrus
+Parabola	Parabel (kurva)
+Paracelsus	Paracelsus
+Parachute	Fallskärm
+Paradigm	Paradigm
+Paradox	Paradox
+Paragliding	Skärmflygning
+Paraguay	Paraguay
+Paraguay	Kategori:Paraguay
+Parallax	Parallax
+Parallelogram	Parallellogram
+Paramaribo	Paramaribo
+Paranoia	Paranoia
+Paraphilia	Parafili
+Parapsychology	Parapsykologi
+Parasitism	Parasit
+Parchment	Pergament
+Paris	Paris
+Paris	Kategori:Paris
+Paris (mythology)	Paris (mytologi)
+Parity (mathematics)	Jämna och udda tal
+Parkinson's disease	Parkinsons sjukdom
+Parliament	Parlament
+Parmenides	Parmenides från Elea
+Parody	Parodi
+Parrot	Papegojfåglar
+Parsec	Parsec
+Parsley	Persilja
+Parthenon	Parthenon
+Parthia	Partien
+Particle physics	Partikelfysik
+Particle physics	Kategori:Partikelfysik
+Parvati	Parvati
+Pascal	Pascal
+Pascal (programming language)	Pascal (programspråk)
+Pascal (unit)	Pascal (måttenhet)
+Passeriformes	Kategori:Tättingar
+Passerine	Tättingar
+Passover	Pesach
+Passport	Pass
+Password	Lösenord
+Pasteurization	Pastörisering
+Patagonia	Patagonien
+Patent	Patent
+Pathology	Patologi
+Patras	Patras
+Patriarch	Patriark (kyrkligt ämbete)
+Patrick White	Patrick White
+Patriotism	Patriotism
+Paul Gauguin	Paul Gauguin
+Paul Johann Ludwig von Heyse	Paul Johann Ludwig von Heyse
+Paul Klee	Paul Klee
+Paul McCartney	Paul McCartney
+Paul Newman	Paul Newman
+Paul Verlaine	Paul Verlaine
+Paul the Apostle	Paulus
+Paul von Hindenburg	Paul von Hindenburg
+Pauli exclusion principle	Paulis uteslutningsprincip
+Pavo (constellation)	Påfågeln
+Pawn (chess)	Bonde (schack)
+Pays de la Loire	Pays-de-la-Loire
+Pea	Ärt
+Peace	Fred
+Peace of Westphalia	Westfaliska freden
+Peach	Persika
+Peafowl	Påfågel
+Peanut	Jordnöt
+Pear	Päronsläktet
+Pearl	Pärla
+Pearl Harbor	Pearl Harbor
+Peat	Torv
+Pedagogy	Pedagogik
+Pedagogy	Kategori:Pedagogik
+Pediatrics	Pediatrik
+Pedophilia	Pedofili
+Pedunculate Oak	Ek
+Pegasus	Pegasos
+Pegasus (constellation)	Pegasus (stjärnbild)
+Peloponnese	Peloponnesos
+Peloponnesian War	Peloponnesiska kriget
+Pencil	Blyertspenna
+Pendulum	Pendel
+Penelope	Penelope
+Penguin	Pingviner
+Penicillin	Penicillin
+Peninsula	Halvö
+Pennsylvania	Pennsylvania
+Pennsylvania	Kategori:Pennsylvania
+Pentagon	Pentagon
+Pentagram	Pentagram
+Pentecost	Pingst
+Pentecostalism	Pingströrelsen i Sverige
+People	Kategori:Personer
+People's Republic of China	Kina
+Pepin the Short	Pippin den lille
+Pepsi	Pepsi
+Peptide	Peptid
+Percentage	Procent
+Perception	Perception
+Perciformes	Abborrartade fiskar
+Percussion instrument	Slagverk
+Percy Bysshe Shelley	Percy Bysshe Shelley
+Peregrine Falcon	Pilgrimsfalk
+Perestroika	Perestrojka
+Perfume	Parfym
+Pericles	Perikles
+Period (periodic table)	Periodiska systemets perioder
+Periodic table	Periodiska systemet
+Perm	Perm (stad)
+Permafrost	Permafrost
+Permian	Perm
+Permutation	Permutation
+Pernambuco	Pernambuco
+Perpetual motion	Evighetsmaskin
+Persephone	Persefone
+Persepolis	Persepolis
+Perseus	Perseus (mytologi)
+Perseus (constellation)	Perseus (stjärnbild)
+Persian Empire	Persiska riket
+Persian Gulf	Persiska viken
+Personal digital assistant	Handdator
+Perth	Perth, Australien
+Peru	Peru
+Peru	Kategori:Peru
+Pesticide	Bekämpningsmedel
+Peter Abelard	Pierre Abélard
+Peter Paul Rubens	Peter Paul Rubens
+Peter Sellers	Peter Sellers
+Petrarch	Francesco Petrarca
+Petroleum	Petroleum
+Petrology	Petrologi
+Phanerozoic	Fanerozoikum
+Pharaoh	Farao
+Pharmacology	Farmakologi
+Pharmacology	Kategori:Farmakologi
+Pharynx	Svalg
+Phase (matter)	Fas (termodynamik)
+Phenol	Fenol
+Phenomenology	Fenomenologi
+Phenotype	Fenotyp
+Phenylalanine	Fenylalanin
+Phenylketonuria	Fenylketonuri
+Phi (letter)	Fi
+Philadelphia	Philadelphia
+Philately	Filateli
+Philately	Kategori:Filateli
+Philip II of Macedon	Filip II av Makedonien
+Philip II of Spain	Filip II av Spanien
+Philipp Lenard	Philipp Lenard
+Philippine Sea	Filippinska sjön
+Philippines	Filippinerna
+Philippines	Kategori:Filippinerna
+Philology	Filologi
+Philology	Kategori:Filologi
+Philosopher's stone	De vises sten
+Philosophy	Filosofi
+Philosophy	Kategori:Filosofi
+Philosophy	Portal:Filosofi
+Phnom Penh	Phnom Penh
+Phobia	Fobi
+Phobos (moon)	Phobos (måne)
+Phoenicia	Fenicien
+Phoenix	Phoenix, Arizona
+Phoenix	Phoenix
+Phoenix (constellation)	Fenix (stjärnbild)
+Phoenix (mythology)	Fenix
+Phoenix (spacecraft)	Phoenix (rymdsond)
+Phoneme	Fonem
+Phonetics	Fonetik
+Phonetics	Kategori:Fonetik
+Phonology	Fonologi
+Phosphate	Fosfat
+Phosphoric acid	Fosforsyra
+Phosphorus	Fosfor
+Photography	Fotografi
+Photography	Kategori:Fotografi
+Photon	Foton
+Photosphere	Fotosfär
+Photosynthesis	Fotosyntes
+Phylum	Stam (biologi)
+Physical chemistry	Fysikalisk kemi
+Physical chemistry	Kategori:Fysikalisk kemi
+Physician	Läkare
+Physics	Fysik
+Physics	Kategori:Fysik
+Physiology	Fysiologi
+Physiology	Kategori:Fysiologi
+Pi	Pi
+Pi (letter)	Pi (bokstav)
+Piano	Piano
+Picardie	Picardie
+Piciformes	Hackspettartade fåglar
+Pictor	Målaren
+Pidgin	Pidginspråk
+Pidgin (software)	Pidgin (datorprogram)
+Piedmont	Piemonte
+Pierre	Pierre, South Dakota
+Pierre Curie	Pierre Curie
+Pierre de Fermat	Pierre de Fermat
+Piet Mondrian	Piet Mondrian
+Pieter Zeeman	Pieter Zeeman
+Pigment	Pigment
+Pilsen	Plzeň
+Pinaceae	Tallväxter
+Pindar	Pindaros
+Pine	Tallsläktet
+Pineapple	Ananas
+Ping	Ping
+Pink	Rosa (färg)
+Pinniped	Sälar
+Piracy	Pirat
+Pisa	Pisa
+Pisces (constellation)	Fiskarna (stjärnbild)
+Piston	Kolv (maskindel)
+Pittsburgh	Pittsburgh
+Pituitary gland	Hypofys
+Pixel	Pixel
+Pizza	Pizza
+Plagiarism	Plagiat
+Planet	Planet
+Planetary nebula	Planetarisk nebulosa
+Plankton	Plankton
+Plant	Växt
+Plasma (physics)	Plasma
+Plasmid	Plasmid
+Plastic	Plast
+Plate tectonics	Plattektonik
+Platelet	Trombocyt
+Platinum	Platina
+Plato	Platon
+Platypus	Näbbdjur
+Playboy	Playboy
+Playing card	Spelkort
+Pleiades (star cluster)	Plejaderna
+Pleistocene	Pleistocen
+Pleven	Pleven
+Pliny the Elder	Plinius den äldre
+Pliny the Younger	Plinius den yngre
+Pliocene	Pliocen
+Plotinus	Plotinos
+Plovdiv	Plovdiv
+Plum	Plommon
+Plutarch	Plutarkos
+Pluto	Pluto
+Pluto (disambiguation)	Pluto
+Plutonium	Plutonium
+Plymouth	Plymouth
+Pneumonia	Lunginflammation
+Po River	Po
+Poaceae	Gräs
+Podcast	Poddradio
+Poetry	Poesi
+Poetry	Kategori:Poesi
+Pogrom	Pogrom
+Poison	Gift
+Poitiers	Poitiers
+Poitou-Charentes	Poitou-Charentes
+Poker	Poker
+Poland	Polen
+Poland	Kategori:Polen
+Polar bear	Isbjörn
+Polaris	Polstjärnan
+Police	Polis
+Poliomyelitis	Polio
+Political party	Politiskt parti
+Political science	Statsvetenskap
+Political science	Kategori:Statsvetenskap
+Politician	Politiker
+Politics	Politik
+Politics	Kategori:Politik
+Pollen	Pollen
+Pollination	Pollinering
+Pollution	Miljöförstöring
+Polo	Hästpolo
+Polonium	Polonium
+Polyethylene	Polyeten
+Polygamy	Polygami
+Polygon	Polygon
+Polyhedron	Polyeder
+Polyhymnia	Polyhymnia
+Polymer	Polymer
+Polynesia	Polynesien
+Polynomial	Polynom
+Polytheism	Polyteism
+Polyvinyl chloride	Polyvinylklorid
+Pomegranate	Granatäpple
+Pomelo	Pomelo
+Pompeii	Pompeji
+Pompey	Pompejus
+Pontius Pilate	Pontius Pilatus
+Pop art	Popkonst
+Pop music	Popmusik
+Pope	Påve
+Pope Alexander VI	Alexander VI
+Poplar	Poppelsläktet
+Population	Befolkning
+Populism	Populism
+Porcelain	Porslin
+Pornography	Pornografi
+Port	Hamn
+Port Louis	Port Louis
+Port Moresby	Port Moresby
+Port Vila	Port Vila
+Port of Spain	Port of Spain
+Port-au-Prince	Port-au-Prince
+Portland	Portland, Oregon
+Portland	Portland
+Porto	Porto
+Portrait	Porträtt
+Portsmouth	Portsmouth
+Portugal	Portugal
+Portugal	Kategori:Portugal
+Poseidon	Poseidon
+Positron	Positron
+Postage stamp	Frimärke
+Postal code	Postnummer
+Postmodernism	Postmodernism
+Potassium	Kalium
+Potassium nitrate	Kaliumnitrat
+Potato	Potatis
+Potential energy	Potentiell energi
+Potsdam	Potsdam
+Pound (mass)	Skålpund
+Pound sterling	Brittiskt pund
+Poverty	Fattigdom
+Power (physics)	Effekt
+Power station	Kraftverk
+Praetor	Praetor
+Prague	Prag
+Prague	Kategori:Prag
+Praia	Praia
+Praseodymium	Praseodym
+Prayer	Bön
+Precambrian	Prekambrium
+Precession	Precession
+Precipitation (meteorology)	Nederbörd
+Pregnancy	Graviditet
+Prehistory	Förhistorisk tid
+Prehistory	Kategori:Förhistoria
+President	President
+President of the United States	USA:s president
+Pressure	Tryck
+Pretoria	Pretoria
+Priam	Priamos
+Price	Pris
+Priest	Präst
+Primate	Primater
+Primates	Kategori:Primater
+Prime Meridian	Nollmeridian
+Prime minister	Premiärminister
+Prime number	Primtal
+Prince Edward Island	Prince Edward Island
+Prince Philip	Philip, hertig av Edinburgh
+Prince of Wales	Prins av Wales
+Princeton University	Princeton University
+Principle of relativity	Relativitetsteori
+Printing	Tryckteknik
+Prion	Prion
+Prism (geometry)	Prisma (geometri)
+Prison	Anstalt
+Prisoner of war	Krigsfånge
+Prix Goncourt	Goncourtpriset
+Probability	Sannolikhet
+Probability theory	Sannolikhetsteori
+Probability theory	Kategori:Sannolikhetsteori
+Procyonidae	Halvbjörnar
+Professor	Professor
+Profit	Vinst
+Programmer	Programmerare
+Programming language	Programspråk
+Progressive rock	Progressiv rock
+Project	Projekt
+Prokaryote	Prokaryoter
+Prolog	Prolog
+Prometheus	Prometheus
+Promethium	Prometium
+Pronoun	Pronomen
+Propaganda	Propaganda
+Propane	Propan
+Prophet	Profet
+Prose	Prosa
+Prostate	Prostata
+Protactinium	Protaktinium
+Protectorate	Protektorat
+Protein	Protein
+Proterozoic	Proterozoikum
+Protestant Reformation	Reformationen
+Protestantism	Protestantism
+Protist	Protister
+Protista	Kategori:Protister
+Protocol	Protokoll
+Proton	Proton
+Protozoa	Urdjur
+Providence	Providence
+Prunus	Prunusar
+Prussia	Preussen
+Psalms	Psaltaren
+Pseudonym	Pseudonym
+Pseudoscience	Kategori:Pseudovetenskap
+Pseudoscience	Pseudovetenskap
+Psi (letter)	Psi
+Psoriasis	Psoriasis
+Psychiatry	Psykiatri
+Psychiatry	Kategori:Psykiatri
+Psychoanalysis	Psykoanalys
+Psychology	Psykologi
+Psychology	Kategori:Psykologi
+Psychosis	Psykos
+Psychotherapy	Psykoterapi
+Ptah	Ptah
+Pterosaur	Flygödlor
+Ptolemaic dynasty	Ptolemaiska dynastin
+Ptolemy	Klaudios Ptolemaios
+Puberty	Pubertet
+Public domain	Public domain
+Public relations	Public Relations
+Puerto Rico	Puerto Rico
+Puerto Rico	Kategori:Puerto Rico
+Pula	Pula, Kroatien
+Pulley	Block (enkel maskin)
+Pulsar	Pulsar
+Pump	Pump
+Punctuation	Skiljetecken
+Punjab (India)	Punjab
+Punk	Kategori:Punk
+Punk rock	Punk
+Pupil	Pupill
+Puppis	Akterskeppet
+Pyongyang	Pyongyang
+Pyramid	Pyramid
+Pyramid (geometry)	Pyramid (geometri)
+Pyrenees	Pyrenéerna
+Pyrite	Pyrit
+Pyrrhic victory	Pyrrhusseger
+Pythagoras	Pythagoras
+Python (programming language)	Python (programspråk)
+Pyxis	Kompassen (stjärnbild)
+Q	Q
+Qatar	Qatar
+Qatar	Kategori:Qatar
+Qin Dynasty	Qin
+Qing Dynasty	Qingdynastin
+Quadratic equation	Andragradsekvation
+Quadrilateral	Fyrhörning
+Quaestor	Quaestor
+Quantum field theory	Kvantfältteori
+Quantum mechanics	Kvantmekanik
+Quarantine	Karantän
+Quark	Kvark
+Quartz	Kvarts
+Quasar	Kvasar
+Quaternary	Kvartär
+Quaternion	Kvaternion
+Quebec	Québec
+Quebec	Kategori:Quebec
+Quebec City	Québec (stad)
+Quechua	Quechua
+Queens	Queens
+Queensland	Queensland
+Quentin Tarantino	Quentin Tarantino
+Question mark	Frågetecken
+Quetzalcoatl	Quetzalcóatl
+Quince	Kvitten
+Quito	Quito
+R	R
+RAF (disambiguation)	RAF
+RAID	Raid
+RNA	Ribonukleinsyra
+Ra	Ra (mytologi)
+Rabat	Rabat
+Rabbi	Rabbin
+Rabindranath Tagore	Rabindranath Tagore
+Raccoon Dog	Mårdhund
+Race	Människoraser
+Rachel Carson	Rachel Carson
+Racism	Rasism
+Racism	Kategori:Rasism
+Radar	Radar
+Radian	Radian
+Radio	Kategori:Radio
+Radio telescope	Radioteleskop
+Radioactive decay	Radioaktivitet
+Radiocarbon dating	C14-metoden
+Radiology	Radiologi
+Radium	Radium
+Radius	Radie
+Radon	Radon
+Rain	Regn
+Rainbow	Regnbåge
+Rainer Maria Rilke	Rainer Maria Rilke
+Raleigh	Raleigh
+Ralph Waldo Emerson	Ralph Waldo Emerson
+Rama	Rama
+Ramadan	Ramadan
+Ramayana	Ramayana
+Ramesses II	Ramses II
+Random access memory	Random Access Memory
+Ranunculaceae	Ranunkelväxter
+Rape	Våldtäkt
+Rapeseed	Raps
+Raphael	Raffaello Sanzio
+Raphael (archangel)	Rafael (ärkeängel)
+Rapid transit	Kategori:Tunnelbanesystem
+Raspberry	Hallon
+Rat	Råttor
+Rational number	Rationella tal
+Ratite	Strutsfåglar
+Ravenna	Ravenna
+Rawalpindi	Rawalpindi
+Ray Bradbury	Ray Bradbury
+Read-only memory	ROM
+Real number	Reella tal
+Recife	Recife
+Rectangle	Rektangel
+Rectifier	Likriktare
+Recursion	Rekursion
+Recycling	Återvinning
+Red	Röd
+Red Army Faction	Röda armé-fraktionen
+Red Deer	Kronhjort
+Red Fox	Rödräv
+Red Panda	Kattbjörn
+Red Sea	Röda havet
+Red algae	Rödalger
+Red blood cell	Röd blodkropp
+Red dwarf	Röd dvärg
+Red giant	Röd jätte
+Redshift	Rödförskjutning
+Redshift (disambiguation)	Rödförskjutning
+Reduced instruction set computer	RISC
+Referendum	Folkomröstning
+Refraction	Refraktion
+Refractive index	Brytningsindex
+Refugee	Flykting
+Regent	Regent
+Reggae	Reggae
+Regiment	Regemente
+Regina	Regina, Saskatchewan
+Region	Region
+Reims	Reims
+Reincarnation	Själavandring
+Reindeer	Ren
+Relation (mathematics)	Relation
+Relativism	Relativism
+Relativity	Kategori:Relativitetsteori
+Relay	Relä
+Religion	Religion
+Religion	Kategori:Religion
+Religious Society of Friends	Kväkare
+Rembrandt	Rembrandt
+Renaissance	Renässansen
+Renaissance	Kategori:Renässans
+Reproduction	Fortplantning
+Reptile	Kräldjur
+Republic	Republik
+Republic of China	Taiwan
+Republic of Ireland	Irland
+Republic of Ireland	Kategori:Irland
+Republic of the Congo	Kongo-Brazzaville
+Republic of the Congo	Kategori:Kongo-Brazzaville
+Republican Party (United States)	Republikanska partiet
+Requiem	Requiem
+Resistor	Resistor
+Respiratory system	Respirationssystemet
+Restaurant	Restaurang
+Reticulum	Rombiska nätet
+Retina	Näthinna
+Retinol	Retinol
+Revolution	Revolution
+Revolver	Revolver
+Rhea (moon)	Rhea (måne)
+Rhea (mythology)	Rhea
+Rhenium	Rhenium
+Rhetoric	Retorik
+Rhetoric	Kategori:Retorik
+Rhine	Rhen
+Rhinoceros	Noshörningar
+Rho (letter)	Rho
+Rhode Island	Rhode Island
+Rhode Island	Kategori:Rhode Island
+Rhodes	Rhodos
+Rhodium	Rodium
+Rhombus	Romb
+Rhyme	Rim
+Rhythm	Rytm
+Rhythm and blues	Rhythm and blues
+Rib	Revben
+Riboflavin	Riboflavin
+Ribosome	Ribosom
+Rice	Ris
+Richard Feynman	Richard Feynman
+Richard Nixon	Richard Nixon
+Richard Strauss	Richard Strauss
+Richard Wagner	Richard Wagner
+Richard Wright (musician)	Richard Wright (musiker)
+Richmond	Richmond, Virginia
+Riga	Riga
+Rigel	Rigel
+Right ascension	Rektascension
+Ring (mathematics)	Ring (matematik)
+Ringo Starr	Ringo Starr
+Rio Grande	Rio Grande
+Rio de Janeiro	Rio de Janeiro
+Rio de Janeiro (state)	Rio de Janeiro (delstat)
+River	Flod
+River Thames	Themsen
+Riyadh	Riyadh
+Road	Väg
+Roald Amundsen	Roald Amundsen
+Robert A. Heinlein	Robert A. Heinlein
+Robert Andrews Millikan	Robert A. Millikan
+Robert Boyle	Robert Boyle
+Robert Burns	Robert Burns
+Robert De Niro	Robert De Niro
+Robert E. Lee	Robert E. Lee
+Robert Falcon Scott	Robert Falcon Scott
+Robert Hooke	Robert Hooke
+Robert Koch	Robert Koch
+Robert Louis Stevenson	Robert Louis Stevenson
+Robert Oppenheimer	Robert Oppenheimer
+Robert Owen	Robert Owen
+Robert Redford	Robert Redford
+Robert Schumann	Robert Schumann
+Robin Hood	Robin Hood
+Robot	Robot
+Rock	Sten, sax, påse
+Rock (geology)	Bergart
+Rock and roll	Rock'n'roll
+Rock music	Rockmusik
+Rock music	Kategori:Rockmusik
+Rocket	Raket
+Rocky Mountains	Klippiga bergen
+Rococo	Rokoko
+Rodent	Gnagare
+Roe Deer	Rådjur
+Roentgenium	Röntgenium
+Roger Bacon	Roger Bacon
+Roman Catholic Church	Romersk-katolska kyrkan
+Roman Empire	Romerska riket
+Roman Republic	Romerska republiken
+Roman calendar	Romerska kalendern
+Roman law	Romersk rätt
+Roman legion	Romersk legion
+Roman mythology	Romersk mytologi
+Roman mythology	Kategori:Romersk mytologi
+Romania	Rumänien
+Romania	Kategori:Rumänien
+Romansh	Rätoromanska
+Romanticism	Romantiken
+Rome	Rom
+Rome	Kategori:Rom
+Ronald Reagan	Ronald Reagan
+Roof	Yttertak
+Rook (bird)	Råka
+Rook (chess)	Torn (schack)
+Roosevelt	Roosevelt
+Root	Rot
+Rosa Parks	Rosa Parks
+Rosaceae	Rosväxter
+Rosales	Rosales
+Rosario	Rosario
+Rosary	Radband
+Rose	Rosor
+Roseau	Roseau
+Rosemary	Rosmarin
+Rosetta Stone	Rosettastenen
+Rosh Hashanah	Rosh hashana
+Ross Sea	Rosshavet
+Rostock	Rostock
+Rotifer	Hjuldjur
+Rotterdam	Rotterdam
+Router	Router
+Rowing (sport)	Rodd
+Royal Air Force	Storbritanniens flygvapen
+Royal Society	Royal Society
+Rubber	Gummi
+Rubicon	Rubicon
+Rubidium	Rubidium
+Ruble	Rubel
+Rubus idaeus	Hallon
+Ruby	Rubin
+Ruby (programming language)	Ruby
+Rudolf Diesel	Rudolf Diesel
+Rudolf Hess	Rudolf Hess
+Rudolf Steiner	Rudolf Steiner
+Rudyard Kipling	Rudyard Kipling
+Rugby football	Rugby
+Rupert Murdoch	Rupert Murdoch
+Russia	Ryssland
+Russia	Kategori:Ryssland
+Russian Revolution (1917)	Ryska revolutionen
+Russo-Japanese War	Rysk-japanska kriget
+Ruthenium	Rutenium
+Rutherford B. Hayes	Rutherford B. Hayes
+Rutherfordium	Rutherfordium
+Rwanda	Rwanda
+Rwanda	Kategori:Rwanda
+Rye	Råg
+S	S
+SOAP	SOAP
+SOS	SOS
+Sacrament	Sakrament
+Sacramento	Sacramento
+Saddam Hussein	Saddam Hussein
+Safari (web browser)	Safari (webbläsare)
+Saffron	Saffran
+Sagitta	Pilen
+Sagittarius (constellation)	Skytten (stjärnbild)
+Sahara	Sahara
+Sail	Segel
+Saint	Helgon
+Saint Andrew	Andreas (apostel)
+Saint George	Sankt Göran
+Saint Kitts and Nevis	Saint Kitts och Nevis
+Saint Kitts and Nevis	Kategori:Saint Christopher och Nevis
+Saint Lawrence River	Saint Lawrencefloden
+Saint Lucia	Saint Lucia
+Saint Lucia	Kategori:Saint Lucia
+Saint Martin	Saint Martin
+Saint Nicholas	Nikolaus (helgon)
+Saint Patrick	Patrick
+Saint Paul	Saint Paul, Minnesota
+Saint Peter	Petrus
+Saint Petersburg	Sankt Petersburg
+Saint Petersburg	Kategori:Sankt Petersburg
+Saint Vincent and the Grenadines	Saint Vincent och Grenadinerna
+Saint Vincent and the Grenadines	Kategori:Saint Vincent och Grenadinerna
+Sake	Sake
+Saladin	Saladin
+Salah	Salah
+Salamander	Stjärtgroddjur
+Salem	Salem, Oregon
+Salerno	Salerno
+Saliva	Saliv
+Salman Rushdie	Salman Rushdie
+Salmonidae	Laxfiskar
+Salt	Salt
+Salt (chemistry)	Salter
+Salt Lake City	Salt Lake City
+Salvador	Salvador, Brasilien
+Salzburg	Salzburg
+Salzburg (state)	Salzburg (delstat)
+Samara	Samara
+Samarium	Samarium
+Samarkand	Samarkand
+Samoa	Samoa
+Samoa	Kategori:Samoa
+Samsara	Samsara
+Samuel Beckett	Samuel Beckett
+Samuel F. B. Morse	Samuel Morse
+Samuel Taylor Coleridge	Samuel Taylor Coleridge
+Samurai	Samuraj
+San Antonio	San Antonio, Texas
+San Diego	San Diego
+San Francisco	San Francisco
+San Jose	San Jose, Kalifornien
+San Juan	San Juan, Puerto Rico
+San Marino	San Marino
+San Marino	Kategori:San Marino
+San Marino	San Marino (stad)
+San Salvador	San Salvador
+Sand	Sand
+Sandro Botticelli	Sandro Botticelli
+Sandstone	Sandsten
+Sandwich	Sandwich
+Sanskrit	Sanskrit
+Santa Claus	Jultomten
+Santa Fe	Santa Fe, New Mexico
+Santiago	Santiago de Chile
+Santiago	Santiago (olika betydelser)
+Santiago de Cuba	Santiago de Cuba
+Santo Domingo	Santo Domingo
+Santos (Săo Paulo)	Santos, São Paulo
+Sapphire	Safir
+Sappho	Sapfo
+Sapporo	Sapporo
+Sarah Bernhardt	Sarah Bernhardt
+Sarajevo	Sarajevo
+Saratov	Saratov
+Sarcophagus	Sarkofag
+Sardine	Sardin
+Sardinia	Sardinien
+Sari	Sari (stad)
+Sarin	Sarin
+Saskatchewan	Saskatchewan
+Satan	Satan
+Satanism	Satanism
+Satellite	Satellit
+Satire	Satir
+Saturday	Lördag
+Saturn	Saturnus
+Saturn	Kategori:Saturnus
+Saturn (disambiguation)	Saturnus (olika betydelser)
+Saturn (mythology)	Saturnus (mytologi)
+Satyr	Satyrer
+Sauce	Sås
+Saudi Arabia	Saudiarabien
+Saudi Arabia	Kategori:Saudiarabien
+Saul Bellow	Saul Bellow
+Sausage	Korv
+Savanna	Savann
+Saxony	Sachsen
+Saxony	Kategori:Sachsen
+Saxophone	Saxofon
+Scandinavia	Skandinavien
+Scandinavia	Kategori:Skandinavien
+Scandinavian Peninsula	Skandinaviska halvön
+Scandium	Skandium
+Scapula	Skulderblad
+Scheldt	Schelde
+Scheme (programming language)	Scheme
+Schizophrenia	Schizofreni
+Scholasticism	Skolastik
+School	Skola
+Schutzstaffel	Schutzstaffeln
+Science	Naturvetenskap
+Science	Kategori:Vetenskap
+Science fiction	Science fiction
+Science fiction	Kategori:Science fiction
+Scientific method	Vetenskaplig metod
+Scientist	Vetenskapsman
+Scientology	Scientologi
+Scipio Africanus	Scipio Africanus
+Scissors	Sax
+Sciuridae	Ekorrfamiljen
+Scorpion	Skorpioner
+Scorpius	Skorpionen (stjärnbild)
+Scotland	Skottland
+Scotland	Kategori:Skottland
+Scots Pine	Tall
+Scottish Gaelic	Skotsk gäliska
+Scouting	Scouting
+Scrabble	Scrabble
+Screw	Skruv
+Screwdriver	Skruvmejsel
+Scrotum	Scrotum
+Sculptor (constellation)	Bildhuggaren
+Sculpture	Skulptur
+Sculpture	Kategori:Skulptur
+Sea	Hav
+Sea Otter	Havsutter
+Sea anemone	Anemoner
+Sea cucumber	Sjögurkor
+Sea level	Havsyta
+Sea of Azov	Azovska sjön
+Sea of Japan	Japanska havet
+Sea of Marmara	Marmarasjön
+Sea of Okhotsk	Ochotska havet
+Sea urchin	Sjöborrar
+Seaborgium	Seaborgium
+Seahorse	Sjöhästar
+Search engine	Söktjänst
+Sears Tower	Sears Tower
+Season	Säsong
+Seattle	Seattle
+Second	Sekund
+Second Crusade	Andra korståget
+Second Vatican Council	Andra Vatikankonciliet
+Second law of thermodynamics	Entropiprincipen
+Sect	Sekt
+Security	Kategori:Säkerhet
+Sedimentary rock	Sedimentär bergart
+Seed	Frö
+Segovia	Segovia
+Seine	Seine
+Seismology	Seismologi
+Seismology	Kategori:Seismologi
+Selene	Selene
+Selenium	Selen
+Seleucus I Nicator	Seleukos I
+Semantics	Semantik
+Semantics	Kategori:Semantik
+Semen	Sädesvätska
+Semicolon	Semikolon
+Semiconductor	Halvledare
+Semiotics	Semiotik
+Senegal	Senegal
+Senegal	Kategori:Senegal
+Seoul	Seoul
+Seppuku	Seppuku
+September	September
+September 11	11 september
+September 11	11 september-attackerna
+September 17	17 september
+September 29	29 september
+Septuagint	Septuaginta
+Sequence	Följd
+Serbia	Serbien
+Serbia	Kategori:Serbien
+Serbia and Montenegro	Serbien och Montenegro
+Serbia and Montenegro	Kategori:Serbien och Montenegro
+Serfdom	Livegenskap
+Sergei Eisenstein	Sergej Eisenstein
+Sergei Rachmaninoff	Sergej Rachmaninov
+Series (mathematics)	Serie (matematik)
+Serine	Serin
+Serotonin	Serotonin
+Serpens	Ormen (stjärnbild)
+Server (computing)	Värddator
+Set	Mängd
+Set (mythology)	Set (gud)
+Set theory	Mängdteori
+Set theory	Kategori:Mängdteori
+Sevastopol	Sevastopol
+Seven Years' War	Sjuårskriget
+Severe acute respiratory syndrome	Sars (sjukdom)
+Seville	Sevilla
+Sex	Kön
+Sex organ	Könsorgan
+Sexism	Sexism
+Sextant	Sextant
+Sexual intercourse	Samlag
+Sexuality	Kategori:Sexualitet
+Sexually transmitted disease	Sexuellt överförbar infektion
+Seychelles	Seychellerna
+Seychelles	Kategori:Seychellerna
+Shah	Shah
+Shahadah	Shahadah
+Shamanism	Schamanism
+Shanghai	Shanghai
+Share (finance)	Aktie
+Shareware	Utvärderingsprogram
+Sharia	Sharia
+Shark	Hajar
+Sheffield	Sheffield
+Sherlock Holmes	Sherlock Holmes
+Shetland	Shetlandsöarna
+Shield	Sköld
+Shikoku	Shikoku
+Shinto	Shinto
+Ship	Fartyg
+Shiva	Shiva
+Shogi	Shogi
+Shogun	Shogun
+Shorthand	Stenografi
+Shrimp	Räkor
+Shrub	Buske
+Siberia	Sibirien
+Siberian Husky	Siberian husky
+Sichuan	Sichuan
+Sicily	Sicilien
+Sicily	Kategori:Sicilien
+Siemens (unit)	Siemens (enhet)
+Sierra Leone	Sierra Leone
+Sierra Leone	Kategori:Sierra Leone
+Sigma	Sigma
+Sigmund Freud	Sigmund Freud
+Sign language	Teckenspråk
+Sigrid Undset	Sigrid Undset
+Sikhism	Sikhism
+Sikkim	Sikkim
+Silesia	Schlesien
+Silicon	Kisel
+Silicon Valley	Silicon Valley
+Silicon dioxide	Kiseldioxid
+Silk	Silke
+Silk Road	Sidenvägen
+Silurian	Silur
+Silver	Silver
+Simone de Beauvoir	Simone de Beauvoir
+Sin	Synd
+Sinai Peninsula	Sinaihalvön
+Sinclair Lewis	Sinclair Lewis
+Singapore	Singapore
+Singapore	Kategori:Singapore
+Single (music)	Singelskiva
+Siren	Sirener
+Sirenia	Sirendjur
+Sirius	Sirius
+Sistine Chapel	Sixtinska kapellet
+Sisyphus	Sisyfos
+Sitting Bull	Sitting Bull
+Situation comedy	Situationskomedi
+Six-Day War	Sexdagarskriget
+Skagerrak	Skagerrak
+Skateboard	Skateboard
+Skeletal system	Kategori:Skelettet
+Skepticism	Skepticism
+Skin	Hud
+Skinhead	Skinnskalle
+Skopje	Skopje
+Skull	Kranium
+Skylab	Skylab
+Skyscraper	Skyskrapa
+Slash (musician)	Slash
+Slavery	Slaveri
+Slayer	Slayer
+Sleep	Sömn
+Slovakia	Slovakien
+Slovakia	Kategori:Slovakien
+Slovenia	Slovenien
+Slovenia	Kategori:Slovenien
+Small intestine	Tunntarm
+Smog	Smog
+Smolensk	Smolensk
+Snake	Ormar
+Snooker	Snooker
+Snow	Snö
+Soap	Tvål
+Social psychology	Socialpsykologi
+Socialism	Socialism
+Socialism	Kategori:Socialism
+Socialist Party (France)	Socialistiska partiet (Frankrike)
+Society	Kategori:Samhälle
+Society	Samhälle
+Society of Jesus	Jesuitorden
+Sociology	Sociologi
+Sociology	Kategori:Sociologi
+Socrates	Sokrates
+Sodium	Natrium
+Sodium bicarbonate	Natriumvätekarbonat
+Sodium chloride	Natriumklorid
+Sodium hydroxide	Natriumhydroxid
+Sofia	Sofia (stad)
+Softball	Softboll
+Software	Kategori:Datorprogram
+Soil	Jord (mark)
+Solanaceae	Potatisväxter
+Solanaceae	Kategori:Solanaceae
+Solar System	Solsystemet
+Solar System	Kategori:Solsystemet
+Solar cell	Solcell
+Solar eclipse	Solförmörkelse
+Solar energy	Solenergi
+Solar wind	Solvind
+Solid	Fast form
+Solid state	Fast
+Solidarity	Solidaritet (fackförening)
+Solomon	Salomo
+Solomon Islands	Salomonöarna
+Solomon Islands	Kategori:Salomonöarna
+Solon	Solon
+Solstice	Solstånd
+Solvent	Lösningsmedel
+Somalia	Somalia
+Somalia	Kategori:Somalia
+Somerset	Somerset
+Somme	Somme (departement)
+Sonata	Sonat
+Song	Sång
+Song of Solomon	Höga Visan
+Sonnet	Sonett
+Sophia Loren	Sophia Loren
+Sophism	Sofister
+Sophocles	Sofokles
+Soprano	Sopran
+Sorbonne	Sorbonne
+Sorghum	Durror
+Sorting algorithm	Sorteringsalgoritm
+Soul	Själ
+Sound	Ljud
+Soup	Soppa
+Source code	Källkod
+South	Söder
+South Africa	Kategori:Sydafrika
+South America	Sydamerika
+South America	Kategori:Sydamerika
+South Australia	South Australia
+South Carolina	South Carolina
+South Carolina	Kategori:South Carolina
+South China Sea	Sydkinesiska havet
+South Dakota	South Dakota
+South Dakota	Kategori:South Dakota
+South Island	Sydön
+South Korea	Sydkorea
+South Korea	Kategori:Sydkorea
+South Pole	Sydpolen
+South Vietnam	Sydvietnam
+Southeast Asia	Sydostasien
+Southern Hemisphere	Södra halvklotet
+Sovereignty	Suveränitet
+Soviet Union	Sovjetunionen
+Soviet Union	Kategori:Sovjetunionen
+Soybean	Sojaböna
+Space	Rymden
+Space Shuttle	Rymdfärja
+Space station	Rymdstation
+Spacecraft	Rymdfarkost
+Spain	Spanien
+Spain	Kategori:Spanien
+Spam (electronic)	Skräppost
+Spanish Civil War	Spanska inbördeskriget
+Spanish people	Kategori:Spanjorer
+Spanish-American War	Spansk-amerikanska kriget
+Sparta	Sparta
+Spear	Spjut
+Special relativity	Speciella relativitetsteorin
+Species	Art
+Spectroscopy	Spektroskopi
+Speed	Fart
+Speed of light	Ljusets hastighet
+Speleology	Speleologi
+Spencer Tracy	Spencer Tracy
+Sperm Whale	Kaskelot
+Spermatophyte	Fröväxter
+Spermatozoon	Spermie
+Sphere	Sfär
+Sphinx	Sfinx
+Spice	Krydda
+Spider	Spindlar
+Spin (physics)	Spinn
+Spinach	Spenat
+Spinal cord	Ryggmärg
+Spiral galaxy	Spiralgalax
+Spleen	Mjälte
+Split	Split
+Sponge	Svampdjur
+Sport	Sport
+Spreadsheet	Kalkylprogram
+Spree	Spree
+Spring (season)	Vår
+Springfield	Springfield, Illinois
+Spyware	Spionprogram
+Squamata	Fjällbärande kräldjur
+Square (geometry)	Kvadrat
+Square metre	Kvadratmeter
+Square root	Kvadratrot
+Squash (sport)	Squash (sport)
+Squirrel	Ekorrar
+Sri Lanka	Sri Lanka
+Sri Lanka	Kategori:Sri Lanka
+St. Louis	Saint Louis
+Stained glass	Glasmålning
+Stainless steel	Rostfritt stål
+Stalinism	Stalinism
+Standard Generalized Markup Language	SGML
+Standard deviation	Standardavvikelse
+Stanford University	Stanford University
+Stanley Kubrick	Stanley Kubrick
+Star	Stjärna
+Star of David	Davidsstjärna
+Starch	Stärkelse
+Starfish	Sjöstjärnor
+State	Stat
+Staten Island	Staten Island
+Statistical mechanics	Statistisk mekanik
+Statistics	Statistik
+Statistics	Kategori:Statistik
+Statue of Liberty	Frihetsgudinnan
+Stavanger	Stavanger
+Steam	Ånga
+Steam engine	Ångmaskin
+Steel	Stål
+Stefan Zweig	Stefan Zweig
+Steffi Graf	Steffi Graf
+Stegosaurus	Stegosaurus
+Stem cell	Stamcell
+Stendhal	Stendhal
+Stephen Hawking	Stephen Hawking
+Steppe	Stäpp
+Steradian	Steradian
+Sternum	Bröstben
+Steroid	Steroid
+Steven Spielberg	Steven Spielberg
+Sting	Sting
+Stock exchange	Aktiebörs
+Stockholm	Stockholm
+Stoicism	Stoicism
+Stomach	Magsäck
+Stone Age	Stenåldern
+Stonehenge	Stonehenge
+Stork	Storkar
+Storm	Storm
+Strait	Sund
+Strait of Gibraltar	Gibraltar sund
+Strait of Hormuz	Hormuzsundet
+Strait of Magellan	Magellans sund
+Strait of Messina	Messinasundet
+Straits	Kategori:Sund
+Strasbourg	Strasbourg
+Strategy	Strategi
+Stratigraphy	Stratigrafi
+Stratosphere	Stratosfär
+Strawberry	Smultronsläktet
+Stress (medicine)	Stress
+String theory	Strängteori
+Stroke	Slaganfall
+Strong interaction	Stark växelverkan
+Strontium	Strontium
+Structuralism	Strukturalism
+Stub	Mall:Stub
+Student	Student
+Stupa	Stupa
+Sturmabteilung	Sturmabteilung
+Stuttgart	Stuttgart
+Styx	Styx (mytologi)
+Sub-Saharan Africa	Subsahariska Afrika
+Subculture	Subkultur
+Sublimation (chemistry)	Sublimering
+Submarine	Ubåt
+Subset	Delmängd
+Subtraction	Subtraktion
+Subversion (software)	Subversion (versionshanteringssystem)
+Sucre	Sucre
+Sucrose	Rörsocker
+Sudan	Sudan
+Sudan	Kategori:Sudan
+Sudoku	Sudoku
+Suez Canal	Suezkanalen
+Suffix	Suffix
+Sufism	Sufism
+Sugar	Socker
+Suharto	Suharto
+Sukarno	Sukarno
+Sulawesi	Sulawesi
+Sulfur	Svavel
+Sulfur dioxide	Svaveldioxid
+Sulfur mustard	Senapsgas
+Sulfuric acid	Svavelsyra
+Sultan	Sultan
+Sumatra	Sumatra
+Sumer	Sumer
+Summer	Sommar
+Sumo	Sumobrottning
+Sun	Solen
+Sun	Kategori:Solen
+Sun Yat-sen	Sun Yat-sen
+Sunday	Söndag
+Sundial	Solur
+Sunflower	Solros
+Sunni Islam	Sunniter
+Sunspot	Solfläckar
+Supercomputer	Superdator
+Superconductivity	Supraledare
+Superman	Stålmannen
+Supernova	Supernova
+Supreme Court of the United States	USA:s högsta domstol
+Sura	Sura (islam)
+Surface tension	Ytspänning
+Surgeon	Kirurgi
+Surgery	Kirurgi
+Surgery	Kategori:Kirurgi
+Suriname	Surinam
+Suriname	Kategori:Surinam
+Surrealism	Surrealism
+Surrey	Surrey
+Susan Sontag	Susan Sontag
+Sushi	Sushi
+Suva	Suva
+Svalbard	Svalbard
+Swallow	Svalor
+Swan	Svanar
+Swastika	Svastika
+Swaziland	Swaziland
+Swaziland	Kategori:Swaziland
+Sweden	Sverige
+Sweden	Kategori:Sverige
+Swedish krona	Svensk krona
+Sweet potato	Sötpotatis
+Swimming	Simning
+Swimming	Kategori:Simning
+Swiss franc	Schweizisk franc
+Swiss people	Kategori:Schweizare
+Switzerland	Schweiz
+Switzerland	Kategori:Schweiz
+Sword	Svärd
+Sydney	Sydney
+Syllable	Stavelse
+Sylvia Plath	Sylvia Plath
+Symbiosis	Symbios
+Symbol	Symbol
+Symphony	Symfoni
+Symptom	Symptom
+Synagogue	Synagoga
+Synesthesia	Synestesi
+Synonym	Synonym
+Syntax	Syntax
+Synthesizer	Synthesizer
+Syphilis	Syfilis
+Syracuse	Syrakusa
+Syria	Syrien
+Syria	Kategori:Syrien
+System	System
+Systematics	Systematik (biologi)
+T	T
+T. E. Lawrence	Lawrence av Arabien
+T. S. Eliot	T.S. Eliot
+Table (furniture)	Bord
+Table tennis	Bordtennis
+Taboo	Tabu
+Tacitus	Publius Cornelius Tacitus
+Taekwondo	Taekwondo
+Tagus	Tajo
+Tahiti	Tahiti
+Tai chi chuan	Taijiquan
+Tail	Svans
+Taipei	Taipei
+Taiwan	Kategori:Taiwan
+Taiwan	Taiwan (ö)
+Taj Mahal	Taj Mahal
+Tajikistan	Tadzjikistan
+Tajikistan	Kategori:Tadzjikistan
+Talc	Talk
+Taliban	Talibaner
+Tallahassee	Tallahassee
+Tallinn	Tallinn
+Talmud	Talmud
+Tamil Nadu	Tamil Nadu
+Tampa	Tampa
+Tampere	Tammerfors
+Tanakh	Tanach
+Tang Dynasty	Tangdynastin
+Tangier	Tanger
+Tango (dance)	Tango
+Tank	Stridsvagn
+Tantalum	Tantal
+Tantalus	Tantalos
+Tanzania	Tanzania
+Tanzania	Kategori:Tanzania
+Taoism	Daoism (filosofi)
+Tapir	Tapirer
+Tardigrade	Trögkrypare
+Tarn	Tarn
+Tarragon	Dragon (växt)
+Tartarus	Tartaros
+Tartu	Tartu
+Tashkent	Tasjkent
+Tasman Sea	Tasmanhavet
+Tasmania	Tasmanien
+Tasmanian Devil	Tasmansk djävul
+Taste	Grundsmak
+Tattoo	Tatuering
+Tau	Tau
+Taurus (constellation)	Oxen (stjärnbild)
+Tawny Owl	Kattuggla
+Tax	Skatt
+Taxation	Kategori:Skatter
+Taxicab	Taxi
+Taxon	Taxon
+Taxonomy	Taxonomi
+Taxus baccata	Idegran
+Tbilisi	Tbilisi
+Tea	Te
+Tea	Kategori:Te
+Teacher	Lärare
+Technetium	Teknetium
+Techno	Techno
+Technology	Teknologi
+Technology	Kategori:Teknik
+Tegucigalpa	Tegucigalpa
+Tehran	Teheran
+Tel Aviv	Tel Aviv
+Telecommunication	Telekommunikation
+Telegraphy	Telegrafi
+Telepathy	Telepati
+Telephone	Telefon
+Telescope	Teleskop
+Telescopium	Kikaren
+Television	Television
+Television	Kategori:Television
+Tellurium	Tellur
+Temperature	Temperatur
+Temple	Tempel
+Temple of Artemis	Artemistemplet i Efesos
+Ten Commandments	De tio budorden
+Tenerife	Teneriffa
+Tennessee	Tennessee
+Tennessee	Kategori:Tennessee
+Tennessee Williams	Tennessee Williams
+Tennis	Tennis
+Tennis	Kategori:Tennis
+Tenor	Tenor
+Tenzing Norgay	Tenzing Norgay
+Tequila	Tequila
+Terbium	Terbium
+Termite	Termiter
+Terpsichore	Terpsichore
+Terrestrial planet	Stenplanet
+Terrorism	Terrorism
+Terrorism	Kategori:Terrorism
+Tertullian	Tertullianus
+Tesla (unit)	Tesla
+Testicle	Testikel
+Testosterone	Testosteron
+Tetanus	Stelkramp
+Tethys (moon)	Tethys (måne)
+Tethys (mythology)	Tethys
+Tetrahedron	Tetraeder
+Tetrahydrocannabinol	Tetrahydrocannabinol
+Tetrapod	Tetrapoda
+Texas	Texas
+Texas	Kategori:Texas
+Textile	Textil
+Thailand	Thailand
+Thailand	Kategori:Thailand
+Thales	Thales från Miletos
+Thalia	Thalia
+Thallium	Tallium
+Thanatos	Thanatos
+Thanksgiving	Thanksgiving
+Thanksgiving (Canada)	Thanksgiving
+Thanksgiving (United States)	Thanksgiving
+Thanksgiving (disambiguation)	Thanksgiving
+The Gambia	Gambia
+The Gambia	Kategori:Gambia
+The Hague	Haag
+The Star-Spangled Banner	The Star-Spangled Banner
+Theatre	Teater
+Theatre	Kategori:Teater
+Thebe (moon)	Thebe (måne)
+Thebes	Thebe, Grekland
+Thebes	Thebe, Egypten
+Theia	Theia
+Themis	Themis
+Themistocles	Themistokles
+Theocracy	Teokrati
+Theodolite	Teodolit
+Theodor Mommsen	Theodor Mommsen
+Theodore Roosevelt	Theodore Roosevelt
+Theodosius I	Theodosius I
+Theology	Teologi
+Theology	Kategori:Teologi
+Theorem	Teorem
+Theory	Teori
+Theory of relativity	Relativitetsteori
+Theravada	Theravada
+Thermodynamics	Termodynamik
+Thermodynamics	Kategori:Termodynamik
+Thermometer	Termometer
+Theseus	Theseus
+Thessaloniki	Thessaloniki
+Thessaly	Thessalien
+Theta	Theta
+Thetis	Thetis
+Thiamine	Tiamin
+Think tank	Tankesmedja
+Third Crusade	Tredje korståget
+Third World	Tredje världen
+Thirty Years' War	Trettioåriga kriget
+Thomas Aquinas	Thomas av Aquino
+Thomas Edison	Thomas Edison
+Thomas Hardy	Thomas Hardy
+Thomas Hobbes	Thomas Hobbes
+Thomas Jefferson	Thomas Jefferson
+Thomas Malthus	Thomas Robert Malthus
+Thomas Mann	Thomas Mann
+Thomas More	Thomas More
+Thomas Paine	Thomas Paine
+Thomas Young (scientist)	Thomas Young
+Thor	Tor
+Thorium	Torium
+Thoth	Thot
+Thought	Tänkande
+Thrace	Thrakien
+Thucydides	Thukydides
+Thulium	Tulium
+Thumb	Tumme
+Thuringia	Thüringen
+Thuringia	Kategori:Thüringen
+Thursday	Torsdag
+Thylacine	Pungvarg
+Thyme	Timjan
+Thymine	Tymin
+Thyroid	Sköldkörtel
+Tianjin	Tianjin
+Tiber	Tibern
+Tiberius	Tiberius
+Tibet	Tibet
+Tibet	Kategori:Tibet
+Ticino	Ticino
+Tide	Tidvatten
+Tierra del Fuego	Eldslandet
+Tiger	Tiger
+Tigris	Tigris
+Tilia	Lind
+Timbuktu	Timbuktu
+Time	Tid
+Time	Kategori:Tid
+Time (magazine)	TIME Magazine
+Time zone	Tidszon
+Timor	Timor
+Timur	Timur Lenk
+Tin	Tenn
+Tirana	Tirana
+Tissue (biology)	Vävnad
+Tit (bird)	Mesfåglar
+Titan (disambiguation)	Titan
+Titan (moon)	Titan (måne)
+Titan (mythology)	Titaner
+Titania (moon)	Titania
+Titanic (disambiguation)	Titanic (olika betydelser)
+Titanium	Titan (grundämne)
+Titian	Tizian
+Titus	Titus (romersk kejsare)
+Tivoli	Tivoli (stad)
+Tobacco	Tobak
+Tocantins (state)	Tocantins (delstat)
+Tocopherol	Alfatokoferol
+Tofu	Tofu
+Togo	Togo
+Togo	Kategori:Togo
+Tokyo	Tokyo
+Toledo	Toledo, Spanien
+Toluene	Toluen
+Tom Hanks	Tom Hanks
+Tom and Jerry	Tom och Jerry
+Tomato	Tomat
+Tonga	Tonga
+Tonga	Kategori:Tonga
+Tongue	Tunga
+Toni Morrison	Toni Morrison
+Tony Blair	Tony Blair
+Tool	Verktyg
+Tooth	Tänder
+Toothbrush	Tandborste
+Topaz	Topas
+Topeka	Topeka
+Topology	Topologi
+Topology	Kategori:Topologi
+Torah	Torah
+Tornado	Tromb
+Toronto	Toronto
+Torpedo	Torped
+Torque	Vridmoment
+Tortoise	Landsköldpaddor
+Torture	Tortyr
+Torus	Torus
+Totalitarianism	Totalitarism
+Toulon	Toulon
+Toulouse	Toulouse
+Tour de France	Tour de France
+Tourism	Turism
+Tourism	Kategori:Turism
+Tours	Tours
+Tower	Torn
+Tower of Babel	Babels torn
+Tower of London	Towern
+Town	Stad
+Toxicity	Toxicitet
+Toxicology	Toxikologi
+Toy	Leksak
+Toyota	Toyota
+Tractor	Traktor
+Trade	Handel
+Trade union	Fackförening
+Trademark	Varumärke
+Tradition	Tradition
+Tragedy	Tragedi
+Train	Tåg
+Train station	Järnvägsstation
+Trajan	Trajanus
+Tram	Spårvagn
+Transcendental number	Transcendent tal
+Transformer	Transformator
+Transistor	Transistor
+Transliteration	Translitteration
+Transmission Control Protocol	Transmission control protocol
+Transportation	Kategori:Transportväsen
+Transsexualism	Transsexuell
+Transylvania	Transsylvanien
+Trapezoid	Parallelltrapets
+Treaty	Traktat
+Treaty of Versailles	Versaillesfreden
+Tree	Träd
+Trento	Trento
+Trenton	Trenton
+Triangle	Triangel
+Triangulum	Triangeln (stjärnbild)
+Triangulum Australe	Södra triangeln
+Triassic	Trias
+Tributary	Biflod
+Triceratops	Triceratops
+Trier	Trier
+Trigonometric function	Trigonometrisk funktion
+Trigonometry	Trigonometri
+Trigonometry	Kategori:Trigonometri
+Trilobite	Trilobiter
+Trilogy	Trilogi
+Trinidad	Trinidad
+Trinidad and Tobago	Trinidad och Tobago
+Trinidad and Tobago	Kategori:Trinidad och Tobago
+Trinitrotoluene	Trotyl
+Trinity	Treenighetsläran
+Tripoli	Tripoli
+Triskelion	Triskele
+Tritium	Tritium
+Triton (moon)	Triton (måne)
+Triton (mythology)	Triton (mytologi)
+Triumphal arch	Triumfbåge
+Trojan Horse	Trojanska hästen
+Trojan War	Trojanska kriget
+Trojan horse (computing)	Trojansk häst
+Troll	Troll
+Troll (Internet)	Internettroll
+Trolleybus	Trådbuss
+Trombone	Trombon
+Trondheim	Trondheim
+Tropic of Cancer	Kräftans vändkrets
+Tropic of Capricorn	Stenbockens vändkrets
+Troposphere	Troposfär
+Trotskyism	Trotskism
+Troy	Troja
+Truck	Lastbil
+Truman Doctrine	Trumandoktrinen
+Trumpet	Trumpet
+Truth	Sanning
+Trygve Lie	Trygve Lie
+Tryptophan	Tryptofan
+Tsar	Tsar
+Tsunami	Tsunami
+Tuareg	Tuareger
+Tuba	Tuba
+Tuber (genus)	Tryffel
+Tuberculosis	Tuberkulos
+Tucana	Tukanen
+Tucson	Tucson
+Tuesday	Tisdag
+Tulip	Tulpansläktet
+Tumor	Tumör
+Tundra	Tundra
+Tungsten	Volfram
+Tunicate	Manteldjur
+Tunis	Tunis
+Tunisia	Tunisien
+Tunisia	Kategori:Tunisien
+Tunnel	Tunnel
+Turbine	Turbin
+Turin	Turin
+Turing machine	Turingmaskin
+Turkey	Turkiet
+Turkey	Kategori:Turkiet
+Turkmenistan	Turkmenistan
+Turkmenistan	Kategori:Turkmenistan
+Turmeric	Gurkmeja
+Turtle	Sköldpaddor
+Tuscany	Toscana
+Tuvalu	Tuvalu
+Tuvalu	Kategori:Tuvalu
+Tux	Tux
+Tycho Brahe	Tycho Brahe
+Typewriter	Skrivmaskin
+Typhon	Tyfon (mytologisk varelse)
+Typography	Typografi
+Typography	Kategori:Typografi
+Tyrannosaurus	Tyrannosaurus rex
+Tyre	Tyros
+Tyrol (state)	Tyrolen (delstat)
+Tyrrhenian Sea	Tyrrenska havet
+U	U
+UNESCO	UNESCO
+Ufa	Ufa
+Uganda	Uganda
+Uganda	Kategori:Uganda
+Ukraine	Ukraina
+Ukraine	Kategori:Ukraina
+Ulan Bator	Ulaanbaatar
+Ulster	Ulster
+Ultrasound	Ultraljud
+Ultraviolet	Ultraviolett strålning
+Ulysses S. Grant	Ulysses S. Grant
+Umbrella	Paraply
+Umbria	Umbrien
+Uncertainty principle	Osäkerhetsprincipen
+Unemployment	Arbetslöshet
+Unicorn	Enhörning
+Unidentified flying object	Ufo
+Uniform Resource Locator	Uniform Resource Locator
+Union (set theory)	Union (matematik)
+United Arab Emirates	Förenade arabemiraten
+United Arab Emirates	Kategori:Förenade arabemiraten
+United Arab Republic	Förenade arabrepubliken
+United Kingdom	Storbritannien
+United Kingdom	Kategori:Storbritannien
+United Nations	Förenta nationerna
+United Nations	Kategori:Förenta nationerna
+United Nations Children's Fund	Unicef
+United States	USA
+United States	Kategori:USA
+United States Air Force	United States Air Force
+United States Congress	USA:s kongress
+United States Constitution	USA:s konstitution
+United States House of Representatives	USA:s representanthus
+United States Military Academy	United States Military Academy
+United States Navy	USA:s flotta
+United States Senate	USA:s senat
+United States Virgin Islands	Amerikanska Jungfruöarna
+United States dollar	United States dollar
+Universe	Universum
+University	Universitet
+University of Chicago	University of Chicago
+University of Pennsylvania	University of Pennsylvania
+Unix	Unix
+Unix	Kategori:Unix
+Ununbium	Ununbium
+Ununhexium	Ununhexium
+Ununpentium	Ununpentium
+Ununquadium	Ununquadium
+Ununtrium	Ununtrium
+Upanishad	Upanishaderna
+Uppsala	Uppsala
+Upsilon	Ypsilon
+Ur	Ur (stad)
+Uracil	Uracil
+Ural Mountains	Uralbergen
+Urania	Urania
+Uranium	Uran
+Uranus	Uranus
+Uranus	Kategori:Uranus
+Uranus (mythology)	Uranos
+Urdu	Urdu
+Urea	Urea
+Urine	Urin
+Ursa Major	Stora björnen
+Ursa Minor	Lilla björnen
+Uruguay	Uruguay
+Uruguay	Kategori:Uruguay
+Utah	Utah
+Utah	Kategori:Utah
+Uterus	Livmoder
+Utilitarianism	Utilitarism
+Utopia	Utopi
+Utrecht (city)	Utrecht
+Utrecht (province)	Utrecht (provins)
+Uttar Pradesh	Uttar Pradesh
+Uzbekistan	Uzbekistan
+Uzbekistan	Kategori:Uzbekistan
+V	V
+Vacuole	Vakuol
+Vacuum	Vakuum
+Vacuum tube	Elektronrör
+Vaduz	Vaduz
+Vagina	Slida
+Valence	Valence
+Valencia	Valencia
+Valentina Tereshkova	Valentina Teresjkova
+Valentine's Day	Alla hjärtans dag
+Valhalla	Valhall
+Valkyrie	Valkyria
+Valletta	Valletta
+Valley	Dal
+Vampire	Vampyr
+Vanadium	Vanadin
+Vancouver	Vancouver
+Vancouver Island	Vancouver Island
+Vandalism	Vandalism
+Vanir	Vaner
+Vanuatu	Vanuatu
+Vanuatu	Kategori:Vanuatu
+Var (department)	Var (departement)
+Variance	Varians
+Varna	Varna (stad)
+Vascular plant	Kärlväxter
+Vatican City	Vatikanstaten
+Vatican City	Kategori:Vatikanstaten
+Vector (spatial)	Vektor
+Vega	Vega (stjärna)
+Vegetable	Grönsaker
+Vegetarianism	Vegetarian
+Vein	Ven (blodkärl)
+Vela (constellation)	Seglet
+Velociraptor	Velociraptor
+Velocity	Hastighet
+Veneto	Veneto
+Venezuela	Venezuela
+Venezuela	Kategori:Venezuela
+Venice	Venedig
+Venus	Venus
+Venus (disambiguation)	Venus (olika betydelser)
+Venus (mythology)	Venus (gudinna)
+Verb	Verb
+Vermont	Vermont
+Vermont	Kategori:Vermont
+Verona	Verona
+Versailles	Versailles
+Vertebra	Ryggkota
+Vertebral column	Ryggrad
+Vertebrate	Ryggradsdjur
+Vespasian	Vespasianus
+Vesta (mythology)	Vesta
+Veto	Veto
+Vice President of the United States	USA:s vicepresident
+Vichy	Vichy
+Victor Hugo	Victor Hugo
+Victoria	Victoria, Seychellerna
+Victoria	Victoria, British Columbia
+Victoria	Victoria
+Victoria (Australia)	Victoria, Australien
+Victoria Falls	Victoriafallen
+Video	Video
+Video game	Datorspel
+Vienna	Wien
+Vienna	Kategori:Wien
+Vienne	Vienne (departement)
+Vientiane	Vientiane
+Vietnam	Vietnam
+Vietnam	Kategori:Vietnam
+Vietnam War	Vietnamkriget
+Vietnam War	Kategori:Vietnamkriget
+Viking	Viking
+Vilfredo Pareto	Vilfredo Pareto
+Village	By
+Vilnius	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Vincenzo Bellini	Vincenzo Bellini
+Vinegar	Vinäger
+Viola	Altfiol
+Violence	Våld
+Violin	Fiol
+Virgil	Vergilius
+Virgin Islands	Jungfruöarna
+Virginia	Virginia
+Virginia	Kategori:Virginia
+Virginia Woolf	Virginia Woolf
+Virginity	Jungfru
+Virgo (constellation)	Jungfrun (stjärnbild)
+Virtual memory	Virtuellt minne
+Virtual reality	Virtuell verklighet
+Virtue	Dygd
+Virus	Virus
+Viscosity	Viskositet
+Vishnu	Vishnu
+Vistula	Wisła
+Vitamin	Vitaminer
+Vitamin A	Retinol
+Vitamin B6	Pyridoxin
+Vitamin D	Vitamin D
+Vitamin K	K-vitamin
+Vittorio De Sica	Vittorio De Sica
+Vitus Bering	Vitus Bering
+Vivien Leigh	Vivien Leigh
+Vladimir Lenin	Vladimir Lenin
+Vladimir Nabokov	Vladimir Nabokov
+Vladimir Putin	Vladimir Putin
+Vladivostok	Vladivostok
+Vocative case	Vokativ
+Vodka	Vodka
+Volans	Flygfisken
+Volcano	Vulkan
+Volcanology	Kategori:Vulkanologi
+Volcanology	Vulkanologi
+Volga River	Volga
+Volgograd	Volgograd
+Volleyball	Volleyboll
+Volleyball	Kategori:Volleyboll
+Volt	Volt
+Voltage	Elektrisk spänning
+Voltaire	Voltaire
+Volume	Volym (geometri)
+Vomiting	Kräkning
+Voodoo	Voodoo
+Vowel	Vokal
+Vulcan (mythology)	Vulcanus
+Vulgar Latin	Vulgärlatin
+Vulgate	Vulgata
+Vulpecula	Räven
+Vulva	Vulva
+W	W
+W. Somerset Maugham	W. Somerset Maugham
+WYSIWYG	WYSIWYG
+Wahhabism	Wahhabism
+Wake Island	Wake
+Wales	Wales
+Wales	Kategori:Wales
+Walnut	Valnötter
+Walrus	Valross
+Walt Disney	Walt Disney
+Walt Whitman	Walt Whitman
+Walter Gropius	Walter Gropius
+Walter Scott	Walter Scott
+War	Krig
+War	Kategori:Krig
+War crime	Brott mot krigets lagar
+War of the Spanish Succession	Spanska tronföljdskriget
+Wars of the Roses	Rosornas krig
+Warsaw	Warszawa
+Wart	Vårta
+Washing machine	Tvättmaskin
+Washington	Washington, D.C.
+Washington	Washington (delstat)
+Washington	Kategori:Washington
+Washington (disambiguation)	Washington
+Wassily Kandinsky	Vasilij Kandinskij
+Waste	Avfall
+Water	Vatten
+Water	Kategori:Vatten
+Water polo	Vattenpolo
+Waterfall	Vattenfall
+Watergate scandal	Watergateaffären
+Watermelon	Vattenmelon
+Watt	Watt
+Watt-hour	Wattimme
+Wave	Mekaniska vågor
+Wavelength	Våglängd
+Wax	Vax
+Weak interaction	Svag växelverkan
+Weapon	Vapen
+Weather	Väder
+Web browser	Webbläsare
+Web page	Webbsida
+Webcam	Webbkamera
+Weber (unit)	Weber (enhet)
+Website	Webbplats
+Wednesday	Onsdag
+Week	Vecka
+Weight	Tyngd
+Weightlifting	Tyngdlyftning
+Weimar	Weimar
+Weimar Republic	Weimarrepubliken
+Welding	Svetsning
+Wellington	Wellington
+Werewolf	Varulv
+Wernher von Braun	Wernher von Braun
+Weser River	Weser
+West	Väster
+West Africa	Västafrika
+West Bank	Västbanken
+West Bengal	Västbengalen
+West Berlin	Västberlin
+West Germany	Västtyskland
+West Sussex	West Sussex
+West Virginia	West Virginia
+West Virginia	Kategori:West Virginia
+Western Australia	Western Australia
+Western Roman Empire	Västromerska riket
+Western Sahara	Västsahara
+Western Sahara	Kategori:Västsahara
+Westminster Abbey	Westminster Abbey
+Whale	Valar
+Wheat	Veten
+Wheel	Hjul
+Whisky	Whisky
+White House	Vita huset
+White Sea	Vita havet
+White blood cell	Vit blodkropp
+White dwarf	Vit dvärg
+Whitehorse	Whitehorse
+Wicca	Wicca
+Wide area network	Wide Area Network
+Wiesbaden	Wiesbaden
+Wildcat	Vildkatt
+Wilhelm Ostwald	Wilhelm Ostwald
+Will (law)	Testamente
+William Blake	William Blake
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Gladstone	William Ewart Gladstone
+William Golding	William Golding
+William Harvey	William Harvey
+William Henry Harrison	William Henry Harrison
+William Herschel	William Herschel
+William Howard Taft	William Howard Taft
+William I	Vilhelm I (tysk kejsare)
+William II	Vilhelm II av Tyskland
+William James	William James
+William McKinley	William McKinley
+William Rowan Hamilton	William Rowan Hamilton
+William Shakespeare	William Shakespeare
+William Shockley	William B. Shockley
+William Wordsworth	William Wordsworth
+William of Ockham	William Ockham
+Willow	Videsläktet
+Willy Brandt	Willy Brandt
+Wind instrument	Blåsinstrument
+Wind power	Vindkraft
+Windhoek	Windhoek
+Windmill	Väderkvarn
+Window	Fönster
+Wine	Vin
+Winnipeg	Winnipeg
+Winston Churchill	Winston Churchill
+Winter	Vinter
+Winter Olympic Games	Olympiska vinterspelen
+Winter Olympic Games	Kategori:Olympiska vinterspelen
+Wisconsin	Wisconsin
+Wisconsin	Kategori:Wisconsin
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Wolfgang Pauli	Wolfgang Pauli
+Woman	Kvinna
+Wood	Trä
+Woodrow Wilson	Woodrow Wilson
+Woodwind instrument	Träblåsinstrument
+Woody Allen	Woody Allen
+Worcestershire	Worcestershire
+Word	Ord
+Word processor	Ordbehandlare
+World	Värld
+World Bank	Världsbanken
+World Health Organization	Världshälsoorganisationen
+World Meteorological Organization	World Meteorological Organization
+World Trade Center	World Trade Center
+World Trade Organization	Världshandelsorganisationen
+World War I	Första världskriget
+World War I	Kategori:Första världskriget
+World War II	Andra världskriget
+World War II	Kategori:Andra världskriget
+World Wide Web	World Wide Web
+World Wide Web	Kategori:World Wide Web
+World war	Världskrig
+Wormhole	Maskhål
+Writer	Skribent
+Wuhan	Wuhan
+Wyoming	Wyoming
+Wyoming	Kategori:Wyoming
+X	X
+X-ray	Röntgenstrålning
+Xenarthra	Trögdjur
+Xenon	Xenon
+Xenophanes	Xenophanes
+Xenophobia	Främlingsfientlighet
+Xenophon	Xenofon
+Xi	Xi
+Xinjiang	Xinjiang
+Xylophone	Xylofon
+Y	Y
+Yahweh	JHVH
+Yak	Jak
+Yakuza	Yakuza
+Yale University	Yale University
+Yalta	Jalta
+Yalta Conference	Jaltakonferensen
+Yangon	Rangoon
+Yangtze River	Changjiang
+Yard	Yard
+Yasser Arafat	Yassir Arafat
+Year	År
+Years	Kategori:Årtal
+Yeast	Jäst
+Yellow	Gul
+Yellow River	Huanghe
+Yellow Sea	Gula havet
+Yellowstone National Park	Yellowstone nationalpark
+Yemen	Jemen
+Yemen	Kategori:Jemen
+Yenisei River	Jenisej
+Yerevan	Jerevan
+Yeti	Yeti
+Yggdrasil	Yggdrasil
+Yo-yo	Jojo
+Yoga	Yoga
+Yoghurt	Yoghurt
+Yoko Ono	Yoko Ono
+Yokohama	Yokohama
+Yom Kippur	Jom kippur
+Yom Kippur War	Oktoberkriget
+York	York
+Yosemite National Park	Yosemite nationalpark
+Young's modulus	Elasticitetsmodul
+Ytterbium	Ytterbium
+Yttrium	Yttrium
+Yuan Dynasty	Yuandynastin
+Yugoslavia	Jugoslavien
+Yugoslavia	Kategori:Jugoslavien
+Yukon	Yukon
+Yunnan	Yunnan
+Yuri Gagarin	Jurij Gagarin
+Z	Z
+Zachary Taylor	Zachary Taylor
+Zagreb	Zagreb
+Zambezi	Zambesi
+Zambia	Zambia
+Zambia	Kategori:Zambia
+Zanzibar	Zanzibar
+Zaragoza	Zaragoza
+Zealand	Själland
+Zebra	Sebror
+Zen	Zen
+Zenith	Zenit
+Zeno of Citium	Zenon från Kition
+Zeno of Elea	Zenon från Elea
+Zeta	Zeta
+Zeus	Zeus
+Zeus (disambiguation)	Zeus
+Ziggurat	Ziqqurat
+Zimbabwe	Zimbabwe
+Zimbabwe	Kategori:Zimbabwe
+Zinc	Zink
+Zionism	Sionism
+Zirconium	Zirkonium
+Zodiac	Zodiaken
+Zombie	Zombie
+Zoo	Djurpark
+Zoology	Zoologi
+Zoology	Kategori:Zoologi
+Zoroaster	Zarathustra
+Zoroastrianism	Zoroastrism
+Zulu	Zulu

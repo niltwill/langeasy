@@ -1,0 +1,15 @@
+﻿English	Lithuanian
+against	prieš
+among	tarp
+at	į
+at	į
+during	per
+from	iš
+from	iš
+into	į
+of	nuo
+since	kai
+to	į
+with	su
+with	su
+without	be

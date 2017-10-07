@@ -1,0 +1,34 @@
+Greek	﻿English
+κάποιος	anyone
+οτιδήποτε	anything
+κάθε ένας	everybody
+καθετί	everything
+αυτός	he
+της	her
+εαυτό της	herself
+αυτόν	him
+ο ίδιος, εαυτό του	himself
+του	his
+το	it
+εαυτός % εαυτή % εαυτό	itself
+με	me
+μου	my
+μας	our
+αυτή	she
+εκείνος % εκείνη % εκείνο	that
+τους	their
+τους	them
+αυτοί % αυτές % αυτά	these
+αυτοί % αυτές % αυτά	they
+αυτός % αυτή % αυτό	this
+εκείνος % εκείνη % εκείνο	those
+εμάς	us
+εμείς	we
+τι	what
+όποτε, πότε	when
+ποιος, οποίος	which
+ποιος, οποίος	which
+ποιος	who
+τίνος	whose
+εσείς	you
+σου	your

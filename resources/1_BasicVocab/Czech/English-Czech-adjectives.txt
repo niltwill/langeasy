@@ -1,0 +1,213 @@
+﻿English	Czech
+another	druhý, jiný
+bad	špatný
+basic	základní
+beautiful	krásný, hezký
+best	nejlepší
+better	lepší
+big	velký, veliký
+clean	čistý
+cold	studený
+correct	správný, korektní
+dark	tmavý
+deep	hluboký
+difficult	těžký, obtížný
+dirty	špinavý, znečištěný
+fast	rychlý
+good	dobrý
+great	veliký, velký
+great	skvělý, báječný
+happy	šťastný, veselý
+healthy	zdravý
+heavy	těžký
+high	vysoký
+hot	horký, teplý
+important	důležitý, významný
+left	levý
+light	lehký
+little	drobný, malý
+long	dlouhý
+near	nedaleký, blízký
+new	nový
+nice	hezký, pěkný
+open	otevřený
+real	opravdový, skutečný
+right	pravý
+sharp	ostrý
+similar	podobný
+slow	pomalý
+soft	měkký
+strong	silný
+weak	slabý
+wrong	nesprávný, chybný
+acid	kyselý
+after	po
+ago	před
+all	vše, všechno
+any	nějaký, některý
+automatic	automatický
+available	disponibilní, použitelný
+bitter	trpký, hořký
+boring	únavný, nudný
+both	obě, oba
+bright	světlý, jasný
+broken	rozbitý, zlomený
+central	centrální
+certain	jistý
+cheap	laciný, levný
+chemical	chemický
+clear	jasný, zřetelný
+closed	zavřený
+color	barevný
+common	běžný, obvyklý
+common	společný
+complete	kompletní, dokonalý
+conscious	vědomý
+cruel	krutý, barbarský
+current	současný, obvyklý
+dangerous	nebezpečný
+delicate	delikátní, něžný
+deplorable	žalostný
+different	jiný
+different	jiný, odlišný
+different	odlišný, rozdílný
+down	dole
+dry	suchý
+each	každý
+early	časný, raný
+easy	lehký, jednoduchý
+economic	ekonomický
+economic	hospodárný, spořivý
+electric	elektrický
+equal	rovný, stejný
+even	sudý
+even	vyrovnaný, rovný
+every	každý
+excellent	výtečný, prvotřídní
+fake	falešný, imitovaný
+false	chybný, nesprávný
+far	vzdálený, daleký
+fat	tlustý
+fat	mastný, tučný
+few	málo
+final	konečný
+financial	finanční
+firm	pevný, tuhý
+first	první
+fixed	daný, stanovený
+flat	rovný, plochý
+following	následující, další
+foreign	cizí
+former	bývalý, minulý
+fragile	křehký, lámavý
+free	zdarma, bezplatný
+frequent	četný, častý
+fresh	čerstvý, nový
+front	přední
+full	plný
+full	celkový, úplný
+further	dále
+future	budoucí, příští
+general	všeobecný, obecný
+good	poctivý, čestný
+industrial	industriální, průmyslový
+interesting	zajímavý
+international	internacionální, mezinárodní
+last	poslední, minulý
+late	opožděný, zpožděný
+legal	legální, zákonný
+light	dietní, nízkokalorický
+liquid	kapalný, tekutý
+local	lokální, místní
+loud	hlasitý, hlučný
+low	nízký
+lucky	šťastný, mající štěstí
+main	hlavní, podstatný
+major	hlavní
+many	mnoho
+metal	kovový
+military	vojenský
+minute	nepatrný, maličký
+modern	moderní, novodobý
+more	více
+much	hodně, mnoho
+narrow	úzký
+national	národní
+natural	přírodní
+necessary	nezbytný, nutný
+next	sousední, další
+no	žádný
+normal	normální
+off	vypnutý
+on	zapnutý
+opposite	opačný, protější
+original	originální, původní
+other	jiný
+own	vlastní
+parallel	rovnoběžný, paralelní
+particular	určitý
+past	uplynulý, minulý
+personal	osobní
+physical	tělesný, fyzický
+political	politický
+poor	politováníhodný, žalostný
+popular	populární
+possible	možný
+present	nynější, přítomný
+previous	předešlý
+private	soukromý
+probable	pravděpodobný
+professional	profesionální
+public	veřejný
+quiet	tichý
+ready	připravený
+recent	nedávný
+regular	pravidelný
+responsible	odpovědný
+rigid	nepoddajný, neohebný
+rough	drsný, hrubý
+round	kruhový, kulatý
+safe	bezpečný
+same	stejný
+second	druhý
+secret	tajný
+separate	samostatný, separátní
+serious	vážný
+set	stanovený
+several	několik
+short	krátký
+silent	nehlučný, tichý
+silver	stříbrný
+simple	jednoduchý
+single	jednotlivý, samotný
+small	malý, nepatrný
+smooth	hladký
+social	sociální, společenský
+solid	tuhý
+sparse	řídký
+special	zvláštní
+specific	specifický
+square	čtvercový
+squeamish	háklivý
+standard	normální
+sticky	lepkavý, lepivý
+straight	přímý, rovný
+strange	zvláštní, divný
+stylish	elegantní
+sudden	neočekávaný, nenadálý
+sweet	sladký
+tall	vysoký
+thick	hustý
+thin	úzký, slabý
+tight	těsný
+true	pravdivý, pravý
+ugly	ohyzdný, ošklivý
+under	pod
+unusual	neobvyklý
+used	z druhé ruky, použitý
+usual	obvyklý
+various	rozmanitý, různorodý
+warm	hřejivý, teplý
+wet	vlhký, mokrý
+whole	celý
+wide	široký

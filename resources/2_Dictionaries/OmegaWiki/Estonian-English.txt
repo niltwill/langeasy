@@ -1,0 +1,4830 @@
+Estonian	English
+aids ; AIDS	AIDS
+AOX-väärtus	AOX value
+ASEAN	ASEAN ; Association of Southeast Asian Nations
+Abidjan	Abidjan
+abhaasi keel	Abkhaz ; Abkhazian ; Abkhazian
+Abhaasia	Abkhazia
+Abuja	Abuja
+Egeuse meri	Aegean Sea
+afari keel ; danakili keel	Afar ; Afar
+Aafrika	Africa
+afrikaani keel	Afrikaans
+Albaania	Albania ; Republic of Albania
+Alžeeria Demokraatlik Rahvavabariik ; Alžeeria	Algeria ; People's Democratic Republic of Algeria
+Ameerika Samoa	American Samoa
+Ameerika	Americas
+Ames'i katse (test)	Ames test
+Amsterdam	Amsterdam
+Andorra	Andorra ; Principality of Andorra
+Angola	Angola ; Republic of Angola
+Anguilla	Anguilla
+Lõunapolaarmeri	Antarctic Ocean ; Southern Ocean
+antarktiline ökosüsteem	Antarctic ecosystem
+Antarktis ; Antártida	Antarctica
+Antigua ja Barbuda	Antigua and Barbuda
+aprill	April
+araabia keel	Arabic ; Standard Arabic
+Põhjajäämeri	Arctic Ocean
+arktiline ökosüsteem	Arctic ecosystem
+Argentina	Argentina ; Argentine Republic
+Arizona	Arizona
+Armeenia	Armenia
+armeenia keel	Armenian
+lüliloomad	Articulata
+Aruba	Aruba
+Aasia	Asia
+august	August
+Austraalia	Australia ; Commonwealth of Australia
+Austria	Austria ; Republic of Austria
+Austria-Ungari	Austria-Hungary ; Austro-Hungarian Empire
+Aserbaidžaan	Azerbaijan ; Republic of Azerbaijan
+Aserbaidžaani ; aserbaidžaani ; aserbaidžaani keel	Azerbaijani ; Azeri ; Azerbaijani Cluster
+teatetahvel (Internet)	BBS ; bulletin board system
+Bahama	Bahamas ; Commonwealth of the Bahamas ; Bahama Islands
+Bahrein	Bahrain
+Baleaarid	Balearic Islands
+Bangladesh	Bangladesh ; People's Republic of Bangladesh
+baski keel	Basque ; Basque
+Peking	Beijing
+Valgevene	Belarus ; Republic of Belarus
+valgevene keel	Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian
+Belgia	Belgium ; Kingdom of Belgium
+Belgrad	Belgrade
+Belize	Belize
+Belmopan	Belmopan
+bengali keel	Bengali ; Bengali
+Berliin	Berlin
+Bermuda	Bermuda
+Bern	Berne
+Bhutan	Bhutan ; Kingdom of Bhutan
+Birmingham	Birmingham
+Must meri	Black Sea
+bokmål	Bokmål
+Boliivia	Bolivia ; Republic of Bolivia
+Bonn	Bonn
+Bosnia ja Hertsegoviina	Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina
+bosnia keel	Bosnian ; Bosnian
+Botswana	Botswana ; Republic of Botswana
+Brasiilia	Brazil
+bretooni	Breton ; Breton
+Brunei	Brunei ; Negara Brunei Darussalam
+Brüssel	Brussels
+Bukarest	Bucharest
+Bulgaaria	Bulgaria ; Republic of Bulgaria
+Bulgaaria ; bulgaaria keel	Bulgarian ; Bulgarian
+birma keel	Burmese
+Burundi	Burundi ; Republic of Burundi
+laserketas, CD-ROM	CD-ROM
+CD-ROM-otsiteenindus ; CD-ROM-otsiteenus	CD-ROM search service
+klorofluorosüsivesinik, freoon	CFC ; chlorofluorocarbon
+CFC-de ja haloonide keelustamine	CFC and halons prohibition
+Kambodža	Cambodia ; Kingdom of Cambodia
+Kamerun	Cameroon ; Republic of Cameroon
+Kanada	Canada
+Kariibid	Caribbean Area ; Caribbean
+Kariibi meri	Caribbean Sea
+Kaspia meri	Caspian Sea
+hispaania ; hispaania keel	Castilian ; Spanish ; Spanish
+katalaani	Catalan ; Catalan
+Kaimanisaared	Cayman Islands
+Kesk-Aafrika	Central Africa
+Kesk-Ameerika	Central America
+Kesk-Aasia	Central Asia
+Tšaad	Chad ; Republic of Chad
+Tšiili	Chile ; Republic of Chile
+Jõulud	Christmas
+Jõulusaar	Christmas Island
+jõulupuu	Christmas tree
+tšuvaši	Chuvash ; Chuvash ; Chuwash ; Chovash ; Chavash ; Chttash
+Colombia	Colombia ; Republic of Colombia
+Euroopa Ühenduse õigusakt	Community act
+Euroopa Ühenduse eelarve	Community budget
+Euroopa Üheduse finantsid	Community finance
+Euroopa Ühenduse õigus	Community law
+Euroopa Ühenduse õigussüsteem	Community legal system
+Euroopa Ühenduse määrus	Community ruling
+Kopenhaagen	Copenhagen
+Euroopa Kohus	Court of Justice of the European Communities
+Horvaatia	Croatia ; Republic of Croatia
+horvaadi keel	Croatian ; Croation
+tšehhi keel	Czech ; Czech
+Tšehhi	Czech Republic ; Czechia
+DDT	DDT ; dichloro-diphenyl-trichloroethane
+DNA	DNA ; deoxyribonucleic acid
+Dakar	Dakar
+taani keel	Danish
+detsember	December
+Kongo Demokraatlik Vabariik	Democratic Republic of the Congo ; Congo-Kinshasa
+Taani	Denmark ; Kingdom of Denmark
+Dominikaani Vabariik	Dominican Republic
+hollandi keel	Dutch
+EÜ ministrite nõukogu	EC Council of Ministers
+EÜ leping	EC Treaty
+EÜ direktiiv	EC directive
+EÜ biotsiididirektiiv	EC directive on biocides
+EÜ jäätmedirektiiv	EC directive on waste disposal
+EÜ veekaitsedirektiiv	EC directive on water protection
+EÜ ökomärgis, EÜ keskkonnamärgis	EC ecolabel
+EÜ poliitika, EÜ strateegia	EC policy
+EÜ määrus	EC regulation
+EÜ määrus keskkonnajuhtimise ja auditi kohta	EC regulation on eco-management and audit
+EÜ määrus olemasolevate kemikaalide kohta	EC regulation on existing chemicals
+keskkonnamõju hindamine ; KMH	EIA (local)
+keskkonnamõju hindamine ; KMH	EIA ; environmental impact assessment
+KMH direktiiv	EIA directive
+KMH seadus	EIA law
+Euroopa Liit	EU ; European Union
+Euroopa Nõukogu	EU Council
+Päikese mõju Maale	Earth-Sun relationship
+Ida-Aafrika	East Africa
+Ida-Timor	East Timor ; Democratic Republic of Timor-Leste
+Ida ja Lääne suhted	East-West relations
+Ida ja Lääne vaheline kaubandus	East-West trade
+Ida-Aasia	Eastern Asia ; East Asia
+Ida-Euroopa	Eastern Europe
+Egiptus	Egypt ; Arab Republic of Egypt
+El Salvador	El Salvador ; Republic of El Salvador
+Inglismaa	England
+inglise keel	English
+inglise park	English garden
+Jerevan	Erevan ; Yerevan
+Eritrea	Eritrea
+esperanto keel ; esperanto	Esperanto ; Esperanto
+Eesti ; Eesti Vabariik ; إيستوني	Estonia ; Republic of Estonia
+eesti ; eesti keel	Estonian
+Etioopia	Ethiopia ; Federal Democratic Republic of Ethiopia
+Euroopa Aaatomienergiaühendus	Euratom
+Euroopa	Europe
+Euroopa Komisjon	European Commission
+Euroopa Ühendused	European Communities
+Euroopa Kohus	European Court of Justice
+Euroopa Keskkonnaagentuur	European Environment Agency
+Euroopa Keskkonnanõukogu	European Environmental Council
+Euroopa Valuutafond	European Monetary Fund
+Euroopa valuutasüsteem	European Monetary System ; EMS
+Euroopa Parlament	European Parliament
+hoiuala (Natura 2000 võrgustiku ala)	European nature reserve
+Euroopa standard	European standard
+Falklandi saared	Falkland Islands
+Fääri saared	Faroe Islands
+fääri keel	Faroese ; Faeroese
+veebruar	February
+Soome	Finland ; Republic of Finland
+soome ; soome keel	Finnish
+Flaaminaa	Flanders ; Flemish region
+Flevoland	Flevoland
+Prantsusmaa	France
+prantsuse keel	French ; French
+Prantsuse Guajaana	French Guiana
+Prantsuse Polüneesia	French Polynesia
+prantsuse park	French formal garden
+reede	Friday
+frisa ; friisi	Frisian ; Western Frisian
+sisemajanduse kogutoodang ; SKT	GDP ; gross domestic product
+Saksa Demokraatlik Vabariik ; Saksa DV	GDR ; German Democratic Republic
+kaugseireandmevorming	GIS digital format
+geoinfosüsteem	GIS digital system
+digiteerimistehnika	GIS digital technique
+GIS-laboratoorium	GIS laboratory
+Gabon	Gabon ; Gabonese Republic
+galeegi keel	Galician ; Galician
+Gambia	Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia
+Gaza tsoon	Gaza Strip
+Gruusia	Georgia
+Georgia	Georgia
+gruusia keel ; georgia keel	Georgian ; Georgian
+saksa keel	German
+Saksamaa	Germany ; Federal Republic of Germany
+Gibraltar	Gibraltar
+Ülemaailmne Keskkonnafond	Global Environment Facility ; GEF
+Suurbritannia	Great Britain ; Britain
+Kreeka	Greece ; Hellenic Republic
+kreeka ; kreeka keel	Greek ; Greek
+Gröönimaa	Greenland
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam	Guam ; Guam ; Guam
+Haiti	Haiti ; Republic of Haiti
+Hannover	Hanover
+õnnelikku uut aastat	Happy New Year
+Heebrea ; heebrea keel ; ivriit	Hebrew
+hindi ; hindi keel	Hindi ; Hindi
+Madalmaade Kuningriik	Holland ; Kingdom of the Netherlands ; The Netherlands
+Honduras	Honduras ; Republic of Honduras
+ungari keel	Hungarian
+Ungari	Hungary ; Republic of Hungary
+IMCO kood	IMCO code
+Rahvusvaheline Valuutafond	IMF ; International Monetary Fund
+ISO-standard	ISO standard
+Island	Iceland ; Republic of Iceland
+islandi keel	Icelandic
+Ilias	Iliad
+India	India ; Republic of India
+India ookean	Indian Ocean
+Indoneesia	Indonesia ; Republic of Indonesia
+indoneesia keel	Indonesian
+Rahvusvaheline Kohus	International Court of Justice
+Internet	Internet
+Iraan	Iran ; Islamic Republic of Iran
+Iraak	Iraq ; Republic of Iraq
+Iirimaa	Ireland ; Republic of Ireland
+iiri ; iiri keel	Irish ; Irish ; Irish Gaelic ; Irish
+Man	Isle of Man ; Isle of Mann ; Mann
+Iisrael	Israel ; State of Israel
+itaalia keel	Italian ; Italian
+Itaalia	Italian Republic ; Italy
+Elevandiluurannik	Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire
+Jakarta	Jakarta ; Djakarta ; DKI Jakarta
+Jamaica	Jamaica
+Jaapan	Japan ; State of Japan
+jaapani keel	Japanese ; Japanese
+Jordaania	Jordan ; Hashemite Kingdom of Jordan
+judaism ; juutlus	Judaism
+juuli	July
+juuni	June
+karjala	Karelian
+kasahhi keel	Kazakh ; Kazakh
+Kasahstan	Kazakhstan ; Republic of Kazakhstan
+Kenya	Kenya ; Republic of Kenya
+Hartum	Khartoum
+Kiribati	Kiribati ; Republic of Kiribati
+korea keel	Korean ; Korean
+Kosovo ja Metohija ; Kosovo	Kosovo
+Kõrgõzstan	Kyrgyzstan ; Kyrgyz Republic
+Laos	Laos ; Lao People's Democratic Republic
+ladina keel	Latin ; Latin
+Läti	Latvia ; Republic of Latvia
+läti keel	Latvian ; Latvian
+Lesotho	Lesotho ; Kingdom of Lesotho
+Libeeria	Liberia ; Republic of Liberia
+Liechtensteini Vürstiriik	Liechtenstein ; Principality of Liechtenstein
+Leedu	Lithuania ; Republic of Lithuania
+leedu keel	Lithuanian ; Lithuanian
+esindajatekoda	Lower House
+Alam-Saksi	Lower Saxony
+makedoonia keel	Macedonian ; Macedonian
+Malawi	Malawi ; Republic of Malaŵi
+Malta	Malta ; Republic of Malta
+malta keel	Maltese
+Maoori	Maori
+märts	March
+Markovi ahel	Markov chain ; Markoff chain
+Marshalli Saared	Marshall Islands ; Republic of the Marshall Islands
+Martinique	Martinique
+mai	May
+Mayotte	Mayotte
+Meka	Mecca
+Vahemerepiirkond	Mediterranean Area
+Vahemeri	Mediterranean Sea
+vahemerekliima, mediterraanne kliima	Mediterranean climate
+mediterraanne mets	Mediterranean forest
+früügana, gariig, makja, mediterraanne võsa	Mediterranean wood
+Merkuur	Mercury
+häid jõule	Merry Christmas
+Häid Jõule ja õnnelikku uut aastat	Merry Christmas and a happy New Year
+Mehhiko	Mexico ; United Mexican States
+Milano	Milan
+Linnutee ; Galaktika	Milky Way ; Galaxy
+Monaco	Monaco
+esmaspäev	Monday
+Montenegro	Montenegro
+Montserrat	Montserrat
+Maroko	Morocco ; Kingdom of Morocco
+Moskva	Moscow
+Fuji	Mount Fuji
+München	Munich
+Birma	Myanmar
+mitte-minu-naabrusse-suhtumine	NIMBY aptitude ; NIMBY attitude
+täheldatavat toimet mitteavaldav tase	NOEL
+Namiibia	Namibia
+napoli keel	Neapolitan ; Neapolitan
+Nepal	Nepal
+nepali keel	Nepali ; Nepali
+Neptuun	Neptune
+Uus-Kaledoonia	New Caledonia
+Uus-Meremaa	New Zealand
+Nicaragua	Nicaragua
+Põhja-Aafrika	North Africa
+Põhja-Ameerika	North America
+Atlandi ookeani põhjaosa	North Atlantic Ocean
+Põhja ja Lõuna suhted	North-South relationship
+Põhja-Iirimaa	Northern Ireland
+Norra	Norway ; Kingdom of Norway
+november	November
+noviaal	Novial
+Okeaania	Oceania
+Oslo	Oslo
+Pakistan	Pakistan ; Islamic Republic of Pakistan
+Paapua Uus-Guinea	Papua New Guinea
+Pariis	Paris
+parlament, esinduskogu	Parliament
+Hiina	People's Republic of China ; China
+pärsia keel ; iraani keel	Persian ; Western Farsi ; Farsi
+Peruu	Peru ; Republic of Peru
+Poola	Poland
+poola ; poola keel	Polish ; Polish
+Portugal	Portugal
+Portugali ; portugali keel	Portuguese ; Portuguese
+Puerto Rico	Puerto Rico
+pandžabi keel	Punjabi ; Panjabi
+Kongo Vabariik	Republic of the Congo ; Congo-Brazzaville
+Rumania	Romania
+rumeenia keel	Romanian ; Romanaian
+Venemaa ; Venemaa Föderatsioon	Russia ; Russian Federation
+vene keel	Russian ; Russian
+Saint-Pierre ja Miquelon	Saint-Pierre and Miquelon
+Sahhalin	Sakhalin ; Saghalien
+laupäev	Saturday
+Saturn	Saturn
+Saksimaa	Saxony
+Šotimaa	Scotland
+Seine	Seine
+Senegal	Senegal
+Serbia	Serbia
+Serbia ja Montenegro ; Serbia ja Tšernogooria	Serbia and Montenegro
+serbia keel	Serbian ; Serbian
+sindhi keel	Sindhi ; Sindhi
+Slovaki ; slovaki keel	Slovak ; Slovak
+Slovakkia	Slovakia
+sloveeni keel	Slovene ; Slovenian ; Slovenian
+Sotši	Sochi
+Lõuna-Ameerika	South America
+Kagu-Aasia	Southeast Asia
+Lõuna-Aasia	Southern Asia ; South Asia
+Hispaania	Spain
+Sri Lanka	Sri Lanka
+Sudaan	Sudan
+pühapäev	Sunday
+Suriname	Suriname
+suahiili keel	Swahili
+Rootsi	Sweden
+rootsi keel	Swedish
+Šveits	Switzerland
+Süüria	Syria ; Syrian Arab Republic
+tagalogi keel ; pilipino keel	Tagalog
+tamili keel	Tamil ; Tamil
+Tansaania	Tanzania
+telugu keel	Telugu ; Telugu
+Tennessee	Tennessee
+tai keel	Thai ; Thai
+Tai	Thailand
+Tüüringi	Thuringia
+neljapäev	Thursday
+Togo	Togo
+Tonga	Tonga
+teisipäev	Tuesday
+Türgi	Turkey
+Türgi ; türgi keel	Turkish ; Turkish
+Ühinenud Rahvaste Organisatsioon	UN ; United Nations
+Uganda	Uganda ; Republic of Uganda
+ukraina keel	Ukrainian ; Ukrainian
+Suurbritannia ja Põhja-Iiri Ühendkuningriik ; Suurbritannia ; Ühendkuningriik	United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK
+Ameerika Ühendriigid	United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States
+Uraan	Uranus
+urdu keel	Urdu ; Urdu
+Utah	Utah
+Vaduz	Vaduz
+Venezuela	Venezuela
+Venezia	Venice
+Veenus	Venus
+Viin	Vienna
+vietnami ; vietnami keel	Vietnamese ; Vietnamese
+volapük	Volapük
+Wales	Wales
+kolmapäev	Wednesday ; quarta-feira
+uelsi ; kõmri keel	Welsh ; Welsh
+Lääne-Aasia	Western Asia ; Southwest Asia
+Lääne-Euroopa	Western Europe
+Vikisõnaraamat	Wiktionary
+veeb, WWW ; veeb ; WWW	World Wide Web ; WWW
+Wyoming	Wyoming
+koosa keel	Xhosa
+jidiši keel ; jidiš	Yiddish
+Jugoslaavia	Yugoslavia
+Sambia	Zambia ; Republic of Zambia
+Sansibar	Zanzibar
+Zimbabwe	Zimbabwe ; Republic of Zimbabwe
+suulu keel	Zulu
+jahmunud	aback
+abakus	abacus
+vanareostusobjekt, vanasaastusobjekt	abandoned industrial site
+mahajäetud sõiduk	abandoned vehicle ; car wreck
+lühend	abbreviation
+elutu keskkond ; elutu ümbruskond	abiotic environment
+abiootiline tegur	abiotic factor
+äpardunud	abortive
+lühendama	abridge
+abstsess	abscess
+absorptsioon	absorption
+lubatud ööpäevaannus	acceptable daily intake
+talutav riskitase	acceptable risk level
+juurdepääsutee	access road
+juurdepääsuõigus haldusdokumentidele	access to administrative documents
+juurdepääs kultuuriväärtustele	access to culture
+juurdepääs teabele (informatsioonile)	access to information
+juurdepääs õigusmõistmisele	access to the courts
+õnnetus	accident
+õnnetusallikas	accident source ; cause of the accident
+organismide ettekavatsemata vabakslaskmine	accidental release of organisms
+akordion ; lõõtspill	accordion ; squeeze box ; piano accordion
+konto	account
+raamatupidamine	accountancy
+arvepidamine	accounting
+arvepidamissüsteem, raamatupidamissüsteem ; arvepidamissüsteem ; raamatupidamissüsteem	accounting system
+akumulaator	accumulator
+hape	acid
+happesadenemine	acid deposition
+happevihm	acid rain
+hapestumine	acidification
+happesus	acidity
+happesusaste	acidity degree
+tammetõru	acorn
+akustiline mugavus	acoustic comfort
+akustiline filter ; helifilter	acoustic filter ; audio filter
+heliisolatsioon	acoustic insulation
+helivaljus, helitase ; helivaljus ; helitase	acoustic level ; sound pressure level
+heliomadus	acoustic property
+helikvaliteet	acoustical quality
+akustika	acoustics
+kibe	acrid
+akt ; seadus ; tegu ; toiming	act ; deed
+aktinoid	actinide
+aktiinium	actinium
+huvirühm	action group ; action committee
+aktiivsüsi	activated carbon
+aktiivmuda	activated sludge
+aktiivne osalemine	active participation
+tööjõuline elanikkond	active population
+kohanemisaeg	adaptation period
+liitmine	addition
+lisapakend	additional packaging
+lisand	additive
+toidu piisavus	adequate food supply
+liim ; liim[aine] ; liim(aine) ; liimaine	adhesive
+omadussõna	adjective ; describing word
+juhtimine ; juhtimine, haldamine ; haldamine	administration ; direction ; management
+haldusorgan	administrative body ; administrative organ
+halduspiir	administrative boundary
+halduspädevus	administrative competence ; administrative ability
+haldusakt	administrative deed
+halduskäsk, halduskorraldus ; halduskäsk ; halduskorraldus	administrative fiat
+halduskoolitus	administrative instructions
+haldusõigus	administrative law
+haldustöö	administrative occupation
+haldusorganisatsioon	administrative organisation
+halduskohtumenetlus	administrative procedure
+haldussanktsioon	administrative sanction
+adsorptsioon	adsorption
+täisealine	adult
+täisealisekoolitus	adult education
+seiklus	adventure
+kuulutus ; reklaam	advertisement ; promotion
+nõuanne	advice
+õhustamine, õhustus, aeratsioon ; õhustamine ; õhustus ; aeratsioon	aeration
+antenn	aerial
+aerofoto	aerial photograph
+aerofotomõõdistamine, aerofotomõõdistus ; aerofotomõõdistamine ; aerofotomõõdistus	aerial photography
+aeroobne protsess	aerobic process
+aeroobne puhastus	aerobic treatment
+aerobioloogia	aerobiology
+aerodünaamiline müra	aerodynamic noise
+lennuk ; aeroplaan	aeroplane ; bird ; plane
+aerosool	aerosol
+esteetika	aesthetics
+metsastamine	afforestation ; tree planting ; afforestment
+järelpõletus	afterburning ; afterburning ; afterburner
+vanus	age
+kallaletungiv	aggressive
+kimbutaja	aggressor ; assailant ; attacker ; assaulter
+leping	agreement
+kokkulepe	agreement
+agraartööstus	agri-foodstuff
+agrobiotehnoloogia	agricultural biotechnology
+põllumajandushoone	agricultural building
+agrokatastroof	agricultural disaster
+agroökoloogia ; põllumajandusökoloogia	agricultural ecology ; agroecology
+põllumajandusökonoomika, agraarökonoomika	agricultural economics
+põllumajandusheitmed	agricultural effluent
+agrotehnoloogia	agricultural engineering
+põllumajandusseadmed	agricultural equipment
+põllumajandusmasinad ; põllumajandusseadmed	agricultural equipment ; agricultural machinery ; farm machinery
+põllumajanduskasutus	agricultural exploitation
+hüdromelioratsioon	agricultural hydraulics
+põllumajandusmaa	agricultural land
+põllumajandusmaastik	agricultural landscape
+agraarõigus	agricultural legislation
+põllumajandustootmise juhtimine	agricultural management
+agrotehnika	agricultural method
+põllukahjur	agricultural pest
+põllumajanduse planeerimine	agricultural planning
+agraarpoliitika	agricultural policy
+põllumajandusreostus	agricultural pollution
+põllumajandussaadus	agricultural product
+põllumajandustoodang	agricultural production ; farm production ; agricultural output
+põllumajanduslik kinnisvara	agricultural real estate
+põllumajandussaaduste hoidla	agricultural storage
+põllumajandusehitis	agricultural structure
+põllumajandustootmise alaväärtustamine	agricultural undervaluation
+põllumajandusjäätmed	agricultural waste
+põllumajandus	agriculture
+põllumajandus ; põllumajandus	agriculture ; agriculture
+põllumajanduslik suurtootmine	agriculture and cattle industry
+põllumajanduse arendamise raamkava	agriculture framework plan
+agroturism	agritourism
+agrokemikaal	agrochemical
+agraarmetsandus	agroforestry
+agrotööstus	agroindustry
+agrometeoroloogia	agrometeorology
+tootjahind (põllumajanduses)	agronomic value
+agronoomia	agronomy
+agroökosüsteem	agrosystem
+abistamispoliitika	aid policy
+õhk	air
+õhu konditsioneerimine	air conditioning ; AC ; air-conditioning
+õhu liikumine	air movement
+õhusaasteaine, õhureoaine	air pollutant
+õhu saastamine (reostamine); õhu saastumine (reostumine) ; õhu saastamine ; õhu saastumine	air pollution
+õhu kvaliteet	air quality
+õhu kvaliteedikontroll	air quality control
+õhu kvaliteedi ohjamine	air quality management
+õhu[saaste]seire ; õhu(saaste)seire	air quality monitoring
+alveool	air sac ; alveolus
+õhukaitse, välisõhukaitse	air safety
+õhu temperatuur	air temperature
+lennuliiklus	air traffic
+lennuliiklusõigus	air traffic law
+õhutransport	air transportation
+õhu ja vee vastastikune toime	air-water interaction
+õhulevimüra	airborne noise
+õhusõiduk	aircraft
+lennumüra, õhusõidukimüra	aircraft noise
+lennupost	airmail
+lennujaam	airport
+õhuruumi planeerimine	airspace planning
+alarm ; häiremärguanne	alarm ; alert ; warning
+äratuskell	alarm clock
+alkeemia	alchemy
+alkohol	alcohol
+alkoholism	alcoholism
+vetikad	alga
+veeõitseng, vetikavohang	algal bloom
+algebra	algebra
+algitsiid ; vetikatõrjeaine	algicide ; algaecide
+alibi	alibi
+alitsükliline ühend	alicyclic compound
+alitsükliline süsivesinik	alicyclic hydrocarbon
+teetrasside valik	alignment
+alifaatne ühend	aliphatic compound
+alifaatne süsivesinik	aliphatic hydrocarbon
+leeliseline muld	alkali soil
+I rühma element	alkaline ; element of group I ; alkaline metal ; alkali metal
+leelisaku	alkaline battery
+alkaan	alkane ; paraffin ; methane series ; alkane series
+alküülühend	alkyl compound
+maastur	all-terrain vehicle
+allegooria	allegory
+allergeen	allergen
+allergia	allergy
+paigutamine	allocation ; allotment ; resource allotment
+ressursside paigutamiskava	allocation plan
+allotroopia	allotropy
+toetus[raha] ; toetus(raha)	allowance
+sulam	alloy
+alluviaaltasandik	alluvial plain
+jõesetted, alluuvium ; alluuvium ; jõesetted	alluvion ; flood ; overflowing ; inundation
+mandel	almond
+ühes	alongside ; amongst ; with
+alfakiirgus	alpha radiation
+asendusaine, asendusmaterjal ; asendusaine ; asendusmaterjal	alternative material
+alternatiivtehnoloogia	alternative technology
+kõrgus	altitude
+alumiiniumoksiid	alumina
+alumiinium	aluminium
+alumiiniumnõu	aluminium container
+alumiiniumisisaldus	aluminium content
+alumiiniumitööstus	aluminium industry
+amalgaam	amalgam
+suursaadik	ambassador
+merevaik	amber
+auahne	ambitious
+välilaatsaret	ambulance
+ameriitsium	americium
+ametüst	amethyst
+amiin	amine
+aminohape	amino acid
+ammoniaak	ammonia
+ammonifikatsioon	ammonification
+ammoonium	ammonium
+kahepaikne, amfiib ; kahepaikne ; amfiib	amphibian
+amfiteater	amphitheatre
+lõbustuspark	amusement park
+anaeroobne protsess	anaerobic process
+anaeroobne käitlus	anaerobic treatment
+analoogia	analogy
+analüüs	analysis
+analüüsiprogramm	analysis programme
+analüütiline keemia	analytical chemistry
+analüüsiaparatuur	analytical equipment
+analüütiline meetod	analytical method
+anarhism	anarchism
+anatoomia	anatomy
+ankur	anchor
+ingel	angel
+katteseemnetaim, õistaim ; katteseemnetaim ; õistaim	angiosperm ; flowering plant
+õngitsemine, õngepüük ; õngitsemine ; õngepüük	angling ; fishing ; line-fishing
+loom	animal
+loomade käitumine	animal behaviour
+loomabioloogia	animal biology
+loomakaitseala	animal conservatory
+loomakoridor	animal corridor
+loomkahjustus	animal damage
+loomahaigus	animal disease
+loomade ränne	animal displacement
+loomaökoloogia	animal ecology
+loomaväljaheide	animal excrement
+loomkatse	animal experiment
+loomasööt	animal foodstuff
+tapaloom	animal for slaughter
+looma elupiirkond	animal habitat
+pärandloomastik	animal heritage
+loomakasvatus	animal husbandry
+loomasõnnik	animal manure
+loomaränne	animal migration
+loomakisa	animal noise
+loomade toitumine	animal nutrition
+loomafüsioloogia	animal physiology
+loomakooslus	animal population
+loomakasvatussaadus	animal product
+loomakasvatus	animal production
+loomakaitseala	animal protection
+loomade paljunemine	animal reproduction
+loomavarud	animal resource
+loomaõigused	animal rights
+loomavarjualune	animal shelter
+loomaliik	animal species
+loomaliikide reintroduktsioon	animal species reintroduction
+loomakaubandus	animal trade
+loomakasvatusjäätmed	animal waste
+anioon	anion
+aniis	anise
+rõngasuss	annelid
+aastapäev	anniversary
+sipelgas	ant
+antagonism	antagonism
+antiloop	antelope
+inimtegevus	anthropic activity
+antropoloogiline kaitseala	anthropologic reserve
+antibiootikum	antibiotic
+antikeha	antibody
+ohuennetus	anticipation of danger
+pealiskasvuvastane aine (värv)	antifouling agent
+antimon	antimony
+reostustõrjestiimul	antipollution incentive
+aegunud seade	antiquated plant
+maavärinaohutust reguleerivad normid	antiseismic regulation
+antonüüm	antonym
+alati	anytime
+korterelamu	apartment block
+mesindus	apiculture ; beekeeping
+apoptoos	apoptosis
+edasikaebus	appeal
+apellatsioonimenetlus	appeal procedure
+rakendusökoloogia	applied ecology
+rakenduslik toitumisteadus	applied nutrition
+rakendusuuring	applied research
+rakendusteadus	applied science
+hinnang	appraisal
+tunnustama	appreciate
+lähenemine	approach
+alternatiivtehnoloogia	appropriate technology
+heakskiit	approval ; approbation
+ehitusluba	approval of installations
+aprikoos	apricot
+vesiviljelus, akvakultuur	aquaculture
+aquamarin	aquamarine
+akvaarium	aquarium
+veeloom	aquatic animal
+veekogude ökoloogia	aquatic ecology
+veeökosüsteem, akvaatiline ökosüsteem	aquatic ecosystem
+vesikeskkond	aquatic environment
+veeimetaja	aquatic mammal
+veeorganism, hüdrobiont	aquatic organism
+veetaim, hüdrofüüt	aquatic plant
+akvedukt, sildveejuhe; veejuhe ; akvedukt ; sildveejuhe ; veejuhe	aqueduct
+põhjaveekiht, põhjaveelade ; põhjaveekiht ; põhjaveelade	aquifer
+põllundus	arable farming
+arboreetum, dendraarium ; arboreetum ; dendraarium	arboretum
+puuviljelus	arboriculture
+arheoloogiline	archaeological
+arheoloogiline ala	archaeological site
+arheoloogia	archaeology ; archeology ; archæology
+peapiiskop	archbishop
+ertshertsog	archduke
+saarestik	archipelago
+arhitektuur	architecture
+reostuskahtlane paik	area of potential pollution
+ülekoormatud paik	area under stress
+argoon	argon
+tüli	argument
+sademetevaene paik, ariidne paik	arid land
+aristokraatia	aristocracy
+aritmetiko	arithmetic ; arithmetics
+relvastus	armament
+relvastuse muutmine	armament conversion
+relvajõud	armed forces
+vaherahu	armistice
+relvistu	armoury
+kaenlaauk	armpit
+aromaatne ühend	aromatic compound
+aromaatne süsivesinik	aromatic hydrocarbon
+lõhnaaine	aromatic substance
+pakenditagastuskorraldus	arrangement for a deposit on packaging
+nool	arrow
+nooleots	arrowhead
+arseen	arsenic
+kunst	art
+osav	artful
+liigesepõletik	arthritis
+lülijalgne, artropood ; lülijalgne ; artropood	arthropod
+tehisjärv	artificial lake
+kunstlik viljastus	artificial reproductive technique
+tehiskaaslane	artificial satellite
+kunstnik	artist ; creative person
+asbest	asbestos
+asbesttsement	asbestos cement
+asbestoos	asbestosis
+ülevõim	ascendancy
+tõus	ascent
+tõusev	ascent
+askeet	ascetic
+tuhk	ash
+tuhakarva	ashen
+maal	ashore
+tuhatoos	ashtray
+magab	asleep
+asfalt	asphalt
+pürgimus	aspiration
+salamõrvar	assassin ; assassinator
+katse ; katse, proov ; proov	assay
+kokku kutsuma	assemble ; get together ; gather
+nõusolek	assent
+kinnitama	assert
+määrama	assign
+kohustus	assignment
+omastama	assimilate
+assimilatsioon	assimilation
+abistama	assist
+ühing	association
+eeldus	assumption ; supposition
+astaat	astatine
+tärn	asterisk
+asteroid	asteroid
+astenosfäär	asthenosphere
+hämmastama	astonish
+hämmastav	astonishing
+hämmastus	astonishment
+jahmatav	astounding
+kaksiratsi	astride
+harkisjalu	astride
+astroloogia	astrology ; star divination
+astronautika	astronautics
+astronoomia	astronomy
+asümmeetriline	asymmetric ; asymmetrical
+ateist	atheist
+atlas	atlas
+atmosfäär, õhkkond ; atmosfäär ; õhkkond	atmosphere
+atmosfääriaerosool	atmospheric aerosol
+atmosfäärikeemia	atmospheric chemistry
+atmosfääriringlus	atmospheric circulation
+atmosfääriosis	atmospheric component
+atmosfääri koostis	atmospheric composition
+atmosfäärikorrektsioon	atmospheric correction
+emissioon õhku, heide õhku, õhkuheide	atmospheric emission
+õhuvõõriste sadenemine, õhusaasta sadenemine ; õhuvõõriste sadenemine ; õhusaasta sadenemine	atmospheric fallout
+atmosfääri kihistumine	atmospheric layering
+õhuseire	atmospheric monitoring
+atmosfääriosoon	atmospheric ozone
+atmosfäärikübe	atmospheric particulate
+atmosfäärifüüsika	atmospheric physics
+õhkkonnasaaste, atmosfäärisaaste	atmospheric pollution
+sademed (meteorol) ; sademed	atmospheric precipitation ; precipitation
+atmosfääriprotsess	atmospheric process
+atmosfääriteadus, õhkkonnateadus ; atmosfääriteadus ; õhkkonnateadus	atmospheric science
+atmosfääri ehitus	atmospheric structure
+atoll	atoll
+aatom	atom
+aatommass	atomic mass
+veetlev	atractive
+atrasiin	atrazine
+metsikus	atrocity
+kiindunud	attached
+kiindumus	attachment
+lisaseade	attachment
+saavutama	attain
+teenindama	attend
+osa võtma	attend
+tähele panema	attend
+tegelema	attend
+valvur	attendant
+tähelepanelik	attentive
+pööning	attic
+riietus	attire
+riietuma	attire
+asend	attitude
+külge ; köitma	attract
+omadus, tunnus ; omadus ; tunnus	attribute
+hulljulge	audacious
+audiovisuaalesitlus	audio-visual presentation
+audiovisuaalseadmed	audiovisual equipment
+audiovisuaalmeedia	audiovisual media
+audit	audit
+suurendama	augment
+paljutõotav	auspicious
+luba ; volitus	authorisation
+autoritaarne	authoritarian
+autoriteetne	authoritative
+ametivõim	authority body
+autorsus	authorship
+isevalitsus	autocracy
+autökoloogia	autoecology
+autotööstus	automobile industry
+lahkamine	autopsy
+saadaval	available
+laviin, lumelaviin ; laviin ; lumelaviin	avalanche
+laviinitõrje	avalanche protection
+tõrjuma	avert
+linnumaja	aviary
+lennundusõigus	aviation law
+linnukasvatus	aviculture
+ablas	avid
+avifauna ; linnustik ; ornitofauna	avifauna
+aukartus	awe
+natuke aega	awhile
+tausttase	background level
+taustmüra	background noise
+taustkiirgus	background radiation
+peekon	bacon
+biofilter	bacterial bed
+bakteritsiid	bactericide
+bakterreostus, baktersaastus	bacteriological pollution
+bakterioloogia	bacteriology
+bakter	bacterium
+sulgpall	badminton
+pagar	baker
+pagariäri	baker ; bakery
+küpsetuspulber	baking powder
+bilanss	balance
+ainebilanss	balance of matter
+huvide tasakaalustamine	balancing of interests
+ballaad	ballad
+tantsusaal	ballroom
+banaan	banana
+kallas	bank
+kaldakindlustus; kaldakindlustis ; kaldakindlustus ; kaldakindlustis	bank protection
+pangandus	banking
+maksujõuetus	bankruptcy
+baarium	barium
+parun	baron
+vallrand	barrier beach
+vallrahu, barjäärriff	barrier reef
+alus	base
+pesapall	baseball ; baseball game
+taustseire	baseline monitoring
+põhitoidu tarve	basic food requirement
+aluselisus	basicity
+kandseen	basidiomycete
+korvpall	basketball ; basketball game
+fagott	bassoon
+loomastiku risustumine	bastardisation of fauna
+taimestiku risustumine	bastardisation of flora
+annusprotsess	batch process
+suplusmagevesi	bathing freshwater
+suplusmerevesi	bathing seawater
+suplusvesi	bathing water
+patarei	battery
+patareikõrvaldus	battery disposal
+laht, merelaht ; laht	bay
+lauge [mere]rand ; lauge (mere)rand	beach
+rannapuhastus	beach cleansing
+karu	bear
+kobras	beaver
+mesilane	bee
+mesilasekaitse	bee conservation
+lihaveised	beef cattle
+mesipuu	beehive
+õlu	beer
+mardikas	beetle
+käitumine	behaviour
+ainete käitumine	behaviour of substances
+käitumislaad	behaviour pattern
+käitumisteadus	behavioural science
+naba	belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus
+kasur	beneficial organism
+veekogu põhjakiht	benthic division
+bentos, põhjaelustik ; bentos ; põhjaelustik	benthos
+benseen	benzene
+bensopüreen	benzopyrene
+berkeelium	berkelium
+berüllium	beryllium ; glucinium
+beetakiirgus	beta radiation
+jook	beverage ; drink
+joogitööstus	beverage industry
+bibliograafiline info	bibliographic information
+bibliograafilise info süsteem	bibliographic information system
+bibliograafia	bibliography
+jalgratas	bicycle ; bike ; cycle
+suurulukid	big game
+kahepoolne leping	bilateral convention
+pilsiõli	bilge oil
+pilsivesi, nõruvesi ; pilsivesi ; nõruvesi	bilge water
+biosaadavus	bio-availability
+bioakumulatsioon	bioaccumulation
+bioakumuleeruv reoaine	bioaccumulative pollutant
+biokeemiline meetod	biochemical method
+biokeemiline hapnikutarve	biochemical oxygen demand
+biokeemiline protsess	biochemical process
+biokeemiline aine	biochemical substance
+biokeemia	biochemistry
+biotsiid	biocide
+bioklimatoloogia	bioclimatology
+biotsönoos, elukooslus ; biotsönoos ; elukooslus	biocoenosis
+bioakumulatsioonitegur	bioconcentration factor
+biolagundatavus	biodegradability
+biolagundatav reoaine	biodegradable pollutant
+biolagunemine, bioloogiline lagunemine, biodegradatsioon ; biolagunemine ; bioloogiline lagunemine ; biodegradatsioon	biodegradation
+bioloogiline mitmekesisus, elustiku mitmekesisus ; biodiversiteet ; bioloogiline mitmekesisus ; elustiku mitmekesisus	biodiversity
+bioeetika	bioethics
+biofiltrimine	biofiltration
+biokütus	biofuel
+biogaas	biogas
+biogeokeemiline aineringe	biogeochemical cycle
+biogeograafiline piirkond	biogeographical region
+biogeograafia	biogeography
+bioanalüüs	biological analysis
+bioloogiline omadus	biological attribute
+biosaastus	biological contamination
+bioloogiline aineringe	biological cycle
+bioloogiline areng	biological development
+bioloogiline toime	biological effect
+reostuse (saastuse) bioloogiline toime	biological effect of pollution
+biotehnika	biological engineering
+bioloogiline pärand	biological heritage
+bioindikaator ; ökoloogiline indikaator	biological indicator
+bioseire	biological monitoring
+bioloogiline kahjuritõrje	biological pest control
+bioloogiline reoaine (saasteaine)	biological pollutant
+bioloogiline reostus (saastus)	biological pollution
+bioloogiline protsess	biological process
+bioproduktsioon	biological production
+bioloogiline kaitseala	biological reserve ; wildlife reserve
+bioloogilised loodusvarad	biological resource
+biotest	biological test
+biopuhastus, bioloogiline puhastus	biological treatment
+heitgaasi biopuhastus	biological waste gas purification
+jäätmete biokäitlus	biological waste treatment
+reovee biopuhastus ; reovee biopuhastus, reovee bioloogiline puhastus ; reovee bioloogiline puhastus	biological wastewater treatment
+organismi veebilanss	biological water balance
+biorelv	biological weapon
+bioloogia	biology ; biological science
+bioluminestsents	bioluminescence
+bioindikaator, füsioloogilis-biokeemiline tunnus	biomarker
+biomass, elusaine hulk ; biomass ; elusaine hulk	biomass
+biomassist saadav energia	biomass energy
+biofüüsika	biophysics
+bioreaktor	bioreactor
+biorütm	biorhythm
+bioohutus	biosafety
+biosfäär, elukond	biosphere
+biosfäärikaitseala	biosphere reserve
+biosüntees	biosynthesis
+biotehnoloogiaoht	biotechnological hazard
+biotehnoloogia	biotechnology
+biootiline tegur	biotic factor
+biootiline indeks	biotic index
+biotoop	biotope
+biotoobivõrk	biotope network
+biotoobijärk	biotope order
+biotoobikaitse	biotope protection
+lind	bird
+röövlind	bird of prey
+linnukaitseala	bird sanctuary
+linnuliik	bird species
+sündimuse piiramine	birth control
+vismut	bismuth
+bituumen	bitumen
+must	black
+kivisüsi	black coal ; black coal ; black coal ; anthracite coal
+musträstas	blackbird
+sepp	blacksmith
+kõrgahi	blast furnace
+pleegitusaine	bleaching agent
+pleegitussavi	bleaching clay
+pleegitamine	bleaching process
+veri	blood
+sinine	blue
+sinivetikad, sinivetiktaimed, sinikud, tsüanobakterid	blue-green alga ; cyanobacteria
+paadisõit ; purjetamine	boating
+hekimaastik (Põhja-Prantsusmaal) ; hekimaastik	bocage
+soo	bog
+bohrium	bohrium
+boiler, [auru]katel, veesoojendi ; boiler, (auru)katel, veesoojendi	boiler
+keemistemperatuur	boiling point
+raamat	book
+raamatupidamine	bookkeeping
+piir	border
+boor	boron
+botaaniline kaitseala	botanical conservatory
+botaanikaaed	botanical garden
+botaanika	botany
+botaanika	botany ; phytology
+pudelikork	bottle cap
+piiri ületamine, piiriületus	boundary crossing
+piirkiht	boundary layer
+vibu	bow
+riimvesi	brackish water
+tegevusala	branch of activity
+leib	bread
+rinnapiim	breast milk
+aretus	breeding
+pesitsuslind	breeding bird
+aretusmeetod	breeding technique
+tellis	brick
+sild	bridge
+lehtpuu	broad-leaved tree
+broom	bromine
+haudumine	brooding
+oja	brook
+võsa	brushwood
+sammaltaim	bryophyte
+ühiskuplistrateegia (heitekaubanduses) ; ühiskuplistrateegia	bubble policy (emissions trading) ; bubble policy
+eelarve	budget
+eelarvepoliitika	budget policy
+mardikas ; mardikas, põrnikas, putukas; lutikas ; putukas ; põrnikas ; lutikas	bug ; põrnikas
+ehitis ; ehitus	building
+ehitusalune pind, hoonestuspind ; ehitusalune pind ; hoonestuspind	building area
+tarielement	building component
+ehitiste lammutamine	building destruction
+ehitustööstus	building industry
+ehitusmaa	building land
+ehitusmaterjal	building material
+ehitusmaterjalitööstus	building materials industry
+ehitusluba	building permit
+ehituse planeerimine	building planning
+ehituseeskiri	building regulation
+ruumiõhu sündroom	building related illness ; sick building syndrome
+ehitiste restaureerimine	building restoration
+ehitusteenindus	building service
+ehitusplats	building site
+ehitusplatsi ettevalmistamine	building site preparation
+ehitustehnoloogia	building technology
+ehitusjäätmed, ehituspraht ; ehitusjäätmed ; ehituspraht	building waste
+kuivendussüsteem	built drainage system
+tehiskeskkond	built environment
+ehitis	built structure
+täisehitatud ala	built-up area
+sibullillekasvatus	bulb cultivation
+suurjäätmed	bulky waste
+bürokraatia	bureaucracy
+bürokratiseerimine, bürokratiseerumine ; bürokratiseerimine ; bürokratiseerumine	bureaucratisation
+buss	bus ; coach
+bussijaam	bus station
+võsakoristus	bush clearing
+äri[ndus]; ettevõte ; ärindus ; ettevõte	business
+äritegevus; ettevõtlus	business activity
+ettevõtete liigitus	business classification
+majandusteadus, ettevõtteökonoomika	business economics
+äriettevõtlus	business organisation
+ettevõtluspoliitika	business policy
+lihunik	butcher
+liblikas	butterfly
+nööppatarei	button-cell battery
+ostma	buy ; purchase
+ost, ostmine ; ostmine ; ost	buy ; purchase
+kaaspüük	by-catch
+kõrvalsaadus	by-product
+kaabel	cable
+kaktus	cactus
+kaadmium	cadmium
+tseesium	caesium
+kofeiin	caffeine
+kaltsium	calcium
+kaltsiumisisaldus	calcium content
+arvutus, arvutamine ; arvutus ; arvutamine	calculation
+arvutusmeetod	calculation method
+kalender	calendar
+kaliibrimine	calibration
+kalifornium	californium
+käekiri	calligraphy
+kaamel	camel
+fotoaparaat ; fotokaamera	camera
+kamuflaaž	camouflage
+laager; laagriplats ; laager ; laagriplats	camp ; military camp ; army camp ; campsite
+telkimine	camping ; camping ground
+laagrikoht	camping site
+kanal	canal
+kanalilüüs	canal lock
+vähk[tõbi] ; vähk(tõbi)	cancer
+vähioht; vähktõveoht	cancer risk
+küünal	candle
+koerlane	canid
+kanjon	canyon
+pealinn	capital
+auto	car ; automobile
+parkla	car park
+autorehv	car tyre
+süsivesik	carbohydrate
+süsinik	carbon
+süsinikdioksiid, süsihappegaas ; süsinikdioksiid ; süsihappegaas	carbon dioxide
+süsinikdioksiidimaks	carbon dioxide tax
+süsinik[mono]oksiid, vingugaas ; süsinik(mono)oksiid, vingugaas	carbon monoxide
+karbonaat	carbonate
+korjusekäitlus	carcass disposal
+kantserogeen, kartsinogeen ; kartsinogeen ; kantserogeen	carcinogen
+kartserogeensus, kartsinogeensus, kantserogeenne toime	carcinogenicity
+kantserogeensustest	carcinogenicity test
+kardioloogia	cardiology
+kardiovaskulaarhaigus	cardiovascular disease
+kardiovaskulaarsüsteem	cardiovascular system
+karjäär	career
+lihasööja, karnivoor	carnivore
+edasikandumine toitumisahelas	carry-over effect
+kartograafia	cartography
+kohtuasi, kohtulik arutamine ; kohtuasi ; kohtulik arutamine	case ; lawsuit ; trial
+müügikultuur	cash crop
+kass	cat
+katalüüs	catalysis
+katalüüt	catalyst
+katalüüsneutralisaator, katalüüsmuundur	catalytic converter
+katastroof	catastrophe
+kalasaak	catch yield
+veepüüdemahuti	catchment
+valgla	catchment area
+eriti ohustatud liigid	category of endangered species
+katioon	cation
+veised	cattle
+põhjuse ja tagajärje suhe	cause-effect relation
+koobas	cave
+seller	celery
+rakk ; rakk	cell ; cell
+akuelement	cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο
+tselluloos	cellulose
+tselluloositööstus	cellulose industry
+tsement	cement
+tsemenditööstus	cement industry
+tsemendi tootmine	cement manufacture
+rahvaloendus	census survey
+keskvalitsus	central government
+loodusreservaat	central park area
+tsentraliseerimine	centralisation
+tsentrifuugimine	centrifugation
+peajalgne, tsefalopood ; peajalgne ; tsefalopood	cephalopod
+keraamika	ceramics
+keraamikatööstus	ceramics industry
+tseerium	cerium
+sertifitseerimine	certification
+vaalaline	cetacean
+kriit	chalk
+väärtuse muutumine	change in value
+jaotusvõrk	channelling
+puusüsi, puidusüsi ; puusüsi ; puidusüsi	charcoal
+harta	chart
+merekaart	chart ; nautical chart
+aitäh	cheers ; thank you ; thanks
+lõugtundlased, helitseraadid	chelicerate
+kemikaal	chemical
+liitumisreaktsioon	chemical addition
+keemiline analüüs	chemical analysis
+keemiline koostis	chemical composition
+kemikaalisaastus	chemical contamination
+keemiline korrodeeruvus	chemical corrosivity
+kemikaalisaasta ärastamine	chemical decontamination
+keemiline element	chemical element ; element
+keemilise õhusaasta sadenemine	chemical fallout
+mineraalväetis, kunstväetis	chemical fertiliser
+keskkonnas olevad kemikaalid	chemical in the environment
+keemiatööstus	chemical industry
+keemiatööstushoone	chemical installation
+reoainete keemiline määramine	chemical measurement of pollution
+keemiline hapnikutarve	chemical oxygen demand
+keemiline kahjuritõrje	chemical pest control
+keemiatööstusettevõte	chemical plant
+keemiapoliitika	chemical policy
+keemiline reoaine, keemiline saasteaine	chemical pollutant
+kemikaalireostus, kemikaalisaastus	chemical pollution
+keemiline protsess	chemical process
+keemiasaadus	chemical product
+keemiline omadus	chemical property
+keemiline reaktsioon	chemical reaction
+redutseerimine	chemical reduction
+keemiaoht	chemical risk
+keemiline struktuur	chemical structure
+keemiline käitlus	chemical treatment
+kemikaalijäätmed	chemical waste
+keemiarelv	chemical weapon
+kemikaaliseadus	chemicals act
+kemosorptsioon	chemisorption
+apoteko ; apteek	chemist's ; chemist's shop ; pharmacy
+keemia	chemistry
+male	chess
+kastan	chestnut
+laps	child
+korsten	chimney
+korstna kõrgus	chimney height
+käsitiivaline, nahkhiireline	chiropteran
+kloriid	chloride
+klooritud süsivesinik	chlorinated hydrocarbon
+kloorimine	chlorination
+kloor	chlorine
+klorofenool	chlorophenol
+klorofüll	chlorophyll
+kloroos, haljuskadu ; kloroos ; haljuskadu	chlorosis
+kolesterool	cholesterol
+keelikloom, kordaat	chordate
+levilateadus, areoloogia, koroloogia	chorology
+kromatograafiline analüüs	chromatographic analysis
+kromatograafia	chromatography
+kroom	chromium
+koldvetikad	chrysophyta
+kirik	church
+kinofilm	cinematographic film
+ringkiri	circular mail
+kodanik	citizen
+kodanikuteadvus	citizen awareness
+kodanikualgatus	citizen initiative
+kodanikuõigused	citizen rights
+linn	city
+linnakeskus	city centre
+tsiviillennuliiklus	civil air traffic
+tsiviilehitus	civil engineering
+tsiviilõigus	civil law
+elanike ohutus	civil safety
+tsiviilkaitse	civilian protection
+ennistusnõue	claim for restitution
+klarnet	clarinet
+liigitus, klassifikatsioon	classification
+savi	clay
+puhta õhu piirkond	clean air area
+keskkonda säästev auto	clean air car
+puhas tootmine	clean technology
+saneerimine	cleaning up
+puhtus	cleanliness
+linnapuhastusosakond	cleansing department
+settekoristus, mudakoristus	clearing sludge
+kalju ; kalju ; pank ; rannajärsak ; klint	cliff
+kliima	climate
+kliimakaitse	climate protection
+kliimaressursid	climate resource
+kliimatüüp	climate type
+kliima muutumine	climatic alteration
+kliimamuutus	climatic change ; climate change
+kliima mõju	climatic effect
+kliimaeksperiment	climatic experiment
+kliimavööde	climatic zone
+klimatoloogia	climatology
+kliimaks, püsikooslus, lõppkooslus ; kliimaks ; püsikooslus ; lõppkooslus	climax
+ronitaim	climbing plant (wall) ; climbing plant
+kliiniline sümptom	clinical symptom
+kloonimine	cloning
+tegevuse lõpetamine; sulgemine ; tegevuse lõpetamine ; sulgemine	closing down
+ettevõtte tegevuse lõpetamine	closing down of firm
+riietus	clothing ; apparel
+tekstiilitööstus	clothing industry
+pilv	cloud
+koospõletamine	co-incineration
+koostöö	co-operation
+koostööpoliitika	co-operation policy
+koostööpõhimõte	co-operation principle
+koordinaatsüsteem	co-ordinate system
+koordineerimine, kooskõlastamine	co-ordination
+koagulatsioon	coagulation
+kivisüsi ; kivisüsi, süsi ; süsi	coal
+söetööstus	coal industry
+söe veeldamine	coal liquefaction
+söe kaevandamine	coal mining
+söe rikastamine	coal refining
+söetehnoloogia	coal technology
+söepõhine energia	coal-based energy
+kivisöejõujaam	coal-fired power plant
+rannik	coast
+rannikukaitse	coast protection
+rannikupiirkond	coastal area
+rannikupiirkonna arendamine	coastal development
+rannikuökosüsteem	coastal ecosystem
+rannikukeskkond	coastal environment
+rannapüük	coastal fishing
+rannikureostus	coastal pollution
+rannikuvesi	coastal water
+rannikupiirkonna planeerimine	coastal zone planning
+rannavalve	coastguard
+pinnakate, kattekiht ; pinnakate ; kattekiht	coating
+koobalt	cobalt
+kokaiin	cocaine
+tarakan, prussakas ; tarakan ; prussakas	cockroach
+kood	code
+juhend	code of practice
+kodeerimine	codification
+ainuõõsne	coelenterate
+koostootmine, soojuse ja elektri koostootmine	cogeneration
+koks	coke
+külm	cold
+kolilaadne bakter, kolilaadne, coli-laadne	coliform bacterium
+küngas ; mägi	colina ; hill ; loma
+reovee ühispuhastus	collective wastewater treatment
+kolloid	colloid
+kolloidolek	colloidal state
+asustamine	colonisation
+värv ; värvus, värv ; värvus, värv ; värvus, värv ; värvus	colour ; colour ; colo(u)r
+pseudokoloreerimine	colour composition
+kolorimeetria	colourimetry
+nastiklane	colubrid
+koosmõju, koostoime	combination effect
+kombijõujaam	combined cycle-power station
+ühisvoolukanalisatsioon	combined sewer system
+segaveod	combined transport
+segareovesi	combined waste water
+süttivus	combustibility
+sisepõlemismootor	combustion engine
+heitgaas	combustion gas
+põlemisjääk	combustion residue
+tulema	come
+komeet	comet
+töönduspüük	commercial fishery
+kaubandusõigus	commercial law
+kaubandusmüra	commercial noise
+kaubaveod	commercial traffic
+kaubandustehing	commercial transaction
+kaubaveok	commercial vehicle
+kaubastamine	commercialisation
+taval põhinev kokkulepe	common agreement
+ühine põllumajanduspoliitika	common agricultural policy ; common agricultural policy of the EU
+ühine kaubanduspoliitika	common commercial policy
+ühine tollipoliitika	common tariff policy
+suhtlus, infovahetus ; suhtlus ; infovahetus	communications
+sideala	communications industry
+sidepoliitika	communications policy
+sidesüsteem	communications system
+kommunism	communism
+üldkasutatav rajatis	community facility ; public facility
+kogukond-maksab-põhimõte	community-pays principle
+pendelliiklus	commuter traffic
+tihendamine	compaction
+ettevõtte strateegia	company policy
+ettevõtte struktuur	company structure
+võrdlev õigusteadus	comparative law
+võrdluskatse	comparative test
+võrdlus	comparison
+hüvitis	compensation
+kahju hüvitamine	compensation for damage
+tasendusmeede	compensatory measure
+tasendusmaks	compensatory tax
+konkurents	competition
+konkurentsiõigus	competition law
+võistluseksam	competitive examination
+konkurentsivõime	competitiveness
+kompleksimoodustumine	complex formation
+kompleksimoodusti	complexing agent
+liitreostus	composite pollution
+rahvastiku koostis	composition of population
+kompost	compost
+kompostitavad jäätmed	compostable waste
+kompostimine	composting
+kompostimine omal krundil	composting by producer
+keemiline aine	compound ; chemical compound
+kokkusurumine	compression
+kompressor	compressor
+ainesisaldus ; kontsentratsioon	concentration
+kontsentreerumine	concentration
+keskkonnakontseptsioon	concept of environment
+kontsessioon	concession
+betoon	concrete
+betoontootetööstus	concrete products industry
+kondensatsioon	condensation (process) ; condensation
+juhtivus	conductivity ; electrical conductivity
+konflikt	conflict
+eesmärkide lahknemine	conflict of aims
+huvide lahknemine	conflict of interests
+vastuolus olev kasutus	conflicting use
+kongress	congress
+okaspuu	conifer
+okasmets, okaspuumets	coniferous forest
+okaspuu	coniferous tree
+kaitse ; kaitse, looduskaitse ; looduskaitse	conservation
+mälestisekaitse	conservation of monuments
+looduskaitsepoliitika	conservation policy
+tähtkuju	constellation
+põhiseadus ; konstitutsioon	constitution
+riigiõigus	constitutional law
+ehitusmasinad	construction equipment
+ehitusmüra	construction noise
+ehituspoliitika	construction policy
+ehitustehnoloogia	construction technology
+ehitamine taaskasutusmaterjalist	construction with recycled material
+ehitamine, ehitustöö ; ehitamine ; ehitustöö	construction work
+nõustaja	consultancy
+nõustamine	consultation
+tarbija käitumine, tarbimiskäitumine	consumer behaviour
+tarbekaubad	consumer goods
+tarbijarühm	consumer group
+tarbijateave	consumer information
+tarbekaubad	consumer product
+tarbijakaitse	consumer protection
+tarbimisjäätmed	consumer waste
+kulu, tarbimine ; kulu ; tarbimine	consumption
+tarbimisstruktuur	consumption pattern
+konteiner	container
+kaitsekest	containment (nuclear industry) ; containment
+saastatud pinnas	contaminated soil
+saastumine	contamination
+kontinent ; manner	continent
+mandrikliima	continental climate
+mandrilava, šelf	continental shelf
+täiendusõpe	continuing education
+püsikoormus	continuous load
+terrasspõllundus	contour farming
+leping	contract
+juhtimismeede	control measure
+ülepõletamine	controlled burning
+kontrollitav jahipiirkond	controlled hunting zone
+juhtiv ametkond	controlling authority
+linnastu	conurbation
+konventsioon ; rahvusvaheline kokkulepe	convention
+tavaenergia	conventional energy
+jahutamine	cooling
+jahutusõli	cooling oil
+jahutustorn, gradiir	cooling tower
+jahutusvesi	cooling water
+vask	copper
+võsa ; võsa, madalmets ; madalmets	coppice
+keskmets	coppice with standards
+korall	coral
+korallrahu	coral reef
+korallrahulaguun	coral reef lagoon
+reaktori ülekuumenemine	core meltdown
+kork	cork
+koridor	corridor
+korrosioon	corrosion
+korrosiooniinhibiitor, korrosioonitõrjeaine ; korrosiooniinhibiitor ; korrosioonitõrjeaine	corrosion inhibitor
+kosmeetikatööstus	cosmetic industry
+kosmiline kiirgus	cosmic radiation
+kosmoloogia	cosmology
+maksumus	cost
+kulude suurenemine	cost increase
+kulude vähenemine; kulude vähendamine	cost reduction
+kulud ja tulud	cost-benefit
+kulude ja tulude analüüs, tasuvusanalüüs	cost-benefit analysis
+puuvill	cotton
+riik	country ; nation ; state
+suvila, puhkemaja	country lodge
+maakond	county
+kohus	court
+kohus	court of justice
+abajas	cove
+kate	covering ; roofing
+lehm	cow
+käsitöö	craft ; arts and crafts
+loovus	creativity ; inventiveness
+krediit, laen	credit
+krediidiabi	credit assistance
+krediidipoliitika, laenupoliitika	credit policy
+jõesopp; oja ; oja ; jõesopp	creek
+kuritegu	crime
+kriminaalõigus	criminal law
+kriminaalmenetlus	criminal law procedure
+kriminaalvastutus	criminal liability
+kuritegevus	criminality
+kriisijuhtimine	crisis management
+kriitiline tase	critical level
+kriitiline koormus	critical load
+krokodill	crocodile
+taimekasvatus	crop production
+taimekaitse	crop protection
+külvikord	crop rotation
+keemiline taimekaitse	crop treatment
+ülekäigukoht	crossing place
+loomaülekäigukoht	crossing place for animals
+nafta, toornafta, maaõli ; nafta ; toornafta ; maaõli	crude oil
+ristlus	cruising
+vähid, koorikloomad	crustacean
+eostaim, krüptogaam ; eostaim ; krüptogaam	cryptogam
+kristall	crystal
+kristallisatsioon	crystallisation
+kristallograafia	crystallography
+kultuurtaim	cultivated plant
+viljelus	cultivation ; tillage
+viljelusviis	cultivation method
+maaviljelus	cultivation of agricultural land
+maaviljelussüsteem	cultivation system
+kultuuri areng	cultural development
+kultuuriasutus	cultural facility
+kultuuripärand	cultural heritage
+kultuuriindikaator	cultural indicator
+kultuuripoliitika	cultural policy
+kultuur	culture
+kuurium	curium
+õppekava	curriculum
+toll	customs
+tollieeskiri	customs regulation
+tollimaks	customs tariff
+metsaraie ; raie	cutting
+pistik	cutting ; cutting (vegetative propagation)
+tsüanaat	cyanate
+tsüaniid	cyanide
+jalgrattatee	cycle path
+tsüklon, madalrõhkkond ; tsüklon ; madalrõhkkond	cyclone
+tsütoloogia	cytology
+tsütotoksilisus	cytotoxicity
+piimatalu	dairy farm
+piimatööstus	dairy industry
+piimasaadus	dairy product
+pais	dam
+veehoidla tühjendamine	dam draining
+kahju	damage
+kahju hindamine	damage assessment
+sõjaväemanöövrite tekitatud kahju	damage from military manoeuvres
+kahjukindlustus	damage insurance
+kahju vältimine	damage prevention
+ohuanalüüs	danger analysis
+ohtlikud kaubad	dangerous goods
+ohtlike kaupade seadus	dangerous goods law
+ohtlike kaupade käitluseeskirjad	dangerous goods regulation
+ohtlik ettevõte	dangerous installation
+ohtlike materjalide vedu	dangerous materials transport
+Darmstadtium	darmstadtium
+andmehõive	data acquisition
+andmeanalüüs	data analysis
+andmekandja	data carrier
+andmetöötluskeskus	data centre
+andmevahetus	data exchange
+andmed keskkonna seisundi kohta	data on the state of the environment
+andmekäitlus ; andmetöötlus	data processing
+andmetöötlusseadus	data processing law
+andmetöötlussüsteem	data processing system
+andmekaitse	data protection
+andmesalvestustehnika	data recording technique
+andmebaas ; andmekogu ; andmepank	database
+dateerimine, vanuse määramine ; dateerimine ; vanuse määramine	dating
+pimestama	dazzle
+trükivärvi eemaldamine	de-inking
+surmanuhtlus	death penalty ; capital punishment ; death sentence
+võlg	debt
+võlateenindus	debt service
+lagusaadus	decay product
+detsentraliseerimine	decentralisation
+klooritustamine, dekloorimine	dechlorination
+detsibell	decibel
+lehtmets, lehtpuistu ; lehtmets ; lehtpuistu	deciduous forest ; deciduous wood
+lehtpuu	deciduous tree
+otsus	decision
+otsustussabi	decision making support
+otsustamine	decision process
+otsustusabisüsteem	decision-support system
+avalikuks kasutamiseks määramine	declaration of public utility
+lagunemine	decomposition
+saastaärastus, kahjutustamine, saastast puhastamine ; saastaärastus ; kahjutustamine ; saastast puhastamine	decontamination
+määrus	decree
+süvamere-	deep sea
+süvamerepüük	deep sea fishing
+süvamerekaevandamine	deep sea mining
+süvamerre kaadamine, süvamerre uputamine ; süvamerre kaadamine ; süvamerre uputamine	deep-sea disposal
+hirv	deer
+kaitse	defence
+deflatsioon	deflation
+defoliatsioon	defoliation
+raadamine	deforestation
+lagundatavus	degradability
+lagundamine	degradation
+loodusvarade vähenemine	degradation of natural resources
+keskkonna seisundi halvendamine	degradation of the environment
+lagusaadus	degradation product
+rasvatustamine, rasvaärastus	degreasing
+kuivatatud sete, kuivatatud muda	dehydrated sludge
+delegeeritud juhtimine	delegated management
+delta	delta
+nõue; nõudlus ; nõue ; nõudlus	demand
+riigiveekogu	demesnial water
+demokraatia	democracy
+rahvastiku kasv	demographic development
+rahvastikuprotsess	demographic evolution
+demograafia, rahvastikuteadus ; demograafia ; rahvastikuteadus	demography
+lammutustegevus	demolition business
+lammutuspraht	demolition waste
+tõestatavus	demonstrability
+dendrokronoloogia	dendrochronology ; tree-ring dating
+dendromeetria	dendrometry
+denitrifikatsioon	denitrification
+heitgaasi denitrifitseerimine	denitrification of waste gas
+tihedus	density
+dentisto ; hambaarst	dentist
+sadenemine	deposition
+riigi vahelesegamise vähendamine	deregulation
+dermatoloogia	dermatology
+magestamine	desalination
+magestusseade	desalination plant
+kõrb	desert
+kõrbekliima	desert climate
+kõrbetirts	desert locust
+kõrbestumine, desertifikatsioon	desertification
+kõrbestumistõrje	desertification control
+projekt	design (project) ; design ; project design
+kabinetiuuring	desk study
+desorptsioon	desorption
+veose sihtkoht	destination of transport
+väävlitustamine, väävliärastus, desulfuratsioon ; väävlitustamine ; väävliärastus ; desulfuratsioon	desulphurisation
+kütuse väävlitustamine	desulphurisation of fuel
+avastamine	detection
+detektor	detector
+detergent, pesuaine, puhastusaine ; puhastusaine ; detergent	detergent
+määramismeetod	determination method
+peletus, hirmutus	deterrence
+peletusvahend, hirmutusvahend	deterrent
+mürgitustamine, detoksikatsioon ; mürgitustamine ; detoksikatsioon	detoxification
+deuteerium	deuterium
+arenenud maa	developed country
+arengumaa	developing country
+arenguabi	development aid
+arengupiirkond	development area
+arenduskoostöö	development co-operation
+arengumudel	development model
+arengulaad	development pattern
+arengukava	development plan
+taandareng	devolution
+murre	dialect
+dialüüs	dialysis
+päevik	diary
+ränivetikas, diatomee	diatom
+sõnaraamat ; sõnastik	dictionary
+didaktika, õpetamisteadus ; didaktika ; õpetamisteadus	didactics
+diiselmootor	diesel engine
+diiselkütus	diesel fuel ; diesel
+diferentseerumine	differentiation
+hajureostus	diffuse pollution
+hajureostusallikas	diffuse source
+difusioon	diffusion
+käärinud [reovee]sete, käärinud muda ; käärinud (reovee)sete, käärinud muda ; käärinud (reovee)sete ; käärinud muda	digested sludge
+metaan[kääritus]tank, mädandi ; metaan(kääritus)tank, mädandi ; mädandi ; metaan(kääritus)tank	digester
+kääritamine ; mädandamine	digestion
+digitaalpilditöötlus	digital image processing technique
+maapinna digitaalmudel	digital land model
+digiteerimine	digitising
+lahjendatud hape	diluted acid
+dioksiin	dioxin
+kahetiivaline, dipter	dipteran
+otseheiteallikas	direct discharger
+direktiiv	directive
+invaliid, vaegur	disabled person
+katastroof ; õnnetus	disaster
+õnnetustagajärgede kõrvaldamine	disaster cleanup operation
+õnnetuseplaan	disaster contingency plan
+õnnetustõrjeteenistus; õnnetustõrjetalitus	disaster control service
+õnnetusvalmidus	disaster preparedness
+õnnetustõrje	disaster prevention
+õnnetusabi	disaster relief
+õnnetuspiirkond	disaster zone
+äravoolurežiim	discharge regime
+haigus ; tõbi	disease ; illness ; affliction
+haiguse põhjus	disease cause
+desoaine, desinfitseeriv aine ; desoaine ; desinfitseeriv aine	disinfectant
+desinfektsioon, desifitseerimine ; desinfektsioon ; desifitseerimine	disinfection
+laadimisteatis	dispatch note
+dispersioon	dispersion
+hajumisarvutus	dispersion calculation
+pagulane	displaced person
+matusekorraldus	disposal of the dead
+sõjavarustuse kõrvaldamine	disposal of warfare materials
+lahustamine	dissolution
+lahustunud orgaaniline süsinik	dissolved organic carbon
+lahustunud hapnik	dissolved oxygen
+destillatsioon ; destilleerimine	distillation
+konkurentsi kahjustamine	distortion of competition
+jaotumine	distribution
+areaal, levila, levikuala ; areaal ; levila ; levikuala	distribution area
+hulgikaubandus	distributive trade
+kaugküte	district heating
+kaugküttejaam	district heating plant
+hüljatud sõjaväeala	disused military site
+kraav	ditch
+doktriin	doctrine
+dokument	document
+dokumendilaenutus	document lending
+dokumenditüüp	document type
+dokumentaalfilm	documentary film
+dokumendisüsteem	documentary system
+dokumentatsioon	documentation
+dokumendikeskus	documentation centre
+koer	dog
+delfiin	dolphin
+majapidamisseade	domestic appliance
+majapidamiskütus, olmekütus	domestic fuel
+kerge kütteõli	domestic fuel oil
+olmemüra	domestic noise
+olmereostus	domestic pollution
+sisekaubandus	domestic trade
+olmejäätmed ; olmejäätmed, majapidamisjäätmed ; majapidamisjäätmed	domestic waste
+olmejäätmeprügila	domestic waste landfill
+olmereovesi	domestic waste water
+kodustatud loom	domesticated animal
+annetamine	donation
+uks	door
+annustamine ; annustus ; doseerimine	dosage
+annus ; doos	dose
+annuse ja toime suhe	dose-effect relationship
+seaduseelnõu	draft legislation
+kiil	dragonfly
+kuivendus	drainage
+kuivendussüsteem	drainage system
+kuivendusvesi, drenaaživesi	drainage water
+kuivendamine	draining
+veoloom	draught animal
+süvenduspinnas, süvendusaines	dredged material
+süvendamine	dredging
+triivpüük	drift net fishing
+puurimine	drilling
+naftapuurimine	drilling for oil
+puurseade	drilling installation
+joogivesi	drinking water
+joogiveekaitseala	drinking water protection area
+joogiveevarustus	drinking water supply
+joogiveekäitlus, joogiveetöötlus, joogiveepuhastus ; joogiveekäitlus ; joogiveetöötlus ; joogiveepuhastus	drinking water treatment
+põud	drought
+põuatõrje	drought control
+ravim	drug
+trummid	drum kit
+kuiv	dry
+kuivpuhastus	dry cleaning
+kuivsadenemine	dry deposition
+kuivpõllundus	dry farming
+kuivmuru	dry lawn
+tahendamine, kuivatamine	drying
+kuivatamine	drying out
+kontsentriline rahvamajandus	dual economy
+rööbikjäätmekäitlus	dual waste management
+dubnium	dubnium
+part	duck
+prügi ulakaadamine, jäätmete kontrollimatu mahapanek ; prügi ulakaadamine ; jäätmete kontrollimatu mahapanek	dumping
+luide	dune
+kestvuskaubad, püsikaubad	durable goods
+päikesepaiste kestus	duration of sunshine
+tolm	dust
+tolmuärastus	dust removal
+eluruum	dwelling
+värvaine, värv	dye
+tamm (tammi) ; tamm	dyke
+tammikindlustus	dyke reinforcement
+düsproosium	dysprosium
+kõrv	ear
+varajase hoiatamise süsteem	early warning system
+Maa	earth ; Earth ; the world ; Blue Planet
+teadus Maast, geoloogia	earth science
+maakoor	earth's crust ; crust ; Earth's crust
+maavärin	earthquake
+vihmauss	earthworm
+kõrvahark	earwig
+servituut	easement
+sööma	eat
+okasnahkne, ehhinoderm ; okasnahkne ; ehhinoderm	echinoderm
+ökopediaatria	eco-paediatrics
+ökokatastroof	ecocatastrophe
+ökoloogiline areng	ecodevelopment
+ökomärgis, keskkonnamärgis	ecolabel
+ökomärgistamine	ecolabelling
+arvukus (biol)	ecological abundance
+kohastumine	ecological adaptation
+ökoloogiline hindamine	ecological assessment
+ökoloogiline tasakaal ; ökotasakaal	ecological balance
+ökoloogiline arvepidamine	ecological bookkeeping
+keskkonnamahutavus	ecological carrying capacity
+kooslus	ecological community
+keskkonnategur, ökoloogiline faktor ; keskkonnategur ; ökoloogiline faktor	ecological factor
+ökoloogiline ebavõrdsus	ecological inequality
+ökoloogiline nišš, ökonišš, nišš	ecological niche
+ökoloogiline näitaja	ecological parameter
+ökoloogiline loendus	ecological stocktaking
+ökoloogiliselt tundlik ala	ecologically sensitive area
+ökoliikumine, keskkonnaliikumine ; ökoliikumine ; keskkonnaliikumine	ecologist movement
+ökoloogia	ecology
+mahekaubandus	ecomarketing
+keskkonnamuuseum	ecomuseum
+majandustegevus	economic activity
+majandusanalüüs	economic analysis
+majanduskonkurents	economic competition
+kontsentratsioonitase	economic concentration
+majandusandmed	economic data
+majanduslik areng	economic development
+majanduslik prognoos	economic forecasting
+majandusgeograafia	economic geography
+majandustõus	economic growth
+majanduslik stiimul, majandushoob	economic incentive
+majandusinstrument	economic instrument
+majanduse juhtimisinstrument	economic management instrument
+majanduskava	economic plan
+majanduse plaanimine	economic planning
+majanduspoliitika	economic policy
+majanduspiirkond	economic region
+majanduslikud õigused	economic rights
+ökonoomika	economic science ; economics
+majandussektor	economic sector
+majanduslik olukord	economic situation
+majanduse struktuur	economic structure
+majandusabi	economic support
+majandussüsteem	economic system
+majandusteooria	economic theory
+majandusliku arengu tendents (suundumus)	economic trend
+majanduslik elujõulisus	economic viability
+majanduslik ja ökoloogiline tõhusus	economical-ecological efficiency
+majandus	economy
+ökofüsioloogia	ecophysiology
+ökosüsteem	ecosystem
+ökosüsteemanalüüs	ecosystem analysis
+ökosüsteemi degradeerumine	ecosystem degradation
+ökosüsteemne uurimistöö	ecosystem research
+ökosüsteemitüüp	ecosystem type
+ökoturism	ecotourism
+ökotoksilisus	ecotoxicity
+ökotoksikoloogiline hindamine	ecotoxicological evaluation
+ökotoksikoloogia	ecotoxicology
+ökotüüp	ecotype
+ökopiirkond	ecozone
+edafoloogia	edaphology
+toidurasv	edible fat
+haridus	education
+hariduspoliitika	education policy
+haridusasutus	educational institution
+haridustee	educational path
+hariduse planeerimine	educational planning
+haridussüsteem	educational system
+mõju	effect
+mõju tervisele	effect on health
+mõju inimesele	effect on man
+keskkonnamõju	effect on the environment ; environmental consequence
+efektiivsuskriteerium	efficiency criterion
+kasutegur	efficiency level
+heitvesi	effluent
+pingutus	effort ; exertion
+muna	egg
+einsteinium	einsteinium
+elastsus	elasticity
+küünarnukk	elbow
+vanur	elderly person
+elektripatarei	electric battery
+elektriliin	electric line ; power line
+elektrienergia, elekter	electric power
+elektrijõujaam	electric power plant
+elektrivarustus	electric power supply
+elektrisõiduk	electric vehicle
+elektrotehnika	electrical engineering
+elektrikaubatööstus	electrical goods industry
+elektritööstus	electrical industry
+elekter, elektrienergia ; elekter ; elektrienergia	electricity
+elektriettevõte	electricity company
+elektrienergia kulu	electricity consumption
+elektritootmine	electricity generation
+elektritootmiskulud	electricity generation cost
+elektrimajandus	electricity supply industry
+elektrokineetika	electrokinetics
+elektrolüüs	electrolysis
+elektronteabevõrk	electronic information network
+elektronpost, e-post, meil ; elektronpost ; e-post ; e--kiri ; e-kiri ; e-posti sõnum ; sõnum	electronic mail ; email ; e-mail
+elektronmaterjal	electronic material
+elektroonikajäätmed	electronic scrap
+elektroonikajäätmemäärus	electronic scrap regulation
+elektroonika	electronics
+elektronsudu	electrosmog
+elektrotehniline seadmestik	electrotechnical equipment
+elektrotehnikatööstus	electrotechnical industry
+0-rühma element	element of group 0 ; noble gas
+II rühma element	element of group II (alkaline earth metals) ; alkaline earth metal ; element of group II
+III rühma element	element of group III
+IV rühma element	element of group IV
+V rühma element	element of group V
+VI rühma element	element of group VI
+VII rühma element, halogeen ; halogeen ; VII rühma element	element of group VII ; halogen
+emantsipatsioon	emancipation
+embrüo ; loode	embryo
+embrüogenees	embryogenesis
+hädaolukord	emergency
+hädaolukorraseadus	emergency law
+tegevuskava hädaolukorras	emergency plan
+hädaabi	emergency relief
+hädaulualune, hädapeavari	emergency shelter
+emissioon, heide ; emissioon ; heide	emission
+heiteohje	emission control
+heiteandmed	emission data
+heitetegur	emission factor
+heiteennustus, emissiooniprognoos ; emissiooniprognoos ; heiteennustus	emission forecast
+heite vähendamine, emissiooni vähendamine, heitetõrje	emission reduction
+heiteõiguse hoiustamine (heitekaubanduses)	emission reduction banking
+emissioonikataster, heitekataster	emission register
+emissiooniseisund, heiteseisund	emission situation
+emissiooniallikas, heiteallikas	emission source
+emissiooninorm, heitenorm	emission standard
+heide veekogusse, vetteheide	emission to water
+teenistus, töö, amet; töökoht; tööhõive	employment
+amet ; elukutse ; kutse	employment ; employment ; job ; job ; occupation ; work ; work
+töö ja keskkond	employment and environment
+mõju tööhõivele	employment level effect
+tööhõivestruktuur	employment structure
+emulgeerimine	emulsification
+emulsioon	emulsion
+kaitsekatmine	encapsulation
+entsüklopeedia	encyclopaedia
+toruotsatehnoloogia, korstnaotsatehnoloogia	end-of-pipe technology
+eriti ohustatud loomaliik	endangered animal species
+eriti ohustatud taimeliik	endangered plant species
+endeemne liik, päriskodune liik	endemic species
+endokriinsüsteem, sisenõresüsteem	endocrine system
+endokrinoloogia	endocrinology
+energia	energy
+energiabilanss	energy balance
+energiakulu	energy consumption
+energia muundamine, energia konversioon	energy conversion
+energiavajadus	energy demand
+energiakadu	energy dissipation
+energiajaotussüsteem	energy distribution system
+energiamajandus	energy economics
+energiakasutuse efektiivsus	energy efficiency
+energiatööstus	energy industry
+energiaõigus	energy legislation
+energiamajandus	energy management
+energiaturg	energy market
+energiapoliitika	energy policy
+energeetiline protsess	energy process
+energiatoodang	energy production
+energiavarud	energy resource
+energia säästmine, säästev energiakasutus	energy saving
+energiaallikas	energy source
+energiakandja	energy source material
+energia salvestamine, energiasalvestus	energy storage
+energiavarustus; energiatarne	energy supply
+energiatehnoloogia, energiatehnika ; energiatehnika ; energiatehnoloogia	energy technology
+energialiik	energy type
+energiakasutus	energy utilisation ; energy use
+kehtestamine, jõustamine ; kehtestamine ; jõustamine	enforcement
+mootor	engine
+inseneriteadus; masinateadus; tehnika; tehnoloogia ; tehnoloogia ; inseneriteadus ; masinateadus ; tehnika	engineering
+masinatehas	engineering work
+head isu	enjoy your meal ; have a nice meal
+laiendamispoliitika	enlargement policy
+laiendamiskava	enlargement programme
+rikastatud uraan	enriched uranium
+rikastamine	enrichment
+enteroviirus	enterovirus
+keskkond	environment
+keskkonda säästev ; keskkonnahoidlik ; keskkonnasäästlik ; keskkonnasõbralik	environment friendly
+keskkonnaturg	environment market
+keskkonnaõnnetus	environmental accident
+keskkonnaarvepidamine	environmental accounting
+keskkonnajuhtimisasutus	environmental administration institution
+keskkonnaanalüüs	environmental analysis
+keskkonnamure	environmental anxiety
+inimasulate keskkonnaaspekt	environmental aspect of human settlements
+keskkonnahinnang	environmental assessment
+keskkonnahinnangukriteerium	environmental assessment criterion
+keskkonnaaudit	environmental auditing
+keskkonnateadvus	environmental awareness
+keskkonnamuutus	environmental change
+keskkonnakemikaaliõigus	environmental chemicals legislation
+keskkonnakeemia	environmental chemistry
+keskkonnahoidlik kodakondsus	environmental citizenship
+keskkonnahoidlikkus	environmental compatibility
+keskkonnamõju	environmental consequence
+keskkonnakaitse	environmental conservation
+tegevuse kavandamine keskkonnaõnnetuse puhuks	environmental contingency planning
+keskkonnajärelevalve, keskkonnakontroll	environmental control
+keskkonnakulud	environmental cost
+keskkonnakuritegu	environmental crime
+keskkonnakriminaalõigus	environmental criminal law
+keskkonnakuritegevus	environmental criminality
+keskkonnakriteerium	environmental criterion
+keskkonnakultuur	environmental culture
+keskkonnakahju[stus] ; keskkonnakahju(stus)	environmental damage
+keskkonnaandmed	environmental data
+keskkonnaareng	environmental development
+keskkonna majanduslik hindamine	environmental economic valuation
+keskkonnaökonoomika	environmental economics
+ettevõtete keskkonnaökonoomika	environmental economics of firms
+keskkonna majandusprobleem	environmental economy issue
+keskkonnakasvatus	environmental education
+keskkonnatehnika	environmental engineering
+keskkonnaettevõte	environmental enterprise
+keskkonnaeetika	environmental ethics
+keskkonnahoidlik hange	environmental friendly procurement
+keskkonnafond	environmental fund
+keskkonnaoht, keskkonnarisk	environmental hazard
+keskkonnalähtene tervishoid	environmental health
+keskkonnalähtene terviseoht	environmental health hazard
+keskkonna tervisemõju hindamine	environmental health impact assessment
+tervise kaitsmine keskkonnamõju eest	environmental health protection
+keskkonnaajalugu	environmental history
+keskkonnamõju	environmental impact
+põllumajanduse keskkonnamõju	environmental impact of agriculture
+vesiviljeluse (akvakultuuri) keskkonnamõju	environmental impact of aquaculture
+energeetika keskkonnamõju	environmental impact of energy
+kalanduse keskkonnamõju	environmental impact of fishing
+metsanduse keskkonnamõju	environmental impact of forestry
+kodumajapidamiste keskkonnamõju	environmental impact of households
+tööstuse keskkonnamõju	environmental impact of industry
+virgestuse (rekreatsiooni) keskkonnamõju	environmental impact of recreation
+turismi keskkonnamõju	environmental impact of tourism
+veonduse keskkonnamõju	environmental impact of transport
+keskkonnamõju hindamise aruanne	environmental impact statement
+keskkonnamõju uuring	environmental impact study
+keskkonnapreemia	environmental incentive
+keskkonnakirjutiste register	environmental index
+keskkonnanäitaja, keskkonnaindikaator	environmental indicator
+keskkonnatööstus	environmental industry
+keskkonnainformaatika	environmental informatics
+keskkonnateave, keskkonnainfo	environmental information
+keskkonnateabevõrk	environmental information network
+keskkonnateabesüsteem	environmental information system
+keskkonnainvesteering	environmental investment
+keskkonnaseadus	environmental law
+keskkonnaseaduse elluviimine	environmental law enforcement
+keskkonnaõigus	environmental legislation
+põllumajandusse puutuv keskkonnaõigus	environmental legislation on agriculture
+keskkonnaseadusandlus	environmental legislative process
+keskkonnavastutus	environmental liability
+keskkonnaluba	environmental licence
+keskkonnakorraldus, keskkonnajuhtimine	environmental management
+keskkonnameditsiin	environmental medicine
+keskkonnanõuete rikkumine	environmental misconduct
+keskkonnaseire	environmental monitoring
+ümbrusemüra	environmental noise
+keskkonnaga seotud amet, keskkonnaelukutse	environmental occupation
+keskkonnataju	environmental perception
+keskkonnakava	environmental plan
+keskkonnaplaneerimine	environmental planning
+keskkonnapoliitika; keskkonnapõhimõtted ; keskkonnapollitika	environmental policy
+keskkonnapoliitika vahend	environmental policy instrument
+keskkonna reostumine, keskkonna saastumine	environmental pollution
+keskkonnaeelistus, keskkonnaprioriteet	environmental priority
+keskkonnahäda, keskkonnamure, keskkonnaprobleem	environmental problem solving
+keskkonnategevuskava	environmental programme
+keskkonnakaitse	environmental protection
+keskonnakaitseamet	environmental protection agency
+keskkonnakaitseühing	environmental protection association
+keskkonnakaitsekulud	environmental protection cost
+keskkonnakaitse ettevõttes	environmental protection in the enterprise
+keskkonnakaitse-eeskiri	environmental protection order
+keskkonnakaitseorganisatsioon	environmental protection organisation
+keskkonnakaitsemäärus	environmental protection regulation
+keskkonnakaitsetehnoloogia	environmental protection technology
+keskkonnapsühholoogia	environmental psychology
+keskkonnakvaliteet	environmental quality
+keskkonnakvaliteedikriteerium	environmental quality criterion
+keskkonnakvaliteedieesmärk	environmental quality objective
+keskkonnanorm, keskkonnakvaliteedinorm	environmental quality standard
+keskkonnaaruanne	environmental report
+keskkonnauurimine	environmental research
+keskkonnarisk, keskkonnaoht	environmental risk
+keskkonnariski hindamine	environmental risk assessment
+keskkonnateadus	environmental science
+keskkonnaohutus	environmental security
+keskkonnanäidisepank	environmental specimen bank
+keskkonnamemorandum, keskkonnateatis ; keskkonnateatis ; keskkonnamemorandum	environmental statement (eco-audit) ; environmental statement ; eco-audit
+keskkonnastatistika	environmental statistics
+keskkonnabörs	environmental stock exchange
+keskkonnauuring	environmental study
+keskkonnatoetus	environmental subsidy
+keskkonnahoidlik arhitektuur	environmental sustainable architecture
+keskkonnamaks	environmental tax
+keskkonnaõpetus	environmental teaching
+keskkonnatehnika	environmental technology
+keskkonnaterminoloogia, keskkonnasõnavara ; keskkonnaterminoloogia ; keskkonnasõnavara	environmental terminology
+keskkonnakoolitus	environmental training
+keskkonnavastane sõda	environmental warfare
+keskkondlus	environmentalism
+keskkonnaohtlik aine	environmentally dangerous substance
+keskkonnahoidlik juhtimine	environmentally friendly management
+keskkonnasäästlik toode	environmentally friendly product
+keskkonnalähtene haigus	environmentally related disease
+keskkonnateadlik käitumine	environmentally responsible behaviour
+keskkonnavaenulik ettevõte	environmentally unfriendly firm
+ensüüm, ferment ; ensüüm ; ferment	enzyme
+epitsenter	epicentre
+epideemia, rändtaud, taud ; epideemia ; rändtaud ; taud	epidemic
+epidemioloogia	epidemiology
+ekvaator	equator
+ekvatoriaalkliima	equatorial climate
+hobuslane	equine
+seadmestik, seadmed, varustus, aparatuur	equipment
+ekvivalentdoos	equivalent dose
+erbium	erbium
+ergonoomia	ergonomics
+erosioon, uuristus	erosion
+erosiooni ohjamine	erosion control
+kinnisvara rentimine	estate rental
+estuaaribioloogia	estuarine biology
+estuaarikaitseala	estuarine conservation area
+estuaar, lehtersuue	estuary
+estuaarireostus	estuary pollution
+söövitamine, söövitus	etching
+söövitusaine	etching substance
+etanool	ethanol
+eeter	ether
+eetika	ethics
+etnograafia	ethnography
+etnoloogia, rahvateadus	ethnology
+etoloogia, käitumispsühholoogia	ethology
+euroopium	europium
+eutrofeerumine	eutrophication
+hindamine	evaluation
+hindamiskriteerium	evaluation criterion
+hindamismeetod	evaluation method
+tehnoloogia hindamine	evaluation of technology
+aurumine	evaporation
+evapotranspiratsioon, koguaurumine	evapotranspiration
+evolutsioon	evolution
+täppisteadus	exact science
+kaevand	excavated hole
+kaevandamine	excavation (process) ; excavation ; earthworks ; digging
+aherainemägi, terrikoonik ; aherainemägi ; aherainemägi ; terrikoonik	excavation heap
+kaevandamisrinne	excavation side
+kaevandus, kaevandamiskoht	excavation site
+erakordne maks	exceptional tax
+korstnate liigkõrgus	excessive height of chimney stacks
+valuutavahetuspoliitika	exchange policy
+täiteakt	executive order
+väljalaskeseade	exhaust device
+heitgaas	exhaust gas
+eksponaat	exhibit
+olemasolev kemikaal	existing chemical
+võõrliik	exotic species
+väljaminek, kulu[d] ; väljaminek ; kulu ; kulud	expenditure
+katse, eksperiment	experiment
+katseuuring, eksperimentaaluuring	experimental study
+ekspertsüsteem	expert system
+põhjaveevõtt	exploitation of underground water
+uuring, uurimine	exploration
+plahvatus	explosion
+lõhkeaine	explosive
+eksport, väljavedu	export
+väljaveoluba, ekspordilitsents	export licence
+ohtlike jäätmete väljavedu	export of hazardous wastes
+ekspositsioon	exposure
+sundvõõrandamine	expropriation
+ekstensiivne loomakasvatus	extensive cattle farming
+välismõju, välistegurite tagajärg	externality
+väljasurnud liik, hävinud liik	extinct species
+väljasuremine	extinction (ecological) ; extinction
+hankiv metallurgia	extraction
+maavaraammutustööstus	extractive industry
+silm	eye
+kulm	eyebrow
+riie	fabric
+tootmisteguriturg, sisenditurg, ressursiturg	factor market
+intensiivne loomakasvatus	factory farming
+fekaalibakter	faecal bacterium
+õhuvõõriste sadenemine, õhusaasta sadenemine ; õhuvõõriste sadenemine ; õhusaasta sadenemine	fallout
+söötis maa	fallow area
+perekond ; sugukond	family
+perekonnaõigus	family law
+pereplaneerimine	family planning
+nälg	famine
+talu	farm
+põllumajandusloom	farm animal
+põllumajandusehitis	farm building
+tootjahind	farm price
+talupidamistehnika	farming technique
+fašism	fascism
+kiire reaktor	fast reactor
+kiirliiklus	fast traffic
+murrang ; murrang	fault
+loomastik, fauna ; loomastik ; fauna	fauna
+looduselustiku taastamine	fauna restoration
+föderaalametkond	federal authority
+föderaalvalitsus	federal government
+föderaalõigus	federal law
+tasu	fee
+loomasöötmine	feeding of animals
+loodushoolivus	feeling for nature
+kaslane	felid
+naine	female ; woman
+madalsoo	fen
+käärimine, fermentatsioon	fermentation
+fermium	fermium
+sõnajalg	fern
+väetis	fertiliser
+väetiseseadus	fertiliser law
+kiud	fibre
+klaaskiud	fibreglass
+põld, nurm; väli ; põld ; nurm ; väli	field ; land ; land ; acre ; patch
+põllumajandusmaa halvenemine (degradatsioon)	field damage
+välikatse	field experiment
+väliuuring	field study
+pahtel, täitematerjal	filling material
+tankla, bensiinijaam	filling station
+film	film
+filter	filter
+filtrikook	filter cake
+filtrimine, kurnamine	filtration
+püsijäätmepanila	final storage
+rahalised vahendid	finances
+toetusraha	financial aid
+finantsabi	financial assistance
+rahaline hüvitis	financial compensation
+rahaline panus	financial contribution
+finantsvahendid , finantseerimisvahendid ; finantsvahendid ; finantseerimisvahendid	financial fund
+finantseerimisinstrument	financial instrument
+finantsõigus, rahandusõigus	financial law
+finantsjuhtimine	financial management
+laenuturg, rahaturg; väärtpaberiturg	financial market
+finantseerimine, rahastamine	financing
+trahv, rahatrahv ; trahv ; rahatrahv	fine
+peentolm	fine dust
+põleng, tulekahju ; tulekahju ; põleng	fire
+tuleohutusmeede	fire precaution
+tuletõkestus	fire protection
+tuleohutusnõuded	fire safety requirement
+tuletõrje	fire service
+tuletõrjuja	firefighter ; fireman ; firewoman ; fire fighter ; fire-eater
+tulekindlaks tegev aine	fireproofing agent
+põletamine, põletus	firing
+firma, ettevõte ; ettevõte ; firma	firm ; corporation ; enterprise ; company ; venture
+kala	fish
+kalahaigus	fish disease
+kalakasvatus	fish farming
+kalahukk	fish kill
+kalavarud	fish stock
+mürgisus kaladele	fish toxicity
+kalamajanduse juhtimine, kalanduse juhtimine	fisheries management
+kalanduse struktuur	fisheries structure
+kalandus ; kalandus, kalamajandus; kalapüük ; kalapüük ; kalamajandus	fishery
+kalandusökonoomoka	fishery economics
+kalanduspoliitika	fishery policy
+kalavarud	fishery resource
+kalapüük	fishing
+kalapüügipiirkond, kalastuspiirkond ; kalapüügipiirkond ; kalastuspiirkond	fishing ground
+kalatööstus	fishing industry
+kalandusõigus (jur)	fishing law
+kalapüügiluba	fishing licence
+kalakaitseala	fishing preserve
+kalalaev, kalapüügilaev	fishing vessel
+liitmik, toruliitmik ; liitmik ; toruliitmik	fitting (plumbing) ; fitting ; plumbing equipment ; plumbing fixtures
+mugavuslipp	flag of convenience
+tuleohtlik toode, kergsüttiv toode	flammable product
+tungalpõletus	flaring
+maitseaine, vürts	flavouring
+kirp	flea
+paindlik keskkonnakaitse	flexible approach to environmental protection
+helvestusaine, flokulant	flocculant
+helvestamine, helvestumine, flokulatsioon	flocculation
+tulv; suurvesi ; tulv ; suurvesi	flood
+üleujutustõrje, tulvatõrje; üleujutusohjeldus, tulvaohjeldus	flood control
+suurvee-ennustus	flood forecast
+üleujutustõrje, tulvatõrje; üleujutusohjeldus, tulvaohjeldus	flood protection
+suurveeäravool	flood runoff
+üleujutus	flooding
+taimestik, floora	flora (biology) ; flora
+floora (nimistu) ; floora	flora (document) ; flora
+taimestiku taastamine	flora restoration
+flotatsioon	flotation
+vool, voolamine	flow
+vooluväli	flow field
+lill	flower ; bloom ; blossom
+õistaim, katteseemnetaim	flowering plant
+vooluvesi, voolav vesi	flowing water
+suitsugaas, põlemisgaas	flue gas
+hüdroautomaatika	fluidics
+keevkihistamine, pseudoveeldamine	fluidisation
+keevkiht	fluidised bed
+fluorimine	fluoridation
+fluor	fluorine
+uhtmine, loputamine, läbipesu, pesu ; uhtmine ; loputamine ; läbipesu	flushing
+flööte ; flööt	flute
+vooluveevaru	fluvial resource
+lendtuhk	fly ash
+vahutekiti	foaming agent
+sööt (sööda), loomatoit ; sööt ; loomatoit	fodder ; provender ; forage
+söödataim	fodder plant
+udu	fog
+lehestik	foliage
+rahvakomme	folk tradition
+rahvaluule, folkloor ; rahvaluule ; folkloor	folklore
+toit	food
+toidulisand	food additive
+toiduahel, toitumisahel	food chain
+toidukaubandus	food commerce
+toidu saastumine	food contamination
+toiduhügieen	food hygiene
+toiduainetööstus	food industry
+toiduainekiiritus	food irradiation
+toidusaasteaine	food pollutant
+toiduainete konserv[eer]imine ; toiduainete konserv(eer)imine	food preservation
+toiduainetööstus	food processing industry
+toidu[aine]tootmine ; toidu(aine)tootmine ; toiduainetootmine ; toidutootmine	food production (agriculture) ; food production
+toidu kavaliteet	food quality
+toitainevajadus, toiduvajadus	food requirement
+toiduteadus	food science
+toiduvaru	food storage
+toidutehnoloogia	food technology
+toiduvedu	food transport
+toiduaine	foodstuff
+jalgpall	football
+jalgrada	footpath
+sööda saastumine, loomatoidu saastumine	forage contamination
+söödakultuur, söödavili; söödatootmine	forage crop
+söödaseadus	forage law
+koolmekoht	ford
+ennustus, prognoos	forecast
+väljalunastusõiguse kaotus	foreclosure
+välismajandussuhted	foreign economic relations
+välispoliitika	foreign policy
+väliskaubandus	foreign trade
+mets ; mets, laas ; laas	forest
+bioloogiline metsakaitseala	forest biological reserve
+metsa raadamine, metsa hävitamine	forest cover destruction
+metsakahjustus	forest damage
+metsa suremine, metsa kuivamine	forest deterioration
+metsaökoloogia	forest ecology
+metsaökosüsteem	forest ecosystem
+metsakasutus	forest exploitation
+metsapõleng, metsatulekahju ; metsapõleng ; metsatulekahju	forest fire
+metsamajandus	forest industry
+metsakorraldus	forest management
+metsakahjur	forest pest
+metsapoliitika	forest policy
+metsasaadus	forest product
+metsatooted	forest production
+metsakaitse	forest protection
+metsakaitseala	forest reserve
+metsavaru	forest resource
+metsandus	forestry
+metsamajanduse ökonoomika	forestry economics
+metsaseadus	forestry law
+metsaõigus	forestry legislation
+metsakasvatus	forestry practice
+metsaettevõte	forestry unit
+riigivorm	form of government
+ekspediitor	forwarding agent
+fossiil, kivistis ; fossiil ; kivistis	fossil
+fossiilkütus, ürgkütus	fossil fuel
+laevakere kattumine (saastumine)	fouling growth
+purskkaev	fountain
+neljataktiline mootor	four stroke engine
+raamseadustik	framework legislation
+frantsium	francium
+kapitali vaba liikumine	free movement of capital
+vabakaubandus	free trade
+vabadus	freedom
+sõnavabadus	freedom of speech ; freedom of speech
+kaubavedu	freight transport
+freoon	freon
+magevesi	freshwater
+magevee halvenemine (degradatsioon)	freshwater degradation
+mageveeökosüsteem	freshwater ecosystem
+mageveeorganismid	freshwater organism
+mageveereostus	freshwater pollution
+mageveevaru	freshwater resource
+konn	frog
+hall (halla) ; hall	frost
+vili, puuvili ; puuvili ; vili	fruit
+puuviljandus	fruit cultivation
+viljapuu	fruit tree
+kütus	fuel
+kütuselisand	fuel additive
+küttealkohol	fuel alcohol
+kütuse koostis	fuel composition
+kütusekulu	fuel consumption
+kütteõli, masuut ; kütteõli ; masuut	fuel oil
+tankla, kütusetankla	fuel tank installation
+küttepuit, küttepuu ; küttepuit ; küttepuu	fuel wood
+toss, ving ; toss ; ving	fume
+fumigatsioon	fumigation
+sihtotstarbeline aine	functional substance
+fungitsiid, seenetõrjevahend	fungicide
+seen	fungus
+karusnahk	fur
+karus[naha]loom ; karus(naha)loom	fur animal
+furaan	furan
+ahi	furnace
+mööbel	furniture
+mööblitööstus	furniture industry
+köösneritöökoda	furriery
+gadoliinium	gadolinium
+kanalised	gallinacean
+gallium	gallium
+galvaanimine, galvaanpindamine	galvanisation
+mäng	game
+jahiulukid, jahiloomad ja -linnud	game
+gammakiirgus	gamma radiation
+aed	garden
+aiajäätmed	garden waste
+aednik	gardener
+gaas	gas
+gaaskromatograafia	gas chromatography
+gaasifirma	gas company
+gaasimootor	gas engine
+gaasi veeldamine	gas liquefaction
+gaasisegu	gas mixture
+gaasivõrk	gas network
+gaasitorustik, gaasijuhe	gas pipeline
+gaasijõujaam	gas powered plant
+gaasipuhastus	gas purification
+gaasihoidla	gas reservoir
+gaasivarustus	gas supply
+gaasiline õhusaaste	gaseous air pollutant
+gaasiline olek	gaseous state
+gaasistamine	gasification
+gasohol	gasohol
+bensiinimootor	gasoline engine
+tigu, kõhtjalgne	gastropod
+gaasivabrik	gaswork
+geen	gene
+genealoogia	genealogy
+üldterminid	general
+kindral	general
+üldhaldusakt	general administrative order
+üldkeemia	general chemistry
+üldharidus	general education
+geneetiline mitmekesisus	genetic diversity
+geneetiline toime	genetic effect
+geenitehnoloogia, tehnogeneetika	genetic engineering
+tehnogeneetikaõigus	genetic engineering legislation
+geneetiline informatsioon, pärilikkuse informatsioon	genetic information
+geneetiline hälve	genetic modification
+genofond, geenifond	genetic pool ; gene pool
+geneetiline ressurss	genetic resource
+geneetiline muutus	genetic variation
+geneetiliselt modifitseeritud organism	genetically modified organism
+geneetika	genetics
+genotsiid	genocide
+genoom	genome
+genotoksilisus	genotoxicity
+genotüüp	genotype
+georefereeritud andmed	geo-referenced data
+georefereeritud informatsioon	geo-referenced information
+geodeesia	geodesy
+geogeenne tegur	geogenic factor
+geoinfosüsteem, GIS	geographic information system
+rahvastiku geograafiline jaotus	geographical distribution of population
+kaardiprojektsioon	geographical projection
+geograafia ; geograafia, maateadus	geography
+geoloogiline katastroof	geological disaster
+geoloogiline protsess	geological process
+geoloogia	geology
+geomeetriakorrektsioon	geometric correction
+geomeetria	geometry
+geomorfoloogiline protsess	geomorphic process
+geomorfoloogia	geomorphology
+geofüüsikaline keskkond	geophysical environment
+geofüüsika	geophysics
+geotehnika	geotechnics
+geotehnoloogia	geotechnology
+geotermiline energia, geotermaalenergia	geothermal energy
+mikroob; idu ; mikroob ; idu	germ
+iduplasma	germ plasm
+germaanium	germanium
+idanemine	germination
+geiser	geyser
+kaelkirjak	giraffe
+liustik	glacier
+liustikuteadus, glatsioloogia	glaciology
+klaas	glass
+klaasitööstus	glass industry
+jäide	glaze
+globaalaspekt	global aspect
+globaalkonventsioon, ülemaailmne kokkulepe	global convention
+maailmamudel	global model
+globaalsoojenemine, Maa kliima soojenemine ; globaalsoojenemine ; maa kliima soojenemine	global warming
+seletussõnastik	glossary
+liim	glue
+glükolüüs	glycolysis
+eraettevõtluse eesmärk	goal of individual economic business
+kuld	gold
+golf	golf
+hea juhtimine	good management
+kaubad ; kaubad ; tooted	goods
+kaubad ja teenused	goods and services
+hani	goose
+gorilla	gorilla
+valitsus	government (cabinet)
+valitsuse nõuandeorgan	government advisory body
+valitsushoone	government building
+valitsuse vastutus	government liability
+valitsuse poliitika	government policy
+teravili	grain
+kõrrelised, kõrstaimed ; kõrrelised ; kõrstaimed	graminaceous plant
+graniit	granite
+lõimis, granulomeetriline koostis	granulometry
+heintaimed	grass
+rohtlatulekahju	grass fire
+rohutirts	grasshopper
+rohumaa	grassland
+kruus	gravel
+kruusavõtt, kruusa kaevandamine	gravel extraction
+kruusaauk, kruusakarjäär, kruusavõtukoht	gravel pit
+karjatamine	grazing
+ökomaja	green building
+roheline koridor	green corridor
+haljasväetis	green manure
+roheline revolutsioon	green revolution
+haljasala	green space
+rohelised looded	green tide
+köögivili	green vegetable
+katmikaiandus	greenhouse cultivation
+kasvuhooneefekt	greenhouse effect
+kasvuhoonegaas	greenhouse gas
+koordinaatvõrk	gridding
+jahvatamine	grinding
+rahvamajanduse kogutoodang	gross national product
+põhjavesi	groundwater
+põhjavee ohustamine	groundwater endangering
+põhjaveevõtt	groundwater extraction
+põhjavee reostamine	groundwater pollution
+põhjaveekaitse	groundwater protection
+põhjavee kvaliteet	groundwater quality
+rühmakäitumine	group behaviour
+kitarr	guitar
+merelaht	gulf
+kajakas	gull
+paljasseemnetaim	gymnosperm
+kips	gypsum
+elupaik, kasvukoht ; elupaik ; kasvukoht	habitat
+elupaikade (kasvukohtade) hävitamine	habitat destruction
+hematoloogia, vereõpetus ; hematoloogia ; vereõpetus	haematology
+hafnium	hafnium
+haiku	haiku
+rahe	hail
+habemeajaja	hairdresser ; barber
+poolestusaeg	half-life
+haloform	haloform
+halogeenitud difenüül	halogenated biphenyl
+halogeenitud ühend	halogenated compound
+halogeenitud süsivesinik	halogenated hydrocarbon
+halogenofenool, halogeenitud fenool	halogenated phenol
+halogeene sisaldav reoaine	halogenated pollutant
+käsitöö	handicraft
+käsitööndus	handicraft business
+taskurätik	handkerchief
+sadam	harbour
+kõvaketas	hard disk drive ; hard disk ; HD
+raskesti kõrvaldatavad jäätmed	hard-to-dispose-of waste
+kõvadus	hardness
+haarem	harem
+seaduste ühtlustamine	harmonisation of law
+saak ; saak, viljasaak ; viljasaak	harvest
+hassium	hassium
+oht	hazard
+ohupiirkond	hazard area
+reostusoht, saasteoht	hazard of pollutants
+ohtlike kemikaalide väljavedu (eksport)	hazardous chemical export
+ohtlik aine	hazardous substance
+seadused ohtlike ainete kohta	hazardous substances legislation
+ohtlikud jäätmed	hazardous waste
+ohtlike jäätmete prügila	hazardous waste dump
+ohtlik töömaterjal	hazardous working material
+somp, põuasomp, põuasumu ; somp ; põuasomp ; põuasumu	haze
+maanina ; neem	headland
+pöörderiba	headland
+tervis	health
+tervishoid	health care
+tervishoiuelukutse	health care profession
+müra mõju tervisele	health effect of noise
+tervishoiuasutus	health facility
+terviseoht	health hazard
+tervishoiuõigus	health legislation
+tervishoiueeskiri	health regulation
+tervishoiuteenistus	health service
+keskkonna mõju tervishoiule	health-environment relationship
+tervishoiuotstarbeline biotehnoloogia	health-related biotechnology
+kuulmine	hearing
+kuulmisteravus	hearing acuity
+kuulmiskahjustus	hearing impairment
+ülekuulamine	hearing procedure
+kõrvakaitse	hearing protection
+kuulmiselund	hearing system
+soojus	heat
+koostootmisjaam	heat and power station
+soojuspump	heat pump
+soojuse salvestamine	heat storage
+soojusvarustus	heat supply
+kütteseade, küttekeha	heater
+nõmm	heathland
+küte, kütmine ; küte ; kütmine	heating
+küttekatlamaja	heating plant
+taevas	heaven ; sky
+raskeveokiliiklus	heavy goods vehicle traffic
+raskmetall	heavy metal
+raskmetallikoormus	heavy metal load
+hekk	hedge
+siil	hedgehog
+hedonism	hedonism
+heelium	helium
+herbitsiid	herbicide
+rohusööja, herbivoor ; rohusööja ; herbivoor	herbivore ; plant eater
+heroiin	heroin
+haigur	heron
+heterotsükliline ühend	heterocyclic compound
+kõrge mägi	high mountain
+tõusukõrgvesi	high tide water
+kõrgepingeliin	high voltage line
+kõrghoone	high-rise building
+kiirraudtee	high-speed railway
+kiirrong	high-speed train
+kõrgharidus	higher education
+maantee	highway
+matkarada	hiking trail
+vanalinn	historic centre
+ajaloomälestis	historical evolution
+ajalooline areng	historical monument
+ajaloouuring	historical research
+ajalooline paik	historical site
+ajalugu	history
+puhkus	holiday ; opor-garai
+puhkelaager	holiday camp
+holmium	holmium
+hoone	home ; home ; house
+koduaed	home garden
+homöostaas	homeostasis
+kodulehekülg	homepage
+kohtuniku kinnitus	homologation
+mesi	honey
+hobune	horse
+aiandus	horticulture
+haigla	hospital ; clinic
+haiglajäätmed	hospital waste
+kuum vesi	hot water
+hotellindus	hotel industry
+majapidamine	household
+majapidamiskemikaal	household chemical
+majapidamiskulud	household expenditure
+majapidamiskaubad	household goods
+elamispind; ulualune ; elamispind ; ulualune	housing
+asustustihedus; hoonestustihedus	housing density
+elamistingimuste parendamine	housing improvement
+elamuõigus	housing legislation
+elamuehituskava	housing programme
+elamukvaliteedinormid	housing quality standard
+inimese keha	human body
+inimeste haigus	human disease
+inimese ökoloogia, humaanökoloogia	human ecology
+inimese elupaik	human habitat
+inimese tervis ; inimtervis	human health
+inimränne	human migration
+inimfüsioloogia	human physiology
+inimpopulatsioon	human population
+inimõigused	human rights
+inimteadus	human science
+inimasula	human settlement
+asulamajandus	human settlement management
+inimtekitatud katastroof	human-made disaster
+humanitaarabi	humanitarian aid
+huumus	humus
+jaht, küttimine	hunting
+jahiluba	hunting licence
+jahikaitseala	hunting reserve
+orkaan	hurricane
+hübridiseerimine	hybridisation
+vesiehitis	hydraulic construction
+vesiehitus	hydraulic engineering
+hüdraulika	hydraulics
+hüdrobioloogia	hydrobiology
+süsivesinik	hydrocarbon
+süsivesinikumahuti	hydrocarbon storage tank
+vesinikkloriidhape, soolhape	hydrochloric acid ; muriatic acid
+hüdropoonika	hydroculture
+hüdroelektrienergia	hydroelectric energy
+hüdroelektrijaam	hydroelectric power plant
+vesinik	hydrogen
+vesiniksulfiid, väävelvesinik	hydrogen sulphide
+hüdrogeoloogia	hydrogeology
+valgla	hydrographic basin
+veekoguvõrk, hüdrograafiline võrk	hydrographic network
+hüdrograafia	hydrography
+veebilanss	hydrologic balance
+veeringe	hydrologic cycle
+veekatastroof	hydrologic disaster
+vee voolamine looduses	hydrologic flow
+hüdroloogia	hydrology
+hüdrolüüs	hydrolysis
+hüdrometeoroloogia	hydrometeorology
+hüdromeetria	hydrometry
+hüdrosfäär	hydrosphere
+hüään	hyena
+hügieen	hygiene
+kiletiivaline, hümenopter ; kiletiivaline ; hümenopter	hymenopteran
+hüpertekst	hypertext
+jää	ice
+jäähoki	ice hockey
+paakjää	ice pack
+jäämägi	iceberg
+ideoloogia	ideology
+kirjaoskamatu	illiterate
+satelliitpildiliigitus	image classification
+pildiväärindus	image enhancement
+satelliitpildifiltrimine	image filtering
+pilditöötluse digitaalsüsteem	image processing digital system
+kujutise geokodeerimine	image registration
+immissioon	immission
+immissioonikontroll	immission control
+immissioonikontrolliseadus	immission control law
+immissioonikahjustus	immission damage
+immissiooniprognoos	immission forecast
+immisioonipiirväärtus	immission limit
+immissioonikoormus	immission load
+immuunsüsteem	immune system
+immuunsus	immunity
+immunoloogiline määramine (analüüs)	immunoassay
+immunoloogiline haigus	immunological disease
+immunoloogia	immunology
+mõju hindamine	impact assessment
+mõju minimeerimine	impact minimisation
+mõju vältimine	impact prevention
+keskkonnamõju pööramine	impact reversal
+mõjuallikas	impact source
+tolmuproovel, tolmumõõtur	impactor
+rakendusseadus	implementation law
+import, sissevedu ; import ; sissevedu	import
+sisseveoluba, impordilitsents	import licence
+vaesumine	impoverishment
+immutusaine	impregnating agent
+immutus, immutamine, impregneerimine	impregnation
+kasuteguri suurendamine	improvement of efficiency
+impulssmüra	impulsive noise
+kohapeal, in situ ; kohapeal ; in situ	in situ
+in vitro-katse, katseklaasikatse	in vitro assay
+in vivo-katse	in vivo assay
+ergutusfond	incentive fund
+ergutusmaks[ustamine] ; ergutusmaks(ustamine)	incentive tax
+juhuslik reostus, ettekavatsemata reostus	incidental pollution
+põletamine	incineration
+prügipõletus, jäätmepõletus	incineration of waste
+põletusjääk	incineration residue
+põletusahi, prügipõletusahi, jäätmepõletusahi	incinerator
+sissetulek; tulu	income
+tulumaks	income tax
+inkorporeerimine	incorporation
+määratlemata õigusmõiste	indefinite legal concept
+hüvitis	indemnity
+indeks; register ; indeks ; register	index
+dokumentatsiooni indekseerimine	indexing of documentation
+indikaator	indicator
+keskkonnakvaliteedi näitaja (indikaator)	indicator of environmental quality
+omamaised teadmised	indigenous knowledge
+omamaine tehnoloogia	indigenous technology
+kaudheiteallikas	indirect discharger
+indium	indium
+reovee omapuhasti	individual wastewater treatment
+siseõhu saastamine (reostamine )	indoor air pollution
+ruumikeskkond	indoor environment
+tööstustegevus	industrial activity
+tööstuspiirkond	industrial area
+tööstusettevõtete liit	industrial association
+tööstushoone	industrial building
+tehniline kultuur	industrial crop
+tööstuse areng	industrial development
+tööstusjäätmete ladestamine	industrial dumping
+tööstusökonoomika	industrial economics
+tööstusreovesi	industrial effluent
+tööstusheide õhku	industrial emission
+tööstuskeskkond	industrial environment
+tööstuse keskkonnapoliitika	industrial environmental policy
+tööstusseadmed	industrial equipment
+tööstusseade	industrial installation
+tööstusõigus	industrial legislation
+tööstustootmine	industrial manufacturing
+tööstusmaterjal	industrial material
+töötervishoid	industrial medicine
+tööstusmüra	industrial noise
+tööstuse planeerimine	industrial planning
+tehas, vabrik ; tehas ; vabrik	industrial plant (building) ; industrial plant
+tehniline kultuur	industrial plant (organism) ; industrial plant
+tööstuspoliitika	industrial policy
+tööstusreostus, tööstussaastus	industrial pollution
+tööstusprotsess	industrial process
+tööstustoode	industrial product
+tööstustoodang	industrial production
+tööstustoodangustatistika	industrial production statistics
+tööstusomandiõigus	industrial property right
+töökaitse; tööohutus[hoid] ; töökaitse; tööohutus(hoid)	industrial safety
+tööstuskrunt	industrial site
+pulp, lobri, tööstussete	industrial sludge
+tööstusühiskond, industriaalühiskond	industrial society
+tööstusehitis	industrial structure
+tööstusjäätmed	industrial waste
+tööstusheitgaas	industrial waste gas
+tööstusreovesi	industrial waste water
+tööstusjäätmaa	industrial wasteland
+tööstuse tsoneerimine	industrial zoning
+industrialiseerimine	industrialisation
+tööstus	industry
+püsijäätmed, inertjäätmed	inert waste
+jäätmete püsivaks muutmine	inertisation
+väikelaps	infant
+laste suremus	infant mortality
+nakkus, infektsioon	infection
+nakkushaigus	infectious disease
+põllukahjurirünne	infestation of crops
+nugilisnakatus, infestatsioon	infestation of food
+maasseimbumine, infiltratsioon	infiltration
+tuleohtlik aine	inflammable substance
+inflatsioon	inflation
+juurdevool[uvesi], sissevool[uvesi] ; juurdevool(uvesi), sissevool(uvesi) ; juurdevool ; sissevool	inflow
+gripp	influenza ; flu
+info ; informatsioon ; teave	info ; information
+mitteametlik läbirääkimine	informal negotiation
+informaatika	informatics ; computer science ; information science
+teabekeskus, infokeskus	information centre
+infokeskus	information clearing-house
+teabevahetus, infovahetus	information exchange
+infovahetuse infrastruktuur	information infrastructure
+teabemapp	information kit
+infovõrk	information network
+infotöötlus, teabetöötlus	information processing
+infotalitus, teabetalitus ; infotalitus ; teabetalitus	information service
+infoallikas, teabeallikas	information source
+infosüsteem	information system
+infotehnoloogia; infotehnika	information technology ; IT
+infotehnoloogiatööstus	information technology industry
+teabeedastus, infoedastus	information transfer
+õigus[e]rikkumine, seadus[e]rikkumine ; õiguserikkumine ; õigusrikkumine ; seaduserikkumine ; seadusrikkumine	infraction
+infrapunakiirgus	infrared radiation
+infraheli	infrasound
+infrastruktuur	infrastructure
+elanik, asukas ; elanik ; asukas	inhabitant
+algväljaõpe	initial training
+vigastus	injury
+tint; trükivärv, trükimust ; tint ; trükivärv ; trükimust	ink
+siseveekalandus	inland fishery
+siseveesõit	inland navigation
+sisevesi	inland water
+siseveevedu, siseveetransport	inland waterways transport
+innovatsioon, uuendus ; uuendus ; innovatsioon	innovation
+anorgaaniline keemia	inorganic chemistry
+mineraalväetis, kunstväetis	inorganic fertiliser
+anorgaaniline reoaine	inorganic pollutant
+anorgaaniline aine	inorganic substance
+putukas	insect
+insektitsiid, putukamürk	insecticide
+putuktoiduline, insektivoor ; putuktoiduline ; insektivoor	insectivore
+lahustumatu aine	insoluble substance
+ülevaatus	inspection
+raamatupidamisrevisjon	inspection of records
+inspektsioon	inspection service
+seadmestiku optimeerimine	installation optimisation
+paigaldusluba vajav seade	installation requiring approval
+seadme taastamine	installation restoration
+pöiaselg	instep
+institutsiooniline tegevus	institutional activity
+institutsionaalstruktuur	institutional structure
+institutsionaliseerimine	institutionalisation
+aparaadiehitus	instrument manufacture
+aparatuur; mõõteseadmed	instrumentation
+isoleerimine	insulation
+kindlustamine, kindlustus	insurance
+kindlustustegevus	insurance business
+kindlustuskate	insurance coverage
+loodusreservaat	integral natural reserve
+kompleksne keskkonnakaitse, tervikkeskkonnakaitse	integrated environmental protection technology
+tervikjuhtimine	integrated management
+kompleksne kahjuritõrje, terviktaimekaitse	integrated pest control
+kompleksne reostustõrje (saastetõrje), kompleksne reostusohje (saasteohje), tervikreostustõrje	integrated pollution control
+intensiivloomakasvatus	intensive animal husbandry
+intensiivpõllumajandus	intensive farming
+raamatukogudevaheline laenutus	inter-library loan
+pestitsiidide koostoime	interaction of pesticides
+elektrooniline andmevahetus	interchange of electronic data
+erialadevaheline (interdistsiplinaarne) uurimistöö	interdisciplinary research
+intress	interest
+huvirühm	interest group
+esialgne otsus	interim decision
+laboritevaheline võrdlus	interlaboratory comparison
+pooltooted	intermediate goods
+vahelduv müra	intermittent noise
+Euroopa siseturg	internal European market
+sisemigratsioon	internal migration
+väliskulude muutmine otsesteks tootmiskuludeks	internalisation of external costs
+rahvusvaheline leping	international agreement
+rahvusvaheline abi	international assistance
+rahvusvaheline tasakaal	international balance
+rahvusvaheline koostöö	international co-operation
+rahvusvaheline konkurentsivõime	international competitiveness
+rahvusvaheline konflikt	international conflict
+rahvusvaheline konventsioon	international convention
+rahvusvaheline jaotus	international distribution
+rahvusvaheline tööjõujaotus	international division of labour
+rahvusvaheline majandusõigus	international economic law
+rahvusvahelised keskkonnasuhted	international environmental relations
+rahvusvaheline ühtlustamine	international harmonisation
+rahvusvaheline õigus	international law
+rahvusvaheline organisatsioon	international organisation
+rahvusvaheline poliitika	international politics
+rahvusvahelised suhted	international relations
+rahvusvaheline julgeolek	international safety
+rahvusvaheline standardimine	international standardisation
+rahvusvaheline kaubandus	international trade
+rahvusvaheline tehing	international transaction
+rahvusvaheline vooluveekogu	international watercourse
+rahvusvaheliselt tähtis ökosüsteem	internationally important ecosystem
+Internetiotsiteenindus, Internetiotsiteenus	internet search service
+Internetiteenuse andja, Interneti tarnija ; Internetiteenuse andja ; Interneti tarnija	internet service provider ; ISP ; Internet access provider ; Internet service provider
+interpoleerimine, interpolatsioon	interpolation
+interpretatsioonimeetod, tõlgendusmeetod	interpretation method
+tõlk	interpreter
+loodetevöönd	intertidal zone
+interventsioonifond	intervention fund
+sekkumine loodus- ja maastikukasutusse	intervention in nature and landscape
+sekkumine maakasutusse	intervention on land
+joove	intoxication
+loomaliikide sissetalumine (introduktsioon)	introduction of animal species
+taimeliikide sissetalumine (introduktsioon)	introduction of plant species
+varaloend	inventory
+metsakahjustuste inventuur	inventory of forest damage
+inversioon, ümberasetus ; inversioon ; ümberasetus	inversion
+inversioonikiht	inversion layer
+selgrootu, invertebraat	invertebrate
+investeering	investment
+jood	iodine
+ioon	ion
+ioonivahetus	ion exchange
+ioniit, ioonivaheti	ion exchanger
+ioniseeriv kiirgus	ionising radiation
+ionosfäär	ionosphere
+iriidium	iridium
+raud	iron
+raua- ja terasetööstus	iron and steel industry
+rauatööstus	iron industry
+vanaraud	iron scrap
+malmivalutööstus	ironwork industry
+kiiritus	irradiation
+nähtuse pöördumatus	irreversibility of the phenomenon
+niisutus	irrigation
+niisutusmaaviljelus	irrigation farming
+niisutussüsteem	irrigation system
+saar	island ; isle
+saareökosüsteem	island ecosystem
+isomeer	isomer
+isotoop	isotope
+elevandiluu, vandel ; elevandiluu ; vandel	ivory
+džäss	jazz
+solidaarvõlgnik	joint debtor
+ühisrakendus	joint implementation
+ajakirjandus	journalism
+kohtuotsus	judgement (sentence) ; sentence ; judgement
+õigusabi	judicial assistance
+kohtuorgan	judicial body
+kohtusüsteem	judicial system
+kohtupidamist reguleeriv norm	judiciary rule
+judo	judo
+õigustoiming	juridical act
+õigusmõistmine, kohtumõistmine ; õigusmõistmine ; kohtumõistmine	jurisdiction
+õigusteadus	jurisprudence
+õigus	justice
+karate	karate
+karst	karst
+petrooleum, petrool	kerosene
+krüptoon	krypton
+markeerimine, tähistamine	labelling
+labor[atoorium] ; labor(atoorium)	laboratory
+laborivarustus	laboratory experiment
+laboratoorne uurimistöö, laboriuuring	laboratory research
+laboritehnika	laboratory technique ; laboratory techniques
+laborikatse, laboriuuring	laboratory test
+laborijäätmed	laboratory waste
+töö	labour
+tööjõud	labour force
+tööõigus	labour law
+töö[jõu]turg ; töö(jõu)turg	labour market
+töösuhted	labour relations
+lakk	lacquer
+laguun	lagoon
+biotiikpuhastus	lagooning
+järv	lake
+järvenõgu; järvevalgla	lake basin
+järvereostus	lake pollution
+lamp	lamp ; light
+maa	land
+maa  kruntimine	land allotment
+raadamine	land clearing
+maahooldus	land conservation
+maa massiivistamine	land consolidation
+maapinnakate	land cover
+kinnisvara arendamine	land development
+jäätmete pinnaskäitlus, jäätmekäitlus künnikihis ; jäätmete pinnaskäitlus ; jäätmekäitlus künnikihis	land disposal
+maismaaökoloogia	land ecology
+maaüksuste formeerimine	land forming
+maismaaimetaja	land mammal
+maa korraldus ja planeerimine	land management and planning
+maa hõlvamine; maahõlve	land occupation
+maa planeerimine	land planning
+maa reostamine (saastamine)	land pollution
+maaparandus	land reclamation
+maakataster	land register
+maa tervendamine	land restoration
+mägismaa tervendamine	land restoration in mountain areas
+maakasutuse planeerimine	land setup
+maamaks	land tax
+maismaavedu	land transportation
+maakasutus	land use
+maakasutuse liigitus	land use classification
+maakasutuskava	land use plan
+maakasutuse planeerimine, territoriaalplaneerimine	land use planning
+maakasutussuhe	land use regime
+maa väärtus	land value
+maismaategevus	land-based activity
+maalähtene merereostus	land-based marine pollution
+maastikuhooldusala	land-management intervention area
+prügila	landfill
+prügilapõhja vooderdamine	landfill base sealing
+prügila katmine	landfill covering
+prügilagaasiärastus	landfill degasification
+prügilagaas	landfill gas
+prügilanõrgvesi; prügilavesi	landfill leachate
+pinnavorm	landform
+maastik	landscape
+kaevandamisjärgne maastik	landscape after mining
+maastikukujundus	landscape alteration
+maastikuarhitektuur	landscape architecture
+maastikuelement	landscape component
+maastikuhoid	landscape conservation
+maastikukaitsepoliitika	landscape conservation policy
+maastiku röövkasutus	landscape consumption
+maastikuökoloogia	landscape ecology
+maastikuhooldus	landscape management
+maastikuplaneerimine	landscape planning
+maastikukaitse	landscape protection
+maastikukaitseala, looduspark	landscape protection area
+maastikukasutus	landscape utilisation
+maalihe	landslide
+lantaan	lanthanum
+suur prügipõletusettevõte, suur jäätmepõletusettevõte	large combustion plant
+laser	laser ; Light Amplification by Stimulated Emission of Radiation
+geograafiline laius ; laius	latitude
+naerma	laugh
+pesupesemine	laundering
+seadus	law
+õigus	law
+õigusteadus	law ; law (science)
+seadusemuutus	law amendment
+õigusharu	law branch
+seaduseelnõu	law draft
+seaduse rakendamine	law enforcement
+õigussätted kinnipidamiskohtade kohta	law relating to prisons
+lavrentsium	lawrencium
+leostumine	leaching
+plii	lead
+pliiühend	lead compound
+vere pliisisaldus	lead level in blood
+seadus bensiini pliisisalduse kohta	lead-in-petrol law
+leht	leaf
+leke, lekkimine ; leke ; lekkimine	leakage
+liigaasta	leap year
+rendileping	lease
+nahk ; nahk	leather
+nahatööstus	leather industry
+õiguslik alus, seaduslik alus	legal basis
+organisatsiooni seaduslik vorm	legal form of organisations
+kohtumenetlus	legal procedure
+õigustalitus	legal profession
+määrus	legal regulation
+õigusabinõu	legal remedy
+õigussüsteem	legal system
+juriidiline tekst	legal text
+seadusega kaitstud õigus	legally protected right
+seadusandlus, seadusloome ; seadused	legislation
+keskkonnaõigus	legislation on pollution
+seadusandja	legislative authority
+juriidiline kompetents	legislative competence
+juriidiline informatsioon, õigusteave	legislative information
+juriidiline protseduur	legislative procedure
+seadusandlik võim	legislature
+vabaajategevus	leisure activity
+vabaajakeskus, puhkekeskus	leisure centre
+vaba aeg	leisure time
+sidrun	lemon
+lääts	lens
+liblikaline, soomustiivaline, lepidopter	lepidopteran
+arengumaa	less developed country
+leukeemia	leukaemia
+haridustase	level of education
+lõiv, maks ; maks ; lõiv	levy
+leksikon	lexicon
+vastutus	liability
+kahjuhüvitamisõigus	liability legislation
+liberalism	liberalism
+raamatukogu	library
+raamatukoguteenistus	library service
+litsentsimisprotseduur	licencing procedure
+samblik	lichen
+elutsükkel, arengutsükkel	life cycle
+bioloogia, teadus elust	life science
+olelustsükli juhtimine	life-cycle management
+eluviis	lifestyle
+valgus	light
+valgustus	lighting
+pruunsüsi, ligniit	lignite
+pruunsöe kaevandamine	lignite mining
+lubi	lime
+lubjakivi	limestone
+piirväärtus	limit value
+limnoloogia, järveteadus ; limnoloogia ; järveteadus	limnology
+liin	line
+joonsaasteallikas	line source
+joonmüraallikas	linear source of sound
+vooderdusmaterjal	liner material
+keeleteadus ; lingvistika	linguistics
+lõvi	lion
+lipiid, rasv	lipid
+rasvlahustuv aine, lipofiilne aine	lipophilic substance
+huulepulk	lipstick
+vedelgaas	liquefied gas
+vedelik	liquid
+vedelsõnnik, läga	liquid manure
+vedel olek	liquid state
+vedeljääde	liquid waste
+kirjandus	literature
+kirjandusandmepank	literature data bank
+kirjanduse hindamine	literature evaluation
+kirjandusallikate läbitöötamine	literature study
+lLiitium ; liitium	lithium
+litograafia	lithography
+litosfäär	lithosphere
+kohtuasi; hagi ; kohtuasi ; hagi	litigation
+allapanu ; jäätmed	litter
+rannikuvöönd, litoraal ; rannikuvöönd ; litoraal	littoral
+kari (karja), kariloomad, põllumajandusloomad ; kari ; kariloomad ; põllumajandusloomad	livestock
+tõuaretus	livestock breeding
+loomakasvatus ; loomapidamine	livestock farming
+elamistingimused	living condition
+elukeskkond	living environment
+eluruum	living space
+elustandard	living standard
+sisalik	lizard
+koormustaluvus	load bearing capacity
+kohalik metsastamine	local afforestation
+kohalik võim	local authority
+kohalik areng	local development
+kohalik finantseerimine	local finance
+kohalik omavalitsus	local government
+kohalik omavalitsuspoliitika	local government policy
+kohtküte	local heat supply
+kohalik sõitjatevedu	local passenger service
+kohalik virgestus	local recreation
+kohalike ressursside kasutamine	local resource utilisation
+kohalik liiklus	local traffic
+tööstusettevõtete paiknemine	location of industries
+vedur	locomotive
+elukoht, korter ; elukoht ; korter	lodging
+loogika	logic
+pikk	long
+kaugliiklus	long-distance traffic
+kaugvedu	long-distance transport
+pikaaajamõju, kaugmõju	long-term effect
+kestuskatse	long-term experiment
+geograafiline pikkus, pikkus	longitude
+veoauto, madelauto ; veoauto ; madelauto	lorry
+kadu	loss
+biotoobikadu	loss of biotope
+valjus	loudness
+madalveeaeg, madalvesi; madalveevooluhulk	low flow
+odavad elamud	low-cost housing
+madallend	low-level flight
+lihttehnoloogia	low-level technology
+määrdeaine, määrdeõli, määre ; määrdeaine ; määrdeõli ; määre	lubricant
+kirkus, heledus	luminosity
+lõuna ; lõuna ; lõuna ; lõuna ; lõuna	lunch ; lunch ; lunch ; lunch ; luncheon
+luteetsium	lutetium
+leelis	lye
+lümfisüsteem	lymphatic system
+ilves	lynx
+lüsimeetria	lysimetry
+masinaehitus	machine manufacture
+masinad, mehhanismid ; masinad ; mehhanismid	machinery ; mechanism
+makromajanduslik eesmärk	macroeconomic goal
+makromajandusteadus, makroökonoomika	macroeconomics
+makrofüüt	macrophyte
+makroskoopiline	macroscopic
+magneesium	magnesium
+magnetlint	magnetic tape
+magnetism	magnetism
+hooldus, hoole, korrashoid ; hooldus ; hoole, ; hoole ; korrashoid	maintenance (technical) ; maintenance
+keskkonnahooldus	maintenance of environment
+suurõnnetus	major accident
+suurrisk	major risk
+suurriskseade	major risk installation
+malaaria	malaria
+väärarend, väärmoodustis	malformation
+alatoitlus	malnutrition
+imetaja	mammal
+inimene	man
+inimpõhjustatud kliimamuutus	man-made climate change
+juhtimine, haldamine	management
+juhtimisarvestus, operatiivarvestus	management accounting
+haldusleping	management contract
+loodusvarade haldamine	management of natural resources
+halduskava	management plan
+juhtimistehnika	management technique
+mandaat	mandate
+mangaan	manganese
+mangroov[mets] ; mangroov(mets)	mangrove
+tööjõud	manpower
+tootmine	manufacturing activity
+ärikaubandus	manufacturing trade
+väetis ; väetis, sõnnik ; sõnnik	manure
+väetisetootmine	manure production
+kaart ; maakaart	map
+kaart	map chart
+kaardistamine	mapping
+samblike kaardistamine	mapping of lichens
+makja	maquis
+marmor	marble
+marginaalmaa	marginal land
+meriviljelus	mariculture
+paadisadam, jahisadam ; paadisadam ; jahisadam	marina
+merebioloogia	marine biology
+mereökoloogia	marine ecology
+mereökosüsteem	marine ecosystem
+laevatehnika	marine engineering
+merekeskkond	marine environment
+mereloomastik	marine fauna
+merekalapüük	marine fishery
+meregeoloogia	marine geology
+mereimetaja	marine mammal
+mereseire	marine monitoring
+mereorganism	marine organism
+merelooduspark	marine park
+merereostus	marine pollution
+merekaitseala	marine reserve
+perekonnaseis	marital status
+mereõigus	maritime law
+meresõit	maritime navigation
+meretransport, merevedu, meritsivedu	maritime transport
+märgis, marker, tähis	marker
+turg	market ; marketplace
+turumajandus	market economy
+turutüüp	market form
+äriaiandus	market gardening
+turuhind	market price
+turu-uuring	market research
+turu-uuring	market study
+turundus	marketing
+marš ; padur	marsh
+kukruline	marsupial
+müürsepp	mason ; bricklayer ; stonemason
+müüritis	masonry
+massiteabevahendid, massisuhtlusvahendid, meedia	mass media
+hulgavirgestus	mass recreation
+massiülekanne	mass transport
+materjal ; materjalid	material ; materials
+materjali olelusiga	material life cycle
+materjaliõpetus, materjaliteadus	materials science
+matemaatiline analüüs	mathematical analysis
+matemaatiline meetod	mathematical method
+matemaatika	mathematics
+lubatud piirsisaldus, künnissisaldus, lubatud piirkontsentratsioon	maximum admissible concentration
+immissiooni piirmäär	maximum immission concentration
+niit, looduslik rohumaa; aas, nurm ; nurm ; niit ; looduslik rohumaa ; aas	meadow
+põllumajanduslikud tootmisvahendid	means of agricultural production
+sidevahendid	means of communication
+mõõtmine	measuring
+mõõteriist	measuring instrument
+mõõtmismeetod	measuring method
+mõõtmiskava, mõõtmisprogramm	measuring programme
+liha	meat
+mehaaniline sisseseade	mechanical equipment
+masinatööstus	mechanical industry
+mehaaniline vibratsioon	mechanical vibration
+arstiteadus	medical science
+ravimtaim	medicinal plant
+meditsiin	medicine ; medicine (practice)
+meitneerium	meitnerium
+sulatamine, sulatus; sulamine ; sulatamine ; sulatus ; sulamine	melting
+membaan, diafragma ; membaan ; diafragma	membrane
+mendeleevium	mendelevium
+menoraa	menorah
+kaubalaevandus	merchant shipping
+elavhõbe	mercury
+ainevahetus, metabolism ; ainevahetus ; metabolism	metabolism
+ainevahetussaadus, metaboliit ; ainevahetussaadus ; metaboliit	metabolite
+metainformatsioon	metainformation
+metall	metal
+metalloksiid	metal oxide
+metallsaadus	metal product
+metallsaadusetööstus	metal products industry
+vanametall, metallijäätmed	metal waste
+metallimaak	metallic mineral
+metallurgiatööstus	metallurgical industry
+:metallurgia ; metallurgia	metallurgy
+metafüüsika	metaphysics
+meteoor ; meteoor ; meteoor ; meteoor ; meteoor	meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star
+meteoriit	meteorite
+ilmastikukatastroof	meteorological disaster
+ilmastikutegur	meteorological parameter
+ilmastikunähtus	meteorological phenomenon
+meteoroloogiline uurimistöö	meteorological research
+meteoroloogia	meteorology
+metaan	methane ; marsh gas ; methyl hydride
+metaankääritamine	methanisation
+metanool	methanol
+meetod	method
+metodoloogia	methodology
+metroloogia	metrology
+pealinn ; pealinn, suurlinn ; suurlinn	metropolis
+mikroorganism, mikroob, pisik	micro-organism
+mikrobioloogiline analüüs	microbiological analysis
+mikrobioloogia	microbiology
+mikrokliima	microclimate
+mikroklimatoloogia	microclimatology
+mikroarvuti	microcomputer
+mikroökosüsteem	microecosystem
+mikroelektroonika	microelectronics ; microminiaturization ; microsystem electronics
+mikrofiltrimine	microfiltration
+mikrofon	microphone
+mikroreoaine, mikrosaasteaine	micropollutant
+mikroskoopia	microscopy
+mikrolaine	microwave
+rändtööjõud	migrant labour
+rändlind	migratory bird
+siirdekala	migratory fish
+sõjategevus	military activities
+kaitseõhusõidukite liiklus	military air traffic
+militaaraspektid ; sõjaväe keskkonnamõju	military aspects
+sõjavarustus	military equipment
+sõjaväepiirkond	military zone
+piim	milk
+veski	mill
+kaevandus	mine
+kaevandusala täitmine	mine filling
+mineraalne pinnasestabilisaator	mineral
+mineraalne	mineral conditioner
+maardla	mineral deposit
+mineraalide kaevandamine	mineral extraction
+mineraalkiud	mineral fibre
+mäetööstus	mineral industry
+mineraalaine	mineral matter
+mineraalõli	mineral oil
+mineraalne reostus	mineral pollution
+maavarad	mineral resource
+kaevandamisjäätmed	mineral waste
+mineraalvesi	mineral water
+mineraliseerumine	mineralisation
+mineraloogia	mineralogy
+miinimumkuluplaanimine	minimal cost planning
+kahju minimeerimine	minimisation of damage
+kaevanduspiirkond	mining district
+mäetööstus	mining industry
+kaevandamisõigus (jur)	mining law
+kaevandamissaadus	mining product
+kaevandamiseeskiri	mining regulation
+kaevandusala rekultiveerimine	mining site restoration ; mine reclamation
+kaevandamisjäätmed	mining waste
+ministri kompetents	minister competence
+ministeeriumi määrus	ministerial decree
+ministeerium	ministry
+ministeeriumihoone	ministry ; ministry building
+alaealine	minor
+vähemus	minority
+segatoode	miscellaneous product
+segunevus	miscibility
+somp (märg), hägu, uduvine ; somp ; hägu ; uduvine	mist
+lestaline	mite
+leevendusmeetmed	mitigation measure
+segapõllumajandus	mixed farming
+segamets, segapuistu ; segamets ; segapuistu	mixed forest
+maa segakasutusala	mixed use area
+segamine	mixing
+haagiselamu	mobile home
+vedamisviis; veovahend	mode of transportation
+mudel	model
+modelleerimine, mudeldamine ; modelleerimine ; mudeldamine	modelling
+niiskus	moisture
+molekulaarbioloogia	molecular biology
+limus, mollusk ; limus ; mollusk	mollusc
+molübdeen	molybdenum
+rahaline hindamine	monetary assessment
+monetaarökonoomika	monetary economics
+rahalised suhted	monetary relations
+rahaturg, laenurahaturg	money market
+seire	monitoring
+seirekriteerium	monitoring criterion
+seireandmed	monitoring data
+seireseadmed	monitoring equipment
+seirevõrk	monitoring network
+seirejaam	monitoring station
+seiretehnika	monitoring technique
+monopol	monopoly
+monument, mälestussammas, ausammas	monument
+kuu	moon ; moon ; satelite ; satelite
+morfoloogia, kujuõpetus ; morfoloogia ; kujuõpetus	morphology
+suremus	mortality
+mosaiik	mosaic
+sammal	moss
+ämm	mother-in-law ; mother in law
+emadus	motherhood ; maternity
+mootorikütus	motor fuel
+mootorsõiduk	motor vehicle
+mootorsõiduki heitgaas	motor vehicle exhaust gas
+mootorsõidukitööstus	motor vehicle industry
+liiklussaastus	motor vehicle pollution
+mootorratas	motorcycle ; motorbike
+kiirtee	motorway ; pike ; expressway ; freeway ; state highway ; superhighway ; throughway ; thruway
+mägi	mountain
+mägikliima	mountain climate
+mägimets	mountain forest
+mäestikumajandus	mountain management
+mäestikukaitse	mountain protection
+mäeahelik	mountain range
+mäestikupuhkeala	mountain resort
+mägismaa	mountainous area
+hiir	mouse
+niitmine	mowing
+muda	mud
+mudarand	mud flat
+multš	mulch
+mitmepoolne leping	multilateral agreement
+multimeediumtehnika	multimedia technology
+hargmaine firma	multinational firm
+mitmevärviskanner	multispectral scanner
+mumps	mumps
+linnapuhastusteenistus	municipal cleansing service
+olmejäätmeprügila	municipal dumping
+kohalik keskkonnakava	municipal environment plan
+kohalik keskkonnapoliitika	municipal environmental policy
+munitsipaalõigus	municipal law
+kohalik tasand	municipal level
+olmejäätmed	municipal waste
+olmeveevärk	municipal water distribution system
+asula veemajandus	municipal water management
+vald	municipality
+lihaskond	muscular system
+muuseum	museum
+seen	mushroom
+muusika	music
+muusikal	musical
+muusik	musician
+sääsk	musquito ; mosquito
+karbikasvatus	mussel farming
+kärplane	mustelid
+mutageen	mutagen
+mutageensus	mutagenicity
+mutageensustest	mutagenicity testing
+mutant	mutant
+mutantsete mikroorganismide vallapäästmine	mutated micro-organisms release
+mutatsioon	mutation
+seened	mycete
+seeneteadus, mükoloogia ; seeneteadus ; mükoloogia	mycology
+mükoriisa, seenjuur	mycorrhiza
+salapärane	mysterious
+müüt, muistend ; müüt ; muistend	myth
+mähe	nappy
+rahvamajanduse raamatupidamine, makroraamatupidamine	national accounting
+riigipiir	national boundary
+rahvamajandus	national economy
+riigi keskkonnaaarvepidamine	national environmental accounting
+riiklik kalavesi	national fishing reserve
+riiklikud õigusaktid	national legislation
+rahvuspark	national park
+riiklik planeerimine	national planning
+riigistamine, natsionaliseerimine	nationalisation
+loodusmaistu	natural area
+loodusmaistukaitse	natural areas protection
+loodusõnnetus	natural disaster
+looduskeskkond	natural environment
+looduslik väetis	natural fertiliser
+looduslik kiud	natural fibre
+looduslik mets	natural forest
+maagaas	natural gas
+maagaasiuuring	natural gas exploration
+maagaasivõtt, maagaasi ammutamine ; maagaasi ammutamine	natural gas extraction
+loodusoht	natural hazard
+looduspärand	natural heritage
+looduspärandi hindamine	natural heritage assessment
+looduslik materjal	natural material
+loodusmälestis	natural monument
+looduspark	natural park
+looduslik radioaktiivsus	natural radioactivity
+looduslik taastumine	natural regeneration
+loodusvara	natural resource
+loodusvarakaitse	natural resource conservation
+loodusoht	natural risk
+loodusohuanalüüs	natural risk analysis
+loodusohutõrje	natural risks prevention
+loodusmaastik	natural scenery
+loodusteadus	natural science
+looduskivi	natural stone
+looduslik väärtus	natural value
+looduskaitse	nature conservation
+looduskaitseõigus	nature conservation legislation
+looduskaitseorganisatsioon	nature conservation organisation
+looduskaitsekava, looduskaitseprogramm	nature conservation programme
+looduskaitse	nature protection
+loodusreservaat	nature reserve
+iiveldus	nausea
+laevandus, laevasõit	navigation
+laevasõiduoht	navigational hazard
+nekroos	necrosis
+vajadus	need
+ümbrusemüra	neighbourhood noise
+ümaruss, nematood ; ümaruss ; nematood	nematode
+neodüüm	neodymium
+neoon	neon
+kasvaja ; tuumor	neoplasm ; tumour
+neptuunium	neptunium
+närvisüsteem	nervous system
+pesitsemine	nesting
+pesitsusala	nesting area
+ettevõtja heiteõiguse tervikkäsitlus (heitekaubanduses)	netting policy (emissions trading) ; netting policy
+neurotoksilisus	neurotoxicity
+neutraliseerimine, neutralisatsioon; neutraliseerumine	neutralisation
+uus ühiskond	new community
+uus seade	new installation
+uus materjal	new material
+uus tehnoloogia	new technology
+uudisegrupp	newsgroup
+infoleht	newsletter
+nikkel	nickel
+nioobium	niobium
+nitraat	nitrate
+nitrifikatsioon	nitrification
+nitroühend	nitro compound
+lämmastik	nitrogen
+lämmastikuringe	nitrogen cycle
+lämmastikdioksiid	nitrogen dioxide
+lämmastiku seondamine (fikseerimine) ; lämmastiku seondamine	nitrogen fixation
+lämmastik[mono]oksiid ; lämmastikmonooksiid	nitrogen monoxide
+lämmastikoksiid	nitrogen oxide
+lämmastikoksiidid	nitrogen oxides
+lämmastikväetis	nitrogenous fertiliser
+nitrosoamiin	nitrosamine
+nobeelium	nobelium
+müra	noise
+müra	noise ; noise, vibrations ; racket
+müratõrje	noise abatement
+müraanalüüs	noise analysis
+müratõke, müravarje	noise barrier
+müratõrje	noise control
+mürahäiring	noise disturbance ; noise pollution
+müraheide, müraemissioon	noise emission
+müraheitemaks	noise emission levy
+müraekspositsioonitõrjekava	noise exposure plan
+müraimmissioon	noise immission
+müraõigus	noise legislation
+müratase	noise level
+müra mõõtmine	noise measurement
+mürakoormus	noise pollutant
+mürahäiring ; mürahäiring, mürasaaste ; mürasaaste	noise pollution
+mürakaitse	noise protection
+müra vähendamine	noise reduction
+müraspekter	noise spectrum
+müravaba tehnoloogia, vaikne tehnoloogia	noise-free technology
+nomaad	nomad
+nomenklatuur, nimestik ; nomenklatuur ; nimestik	nomenclature
+bioloogiliselt mittelagundatav reoaine	non-biodegradable pollutant
+täisehitamata ala	non-built-up area
+alternatiivenergia	non-conventional energy
+eraõigusliku isiku veekogu, mitteriiklik veekogu	non-demesnial water
+kulukaubad, tavalised tarbekaubad	non-durable goods
+mitteraudmetall, värviline metall	non-ferrous metal
+mitteraudmetallitööstus, värvilise metalli tööstus	non-ferrous metal industry
+valitsusväline organisatsioon	non-governmental organisation
+mitteioniseeriv kiirgus	non-ionising radiation
+mittemetall	non-metal
+mittemetallmineraal	non-metallic mineral
+reostusvaba energiaallikas	non-polluting energy source
+reostusvaba kütus	non-polluting fuel
+taastumatu energiavaru, mittetaastuv energiavaru	non-renewable energy resource
+taastumatu loodusvara, mittetaastuv loodusvara	non-renewable resource
+mitteeluhoone	non-residential building
+ühekorrapakend	non-returnable container
+mittesihtorganism	non-target organism
+mittelenduv aine	non-volatile substance
+norm	norm
+teatis	notice
+teade, teadaanne	notification
+nimisõna	noun ; substantive
+tuumaõnnetus	nuclear accident
+tuumavaidlus	nuclear debate
+tuumaenergia	nuclear energy
+tuumaenergiaõigus	nuclear energy legislation
+tuumaenergia kasutamine	nuclear energy use
+tuumaplahvatus	nuclear explosion (accident) ; nuclear explosion
+tuumaseade	nuclear facility
+tuuma lõhustumine, tuumajagunemine ; tuuma lõhustumine ; tuumajagunemine	nuclear fission
+tuumkütus	nuclear fuel
+tuumkütuseelement	nuclear fuel element
+tuumasüntees, tuumade liitumine ; tuumasüntees ; tuumade liitumine	nuclear fusion
+tuumaoht	nuclear hazard
+tuumafüüsika	nuclear physics
+tuumajõujaam, tuumaelektrijaam ; tuumajõujaam ; tuumaelektrijaam	nuclear power plant
+tuumareaktsioon	nuclear reaction
+tuumareaktor	nuclear reactor
+tuumauurimiskeskus	nuclear research centre
+tuumarisk	nuclear risk
+tuumaohutus	nuclear safety
+tuumakatse	nuclear test
+tuumarelv	nuclear weapon
+nukleiinhape	nucleic acid
+puukool ; taimla ; taimla, puukool	nursery (plant breeding) ; nursery ; plant nursery
+toiteelement, taimetoitaine, toitesool	nutrient
+toiteelemendibilanss, toitesoolabilanss	nutrient balance
+toiteelemendisisaldus, toitesoolasisaldus	nutrient content
+toiteelemendiringe, toitesoolaringe	nutrient cycle
+toitekeskkond	nutrient medium
+toiteelemendiärastus, toitesoolaärastus	nutrient removal
+toitumine	nutrition
+toidu toiteväärtus	nutritive value of food
+tamm (tamme)	oak
+kuuletuma	obey
+protest ; vastuväide	objection
+teavituskohustus	obligation to inform
+märgistuskohustus	obligation to label
+vaatlussatelliit	observation satellite
+takistus	obstacle ; obstruction
+kutsehaigus	occupational disease
+tööhügieen	occupational health
+töötervishoid	occupational health care
+töömeditsiin	occupational medicine
+tööohutus	occupational safety
+tööohutuseeskirjad	occupational safety regulation
+ametiseisund	occupational status
+ookean	ocean ; sea ; body of water ; bounding main
+ookeanivee ringlus	ocean circulation
+ookeanihoovus	ocean current
+merrekaadamine, merreuputamine	ocean dumping
+ookeanikasutus	ocean exploitation
+ookeanivee temperatuur	ocean temperature
+ookeani ja õhu piirpind	ocean-air interface
+ookeanikliima	oceanic climate
+okeanograafia	oceanography
+kaheksajalg	octopus
+hais	odour
+tipuväline sõitmine	off-peak travelling
+paigaväline	off-site
+keskkonnakuritegu	offence against the environment
+kontor, büroo ; kontor ; büroo	office
+ametikohustus, teenistuskohustus, teenistusülesanne ; ametikohustus ; teenistuskohustus ; teenistusülesanne	official duty
+ametlik arutelu	official hearing
+riigikeel	official language
+heitekompensatsioonistrateegia (heitekaubanduses)	offset policy (emissions trading)
+merealune kaevandamine	offshore mining
+õli- ja rasvatööstus	oil and fat industry
+õliabsorbent, naftaabsorbent	oil binding agent
+õlitõkkepoom, naftatõkkepoom	oil boom
+õliõnnetus, naftaõnnetus ; õliõnnetus ; naftaõnnetus	oil disaster
+õliuuring, naftauuring	oil exploration
+õli ammutamine, nafta ammutamine	oil extraction
+õlijuhe, õlitorustik, naftajuhe, naftatorustik	oil pipeline
+õlireostus, naftareostus ; õlireostus ; naftareostus	oil pollution
+õlireostustõrje, naftareostustõrje	oil pollution abatement
+naftatootmisahel	oil production (chain)
+õlikogumisalus, naftakogumisalus	oil recovery vessel
+naftatöötlustehas, naftadestillerimistehas	oil refinery
+õlijääkide taaskasutamine, naftajääkide taaskasutamine	oil residue recuperation
+õlilaik, naftalaik	oil slick
+õliheide, naftaheide	oil spill
+naftatanker ; õlitanker	oil tanker
+naftapõhine energia	oil-based energy
+vanareostusobjekt, vanasaasteobjekt	old hazardous site
+vanaprügila	old landfill site
+haisuhäiring	olfactory pollution
+oliivõlipressimisreovesi	olive oil mill wastewater
+võrguteenus	on-line service
+reoveepuhastus omal krundil	on-site wastewater treatment
+onkoloogia	oncology
+ontogenees ; ontogenees	ontogenesis ; ontogenesis ; ontogeny
+ontoloogia	ontology
+muruväljak	open lawn
+avameri, ulgumeri ; avameri ; ulgumeri	open sea
+avamerekalastus	open sea fishing
+avakaevandamine, pealmaakaevandamine ; pealmaakaevandamine ; avakaevandamine	opencast mining ; open-pit mining
+ooper	opera
+käitusandmed, käiduandmed	operating data
+operett	operetta
+arvamus	opinion ; stance
+arvamusuuring	opinion survey
+optika	optics
+optimism	optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism
+või	or
+oraalseks	oral sex
+orkester	orchestra
+orhidee	orchid
+ettekirjutus ; käsk ; korraldus	order
+ettekirjutus, käsk, korraldus ; ettekirjutus ; käsk ; korraldus	order
+määrus, dekreet	ordinance
+maak	ore
+elund, organ ; elund ; organ	organ
+orgaaniline süsinik	organic carbon
+orgaaniline keemia	organic chemistry
+mahepõllumajandus	organic farming
+orgaaniline aine	organic matter
+orgaaniline lämmastik	organic nitrogen
+orgaaniline reoaine	organic pollutant
+orgaaniline reostus	organic pollution
+orgaaniline lahusti	organic solvent
+orgaaniline aine	organic substance
+orgaanilised jäätmed	organic waste
+organisatsioon	organisation (law)
+koolituskorraldus	organisation of teaching
+õigussüsteem	organisation of the legal system
+organism	organism
+kloororgaaniline ühend	organochlorine compound
+halogeenorgaaniline ühend	organohalogen compound
+organoleptiline omadus, meeltajutav omadus	organoleptic property
+metallorgaaniline ühend	organometallic compound
+lämmastikorgaaniline ühend	organonitrogen compound
+hapnikorgaaniline ühend	organooxygen compound
+fosfororgaaniline ühend	organophosphorous compound
+väävelorgaaniline ühend	organosulphur compound
+ornitoloogia, linnuteadus ; ornitoloogia ; linnuteadus	ornithology
+orograafia	orography
+sihktiivaline, ortopter	orthopteran
+osmium	osmium
+osmoos	osmosis
+jaanalind	ostrich
+asulaväline ala	outer space (allocation plan) ; outer space
+ahi	oven
+pinnakate; katend	overburden
+ülekasutus, röövkasutus ; ülekasutus ; röövkasutus	overexploitation
+üleväetamine	overfertilisation
+ülepüük	overfishing
+ülevool	overflow (outlet)
+ülekarjatamine	overgrazing
+õhuliin	overhead power line
+ülerahvastus	overpopulation
+ümberkihistumine	overturn (limnology)
+talvitumine	overwintering
+lambad	ovine
+omand	ownership
+oksüdatsioon	oxidation
+redoksreaktsioon	oxidation-reduction
+oksiid	oxide
+oksüdeeritav aine	oxidisable material
+oksüdeeriv aine, oksüdant	oxidising agent
+hapnik	oxygen
+hapnikusisaldus	oxygen content
+hapnikuga rikastamine	oxygenation
+austrikasvatus	oyster farming
+osoon	ozone
+osoonilagundusvõime, võime kahandada (hõrendada) osoonikihti	ozone depletion potential
+osoonikiht	ozone layer
+osoonikihi kahanemine (hõrenemine), osoonikadu	ozone layer depletion
+osoonimine, osoneerimine	ozonisation
+patsifist	pacifist
+pakend	packaging
+pakendijäätmed	packaging waste
+pakenditööstus	packing industry
+pediaater	paediatrician
+värv	paint
+värvimisruum	paint room
+värvimistöökoda, värvikoda	paint shop
+värvimisettevõtlus	painting business
+paleoklimatiloogia	palaeoclimatology
+paleoökoloogia	palaeoecology
+paleontoloogia, kivististeteadus ; paleontoloogia ; kivististeteadus	palaeontology
+pallaadium	palladium
+paber	paper
+paberitööstus	paper industry
+langevari	parachute
+parameeter	parameter
+parasiit	parasite
+parasitoloogia	parasitology
+parkimisvõimalus	parking provision
+parlamendidebatt, parlamendivaidlus	parliamentary debate
+parlamendiaruanne	parliamentary report
+papagoi ; papagoiline	parrot
+sõnaliik	part of speech ; lexical category
+osaliselt halogeenitud süsivesinik	partially halogenated chlorofluorohydrocarbon
+osalemine, osalus	participation
+kübe ; osake	particle
+kübemepüünis	particle separator
+poliitiline partei	party ; political party
+reisijatevedu	passenger transport
+pastataoline jääde	paste-like waste
+karjamaa	pasture
+patent	patent
+rada	path
+tõvestaja, haigustekitaja, patogeen	pathogen
+tõvestaja, haigustekitaja	pathogenic organism
+patoloogiline toime	pathologic effect
+haigusõpetus, patoloogia ; haigusõpetus ; patoloogia	pathology
+isalik juhtimine	patrimonial management
+kujutuvastus	pattern recognition
+töötasupoliitika	pay policy
+rahuvalve	peacekeeping
+pirn	pear
+turvas	peat
+turbatootmine	peat extraction
+pedagoogika, kasvatusteadus ; pedagoogika ; kasvatusteadus	pedagogy
+jalakäiguala, käiguala ; jalakäiguala ; käiguala	pedestrian zone ; pedestrian area ; car-free zone ; auto-free zone ; pedestrianised zone
+pedosfäär	pedosphere
+karistus; trahv ; karistus ; trahv	penalty
+trahv keskkonnakahjustuse eest	penalty for environmental damage
+pingviin	penguin
+poolsaar	peninsula
+pentaklorofenool	pentachlorophenol
+andmed inimese (elaniku) kohta	per capita data
+nõrgvesi, vajuvesi, gravitatsioonivesi	percolating water
+keemiliste elementide perioodilisussüsteem	periodic table
+kaitseala puhverala	peripheral park area
+peal[is]kasv, perifüüton ; peal(is)kasv, perifüüton	periphyton
+äärelinn	periurban space
+läbilaskvus	permeability
+suurim lubatav ekspositsioon	permissible exposure limit
+luba	permission
+peroksüatsetüülnitraat	peroxyacetylnitrate
+orgaaniline püsireoaine (püsisaasteaine)	persistant organic pollutant
+püsivus	persistence
+pestitsiidide püsivus	persistence of pesticides
+isik	person
+isiklik vastutus	personal responsibility
+kahjur[organism] ; kahjur(organism)	pest
+kahjuritõrje	pest control
+kahjurirünne	pest infestation
+pestitsiid	pesticide
+pestitsiiditõrjenorm	pesticide control standard
+lemmikloom	pet
+petitsioon	petition
+taotlusõigus	petition right
+naftakeemiasaadus	petrochemical
+naftakeemiatööstus	petrochemical industry
+bensiin	petrol
+nafta, toornafta ; nafta ; toornafta	petroleum
+nafta tarbimus	petroleum consumption
+naftatööstus	petroleum industry
+fanerofüüt, kõrgtaim	phanerogam ; spermatophyte
+farmaatsiatööstus ; ravimitööstus	pharmaceutical industry
+ravimijäätmed	pharmaceutical waste
+farmakokineetika	pharmacokinetics
+ravimiteadus, farmakoloogia ; ravimiteadus ; farmakoloogia	pharmacology
+faasan	pheasant
+fenool	phenol
+feromoon	pheromone
+filoloogia	philology
+filosoofia	philosophy
+telefon	phone ; telephone
+foneetika	phonetics
+fosfaat	phosphate
+fosfaadiärastus	phosphate removal
+fosfaadiasendi	phosphate substitute
+fosfaatväetis	phosphatic fertiliser
+fosfor	phosphorus
+foto	photo ; photograph
+fotokeemiline aine	photochemical agent
+fotokeemiline oksüdant, fotooksüdant	photochemical oxidant
+fotokeemiline reostus (saastus) ; fotokeemiline reostus	photochemical pollution
+fotokeemiline saadus	photochemical product
+fotokeemiline reaktsioon	photochemical reaction
+fotokeemiline sudu	photochemical smog
+fotolüüs, fotokeemiline lagunemine	photodegradation
+fotogramm[-m]eetria ; fotogramm(-m)eetria	photogrammetry
+fotograafia	photography
+footon	photon
+fotosüntees	photosynthesis
+füüsiline muutumine	physical alteration
+füüsikaline keemia	physical chemistry
+füüsikalised tingimused	physical conditions
+loodusgeograafia	physical geography
+reostuse füüsikaline mõõtmine	physical measurement of pollution
+füüsiline planeerimine	physical planning
+füüsikaline reostaja	physical pollutant
+füüsikaline reostus	physical pollution
+füüsikaline protsess	physical process
+füüsikaline omadus	physical property
+loodusteadus	physical science
+füüsikaline käitlus	physical treatment
+füüsikalis-keemiline analüüs	physicochemical analysis
+füüsikalis-keemiline protsess	physicochemical process
+füüsikalis-keemiline puhastus	physicochemical purification
+füüsikalis-keemiline käitlus	physicochemical treatment
+füüsika	physics
+füsioloogia	physiology
+taimne biomass, fütomass	phytomass
+fütopatoloogia	phytopathology
+taimhõljum, fütoplankton ; taimhõljum ; fütoplankton	phytoplankton
+taimestikpuhastus	phytosanitary treatment
+fütosotsioloogia	phytosociology
+fütotoksilisus	phytotoxicity
+söövitusseade	pickling plant
+tuvi	pigeon ; dove
+sigala	piggery
+oda	pike ; spear
+katseseade	pilot plant
+katseprojekt	pilot project
+lootsimine	pilotage
+loivaline	pinniped
+mänd	pino ; pine
+toru	pipe
+torustik	pipeline
+kaastunne	pity ; compassion
+piksel	pixel
+koht	place ; location
+tasandik	plain
+plaan	plan
+pindreostusallikas	plane source
+plankton	plankton
+projekteerimine	planning
+planeerimisõigus	planning law
+planeerimismeede	planning measure
+planeerimisluba	planning permission
+taim	plant
+taimebioloogia	plant biology
+taimearetus	plant breeding
+taimekooslus, fütotsönoos	plant community
+taimeosa	plant component
+taimehaigus	plant disease
+taimeökoloogia	plant ecology
+tehasesisseseade	plant equipment
+pärandtaimestik	plant heritage
+taimefüsioloogia	plant physiology
+taimeasurkond, taimepopulatsioon	plant population
+taimesaaduste toodang	plant production
+taimekaitse	plant protection
+taimekaitsevahend	plant protection product
+taimepaljundus	plant reproduction
+taimsed loodusvarad	plant resource
+taimearetus	plant selection
+taimeliik	plant species
+taimeliikide reintroduktsioon	plant species reintroduction
+taimne riidekiud	plant textile fibre
+taimekaubandus	plant trade
+istutamine	planting
+plasmatehnika	plasma technology
+plast	plastic
+plastijäätmed	plastic waste
+plaatina	platinum
+ristlus	pleasure cruising
+plutoonium ; plutoonium ; plutoonium	plutonium ; plutonium ; plutonium
+punkt	point
+punkt[reostus]allikas, punktsaasteallikas ; punkt(reostus)allikas, punktsaasteallikas	point source
+mürk	poison
+mürgitamine	poisoning
+polaarpiirkond	polar region
+polder	polder
+politsei	police
+politseiseadus	police law
+politseivõim	police power
+poliitika ; poliitika, strateegia ; strateegia	policy
+poliitikasuunis	policy guideline
+poliitiline vahend	policy instrument
+poliitika ühtlustamine	policy integration
+strateegia kavandamine	policy planning
+poliitiline nõuanne	political counselling
+poliitiline doktriin	political doctrine
+poliitiline ökoloogia	political ecology
+poliitiline geograafia	political geography
+poliitiline ideoloogia	political ideology
+poliitiline organisatsioon	political organisation
+poliitiline võim	political power
+poliitika	politics
+õietolm	pollen
+reoaine, saasteaine	pollutant
+reoaine (saasteaine) absorbeerimine	pollutant absorption
+reoaine (saasteaine) akumuleerumine ; reoaine saasteaine akumuleerumine ; reoaine akumuleerumine	pollutant accumulation
+reoaine (saasteaine) määramine	pollutant analysis
+reoaine (saasteaine) hindamine	pollutant assessment
+reoaine (saasteaine) kontsentratsioon	pollutant concentration
+reoaine (saasteaine) lagunemine	pollutant degradation
+reoaine (saasteaine) sadenemine	pollutant deposition
+reoaine (saasteaine) hajumine	pollutant dispersion
+reoaine (saasteaine) jagunemine (jaotus)	pollutant distribution
+reoaine (saasteaine) kõrvaldamine	pollutant elimination
+reoaine (saasteaine) heide (emissioon)	pollutant emission
+reoaine (saasteaine) toime suurenemine	pollutant evolution
+ekspositsioon reoainele (saasteainele)	pollutant exposure
+reoainevoog, saasteainevoog	pollutant flow
+reoaine (saasteaine) kujunemine	pollutant formation
+reoaine (saasteaine) immissioon	pollutant immission
+reoaine (saaasteaine) immobiliseerimine	pollutant immobilisation
+reoaine (saasteaine) levimine	pollutant migration
+reoaineseire, saasteaineseire	pollutant monitoring
+reoaine (saasteaine) levimisteekond	pollutant pathway
+reoainesisalduse (saasteainesisalduse) vähendamine	pollutant reduction
+reoaine (saasteaine) taasliikumapanek	pollutant remobilisation
+reoaine, saasteaine	polluted matter
+reostatud (saastatud) paik	polluted site
+reostaja-maksab-põhimõte, põhjustajapõhimõte	polluter-pays principle
+reostamine, reostus, saastamine, saastus ; reostus (saastus) ; reostamine ; reostus ; saastamine ; saastus	pollution
+reostustõrje, saastetõrje	pollution abatement
+reostustõrjevarustus, saastetõrjevarustus	pollution abatement equipment
+reostustõrjejäätmed, saastetõrjejäätmed ; reostustõrjejäätmed ; saastetõrjejäätmed	pollution abatement waste
+reostusohje, saasteohje	pollution control
+reostustõrjevarustus, saastetõrjevarustus	pollution control equipment
+reostustõrjeinvesteering, saastetõrjeinvesteering	pollution control investment
+reostustõrjemeede, saastetõrjemeede	pollution control measure
+reostustõrjetehnika, saastetõrjetehnika	pollution control technology
+reostuse maksumus, saastemaksumus	pollution cost
+reostustoime, saastetoime	pollution effect
+reostusindikaator, saasteindikaator	pollution indicator
+reostuskindlustus, saastekindlustus	pollution insurance
+reostusvastutus, saastevastutus	pollution liability
+reostuskoormus, saastekoormus	pollution load
+reostuse (saastuse) mõõtmine	pollution measurement
+reostusseire, saasteseire	pollution monitoring
+reostusnorm, saastenorm	pollution norm
+reostamise vältimine, saastamise vältimine	pollution prevention
+reostusoht, saasteoht	pollution risk
+reostuse (saastuse) liik	pollution type
+poloonium	polonium
+polübroomitud difenüül	polybrominated biphenyl
+polüklorodibenso-p-dioksiin	polychlordibenzo-p-dioxin
+polüklooritud difenüül	polychlorinated biphenyl
+polüklooritud dibensofuraan	polychlorinated dibenzofuran
+polüklooritud terfenüül	polychlorinated terphenyl
+polütsükliline aromaatne süsivesinik	polycyclic aromatic hydrocarbon
+polütsükliline süsivesinik	polycyclic hydrocarbon
+polüetüleenterftalaat	polyethylene terephtalate
+hulknurk, polügoon	polygon
+polümeer	polymer
+polümerisatsioon	polymerisation
+polüvinüülkloriid	polyvinyl chloride
+tiik	pond
+loik, lomp	pool ; puddle ; puddle
+asurkond ; populatsioon	population
+asustustihedus	population density
+populatsioonidünaamika	population dynamics
+populatsiooniökoloogia	population ecology
+rahvastikuiive, rahvastiku juurdekasv	population growth
+rahvastikuränne	population movement
+rahvastiku struktuur	population structure
+rahvastiku arengutrend	population trend
+käsn	poriferan
+posidoonia	posidonia ; neptunegrass
+omandus ; valdamine	possession
+järelkäitlus, järelpuhastus	post-treatment
+potas, kaaliumkarbonaat	potash
+kaalium	potassium
+kaaliumväetis	potassium fertiliser
+kartul	potato ; patato
+kodulinnud, sulgloomad	poultry
+linnukasvatus	poultry farming
+vaesus	poverty
+võimsus	power (physics) ; power
+energiafirma	power company
+jõujaam, elektrijaam	power station
+jõujaama sulgemine	power station derating
+töö ja soojuse suhtarv	power-heat relation
+praseodüüm	praseodymium
+ostueesõigus	pre-emption
+ostueesõiguspiirkond	pre-emption zone
+ettevaatuspõhimõte	precautionary principle
+sadestamine ; sadestamine; sadestumine ; sadestumine	precipitation ; precipitation (chemical)
+sademete rohkendamine	precipitation enhancement
+peenmehaanika	precision engineering
+kiskja ; kiskja, röövloom ; röövloom	predator
+monteeritav ehitis	prefabricated building
+rasedus	pregnancy
+eelmenetlus	preliminary proceedings
+preemia	premium
+müügiks ettevalmistamine	preparation for market
+igamine	prescription
+tõendusmaterjali säilitamine	preservation of evidence
+säilitusaine	preservative
+hoidis, säilis, konserv	preserve
+ajakirjandus, press ; ajakirjandus ; press	press
+pressimine	pressing
+rõhk	pressure
+surveseadmed, rõhuseadmed	pressure equipment
+huvirühm	pressure group
+vältimisabinõu, ennetusabinõu	prevention measure
+metsapõlengute vältimine	prevention of forest fires
+tervisekaitsemeede	preventive health measure
+preventiivinformatsioon	preventive information
+hind	price
+hinnapoliitika	prices policy
+loodusvarade hinnapoliitika	pricing policy of resources
+algharidus	primary education
+primaarenergiakasutus	primary energy consumption
+ürgmets	primary forest
+toormesektor	primary sector
+reovee eelselitus	primary treatment
+esikloom, primaat ; primaat ; esikloom	primate
+algarv	prime number ; prime
+säästvuspõhimõte, jätkusuutlikkuspõhimõte	principle of sustainability
+trükkimistöö	printing work
+eraauto	private car
+eramaa	private domain
+eramets	private forest
+eramajapidamine	private household
+rahvusvaheline eraõigus	private international law
+eraõigus	private law
+erasektor	private sector
+eraveod	private transport
+erastamine	privatisation
+londiline	proboscidean
+prokarüoot, eeltuumne	procaryote
+protsessiõigus	procedural law
+protsessianalüüs	process analysis
+töötlemistehnoloogia	process technology
+tehnoloogiavesi, tootmisvesi	process water
+töödeldud põllumajandussaadus	processed agricultural produce
+töödeldud toiduaine	processed foodstuff
+töötlemine, töötlus	processing
+tootja vastutus	producer liability
+saadus, produkt	product
+toote reklaamimine	product advertising
+tootevõrdlus	product comparison
+toote hindamine	product evaluation
+toote markeering	product identification
+tooteteave, info toodete kohta	product information
+vastutus toote eest, tootevastutus	product liability
+toote olelustsükkel	product life cycle
+tootestandard	product standard
+tootmispoliitika	production policy
+tootlikkus, tootlus; jõudlus; tööviljakus	productivity
+tootlustrend	productivity trend
+kasum	profit
+prognoosandmed	prognostic data
+programm, tegevuskava ; programm ; tegevuskava	programme
+ajakõver	progress line
+keeld	prohibition
+projekt	project
+promeetium	promethium
+kaubanduse ja tööstuse edendamine (soodustamine)	promotion of trade and industry
+levi[mine] ; levi(mine)	propagation process
+propellent, pakendigaas	propellant
+materjalide omadused	properties of materials
+omandikaitse	property protection
+ajamitehnika	propulsion technique
+kohtulikule vastutusele võtmine; jälitus[tegevus] ; kohtulikule vastutusele võtmine ; jälitus	prosecution
+õitseng, heaolu ; õitseng ; heaolu	prosperity
+prostitutsioon	prostitution
+protaktiinium	protactinium
+kaitseala	protected area
+looduspark ; maastikukaitseala, looduspark ; maastikukaitseala	protected landscape
+merekaitseala	protected marine zone
+kaitsealune liik	protected species
+kaitse naabrite eest	protection from neighbours
+loomakaitse	protection of animals
+linnukaitse	protection of birds
+liigikaitse	protection of species
+kaitsesüsteem	protection system
+kaitsemeede, kaitseabinõu	protective measure
+proteiin ; valk	protein ; poly peptide
+valgusaadus	protein product
+protokoll	protocol
+ainurakne, algloom ; ainurakne ; algloom	protozoan
+maakond	province
+piirkonnaametkond	provincial/regional authority (D) ; regional authority ; provincial authority
+piirkondlik õigus	provincial/regional law (D) ; regional legislation
+pügamine, kärpimine (puude, põõsaste); laasimine	pruning
+psühhiaater	psychiatrist
+psüühiline mõju	psychic effect
+psühholoogiline mõju	psychological effect
+psühholoogiline stress	psychological stress
+psühholoogia	psychology
+psühhosomaatiline mõju	psychosomatic effect
+psühhosomaatiline haigus	psychosomatic illness
+üldsus	public
+iga-ühe-õigus	public access to land
+avalik üritus	public action
+riigi abi	public aid
+üldsuse osavõtt	public attendance
+üldsuse teadlikkus	public awareness campaign
+avalik ujula	public bath
+arupärimine üldkasulikkuse kohta	public benefit inquiry
+ühiskondlik hoone, üldkasutatav hoone	public building
+riiklik leping	public contract
+riigivõlg	public debt
+avalik arutelu	public discussion
+avalik omand, ühisomand	public domain
+riiklikud kulutused	public expenditure
+riigi rahandus	public finance
+riiklik finantseerimine	public financing
+riigi funktsioon	public function
+tervishoid	public health
+avalik arutelu	public hearing
+üldsuse informeerimine (teavitamine) ; üldsuse informeerimine	public information
+avalik arupärimine	public inquiry
+ametiasutus	public institution
+riiklik juhtimisasutus	public institution of administrative nature
+riiklik tööstus- ja kaubandusasutus	public institution of industrial and commercial nature
+rahvusvaheline avalik õigus	public international law
+avalik õigus	public law
+riigile kuuluv mereala	public maritime domain
+avalik arvamus	public opinion
+avaliku arvamuse uuring	public opinion polling
+avalik park	public park
+üldsuse osalemine, üldsuse kaasamine	public participation
+riigihange	public procurement
+prokuratuur	public prosecutor's office
+avalikud suhted	public relations
+riiklik sektor, avalik sektor ; riiklik sektor ; avalik sektor	public sector
+ühistransport ; ühisveondus	public transport
+ühissõiduk	public transport vehicle
+munitsipaalettevõte, kommunaalettevõte	public utility
+riigile kuuluvad siseveekogud	public waterways domain
+riigiehitused	public works
+riigi- ja erapartnerettevõte	public-private partnership
+kopsuhaigus	pulmonary disease
+pump	pump
+pumpamine	pumping
+puhastamine, puhastus	purification
+puhastusseade	purification facility
+puhastusseade	purification plant
+pinnaspuhastus	purification through the soil
+puhastusvõime	purifying power
+puriin	purin
+püraleen	pyralene
+pürolüüs	pyrolysis
+kvaliteedi tagamine; kvaliteedigarantii	quality assurance
+kvaliteedisertifitseerimine	quality certification
+kvaliteediohje, kvaliteedikontroll	quality control
+kvaliteedieesmärk	quality objective
+elukvaliteet	quality of life
+kvaliteedistandard	quality standard
+kivimurd, karjäär	quarry
+kivi murdmine	quarrying
+tükeldamine	quartering
+küülik	rabbit
+rassidevahelised suhted	race relations
+nõrutamine	racking
+radar	radar
+kiirgus ; kiirgused	radiation ; radiations
+kiirguskahjustus	radiation damage
+kiirgusannus, kiirgusdoos ; kiirgusannus ; kiirgusdoos	radiation dose
+kiirgusmõju	radiation effect
+kiiritus	radiation exposure
+kiirgusfüüsika, radiatsioonifüüsika ; kiirgusfüüsika ; radiatsioonifüüsika	radiation physics
+kiirguskaitse	radiation protection
+kiirguskaitseseadus	radiation protection law
+kiirgustõbi	radiation sickness
+raadio	radio
+raadiosaade	radio programme
+radioaktiivne saastumine	radioactive contamination
+radioaktiivse saaste ärastus (kõrvaldamine)	radioactive decontamination
+radioaktiivsete jäätmete panila	radioactive dumping
+radioaktiivne emissioon	radioactive emission
+radioaktiivne sade	radioactive fallout
+radioaktiivne saasteaine	radioactive pollutant
+radioaktiivne aine	radioactive substance
+radiomärgend	radioactive tracer
+radioaktiivsed jäätmed	radioactive waste ; nuclear waste
+radioaktiivsus	radioactivity ; radioactive decay
+radioaktiivne element ; radioelement	radioelement
+radionukliid, radioisotoop, radioaktiivne isotoop ; radionukliid ; radioisotoop ; radioaktiivne isotoop	radionuclide
+raadium	radium
+radoon	radon
+kalts[ud ; kaltsud ; kalts	rag
+raudteeliiklus	rail traffic
+raudteevedu	rail transport
+raudteesõiduk	railroad vehicle ; carriage ; wagon
+raudtee	railway
+raudteevõrk	railway network
+raudteejaam	railway station
+vihm	rain
+vihmamets	rain forest
+vihmavesi	rain water
+sademekanalisatsioon	rain water sewer system
+pilvesisene õhuvõõriseuhe	rainout
+maapinna tõstmine	raising a site
+üksikproov	random test
+raps	rape
+kiirproov	rapid test
+kiirrong	rapid transit train
+haruldane liik	rare species
+raster	raster
+rasterdamine	raster to vector
+kiirus ; kiirus, muutumiskiirus ; muutumiskiirus	rate
+toormaterjal, toore, tooraine ; toormaterjal ; toore ; tooraine	raw material
+toormekulu	raw material consumption
+toorme tagamine	raw material securing
+toorvesi	raw water
+reaktsioonikineetika	reaction kinetics
+reaktor	reactor
+reaktori ohutus	reactor safety
+arukus ; mõistlikkus	reasonableness
+retsept	recipe
+taaskasutustööstus	reclamation industry
+DNA rekombinatsioon, DNA-süntees	recombinant DNA technology
+soovitus	recommendation
+plokkflööt	recorder
+ainete registreerimine	recording of substances
+maastiku taastamine	recovery of landscape
+taastamiskava	recovery plan
+virgestus, rekreatsioon ; virgestus ; rekreatsioon	recreation
+virgestusala, puhkeala	recreational area
+ringluskõlblikkus, taaskasutatavus	recyclability
+kasutuskõlblikud plastijäätmed	recyclable plastic
+teisene materjal, teisesmaterjal	recycled material
+teisene paber, teisespaber	recycled paper
+ringlussevõtt (jäätmete), jäätmete ringlussevõtt	recycling
+jäätmekäitlusseadus	recycling management and waste law
+riglussevõtukõlblikkus	recycling potential
+ringlussevõtusuhe	recycling ratio
+punased looded	red tide
+heastamine	redress
+pilliroog	reed
+kari (kari)	reef
+raamatukogu teabeteenindus, raamatukogu infoteenindus	reference service
+allikaosundus	referral information
+allikaosundamisteenistus	referral information system
+rafineerimisettevõte	refinery
+rafineerimine	refining
+peegeldus, peegeldumine; peegeldamine	reflection
+reflektomeetria	reflectometry
+metsauuendus, metsa uuendamine, taasmetsastamine	reforestation
+jahutusaine, külmutusagens	refrigerant
+jahutamine, külmutamine	refrigeration
+jahutustööstus, külmutustööstus	refrigeration industry
+külmik; külmutusseade ; külmik ; külmutusseade	refrigerator
+pagula, refuugium ; pagula ; refuugium	refuge
+pagulane	refugee
+prügiveok	refuse collection vehicle
+jäätmekütus, prügikütus	refuse derived fuel
+jäätmepurusti, prügipurusti	refuse shredder
+jäätme- ja [reovee]settekompost ; jäätme- ja (reovee)settekompost	refuse-sludge compost
+regenereerimine	regeneration
+piirkond, regioon ; piirkond ; regioon	region
+piirkondlik ametiasutus	regional authority
+piirkondlik konvent	regional convention
+piirkonna areng	regional development
+piirkondlik õigus	regional law
+piirkondlik looduspark	regional natural park
+piirkondlik tegevuskava	regional plan
+piirkondlik planeerimine	regional planning
+piirkondlik määrus	regional regulation
+piirkonnastatistika	regional statistics
+piirkonna struktuur	regional structure
+katastrisse kantud maa	registered site
+registreerimine	registration
+registreerimiskohustus	registration obligation
+registreerimiskorraldus	registration proceeding
+määrus ; reguleerimine; määrus; eeskiri ; reguleerimine ; eeskiri	regulation
+põllumajandusse puutuvad määrused	regulation of agricultural production
+määrus piirväärtuste kohta	regulation on maximum permissible limits
+reguleeriv seadus	regulative law
+ümberasustamine	rehousing
+põhjapõder	reindeer
+reintroduktsioon	reintroduction
+relatsioon[andme]baas ; relatsioon(andme)baas	relational database
+organismide vabadusselaskmine	release of organisms
+pinnamood, reljeef	relief (land)
+usund, usk, religioon ; religioon ; usk ; usund	religion
+kaugseire	remote sensing
+kaugseirekeskus	remote sensing centre
+ärastus, kõrvaldus, kõrvaldamine ; eliminazio ; ärastus ; kõrvaldus ; kõrvaldamine	removal
+renessanss	renaissance
+keskkonnataastus, keskkonnaennistus	renaturation
+taastuva (uueneva) energia allikas	renewable energy source
+taastuv (uuenev) toore	renewable raw material
+taastuv (uuenev) loodusvara	renewable resource
+remontimine	repair business
+asendamine	replacement
+asenduskulu	replacement cost
+keskkonnaaruanne	report on the state of the environment
+aruanne ministrile	report to the minister
+aruandlus	reporting process
+esindamine	representation
+repressioon	repression
+ümbertöötlemine	reprocessing
+paljunemine, sigimine	reproduction
+DNA reproduktiivne käitlemine	reproductive manipulation
+roomaja, reptiil ; roomaja, reptiil ; roomaja, reptiil	reptile ; reptile ; reptile
+päästeteenistus	rescue service
+päästesüsteem	rescue system
+uurimistöö ; uurimus ; uuring	research
+uurimiskeskus	research centre
+mõju-uuring	research of the effects
+uurimispoliitika	research policy
+uurimisprojekt	research project
+reservaat	reserve
+veehoidla	reservoir
+elurajoon, asustusala ; elurajoon ; asustusala	residential area
+kiirustõketega elurajoon	residential area with traffic calmings
+elamu	residential building
+veejääk	residual amount of water
+pestitsiidijääk	residual pesticide
+jääkrisk	residual risk
+prügi	residual waste
+jääkmuda	residual waste sludge
+jääksisalduse määramine	residue analysis
+jahvatusjääk	residue of grinding
+jääkide ringlussevõtt	residue recycling
+vaik	resin
+vaigutaim	resinous plant
+resistentsus, vastupanuvõime	resistance (biological) ; resistance
+otsus	resolution
+eraldusvõime	resolution ; resolution (parameter)
+resorptsioon, imendumine	resorption
+loodusvara, ressurss ; loodusvarad	resource ; resources
+ressursside hindamine	resource appraisal
+ressursihoid	resource conservation
+ressursikasutus	resource exploitation
+ressursivaru	resource reserve
+ressursikasutus	resource utilisation
+ressursimajandus	resources management
+hingamine ; respiratsioon	respiration
+hingamisõhk	respiratory air
+hingamisteede haigus	respiratory disease
+hingamissüsteem, respiratoorsüsteem	respiratory system
+veehoidla	retaining reservoir
+pöördosmoos	reverse osmosis
+reenium	rhenium
+roodium	rhodium
+riis	rice
+meretaseme tõus	rising sea level
+ohust teavitamine	risk communication
+jõgi	river
+jõesäng	river bed
+jõevesi	river water
+maantee ; tee	road
+teedevõrk	road network
+teesool	road salt
+kivim	rock
+näriline	rodent
+röntgeenium	roentgenium
+veeremüra	rolling noise
+katus ; katus ; katus	roof ; roof ; roof
+juur	root
+pöördahi	rotary furnace
+marsruut	route
+kautšuk	rubber
+rubiidium	rubidium
+rubiin	ruby
+maakoht, maapiirkond	rural area
+ruteenium	ruthenium
+rutherfordium	rutherfordium
+ohutus, julgeolek, turvalisus ; ohutus ; julgeolek ; turvalisus	safety ; security
+ohutusmeede, ohutusabinõu ; ohutusmeede ; ohutusabinõu	safety measure
+sahara	sahara
+salamander	salamander
+lõhe	salmon
+sool	salt
+soolane vesi	salt water
+samaarium	samarium
+liiv	sand
+liivaluide	sand dune
+sanitaarseade	sanitary fitting
+safiir	sapphire
+satelliit, tehiskaaslane ; tehiskaaslane ; satelliit	satellite
+saepuru	sawdust
+skandium	scandium
+kool	school
+teadus	science
+teaduskoostöö	scientific co-operation
+teadusvaidlus	scientific dispute
+teaduslik uurimistöö	scientific research
+teadlane	scientist
+kruvikeeraja	screwdriver
+skulptor	sculptor
+meri ; meri	sea
+meretase	sea level
+merevesi	sea water
+seaborgium	seaborgium
+mererand	seashore
+aastaaeg ; hooaeg ; sesoon	season
+keskharidus	secondary education
+uhtained	sediment
+settimine, sedimentatsioon ; settimine ; sedimentatsioon	sedimentation (geology) ; sedimentation
+sedimentoloogia	sedimentology
+seeme	seed
+külvis ; seemnevili	seed
+seismoaktiivsus, seismiline aktiivsus	seismic activity
+tsunami	seismic sea wave ; tsunami
+seleen	selenium
+poolmetall	semi-metal
+pooljuht	semiconductor
+semiootika	semiotics ; semiology
+eraldi, separaator	separator
+reoveeniisutusala	sewage farm
+lammas	sheep
+koorikloom	shellfish ; shellfish
+laev, alus	ship
+kauplus, pood	shop
+kaubanduskeskus	shopping centre
+võsa	shrub
+kõrvalmõju	side effect
+siimens	siemens
+viipekeel	sign language
+räni	silicon
+tolm ; tolm ; möll ; aleuriit	silt
+hõbe	silver
+matkemodelleerimine	simulation
+suusarada	ski run
+suusatamine	skiing
+nahk	skin
+räbu	slag
+tapma	slaughter
+tapamaja	slaughter-house
+tapamaja	slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles
+magamine ; uni	sleep
+une häirimine	sleep disturbance
+toatuhvel	slipper
+nõlv	slope
+muda	sludge
+naeratus	smile
+sudu	smog
+suduhoiatus	smog warning
+suits	smoke
+suitsetamine	smoking
+madu	snake
+lumi	snow
+lumelaviin, laviin	snowslide
+leotamine; vettimine ; leotamine ; vettimine	soaking
+seep	soap
+sotsiaalne käitumine	social behaviour
+sotsiaalne grupp	social group
+sotsiaalne kaitse	social protection
+sotsiaalpsühholoogia	social psychology
+sotsiaalteadus	social science
+sotsiaaluuring	social survey
+sotsiaalhoolekanne	social welfare
+ühiskond	society
+asulate sotsiaalmajanduslik aspekt	socioeconomic aspect of human settlements
+sotsiolingvistika	sociolinguistics ; sociology of language
+sotsioloogia	sociology
+naatrium	sodium
+tarkvara	software
+tarkvaraarendus	software development
+muld	soil
+väetamine	soil fertilisation
+mullaviljakus	soil fertility
+mullateadus, pedoloogia ; mullateadus	soil science
+päikeseelement, heliorakk	solar cell
+päikesepatarei	solar collector
+päikeseenergia	solar energy
+päikeseenergia kasutamine	solar energy technology
+päikeseelektrijaam	solar power station
+päikesekiirgus	solar radiation
+lahustuvus	solubility
+lahusti	solvent
+laululind	songbird
+tahm	soot
+aine neeldumine, sorptsioon ; aine neeldumine ; sorptsioon	sorption
+heli	sound
+heli mõõtmine	sound measurement
+kosmos ; kosmos, maailmaruum ; maailmaruum	space ; space ; space (interplanetary) ; interplanetary space
+kosmoselend	space travel
+spastiline krupp	spasmodic croup
+liik	species
+kõne	speech
+kiirus	speed
+sphinx	sphinx
+ämblik	spider
+sport	sport
+kevad	spring
+allikas, läte ; allikas ; läte	spring ; spring (hydrology, land)
+allikavesi	spring water
+väljak	square
+norm ; norm; standard ; standard	standard
+põhitoit	staple food
+täht	star
+tärklis	starch
+jaam	station
+statistika	statistics
+aurukatel, aurugeneraator ; aurukatel ; aurugeneraator	steam generator
+teras	steel
+sterilisatsioon ; steriliseerimine	sterilisation
+steriliseerimine	sterilisation
+steroid	steroid
+varu täiendamine	stocking
+kivi	stone
+toonekurg	stork
+torm, raju ; torm ; raju	storm ; tempest
+ahi ; ahi; pliit ; pliit	stove
+imelik	strange ; odd
+maasikas	strawberry
+stress	stress
+strontsium	strontium
+teema	subject ; topic
+allveelaev	submarine
+maapinna vajumine ; vajumine	subsidence
+toetus, toetusraha ; toetusraha ; toetus	subsidy
+äärelinn	suburb
+äkiline	sudden ; abrupt ; precipitous
+suhkur	sugar
+väävel	sulphur
+väävlisisaldus	sulphur concentration
+vääveldioksiid	sulphur dioxide
+kaubahall	supermarket
+pakkumine	supply
+pakkumine ja nõudmine	supply and demand
+pindpinevus	surface tension
+hanelised	swans, geese and ducks
+magusaine	sweetener
+mõõk	sword
+sümbioos, kooselu	symbiosis
+sünagoog	synagogue
+sündroom	syndrome
+sünökoloogia	synecology
+rätsep	tailor
+ülevõtmine	takeover
+paakauto ; tsisternauto	tanker
+tanker, tanklaev ; tanker ; tanklaev	tanker ; tanker (ship)
+tanniin	tannin
+tantaal	tantalum
+sihtrühm	target group
+maks	tax
+taksonoomia	taxonomy
+tee	tea
+õpe, õpetamine; õpetus	teaching
+tehneetsium	technetium
+tehnoloogia	technology
+tehnoloogiasiire	technology transfer
+side, telekommunikatsioon	telecommunications ; telecommunication
+kaugmõõtmine, telemeetria ; kaugmõõtmine ; telemeetria	telemetry
+televisioon	television
+teleprogramm	television programme
+telluur	tellurium
+temperatuur	temperature
+teratogeen	teratogen
+terbium	terbium
+terminoloogia	terminology
+termiit	termite
+terrakota	terracotta ; terracotta ; terracotta ; terra cotta
+maaala, territoorium ; maaala ; territoorium	territory
+kolmas sektor	tertiary sector
+katse ; proov ; test	test
+tekstiilitööstus	textile industry
+kiudtaim	textile plant
+tallium	thallium
+teokraatia	theocracy
+teoloogia	theology
+ravi, ravimine, teraapia ; ravi ; ravimine ; teraapia	therapy
+soojussisseseade	thermal equipment
+soojusjõujaam, soojuselektrijaam	thermal power plant
+termodünaamika	thermodynamics
+väitekiri	thesis
+janu	thirst
+toorium	thorium
+tuulium	thulium
+kõu	thunder
+äike	thunderstorm
+loodetejõujaam	tidal power station
+tõusuvesi	tidal water
+kõrgmets, raieküps mets	timber forest
+aeg	time
+ajavöönd	timezone
+tina	tin
+kude	tissue
+titaan	titanium
+titaandioksiid	titanium dioxide
+kärnkonn	toad
+tubakas	tobacco
+tornaado	tornado
+kilpkonn	tortoise
+turism	tourism
+mürgine (toksiline) metall	toxic metal
+mürgine (toksiline) aine	toxic substance
+mürgisus, toksilisus ; mürgisus ; toksilisus	toxicity
+toksikoloogia, mürgiõpetus ; mürgiõpetus ; toksikoloogia	toxicology
+toksiin	toxin
+mikroelement, jälgelement	trace element
+soontaim	tracheophyte ; vascular plant
+elukutse ; kauplemine	trade
+kaubandus	trade
+kauplemine ja tarbimine	trade and consumption
+ametiühing	trades union
+liiklus	traffic
+liiklusmüra	traffic noise
+rong	train
+koolitus, väljaõpe	training
+koolituskeskus, väljaõppekeskus	training centre
+trajektoor, liikumistee	trajectory
+siirdeelement	transition element ; transition metal
+tõlkima	translate ; interpret
+transpiratsioon, taimaurumine	transpiration
+ülekandumine ; ülekanne ; veondus	transport
+vedu, transport ; vedu ; transport	transport ; transportation
+reisimine	travel
+konventsioon ; rahvusvaheline kokkulepe	treaty
+puu	tree
+kolmnurk	triangle
+triitium, üliraske vesinik ; triitium ; üliraske vesinik	tritium
+troofiline tase	trophic level
+troopikamets	tropical forest
+troopikataim	tropical plant
+troopiline vihmamets	tropical rain forest
+troopika, palavvööde ; troopika ; palavvööde	tropics ; torrid zone
+tundra	tundra
+volfram	tungsten
+tunnel	tunnel
+hägusus, sogasus (vee)	turbidity
+turbiin	turbine
+kalkun	turkey
+kaksik	twin
+taifuun	typhoon
+rehv	tyre
+ultraviolettkiirgus	ultraviolet radiation
+allmaaraudtee, metroo ; allmaaraudtee ; metroo	underground railway
+allmaarong, metroorong ; allmaarong ; metroorong	underground train
+töötus, tööpuudus ; töötus ; tööpuudus	unemployment
+kabjaline, sõraline, ungulaat	ungulate
+ülikool ; ülikool	university ; university ; academy
+ununbium	ununbium
+ununheksium	ununhexium
+ununoktium	ununoctium
+ununpentium	ununpentium
+ununkvaadium	ununquadium
+ununseptium	ununseptium
+ununtrium	ununtrium
+kasvatus	upbringing
+uraan	uranium
+linnastumine, urbaniseerumine ; linnastumine ; urbaniseerumine	urbanisation
+karulane	ursid
+usurpeerima ; ; usurpeerima	usurp
+tolmuimeja	vacuum cleaner
+org	valley
+väärtuslik	valuable
+vanaadium	vanadium
+vandalism	vandalism
+aururõhk	vapour pressure
+vektor	vector
+köögivili	vegetable
+taimeõli	vegetable oil
+sõiduk	vehicle
+ventilatsioon, tuulutus, õhuvahetus ; ventilatsioon ; tuulutus ; õhuvahetus	ventilation
+tegusõna ; verb	verb
+selgroogne, vertebraat ; selgroogne ; vertebraat	vertebrate
+sõjaveteran	veteran
+loomaarst	veterinarian
+loomaarst	veterinarian ; veterinary
+küla	village
+käärimispära	vinasse
+viroloogia	virology
+viirus	virus
+viskoossus	viscosity
+vitamiin	vitamin
+sõnastik	vocabulary
+lenduv aine	volatile substance
+lenduvus	volatility
+vulkaanipurse	volcanic eruption
+vulkanism	volcanism
+vulkaan, tulemägi ; tulemägi ; vulkaan	volcano
+võrkpall	volleyball
+pinge	voltage
+hääletamine	voting
+vulkaniseerimine	vulcanisation
+sein	wall
+merihobu	walrus
+sõda	war
+püsisoojane [loom], soojavereline [loom] ; püsisoojane (loom), soojavereline (loom)	warm-blooded animal
+herilane	wasp
+jäätmed (ääde)	waste
+prügikast	waste bin
+jäätmeseadus	waste disposal act
+ulaprügila	waste dump
+vanapaber, paberijäätmed	waste paper
+reovesi	waste water
+reoveepuhastus, reoveekäitlus	waste water purification
+vesi	water
+veekogu	water ; body of water
+vee õhustamine	water aeration
+vee hind	water cost
+vee magestamine	water desalination
+vesikirp	water flea
+veetase, veeseis	water level
+vesiveski	water mill
+veepall	water polo
+veekaitseõigus	water protection legislation
+veepump	water pump
+veemahuti, veepaak	water reservoir
+veevaru	water resource
+vee sooldumine	water salination
+veevarustus	water supply
+veekäitlus, veetöötlus, veepuhastus	water treatment
+veekaev	water well
+juga	waterfall
+veelinnud	waterfowl
+valgla ; veelahe; valgla ; veelahe	watershed
+relv	weapon
+ilm	weather
+ämblikuvõrk	web ; spider web
+umbrohund	weed
+kaal	weight
+keevitamine, keevitus	welding
+kaev	well
+vaal	whale
+vaalapüük	whaling
+ratastool	wheelchair
+vadak	whey
+valge	white
+loodusloom	wild animal
+loodusfauna	wild fauna ; wildlife ; wild animals
+loodustaim	wild plant
+elusloodus, looduselustik	wildlife ; 野生生物
+tuul	wind
+tuuleenergia	wind power
+tuulik, tuuleveski	windmill
+aken	window
+vein	wine
+talv	winter
+võlur	wizard ; sorcerer ; magician
+susi	wolf
+mets	wood
+puit	wood
+puittoode	wood product
+vill	wool
+sõna	word
+tööõnnetus	work accident
+töökoht	workplace
+maailm	world
+maailmapärand (objekt)	world heritage site
+kirjutama	write
+seadusvastane tegu	wrongful act
+ksenoon	xenon
+pärm	yeast
+saak	yield
+intress ; kasvik	yield
+noor	young
+Üterbium ; üterbium	ytterbium
+ütrium	yttrium
+null	zero ; null
+tsink	zinc
+tsirkoonium	zirconium
+loomaaed	zoological garden
+zooloogia	zoology
+zoonoos	zoonosis
+Ahvenamaa	Åland Islands
+ennistamine	återställande ; rehabilitation

@@ -1,0 +1,180 @@
+English	Urdu
+Adriatic Sea	بحیرہ ایڈریاٹک
+Afrikaans	ايفريکان
+Algeria ; People's Democratic Republic of Algeria	الجزائر
+Alps	الپس
+Antarctica	انٹارکٹیکا
+April	اپریل
+Arabic ; Standard Arabic	عربي
+Argentina ; Argentine Republic	ارجنٹائن
+Armenia	آرمینیا
+August	اگست
+Australia ; Commonwealth of Australia	آسٹریلیا
+Austria ; Republic of Austria	آسٹریا
+Azerbaijan ; Republic of Azerbaijan	آذربائجان
+Bahrain	بحرین
+Bangladesh ; People's Republic of Bangladesh	بانگلہ دیش
+Belarus ; Republic of Belarus	بیلارس
+Bulgarian ; Bulgarian	لغاري
+Canada	کینیڈا
+Castilian ; Spanish ; Spanish	ہسپانوي
+Chile ; Republic of Chile	شيلی
+Croatia ; Republic of Croatia	کرویشیا
+Croatian ; Croation	کراتي
+Czech ; Czech	چيک
+Dakar	ڈاکار
+Danish	ڈينش
+Denmark ; Kingdom of Denmark	ڈنمارک
+Eiffel Tower	ایفل ٹاور
+English	انگريزي
+Eritrea	اریٹیریا
+Estonian	سٹونين
+Faroese ; Faeroese	فیروئیز
+Finnish	فنّنِش
+France	فرانس
+French ; French	فرانسيسي
+French Revolution	انقلاب فرانس
+Frisian ; Western Frisian	فريژي
+Gaborone	گبرون
+Galician ; Galician	گاليشيائي
+Georgia	جارجیا
+Greece ; Hellenic Republic	یونان
+Greek ; Greek	يوناني
+Gujarati ; Gujarati	گجراتي
+Happy New Year	نياسال مبارك
+Hungarian	ہنگيرين
+Hungary ; Republic of Hungary	ہنگری
+Icelandic	برفستاني
+India ; Republic of India	انڈیا
+Indonesian	انڈونيثيائي
+Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin	انٹرلنگوا
+Iran ; Islamic Republic of Iran	ایران
+Iraq ; Republic of Iraq	عراق
+Ireland ; Republic of Ireland	آئرلینڈ ; جمہوریہ آئرلینڈ
+Islam	اسلام
+Israel ; State of Israel	اسرائی
+Italian ; Italian	اٹالوي
+Italian Republic ; Italy	اٹلی
+Japan ; State of Japan	جاپان
+Japanese ; Japanese	جاپاني
+Jordan ; Hashemite Kingdom of Jordan	اردن
+July	جولائ
+Kazakhstan ; Republic of Kazakhstan	قازقستان
+Khartoum	خرطوم
+Korean ; Korean	کورين
+Kyrgyzstan ; Kyrgyz Republic	کرغزستان
+Latvian ; Latvian	ليٹوين
+Macedonian ; Macedonian	مقدونيائي
+Malta ; Republic of Malta	مالٹا
+Massachusetts	میساچوسٹس
+Monaco	موناکو
+Morocco ; Kingdom of Morocco	مراکش
+Mount Fuji	فیوجی
+Mumbai ; Bombay	ممبئی
+Myanmar	میانمار
+Nepali ; Nepali	نيپالي
+November	نومبر
+Novial	نوویال
+October	اکتوبر
+Oklahoma	اوکلاہوما
+Pakistan ; Islamic Republic of Pakistan	پاکستان
+People's Republic of China ; China	چین
+Persian ; Western Farsi ; Farsi	فارسی
+Polish ; Polish	پولستاني
+Portuguese ; Portuguese	پرتگالي
+Romanian ; Romanaian	رومني
+Russian ; Russian	روسي
+Sanskrit ; Sanskrit	سنسکرت
+Saudi Arabia ; Kingdom of Saudi Arabia	سعودی عرب
+Seine	دریائے سین
+Sindhi ; Sindhi	سندھی
+Slovak ; Slovak	سلاواک
+Slovene ; Slovenian ; Slovenian	سلويني
+Spain	سپین
+Sri Lanka	سری لنکا
+Swahili	سواہیلی
+Swedish	سويڈش
+Switzerland	سوئٹزرلینڈ
+Tamil ; Tamil	تامِل
+Thai ; Thai	تهائي
+Turkish ; Turkish	ترکي
+Ukrainian ; Ukrainian	يُوکريني
+Urdu ; Urdu	اردو
+Vietnamese ; Vietnamese	ويتنامي
+Welsh ; Welsh	ويلش
+Wiktionary	وکشنری
+acceleration	اسراع
+albinism	مہق
+animal	جانور
+ant	چیونٹی
+antimony	کحل
+anytime	ہمیشہ
+apoptosis	سقوطیت
+apple	سےب
+arsenic	زرنیخ
+badminton	بیڈمنٹن
+baseball ; baseball game	بیس بال
+bed	بستر
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	نابھ ; ناف
+biology ; biological science	حیاتیات
+bismuth	بسمیتھ
+blind	اندھا
+blood	خون
+blood plasma	آبدم
+bullet	گولی
+butter	مکھن
+capital	دارالخلافہ
+communism	اشتراکیت
+copper	تانبا
+death penalty ; capital punishment ; death sentence	سزائے موت
+demography	بشری شماریات
+dog	ک
+drink ; gulp ; quaff ; sip	پینا
+edible	کھادیہ
+empty	ریتا ; خالی
+eye	آنکھ
+finger	اُنگلی
+germanium	جرمانیئم
+gold	سونا
+golf	گولف
+hairdresser ; barber	ەجام
+harem	حرم سرا ; محل سرا
+hour	گھنٹا ; گھنٹہ
+hydrogen	آبگر
+ion	آئون
+jazz	جاز
+kilogram	کلوگرام
+law	قانون
+lead	رصاص
+library	کتب خانه
+mango	آم
+menorah	مینورہ
+mercury	پارہ
+metaphysics	مابعدالطبیعیات
+milk	دودھ
+natural science	علوم فطریہ
+oceanography	علم المحیطات
+olive	زیتون
+orphan	اناتھ ; یتیم
+palaeontology	حفریات
+phosphorus	فاسفورس
+pomegranate	انار
+potassium	پوٹاشیم
+potato ; patato	آلو
+rabbit	خرگوش
+rose	گلاب
+sheep	بھیڑ
+silk	ریشم
+silver	چاندی
+spleen	طحال
+surgery	جراحت
+tennis	ٹینس
+tin	قلع
+translation	ترجمہ
+tree	پیڑ
+tulip	لالہ
+urine	موت ; موتر ; پیشاب
+vacuum cleaner	خلائی مطہر
+window	کھڑکی
+zinc	خارصین
+zoology	حیوانیات

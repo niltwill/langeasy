@@ -1,0 +1,82 @@
+English	English
+
+about, around	about
+above	above
+again, once more	again
+almost, about	almost
+along	along
+already	already
+always, e'er	always
+approximately, about	approximately
+as	as
+before, ahead	before
+before, earlier	before
+behind	behind
+between, betwixt	between
+beyond	beyond
+by, past	by
+clearly	clearly
+directly, straight	directly
+down, downwards	down
+early, early on	early
+either	either
+enough, plenty	enough
+even	even
+exactly, precisely	exactly
+finally, last	finally
+first, firstly	first
+forward	forward
+generally	generally
+here	here
+here, hither	here
+however, nevertheless	however
+immediately, instantly	immediately
+in, inwards	in
+indeed, so	indeed
+inside, within	inside
+instead	instead
+late	late
+later, after	later
+least, to the lowest degree	least
+little	little
+merely, just	merely
+more, to a greater extent	more
+never	never
+not, non	not
+now, at present	now
+obviously, evidently	obviously
+often, frequently	often
+once	once
+outside	outside
+particularly, peculiarly	particularly
+please	please
+possibly, perchance	possibly
+preferably, rather	preferably
+probably, likely	probably
+quickly, rapidly	quickly
+really, actually	really
+really, truly	really
+recently, lately	recently
+slowly, slow	slowly
+so	so
+solely, alone	solely
+sometimes	sometimes
+soon, presently	soon
+still	still
+such	such
+suddenly	suddenly
+surely, certainly	surely
+then	then
+there	there
+therefore, hence	therefore
+through	through
+today	today
+together	together
+tomorrow	tomorrow
+tonight, this evening	tonight
+too, also	too
+up, upwards	up
+usually, commonly	usually
+very	very
+well, good	well
+why	why

@@ -1,0 +1,2078 @@
+English	Hungarian
+AIDS	AIDS
+Abkhaz	abház
+Abkhazia	Abházia
+Abraham	Ábrahám
+Adam	Ádám
+Afghanistan	Afganisztán
+Africa	Afrika
+Afrikaans	afrikaans
+Alaska	Alaszka
+Albania	Albánia
+Alexander	Sándor
+Algeria	Algéria
+Algiers	Algír
+Allah	Allah
+Alps	Alpok
+America	Amerika
+American bison	amerikai bölény
+Amsterdam	Amszterdam
+Amur	Amur
+Andorra	Andorra
+Andrew	András
+Anglo	óangol nyelv
+Angola	Angola
+Ankara	Ankara
+Antarctica	Antarktisz
+Antigua and Barbuda	Antigua és Barbuda
+April	április
+Arctic Ocean	Jeges-tenger; Északi-sarki-óceán
+Argentina	Argentína
+Argonaut	Argonauták
+Arkhangelsk	Arhangelszk
+Armenia	Örményország
+Armenian	örmény
+Asclepius	Aszklépiosz
+Asia	Ázsia
+Athena	Athéna; Athéné
+Athens	Athén
+Atlantic Ocean	Atlanti-óceán
+August	augusztus
+Australia	Ausztrália
+Austria	Ausztria
+Azerbaijan	Azerbajdzsán
+Azeri	azerbajdzsán, azeri, azerbajdzsáni
+Bahamas	Bahamák (p), Bahama-szigetek (p)
+Bahrain	Bahrein
+Baku	Baki
+Balearic Islands	Baleár-szigetek
+Baltic Sea	Balti-tenger
+Bambara	bambara
+Bangkok	Bangkok
+Bangladesh	Banglades
+Barbados	Barbados
+Bashkir	baskír
+Beijing	Peking
+Beirut	Bejrút
+Belarus	Fehéroroszország; Belarusz; Belarusz Köztársaság
+Belarusian	fehérorosz; belorusz
+Belgium	Belgium
+Belgrade	Belgrád, Nándorfehérvár ('arch.'), Landorfehérvár ('arch.')
+Belize	Belize
+Belorussian	fehérorosz
+Benin	Benin
+Berlin	Berlin
+Bermuda	Bermuda, Bermudák (p), Bermuda-szigetek (p)
+Bhutan	Bhután
+Bible	biblia
+Black Sea	Fekete-tenger
+Bolivia	Bolívia
+Bosnia	Bosznia
+Bosnia and Herzegovina	Bosznia-Hercegovina; Bosznia és Hercegovina
+Bosphorus	Boszporusz
+Botswana	Botswana
+Brazil	Brazília
+Breton	Breton
+Brunei	Brunei
+Brussels	Brüsszel
+Bucharest	Bukarest
+Buddha	Buddha
+Buddhism	buddhizmus
+Bulgaria	Bulgária
+Bulgarian	bolgár
+Burkina Faso	Burkina Faso
+Byzantine Empire	Bizánci Birodalom
+California	Kalifornia
+Cambodia	Kambodzsa
+Cameroon	Kamerun
+Canada	Kanada
+Cape Verde	Zöld-foki Köztársaság; Zöld-foki-szigetek
+Carthage	Karthágó
+Caspian Sea	Kaszpi-tenger
+Catalan	katalán
+Central African Republic	Közép-afrikai Köztársaság
+Chad	Csád
+Chile	Chile
+China	Kína
+Chinese	kínai
+Chisinau	Chișinău
+Christ	Krisztus
+Christian	keresztény
+Christianity	kereszténység
+Christmas	karácsony
+Christmas tree	karácsonyfa
+Christopher	Kristóf
+Cinderella	Hamupipőke
+Coca	Coca-Cola
+Colombia	Kolumbia
+Commonwealth of Independent States	Független Államok Közössége; FÁK
+Constantinople	Konstantinápoly
+Copenhagen	Koppenhága
+Costa Rica	Costa Rica
+Croatia	Horvátország
+Croatian	horvát
+Cuba	Kuba
+Cyprus	Ciprus
+Cyrillic	cirill
+Cyrillic alphabet	cirill ábécé; cirill
+Czech	cseh
+Czech Republic	Cseh Köztársaság
+Czechia	Csehország
+Czechoslovakia	Csehszlovákia
+Damascus	Damaszkusz
+Danish	dán
+Danube	Duna
+David	Dávid
+December	december
+Denmark	Dánia
+Djibouti	Dzsibuti
+Dominican Republic	Dominikai Köztársaság
+Dutch	holland
+Earth	Föld
+East Timor	Kelet-Timor
+Easter	húsvét
+Eastern Europe	Kelet-Európa
+Egypt	Egyiptom
+England	Anglia
+English	angol; angliai
+Esperanto	eszperantó
+Estonia	Észtország
+Ethiopia	Etiópia
+Eurasia	Eurázsia
+Europe	Európa
+European Union	Európai Unió
+European bison	európai bölény
+Far East	Távol-Kelet
+Faroe Islands	Feröer-szigetek
+Faroese	feröeri
+February	február
+Fiji	Fidzsi-szigetek
+Finland	Finnország
+Finnish	finn
+France	Franciaország
+French	franciák
+Friday	péntek
+GDP	BHT
+Ganges	Gangesz
+Gaza Strip	Gázai övezet
+Geneva	Genf
+George	György
+Georgia	Grúzia
+Georgian	grúz
+German	német
+German Shepherd	német juhászkutya; német juhász
+Germany	Németország
+Ghana	Ghána
+Ghent	Gent
+Gibraltar	Gibraltár
+Goa	Goa
+God	Isten; Úristen; Jóisten
+Great Britain	Nagy-Britannia
+Great Pyramid of Giza	Gízai piramisok
+Greece	Görögország
+Greek	görög
+Greenland	Grönland
+Guatemala	Guatemala
+Guinea	Guinea
+Gujarati	gudzsaráti
+Gulf of Finland	Finn-öböl
+Guyana	Guyana
+Haiti	Haiti
+Happy Easter	kellemes húsvétot
+Happy New Year	boldog új évet
+Hindi	hindi
+Hokkaido	Hokkaidó
+Holland	Hollandia
+Holocaust	holokauszt
+Holy Spirit	Szentlélek
+Honduras	Honduras
+Hong Kong	Hongkong
+Hungarian	magyar
+Hungary	Magyarország
+I	én
+I am English	én angol vagyok
+I love you	szeretlek
+I need an interpreter	tolmácsra van szükségem
+Iceland	Izland
+India	India
+Indian Ocean	Indiai-óceán
+Indonesia	Indonézia
+Interlingua	interlingva
+International Phonetic Alphabet	nemzetközi fonetikai ábécé
+Internet	világháló; internet
+Iran	Irán
+Iraq	Irak
+Ireland	Írország
+Islam	iszlám
+Israel	Izrael
+Italian	olasz
+Italy	Olaszország
+Jamaica	Jamaica
+January	január
+Japan	Japán
+Japanese	japán
+Jerusalem	Jeruzsálem
+Jesus	Jézus
+Jesus Christ	Jézus Krisztus
+Jew	zsidó
+Jewish	zsidó
+John	János
+Jordan	Jordánia
+Joseph	József
+Judaism	judaizmus
+July	július
+June	június
+Jupiter	Jupiter
+Karnataka	Karnátaka
+Kazakhstan	Kazahsztán
+Kenya	Kenya
+Khartoum	Kartúm
+Khmer	khmer
+Khrushchev	Hruscsov
+Kosovo	Koszovó
+Kurdish	kurd
+Kuwait	Kuvait
+Kyrgyzstan	Kirgizisztán
+Laos	Laosz
+Latin	latin
+Latvia	Lettország
+Lebanon	Libanon
+Liberia	Libéria
+Libya	Líbia
+Liechtenstein	Liechtenstein
+Lisbon	Lisszabon
+Lithuania	Litvánia
+London	London
+Luxembourg	Luxemburg
+Lyons	Lyon
+Macedonia	Macedónia
+Magna Carta	Magna Charta Libertatum
+Malayalam	malajálam
+Malaysia	Malajzia
+Maldives	Maldív-szigetek
+Malta	Málta
+Manchuria	Mandzsúria
+Maoism	maoizmus
+March	március
+Mars	Mars
+Marshall Islands	Marsall-szigetek
+Mary	Mária
+Matthew	Máté; Mátyás
+Mauritius	Mauritius
+May	május
+Mediterranean Sea	Földközi-tenger
+Mercury	Merkúr
+Merry Christmas	boldog karácsonyt
+Merry Christmas and a Happy New Year	Kellemes Karácsonyi Ünnepeket és Boldog Új Évet
+Mexico	Mexikó
+Michael	Mihály
+Middle East	Közel-Kelet
+Minsk	Minszk
+Miss	kisasszony
+Moldova	Moldova
+Monaco	Monaco
+Monday	hétfő
+Mongolia	Mongólia
+Mongolian	mongol
+Montenegro	Montenegró
+Morocco	Marokkó
+Moscow	Moszkva
+Moses	Mózes
+Mount Everest	Csomolungma
+Mozambique	Mozambik
+Mr	úr
+Muhammad	Mohamed; Mohamed próféta
+Munich	München
+Muslim	muszlim; muzulmán
+Myanmar	Mianmar
+NATO	NATO
+Namibia	Namíbia
+Naypyidaw	Nepjida
+Nepal	Nepál
+Netherlands	Hollandia
+New Delhi	Újdelhi
+New York City	New York
+New Zealand	Új-Zéland
+Nicaragua	Nicaragua
+Nicholas	Miklós
+Niger	Niger
+Nigeria	Nigéria
+North America	Észak-Amerika
+North Korea	Észak-Korea
+Northern Europe	Észak-Európa
+Northern Ireland	Észak-Írország
+Norway	Norvégia
+Norwegian	norvég
+November	november
+Occitan	okcitán
+Oceania	Óceánia
+October	október
+Olympic Games	olimpiai játékok
+Oman	Omán
+Ottoman Empire	Oszmán Birodalom
+Pacific Ocean	Csendes-óceán
+Pakistan	Pakisztán
+Palestine	Palesztina
+Panama	Panama
+Papua New Guinea	Pápua Új-Guinea
+Paris	Párizs
+Paul	Pál
+Persian	perzsa
+Peru	Peru
+Philippines	Fülöp-szigetek
+Pisces	Halak
+Pleiades	Messier 45
+Poland	Lengyelország
+Polish	lengyel
+Portugal	Portugália
+Portuguese	portugál
+Prague	Prága
+Pythagoras	Püthagorasz
+Richard	Richárd
+Roman	római
+Romania	Románia
+Romanian	román
+Rome	Róma
+Russia	Oroszország
+Russian	orosz; ruszki
+Russian Federation	Oroszországi Föderáció
+Rwanda	Ruanda
+Saint Petersburg	Szentpétervár
+San Marino	San Marino
+Sanskrit	szanszkrit
+Santa Claus	Mikulás
+Satan	Sátán
+Saturday	szombat
+Saturn	Szaturnusz
+Saudi Arabia	Szaúd-Arábia
+Scotland	Skócia
+Senegal	Szenegál
+Seoul	Szöul
+September	szeptember
+Serb	szerb
+Serbia	Szerbia
+Serbia and Montenegro	Szerbia és Montenegró
+Serbian	szerb
+Shanghai	Sanghaj
+Shinto	sintó
+Siberia	Szibéria
+Sicily	Szicília
+Singapore	Szingapúr
+Slovakia	Szlovákia
+Slovene	szlovén
+Slovenia	Szlovénia
+Snow White	Hófehérke
+Sochi	Szocsi
+Sofia	Szófia
+Solar System	naprendszer
+Somalia	Szomália
+South Africa	Dél-afrikai Köztársaság
+South America	Dél-Amerika
+South Korea	Dél-Korea
+South Ossetia	Dél-Oszétia
+South Sudan	Dél-Szudán
+Southeast Asia	Délkelet-Ázsia
+Soviet Union	Szovjetunió
+Spain	Spanyolország
+Spanish	spanyol
+Sparta	Spárta
+Sri Lanka	Srí Lanka
+Stalin	Sztálin
+Sudan	Szudán
+Suez Canal	Szuezi-csatorna
+Sunday	vasárnap
+Sweden	Svédország
+Swedish	svéd
+Switzerland	Svájc
+Syria	Szíria
+Taipei	Tajpej
+Taiwan	Tajvan
+Tajikistan	Tádzsikisztán
+Tallinn	Tallinn
+Tanganyika	Tanganyika-tó
+Tanzania	Tanzánia
+Tbilisi	Tbiliszi
+Tehran	Teherán
+Tel Aviv	Tel Aviv
+Ten Commandments	tízparancsolat
+Thai	thai
+Thailand	Thaiföld
+The Hague	Hága
+Thursday	csütörtök
+Transnistria	Dnyeszter-mellék; Transznisztria
+Transylvania	Erdély
+Tuesday	kedd
+Tunisia	Tunézia
+Turkey	Törökország
+Turkish	török
+Turkmenistan	Türkmenisztán
+USSR	SZSZKSZ
+Uganda	Uganda
+Ukraine	Ukrajna
+Ukrainian	ukrán
+United Arab Emirates	Egyesült Arab Emírségek
+United Kingdom	Egyesült Királyság; Nagy-Britannia és Észak-Írország Egyesült Királysága
+United States	Egyesült Államok
+United States of America	Amerikai Egyesült Államok; Egyesült Államok; USA
+Uranus	Uránusz
+Uruguay	Uruguay
+Uzbekistan	Üzbegisztán
+Valkyrie	valkűr
+Vatican City	Vatikán
+Venus	Vénusz
+Vienna	Bécs
+Vietnam	Vietnam
+Vishnu	Visnu
+Wales	Wales; Velsz 
+Warsaw	Varsó
+Wednesday	szerda
+Western Europe	Nyugat-Európa
+Western Sahara	Nyugat-Szahara
+White House	Fehér Ház
+White Sea	Fehér-tenger
+Wikipedia	Wikipédia
+Wiktionary	Wikiszótár
+Wiktionary:Usability/flag	zászló
+William	Vilmos
+World War II	második világháború
+Wroclaw	Boroszló
+Yangon	Rangun
+Yangtze	Jangce
+Yaoundé	Yaoundé
+Yellow Sea	Sárga-tenger
+Yemen	Jemen
+Yerevan	Jereván
+Yugoslavia	Jugoszlávia
+Zagreb	Zágráb
+aardvark	földimalac
+abacus	abakusz
+abbot	apát
+abbreviation	rövidítés
+abdomen	has
+absolute zero	abszolút nulla fok
+accordion	harmonika; tangóharmonika
+acorn	makk
+actinium	aktínium
+actor	színész
+address	cím
+adjective	melléknévi
+admiration	bámulás
+adverb	határozószó
+advertisement	hirdetés; reklám
+aeroplane	repülőgép; repülő
+after	után
+afternoon	délután
+again	újra; megint; ismét
+age	kor
+aggressive	agresszív
+ago	ezelőtt
+agriculture	mezőgazdaság
+air	levegő
+aircraft	repülőgép; repülő
+airplane	repülőgép; repülő
+airport	repülőtér; reptér
+al	al-Kaida
+alcohol	alkohol
+algorithm	algoritmus
+alive	életben lévő; élő
+all	minden; valamennyi
+all rights reserved	minden jog fenntartva
+alligator	aligátor
+almond	mandula
+almost	majdnem
+alphabet	ábécé
+already	már
+also	szintén; is; ugyancsak
+aluminium	alumínium
+always	mindig
+am	vagyok
+amber	borostyán
+ambulance	mentőautó; mentő; rohamkocsi
+americium	amerícium
+an	egy
+anal sex	anális szex
+anarchism	anarchizmus
+anchor	horgony; vasmacska
+and	és
+angel	angyal
+anger	harag; düh
+angry	haragos; dühös; mérges; bősz
+animal	állat
+anime	anime
+ankle	boka
+answer	válasz
+ant	hangya
+anthrax	lépfene
+antimony	antimon
+antonym	ellentét; antonima
+anus	végbélnyílás
+anvil	üllő
+apple	alma
+apple tree	almafa
+apricot	sárgabarack; kajszibarack
+archaeology	archeológia; régészet
+architect	építész; építészmérnök
+argent	ezüst
+argon	argon
+arm	kar
+armpit	hónalj
+army	hadsereg
+arrow	nyíl
+arsenic	arzén
+artichoke	articsóka
+article	újságcikk
+ash	hamu
+ask	kér
+ass	szamár
+astatine	asztácium
+asteroid	kisbolygó
+astronomical unit	csillagászati egység
+astronomy	csillagászat; asztronómia
+astrophysics	asztrofizika
+at	-n / -on / -en / -ön '(superessive case)'; -nál / -nél '(adessive case)'
+at sign	kukac
+atheism	ateizmus
+aubergine	padlizsán
+aunt	nagynéni
+autumn	ősz
+avalanche	lavina
+axe	fejsze; balta; szekerce
+axis	tengely
+baby	csecsemő
+babysitter	bébiszitter; pótmama
+back	hát
+bad	rossz
+badger	borz
+bag	táska; zsák; szatyor; zacskó; tasak
+bagpipes	duda
+bakery	kenyérbolt; péküzlet
+balcony	erkély; balkon
+bald	kopasz; tar
+ball	golyó
+balloon	léggömb; lufi
+banana	banán
+barcode	vonalkód
+barium	bárium
+bark	kéreg
+barley	árpa
+barn owl	gyöngybagoly
+basalt	bazalt
+baseball	baseball
+basket	kosár
+basketball	kosárlabda
+bat	denevér; bőregér
+bathroom	fürdőszoba
+battery	elem; akkumulátor
+battle	csata; ütközet
+bay	öböl
+be	lenni
+beach	part; tengerpart; strand
+beak	csőr
+bean	bab; paszuly
+bear	medve
+beard	szakáll
+beautiful	szép; gyönyörű
+beauty	szépség
+beaver	hód
+because	mert
+bed	ágy
+bedroom	háló; hálószoba
+bee	méh
+beech	bükk
+beef	marhahús
+beer	sör
+beetle	bogár
+before	előtt
+begin	kezd; elkezd
+behind	mögött
+bell	harang
+belly	has
+belt	öv
+berkelium	berkélium
+berry	bogyó
+beryllium	berillium
+better	jobb
+bicycle	kerékpár; bicikli
+big	nagy
+bill	csőr
+billion	milliárd
+biochemistry	biokémia
+biology	biológia
+bipolar disorder	bipoláris zavar
+birch	nyír
+bird	madár
+birth	szülés
+birthday	születésnap
+bishop	futó; futár 
+bismuth	bizmut
+bitch	szuka; nőstény
+bite	harap
+bitter	keserű
+black	fekete
+black grouse	nyírfajd
+black hole	fekete lyuk
+black woodpecker	fekete harkály
+blackberry	szeder
+blackbird	feketerigó
+blanket	takaró; pokróc
+bleed	vérzik
+bless you	egészségedre
+blind	vak
+blog	blog
+blood	vér
+blue	kék
+boar	vaddisznó
+boat	csónak
+body	test
+bomb	bomba; pokolgép
+bon appétit	jó étvágyat
+bon voyage	jó utat; jó utat kívánok
+bone	csont
+book	könyv
+bookshop	könyvesbolt
+boot	csizma; bakancs
+boron	bór
+both	mindkét
+bottle	üveg
+bow	íj
+box	doboz
+boy	fiú, csávó (slang), srác (informal)
+bra	melltartó
+brain	agy
+branch	ág
+brave	bátor
+bread	kenyér
+break	törik, eltörik
+breakfast	reggeli
+breast	mell
+breathe	lélegzik
+brick	tégla
+bridge	híd
+bromine	bróm
+broom	seprű
+brother	féltestvér
+brown	barna
+brush	kefe; seprű; ecset
+bucket	vödör; veder
+buffalo	bölény
+building	építés; építkezés; felépítés
+bull	bika
+bullet	lövedék
+bumblebee	dongó; poszméh
+burn	ég; elég
+bus	autóbusz; busz
+busy	foglalt
+but	de; viszont
+butcher	hentes; mészáros
+butter	vaj
+butterfly	pillangó; lepke
+buy	vásárol; vesz
+buzzard	ölyv
+cabbage	káposzta
+cactus	kaktusz
+cadmium	kadmium
+caesium	cézium
+café	kávéház
+cake	torta; sütemény; tészta
+calcium	kalcium
+calendar	naptár
+calf	borjú
+californium	kalifornium
+camel	teve
+can	tud
+canal	csatorna
+canary	kanári; kanárimadár
+cancer	rák
+candle	gyertya
+cannabis	kannabisz
+canyon	kanyon
+capercaillie	siketfajd
+capital	tőke
+capital city	főváros
+car	vagon
+carbon	szén
+carp	ponty
+carpenter	ács; asztalos
+carpet	szőnyeg
+carrot	sárgarépa
+carry	visz; hord
+castle	vár; kastély
+cat	macska
+caterpillar	hernyó
+cauliflower	karfiol
+cave	barlang
+cedar	cédrus; cédrusfa
+ceiling	mennyezet
+cell phone	mobiltelefon
+center	középpont; központ
+centimetre	centiméter
+centipede	százlábúak
+century	század; évszázad
+cerium	cérium
+chain	lánc
+chair	szék
+chamois	zerge
+change	változás, megváltozás
+chaos	káosz
+chapter	fejezet
+chase	üldöz
+cheap	olcsó
+cheers	egészségedre; szervusz
+cheese	sajt
+cheetah	gepárd
+chemistry	kémia
+cheque	csekk
+cherry	cseresznye
+chess	sakk
+chest	mellkas
+chestnut	gesztenye
+chicken	csirke
+child	gyerek; gyermek
+chimpanzee	csimpánz
+chin	áll
+chlorine	klór
+chocolate	csokoládé
+choice	választás
+choir	kórus; énekkar; kar
+choose	kiválaszt
+chord	akkord
+chromium	króm
+church	egyház
+cigarette	cigaretta
+cinema	mozi
+circle	kör
+city	város
+clarinet	klarinét
+clay	agyag
+clean	tisztít
+clitoris	csikló
+clock	óra
+clothes	ruha; ruhák
+cloud	felhő; felleg
+coast	part, partvidék, tengerpart
+cobalt	kobalt
+cock	kakas
+cockroach	csótány
+coconut	kókusz
+coffee	kávé
+coffin	koporsó
+coin	érme; fémpénz
+cold	megfázás; meghűlés; nátha
+cold war	hidegháború
+collect	gyűjt
+color	szín
+columbine	harangláb
+comb	fésű
+come	jön
+common gull	viharsirály; sirály
+communism	kommunizmus
+compass	iránytű
+computer	számítógép
+computer language	programozási nyelv
+comrade	elvtárs (m); elvtársnő (f)
+concrete	beton
+condom	óvszer
+connective tissue	kötőszövet
+conscience	lelkiismeret
+continent	kontinens; földrész; világrész
+conversation	beszélgetés; társalgás
+copper	réz
+corn	kukorica
+corpse	holttest; hulla
+cotton	gyapot
+cough	köhög
+count	számol
+country	vidék
+courage	bátorság
+cow	tehén
+crab	rák
+crane	daru
+cream	tejszín
+cricket	tücsök
+crime	bűntény; bűntett
+crocodile	krokodil
+cross	kereszt
+crossword	keresztrejtvény
+crow	varjú
+cruel	kegyetlen
+cry	sír; rí; könnyezik
+crystal	kristály
+cube	kocka
+cuckoo	kakukk
+cucumber	uborka
+cunt	pina
+cup	csésze; findzsa
+curium	kűrium
+current	áram
+curse	átok
+cute	aranyos; helyes; cuki; édes
+dance	táncol
+dangerous	veszélyes
+dark	sötét
+dark matter	sötét anyag
+darkness	sötétség
+data	adat
+date	randevú; randi
+date palm	datolyapálma
+daughter	meny
+day	nappal
+dead	halott
+deaf	süket
+dear	drága
+death	halál
+decade	évtized
+deer	szarvas
+delicious	finom; ízletes
+democracy	demokrácia
+demon	démon
+dentist	fogorvos; fogász
+desert	sivatag
+dessert	desszert
+devil	ördög
+dew	harmat
+dialect	nyelvjárás
+diary	napló
+dick	fasz; pöcs
+dictionary	szótár
+die	dobókocka; kocka
+dig	ás
+dining room	ebédlő; étkező
+dinosaur	dinoszaurusz
+dirty	piszkos; koszos
+discussion	megbeszélés; vita
+disease	betegség; kór
+do	tesz; csinál
+do you speak English	beszélsz angolul? (italbrac'informal), beszél angolul? (italbrac'formal)
+doctor	doktor
+documentation	dokumentáció
+dog	kutya; eb
+doll	baba
+dolphin	delfin
+donation	adomány
+donkey	szamár
+door	ajtó, kapu, bejárat; ajtónyílás
+dormouse	pele
+doubt	kétség
+dough	tészta
+doughnut	fánk
+dove	galamb
+dragon	sárkány
+dragonfly	szitakötő
+draw	rajzol
+dream	álmodik
+dress	öltözet; öltözék; ruha
+drink	ital
+dromedary	dromedár; egypúpú teve
+drum	dob
+drunk	ittas; részeg
+dry	száraz
+duck	kacsa
+duke	herceg
+dust	por
+duty	kötelesség
+dynamite	dinamit
+dyslexia	diszlexia
+dysprosium	diszprózium
+e.g.	pl. (például)
+each	minden, mindegyik
+eagle	sas
+eagle owl	uhu
+ear	fül
+early	korán
+earth	talaj; föld
+earthquake	földrengés
+earthworm	földigiliszta
+east	kelet
+easy	könnyű
+eat	eszik
+echo	visszhang
+eco	öko-
+ecology	ökológia
+economics	közgazdaságtan
+edit	szerkeszt
+education	nevelés; oktatás
+eel	angolna
+egg	tojás
+eight	nyolc
+eighteen	tizennyolc
+eighth	nyolcadik
+eighty	nyolcvan
+einsteinium	einsteinium
+ejaculation	magömlés; ejakuláció
+elbow	könyök
+electricity	elektromosság
+electromagnetism	elektromágnesség
+electron	elektron
+electronics	elektronika
+elephant	elefánt
+eleven	tizenegy
+elf	manó; elf; tündér; tünde
+embassy	nagykövetség
+emperor	császár; cár
+empty	üres
+encyclopedia	enciklopédia; lexikon
+end	vég
+enemy	ellenség
+energy	energia
+enjoy your meal	jó étvágyat
+enter	bemegy, belép, bejön
+epithelium	hám
+equation	egyenlet
+erbium	erbium
+erection	erekció
+ermine	hermelin
+erotic	erotikus
+etymology	etimológia; szófejtés
+euro	euró
+europium	európium
+euthanasia	eutanázia
+evening	este
+event horizon	eseményhorizont
+every	minden
+everyone	mindenki, mind#Hungarian'mind ('when it is about a previously mentioned group')
+everything	minden; mind 
+evil	gonosz
+example	példány
+expression	arckifejezés
+eye	szem
+eye for an eye, a tooth for a tooth	szemet szemért, fogat fogért
+eyebrow	szemöldök
+eyelash	szempilla
+eyelid	szemhéj
+face	arc
+factory	gyár
+fairy	tündér
+falcon	sólyom
+fall	esik
+fallow deer	dámvad; dámszarvas
+family	család
+fan	legyező
+far	messze
+farm	gazdaság; farm; birtok; földbirtok
+farmer	földműves
+fart	fingik, púzik
+fascism	fasizmus
+fast	böjt
+fat	kövér
+father	após
+fear	fél
+feather	toll
+federation	föderáció
+female	nőstény
+feminism	feminizmus
+fermium	fermium
+ferret	vadászgörény
+ferry	komp
+fever	láz
+fifteen	tizenöt
+fifth	ötödik
+fifty	ötven
+fig	füge
+fight	harcol; verekszik
+film	film
+finger	ujj
+fir	fenyő
+fire	tűz
+first	első
+fish	hal
+fist	ököl
+five	öt
+five hundred	ötszáz
+flag	zászló
+flame	láng
+flea	bolha
+floor	emelet
+flour	liszt
+flower	virág
+fluorine	fluor
+flute	fuvola
+fly	repül
+foam	hab
+fog	köd
+food	étel; ennivaló; élelmiszer
+foot	száj- és körömfájás
+football	labdarúgás; foci; futball
+for example	például
+forefinger	mutatóujj
+forehead	homlok
+foreign	külföldi
+foreigner	külfödi
+forest	erdő; erdőség
+forget	felejt; elfelejt
+fork	villa
+fortress	vár
+forty	negyven
+fountain	kút
+four	négy
+fourteen	tizennégy
+fourth	negyedik 
+fox	róka
+francium	francium
+free	ingyenes
+freedom	szabadság; függetlenség
+freedom of speech	szólásszabadság
+friend	barát
+friendship	barátság
+frog	béka
+from	-ból/-ből (elative case) -tól/-től (ablative case)
+fruit	gyümölcs
+fuck	baszik; megbasz; kúr; megkúr; dug; megdug
+full	tele
+fungus	gombaféle; gomba
+future	jövő
+gadolinium	gadolínium
+galaxy	galaxis; csillagváros
+gall bladder	epe; epehólyag
+gallium	gallium
+game	játék (m)
+garbage	szemét; hulladék
+garden	kert
+garlic	fokhagyma
+gas	gáz
+gasoline	benzin
+genitive	birtokos eset
+genocide	népirtás
+geography	természetföldrajz; földrajz
+geometry	geometria; mértan
+germanium	germánium
+geyser	gejzír
+ghost	kísértet; szellem; lélek; fantom; jelenés; rémkép
+giant	óriás
+gift	ajándék
+ginger	gyömbér
+giraffe	zsiráf
+girl	lány
+give	ad
+glacier	gleccser
+glass	pohár
+glove	kesztyű
+glue	ragasztó
+go	megy
+goalkeeper	kapus
+goat	kecske
+god	isten
+gold	arany
+golden eagle	szirti sas
+golf	golf
+gonorrhea	kankó; tripper
+good	jó
+good afternoon	jó napot (during forenoon and afternoon)
+good day	jó napot
+good evening	jó estét
+good luck	sok szerencsét; jó szerencsét
+good morning	jó reggelt
+good night	jó éjszakát
+goodbye	viszlát; viszontlátásra
+goose	lúd; liba
+gooseberry	egres
+goshawk	héja
+government	kormány
+gram	gramm
+grammar	nyelvtan
+grandchild	unoka
+grandfather	nagyapa
+grandmother	nagyanya; nagymama
+grape	szőlő
+grass	fű
+grasshopper	tücsök
+graveyard	temető
+great spotted woodpecker	nagy fakopáncs
+great tit	széncinege
+green	zöld
+green woodpecker	zöld küllő
+grey	szürke; ősz 
+grey heron	szürke gém
+greylag goose	nyári lúd
+griffon vulture	swallow
+guest	vendég
+guilt	bűn
+guinea fowl	gyöngytyúk
+guinea pig	tengerimalac
+guitar	gitár
+gull	sirály
+gunpowder	lőpor; puskapor
+gypsy	cigány
+hafnium	hafnium
+hail	jégszem; jégeső
+hair	szőr
+half	fél
+hammer	kalapács
+hammock	függőágy
+hamster	hörcsög
+hand	kéz
+hangover	másnaposság
+happen	történik
+happiness	boldogság
+happy	szerencsés
+happy birthday	boldog születésnapot, boldog szülinapot, Isten éltessen
+hard	nehéz
+hard drive	merevlemez
+hare	nyúl
+hat	kalap
+hatred	gyűlölet
+have	bír, birtokol, van -nak/-nek ('attached to owner')
+hawk	héja
+hay	széna
+hazelnut	mogyoró
+he	ő 
+head	fej
+health	egészség
+hear	hall
+heart	szív
+heaven	ég; égbolt; mennybolt
+heavy	nehéz
+hedgehog	sün; sündisznó
+heel	sarok
+helicopter	helikopter
+helium	hélium
+hell	pokol; dzsehennem; csehenem
+hello	halló
+help	segítség!
+hemp	kender
+hen	tyúk
+her	-a/-e/-ja/-je
+here	ide; erre
+hero	hős
+heron	gém; kócsag
+hi	szia
+hill	domb, kisebb hegy
+hippopotamus	víziló
+his	-a/-e/-ja/-je
+history	történet; história
+holmium	holmium
+home	otthon
+homophobia	homofóbia
+homosexuality	homoszexualitás
+honey	méz
+hoof	pata
+hope	remél
+horn	szarv
+horse	ló
+hospital	kórház
+hot	forró
+hotel	szálloda
+hour	óra
+house	ház
+how	milyen
+how are you	hogy vagy? (informal), hogy van? (formal)
+how much	hány
+how much does it cost	mennyibe kerül?
+how old are you	hány éves; hány éves vagy
+hug	ölelés
+human	ember
+human rights	emberi jogok
+humanism	humanizmus
+hundred	száz
+hungry	éhes
+hunt	vadászik
+hurricane	hurrikán
+husband	férj
+hydrate	hidrát
+hydrogen	hidrogén
+hyena	hiéna
+ibex	kőszáli kecske; vadkecske
+ice	jég
+ice cream	fagylalt
+iceberg	jéghegy
+idea	ötlet
+idiot	idióta
+if	ha; vajon
+igneous rock	magmás kőzet
+important	fontos
+in	-ban; -ben
+index	névmutató
+indium	indium
+information	felvilágosítás; tájékoztatás; információ
+injury	hátrány; sérülés
+ink	tinta
+insect	rovar (1)
+insulin	inzulin
+intelligence	intelligencia
+interesting	érdekes
+international	nemzetközi
+interpreter	tolmács
+iodine	jód
+iridium	irídium
+iron	vasal
+is	van ('not used except as 'to exist')
+island	sziget
+it	az
+jackdaw	csóka
+jay	szajkó; mátyásmadár
+jellyfish	medúza
+jihad	dzsihád
+journey	utazás
+joy	öröm
+juice	lé
+juniper	boróka
+kangaroo	kenguru
+kestrel	vércse
+ketchup	ketchup; paradicsomszósz
+key	kulcs
+keyboard	billentyűzet; klaviatúra
+kidney	vese
+kill	öl; megöl; gyilkol
+kilometre	kilométer
+king	király
+kingdom	királyság
+kiss	puszil; csókol
+kitchen	konyha
+kite	sárkány
+knee	térd
+knife	kés
+knight	huszár
+know	ismer
+koala	koala
+krypton	kripton
+ladybird	katicabogár
+ladybug	katicabogár
+lake	tó
+lamb	bárány
+land	ország; föld
+language	nyelv
+lanthanum	lantán
+large	nagy
+lark	pacsirta
+laser	lézer
+last year	tavaly
+laugh	nevet
+lava	láva
+law	törvény
+lawrencium	laurencium
+lawyer	jogász
+lazy	lusta
+lead	ólom
+leaf	levél; falevél
+leap year	szökőév
+learn	tanul
+least weasel	menyét
+leather	bőr
+leech	pióca
+leek	póréhagyma
+left	bal
+leg	láb
+lemon	citrom
+length	hossz; hosszúság
+leopard	leopárd
+lesbian	leszbia, leszbikus, leszboszi
+lesser spotted woodpecker	kis fakopáncs
+lesson	lecke
+letter	levél
+lettuce	saláta; fejes saláta
+library	könyvtár
+lie	hazudik
+life	élet
+light	könnyű
+light year	fényév
+lighthouse	világítótorony
+lightning	villám
+like	mint
+lily	liliom
+linguistics	nyelvészet; nyelvtudomány
+lion	oroszlán
+lip	ajak
+listen	hallgat
+literature	irodalom
+lithium	lítium
+litre	liter
+little	kicsi; kis
+little owl	kuvik
+live	lakik
+liver	máj 
+lizard	gyík
+lobster	homár
+long	erdei fülesbagoly
+look	néz
+look for	keres
+louse	tetű
+love	szerelem
+low	alacsony
+luck	szerencse
+lung	tüdő
+lute	lant
+lutetium	lutécium
+lynx	hiúz
+machine language	gépi kód
+mackerel	makréla
+mad	őrült
+magma	magma
+magnesium	magnézium
+magpie	szarka
+maize	kukorica
+mallard	tőkés réce; vadkacsa
+mammal	emlős (1)
+man	ember
+manganese	mangán
+mango	mangó
+many	sok
+map	térkép
+maple	juhar
+mare	kanca
+marijuana	marihuána; kender
+market	piac; vásárcsarnok
+marmot	mormota
+marten	nyuszt; nyest
+masturbation	önkielégítés; maszturbáció
+match	gyufa
+maternal grandfather	nagyapa
+mathematics	matematika
+mattress	matrac; ágybetét
+maybe	talán
+mayor	polgármester
+me	engem
+meal	étkezés
+meat	hús
+medicine	orvostudomány; orvostan
+meet	találkozik
+melon	dinnye
+memory	emlékezet
+mendelevium	mendelévium
+mercury	higany
+metal	fém; érc
+microscope	mikroszkóp
+midnight	éjfél
+midwife	bába; szülésznő
+milk	fej
+milliard	milliárd
+million	millió
+millipede	százlábú
+mind	értelem; elme; elme
+mine	bánya
+mineralogy	ásványtan
+minute	perc
+mirror	tükör
+moat	sáncárok
+mobile phone	mobiltelefon; mobil
+mole	vakond
+molecule	molekula
+molybdenum	molibdén
+moment	pillanat
+monarchy	monarchia
+monastery	kolostor
+money	pénz; fizetőeszköz
+monk	szerzetes; barát
+monkey	majom
+month	hónap
+moon	hónap
+morning	reggel
+mosque	dzsámi; mecset
+mosquito	szúnyog
+moss	moha
+moth	moly
+mother	anyós
+mother tongue	anyanyelv
+motorcycle	motorkerékpár
+mouflon	muflon
+mountain	hegy; hegység
+mouse	egér
+moustache	bajusz
+mouth	száj
+movie	film; mozi
+much	sok
+mud	sár; iszap
+mule	öszvér (1)
+murder	gyilkosság
+muscle	izom
+museum	múzeum
+mushroom	gomba
+music	zene; muzsika 
+musician	zenész; muzsikus
+muskrat	pézsma
+mustard	mustár
+my	-m; -om; -am; -em; -öm
+my name is	...(-nak/-nek) hívnak ('They call me'...)
+mysterious	titokzatos; rejtelmes; rejtélyes
+mystery	rejtély
+mythology	mitológia (f)
+nail	szög
+naked	meztelen; csupasz; pucér
+name	hírnév
+narrow	szűk
+nature	természet
+navel	köldök
+nebula	csillagköd; nebula
+neck	nyak
+necklace	nyaklánc
+needle	tű
+neighbour	szomszéd
+neodymium	neodimium
+neon	neon
+neptunium	neptúnium
+nest	fészek
+nettle	csalán
+neutrino	neutrínó
+never	soha; sohasem
+new	új
+news	hírek
+newspaper	hírlap; újság
+nickel	nikkel
+niece	unokahúg
+night	éj; éjszaka; este
+nightingale	csalogány; fülemüle
+nightmare	lidércnyomás; rémálom
+nine	kilenc
+nineteen	tizenkilenc
+ninety	kilencven
+ninth	kilencedik
+niobium	nióbium
+nipple	mellbimbó
+nitrogen	nitrogén
+no	nem
+no one	senki
+no smoking	tilos a dohányzás
+nobelium	nobélium
+nobody	senki
+nominative case	alanyeset
+non	nem kormányzati szervezet
+nonkilling	gyilkolásmentesség
+noon	dél
+north	észak
+nose	orr
+not	nem
+notebook	jegyzetfüzet
+nothing	semmi
+noun	főnév
+now	most
+number	szám
+nurse	ápoló (m); ápolónő (f); nővér (f)
+nut	dió
+oak tree	tölgy; tölgyfa
+oar	evező
+obedience	engedelmesség
+obesity	elhízás
+oboe	oboa
+ocean	óceán
+octopus	polip
+of course	persze; természetesen
+office	hivatal; iroda
+often	gyakran
+oil	olaj
+old	öreg
+on	-n/-on/-en/-ön (superessive case)
+once upon a time	egyszer volt, hol nem volt, hol volt, hol nem volt
+one	egy
+onion	hagyma
+open	nyílt; nyitott
+operating system	operációs rendszer
+opinion	vélemény, nézet, szakvélemény
+or	vagy
+orange	narancsfa
+organ	szerv
+organism	organizmus; élőlény
+orgasm	orgazmus
+orphan	árva
+osmium	ozmium
+ostrich	strucc
+other	másik; más
+otter	vidra
+our	-nk/-unk/-ünk
+owl	bagoly
+ox	ökör
+oxygen	oxigén
+page	lap
+pain	fájdalom; kín
+paint	festék
+painter	festő
+palace	palota
+palladium	palládium
+palm	tenyér
+pancreas	hasnyálmirigy
+pants	nadrág
+paper	papír
+paradox	paradoxon
+park	park
+parliament	országgyűlés; parlament
+parrot	papagáj
+part	rész
+partridge	fogoly
+party	összejövetel; zsúr; buli; parti
+passport	útlevél
+password	jelszó
+paternal aunt	nagynéni
+paternal grandfather	nagyapa
+pawn	gyalog; paraszt
+peace	békesség; nyugalom
+peach	őszibarack
+peacock	páva
+peanut	földimogyoró; amerikai mogyoró
+pear	körtefa
+pen	toll; akol
+pencil	ceruza
+penguin	pingvin
+penicillin	penicillin
+peninsula	félsziget
+penis	pénisz; hímvessző
+people	nép
+pepper	bors
+percent	százalék
+peregrine falcon	vándorsólyom
+perestroika	peresztrojka
+perhaps	talán
+perineum	gát; perineum
+periodic table	periódusos rendszer
+person	személy; egyén
+petrol	benzin
+petroleum	kőolaj
+pharaoh	fáraó
+pharmacy	gyógyszertár; patika
+pheasant	fácán
+philosopher	filozófus
+phoenix	főnix
+phosphorus	foszfor
+photograph	fotó; fénykép
+photography	fényképezés
+physics	fizika
+piano	zongora
+picture	kép
+pie	pite
+piece	darab
+pig	sertés; disznó; malac
+pigeon	galamb
+piglet	malac
+pillow	párna; vánkos
+pimple	pattanás
+pin	tű
+pine	fenyő
+pineapple	ananász
+pink	rózsaszín; rózsaszínű
+pirate	kalóz
+place	hely
+planet	bolygó; planéta
+plant	növény
+plate	tányér
+platinum	platina
+platypus	kacsacsőrű emlős
+play	játék
+please	kérem, legyen szíves, légy szíves
+pleasure	gyönyörűség
+plough	eke
+plum	szilvafa
+plutonium	plutónium
+pocket	zseb
+poem	vers
+poetry	költészet
+poison	méreg
+polar bear	jegesmedve
+polecat	görény
+police	rendőrség
+policeman	rendőr (m); rendőrnő (f)
+polite	udvarias
+politician	politikus
+politics	politika
+polonium	polónium
+polygon	poligon; sokszög
+pomegranate	gránátalma
+poor	szegény
+pope	pápa
+poplar	nyár
+pornography	pornográfia
+port	kikötő
+post office	posta
+postage stamp	postabélyeg
+postcard	képeslap
+postcode	irányítószám
+postmodernism	posztmodern
+potassium	kálium
+pound	font
+power	erő
+praseodymium	prazeodímium
+prayer	ima
+pregnancy	terhesség
+pregnant	terhes
+prepuce	fityma; előbőr
+president	elnök
+pretty	csinos
+price	ár
+priest	pap
+prime minister	miniszterelnök
+prime number	prímszám
+prison	börtön
+problem	probléma; baj; gond
+profession	foglalkozás; hivatás; szakma
+programming language	programozási nyelv
+promethium	prométium
+pronoun	névmás
+property	tulajdon
+prophet	próféta
+prostitute	prostituált; prosti (f); (f)
+protactinium	protaktínium
+protect	védeni
+proton	proton
+proverb	közmondás
+pumpkin	tök
+puppy	kiskutya, kölyökkutya
+purple	bíbor; lila
+push	tol; megtol; lök
+pyramid	piramis
+quail	fürj
+quarter	negyed
+queen	királynő
+question	kérdés
+quotation marks	idézőjel [„◌”]
+rabbit	nyúl
+raccoon	mosómedve
+radio	rádió
+radon	radon
+railway	vasút
+rain	eső
+rainbow	szivárvány
+rake	gereblye
+ram	kos
+rape	erőszakos közösülés
+raspberry	málna
+rat	patkány
+raven	holló
+read	felolvas
+recent	nem régi
+recipe	recept
+rectangle	téglalap
+red	piros; vörös
+red deer	szarvas
+refrigerator	hűtőszekrény; frizsider
+reindeer	rénszarvas
+relative	rokon
+religion	vallás
+remember	emlékszik; emlékezik 
+reptile	hüllő
+republic	köztársaság
+restaurant	étterem; vendéglő
+revenge	bosszú
+rhenium	rénium
+rhinoceros	rinocérosz
+rhodium	ródium
+rice	rizs
+rich	gazdag
+rifle	puska; karabély
+right	helyes
+ring	gyűrű
+river	folyó; folyam
+road	út, közút
+robot	robot
+rock dove	szirti galamb
+rodent	rágcsáló
+roe deer	őz
+roof	tető; háztető
+rook	bástya
+room	tér; hely
+root	ok
+rope	kötél
+rose	rózsa
+rubidium	rubídium
+ruble	rubel
+run	fut
+ruthenium	ruténium
+rye	rozs
+sad	szomorú
+salary	fizetés
+saliva	nyál
+salmon	lazac
+salt	só
+samarium	szamárium
+same	ugyanaz; ugyanez; ugyanolyan; ugyanilyen
+sand	homok
+sandwich	szendvics
+sauce	szósz; mártás
+sausage	kolbász
+saw	fűrész
+say	mond
+scandium	szkandium
+scar	forradás; heg; sebhely
+schizophrenia	skizofrénia
+school	egyetem '(university)', főiskola '(college)'
+science	tudomány
+scissors	olló
+scorpion	skorpió
+screech owl	gyöngybagoly
+scrotum	herezacskó
+sea	tenger
+seal	fóka
+season	évszak
+second	második
+secret	titok
+see	lát
+seed	mag
+selenium	szelén
+sell	ad; elad; árul
+semen	ondó
+send	küld
+sentence	mondat
+service	szolgálat; szolgáltatás
+seven	hét
+seventeen	tizenhét
+seventh	hetedik
+seventy	hetven
+sex	nem
+sexual orientation	szexuális irányultság
+shadow	árny; árnyék
+shame	szégyen
+shark	cápa
+sharp	éles
+she	ő 
+sheep	juh; birka
+shepherd	pásztor; juhász
+ship	hajó
+shirt	ing
+shit	szarik
+shoe	cipő
+shop	bolt; üzlet
+shore	part
+shoulder	váll
+shrew	cickány
+sick	beteg
+sickle	sarló
+silence	csend; csönd
+silicon	szilícium
+silk	selyemszál
+silver	ezüst
+simple	egyszerű
+sin	bűn; vétség
+sing	énekel
+singer	énekes (m); énekesnő (f)
+sister	nővér; húg 
+sit	ül
+six	hat
+sixteen	tizenhat
+sixth	hatodik
+sixty	hatvan
+skeleton	csontváz
+skin	bőr
+skirt	szoknya; alj
+skull	koponya
+sky	ég; égbolt
+skylark	mezei pacsirta
+skyscraper	felhőkarcoló
+slave	rabszolga
+sleep	alvás
+slow	lassú
+small	kicsi; kis
+smell	szag; illat; bűz 
+smile	mosolyog
+smoke	füst
+snail	csiga
+snake	kígyó
+sneeze	tüsszent
+snooker	sznúker
+snow	hó
+snow leopard	hópárduc
+snowflake	hópehely; hópihe
+soap	szappan
+soccer	labdarúgás; futball; foci 
+socialism	szocializmus
+sock	zokni
+sodium	nátrium
+sofa	dívány
+software	szoftver
+solar wind	napszél
+soldier	katona
+someone	valaki
+something	valami
+sometimes	néha
+son	vő 
+song	ének; dal
+soon	hamar; nemsokára; mindjárt
+sorry	elnézést; elnézést kérek; bocsánat; bocs 
+soul	lélek; önvaló
+sound	hang
+soup	leves
+sour	savanyú
+south	dél
+spacecraft	űreszköz
+spaceship	űrhajó
+spacetime	téridő
+spade	ásó
+sparrow	veréb
+sparrow hawk	karvaly
+speak	beszél
+spectacles	szemüveg
+speech	beszéd
+sphere	gömb
+spice	fűszer
+spider	pók
+spinach	spenót
+spirit	szellem; lélek
+spit	köp
+spleen	lép
+spoon	kanál
+sport	sport
+spring	rugó
+spruce	lucfenyő; luc
+spy	kém; spion
+square	tér
+squid	tintahal
+squirrel	mókus
+stand	áll
+star	sztár
+starling	seregély
+station	állomás
+statue	szobor
+steel	acél
+stomach	has
+stone	kavics
+stork	gólya, eszterag (rare)
+story	történet; elbeszélés
+strange	különös; furcsa; különleges
+strawberry	eper; földieper; szamóca
+street	utca
+strength	erő
+string	zsineg; zsinór; madzag; spárga
+strong	erős
+strontium	stroncium
+student	hallgató; tanuló; diák
+submarine	tengeralattjáró
+suck	szopik
+suddenly	hirtelen
+sugar	cukor
+suicide	öngyilkosság
+sulfur	kén
+summer	nyár
+sun	nap
+sunflower	napraforgó
+surname	vezetéknév
+swallow	nyel
+swan	hattyú
+sweet	édes
+swim	úszik
+swimming pool	uszoda; úszómedence
+sword	kard
+system	rendszer; szisztéma
+table	táblázat
+tadpole	ebihal
+taiga	tajga
+tail	farok
+tailor	szabó
+talent	tehetség
+talk	beszél; beszélget
+tank	harckocsi; tank
+tantalum	tantál
+tattoo	tetoválás; tetkó
+tawny owl	macskabagoly
+taxi	taxi
+tea	tea
+teach	tanít, 'transitive:' megtanít
+teacher	tanár; tanárnő; tanító; tanítónő; oktató; pedagógus
+tear	könny
+technetium	technécium
+telephone	telefonál
+telescope	teleszkóp
+television	televízió
+tellurium	tellúr
+temple	templom
+ten	tíz
+tent	sátor
+tenth	tizedik
+terbium	terbium
+terrorism	terror
+terrorist	terrorista
+testicle	here
+thallium	tallium
+than	mint
+thank you	köszönöm; köszönjük 
+thank you very much	köszönöm szépen; nagyon szépen köszönöm
+thanks	köszönöm 
+that	az; azok
+the	a; az 
+their	-uk/-ük/-juk/-jük
+then	akkor
+there	ott
+there is	van; vannak; létezik; léteznek
+they	ők
+thief	tolvaj
+thigh	comb; felsőcomb
+thimble	gyűszű
+thing	dolog
+think	gondolkodik
+third	harmadik
+thirst	szomjúság; szomj
+thirsty	szomjas
+thirteen	tizenhárom
+thirty	harminc
+this	ez a (s), ezek a (p)
+thorium	tórium
+thorn	tüske; tövis
+thou	te
+thought	gondolat
+thousand	ezer
+thread	cérna
+three	három
+throat	torok
+thulium	túlium
+thumb	hüvelykujj
+thunder	mennydörgés; égzengés
+tiger	tigris
+time	alkalom
+tin	ón
+tired	fáradt
+titanium	titán
+to	-hoz/-höz/-hez (allative, arriving at), felé (postposition, in the direction of)
+toad	varangy; varangyos béka
+tobacco	dohány
+today	ma; manapság
+toe	lábujj
+together	együtt
+toilet	WC
+tomato	paradicsom
+tomorrow	holnap
+tongue	nyelv
+too	túl
+tooth	fog
+toothbrush	fogkefe
+torch	fáklya
+tortoise	teknősbéka; teknős
+touch	érint; megérint; hozzányúl
+tourism	turizmus
+tower	torony
+town	város
+toy	játék
+tradition	hagyomány; tradíció
+train	vonat
+tram	villamos
+translate	fordít; lefordít
+translation	fordítás
+translator	fordító
+travel	utazik
+tree	fa
+triangle	háromszög
+tribe	törzs
+trousers	nadrág
+trout	pisztráng
+truck	teherautó
+true	igaz
+trumpet	trombita
+tsar	cár
+tsunami	cunami; szökőár
+tungsten	volfrám
+turkey	pulyka
+turtle	teknősbéka; teknős
+turtle dove	vadgerle; gerle
+twelve	tizenkettő
+twenty	huszonöt
+twin	iker
+two	kettő; két
+two hundred	kétszáz
+typhoon	tájfun
+umbrella	esernyő
+uncle	nagybácsi
+understand	ért; felfog
+unemployment	munkanélküliség
+universe	világegyetem
+university	egyetem
+uranium	urán
+urethra	húgycső
+urine	vizelet
+use	használ
+useful	hasznos
+vagina	hüvely; vagina
+valley	völgy
+vampire	vámpír
+vanadium	vanádium
+vegetable	zöldség
+verb	ige
+very	nagyon
+victory	győzelem; diadal
+village	falu
+vinegar	ecet
+violet	ibolya
+violin	hegedű
+virgin	szűz
+virus	vírus
+visa	vízum
+vodka	vodka
+voice	hang
+volcano	vulkán; tűzhányó
+volleyball	röplabda
+volt	volt
+vulture	keselyű
+wait	vár
+waiter	pincér
+wake up	felébred
+walk	járni; menni
+wall	fal
+walrus	rozmár
+want	akar
+war	háború
+warm	meleg
+wart	szemölcs
+wash	mos; kimos
+wasp	darázs
+watch	óra
+water	víz
+waterfall	vízesés
+watermelon	görögdinnye
+wave	hullám
+wax	viasz
+way	út
+we	mi
+weapon	fegyver
+weather	időjárás; idő
+web site	webhely
+wedding	esküvő; nász
+week	hét
+weekend	hétvége; víkend
+welcome	Isten hozott 
+well	kút
+werewolf	farkasember; vérfarkas
+west	nyugat
+wet	nedves
+whale	bálna; cet
+what	mi
+what time is it	hány óra? mennyi az idő?
+wheat	búza
+wheel	kerék
+when	mikor
+where	hol; honnan
+where is the toilet	hol van az illemhely?
+whip	felhúzókötél
+whiskey	whisky
+white	fehér
+who	ki; kik
+whole	egész
+whore	kurva
+why	miért
+wide	széles
+widow	özvegy; özvegyasszony
+wife	asszony; feleség
+wild boar	vaddisznó
+wildcat	vadmacska
+willow	fűzfa
+wind	szél
+window	ablak
+wine	bor
+wing	szárny
+winter	tél
+wise	bölcs
+wisent	európai bölény
+wish	kíván
+witch	boszorka, boszorkány
+without	nélkül
+wolf	farkas
+woman	nő; asszony
+wood	fa
+woodpecker	harkály; fakopáncs
+wool	gyapjú
+word	szó
+work	munka
+workers of the world, unite	világ proletárjai, egyesüljetek!
+world	világ
+worm	kukac
+wrist	csukló
+write	ír
+writer	író
+xenon	xenon
+xenophobia	xenofóbia
+yawn	ásít
+year	év
+yeast	élesztő
+yellow	sárga
+yes	igen
+yesterday	tegnap
+yoga	jóga
+yoghurt	joghurt
+yolk	tojássárgája; sárgája
+you	(familiar) ti, (polite) önök
+young	fiatal; ifjú
+your	-tok/-tek/-tök (informal), -a/-e/-ja/-je (formal)
+ytterbium	itterbium
+yttrium	ittrium
+zebra	zebra
+zero	nulla; zéró
+zinc	cink

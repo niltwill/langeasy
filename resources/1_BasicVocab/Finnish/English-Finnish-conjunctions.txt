@@ -1,0 +1,8 @@
+﻿English	Finnish
+and	ja
+because	koska
+for	sillä
+if	jos
+or	vai
+than	kuin
+until	asti

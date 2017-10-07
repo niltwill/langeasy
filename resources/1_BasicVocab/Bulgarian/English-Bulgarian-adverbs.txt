@@ -1,0 +1,56 @@
+﻿English	Bulgarian
+about	навсякъде
+above	над
+again	отново
+almost	почти
+along	покрай
+already	преди
+always	винаги
+approximately	приблизително
+behind	зад
+between	между
+directly	направо
+early	рано
+either	всеки
+enough	достатъчно
+exactly	подходящ
+first	първо
+generally	обичайно
+here	тук
+here	тук
+however	обаче
+immediately	веднага
+indeed	използва се за подсилване
+inside	от вътре
+instead	в замяна
+late	късно
+little	малък
+merely	само
+not	не е
+obviously	до колкото се вижда
+often	често
+once	веднъж
+particularly	особено
+please	моля (mólja)
+possibly	може би
+probably	навярно
+quickly	бързо
+really	действително
+really	много
+recently	на скоро
+slowly	бавно
+soon	не след дълго
+still	все още
+such	подобен
+surely	определено
+then	тогава
+there	натам (natam), нататък (natatäk)
+today	днес
+together	заедно
+tomorrow	утре
+tonight	довечера
+too	също
+usually	обикновено
+very	наистина
+well	добре
+why	защо

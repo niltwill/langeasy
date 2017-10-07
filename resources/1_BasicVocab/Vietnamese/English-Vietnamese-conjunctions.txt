@@ -1,0 +1,8 @@
+﻿English	Vietnamese
+and	và
+because	bởi vì
+for	bởi vì
+if	nếu
+or	hoặc
+than	hơn
+until	trước khi

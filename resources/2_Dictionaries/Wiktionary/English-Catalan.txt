@@ -1,0 +1,2061 @@
+English	Catalan
+AIDS	Sida (f)
+Abidjan	Abidjan
+Abkhaz	abkhaz
+Abraham	Abraham (m)
+Adam	Adam
+Aegean Sea	Mar Egea
+Afghanistan	(m)
+Africa	Àfrica (f)
+Afrikaans	afrikaans
+Alaska	Alaska (f)
+Albania	Albània (f)
+Albanian	albanès (m)
+Alberta	Alberta
+Alexander	Alexandre
+Algeria	Algèria (f)
+Algiers	Alger (m)
+Allah	Al·là
+American bison	bisó americà
+Amsterdam	Amsterdam
+Amur	Amur#Catalan'Amur
+Andorra	Andorra (f)
+Andrew	Andreu
+Anglo	anglosaxó (m)
+Angola	Angola
+Antarctica	Antàrtida (f)
+Antigua and Barbuda	Antigua i Barbuda
+April	abril (m)
+Arab Republic of Egypt	República Àrab d'Egipte (f)
+Argentina	Argentina (f)
+Argonaut	Argonauta
+Arkhangelsk	Arkhànguelsk
+Armenia	Armènia (f)
+Armenian	armeni (m); armènia (f)
+Asclepius	Asclepi
+Asia	Àsia (f)
+Athena	Atena (f)
+August	agost (m)
+Australia	Austràlia (f)
+Austria	Àustria (f)
+Aymara	aimara
+Azerbaijan	Azerbaidjan (m)
+Bahamas	Bahames (p)
+Bahrain	Bahrain (m)
+Baku	Bakú
+Balearic Islands	Illes Balears
+Bambara	bamana; bamanakan; bambara; bamanaia; baumana
+Barbados	Barbados (m)
+Bashkir	baixkir
+Beijing	Pequín
+Beirut	Beirut
+Belarus	Bielorússia (f)
+Belarusian	bielorús; bielorrús
+Belgium	Bèlgica (f)
+Belgrade	Belgrad
+Belize	Belize (m)
+Belorussian	bielorús, bielorrús
+Berlin	Berlín
+Bermuda	Bermudes
+Bible	Bíblia (f)
+Black Sea	Mar Negra (f)
+Bolivia	Bolívia (f)
+Bosnia	Bòsnia (f)
+Bosnia and Herzegovina	Bòsnia i Hercegovina (f)
+Bosphorus	Bòsfor (m)
+Brazil	Brasil
+Breton	bretó (m)
+Brussels	Brussel·les
+Bucharest	Bucarest
+Bulgaria	Bulgària (f)
+Bulgarian	búlgar (m)
+Burma	Birmània (f)
+Byzantine Empire	Imperi Bizantí
+Cairo	Caire (m)
+Canada	Canadà
+Cape Verde	Cap Verd (m)
+Carthage	Cartago
+Caspian Sea	Mar Càspia
+Catalan	català (m)
+Caucasus	Caucas (m)
+Central African Republic	República Centreafricana (f)
+Chad	Txad (m)
+Chile	Xile (m)
+China	Xina (f)
+Chinese	xines (m); xinesa (f); xinesos (m); xineses (f)
+Christianity	cristianisme (m)
+Christmas	Nadal (m)
+Christmas tree	arbre de Nadal
+Christopher	Cristòfol
+Cinderella	Ventafocs (f)
+Coca	Coca-Cola (f)
+Colombia	Colòmbia (f)
+Constantinople	Constantinoble
+Costa Rica	Costa Rica (f)
+Crimea	Crimea (f)
+Croatia	Croàcia
+Croatian	croat (m)
+Cuba	Cuba (f)
+Cyprus	Xipre
+Cyrillic alphabet	alfabet ciríl·lic (m)
+Czech	Txec (m); Txeca (f)
+Czech Republic	República Txeca (f)
+Czechia	Txèquia (f)
+Damascus	Damasc
+Danish	danès (m)
+Danube	Danubi
+Dead Sea	Mar Morta (f)
+December	desembre (m)
+Denmark	Dinamarca (f)
+Djibouti	Djibouti
+Donald Duck	Ànec Donald
+Dutch	neerlandès (m); neerlandesa (f); holandès (m); holandesa (f)
+Earth	Terra (f)
+Easter	Pasqua (f); Pasqua de Resurrecció (f)
+Easter Island	Illa de Pasqua (f)
+Eastern Europe	Europa de l'Est (f)
+Ecuador	Equador (m)
+Edmonton	Edmonton
+Egypt	Egipte (m)
+England	Anglaterra (f)
+English	anglès (m); anglesa (f)
+Equatorial Guinea	Guinea Equatorial (f)
+Esperanto	esperanto (m)
+Estonia	Estònia
+Ethiopia	Etiòpia (f)
+Eurasia	Euràsia (f)
+Europe	Europa (f)
+European Union	Unió Europea (f)
+European bison	bisó europeu
+Faroe Islands	illes Fèroe (f)
+Faroese	feroès (m)
+February	febrer (m)
+Finland	Finlàndia (f)
+Finnish	finès (m); finlandès (m)
+France	França (f)
+Francis	Francesc; Francés
+Frederick	Frederic
+French	(m)
+Friday	divendres (m)
+GDP	PIB
+Ganges	Ganges
+Gaza Strip	franja de Gaza (f)
+Geneva	Ginebra
+George	Jordi
+Georgia	Geòrgia (f)
+Georgian	georgià (m)
+German	alemany (m) <!-- alemanya (f) -->
+German Shepherd	pastor alemany (m)
+Germany	Alemanya (f); Alemània (f)
+Ghent	Gant
+Gibraltar	Gibraltar (m)
+Gnosticism	gnosticisme (m)
+Goa	Goa
+Great Britain	Gran Bretanya (f)
+Great Pyramid of Giza	piràmide de Kheops (f)
+Greece	Grècia (f)
+Greek	grec (m); grega (f)
+Greenland	Grenlàndia (f)
+Guatemala	Guatemala (f)
+Gujarati	gujarati (m)
+Gulf of Finland	Golf de Finlàndia
+Haiti	Haití (f)
+Happy Easter	Bona Pasqua
+Happy New Year	feliç any nou; bon any
+Hebrew	hebreu (m)
+Hezbollah	Hesbol·là
+Hindi	hindi
+Hokkaido	Hokkaidō
+Holland	(els) Països Baixos (m'p), Holanda (f)
+Holocaust	holocaust (m)
+Holy Spirit	Esperit Sant (m)
+Honduras	Hondures (f)
+Hong Kong	Hong Kong
+Hungarian	hongarès (m); hongaresa (f)
+Hungary	Hongria (f)
+I	jo
+I have a question	tinc una pregunta
+I love you	t'estimo; t'estime; t'estim
+Iceland	Islàndia (f)
+India	Índia (f)
+Indonesia	Indonèsia (f)
+Indonesian	indonesi (m)
+Interlingua	interlingua (f)
+Internet	Internet (f)
+Iran	Iran (m)
+Iraq	Iraq (m)
+Ireland	Irlanda (f)
+Irish	irlandès (m); gaèlic irlandès (m)
+Islam	islamisme, islam
+Israel	Israel (m)
+Italian	italià
+Italy	Itàlia (f)
+Jamaica	Jamaica
+James	Jaume, Xaume
+January	gener (m)
+Japan	Japó (m)
+Japanese	japonès (m), japonesa (f)
+Jerusalem	Jerusalem
+Jesus	Jesús (m)
+Jew	jueu (m), jueva (f)
+Jewish	jueu
+John	Joan
+Jordan	Jordània (f)
+Joseph	Josep (m)
+Judaism	judaisme (m)
+July	juliol (m)
+June	juny (m)
+Jupiter	Júpiter (m)
+Kannada	kanara
+Karnataka	Karnataka
+Kazakhstan	Kazakhstan
+Khartoum	Khartum (m)
+Khrushchev	Khruixtxov
+Korea	Corea (f)
+Korean	coreà (m)
+Kosovo	Kosovo (m)
+Kurdish	kurd
+Kyoto	Kyoto (m)
+Kyrgyzstan	Kirguizistan (m)
+Latin	llatí
+Latin alphabet	alfabet llatí (m)
+Latvia	Letònia (f)
+Latvian	letó (m)
+Leo	Lleó
+Liberia	Libèria
+Libya	Líbia (f)
+Liechtenstein	Liechtenstein
+Lisbon	Lisboa (f)
+Lithuania	Lituània (f)
+Lithuanian	lituà
+London	Londres
+Luxembourg	Luxemburg (m)
+Lyons	Lió
+Macedonia	Macedònia (f); República de Macedònia (f)
+Magna Carta	Magna Carta (f)
+Malaysia	Malàisia (f)
+Maldives	Maldives
+Malta	Malta (f)
+Man	home#Catalan'home (m), humà (m)
+Manchuria	Manxúria (f)
+Maoism	maoisme (m)
+March	març (m)
+Marshall Islands	illes Marshall (f)
+Mary	Maria
+Matthew	Mateu
+Mauritania	Mauritània (f)
+May	maig (m)
+Mediterranean Sea	Mar Mediterrània (f); Mar Mediterrani (m); Mediterrània (f); Mediterrani (m)
+Mercury	Mercuri (m)
+Merry Christmas	bon Nadal
+Merry Christmas and a Happy New Year	Bon Nadal i Feliç Any Nou
+Mexico	Mèxic (m)
+Mexico City	ciutat de Mèxic (f); Mèxic (m)
+Michael	Miquel
+Moldova	Moldàvia (f)
+Monaco	Mònaco (m)
+Monday	dilluns (m)
+Mongolia	Mongòlia (f)
+Mongolian	mongol
+Montenegro	Montenegro (m)
+Morocco	Marroc (m)
+Moscow	Moscou (f)
+Moses	Moisès
+Muhammad	Mahoma
+Mumbai	Bombai
+Munich	Munic (m)
+Muslim	musulmà
+NATO	OTAN (f)
+Namibia	Namíbia
+Naypyidaw	Naypyidaw
+Nepal	Nepal (m)
+Neptune	Neptú (m)
+Netherlands	(m) Holanda (f)
+New Guinea	Nova Guinea (f)
+New York City	Nova York
+New Zealand	Nova Zelanda
+Nicaragua	Nicaragua (f)
+Nicholas	Nicolau, Micolau
+Nizhny Novgorod	Nijni Nóvgorod
+North America	Amèrica del Nord (f)
+North Korea	Corea del Nord (f)
+North Sea	Mar del Nord#Catalan'Mar del Nord
+Northern Europe	Europa del Nord
+Norway	Noruega (f)
+Norwegian	noruec (m)
+November	novembre (m)
+Occitan	occità (m); llengua d’oc (f)
+Oceania	Oceania (f)
+October	octubre (m)
+Olympic Games	Jocs Olímpics (m'p)
+Pacific Ocean	Oceà Pacífic (m)
+Pakistan	Pakistan
+Palestine	Palestina (f)
+Panama	Panamà (m)
+Papua New Guinea	Papua Nova Guinea (f)
+Paris	París (m)
+Paul	Pau (m)
+Persephone	Persèfone (f)
+Persian	persa (m); farsi (m)
+Philippines	Filipines (f)
+Pichilemu	Pichilemu; Pitxilemu
+Pisces	Peixos
+Pleiades	Plèiades
+Poland	Polònia (f)
+Polish	polonès
+Portugal	Portugal (m)
+Portuguese	portugès (m); portugesa (f); portugalès (m); portugalesa (f)
+Pythagoras	Pitàgores
+Quidditch	Quidditch
+Red Sea	mar Roja (f); mar Roig (m)
+Richard	Ricard (m)
+Roma	romaní; romanís
+Roman	romà (m); romana (f)
+Roman Empire	Imperi romà :ca:Imperi romà'(ca)
+Romania	Romania (f)
+Romanian	romanès (m)
+Russia	Rússia (f)
+Russian	rus (m); russa (f)
+San Marino	San Marino (m)
+Sanskrit	sànscrit (m)
+Santa Claus	Pare Noel (m)
+Satan	Satanàs (m)
+Saturday	dissabte (m)
+Saudi Arabia	Aràbia Saudita (f)
+Scotland	Escòcia (f)
+September	setembre
+Serb	serbi (m); sèrbia (f)
+Serbia	Sèrbia (f)
+Serbia and Montenegro	Sèrbia i Montenegro
+Serbian	serbi (m); sèrbia (f)
+Seychelles	Seychelles (f)
+Shanghai	Xangai
+Shinto	xintoisme
+Siberia	Sibèria (f)
+Sicily	Sicília
+Singapore	Singapur
+Slav	eslau (m); eslava (f)
+Slavic	eslau
+Slovakia	Eslovàquia (f)
+Slovene	eslovè
+Slovenia	Eslovènia
+Snow White	Blancaneus (f)
+Solar System	sistema solar (m)
+Sophocles	Sòfocles (m)
+South Africa	Sud-àfrica (f), Àfrica del Sud (f)
+South America	Amèrica del Sud (f)
+South Korea	Corea del Sud (f)
+South Ossetia	Ossètia del Sud (f)
+South Sudan	Sudan del Sud (m)
+Southeast Asia	Àsia Sud-oriental (f)
+Spain	Espanya (f)
+Spanish	espanyol
+Sparta	Esparta
+Sri Jayawardenepura Kotte	Sri Jayewardenepura
+Sri Lanka	Sri Lanka (f)
+Sudan	Sudan (m)
+Sunday	diumenge (m)
+Sweden	Suècia (f)
+Swedish	suec
+Switzerland	Suïssa (f)
+Syria	Síria
+Taiwan	Taiwan
+Tajikistan	Tadjikistan (m) (Tadžikistán)
+Tallinn	Tallinn
+Tanganyika	Llac Tanganyika
+Tanzania	Tanzània (f)
+Tbilisi	Tbilisi
+Tel Aviv	Tel Aviv
+Telugu	telugu
+Ten Commandments	Deu Manaments (m'p)
+Thai	thai (m); tai (m)
+Thailand	Tailàndia (f)
+Thames	Tàmesi
+The Hague	la Haia (f)
+Thomas	Tomàs
+Thursday	dijous (m)
+Transnistria	Transnístria (f)
+Transylvania	Transsilvània (f)
+Trotskyism	trotskisme (m)
+Tuesday	dimarts (m)
+Tunisia	Tunísia (f)
+Turkey	Turquia (f)
+Turkish	turc (m)
+Turkmenistan	Turkmenistan (m)
+USA	EUA (m)
+USSR	URSS (f)
+Ukraine	Ucraïna (f)
+Ukrainian	ucraïnès (m)
+United Kingdom	Regne Unit (m); Regne Unit de la Gran Bretanya i Irlanda del Nord (m)
+United States	Estats Units (m)
+United States of America	Estats Units d'Amèrica (m)
+Uruguay	Uruguai (m)
+Valkyrie	valquíria
+Vatican City	Ciutat del Vaticà (f); (m)
+Venezuela	Veneçuela (f)
+Venus	Venus
+Vishnu	Vixnu
+Wales	Gal·les (m); pais de Gal·les (m)
+Warsaw	Varsòvia (f)
+Wednesday	dimecres (m)
+Western Europe	Europa Occidental (f)
+Western Sahara	Sàhara Occidental (m)
+White House	Casa Blanca (f)
+Wikipedia	Viquipèdia
+Wiktionary	Viccionari (m)
+Wiktionary:Usability/flag	bandera
+William	Guillem (m)
+World War II	Segona Guerra Mundial (f)
+Wroclaw	Wrocław
+Yangtze	Iang-Tsé
+Yaoundé	Yaoundé
+Yekaterinburg	Iekaterinburg
+Yellow Sea	Mar Groga (f)
+Yemen	Iemen
+Yerevan	Erevan
+Yiddish	jiddisch (m)
+Zealand	Sjælland
+Zoroastrianism	Zoroastrisme
+a little	una mica; poc
+aardvark	porc formiguer (m)
+abacus	àbac (m)
+abandon	abandonar
+abbot	abat
+abbreviation	abreviatura (f)
+abdomen	abdomen (m); buc (m); panxa (f); ventre
+absolute zero	zero absolut (m)
+accordion	acordió (m)
+acid	àcid (m)
+acorn	gla (f)
+actinium	actini
+actor	actor (m); actriu (f)
+actress	actriu (f)
+address	adreça (f)
+adjective	adjectiu
+adverb	adverbi (m)
+aeroplane	avió (m)
+after	després de; acabat de; en acabat de
+afternoon	tarda (f)
+again	una altra vegada; de nou
+age	edat (f)
+aggressive	agressiu
+ago	fa
+agriculture	agricultura (f)
+air	aire (m)
+aircraft	aeronau (f)
+airport	aeroport (m)
+al	Al-Qaida
+alarm clock	despertador (m)
+alchemist	alquimista (m)
+alcohol	alcohol (m)
+algebra	àlgebra (f)
+algorithm	algorisme (m)
+alkyne	alquí (m)
+all	tot; tota; tots; totes 
+all rights reserved	tots els drets reservats
+alligator	al·ligàtor (m)
+almond	ametlla
+almost	gairebé; quasi
+alphabet	alfabet (m); abecedari (m)
+already	ja
+aluminium	alumini
+always	sempre
+amber	ambre
+ambulance	ambulància (f)
+americium	americi
+ampersand	i comercial (f); et (m)
+an	un (m), una (f)
+anal sex	sexe anal (m)
+anarchism	anarquisme (m)
+anchor	àncora (f)
+and	i#Catalan'i
+anger	ira (f); còlera (f); ràbia (f); enfat (m); enuig (m)
+angry	enfadat; enutjat
+animal	animal (m)
+anime	anime
+ankle	turmell (m)
+answer	resposta (f)
+ant	formiga (f)
+antelope	antílop (m)
+anthrax	àntrax (m)
+antimony	antimoni (m)
+antonym	antònim (m)
+anus	anus (m)
+anvil	enclusa (f)
+apartment	pis (m)
+apple	poma (f)
+apple tree	pomer (m); pomera (f)
+apricot	albercoc, (m)
+archipelago	arxipèlag (m)
+architect	arquitecte (m)
+architecture	arquitectura
+argent	plata (f), argent (m)
+argon	argó (m)
+arm	braç (m), braços (p)
+armpit	aixella (f); axil·la (f)
+army	exèrcit (m)
+arrow	fletxa (f); sageta (f)
+arsenic	arsènic
+artichoke	carxofera (f)
+article	article (m)
+ash	cendra (f)
+ask	demanar
+ass	cul (m)
+astatine	àstat
+asteroid	asteroide#Catalan'asteroide
+astronomical unit	unitat astronòmica (f)
+astronomy	astronomia (f)
+astrophysics	astrofísica (f)
+at	a
+at sign	arrova (f)
+atheism	ateisme (m)
+atom	àtom (m)
+aubergine	albergínia (f)
+aunt	tia
+autumn	tardor (m)
+avalanche	allau
+awake	llevar-se
+axe	destral (f); atxa (f)
+baby	nadó (m)
+babysitter	cangur; cuidar nens
+back	esquena (f)
+backgammon	backgammon (m)
+bad	mal; dolent
+badger	teixó (m)
+bag	bossa (f)
+bakery	fleca (f); forn (m)
+balcony	balcó (m)
+bald	calb
+balloon	globus (m), baló (m)
+banana	banana (f); plàtan (m)
+bank	banc (m)
+banknote	bitllet (m)
+barcode	codi de barres
+barium	bari
+bark	escorça (f)
+barley	ordi (m)
+barn owl	òliba
+basalt	basalt (m)
+basket	cistell (m), cistella (f)
+basketball	bàsquet (m); basquetbol (m)
+bassoon	fagot (m)
+bat	muricec (m); ratpenat (m); ratapinyada (f)
+battery	bateria (f)
+battle	batalla (f)
+bay	badia (f)
+bayonet	baioneta
+be	ésser
+beach	platja (f)
+beak	bec (m)
+bear	parir
+beard	barba (f)
+beautiful	(m) bonica (f)
+beauty	bellesa (f)
+beaver	castor
+because	perquè; ja que; car; puix; puix que
+become	esdevenir
+bed	llit (m)
+bedroom	dormitori (m); cambra (f)
+bee	abella (f)
+beech	faig
+beef	vedella (f)
+beer	cervesa (f), birra (f) (dialect of Maó)
+beetle	escarabat (m)
+before	abans de, abans que
+belly	buc (m); abdomen (m); panxa (f); ventre
+belt	cinturó (m)
+berkelium	berkeli
+berry	baia (f)
+beryllium	beril·li (m)
+bicycle	bicicleta (m)
+big	gran; gros
+bill	bec (m)
+binomial nomenclature	nomenclatura binomial (f)
+biochemistry	bioquímica (f)
+biology	biologia (f)
+bipolar disorder	trastorn bipolar
+birch	bedoll (m)
+bird	au (m) 
+birth	naixença (f)
+birthday	aniversari (m); natalici (m)
+biscuit	galeta (f)
+bishop	alfil (m)
+bismuth	bismut
+bite	mossegar
+bitter	amarg
+black	negre (m), negra (f)
+black grouse	gall de cua forcada
+black hole	forat negre (m)
+black woodpecker	picot negre
+blackberry	móra (f) :ca:móra'(ca)
+blackbird	merla, tord negre
+blanket	manta (f)
+bleed	sagnar
+bless you	Jesús; salut; múse
+blind	cec
+blood	sang
+blue	blau (m)
+boar	senglar (m)
+boat	vaixell (n)
+body	cos (m)
+bohrium	bohri
+bomb	bomba (f)
+bon appétit	bon profit
+bone	os (m)
+book	llibre (m)
+bookshop	llibreria (f)
+boot	bota (f)
+boron	bor (m)
+botany	botànica (f)
+bottle	ampolla (f); botella (f)
+bow	arc (m)
+box	capsa (f), caixa (f)
+boxing	boxa
+boy	noi (m), al·lot (m), xiquet (m), xic (m), xicot (m)
+bra	sostenidor (m)
+brain	cervell (m)
+brave	valent; coratjós
+bread	pa (m)
+break	trencar
+breakfast	esmorzar (m)
+breast	pit (m)
+breathe	respirar
+brick	maó
+bridge	pont
+bromine	brom
+brother	cunyat (m)
+brown	marró
+brush	raspall, (m)
+bucket	cubell (m), galleda (f)
+buffalo	bisó (m)
+building	construcció, (f)
+bull	toro (m)
+bumblebee	borinot (m)
+burn	cremar
+bus	autobús (m)
+busy	ocupat
+but	menys, excepte
+butcher	carnisser (m); carnissera (f)
+butter	mantega (f)
+butterfly	papallona (f); papalló (m); papaió (m); babaiana (f); paloma (f); palometa (f)
+buttock	natja (f)
+buy	comprar
+buzzard	zopilot (m)
+cabbage	col (f)
+cactus	cactus (m)
+cadmium	cadmi
+caesium	cesi
+café	cafè (m); cafeteria (f)
+cake	pastís (m)
+calcium	calci
+calendar	calendari (m)
+calf	vedell (m)
+californium	californi
+call	cridar
+camel	camell (m)
+camouflage	camuflatge (m)
+can	poder
+canal	canal (m)
+canary	canari (m)
+cancer	càncer (m)
+candle	espelma (f); candela (f)
+canyon	congost
+capercaillie	gall fer, gall salvatge
+capital	capital (m)
+capital city	capital (f)
+capitalism	capitalisme
+car	vagó (m)
+caramel	caramel
+carbon	carboni (m)
+carp	carpa (f)
+carpenter	fuster (m); fustera (f)
+carpet	moqueta (f); catifa (f)
+carrot	pastanaga (f)
+carry	portar
+cash	efectiu (m)
+castle	castell (m)
+cat	gat (m); gata (f); (m) felina (f)
+caterpillar	eruga (f)
+cave	cova (f)
+cedar	cedre
+celery	api (m)
+cell	cèl·lula (f)
+cell phone	telèfon mòbil (m)
+cement	ciment
+centipede	centpeus
+century	segle (m)
+cerium	ceri
+chair	cadira (f)
+chalk	guix (m)
+chamois	isard
+change	canvi 'm'
+chaos	caos (m)
+cheap	barat (m) barata (f)
+cheek	galta (f)
+cheers	salut
+cheese	formatge (m)
+chemistry	química (f)
+cherry	cirera (f)
+chess	escacs 
+chest	tòrax (m)
+chestnut	castanya (f)
+chew	mastegar; masticar
+chicken	pollastre (m); gallina (f); gall (m)
+child	nen
+chimpanzee	ximpanzé (m)
+chin	mentó (m)
+chlorine	clor
+chocolate	xocolata (f)
+choose	triar; escollir; elegir
+chromium	crom
+church	església (f)
+cigarette	cigarret (m)
+cinema	cinema (m)
+circle	cercle (m)
+city	ciutat (f)
+civil war	guerra civil (f)
+clarinet	#Catalan'clarinet (m)
+clean	netejar
+clock	rellotge (m) (portable and non-portable)
+clothes	roba
+cloud	núvol (m)
+clown	pallasso (m)
+club	club (m)
+coast	costa (f)
+cobalt	cobalt (m)
+cock	quiquiriquic
+cockroach	escarabat (m); panerola (f)
+cod	bacallà (m)
+coffee	cafè (m)
+coffin	fèretre (m), taüt (m)
+coin	moneda (f)
+cold	constipat (m); refredat (m)
+cold war	guerra freda (f)
+collect	reunir; ajuntar; recollir; agrupar; aplegar; arreplegar; replegar
+color	color (m)
+columbine	aguilera (f)
+comb	pinta (f)
+come	venir
+comedy	comèdia (f)
+common gull	gavina, gavià
+communism	comunisme (m)
+company	companyia (f)
+compass	brúixola (f)
+computer	ordinador (m)
+computer language	llenguatge de programació (f)
+comrade	camarada (m)
+concrete	formigó
+condom	preservatiu (m); condó (m); condom (m)
+congratulations	felicitats (f)
+conjunction	conjunció (f)
+connective tissue	teixit conjuntiu
+continent	continent (m)
+conversation	conversa (f)
+cook	cuinar
+copper	coure (m), aram (m)
+corn	blat de moro (m); dacsa (f); moresc (m); panís (m); panís (m) 
+corpse	cadàver (m)
+cotton	cotó (m)
+cough	tossir
+count	comptar
+country	campestre (m)
+courage	coratge (m); valor (m)
+cow	vaca (f)
+crab	carranc (m)
+cricket	criquet (m)
+crime	crim (m); delicte (m)
+cross	creu (f)
+crow	còrvid (m)
+cruel	cruel
+cry	plorar
+crystal	cristall (m)
+cube	cub (m)
+cuckoo	cucut (m)
+cucumber	cogombre (m)
+culture	cultura (f)
+cunt	cony (m)
+curium	curi
+currency	moneda (f)
+current	riu (m), corrent (m)
+curse	maledicció
+curtain	cortina (f)
+cycling	ciclisme (f)
+dance	ballar, dansar
+dandelion	dent de lleó (f)
+dandruff	caspa (f)
+dangerous	perillós
+dark matter	matèria fosca (f)
+darkness	foscor (f)
+date	cita (f)
+date palm	palmera datilera (f)
+daughter	nora (f)
+day	dia (m) 
+dead	mort
+deaf	sord
+death	mort (f)
+decade	dècada
+deep	profund
+deer	cérvol (m) :ca:cérvol'(ca)
+degree	grau (m)
+democracy	democràcia ,(f)
+demon	dimoni; diable
+dentist	dentista
+desert	desert (m)
+dessert	postres (f); darreries (f)
+devil	dimoni (m); diable (m)
+dew	rosada (f)
+dialect	dialecte (m)
+diary	diari (m)
+dick	polla; titola; penis
+dictionary	diccionari (m)
+die	dau (m)
+difficult	difícil (m)
+dig	cavar
+dining room	menjador (f)
+dinosaur	dinosaure (m)
+dirty	brut
+discussion	discussió (f)
+disease	malaltia (f)
+do	fer
+do you speak English	parleu anglès; parla anglès
+dobra	Dobra
+doctor	metge (m); metgessa (f)
+documentation	documentació
+dog	gos; ca (m) 
+dollar	dòlar (m)
+dolphin	dofí (m)
+donation	donació (f)
+donkey	ase (m); somera (f); burro (m); burra (f); ruc (m); ruca (f)
+door	porta (f)
+dormouse	liró
+doubt	dubte (m)
+dough	pasta (f); massa (f)
+doughnut	dònat (m)
+dove	colom (m)
+dragon	drac (m); víbria (f)
+dragonfly	libèl·lula (f); cavall de serp (m); espiadimonis (m); tallanassos (m); teixidor (m); barratgina (f) 
+draw	dibuixar
+drawer	calaix (m)
+dream	somni (m)
+dress	vestit (m)
+drink	beguda (f); glop (m)
+driver	conductor (m)
+dromedary	dromedari (m)
+drop	gota (f)
+drum	tambor (m)
+drunk	borratxo; embriac
+dry	eixut, sec
+dubnium	dubni
+duck	ànec (m)
+duke	duc (m)
+dust	pols (f)
+duty	obligació; deure (m)
+dyslexia	dislèxia
+dysprosium	disprosi
+e	correu electrònic (m)
+e.g.	p. ex. per exemple
+each	cada; cada un 
+eagle	àliga (f); àguila (f)
+eagle owl	duc (m)
+ear	orella (f)
+early	d'hora
+earthquake	terratrèmol (m)
+earthworm	cuc de terra (m); llambric (m)
+east	est
+easy	fàcil
+eat	menjar
+echo	eco (m)
+eclipse	eclipsi (m)
+eco	eco-
+ecology	ecologia (f)
+economics	economia (f)
+education	educació (f)
+eel	anguila (f)
+eight	vuit
+eighteen	divuit
+eighth	vuitè ('abbreviation' 8è)
+eighty	vuitanta
+einsteinium	einsteini
+ejaculation	ejaculació (f)
+elbow	colze (m)
+electricity	electricitat (f)
+electromagnetism	electromagnetisme (m)
+electron	electró (m)
+electronics	electrònica
+elephant	elefant (m)
+eleven	onze
+elf	elf
+elm	om (m)
+embassy	ambaixada (f)
+emperor	emperador
+empty	buit
+encyclopedia	enciclopèdia
+end	acabar
+enemy	enemic (m)
+enjoy your meal	bon profit
+enter	entrar
+entomology	entomologia
+envelope	sobre (m); sobre de carta (m)
+epicentre	epicentre (m)
+epithelium	epiteli (m)
+erbium	erbi
+erection	erecció (f)
+ermine	ermini
+erotic	eròtic
+etymology	etimologia (f)
+eukaryote	eucariota (m)
+euro	euro#Catalan'euro (m)
+europium	europi
+evening	tarda (f); (m)
+event horizon	horitzó d'esdeveniments (m)
+every	cada
+everybody	tothom
+everyone	tothom; cada u; cadascú
+everything	tot
+expensive	car (m) cara (f) :ca:car'(ca)
+expression	expressió (f)
+eye	ull (m) [1]
+eye for an eye, a tooth for a tooth	ull per ull, dent per dent
+eyebrow	cella (f)
+eyelash	pestanya
+eyelid	parpella
+face	cara (f), faç (f) (archaism)
+fairy	fada (f)
+falcon	falcó (m)
+fall	caure
+fallow deer	daina
+family	família (f)
+fan	ventilador (m)
+far	llunyà
+fart	petar
+fascism	feixisme (m)
+fast	dia dejunat
+father	pare (m)
+fear	témer; tenir por de
+feather	ploma (f)
+female	femella (f)
+fermium	fermi
+ferret	furó, fura
+ferry	bac (m); rai (m)
+fever	febre (f)
+field	camp (m)
+fifteen	quinze
+fifth	cinquè (m); (m)
+fifty	cinquanta
+fig	figa (f)
+fight	lluitar; barallar-se
+file	arxiu (m)
+film	pel·lícula (f); film (m)
+finger	dit (m)
+fir	avet
+fire	incendi (m)
+first	primer (m)
+fish	pescar
+fist	puny (m)
+five	cinc
+five hundred	cinc-cents
+flag	bandera
+flame	flama (f)
+flea	puça (f)
+floor	sòl (m); terra (m)
+flour	farina (f)
+flower	flor (f)
+fluorine	fluor
+flute	flauta (f)
+fly	volar
+foam	escuma (f)
+fog	boira (f)
+food	menjar (m); aliment (m)
+foot	febre aftosa (f)
+football	futbol (m)
+for example	per exemple
+forefinger	índex (m)
+forehead	front (m)
+foreign	foraster (m); forastera (f); (m) estrangera (f)
+foreigner	foraster (m); forastera (f); (m) estrangera (f)
+forest	bosc (m); forest (f) 
+forget	oblidar
+fork	forquilla (f)
+former Yugoslav Republic of Macedonia	Exrepública Iugoslava de Macedònia
+fortress	fortalesa (f)
+forty	quaranta
+four	quatre
+fourteen	catorze
+fourth	quart ('abbreviation' 4t)
+fox	guineu (f), guilla (f), rabosa (f)
+francium	franci (m)
+free	de franc; gratuït; gratis
+freedom	llibertat (f)
+friend	amic (m), amiga (f)
+friendship	amistat (f)
+frog	granota (f)
+fruit	fruit#Catalan'fruit (m)
+fuck	follar, cardar, fotre, fer un clau, fotre un clau, tirar-se (transitive); 'euphemisms': jaure/jeure (obsolete), fúmer/fumbre; 'archaism': posseir (transitive)
+full	ple
+fungus	fong
+future	futur (m)
+gadolinium	gadolini
+galaxy	galàxia (f)
+gall bladder	bufeta biliar (f); vesícula biliar (f)
+gallium	gal·li
+game	joc (m)
+garden	jardí (m)
+garlic	all (m)
+gasoline	gasolina (f), benzina (f)
+gay	gai
+genitive	genitiu (m)
+genocide	genocidi (m)
+geography	geografia (f)
+geometry	geometría (f)
+germanium	germani
+geyser	guèiser (m)
+ghost	fantasma (m); espectre (m); esperit (m) 
+giant	gegant (m)
+ginger	gingebre (m)
+giraffe	girafa (f)
+girl	noia (f); nena (f); xiqueta; al·lota (f)
+give	donar
+glacier	glacera
+glass	got, vas, (m)
+global warming	escalfament global (m)
+glove	guant (m)
+go	anar
+goalkeeper	porter (m)
+goat	cabra (f)
+god	déu (m)
+gold	or (m)
+golden eagle	àguila daurada (f), àguila reial (f)
+gonorrhea	gonocòccia (f)
+good	bo (m); bona (f)
+good afternoon	bona tarda
+good day	bon dia
+good evening	bon vespre
+good luck	sort!, bona sort!, molta sort!
+good morning	bon dia
+good night	bona nit
+goodbye	adéu
+goods	béns (m'p), mercaderia (f)
+google	googlejar
+goose	oca (f)
+gooseberry	agrassó (m)
+goshawk	astor
+government	govern (m)
+gram	gram (m)
+grammar	gramàtica (f)
+granddaughter	néta, (f)
+grandfather	avi (m)
+grandmother	àvia (f); iaia (f)
+grandson	nét (m)
+grape	raïm (m)
+grass	herba (f)
+grasshopper	llagosta (f); saltamartí (m)
+graveyard	cementiri (m), camp sant, tenca d'hora
+great spotted woodpecker	picot garser gros
+great tit	mallerenga
+green	verd (m)
+green tea	te verd (m)
+green woodpecker	picot verd
+grey	gris
+grey heron	bernat pescaire (m)
+greylag goose	ánsar común
+griffon vulture	voltor comú
+guest	convidat (m); hoste (m)
+guilt	culpabilitat
+guinea fowl	pintada (f); gallina de guinea (f)
+guinea pig	cobaia, conillet d'índia
+guitar	guitarra (f)
+gull	gavina, gavià
+gunpowder	pólvora
+gypsy	gitano (m)
+hafnium	hafni
+hail	calamarsa
+hair	pèl (m)
+half	meitat (f)
+hammer	martell (m)
+hammock	hamaca (f)
+hamster	hàmster (m)
+hand	mà (f)
+happen	passar, ocórrer, succeir
+happiness	felicitat (f)
+happy	feliç
+happy birthday	per molts anys
+hard	complicat, difícil
+hard drive	disc dur (m)
+hare	llebre (f)
+hassium	hassi
+hat	barret (m), capell (m)
+hate	odiar
+hatred	odi (m)
+hawk	falcó (m); (m)
+hay	fenc (m)
+hazelnut	avellana (f)
+he	ell
+head	cap (m)
+hear	sentir; oir
+heart	cor
+hedgehog	eriçó (m)
+heel	taló (m)
+helicopter	helicòpter (m)
+helium	heli (m)
+hell	infern (m)
+hello	hola
+help	socors!
+hen	gallina 
+here	aquí; ací
+hero	heroi (m); heroïna (f)
+heron	agró
+hi	hola
+hill	puig (m)
+hippopotamus	hipopòtam (m)
+his	seu
+history	història (f)
+holmium	holmi
+home	llar (m), casa (f)
+homophobia	homofòbia (f)
+homosexuality	homosexualitat (f)
+honey	mel (f)
+hoof	peülla (f)
+hope	esperar
+horn	banya (f)
+horse	cavall (m)
+horseshoe	ferradura (f)
+hospital	hospital (m)
+hot	calent
+hotel	hotel (m)
+hour	hora (f)
+house	casa (f)
+how	com
+how are you	com estàs; com està; com va 
+how much	quant
+how much does it cost	quant és?, quant val?
+how old are you	quants anys tens 
+hug	abraçada (f)
+human	humà (m), humana (f), ésser humà (m)
+human being	ésser human (m)
+human rights	drets humans (m)
+humanism	humanisme
+hundred	cent (m)
+hunger	gana (f)
+hungry	afamat
+hunt	caça (f); cacera (f)
+hurricane	huracà
+husband	marit (m)
+hydrogen	hidrogen (m)
+hyena	hiena (f)
+ibex	cabra alpina
+ice	gel (m)
+ice cream	gelat (m)
+idea	idea (f)
+if	si#Catalan'si
+igneous rock	roques ígnies
+illness	t+'ca'malaltia'f
+important	important
+indium	indi
+information	informació (f)
+injury	ferida (f)
+ink	tinta (f)
+insect	insecte
+insulin	insulina
+intelligence	intel·ligència (f), seny (m), llestesa (f)
+interest	interès (m)
+interesting	interessant
+international	internacional
+interpreter	intèrpret (m)
+intestine	intestí (m); budell (m)
+iodine	iode
+iridium	iridi
+iron	planxar
+is	és; està
+island	illa (f)
+ivory	ivori (m); vori (m); marfil (m)
+jackdaw	gralla
+jay	gaig
+jellyfish	medusa (f)
+jihad	jihad (m)
+job	treball (m); feina (f)
+joule	joule
+journalism	periodisme
+joy	alegria (f); joia (f)
+judge	jutge (m)
+juice	suc (m)
+kangaroo	cangur (m)
+kestrel	falcó (m)
+ketchup	quètxup; quetxup
+key	clau (f)
+keyboard	teclat (m)
+kidney	ronyó (m)
+kill	matar; assassinar
+kilometre	quilòmetre (m); kilòmetre (m)
+king	rei (m)
+kingdom	regne (m)
+kiss	besar; petonejar
+kitchen	cuina (f)
+kite	estel
+knee	genoll
+knife	ganivet (m)
+knight	cavall (m)
+know	(l'ca'conèixer)
+koala	coala (m)
+krypton	criptó
+laboratory	laboratori
+ladybird	marieta (f)
+ladybug	marieta (f)
+lake	llac (m)
+land	terra (f)
+language	llenguatge (m)
+lanthanum	lantani
+larch	làrix
+large	llarg
+lark	alosa (f)
+laser	làser (m)
+laugh	riure
+lava	lava (f)
+law	llei (f)
+lawrencium	laurenci
+lawyer	advocat (m); advocada (f)
+lazy	mandrós; peresós
+lead	plom (m)
+leaf	fulla (f)
+leap year	any de traspàs (m), any bixest (m), any bissextil (m)
+learn	aprendre
+least weasel	mostela
+leather	cuir (m)
+leave	sortir
+leek	porro (m)
+left	esquerre
+leg	cama (f)
+lemon	llimona (f)
+length	longitud (f)
+lesser spotted woodpecker	picot garser petit
+letter	carta (f)
+lettuce	enciam (f)
+lichen	liquen (m)
+lick	llepar
+lie	mentir
+life	vida (f)
+light	lleuger
+light year	any-llum (m)
+lighthouse	far (m)
+lightning	llampec (m); rellamp (m)
+like	com
+lily	lliri (m)
+limestone	pedra calcària
+linguist	lingüista (m)
+linguistics	lingüística (f)
+lion	lleó (m)
+lioness	lleona (f)
+lip	llavi (m)
+listen	escoltar
+lithium	liti (m)
+litre	litre (m)
+little finger	dit petit (m)
+little owl	mussol comú
+live	viure
+liver	fetge (m)
+lizard	llangardaix (m); sargantana (f)
+lobster	llagosta (f)
+long	mussol banyut
+look for	cercar; buscar
+louse	poll (m)
+love	estimar, voler
+low	baix (m), baixa (f)
+luck	sort (f)
+lukewarm	tebi (m); tèbia (f)
+lullaby	cançó de bressol (f), vou-verivou (m)
+lunar eclipse	eclipsi de Lluna (m)
+lunch	dinar (m)
+lung	pulmó (m)
+lutetium	luteci
+lynx	linx (m)
+machine	màquina (f)
+machine language	llenguatge de màquina (f)
+mackerel	verat (m); cavalla (f)
+mad	boig (m), boja (f)
+magma	magma (m)
+magnesium	magnesi
+magpie	garsa
+mallard	ánade azulón / ánade real
+mammal	mamífer
+man	home (m)
+manganese	manganès (m)
+many	molt
+mare	euga (f)
+marijuana	marihuana (f)
+marmot	marmota
+marsh	aiguamoll (m)
+marten	marta (f)
+masturbation	masturbació (f), palla (f) (slang)
+match	misto (m)
+maternal aunt	tia (f)
+maternal grandfather	avi matern (m)
+mathematics	matemàtiques 
+mattress	matalàs (m)
+maybe	potser
+me	em; me
+meal	àpat (m)
+meat	carn (f)
+meitnerium	meitneri
+melon	meló (m)
+memory	memòria (f)
+mendelevium	mendelevi
+meow	mèu (m)
+mercury	mercuri
+metal	metall
+metre	metre (m)
+microscope	microscopi (m)
+middle finger	dit del mig (m)
+midnight	mitjanit (f)
+midwife	llevadora (f)
+milk	llet (f)
+milliard	mil milions (m); miliard (m)
+millimetre	mil·límetre (m)
+million	milió (m)
+millipede	milpeu
+mind	ment (f)
+mine	el meu (m); la meva (f)
+mineralogy	mineralogia (f)
+mint	menta (f)
+minute	minut (m)
+miracle	miracle (m)
+mirror	mirall (m); espill (m)
+moat	fossat (m)
+mole	piga (f)
+molecule	molècula (f)
+molybdenum	molibdèn
+monarchy	monarquia (f)
+monastery	monestir (m)
+money	diner (m)
+monk	monjo (m)
+monkey	mico (m)
+monster	monstre (m)
+month	mes (m)
+moon	lluna (f)
+morning	matinada (f); matí (m)
+mosque	mesquita (f)
+mosquito	mosquit (m)
+moss	molsa (f)
+moth	arna (f)
+mother	mare (f)
+mouflon	mufló
+mountain	muntanya (f)
+mouse	ratolí
+moustache	bigoti
+mouth	boca (f)
+movie	pel·lícula (f); film (m)
+much	molt
+mud	fang (m), llot (m)
+mule	mul
+murder	assassinat, (m)
+muscle	múscul (m)
+museum	museu (m)
+mushroom	fong (m)
+music	música (f)
+musical instrument	instrument musical (m)
+musician	músic (m)
+mustard	mostassa (f)
+my	meu
+my name is	em dic 
+mystery	misteri (m)
+mythology	mitologia (f)
+nail	clau (m)
+naked	despullat; nu
+name	reputació (f)
+narrow	estret (m); estreta (f)
+nation	nació (f)
+nature	natura (f)
+navel	melic (m), llombrígol (m)
+nebula	nebulosa (f)
+neck	coll (m)
+necklace	collar (m); collaret (m)
+need	necessitat (f)
+needle	agulla (f)
+neighbour	veí (m)
+neodymium	neodimi
+neon	neó
+nephew	nebot (m)
+neptunium	neptuni
+nest	niu (m)
+net	xarxa (f)
+nettle	ortiga (f)
+neutrino	neutrí (m)
+never	mai
+new	nou
+news	telenotícies (m); informatiu (m); diari (m)
+newspaper	diari (m), periòdic (m)
+nickel	níquel (m)
+niece	neboda (f)
+night	nit (f)
+nightingale	rossinyol
+nightmare	malson (m)
+nine	nou
+nineteen	dinou
+ninety	noranta
+ninth	novè (m) 
+niobium	niobi
+nipple	mugró (m)
+nit	llémena (f)
+nitrogen	nitrogen (m)
+no one	ningú
+nobelium	nobeli
+nobody	ningú
+nominative case	cas nominatiu (m)
+non	organització no governamental (f)
+nonkilling	no-matar (m)
+noon	migdia (m)
+north	nord (m); septentrió (m)
+nose	nas (m)
+not	no
+nothing	res
+noun	substantiu (m)
+now	ara
+nude	nu
+nurse	infermer (m)
+nut	nou (f)
+oak	roure
+oak tree	roure (m)
+oar	rem (m)
+oath	jurament (m)
+obedience	obediència
+obesity	obesitat
+oboe	oboè (m)
+ocean	oceà (m)
+octopus	pop#Catalan'pop (m)
+oesophagus	esòfag (m)
+of	de
+of course	és clar
+office	oficina (f)
+often	sovint
+oil	benzina
+old	vell, gran
+olive	oliva (f)
+omelette	truita (f)
+on	sobre
+once upon a time	hi havia una vegada, això era una vegada
+one	un
+onion	ceba (f)
+only	únic
+open	obert
+operating system	sistema operatiu (m)
+opinion	opinió (f)
+or	o, o bé
+orange	taronger (m)
+organ	òrgan (m)
+organism	organisme (m)
+orgasm	orgasme (m)
+orphan	orfe
+osmium	osmi
+ostrich	estruç (m)
+otter	llúdria (f); llúdriga (f)
+our	nostre
+owl	òliba (f); mussol (m); (m) (m)
+ox	bou (m)
+oxygen	oxigen (m)
+pain	dolor (m)
+paint	pintura (f)
+painter	pintor (m)
+palace	palau (m)
+palladium	palladi
+pancreas	pàncrees
+paper	paper (m)
+parents	pares (m'p)
+park	parc (m)
+parliament	parlament (m)
+parsley	julivert (m)
+part	part (f)
+particle physics	física de partícules (f)
+partridge	perdiu (f)
+party	festa (f); sarau (m)
+passport	passaport (m)
+password	contrasenya (f)
+paternal aunt	tia (f)
+paternal grandfather	avi patern (m)
+pawn	peó (m)
+peace	pau (f)
+peach	préssec (m)
+peacock	paó
+peanut	cacauet (m)
+pear	perera (f)
+pearl	perla (f)
+pencil	llapis (m)
+penguin	pingüí
+penicillin	penicil·lina (f)
+penis	penis (m)
+people	poble (m)
+percent	per cent
+peregrine falcon	falcó pelegrí
+perhaps	potser
+perineum	periné (m)
+periodic table	taula periòdica (f)
+person	persona (f)
+petrol	gasolina (f), benzina (f)
+petroleum	petroli
+pharaoh	faraó (m)
+pharmacy	farmàcia (f)
+pheasant	faisà
+philosopher	filòsof (m); filòsofa (f)
+philosophy	filosofia
+phoenix	fènix (m)
+phone	telèfon (m)
+phosphorus	fòsfor
+photograph	fotografia (f); foto (f)
+photography	fotografia (f)
+photosynthesis	fotosíntesi (f)
+physics	física (f) :ca:física'(ca)
+piano	piano (m)
+pie	pastís (m)
+piece	peça (f)
+pig	porc (m), truja (f)
+pigeon	colom (m)
+piglet	garrí (m), porcell (m), porquet (m)
+pillow	coixí (m)
+pimple	bua (f); buba (f)
+pine	pi (m)
+pineapple	pinya (f)
+pirate	pirata (m)
+place	lloc (m)
+planet	planeta (m) 
+plant	planta (f)
+plate	plat (m)
+platinum	platí (m)
+platypus	ornitorrinc (m)
+play	obra (f)
+please	si us plau
+plough	arada (f)
+plum	pruner (m)
+plutonium	plutoni
+pocket	butxaca (f)
+poem	poema (m), oda (f)
+poetry	poesia (f)
+poison	verí (m); metzina (f)
+polar bear	ós blanc (m)
+polecat	turó
+police	policia (f)
+polite	cortès
+politician	polític (m), política (f)
+polonium	poloni
+polygon	polígon
+poor	pobre
+pope	Papa (m)
+poplar	pollancre (m), 'white poplar': àlber (m)
+population	població (f)
+pornographic	pornogràfic
+pornography	pornografia (f)
+postage stamp	segell (m)
+postcard	postal
+postmodernism	postmodernitat (f)
+potassium	potassi
+pound	lliura (f)
+poverty	pobresa (f)
+praseodymium	praseodimi
+pray	resar; pregar
+pregnant	embarassada
+prepuce	prepuci
+president	president (m); presidenta (f)
+pretty	bonic
+price	preu (m)
+priest	sacerdot (m)
+prime minister	primer ministre (m)
+prime number	nombre primer (m)
+prince	príncep (m)
+prison	presó (f)
+problem	problema (m)
+profession	professió (f); ofici (m)
+professor	professor (m); professora (f)
+programming language	llenguatge de programació
+promethium	prometi
+pronoun	pronom (m)
+pronunciation	pronunciació (f); pronúncia (f)
+property	propietat (f); possessió (f)
+prophet	profeta (m)
+prostitute	prostituta (f)
+protactinium	protactini
+proton	protó
+proverb	proverbi (m); dita (f); refrany (m); parèmia (f)
+pumice	pumicita (f)
+purgatory	purgatori (m)
+purple	porpra (f); púrpura (f)
+push	empènyer
+pussy	cony (m)
+pyramid	piràmide (f)
+quail	guatlla (f)
+quarter	quart (m); quarter (m)
+queen	reina (f)
+question	qüestió (f)
+quotation marks	cometa (f) [«◌»] 'or' [“◌”]
+rabbit	conill
+racism	racisme (m)
+radio	ràdio (f)
+radon	radó (m)
+rain	ploure
+rainbow	arc de Sant Martí (m); arc iris (m)
+rake	rampí (m), rasclet (m)
+rape	violació (f)
+raspberry	gerd (m)
+rat	rat (m)
+raven	corb (m)
+read	llegir
+recent	fresc
+rectangle	rectangle
+red	vermell (m), roig (m)
+red deer	cérvol comú
+reindeer	ren (m)
+religion	religió (f)
+remember	recordar; rememorar
+repeat	repetir
+reptile	rèptil (m)
+republic	república (f)
+restaurant	restaurant (m)
+revenge	revenja (m)
+revolution	revolució (f)
+rhenium	reni
+rhinoceros	rinoceront (m)
+rhodium	rodi
+rice	arròs (m)
+rich	ric
+rifle	fusell (m)
+right	dret (m)
+ring	anella (f)
+ring finger	dit anular (m), anular (m)
+river	riu (m)
+robin	pit-roig (m)
+robot	robot (m)
+rock dove	colom roquer (m)
+rodent	rosegador
+roe deer	cabirol
+roof	teulada (f)
+room	cambra (f); sala (f); habitació (f); peça (f)
+rooster	gall (m)
+root	arrel (f)
+rope	corda (f)
+rose	rosa (f)
+rubidium	rubidi
+rum	rom (m)
+run	córrer
+ruthenium	ruteni
+rutherfordium	rutherfordi
+rye	sègoll (m)
+sad	trist (m); trista (f)
+sailing ship	veler (m)
+sailor	marí (m)
+salary	salari (m)
+saliva	saliva (f)
+salmon	salmó (m)
+salt	sal (f)
+samarium	samari
+same	mateix
+sand	sorra (f)
+sandwich	entrepà (m); sandvitx (m); badall (m)
+sapphire	safir (m)
+sausage	salsitxa (f)
+saw	serra (f)
+say	dir
+scandium	escandi
+scar	cicatriu (f)
+scarlet	escarlata
+schizophrenia	esquizofrènia (f)
+school	escola (f)
+science	ciència (f)
+scissors	tisores (f)
+scorpion	escorpí (m)
+screech owl	òliba (f)
+screwdriver	tornavís (m)
+scrotum	escrot (m)
+sea	mar (m'f)
+seaborgium	seaborgi
+seagull	gavina
+seal	foca
+season	estació (f)
+second	segon (m)
+secret	secret (m)
+sect	secta (f)
+see	veure
+seed	llavor (f)
+seem	semblar
+seldom	rarament
+selenium	seleni
+sell	vendre
+semen	esperma (f)
+send	enviar, trametre
+sentence	frase (f); sentència (f)
+seven	set
+seventeen	disset
+seventh	setè (m); (m)
+seventy	setanta
+sex	sexe (m)
+sexual orientation	orientació sexual (f)
+shadow	ombra (f)
+shame	vergonya (f)
+shark	tauró (m)
+sharp	esmolat
+she	ella
+sheep	ovella (f)
+shepherd	pastor (m)
+shield	escut (m)
+shirt	camisa (f)
+shit	merda (f)
+shoe	sabata (f); calçat (m)
+shop	botiga (f); tenda (f)
+shore	riba (f)
+shoulder	espatlla (f)
+show	mostrar
+shower	dutxa (f)
+shrew	musaranya (f)
+sick	malalt
+sickle	falç (f)
+sight	vista (f)
+signature	signatura (f)
+silence	silenci (m)
+silicon	silici
+silkworm	cuc de seda (m)
+silver	plata (f), argent (m)
+simple	simple
+sin	pecat (m)
+sing	cantar
+sister	germana, (f)
+sit	seure
+sit down	asseure's
+six	sis
+sixteen	setze
+sixth	sisè (m); (m)
+sixty	seixanta
+skeleton	esquelet (m)
+skin	pell (f)
+skirt	faldilla (f)
+skull	crani (m)
+skylark	alosa'alosa vulgar
+skyscraper	gratacel (m)
+slave	esclau (m); esclava (f)
+sleep	son (m)
+slow	lent
+small	petit
+smell	olorar; odorar; ensumar; flairar
+smile	somriure
+smoke	fum (m)
+snail	caragol (m)
+snake	serp (f); serpent (f)
+sneeze	esternudar
+snooker	billar (m)
+snow	neu (f)
+snow leopard	lleopard de les neus (m)
+soap	sabó (m)
+socialism	socialisme (m)
+sodium	sodi
+sofa	sofà (m)
+software	programari (m)
+solar wind	vent solar (m)
+soldier	: soldat
+solitude	solitud (f)
+someone	algú
+something	alguna cosa; quelcom
+sometimes	a vegades; de vegades
+son	fill (m)
+song	cançó (f)
+sonnet	sonet
+soon	aviat
+soul	ànima (f)
+sound	so
+sour	ácid
+south	sud (m); migdia (m); migjorn (m)
+spacecraft	nau espacial
+spaceship	nau espacial (f)
+spacetime	espai-temps
+sparrow	pardal (m)
+sparrow hawk	esparver
+speak	parlar
+spectacles	ulleres (m)
+speech	parla (f)
+spice	espècia (f)
+spider	aranya (f)
+spit	escopir
+spleen	melsa (f)
+spoon	cullera (f)
+sport	esport (m); deport (m)
+spring	primavera (f)
+spruce	avet roig
+spy	espia (f)
+square	plaça (f)
+squid	calamars (m); calamar (m)
+squirrel	esquirol (m)
+stairs	escala (f)
+stand	estar dret
+star	estrella (f); estel (m)
+starling	estornell
+state	estat (m)
+station	estació (f)
+statue	estàtua (f)
+steal	robar
+steel	acer (m)
+stepfather	padrastre (m)
+stone	pedra (f)
+stork	cigonya
+strange	estrany (m)
+strawberry	maduixa (f)
+street	carrer (m)
+strength	força (f)
+string	cadena
+strong	fort
+strontium	estronci
+stupid	toix (m); estúpid (m); bèstia (m)
+submarine	submarí (m)
+suck	xuclar
+suddenly	de sobte
+sugar	sucre (m)
+suitcase	maleta (f)
+sulfur	sofre (m)
+summer	estiu (m)
+sun	sol (m)
+sunflower	gira-sol (m)
+superstition	superstició (f)
+surname	cognom (m)
+swallow	engolir
+swan	cigne (m)
+swastika	esvàstica (f); creu gammada (f)
+sweat	suor (f)
+sweet	dolç
+sweet potato	batata (f); moniato (m)
+sweetener	edulcorant (m)
+swim	nedar
+swimming pool	piscina (f)
+sword	espasa (f)
+swordfish	peix espasa
+system	sistema (m)
+table	taula (f)
+tadpole	capgròs (m), cullerot (m)
+taiga	taigà
+tail	cua (f)
+tailor	sastre (m)
+take	agafar
+talk	parlar, conversar
+tank	tanc (m)
+tantalum	tàntal
+tattoo	tatuatge (m)
+tawny owl	gamarús
+taxi	taxi
+tea	te (m)
+teach	ensenyar
+teacher	ensenyant (m)
+tear	llàgrima (f)
+technetium	tecneci
+telephone	telefonar; trucar; cridar
+telescope	telescopi (m)
+television	televisió (f); televisor (m)
+tellurium	telluri
+temperature	temperatura (f)
+temple	temple (m)
+ten	deu
+tent	tenda (f)
+tenth	desè (m); (m)
+terbium	terbi
+territory	territori (m)
+terrorism	terrorisme
+terrorist	terrorista (m)
+testicle	testicle (m)
+thallium	tal·li
+than	que
+thank you	gràcies, moltes gràcies, mercès
+thank you very much	moltes gràcies; moltes mercès
+thanks	gràcies, mercès, merci (not "mercí", a Gallicism)
+the	el (m); lo (m); es (m); so (m); (f) sa (f); els (m); es (m); sos (m); (m) (f) ses (m)
+theater	teatre (m)
+then	llavors
+theology	teologia (f)
+there	allà, allí
+there is	hi ha (singular and plural)
+they	ells, elles
+thief	lladre (m)
+thigh	cuixa (f)
+thimble	didal (m)
+thing	cosa (f)
+think	pensar
+third	tercer ('abbreviation' 3r)
+thirst	set (f)
+thirteen	tretze
+thirty	trenta
+this	aquest 
+thorium	tori
+thorn	aculi, espina, eculi, agulló, fibló
+thou	tu
+thousand	mil 
+thread	fil (m)
+three	tres
+throat	gola (f)
+throne	tron (m)
+thulium	tuli
+thumb	polze (m)
+thunder	tro (m)
+tick	paparra (f)
+tiger	tigre (m)
+time	temps (m)
+tin	estany
+tired	cansat (m); cansada (f)
+titanium	titani
+to	a, cap a
+toad	gripau (m)
+tobacco	tabac (m)
+today	avui en dia, avui dia
+toe	dit del peu (m)
+toilet	vàter (m)
+tomato	tomàquet (m)
+tomorrow	demà (m)
+tongue	llengua (f)
+tonight	anit
+too	massa
+tooth	dent (f)
+toothbrush	raspallet de les dents 
+torch	torxa (f)
+tornado	tornado (m)
+tortoise	tortuga (f)
+touch	tocar
+tourism	turisme (m)
+tower	torre (f)
+town	poble (m)
+toy	joguina (f); joguet (m)
+tradition	tradició (f)
+train	tren (m)
+translate	traduïr
+translation	traducció (f)
+translator	traductor
+travel	viatjar
+treasure	tresor (m); tesor (m)
+tree	arbre (m)
+triangle	triangle (m)
+tribe	tribu (f)
+tricycle	tricicle (m)
+trousers	pantaló (m); pantalons (m)
+trout	truita (f)
+truck	camió (m)
+true	veritable
+trumpet	trompeta (f)
+try	intentar; tractar de
+tsunami	tsunami#Czech'tsunami (m)
+tulip	tulipa (f)
+tungsten	tungstè
+turkey	gall dindi (m); indiot (m); (f)
+turnip	nap#Catalan'nap (m)
+turtle	tortuga (f)
+turtle dove	tórtora
+twelve	dotze
+twenty	vint-i-vuit
+twin	bessó (m)
+two	dos (m); dues (f)
+two hundred	dos-cents (m); dues-centes (f)
+typhoon	tifó (m)
+umbrella	paraigua (m); para-sol (m); ombrel·la (f)
+uncle	oncle (m); tio (m)
+underwear	roba interior (f)
+unemployment	atur (m), parada forçosa (f), manca de treball (f)
+universe	univers (m)
+university	universitat (f)
+uranium	urani
+urethra	uretra (f)
+urine	orina (f)
+use	fer servir; usar; utilitzar
+useful	útil
+vagina	vagina
+valley	vall (m)
+vampire	vampir
+vanadium	vanadi
+vegetable	verdura (f)
+verb	verb
+very	molt
+victory	victòria (f)
+village	poble (m)
+vinegar	vinagre (m)
+violet	violeta
+violin	violí (m)
+virus	virus (m)
+visa	visat (m)
+vodka	vodka (f)
+voice	veu (f)
+volcano	volcà
+vomit	vomitar
+vulture	voltor (m)
+wait	esperar; esperar-se
+wake up	despertar-se
+walk	caminar
+wall	mur (m), muralla (f)
+walrus	morsa (f)
+want	voler
+war	guerra (f)
+warship	vaixell de guerra (m)
+wart	berruga (f)
+wasp	vespa (f)
+watch	rellotge (m) 
+water	aigua (f)
+watermelon	síndria (f)
+wave	ona (f)
+wax	cera (f)
+way	via (f), camí (m)
+we	nosaltres
+weapon	arma (f)
+web site	pàgina web (f); lloc web (m)
+wedding	boda (f)
+week	setmana (f)
+weekend	cap de setmana (m)
+welcome	benvingut! (m), benvinguda! (f) benvinguts (p), benvingudes (f'p)
+well	pou (m)
+werewolf	home llop (m)
+west	oest (m); ponent (m)
+wet	moll
+whale	balena (f)
+what	què
+what time is it	quina hora és
+wheat	blat (m)
+wheel	roda (f)
+where	on
+where is the toilet	on és el servei?
+whip	fuet (m)
+whiskey	whisky (m)
+whisky	whisky (m)
+white	blanc (m)
+who	qui
+whole	tot (m)
+whore	puta
+why	per què
+wide	ample
+widow	vidu (f), (m)
+wife	dona (f); muller (f)
+wild boar	(m)
+wildcat	gat salvatge
+willow	salze
+win	guanyar, vèncer
+wind	vent#Catalan'vent (m)
+window	finestra (f)
+wine	vi (m)
+wing	ala (f)
+winter	hivern (m)
+wise	savi
+wisent	bisó europeu
+witch	bruixa (f)
+with	amb
+without	sense
+wolf	llop (m); lloba (f)
+woman	dona (f)
+wood	fusta (f)
+woodpecker	picot (m)
+wool	llana (f)
+word	paraula (f); mot (m)
+work	treball (m)
+workers of the world, unite	proletaris de tots els països, uniu-vos! or proletaris de tot el món, uniu-vos!
+worm	cuc (m)
+wrist	canell (m)
+write	escriure
+writer	escriptor (m)
+xenon	xenó
+yawn	badallar
+year	any (m)
+yeast	llevat (m)
+yellow	groc (m), groga (f)
+yes	sí
+yesterday	ahir
+yoga	ioga (m)
+yoghurt	iogurt (m)
+yoke	jou (m)
+yolk	rovell (m)
+you	vosaltres; vostès; vós
+young	jove (m)
+ytterbium	iterbi
+yttrium	itri
+zebra	zebra (f)
+zero	zero
+zinc	zinc

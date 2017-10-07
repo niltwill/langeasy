@@ -1,0 +1,543 @@
+Kolsch	English
+Joohr 1	1
+Joohr 10	10
+Joohr 100	100
+Joohr 1000	1000
+Joohr 101	101
+Joohr 105	105
+Joohr 11	11
+Joohr 110	110
+Joohr 115	115
+Joohr 12	12
+Joohr 120	120
+Joohr 125	125
+Joohr 13	13
+Joohr 130	130
+Joohr 135	135
+Joohr 14	14
+Joohr 140	140
+Joohr 144	144
+Joohr 145	145
+Joohr 15	15
+Joohr 150	150
+1530-er Joohre	1530s
+Joohr 155	155
+Joohr 16	16
+Joohr 160	160
+Joohr 165	165
+Joohr 17	17
+Joohr 170	170
+Joohr 1728	1728
+Joohr 175	175
+1750-er Joohre	1750s
+1760-er Joohre	1760s
+1770-er Joohre	1770s
+1780-er Joohre	1780s
+1790-er Joohre	1790s
+Joohr 18	18
+Joohr 180	180
+1820-er Joohre	1820s
+1830-er Joohre	1830s
+1840-er Joohre	1840s
+1850-er Joohre	1850s
+1860-er Joohre	1860s
+1870-er Joohre	1870s
+1880-er Joohre	1880s
+1890-er Joohre	1890s
+Joohr 19	19
+Joohr 190	190
+1900-er Joohre	1900s
+1920-er Joohre	1920s
+1930-er Joohre	1930s
+1940-er Joohre	1940s
+1950-er Joohre	1950s
+1960-er Joohre	1960s
+1970-er Joohre	1970s
+1980-er Joohre	1980s
+1990-er Joohre	1990s
+Joohr 2	2
+Joohr 20	20
+Joohr 200	200
+Joohr 21	21
+Joohr 22	22
+Joohr 23	23
+Joohr 24	24
+Joohr 25	25
+Joohr 26	26
+Joohr 27	27
+Joohr 28	28
+Joohr 29	29
+Joohr 3	3
+Joohr 30	30
+Joohr 300	300
+Joohr 31	31
+Joohr 32	32
+Joohr 33	33
+Joohr 34	34
+Joohr 35	35
+Joohr 36	36
+Joohr 37	37
+Joohr 38	38
+Joohr 39	39
+Joohr 4	4
+Joohr 40	40
+Joohr 400	400
+Joohr 41	41
+Joohr 42	42
+Joohr 43	43
+Joohr 44	44
+Joohr 45	45
+Joohr 46	46
+Joohr 47	47
+Joohr 48	48
+Joohr 49	49
+Joohr 5	5
+Joohr 50	50
+Joohr 500	500
+Joohr 51	51
+Joohr 52	52
+Joohr 53	53
+Joohr 54	54
+Joohr 55	55
+Joohr 56	56
+Joohr 57	57
+Joohr 58	58
+Joohr 59	59
+Joohr 6	6
+Joohr 60	60
+Joohr 61	61
+Joohr 62	62
+Joohr 63	63
+Joohr 64	64
+Joohr 65	65
+Joohr 66	66
+Joohr 67	67
+Joohr 68	68
+Joohr 69	69
+Joohr 7	7
+Joohr 70	70
+Joohr 71	71
+Joohr 72	72
+Joohr 73	73
+Joohr 74	74
+Joohr 75	75
+Joohr 76	76
+Joohr 77	77
+Joohr 78	78
+Joohr 79	79
+Joohr 8	8
+Joohr 80	80
+Joohr 81	81
+Joohr 82	82
+Joohr 83	83
+Joohr 84	84
+Joohr 85	85
+Joohr 86	86
+Joohr 87	87
+Joohr 88	88
+Joohr 89	89
+Joohr 9	9
+Joohr 90	90
+Joohr 91	91
+Joohr 92	92
+Joohr 93	93
+Joohr 94	94
+Joohr 95	95
+Joohr 96	96
+Joohr 97	97
+Joohr 98	98
+Joohr 99	99
+ATP (Watt ėßß datt?)	ATP
+Oche	Aachen
+Ålborg	Aalborg
+Abuja	Abuja
+Accra	Accra
+Addis Abeba	Addis Ababa
+Adenosiin Trifoßfaat	Adenosine triphosphate
+Saachjrupp:Afjanistan	Afghanistan
+Affrika	Africa
+El-Qaeda	Al-Qaeda
+Saachjrupp:Albanije	Albania
+Albert Einstein	Albert Einstein
+Algiers	Algiers
+Alkalimetall	Alkali metal
+Alfabeet	Alphabet
+Allu	Aluminium
+ASCII	American Standard Code for Information Interchange
+Andrew Jackson	Andrew Jackson
+Saachjrupp:Angjola	Angola
+Dier	Animal
+Antananarivo	Antananarivo
+Süüdpool	Antarctica
+Saachjrupp:Antigua un Barbuda	Antigua and Barbuda
+Antvärrpe (Provinß)	Antwerp (province)
+Appel (för ze esse)	Apple
+Apprill (Moohnd)	April
+14. Apprill	April 14
+Artificial Intelligence	Artificial intelligence
+Saachjrupp:Arruuba	Aruba
+Äschermeddvoch	Ash Wednesday
+Aasije	Asia
+Saachjrupp:Aasije	Asia
+Asmara	Asmara
+ASEAN	Association of Southeast Asian Nations
+Asteroid	Asteroid
+Asteoridejüddel	Asteroid belt
+Saachjrupp:Astronomie	Astronomy
+AU (Watt ėßß datt?)	Au
+Aujußß (Moohnd)	August
+1. Aujußß	August 1
+15. Aujußß	August 15
+6. Aujußß	August 6
+Hillije Aujustin	Augustine of Hippo
+Ößtrish	Austria
+Saachjrupp:Bahamas	Bahamas
+Saachjrupp:Bahrain	Bahrain
+Bamako	Bamako
+Bangui	Bangui
+Banjul	Banjul
+E-Bass	Bass guitar
+Bajore (Bundesland)	Bavaria
+Bier (för ze drinke)	Beer
+Saachjrupp:Bier	Beer
+Belljie	Belgium
+Benin	Benin
+Bälliin (Bundesland)	Berlin
+Saachjrupp:Bälliin	Berlin
+Bill Clinton	Bill Clinton
+Bissau	Bissau
+Schwaz (Färv)	Black
+Peffer	Black pepper
+Bonn	Bonn
+Botswana	Botswana
+Saachjrupp:Boxer	Boxers
+Brandeborsch (Bundesland)	Brandenburg
+Messing	Brass
+Brut	Bread
+Breme (Bundesland)	Bremen (state)
+Brunei	Brunei
+Bujumbura	Bujumbura
+Bulljaarije	Bulgaria
+Saachjrupp:Burkina Faso	Burkina Faso
+Müjanmaar	Burma
+Saachjrupp:Burundi	Burundi
+CD (Watt ėßß datt?)	CD (disambiguation)
+Kooche	Cake
+Kohlenstoff	Carbon
+Karneval	Carnival
+Charlie Chaplin	Charlie Chaplin
+Panz	Child
+Hillish Ovendt	Christmas Eve
+Kreßßboum	Christmas tree
+Christoph Kolumbus	Christopher Columbus
+Kriiß (Mattematik)	Circle
+Pluute	Clothing
+Jrovvötsnäähl	Clove
+Kola	Cola
+Kölle	Cologne
+Komet	Comet
+Computertomography	Computed tomography
+Conakry	Conakry
+Konggo (Watt ėßß datt?)	Congo
+Kontinänt	Continent
+Koffer (Metall)	Copper
+Cornwall	Cornwall
+Saachjrupp:Costa Rica	Costa Rica
+Curitiba	Curitiba
+Tshäshäij	Czech Republic
+Dakar	Dakar
+Dalai Lama	Dalai Lama
+Shtoudamm	Dam
+Duud Meer	Dead Sea
+Dezemmber	December
+31. Dezemmber	December 31
+8. Dezemmber	December 8
+Dänemarrək	Denmark
+Saachjrupp:Dänemarrək	Denmark
+Dijalägk	Dialect
+Saachjrupp:Woot met mieh wi ëijnem Senn	Disambiguation
+Djibouti City	Djibouti (city)
+Dodoma	Dodoma
+Kuppel	Dome
+Trommel (Mussikk)	Drum
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Ääd (Planeet)	Earth
+Deutsche Demokratische Republik	East Germany
+Ostere	Easter
+Edmund Hillary	Edmund Hillary
+Saachjrupp:El Salvador	El Salvador
+Elektron	Electron
+Nohkixel	Encyclopedia
+Enzym	Enzyme
+Dreijkünningsdaach	Epiphany (Christian)
+Eris	Eris (dwarf planet)
+Esperanto	Esperanto
+Europa (Kontinänt)	Europe
+Europäish Unjon	European Union
+Jeseesch	Face
+Febrowaa	February
+12. Febrowaa	February 12
+14. Febrowaa	February 14
+2. Febrowaa	February 2
+22. Febrowaa	February 22
+29. Febrowaa	February 29
+Finnlandt	Finland
+Fesch	Fish
+Fleut (Mussik)	Flute
+Frangkrisch	France
+Saachjrupp:Frankrish	France
+Francisco Pizarro	Francisco Pizarro
+Frankfurt am Main	Frankfurt
+Saachjrupp:Frankfort (Main)	Frankfurt
+Frankfocht (Watt ėßß datt?)	Frankfurt (disambiguation)
+Franklin Pierce	Franklin Pierce
+Freetown	Freetown
+Friidaach	Friday
+Saachjrupp:Houpschublaad	Fundamental
+Gaborone	Gaborone
+Jenua (Shtadt)	Genoa
+Saachjrupp:Äädtkondt	Geography
+George Bush (Watt ėßß datt?)	George Bush
+George W. Bush	George W. Bush
+Gejorgije	Georgia (country)
+Gerald Ford	Gerald Ford
+Deutsche Shprooch	German language
+Dütschland	Germany
+Saachjrupp:Deutschland	Germany
+Jold	Gold
+Ave Maria	Hail Mary
+Hamborsch	Hamburg
+Harare	Harare
+Hätz	Heart
+Hektar	Hectare
+Helium	Helium
+Heßße (Bundesland)	Hesse
+Hispaniola	Hispaniola
+Heiliges Römisches Reich deutscher Nation	Holy Roman Empire
+Shtůndt	Hour
+Huß	House
+Minsh	Human
+Wasserstoff	Hydrogen
+Ies (för ze esse, Üvversich)	Ice cream
+Inndije	India
+Industrie	Industry
+Pepps	Influenza
+Ingmar Bergman	Ingmar Bergman
+SI-Basiseinheite	International System of Units
+Engornät	Internet
+Eisen	Iron
+Ėnsel	Island
+Israel	Israel
+Italië	Italy
+Jacques Offenbach	Jacques Offenbach
+James Monroe	James Monroe
+Jannowaa	January
+1. Jannowaa	January 1
+19. Jannowaa	January 19
+20. Jannowaa	January 20
+6. Jannowaa	January 6
+Jesus Christus	Jesus
+Jimmy Carter	Jimmy Carter
+Johannes Kepler	Johannes Kepler
+John Adams (Präsident)	John Adams
+John Quincy Adams	John Quincy Adams
+John Tyler	John Tyler
+Joule (Mohß)	Joule
+Juuli (Moohnd)	July
+1. Juuli	July 1
+4. Juuli	July 4
+Juuni	June
+14. Juuni	June 14
+21. Juuni	June 21
+23. Juuni	June 23
+24. Juuni	June 24
+29. Juuni	June 29
+3. Juuni	June 3
+Juppitter (Planneet)	Jupiter
+Juppitter (Watt ėßß datt?)	Jupiter (disambiguation)
+Kampala	Kampala
+Saachjrupp:Kansas	Kansas
+Kigali	Kigali
+Masse	Kilogram
+Killomeeter	Kilometre
+Kinshasa	Kinshasa
+Buz	Kiss
+Konrad Adenauer	Konrad Adenauer
+Kosovo	Kosovo
+Kuiperjöödel	Kuiper belt
+PKK	Kurdistan Workers Party
+Sprooch	Language
+Latein Ammärrika	Latin America
+Saachjrupp:Lättlandt	Latvia
+Laache (Donn)	Laughter
+Blëij	Lead
+Schalldtjoohr	Leap year
+Boochshtaave (Allfabet)	Letter (alphabet)
+Libreville	Libreville
+Lishtenshtäjn (Fööschtedomm)	Liechtenstein
+Lilongwe	Lilongwe
+Shproocheweßßeschaff	Linguistics
+Lithium	Lithium
+Littaue	Lithuania
+Saachjrupp:Littaue	Lithuania
+Nėederdeutsch (Shprooch)	Low German
+Needersachse (Bundesland)	Lower Saxony
+Luanda	Luanda
+Luciano Pavarotti	Luciano Pavarotti
+Lusaka	Lusaka
+Luxembursh (Jruußhächzochdom)	Luxembourg
+LysergSäureDiäthylamid	Lysergic acid diethylamide
+Maddajaßka	Madagascar
+Main (Floß)	Main
+Malabo	Malabo
+Määz	March
+17. Määz	March 17
+19. Määz	March 19
+2. Määz	March 2
+25. Määz	March 25
+Machß (Watt ėßß datt?)	Mars (disambiguation)
+Martin Van Buren	Martin Van Buren
+Maseru	Maseru
+Meij	May
+1. Meij	May 1
+24. Meij	May 24
+Mbabane	Mbabane
+Merrkuur (Watt ėßß datt?)	Mercury
+Merrkuur (Planneet)	Mercury (planet)
+Läng	Metre
+Meddelallder	Middle Ages
+Saachjrupp:Meddelallder	Middle Ages
+Medtlerre Oßte	Middle East
+Milesch	Milk
+Millard Fillmore	Millard Fillmore
+Milljohn	Million
+Menutt (Zigk)	Minute
+Mogadishu	Mogadishu
+Monakko	Monaco
+Moondach	Monday
+Monrovia	Monrovia
+Moohnd (Kalländo)	Month
+Moond (Ääd)	Moon
+Vesuv	Mount Vesuvius
+Saachjrupp:Mussikk	Music
+Inßtrumännt (Mussik)	Musical instrument
+N'Djamena	N'Djamena
+Nairobi	Nairobi
+Namibia	Namibia
+Saachjrupp:Namibija	Namibia
+Nauru	Nauru
+Nationalsozialistische Deutsche Arbeiterpartei	Nazi Party
+Nofretete	Nefertiti
+Nelson Mandela	Nelson Mandela
+Nepptuun (Planneet)	Neptune
+Nederläng	Netherlands
+Neutron	Neutron
+Neue Welt	New World
+New York	New York City
+Newton (Mohß)	Newton
+Niamey	Niamey
+Stickstoff	Nitrogen
+Nochd Ammärrika	North America
+Norrveeje	Norway
+Saachjrupp:Norrveje	Norway
+Nahß	Nose
+Nouakchott	Nouakchott
+Novemmber	November
+1. Novemmber	November 1
+11. Novemmber	November 11
+2. Novemmber	November 2
+5. Novemmber	November 5
+Novial (Shprooch)	Novial
+Ozejaanije	Oceania
+Oktoober	October
+12. Oktoober	October 12
+24. Oktoober	October 24
+Öllisch	Onion
+Oortsche Wolke	Oort cloud
+Benediktinerorde	Order of Saint Benedict
+Sauerstoff	Oxygen
+Paris	Paris
+Pingste	Pentecost
+Faase (Schimii)	Phase (matter)
+Pi (Kräjßzal)	Pi
+Planet (Aßtronomie)	Planet
+Pluuto (Zwerchplaneet)	Pluto
+Pluuto (Watt ėßß datt?)	Pluto (disambiguation)
+Saachjrupp:Poole	Poland
+Politiker	Politician
+Port Louis	Port Louis
+Postleitzahl	Postal code
+Ääpel	Potato
+Pongk	Pound (mass)
+Proton	Proton
+Pomp (Maschin)	Pump
+Rään	Rain
+Rhing	Rhine
+Richard Nixon	Richard Nixon
+Rom (Italije)	Rome
+Ronald Reagan	Ronald Reagan
+Nikolaus von Myra	Saint Nicholas
+Seiver	Saliva
+Sammpßtaach	Saturday
+Satturrən (Planneet)	Saturn
+Satturrən (Watt ėßß datt?)	Saturn (disambiguation)
+Woosch	Sausage
+Saachjrupp:Skandinavije	Scandinavia
+Sekůndt	Second
+Sepptämmber	September
+11. Sepptämmber	September 11
+Anschlääch vam 11. September 2001	September 11
+17. Sepptämmber	September 17
+29. Sepptämmber	September 29
+Silizium	Silicon
+Silber	Silver
+Sunnesystem	Solar System
+Leed (Mussik)	Song
+Süüd Ammärrika	South America
+Steern	Star
+Schablon:Stub	Stub
+Sunndaach	Sunday
+Shvede (Europa)	Sweden
+Saachjrupp:Shveede	Sweden
+Schwäjz	Switzerland
+Deshdënniß	Table tennis
+Tee (För ze Drinke)	Tea
+Tënnėß	Tennis
+Relativitätstheorie	Theory of relativity
+Thomas Paine	Thomas Paine
+Dunnerßdaach	Thursday
+Zickzon	Time zone
+Tuur d Frongß	Tour de France
+Stadt	Town
+Zoch (Baan)	Train
+Trippolliß	Tripoli
+Dinnßdaach	Tuesday
+Tunis	Tunis
+Tuvalu	Tuvalu
+Shwatzleesh	Ultraviolet
+Jrußbrittannije	United Kingdom
+Ammilandt	United States
+Saachjrupp:USA	United States
+Weltall	Universe
+Urranuß (Planneet)	Uranus
+Fattikahn	Vatican City
+Saachjrupp:Fattikahn	Vatican City
+Veenuß (Planneet)	Venus
+Veenuß (Watt ėßß datt?)	Venus (disambiguation)
+Dörp	Village
+Vilnius	Vilnius
+Wodka	Vodka
+Volt (Mohß)	Volt
+Kreech	War
+Wasser	Water
+Watt (Mohß)	Watt
+Brauser	Web browser
+Mettwoch	Wednesday
+Woch	Week
+Jeweech	Weight
+Wiesbaden	Wiesbaden
+Frauminsch	Woman
+Eezte Weltkreech	World War I
+Juri Alexejewitsch Gagarin	Yuri Gagarin
+Zachary Taylor	Zachary Taylor
+Simbabwe	Zimbabwe

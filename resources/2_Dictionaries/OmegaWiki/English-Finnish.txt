@@ -1,0 +1,5403 @@
+English	Finnish
+AIDS	aids
+AOX value	AOX-pitoisuus
+ASEAN ; Association of Southeast Asian Nations	Kaakkois-Aasian valtioiden liitto
+Abidjan	Abidjan
+Abkhazia	Abhasia
+Abuja	Abuja
+Adelaide	Adelaide
+Adriatic Sea	Adrianmeri
+Aegean Sea	Aigeianmeri ; Egeanmeri
+Afar ; Afar	afar
+Afghanistan ; Transitional Islamic State of Afghanistan	Afganistan
+Africa	Afrikka
+Afrikaans	afrikaans
+Albania ; Republic of Albania	Albania
+Algeria ; People's Democratic Republic of Algeria	Algeria
+Alps	Alpit
+American Samoa	Amerikan Samoa
+American football ; American football	amerikkalainen jalkapallo
+Americas	Pohjois- ja Etelä-Amerikka
+Ames test	Ames-testi
+Amsterdam	Amsterdam
+Andorra ; Principality of Andorra	Andorra
+Angola ; Republic of Angola	Angola
+Anguilla	Anguilla
+Antarctic Ocean ; Southern Ocean	Eteläinen jäämeri
+Antarctic ecosystem	antarktinen ekosysteemi
+Antarctica	Etelänapamanner
+Antigua and Barbuda	Antigua ja Barbuda
+April	huhtikuu
+Apus	Paratiisilintu
+Aquarius	Vesimies
+Aquila	Kotka
+Arabic ; Standard Arabic	arabia
+Arctic Ocean	Pohjoinen jäämeri
+Arctic ecosystem	arktinen ekosysteemi
+Argentina ; Argentine Republic	Argentiina
+Aries	Oinas
+Arizona	Arizona
+Armenia	Armenia
+Armenian	armenialainen ; armenia
+Articulata	niveljalkaiset
+Aruba	Aruba
+Asia	Aasia
+Asteraceae ; sunflower family ; Compositae ; daisy family ; aster family	Asterikasvit
+Astur-Leonese ; Asturian ; Asturian-Leonese ; Astur	asturia
+Athens	Ateena
+Atlantic Ocean	Atlantin valtameri
+August	elokuu ; kylvökuu ; mätäkuu
+Australia ; Commonwealth of Australia	Australia
+Austria ; Republic of Austria	Itävalta
+Azerbaijan ; Republic of Azerbaijan	Azerbaidžan
+Azerbaijani ; Azeri ; Azerbaijani Cluster	azerbaidžani
+Azores	Azorit
+BBS ; bulletin board system	sähköinen ilmoitustaulu
+Bahamas ; Commonwealth of the Bahamas ; Bahama Islands	Bahama
+Bahrain	Bahrain
+Balearic Islands	Baleaarit
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Barbados	Barbados
+Basque ; Basque	baski
+Bavaria	Baijeri
+Beijing	Peking
+Belarus ; Republic of Belarus	Valko-Venäjä
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	valkovenäjä
+Belgium ; Kingdom of Belgium	Belgia
+Belize	Belize
+Belmopan	Belmopan
+Bengali ; Bengali	bengali
+Benin ; Benin ; Republic of Benin	Benin ; Benin
+Berlin	Berliini
+Bermuda	Bermuda
+Berne	Bern
+Bethlehem	Betlehem
+Bhutan ; Kingdom of Bhutan	Bhutan
+Bible	Raamattu
+Birmingham	Birmingham
+Black Sea	Musta meri
+Bokmål	kirjanorja
+Bolivia ; Republic of Bolivia	Bolivia
+Bonn	Bonn
+Borneo ; Kalimantan	Borneo
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosnia ja Hertsegovina ; Bosnia-Hertsegovina
+Botswana ; Republic of Botswana	Botswana
+Bourgogne	Burgundi
+Bouvet Island	Bouvet'nsaari
+Boötes	Karhunvartija
+Brazil	Brasilia
+Breton ; Breton	bretoni
+British Indian Ocean Territory ; BIOT	Brittiläinen Intian valtameren alue
+Brunei ; Negara Brunei Darussalam	Brunei
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Bulgarian	bulgarialainen
+Bulgarian ; Bulgarian	bulgaria
+Burkina Faso	Burkina Faso
+Burundi ; Republic of Burundi	Burundi
+CD-ROM	CD-ROM
+CD-ROM search service	CD-ROM-hakupalvelu
+CFC ; chlorofluorocarbon	freoni
+CFC and halons prohibition	CFC-yhdisteiden ja halonien kieltäminen
+Cairo	Kairo ; Kairo ; Kairo
+Cambodia ; Kingdom of Cambodia	Kambodža
+Cameroon ; Republic of Cameroon	Kamerun
+Canada	Kanada
+Cancer	Krapu
+Canes Venatici	Ajokoirat
+Canis Major	Iso koira
+Canis Minor	Pieni koira
+Cape Verde ; Republic of Cape Verde	Kabo-Verdo
+Caribbean Area ; Caribbean	Karibian meri
+Caribbean Sea	Karibianmeri
+Caspian Sea	Kaspian meri
+Cassiopeia	Kassiopeia
+Castilian ; Spanish ; Spanish	espanja
+Catalan ; Catalan	katalaani
+Central Africa	Keski-Afrikka
+Central African Republic	Keski-Afrikan tasavalta
+Central America	Keski-Amerikka
+Central Asia	Keski-Aasia
+Chad ; Republic of Chad	Tšad
+Chechen ; Chechen	tšetšeeni
+Chihuahua	Chihuahua
+Chihuahua ; chihuahua	chihuahua
+Chile ; Republic of Chile	Chile
+Christmas	Joulu
+Christmas Island	Joulusaari
+Christmas tree	joulukuusi ; joulupuu
+Chuvash ; Chuvash ; Chuwash ; Chovash ; Chavash ; Chttash	tšuvassi
+Colombia ; Republic of Colombia	Kolumbia
+Community act	yhteisön säädös
+Community budget	yhteisön talousarvio
+Community finance	yhteisön raha-asiat
+Community law	yhteisöoikeus
+Community legal system	yhteisön oikeusjärjestelmä
+Community ruling	yhteiskunnan päätös
+Comoros ; Union of the Comoros	Komorit
+Cook Islands	Cookinsaaret
+Copenhagen	Kööpenhamina ; Köpis
+Corfu	Korfu
+Cornish	korni
+Costa Rica ; Republic of Costa Rica	Costa Rica
+Court of Justice of the European Communities	es  Euroopan yhteisöjen tuomioistuin
+Croatia ; Republic of Croatia	Kroatia
+Croatian ; Croation	kroatia
+Cuba ; Republic of Cuba	Kuuba
+Cyprus ; Republic of Cyprus	Kypros
+Cyrillic alphabet	kyrillinen kirjaimisto
+Czech ; Czech	tšekki
+Czech Republic ; Czechia	Tšekki ; Tšekin tasavalta
+DDT ; dichloro-diphenyl-trichloroethane	DDT
+DNA ; deoxyribonucleic acid	DNA
+Dagestan	Dagestan
+Dakar	Dakar
+Danish	tanska
+December	joulukuu ; talvikuu
+Definition ; definition	määritelmä
+Delaware	Delaware
+Democratic Republic of the Congo ; Congo-Kinshasa	Kongon demokraattinen tasavalta ; Kinshasan Kongo ; Kongo-Kinshasa
+Denmark ; Kingdom of Denmark	Tanska
+Djibouti ; Republic of Djibouti	Djibouti
+Dominica ; Commonwealth of Dominica	Dominica
+Dominican Republic	Dominikaaninen tasavalta
+Down syndrome ; Down’s syndrome	Downin oireyhtymä
+Dublin	Dublin
+Dutch	hollanti
+EC Council of Ministers	EY:n ministerineuvosto
+EC Treaty	EY:n perustamissopimus
+EC directive	EY:n direktiivi
+EC directive on biocides	EY:n direktiivi torjunta-aineista
+EC directive on waste disposal	EY:n direktiivi jätehuollosta
+EC directive on water protection	EY:n direktiivi vesiensuojelusta
+EC ecolabel	EY:n ympäristömerkki
+EC policy	EY:n politiikka
+EC regulation	EY:n asetus
+EC regulation on eco-management and audit	t  EY:n asetus ympäristönhallinnasta
+EC regulation on existing chemicals	EY:n asetus olemassaolevista kemikaaleista
+EIA (local)	ympäristövaikutusten arviointi
+EIA ; environmental impact assessment	ympäristövaikutusten arviointi
+EIA directive	ympäristövaikutusten arviointiohje
+EIA law	laki ympäristövaikutusten arvioinnista
+EU ; European Union	Euroopan unioni
+EU Council	EU:n neuvosto
+Earth-Sun relationship	Maan ja Auringon suhteet
+East Africa	Itä-Afrikka
+East Timor ; Democratic Republic of Timor-Leste	Itä-Timor
+East-West relations	idän ja lännen suhteet
+East-West trade	idän ja lännen välinen kauppa
+Easter	pääsiäinen
+Eastern Asia ; East Asia	Itä-Aasia
+Eastern Europe	Itä-Eurooppa
+Ecuador ; Republic of Ecuador	Ecuador
+Egypt ; Arab Republic of Egypt	Egypti
+Eiffel Tower	Eiffelin torni
+El Salvador ; Republic of El Salvador	El Salvador
+England	Englanti
+English	englanti
+English garden	englantilainen puutarha
+Equatorial Guinea ; Republic of Equatorial Guinea	Päiväntasaajan Guinea
+Erevan ; Yerevan	Jerevan
+Eritrea	Eritrea
+Esperanto ; Esperanto	esperanto
+Estonia ; Republic of Estonia	Eesti
+Estonian	viro
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopia
+Euratom	Euratom
+Europe	Eurooppa
+European Commission	Euroopan komissio
+European Communities	Euroopan yhteisöt
+European Court of Justice	Euroopan yhteisöjen tuomioistuin
+European Environment Agency	Euroopan ympäristökeskus
+European Environmental Council	Euroopan ympäristöneuvosto
+European Monetary Fund	Euroopan valuuttarahasto
+European Monetary System ; EMS	Euroopan valuuttajärjestelmä
+European Parliament	Euroopan parlamentti
+European nature reserve	eurooppalainen luonnonsuojelualue
+European standard	eurooppalainen normi
+Falkland Islands	Falklandinsaaret
+Faroe Islands	Färsaaret
+Faroese ; Faeroese	fääri
+February	helmikuu
+Fiji ; Republic of the Fiji Islands	Fidži
+Finland ; Republic of Finland	Suomi ; Suomen Tasavalta
+Finnish	suomen kieli ; suomi
+Flanders ; Flemish region	Flanderi
+Flemish	flaami
+Flevoland	Flevoland
+France	Ranska
+French ; French	ranska
+French Guiana	Ranskan Guayana
+French Polynesia	Ranskan Polynesia
+French Revolution	Ranskan suuri vallankumous
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Ranskan eteläiset ja antarktiset alueet
+French formal garden	ranskalaistyylinen puutarha
+Frenchman	ranskalainen
+Friday	perjantai
+Frisian ; Western Frisian	friisi
+GDP ; gross domestic product	bruttokansantuote
+GDR ; German Democratic Republic	DDR ; Saksan demokraattinen tasavalta
+GIS digital format	kartografinen tietojärjestelmä numeerisessa muodossa
+GIS digital system	kartografinen numeerinen tietojärjestelmä
+GIS digital technique	kartografisen tietojärjestelmän numeerinen tekniikka
+GIS laboratory	kartografisen tietojärjestelmän laboratorio
+Gabon ; Gabonese Republic	Gabon
+Gaborone	Gaborone
+Galician ; Galician	galicia
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambia ; Gambia ; Gambia ; Gambia ; Gambia ; Gambia
+Gaza Strip	Gazan kaista
+Gemini	Kaksoset
+Georgia	Georgia
+Georgian ; Georgian	georgia
+German	saksa ; saksan kieli
+German	saksalainen
+Germany ; Federal Republic of Germany	Saksa
+Ghana ; Republic of Ghana	Ghana
+Gibraltar	Gibraltar
+Global Environment Facility ; GEF	Global Environment Facility -ohjelma
+Great Britain ; Britain	Iso-Britannia
+Greece ; Hellenic Republic	Kreikka
+Greek ; Greek	kreikka
+Greenland	Grönlanti
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam ; Guam ; Guam	Guam
+Guatemala ; Republic of Guatemala	Guatemala
+Guinea ; Republic of Guinea	Guinea
+Guinea-Bissau ; Republic of Guinea-Bissau	Guinea-Bissau
+Gujarati ; Gujarati	gudžarati
+Guyana ; Republic of Guyana	Guyana ; Guyanan kooperatiivinen tasavalta
+H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)	H5N1
+Haiti ; Republic of Haiti	Haiti
+Hannukah	hanukka ; Hanukka
+Hanover	Hannover
+Happy New Year	onnellista uutta vuotta
+Hebrew	heprea
+Hercules	Herkules
+Hercules	Herkules ; Herakles
+Hindi ; Hindi	hindi
+Holland ; Kingdom of the Netherlands ; The Netherlands	Hollanti ; Alankomaat
+Honduras ; Republic of Honduras	Honduras
+Hungarian	unkari
+Hungary ; Republic of Hungary	Unkari
+I	minä
+IMCO code	IMCO:n koodijärjestelmä
+IMF ; International Monetary Fund	Kansainvälinen valuuttarahasto
+ISO standard	ISO-standardi
+Iceland ; Republic of Iceland	Islanti
+Icelandic	islanti
+Ido ; Ido	ido
+India ; Republic of India	Intia
+Indian Ocean	Intian valatmeri
+Indonesia ; Republic of Indonesia	Indonesia
+Indonesian	indonesia
+International Court of Justice	Kansainvälinen tuomioistuin
+Internet	internet
+Iran ; Islamic Republic of Iran	Iran
+Iraq ; Republic of Iraq	Irak
+Ireland ; Republic of Ireland	Irlanti
+Irish ; Irish ; Irish Gaelic ; Irish	irlanti
+Islam	islam
+Isle of Man ; Isle of Mann ; Mann	Mansaari
+Israel ; State of Israel	Israel
+Italian ; Italian	italia
+Italian Republic ; Italy	Italia
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Norsunluurannikko
+Jakarta ; Djakarta ; DKI Jakarta	Jakarta ; Indonesia
+Jamaica	Jamaika
+January	tammikuu
+Japan ; State of Japan	Japani
+Japanese ; Japanese	japani
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Jordania
+Judaism	juutalaisuus
+July	heinäkuu
+June	kesäkuu ; suvikuu
+Jupiter	Jupiter
+Kannada ; Kannada	kannada
+Karelian	karjala
+Kazakh ; Kazakh	kazakki
+Kazakhstan ; Republic of Kazakhstan	Kazakstan
+Kenya ; Republic of Kenya	Kenia
+Khartoum	Khartum
+Khmer ; Central Khmer	khmer
+Kiribati ; Republic of Kiribati	Kiribati
+Korean ; Korean	korea
+Kosovo	Kosovo
+Krakow ; Cracow	Krakova
+Kuwait ; State of Kuwait	Kuwait
+Kyoto	Kioto
+Kyrgyzstan ; Kyrgyz Republic	Kirgisia
+Lagos	Lagos
+Laos ; Lao People's Democratic Republic	Laos
+Latin ; Latin	latina
+Latvia ; Republic of Latvia	Latvia
+Latvian ; Latvian	latvia
+Lausanne	Lausanne
+Lebanon ; Lebanese Republic	Libanon
+Leo	Leijona
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Libra	Vaaka
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libya
+Liechtenstein ; Principality of Liechtenstein	Liechtenstein
+Lithuania ; Republic of Lithuania	Liettua
+Lithuanian ; Lithuanian	liettua
+London	Lontoo
+Lower House	alahuone
+Lower Saxony	Ala-Saksi
+Luxembourg ; Grand Duchy of Luxembourg	Luxemburg
+Lyon	Lyon
+Macedonia ; Republic of Macedonia	Makedonia
+Macedonian ; Macedonian	makedonia
+Madagascar ; Republic of Madagascar	Madagaskar
+Malawi ; Republic of Malaŵi	Malawi
+Malayalam ; Malayalam	malajalam
+Malaysia	Malesia
+Maldives ; Republic of the Maldives	Malediivit
+Mali ; Republic of Mali	Mali
+Malta ; Republic of Malta	Malta
+Maori	maori
+March	maaliskuu
+Markov chain ; Markoff chain	Markovin ketju ; Markov-ketju
+Marshall Islands ; Republic of the Marshall Islands	Marshallinsaaret
+Martinique	Martinique
+Mauritania ; Islamic Republic of Mauritania	Mauritania
+Mauritius ; Republic of Mauritius	Mauritius
+May	toukokuu
+Mayotte	Mayotte
+Mecca	Mekka
+Mediterranean Area	Välimeren alue
+Mediterranean Sea	Välimeri
+Mediterranean climate	Välimeren ilmasto
+Mediterranean forest	Välimeren metsä
+Mediterranean wood	Välimeren metsikkö, puu
+Mercury	Merkurius
+Merry Christmas	hyvää joulua ; hauskaa joulua
+Mexico ; United Mexican States	Meksiko
+Micronesia ; Federated States of Micronesia	Mikronesia
+Milan	Milano
+Milky Way ; Galaxy	Linnunrata
+Milwaukee	Milwaukee
+Moldova	Moldova
+Monaco	Monaco
+Monday	maanantai
+Mongolia	Mongolia
+Montenegro	Montenegro
+Montserrat	Montserrat
+Morocco ; Kingdom of Morocco	Marokko
+Moscow	Moskova
+Mount Fuji	Fuji
+Mozambique	Mosambik
+Munich	München
+Myanmar	Myanmar
+NIMBY aptitude ; NIMBY attitude	"ei minun pihallani" -asenne
+NOEL	annos, joka ei aiheuta havaittavaa vaikutusta
+Nagorno-Karabakh	Vuoristo-Karabah
+Nairobi	Nairobi
+Namibia	Namibia
+Naples	Napoli
+Nauru ; Republic of Nauru	Nauru
+Nepal	Nepal
+Nepali ; Nepali	nepali
+Neptune	Neptunus
+New Caledonia	Uusi-Kaledonia
+New Year ; New Year's Day	uusivuosi
+New York	New York
+New Zealand	Uusi-Seelanti
+Nicaragua	Nicaragua
+Niger	Niger
+Nigeria	Nigeria
+Niue	Niue
+North Africa	Pohjois-Afrikka
+North America	Pohjois-Amerikka
+North Atlantic Ocean	Pohjois-Atlantti
+North Korea ; Democratic People's Republic of Korea	Pohjois-Korea
+North-South relationship	pohjoisen ja etelän suhteet
+Northern Ireland	Pohjois-Irlanti
+Norway ; Kingdom of Norway	Norja
+November	marraskuu
+Novial	novial
+Nuuk	Nuuk
+Oceania	Oseania
+October	lokakuu
+Oman ; Sultanate of Oman	Oman
+Orleans	Orléans
+Oslo	Oslo
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Palau	Palau
+Panama	Panama
+Papua New Guinea	Papua-Uusi-Guinea
+Paraguay	Paraguay
+Paris	Pariisi
+Parliament	parlamentti
+People's Republic of China ; China	Kiina
+Persian ; Western Farsi ; Farsi	persia
+Peru ; Republic of Peru	Peru
+Philadelphia	Philadelphia
+Philippines	Filippiinit
+Piedmontese ; Piedmontese ; Piemontese ; Piemontese	piemonte
+Poland	Puola
+Polish ; Polish	puola
+Portugal	Portugali
+Portuguese ; Portuguese	portugalilainen ; portugali
+Puerto Rico	Puerto Rico
+Pyrenees	Pyreneet
+Qatar	Qatar
+Ramadan	ramadan
+Republic of the Congo ; Congo-Brazzaville	Kongon tasavalta
+Rhône	Rhône
+Romania	Romania
+Romanian ; Romanaian	romania
+Rome	Rooma
+Russia ; Russian Federation	Venäjä
+Russian ; Russian	venäjä
+Sagittarius	Jousimies
+Saint-Pierre and Miquelon	Saint-Pierre ja Miquelon
+Sakhalin ; Saghalien	Sahalin
+Samoa	Samoa
+San Marino	San Marino
+Sanskrit ; Sanskrit	sanskrit
+Saturday	lauantai
+Saturn	Saturnus
+Saudi Arabia ; Kingdom of Saudi Arabia	Saudi-Arabia
+Saxony	Saksi
+Scorpio	Skorpioni
+Scotland	Skotlanti
+Seine	Seine
+Senegal	Senegal
+September	syyskuu
+Serbia	Serbia
+Serbia and Montenegro	Serbia ja Montenegro
+Seychelles ; Republic of Seychelles	Seychellit
+Sierra Leone	Sierra Leone
+Singapore	Singapore
+Slovak ; Slovak	slovakki
+Slovakia	Slovakia
+Slovene ; Slovenian ; Slovenian	sloveeni
+Slovenia	Slovenia
+Sochi	Sotši
+Solomon Islands	Salomonsaaret
+Somali ; somali	somali
+South Africa	Etelä-Afrikka ; Etelä-Afrikan tasavalta
+South America	Etelä-Amerikka
+South Korea ; Republic of Korea	Etelä-Korea
+Southeast Asia	Kaakkois-Aasia
+Southern Asia ; South Asia	Etelä-Aasia
+Spain	Espanja
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Sun King	Aurinkokuningas
+Sunday	sunnuntai
+Suriname	Suriname
+Sweden	Ruotsi
+Swedish	ruotsi
+Switzerland	Sveitsi
+Syria ; Syrian Arab Republic	Syyria
+Taiwan	Taiwan
+Tajik	tadžikki
+Tajikistan	Tadžikistan
+Tamil ; Tamil	tamili
+Tanzania	Tansania
+Tatar ; Tatar	tataari
+Taurus	Härkä
+Tehran	Teheran
+Telugu ; Telugu	telugu
+Tennessee	Tennessee
+Thai ; Thai	thai
+Thailand	Thaimaa
+The Hague	Haag
+Thuringia	Thüringen
+Thursday	torstai
+Togo	Togo
+Tokyo	Tokio
+Tonga	Tonga
+Toronto	Toronto
+Tuesday	tiistai
+Tunisia	Tunisia
+Turkey	Turkki
+Turkish ; Turkish	turkki
+Turkmenistan	Turkmenistan
+UN ; United Nations	Yhdistyneet Kansakunnat
+Uganda ; Republic of Uganda	Uganda
+Ukraine	Ukraina
+Ukrainian ; Ukrainian	ukraina
+United Arab Emirates	Arabiemiirikunnat
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta ; Yhdistynyt kuningaskunta
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Amerikan Yhdysvallat ; Yhdysvallat
+Uranus	Uranus
+Urdu ; Urdu	urdu
+Utah	Utah
+Vaduz	Vaduz
+Vatican City ; The Holy See ; State of the Vatican City	Vatikaanivaltio
+Venezuela	Venezuela
+Venice	Venetsia
+Venus	Venus
+Vietnamese ; Vietnamese	vietnamin ; vietnam
+Volapük	volapük
+Volga	Volga
+Wales	Wales
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Wallis- ja Futunasaaret
+Walloon ; Walloon	walloo
+Wednesday ; quarta-feira	keskiviikko
+Welsh ; Welsh	kymri
+Western Asia ; Southwest Asia	Länsi-Aasia
+Western Europe	Länsi-Eurooppa
+Wikipedia	Wikipedia
+Wiktionary	Wikisanakirja
+World Wide Web ; WWW	www
+Wyoming	Wyoming
+Yemen ; Republic of Yemen	Jemen
+Yiddish	jiddiš
+Yugoslavia	Jugoslavia
+Zambia ; Republic of Zambia	Sambia
+Zanzibar	Sansibar
+Zimbabwe ; Republic of Zimbabwe	Zimbabwe
+Zulu	zulu
+aAmplitude ; amplitude	amplitudi
+aback	häkeltynyt
+abandoned industrial site	hylätty maa-alue
+abandoned vehicle ; car wreck	hylätty ajoneuvo
+abasement	nöyryytys
+abbreviation	lyhenne
+abhor ; loathe ; detest	kammota
+abiotic environment	eloton ympäristö
+abiotic factor	abioottinen tekijä
+abortive	epäonnistunut
+abrasive	hankaava
+abridge	lyhentää
+abscess	paise
+absolutely	ehdottomasti
+absorption	imeytyminen
+acceleration	kiihtyvyys
+acceptable daily intake	lisäaineen päivittäinen saanti ilman terveydellistä vaaraa
+acceptable risk level	sallittu riskin taso
+acceptance ; credence	hyväksyminen
+access road	liittymätie ; sisääntulotie
+access to administrative documents	hallinnollisten asiakirjojen saatavuus
+access to culture	kulttuuripalvelujen saatavuus
+access to information	tiedonsaanti
+access to the courts	tuomioistuimiin pääsy
+accident	onnettomuudet
+accident source ; cause of the accident	onnettomuuden aiheuttaja
+accidental release of organisms	organismien satunnainen leviäminen
+accordion ; squeeze box ; piano accordion	harmonikka
+account	lasku
+accountancy	kirjanpito
+accounting	kirjanpito
+accounting system	kirjanpitomenetelmä
+accumulator	akku ; varaaja
+acid	hapot
+acid deposition	hapan laskeuma
+acid rain	happosade, hapan sade
+acidification	happamoituminen
+acidity	happamuus
+acidity degree	happamuusaste
+acne	akne
+acorn	tammenterho
+acoustic comfort	äänieristys
+acoustic filter ; audio filter	äänisuodatin
+acoustic insulation	äänieristys
+acoustic level ; sound pressure level	äänitaso
+acoustic property	akustinen ominaisuus
+acoustical quality	akustinen laatu
+acoustics	akustiikka
+acquisition	hankinta
+acrid	kitkerä
+act ; deed	asiakirjat ; lait ; teot ; toimenpiteet
+actinide	aktinidi
+actinium	aktinium
+action group ; action committee	toimintaryhmä
+activated carbon	aktiivihiili, tehohiili
+activated sludge	aktivoitu liete, aktiiviliete ; aktivoitu liete ; aktiiviliete
+active participation	aktiivinen osallistuminen
+active population	työssä käyvä väestö
+activist	aktivisti
+adaptation period	sopeutumisaika
+add	summata
+addition	yhteenlasku
+additional packaging	lisäpakkaus
+additive	lisäaine
+adequate food supply	riittävä ruuan saanti
+adhesive	liima ; liima, liima-aine ; liima-aine
+adjective ; describing word	adjektiivi
+adjust	säädä
+administration ; direction ; management	hallinto
+administrative body ; administrative organ	hallinnollinen elin
+administrative boundary	hallinnollinen raja
+administrative competence ; administrative ability	hallinnollinen toimivalta
+administrative deed	hallinnollinen asiakirja
+administrative fiat	hallinnollinen määräys
+administrative instructions	hallinnollinen ohje
+administrative law	hallinto-oikeus
+administrative occupation	hallinnollinen työ
+administrative organisation	hallinnollinen organisaatio
+administrative procedure	hallinnollinen menettely
+administrative sanction	hallintosanktio
+adoption	adoptointi
+adsorption	adsorptio ; pintaan pidättyminen ; pintaan pidätys
+adult	aikuinen
+adult education	aikuiskoulutus
+advance	ennakko ; förskotti
+adverb	adverbi
+advertisement ; promotion	ilmoitus ; mainos
+advice	neuvonta
+aeration	ilmastus
+aerial	antenni
+aerial photograph	ilmakuva
+aerial photography	ilmakuvaus
+aerobic process	aerobinen prosessi
+aerobic treatment	aerobinen käsittely
+aerobiology	aerobiologia
+aerodynamic noise	aerodynaaminen melu
+aerosol	aerosoli
+aesthetics	estetiikka
+afforestation ; tree planting ; afforestment	metsitys, metsän istuttaminen ; metsitys ; metsän istuttaminen
+afterburning ; afterburning ; afterburner	jälkipoltto
+age	ikä
+aggressive	hyökkäävä
+aggressor ; assailant ; attacker ; assaulter	ahdistelija
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agorafobia
+agreement	sopimus
+agri-foodstuff	maataloudesta saatavat elintarvikkeet
+agricultural biotechnology	maatalousbiotekniikka
+agricultural building	talousrakennus
+agricultural disaster	maatalouden suurvahinko
+agricultural ecology ; agroecology	maatalousekologia
+agricultural economics	maataloustiede, maanviljelystaloustiede
+agricultural effluent	maatalouden jätevesi
+agricultural engineering	maatalouden vesirakennus
+agricultural equipment	maatalousvälineistö
+agricultural equipment ; agricultural machinery ; farm machinery	maanviljelyskoneisto ; maatalousvälineistö
+agricultural exploitation	maatalous
+agricultural hydraulics	maataloushydrauliikka
+agricultural land	viljelysmaa, maatalousmaa
+agricultural landscape	maatalousmaisema
+agricultural legislation	maatalouslainsäädäntö
+agricultural management	maatilan hoito
+agricultural method	maanviljelystekniikka
+agricultural pest	maatalouden tuhoeläin
+agricultural planning	maatalouden suunnittelu
+agricultural policy	maatalouspolitiikka
+agricultural pollution	maatalouden aiheuttama saastuminen
+agricultural product	maataloustuote
+agricultural production ; farm production ; agricultural output	maataloustuotanto
+agricultural real estate	maatalouskiinteistö, tila
+agricultural storage	maatalousvarasto
+agricultural structure	maatalouden rakenne
+agricultural undervaluation	maataloustuotannon aliarvostus; maatalousmaan aliarvostus
+agricultural waste	maatalousjätteet
+agriculture	maatalous
+agriculture ; agriculture	maatalous ; maatalous
+agriculture and cattle industry	maatalous ja karjankasvatus
+agriculture framework plan	maatalouden kehyssuunnitelma
+agritourism	maatilamatkailu, -lomailu ; maatilamatkailu
+agrochemical	maatalouskemikaali
+agroforestry	lyhytkiertoviljely
+agroindustry	maatalouteen liittyvä teollisuus
+agrometeorology	maatalousmeteorologia
+agronomic value	maataloustuotannollinen arvo
+agronomy	agronomia
+agrosystem	agroekosysteemi
+aid policy	tukipolitiikka
+air	ilma
+air conditioning ; AC ; air-conditioning	ilmastointi
+air movement	ilman liikkeet; ilmakuljetus
+air pollutant	ilmansaaste
+air pollution	ilman saastuminen
+air quality	ilman laatu
+air quality control	ilman laadun valvonta
+air quality management	ilman laadun hallinta
+air quality monitoring	ilman laadun seuranta
+air sac ; alveolus	syvennys; hammaskuoppa; mehiläiskenno ; syvennys ; hammaskuoppa ; mehiläiskenno
+air safety	lentoturvallisuus
+air temperature	ilman lämpötila
+air traffic	ilmaliikenne
+air traffic law	ilmaliikennelainsäädäntö
+air transportation	ilmakuljetus
+air-water interaction	ilman ja veden vuorovaikutus
+airborne noise	ilmamelu
+aircraft	ilma-alus, lentokone ; ilma-alus ; lentokone
+aircraft noise	lentomelu
+airmail	lentoposti
+airport	lentokenttä
+airspace planning	ilmatilan suunnittelu
+alarm ; alert ; warning	hälytys
+alarm clock	herätyskello
+albinism	albinismi
+alchemist	alkemisti
+alchemy	alkemia
+alcohol	alkoholi
+alcoholism	alkoholismi
+alga	levät
+algal bloom	leväkukinta
+algicide ; algaecide	levämyrkky
+algorithm	algoritmi
+alibi	alibi
+alicyclic compound	alisyklinen yhdiste
+alicyclic hydrocarbon	alisyklinen hiilivety
+alignment	suuntaus ; suuntaus; suora linja ; suora linja
+aliphatic compound	alifaattinen yhdiste
+aliphatic hydrocarbon	alifaattinen hiilivety
+alkali soil	emäksinen maaperä
+alkaline ; element of group I ; alkaline metal ; alkali metal	emäksiset ; ryhmän I alkuaineet
+alkaline battery	alkaliparisto
+alkane ; paraffin ; methane series ; alkane series	alkaani
+alkyl compound	alkyyliyhdiste
+all-terrain vehicle	maastoauto
+allegory	allegoria
+allergen	allergian aiheuttaja
+allergy	allergia
+allocation ; allotment ; resource allotment	kohdentaminen; määräraha ; kohdentaminen ; määräraha
+allocation plan	kohdentamissuunnitelma
+allotropy	allotropia
+allowance	avustusmääräraha
+alloy	metalliseos
+alluvial plain	alluviaalitasanko
+alluvion ; flood ; overflowing ; inundation	liettymä, tulvamaa ; liettymä ; tulvamaa
+almanac	almanakka
+almond	manteli
+almost	lähes ; melkein
+alongside ; amongst ; with	kanssa
+alpha radiation	alfasäteily
+alphabet	aakkosto
+alternative material	vaihtoehtoinen materiaali
+alternative technology	vaihtoehtoinen tekniikka
+altitude	korkeus
+alumina	alumiinioksidi
+aluminium	alumiini
+aluminium container	alumiinisäiliö
+aluminium content	alumiinipitoisuus
+aluminium industry	alumiiniteollisuus
+amalgam	amalgaama
+ambassador	suurlähettiläs
+amber	meripihka
+ambitious	kunnianhimoinen
+ambulance	ambulanssi
+americium	amerikium
+amethyst	ametisti
+amine	amiini
+amino acid	aminohappo
+ammonia	ammoniakki
+ammonification	ammoniakkiutuminen ; ammonifikaatio
+ammonium	ammonium
+amphibian	sammakkoeläimet
+amphitheatre	amfiteatteri
+amusement park	huvipuisto
+anaconda	anakonda
+anaerobic process	anaerobinen prosessi
+anaerobic treatment	anaerobinen käsittely
+analogous	vastaava ; analoginen
+analogy	analogia
+analysis	analyysi
+analysis programme	analyysiohjelma
+analytical chemistry	analyyttinen kemia
+analytical equipment	analyyttiset varusteet
+analytical method	analyysimenetelmä
+anarchism	anarkismi
+anarchy	anarkia
+anatomy	anatomia
+anchor	ankkuri
+and	ja
+and ; as well as ; in addition to ; together with ; too	ja
+angel	enkeli
+angiosperm ; flowering plant	koppisiemeniset l. hedelmäkasvit ; kukkivat kasvit
+angling ; fishing ; line-fishing	onkiminen
+animal	eläimet
+animal behaviour	eläinten käyttäytyminen
+animal biology	eläinbiologia
+animal conservatory	eläintarha
+animal corridor	ekologinen käytävä
+animal damage	eläinvahinko
+animal disease	eläintauti
+animal displacement	eläinten siirtäminen
+animal ecology	eläinekologia
+animal excrement	eläinten ulosteet
+animal experiment	eläinkoe
+animal foodstuff	eläinravinto
+animal for slaughter	teuraseläin
+animal habitat	eläinten elinpaikka
+animal heritage	eläinperintö
+animal husbandry	karjanhoito
+animal manure	eläinten lanta
+animal migration	eläinten muutto, vaellus
+animal noise	eläinmelu
+animal nutrition	eläinten ravitsemus
+animal physiology	eläinfysiologia
+animal population	eläinkanta
+animal product	eläintuote
+animal production	eläintuotanto
+animal protection	eläintensuojelu
+animal reproduction	eläinten lisääntyminen
+animal resource	eläinvarat
+animal rights	eläinten oikeudet
+animal shelter	eläinsuoja
+animal species	eläinlaji
+animal species reintroduction	eläinlajien takaisinistutus
+animal trade	eläinkauppa
+animal waste	eläinjäte
+anime	anime
+anion	anioni
+anise	anis
+ankle ; talocrural joint	nilkka
+annelid	nivelmadot
+anniversary	vuosipäivä
+ant	muurahainen
+antagonism	vastakkaisuus; vihamielisyys ; vastakkaisuus ; vihamielisyys
+antelope	antilooppi
+anthropic activity	ihmisen toiminta
+anthropologic reserve	antropologinen suojelualue
+anthropologist	antropologi
+anthropology	antropologia
+antibiotic	antibiootti ; antibioottinen
+antibody	vasta-aine
+anticipation of danger	vaaran ennakointi
+antifouling agent	eliöntorjunta-aine
+antimony	antimoni
+antiparticle	antihiukkanen
+antipollution incentive	kannustin saastuttamisen ehkäisemiseksi
+antiquated plant	vanha laitos
+antiseismic regulation	säännös maanjäristysten vaikutusten vähentämiseksi
+antithesis	antitesi
+apartheid	apartheid
+apartment block	kerrostalo
+apathy	apatia
+aphorism	aforismi
+apiculture ; beekeeping	mehiläishoito
+apoptosis	apoptoosi
+apostle	apostoli
+appeal	muutoksenhaku
+appeal procedure	muutoksenhakumenettely
+apple	omena
+apple ; apple tree	omena ; omenapuu
+applied ecology	soveltava ekologia
+applied nutrition	soveltava ravitsemustiede
+applied research	soveltava tutkimus
+applied science	soveltava tiede
+appraisal	arviointi
+approach	lähestymistapa
+appropriate technology	tarkoituksenmukainen tekniikka
+approval ; approbation	hyväksyminen,hyväksyntä ; hyväksyminen ; hyväksyntä
+approval of installations	asennettujen järjestelmien hyväksyminen
+apricot	aprikoosi
+aquaculture	vesiviljely; kalanviljely
+aquamarine	akvamariini
+aquarium	akvaario
+aquatic animal	vesieläin
+aquatic ecology	vesiekologia
+aquatic ecosystem	veden ekosysteemi
+aquatic environment	vesiympäristö
+aquatic mammal	vedessä elävä imettäväinen
+aquatic organism	vesiorganismi
+aquatic plant	vesikasvi
+aqueduct	vesijohto
+aquifer	pohjavettä johtava kerros
+arable farming	maanviljelys
+arboretum	kasvitieteellinen puisto
+arboriculture	metsänviljely, metsänhoito ; metsänviljely ; metsänhoito
+archaeological	arkeologinen
+archaeological site	arkeologinen kaivauspaikka
+archaeology ; archeology ; archæology	arkeologia
+archbishop	arkkipiispa
+archduke	arkkiherttua
+archeologist ; archaeologist	arkeologi
+archer ; archer	jousimies
+archetype	arkkityyppi
+archipelago	saaristo
+architecture	arkkitehtuuri
+archive	arkisto
+area of potential pollution	mahdollinen saastumisalue
+area under stress	kuormitusalue
+argon	argon
+argument	nahistelu
+arid land	kuiva maa
+aristocracy	aristokratia
+arithmetic ; arithmetics	aritmetiikka
+armament	aseistautuminen ; varustelu
+armament conversion	asetehtaiden muuttaminen muuhun tuotantoon
+armed forces	asevoimat
+armistice	aselepo
+armoury	asevarikko
+armpit	kainalo
+aromatic compound	aromaattinen yhdiste
+aromatic hydrocarbon	aromaattinen hiilivety
+aromatic substance	aromaattinen aine
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	adaptoida ; mukauttaa
+arrangement for a deposit on packaging	panttijärjestelmä pakkauksille
+arrival	saapuminen
+arrow	nuoli
+arrowhead	nuolenkärki
+arsenic	arsenikki
+arson	tuhopoltto
+art	taide
+artery	valtimo
+artful	ovela
+arthritis	niveltulehdus
+arthropod	niveljalkaiset
+artichoke	artisokka
+article	artikkeli
+artificial lake	tekojärvi
+artificial reproductive technique	metsänviljelytekniikka
+artificial satellite	tekokuu
+artist ; creative person	taiteilija
+asbestos	asbesti
+asbestos cement	asbestisementti
+asbestosis	asbestoosi
+ascent	nousu
+ascent	rinne
+ascertain	varmistua
+ascetic	askeetti
+ash	tuhka
+ashamed	häpeissään
+ashen	tuhkanharmaa
+ashore	maissa
+ashtray	tuhkakuppi
+asleep	unessa
+asparagus	parsa
+asphalt	asfaltti
+aspiration	pyrkimys
+aspirin	aspiriini
+assassin ; assassinator	salamurhaaja
+assay	analyysi ; analyysi, määritys, koe ; koe ; määritys
+assemble ; get together ; gather	koota
+assent	hyväksyntä
+assent	hyväksyä
+assert	vakuuttaa
+assert	puolustaa
+assertive	itsevarma
+assign	määrätä
+assignment	tehtävä ; toimi
+assimilate	yhteyttää
+assimilation	yhtäläistyminen; yhteyttäminen ; yhtäläistyminen ; yhteyttäminen
+assist	avustaa
+association	yhdistys
+assorted	sekalainen
+assumption ; supposition	olettamus
+astatine	astatiini
+asterisk	asteriski
+asteroid	asteroide
+asthenosphere	astenosfääri
+asthma	astma
+astonish	hämmästyttää
+astonishing	hämmästyttävä
+astonishment	hämmästys
+astound	tyrmistyttää
+astounding	tyrmistyttävä
+astride	hajareisin
+astrologer	astrologi
+astrology ; star divination	astrologia
+astrometry	astrometria
+astronautics	avaruusilmailu
+astronomer	astronomi
+astronomy	tähtitiede
+astrophysics	astrofysiikka
+asymmetric ; asymmetrical	asymmetrinen
+asymptote	asymptootti
+atheist	ateisti
+atlas	kartasto
+atmosphere	ilmakehä
+atmospheric aerosol	ilmakehään vaikuttava aerosoli
+atmospheric chemistry	ilmakehän kemia
+atmospheric circulation	ilman kiertokulku
+atmospheric component	ilmakehän aineosa
+atmospheric composition	ilmakehän koostumus
+atmospheric correction	ilmakehän palauttaminen ennalleen
+atmospheric emission	päästö ilmakehään
+atmospheric fallout	laskeuma
+atmospheric layering	ilmakehän kerrostus
+atmospheric monitoring	ilmakehän seuranta
+atmospheric ozone	ilmakehän otsoni
+atmospheric particulate	ilmakehän hiukkaset
+atmospheric physics	ilmakehän fysikaaliset ilmiöt
+atmospheric pollution	ilman saastuminen
+atmospheric precipitation ; precipitation	sade
+atmospheric process	ilmakehässä tapahtuva prosessi
+atmospheric science	ilmakehää tutkivat tieteet
+atmospheric structure	ilmakehän rakenne
+atoll	atolli
+atom	atomi
+atomic mass	atomimassa
+atractive	puoleensavetävä
+atrazine	atratsiini
+atrocity	raakuus
+attached	kiintynyt
+attachment	kiintymys
+attachment	lisälaite
+attack	hyökkäys
+attain	saavuttaa
+attend	hoitaa
+attend	käydä
+attend	seurata
+attendant	valvoja
+attentive	tarkkaavainen
+attic	ullakko
+attire	asu
+attire	pukeutua
+attitude	asento
+attribute	ominaisuus; tuntomerkki ; ominaisuus ; tuntomerkki
+auction	huutokauppa
+audacious	uskalias
+audio-visual presentation	audiovisuaalinen esitys
+audiovisual equipment	audiovisuaaliset varusteet
+audiovisual media	audiovisuaaliset viestintävälineet
+audit	tilintarkastus
+augment	lisätä
+auspicious	lupaava
+authorisation	lupa ; valtuutus
+authoritarian	autoritaarinen
+authoritative	arvovaltainen
+authority body	viranomainen
+authorship	kirjailijanura
+autocracy	itsevaltius
+autoecology	lajin ekologia
+automobile industry	autoteollisuus
+avalanche	lumivyöry ; lumivyöry, maavyöry, kivivyöry ; maavyöry ; kivivyöry
+avalanche protection	lumivyöryjen torjunta
+avaricious	ahne
+avert	torjua
+avert	kääntää pois
+aviary	lintuhäkki
+aviation law	ilmailulainsäädäntö
+aviculture	linnunhoito
+avifauna	linnusto
+awe	pelko
+awhile	vähän aikaa
+axiom	aksiomi
+baboon	paviaani
+background level	taustataso
+background noise	taustakohina, taustamelu
+background radiation	taustasäteily
+bacon	pekoni
+bacterial bed	biologinen suodatin
+bactericide	bakteereita tappava aine
+bacteriological pollution	bakteriologinen pilaantuminen
+bacteriology	bakteriologia
+bacterium	bakteerit
+badminton	sulkapallo
+bag ; pocket ; steal	varastaa ; ryövätä
+bagpipes	säkkipilli
+baker	leipuri
+baker ; bakery	leipomo
+baking powder	leivinjauhe
+balance	kate ; saldo ; tase
+balance of matter	aineen tasapaino
+balancing of interests	etujen tasapainottaminen
+ballad	balladi
+ballroom	tanssisali
+banana	banaani
+bank	matalikko ; rantapenger
+bank protection	(joen) ranojen t. matalikkojen suojelu
+banking	patoaminen; särkkäkalastus; pankkitoiminta
+bankruptcy	vararikko
+barium	barium
+barley	ohra
+barometer	barometri
+baron	paroni
+barrier beach	rannan suuntainen hiekkasärkkä
+barrier reef	rantariutta, valliriutta
+base	emäs
+baseball ; baseball game	baseball
+baseline monitoring	baseline-tarkkailu
+basic food requirement	ravinnon perusvaatimus
+basicity	emäksisyys
+basidiomycete	itiökantaiset
+basketball ; basketball game	koripallo
+bassoon	fagotti
+bastardisation of fauna	eläimistön turmeltuminen
+bastardisation of flora	kasviston turmeltuminen
+batch process	kertamenetelmä, eräprosessi
+bathing freshwater	sisävesien uimavesi
+bathing seawater	merien uimavesi
+bathing water	uimavesi
+battery	akku ; paristo, akku ; paristo
+battery disposal	paristojen hävittäminen
+bay	merenlahti; laakeripuu; laakso ; lahti
+beach	uimaranta
+beach cleansing	uimarantojen puhdistus
+bean ; edible bean	papu
+bear	karhu
+beatification	beatifikaatio
+bed	vuode ; peti ; sänky
+bee	mehiläiset
+bee conservation	mehiläisten suojelu
+beef cattle	lihakarja
+beekeeper ; apiculturist	mehiläishoitaja
+beer	kalja ; olut
+beetle	kovakuoriaiset
+behaviour	käyttäytyminen
+behaviour of substances	aineiden käyttäytyminen
+behaviour pattern	käyttäytymismalli
+behavioural science	käyttäytymistieteet
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	napa
+beneficial organism	hyötyorganismi
+benthic division	pohjajaealue
+benthos	merien pohjassa elävät organismit
+benzene	bentseeni
+benzopyrene	bentsopyreeni
+berkelium	berkelium
+beryllium ; glucinium	beryllium
+beta radiation	beetasäteily
+better	parempi
+between	välissä ; keskellä
+beverage ; drink	juoma
+beverage industry	juomateollisuus
+bibliographic information	bibliografiset tiedot
+bibliographic information system	bibliografisten tietojen järjestelmä
+bibliography	bibliografia; kirjaluettelo ; bibliografia ; kirjaluettelo
+bicycle ; bike ; cycle	polkupyörä
+big game	suurriista
+bilateral	bilateraalinen
+bilateral convention	kahdenvälinen sopimus
+bile	sappi
+bilge oil	pilssiöljy
+bilge water	kölivesi, pilssivesi ; kölivesi ; pilssivesi
+binary star	kaksoistähti
+bio-availability	hyötyosuus
+bioaccumulation	kertyminen ympäristöön
+bioaccumulative pollutant	ympäristöön kertyvä epäpuhtaus
+biochemical method	biokemiallinen menetelmä
+biochemical oxygen demand	biokemiallinen hapentarve
+biochemical process	biokemialliset prosessit
+biochemical substance	biokemialliset aineet
+biochemistry	biokemia
+biocide	eliöntorjunta-aine
+bioclimatology	bioklimatologia
+biocoenosis	biokenoosi
+bioconcentration factor	ympäristöön rikastuva tekijä
+biodegradability	luonnossa hajoavuus
+biodegradable pollutant	luonnossa hajoava saaste
+biodegradation	biologinen hajo(tta)minen
+biodiversity	elollisen luonnon monimuotoisuus
+bioethics	bioetiikka
+biofiltration	biosuodatus
+biofuel	biopolttoaine
+biogas	biokaasu
+biogeochemical cycle	biogeokemiallinen kierto
+biogeographical region	eliömaantieteelliset alueet
+biogeography	eliömaantiede
+biological analysis	biologinen analyysi
+biological attribute	biologinen ominaisuus
+biological contamination	biologinen saaste
+biological cycle	luonnon kiertokulku
+biological development	biologinen kehitys
+biological effect	biologinen vaikutus
+biological effect of pollution	saastumisen biologinen vaikutus
+biological engineering	biotekniikka
+biological heritage	biologinen perintö
+biological indicator	biologinen indikaattori
+biological monitoring	biologinen valvonta
+biological pest control	biologinen torjunta
+biological pollutant	biologinen saaste
+biological pollution	biologinen saastuminen
+biological process	biologiset prosessit
+biological production	biologinen tuotanto
+biological reserve ; wildlife reserve	luonnonpuisto
+biological resource	biologiset resurssit
+biological test	biologinen koe
+biological treatment	biologinen käsittely, biologinen puhdistus
+biological waste gas purification	biologinen jätekaasun puhdistus
+biological waste treatment	biologinen jätteidenkäsittely
+biological wastewater treatment	biologinen jäteveden käsittely
+biological water balance	vesitasapaino
+biological weapon	biologinen ase
+biology ; biological science	biologia
+bioluminescence	bioluminointi, elävän organismin fosforoiminen ; bioluminointi ; elävän organismin fosforoiminen
+biomarker	biologinen indikaattori
+biomass	biomassa
+biomass energy	biomassaenergia
+biome	biomi
+biophysics	biofysiikka
+bioreactor	bioreaktori
+biorhythm	biorytmi
+biosafety	bioturvallisuus
+biosphere	biosfääri, eliökehä
+biosphere reserve	biosfäärialue
+biosynthesis	biosynteesi
+biotechnological hazard	biotekninen vaara
+biotechnology	biotekniikka
+biotic factor	bioottinen tekijä
+biotic index	bioottinen indeksi
+biotope	biotooppi, luontotyyppi
+biotope network	luontotyyppiverkosto
+biotope order	biotooppiluokitus
+biotope protection	luontotyypin suojelu
+bird	linnut
+bird of prey	petolintu
+bird sanctuary	lintujen rauhoitusalue
+bird species	lintulaji
+birth control	syntyvyyden säännöstely
+birthday	syntymäpäivä
+bishop	piispa
+bismuth	vismutti
+bitumen	bitumi
+black coal ; black coal ; black coal ; anthracite coal	kivihiili, puuhiili
+blast furnace	masuuni
+bleaching agent	valkaisuaine
+bleaching clay	valkaisusavi, valkaisumaa ; valkaisumaa ; valkaisusavi
+bleaching process	valkaisumenetelmä
+blind	sokea
+blister	rakkula
+blog ; weblog ; web log	blogi
+blood	veri
+blood plasma	veriplasma
+blue	sininen
+blue-green alga ; cyanobacteria	sinilevä
+boat	vene
+boating	veneily
+bocage	pensasmaisema
+bog	neva
+bohrium	bohrium
+boiler	kuumavesikattila
+boiling point	kiehumispiste
+bonsai	bonsai
+book	kirja ; rahkasuo
+bookkeeping	kirjanpito
+border	raja
+boron	boori
+botanical conservatory	kasvitieteellinen puutarha
+botanical garden	kasvitieteellinen puutarha
+botany	botaniikka
+botany ; phytology	kasvitiede ; botaniikka
+bottle cap	pullonkorkki
+boundary crossing	rajan ylitys
+boundary layer	rajapinta, rajakerros, rajavyöhyke ; rajapinta ; rajakerros ; rajavyöhyke
+bow	jousi
+brackish water	murtovesi, puolisuolainen vesi ; murtovesi ; puolisuolainen vesi
+branch	oksa
+branch of activity	toimiala
+bread	leipä
+breakfast	aamiainen ; aamupala
+breast milk	rintamaito
+breeding	karjankasvatus; hyötäminen ; karjankasvatus ; hyötäminen
+breeding bird	pesivä lintu
+breeding technique	karjan- t. kasvinjalostustekniikka
+brick	tiili
+bridge	silta
+bring	tuoda
+broad-leaved tree	lehtipuu
+broader term ; broader terms ; hypernym ; holonym	hyperonyymi ; laajempia termejä ; yläkäsite
+bromine	bromi
+brooding	hautominen
+brook	puro
+brushwood	tiheikkö
+bryophyte	sammalet
+bubble policy (emissions trading) ; bubble policy	kuplapolitiikka (päästöjä koskeva kauppajärjestely) ; kuplapolitiikka
+budget	talousarvio
+budget policy	budjettipolitiikka
+bug ; põrnikas	luteet
+building	rakennus
+building area	rakennuspinta-ala; rakennusalue ; rakennuspinta-ala ; rakennusalue
+building component	rakenneosa
+building destruction	rakennusten tuhoaminen
+building industry	rakennusteollisuus
+building land	rakennusmaa, rakennustontti
+building material	rakennusaine
+building materials industry	rakennusaineteollisuus
+building permit	rakennuslupa
+building planning	rakennuskaavoitus
+building regulation	rakennusjärjestys, rakennusmääräys
+building related illness ; sick building syndrome	sairas rakennus -oireyhtymä
+building restoration	rakennusten entisöinti
+building service	rakennuspalvelu
+building site	rakennustyömaa, rakennustontti ; rakennustyömaa ; rakennustontti
+building site preparation	rakennuspaikan valmistelutyöt
+building technology	rakennustekniikka
+building waste	rakennusjäte
+built drainage system	salaojitusjärjestelmä, viemäriverkko
+built environment	rakennettu ympäristö
+built structure	rakennelma
+built-up area	rakennettu alue, asutusalue ; rakennettu alue ; asutusalue
+bulb cultivation	sipulikasvien viljely
+bulky waste	vaikeasti käsiteltävä jäte
+bull	uros ; sonni ; härkä
+bullet	ammus
+bumblebee	kimalainen
+bureaucracy	byrokratia
+bureaucratisation	virkavaltaistuminen
+bus ; coach	linja-auto
+bus station	linja-autoasema
+bush clearing	pintakasvillisuuden poisto
+business	liiketoiminta
+business activity	liiketoiminta
+business classification	elinkeinotoiminnan luokittelu
+business economics	liiketaloustiede
+business organisation	yhtiö
+business policy	liikepolitiikka
+butcher	teurastaja
+butter	vioi
+butterfly	perhoset
+button ; clit ; clitoris	häpykieli ; klitoris
+button-cell battery	nappiparisto
+buy ; purchase	ostaa
+buy ; purchase	osto
+by-catch	sivusaalis
+by-product	sivutuote
+cable	johto ; kaapeli, johto, vaijeri ; kaapeli ; vaijeri
+cactus	kaktus
+cadmium	kadmium
+caesium	cesium
+caffeine	kofeiini
+calcium	kalsium
+calcium content	kalsiumpitoisuus
+calculation	laskenta
+calculation method	laskentamenetelmä
+calendar	kalenteri
+caliber	kaliiperi
+calibration	kalibrointi
+californium	kalifornium
+calligraphy	kaunokirjoitus
+camel	kameli
+camera	kamera
+camouflage	naamioida
+camp ; military camp ; army camp ; campsite	leiri
+camping ; camping ground	leirintäalue
+camping site	leirintäalue
+canal	kanava
+canal lock	kanavan sulku
+cancer	syöpä
+cancer risk	syöpäriski
+candle	kynttilä
+canid	koiraeläin
+canyon	kanjoni
+capital	pääkaupunki
+car ; automobile	auto
+car park	pysäköintialue
+car tyre	autonrengas
+carbohydrate	hiilihydraatti
+carbon	hiili
+carbon dioxide	hiilidioksidi
+carbon dioxide tax	hiilidioksidivero
+carbon monoxide	hiilimonoksidi
+carbonate	karbonaatti; saturoida
+carcass disposal	destruktio
+carcinogen	karsinogeeni
+carcinogenicity	karsinogeenisyys
+carcinogenicity test	karsinogeenisyyskoe
+cardinal	kardinaali
+cardiology	kardiologia
+cardiovascular disease	sydän- ja verisuonitauti
+cardiovascular system	sydän ja verisuonet
+career	karrieeri
+carnivore	lihansyöjät
+carpet	matto
+carry-over effect	myöhemmäksi siirtynyt vaikutus
+cartography	kartanpiirustus
+case ; lawsuit ; trial	oikeudenkäynti
+cash crop	myytävä sato
+castle	linna
+catalysis	katalyysi
+catalyst	katalyytti; katalysaattori ; katalyytti ; katalysaattori
+catalytic converter	katalysaattori, katalyyttinen jälkipoltin
+catapult	katapultti ; heittokone
+catastrophe	suurvahinko
+catch yield	saaliin määrä
+catchment	(veden) saanto
+catchment area	valuma-allas, sadealue, vesialue
+category	luokka
+category of endangered species	uhanalaisten lajien luokka
+cation	kationi, positiivisesti varautunut ioni ; kationi
+cattle	karja
+cauliflower	kukkakaali
+cause-effect relation	syyn ja seurauksen suhde
+cave	luola
+caviar	kaviaari
+celery	selleri
+cell ; cell	solu ; solu
+cell ; electrochemical cell ; energy cell ; Galvanic cell ; στοιχείο	elementti ; kenno ; komero
+cellulose	selluloosa
+cellulose industry	selluloosateollisuus
+cement	sementti
+cement industry	sementtiteollisuus
+cement manufacture	sementin valmistus
+census survey	väestönlaskenta
+central government	keskushallinto
+central park area	keskuspuistoalue
+centralisation	keskittäminen
+centrifugation	linkoaminen
+cephalopod	pääjalkaiset
+ceramics	keramiikka
+ceramics industry	keramiikkateollisuus
+cerium	cerium
+certification	varmentaminen, vahvistus
+cetacean	valaat
+chair	tuoli ; istuin
+chalk	liitu
+champagne	samppanja
+change in value	arvon muutos
+channelling	kanavointi
+chaos theory	kaaosteoria
+chapter	luku
+characteristic	ominainen
+charcoal	puuhiili, kasvihiili, eläinhiili ; puuhiili ; kasvihiili ; eläinhiili
+chart	kartoittaa
+chart ; nautical chart	merikartta
+cheers ; thank you ; thanks	kiitos
+cheese	juusto
+chelicerate	leukakoukulliset
+chemical	kemiallinen, kemikaali ; kemiallinen ; kemikaali
+chemical addition	lisäys
+chemical analysis	kemiallinen analyysi
+chemical composition	kemiallinen koostumus
+chemical contamination	kemiallinen saastuminen
+chemical corrosivity	kemiallinen syövyttävyys
+chemical decontamination	kemiallinen puhdistus
+chemical element ; element	alkuaineet ; alkuaine
+chemical fallout	kemiallinen laskeuma
+chemical fertiliser	kemiallinen lannoite
+chemical in the environment	ympäristön kemikaalit
+chemical industry	kemian teollisuus
+chemical installation	kemiallinen laitos
+chemical measurement of pollution	saasteen kemiallinen mittaus
+chemical oxygen demand	kemiallinen hapentarve
+chemical pest control	kemiallinen tuholaisten torjunta
+chemical plant	kemiallinen tehdas
+chemical policy	kemikaaleja koskeva politiikka
+chemical pollutant	kemiallinen saastuttaja
+chemical pollution	kemiallinen saaste
+chemical process	kemialliset prosessit
+chemical product	kemiallinen tuote
+chemical property	kemialliset ominaisuudet
+chemical reaction	kemialliset reaktiot
+chemical reduction	vähennys
+chemical risk	kemiallinen vaara
+chemical structure	kemialliset rakenteet
+chemical treatment	kemiallinen käsittely
+chemical waste	kemiallinen jäte
+chemical weapon	kemiallinen ase
+chemicals act	kemikaalilaki
+chemisorption	kemisorptio, kemiallinen adsorptio
+chemist ; pharmacist	farmaseutti
+chemist's ; chemist's shop ; pharmacy	apteekki
+chemistry	kemia
+cherry	kirsikka
+chess	šakki
+chestnut	kastanja
+chicken	kana ; kukko
+child	lapsi
+chimney	savupiippu
+chimney height	savupiipun korkeus
+chimpanzee	simpanssi
+chipmunk	maaoravat
+chiropteran	lepakot
+chloride	kloridi
+chlorinated hydrocarbon	kloorattu hiilivety
+chlorination	klooraus
+chlorine	kloori
+chlorophenol	kloorifenoli
+chlorophyll	klorofylli ; lehtivihreä
+chlorosis	kloroosi, viherkato ; kloroosi ; viherkato
+chocolate	choklad
+cholesterol	kolesteroli
+chordate	selkäjänteiset
+chorology	korologia; floristinen korologia
+chromatographic analysis	kromatografinen analyysi
+chromatography	kromatografia
+chromium	kromi
+chromosome	kromosomi
+chrysophyta	kultalevät
+church	kirkko
+cigar	sikari
+cigarette	tupakka ; savuke
+cinematographic film	elokuva
+circular mail	kiertoposti
+citizen	kansalainen
+citizen awareness	kansalaistietoisuus
+citizen initiative	kansalaisaloite
+citizen rights	kansalaisoikeudet
+city	kaupunki
+city centre	kaupungin keskusta
+civil air traffic	siviililentoliikenne
+civil engineering	tie- ja vesirakennus
+civil law	siviilioikeus, yksityisoikeus ; siviilioikeus ; yksityisoikeus
+civil safety	yleinen turvallisuus
+civilian protection	väestönsuojelu
+claim for restitution	palautusvaade
+clarinet	klarinetti
+classification	luokitus
+clay	savi
+clean air area	saastumattoman ilman alue
+clean air car	saastuttamaton auto
+clean technology	puhdas tekniikka
+cleaning up	siivoaminen
+cleanliness	puhtaus
+cleansing department	puhtaanapito-osasto
+clearing sludge	selkeytysliete
+cliff	kallio ; kallio, rantatörmä ; rantatörmä
+climate	ilmasto
+climate protection	ilmastonsuojelu
+climate resource	ilmastovarat
+climate type	ilmastotyyppi
+climatic alteration	ilmaston muutos
+climatic change ; climate change	ilmastonmuutos
+climatic effect	ilmastovaikutus
+climatic experiment	ilmastokoe
+climatic zone	ilmastovyöhyke
+climatology	ilmastotiede
+climax	ylin kohta, huippukohta ; ylin kohta ; huippukohta
+climbing plant (wall) ; climbing plant	köynnöskasvi
+clinical symptom	kliininen oire
+cloning	kloonaus
+closing down	sulkeminen
+closing down of firm	yrityksen sulkeminen
+clothing ; apparel	vaatetus
+clothing industry	vaatetusteollisuus
+cloud	pilvi
+co-incineration	rinnakkaispoltto
+co-operation	yhteistyö
+co-operation policy	yhteistyöpolitiikka
+co-operation principle	yhteistyöperiaate
+co-ordinate system	koordinaatisto
+co-ordination	koordinointi
+coagulation	koagulaatio
+coal	hiili
+coal industry	hiiliteollisuus
+coal liquefaction	hiilen nesteytys
+coal mining	kivihiilen louhiminen
+coal refining	kivihiilen jalostus
+coal technology	hiilitekniikka
+coal-based energy	hiilipohjainen energia
+coal-fired power plant	hiilivoimalaitos, kivihiilivoimala
+coast	rannikko ; ranta
+coast protection	rantojen suojelu
+coastal area	rannikkoalue
+coastal development	rannikoiden suunnittelu
+coastal ecosystem	rannikon ekosysteemi
+coastal environment	rannikkoympäristö
+coastal fishing	rannikkokalastus
+coastal pollution	rantojen saastuminen
+coastal water	rannikkomeri ; rantavesi
+coastal zone planning	rannikkovyöhykkeen suunnittelu
+coastguard	rannikko-, merivartiosto
+coating	päällystys, pintakerros ; päällystys ; pintakerros
+cobalt	koboltti
+cocaine	kokaiini
+cockroach	torakat ; torakka
+code	koodi
+code of practice	ohjesääntö
+codification	kodifioiminen
+coelenterate	onteloeläimet
+coffee	kahvi
+cogeneration	lämmön ja sähkön yhteistuotanto
+coin ; money	kolikko ; lantti ; myntti
+coke	koksi
+cold	kylmä
+coliform bacterium	kolibakteerit
+colina ; hill ; loma	kukkula
+collective wastewater treatment	yhteinen jäteveden käsittely
+colloid	kolloidi, kolloidinen
+colloidal state	kolloidinen tila
+colonisation	asutus
+colony	siirtomaa
+colour ; colour ; colo(u)r	väri ; väri ; väri
+colour composition	värin koostumus
+colourimetry	kolorimetria, värinmittaustutkimus ; kolorimetria ; värinmittaustutkimus
+colubrid	tarhakäärmeet
+combination effect	yhteisvaikutus
+combined cycle-power station	kombilaitos
+combined sewer system	sekaviemäröinti
+combined transport	yhdistetty kuljetus
+combined waste water	yhdistetty jätevesi
+combustibility	palavuus, tulenarkuus, syttyvyys
+combustion engine	polttomoottori
+combustion gas	polttokaasu, savukaasu
+combustion residue	palamisjäte, palamisjäännös
+comet	komeetta
+commercial fishery	ammattikalastus
+commercial law	kauppaoikeus, talousoikeus
+commercial noise	kaupallisen toiminnan aiheuttama melu
+commercial traffic	kaupallinen liikenne
+commercial transaction	kauppa, liiketoimi
+commercial vehicle	hyötyajoneuvo
+commercialisation	kaupallistuminen
+common agreement	yleinen sääntö, yhteinen sääntö
+common agricultural policy ; common agricultural policy of the EU	yhteinen maatalouspolitiikka
+common commercial policy	yhteinen kauppapolitiikka
+common tariff policy	yhteinen tullipolitiikka
+communications	liikenneyhteys, tietoliikenneyhteys ; liikenneyhteys ; tietoliikenneyhteys
+communications industry	viestintäteollisuus
+communications policy	viestintäpolitiikka
+communications system	kulkulaitos
+communism	kommunismi
+community facility ; public facility	julkinen palvelu
+community-pays principle	yhteiskunta maksaa -periaate
+commuter traffic	lähijoukkoliikenne
+compaction	tiivistäminen
+company policy	yrityspolitiikka
+company structure	yritysrakenne
+comparative law	oikeusvertailu
+comparative test	vertaileva koe
+comparison	vertailu
+compensation	korvaus ; korvaus, hyvitys ; hyvitys
+compensation for damage	vahingonkorvaus
+compensatory measure	tasoitustoimenpide
+compensatory tax	tasoitusmaksu, tasausmaksu
+competition	kilpailu
+competition law	kilpailuoikeus
+competitive examination	kilpailukoe
+competitiveness	kilpailukyky
+complex formation	kompleksiyhdiste
+complexing agent	kompleksinmuodostaja
+composite pollution	monen tekijän aiheuttama saastuminen
+composition of population	väestön koostumus
+compost	sekalannoite, komposti
+compostable waste	kompostoitava jäte
+composting	kompostointi, mullastus
+composting by producer	tuottajan suorittama kompostointi
+compound ; chemical compound	kemiallinen yhdiste ; yhdiste
+compression	puristus; tiiviste ; puristus ; tiiviste
+compressor	puristin, kompressori
+concentration	pitoisuus
+concentration	rikastus ; väkevöinti
+concept of environment	ympäristön käsite
+concession	toimilupa; myyntilupa ; toimilupa ; myyntilupa
+concrete	betoni; konkreettinen ; betoni ; konkreettinen
+concrete products industry	betonituoteteollisuus
+condensation (process) ; condensation	tiivistys; lauhduttaminen ; tiivistys ; lauhduttaminen
+condom ; prophylactic ; rubber ; safe ; safety	kondomi
+conductivity ; electrical conductivity	johtavuus (sähkön, lämmön) ; sähkönjohtavuus ; johtavuus
+conference	konferenssi
+conflict	ristiriita
+conflict of aims	päämäärien ristiriita
+conflict of interests	eturistiriita
+conflicting use	ristiriitainen käyttö
+congress	kongressi
+conifer	havupuut
+coniferous forest	havumetsä
+coniferous tree	havupuu
+conservation	säilyttäminen
+conservation of monuments	muistomerkkien suojelu
+conservation policy	suojelupolitiikka
+consonant	konsonantti
+constitution	perustuslaki
+constitutional law	perustuslaki
+construction equipment	rakennuslaitteet
+construction noise	rakennusmelu
+construction policy	rakennuspolitiikka
+construction technology	rakennustekniikka
+construction with recycled material	kierrätetystä materiaalista rakentaminen
+construction work	rakennustyö
+consultancy	konsulttitoiminta, neuvonanto
+consultation	neuvottelu, konsultaatio ; neuvottelu ; konsultaatio
+consumer behaviour	kuluttajien käyttäytyminen
+consumer goods	kulutustavara
+consumer group	kuluttajaryhmä
+consumer information	kuluttajavalistus
+consumer product	kulutushyödyke
+consumer protection	kuluttajansuoja
+consumer waste	kulutusjäte
+consumption	kulutus
+consumption pattern	kulutustapa, kulutusmalli
+container	säiliö
+containment (nuclear industry) ; containment	rajoittaminen
+contaminated soil	saastunut maaperä
+contamination	saastuminen
+continent	maanosa
+continental climate	mannerilmasto
+continental shelf	mannerjalusta
+continuing education	jatkokoulutus; aikuiskoulutus
+continuous load	jatkuva kuormitus
+contour farming	maan ääriviivoja noudattava viljely
+contract	sopimus
+control measure	valvontatoimenpide
+controlled burning	kulottaminen, kulotus
+controlled hunting zone	valvotun metsästyksen vyöhyke
+controlling authority	valvova viranomainen
+conurbation	kaupunkialue
+convention	sopimus
+conventional energy	tavanomainen energia
+cooling	jäähdyttäminen, jäähdytys
+cooling oil	jäähdytysöljy
+cooling tower	jäähdytystorni
+cooling water	jäähdytysvesi
+copper	kupari
+coppice	nuori metsä, vesakko ; nuori metsä ; vesakko
+coppice with standards	myös korkeita puita kasvava vesakko
+coral	korallit
+coral reef	koralliriutta
+coral reef lagoon	koralliriuttalaguuni
+core meltdown	reaktorisydämen sulaminen
+cork	korkki
+corridor	käytävä
+corrosion	korroosio, syöpyminen
+corrosion inhibitor	korroosionestoaine
+cosmetic industry	kosmeettinen teollisuus
+cosmic radiation	kosminen säteily
+cosmology	kosmologia
+cost	kustannukset
+cost increase	kustannusten lisäys
+cost reduction	kustannusten vähennys
+cost-benefit	kustannushyöty
+cost-benefit analysis	kustannus-hyötyanalyysi
+cotton	puuvilla
+country ; nation ; state	valtio
+country lodge	lomamökki
+county	kreivikunta, piirikunta, lääni ; kreivikunta ; piirikunta ; lääni
+court	tuomioistuin
+court of justice	tuomioistuin
+cove	lahdelma, avoin satama ; lahdelma ; avoin satama
+covering ; roofing	päällyste, peite, kuori ; peite ; päällyste ; kuori
+cow	lehmä
+craft ; arts and crafts	taito; alus; voima-aggregaatti ; taito ; alus ; voima-aggregaatti
+creativity ; inventiveness	luovuus
+credit	luotto
+credit assistance	luottoapu
+credit policy	luottopolitiikka
+creek	lahdeke, luonnon valkama; puro ; puro ; lahdeke ; luonnon valkama ; poukama
+crime	rikos
+criminal law	rikoslaki
+criminal law procedure	rikosoikeusprosessi
+criminal liability	rikosoikeudellinen vastuu
+criminality	rikollisuus
+crisis management	kriisinhallinta
+critical level	kriittinen taso
+critical load	rajakuormitus, kriittinen kuormitus ; rajakuormitus ; kriittinen kuormitus
+crocodile	krokotiilit
+crop production	kasvintuotanto
+crop protection	kasvinsuojelu
+crop rotation	vuoroviljely
+crop treatment	viljelykasvien käsittely
+crossing place	ylimenopaikka
+crossing place for animals	ylimenopaikka eläimille, riistasilta
+crossword	sanaristikko
+crucifix	krusifiksi
+crude oil	raakaöljy
+cruising	arviointi ; risteily; arviointi ; risteily
+crustacean	äyriäiseläimet
+cryptogam	itiökasvit
+crystallisation	kiteytyminen
+crystallography	kidetiede
+cucumber	kurkku
+cultivated plant	viljelyskasvi
+cultivation ; tillage	viljely
+cultivation method	viljelymenetelmä
+cultivation of agricultural land	peltojen viljely
+cultivation system	viljelyjärjestelmä
+cultural development	kulttuurin kehitys
+cultural facility	kulttuuripalvelu
+cultural heritage	kulttuuriperintö
+cultural indicator	kulttuurinen indikaattori
+cultural policy	kulttuuripolitiikka
+culture	kulttuuri ; sivistys
+curium	curium
+currency	valuutta
+curriculum	oppisuunnitelma
+customs	tulli
+customs regulation	tullimääräys
+customs tariff	tullitariffi, tullitaksa ; tullitariffi ; tullitaksa
+cutting	metsänhakkuu
+cutting ; cutting (vegetative propagation)	pistokas
+cyanate	syanaatti
+cyanide	syanidi
+cycle path	polkupyörätie
+cyclone	pyörremyrsky
+cytology	soluoppi
+cytotoxicity	sytotoksisuus
+dairy farm	karjatila
+dairy industry	maitotalous
+dairy product	maitotaloustuote
+dam	pato, sulku
+dam draining	kuivatus padon avulla; padon kuivatus
+damage	vahinko
+damage assessment	vahingon arviointi
+damage from military manoeuvres	sotaharjoitusten aiheuttamat vahingot
+damage insurance	vahinkovakuutus
+damage prevention	vahingon ehkäiseminen
+dance	tanssi
+dandelion	voikukka
+danger analysis	vaara-analyysi
+dangerous goods	vaarallinen tavara, vaaralliset aineet
+dangerous goods law	vaarallista tavaraa koskeva laki
+dangerous goods regulation	vaarallista tavaraa koskeva määräys
+dangerous installation	vaarallinen laitos
+dangerous materials transport	vaarallisen aineen kuljetus
+darmstadtium	darmstadtium
+data acquisition	tiedonhankinta
+data analysis	tietojen analysointi
+data carrier	tietoväline, tiedonsiirtoväline
+data centre	tietokeskus
+data exchange	tiedonsiirtokeskus
+data on the state of the environment	tiedot ympäristön tilasta
+data processing	tietojenkäsittely
+data processing law	tietojenkäsittelylaki
+data processing system	tietojenkäsittelyjärjestelmä
+data protection	tietosuoja
+data recording technique	tietojen tallennustekniikka
+database	tietokanta
+dating	päiväys; ajoittaminen ; päiväys ; ajoittaminen
+day ; daytime	päivä
+dazzle	häikäistä
+de-inking	siistaus, painovärin poisto
+deaf	kuuro ; kuulovammainen
+death penalty ; capital punishment ; death sentence	kuolemanrangaistus
+debit	veloittaa
+debt	velka
+debt service	valtionlainan kuoletuksen ja korkojen hoito
+decay product	hajoamistuote
+decentralisation	hajauttaminen
+dechlorination	kloorinpoisto
+decibel	desibeli
+deciduous forest ; deciduous wood	lehtimetsä
+deciduous tree	lehtipuu
+decision	päätös
+decision making support	päätöksenteon tuki
+decision process	päätöksentekoprosessi
+decision-support system	päätöstukijärjestelmä
+declaration ; statement	vakuutus
+declaration of public utility	yleishyödyllisyyden julistus
+decomposition	hajoaminen, maatuminen ; hajoaminen ; maatuminen
+decontamination	puhdistus ; sterilointi ; sterilointi, kaasun poisto, puhdistus ; kaasun poisto
+decree	asetus ; määräys, asetus, päätös; tuomioistuinratkaisu ; päätös ; määräys ; tuomioistuinratkaisu
+deep sea	avomeri ; avomeri; suuret syvänteet ; suuret syvänteet
+deep sea fishing	avomerikalastus ; syvänmerenkalastus
+deep sea mining	avomeren miinoitus
+deep-sea disposal	jätteen upottaminen mereen
+deer	peura, metsäkauris ; metsäkauris ; peura
+defence	puolustus
+defendant ; accused	syytetty ; vastaaja
+deflation	deflaatio
+defoliation	lehtikato, lehtien tuhoutuminen
+deforestation	metsän kaataminen
+degradability	hajoavuus
+degradation	eroosio ; maanpinnan aleneminen; eroosio ; maanpinnan aleneminen
+degradation of natural resources	luonnonvarojen laadun heikkeneminen
+degradation of the environment	ympäristön laadun heikkeneminen
+degradation product	pilkkoutumistuote, hajaantumistuote
+degreasing	rasvanpoisto
+dehydrated sludge	dehydratoitu liete
+delegated management	delegoitu johtaminen
+deliver	synnyttää
+delta	suisto
+demand	kysyntä; vaatimus ; kysyntä ; vaatimus
+demesnial water	aluevedet
+democracy	demokratia
+demographic development	väestörakenteen kehitys
+demographic evolution	väestörakenteen kehitys
+demography	väestötiede
+demolition business	purku-, raivausliike
+demolition waste	purkujäte
+demonstrability	osoitettavuus
+dendrochronology ; tree-ring dating	dendrokronologia ; vuosirengasajoitus
+dendrometry	puunmittausoppi
+dengue fever	denguekuume
+denitrification	typen t. nitraattien poistaminen t. poistuminen
+denitrification of waste gas	jätekaasun denitrifiointi
+density	tiheys
+dentist	hammaslääkäri
+dentistry	hammaslääketiede
+deposition	saostuma; kerrostuma; laskeuma
+deregulation	normien purkaminen
+desalination	suolanpoisto
+desalination plant	suolanpoistolaitos
+desert	aavikko ; autiomaa
+desert climate	aavikkoilmasto
+desert locust	aavikko(heinä)sirkka ; aavikkoheinäsirkka ; aavikkosirkka
+desertification	aavikoituminen
+desertification control	aavikoitumisen valvonta
+design (project) ; design ; project design	mallisuunnittelu
+desk study	kirjoituspöytätutkimus
+desorption	desorptio
+destination of transport	määräpaikka
+desulphurisation	rikinpoisto
+desulphurisation of fuel	rikin poisto polttoaineesta
+detection	löytäminen, toteaminen ; löytäminen ; toteaminen
+detector	ilmaisin, tunnistin
+detergent	pesuaine
+determination method	määritysmenetelmä
+deterrence	pelottelu, pelote; estoaine
+deterrent	estoaine; pelote
+detoxification	myrkyttömäksi tekeminen, myrkyn poisto ; myrkyttömäksi tekeminen ; myrkyn poisto
+deuterium	deuterium
+developed country	kehittyneet maat
+developing country	kehitysmaat
+development aid	kehitysapu
+development area	kehitysalue, rakenteilla oleva alue
+development co-operation	kehitysyhteistyö
+development model	kehitysmalli
+development pattern	kehityskaava
+development plan	maankäyttösuunnitelma
+devolution	palautuminen, siirtyminen; seuraanto
+dialect	dialekt
+dialysis	dialyysi, mikrosuodatus
+diarrhea	ripuli ; löysä maha
+diary	päivyri
+diatom	diatomi, yksisoluinen levä, piilevä
+dice ; die ; die ; die	noppa
+dictionary	sanakirja
+didactics	opetusoppi
+diesel engine	dieselmoottori
+diesel fuel ; diesel	dieselpolttoaine
+differentiation	erilaistuminen; porrastaminen ; erilaistuminen ; porrastaminen
+difficult	vaativa
+diffuse pollution	hajanainen saaste
+diffuse source	hajanainen lähde
+diffusion	levittää; hajaantua; hajaantunut ; levittää ; hajaantua ; hajaantunut
+digested sludge	mädätetty liete, mädätysliete ; mädätetty liete ; mädätysliete
+digester	uuttokattila; mädätyssäiliö ; uuttokattila ; mädätyssäiliö
+digestion	ruoansulatus,
+digestion	mädätys ; syövyttävä liuotus
+digital image processing technique	numeerinen kuvankäsittelytekniikka
+digital land model	numeerinen maamalli
+digitising	digitointi, numerisointi
+diluted acid	laimennettu happo, laimea happo
+diocese ; diocese	hiippakunta ; hiippakunta
+dioxin	dioksiini
+diplomat	diplomaatti
+dipteran	kaksisiipiset
+direct discharger	välitön aiheuttaja
+directive	direktiivi
+disabled person	vammainen henkilö
+disaster	suuronnettomuudet
+disaster cleanup operation	suuronnettomuuksien puhdistustoimet
+disaster contingency plan	suunnitelma suuronnettomuuksien varalta
+disaster control service	suuronnettomuuksien valvontapalvelu
+disaster preparedness	valmius suuronnettomuuksien varalle
+disaster prevention	suuronnettomuuksien ehkäisy
+disaster relief	hätäapu suuronnettomuuksissa
+disaster zone	onnettomuusvyöhyke
+discharge regime	valutusjärjestelmä
+discount	hyvitys
+disease ; illness ; affliction	taudit
+disease cause	taudin syy
+disinfectant	desinfioimisaine
+disinfection	desinfiointi
+dispatch note	rahtikirja, toimitusilmoitus
+dispersion	hajaantuminen, hajonta ; hajaantuminen ; hajonta
+dispersion calculation	hajonnan arviointi
+displaced person	asuinseudultaan siirtymään joutunut henkilö
+disposal of the dead	kuolleiden hautaus
+disposal of warfare materials	sodankäyntimateriaalin hävittäminen
+dissolution	liuotus, liukeneminen; purkaminen
+dissolved organic carbon	liuennut orgaaninen hiili
+dissolved oxygen	liuonnut happi
+distillation	tislaus
+distortion of competition	kilpailun vääristyminen
+distribution	jakauma, jakaminen
+distribution area	alue ; alue; pinta-ala ; pinta-ala
+distributive trade	kauppaliike, kaupallinen yritys
+district heating	kaukolämmitys
+district heating plant	kaukolämpölaitos
+disused military site	käytöstä poistettu sotilasalue
+ditch	oja
+division	jakolasku
+divorce	avioero
+do	tehdä
+doctrine	opinkappale ; oppi
+document	asiakirja
+document lending	asiakirjojen lainaus
+document type	asiakirjatyyppi
+documentary film	dokumenttielokuva
+documentary system	dokumentointijärjestelmä
+documentation	dokumentointi, asiakirja-aineisto
+documentation centre	tietopalvelukeskus
+dog	koira
+doll	nukke
+dolphin	delfiini
+domestic appliance	kodinkone, kotitalouslaite
+domestic fuel	kevyt polttoöljy
+domestic fuel oil	talouspolttoöljy, paloöljytisle ; paloöljytisle ; talouspolttoöljy
+domestic noise	kotitalouden melu
+domestic pollution	kotitalouksien tuottama saaste
+domestic trade	kotimaankauppa
+domestic waste	talousjätteet, asumisjäte ; talousjätteet ; asumisjäte
+domestic waste landfill	kotitalousjätteen kaatopaikka
+domestic waste water	talousjätevesi, asumisjätevesi
+domesticated animal	kesytetty eläin
+donation	lahja
+door	ovi
+dosage	annos ; annostus
+dose	annos ; annostaa
+dose-effect relationship	annos-vaikutus-suhde
+draft legislation	lainsäädäntöluonnos
+dragonfly	sudenkorennot
+drainage	kuivatus, ojitus, salaojitus
+drainage system	ojaverkosto; kuivatusjärjestelmä
+drainage water	kuivatusvesi; hulevesi
+draining	kuivatus, salaojitus
+draught animal	vetoeläin
+dream	uneksia
+dredged material	ruopattu aine
+dredging	konekaivu, ruoppaus; ruoppausjäte
+dress	mekko ; leninki
+dress ; clothe	pukea
+drift net fishing	ajoverkkokalastus
+drilling	poraus ; rivikylvö ; rivilannoitus
+drilling for oil	öljynporaus
+drilling installation	porauslaitteisto
+drink ; gulp ; quaff ; sip	juoda
+drinking water	juomavesi
+drinking water protection area	juomaveden suojelualue
+drinking water supply	juomavesivarasto; juomavesihuolto ; juomavesivarasto ; juomavesihuolto
+drinking water treatment	juomaveden puhdistus
+dromedary	dromedaari
+drought	kuivuus (pitkäaikainen) ; kuivuus
+drought control	kuivuuden valvonta
+drug	rohdos, lääkeaine ; rohdos ; lääkeaine
+drum kit	rumpupatteri
+drunk ; drunkard ; boozer	alkoholisti
+dry	kuiva
+dry cleaning	kemiallinen pesu, kuivapesu; kuivarikastus
+dry deposition	kuiva laskeuma
+dry farming	maanviljelys ilman kastelulaitteita
+dry lawn	kulottunut ruoho
+drying	kuivuminen, kuivatus
+drying out	kuivuminen
+dual economy	kaksoistalous
+dual waste management	kaksoisjätehuolto
+dubnium	dubnium
+duck	ankka
+dumping	jätteiden kaato; polkumyynti ; jätteiden kaato ; polkumyynti
+dune	dyyni, lentohiekka ; dyyni ; lentohiekka
+durable goods	kestokulutushyödyke, kestohyödyke
+duration of sunshine	auringonpaisteen kesto
+dust	pöly
+dust removal	pölynpoisto
+dwelling	asunto
+dye	värjätä, väriaine ; värjätä ; väriaine
+dyke	oja ; oja; pato ; pato
+dyke reinforcement	padon t. penkereen vahvistus
+dyslexia	lukihäiriö
+dysprosium	dysprosium
+ear	korva
+early warning system	varoitusjärjestelmä
+earth ; Earth ; the world ; Blue Planet	Maa
+earth science	geotiede
+earth's crust ; crust ; Earth's crust	maan kuori
+earthquake	maanjäristys
+earthworm	lierot
+earwig	isopihtihännät
+easement	lievennys; rasite; nautintaoikeus; vaja
+easy ; piece of cake ; like shooting fish in a barrel	helppo
+eat	syödä
+echinoderm	piikkinahkaiset
+eco-paediatrics	ekologiaan liittyvä pediatria
+ecocatastrophe	ekokatastrofi
+ecodevelopment	ekologinen kehitys
+ecolabel	ympäristömerkki
+ecolabelling	ympäristömerkintä
+ecological abundance	ekologinen runsaus
+ecological adaptation	ekologinen sopeutuminen
+ecological assessment	ekologinen arviointi
+ecological balance	ekologinen tasapaino
+ecological bookkeeping	ekologinen kirjanpito
+ecological carrying capacity	ympäristön kantokyky
+ecological community	ekologinen yhteisö
+ecological factor	ekologinen tekijä
+ecological inequality	ekologinen tasa-arvon puute
+ecological niche	ekologinen lokero
+ecological parameter	ekologinen parametri
+ecological stocktaking	ekologinen inventointi
+ecologically sensitive area	ekologisesti herkkä alue
+ecologist movement	vihreä liike, ekologinen liike
+ecology	ekologia
+ecomarketing	ekomarkkinointi
+ecomuseum	ekomuseo
+economic activity	taloudellinen toiminta
+economic analysis	taloudellinen analyysi
+economic competition	taloudellinen kilpailu
+economic concentration	taloudellinen keskittyminen
+economic data	taloutta koskevat tiedot
+economic development	taloudellinen kehitys
+economic forecasting	taloudellisten ennusteiden tekeminen
+economic geography	talousmaantiede
+economic growth	taloudellinen kasvu
+economic incentive	taloudellinen kannustin
+economic instrument	taloudellinen väline
+economic management instrument	taloudellinen hallintaväline
+economic plan	taloussuunnitelma, säästösuunnitelma
+economic planning	taloussuunnittelu
+economic policy	talouspolitiikka
+economic region	talousmaakunta
+economic rights	taloudelliset oikeudet
+economic science ; economics	kansantalous ; kansantalous, taloustiede ; taloselämä ; taloustiede
+economic sector	talouden ala
+economic situation	taloudellinen tila, taloudellinen asema ; taloudellinen tila ; taloudellinen asema
+economic structure	taloudellinen rakenne
+economic support	taloudellinen tuki
+economic system	talousjärjestelmä
+economic theory	(kansan)talousteoria
+economic trend	suhdannekehitys
+economic viability	taloudellinen elinkelpoisuus
+economical-ecological efficiency	taloudellis-ekologinen tehokkuus
+economy	talous ; talous; säästäväisyys ; säästäväisyys
+ecophysiology	ekofysiologia
+ecosystem	ekosysteemi
+ecosystem analysis	ekosysteemin analyysi
+ecosystem degradation	ekosysteemin rappeutuminen
+ecosystem research	ekosysteemin tutkimus
+ecosystem type	ekosysteemityypit
+ecotourism	ekoturismi
+ecotoxicity	ekotoksisuus
+ecotoxicological evaluation	ekotoksikologinen arviointi
+ecotoxicology	ekotoksikologia
+ecotype	ekotyyppi, paikallistyyppi
+ecozone	ekoalue
+edaphology	maaperäoppi
+edible	syötävä
+edible fat	ravintorasva
+education	koulutus
+education policy	koulutuspolitiikka
+educational institution	oppilaitos
+educational path	koulutustie
+educational planning	koulutuksen suunnittelu
+educational system	koulutusjärjestelmä
+effect	vaikutukset
+effect on health	vaikutus terveyteen
+effect on man	vaikutus ihmiseen
+effect on the environment ; environmental consequence	vaikutus ympäristöön
+efficiency criterion	tehokkuuskriteeri
+efficiency level	tehokkuuden taso
+effluent	jätevesi ; jätevesi; laskujoki; normaalipäästö ; laskujoki ; normaalipäästö
+effort ; exertion	ponnistus
+egg	muna
+eight	kahdeksan
+einsteinium	einsteinium
+elasticity	joustavuus
+elbow	kyynärpää
+elderly person	ikääntynyt henkilö
+electric battery	sähköparisto
+electric line ; power line	sähköjohto, sähköjohtolinja
+electric power	sähkövoima
+electric power plant	sähkölaitos
+electric power supply	sähköenergiahuolto
+electric vehicle	sähköajoneuvo
+electrical engineering	sähkötekniikka
+electrical goods industry	sähkötavarateollisuus
+electrical industry	sähköteollisuus
+electricity	sähkö
+electricity company	sähköyhtiö
+electricity consumption	sähkönkulutus
+electricity generation	sähkön tuottaminen
+electricity generation cost	sähkön tuottamisen kustannukset
+electricity supply industry	sähkötalous
+electrokinetics	sähkökinetiikka
+electrolysis	elektrolyysi
+electromagnetism	sähkömagnetismi
+electronic information network	sähköinen tietoverkko
+electronic mail ; email ; e-mail	sähköposti
+electronic material	elektroninen materiaali
+electronic scrap	elektroniset jätteet
+electronic scrap regulation	määräys elektronisista jätteistä
+electronics	elektroniikka
+electrosmog	elektrosavusumu
+electrotechnical equipment	sähkötekniset varusteet
+electrotechnical industry	sähkötekninen teollisuus
+element of group 0 ; noble gas	ryhmän 0 alkuaineet
+element of group II (alkaline earth metals) ; alkaline earth metal ; element of group II	ryhmän II alkuaineet (alkaliset maametallit) ; ryhmän II alkuaineet ; alkaliset maametallit
+element of group III	ryhmän III alkuaineet
+element of group IV	ryhmän IV alkuaineet
+element of group V	ryhmän V alkuaineet
+element of group VI	ryhmän VI alkuaineet
+element of group VII ; halogen	halogeeni ; ryhmän VII alkuaineet
+emancipation	vapauttaminen, vapautuminen
+embassy ; diplomatic mission	suurlähetystö
+embryo	alkio
+embryogenesis	embryogeneesi, alkionkehitys, sikiönkehitys
+emergency	hätätila
+emergency law	hätäoikeus, pakkotilaoikeus, poikkeuslaki
+emergency plan	valmiussuunnitelma
+emergency relief	hätäapu
+emergency shelter	suoja hätätilanteen varalta
+emission	päästö
+emission control	saasteenesto
+emission data	päästöjä koskevat tiedot
+emission factor	päästökerroin
+emission forecast	päästöennuste
+emission reduction	päästöjen vähennys
+emission reduction banking	päästövähennysten hyvitysjärjestelmä
+emission register	päästörekisteri
+emission situation	päästötilanne
+emission source	päästön lähde
+emission standard	päästönormit
+emission to water	päästö veteen
+employment	työllisyys
+employment ; employment ; job ; job ; occupation ; work ; work	ammatti ; työ
+employment and environment	työllisyys ja ympäristö
+employment level effect	vaikutus työllisyyden tasoon
+employment structure	työllisyyden rakenne
+empty	tyhjä
+emulsification	emulgoiminen
+emulsion	emulsio
+encapsulation	kapselointi, kotelointi, eristys
+encephalitis	aivotulehdus
+encyclopaedia	tietosanakirja
+end-of-pipe technology	piipunpääteknologia
+endangered animal species	uhanalainen eläinlaji
+endangered plant species	uhanalainen kasvilaji
+endemic species	paikallinen laji
+endocrine system	sisäeritteinen
+endocrinology	sisäeritysoppi
+enemy	vihollinen
+energy	energia
+energy balance	energiatase
+energy consumption	energiankulutus
+energy conversion	energian muuntaminen
+energy demand	energian tarve
+energy dissipation	energiahäviö
+energy distribution system	energian jakelujärjestelmä
+energy economics	energiatalous
+energy efficiency	energiahyötysuhde
+energy industry	energiateollisuus
+energy legislation	energialainsäädäntö
+energy management	energiahuolto
+energy market	energiamarkkinat
+energy policy	energiapolitiikka
+energy process	energiaprosessi
+energy production	energiantuotanto
+energy resource	energiavarat, energianlähteet
+energy saving	energiansäästö
+energy source	energianlähde
+energy source material	energianlähdemateriaali
+energy storage	energian varastointi
+energy supply	energiahuolto
+energy technology	energiatekniikka
+energy type	energiatyyppi
+energy utilisation ; energy use	energian käyttö
+enforcement	pakkotoimenpiteet; toimeenpano ; toimeenpano ; pakkotoimenpiteet
+engine	moottori
+engineer	insinööri
+engineering	rakentaminen ; tekniikka; rakentaminen; koneoppi ; tekniikka ; koneoppi
+engineering work	insinöörityö
+enjoy your meal ; have a nice meal	hyvää ruokahalua
+enlargement policy	laajentumispolitiikka
+enlargement programme	laajennusohjelma
+enriched uranium	rikastettu uraani; väkevöity uraani ; rikastettu uraani ; väkevöity uraani
+enrichment	rikastus
+enterovirus	enterovirus
+entrepreneur	yrittäjä
+environment	ympäristö
+environment friendly	ympäristölle ystävällinen
+environment market	ympäristömarkkinat
+environmental accident	ympäristöonnettomuus
+environmental accounting	ympäristökirjanpito
+environmental administration institution	ympäristöhallintolaitos
+environmental analysis	ympäristöanalyysi
+environmental anxiety	huoli ympäristöstä
+environmental aspect of human settlements	ihmisasutusten ympäristönäkökohdat
+environmental assessment	ympäristöarviointi
+environmental assessment criterion	ympäristöarvioinnin kriteeri
+environmental auditing	ympäristövaikutusten tarkastus
+environmental awareness	tietoisuus ympäristöasioista
+environmental change	ympäristömuutos
+environmental chemicals legislation	ympäristökemikaaleja koskeva lainsäädäntö
+environmental chemistry	ympäristökemia
+environmental citizenship	ympäristökansalaisuus
+environmental compatibility	yhteensopivuus ympäristön kanssa
+environmental consequence	vaikutus ympäristöön
+environmental conservation	ympäristönsuojelu
+environmental contingency planning	ympäristövalmiussuunnitelma
+environmental control	ympäristönsuojelu
+environmental cost	ympäristökustannukset
+environmental crime	ympäristörikos
+environmental criminal law	ympäristörikoksia koskeva lainsäädäntö
+environmental criminality	ympäristörikollisuus
+environmental criterion	ympäristökriteeri
+environmental culture	ympäristökulttuuri
+environmental damage	ympäristövahinko
+environmental data	ympäristöä koskevat tiedot
+environmental development	ympäristön kehitys
+environmental economic valuation	ympäristön taloudellinen arviointi
+environmental economics	ympäristötalous
+environmental economics of firms	yritysten ympäristötalous
+environmental economy issue	ympäristötalousasiat
+environmental education	ympäristökasvatus
+environmental engineering	ympäristötekniikka
+environmental enterprise	ympäristöyritys
+environmental ethics	ympäristöetiikka
+environmental friendly procurement	ympäristölle ystävälliset hankinnat
+environmental fund	ympäristörahasto
+environmental hazard	ympäristövaara
+environmental health	ympäristöterveys
+environmental health hazard	ympäristöterveysvaara
+environmental health impact assessment	ympäristön terveysvaikutusten arviointi
+environmental health protection	ympäristöterveydensuojelu
+environmental history	ympäristön historia
+environmental impact	ympäristövaikutus
+environmental impact of agriculture	maatalouden vaikutus ympäristöön
+environmental impact of aquaculture	kalanviljelyn vaikutus ympäristöön
+environmental impact of energy	energian vaikutus ympäristöön
+environmental impact of fishing	kalastuksen vaikutus ympäristöön
+environmental impact of forestry	metsätalouden vaikutus ympäristöön
+environmental impact of households	talouksien vaikutus ympäristöön
+environmental impact of industry	teollisuuden vaikutus ympäristöön
+environmental impact of recreation	virkistystoiminnan vaikutus ympäristöön
+environmental impact of tourism	matkailun vaikutus ympäristöön
+environmental impact of transport	liikenteen vaikutus ympäristöön
+environmental impact statement	ympäristövaikutusten arviointiselostus
+environmental impact study	tutkimus ympäristövaikutuksista
+environmental incentive	ympäristökannustin
+environmental index	ympäristöindeksi
+environmental indicator	ympäristöindikaattori
+environmental industry	ympäristöteollisuus
+environmental informatics	ympäristötietojenkäsittely
+environmental information	ympäristötieto
+environmental information network	ympäristötietoverkko
+environmental information system	ympäristötietojärjestelmä
+environmental investment	ympäristöinvestointi
+environmental law	ympäristölainsäädäntö
+environmental law enforcement	ympäristölainsäädännön täytäntöönpano
+environmental legislation	ympäristölainsäädäntö
+environmental legislation on agriculture	maataloutta koskeva ympäristölainsäädäntö
+environmental legislative process	ympäristölainsäädäntöprosessi
+environmental liability	ympäristöön liittyvä vastuu
+environmental licence	ympäristölupa
+environmental management	ympäristön hoito
+environmental medicine	ympäristölääketiede
+environmental misconduct	ympäristörikkomus
+environmental monitoring	ympäristönseuranta
+environmental noise	ympäristömelu
+environmental occupation	työ ympäristönsuojelussa
+environmental perception	ympäristön havainnointi
+environmental plan	ympäristösuunnitelma
+environmental planning	ympäristönsuunnittelu
+environmental policy	ympäristöpolitiikka
+environmental policy instrument	ympäristöpolitiikan väline
+environmental pollution	ympäristön saastuminen
+environmental priority	ensisijaistaminen ympäristön näkökulmasta
+environmental problem solving	ympäristöongelmien ratkaiseminen
+environmental programme	ympäristöohjelma
+environmental protection	ympäristönsuojelu
+environmental protection agency	ympäristönsuojeluvirasto
+environmental protection association	ympäristönsuojeluyhdistys
+environmental protection cost	ympäristönsuojelukustannukset
+environmental protection in the enterprise	ympäristönsuojelu yrityksessä
+environmental protection order	ympäristönsuojelumääräys
+environmental protection organisation	ympäristönsuojelujärjestö
+environmental protection regulation	ympäristönsuojelusääntö
+environmental protection technology	ympäristönsuojelutekniikka
+environmental psychology	ympäristöpsykologia
+environmental quality	ympäristön laatu
+environmental quality criterion	ympäristön laadun arviointiperuste
+environmental quality objective	ympäristön laatua koskeva tavoite
+environmental quality standard	ympäristön laatua koskeva normi
+environmental report	ympäristökertomus
+environmental research	ympäristöntutkimus
+environmental risk	ympäristöriski
+environmental risk assessment	ympäristöriskien arviointi
+environmental science	ympäristötiede
+environmental security	ympäristön turvallisuus
+environmental specimen bank	ympäristönäytepankki
+environmental statement (eco-audit) ; environmental statement ; eco-audit	ympäristölausunto (ympäristöauditointi) ; ympäristölausunto ; ympäristöauditointi
+environmental statistics	ympäristötilasto
+environmental stock exchange	ympäristöpörssi
+environmental study	ympäristötutkimus
+environmental subsidy	ympäristötuki
+environmental sustainable architecture	ympäristönsuunnittelu, ympäristöarkkitehtuuri
+environmental tax	haittavero
+environmental teaching	ympäristöopetus
+environmental technology	ympäristötekniikka
+environmental terminology	ympäristöterminologia
+environmental training	ympäristökoulutus
+environmental warfare	ympäristösodankäynti
+environmentalism	ympäristötietoisuus, ympäristöliike
+environmentally dangerous substance	ympäristölle vaarallinen aine
+environmentally friendly management	ympäristölle ystävällinen johtaminen
+environmentally friendly product	ympäristöä säästävä tuote
+environmentally related disease	ympäristöön liittyvä sairaus
+environmentally responsible behaviour	ympäristön suhteen vastuullinen käyttäytyminen
+environmentally unfriendly firm	ympäristölle haitallinen yritys
+enzyme	entsyymi
+epicentre	episentrumi
+epidemic	kulkutaudit
+epidemiology	epidemiologia, kulkutautioppi ; epidemiologia ; kulkutautioppi
+epigram	epigrammi
+epilepsy	epilepsia
+equation	yhtälö
+equator	päiväntasaaja
+equatorial climate	päiväntasaajan ilmasto
+equine	hevoset
+equipment	varusteet
+equivalent dose	ekvivalenttiannos
+erbium	erbium
+ergonomics	ergonomia
+erosion	eroosio
+erosion control	eroosion valvonta
+estate rental	maaomaisuuden vuokraaminen
+estimate	arvio
+estuarine biology	estuaaribiologia
+estuarine conservation area	suojeltava joensuualue
+estuary	joensuu
+estuary pollution	joensuun saastuminen
+etching	etsaus, syövytys
+etching substance	etsausaine
+ethanol	etanoli, etyylialkoholi
+ether	eetteri; dietyylieetteri ; eetteri ; dietyylieetteri
+ethics	etiikka
+ethnography	etnografia
+ethnology	etnologia
+ethology	etologia
+europium	europium
+eutrophication	rehevöityminen
+evaluation	arviointi
+evaluation criterion	arviointiperuste
+evaluation method	arviointimenetelmä
+evaluation of technology	tekniikan arviointi
+evaporation	haihtuminen
+evapotranspiration	evapotranspiraatio, kokonaishaihdunta
+evolution	asteittainen kehitys, kehityskulku
+exact science	eksakti tiede
+excavated hole	kaivettu onkalo
+excavation (process) ; excavation ; earthworks ; digging	maankaivaminen ; maarakennus
+excavation heap	kaivauskasa
+excavation side	kaivauspuoli
+excavation site	kaivauspaikka
+exceptional tax	poikkeusvero
+excessive height of chimney stacks	savupiippujen liiallinen korkeus
+exchange policy	valuuttapolitiikka
+executioner	teloittaja
+executive order	asetus
+exhaust device	poistokaasulaite
+exhaust gas	poistokaasu, pakokaasu
+exhibit	asettaa näytteille; antaa lääkettä
+existing chemical	olemassaolevat kemikaalit
+exotic species	eksoottinen laji
+expenditure	kustannukset
+experiment	kokeilu
+experimental study	kokeellinen tutkimus
+expert system	asiantuntijajärjestelmä
+exploitation of underground water	pohjaveden käyttö
+exploration	tutkimus; tunnustelu; etsintä
+explosion	räjähdys; männän työtahti ; männän työtahti ; räjähdys
+explosive	räjähtävä; räjähdysaine
+export	vienti
+export licence	vientilupa
+export of hazardous wastes	ongelmajätteen vienti
+exposure	altistus
+expropriation	pakkolunastus
+extensive cattle farming	laajamittainen karjanhoito
+externality	epähyöty
+extinct species	sukupuuttoon kuollut laji
+extinction (ecological) ; extinction	sukupuuttoon kuoleminen
+extraction	uuttaminen; tukinajo; malmin louhiminen ; uuttaminen ; tukinajo ; malmin louhiminen
+extractive industry	kaivosteollisuus
+eye	silmä
+eyebrow	kulmakarva
+fabric	kangas
+facility	taitavuus
+factor market	tuotantotekijämarkkinat
+factory farming	maatalousteollisuus
+faecal bacterium	ulostebakteerit
+fallout	laskeuma ; laskeuma; kertymä ; kertymä
+fallow area	viljelemätön maa-alue
+family	perhe
+family law	perheoikeus
+family planning	perhesuunnittelu
+famine	nälänhätä
+farm	maatila
+farm animal	kotieläin
+farm building	maatalousrakennus
+farm price	tuotteen hinta maatilalla
+farming technique	maanviljelytekniikka
+fast reactor	nopea reaktori
+fast traffic	nopea liikenne
+fat ; obese	liikalihava
+father	isä
+fault	vika
+fauna	eläimistö
+fauna restoration	luonnon elvyttäminen
+federal authority	liittovaltion viranomainen
+federal government	liittohallitus
+federal law	liittohallituksen laki
+fee	palkkio, maksu ; palkkio ; maksu
+feeding of animals	eläinten ruokinta
+feeling for nature	luonnontunne
+felid	kissaeläimet
+female ; woman	nainen
+fen	aapasuo ; letto ; mutasuo
+fermentation	käyminen
+fermium	fermium
+fern	saniaiset
+fertilisation ; fecundation	hedelmöitys
+fertiliser	lannoite
+fertiliser law	lannoitteita koskeva laki
+fibre	kuitu
+fibreglass	lasivilla
+field ; land ; land ; acre ; patch	pelto, kenttä ; pelto ; kenttä
+field damage	peltovahinko
+field experiment	kenttäkoe, koe työn suorituspaikalla
+field study	kenttätutkimus
+filling material	täyteaine
+filling station	bensiiniasema
+film	filmi, ohut kalvo ; filmi ; ohut kalvo
+film	filmi ; ohut kalvo
+filter	suodatin
+filter cake	suodatuspuristuskakku
+filtration	suodatus, suodattaminen
+final storage	lopullinen säilytyspaikka
+finances	raha-asiat; valtionvarat
+financial aid	rahallinen apu
+financial assistance	rahallinen avustus
+financial compensation	rahallinen korvaus
+financial contribution	rahallinen avustus, maksuosuus
+financial fund	rahasto
+financial instrument	rahoitusinstrumentti, -väline
+financial law	finanssilaki
+financial management	varainhoito, taloushallinto
+financial market	rahamarkkinat
+financing	rahoitus
+fine	hieno
+fine dust	lentopöly
+finger	sormi
+fire	tuli
+fire precaution	varokeino tulen varalta
+fire protection	palontorjunta
+fire safety requirement	paloturvallisuusvaatimus
+fire service	palolaitos
+firefighter ; fireman ; firewoman ; fire fighter ; fire-eater	palokuntalainen ; palomies
+fireproofing agent	tulenkestävä aine
+firework	ilotulite
+firing	polttaminen, kuumentaminen; ampuminen
+firm ; corporation ; enterprise ; company ; venture	yritykset
+first	ensimmäinen
+fish	kalat
+fish disease	kalatauti
+fish farming	kalanviljely
+fish kill	kalakuolema
+fish stock	kalakanta
+fish toxicity	kalojen myrkyllisyys
+fisheries management	kalastuksen valvonta
+fisheries structure	kalastuksen rakenne
+fishery	kalastus
+fishery economics	kalatalous
+fishery policy	kalastuspolitiikka
+fishery resource	kalavarat
+fishing	kalastus
+fishing ground	kalastuspaikka
+fishing industry	kalatalous, kalastuselinkeino
+fishing law	kalastuslaki
+fishing licence	kalastuslupa
+fishing preserve	kalojen suojelualue
+fishing vessel	kalastusalus
+fitting (plumbing) ; fitting ; plumbing equipment ; plumbing fixtures	varusteet ; varusteet; kiinteä varustus ; kiinteä varustus
+five	viisi
+flag of convenience	mukavuuslippu
+flammable product	tulenarka tuote, helposti syttyvä tuote
+flaring	loimuava; käyristyvä
+flavouring	aromi(aine)
+flea	kirput
+flexible approach to environmental protection	joustava suhtautuminen ympäristönsuojeluun
+flint ; flintstone	piikivi
+flocculant	hiutaloittamisaine; höytelöittämisaine
+flocculation	saostuminen höytäleinä
+flood	tulva
+flood control	tulvasuojelu, tulvien torjunta
+flood forecast	tulvaennuste
+flood protection	tulvasuojelu
+flood runoff	valuma-alue
+flooding	tulviminen
+flora (biology) ; flora	kasvisto
+flora (document) ; flora	kasvisto
+flora restoration	kasviston palauttaminen
+flotation	vaahdotus; flotaatio
+flow	virta, läpivirtaus(määrä); vuoksi
+flow field	valuma-alue
+flower ; bloom ; blossom	kukka
+flowering plant	kukkivat kasvit
+flowing water	virtaava vesi
+flue gas	savukaasu, palokaasu, poistokaasu
+fluidics	fluidistorijärjestelmä; fluidistoritekniikka
+fluidisation	juoksevaksi tekeminen; pyörrekerrostus
+fluidised bed	pyörresintrauskylpy; leijukuivatin; leijukerros
+fluoridation	fluoraus, fluorin lisääminen juomaveteen
+fluorine	fluori
+flushing	huuhtelu ; huuhtelu, huuhtelupuhdistus ; huuhtelupuhdistus
+flute	huilu
+fluvial resource	jokivarat
+fly ash	lentotuhka
+foaming agent	vaahdotusaine; solustusaine
+fodder ; provender ; forage	rehu
+fodder plant	rehukasvi
+fog	sumu
+foliage	lehdet, lehvistö ; lehdet ; lehvistö
+folk tradition	kansanperinne
+folklore	kansanperinne
+food	ruoka
+food additive	elintarvikelisäaine
+food chain	ravintoketju
+food commerce	elintarvikekauppa
+food contamination	ruuan saastuminen
+food hygiene	elintarvikehygienia
+food industry	elintarviketeollisuus
+food irradiation	ruuan säteilytys
+food pollutant	ruuansaaste
+food preservation	ruuan säilytys
+food processing industry	ruuanjalostusteollisuus
+food production (agriculture) ; food production	elintarviketuotanto
+food quality	ruuan laatu
+food requirement	ravinnontarve
+food science	ravintotiede
+food storage	ruuan varastointi
+food technology	ravintotekniikka
+food transport	elintarvikekuljetus
+foodstuff	ruoka-aine, elintarvike
+football	jalkapallo
+footpath	polku ; polku, jalankulkutie ; jalankulkutie
+forage contamination	rehun saastuminen
+forage crop	rehukasvi
+forage law	rehulaki
+ford	kahluupaikka ; kahlaamo ; kahlauspaikka
+forecast	ennuste
+foreclosure	lunastusoikeuden menetetyksi julistaminen
+foreign	ulkomainen ; vierasmaalainen
+foreign economic relations	taloudelliset suhteet ulkomaihin
+foreign policy	ulkopolitiikka
+foreign trade	ulkomaankauppa
+forest	metsä
+forest biological reserve	luonnonpuistometsä
+forest cover destruction	metsäpeitteen tuhoutuminen
+forest damage	metsävaurio
+forest deterioration	metsän pilaantuminen
+forest ecology	metsäekologia
+forest ecosystem	metsän ekosysteemi
+forest exploitation	metsän hyväksikäyttö
+forest fire	metsäpalo, kulo
+forest industry	metsäteollisuus
+forest management	metsätalous, metsänhoito
+forest pest	metsän tuholainen
+forest policy	metsäpolitiikka
+forest product	metsätaloustuote
+forest production	metsätuotanto
+forest protection	metsänsuojelu
+forest reserve	metsävarat ; metsävarat; metsänsuojelualue ; metsänsuojelualue
+forest resource	metsävarat
+forestry	metsätalous
+forestry economics	metsätaloustiede
+forestry law	metsätalouslaki
+forestry legislation	metsätalouslainsäädäntö
+forestry practice	metsätalous
+forestry unit	yksityismetsä
+fork	haarukka
+form of government	hallitusmuoto
+forwarding agent	huolitsija, huolintaliike
+fossil	fossiili, kivettymä ; fossiili ; kivettymä
+fossil fuel	fossiilinen polttoaine
+fouling growth	kasvillisuuden ja eläimistön muodostuminen laivan pohjaan
+fountain	kaivo ; lähde ; lähde, kaivo
+four	neljä ; nelonen
+four	neljä
+four stroke engine	nelitahtimoottori
+fracture	murtuma
+framework legislation	puitelainsäädäntö
+francium	frankium
+fraud	petos
+free movement of capital	pääoman vapaa liikkuvuus
+free trade	vapaakauppa
+freedom	vapaus
+freedom of speech ; freedom of speech	sananvapaus
+freight transport	tavarankuljetus
+freon	freoni
+freshwater	makea, suolaton vesi ; makea vesi
+freshwater degradation	makean veden pilaantuminen
+freshwater ecosystem	makean veden ekosysteemi
+freshwater organism	makean veden organismi
+freshwater pollution	makean veden saastuminen
+freshwater resource	sisävesivarat
+frog	sammakot
+frost	pakkanen ; kuura ; huurre
+fruit	hedelmä
+fruit cultivation	hedelmänviljely
+fruit tree	hedelmäpuu
+fuel	polttoaine
+fuel additive	polttoaineen lisäaine
+fuel alcohol	moottorialkoholi
+fuel cell	polttokenno
+fuel composition	polttoaineen koostumus
+fuel consumption	polttoaineen kulutus
+fuel oil	polttoöljy, raskas maaöljytuote ; polttoöljy ; raskas maaöljytuote
+fuel tank installation	polttoainetankin asennus
+fuel wood	polttopuu
+full	täysi
+fume	höyry ; savu ; savu, höyry, savustaa, savuta ; savustaa ; savuta
+fumigation	kaasutus ; savustus
+functional substance	toimiva aine
+fundamental	fundamentaalinen
+funeral	hautajaiset
+fungicide	sienimyrkky, sienituhoaine
+fungus	sieni
+fur	turkki
+fur animal	turkiseläin
+furan	furaani
+furnace	uuni
+furniture	huonekalut ; kalusteet
+furniture industry	huonekaluteollisuus
+furriery	turkiskauppa; turkikset
+gadolinium	gadolinium
+gallbladder	sappirakko
+gallinacean	kanalinnut
+gallium	gallium
+galvanisation	galvanoiminen
+game	peli
+game	riista
+gamma radiation	gammasäteily
+gangrene	kuolio
+garage	autotalli
+garden	puutarha
+garden waste	puutarhajäte
+gardener	puutarhuri
+gas	kaasu
+gas chromatography	kaasukromatografia
+gas company	kaasuyhtiö
+gas engine	kaasu-, bensiinimoottori
+gas liquefaction	kaasun nesteytyminen, nesteytys
+gas mixture	kaasuseos
+gas network	kaasuverkko
+gas pipeline	kaasujohto
+gas powered plant	kaasukäyttöinen laitos
+gas purification	kaasunpuhdistus
+gas reservoir	kaasusäiliö
+gas supply	kaasun saanti; kaasuvarasto
+gaseous air pollutant	kaasumainen ilman saastuttaja
+gaseous state	kaasumainen tila
+gasification	kaasuunnus, kaasutus
+gasohol	gasoholi ; gasoholi, polttoaineseos, jossa bensiiniin on lisätty alkoholia
+gasoline engine	bensiinimoottori
+gastrointestinal tract ; alimentary canal	ruoansulatuskanava
+gastropod	kotilot
+gaswork	kaasulaitos
+gene	geeni
+genealogy	sukututkimus
+general	yleinen
+general	kenraali
+general administrative order	yleinen hallinto-ohje
+general chemistry	yleinen kemia
+general education	yleissivistävä koulutus
+genetic diversity	geneettinen monimuotoisuus
+genetic effect	perinnöllinen vaikutus, geneettinen vaikutus
+genetic engineering	geeniteknologia
+genetic engineering legislation	geeniteknologiaa koskeva lainsäädäntö
+genetic information	geneettinen tieto
+genetic modification	geneettinen muutos
+genetic pool ; gene pool	geenipooli, populaation geenistö ; geenipooli
+genetic resource	geneettiset voimavarat
+genetic variation	geneettinen muuntelu
+genetically modified organism	geneettisesti muutettu organismi
+genetics	perinnöllisyystiede
+genocide	kansanmurha
+genome	genomi
+genotoxicity	genotoksisuus
+genotype	genotyyppi
+geo-referenced data	maaperää koskeva tieto
+geo-referenced information	maaperää koskeva tieto
+geodesy	maanmittaus, geodesia
+geogenic factor	maapallon muodostumiseen liittyvä tekijä
+geographic information system	maantieteen tietojärjestelmä
+geographical distribution of population	väestön maantieteellinen jakautuminen
+geographical projection	maantieteellinen projektio
+geography	maantiede
+geological disaster	geologinen suuronnettomuus
+geological process	geologiset prosessit
+geology	geologia
+geometric correction	geometrinen korjaus
+geomorphic process	geomorfinen prosessi
+geomorphology	pinnanmuoto-oppi ; geomorfologia
+geophysical environment	geofysikaalinen ympäristö
+geophysics	geofysiikka
+geotechnics	geotekniikka
+geotechnology	geotekniikka
+geothermal energy	maanlämpöenergia
+geranium	pelargoni
+germ	alkio ; itu, itiö, alkio, mikrobi ; itu ; itiö ; mikrobi
+germ plasm	ituplasma
+germanium	germanium
+germination	idätys; itäminen ; idätys ; itäminen
+geyser	geysiri
+giraffe	kirahvi
+glacier	jäätikkö
+glaciology	jäätiköntutkimus, jäätikkötiede
+glass	lasi
+glass industry	lasiteollisuus
+glasses ; spectacles	silmälasit
+glaucoma	glaukooma
+glaze	lasite; lasittaa; kiilto ; lasite ; lasittaa ; kiilto
+global aspect	maailmanlaajuinen näkökulma
+global convention	maailmanlaajuinen yleissopimus
+global model	maailmanlaajuinen malli
+global warming	globaali lämpeneminen
+glossary	sanasto
+glue	liima
+glycolysis	glykolyysi
+go	mennä
+goal of individual economic business	yksittäisten liikeyritysten tavoitteet
+gold	kulta
+golf	golf
+gong	gongi
+gonorrhea	tippuri
+good evening	hyvää iltaa
+good management	hyvä hallinta
+goods	tavarat
+goods and services	tavarat ja palvelut
+goose	hanhi
+gorilla	gorilla
+government (cabinet)	hallitus
+government advisory body	hallituksen neuvoa-antava elin
+government building	hallitusrakennus
+government liability	hallituksen vastuu
+government policy	hallituksen politiikka
+governor	kuvernööri ; päällikkö
+grain	jyvä ; jyvä; vilja; rae ; vilja ; rae
+graminaceous plant	heinäkasvit
+grammer ; grammar	kielioppi
+grandchild	lapsenlapsi
+grandfather	isoisä
+grandson	pojanpoika ; tyttärenpoika
+granite	graniitti
+granulometry	granulometria, rakeisuuden tutkimus
+grape	viinirypäle
+grass	ruohot
+grass fire	ruohikkopalo
+grasshopper	heinäsirkat
+grassland	nurmi
+gravel	sora
+gravel extraction	hiekkakuoppa
+gravel pit	sorakuoppa, soranottopaikka
+graviton	gravitoni
+grazing	laiduntaminen; laidunmaa ; laiduntaminen ; laidunmaa
+green building	ekologinen rakennus
+green corridor	vihreä käytävä
+green manure	vihantalannoite
+green revolution	vihreä vallankumous
+green space	viheralue
+green tide	vuoroveden kuljettamat levälautat
+green vegetable	tuore vihannes
+greenhouse cultivation	kasvihuoneviljely
+greenhouse effect	kasvihuoneilmiö
+greenhouse gas	kasvihuonekaasu
+gridding	ruudutus
+grinding	hiominen ; jauhaminen
+gross national product	bruttokansantuote
+groundwater	pohjavesi
+groundwater endangering	pohjaveden vaarantuminen
+groundwater extraction	pohjaveden otto
+groundwater pollution	pohjaveden saastuminen
+groundwater protection	pohjaveden suojelu
+groundwater quality	pohjaveden laatu
+group behaviour	ryhmäkäyttäytyminen
+guillotine ; guillotine ; guillotine	giljotiini ; giljotiini ; giljotiini
+guinea pig	marsu
+gulf	meren lahti; suuri malmikerros ; merenlahti
+gull	lokki
+gymnosperm	paljassiemeniset
+gypsum	kipsi; kalsiumsulfaattidihydraatti ; kipsi ; kalsiumsulfaattidihydraatti
+habitat	kasvuympäristö, elinpaikka ; kasvuympäristö ; elinpaikka
+habitat destruction	elinympäristön tuhoutuminen
+haematology	hematologia
+hafnium	hafnium
+haiku	haiku
+hail	rakeet, sataa rakeita ; rakeet ; sataa rakeita
+hair	karvoitus
+hairdresser ; barber	parturi ; kampaaja
+half-life	puoliintumisaika, puoliintumisikä
+hallucination	hallusinaatio
+haloform	haloformi
+halogenated biphenyl	halogenoitu difenyyli
+halogenated compound	halogenoitu yhdiste
+halogenated hydrocarbon	halogenoitu hiilivety
+halogenated phenol	halogenoitu fenoli
+halogenated pollutant	halogenoitu saaste
+handicraft	käsityö
+handicraft business	käsityöteollisuus
+handkerchief	nenäliina
+harbour	satama
+hard disk drive ; hard disk ; HD	kiintolevy
+hard-to-dispose-of waste	vaikeasti käsiteltävä jäte
+hardness	kovuus
+harem	haaremi
+harmonisation of law	lainsäädännön yhtenäistäminen
+harpoon	harppuuna
+harvest	sadonkorjuu, korjata sato ; sadonkorjuu ; korjata sato
+hassium	hassium
+hazard	vaarat
+hazard area	vaarallinen alue
+hazard of pollutants	saastevaara
+hazardous chemical export	vaarallisten kemikaalien vienti
+hazardous substance	vaarallinen aine
+hazardous substances legislation	vaarallisia aineita koskeva lainsäädäntö
+hazardous waste	vaaralliset jätteet
+hazardous waste dump	vaarallinen kaatopaikka
+hazardous working material	vaarallinen työskentelymateriaali
+haze	auer, sumentaa ; auer
+he	hän
+headland	niemi
+headland	pellon piennar
+health	terveys
+health care	terveydenhoito, -huolto
+health care profession	terveydenhoitoammatti
+health effect of noise	melun vaikutus terveyteen
+health facility	terveyspalvelu
+health hazard	terveysriski
+health legislation	terveydenhuoltolainsäädäntö
+health regulation	terveyttä koskeva määräys
+health service	terveyspalvelu
+health-environment relationship	terveyden ja ympäristön suhde
+health-related biotechnology	terveyteen liittyvä biotekniikka
+hearing	kuulo
+hearing acuity	kuulon tarkkuus
+hearing impairment	kuulovamma
+hearing procedure	kuulemismenettely
+hearing protection	kuulonsuojaus
+hearing system	kuuloelimistö
+heart	sydän
+heat	kuumuus
+heat and power station	lämpö- ja voimalaitos
+heat pump	lämpöpumppu
+heat storage	lämmönakkumulaatio
+heat supply	lämmön hankinta
+heater	kuumennin, lämmitin, keittolaite
+heathen ; infidel ; pagan	pakana
+heathland	kangas ; nummi, kangas ; nummi
+heating	lämmitys
+heating plant	lämmityslaitos, lämpökeskus
+heaven ; sky	taivas
+heavy	painava
+heavy goods vehicle traffic	raskaiden tavaroiden kuljetus
+heavy metal	raskasmetalli
+heavy metal load	raskasmetallikuormitus
+hedge	pensasaita
+hedonism	hedonismi
+hegemony	hegemonia
+helicopter	helikopteri
+helium	helium
+herbicide	kasvimyrkky, rikkaruohomyrkky
+herbivore ; plant eater	kasvinsyöjä
+here	tänne
+heroin	heroiini
+heron	haikara
+heterocyclic compound	heterosyklinen yhdiste
+hierarchy	hierarkia
+high mountain	korkea vuori
+high tide water	nousuvesi
+high voltage line	suurjännitelinja
+high-rise building	kerrostalo, tornitalo
+high-speed railway	nopeiden junien rautatie
+high-speed train	luotijuna
+higher education	yliopistotason koulutus
+highway	valtatie
+hiking trail	patikkapolku
+historic centre	historiallinen keskus
+historical evolution	historiallinen kehitys
+historical monument	muinaismuisto, muistomerkki
+historical research	historian tutkimus
+historical site	hisoriallinen kohde, muinaismuistomerkki
+history	historia
+holiday ; opor-garai	loma
+holiday camp	lomakylä
+holmium	holmium
+home garden	kotipuutarha
+homeostasis	homeostaasi
+homepage	kotisivu
+homologation	hyväksyminen, vahvistaminen
+honey	hunaja
+hope	toivo
+horizon	horisontti
+hormone	hormoni
+horse	hevonen
+horticulture	puutarhanhoito, puutarhaviljely
+hospital ; clinic	sairaala
+hospital waste	sairaalajäte
+hostage	panttivanki
+hot water	kuuma vesi
+hotel industry	hotelliala
+hour	tunti
+household	talous
+household chemical	kotitalouskemikaali
+household expenditure	kotitalousmenot
+household goods	kotitaloustavara
+housing	asuminen, asuntoasiat ; asuminen ; asuntoasiat
+housing density	asumistiheys
+housing improvement	asunto-olojen parantaminen
+housing legislation	asunto-oloja koskeva lainsäädäntö
+housing programme	asutusohjelma
+housing quality standard	asumisen laatua koskeva normi
+huckleberry ; blueberry	mustikka
+human body	ihmisruumis
+human disease	ihmisten sairaus
+human ecology	ihmisekologia
+human habitat	ihmisen asuinympäristö
+human health	ihmisen terveys
+human migration	ihmisten muutto
+human physiology	ihmisen fysiologia
+human population	väestö
+human rights	ihmisoikeudet
+human science	humanistiset tieteet
+human settlement	asutus(taajama) ; asutuskeskus
+human settlement management	ihmisasutusten hallinta
+human-made disaster	ihmisen aiheuttama suurvahinko
+humanitarian aid	humanitaarinen apu
+humus	kasvumaa
+hundred	sata
+hunger ; hunger ; hunger	nälkä ; nälkä ; nälkä
+hunting	metsästys
+hunting licence	metsästyslupa
+hunting reserve	rauhoitusalue
+hurricane	hirmumyrsky
+husband ; spouse	mies
+hybridisation	hybridisointi, hybridisaatio
+hydraulic construction	hydraulinen rakennelma
+hydraulic engineering	vesirakennustekniikka
+hydraulics	hydrauliikka, nestemekaniikka
+hydrobiology	hydrobiologia
+hydrocarbon	hiilivety
+hydrocarbon storage tank	hiilivedyn säilytystankki
+hydrochloric acid ; muriatic acid	kloorivetyhappo, suolahappo
+hydroculture	vesiviljely
+hydroelectric energy	vesivoima
+hydroelectric power plant	vesivoimalaitos
+hydrogen	vety
+hydrogen sulphide	vetysulfidi, rikkivety
+hydrogeology	hydrogeologia
+hydrographic basin	hydrografinen allas
+hydrographic network	hydrografinen verkko
+hydrography	hydrografia; merenkartoitus
+hydrologic balance	vesitase
+hydrologic cycle	veden kiertokulku luonnossa
+hydrologic disaster	hydrologinen suuronnettomuus
+hydrologic flow	veden virtaus
+hydrology	vesitiede, hydrologia
+hydrolysis	hydrolyysi
+hydrometeorology	hydrometeorologia
+hydrometry	veden virtausta koskeva tutkimus ja mittaus
+hydrosphere	vesikehä, hydrosfääri
+hyena	hyeena
+hygiene	hygienia
+hymenopteran	pistiäiset, kalvosiipiset ; pistiäiset ; kalvosiipiset
+hypertext	hyperteksti
+hyponym ; narrower terms ; narrower term	alakäsite ; hyponyymi ; suppeampia termejä
+ice	jää
+ice cream	jäätelö ; jätski
+ice hockey	jääkiekko
+ice pack	ajojää
+iceberg	jäävuori
+ideology	ideologia
+illiterate	lukutaidoton
+image classification	kuvien luokitus
+image enhancement	kuvan parantaminen
+image filtering	kuvan suodatus
+image processing digital system	numeerinen kuvankäsittelyjärjestelmä
+image registration	ristikuvaus
+immission	immissio; immissiovahinko
+immission control	immissionvalvonta
+immission control law	immissionvalvontalaki
+immission damage	immissiovahinko
+immission forecast	immissioennuste
+immission limit	immissioraja
+immission load	immissiokuormitus
+immune system	immuunijärjestelmä
+immunity	immuniteetti; koskemattomuus ; koskemattomuus ; immuniteetti
+immunoassay	immuniteettianalyysi
+immunological disease	immuunijärjestelmän sairaus
+immunology	immunologia
+impact assessment	vaikutuksen arviointi
+impact minimisation	vaikutuksen minimointi
+impact prevention	vaikutuksen ehkäisy
+impact reversal	vaikutuksen suunnanmuutos
+impact source	vaikutuksen lähteet
+impactor	impaktori
+implementation law	voimaanpanolaki
+import	tuonti
+import licence	tuontilupa, tuontilisenssi
+impoverishment	köyhdyttäminen
+impregnating agent	kyllästysaine
+impregnation	kyllästäminen
+improvement of efficiency	tehokkuuden parantaminen
+impulsive noise	impulssikohina, impulssimelu
+in situ	itse kohteessa, "paikan päällä" tapahtuva ; itse kohteessa ; "paikan päällä" tapahtuva
+in vitro assay	in vitro -analyysi (pullossa)
+in vivo assay	in vivo -analyysi (elävässä elimistössä)
+incentive fund	kannustinrahasto
+incentive tax	kannustusvero
+incidental pollution	satunnainen saaste
+incineration	tuhkaksi polttaminen, (jätteiden) poltto
+incineration of waste	jätteenpoltto
+incineration residue	jätteenpolton jäännös
+incinerator	jätteenpolttouuni
+income	tulot
+income tax	tulovero
+incorporation	yhdistäminen; yhtiöittäminen ; yhdistäminen ; yhtiöittäminen
+indefinite legal concept	epämääräinen oikeudellinen käsite
+indemnity	korvaus
+independence	riippumattomuus
+index	osoitin; luettelo; hakemisto ; osoitin ; luettelo ; hakemisto
+indexing of documentation	asiakirjojen luettelointi
+indicator	osoitin; mittari; ilmaisin
+indicator of environmental quality	ympäristön laadun osoitin
+indigenous knowledge	alkuperäinen tietous
+indigenous technology	kotimainen teknologia
+indirect discharger	epäsuora aiheuttaja
+indium	indium
+individual	yksilö
+individual wastewater treatment	yksilöllinen jätehuolto
+indoor air pollution	huoneilman, sisäilman saastuminen
+indoor environment	sisäympäristö
+industrial activity	teollinen toiminta
+industrial area	teollisuusalue
+industrial association	teollisuusliitto; elinkeinoyhdistys
+industrial building	teollisuusrakennus
+industrial crop	teknillinen viljelyskasvi
+industrial development	elinkeinoelämän kehitys; teollisuusrakennus
+industrial dumping	teollisuuskaatopaikka
+industrial economics	teollisuustaloustiede, toimialatutkimus
+industrial effluent	teollisuuden jätevesi, teollisuuspäästö
+industrial emission	teollisuuspäästö
+industrial environment	teollisuusympäristö
+industrial environmental policy	teollisuuden ympäristöpolitiikka
+industrial equipment	tehdaslaitteet
+industrial installation	teollisuuslaitos
+industrial legislation	teollisuuslainsäädäntö
+industrial manufacturing	teollinen valmistaminen
+industrial material	teollinen materiaali
+industrial medicine	työlääketiede
+industrial noise	teollisuusmelu
+industrial planning	teollinen suunnittelu
+industrial plant (building) ; industrial plant	tehdas, tuotantolaitos ; tehdas ; tuotantolaitos
+industrial plant (organism) ; industrial plant	teollisuuskasvi
+industrial policy	teollisuuspolitiikka, elinkeinopolitiikka
+industrial pollution	teollisuuden aiheuttama saastuminen
+industrial process	teollisuusprosessit
+industrial product	tehdasvalmiste, teollisuustuote ; tehdasvalmiste ; teollisuustuote
+industrial production	tehdastuotanto, teollinen valmistus
+industrial production statistics	teollisuustuotantoa koskevat tilastot
+industrial property right	teollisoikeuksien suojelu
+industrial safety	työturvallisuus, työsuojelu
+industrial site	teollisuusalue
+industrial sludge	teollisuusliete
+industrial society	teollisuusyhteiskunta
+industrial structure	tuotantorakenne
+industrial waste	teollisuusjäte
+industrial waste gas	jätekaasu
+industrial waste water	teollisuusjätevesi
+industrial wasteland	teollisuusjoutomaa
+industrial zoning	teollisuuden vyöhykejako
+industrialisation	teollistuminen, teollistaminen
+industry	teollisuus
+inert waste	inertti jäte
+inertisation	inertiksi muunto
+infant	pikkulapsi, pienokainen ; pikkulapsi ; pienokainen
+infant mortality	lapsikuolleisuus
+infection	tartunta, tartutus
+infection	infektio
+infectious disease	tarttuva tauti
+infectious disease ; communicable diseases	tartuntatauti
+infestation of crops	peltokasvien tuholaisvaiva
+infestation of food	tuholaisten aiheuttama ruuan pilaantuminen
+infiltration	suotautuminen; imeytyminen
+inflammable substance	helposti syttyvä aine
+inflation	inflaatio
+inflow	sisäänvirtaus, tulva ; tulva ; sisäänvirtaus
+influenza ; flu	influenssa
+info ; information	informaatio ; tieto
+informal negotiation	epäviralliset neuvottelut
+informatics ; computer science ; information science	tietojenkäsittelyoppi, informatiikka ; informatiikka ; tietojenkäsittelyoppi
+information centre	tietopalvelukeskus
+information clearing-house	tietokeskus
+information exchange	tiedonvaihto
+information infrastructure	tiedon infrastruktuuri
+information kit	tietopaketti
+information network	tietoverkko
+information processing	tietojenkäsittely
+information service	tietopalvelu
+information source	tiedonlähde
+information system	tietojärjestelmä
+information technology ; IT	tietotekniikka
+information technology industry	tietotekniikkateollisuus
+information transfer	tiedonsiirto
+infraction	rikkominen, loukkaaminen; särö ; rikkominen ; loukkaaminen ; särö
+infrared radiation	infrapunasäteily
+infrasound	infraääni
+infrastructure	perusrakenne, infrastruktuuri
+inhabitant	asukas
+initial training	alkukoulutus
+injury	vamma
+ink	muste
+inland fishery	sisävesikalastus
+inland navigation	sisävesiliikenne
+inland water	sisävesi
+inland waterways transport	sisävesiliikenne
+innovation	uudistus, uusi keksintö tai tapa ; uudistus ; uusi keksintö tai tapa
+inorganic chemistry	epäorgaaninen kemia
+inorganic fertiliser	epäorgaaninen lannoite
+inorganic pollutant	epäorgaaninen saaste
+inorganic substance	epäorgaaniset aineet
+insect	hyönteiset
+insecticide	hyönteismyrkky
+insectivore	hyönteissyöjät
+insoluble substance	liukenematon aine
+inspection	tarkastus
+inspection of records	asiakirjojen tarkastus
+inspection service	tarkastuspalvelu ; valvontapalvelu
+installation optimisation	laitosten optimointi
+installation requiring approval	laitos, johon tarvitaan hyväksyntä
+installation restoration	laitoksen kunnostus
+instep	jalkapöytä
+institutional activity	institutionaalinen toiminta
+institutional structure	institutionaalinen rakenne
+institutionalisation	laitostuminen
+instrument ; musical instrument	soitin ; instrumentti
+instrument manufacture	välineiden, instrumenttien valmistus
+instrumentation	välineistö, varustaminen tarvittavilla kojeilla
+insulation	eristys
+insurance	vakuutus
+insurance business	vakuutustoiminta
+insurance coverage	vakuutuskate, vastuukate
+integral natural reserve	yhtenäinen luonnonsuojelualue
+integrated environmental protection technology	gy  yhteinen ympäristönsuojelutekniikka
+integrated management	yhteinen hallinta
+integrated pest control	yhteinen tuholaisten torjunta
+integrated pollution control	yhteinen saastumisen torjunta
+intensive animal husbandry	tehokarjanhoito
+intensive farming	tehoviljely
+inter-library loan	kaukolaina
+interaction of pesticides	tuholaismyrkkyjen vuorovaikutus
+interchange of electronic data	elektronisten tietojen vaihto
+interdisciplinary research	tieteidenvälinen tutkimus
+interest	etu
+interest group	eturyhmä
+interim decision	välipäätös
+interlaboratory comparison	laboratorioiden vertailu
+intermediate goods	välituote, puolivalmiste
+intermittent noise	ajoittainen melu
+internal European market	Euroopan sisämarkkinat
+internal migration	maassamuutto
+internalisation of external costs	ulkoisten kustannusten internalisointi
+international agreement	kansainvälinen sopimus
+international assistance	kansainvälinen apu
+international balance	kansainvälinen tasapaino
+international co-operation	kansainvälinen yhteistyö
+international competitiveness	kansainvälinen kilpailukyky
+international conflict	kansainvälinen konflikti
+international convention	kansainvälinen yleissopimus
+international distribution	kansainvälinen jakelu, jakauma
+international division of labour	kansainvälinen työnjako
+international economic law	kansainvälinen talousoikeus
+international environmental relations	kansainväliset ympäristösuhteet
+international harmonisation	kansainvälinen harmonisointi
+international law	kansainvälinen oikeus
+international organisation	kansainvälinen järjestö
+international politics	kansainvälinen politiikka
+international relations	kansainväliset suhteet
+international safety	kansainvälinen turvallisuus
+international standardisation	kansainvälinen standardointi
+international trade	kansainvälinen kauppa
+international transaction	kansainvälinen vertailu
+international watercourse	kansainvälinen vesiväylä
+internationally important ecosystem	kansainvälisesti tärkeä ekosysteemi
+internet search service	internetin hakupalvelu
+internet service provider ; ISP ; Internet access provider ; Internet service provider	internet-palvelujen tarjoaja
+interpolation	interpolaatio, väliarvolasku
+interpretation method	tulkintamenetelmä
+interpreter	tulkki
+intertidal zone	vuorovesialue, rantavyöhyke
+intervention fund	interventiorahasto
+intervention in nature and landscape	luontoon ja maisemaan puuttuminen
+intervention on land	maalla tapahtuva interventio
+intoxication	päihtymys; rohdoksen aiheuttama myrkytys
+introduction of animal species	eläinlajin tuominen uuteen ympäristöön
+introduction of plant species	kasvilajin tuominen uuteen ympäristöön
+inventory	tavaraluettelo; varasto, kokonaismäärä
+inventory of forest damage	metsävahinkojen arviointi
+inversion	käänteinen järjestys; invertoiminen ; käänteinen järjestys ; invertoiminen
+inversion layer	käännekerros
+invertebrate	selkärangattomat
+investment	sijoitus
+iodine	jodi
+ion	ionit
+ion exchange	ioninvaihto
+ion exchanger	ioninvaihdin
+ionising radiation	ionisoiva säteily
+ionosphere	ionosfääri
+iridium	iridium
+iron	rauta
+iron and steel industry	rauta- ja terästeollisuus
+iron industry	rautateollisuus
+iron scrap	rautaromu
+ironwork industry	rautatehdasteollisuus
+irradiation	säteily ; säteily; säteilytys ; säteilytys
+irreversibility of the phenomenon	ilmiön peruuttamattomuus
+irrigation	keinokastelu
+irrigation farming	keinokasteluviljely
+irrigation system	kastelujärjestelmä
+island ; isle	saari
+island ecosystem	saaren ekosysteemi
+isomer	isomeeri
+isotope	isotooppi
+ivory	norsunluu
+jackal	sakaali
+jade	jade
+jaguar	jaguaari
+jazz	jazz
+joint ; articulation	liitos ; nivelliitos
+joint debtor	yhteisvelallinen, velalliskumppani
+joint implementation	yhteinen toteuttaminen
+journal ; mag ; magazine ; periodical	aikakauslehti
+journalist	toimittaja ; journalisti
+judgement (sentence) ; sentence ; judgement	tuomio
+judicial assistance	oikeudellinen apu
+judicial body	lainkäyttöviranomainen
+judicial system	oikeuslaitos, tuomioistuinlaitos
+judiciary rule	akordi
+judo	judo
+juridical act	oikeustoimi
+jurisdiction	oikeudenkäyttöalue, tuomiovalta ; oikeudenkäyttöalue ; tuomiovalta
+jurisprudence	oikeustiede, juridiikka
+justice	oikeus
+karate	karate
+karst	karstimaa
+kerosene	kerosiini, paloöljy
+kettle	pannu
+keyboard	näppäimistö
+kidney	munuainen
+kilogram	kilogramma
+kleptomania	kleptomania
+knife	veitsi
+knight ; knight	hevonen ; ratsu
+kokosnoot ; coconut	kookospähkinä
+krypton	krypton
+labelling	merkintä
+laboratory	laboratorio
+laboratory experiment	laboratoriokoe
+laboratory research	laboratoriotutkimus
+laboratory technique ; laboratory techniques	laboratoriotekniikka
+laboratory test	laboratoriokoe
+laboratory waste	laboratoriojäte
+labour	työ; työvoima ; työvoima ; työ
+labour force	työvoima
+labour law	työoikeus
+labour market	työmarkkinat
+labour relations	työmarkkinasuhteet
+lacquer	lakka; lakata, kiillottaa ; lakka ; lakata ; kiillottaa
+lagoon	laguuni
+lagooning	jäteveden käsittely
+lake	järvi
+lake basin	järviallas
+lake pollution	järven saastuminen
+lamp ; light	lamppu
+land	maa
+land allotment	maapalsta
+land clearing	puiden poisto maapaikasta
+land conservation	maansuojelu
+land consolidation	uusjako, tilusten sijoitus
+land cover	maanvaltaus
+land development	maankäyttö
+land disposal	jätteen kaivaminen maahan
+land ecology	maan ekologia
+land forming	maaperän muodostus
+land mammal	maanisäkäs
+land management and planning	maan hallinta ja suunnittelu
+land occupation	maankäyttö
+land planning	maankäytön suunnittelu
+land pollution	maan saastuminen
+land reclamation	uudisraivaus
+land register	maakirjarekisteri, lainhuutorekisteri
+land restoration	maan saneeraus
+land restoration in mountain areas	maan saneeraus vuoristoalueilla
+land setup	maanjärjestely
+land tax	maavero, kiinteistövero
+land transportation	maakuljetus
+land use	maankäyttö
+land use classification	maankäytön luokitus
+land use plan	kaava, maankäyttösuunnitelma
+land use planning	kaavoitus, maankäytön suunnittelu
+land use regime	maankäyttöjärjestelmä
+land value	maan arvo
+land-based activity	maahan perustuva toiminta
+land-based marine pollution	maalla sijaitsevista lähteistä aiheutuva meren saastuminen
+land-management intervention area	maanhallintainterventioalue
+landfill	kaatopaikka ; kaatopaikka, täyttömaa ; täyttömaa
+landfill base sealing	kaatopaikan pohjan eristäminen
+landfill covering	kaatopaikan peittäminen
+landfill degasification	kaasunpoisto kaatopaikasta
+landfill gas	kaatopaikan kaasu
+landfill leachate	kaatopaikan suotovesi
+landform	pinnanmuodostus
+landscape	maisema
+landscape after mining	maisema kaivostoiminnan jälkeen
+landscape alteration	maiseman muutos
+landscape architecture	maisema-arkkitehtuuri
+landscape component	maiseman osa
+landscape conservation	maisemansuojelu
+landscape conservation policy	maisemansuojelupolitiikka
+landscape consumption	maisemankulutus
+landscape ecology	maisemaekologia
+landscape management	maisemanhoito, maisemansuunnittelu
+landscape planning	maisemansuunnittelu
+landscape protection	maisemansuojelu
+landscape protection area	näköalapaikka
+landscape utilisation	maiseman käyttö
+landslide	maanvieremä, vieremä ; maanvieremä ; vieremä
+language	kieli ; kieli
+lanthanum	lantaani
+large combustion plant	suuri polttolaitos
+laser ; Light Amplification by Stimulated Emission of Radiation	laser
+latitude	leveysaste
+laugh	nauraa
+laundering	(rahan) pesu
+law	lait
+law	laki
+law ; law (science)	oikeustiede, juridiikka ; oikeustiede ; juridiikka
+law amendment	lainmuutos
+law branch	oikeustieteen ala
+law draft	lakiluonnos
+law enforcement	lain täytäntöönpano
+law relating to prisons	vankiloita koskeva laki
+lawrencium	lawrencium
+leaching	uutto; suotoliukeneminen, eluutio ; uutto ; suotoliukeneminen ; eluutio
+lead	lyijy
+lead compound	lyijy-yhdiste
+lead level in blood	veren lyijypitoisuus
+lead-in-petrol law	bensiinin lyijypitoisuutta koskeva laki
+leaf	havupuun neulanen ; lehti
+leakage	vuoto; suodanta ; vuoto ; suodanta
+leap year	karkausvuosi
+learn	oppia
+lease	vuokraus, vuokraoikeus, vuokra-aika ; vuokraus ; vuokraoikeus ; vuokra-aika
+leather	nahka
+leather industry	nahkateollisuus
+leg	jalka
+legal basis	oikeudellinen perusta
+legal form of organisations	organisaatioiden oikeusmuoto
+legal procedure	oikeusmenettely
+legal profession	lakimiesammatti
+legal regulation	oikeudellinen sääntely
+legal remedy	oikeussuojakeino
+legal system	oikeusjärjestelmä
+legal text	lakiteksti
+legally protected right	laissa suojeltu oikeus
+legislation	lainsäädäntö
+legislation on pollution	saastumista koskeva lainsäädäntö
+legislative authority	lainsäätämisvalta
+legislative competence	lainsäädäntötoimivalta
+legislative information	lainsäädäntöä koskeva tieto
+legislative procedure	lainsäätämisjärjestys
+legislature	lainsäädäntöelin
+leisure activity	vapaa-ajan toiminta
+leisure centre	vapaa-ajan keskus
+leisure time	vapaa-aika
+lemon	sitruuna
+lens	linssi
+lentil	linssi
+leopard	leopardi
+lepidopteran	perhoset
+less developed country	kehitysmaat
+letter	kirjain
+lettuce	lehtisalaatti ; salaatti
+leukaemia	leukemia
+level of education	koulutustaso
+levy	veronkanto; kantaa veroja ; veronkanto ; kantaa veroja
+lexicon	sanakirja ; sanakirja; sanasto ; sanasto
+liability	vastuu, velvoite
+liability legislation	vastuuta koskeva lainsäädäntö
+liberalism	liberalismi
+librarian	kirjastonhoitaja
+library	kirjasto
+library service	kirjastopalvelu
+licencing procedure	luvanmyöntämismenettely
+lichen	jäkälät
+life cycle	elinkaari
+life science	biologiset tieteet
+life-cycle management	kierrätyksen hallinta
+lifeguard	hengenpelastaja
+lifestyle	elämäntapa
+light	valo
+lighting	valaistus
+lignite	ligniitti, ruskohiili
+lignite mining	ruskohiilen louhinta
+lime	kalkki
+limestone	kalkkikivi
+limit value	raja-arvo
+limnology	vesistötiede, limnologia ; vesistötiede ; limnologia
+line	köysi, viiva, linja, rivi, raja, reitti, ala
+line source	viivalähde, viivasäteilijä
+linear source of sound	lineaarinen äänen lähde
+liner material	tiivisteen materiaali
+linguistics	kielitiede ; lingvistiikka
+lion	leijona
+lip	huuli
+lipid	lipidi
+lipophilic substance	rasvahakuinen aine
+lipstick	huulipuna ( ; huulipuna
+liquefied gas	nesteytetty kaasu
+liquid	neste
+liquid manure	lietelanta, lantavesi
+liquid state	nestemäinen tila
+liquid waste	nestemäinen jäte
+literature	kirjallisuus
+literature data bank	kirjallisuustietopankki
+literature evaluation	kirjallisuuden arviointi
+literature study	kirjallisuustutkimus
+lithium	litium
+lithography	litografia
+lithosphere	litosfääri, kivikehä ; litosfääri ; kivikehä
+litigation	riita-asia, käräjöinti ; riita-asia ; käräjöinti
+litter	jäte ; roskat
+little finger ; pinkie	pikkusormi
+littoral	rannikko-; rantamaa; litoraalinen ; rantamaa ; litoraalinen
+liver	maksa
+livestock	karja
+livestock breeding	karjanhoito ; karjatalous
+livestock farming	karjanhoito
+living condition	elinehto
+living environment	elinympäristö
+living space	elintila
+living standard	elintaso
+lizard	liskot
+load bearing capacity	kantokyky, kuormitettavuus
+local afforestation	paikallistason metsän istuttaminen
+local authority	paikallisviranomaiset
+local development	paikallinen kehitys
+local finance	paikalliset raha-asiat
+local government	kunnanhallitus, paikallishallinto ; kunnanhallitus ; paikallishallinto
+local government policy	paikallishallinnon politiikka
+local heat supply	paikallinen lämmön hankinta
+local passenger service	paikallinen matkustajaliikennepalvelu
+local recreation	paikallinen virkistystoiminta
+local resource utilisation	paikallinen resurssien hyödyntäminen
+local traffic	paikallisliikenne
+location of industries	teollisuuslaitosten sijainti
+locomotive	veturi
+locust	kulkusirkka ; heinäsirkka
+lodging	asunto ; asunto, huoneisto ; huoneisto
+logic	logiikka
+long	pitkä
+long-distance traffic	kaukoliikenne
+long-distance transport	kaukoliikenne
+long-term effect	pitkän aikavälin vaikutus
+long-term experiment	pitkän aikavälin kokeilu
+longitude	pituusaste
+lorry	kuorma-auto
+loss	menetys ; tappio ; vahinko
+loss of biotope	biotoopin t. elinalueen menetys
+lottery	arpajaiset
+loudness	kuuluvuus, äänekkyys
+love	rakkaus
+low flow	alivirtaama
+low-cost housing	halpa asuminen
+low-level flight	matalalla korkeudella lentäminen
+low-level technology	alhainen teknologia
+lubricant	voiteluaine
+lumberjack	metsuri
+luminosity	valoisuus; valoteho; värin kirkkaus ; valoisuus ; valoteho ; värin kirkkaus
+lunch ; lunch ; lunch ; lunch ; luncheon	lounas ; lounas ; lounas ; lounas ; lounas
+lutetium	lutetium
+lux	luksi
+lye	lipeä
+lymphatic system	lymfaattinen elimistö
+lynx	ilves
+lysimetry	lysimetria
+machine gun	konekivääri
+machine manufacture	koneiden valmistus
+machinery ; mechanism	koneisto
+mackerel	makrilli
+macroeconomic goal	makrotalouden tavoite
+macroeconomics	makrotaloustiede
+macrophyte	suurkasvi, makrofyytti
+macroscopic	makroskooppinen
+magnesium	magnesium
+magnetic tape	magneettinauha
+magnetism	magnetismi
+maintenance (technical) ; maintenance	kunnossapito
+maintenance of environment	ympäristön ylläpito
+major accident	suurehko onnettomuus
+major risk	suuri riski
+major risk installation	suuren riskin sisältävä laitos
+malaria	malaria
+male ; man	mies
+malformation	epämuodostuma
+malnutrition	aliravitsemus, vajaaravitsemus
+mammal	nisäkkäät
+man	ihminen ; mies
+man-made climate change	ihmisen aiheuttama ilmastonmuutos
+management	hoito, hallinto, johtaminen, käsittely
+management accounting	(sisäinen) laskentatoimi
+management contract	hoitosopimus; johtamissopimus
+management of natural resources	luonnonvarojen hallinta
+management plan	hallintasuunnitelma, johtamissuunnitelma ; hallintasuunnitelma ; johtamissuunnitelma
+management technique	hallintatekniikka
+mandarin ; Mandarin ; Standard Mandarin	mandariinikiina
+mandate	toimeksianto, tehtävä; valtakirja, valtuutus
+manganese	mangaani
+mango	mango
+mangrove	mangrovepuu
+manpower	työvoima
+manufacturing activity	teollinen valmistus
+manufacturing trade	teollisuus
+manure	lannoite ; lanta, lannoite; lannoittaa (karjanlannalla) ; lanta ; lannoittaa
+manure production	lannantuotanto
+map	kartta
+map chart	kartta, merikortti
+mapping	kartoitus
+mapping of lichens	jäkälien kartoitus
+maquis	pensaikko, tiheikkö
+marble	marmori; marmoroida; prekambrikalkkikivi ; marmori ; marmoroida ; prekambrikalkkikivi
+mare	tamma
+marginal land	reunamaa
+mariculture	meriviljely, (kalan ym) kasvatus meressä
+marina	venesatama
+marine biology	meribiologia
+marine ecology	meriekologia
+marine ecosystem	meren ekosysteemi
+marine engineering	laivanrakennus
+marine environment	meriympäristö
+marine fauna	meren eläimistö
+marine fishery	merikalastus
+marine geology	merigeologia
+marine mammal	merinisäkäs
+marine monitoring	meriympäristön seuranta
+marine organism	meressä elävä organismi
+marine park	meriluonnonpuisto
+marine pollution	meren saastuminen
+marine reserve	merisuojelualue
+marital status	siviilisääty
+maritime law	merilaki, merioikeus
+maritime navigation	merenkulku
+maritime transport	merikuljetus
+marker	merkitsin; leimauskone; ilmaisin
+market ; marketplace	markkinat
+market economy	markkinatalous
+market form	markkinamuoto
+market gardening	kauppapuutarhan pito
+market price	markkinahinta
+market research	markkinatutkimus
+market study	markkinatutkimus
+marketing	markkinointi
+marsh	räme ; suo
+marsupial	pussieläimet
+mason ; bricklayer ; stonemason	muurari
+masonry	muuraus, kivityö
+mass	massa
+mass media	joukkotiedotusvälineet
+mass recreation	joukkovirkistystoiminta
+mass transport	aineensiirto ; joukkoliikenne
+material ; materials	materiaali ; materiaalit ; aine
+material life cycle	materiaalin elinaika
+materials science	materiaalitiede
+mathematical analysis	matemaattinen analyysi
+mathematical method	matemaattinen menetelmä
+mausoleum	mausoleumi
+maximum admissible concentration	suurin sallittu pitoisuus
+maximum immission concentration	immission enimmäispitoisuus
+mayonnaise	majoneesi
+mayor	pormestari
+meadow	niitty
+means of agricultural production	maatalouden tuotantokeinot
+means of communication	liikennevälineet, kulkuyhteys
+measuring	mittaus
+measuring instrument	mittausväline
+measuring method	mittausmenetelmä
+measuring programme	mittausohjelma
+meat	liha
+mechanical equipment	mekaaniset varusteet
+mechanical industry	koneteollisuus, koneenrakennusteollisuus
+mechanical vibration	mekaaninen värähtely
+medical science	lääketiede
+medicinal plant	lääkekasvi
+medicine ; medicine (practice)	lääketiede
+meitnerium	meitnerium
+melody ; tune	melodia
+melting	sulaminen, sulatus ; sulaminen ; sulatus
+membrane	kalvo, soluketto, mineraalin pintakerros ; kalvo ; soluketto ; mineraalin pintakerros
+mendelevium	mendelevium
+meningitis	aivokalvontulehdus
+menorah	menora
+merchant	kauppias
+merchant shipping	kauppamerenkulku
+mercury	elohopea
+metabolism	aineenvaihdunta
+metabolite	metaboliitti
+metainformation	metainformaatio
+metal	metallit
+metal oxide	metallioksidi
+metal product	metallituote
+metal products industry	metallituoteteollisuus
+metal waste	metallijäte
+metallic mineral	metallimalmi
+metallurgical industry	metallurginen teollisuus
+metallurgy	metallurgia
+metaphor	metafora
+metaphysics	metafysiikka
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	meteori ; meteori ; meteori ; meteori ; meteori ; tähdenlento
+meteorite	meteoriitti
+meteorological disaster	meteorologinen suuronnettomuus
+meteorological parameter	meteorologinen parametri
+meteorological phenomenon	sääilmiöt
+meteorological research	meteorologinen tutkimus
+meteorology	säätiede, ilmatiede
+methane ; marsh gas ; methyl hydride	metaani, suokaasu ; metaani ; suokaasu
+methanisation	metaanintuotto; metanaatio
+methanol	metanoli
+method	menetelmä
+methodology	metodologiat
+metrology	metrologia
+metropolis	suurkaupunki
+micro-organism	mikro-organismi, mikrobi
+microbiological analysis	mikrobiologinen analyysi
+microbiology	mikrobiologia
+microclimate	mikroilmasto, pienilmasto
+microclimatology	mikroilmastotiede
+microcomputer	mikrotietokone
+microecosystem	mikroekosysteemi
+microelectronics ; microminiaturization ; microsystem electronics	mikroelektroniikka
+microfiltration	mikrosuodatus
+microphone	mikrofoni
+micropollutant	alhaisina pitoisuuksina esiintyvä saaste
+microscopy	mikroskoopin käyttö
+microwave	mikroaalto
+migrant labour	siirtotyövoima
+migratory bird	muuttolintu
+migratory fish	vaelluskala
+military activities	sotilaallinen toiminta
+military air traffic	sotilaslentoliikenne
+military aspects	sotilaalliset näkökohdat
+military equipment	sotilaalliset varusteet
+military zone	sotilasalue
+milk	maito
+mill	mylly
+mine	kaivos
+mine filling	kaivoksen täytös
+mineral	mineraali
+mineral conditioner	mineraalipitoinen maanparannusaine
+mineral deposit	malmiesiintymä, mineraalilöydös ; malmiesiintymä ; mineraalilöydös
+mineral extraction	mineraalin louhinta
+mineral fibre	mineraalikuitu
+mineral industry	mineraaliteollisuus
+mineral matter	kivennäisaine
+mineral oil	kivennäisöljy, mineraaliöljy
+mineral pollution	mineraalisaaste
+mineral resource	mineraalivarat, mineraalirikkaudet
+mineral waste	mineraalijäte
+mineral water	kivennäisvesi
+mineralisation	kivettyminen, mineralisoituminen ; kivettyminen ; mineralisoituminen
+mineralogy	mineralogia, kivennäistiede ; mineralogia ; kivennäistiede
+minimal cost planning	minimikustannussuunnittelu
+minimisation of damage	vahingon minimointi
+mining district	kaivoskenttä
+mining industry	kaivosteollisuus
+mining law	kaivoslaki
+mining product	kaivostuote
+mining regulation	kaivostoimintaa koskeva määräys
+mining site restoration ; mine reclamation	kaivospaikkojen kunnostus
+mining waste	kaivosjäte
+miniskirt ; mini-skirt	minihame
+minister competence	ministerin valtuudet
+ministerial decree	asetus
+ministry	ministeriö
+ministry ; ministry building	ministeriön rakennus
+minor	alaikäinen
+minority	vähemmistö
+minute	minuutti
+miscellaneous product	sekatuote
+miscibility	sekoittuvuus
+mist	sumu ; usva, sumu, huuru ; usva ; huuru
+mistral	mistraali
+mite	punkit
+mitigation measure	laimennus; lievennys ; laimennus ; lievennys
+mixed farming	maanviljelys ja karjanhoito samalla tilalla
+mixed forest	sekametsä
+mixed use area	monikäyttöinen alue
+mixing	sekoittaminen, sekoitus; seostuminen ; sekoittaminen ; sekoitus ; seostuminen
+mobile home	asuntovaunu, matkailuperävaunu
+mode of transportation	kuljetustapa
+model	malli
+modelling	muotoilu, suunnittelu; mallintaminen ; suunnittelu ; muotoilu ; mallintaminen
+moisture	kosteus
+molecular biology	molekyylibiologia
+mollusc	nilviäiset
+molybdenum	molybdeeni
+monetary assessment	rahallinen arviointi
+monetary economics	rahatalous
+monetary relations	valuuttasuhteet, rahasuhteet
+money market	rahamarkkinat
+monitoring	seuranta
+monitoring criterion	seurannan kriteeri
+monitoring data	seurantatiedot
+monitoring equipment	seurantavälineet
+monitoring network	seurantaverkko
+monitoring station	kuunteluasema
+monitoring technique	seurantatekniikka
+monopoly	monopoli, yksinoikeus
+month	kuu ; kuukausi
+monument	monumentti; rajapyykki
+moon ; moon ; satelite ; satelite	kuu
+morphine	morfiini
+morphology	morfologia, muoto-oppi ; morfologia ; muoto-oppi
+mortality	kuolleisuus
+mosaic	mosaiikki
+mosque	moskeija
+moss	sammalet
+mother	äiti ; äiskä
+mother-in-law ; mother in law	anoppi
+motherhood ; maternity	äitiys
+motor fuel	moottorin polttoaine
+motor vehicle	moottoriajoneuvo
+motor vehicle exhaust gas	moottoriajoneuvon pakokaasu
+motor vehicle industry	moottoriajoneuvoteollisuus
+motor vehicle pollution	moottoriajoneuvojen aiheuttama saaste
+motorcycle ; motorbike	moottoripyörä
+motorway ; pike ; expressway ; freeway ; state highway ; superhighway ; throughway ; thruway	moottoritie, pikatie
+mountain	vuori
+mountain climate	vuoristoilmasto
+mountain forest	vuoristometsä
+mountain management	vuoristoalueiden hallinta
+mountain protection	vuoristoalueiden suojelu
+mountain range	vuorijono
+mountain resort	vuoristossa sijaitseva turistikohde
+mountainous area	vuoristoseutu
+mouse	hiiri
+mowing	niitto
+mud	lieju, loka, muta ; muta ; lieju ; loka
+mud flat	vatti, vuorovesivyöhyke
+mulch	maan kate, viherlannoite; kompostimulta
+mule	muuli
+multilateral agreement	monenvälinen sopimus
+multimedia technology	multimediatekniikka
+multinational firm	monikansallinen yritys
+multispectral scanner	monispektriskanneri
+mumps	sikotauti
+municipal cleansing service	kunnallinen puhtaanapito
+municipal dumping	kaupungin kaatopaikka
+municipal environment plan	kunnallinen ympäristösuunnitelma
+municipal environmental policy	kunnallinen ympäristöpolitiikka
+municipal law	kunnallisoikeus
+municipal level	kunnallistaso
+municipal waste	yhdyskuntajäte
+municipal water distribution system	kunnallinen vedenjakelujärjestelmä
+municipal water management	kunnallinen vesihuolto
+municipality	kaupunki ; kaupunki, kunta ; kunta
+muscular system	lihaksisto
+museum	museo
+mushroom	sieni
+music	musiikki
+musical	musikaali
+musician	muusikko
+musquito ; mosquito	itikka
+mussel farming	simpukanviljely
+mustelid	näätäeläimet
+mutagen	mutageeni
+mutagenicity	mutageenisyys
+mutagenicity testing	mutageenisyystestaus
+mutant	mutantti
+mutated micro-organisms release	mutaation läpikäyneiden mikro-organismien päästö
+mutation	mutaatio, muutos
+mycete	sienet
+mycology	sienitiede
+mycorrhiza	sienijuuri
+mysterious	salaperäinen
+myth	myytti
+napkin	servetti ; lautasliina
+nappy	vaippa
+national accounting	kansantalouden tilinpito
+national boundary	valtion raja
+national economy	kansantalous
+national environmental accounting	kansallinen ympäristötilinpito
+national fishing reserve	kansallinen kalansuojelualue
+national legislation	kansallinen lainsäädäntö
+national park	kansallispuisto
+national planning	valtakunnansuunnittelu
+nationalisation	kansallistaminen
+natural area	luonnonvarainen alue
+natural areas protection	luonnonvaraisten alueiden suojelu
+natural disaster	luonnononnettomuus
+natural environment	luonnonympäristö
+natural fertiliser	luonnollinen lannoite
+natural fibre	luonnonkuitu
+natural forest	luonnonmetsä
+natural gas	luonnonkaasu ; maakaasu
+natural gas exploration	maakaasun tutkimus
+natural gas extraction	maakaasun talteenotto
+natural hazard	luonnonmullistuksen vaara
+natural heritage	luonnonperintö
+natural heritage assessment	luonnonperinnön arviointi
+natural material	luonnonmateriaali
+natural monument	luonnonmuistomerkki
+natural park	luonnonpuisto
+natural radioactivity	luonnon radioaktiivisuus
+natural regeneration	luontainen uudistuminen, metsittyminen
+natural resource	luonnonvarat
+natural resource conservation	luonnonvarojen suojelu
+natural risk	luonnollinen vaara
+natural risk analysis	luonnollisten vaarojen analyysi
+natural risks prevention	luonnollisten vaarojen ehkäisy
+natural scenery	luonnonmaisema
+natural science	luonnontieteet
+natural stone	luonnonkivi
+natural value	luonnollinen arvo
+nature conservation	luonnonsuojelu
+nature conservation legislation	luonnonsuojelulainsäädäntö
+nature conservation organisation	luonnonsuojelujärjestö
+nature conservation programme	luonnonsuojeluohjelma
+nature protection	luonnonsuojelu
+nature reserve	luonnonsuojelualue
+nausea	pahoinvointi
+navigation	merenkulku
+navigational hazard	merenkulkuun liittyvä vaara
+necrosis	kuolio
+need	tarve
+neighbourhood noise	lähiympäristön melu
+nematode	sukkulamadot
+neodymium	neodyymi
+neologism	uudismuodoste ; uudissana
+neon	neon
+neoplasm ; tumour	kasvain
+nepotism	nepotismi
+neptunium	neptunium
+nervous system	hermojärjestelmä
+nesting	pesiminen
+nesting area	pesimisalue
+netting policy (emissions trading) ; netting policy	nettovähennyksen ottaminen huomioon päästötasoa arvioitaessa
+neurology	neurologia
+neurotoxicity	hermostolle myrkyllisyys
+neutralisation	neutralointi
+new ; novel	uusi
+new community	uusi yhteisö
+new installation	uusi laitos
+new material	uusi materiaali
+new technology	uusi teknologia
+newsgroup	keskusteluryhmä, uutisryhmä ; keskusteluryhmä ; uutisryhmä
+newsletter	uutis-, tiedotuslehti ; tiedotuslehti ; uutislehti
+newspaper	sanomalehti
+nickel	nikkeli
+niobium	niobium
+nitrate	nitraatti
+nitrification	nitrifikaatio
+nitro compound	nitroyhdiste
+nitrogen	typpi
+nitrogen cycle	typen kiertokulku
+nitrogen dioxide	typpidioksidi
+nitrogen fixation	(ilman) typen sidonta ; typen sidonta
+nitrogen monoxide	typpimonoksidi
+nitrogen oxide	typpioksidi
+nitrogen oxides	typpioksidit
+nitrogenous fertiliser	typpilannoite
+nitrosamine	nitrosamiini
+nobelium	nobelium
+noise	melu
+noise ; noise, vibrations ; racket	melu
+noise abatement	äänenvaimennus, meluntorjunta
+noise analysis	meluanalyysi
+noise barrier	melueste
+noise control	meluntorjunta
+noise disturbance ; noise pollution	meluhäiriö ; melusaaste
+noise emission	meluemissio; melupäästö
+noise emission levy	melupäästömaksu
+noise exposure plan	melualtistussuunnitelma
+noise immission	meluimmissio
+noise legislation	melua koskeva lainsäädäntö
+noise level	melutaso
+noise measurement	melunmittaus
+noise pollutant	melusaaste
+noise pollution	melusaaste
+noise protection	meluntorjunta
+noise reduction	melunvaimennus; kohinanvaimennus
+noise spectrum	kohinaspektri
+noise-free technology	meluton teknologia
+nomad	paimentolainen
+nomenclature	(tieteellinen) nimistö, sanaluettelo
+non-biodegradable pollutant	luonnossa hajoamaton saaste
+non-built-up area	haja-asutusalue
+non-conventional energy	ei-konventionaalinen energia
+non-demesnial water	aluevesiin kuulumattomat vedet
+non-durable goods	lyhyen ajan tavarat
+non-ferrous metal	kirjometalli, ei-rautametalli
+non-ferrous metal industry	ei-rautametalliteollisuus
+non-governmental organisation	kansalaisjärjestö
+non-ionising radiation	ionisoimaton säteily
+non-metal	epämetallit
+non-metallic mineral	ei-metallinen mineraali
+non-polluting energy source	saastuttamaton energianlähde
+non-polluting fuel	saastuttamaton polttoaine
+non-renewable energy resource	uusiutumattomat energiavarat
+non-renewable resource	uusiutumattomat luonnonvarat
+non-residential building	rakennus, jossa ei asuta
+non-returnable container	kertakäyttöinen säiliö
+non-target organism	ei-kohdeorganismi
+non-volatile substance	haihtumaton aine
+norm	normi, standardi ; normi ; standardi
+nose	nenä
+nostril	sierain
+note	nuotti
+nothing	ei mitään
+notice	ilmoitus ; tiedotus
+notification	ilmoitus, tiedotus; ilmoittaminen
+noun ; substantive	substantiivi
+nuclear accident	ydinonnettomuus
+nuclear debate	ydinvoimasta käytävä keskustelu
+nuclear energy	ydinenergia
+nuclear energy legislation	ydinenergialainsäädäntö
+nuclear energy use	ydinenergian käyttö
+nuclear explosion (accident) ; nuclear explosion	atomiräjähdys
+nuclear facility	ydinvoimalaitos
+nuclear fission	atomiytimen halkeamisreaktio
+nuclear fuel	ydinpolttoaine
+nuclear fuel element	ydinpolttoaine-elementti
+nuclear fusion	ydinsulautuma, ydinfuusio ; ydinsulautuma ; ydinfuusio
+nuclear hazard	ydinonnettomuuden vaara
+nuclear physics	ydinfysiikka
+nuclear power plant	ydinvoimala
+nuclear reaction	ydinreaktio
+nuclear reactor	ydinreaktori
+nuclear research centre	ydinvoiman tutkimuskeskus
+nuclear risk	ydinvahingon vaara
+nuclear safety	ydintekninen turvallisuus
+nuclear test	ydinkoe
+nuclear weapon	ydinase
+nucleic acid	nukleiinihappo
+nursery (plant breeding) ; nursery ; plant nursery	taimisto, taimitarha ; taimitarha ; taimisto
+nutrient	ravinne
+nutrient balance	ravinnetasapaino
+nutrient content	ravinnepitoisuus
+nutrient cycle	ravinnon kiertokulku
+nutrient medium	ravinne
+nutrient removal	ravinteiden poisto
+nutrition	ravinto
+nutritive value of food	ruuan ravintoarvot
+oak	tammet
+obesity	ylipaino
+obey	noudattaa ; totella
+objection	vastalause
+obligation to inform	ilmoitusvelvollisuus
+obligation to label	merkitsemispakko
+observation	tarkkailu
+observation satellite	havaintosatelliitti
+observatory	observatorio ; havaintoasema
+obsolete	vanhentunut
+obstacle ; obstruction	este
+occupational disease	ammattitauti
+occupational health	työterveys
+occupational health care	työterveydenhuolto
+occupational medicine	työlääketiede
+occupational safety	työturvallisuus
+occupational safety regulation	työturvallisuusmääräys
+occupational status	ammatillinen asema
+ocean ; sea ; body of water ; bounding main	valtameri
+ocean circulation	merivirtaukset
+ocean current	merivirtaus
+ocean dumping	jätteiden kaato valtamereen
+ocean exploitation	valtameren hyväksikäyttö
+ocean temperature	meren lämpötila
+ocean-air interface	valtameren ja ilman kohtaamisalue
+oceanic climate	valtameri-ilmasto
+oceanography	merentutkimus, valtameritiede ; merentutkimus ; valtameritiede
+octave	oktaavi
+octopus	mustekala
+odour	haju, tuoksu ; haju ; haju ; tuoksu
+off-peak travelling	hiljaisempana aikana matkustaminen
+off-site	off-site ; paikan ulkopuolella
+offence against the environment	rikos ympäristöä vastaan
+office	toimisto, työhuone, virka ; virka ; toimisto ; työhuone
+official duty	virkatehtävä, virkavelvollisuus ; virkatehtävä ; virkavelvollisuus
+official hearing	virallinen kuuleminen
+official language	virallinen kieli
+offset policy (emissions trading)	kompensaatiopolitiikka
+offshore mining	kaivostoiminta merellä
+ohm	ohmi
+oil and fat industry	öly- ja rasvateollisuus
+oil binding agent	öljyä sitova aine
+oil boom	öljypuomi
+oil disaster	öljyvahinko
+oil exploration	öljynetsintä
+oil extraction	öljyn uuttaminen
+oil pipeline	öljyputki
+oil pollution	öljysaaste
+oil pollution abatement	öljysaasteen torjunta
+oil production (chain)	öljyntuotanto
+oil recovery vessel	öljynkeruualus
+oil refinery	öljynjalostamo
+oil residue recuperation	öljynjäännösten talteenotto
+oil slick	öljylautta
+oil spill	öljyvahinko, öljypäästö
+oil tanker	öljytankkeri
+oil-based energy	öljypohjainen energia
+old hazardous site	vanha saastunut alue
+old landfill site	vanha kerrostuma
+olfactory pollution	hajusaaste
+oligarchy	oligarquia ; oligarkia
+oligopoly	oligopoli
+olive	oliivi
+olive oil mill wastewater	öljyn pohjasakka
+omega	oomega
+on-line service	on-line-palvelu
+on-site wastewater treatment	paikalla tapahtuva jäteveden puhdistus
+oncology	kasvainoppi
+one	ykkönen ; yksi
+one	yksi
+onion	sipuli
+ontogenesis ; ontogenesis ; ontogeny	yksilönkehitys, ontogenia ; yksilönkehitys ; ontogenia
+ontology	ontologia
+open lawn	nurmi
+open sea	avomeri
+open sea fishing	avomerikalastus
+opencast mining ; open-pit mining	avolouhinta
+opera	ooppera
+operating data	toimintatiedot
+operetta	operetti
+opinion ; stance	mielipide
+opinion survey	mielipidetiedustelu
+opium	oopiumi
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimismi ; optimismi ; optimismi
+or	tai
+oral sex	suuseksi ; oraaliseksi
+orange	appelsiini
+orchid	orkidea ; kämmekkä
+order	järjestys ; määräys
+order	järjestys; määräys ; järjestys ; määräys
+ordinance	määräys, johtosääntö
+ore	malmi
+organ	elin
+organelle	soluelin
+organic carbon	orgaaninen hiili
+organic chemistry	orgaaninen kemia
+organic farming	biodynaaminen viljely
+organic matter	orgaaninen aine
+organic nitrogen	orgaaninen typpi
+organic pollutant	orgaaninen saaste
+organic pollution	orgaaninen saaste
+organic solvent	orgaaninen liuotinaineseos
+organic substance	orgaaniset aineet
+organic waste	orgaaninen jäte
+organisation (law)	järjestö; organisaatio ; järjestö ; organisaatio
+organisation of teaching	opetuksen järjestäminen
+organisation of the legal system	oikeusjärjestelmän organisaatio
+organism	organismit
+organochlorine compound	orgaaninen klooriyhdiste
+organohalogen compound	orgaaninen halogeeniyhdiste
+organoleptic property	aistein havaittava ominaisuus
+organometallic compound	metallo-orgaaninen yhdiste
+organonitrogen compound	orgaaninen typpiyhdiste
+organooxygen compound	orgaaninen happiyhdiste
+organophosphorous compound	orgaaninen fosforiyhdiste
+organosulphur compound	orgaaninen rikkiyhdiste
+ornithology	ornitologia
+orography	vuoristotiede
+orphan	orpo
+orthography	ortografia
+orthopteran	suorasiipiset
+osmium	osmium
+osmosis	osmoosi
+ostrich	strutsi
+outer space (allocation plan) ; outer space	ulkotila
+ovary	munasarja
+oven	uuni
+overburden	ylikuormittaa; irtomaa
+overexploitation	liiallinen hyväksikäyttö
+overfertilisation	liiallinen lannoittaminen
+overfishing	liikakalastus
+overflow (outlet)	ylivuotokanava
+overgrazing	liikalaiduntaminen
+overhead power line	ilmavoimajohto
+overpopulation	ylikansoitus
+overturn (limnology)	kierto
+overwintering	talvehtiminen
+ovine	lampaat
+owner	omistaja
+ownership	omistus
+oxidation	hapetus, hapettuminen
+oxidation-reduction	hapettumisen vähentäminen
+oxide	oksidit
+oxidisable material	hapettuva aine
+oxidising agent	hapettava aine, hapetin
+oxygen	happi
+oxygen content	happipitoisuus
+oxygenation	hapetus, hapenpoisto
+oyster	osteri
+oyster farming	osterinviljely
+ozone	otsoni
+ozone depletion potential	otsonituhopotentiaali
+ozone layer	otsonikerros
+ozone layer depletion	otsonikerroksen tuhoutuminen
+ozonisation	otsonointi; otsonoituminen
+pacifist	pasifisti
+packaging	pakkaaminen; päällys
+packaging waste	pakkausjäte
+packing industry	pakkausteollisuus
+paediatrician	lastenlääkäri
+page	sivu
+paint	maali
+paint room	maalaamo
+paint shop	maalikauppa; maalarin työhuone
+painting business	maalaustoiminta
+palaeoclimatology	paleoklimatologia
+palaeoecology	paleoekologia
+palaeontology	paleontologia
+palindrome	palindromi
+palladium	palladium
+palm	palmu ; palmupuu
+palm	kämmen
+pancreas	haima
+pandemic	pandemia
+paper	paperi
+paper industry	paperiteollisuus
+parabola	paraabeli
+parachute	laskuvarjo
+parameter	parametrit, tunnusluvut
+parasite	parasiitti
+parasitology	loistutkimus
+parking provision	paikoitusalue
+parliamentary debate	parlamenttikeskustelu
+parliamentary report	parlamentin kertomus
+parrot	papukaija
+part of speech ; lexical category	sanaluokka
+partially halogenated chlorofluorohydrocarbon	CFC-yhdisteet
+participation	osallistuminen
+particle	hiukkanen
+particle separator	hiukkaserotin
+party ; political party	poliittinen puolue
+passenger transport	matkustajaliikenne
+paste-like waste	tahnamainen jäte
+pasture	laidun
+patent	patentti
+path	polku
+pathogen	tautia aiheuttava mikrobi
+pathogenic organism	tautia aiheuttava organismi
+pathologic effect	patologinen vaikutus
+pathology	patologia
+patrimonial management	perinnön hallinta
+pattern recognition	hahmon tunnistus
+pay policy	palkkapolitiikka
+peace	rauha
+peacekeeping	rauhan turvaaminen
+pear	päärynä
+peat	turve
+peat extraction	turpeenkaivu, turpeenpoisto
+pedagogy	kasvatustiede, pedagogiikka ; pedagogiikka ; kasvatusoppi ; kasvatustiede
+pedestrian zone ; pedestrian area ; car-free zone ; auto-free zone ; pedestrianised zone	jalankulkualue, kävelyalue ; jalankulkualue ; kävelyalue
+pedosphere	maaperä
+penalty	sakko, rangaistus, uhkasakko ; sakko ; rangaistus ; uhkasakko
+penalty for environmental damage	rangaistus ympäristövahingosta
+pencil	lyijykynä
+penguin	pingviini
+peninsula	niemimaa
+pentachlorophenol	pentakloorifenoli
+people	kansa
+per capita data	per capita -tiedot
+percolating water	tihkuvesi, vajovesi
+perineum	väliliha
+periodic table	jaksollinen järjestelmä
+peripheral park area	kaukana keskustasta sijaitseva paikoitusalue
+periphyton	päällyskasvusto, perifyton
+periurban space	kaupungin laitamilla oleva tila
+permeability	läpäisevyys
+permissible exposure limit	sallitun altistuksen raja
+permission	lupa
+peroxyacetylnitrate	peroksiasetyylinitraatti
+persistant organic pollutant	pysyvä orgaaninen saaste
+persistence	jatkuvuus, pysyvyys
+persistence of pesticides	tuholaismyrkkyjen pysyvyys
+person	ihminen ; henkilö
+personal responsibility	omavastuu
+pessmism	pessimismi
+pest	tuholaiset
+pest control	tuholaistorjunta
+pest infestation	tuholaisvaiva
+pesticide	tuholaismyrkky, torjunta-aine
+pesticide control standard	torjunta-ainevalvonnan normi
+pet	lemmikkieläin
+petition right	anomusoikeus
+petrochemical	öljyyn pohjautuva kemikaali, petrokemikaali
+petrochemical industry	petrokemian teollisuus
+petrol	bensiini
+petroleum	kiviöljy, raakaöljy; paloöljy; petroli ; raakaöljy ; petroli ; kiviöljy ; paloöljy
+petroleum consumption	öljynkulutus
+petroleum industry	öljyteollisuus
+phanerogam ; spermatophyte	siemenkasvit
+pharmaceutical industry	lääketeollisuus
+pharmaceutical waste	lääketeollisuuden jäte
+pharmacokinetics	farmakokinetiikka
+pharmacology	farmakologia
+pheasant	fasaani
+phenol	fenoli
+pheromone	feromoni
+philology	filologia
+philosophy	filosofia
+phishing	phishing
+phobia	fobia
+phone ; telephone	puhelin
+phosphate	fosfaatti
+phosphate removal	fosfaatin poisto
+phosphate substitute	fosfaatin korvike
+phosphatic fertiliser	fosfaattilannoite
+phosphorus	fosfori
+photo ; photograph	valokuva
+photochemical agent	fotokemiallinen aine
+photochemical oxidant	fotokemiallinen hapetin
+photochemical pollution	fotokemiallinen saaste
+photochemical product	fotokemiallinen tuote
+photochemical reaction	valokemiallinen reaktio
+photochemical smog	fotokemiallinen savusumu
+photodegradation	valohajoaminen
+photogrammetry	kuvanmittaus
+photography	valokuvaus
+photon	fotoni
+photosynthesis	fotosynteesi
+physical alteration	fysikaalinen muutos
+physical chemistry	fysikaalinen kemia
+physical conditions	terveydentila
+physical geography	fyysinen maantiede, luonnonmaantiede
+physical measurement of pollution	saasteen fysikaalinen mittaus
+physical planning	fyysinen suunnittelu
+physical pollutant	fysikaalinen saaste
+physical pollution	fysikaalinen saaste
+physical process	fysikaaliset prosessit
+physical property	fyysiset ominaisuudet
+physical science	luonnontieteet
+physical treatment	fysikaalinen käsittely
+physicochemical analysis	fysikaaliskemiallinen analyysi
+physicochemical process	fysikaaliskemialliset prosessit
+physicochemical purification	fysikaaliskemiallinen puhdistus
+physicochemical treatment	fysikaaliskemiallinen käsittely
+physics	fysiikka
+physiology	fysiologia
+phytomass	fytomassa
+phytopathology	kasvitautioppi
+phytoplankton	kasviplankton
+phytosanitary treatment	tuholaisten hävittäminen kasveista
+phytosociology	kasvisosiologia
+phytotoxicity	fytotoksisuus
+piano ; pianoforte	piano
+pickling plant	peittauslaitos ; syövytyslaitos
+pigeon ; dove	kyyhky ; pulu
+piggery	sikala
+pike ; spear	keihäs
+pilot plant	koetehdas, koelaitos
+pilot project	pilottihanke
+pilotage	luotsaus, luotsimaksu
+pinniped	eväjalkaiset
+pino ; pine	mänty
+pipe	johto ; putki, johto ; putki
+pipeline	johto
+pituitary gland	aivolisäke
+pixel	pikseli, kuva-alkio, kuvaelementti ; pikseli ; kuva-alkio ; kuvaelementti
+pizza	pizza ; pitsa
+place ; location	paikka
+placenta	istukka
+plain	tasanko
+plan	suunnitelma
+plane source	tasainen lähde
+planet	planeetta
+plankton	keijusto, plankton
+planning	suunnittelu
+planning law	kaavoituslainsäädäntö
+planning measure	kaavoitustoimenpide, suunnittelutoimenpide
+planning permission	rakennuslupa
+plant	kasvi ; taimet
+plant biology	kasvibiologia
+plant breeding	kasvinjalostus
+plant community	kasviyhdyskunta
+plant component	kasvin osa; laitoksen osa
+plant disease	kasvitauti
+plant ecology	kasviekologia
+plant equipment	tehtaan varusteet
+plant heritage	kasviperintö
+plant physiology	kasvifysiologia
+plant population	kasvisto
+plant production	kasvintuotanto
+plant protection	kasvinsuojelu
+plant protection product	kasvinsuojelutuote
+plant reproduction	kasvin lisääntyminen
+plant resource	kasvivarat
+plant selection	kasvinvalinta
+plant species	kasvilaji
+plant species reintroduction	kasvilajin uudelleen tuominen ympäristöön
+plant textile fibre	kasvitekstiilikuitu
+plant trade	kasveilla käytävä kauppa
+planting	istutus
+plasma technology	plasmatekniikka
+plastic	muovi
+plastic waste	muovijäte
+platinum	platina
+platitude ; cliche ; cliché	klisee
+pleasure cruising	huvilaivamatkailu
+plough	aura
+plutonium ; plutonium ; plutonium	plutonium ; plutonium ; plutonium
+point	piste
+point source	pistesäteilijä; pistelähde, yksikkölähde
+poison	myrkky
+poisoning	myrkytys
+polar bear	jääkarhu
+polar region	napaseutu
+polder	mereltä padolla suojattu alamaa
+police	poliisi
+police law	poliisilaki
+police power	poliisivaltuudet
+policy	ohjelma ; politiikka ; politiikka, menettelytapa, ohjelma ; menettelytapa
+policy guideline	politiikan suuntaviivat
+policy instrument	politiikan väline
+policy integration	politiikan yhtenäistäminen
+policy planning	politiikan suunnittelu
+political counselling	poliittinen neuvonta
+political doctrine	poliittinen doktriini
+political ecology	poliittinen ekologia
+political geography	poliittinen maantiede
+political ideology	poliittinen ideologia
+political organisation	poliittinen järjestö
+political power	poliittinen valta
+politics	politiikka
+pollen	siitepöly
+pollutant	saastuttavat aineet, saasteet
+pollutant absorption	saasteen imeytyminen
+pollutant accumulation	saasteen kasautuminen
+pollutant analysis	saasteanalyysi
+pollutant assessment	saastearviointi
+pollutant concentration	saastepitoisuus
+pollutant degradation	saasteen hajoaminen
+pollutant deposition	saasteen kerrostuminen
+pollutant dispersion	saasteen hajautuminen
+pollutant distribution	saastejakauma
+pollutant elimination	saasteen poisto
+pollutant emission	saastepäästö
+pollutant evolution	saasteen kehittyminen
+pollutant exposure	saastealtistus
+pollutant flow	saasteen virtaus
+pollutant formation	saasteen muodostus
+pollutant immission	saastepäästö
+pollutant immobilisation	saasteen immobilisointi, kiinnittäminen
+pollutant migration	saasteen kulkeutuminen
+pollutant monitoring	saastevalvonta
+pollutant pathway	epäpuhtauksien kulkeutumisväylä
+pollutant reduction	saasteen vähentäminen
+pollutant remobilisation	saasteen uudelleen mobilisointi
+polluted matter	saastunut aine
+polluted site	saastunut alue
+polluter-pays principle	periaate, jonka mukaan saastuttajan olisi maksettava
+pollution	saastuminen ; saastuminen, saaste
+pollution abatement	saasteen vähentäminen
+pollution abatement equipment	saastumisen vähentämiseen tarkoitetut välineet
+pollution abatement waste	jätteen puhdistaminen
+pollution control	ympäristönsuojelu
+pollution control equipment	ympäristönsuojelussa tarvittavat laitteet
+pollution control investment	investointi ympäristönsuojeluun
+pollution control measure	ympäristönsuojelutoimenpide
+pollution control technology	ympäristönsuojelutekniikka
+pollution cost	saastekustannukset
+pollution effect	saasteen vaikutus
+pollution indicator	saasteindikaattori
+pollution insurance	saastevakuutus
+pollution liability	vastuu saastuttamisesta
+pollution load	saastekuorma
+pollution measurement	saasteen mittaus
+pollution monitoring	saastumisen seuranta
+pollution norm	saastenormi
+pollution prevention	saastumisen ehkäisy
+pollution risk	saastumisriski
+pollution type	saastetyyppi
+polonium	polonium
+polybrominated biphenyl	polybromattu bifenyyli
+polychlordibenzo-p-dioxin	polyklooridibentso-p-dioksiini
+polychlorinated biphenyl	polykloorattu bifenyyli
+polychlorinated dibenzofuran	polyklooribentsofuraani
+polychlorinated terphenyl	polykloorattu terfenyyli
+polycyclic aromatic hydrocarbon	polysyklinen aromaattinen hiilivety
+polycyclic hydrocarbon	polysyklinen hiilivety
+polyethylene terephtalate	polyeteenitereftalaatti
+polygon	monikulmio
+polymer	polymeeri
+polymerisation	polymerointi, polymeroituminen
+polyvinyl chloride	polyvinyylikloridi
+pomegranate	granaattiomena
+pond	lampi
+pool ; puddle ; puddle	lammikko, amme ; amme ; lammikko
+pope	paavi
+population	populaatio
+population density	asukastiheys
+population dynamics	kannanvaihtelu; populaatiodynamiikka
+population ecology	populaatioekologia
+population growth	väestönkasvu
+population movement	demografinen muutos, väestöllinen muutos
+population structure	väestörakenne
+population trend	väkiluvun ja väestörakenteen kehitys
+porcelain	posliini
+poriferan	sienieläimet
+posidonia ; neptunegrass	vitakasvit
+positron	positroni
+possession	omistaminen
+post-treatment	jälkikäsittely
+posterity	jälkipolvet
+postman	postinjakaja
+potash	potaska; kaliumhydroksidi
+potassium	kalium
+potassium fertiliser	kalilannoite
+potato ; patato	peruna
+poultry	siipikarja
+poultry farming	siipikarjan kasvatus
+poverty	köyhyys
+power (physics) ; power	teho
+power company	voimayhtiö
+power station	voimalaitos, voimala
+power station derating	voimalaitoksen alentaminen luokituksessa
+power-heat relation	energian ja lämmön suhde
+pragmatics	pragmatiikka
+praseodymium	praseodyymi
+pre-emption	etuosto-oikeus, ennakko-osto-oikeus ; etuosto-oikeus ; ennakko-osto-oikeus
+pre-emption zone	etuosto-oikeusalue
+precautionary principle	varovaisuusperiaate
+precipitation ; precipitation (chemical)	saostaminen ; saostaminen, saostuminen, sakka ; saostuminen ; sakka
+precipitation enhancement	sademäärän lisäys; saostumisen lisäys ; saostumisen lisäys ; sademäärän lisäys
+precision engineering	hienomekaniikka
+predator	saalistaja
+prefabricated building	valmistalo, elementtirakennus
+pregnancy	merkityksellisyys
+preliminary proceedings	esikäsittely, esioikeudenkäynti
+premium	vakuutusmaksu
+preparation for market	käsittely markkinoita varten
+prescription	määrääminen; resepti ; määrääminen ; resepti
+preservation of evidence	todisteiden säilyttäminen
+preservative	säilytysaine; kyllästysaine
+preserve	säilyttää
+president	presidentti
+press	paino ; puristaa; sanomalehdistö; paino ; puristaa ; sanomalehdistö
+pressing	puristava, puristaminen; kiireellinen
+pressure	paine
+pressure equipment	painelaite
+pressure group	painostusryhmä
+prevention measure	ehkäisevä toimenpide
+prevention of forest fires	metsäpalojen ehkäisy
+preventive health measure	ehkäisevän terveydenhuollon toimenpide
+preventive information	ehkäisevä tiedotus
+price	hinta
+prices policy	hintapolitiikka
+pricing policy of resources	resurssien hinnoittelupolitiikka
+primary education	alkeisopetus, perusasteen koulutus
+primary energy consumption	primäärienergian kulutus
+primary forest	aarniometsä
+primary sector	alkutuotanto
+primary treatment	esikäsittely, esipuhdistus
+primate	kädelliset
+prime number ; prime	alkuluku
+prince	prinssi
+principle of sustainability	kestävän kehityksen periaate
+printing work	kirjapainotyö
+prisoner of war ; POW ; PoW ; PW	sotavanki
+private car	yksityisauto, henkilöauto
+private domain	yksityinen hallinta-alue
+private forest	yksityismetsä
+private household	yksityistalous
+private international law	kansainvälinen yksityisoikeus
+private law	yksityisoikeus, siviilioikeus
+private sector	yksityinen sektori
+private transport	yksilöliikenne
+privatisation	yksityistäminen
+problem	ongelma
+proboscidean	norsueläimet
+procaryote	alkeistumalliset
+procedural law	menettelyoikeus, prosessioikeus
+process analysis	toimintatutkimus
+process technology	jalostustekniikka
+process water	(tehtaan) käyttövesi; tehdastusvesi
+processed agricultural produce	jalostetut maataloustuotteet
+processed foodstuff	valmisruoka
+processing	jalostus
+producer liability	tuottajan vastuu
+product	tuotteet
+product advertising	tuotemainonta
+product comparison	tuotevertailu
+product evaluation	tuotteen arviointi
+product identification	tuotetunnistus
+product information	tuotteita koskevat tiedot
+product liability	tuotevastuu
+product life cycle	(tuotteen) elinkaari
+product standard	tuotestandardi
+production policy	tuotantopolitiikka
+productivity	tuottavuus
+productivity trend	tuottavuuden kehityssuunta
+profit	voitto
+prognostic data	ennustetiedot
+programme	ohjelma
+progress line	kehityslinja
+prohibition	kielto, kieltäminen ; kielto ; kieltäminen
+project	hanke
+promethium	prometium
+promotion of trade and industry	kaupan ja teollisuuden edistäminen
+pronunciation	ääntämys ; ääntäminen
+propagation process	lisääntymisprosessi, leviämisprosessi
+propellant	raketin ajoaine; ponnekaasu
+properties of materials	aineiden ominaisuudet
+property protection	omaisuuden suojelu
+propulsion technique	työntövoimatekniikka
+prosecution	syyttäminen
+prosperity	hyvinvointi, korkeasuhdanne ; hyvinvointi ; korkeasuhdanne
+prostate	eturauhanen ; prostata
+prostitution	prostituutio
+protactinium	protaktinium
+protected area	suojelualue ; suojelualue, rauhoitettu alue ; rauhoitettu alue
+protected landscape	suojeltu maisema
+protected marine zone	suojeltu rannikkoalue
+protected species	suojeltu laji
+protection from neighbours	suojelu naapureilta
+protection of animals	eläinten suojelu
+protection of birds	lintujen suojelu
+protection of species	lajien suojelu
+protection system	suojausjärjestelmä
+protective measure	suojelutoimenpide
+protein ; poly peptide	proteiini
+protein product	proteiinituote
+protocol	pöytäkirja
+protozoan	alkueläimet
+province	maakunta
+provincial/regional authority (D) ; regional authority ; provincial authority	alueellinen viranomainen
+provincial/regional law (D) ; regional legislation	alueellinen lainsäädäntö
+pruning	karsiminen, leikkaaminen
+psychiatrist	psykiatri
+psychic effect	psyykkinen vaikutus
+psychological effect	psykologinen vaikutus
+psychological stress	psykologinen stressi
+psychology	psykologia
+psychosomatic effect	psykosomaattinen vaikutus
+psychosomatic illness	psykosomaattinen sairaus
+public	julkinen
+public access to land	yleinen pääsy maalle
+public action	julkinen toimenpide
+public aid	julkisen sektorin tuki
+public attendance	yleinen osanotto
+public awareness campaign	julkinen tiedotuskampanja
+public bath	yleinen kylpylä
+public benefit inquiry	yleistä hyödyllisyyttä koskeva tutkimus
+public building	julkinen rakennus
+public contract	valtion tilaus
+public debt	valtion velka
+public discussion	julkinen keskustelu
+public domain	valtion maa
+public expenditure	julkiset menot, valtion menot
+public finance	valtion t. julkinen talous, finanssioppi
+public financing	julkinen rahoitus
+public function	julkinen tehtävä
+public health	kansanterveys
+public hearing	julkinen kuuleminen
+public information	julkiset tiedot
+public inquiry	julkinen tutkimus
+public institution	julkinen laitos
+public institution of administrative nature	hallinnollinen julkinen laitos
+public institution of industrial and commercial nature	al nature  julkinen teollisuus- ja kaupallinen laitos
+public international law	kansainvälinen julkisoikeus
+public law	julkisoikeus, julkinen oikeus
+public maritime domain	yleinen merialue
+public opinion	yleinen mielipide
+public opinion polling	mielipidetutkimus
+public park	yleinen puisto
+public participation	julkinen osallistuminen
+public procurement	julkinen hankinta
+public prosecutor's office	yleisen syyttäjän virasto
+public relations	PR-suhteet
+public sector	julkinen sektori
+public transport	julkinen liikenne
+public transport vehicle	joukkoliikenteen ajoneuvo
+public utility	yleishyödyllinen yritystoiminta
+public waterways domain	yleinen vesitiealue
+public works	julkinen työ
+public-private partnership	julkisen ja yksityisen sektorin yhteistyöhanke
+pulmonary disease	keuhkosairaus
+pump	pumppu
+pumping	pumppaus
+purification	puhdistus
+purification facility	puhdistuslaitos
+purification plant	puhdistuslaitos
+purification through the soil	puhdistus maan läpi
+purifying power	puhdistuskyky
+purin	puriini
+putsch ; coup d'état	vallankaappaus
+pyralene	pyraleeni
+pyrolysis	kuivatislaus, pyrolyysi ; kuivatislaus ; pyrolyysi
+quadrilateral	nelikulmio
+quality assurance	laadunvarmistus
+quality certification	laatutodistus
+quality control	laadunvalvonta
+quality objective	laatutavoite
+quality of life	elämänlaatu
+quality standard	laatutaso, laadullinen taso
+quarry	avolouhos
+quarrying	louhinta
+quartering	piiru; kvarttaus; näytteen otto neljänneksittäin ; piiru ; kvarttaus ; näytteen otto neljänneksittäin
+queen	kuningatar
+question	kysymys
+rabbi	rabbi
+rabbit	kaniini
+race relations	rotujen väliset suhteet
+racking	dekantointi, kuortaminen
+radar	tutka
+radiation ; radiations	säteily ; säteilyt
+radiation damage	säteilyvaurio, säteilyvahinko
+radiation dose	säteilyannos
+radiation effect	säteilyvaikutukset
+radiation exposure	säteilyaltistus
+radiation physics	säteilyfysiikka
+radiation protection	säteilysuojelu, säteilysuojaus
+radiation protection law	säteilysuojelulainsäädäntö
+radiation sickness	säteilysairaus
+radio	radio
+radio programme	radio-ohjelma
+radioactive contamination	radioaktiivinen saastuminen
+radioactive decontamination	puhdistus radioaktiivisesta saasteesta
+radioactive dumping	radioaktiivisen jätteen kaatopaikka
+radioactive emission	radioaktiivinen päästö
+radioactive fallout	radioaktiivinen laskeuma
+radioactive pollutant	radioaktiivinen saaste
+radioactive substance	radioaktiivinen aine
+radioactive tracer	radioaktiivinen merkkiaine
+radioactive waste ; nuclear waste	radioaktiivinen jäte
+radioactivity ; radioactive decay	radioaktiivisuus
+radioelement	radioaktiivinen alkuaine
+radionuclide	radionuklidi
+radium	radium
+radon	radon
+rag	riepu; kova rakennuskivi; murskata malmi ; riepu ; kova rakennuskivi ; murskata malmi
+rail traffic	raideliikenne
+rail transport	rautatiekuljetus
+railroad vehicle ; carriage ; wagon	rautatieajoneuvo
+railway	rautatie
+railway network	rautatieverkko
+railway station	rautatieasema
+rain	sade ; vesisade
+rain forest	sademetsä
+rain water	sadevesi
+rain water sewer system	sadevesiviemärijärjestelmä
+rainbow	sateenkaari
+rainout	sadelaskeuma, sadesidonta
+raising a site	maa-alueen nosto
+random test	pistokoe
+rape	rapsi
+rapid test	lyhytaikaiskoestus; pikakoestus
+rapid transit train	metrojuna
+rare species	harvinainen laji
+raster	rasteri
+raster to vector	vektorin rasteri
+rate	arvo; määrä; noteeraus; aste; vauhti ; vauhti ; vauhti ; tahti
+raw material	raaka-aine
+raw material consumption	ainemenekki
+raw material securing	raaka-aineen varmistaminen
+raw water	raakavesi
+reaction kinetics	reaktiokinetiikka
+reactor	reaktori
+reactor safety	reaktorin turvallisuus
+read	lukea
+reality	todellisuus
+reasonableness	järjellisyys ; kohtuullisuus
+recipe	resepti
+reclamation industry	kierrätysteollisuus
+recombinant DNA technology	yhdistelmä-DNA-tekniikka; rekombinaatiotekniikka
+recommendation	suositus
+recording of substances	aineiden rekisteröinti
+recovery of landscape	maiseman elpyminen
+recovery plan	elvytyssuunnitelma
+recreation	virkistys
+recreational area	virkistysalue, ulkoilualue
+recyclability	kierrätettävyys
+recyclable plastic	kierrätettävä muovi
+recycled material	kierrätetty materiaali, uusiomateriaali
+recycled paper	uusiopaperi
+recycling	kierrätys
+recycling management and waste law	kierrätyksen hallintaa ja jätteitä koskeva laki
+recycling potential	kierrätysmahdollisuudet
+recycling ratio	kierrätyssuhde
+red kite	isohaarahaukka
+red tide	leväkukinta
+redress	korjaus; hyvitys; tasoittaa ; oikaisu
+reed	kaislat ; ruo'ot
+reef	riutta
+reference service	tiedonhakupalvelu
+referendum ; plebiscite	kansanäänestys
+referral information	viitetiedot
+referral information system	viitetietojärjestelmä
+refinery	jalostamo
+refining	raffinointi
+reflection	heijastuma; peilaus
+reflectometry	reflektometria
+reforestation	metsitys, metsän istutus
+refrigerant	jäähdytysaine
+refrigeration	jäähdytys
+refrigeration industry	jäähdytysteollisuus
+refrigerator	jääkaappi
+refrigerator ; fridge	jääkaappi
+refuge	pakopaikka; suojaava saareke; refugio ; pakopaikka; ; pakopaikka ; suojaava saareke ; refugio
+refugee	pakolainen
+refuse collection vehicle	jätteidenkuljetusauto
+refuse derived fuel	jätepolttoaine
+refuse shredder	silppurijäte
+refuse-sludge compost	jäteliejukomposti
+regeneration	elvytys, uudistuminen
+region	alue
+regional authority	alueellinen viranomainen
+regional convention	alueellinen sopimus
+regional development	aluekehitys
+regional law	aluelainsäädäntö
+regional natural park	luonnonpuisto
+regional plan	seutukaava, alueellinen suunnitelma
+regional planning	aluesuunnittelu
+regional regulation	alueellinen sääntely
+regional statistics	alueelliset tilastot
+regional structure	aluerakenne
+registered site	rekisteröity maa-alue
+registration	rekisteröinti; ilmoittautuminen ; rekisteröinti ; ilmoittautuminen
+registration obligation	kirjaamisvelvollisuus
+registration proceeding	rekisteröintimenettely
+regulation	asetus
+regulation of agricultural production	maataloustuotannon säännöstely
+regulation on maximum permissible limits	asetus enimmäisrajoista
+regulative law	valtuuslaki
+rehousing	uudelleenmajoitus
+reindeer	poro
+reintroduction	palautus, uudelleen tuominen ; palautus ; uudelleen tuominen
+relational database	relaatiotietokanta
+release of organisms	organismien vapauttaminen, päästäminen
+relief (land)	reliefi, korkokuva, kohokuva
+religion	uskonto
+remote sensing	kaukokartoitus, kaukoanalyysi
+remote sensing centre	kaukokartoituskeskus
+removal	poisto
+renaissance	renessanssi
+renaturation	renaturaatio
+renewable energy source	uusiutuva energianlähde
+renewable raw material	uusiutuva raaka-aine
+renewable resource	uusiutuvat luonnonvarat
+repair business	korjausliiketoiminta
+replacement	korvaaminen, vaihtaminen, korvike
+replacement cost	jälleenhankintakustannus
+report on the state of the environment	ympäristön tilaa koskeva kertomus
+report to the minister	kertomus ministerille
+reporting process	raportointiprosessi
+representation	edustus
+repression	tukahduttaminen; hillintä; sorto
+reprocessing	toistokäsittely, jälleenkäsittely ; toistokäsittely ; jälleenkäsittely
+reproduction	jäljennös; uusimistuotanto; jälkipainos
+reproductive manipulation	lisääntymisen manipulointi
+reptile ; reptile ; reptile	matelijat ; matelijat ; matelijat
+rescue service	pelastuspalvelu
+rescue system	pelastusjärjestelmä
+research	tutkimus
+research centre	tutkimuskeskus
+research of the effects	vaikutusten tutkimus
+research policy	tutkimuspolitiikka
+research project	tutkimushanke
+reserve	suojelualue
+reservoir	säiliö, allas; tekojärvi; säiliökivilaji
+residential area	asuinalue
+residential area with traffic calmings	asuinalue, jossa liikennettä on vähennetty
+residential building	asuinrakennus
+residual amount of water	veden jäännösmäärä
+residual pesticide	torjunta-ainejäämä
+residual risk	altistuma, riskin jäämä
+residual waste	jäännösjäte
+residual waste sludge	jäännösjätelieju
+residue analysis	jäännösanalyysi
+residue of grinding	jauhamisjäännökset
+residue recycling	jäännösten kierrätys
+resin	pihka, hartsi
+resinous plant	pihkainen kasvi
+resistance (biological) ; resistance	vastustus
+resolution	päätöslauselma
+resolution ; resolution (parameter)	liuottaminen
+resorption	imeytyminen
+resource ; resources	resurssit ; voimavarat
+resource appraisal	varojen arviointi
+resource conservation	varojen suojelu
+resource exploitation	luonnonvarojen hyväksikäyttö
+resource reserve	luonnonvarareservi
+resource utilisation	voimavarojen käyttö
+resources management	resurssijohtaminen
+respiration	hengitys
+respiratory air	hengitysilma
+respiratory disease	hengityselinten sairaus
+respiratory system	hengityselimet
+retaining reservoir	tulvasuojeluallas
+reverse osmosis	käänteisosmoosi
+rhenium	renium
+rhino ; rhinoceros	sarvikuono
+rhodium	rodium
+rhombus ; rhomb	neljäkäs
+rice	riisi
+rising sea level	merenpinnan kohoaminen
+risk communication	vaarasta ilmoittaminen
+river	joki
+river bed	joen uoma
+river water	jokivesi
+road	tie
+road network	tieverkko
+road salt	tiesuola
+rock	kallio
+rodent	jyrsijät
+roentgenium	röntgenium
+rolling noise	jyräysmelu
+roof ; roof ; roof	katto ; katto ; katto ; ulkokatto ; ulkokatto ; ulkokatto
+root	juuri
+rose	ruusu
+rotary furnace	kiertouuni, viertouuni
+route	tie ; tie, tielinja; väylä; reitti ; tielinja ; väylä ; reitti
+rubber	kumi
+rubidium	rubidium
+ruby	rubiini
+rural area	maaseutu, haja-asutusalue
+ruthenium	rutenium
+rutherfordium	rutherfordium
+sacrifice	uhraus
+safety ; security	turvallisuus
+safety measure	varotoimi, suojatoimenpide ; varotoimi ; suojatoimenpide
+sahara	sahara
+salamander	salamanterit; lämmityslaitteet ; salamanterit
+salary	palkka
+salmon	lohi
+salt	naftaleenikiteet
+salt	ruokasuola
+salt water	suolainen vesi
+samarium	samarium
+sand	hiekka
+sand dune	dyyni, lentohiekkasärkkä ; dyyni ; lentohiekkasärkkä
+sanitary fitting	saniteettilaitteet
+sapphire	safiiri
+sardine	sardiinit
+satellite	kuu ; tekokuu ; tekokuu; kuu; etäis-
+sawdust	sahajauho
+saxophone	saksofoni
+scandium	skandium
+school	kalaparvi ; koulu ; koulu
+science	tiede
+scientific co-operation	tieteellinen yhteistyö
+scientific dispute	tieteellinen väittely
+scientific research	tieteellinen tutkimus
+scientist	tutkija
+screw	ruuvi
+screwdriver	ruuvimeisseli
+sculptor	kuvanveistäjä
+sea	meri ; meri
+sea level	merenpinta
+sea water	merivesi
+seaborgium	seaborgium
+seashore	merenranta
+season	vuodenaika
+secondary education	keskiasteen koulutus
+secret	salainen
+sediment	kerrostuma; sakkautua ; kerrostuma ; sakkautua
+sedimentation (geology) ; sedimentation	kerrostuminen, sedimenttikivilajien muodostuminen ; kerrostuminen ; sedimenttikivilajien muodostuminen
+sedimentology	sedimentologia
+seed	siemen
+seed	jyvä ; siemen
+seismic activity	seisminen aktiivisuus
+seismic sea wave ; tsunami	maanjäristyksen aiheuttama aalto
+selenium	seleeni
+sell	myydä
+semantics	semantiikka
+semi-metal	puolimetalli
+semiconductor	puolijohde
+separator	erotin, separaattori; eristin
+sew	ommella
+sewage farm	valutuskenttä
+sexology	seksologia
+sextant	sekstantti
+shark	hai
+sheep	lammas
+shellfish ; shellfish	simpukka
+shepherd	lammaspaimen
+ship	laiva
+shoe	kenkä
+shop	kauppa
+shopping centre	ostoskeskus
+short ; small	pikku ; pikku ; pieni
+shrub	pensas
+side effect	sivuvaikutus
+siemens	siemens
+sign language	viittomakielet
+silicon	silikoni ; pii
+silk	silkki
+silt	siltti, muta, pohjalieju; liejuuntua, madaltua ; siltti ; muta ; pohjalieju ; liejuuntua ; madaltua
+silver	hopea
+simulation	simulointi, jäljittely
+ski run	laskettelurinne
+skiing	hiihto
+skin	iho ; nahka
+skull	kallo ; pääkallo
+slag	kaivosjäte ; kuona; kaivosjäte ; kuona; ; kuona
+slaughter	teurastaa
+slaughter-house	teurastamo
+slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles	teurastamo
+sleep	uni
+sleep disturbance	unihäiriö
+slipper	tohveli
+slope	rinne, mäki ; rinne ; mäki
+slow	hidas
+sludge	jäteöljy ; muta, lieju. liete; jäteöljy ; muta ; lieju ; liete
+smallpox	isorokko
+smile	hymy
+smog	savusumu
+smog warning	savusumuvaroitus
+smoke	savu
+smoking	tupakointi
+snake	käärmeet
+snow	lumi
+snowslide	lumivyöry
+soaking	liottaminen
+soap	saippua
+social behaviour	sosiaalinen käyttäytyminen
+social group	sosiaaliryhmä
+social protection	sosiaaliturva
+social psychology	sosiaalipsykologia
+social science	sosiaalitieteet
+social survey	sosiaalinen tutkimus
+social welfare	sosiaalihuolto
+society	yhteiskunta
+socioeconomic aspect of human settlements	s ihmisasutusten sosioekonominen näkökohta
+sociology	sosiologia
+sock	sukka
+sodium	natrium
+software	ohjelmisto
+software development	ohjelmiston kehitys
+soil	maaperä
+soil fertilisation	maaperän lannoitus
+soil fertility	viljavuus
+soil science	maaperäoppi, maatiede, maaperägeologia
+solar cell	aurinkokenno, aurinkopari
+solar collector	aurinkokeräin
+solar energy	aurinkoenergia
+solar energy technology	aurinkoenergiatekniikka
+solar power station	aurinkovoimala, aurinkovoimalaitos ; aurinkovoimala ; aurinkovoimalaitos
+solar radiation	auringon säteily
+solubility	liukoisuus
+solvent	liuotin
+songbird	laululintu
+soot	noki, noeta
+sorption	sorptio
+sound	ääni
+sound measurement	äänen mittaus
+space ; space ; space (interplanetary) ; interplanetary space	avaruus
+space travel	avaruusmatka
+spasmodic croup	valekuristustauti
+species	laji
+speech	puhe
+speed	nopeus
+sphinx	sfinksi
+spider	hämähäkki
+spider	hämähäkit
+spinach	pinaatti
+spoon	lusikka
+sport	urheilu
+spring ; spring (hydrology, land)	lähde
+spring water	lähdevesi
+square	neliö ; aukio
+stage	näyttämö
+standard	normi, perusmalli; vaatimustaso; rahakanta ; normi ; perusmalli ; vaatimustaso ; rahakanta
+staple food	pääasiallinen ravinto, tärkein ravinto
+star	tähti
+starch	tärkkelys
+station	asema
+statistics	tilasto(t), tilastotiede
+steam generator	höyrykattila, höyrynkehitin, höyrygeneraattori ; höyrykattila ; höyrynkehitin ; höyrygeneraattori
+steel	teräs
+sterilisation	hedelmättömyys ; hedelmättömyys, steriliteetti ; steriliteetti
+sterilisation	sterilointi
+steroid	steroidi
+stocking	varastossa pitäminen
+stomach	maha ; vatsa
+stone	kivi
+stork	haikara
+storm ; tempest	myrsky
+story	tarina
+stove	uuni ; uuni; kasvihuone; ilman esikuumennin ; kasvihuone ; ilman esikuumennin
+strange ; odd	outo
+strategic	strateginen
+strawberry	mansikka
+stress	rasitus, kuormitus, jännitys; sivupuristus ; rasitus ; kuormitus ; jännitys ; sivupuristus
+strontium	strontium
+subject ; topic	kohde; aihe ; kohde ; aihe ; teema
+submarine	sukellusvene
+subsidence	painuma, (maan) vajoaminen
+subsidy	valtionapu, tuotantopalkkio, avustus ; valtionapu ; tuotantopalkkio ; avustus
+suburb	lähiö
+sudden ; abrupt ; precipitous	äkillinen
+sugar	sokeri
+suicide	itsemurha
+sulphur	rikki
+sulphur concentration	rikkipitoisuus
+sulphur dioxide	rikkidioksidi
+summer	kesä
+supermarket	valintamyymälä
+supernova	supernova
+supply	hankinta ; tarjonta ; toimitus
+supply and demand	kysyntä ja tarjonta
+surface tension	pintajännitys
+surgery	kirurgia
+surprise	yllättää ; hämmästyttää
+swans, geese and ducks	sorsalinnut
+sweet	makea ; makoisa
+sweetener	makeutusaine; vaahdotuskemikaali
+swimming pool	allas
+sword	miekka
+symbiosis	symbioosi
+symphony	sinfonia
+synagogue	synagoga
+synecology	ekologisten kokonaisuuksien tutkimus
+syntax	syntaksi ; lauseoppi
+syphilis	kuppa
+syringe	ruisku
+table	pöytä
+tadpole ; polliwog	nuijapää
+takeover	osakevaltaus
+tanker	säiliöauto
+tanker ; tanker (ship)	säiliöalus, tankkilaiva, tankkeri ; säiliöalus ; tankkilaiva ; tankkeri
+tannin	tanniini
+tantalum	tantaali
+target group	kohderyhmä
+tax	vero
+taxonomy	taksonomia, luokittelu
+tea	tee
+teach	opettaa
+teacher	opettaja
+teaching	opetus
+technetium	technetium
+technology	tekniikkia, teknologia ; tekniikkia ; teknologia
+technology transfer	teknologian siirto
+telecommunications ; telecommunication	tietoliikenne
+telemetry	kaukomittaus
+television	televisio
+television programme	televisio-ohjelma
+tellurium	telluuri
+temperature	lämpötila
+ten	kymmenen
+tennis	tennis
+teratogen	teratogeeni
+terbium	terbium
+terminology	terminologia
+termite	termiitit
+terracotta ; terracotta ; terracotta ; terra cotta	terracotta
+territory	maa-alue ; territorio, maa-alue ; territorio
+terrorism	terrorismi
+tertiary sector	palvelusektori
+test	koe
+testosterone	testosteroni
+textile industry	tekstiiliteollisuus
+textile plant	kuitukasvi
+thallium	tallium
+thank you	kiitos
+theocracy	teokratia
+theology	teologia
+therapy	hoito, terapia ; hoito ; terapia
+thermal equipment	termiset laitteet
+thermal power plant	lämpövoimala
+thermodynamics	termodynamiikka
+thesis	teesi, väite; väitöskirja
+thirst	jano
+thorium	torium
+thousand	tuhat
+three	kolme ; kolmonen
+thulium	tulium
+thumb	peukalo
+thunder	ukkonen ; jyrinä ; ykkosen jyrinä
+thunderstorm	ukkosmyrsky
+thyroid	lilpirauhanen ; kilpirauhanen
+tidal power station	vuorovesivoimalaitos
+tidal water	vuorovesi
+tiger	tiikeri
+timber forest	tukkimetsä
+time	aika
+timezone	aikavyöhyke
+tin	tina
+tissue	kangas ; kudos ; silkkipaperi
+titanium	titaani
+titanium dioxide	titaanidioksidi, titaanivalkoinen ; titaanidioksidi ; titaanivalkoinen
+toad	rupisammakot
+tobacco	tupakka
+toe	varvas
+together	yhdessä
+tomato	tomaatti
+tomorrow	huominen
+tongue	kieli
+topology	topologia
+tornado	pyörremyrsky
+torpedo	torpedo
+tortoise	kilpikonnat
+tourism	matkailu ; turismi
+toxic metal	toksinen metalli
+toxic substance	myrkyllinen aine
+toxicity	myrkyllisyys
+toxicology	toksikologia, myrkkyoppi ; toksikologia ; myrkkyoppi
+toxin	myrkky ; toksiini
+trace element	hivenaineet, hivenalkuaineet
+tracheophyte ; vascular plant	putkilokasvit
+trade	ammatti ; elinkeino ; kaupankäynti ; kauppa
+trade	kaupankäynti ; kauppa
+trade and consumption	kauppa ja kulutus
+trades union	ammattiliitto
+traffic	liikenne
+traffic noise	liikennemelu
+train	juna; opettaa, harjoittaa ; opettaa ; juna ; harjoittaa
+training	opetus, harjoitus
+training centre	koulutuskeskus
+trajectory	trajektoria; liikerata, ammuksen rata
+transition element ; transition metal	siirtymäalkuaineet
+translate ; interpret	kääntää
+translation	kääntäminen ; käännös
+transpiration	haihdunta
+transport	kulkeutuminen
+transport ; transportation	liikenne
+travel	matka
+treaty	sopimus
+tree	puu
+triangle	kolmio
+trigonometry	trigonometria
+tritium	tritium
+trolley bus ; trolleybus	johdinauto
+trophic level	ravintotaso
+trophy	voitonmerkki ; trofee
+tropical forest	trooppinen metsä
+tropical plant	trooppinen kasvi
+tropical rain forest	trooppinen sademetsä
+tropics ; torrid zone	tropiikki
+trousers	housut
+trout	taimen
+trumpet	torvi ; vaskitorvi
+truth	totuus
+tulip	tulppaani
+tunafish	tonnikala
+tundra	tundra
+tungsten	volframi
+tunnel	tunneli
+turbidity	sameus
+turbine	turbiini
+turkey	kalkkuna
+twin	kaksoset
+two	kakkonen ; kaksi
+two	kaksi
+typhoon	pyörremyrsky
+tyre	rengas (liikenne) ; rengas
+ultraviolet radiation	ultraviolettisäteily
+underground railway	maanalainen rautatie
+underground train	metrojuna
+unemployment	työttömyys
+ungulate	kavioeläimet
+university ; university ; academy	yliopisto ; yliopisto
+ununbium	ununbium
+ununhexium	ununheksium
+ununoctium	ununoktium
+ununpentium	ununpentium
+ununquadium	ununkvadium
+ununseptium	ununseptium
+ununtrium	ununtrium
+upbringing	kasvatus
+uranium	uraani
+urbanisation	kaupungistuminen
+urine	virtsa
+ursid	karhut
+user	käyttäjä
+usurp	riistää
+vaccination	rokotus
+vacuum cleaner	pölynimuri
+valley	laakso
+valuable	arvokas
+vanadium	vanadiini, vanadium ; vanadiini
+vandalism	vandalismi
+vapour pressure	höyryn paine, vesihöyryn osapaine
+vector	vektori; tartunnanlevittäjä ; vektori ; tartunnanlevittäjä
+vegetable	vihannes
+vegetable oil	kasviöljy
+vehicle	kulkuneuvo
+ventilation	tuuletus, ilmanvaihto ; tuuletus ; ilmanvaihto
+verb	verbi
+vertebrate	selkärankaiset
+veteran	veteraani
+veterinarian	eläinlääkäri
+veterinarian ; veterinary	eläinlääkäri
+viable ; viable ; feasible	mahdollinen
+village	kylä
+vinasse	tislausjäte
+vinegar	etikka
+vineyard	viinitarha ; viiniviljelmä
+virology	virologia, virustutkimus ; virologia ; virustutkimus
+virus	virukset
+viscosity	viskoosisuus, sitkaus, sitkaisuus, sitko
+vitamin	vitamiini
+vocabulary	sanasto
+volatile substance	haihtuva aine
+volatility	haihtuvuus; epävakaisuus
+volcanic eruption	tulivuorenpurkaus
+volcanism	vulkanismi, vulkaaniset ilmiöt ; vulkanismi ; vulkaaniset ilmiöt
+volcano	tulivuori
+volleyball	lentopallo
+voltage	jännite
+voting	äänestys
+vowel	vokaali
+vulcanisation	vulkanointi, vulkkaus ; vulkanointi ; vulkkaus
+waiter	tarjoilija
+wall	seinä
+walrus	mursu
+war	sota
+warm-blooded animal	tasalämpöinen eläin
+wasp	ampiainen
+waste	jäte ; jätteet
+waste bin	roskapönttö
+waste disposal act	jätehuoltolaki
+waste dump	kaatopaikka
+waste paper	keräyspaperi, jätepaperi
+waste water	jätevesi
+waste water purification	jäteveden puhdistus
+water	vesi
+water ; body of water	vedet
+water aeration	veden kaasuttaminen
+water cost	vesikustannukset
+water desalination	suolan poisto vedestä
+water flea	vesikirput
+water level	vedenpinta, vedenkorkeus; vesivaaka
+water mill	vesimylly
+water protection legislation	vesiensuojelulainsäädäntö
+water pump	vesipumppu
+water reservoir	vesisäiliö
+water resource	vesivarat
+water salination	veden suolapitoisuuden kasvu
+water supply	vedensaanti, vedenjakelu, vedenhankinta
+water treatment	veden käsittely
+water well	vesikaivo
+waterfall	putous
+waterfowl	vesilintu, vesilinnut
+watershed	valuma-alue ; vedenjakaja ; vedenjakaja; valuma-alue
+weapon	ase
+weather	sää
+web ; spider web	hämähäkinverkko
+weed	rikkaruoho
+weekend	viikonloppu
+weight	paino
+welding	hitsaus
+well	kaivo
+whale	valaat
+whaling	valaanpyynti
+wheelchair	pyörätuoli
+whey	hera
+white	valkoinen
+wife ; spouse	vaimo ; aviovaimo
+wiki	wiki
+wild animal	luonnonvarainen eläin
+wild fauna ; wildlife ; wild animals	luonnonvarainen eläimistö
+wild plant	luonnonvarainen kasvi
+wildlife ; 野生生物	luonto, villieläimet ja luonnonkasvit
+willow	pajut
+wind	tuuli
+wind power	tuulivoima
+windmill	tuulimylly
+window	ikkuna
+wine	viini
+winter	talvi
+witch	noita
+witness	todistaja
+wizard ; sorcerer ; magician	velho
+wolf	susi
+wood	metsä
+wood	puu
+wood product	puutavaralaji
+wool	villa
+word	sana
+work accident	työonnettomuus
+workplace	työpaikka
+world	maailma
+world heritage site	maailmanperintöön kuuluva alue
+wound	vamma ; haava
+write	kirjoittaa
+wrongful act	laiton teko; epäoikeudenmukainen teko
+xenon	ksenon
+xylophone	ksylofoni
+yacht	jaĥto
+yak	jakki
+year ; solar year	vuosi
+yeast	hiiva
+yellow	keltainen
+yield	antaa satoa ; sato
+yield	tuotto
+young	nuori
+ytterbium	ytterbium
+yttrium	yttrium
+zebra	seepra
+zero ; null	nolla
+zinc	sinkki
+zirconium	zirkonium
+zoological garden	eläintarha
+zoology	eläinoppi, eläintiede ; eläintiede ; zoologia
+zoonosis	zoonoosi
+Åland Islands	Ahvenanmaan maakunta
+återställande ; rehabilitation	kuntoutus

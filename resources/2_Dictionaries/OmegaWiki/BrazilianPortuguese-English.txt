@@ -1,0 +1,122 @@
+Portuguese	﻿English
+AIDS	AIDS
+Amsterdã	Amsterdam
+Oceano Antártico	Antarctic Ocean ; Southern Ocean
+Antártica	Antarctica
+armênio	Armenian
+Caribe	Caribbean Area ; Caribbean
+tchuvache	Chuvash ; Chuvash ; Chuwash ; Chovash ; Chavash ; Chttash
+tcheco	Czech ; Czech
+Tchéquia ; República Tcheca	Czech Republic ; Czechia
+Djibuti ; República de Djibuti	Djibouti ; Republic of Djibouti
+União Européia	EU ; European Union
+Egito	Egypt ; Arab Republic of Egypt
+Estônia	Estonia ; Republic of Estonia
+estônio	Estonian
+Ilhas Faroë	Faroe Islands
+janeiro	January
+junho	June
+Quênia	Kenya ; Republic of Kenya
+Coveite	Kuwait ; State of Kuwait
+Malaui	Malawi ; Republic of Malaŵi
+Moscou	Moscow
+Polônia	Poland
+Teerão	Tehran
+Iêmen	Yemen ; Republic of Yemen
+surpreso	aback
+abortado	abortive
+abrasivo	abrasive
+condensar	abridge
+contabilidade	accountancy
+acre	acrid
+adjetivo	adjective ; describing word
+aventura	adventure
+antena	aerial
+correio aéreo	airmail
+álibi	alibi
+amêndoa	almond
+ambulância	ambulance
+antropologia	anthropology
+arquiteto	architect
+arsenal	armoury
+axila	armpit
+ponta de flecha	arrowhead
+incêndio premeditado	arson
+incendiário	arsonist
+astuto	artful
+artrite	arthritis
+alcachofra	artichoke
+ascendência	ascendancy
+escalada	ascent
+aclive	ascent
+descobrir	ascertain
+asceta	ascetic
+envergonhado	ashamed
+cinzento	ashen
+em terra	ashore
+cinzeiro	ashtray
+adormecido	asleep
+aspargo	asparagus
+aprovação	assent
+afirmar	assert
+peremptório	assertive
+designar	assign
+espantar	astonish
+espantoso	astonishing
+espanto	astonishment
+estarrecer	astound
+escarranchadamente	astride
+apegado	attached
+apego	attachment
+assistir	attend
+comparecer	attend
+prestar atenção	attend
+guarda	attendant
+traje	attire
+autorizada	authoritative
+um momento	awhile
+toucinho	bacon
+padaria	baker ; bakery
+barómetro ; barômetro	barometer
+café da manhã	breakfast
+açougueiro	butcher
+câncer	cancer
+farmacêutico	chemist ; pharmacist
+drogaria	chemist's ; chemist's shop ; pharmacy
+cromossomo	chromosome
+camisinha	condom ; prophylactic ; rubber ; safe ; safety
+dentista	dentist
+planejamento ambiental	environmental planning
+área verde	green space
+hidrogênio	hydrogen
+criptônio	krypton
+advogado	lawyer
+prefeito	mayor
+menor	minor
+neônio	neon
+nitrogênio	nitrogen
+omêga	omega
+oxigênio	oxygen
+pediatra	paediatrician
+fóton	photon
+radônio	radon
+registro	registration
+rênio	rhenium
+estação de tratamento de água	sewage farm
+abater	slaughter
+matadouro	slaughter-house
+matadouro	slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles
+tântalo	tantalum
+tecnécio	technetium
+térbio	terbium
+sede	thirst
+tório	thorium
+túlio	thulium
+trem	train
+tungstênio	tungsten
+ununbio	ununbium
+garçom	waiter
+beleia	whale
+xenônio	xenon
+itérbio	ytterbium
+itrio	yttrium

@@ -1,0 +1,992 @@
+﻿English	Dutch
+black	zwart
+blue	blauw
+brown	bruin
+gray	grij
+green	groen
+orange	oranje
+pink	roze
+red	rood
+violet	violet
+white	wit
+yellow	geel
+couple	[het] paar
+eight	acht
+eighteen	achttien
+eighty	tachtig
+eleven	elf
+fifteen	vijftien
+fifty	vijftig
+first	eerste, 1e
+five	vijf
+forty	veertig
+four	vier
+fourteen	veertien
+hundred	honderd
+million	miljoen
+nine	negen
+nineteen	negentien
+ninety	negentig
+nothing	niets
+one	één
+seven	zeven
+seventeen	zeventien
+seventy	zeventig
+six	zes
+sixteen	zestien
+sixty	zestig
+ten	tien
+third	[de] derde, 3de
+thirteen	dertien
+thirty	dertig
+thousand	duizend
+thousand	duizend
+three	drie
+twenty	twintig
+two	twee
+arm	[de] arm
+back	[de] rug
+beak	[de] snavel
+blood	[het] bloed
+body	[de] romp
+bone	[het] bot
+brain	[de] hersenen, [de] hersens
+breath	[de] adem
+cell	[de] cel
+chest	[de] borst, [de] borstkast
+chest	[de] borstkast
+chin	[de] kin
+ear	[het] oor
+eye	[het] oog
+face	[het] gezicht, [het] gelaat
+finger	[de] vinger
+foot	[de] voet
+forehead	[het] voorhoofd
+gene	[het] gen
+hair	[het] haar, [de] haren (pl.)
+hair	[het] haar
+hand	[de] hand
+head	[het] hoofd
+heart	[het] hart
+knee	[de] knie
+leg	[het] been
+lip	[de] lip
+mouth	[de] mond
+muscle	[de] spier
+nail	[de] nagel
+neck	[de] hals
+nerve	[de] zenuw
+nose	[de] neus
+skin	[de] huid
+stomach	[de] maag
+tail	[de] staart
+throat	[de] keel
+thumb	[de] duim
+toe	[de] teen
+tongue	[de] tong
+tooth	[de] tand
+wing	[de] vleugel
+ant	[de] mier
+bear	[de] beer {m}, [de] berin {f}
+bee	[de] bij
+bird	[de] vogel
+cat	[de] kat, [de] poes {f}
+cow	[de] koe
+dog	[de] hond
+elephant	[de] olifant
+fish	[de] vis
+fly	[de] vlieg
+goat	[de] geit
+horse	[het] paard
+insect	[het] insect
+lion	[de] leeuw
+monkey	[de] aap {m}, [de] apin {f}
+pig	[het] zwijn, [het] varken
+sheep	[het] schaap
+snake	[de] slang, [het] serpent (archaism)
+baby	[de] baby
+birth	[de] geboorte
+birthday	[de] verjaardag
+boy	[de] jongen
+brother	[de] broer
+child	[het] kind
+daughter	[de] dochter
+death	[de] dood
+family	[de] familie
+father	[de] vader
+friend	[de] vriend {m}, [de] vriendin {f}
+girl	[het] meisje
+grandfather	[de] grootvader, [de] opa
+human	[de] mens, [de] homosapien
+husband	[de] echtgenoot
+life	[het] leven
+man	[de] (volwassen) man
+marriage	[het] huwelijk
+mother	[de] moeder
+neighbor	[de] buurman {m}, [de] buurvrouw {f}
+parent	[de] ouder
+person	[de] persoon
+relationship	[de] relatie
+sister	[de] zus
+son	[de] zoon
+wedding	[de] bruiloft
+wedding	[het] huwelijk
+wife	[de] echtgenote, [de] vrouw
+woman	[de] vrouw
+beer	[het] bier
+coffee	[de] koffie
+drink	[het] drankje
+milk	[de] melk
+milkshake	[de] milkshake
+tea	[de] thee
+water	[het] water
+wine	[de] wijn
+bread	[het] brood
+breakfast	[het] ontbijt
+butter	[de] boter
+cake	[de] cake
+cheese	[de] kaas
+chocolate	[de] chocola, [de] chocolade
+egg	[het] ei
+food	[het] voedsel
+fruit	[de] vrucht
+lunch	[de] lunch, [het] middageten
+meal	[de] maaltijd
+meat	[het] vlees
+oil	[de] olie
+rice	[de] rijst
+salad	[de] salade
+salt	[het] zout, [het] tafelzout
+sandwich	[de] sandwich
+sauce	[de] saus
+soup	[de] soep
+sugar	[de] suiker
+sweet	[het] zoet
+apple	[de] appel
+apricot	abrikoos
+banana	banaan
+blackberry	moerbei
+cherry	kers
+lemon	citroen
+nut	[de] noot
+orange	[de] sinaasappel
+peach	perzik
+pear	peer
+pineapple	ananas
+plum	pruim
+raspberry	framboos
+strawberry	aardbei
+bean	boon
+cabbage	kool
+carrot	wortel
+cucumber	komkommer
+garlic	knoflook
+olive	olijf
+onion	ui
+parsnip	pastinaak
+potato	[de] aardappel
+radish	radijs
+tomato	[de] tomaat
+address	[het] adres
+bathroom	[de] badkamer
+bedroom	[de] slaapkamer
+brick	[de] baksteen
+door	[de] deur
+floor	[de] vloer
+floor	[de] verdieping
+garage	[de] garage
+garden	[de] tuin
+gate	[het] hek
+hall	[de] hal
+home	[het] thuis
+house	[het] huis
+kitchen	[de] keuken
+roof	[het] dak
+room	[de] kamer, [de] ruimte
+shower	[de] douche
+step	[de] trap
+toilet	[het] toilet, [de] WC
+wall	[de] muur
+well	[de] bron, [de] put
+window	[het] venster, [het] raam
+bed	[het] bed
+carpet	[het] tapijt
+chair	[de] stoel, [de] zetel (.be)
+cupboard	[de] kast, [de] wandkast
+curtain	[het] gordijn
+desk	[de] schrijftafel
+furniture	[het] meubilair
+seat	[de] zetel
+shelf	[het] schap, [de] plank
+sink	[de] gootsteen
+table	[de] tafel
+bag	[de] handtas, [de] tas
+boot	[de] laars
+cloth	[het] materiaal
+clothing	[het] kledingstuk
+coat	[de] mantel, [de] jas
+collar	[de] kraag, [de] boord
+hat	[de] hoed
+jacket	[de] jas, [het] jasje (diminutive)
+jewel	[het] juweel
+ring	[de] ring
+shirt	[het] hemd
+shoe	[de] schoen
+skirt	[de] rok
+sock	[de] sok
+suitcase	[de] koffer, [het] valies (.be)
+tie	[de] stropdas
+actor	[de] acteur
+actress	[de] actrice
+businessman	[de] zakenman
+expert	[de] vakman, [de] specialist
+general	[de] generaal
+journalist	[de] journalist
+judge	[de] rechter
+leader	[de] leider, [de] leidster {f}
+minister	[de] minister
+musician	[de] muzikant
+photographer	[de] fotograaf
+pilot	[de] piloot
+policeman	[de] politieagent
+politician	[de] politicus
+president	[de] president
+professional	[de] professional, [de] vakman
+representative	[de] plaatsvervanger
+sailor	[de] zeeman, [de] matroos
+scientist	[de] wetenschapper
+secretary	[de] secretaresse
+servant	[de] dienstmeid
+soldier	[de] soldaat
+writer	[de] schrijver, [de] schrijfster {f}
+airport	[de] luchthaven, [het] vliegveld
+bank	[de] bank
+bridge	[de] brug
+building	[het] gebouw
+capital	[de] hoofdstad
+castle	[het] kasteel, [het] fort
+church	[de] kerk
+cinema	[de] bioscoop
+city	[de] stad
+factory	[de] fabriek
+flat	[de] flat
+hospital	[het] ziekenhuis, [het] hospitaal
+hotel	[het] hotel
+library	[de] bibliotheek
+park	[het] park
+prison	[de] gevangenis
+restaurant	[het] restaurant
+road	[de] weg, [de] straat
+school	[de] school
+station	[het] station
+street	[de] straat
+structure	[de] constructie
+subway	[de] metro
+supermarket	[de] supermarkt
+theater	[de] schouwburg, [het] theater
+town	[de] stad, [de] gemeente
+university	[de] universiteit
+village	[het] dorp
+accident	[het] ongeluk, [het] ongeval
+boat	[de] boot
+bus	[de] bus, [de] autobus
+car	[de] auto, [de] wagen
+curve	[de] bocht
+express	[de] expres
+flight	[de] vlucht
+journey	[de] tocht
+passenger	[de] passagier
+plane	[het] vliegtuig
+ship	[het] schip
+skid	slippen
+track	[de] rail
+train	[de] trein
+transport	[het] vervoer, [het] transport
+air	[de] lucht
+animal	[het] dier, [het] beest
+branch	[de] tak
+evolution	[de] evolutie
+farm	[de] boerderij
+field	[het] veld (crops), [de] wei (animals)
+fire	[de] brand
+flower	[de] bloem
+forest	[het] bos
+grass	[het] gras
+leaf	[het] blad
+life	[het] leven
+lightning	bliksem
+moisture	[het] vocht, [de] vochtigheid
+nature	[de] natuur
+plant	[de] plant
+root	[de] wortel
+sex	[de] sekse
+sky	[de] hemel
+sleep	[de] slaap
+smell	[de] geur, [de] reuk
+smoke	[de] damp
+spring	[de] bron
+stem	[de] stengel
+stream	[de] stroom
+tree	[de] boom
+wave	[de] golf
+weather	[het] weer
+world	[de] wereld
+bank	[de] oever
+beach	[het] strand
+current	[de] stroom
+direction	[de] richting
+Earth	[de] aarde
+east	[het] oosten
+height	[de] hoogte
+hill	[de] heuvel
+island	[het] eiland
+lake	[het] meer
+land	[het] land
+map	[de] kaart
+Moon	[de] maan
+north	[het] noorden
+plain	[de] vlakte
+region	[de] streek
+river	[de] rivier
+sea	[de] zee
+south	[het] zuiden
+space	[de] ruimte
+star	[de] ster
+sun	[de] sun
+west	[het] westen
+acid	[het] zuur
+chemical	[de] chemicaliën
+chemical element	[het] element
+coal	[de] steenkool
+cotton	[het] katoen
+dust	[het] stof
+earth	[de] aarde
+fat	[het] vet
+glass	[het] glas
+glue	[de] lijm
+grain	[het] graan
+ice	[het] ijs
+iron	[het] ijzer
+leather	[het] leder, [het] leer
+liquid	[de] vloeistof
+matter	[de] materie
+metallic element	[het] metaal
+oil	[de] aardolie
+poison	[het] vergif
+powder	[het] buskruit
+sand	[het] zand
+silk	[het] zijde
+soap	[de] zeep
+steel	[het] staal
+wood	[het] hout
+wool	[de] wol
+bag	[de] zak, [de] tas
+basket	[de] mand, [de] korf
+bottle	[de] fles
+box	[de] doos
+can	[het] blik
+cup	[de] kop
+drawer	[de] la
+envelope	[de] envelop, [de] enveloppe
+glass	[het] glas
+plate	[het] bord, [het] dienblad
+camera	[de] [de] camera, [de] videocamera
+camera	[de] fotocamera, [het] fototoestel
+cellular phone	[de] mobiele telefoon, [het] mobieltje
+clock	[de] klok
+computer	[de] computer
+elevator	[de] lift
+engine	[de] motor
+instrument	[het] instrument, [het] muziekinstrument
+machine	[de] machine
+oven	[de] oven
+television	[de] televisie, [de] tv
+watch	[het] horloge
+addition	[de] sommering, [de] optelling
+angle	[de] hoek
+area	[de] oppervlakte
+center	[het] middelpunt
+circle	[de] cirkel
+curve	[de] curve, [de] kromme lijn
+degree	[de] graad
+degree	[het] niveau, [de] graad
+difference	verschil
+distance	[de] afstand
+division	[de] deling
+edge	[de] kant
+element	[het] element
+function	[de] functie
+half	[de] helft
+limit	[de] limiet
+line	[de] lijn
+net	[het] net
+order	[de] volgorde
+outside	[de] buitenkant
+percent	[het] procent
+point	[de] punt
+purpose	[de] functie, [het] nut
+result	[het] resultaat
+root	[de] wortel
+rule	[het] voorschrift
+set	[de] collectie
+side	[de] zijde
+square	[het] vierkant
+square	[het] kwadraat, [de] tweede macht
+substitution	vervanging
+surface	[de] oppervlakte
+total	[de] som, [de] sommering
+ability	[het] vermogen
+act	[de] daad
+action	[de] handeling, [de] actie
+activity	[de] actie
+addition	[de] toevoeging
+amount	[de] hoeveelheid
+attack	[de] aanval
+attempt	[de] poging
+attitude	[het] gedrag, [de] attitude
+back	[de] achterkant
+behavior	gedrag, gedragingen
+bit	[het] stuk
+blow	[de] slag
+break	ontspanning
+campaign	[de] campagne
+case	[de] casus, [het] voorbeeld
+chance	kans, mogelijkheid
+change	verandering, aanpassing
+choice	keuze
+condition	status
+connection	0
+connection	verbinding
+crack	barst
+crush	0
+cut	snee
+damage	[de] schade
+danger	gevaar
+death	dood
+decoration	[de] decoratie
+defense	weer
+destruction	vernietiging
+detail	[de] bijzonderheid
+dominance	0
+drop	[de] druppel
+duty	plicht
+effort	inspanning
+fall	val
+feature	eigenschap
+fight	gevecht
+front	front
+hit	slag
+hole	holte, put
+increase	groei
+increase	toename
+internet	[het] internet
+jolt	[de] ruk
+kick	schop
+kind	soort
+knot	[de] knoop
+list	lijst
+majority	meerderheid
+matter	aangelegenheid
+mind	[het] verstand, [de] geest
+operation	[de] werking
+opposite	tegendeel
+outburst	uitbarsting
+part	deel, onderdeel
+part	[het] deel
+personality	karakter
+piece	[het] onderdeel, [het] stuk
+place	plaats
+position	[de] plaats, [de] positie
+power	macht, kracht
+practice	[de] praktijk
+project	opgave
+property	eigendom
+quality	kwaliteit
+quiet	sereniteit
+reach	0
+report	rapport
+responsibility	verantwoordelijkheid
+rest	rust
+return	terugkomst
+rise	ontsteking
+risk	[het] risico
+seat	plaats
+serial	0
+set	[de] set
+silence	stilte
+situation	situatie
+slice	0
+state	[de] status
+step	[de] stap, [de] voetstap
+stop	stoppen
+taste	[de] smaak
+thing	[het] ding
+top	[het] toppunt
+touch	aanraking
+treatment	behandeling
+tremble	beving
+trick	kneep
+type	soort
+use	[het] gebruik
+way	manier
+wear	slijtage
+whole	hele
+will	wil
+wish	wens
+afternoon	[de] middag, [de] namiddag
+age	[de] ouderdom, [de] leeftijd
+April	[de] april
+August	augustus
+autumn	[de] herfst
+beginning	[het] begin
+century	[de] eeuw
+date	[de] datum
+day	[de] dag
+December	[de] december
+end	einde
+evening	[de] avond
+February	[de] februari
+Friday	[de] vrijdag
+future	[de] toekomst
+hour	[het] uur
+January	[de] januari
+July	[de] juli
+June	[de] juni
+May	mei
+midnight	[de] middernacht
+minute	[de] minuut
+moment	[het] moment
+moment	[het] ogenblik
+Monday	[de] maandag
+month	[de] maand
+morning	[de] ochtend
+night	[de] nacht
+November	[de] november
+now	[het] nu
+October	[de] oktober
+past	[het] verleden
+pause	[de] pauze
+period	[de] periode
+present	tegenwoordig
+Saturday	[de] zaterdag
+season	[het] seizoen
+second	[de] seconde
+September	september
+spring	[het] voorjaar
+summer	[de] zomer
+Sunday	[de] zondag
+Thursday	[de] donderdag
+today	vandaag
+tomorrow	morgen
+Tuesday	dinsdag
+Wednesday	[de] woensdag
+week	[de] week
+weekend	[het] weekend, [het] weekeinde
+while	[de] poos
+winter	[de] winter
+year	[het] jaar
+art	[de] kunst
+artist	[de] artiest
+band	[de] band
+brush	[de] borstel
+color	[de] kleur
+concert	[het] concert
+design	schets
+diversity	[de] verscheidenheid
+entertainment	[het] amusement, [het] vertier
+hit	[de] hit
+image	[het] imago
+ink	[de] inkt
+invention	[de] uitvinding
+manner	[de] wijze, [de] manier
+movie	[de] film
+museum	[het] museum
+music	[de] muziek
+note	[de] noot, [de] muzieknoot
+orchestra	[het] orkest
+paint	[de] verf
+painting	[het] schilderij, [de] afbeelding
+paper	[het] papier
+pen	[de] pen
+pencil	[het] potlood
+picture	[het] beeld, [de] beeltenis
+poem	[het] gedicht
+poetry	[de] poëzie
+rhythm	[het] ritme
+shape	[de] vorm
+singer	[de] zanger {m}, [de] zangeres {f}
+song	[het] lied, [het] liedje (diminutive)
+stage	[het] toneel
+style	[de] stijl
+vogue	mode
+account	[de] zakenrelatie
+advantage	[het] voordeel
+advertisement	[de] advertentie, [de] commercial
+advice	[de] raad, [het] advies
+agreement	[de] overeenstemming
+attention	[de] attentie
+authority	[de] autoriteit
+banknote	[het] bankbiljet
+bargain	[de] overeenkomst
+brand	[het] merk
+business	[het] bedrijf, [de] zaak
+businesswoman	[de] zakenvrouw
+capital	[de] hoofdstad
+change	[het] wisselgeld
+cheque	[de] cheque
+committee	[het] comité
+company	[het] bedrijf, [de] zaak
+competition	[de] concurrentie
+complaint	[de] aanklacht
+contract	[het] contract
+copy	[de] kopie
+cost	[de] kosten
+council	[de] adviesraad, [het] raadgevend lichaam
+course	[de] cursus
+customer	[de] klant
+demand	nodig hebben
+department	[het] departement
+difficulty	strubbeling
+director	[de] [de] directeur, [de] directrice {f}
+economy	[de] economie
+environment	[de] omgeving, [het] mileu
+experience	[de] ervaring
+firm	[het] bedrijf, [de] zaak
+form	[het] formulier
+group	groep
+help	[de] hulp
+holiday	[de] vakantie
+income	[het] inkomsten
+industry	[de] industrie
+insurance	[de] verzekering
+interest	[de] rente
+invoice	[de] rekening, [de] factuur
+job	[het] werk
+law	[de] wet
+leave	[het] verlof
+loss	[het] verlies
+management	[het] management, [de] directie
+mark	markering, aanduiding
+market	[de] markt, [de] marktplaats
+material	[het] materieel
+mean	[het] gemiddelde
+meeting	[de] samenkomst, [de] bijeenkomst
+money	[het] kleingeld
+occupation	[het] werk
+offer	aanbod
+office	[het] kantoor
+officer	[de] ambtenaar
+operation	operatie, bewerking
+owner	[de] bezitter
+package	[het] pakket
+payment	[de] betaling
+plan	plan
+price	[de] prijs
+problem	[het] probleem
+product	[het] product
+profit	[de] winst
+property	[het] eigendom, [het] bezit
+rate	[het] tarief
+rest	[de] rest
+reward	[de] beloning
+right	[het] recht
+sale	[de] verkoop
+section	[het] deel
+section	[de] sectie, [het] gedeelte
+service	[de] service
+share	[de] aandeel
+shop	[de] winkel
+show	0
+skill	0
+staff	[het] personeel
+structure	[de] structuur
+success	[het] succes
+support	steun
+table	[de] tabel
+tax	[de] belasting
+team	[de] ploeg, [het] team
+trade	[de] handel
+value	[de] waarde
+work	werk
+worker	[de] werker, [de] arbeider
+announcement	[de] bekendmaking
+answer	[het] antwoord
+approval	[de] instemming, [de] goedkeuring
+argument	[het] argument
+book	[het] boek
+call	[de] oproep
+character	[het] teken, [het] symbool
+controversy	[de] ruzie
+cry	[de] schreeuw
+data	[de] gegevens, [de] informatie
+decision	[de] beslissing, [het] besluit
+dictionary	[het] woordenboek
+discussion	[de] discussie
+doubt	[de] twijfel
+experience	[de] ervaring
+feeling	[het] gevoel
+humor	[de] humor
+idea	[het] idee, [de] gedachte
+information	[de] informatie
+interest	[de] interesse
+interview	[het] interview
+language	[de] taal
+language	[de] taal
+letter	[de] letter, [het] karakter
+letter	[de] brief
+lie	[de] leugen
+look	[de] blik, [de] gezichtsuitdrukking
+magazine	[het] tijdschrift, [het] magazine
+mail	[de] post
+memory	[het] geheugen
+memory	[de] herinnering
+mistake	[de] fout, [de] vergissing
+name	[de] naam
+newspaper	[de] krant, [het] dagblad
+note	[de] [de] aantekening, [de] notitie
+number	[het] getal
+opinion	[de] mening, [de] opinie
+page	[de] bladzijde, [de] pagina
+pronunciation	[de] uitspraak
+proposal	aanbieding
+protest	[het] protest
+question	[de] vraag
+reaction	reactie
+reason	[de] reden, [de] motivatie
+relation	[de] relatie
+request	[het] verzoek
+secret	[het] geheim
+sentence	[de] zin
+sign	[het] teken
+speech	[de] taal
+spelling	[de] spelling
+standard	[het] criterium
+statement	[de] verklaring
+subject	[het] onderwerp, [het] thema
+suggestion	voorstel
+voice	[de] stem
+word	[het] woord
+writing	[het] schrift
+good day	goedendag, goeiedag
+good luck	veel geluk, succes
+good morning	goedemorgen
+hello	hallo, hoi
+how are you	hoe gaat het, alles goed
+no	nee, neen
+thank you very much	dank u wel, dank je wel
+yes	ja
+Britain	[het] Verenigd Koninkrijk, [het] Groot-Brittannië
+China	[het] China
+Czech Republic	[het] Tsjechië
+France	[het] Frankrijk
+Germany	[het] Duitsland
+India	[het] India
+Italy	[het] Italië
+Japan	[het] Japan
+Spain	[het] Spanje
+United States of America	[de] Verenigde Staten van Amerika, [de] VS
+class	[de] klas
+education	[de] opleiding
+education	[de] opleiding
+education	[het] onderwijs
+examination	[het] examen
+grade	[het] cijfer
+knowledge	[de] kennis
+student	[de] student, [de] studente {f}
+teacher	[de] leraar, [de] docent
+training	training
+fear	[de] vrees, [de] angst
+hate	[de] haat
+love	[de] liefde
+pleasure	plezier, genoegen
+promise	[de] hoop
+shock	schok
+care	[de] zorg
+cold	[de] verkoudheid
+cough	[de] hoest
+disease	[de] ziekte
+doctor	[de] dokter, [de] arts
+health	[de] gezondheid, [het] welzijn
+menstruation	[de] menstruatie
+nurse	[de] verpleegster
+operation	[de] operatie
+pain	[de] pijn
+patient	[de] patiënt
+stitch	[de] steek
+blade	[de] kling, [het] lemmet
+board	0
+card	[de] kaart
+chain	[de] ketting
+club	[de] knuppel
+cover	[de] deksel
+feather	[de] pluim, [de] veer
+flag	[de] vlag
+frame	[het] montuur
+handle	[de] greep, [de] handgreep
+menu	[de] kaart
+nut	[de] moer
+pin	[de] speld
+pipe	[de] buis
+postage	[de] postzegel
+present	[het] cadeau
+sail	[het] zeil
+scroll	0
+seed	[het] zaad
+stick	[de] stok
+stone	[de] steen
+ticket	[het] ticket, [het] kaartje
+wheel	[het] wiel
+wire	[de] draad
+balance	[het] evenwicht, [de] balans
+bulk	[de] massa
+charge	[de] lading
+energy	[de] energie
+light	[het] licht
+mass	[de] massa
+measurement	[de] meting
+mirror	[de] spiegel
+movement	[de] verplaatsing
+pressure	[de] druk
+process	[het] proces
+size	[de] maat
+sound	[het] geluid
+steam	[de] stoom
+strength	doordrukken, kracht
+time	[de] tijd
+unit	[de] eenheid
+weight	[het] gewicht
+boyfriend	[de] vriend
+date	[de] afspraak
+girlfriend	[de] vriendin
+guest	[de] gast, [de] bezoeker
+honey	[de] geliefde, [de] beminde
+kiss	[de] kus
+party	[het] feest
+sex	[de] seks, [de] geslachtsdaad
+smile	glimlach
+surprise	verrassing
+visit	bezoek, visite
+alternative	alternatief
+biology	[de] biologie
+cause	teweegbrengen, reden
+chemistry	[de] scheikunde, [de] chemie
+comparison	vergelijking
+consequence	[het] gevolg
+control	controle
+discipline	[de] discipline
+discovery	[de] ontdekking
+discovery	0
+event	evenement, gebeurtenis
+evidence	bewijs
+example	[het] voorbeeld
+fact	feit
+issue	[de] kwestie
+kernel	kern
+method	[de] methode
+model	[het] model, [het] type
+phase	[de] fase
+procedure	[de] werkwijze, [het] proces
+production	productie
+program	programma
+project	project
+range	bereik
+research	onderzoek, speurwerk
+research	0
+science	[de] wetenschap
+society	[de] gemeenschap
+system	[het] systeem
+technology	[de] technologie
+theory	[de] theorie
+trend	neiging
+trouble	kwestie, strubbeling
+user	[de] gebruiker, [de] gebruikster {f}
+army	[het] leger
+base	[de] basis, [de] kazerne
+club	[de] club
+company	[het] gezelschap
+contest	[de] strijd
+country	[het] land
+court	[de] gerechtshof
+crime	[de] misdaad
+culture	[de] cultuur
+democracy	[de] republiek, [de] democratie
+dominion	dominion
+election	[de] verkiezing
+existence	[het] bestaan
+female	[de] vrouw
+government	[de] regering
+history	[de] geschiedenis
+individual	[het] individu
+institution	[de] instelling
+king	[de] koning, [de] heer
+male	[de] man
+member	[het] lid
+nation	[de] natie
+news	[het] nieuws
+noise	[het] lawaai
+order	[het] bevel
+organization	[de] [de] organisatie, [het] samenwerkingsverband
+pass	[de] pas
+passport	[het] paspoort
+peace	vrede
+people	[de] mensen
+police	[de] politie
+policy	[het] beleid
+population	[de] bevolking
+public	[de] bevolking, [het] publiek
+punishment	[de] straf
+religion	[de] religie
+religion	[de] religie
+state	[de] staat
+title	[de] titel
+union	[de] unie
+war	[de] oorlog
+will	[de] wens
+will	[het] testament, [de] laatste wilsbeschikking
+award	[de] onderscheiding
+ball	[de] bal
+baseball	[het] honkbal
+bike	[de] fiets, [de] velo (.be)
+championship	[het] kampioenschap
+competitor	[de] rivaal
+cup	[de] beker, [de] wedstrijdbeker
+football	[het] rugby, [het] voetbal
+game	[het] spel
+goal	[het] doel
+goal	bestemming
+gold	[het] goud
+golf	[de] golf
+jump	sprong
+match	[de] competitie
+player	[de] speler
+record	record
+silver	[het] zilver
+tennis	[het] tennis
+throw	[de] worp, [de] gooi
+win	[de] overwinning
+bell	[de] bel
+button	[de] knop
+gun	[het] geweer, [het] pistool
+hammer	[de] hamer
+hook	[de] haak
+key	[de] sleutel
+lock	[het] slot
+match	[de] lucifer
+nail	[de] spijker, [de] nagel
+needle	[de] naald
+pump	[de] pomp
+rope	[het] touw
+scissors	[de] schaar
+spring	[de] springveer
+stamp	[de] stempel
+whip	[de] zweep
+cloud	[de] wolk
+dew	dauw
+fog	mist
+frost	rijp
+rain	[de] regen
+rainbow	regenboog
+snow	[de] sneeuw
+storm	storm
+thunder	donder
+wind	[de] wind

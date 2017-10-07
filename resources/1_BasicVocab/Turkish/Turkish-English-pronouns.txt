@@ -1,0 +1,27 @@
+Turkish	﻿English
+herkes	everybody
+her şey	everything
+o,	he
+onun	her
+kendi	herself
+onu	him
+onun	his
+o	it
+kendi	itself
+bana	me
+benim	my
+bizim	our
+o,	she
+o	that
+onların	their
+onlar	they
+bu	this
+bize	us
+biz	we
+ne	what
+hangi	which
+hangi	which
+kim	who
+kimi	whom
+sen, siz	you
+senin	your

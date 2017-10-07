@@ -1,0 +1,819 @@
+Maltese	﻿English
+iswed	black
+ikħal, blu	blue
+kannella	brown
+griż	gray
+aħdar	green
+oranġjo	orange
+roża	pink
+aħmar	red
+vjola	violet
+abjad	white
+isfar	yellow
+tmienja	eight
+tmintax	eighteen
+tmenin	eighty
+ħadx	eleven
+ħmistax	fifteen
+ħamsin	fifty
+ħamsa	five
+erbgħin	forty
+erbgħa	four
+erbatax	fourteen
+mija	hundred
+miljun	million
+disgħa	nine
+disgħin	ninety
+wieħed	one
+sebgħa	seven
+sebgħin	seventy
+sitta	six
+sittax	sixteen
+sittin	sixty
+għaxra	ten
+tlettax	thirteen
+tletin	thirty
+elf	thousand
+elf	thousand
+tlieta	three
+għoxrin	twenty
+tnejn	two
+driegħ	arm
+dahar	back
+munqar	beak
+demm	blood
+torso	body
+għadma	bone
+moħħ	brain
+nifs	breath
+ċellula	cell
+sider	chest
+geddum, lħit	chin
+widna	ear
+għajn	eye
+wiċċ	face
+saba'	finger
+sieq	foot
+ġbin	forehead
+xagħar, xuxa	hair
+pil, xagħar	hair
+id	hand
+ras	head
+qalb	heart
+rkoppa, rkobba	knee
+riġel	leg
+xoffa	lip
+ħalq	mouth
+muskolu	muscle
+difer	nail
+għonq	neck
+nerv	nerve
+mnieħer	nose
+ġilda	skin
+stonku	stomach
+demb, denb	tail
+gerżuma	throat
+saba' l-kbir	thumb
+saba' tas-sieq	toe
+lsien	tongue
+sinna	tooth
+ġwejnaħ	wing
+nemla	ant
+ors	bear
+naħla	bee
+għasfur	bird
+qattus	cat
+baqra	cow
+kelb	dog
+ljunfant	elephant
+ħuta	fish
+dubbiena	fly
+mogħża	goat
+żiemel	horse
+insett	insect
+iljun	lion
+xadina	monkey
+ħanżir, qassquż	pig
+nagħġa	sheep
+lifgħa, serp	snake
+wara nofsinhar	afternoon
+età	age
+April	April
+Awwissu	August
+ħarifa	autumn
+bidu	beginning
+jum, ġurnata	day
+Diċembru	December
+tarf	end
+għaxija, filgħaxija	evening
+Frar	February
+futur, gejjini	future
+siegħa	hour
+Jannar	January
+Lulju	July
+Ġunju	June
+Mejju	May
+minuta	minute
+xahar	month
+għodwa, filgħodu	morning
+lejl, dlam	night
+Novembru	November
+Ottubru	October
+imgħoddi, passat	past
+preżent, issa	present
+sekonda	second
+Settembru	September
+rebbiegħa	spring
+sajf	summer
+għada	tomorrow
+ġimgħa	week
+waqt, mument	while
+xitwa	winter
+sena	year
+ħobż	bread
+kolazzjon	breakfast
+butir	butter
+kejk	cake
+ġobon	cheese
+ċikkulata	chocolate
+bajda	egg
+ikel	food
+frotta	fruit
+pranzu	lunch
+ikla	meal
+laħam	meat
+żejt	oil
+ross	rice
+insalata	salad
+melħ	salt
+sandwiċċ	sandwich
+soppa	soup
+zokkor	sugar
+ħlewwa	sweet
+birra	beer
+kafè	coffee
+xorb, xarba	drink
+ħalib	milk
+milkshake	milkshake
+tè	tea
+ilma	water
+mbit, mbid	wine
+tuffieha, tuffieħa	apple
+berquqa	apricot
+banana	banana
+tut	blackberry
+ċirasa	cherry
+lumija	lemon
+lewża	nut
+larinġa	orange
+ħawħa	peach
+lanġasa	pear
+ananas	pineapple
+għajnbaqra	plum
+framboża, lampuna	raspberry
+frawla	strawberry
+fażola, fula	bean
+kaboċċa	cabbage
+karrottu, zfunnarija	carrot
+ħjara	cucumber
+tewm	garlic
+żebbuġa	olive
+basla	onion
+piżella	pea
+patata	potato
+ravanella	radish
+tadama	tomato
+tarbija	baby
+twelid	birth
+għeluq is-snin	birthday
+tifel	boy
+ħu	brother
+tifel, tifla	child
+bint	daughter
+mewt	death
+familja, razza	family
+missier	father
+ħabib	friend
+tifla, tfajla	girl
+bniedem	human
+raġel	man
+omm	mother
+persuna, bniedem	person
+oħt	sister
+iben, tifel	son
+żwieġ, tieġ	wedding
+mara	woman
+indirizz	address
+kamra tal-banju	bathroom
+kamra tas-sodda	bedroom
+brikk	brick
+bieb	door
+art	floor
+sular	floor
+garaxx	garage
+ġnien	garden
+xatba, grada	gate
+intrata	hall
+dar	home
+dar	house
+kċina	kitchen
+saqaf	roof
+kamra	room
+doxxa	shower
+tarġa	step
+latrina	toilet
+ħajt	wall
+bir, ġibja	well
+tieqa	window
+sodda	bed
+tapit	carpet
+siġġu	chair
+armarju	cupboard
+purtiera	curtain
+skrivanija	desk
+għamara, biċċa għamara	furniture
+skaffa, xkaffa	shelf
+sink, mejjilla	sink
+mejda	table
+portmoni	bag
+stival, boot	boot
+drapp	cloth
+biċċa ħwejjeġ	clothing
+kowt	coat
+għonq	collar
+kappel	hat
+ġakketta	jacket
+ġojjell, ġemma	jewel
+ċurkett	ring
+qmis	shirt
+żarbun	shoe
+dublett	skirt
+peduna, kalzetta	sock
+bagoll, bagalja	suitcase
+ingravata	tie
+arja	air
+annimal, bhima	animal
+fergħa	branch
+żvilupp, evoluzzjoni	evolution
+razzett	farm
+għalqa	field
+nar, fjamma	fire
+fjura	flower
+ħaxix	grass
+werqa	leaf
+berqa	lightning
+umdità	moisture
+xitla, pjanta	plant
+għerq	root
+sess	sex
+sema	sky
+irqad	sleep
+riħa, rieħa	smell
+duħħan, daħna	smoke
+għajn	spring
+zokk	stem
+kurrent	stream
+siġra	tree
+mewġa	wave
+temp	weather
+dinja	world
+ajruport	airport
+*bank??	bank
+pont	bridge
+bini	building
+belt kapitali	capital
+kastell	castle
+knisja	church
+ċinema	cinema
+belt, metropoli	city
+fabbrika	factory
+appartament, flatt	flat
+sptar	hospital
+lukanda	hotel
+bibljoteka	library
+ħabs, karzri	prison
+triq	road
+skola	school
+stazzjon	station
+triq	street
+struttura	structure
+metro	subway
+supersuq	supermarket
+teatru	theater
+belt	town
+università	university
+villaġġ, raħal	village
+dgħajsa	boat
+karozza tal-linja	bus
+karozza	car
+dawra, tgħawiga	curve
+espress	express
+titjir	flight
+vjaġġ	journey
+ajruplan	plane
+vapur, bastiment	ship
+żelqa	skid
+linji	track
+tren	train
+trasport	transport
+attur	actor
+attriċi	actress
+espert	expert
+ġeneral	general
+mħallef	judge
+mużiċista	musician
+fotografu	photographer
+pilota	pilot
+pulizija, pulizjott	policeman
+politiku	politician
+repreżentant	representative
+baħri	sailor
+sekretarju, segretarju	secretary
+seftur	servant
+suldat	soldier
+xatt il-baħar	beach
+kurrent	current
+direzzjoni	direction
+dinja	Earth
+lvant	east
+għolja	hill
+gżira	island
+lag, għadira	lake
+art	land
+mappa	map
+Qamar, qamar	Moon
+tramuntana	north
+xagħra	plain
+xmara	river
+baħar	sea
+nofsinhar	south
+spazju	space
+stilla, kewba	star
+xemx, Xemx	sun
+punent	west
+sħaba	cloud
+ġlata	frost
+xita	rain
+qawsalla	rainbow
+borra	snow
+tempesta, burraxka	storm
+ragħad	thunder
+kurrent, riħ	wind
+aċtu	acid
+sustanza kimika	chemical
+element element kimiku	chemical
+faħam	coal
+qoton	cotton
+trab, għabra	dust
+art	earth
+xaħam	fat
+ħġieġ	glass
+kolla	glue
+farka	grain
+silg, silġ	ice
+ħadid	iron
+ġilda	leather
+likwidu	liquid
+materja	matter
+element metal, element metalliku	metallic
+pitrolju, żejt	oil
+velenu, semm	poison
+trab	powder
+ramel	sand
+ħarir	silk
+sapuna	soap
+azzar	steel
+injam, għuda	wood
+suf	wool
+borża	bag
+qoffa, ġewlaq	basket
+flixkun	bottle
+kaxxa	box
+bott, landa	can
+kikkra	cup
+kexxun	drawer
+envelopp	envelope
+tazza	glass
+platt	plate
+qampiena	bell
+buttuna	button
+xkubetta	gun
+martel, martell	hammer
+sunnara, ganċ	hook
+ċavetta, muftieħ	key
+lukkett, serratura	lock
+sulfarina	match
+musmar	nail
+labra	needle
+pompa	pump
+ħabel, ċima	rope
+mqass	scissors
+molla	spring
+bolla	stamp
+frosta	whip
+għadd	addition
+anġlu	angle
+ċirku	circle
+liwja	curve
+grad	degree
+grad	degree
+differenza	difference
+bogħod, distanza	distance
+qsim, partizzjoni	division
+xifer, tarf	edge
+nofs	half
+limitu	limit
+linja	line
+xibka	net
+ordni	order
+tikka	point
+għan, skop	purpose
+radiċi	root
+regola, regulament	rule
+naħa	side
+qwadru	square
+kwadrat	square
+sostituzzjoni	substitution
+wiċċ	surface
+għemil, att	act
+għemil, azzjoni	action
+żieda, addizzjoni	addition
+ammont, kwantità	amount
+attakk	attack
+prova, sforz	attempt
+dahar	back
+mġieba, kondotta	behavior
+biċċa, farka	bit
+daqqa	blow
+intervall, waqfa	break
+kampanja, kawża	campaign
+opportunita, ċans	chance
+selezzjoni, għażla	choice
+stat, kundizzjoni	condition
+konnessjoni	connection
+konnessjoni, x'jaqsam	connection
+xaqq	crack
+tgħaffig, tgħattin	crush
+qtugħ, qatgħa	cut
+ħsara	damage
+periklu	danger
+tiżjin, ornament	decoration
+qirda, distruzzjoni	destruction
+dettal	detail
+dominanza	dominance
+qatra	drop
+dmir, dover	duty
+sforz	effort
+waqa', waqgħa	fall
+ġlied, ġlieda	fight
+quddiem	front
+lqit	hit
+toqba, ħofra	hole
+żieda, kobor	increase
+żieda	increase
+internet	internet
+skoss	jolt
+daqqa ta' sieq	kick
+tip, varjetà	kind
+għoqda	knot
+lista	list
+moħħ	mind
+iffunzjonar	operation
+kuntrarju	opposite
+tifqigħa	outburst
+parti	part
+personalità	personality
+biċċa	piece
+post	place
+post, lok	position
+qawwa, poter	power
+prattika	practice
+proġett, intrapriża	project
+karatteristika	property
+kwalità	quality
+kwiet	quiet
+responsabbiltà	responsibility
+mistrieħ	rest
+ritorn, miġja lura	return
+post	seat
+skiet, silenzju	silence
+stat	state
+pass	step
+waqfa	stop
+togħma	taste
+ħaġa	thing
+quċċata, akme	top
+messa	touch
+trattament, trattazzjoni	treatment
+rogħda	tremble
+trikk	trick
+użu	use
+mezz, mezzi	way
+rieda, volontà	will
+arti	art
+banda taż-żfin	band
+xkupilja	brush
+kulur	color
+kunċert	concert
+disin, disinjar	design
+varjetà, diversità	diversity
+divertiment	entertainment
+linka	ink
+invenzjoni, innovazzjoni	invention
+maniera, mod	manner
+ċinema	movie
+muzew	museum
+mużika	music
+nota	note
+*orkestra??	orchestra
+żebgħa	paint
+pittura	painting
+karta	paper
+pinna	pen
+lapes	pencil
+stampa	picture
+ritmu	rhythm
+forma, għamla	shape
+kanzunetta	song
+palk	stage
+kont	account
+riklam	advertisement
+ftehim	agreement
+attenzjoni	attention
+awtorità	authority
+karta tal-flus	banknote
+marka	brand
+negozju	business
+żgħar	change
+ċekk	cheque
+kumitat, kummissjoni	committee
+kumpanija	company
+kompetizzjoni	competition
+kopja	copy
+kors	course
+klijent	customer
+bżonn	demand
+direttur	director
+ambjent	environment
+esperjenza	experience
+formola	form
+grupp	group
+għajnuna, assistenza	help
+industrija	industry
+assigurazzjoni	insurance
+interess	interest
+kont	invoice
+biċċa xogħol	job
+liġi	law
+telfa	loss
+amministrazzjoni, management	management
+marka	mark
+suq	market
+materjal	material
+laqgħa	meeting
+flus	money
+xogħol, impieg	occupation
+offerta	offer
+uffizzju	office
+operazzjoni	operation
+propjetarju	owner
+pakkett	package
+ħlas	payment
+prezz	price
+prodott	product
+qliegħ, dħul	profit
+propjeta	property
+rata	rate
+bqija	rest
+paga, ħlas	reward
+dritt	right
+bejħ	sale
+parti	section
+servizz	service
+ħanut	shop
+wirja	show
+struttura	structure
+appoġġ, manteniment	support
+tabella	table
+taxxa	tax
+tim, skwadra	team
+kummerċ	trade
+valur	value
+xogħol	work
+ħaddiem	worker
+tweġiba, risposta	answer
+barka, approvazzjoni	approval
+argument	argument
+ktieb, volum	book
+polemika, kontroversja	controversy
+għajta	cry
+deċizjoni	decision
+dizzjunarju, kalepin	dictionary
+diskussjoni	discussion
+dubju	doubt
+esperjenza	experience
+sensazzjoni	feeling
+umoriżmu	humor
+idea, ħsieb	idea
+interess	interest
+intervista	interview
+lsien, lingwa	language
+ittra	letter
+ittra	letter
+espressjoni, ħarsa	look
+magażżin, rivista	magazine
+posta	mail
+memorja	memory
+memorja	memory
+żball	mistake
+isem	name
+gażżetta, ġurnal	newspaper
+nota	note
+numru	number
+fehma, opinjoni	opinion
+paġna, faċċata	page
+protesta	protest
+mistoqsija, domanda	question
+reazzjoni	reaction
+relazzjoni	relation
+talba	request
+sigriet	secret
+sinjal	sign
+lingwa	speech
+asserzjoni	statement
+tema, suġġett	subject
+suġġeriment	suggestion
+leħen, vuċi	voice
+kelma	word
+kitba	writing
+day il-ġurnata t-tajba	good
+luck ix-xorti t-tajba	good
+are you kif int? (s), kif intkom? (p)	how
+thanks grazzi ħafna ħafna, niringrazzjak minn qiegħ qalbi	many
+le	no
+you very much grazzi ħafna	thank
+iva	yes
+Renju Unit	Britain
+Ċina	China
+Republic Repubblika Ċeka	Czech
+Franza	France
+Ġermanja	Germany
+Indja	India
+Italja	Italy
+Ġappun	Japan
+Spanja	Spain
+States of America Stati Uniti	United
+kamera tat-televison	camera
+kamera	camera
+phone ċellulari	cellular
+arloġġ	clock
+computer	computer
+lift	elevator
+magna	engine
+strument	instrument
+magna	machine
+forn	oven
+televiżjoni	television
+arloġġ	watch
+klassi	class
+edukazzjoni	education
+tgħalim, edukazzjoni	education
+eżami	examination
+marka	grade
+fehma, konjizzjoni	knowledge
+student	student
+għalliem	teacher
+taħriġ	training
+biża	fear
+mibgħeda	hate
+mħabba	love
+gost, pjaċir	pleasure
+tama	promise
+skantament, xokk	shock
+kura, attenzjoni	care
+riħ	cold
+sogħla	cough
+marda	disease
+tabib	doctor
+saħħa	health
+infermiera	nurse
+operazzjoni	operation
+uġiegħ	pain
+pazjent	patient
+punt	stitch
+xafra	blade
+tavla	board
+karta (tal-logħob)	card
+katina	chain
+każin, klabb	club
+għata, ħeba	cover
+rixa	feather
+bandiera	flag
+gwarniċ	frame
+manku, qabda	handle
+skorfina	nut
+labra, kavilja	pin
+pajp	pipe
+bolla	postage
+rigal	present
+qlugħ	sail
+bobina, spiral	scroll
+żerriegħa	seed
+għasluġ, għuda	stick
+blata	stone
+biljett	ticket
+rota	wheel
+fildiferru, wajer	wire
+bilanċ	balance
+massa, volum	bulk
+dawl	light
+massa	mass
+tiqjis, meżurazzjoni	measurement
+mera	mirror
+ċaqlieq, muviment	movement
+proċess	process
+daqs	size
+ħoss	sound
+fwar, stim	steam
+saħħa, qawwa	strength
+ir-raba dimensjoni, żmien	time
+unità	unit
+piż, toqol	weight
+qalbi, għażiż	honey
+bewsa	kiss
+attivita sesswali, attività sesswali	sex
+tbissima	smile
+sorpiża, qatgħa	surprise
+żjara	visit
+bijoloġija	biology
+kawża	cause
+kimika	chemistry
+tqabbil, paragun	comparison
+konsegwenza, effett	consequence
+kontroll	control
+dixxiplina, suġġett	discipline
+skoperta, sejba	discovery
+ġrajja, avveniment	event
+eżempju	example
+fatt	fact
+qalba	kernel
+fażi	phase
+proċedura	procedure
+produzzjoni	production
+skop, ambitu	range
+riċerka, tfittix	research
+xjenza	science
+socjeta	society
+sistema, skema	system
+teknoloġija, inġenerija	technology
+teorija	theory
+tendenza	trend
+inkwiet, problema	trouble
+armata	army
+bażi	base
+kumpanija	company
+kompetizzjoni, konkors	contest
+pajjiż, art	country
+qorti	court
+delitt, offiża kriminali	crime
+kultura	culture
+ħakma, dominju	dominion
+elezzjoni	election
+eżistenza	existence
+bniedma, mara	female
+gvern, awtorità	government
+storja	history
+re, sultan	king
+maskju	male
+nazzjon	nation
+aħbarijiet	news
+storbju	noise
+ordni	order
+organizzazzjoni	organization
+passaport	passport
+paċi, sliem	peace
+nies	people
+populazzjoni	population
+publiku	public
+kastig, punizzjoni	punishment
+reliġjon, fidi	religion
+reliġjon	religion
+gwerra	war
+rieda	will
+testment	will
+ballun	ball
+baseball	baseball
+rota	bike
+tazza	cup
+futbol	football
+logħoba, partita	game
+gowl	goal
+tarf, destinazzjoni	goal
+deheb	gold
+golf	golf
+qabża	jump
+partita, logħba	match
+rekord	record
+fidda	silver
+tennis	tennis
+tefgħa	throw

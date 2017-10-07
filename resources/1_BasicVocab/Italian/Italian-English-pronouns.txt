@@ -1,0 +1,34 @@
+Italian	﻿English
+chiunque	anyone
+tutti	everybody
+tutto	everything
+egli	he
+suo	her
+si	herself
+lui	him
+sé	himself
+suo	his
+lo	it
+si	itself
+me	me
+mio	my
+nostro	our
+lei	she
+questa	that
+loro	their
+loro	them
+queste	these
+essi	they
+questo	this
+questo	those
+noi	us
+noi	we
+che	what
+quando	when
+quale	which
+quale	which
+chi	who
+chi	whom
+di chi	whose
+(familiar) tu, (polite) lei, Lei	you
+loro	your

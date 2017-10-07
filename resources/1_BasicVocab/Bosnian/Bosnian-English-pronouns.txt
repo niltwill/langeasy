@@ -1,0 +1,35 @@
+Bosnian	﻿English
+bilo ko	anyone
+bilo šta	anything
+svi	everybody
+sve	everything
+on	he
+nju, njoj	her
+sebe, ona sama	herself
+ga, mu	him
+sebe, on sam	himself
+njegov	his
+to	it
+se, sebe	itself
+me, meni	me
+moj	my
+naš	our
+ona	she
+to, onaj	that
+njihov	their
+im, ih	them
+ovi	these
+oni	they
+to, ovaj	this
+ovi	those
+mi, nama	us
+mi	we
+šta, što	what
+kada	when
+koji	which
+koji	which
+ko	who
+koga, kome	whom
+čiji, čije	whose
+ti, vi	you
+tvoj, vaš	your

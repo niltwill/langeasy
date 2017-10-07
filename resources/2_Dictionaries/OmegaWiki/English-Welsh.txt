@@ -1,0 +1,599 @@
+English	Welsh
+Abidjan	Abidjan
+Adriatic Sea	Môr Adria
+Aegean Sea	Môr Aegeaidd ; Môr Egeaidd ; Môr Aegea
+Afrikaans	Affricaneg
+Albania ; Republic of Albania	Albania
+Algeria ; People's Democratic Republic of Algeria	Algeria
+Andorra ; Principality of Andorra	Andorra
+Angola ; Republic of Angola	Angola
+Anguilla	Anguilla
+Argentina ; Argentine Republic	Yr Ariannin
+Armenia	Armenia
+August	Awst
+Australia ; Commonwealth of Australia	Awstralia
+Austria ; Republic of Austria	Awstria
+Azerbaijan ; Republic of Azerbaijan	Aserbaijan
+Bahrain	Bahrain
+Balearic Islands	Ynysoedd Balearig
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	Belarwsiyn
+Belgium ; Kingdom of Belgium	Gwlad Belg
+Belize	Belize
+Bengali ; Bengali	Bengaleg
+Bethlehem	Bethlehem
+Bhutan ; Kingdom of Bhutan	Bhwtan
+Birmingham	Birmingham
+Bolivia ; Republic of Bolivia	Bolifia
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosna a Hercegovina ; Bosnia a Hertsegofina ; Bosna-Hercegovina
+Bouvet Island	Ynys Bouvet
+Brazil	Brasil
+Breton ; Breton	Llydaweg ; llydaweg
+Brunei ; Negara Brunei Darussalam	Brunei
+Bulgaria ; Republic of Bulgaria	Bwlgaria
+Bulgarian ; Bulgarian	Bwlgaraidd
+Burundi ; Republic of Burundi	Bwrwndi
+Cambodia ; Kingdom of Cambodia	Cambodia
+Cameroon ; Republic of Cameroon	Camerŵn
+Canada	Canada
+Castilian ; Spanish ; Spanish	Sbaeneg
+Catalan ; Catalan	Catalaneg
+Chad ; Republic of Chad	Tchad
+Chile ; Republic of Chile	Chile
+Christmas tree	coeden Nadolig
+Colombia ; Republic of Colombia	Colombia
+Cornish	Cernyweg
+Croatian ; Croation	Croataidd
+Cuba ; Republic of Cuba	Cuba
+Cyprus ; Republic of Cyprus	Cyprus
+Czech ; Czech	Tsieceg
+Czech Republic ; Czechia	Gweriniaeth Tsiec
+Danish	Daneg
+December	Rhagfyr
+Definition ; definition	diffiniad
+Denmark ; Kingdom of Denmark	Denmarc
+Dutch	Iseldireg
+EU ; European Union	Undeb Ewropeaidd
+East Timor ; Democratic Republic of Timor-Leste	Dwyrain Timor
+Easter	Pasg
+Egypt ; Arab Republic of Egypt	Yr Aifft
+El Salvador ; Republic of El Salvador	El Salvador
+English	saesneg ; Saesneg
+Eritrea	Eritrea
+Estonia ; Republic of Estonia	Estonia
+Estonian	Estoneg
+Ethiopia ; Federal Democratic Republic of Ethiopia	Ethiopia
+Faroe Islands	Føroyar
+Faroese ; Faeroese	Ffaroes
+Fiji ; Republic of the Fiji Islands	Fiji
+Finland ; Republic of Finland	Ffindir
+Flanders ; Flemish region	Fflandrys
+France	Ffrainc
+French ; French	Ffrangeg
+French Revolution	y Chwyldro Ffrengig
+Frenchman	Ffrengig
+Frisian ; Western Frisian	Ffrisieg
+Gabon ; Gabonese Republic	Gabon
+Galician ; Galician	Galisaidd
+Georgia	Georgia
+Georgian ; Georgian	Djeyordjyin
+Germany ; Federal Republic of Germany	Німеччина
+Ghana ; Republic of Ghana	Ghana
+Greece ; Hellenic Republic	Groeg
+Greek ; Greek	Groeg
+Greenland	Grønland
+Gregorian calendar	calendr Gregori
+Guatemala ; Republic of Guatemala	Guatemala
+Gujarati ; Gujarati	Gwjarati
+Happy New Year	Blwyddyn Newydd Dda
+Hebrew	Hebraeg
+Hindi ; Hindi	hindi
+Holland ; Kingdom of the Netherlands ; The Netherlands	Yr Iseldiroedd
+Honduras ; Republic of Honduras	Honduras
+Hungarian	Hwngareg
+Hungary ; Republic of Hungary	Hwngari
+Iceland ; Republic of Iceland	Gwlad yr Iâ
+Icelandic	Islandeg
+India ; Republic of India	India
+Indonesia ; Republic of Indonesia	Indonesia
+Indonesian	Indonesieg
+Iran ; Islamic Republic of Iran	Irán
+Iraq ; Republic of Iraq	Irác
+Ireland ; Republic of Ireland	Iwerddon ; Gweriniaeth Iwerddon
+Israel ; State of Israel	Israel
+Italian ; Italian	Eidaleg
+Italian Republic ; Italy	Eidal
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Côte d'Ivoire
+Jamaica	Jamaica
+January	Ionawr
+Japan ; State of Japan	Japan
+Japanese ; Japanese	Siapaneg
+Jordan ; Hashemite Kingdom of Jordan	Gwlad Iorddonen
+Judaism	Iddewiaeth
+June	Mehefin
+Kazakhstan ; Republic of Kazakhstan	Kazakstan
+Kenya ; Republic of Kenya	Kenya
+Khartoum	Khartoum
+Kiribati ; Republic of Kiribati	Kiribati
+Kyrgyzstan ; Kyrgyz Republic	Kyrgyzstan
+Latin ; Latin	Lladin
+Latvia ; Republic of Latvia	Latfia
+Latvian ; Latvian	Latfieg
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	St Petersburg
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Lithuania ; Republic of Lithuania	Lithwania
+Lithuanian ; Lithuanian	Lithwaneg
+Macedonia ; Republic of Macedonia	Macedonia
+Macedonian ; Macedonian	Macedoneg
+Malawi ; Republic of Malaŵi	Malawi
+Malta ; Republic of Malta	Malta
+Maltese	Malteg
+Massachusetts	Massachusetts
+Mecca	Mecca
+Merry Christmas	Nadolig Llawen
+Monaco	Monaco
+Montenegro	Montenegro
+Morocco ; Kingdom of Morocco	Moroco
+Myanmar	Myanmar
+Namibia	Namibia
+Nepali ; Nepali	Nepali
+Neptune	Neifion
+New York	Efrog Newydd
+New Zealand	Seland Newydd
+Norway ; Kingdom of Norway	Norwy
+Novial	Novial
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Panama	Panamá
+People's Republic of China ; China	Tsieina
+Peru ; Republic of Peru	Periw
+Poland	Gwlad Pwyl
+Polish ; Polish	Pwyleg
+Portugal	Portiwgal
+Portuguese ; Portuguese	Portiwgaleg
+Punjabi ; Panjabi	Punjabi
+Qatar	Qatar
+Romania	Rwmania
+Romanian ; Romanaian	Rwmaneg
+Russian ; Russian	Rwsieg
+Sanskrit ; Sanskrit	Sansgrit
+Sapir–Whorf hypothesis	Damcaniaeth Sapir-Whorf ; Hypothesis Sapir-Whorf
+Saturn	Sadwrn
+Saudi Arabia ; Kingdom of Saudi Arabia	Saudi Arabia
+Seine	Afon Seine
+Senegal	Sénégal
+Serbia	Serbia
+Serbia and Montenegro	Serbia a Montenegro
+Slovak ; Slovak	Slofac
+Slovakia	Slofacia
+Slovene ; Slovenian ; Slovenian	Slofenia
+Spain	Sbaen
+Sri Lanka	Sri Lanka
+Sudan	Swdan
+Swedish	Swedeg
+Switzerland	Y Swistir
+Tagalog	Tagalogeg
+Taiwan	Taiwan
+Tamil ; Tamil	Tamoul
+Tanzania	Tanzania
+Thai ; Thai	Tai
+Togo	Togo
+Turkey	Twrci
+Turkish ; Turkish	Twrceg
+Uganda ; Republic of Uganda	Wganda
+Ukrainian ; Ukrainian	Iwcranaidd
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Y Deyrnas Unigol
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Unol Daleithiau America
+Uranus	Wranws
+Venezuela	Venezuela
+Venus	Gwener
+Vietnamese ; Vietnamese	Fietnameg
+Wales	Cymru
+Welsh ; Welsh	Cymraeg
+Wikipedia	Wicipedia
+Wiktionary	Wiciadur
+Zambia ; Republic of Zambia	Zambia
+Zimbabwe ; Republic of Zimbabwe	Zimbabwe
+Zulu	Swlw
+abasement	darostyngiad
+abbreviation	talfyriad
+account	cyfrif
+adoption	mabwysiad
+adventure	anturiaeth
+aggressive	gormesol
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agoraffobia
+alarm clock	cloc larwm
+alchemist	alcemydd
+almond	almon
+alongside ; amongst ; with	gyda
+aluminium	alwminiwm
+ambassador	llysgennad
+ambitious	uchelgeisiol
+ambulance	ambiwlans
+americium	americiwm
+amphitheatre	amffitheatr
+analogy	cydweddiad
+anarchy	anarchiaeth
+anchor	angor
+ant	morgrugyn
+antimony	antimoni
+apostle	apostol
+apple	afal
+aquarium	acwariwm
+archeologist ; archaeologist	archaeolegwr
+archer ; archer	saethydd
+architecture	pensaernïaeth
+argon	argon
+argument	ffrae ; cweryl
+armistice	cadoediad
+armpit	cesail
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	addasu ; cymhwyso
+arsenic	ársenig
+arsonist	llosgwr
+article	bannod
+asparagus	asbaragws
+aspirin	asbrin
+assumption ; supposition	tybiaeth
+asthma	asma
+astronomer	seryddwr
+astronomy	seryddiaeth
+atheist	anffyddiwr
+auction	ocsiwn
+avaricious	ariangar
+baboon	babwn
+bagpipes	pibau
+baker	pobydd
+ballot	etholiad
+banana	banana
+bankruptcy	methdaliad
+barley	haidd ; barlys
+barometer	baromedr
+beatification	gwynfydiad
+beaver	afanc ; llostlydan
+bed	gwely
+bee	gwenynen
+beekeeper ; apiculturist	gwenynwr
+beer	cwrw
+beryllium ; glucinium	beriliwm
+beverage ; drink	diod
+bicycle ; bike ; cycle	beic
+bile	beil
+biochemistry	biocemeg
+biodiversity	bioamrywiaeth
+birthday	pen blwydd
+bismuth	bismwth
+black ; dark	tywyll
+blackbird	mwyalchen
+blog ; weblog ; web log	blog
+blue	glas
+boat	cwch
+boron	boron
+boundary	ffin
+bread	bara
+breakfast	brecwast
+bromine	bromin
+cadmium	cadmiwm
+caesium	cesiwm
+caffeine	caffein
+calcium	calsiwm
+calligraphy	caligraffeg
+camouflage	cuddliw
+carbon	carbon
+carbon dioxide	carbon deuocsid
+career	gyrfa
+castle	caer
+category	categori
+celibacy	anghydweddogrwydd
+chapter	pennod
+chemist's ; chemist's shop ; pharmacy	fferyllfa
+chess	gwyddbwyll
+chimpanzee	tsimpansî
+chlorine	clorin
+chocolate	siocled
+cigarette	sigarét ; sigaret
+clarinet	clarinét
+cloud	cwmwl
+cobalt	cobalt
+come	dod ; dyfod
+communism	comiwnyddiaeth
+condom ; prophylactic ; rubber ; safe ; safety	condom
+consideration	ystyriaeth
+consonant	cytsain
+constellation	cytser
+copper	copr
+corruption	llygredd
+cow	buwch
+creativity ; inventiveness	creadigrwydd
+deaf	byddar
+death penalty ; capital punishment ; death sentence	cosb marwolaeth
+decision	penderfyniad
+declaration ; statement	datganiad
+defendant ; accused	diffynnydd
+deliver	esgor
+demography	demograffeg
+dentist	deintydd
+diarrhea	dolur rhydd
+dictionary	geiriadur
+diocese ; diocese	esgobaeth
+diplomat	diplomydd
+discount	gostyngiad
+disinfectant	diheintydd
+divorce	ysgariad
+dog	ci
+dolphin	dolffin
+donation	cyfraniad
+door	drws
+dromedary	camel rhedeg
+drum kit	drymiau
+duck	hwyad ; hwyaden
+early	cynnar
+easy ; piece of cake ; like shooting fish in a barrel	rhwydd ; hawdd
+effort ; exertion	ymdrech
+einsteinium	einsteiniwm
+ejaculation	ffrydiad had
+emergency	argyfwng
+ephemeral	byrhoedlog
+equation	hafaliad
+equator	cyhydedd
+europium	ewropiwm
+executioner	dienyddiwr
+explosion	ffrwydrad
+eye	llygad
+fat ; obese	gordew
+first	cyntaf
+flint ; flintstone	callestr
+fluorine	fflworin
+flute	Ffliwt ; ffliwt
+foreign	estron
+fossil	ffosil
+fracture	toriad
+francium	ffransiwm
+freedom ; liberty	rhyddid
+full	llawn
+fundamental	sylfaenol
+gadolinium	gadoliniwm
+gallium	galiwm
+gangrene	madredd
+garage	garej
+gardener	garddwr
+gastrointestinal tract ; alimentary canal	system dreulio
+geography	daearyddiaeth
+geranium	mynawyd y bugail
+germanium	germaniwm
+gold	aur
+golf	golff
+gong	gong
+goose	gwÿdd
+gorilla	gorila
+grandson	ŵyr
+guinea pig	mochyn cwta
+gull	gwylan
+haemorrhage ; bleeding	gwaedlif
+hafnium	haffniwm
+heathen ; infidel ; pagan	pagano
+hedgehog	draenog
+helium	heliwm
+herbivore ; plant eater	llysysydd
+heron	crëyr
+hierarchy	hierarchiaeth
+holmium	holmiwm
+home ; home ; house	annedd
+honey	mel
+hope	gobaith
+horizon	gorwel
+hormone	hormon
+horse	ceffyl
+hostage	gwystl
+hour	awr
+huckleberry ; blueberry	llusen
+hydrogen	hydrogen
+ice	iâ
+iceberg	eisberg
+ideology	ideoleg
+illiterate	anllythrennog
+independence	annibyniaeth
+indium	indiwm
+individual	unigolyn
+influenza ; flu	ffliw
+instrument ; musical instrument	offeryn cerdd
+iodine	ïodin
+iridium	iridiwm
+iron	haearn
+jackal	jacal
+jade	jad
+jazz	jazz
+joint ; articulation	cymal
+journalist	newyddiadurwr
+kettle	tegell
+knight ; knight	marchog
+krypton	krupton
+lantern	lantern
+lanthanum	lanthanwm
+lavender ; lavander	lafant
+lawrencium	lawrenciwm
+lead	plwm
+leap year	blwyddyn naid
+librarian	llyfrgellydd
+library	llyfrgell
+limestone	calchfaen
+lipstick	lipstic
+lithium	lithiwm
+locomotive	locomotif
+lottery	loteri
+lubricant	iraid
+lumberjack	cymynwr
+lutetium	lwtetiwm
+magnesium	magnesiwm
+malaria	malaria
+manganese	manganîs
+mendelevium	mendelefiwm
+mercury	mercwri
+metronome	metronom
+microphone	microffon ; meicroffon
+milk	llaeth ; llefrith
+minute	munud
+mistral	mistral
+molybdenum	molybdenwm
+music	cerddoriaeth
+musquito ; mosquito	mosgito
+mysterious	cyfriniol
+nadir	nadir
+nappy	cewyn
+neighbour ; vecino	cymydog
+neodymium	neodymiwm
+neon	neon
+neptunium	neptwniwm
+niobium	niobiwm
+nitrogen	nitrogen
+nobelium	nobeliwm
+nostril	ffroen
+nutcracker	malwr cnau
+observation	sylw
+observatory	arsyllfa
+obstacle ; obstruction	rhwystr
+official language	iaith swyddogol
+onion	winwynsyn
+opium	opiwm
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimistiaeth
+orchestra	cerddorfawe
+orchid	tegeirian
+orphan	amddifad
+osmium	osmiwm
+ostrich	estrys
+ovary	Ofari ; ofari
+oxygen	ócsigen
+pacifist	heddychwr
+paediatrician	pediatrydd
+palaeontology	paleontoleg
+palladium	paladiwm
+parachute	parasiwt
+penguin	pengwin
+people	pobl
+perineum	perinëwm
+pessmism	pesimistiaeth
+petition	deiseb
+pheasant	ffesant
+philosophy	athroniaeth
+phone ; telephone	ffôn
+phonetics	seineg
+phosphorus	ffosfforws
+photo ; photograph	llun ; ffotograff ; ffoto
+pigeon ; dove	colomen
+pino ; pine	pinwydden
+place ; location	lle ; llecyn ; man ; mangre
+platinum	platinwm
+platitude ; cliche ; cliché	ystrydeb
+plutonium ; plutonium ; plutonium	plwtoniwm ; plwtoniwm ; plwtoniwm
+pollution	llygredd
+pomegranate	grawnafal
+porcelain	porslen
+possession	meddiant ; perchnogaeth
+post office	swyddfa'r post
+postman	postmon
+praseodymium	praseodiwm
+pregnancy	beichiogiad
+prelate	prelad
+prime number ; prime	rhif cysefin
+problem	problem
+pronunciation	ynganiad
+property ; asset	eiddo
+prostate	prostad
+protactinium	protoactiniwm
+queen	brenhines
+rabbit	cwningen
+rainbow	enfys
+recipe	rysáit
+religion	crefydd
+rhenium	rheniwm
+rhodium	rhodiwm
+rice	reis
+rosary	llaswyr
+rubidium	rwbidiwm
+ruby	rhuddem
+ruthenium	rwtheniwm
+rutherfordium	rutherffordiwm
+salmon	eog
+samarium	samariwm
+scandium	scandiwm
+screwdriver	tyrnsgriw
+secret	cyfrin ; dirgel
+sheep	dafad
+shepherd	bugail
+silicon	silicon
+silk	sidan
+silver	arian
+skull	penglog
+slipper	sliper ; llopan
+smile	gwên
+sodium	sodiwm
+species	rhywiogaeth
+spider	corryn
+spring	gwanwyn
+star	seren
+storm ; tempest	storm ; ystorm
+story	stori
+strategic	strategol
+strontium	strontiwm
+sulphur	sylffwr
+supermarket	archfarchnad
+surgeon	llawfeddyg
+surprise	synnu
+syndrome	sindrom
+syntax	cystrawen
+syringe	chwistrell
+tadpole ; polliwog	penbwl
+tantalum	tantalwm
+tea	te
+technetium	technetiwm
+terrorism	brawychaeth ; terfysgaeth
+terrorist	brawychwr ; terfysgwr
+thallium	thaliwm
+thank you	diolch
+theocracy	theocrataeth
+theology	diwinyddiaeth
+therapy	therapi
+thermodynamics	thermodynameg
+thirst	syched
+thousand	mil
+thunder	taran
+timezone	cylchfa amser
+tin	tun
+titanium	titaniwm
+tomato	tomato
+traditional	traddodiadol
+train	trên
+translation	cyfieithiad ; trosiad
+tree	coeden
+trigonometry	trigonometreg
+trophy	tlws
+tropics ; torrid zone	trofannau
+tunafish	tiwna
+tungsten	twngsten
+tunnel	ceuffordd ; twnnel
+turkey	twrci
+twin	gefell
+university ; university ; academy	prifysgol ; prifysgol
+vaccination	brechiad
+valuable	gwerthfawr
+vegetable	llysieuyn
+verb	berf
+veteran	feteran
+veterinarian ; veterinary	milfeddyg
+vineyard	gwinllan
+voltage	foltedd
+walrus	walrws
+water	dwfr ; dŵr
+web ; spider web	gwe pryf cop
+whale	morfil
+wheat	gwenith
+wheelchair	cadair olwyn
+wiki	wici
+window	ffenestr
+witness	tyst
+wizard ; sorcerer ; magician	dewin
+wood	coed
+word	gair
+xenon	senon
+yacht	iot
+zinc	sinc
+zodiac	sidydd

@@ -1,0 +1,74 @@
+﻿English	Swedish
+about	överallt
+above	över
+again	igen
+almost	nästan
+along	längs
+already	redan
+always	alltid
+approximately	tillnärmelsevis
+as	som
+before	innan
+behind	bakom
+between	mellan
+by	längs
+directly	direkt
+down	ner
+early	tidigt
+either	bägge
+enough	tillräckligt
+exactly	exakt
+finally	till sist
+first	först
+forward	fram
+generally	allmänt
+here	här
+here	här
+however	emellertid
+immediately	genast
+in	i
+indeed	tusen
+inside	in
+instead	i stället
+late	sent
+later	efter
+least	minst
+little	lite
+merely	bara
+more	flera
+never	aldrig
+not	inte
+now	nu
+obviously	tydligen
+often	ofta
+once	en gång
+outside	ute
+particularly	speciellt
+possibly	kanske
+probably	förmodligen
+quickly	fort
+really	verkligen
+really	verkligen
+recently	nyligen
+slowly	sakta
+so	så
+solely	allena
+sometimes	ibland
+soon	kort
+still	ännu
+such	så
+suddenly	plötsligt
+surely	bestämt
+then	sedan
+there	där
+therefore	följaktligen
+today	i dag
+together	tillsammans
+tomorrow	i morgon
+tonight	i kväll
+too	även
+up	uppför
+usually	i vanliga fall
+very	verkligt
+well	bra
+why	varför

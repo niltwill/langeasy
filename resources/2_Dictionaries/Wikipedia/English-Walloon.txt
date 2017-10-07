@@ -1,0 +1,627 @@
+English	Walloon
+1728	1728
+1750s	Anêyes 1750
+1760s	Anêyes 1760
+1770s	Anêyes 1770
+1780s	Anêyes 1780
+1790s	Anêyes 1790
+1820s	Anêyes 1820
+1830s	Anêyes 1830
+1840s	Anêyes 1840
+1850s	Anêyes 1850
+1860s	Anêyes 1860
+1870s	Anêyes 1870
+1880s	Anêyes 1880
+1890s	Anêyes 1890
+1900s	Anêyes 1900
+1920s	Anêyes 1920
+1930s	Anêyes 1930
+1940s	Anêyes 1940
+1950s	Anêyes 1950
+1960s	Anêyes 1960
+1970s	Anêyes 1970
+1980s	Anêyes 1980
+1990s	Anêyes 1990
+A cappella	Emey tchapele
+Aachen	Åxhe
+Acacia	Acacia
+Acts of the Apostles	Ouve des Apoisses
+Adam	Adan
+Adjective	Addjectif
+Adolf Hitler	Adolf Hitler
+Adoption	Adoptaedje d' efants
+Advent	Avéns
+Adverb	Adviebe
+Africa	Afrike
+Agriculture	Agricoûteure
+Agriculture	Categoreye:Agricoûteure
+Algeria	Aldjereye
+Algeria	Categoreye:Aldjereye
+Algorithm	Algorisse
+Ali	Ali (calife)
+Almanac	Årmonak
+Alphabet	Alfabet
+Amanita muscaria	Amanite touwe-moxhe
+Amanita phalloides	Tchapea d' macrale
+Amphibian	Glumiantès biesses
+Anatidae	Åwidîs
+Antarctica	Antartike
+Antichrist	Antécri
+Aphorism	Pinsêye (sicrijhaedje)
+Apple	Peme
+April	Avri
+April 14	14 d' avri
+Arabic alphabet	Alfabet arabe
+Arabic language	Arabe
+Aral Sea	Mer d' Aral
+Archaeology	Arkeyolodjeye
+Arctic Circle	Ceke polaire artike
+Arctic Ocean	Oceyan Artike
+Ardennes	Årdene
+Ardennes (department)	Depårtumint des Årdenes
+Arecaceae	Pålmî
+Armenian language	Årmenyin
+Art	Årt
+Arts	Categoreye:Årts
+Asia	Categoreye:Azeye
+Aspirin	Aspirene
+Asteraceae	Stoelacêyes
+Asthma	Coûtresse d' alinne
+Astronomy	Astronomeye
+Astronomy	Categoreye:Astronomeye
+Atlantic Ocean	Oceyan Atlantike
+Auction	Håsse (vinte)
+August	Awousse
+August 1	1î d' awousse
+August 15	15 d' awousse
+August 6	6 d' awousse
+Augustus	Impreur Ågusse
+Author	Scrijheu
+Autism	Otisse
+Autumn	Waeyén-tins
+Bacteria	Bactereye
+Balalaika	Balalayca
+Baptism	Bateme
+Barbados	Barbåde
+Barley	Oidje
+Basidiomycota	Bassidiomicete
+Battle of the Bulge	Ofinsive da Von Rundstedt
+Beech	Faw
+Beer	Bire
+Belgium	Beldjike
+Belgium	Categoreye:Beldjike
+Bell (instrument)	Clotche
+Bible	Categoreye:Bibe
+Bicycle	Biciclete
+Biology	Categoreye:Biyolodjeye
+Birch	Beyôle
+Bird	Oujhea
+Blackbird	Måvi
+Blog	Waibe-blok
+Blues	Blouze
+Boletus edulis	Magnåve bolet
+Book	Live (po lére)
+Brassicaceae	Cabutreces
+Brazil	Braezi
+Bread	Pwin
+Brussels	Brussele (veye)
+Buckwheat	Boûkete
+Bulgaria	Bulgåreye
+Bulgaria	Categoreye:Bulgåreye
+Butterfly	Påwion
+Caesium	Ceziom
+Cairo	El Caire
+Cake	Wastea
+California	Californeye
+Calligraphy	Caligrafeye
+Canada	Categoreye:Canada
+Cancer	Magnant må
+Canidae	Tchinidîs
+Cannon	Canon (del guere)
+Carbon	Carbone
+Carbon dioxide	Diyocside di carbone
+Caricature	Caricateure
+Carnival	Mascaråde
+Carnivore	Magneu d' tchå
+Cast iron	Scroufier
+Cat	Tchet
+Catholicism	Catolicisse
+Cattle	Bovrins
+Cemetery	Aite
+Chad	Tchad
+Charlemagne	Tchårlumagne
+Charleroi	Tchålerwè
+Charles Darwin	Charles Darwin
+Cheetah	Guepard
+Cheque	Tcheke (di banke)
+Cherry	Ceréjhe
+Chiang Kai-shek	Tchiang Kay Chek
+Chickpea	Poes d' souke
+Chlorophyll	Clorofile
+Christianity	Crustinnisse
+Christianity	Categoreye:Crustinnisse
+Christmas	Noyé
+Christmas	Categoreye:Noyé
+Church (building)	Eglijhe (bastimint)
+Church of England	Eglijhe anglicane
+Civil war	Guere civile
+Classical music	Muzike classike
+Climate	Categoreye:Climat
+Clothing	Categoreye:Mousseures
+Clove	Djirofe
+Coal	Hoye
+Coin	Pîce di manoye
+Color	Coleur
+Comedy	Comedeye
+Commonwealth of Independent States	CDP
+Communication	Categoreye:atôtchance
+Composer	Compôzeu d' muzike
+Computer	Copiutrece
+Congo	Congo
+Consonant	Cossoune
+Constellation	Sitoelreye
+Constitution (political)	Mwaisse lwè
+Continent	Continint
+Copyright	Abondroet d' oteur
+Cougar	Puma
+Cricket (insect)	Crikion
+Crimea	Crimêye
+Crow	Coirbå
+Cuba	Categoreye:Cuba
+Curitiba	Curitiba
+Currency	Categoreye:Manoyes
+Dance	Danse
+Dance	Categoreye:Danse
+Date Palm	Pålmî ås dates
+Death	Categoreye:Moirt
+December	Decimbe
+December 31	31 di decimbe
+December 8	8 di decimbe
+Democratic Republic of the Congo	Republike democratike do Congo
+Democratic Republic of the Congo	Categoreye:Congo (Kinshasa)
+Diacritic	Diyacritike
+Dialect	Diyaleke
+Dictionary	Motî
+Dionysus	Diyonizosse
+Disambiguation	Categoreye:Omonimeye
+Dmitri Mendeleev	Dmitriy Ivanovitch Mendeleyev
+Dog	tchén
+Donkey	Ågne
+E-mail	Emile
+ETA	ETA
+Earth	Daegne
+Earthquake	Tronnmint d' tere
+East	Levant (costé del Daegne)
+Easter	Påke
+Ecology	Categoreye:Ecolodjeye
+Eel	Anweye
+Egypt	Edjipe
+Encyclopedia	Eciclopedeye
+Energy	Categoreye:Enerdjeye
+Engineering	Categoreye:Indjenioreye
+Epic poetry	epopêye
+Epicurus	Epicure
+Epidemiology	Minêyolodjince
+Esperanto	Esperanto
+Etymology	Etimolodjeye
+Eukaryote	Eucariote
+Euphrates	Ufrate (aiwe)
+Eurasian Badger	Taesson
+Euro	Motî:euro
+Europe	Urope
+Europe	Categoreye:Urope
+European Magpie	Agaesse
+European Union	Union Uropeyinne
+Fabaceae	Legumineuses
+Fable	Fåve di djåzantès biesses
+Fairy tale	Floriconte
+Falcon	Fåcon
+Family name	No d' famile
+February	Fevrî
+February 12	12 di fevrî
+February 14	14 di fevrî
+February 2	2 d' fevrî
+February 22	22 d' fevrî
+February 29	29 di fevrî
+Felidae	Tchetidîs
+Feminism	Feminisse
+Fern	Fetchire
+Fever	Five
+Film	Categoreye:Cinema
+Film	Fime
+Finland	Finlande
+First Crusade	Prumire croejhåde
+Flag	Drapea
+Flamenco	Flamenco
+Flood	Grossès aiwes
+Flour	Farene
+Folklore	Foclore
+Foot (unit of length)	Pî (unité)
+Football (soccer)	Fotbale
+Football (soccer)	Categoreye:Fotbale
+Fox	Rinåd
+France	France
+France	Categoreye:France
+Francium	Franciom
+Franco-Prussian War	Guere di 1870
+Friday	Vénrdi
+Frog	Rinne (biesse)
+Fungus	Tchampion
+Fyodor Dostoevsky	Fyodor Mixhaylovitch Dostoyevskiy
+Garlic	A (plante)
+Gaul	Gåle
+Gautama Buddha	Gotama Bouda
+Genesis	Djeneze
+Genocide	Djenocide
+Genocide	Categoreye:Djenocides
+Geography	Djeyografeye
+Geography	Categoreye:Djeyografeye
+Geology	Categoreye:Djeyolodjeye
+Geology	Djeyolodjeye
+Georges Simenon	Georges Simenon
+German language	Almand
+Germany	Almagne
+Germany	Categoreye:Almagne
+Ghana	Gana
+Ghana	Categoreye:Gana
+Gibraltar	Djibraltar
+Glacier	Glaecî
+Good Friday	Bon vénrdi
+Google	Google
+Gospel	Evandjîle
+Grammar	Croejhete (linwince)
+Gray Wolf	Leu
+Greece	Categoreye:Grece
+Greek alphabet	Alfabet grek
+Greek mythology	Categoreye:Mitolodjeye greke
+Greenwich Mean Time	Eure del Coistrece di Greenwich
+Gregorian calendar	Calindrî grigoryin
+Guangdong	Gouangdong
+Guillaume Apollinaire	Guillaume Apollinaire
+Gull	Måwete
+Haiku	Haycou
+Harmonica	Muzike a boke
+Harp	Harpe
+Hebei	Hebei
+Hinduism	Indouwisse
+Hobby	Pasmint d' tins
+Holiday	Fiesse
+Holy Roman Empire	Sint Impire Romin Djermanike
+Holy Spirit	Sint Esprit
+Horse	Tchivå
+Hour	Eure
+House Sparrow	Moxhon d' toet
+Hunan	Hunan
+Hydrogen	Idrodjinne
+Independence	Dislaxhaedje (politike)
+India	Inde
+India	Categoreye:Inde
+Indian Ocean	Oceyan Indyin
+Influenza	Virûsse del gripe
+Insect	Inseke
+Internet	Daegntoele
+Invertebrate	Incronzoxhî
+Irtysh River	Irtish (aiwe)
+Isadora Duncan	Isadora Duncan
+Islam	Islam
+Israel	Israyel (estat)
+Israel	Categoreye:Israyel (estat)
+Italy	Itåleye
+Jackdaw	Tchawe (Corvus monedula)
+Jacob	Djåcob
+January	Djanvî
+January 1	1î d' djanvî
+January 19	19 di djanvî
+January 20	20 d' djanvî
+January 6	6 di djanvî
+Japan	Categoreye:Djapon
+Jean de La Fontaine	Jean de La Fontaine
+Jerusalem	Djeruzalem
+Johannes Gutenberg	Johannes Gutenberg
+Jordan River	Djordin (aiwe)
+Journalist	Gaztî
+Judaism	Categoreye:Djudayisse
+Julius Caesar	Djule Cezår
+July	Djulete
+July 1	1î d' djulete
+July 4	4 di djulete
+June	Djun
+June 14	14 di djun
+June 21	21 di djun
+June 23	23 d' djun
+June 24	24 di djun
+June 29	29 di djun
+June 3	3 d' djun
+Katowice	Katowice
+Kazakhstan	Categoreye:Kazaxhtan
+Kiwi	Kiwi (oujhea)
+Lamiaceae	Polurêyes
+Language	Lingaedje
+Latin	Latén
+Leap year	Anêye bizete
+Legend	Fåve do vî vî tins
+Lever	Djîsse (levî)
+Library	Bibioteke
+Lichen	Liken
+Light	Loumire
+Liliaceae	Feudlissêyes
+Linguistics	Linwince
+Linguistics	Categoreye:Linwince
+Literature	Belès letes
+Lithium	Litiom
+Lithuania	Litwaneye
+Lithuania	Categoreye:Litwaneye
+Loanword	Calcaedje (linwince)
+Logic	Lodjike
+Logo	Imådjete
+Luxembourg	Grande-Dutcheye do Lussimbork
+Luxembourg	Categoreye:Lussimbork
+Luxembourg (city)	Lussimbork veye
+Magazine	Rivowe
+Maize	Dinrêye
+Malta	Male
+Malta	Categoreye:Male
+Maltese language	Maltès
+Mammal	Biesse ås tetes
+Mandarin (linguistics)	Mandarin
+Mao Zedong	Mao Tsétoung
+March	Måss (moes)
+March 17	17 di måss
+March 19	19 di måss
+March 2	2 d' måss
+March 25	25 di måss
+Marriage	Mariaedje
+Mars (disambiguation)	Måss
+Mary (mother of Jesus)	Motî:Aviedje
+Mass (liturgy)	Messe
+Mathematics	Categoreye:Matematike
+Mauritania	Moritanreye
+Mauritania	Categoreye:Moritanreye
+May	May
+May 1	1î d' may
+May 24	24 di may
+Mayfly	Waermaye
+Mechanics	Categoreye:Mecanike
+Medicine	Medcene
+Mediterranean Sea	Mîtrinne Mer
+Meteorology	Categoreye:Meteyo
+Meteorology	Meteyorolodjeye
+Meuse River	Mouze
+Microbiology	Categoreye:Microbiyolodjeye
+Middle Ages	Moyinådje
+Mikhail Gorbachev	Mixhail Sergeyevitch Gorbatchyov
+Military	Categoreye:Gueres et årmêyes
+Milk	Laecea
+Milky Way	Voye Sint-Djåke
+Monday	Londi
+Mons	Mont
+Moon	Lune
+Morocco	Marok
+Morocco	Categoreye:Marok
+Morpheme	Morfinme
+Moscow	Moscou
+Moss	Mossirea
+Mother's Day	Fiesse des mames
+Mountain pass	Passåjhe
+Mule	Moulet
+Mushroom	Tchampion
+Music	Muzike
+Music	Categoreye:Muzike
+Mustelidae	Bascolidîs
+Mycology	Micolodjeye
+Nahuatl	Nawatl
+Nail (fastener)	Clå
+Namibia	Categoreye:Namibeye
+Namur (city)	Nameur
+National anthem	Ime nåcionå
+Neologism	Noûmot
+Netherlands	Bas Payis
+Netherlands	Categoreye:Bas Payis
+New Zealand	Nouve Zelande
+New Zealand	Categoreye:Nouve Zelande
+Nigeria	Nidjeria
+Nigeria	Categoreye:Nidjeria
+Nijmegen	Nîmegue
+North	Bijhe (costé del Daegne)
+North Africa	Afrike bijhrece
+Norway	Norvedje
+Norway	Categoreye:Norvedje
+Novel	Roman
+November	Nôvimbe
+November 1	1î d' nôvimbe
+November 11	11 di nôvimbe
+November 2	2 d' nôvimbe
+November 5	5 di nôvimbe
+Nuclear power	Enerdjeye nawearinne
+Numismatics	Manoyince
+Oak	Tchinne (åbe)
+Oat	Avoenne
+Obesity	Fornourixhaedje
+Ocean	Oceyan
+October	Octôbe
+October 12	12 d' octôbe
+October 24	24 d' octôbe
+Odonata	Damjheles et monsieus (odonates)
+Olympic Games	Djeus olimpikes
+Olympics	Categoreye:Djeus olimpikes
+Opera	Operå
+Oregano	Såvaedje mariolinne
+Orthography	Ortografeye
+Otto von Bismarck	Otto von Bismarck
+Pablo Neruda	Pablo Neruda
+Pacific Ocean	Oceyan Pacifike
+Painting	Categoreye:Pondeure
+Paleozoic	Paleyozoyike
+Palestine	Palestene (contrêye)
+Palestine	Categoreye:Palestene
+Palm Sunday	Floreye Påke
+Pangaea	Pandjêye
+Peace	Påye
+Peach	Pexhî
+Pear	Poere
+Peat	Troufe
+Pentecost	Céncweme
+People	Categoreye:Rilomêyès djins
+Periodic table	Tåvlea periodike des elemints
+Petroleum	Petrole
+Philosophy	Filozofeye
+Philosophy	Categoreye:Filozofeye
+Phoneme	Oyon (linwince)
+Pixel	Picsel
+Planet	Bole (astronomeye)
+Plato	Platon
+Poaceae	Fenaesses
+Poetry	Powezeye
+Poetry	Categoreye:Powezeye
+Politics	Categoreye:Politike
+Pollution	Mannixhance
+Port	Pôrt (ås bateas)
+Portugal	Portugal
+Portugal	Categoreye:Portugal
+Postal code	Limero del posse
+Potassium	Potassiom
+Potato	Crompire
+Pregnancy	Pôzicion (comere)
+Primates	Categoreye:Séndjes
+Prison	Prijhon
+Pronoun	Prono
+Prose	Prôze
+Protozoa	Protozowaire
+Psalms	Såme (priyire)
+Pseudonym	Fås no
+Psychology	Categoreye:Sicolodjeye
+Punctuation	Sene di pontiaedje
+Quince	Poere di cwin
+Ra	Diè Ra
+Rapeseed	Golzå
+Raspberry	Amponî
+Red dwarf	Rodje ninte
+Religion	Rilidjons
+Religion	Categoreye:Rilidjons
+Reproduction	Mopliyaedje
+Republic of Ireland	Irlande
+Revolution	Revintreye
+Road	Voye
+Roald Amundsen	Roald Amundsen
+Rodent	Rawiant
+Roman mythology	Mitolodjeye rominne
+Roman mythology	Categoreye:Mitolodjeye rominne
+Romania	Roumaneye
+Romania	Categoreye:Roumaneye
+Romansh	Roumantche
+Romanticism	Romantisse
+Rosaceae	Rôzacêyes
+Rubidium	Rubidiom
+Rubus idaeus	Amponî
+Russia	Rûsseye
+Russia	Categoreye:Rûsseye
+Rye	Swele
+Sahara	Sara
+Saint	Sint
+Saint Petersburg	Sint Petersbork
+Salamander	Ecawêyès glumiantès biesses
+Santos (Săo Paulo)	Santos
+Saturday	Semdi
+Scheldt	Escô
+Science	Syince
+Science	Categoreye:Syinces
+Scorpion	Scoirpion
+Scottish Gaelic	Escôswès
+Sea	Mer
+Season	Såjhon
+Senegal	Senegal
+September	Setimbe
+September 11	11 di setimbe
+September 17	17 di setimbe
+September 29	29 di setimbe
+Shrub	Bouxhon
+Siberia	Sibereye
+Sichuan	Sichouan
+Single (music)	Mierplake
+Society of Jesus	Ôre des Djezwites
+Sociolinguistics	Sociolinwince
+Socrates	Socrate
+Sodium	Sodiom
+Software	Categoreye:Programes infôrmatikes
+Solanaceae	Crompiracêyes
+Solar System	Sistinme solrece
+Solar System	Categoreye:Sistinme solrece
+Song	Tchanson
+Sonnet	Xhiltea
+South	Sud
+Spain	Categoreye:Espagne
+Spam (electronic)	Spamaedje
+Spanish Civil War	Guere civile espagnole
+Spring (season)	Bontins
+Star	Sitoele
+Strait of Gibraltar	Sitroet d' Djibraltar
+Stub	Modele:Djermon
+Sugar	Souke
+Sumo	Sumô
+Sunday	Dimegne
+Sundial	Cwadran solaire
+Surgery	Categoreye:Cérudjeye
+Sweden	Categoreye:Suwede
+Synonym	Sinonimeye
+Syntax	Adjinçaedje del fråze
+Taekwondo	Taekwondo
+Tank	Tank
+Tanzania	Categoreye:Tanzaneye
+Taste	Sawoura
+Taxation	Categoreye:Taeyes (economeye)
+Telephone	Telefone
+Television	Categoreye:Televuzion
+Terrorism	Terorisse
+Theatre	Categoreye:Teyåte
+Thursday	Djudi
+Thyme	Pilé (plante)
+Tissue (biology)	Texhou
+Torture	Margougnaedje des prijhnîs
+Tourism	Tourisse
+Toy	Djouwet
+Train	Trén
+Transportation	Categoreye:Transpôrt
+Transylvania	Zivenbork
+Treaty	Cossina
+Truth	Vraiye
+Tuberculosis	Pitizeye des djins
+Tuesday	Mårdi
+Tunisia	Tunizeye
+Ukraine	Oucrinne
+Ukraine	Categoreye:Oucrinne
+Unemployment	Tchômaedje
+United Nations	Organizåcion des Nåcions uneyes
+United States	Estats Unis
+United States	Categoreye:Estats Unis
+Ursa Major	Tchår Pôcet (sitoelreye)
+Vertebra	Cronzoxh
+Vertebrate	Cronzoxhî
+Vietnam	Vietnam
+Vietnam	Categoreye:Vietnam
+Vincent van Gogh	Vincent van Gogh
+Virus	virûsse
+Vomiting	Rivômixhaedje
+Vowel	Voyale
+War	Guere
+War	Categoreye:gueres
+Wart	Porea (maladeye)
+Web browser	Betchteu waibe
+Website	Waibe (Daegntoele)
+Wednesday	Mierkidi
+Werewolf	Leu-waerou
+West	Coûtchant (costé del Daegne)
+West Africa	Afrike coûtchantrece
+Western Sahara	Sara coûtchantrece
+Western Sahara	Categoreye:Sara coûtchantrece
+Wheat	Frumint
+Wheel	Rowe (mecanike)
+Wildcat	Tchet d' bwès
+Winter	Ivier
+World War I	Prumire guere daegnrece
+World War I	Categoreye:Guere di 1914-1918
+World War II	Deujhinme guere daegnrece
+Yangtze River	Yangtzé
+Yard	Vedje canadyinne
+Yeast	Yesse
+Yunnan	Younnan
+Zionism	Siyonisse

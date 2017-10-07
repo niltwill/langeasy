@@ -1,0 +1,1902 @@
+Basque	English
+Hartutako Inmuno Eskasiaren Sindromea	AIDS
+Abel	Abel
+Abidjan	Abidjan
+abkhaziar	Abkhaz
+Abarran	Abraham
+Abarran	Abram
+Akeronte	Acheron
+Akil	Achilles
+Adolba	Adolph
+Egidio	Aegidius
+afariko	Afar
+afganistandar	Afghan
+Afganistan	Afghanistan
+Afrika	Africa
+afrikaner	Afrikaans
+Agate	Agatha
+Añes	Agnes
+ainuiko	Ainu
+Alain	Alan
+Albania	Albania
+albaniar	Albanian
+Alberta	Albert
+Albin	Albin
+Alesander	Alexander
+Aljeria	Algeria
+Amerika	America
+bisonte amerikar	American bison
+Amsterdam	Amsterdam
+Andorra	Andorra
+andorratar	Andorran
+Ander	Andrew
+Angkor Wat	Angkor Wat
+Angola	Angola
+Ankara	Ankara
+Antartika	Antarctica
+Antton	Anthony
+apiril	April
+Akitania	Aquitaine
+Egiptoko Arabiar Errepublika	Arab Republic of Egypt
+arabiar	Arabian
+arabiar	Arabic
+aragoar	Aragonese
+Argentina	Argentina
+Argonautak	Argonaut
+Armenia	Armenia
+armeniar	Armenian
+Eñaut	Arnold
+Asia	Asia
+asturiera	Asturian
+Atenas	Athens
+abuztu	August
+Australia	Australia
+#Basque'Austria	Austria
+austriar	Austrian
+aimara	Aymara
+Azerbaijan	Azerbaijan
+azerbaijandar	Azeri
+Baku	Baku
+Balear Uharteak	Balearic Islands
+Itsaso Baltikoa, Baltiar Itsasoa	Baltic Sea
+bambara	Bambara
+Bartolome	Bartholomew
+euskal	Basque
+Euskadi	Basque Country
+euskal artzain txakurra	Basque Shepherd Dog
+Bielorrusia	Belarus
+bielorrusiar	Belarusian
+belgikar	Belgian
+Belgika	Belgium
+bengalera	Bengali
+Berlin#Basque'Berlin	Berlin
+Berna	Bern
+Itsaso Beltza	Black Sea
+Bosnia	Bosnia
+Bosnia-Herzegovina	Bosnia and Herzegovina
+bosniar	Bosnian
+Bosforo itsasartea	Bosphorus
+bretoi	Breton
+Brusela	Brussels
+Bulgaria	Bulgaria
+bulgariar	Bulgarian
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Bizantziar Inperioa	Byzantine Empire
+Bizantzio	Byzantium
+Kamerun	Cameroon
+Kanada	Canada
+Kartago	Carthage
+kataluniar; katalan	Catalan
+Katalunia	Catalonia
+katolizismo	Catholicism
+Kaukaso	Caucasus
+Txetxenia	Chechnya
+Txernobyl	Chernobyl
+Txina	China
+txinera	Chinese
+Eguberri	Christmas
+Kristobal	Christopher
+Errauskine; Maria Errauskin	Cinderella
+Coca-Cola	Coca
+Konstantinopolis	Constantinople
+Kopenhage	Copenhagen
+korsikera	Corsican
+Kroazia	Croatia
+kroaziar	Croatian
+Zipre	Cyprus
+txekiar	Czech
+daniar	Dane
+daniar	Danish
+abendu	December
+Danimarka	Denmark
+diaspora	Diaspora
+nederlandar; herbeheretar; holandar	Dutch
+Lurra	Earth
+Ekialdeko Europa	Eastern Europe
+Edmonton	Edmonton
+Imanol	Emmanuel
+Ingalaterra	England
+ingeles	English
+Eperna	Ephraim
+esperanto	Esperanto
+Estonia	Estonia
+estoniar	Estonian
+Europa	Europa
+Europa	Europe
+bisonte europar	European bison
+Txit	Excellency
+MJEO	FYROM
+Faroeak	Faroe Islands
+faroera	Faroese
+otsail	February
+Finlandia	Finland
+finlandiar	Finn
+finlandiar	Finnish
+Frantzia	France
+Frantzizko, Patxi	Francis
+Frederiko	Frederick
+frantziar; frantses	French
+ostiral	Friday
+G puntu	G
+BPG	GDP
+galiziar	Galician
+Gaza	Gaza Strip
+Gorka '(form invented by Sabino Arana)', Jurgi, Jurtzi '(both used in the Middle Ages)'	George
+Georgia	Georgia
+georgiar	Georgian
+alemaniar; aleman	German
+Alemania	Germany
+Ghana	Ghana
+Gent	Ghent
+Gibraltar	Gibraltar
+Britainia Handia	Great Britain
+Grezia	Greece
+greziar; greko	Greek
+Greziako Eliza Ortodoxoa	Greek Orthodox Church
+groenlandiera	Greenlandic
+Botniako Golkoa	Gulf of Bothnia
+Rigako Golkoa	Gulf of Riga
+urte berri on	Happy New Year
+Jordaniako Haxemi Erresuma	Hashemite Kingdom of Jordan
+hawaiera	Hawaiian
+hebrear	Hebrew
+Hermafrodita	Hermaphroditus
+hindi	Hindi
+Holokausto	Holocaust
+Espiritu Santua	Holy Spirit
+Hong Kong	Hong Kong
+hungariar	Hungarian
+Hungaria	Hungary
+ni#Basque'ni, nik	I
+Maite haut, Maite zaituztet (plural)	I love you
+dirua behar dut	I need money
+ZIU, Zainketa Intentsiboetako Unitatea	ICU
+IP helbide	IP address
+Iberiar penintsula	Iberian Peninsula
+Islandia	Iceland
+islandiar	Icelander
+islandiar	Icelandic
+islandiar	Icelandish
+ido	Ido
+Inazio	Ignatius
+indonesiar	Indonesian
+interlingua	Interlingua
+Nazioarteko Alfabeto Fonetikoa	International Phonetic Alphabet
+Irlanda	Ireland
+irlandar	Irish
+Isaka	Isaac
+Islam, islamismo	Islam
+islamiko	Islamic
+italiar	Italian
+Italia	Italy
+Ivalo	Ivalo
+Jamaika	Jamaica
+Jakes	James
+urtarril	January
+Japonia	Japan
+japoniar	Japanese
+Jerusalem	Jerusalem
+Jokin	Joachim
+Ion, Joan, Manes (Manex)	John
+Jordania	Jordan
+Joseba	Joseph
+Julen	Julian
+uztail	July
+ekain	June
+Juno	Juno
+Jupiter	Jupiter
+Karatxi	Karachi
+kareliera	Karelian
+Karnataka	Karnataka
+Kazakhstan	Kazakhstan
+xinaliq	Khinalug
+Khrustxev	Khrushchev
+korear	Korean
+Kosovo	Kosovo
+kurdu	Kurdish
+Kioto	Kyoto
+Kirgizistan; Kirgizia	Kyrgyzstan
+latin	Latin
+Letonia	Latvia
+letoniar	Latvian
+Leon	Leo
+Liechtenstein	Liechtenstein
+liechtensteindar	Liechtensteiner
+Lisboa	Lisbon
+Lituania	Lithuania
+lituaniar	Lithuanian
+Txano Gorritxo	Little Red Riding Hood
+Londres	London
+luxenburgotar	Luxembourgish
+mazedoniar	Macedonian
+Madril	Madrid
+Magna Carta	Magna Carta
+malaiera	Malay
+Malta	Malta
+maltera	Maltese
+Mantxuria	Manchuria
+martxo	March
+Martitz	Mars
+Maria	Mary
+Mateo	Matthew
+maiatz	May
+Mediterraneo itsasoa	Mediterranean Sea
+Merkurio	Mercury
+Eguberri on	Merry Christmas
+Eguberri on	Merry Christmas and a Happy New Year
+Mexiko	Mexico
+Mikel	Michael
+mirandera	Mirandese
+andereño	Miss
+mokxa	Moksha
+Moldavia	Moldova
+Monako	Monaco
+astelehen	Monday
+Mongolia	Mongolia
+mongoliera	Mongolian
+Moravia (f)	Moravia
+Maroko	Morocco
+Mosku	Moscow
+Mois	Moses
+Everest	Mount Everest
+Muhammad	Muhammad
+Maskat	Muscat
+Namibia	Namibia
+Naypyidaw	Naypyidaw
+nepalera	Nepali
+Neptuno	Neptune
+herbeheretar; nederlandar; holandar	Netherlands
+Itunberia	New Testament
+urte berri	New Year
+York Berri	New York City
+Nikaragua	Nicaragua
+Nikolas	Nicholas
+Ipar Korea	North Korea
+Iparraldeko Europa	Northern Europe
+Ipar Irlanda	Northern Ireland
+Norvegia	Norway
+norvegiar	Norwegian
+azaro	November
+okzitaniera	Occitan
+Ozeania	Oceania
+urri	October
+antzinako ingelesa	Old English
+Olinpiar Jokoak	Olympic Games
+Oskar	Oscar
+Oslo	Oslo
+Otomandar Inperioa	Ottoman Empire
+Ozeano Barea	Pacific Ocean
+Iruña	Pamplona
+Panama	Panama
+Pandora	Pandora
+Paris	Paris
+persiar	Persian
+Pleiade	Pleiades
+Polonia	Poland
+poloniera	Polish
+Portugal	Portugal
+portugaldar	Portuguese
+Pythagoras	Pythagoras
+Itsaso Gorria	Red Sea
+Albaniako Errepublika	Republic of Albania
+Irlandako Errepublika	Republic of Ireland
+Rom herria	Roma
+Errumania	Romania
+errumaniar	Romanian
+Erroma	Rome
+Rosetta harri	Rosetta Stone
+Errusia	Russia
+errusiar	Russian
+SIM txartel	SIM card
+akelarre	Sabbath
+San Frantzisko	San Francisco
+San Marino	San Marino
+sanskrito	Sanskrit
+larunbat	Saturday
+Saturno	Saturn
+Eskozia	Scotland
+eskoziako gaelera	Scottish Gaelic
+irail	September
+Serbia	Serbia
+serbiar	Serbian
+siziliera	Sicilian
+Loti ederra	Sleeping Beauty
+eslovakiar	Slovak
+Eslovakia	Slovakia
+esloveniar	Slovene
+Eslovenia	Slovenia
+Edurnezuri	Snow White
+eguzki-sistema	Solar System
+somaliar	Somali
+Sofokles	Sophocles
+Hego Afrika	South Africa
+Hego Osetia	South Ossetia
+Hegoaldeko Europa	Southern Europe
+Sobietar Batasuna	Soviet Union
+Espainia	Spain
+Espainiera	Spaniard
+espainiar	Spanish
+gaztainondo, gaztainarbola	Spanish chestnut
+Esparta	Sparta
+Estanislao	Stanislaus
+SIM txartel	Subscriber Identity Module
+Suezko kanala	Suez Canal
+igande	Sunday
+swahili	Swahili
+Suedia	Sweden
+suediar	Swedish
+Suitza	Switzerland
+Taiwan	Taiwan
+Tajikistan	Tajikistan
+Tallinn	Tallinn
+Tanganika	Tanganyika
+Tanzania	Tanzania
+Tasmania	Tasmania
+Tbilisi	Tbilisi
+Tel Aviv	Tel Aviv
+telugu	Telugu
+hitz	Template:trans
+tailandiera	Thai
+Haga	The Hague
+ostegun	Thursday
+Tolosa	Toulouse
+Babelgo dorrea	Tower of Babel
+Transnistria	Transnistria
+astearte	Tuesday
+Tunisia	Tunisia
+Turkia	Turkey
+turkiera	Turkish
+Turkmenistan	Turkmenistan
+Dorre Bikiak	Twin Towers
+Ukraina	Ukraine
+ukrainera	Ukrainian
+Arabiar Emirerri Batuak	United Arab Emirates
+Erresuma Batua	United Kingdom
+Urano	Uranus
+urdu	Urdu
+Uzbekistan	Uzbekistan
+BEZ	VAT
+Artizar	Venus
+Viena	Vienna
+vietnamdar	Vietnamese
+volapük	Volapük
+votera	Votic
+Gales	Wales
+Varsovia	Warsaw
+asteazken	Wednesday
+galestar	Welsh
+Mendebaldeko Europa	Western Europe
+Mendebaldeko Sahara	Western Sahara
+Etxe Zuria	White House
+Wikipedia	Wikipedia
+Wikiztegia	Wiktionary
+Ehiztari beltza	Wild Hunt
+Wroclaw	Wroclaw
+Xabier	Xavier
+Yangtze	Yangtze
+Jaunde	Yaoundé
+Yap	Yap
+Yucatan	Yucatán
+Sjaelland	Zealand
+Zoroastrismo	Zoroastrianism
+txori txiki batek esan zidan	a little bird told me
+abako	abacus
+abadesa	abbess
+abadia	abbey
+abade	abbot
+sabel, sabelalde, abdomen	abdomen
+gaitasun, trebetasun, abilezia	ability
+zero absolutu	absolute zero
+abstraktu	abstract
+istripu	accident
+akordeoi; eskusoinu	accordion
+doi	accurate
+ezkur	acorn
+akrobata	acrobat
+aktinioa	actinium
+aktore; antzezle	actor
+helbide	address
+adjektibo; izenondo	adjective
+egokitze	adjustment
+administratzaile	administrator
+abantaila	advantage
+abentura	adventure
+abenturazale	adventurer
+abenturazale	adventurous
+adizlagun, adberbio	adverb
+aholkulari	advisor
+hegazkin	aeroplane
+haurrondokoa botatze	afterbirth
+berriro	again
+agata	agate
+aro	age
+nekazaritza	agriculture
+nekazari	agriculturist
+aire	air
+hegazkinen	aircraft
+hegazkin	airplane
+Al-Kaida	al
+alkohol	alcohol
+haltz	alder
+oro	all
+almendra	almond
+bakarrik	alone
+belatxinga moko hori	alpine chough
+dagoeneko; jadanik	already
+aluminioa	aluminium
+beti	always
+naiz	am
+anbar	amber
+anbulantzia	ambulance
+amerizioa	americium
+eitegabe	amorphous
+anpere	ampere
+& ikurra	ampersand
+anarkismo	anarchism
+anatomia	anatomy
+eta; ta	and
+animalia	animal
+anime	anime
+gogait eragin; zirikatu	annoy
+antilope	antelope
+inurritegi	anthill
+karbunko	anthrax
+antimonioa	antimony
+uzki	anus
+apatia	apathy
+erlategi; erletxe	apiary
+bide	apparently
+sagar	apple
+sagarrondo	apple tree
+arkeologia	archaeology
+arkitekto	architect
+sail	area
+zilarra	argent
+argon	argon
+besaulki	armchair
+besape; galtzarbe	armpit
+gudaroste; armada	army
+artseniko	arsenic
+orburu	artichoke
+igo	ascend
+lizarki	ash
+galdetu	ask
+asfalto	asphalt
+astakilo; lerdo; artaburu; kaiku; babu	ass
+astatoa	astatine
+istartxo	asterisk
+asteroide	asteroid
+astrologia	astrology
+astronomo	astronomer
+unitate astronomiko	astronomical unit
+astronomia	astronomy
+astrofisika	astrophysics
+azeri	astute
+a bildua	at sign
+ataraxia	ataraxia
+ankerkeria; basatikeria	atrocity
+alberjinia; berenjena	aubergine
+izeba; izeko	aunt
+egile	author
+automobil	automobile
+udazken	autumn
+elurrolde, elur-jausia	avalanche
+sari	award
+aizkora	axe
+jaioberri	baby
+haurtzain	babysitter
+berri txarrak	bad news
+azkonar	badger
+okin	baker
+okindegi; ogitegi	bakery
+platano, albo	banana
+tanpa, danba	bang
+banjo	banjo
+oturuntza	banquet
+has	bare
+oin-has	barefoot
+barioa	barium
+oskol	bark
+hontz zuri	barn owl
+antzu	barren
+basalto	basalt
+arroa	basin
+saskibaloi	basketball
+bate	bat
+batiskafo	bathyscaphe
+bataila; guda	battle
+badia	bay
+izan; egon	be
+hondartza, plaia	beach
+moko	beak
+babarrun	bean
+hartz	bear
+bizar	beard
+kastore	beaver
+ohe	bed
+zimitz	bedbug
+logela 	bedroom
+erle	bee
+pago	beech
+garagardo	beer
+kakalardo	beetle
+hasi	begin
+sabel	belly
+txapel	beret
+berkelioa	berkelium
+berilioa	beryllium
+trabes	bet
+hobe da berandu sekula baino	better late than never
+txirrindu; bizikleta	bicycle
+bizikleta	bike
+bikini	bikini
+elebidun	bilingual
+zakarrontzi	bin
+biokimika	biochemistry
+biologo	biologist
+biologia	biology
+desoreka bipolar	bipolar disorder
+txori; hegazti	bird
+galleta	biscuit
+bismutoa	bismuth
+zuribeltz; monokromatiko	black
+lira-oilar	black grouse
+zulo beltz	black hole
+okil beltz	black woodpecker
+zozo	blackbird
+arbela	blackboard
+elorri beltz; arantzabeltz	blackthorn
+manta	blanket
+bisuts	blizzard
+odol	blood
+urdindu	blue
+boa	boa
+basurde	boar
+soin	body
+bizkartzain	bodyguard
+bonba	bomb
+hezur	bone
+liburu	book
+liburudenda	bookshop
+bumerang	boomerang
+boroa	boron
+jauzi; salto	bound
+burges	bourgeois
+burgesia	bourgeoisie
+katilu	bowl
+beltz	boy
+mutil-lagun	boyfriend
+galga	brake
+lapar	bramble
+arrantza egin	bray
+ogi	bread
+puskatu; hautsi; apurtu	break
+gosaldu	breakfast
+platuxa	bream
+bular, titi, ugatz, papar, papo	breast
+adreilu	brick
+igeltsero	bricklayer
+zubi	bridge
+bromoa	bromine
+putetxe	brothel
+anai '(brother of a male)', neba '(brother of a female)'	brother
+marroi	brown
+hartz arre	brown bear
+bufalo	buffalo
+zomorro; insektu	bug
+eraikina	building
+zezen	bull
+erre	burn
+enpresaburu; enpresari	businessman
+izan ezik; salbu	but
+odolzale	butcher
+tximeleta; pimpilimpausa; inguma; marisorgin; pinpirin	butterfly
+erosi	buy
+zapelatz	buzzard
+kadmioa	cadmium
+zesioa	caesium
+kaiman	caiman
+pastela	cake
+kaltzio	calcium
+kalifornioa	californium
+kalimotxo	calimocho
+deitu anbulantziari	call an ambulance
+gamelu	camel
+kamuflatu	camouflage
+kandidatu	candidate
+kandela	candle
+kantina; jantegi	canteen
+basoilar	capercaillie
+hiriburu	capital city
+karbonoa	carbon
+zenbaki kardinal	cardinal number
+kontuz; arretaz	carefully
+inauteria	carnival
+alfonbra	carpet
+azenario	carrot
+kurruska	cartilage
+gaztelu	castle
+katu	cat
+katakonba	catacomb
+katalogo	catalogue
+harrapatu	catch
+har; beldar	caterpillar
+katuarrain	catfish
+katioi	cation
+abelgorriak	cattle
+azalore	cauliflower
+leize	cave
+zedro	cedar
+telefono mugikor	cell phone
+mende, gizaldi	century
+zerioa	cerium
+katedra; aulki	chair
+kameleoi	chameleon
+sarrio	chamois
+txapelketa	championship
+zori	chance
+aldaketa; truke	change
+ekurrikatz	charcoal
+merke	cheap
+eskerriska	cheers
+gazta	cheese
+gepardo	cheetah
+kimika	chemistry
+gerezi	cherry
+xake	chess
+torax	chest
+murtxikatu	chew
+oilasko, oilo	chicken
+txikoria	chicory
+buru exekutiboa ofiziala	chief executive officer
+sein; ume	child
+kokots	chin
+kloroa	chlorine
+bonboi	chocolate
+aukera	choice
+koru	choir
+ito	choke
+aukeratu	choose
+kromoa	chromium
+elizkizun	church
+sagardo	cider
+zirkulu	circle
+hiri	city
+klarinete	clarinet
+garbi	clean
+garbitzaile	cleaner
+erloju; ordulari	clock
+mantar	cloth
+arropa	clothes
+hodei	cloud
+amaginarrebakide	co
+kobaltoa	cobalt
+zapatari	cobbler
+ar	cock
+koko	coconut
+kokondo	coconut palm
+bakailao	cod
+hotz	cold
+gerra hotza	cold war
+kolore	color
+kuku-belarra	columbine
+etorri	come
+kometa	comet
+agindu; men	command
+iruzkin; azalpen; zeresan	commentary
+kaio, antxeta	common gull
+komunismo	communism
+osagarriak	complimentary
+ordenagailu	computer
+programazio-lengoaia	computer language
+esne kondentsatua	condensed milk
+gozagarri; ongarri; ongailu	condiment
+kondoi; preserbatibo	condom
+pinaburu	cone
+gozogintza	confectionery
+ehun konektibo	connective tissue
+kontinente	continent
+kontinenteen jito	continental drift
+bilakatu; bihurtu	convert
+sukaldari	cook
+elkarlan	cooperation
+kobrea	copper
+suge koral	coral snake
+kordierita	cordierite
+arto	corn
+korrelazio	correlation
+korbeta (f)	corvette
+kostu	cost
+algodoi, kotoin	cotton
+eztul	cough
+kemen#Basque'kemen	courage
+lehengusu; lehengusina 	cousin
+kobariantza	covariance
+behi (f)	cow
+karramarro	crab
+ahabi garratz	cranberry
+garabi	crane
+kilker	cricket
+krokodilo	crocodile
+betoker	crosseyed
+bele	crow
+kristal	crystal
+kume	cub
+kubo	cube
+kuku	cuckoo
+sukaldaritza	cuisine
+jakinmin	curiosity
+kurioa	curium
+kurba	curve
+bezero	customer
+txirrindularitza	cycling
+txirrindulari	cyclist
+dazita	dacite
+aitatxo	dad
+sastagai	dagger
+egunkari	daily
+kalte egin	damage
+dantza egin	dance
+zahi	dandruff
+materia ilun	dark matter
+datil	date
+alaba	daughter
+egun; lanegun	day
+etzi	day after tomorrow
+herenegun	day before yesterday
+estreinaldi	debut
+hamarkada	decade
+erabaki; epai; ebazpen	decision
+oreinki	deer
+eldarnio; zoraldi; zorabio	delirium
+haginlari	dentist
+azido desoxirribonukleiko	deoxyribonucleic acid
+basamortu	desert
+txarro	despicable
+adur; patu	destiny
+hiztegi	dictionary
+afaldu	dine
+dingo	dingo
+jangela; jantoki; janleku	dining room
+afari	dinner
+dinosauro	dinosaur
+eritasun	disease
+distantzia	distance
+desberdin; bestelako	distinct
+do	do
+ez onartzeko dolar amerikarrak	do you accept American dollars
+dobra	dobra
+nasa	dock
+sendagile; osagile	doctor
+txakur, etxe-txakur	dog
+dolar	dollar
+trikuharri; dolmen	dolmen
+izurde	dolphin
+etxe-katu	domestic cat
+asto	donkey
+ate	door
+atezain	doorman
+muxar	dormouse
+kokozpeko	double chin
+izar bikoitz	double star
+ore	dough
+urzo	dove
+usategi	dovecote
+herensuge	dragon
+amets egin	dream
+alkohol	drink
+langar	drizzle
+dromedario	dromedary
+lerde	drool
+lehorte	drought
+danbor	drum
+mozkor	drunk
+mozkorraldi	drunkenness
+lehor	dry
+dukerri	duchy
+ahate; paita	duck
+tinpano	dulcimer
+mutu	dumb
+duodeno	duodenum
+planeta ipotx	dwarf planet
+bizileku; bizitoki	dwelling
+dinamita	dynamite
+dislexia	dyslexia
+disprosioa	dysprosium
+arrano	eagle
+hontz handi	eagle owl
+belarri	ear
+goizik	early
+belarritako	earring
+lurrikara	earthquake
+zizare	earthworm
+aise; erraz	easily
+sortalde, eguzkialde, ekialde	east
+erraz	easy
+jan	eat
+oihartzun	echo
+ekonomia	economics
+ekonomista; ekonomialari	economist
+argitaratu	edit
+aingira	eel
+obulu	egg
+zortzi	eight
+hemezortzigarren; hamazortzigarren	eighteenth
+zortzigarren	eighth
+laurogeita lau	eighty
+einstenioa	einsteinium
+isurtze	ejaculation
+ukondo	elbow
+argindar	electricity
+elektroi	electron
+elefante	elephant
+hamaika	eleven
+hamaikagarren	eleventh
+entziklopedia	encyclopedia
+adore	energy
+enigmatiko	enigmatic
+epitelio	epithelium
+erbioa	erbium
+erbinude zuri	ermine
+ihes egin	escape
+ihes-abiadura	escape velocity
+etimologia	etymology
+euro	euro
+europioa	europium
+inoiz; noizbait	ever
+den	everything
+edonon, leku guztietan	everywhere
+gaizto	evil
+adibide; eredu	example
+bikain	excellent
+begi	eye
+begia begi truk	eye for an eye, a tooth for a tooth
+bekain	eyebrow
+betile	eyelash
+betazal	eyelid
+fa	fa
+aurpegi	face
+atzelari; marikoi	faggot
+geldo	faint
+belatz handi	falcon
+adarzabal	fallow deer
+baserri	farm
+tinko; irmo; finko	fast
+adur; zori	fate
+aitaginarreba	father
+aberri	fatherland
+mesede; fabore	favour
+luma	feather
+elikatu	feed
+felazio	fellatio
+eme	female
+fermioa	fermium
+ira	fern
+hudo	ferret
+ugalkor; emankor	fertile
+jai	festival
+alor	field
+hamabost	fifteen
+hamabosgarren	fifteenth
+bosgarren	fifth
+berrogeita hemeretzi	fifty
+pikuondo	fig
+gudu; bataila	fight
+aurkitu; topatu	find
+isun	fine
+hatz	finger
+izei	fir
+sute	fire
+su-arma	firearm
+suhiltzaile	firefighter
+euli ipurtargi	firefly
+aurreneko	first
+lehen sorospen; lehen laguntza	first aid
+arrantzan egin	fish
+arrantzale	fisherman
+arrain-saltzaile	fishmonger
+ukabil	fist
+bost	five
+bandera; ikurrina	flag
+kar, gar, sugar	flame
+lau; laun; ordeka	flat
+arkakuso	flea
+ñirñir	flicker
+artalde	flock
+uholde	flood
+platuxa	flounder
+etorri	flow
+lore	flower
+fluoroa	fluorine
+txirula	flute
+hegan egin	fly
+apar	foam
+lanbro	fog
+janari	food
+oin	foot
+futbolari	footballer
+oinatz	footprint
+adibidez	for example
+debekatu	forbid
+ibi	ford
+hatz erakusle	forefinger
+kopeta; kopetan	forehead
+erdara; erdera	foreign language
+baso	forest
+oroilore	forget
+Mazedoniako Jugoslaviar Errepublika Ohia	former Yugoslav Republic of Macedonia
+adur; zori	fortune
+berrogeita lau	forty
+lau	four
+hamalau	fourteen
+hamalaugarren	fourteenth
+laugarren	fourth
+azeri	fox
+frantzioa	francium
+askatasun; libertate	freedom
+igel	frog
+emankor	fruitful
+txortan egin, larrutan egin	fuck
+altzari; altzariak	furniture
+geroko	future
+gadolinioa	gadolinium
+galaxia	galaxy
+behazun xixku	gall bladder
+galioa	gallium
+joku-teoria	game theory
+lorezain	gardener
+baratxuri	garlic
+gastronomia	gastronomy
+gazela	gazelle
+geko; dragoitxo	gecko
+eskuzabal; emankor	generous
+genozidio	genocide
+geologo	geologist
+geologia#Basque'geologia	geology
+germanioa	germanium
+geiser	geyser
+mamu	ghost
+jirafa	giraffe
+neska	girl
+neska-lagun	girlfriend
+eman	give
+glaziar	glacier
+edalontzi	glass
+kariloi	glockenspiel
+ipurtargi	glowworm
+itsasgarri	glue
+gneiss	gneiss
+joan	go
+gol	goal
+atezain	goalkeeper
+ahuntz (f); aker (m)	goat
+iratxo, intxisu	goblin
+jainko	god
+aitabitxi	godfather
+amabitxi	godmother
+urre	gold
+arrano beltza	golden eagle
+golf	golf
+gonorrea	gonorrhea
+arratsalde on	good afternoon
+egun on	good day
+egun on	good morning
+gabon	good night
+agur	goodbye
+googolplex	googolplex
+antzara	goose
+arakatz	gooseberry
+biloba	grandchild
+aitona	grandfather
+amona	grandmother
+mahats	grape
+arabisagar	grapefruit
+matxinsalto; saltamatxino	grasshopper
+hilerri, kanposantu	graveyard
+birramona; birramama	great
+okil handi	great spotted woodpecker
+kaskabeltz	great tit
+heldugabe	green
+okil berde	green woodpecker
+gris	grey
+sai arre	griffon vulture
+kurruska	gristle
+talde	group
+ostalari	guest
+gida	guide
+pintada	guinea fowl
+akuri	guinea pig
+kaio, antxeta	gull
+gimnasio	gymnasium
+hadroi	hadron
+hafnioa	hafnium
+kazkabar; txingor	hail
+ile	hair
+hanburgesa	hamburger
+herrixka	hamlet
+#Basque'hamster	hamster
+esku	hand
+eskuliburu, gidaliburu	handbook
+zorionak zure urtebetetze egunean	happy birthday
+disko gogor	hard drive
+erbi	hare
+uzta	harvest
+kapela	hat
+herra	hatred
+egun ona izan	have a nice day
+behar izan	have to
+belarra ondu	hay
+errinitis alergikoa	hay fever
+hur	hazelnut
+buru	head
+meta	heap
+entzumen	hearing
+bihotz	heart
+miokardio infartu akutu	heart attack
+triku	hedgehog
+helioa	helium
+kaixo	hello
+lagundu	help
+hemen	here
+koartza	heron
+heterokromia	heterochromia
+kaixo	hi
+ezkutatu	hide
+mendixka	hill
+hipopotamo	hippopotamus
+jo	hit
+erlauntza	hive
+holmioa	holmium
+etxe	home
+homosexualitate	homosexuality
+zintzo	honest
+ezkon bidaia	honeymoon
+apo	hoof
+liztortzar	hornet
+zaldi	horse
+ospitale; erietxe	hospital
+hotel; ostatu	hotel
+ordu; oren	hour
+etxe	house
+etxekoandre	housewife
+Zer moduz?	how are you
+besarkada	hug
+ehun	hundred
+gosebera	hungry
+senar; gizon	husband
+hidrogeno	hydrogen
+hiena	hyena
+basahuntz	ibex
+izotz 	ice
+izozkiak	ice cream
+iceberg, izozmendi	iceberg
+ergel	idiot
+arroka igneo	igneous rock
+gaixotasun	illness
+irudipen; ameskeria; itxaropen	illusion
+inpala	impala
+odolbero; oldartsu; oldar handiko	impetuous
+garrantzitsu	important
+ezegoki	improper
+hobetu	improve
+olde	impulse
+etengabe; etenik gabe	incessantly
+indizea	index
+indioa	indium
+infekzio	infection
+informazio	information
+etsai	inimical
+tinta	ink
+iker	inquire
+adibide	instance
+intsulina	insulin
+asmo	intention
+interes	interest
+barne-errekuntzako motor	internal combustion engine
+nazioarteko; internazional	international
+intersexualitate	intersexuality
+tarte	interval
+gonbidapen; gonbit	invitation
+gonbidatu	invite
+iodoa	iodine
+ioi	ion
+ionosfera	ionosphere
+iridioa	iridium
+burdin 	iron
+desegoki	irrelevant
+irla; uharte	island
+txakal	jackal
+bele txiki	jackdaw
+eskinoso	jay
+marmoka	jellyfish
+jihad	jihad
+joule	joule
+kazetari	journalist
+bidaiatu	journey
+txarro	jug
+zuku; ur	juice
+jauzi; salto	jump
+zabor-janari	junk food
+kanguru	kangaroo
+txakurtegi	kennel
+teklatu	keyboard
+giltzurrun	kidney
+supan (supan)	kill
+errege	king
+errege-kobra	king cobra
+pot, pa	kiss
+sukalde	kitchen
+miru	kite
+katakume	kitten
+belaun	knee
+belaunikatu	kneel
+labana; aizto	knife
+zaldi	knight
+sasijakintsu; sasijakitun	know
+koala	koala
+kriptona	krypton
+la	la
+labirinto	labyrinth
+zingira	lake
+arkume (n)	lamb
+lamia	lamia
+lur	land
+kostagabe	landlocked
+hizkuntza	language
+lantanoa	lanthanum
+laritz	larch
+bart	last night
+iaz	last year
+berandu	late
+barre	laugh
+lege	law
+laurentzioa	lawrencium
+berun	lead
+erbinude	least weasel
+izain	leech
+porru	leek
+ezkerti	left
+egoskari; lekale	legume
+limoiondo	lemon
+garraiska, limoe bedarr	lemon balm
+okil txiki	lesser spotted woodpecker
+eskarmentu	lesson
+eskutitz	letter
+liken	lichen
+gezur	lie
+bizi	life
+argitu	light
+argi-urte	light year
+pizgailu; metxero	lighter
+tximista	lightning
+egiantz	likelihood
+hizkuntzalaritza	linguistics
+lehoi	lion
+ezpain	lip
+literatura	literature
+litioa	lithium
+gutxi	little
+atxiki	little finger
+mozolo	little owl
+azienda	livestock
+musker	lizard
+otarraina	lobster
+hontz ertain	long
+so	look
+bilatu	look for
+zorri	louse
+laztana#Basque'laztana	love
+labaingarri	lubricant
+lo-kanta, sehaska-kanta	lullaby
+ilargi eklipse	lunar eclipse
+bazkaldu	lunch
+birika	lung
+lutezioa	lutetium
+ipar katamotz	lynx
+lira	lyre
+makabro	macabre
+itzulpengintza automatikoa	machine translation
+andere	madam
+magnesioa	magnesium
+mika, pika	magpie
+postari	mailman
+gaizto	malignant
+ugaztun	mammal
+pieza	man
+esku lota	manacle
+mandarinondo	mandarin orange
+manganesoa	manganese
+behor	mare
+marmelada	marmalade
+marmota	marmot
+zingira (f)	marsh
+lepahori	marten
+maskulinotasun	masculinity
+igeltsero	mason
+haga	mast
+matematika	mathematics
+mate	matte
+lastaira	mattress
+zori	mature
+naski	maybe
+ezti-ur	mead
+otordu	meal
+anker; gaizto	mean
+mendelebioa	mendelevium
+merkurioa	mercury
+metal	metal
+mi	mi
+mikrometro	micrometer
+hatz erdiko	middle finger
+nano; epotx	midget
+emagin	midwife
+jetzi	milk
+irabiaki	milkshake
+adimen, buru, gogo, sen	mind
+meatzari	miner
+mineralogia	mineralogy
+mendafin	mint
+minutu; momentu	minute
+ispilu	mirror
+misantropo	misanthrope
+telefono mugikor	mobile phone
+sator	mole
+molekula	molecule
+molibdenoa	molybdenum
+monarka	monarch
+monasterio	monastery
+diru	money
+tximino	monkey
+elebakar	monolingual
+hil; hilabete	month
+ilargi	moon
+morrioi	morion
+morfina	morphine
+meskita	mosque
+goroldio	moss
+sits	moth
+amaginarreba	mother
+ama-hizkuntza	mother tongue
+mufloi	mouflon
+mendi	mountain
+sagu	mouse
+bibote	moustache
+aho	mouth
+masustondo	mulberry
+eleanitz	multilingual
+eleaniztasuna	multilingualism
+amatxo	mum
+udalerri	municipality
+perretxiko	mushroom
+musika	music
+arratoi musketadun	muskrat
+misteriotsu; misteriozko	mysterious
+mitologia	mythology
+biluzi	naked
+izen	name
+estu	narrow
+narbal	narwhal
+ama-hizkuntza	native language
+lengoaia natural	natural language
+hur	near
+nebulosa	nebula
+sama	neck
+lepoko, iduneko	necklace
+nekromantzia	necromancy
+orratz	needle
+neodimioa	neodymium
+neona	neon
+iloba	nephew
+neptunioa	neptunium
+sare	net
+asun	nettle
+inoiz ez	never
+hasiberri	new
+albisteak	news
+egunkari	newspaper
+nikela	nickel
+iloba	niece
+gau	night
+urretxindor	nightingale
+amesgaizto	nightmare
+bederatzi	nine
+hemeretzi	nineteen
+hemeretzigarren	nineteenth
+laurogeita hamasei	ninety
+bederatzigarren	ninth
+niobioa	niobium
+titiburo, erro	nipple
+bartz	nit
+nitrogenoa	nitrogen
+ez	no
+nobelioa	nobelium
+Gobernuz Kanpoko Erakunde	non
+hiltzerik-ez	nonkilling
+ipar; helburu 	north
+ipartsortalde, iparrekialde	northeast
+ipartsartalde, iparmendebal	northwest
+sudur	nose
+ez	not
+koaderno	notebook
+ezerez, deusez	nothing
+izen	noun
+orain	now
+gaur egun	nowadays
+inon	nowhere
+zenbaki	number
+erizain	nurse
+intxaurkraskagailu	nutcracker
+harizki; haritz	oak
+haritz	oak tree
+haritzezko	oaken
+loditasun	obesity
+oblast	oblast
+oboe	oboe
+abagune; aukera	occasion
+olagarro	octopus
+maiz	often
+urindatu; urineztatu; koipeztatu; labainarazi; lubrifikatu	oil
+okapi	okapi
+zahar	old
+nonnahitasun	omnipresence
+nonahiko	omnipresent
+omniboro; orojale	omnivorous
+lau hankan	on all fours
+bazen behin; behin batean	once upon a time
+begibakar	one
+onize	onyx
+irekigailu	opener
+sistema eragile	operating system
+iritzi	opinion
+zarigueia	opossum
+aukera	option
+edo, ala	or
+laranjondo	orange
+men	order
+organismo	organism
+orgasmo	orgasm
+ortodoxia	orthodoxy
+osmioa	osmium
+ostruka	ostrich
+igaraba; urtxakur	otter
+gure	our
+obulutegi	ovary
+mozo; hontz; gauhontz; hontza	owl
+idi	ox
+oxigenoa	oxygen
+pakete	package
+pakete	packet
+min	pain
+margolari	painter
+zurbil	pale
+paladioa	palladium
+are; pankrea	pancreas
+pansexualitate	pansexuality
+lanperna txar	panther cap
+paper	paper
+jausgailu, paraxut	parachute
+parapsikologia	parapsychology
+pakete	parcel
+guraso	parents
+perrexil	parsley
+lain; lain	part
+partikulen fisika	particle physics
+eper	partridge
+sutsua	passionate
+pasahitza	password
+bide; bidexka; bidezidor	path
+abertzale	patriot
+abertzaletasun	patriotism
+eredu; adibide	pattern
+ordain	payment
+bake	peace
+pauma	peacock
+kakahuete	peanut
+udareondo; madariondo	pear
+udareondo; madariondo	pear tree
+zohikatz	peat
+tropel; pelotoi	peloton
+luma	pen
+arkatz, lapitz	pencil
+pinguino	penguin
+penizilina	penicillin
+penintsula	peninsula
+zakil	penis
+belatz handi	peregrine falcon
+taula periodikoa	periodic table
+kakiondo	persimmon
+pertsona	person
+esantza	petrol
+harrolio	petroleum
+faisai	pheasant
+filosofia	philosophy
+fosforoa	phosphorus
+argazki	photo
+fotokopiagailu	photocopier
+argazkilari	photographer
+argazkigintza	photography
+fisika	physics
+txakur	pig
+txerrikume	piglet
+pinu	pine
+pipa	pipe
+pizza	pizza
+apal; xume; lau	plain
+planeta	planet
+landare; landareak	plant
+platinoa	platinum
+ornitorrinko	platypus
+joka	play
+mesedez; faborez; faborez; otoi; arren	please
+plugin	plug
+aranondo	plum
+iturgin	plumber
+plutonioa	plutonium
+olerkigintza	poetry
+pozoi	poison
+haga	pole
+ipurtats	polecat
+polizia	police
+politikari	politician
+lore-hauts; polen	pollen
+polonioa	polonium
+poligono	polygon
+arabisagar	pomelo
+arantzurde	porcupine
+txerriki	pork
+pornografiko	pornographic
+pornografia	pornography
+potasio	potassium
+edabe	potion
+libra	pound
+praseodimioa	praseodymium
+sermolari	preacher
+amildegi; malkar	precipice
+haurduntza	pregnancy
+lehendakari	president
+uste izan	presume
+polit	pretty
+apaiz; abade	priest
+zenbaki lehen	prime number
+printzesa	princess
+espetxe	prison
+arazo; buruhauste	problem
+prozesu	process
+prometioa	promethium
+izenordain	pronoun
+prostituzio	prostitution
+protaktinioa	protactinium
+telekinesia, psikokinesia	psychokinesis
+pumita	pumice
+txakurkume	puppy
+garbitoki	purgatory
+gorrindol	purple
+beste mundura joana da; hankaz aurrera joana da	pushing up daisies
+pitoi	python
+galeper	quail
+kantitatea	quantity
+erregina	queen
+irasagar	quince
+kintal	quintal
+untxi	rabbit
+mapatxe	raccoon
+arineketa; lasterketa	race
+irrati	radio
+radona	radon
+ostadar, ortzadar	rainbow
+euritsu	rainy
+are	rake
+ahari	ram
+arratoi	rat
+kriskitin-suge	rattlesnake
+erroi	raven
+re	re
+atzeman	read
+alor; arlo	realm
+laukizuzen	rectangle
+ilegorri; kaskagorri	red
+orein	red deer
+elur-orein	reindeer
+erlijio	religion
+narrasti	reptile
+hurrenez hurren	respectively
+erantzukizun	responsibility
+atseden hartu	rest
+jatetxe	restaurant
+iraultza	revolution
+renioa	rhenium
+errinozero	rhinoceros
+rodioa	rhodium
+arroz#Basque'arroz, irris	rice
+eskuinti; eskumati	right
+uztai; hagun	rim
+haznagi	ring finger
+zori	ripe
+ibai	river
+txantxangorri	robin
+robot	robot
+robotika	robotics
+haitz-uso	rock dove
+haga	rod
+orkatz	roe deer
+sabai	roof
+arrosa	rose
+erromero	rosemary
+usteldu	rot
+rubidioa	rubidium
+korrika egin; lasterka egin	run
+herdoil	rust
+rutenioa	ruthenium
+sable; sabre	sabre
+goibel	sad
+salbia	sage
+belaontzi	sailing ship
+listu; listu	saliva
+samarioa	samarium
+harea; hondar	sand
+satelite	satellite
+saltsa	sauce
+esan	say
+eskandio	scandium
+orbaindu	scar
+txorimalo	scarecrow
+azerikeria	scheme
+eskizofrenia	schizophrenia
+zientifiko	scientific
+itsaso	sea
+bilatu; xerkatu	search
+urtaro	season
+bigarren	second
+bigarren eskuko	secondhand
+sekretu	secret
+idazkari	secretary
+ikusi	see
+aukeraketa	selection
+selenioa	selenium
+saldu	sell
+hazi	semen
+apaizgai; abadegai	seminarist
+sentibera; hunkibera	sensitive
+zazpi	seven
+hamazazpi	seventeen
+hamazazpigarren	seventeenth
+zazpigarren	seventh
+hirurogeita hemezortzi; hirurogeita hamazortzi	seventy
+itzal, errainu, ilunune	shadow
+azaleko	shallow
+marrazo	shark
+ardi	sheep
+artzain txakur	sheepdog
+artzain	shepherd
+itsasontzi	ship
+zapatari; zapatagin	shoemaker
+lantegi; lantoki	shop
+dendari	shopkeeper
+satitsu	shrew
+si	si
+alde, ondo	side
+bahe	sieve
+ikusmen	sight
+silizioa	silicon
+zeta	silk
+zetar	silkworm
+zilar	silver
+apalki	simply
+abestu; kantatu	sing
+abeslari	singer
+hondoratu	sink
+eseri	sit
+eseri	sit down
+sei	six
+hamasei	sixteen
+hamaseigarren	sixteenth
+seigarren	sixth
+hirurogeita zazpi	sixty
+azal	skin
+gona	skirt
+burezur	skull
+zeru	sky
+etxeorratz	skyscraper
+arbela	slate
+lo	sleep
+elder	slime
+labaingarriak	slippery
+pinudi-onddo likin	slippery jack
+basaran	sloe
+azeri	sly
+usaimen	smell
+ke	smoke
+barraskilo	snail
+suge	snake
+zintz egin	sneeze
+billarra	snooker
+elur	snow
+elur-bola	snowball
+elur-maluta	snowflake
+xaboi	soap
+sodioa	sodium
+sol	sol
+eguzki haize	solar wind
+soldadu	soldier
+batzuetan	sometimes
+seme	son
+putaseme	son of a bitch
+abesti	song
+arima	soul
+hego; hegoalde	south
+egosortalde, egoekialde	southeast
+ezkerti	southpaw
+hegosartalde, hegomendebal	southwest
+espazio-ontzi	spaceship
+txolarre	sparrow
+espezie	species
+betaurreko	spectacles
+ikusle	spectator
+mintzamen	speech
+abaila	speed
+argiaren abiadura	speed of light
+espelta	spelt
+espezia	spice
+armiarma	spider
+neskazahar	spinster
+helize	spiral
+goilare; loa	spoon
+kirol	sport
+ezkonlagun; ezkontide	spouse
+jaio	spring
+picea	spruce
+karratu	square
+haga	staff
+izar	star
+arabazozo	starling
+geltoki	station
+estatistikari	statistician
+estatistika	statistics
+estatua	statue
+altzairu	steel
+kirats	stench
+aitaorde	stepfather
+amaorde	stepmother
+makila	stick
+harri	stone
+ekaitz	storm
+marrubiondo; marrubi-landare	strawberry
+kalean	street
+greba	strike
+katea	string
+estrontzioa	strontium
+xurgatu	suck
+azukre	sugar
+iradokizun	suggestion
+sufre	sulfur
+uda	summer
+iguzki; eguzki	sun
+ekilore	sunflower
+supernoba	supernova
+abizen; deitura	surname
+enara	swallow
+beltxarga	swan
+gozoa	sweet
+igeri egin	swim
+igerileku	swimming pool
+etengailu	switch
+piztu	switch on
+ezpata	sword
+syllabus	syllabus
+tabulatu	table
+taiga	taiga
+jostun	tailor
+tapoi	tampon
+mandarinondo	tangerine
+gerra-gurdi	tank
+tantalioa	tantalum
+tapir	tapir
+dastamen	taste
+urubi	tawny owl
+te#Basque'te	tea
+irakasle (m); maisu (m); andereño (f)	teacher
+talde	team
+teknezioa	technetium
+teknikari	technician
+telefono	telephone
+telebista	television
+telurioa	tellurium
+tenplu	temple
+hamar	ten
+hamargarren	tenth
+terbioa	terbium
+termita	termite
+lurralde	territory
+barrabil	testicle
+talioa	thallium
+baino	than
+eskerrik asko	thank you
+eskerrik asko, anitz esker, mila esker	thank you very much
+-a (f); -ak	the
+antzerkia	theater
+haiek	they
+gauza	thing
+heren	third
+hamahiru	thirteen
+hamahirugarren	thirteenth
+hogeita hamazazpi	thirty
+torioa	thorium
+arantza; elorri	thorn
+mila	thousand
+hiru	three
+tulioa	thulium
+hazlodi	thumb
+hala	thus
+tigre	tiger
+arte	till
+eztainua	tin
+nekatuta	tired
+ehun	tissue
+titanioa	titanium
+apo	toad
+gaur egun	today
+bihar	tomorrow
+mihi	tongue
+nahi	too
+hortz	tooth
+topazio	topaz
+ukimen	touch
+turismo	tourism
+herri	town
+trakea	trachea
+sindikatu	trade union
+tradizio	tradition
+traiektoria	trajectory
+itzultzaile	translator
+bidaiatu	travel
+bidaiari	traveller
+altxor	treasure
+zuhaitz	tree
+azerikeria	trick
+hiruhortz	trident
+bidaia	trip
+tronpeta	trumpet
+tsunami	tsunami
+idibihotz, kukupel	tulip
+wolframioa	tungsten
+indioilar (m); indioilo (f)	turkey
+dortoka	turtle
+usapal	turtle dove
+belar-sasi	tussock
+hamabigarren	twelfth
+hamabi	twelve
+hogeigarren	twentieth
+hogeita bederatzi	twenty
+biki	twin
+bi	two
+aterki	umbrella
+-a	un
+osaba	uncle
+ulertu	understand
+unibertso	universe
+arte	until
+gora	up
+uranioa	uranium
+baliogabe, ezgai, hutsal	useless
+opor	vacation
+txerto	vaccination
+ibar, haran	valley
+balbula	valve
+banpiro	vampire
+banadinita	vanadinite
+banadioa	vanadium
+landare-	vegetable
+zain	vein
+aditz	verb
+udaberriko ekinokzio	vernal equinox
+albaitari	veterinarian
+herrixka	village
+biolin	violin
+birus	virus
+vodka	vodka
+ahots	voice
+volt	volt
+voltmetro	voltmeter
+sai arre	vulture
+trabes	wager
+esnatu	wake up
+mortsa	walrus
+gerra; guda	warfare
+gerraontzi	warship
+garatxo	wart
+fakokero	warthog
+liztor	wasp
+erloju; ordulari	watch
+ur mineral	water
+urtxakur	water dog
+zapatari	water strider
+bide	way
+gu	we
+aberastasun	wealth
+erbinude	weasel
+eguraldi	weather
+aste	week
+astegun	weekday
+asteburu; astebukaera	weekend
+astekari	weekly
+ongi etorri	welcome
+sartalde, mendebal	west
+zer	what
+nola izena duzu 	what is your name
+gari	wheat
+gurpil; txirringa; txirrika	wheel
+noiz	when
+non	where
+nongoa zara?	where are you from
+zuri	white
+nor	who
+oso	whole
+alargun	widowed
+emazte	wife
+basurde	wild boar
+basakatu	wildcat
+sahats	willow
+estutu	wind
+leiho	window
+haizetako-garbigailu	windshield wiper
+ardo	wine
+negu	winter
+hari	wire
+bisonte europar	wisent
+sorgin; belagile (italbrac'Zuberoan/Souletin dialect)	witch
+gabe, barik	without
+otso	wolf
+otsokume; otsoko	wolf cub
+wollastonita#Basque'wollastonita	wollastonite
+andre; emakume	woman
+wombat	wombat
+egur	wood
+piziformeak	woodpecker
+hitz, berba	word
+lan egin	work
+herrialde guztietako proletarioak, elkar zaitezte!	workers of the world, unite
+mundu; lur	world
+beldar; zizare; arr; har	worm
+idatzi	write
+idazle	writer
+xenona	xenon
+xenofobia	xenophobia
+xenotransplante	xenotransplantation
+aharrausi; ahozabalkada	yawn
+urte	year
+aliota mokozuri	yellow
+bai	yes
+atzo	yesterday
+iaz	yesteryear
+hagin; hagina	yew
+jogurt	yoghurt
+gaztedi	young
+iterbioa	ytterbium
+itrioa	yttrium
+zebra	zebra
+zinka	zinc
+kremailera	zip fastener
+zirkonioa	zirconium
+zonbi	zombie
+«	“

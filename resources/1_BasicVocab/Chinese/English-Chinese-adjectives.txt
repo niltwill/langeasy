@@ -1,0 +1,95 @@
+﻿English	Chinese
+bad	坏的
+beautiful	美丽的
+best	最好 (zuì háo)
+big	大
+cold	冷的
+dark	黑暗的
+difficult	沉重
+fast	迅速
+good	好的
+great	伟大的
+happy	高興 (gāoxìng)
+heavy	沉重
+hot	热
+left	左
+light	轻的
+long	长 (cháng)
+new	新的
+strong	強的, 强的 (qiángde)
+weak	微弱 (wēiruò)
+ago	以前 (yǐqián)
+all	全部
+automatic	自动的, 自动的
+bitter	苦的
+boring	乏味
+both	双方
+central	中央
+certain	確定, 确定 (quèdìng)
+cheap	便宜
+chemical	化学的
+closed	结束
+complete	完全
+cruel	野蛮的
+dangerous	危險, 危险
+different	不一样
+down	向下
+dry	干的
+each	每
+early	早的
+electric	电的
+every	每一
+far	較遠的 / 较远的 (jiào yuǎn de), 遠 / 远 (yuǎn)
+final	终端
+financial	财政的
+flat	平的
+following	下一个
+foreign	外國的, 外国的 (wàiguó-de)
+free	使自由
+frequent	頻繁, 频繁
+full	充满的
+general	一般
+interesting	有趣 (yǒuqù), 有意思 (yǒu yìsi)
+international	国际
+last	最后的
+late	晚 (wǎn), 迟 (chí)；迟到 (chí dào)
+legal	法律的
+local	当地的
+lucky	幸运的
+main	首要 (shǒuyào), 重要 (zhòngyào)
+many	许多的
+military	軍事
+more	更多
+narrow	窄的 (zhǎide)
+national	国民
+no	无
+normal	正常的
+original	原始的
+other	另外的
+own	自己的
+parallel	平行
+personal	个人的
+physical	身体的
+present	现在的
+private	私人的
+probable	可能
+professional	专业的
+public	公共的
+quiet	安静
+responsible	有责任的
+same	相同的
+simple	简单化
+small	小 (xiǎo)
+smooth	光滑的
+specific	特定的 (tèdìng de)
+square	方
+straight	直
+sudden	突然的
+tall	高的 (gāo-de)
+true	真实的
+ugly	難看, 难看 (nánkàn)
+under	在...下面 (zài...xiàmiàn)
+usual	通常 (tōngcháng)
+wet	濕 (shī)
+whole	整個, 整个 (zhěnggè)
+wide	宽, 宽广的 

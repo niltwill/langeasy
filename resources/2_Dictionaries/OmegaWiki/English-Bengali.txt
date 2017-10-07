@@ -1,0 +1,303 @@
+English	Bengali
+Abkhazia	আবখাজিয়া
+Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln	আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন ; আব্রাহাম লিংকন
+Algeria ; People's Democratic Republic of Algeria	আলজেরিয়া
+Angola ; Republic of Angola	এঙ্গোলা
+Antarctica	অ্যান্টার্কটিকা
+Antigua and Barbuda	এন্টিগুয়া এবং বার্বুডা
+Argentina ; Argentine Republic	আর্জেন্টিনা
+Arizona	অ্যারিজোনা
+Armenia	আর্মেনিয়া
+Aruba	আরুবা
+Australia ; Commonwealth of Australia	অস্ট্রেলিয়া
+Austria ; Republic of Austria	অস্ট্রিয়া
+Azerbaijan ; Republic of Azerbaijan	আজারবাইজান ( ; আজারবাইজান
+Bahrain	বাহরাইন
+Bangladesh ; People's Republic of Bangladesh	বাংলাদেশ
+Belgrade	বেল্গ্রেড
+Belize	বেলিজ
+Bengali ; Bengali	বাংলা
+Bhutan ; Kingdom of Bhutan	ভুটান
+Botswana ; Republic of Botswana	বতসোয়ানা
+Brunei ; Negara Brunei Darussalam	ব্রুনাই
+Bulgaria ; Republic of Bulgaria	বুলগেরিয়া
+Burundi ; Republic of Burundi	বুরুন্ডি
+Cambodia ; Kingdom of Cambodia	কম্বোডিয়া
+Cameroon ; Republic of Cameroon	ক্যামেরুন
+Canada	কানাডা
+Chad ; Republic of Chad	চাদ
+Chile ; Republic of Chile	চিলি
+Croatia ; Republic of Croatia	ক্রোয়েশিয়া
+Cuba ; Republic of Cuba	কিউবা
+Cyprus ; Republic of Cyprus	সাইপ্রাস
+Czech Republic ; Czechia	চেক প্রজাতন্ত্র
+Dakar	ডাকার
+Democratic Republic of the Congo ; Congo-Kinshasa	গণতান্ত্রিক কঙ্গো প্রজাতন
+Dominican Republic	ডোমিনিকান প্রজাতন্ত্র
+EU Council	ইউরোপীয় ইউনিয়ান পরিষদমন্ডলী
+Eiffel Tower	আইফেল টাওয়ার
+Eritrea	ইরিত্রিয়া
+Ethiopia ; Federal Democratic Republic of Ethiopia	ইথিওপিয়া
+Fiji ; Republic of the Fiji Islands	ফিজি
+Finland ; Republic of Finland	ফিনল্যান্ড
+France	ফ্রান্স
+French Revolution	ফরাসি বিপ্লব
+Gabon ; Gabonese Republic	গ্যাবন
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	গাম্বিয়া
+Georgia	জর্জিয়া
+Great Britain ; Britain	গ্রেট বৃটেন
+Greece ; Hellenic Republic	গ্রীস
+Greek alphabet	গ্রিক বর্ণমালা
+Haiti ; Republic of Haiti	হাইতি
+Hungary ; Republic of Hungary	হাঙ্গেরি
+Iceland ; Republic of Iceland	আইসল্যান্ড
+Iliad	ইলিয়াড
+India ; Republic of India	ভারত
+Iran ; Islamic Republic of Iran	ইরান
+Iraq ; Republic of Iraq	ইরাক
+Italian ; Italian	ইতালীয় ভাষা
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	আইভরি কোস্ট
+Jakarta ; Djakarta ; DKI Jakarta	জাকার্তা
+Jamaica	জামাইকা
+Japan ; State of Japan	জাপান
+Jordan ; Hashemite Kingdom of Jordan	জর্দান
+Kiribati ; Republic of Kiribati	কিরিবাস
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	লিবিয়া
+Malaysia	মালয়েশিয়া
+Massachusetts	ম্যাসাচুসেট্‌স
+Mauritania ; Islamic Republic of Mauritania	মৌরিতানিয়া
+Montenegro	মন্টিনিগ্রো
+Morocco ; Kingdom of Morocco	মরোক্কো
+Mumbai ; Bombay	মুম্বাই
+Myanmar	মায়ানমার
+Namibia	নামিবিয়া
+October	অক্টোবর
+Oklahoma	ওক্‌লাহোমা
+Pakistan ; Islamic Republic of Pakistan	পাকিস্তান
+Qatar	কাতার
+Romania	রোমানিয়া
+Samoa	সামোয়া
+Saturn	শনশ্চর
+Saudi Arabia ; Kingdom of Saudi Arabia	সৌদি আরব
+Senegal	সেনেগাল
+South Africa	দক্ষিণ আফ্রিকা
+Spain	স্পেন
+Sri Lanka	শ্রীলঙ্কা
+Sudan	সুদান
+Tamil ; Tamil	তামিল
+Thailand	থাইল্যান্ড
+Tuesday	মঙ্গলবার
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	যুক্তরাজ্য
+Vatican City ; The Holy See ; State of the Vatican City	ভ্যাটিকান সিটি
+Zambia ; Republic of Zambia	জাম্বিয়া
+Zimbabwe ; Republic of Zimbabwe	জিম্বাবুয়ে
+acceptance ; credence	অংগীকর ; বিশ্বাস ; আস্থা
+actinium	অ্যাক্টিনিয়াম
+administration ; direction ; management	প্রশাসন
+advance	অগ্রিম
+alchemy	আলকেমি
+aluminium	অ্যালুমিনিয়াম
+americium	অ্যামেরিসিয়াম
+anarchy	অংধার
+anime	অ্যানিমে
+ant	িপপীিলকা ; পিপীলিকা
+apartheid	আপারঠাইট
+apple	আপেল
+apple ; apple tree	আপেল
+argon	আর্গন
+arsenic	আর্সেনিক
+assumption ; supposition	অনুমান
+astatine	এস্টাটিন
+asthma	হাঁপািন ; হাঁপানি
+astrometry	জ্যোতির্মিতি
+astronomy	জ্যোতির্বিজ্ঞান
+bag ; pocket ; steal	থলে
+barium	বেরিয়াম
+bed	বিছানা
+biochemistry	প্রাণরসায়ন
+birthday	জন্ম দিন
+bismuth	বিসমাথ
+blind	অন্ধ
+boat	নৌকা
+bohrium	বোহরিয়াম
+book	বই
+boron	বোরন
+bromine	ব্রোমিন
+cactus	ক্যাক্‌টাস
+cadmium	ক্যাডমিয়াম
+caesium	সিজিয়াম
+calcium	ক্যালসিয়াম
+californium	ক্যালিফোর্নিয়াম
+camel	ঊট
+carbon	কার্বন
+cerium	সিরিয়াম
+chapter	অধ্যায
+chlorine	ক্লোরিন
+chromium	ক্রোমিয়াম
+clothing ; apparel	বস্ত্র
+cobalt	কোবাল্ট
+cobweb	জাল
+cocaine	কোকেইন
+comet	ধূমকেতু
+compensation for damage	ক্ষতিপূরণ
+compound ; chemical compound	যৌগিক পদার্থ
+copper	তামা
+cork	ছিপি
+cow	গরূ
+darmstadtium	ডারমস্টাডটিয়াম
+data exchange	উপাত্ত বিনিময়
+defendant ; accused	অভিযুক্ত
+dog	কুকুর
+dolphin	শুশুক
+dubnium	ডুবনিয়াম
+duck	হাঁস
+dysprosium	ডিসপ্রোসিয়াম
+einsteinium	আইনস্টাইনিয়াম
+elephant	হাতি
+endocrinology	অন্তঃস্রাববিদ্যা
+energy production	শক্তি উৎপাদন
+epilepsy	মৃগী
+equation	সমীকরণ
+equator	নিরক্ষরেখা
+erbium	এরবিয়াম
+estimate	অনুমান
+europium	ইউরোপিয়াম
+exception	অপবাদ
+expenditure	ব্যয়
+fermium	ফার্মিয়াম
+flowing water	জলের প্রবাহ
+fluorine	ফ্লুরিন
+footpath	ফুটপাত
+francium	ফ্রান্সিয়াম
+gadolinium	গ্যাডোলিনিয়াম
+gallium	গ্যালিয়াম
+gastrointestinal tract ; alimentary canal	পাচনতন্ত্র
+germanium	জার্মেনিয়াম
+giraffe	জিরাফ
+gold	সোনা
+goose	হংসী
+guitar	গীটার
+hafnium	হ্যাফনিয়াম
+handkerchief	রুমাল
+hassium	হাসিয়াম
+helium	হিলিয়াম
+holmium	হলমিয়াম
+hope	আশা
+hydrogen	হাইড্রোজেন
+hyena	হায়েনা
+income	আয়
+indium	ইন্ডিয়াম
+infectious disease ; communicable diseases	সংক্রামক ব্যাধি
+iodine	আয়োডিন
+iridium	ইরিডিয়াম
+iron	লোহা
+jackal	শৃগাল
+kidney	বৃক্ক
+kilogram	কিলোগ্রাম
+kokosnoot ; coconut	নারেকল
+krypton	ক্রিপটন
+lanthanum	ল্যান্থানাম
+lawrencium	লরেনসিয়াম
+lead	সীসা
+lethargy ; sluggishness ; languor	আলিশ
+librarian	গ্রন্থাগারিক
+lithium	লিথিয়াম
+lithography	লিথোগ্রাফি
+lutetium	লুটেটিয়াম
+magnesium	ম্যাগনেসিয়াম
+manganese	ম্যাঙ্গানিজ
+market ; marketplace	বাজার
+meitnerium	মেইটনেরিয়াম
+mendelevium	মেন্ডেলেভিয়াম
+mercury	পারদ
+metaphysics	অধিবিদ্যা
+molybdenum	মলিবডেনাম
+museum	যাদুঘর
+napkin	রুমাল
+neodymium	নিওডিমিয়াম
+neon	নিয়ন
+neptunium	নেপচুনিয়াম
+nickel	নিকেল
+niobium	নাইওবিয়াম
+nitrogen	নাইট্রোজেন
+nobelium	নোবেলিয়াম
+nose	নাক
+obsolete	অপ্রচলিত
+one	এক
+opium	আফিম
+organelle	অঙ্গাণু
+orphan	তিম
+osmium	অসমিয়াম
+oxygen	অক্সিজেন
+ozone	ওজোন
+palladium	প্যালাডিয়াম
+pancreas	অগ্ন্যাশয়
+paper industry	কাগজের কারখানা
+petroleum	খনিজ তেল
+pharmacology	ফার্মাকোলজি
+philology	সাংস্কৃতিক ভাষাতত্ত্ব
+phone ; telephone	েটিলেফান ; টেলিফোন
+phosphorus	ফসফরাস
+physiology	শারীরবৃত্ত
+platinum	প্লাটিনাম
+polonium	পোলোনিয়াম
+possession	কবজা
+potassium	পটাশিয়াম
+praseodymium	প্রাসিওডিমিয়াম
+promethium	প্রমিথিয়াম
+pronunciation	উঁচলান
+protactinium	প্রোটেক্টিনিয়াম
+rabbit	খরেগাশ
+radiation ; radiations	রশ্মি বিচ্ছুরণ
+radium	রেডিয়াম
+radon	রেডন
+rhenium	রেহনিয়াম
+rhodium	রোহডিয়াম
+rice	ভাত
+roentgenium	রোয়েন্টজেনিয়াম
+rubidium	রুবিডিয়াম
+ruthenium	রুথেনিয়াম
+rutherfordium	রাদারফোর্ডিয়াম
+salt	লবণ
+samarium	সামারিয়াম
+scandium	স্ক্যানডিয়াম
+seaborgium	সিবোরজিয়াম
+season	মৌসুম
+selenium	সেলেনিয়াম
+semiotics ; semiology	সংকেতবিজ্ঞান
+silver	রূপা
+skeleton	কন্কাল
+sodium	সোডিয়াম
+strontium	স্ট্রনশিয়াম
+sulphur	গন্ধক
+supermarket	বড় েদাকান ; মহাবাজার
+tantalum	ট্যানটালাম
+technetium	টেকনেটিয়াম
+tellurium	টেলুরিয়াম
+terbium	টারবিয়াম
+thallium	থ্যালিয়াম
+thorium	থোরিয়াম
+tin	টিন
+titanium	টাইটানিয়াম
+translation	অনুবাদ
+trophy	ট্রোফি
+tunnel	সুরঁগ
+ununbium	ইউনুনবিয়াম
+ununhexium	ইউনানহেক্সিয়াম
+ununoctium	ইউনুনোকটিয়াম
+ununpentium	ইউনুনপেন্টিয়াম
+ununquadium	ইউনুনকোয়াডিয়াম
+ununseptium	ইউনানসেপটিয়াম
+ununtrium	ইউনুনট্রিয়াম
+uranium	ইউরেনিয়াম
+valuable	দামী ; অমূল্য
+vanadium	ভ্যানাডিয়াম
+water	জল
+web ; spider web	জাল
+xenon	জেনন
+ytterbium	ইটারবিয়াম
+yttrium	ইট্রিয়াম
+zebra	জেবরা
+zero ; null	শুন
+zoology	প্রাণিবিজ্ঞান
+Åland Islands	অলান্দ দ্বীপপুঞ্জ

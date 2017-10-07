@@ -1,0 +1,2046 @@
+German	English
+AIDS	AIDS
+Abidjan	Abidjan
+Abchasisch (n)	Abkhaz
+Abchasien (n)	Abkhazia
+Abraham	Abraham
+Adam (m)	Adam
+Afghanistan (n)	Afghanistan
+Afrika (n)	Africa
+Afrikaans (n)	Afrikaans
+Alaska	Alaska
+Albanien (n)	Albania
+Alberta (n)	Alberta
+Alexander (m)	Alexander
+Algerien (n)	Algeria
+Algier	Algiers
+Allah (m)	Allah
+Alpen (f)	Alps
+Amerika (n)	America
+Amerikaner (m); Amerikanerin (f); Ami (m); Amis (m)	American
+Nordamerikanischer Bison (m)	American bison
+Amsterdam (n)	Amsterdam
+Amur (m)	Amur
+Andorra (n)	Andorra
+Andreas	Andrew
+Angelsächsisch (n); Altenglisch (n)	Anglo
+Angola	Angola
+Ankara (n)	Ankara
+Antarktis (f)	Antarctica
+Antigua und Barbuda (n)	Antigua and Barbuda
+April (m); Ostermond (m)	April
+Arabisch (n)	Arabic
+Arktischer Ozean (m)	Arctic Ocean
+Argentinien (n)	Argentina
+Armenien (n)	Armenia
+Armenier (m); Armenierin (f)	Armenian
+Asklepios (m); Äskulap (m)	Asclepius
+Asien (n)	Asia
+Athene (f)	Athena
+Athen (n)	Athens
+Atlantischer Ozean (m); Atlantik (m)	Atlantic Ocean
+August (m); Ernting (m)	August
+Australien (n)	Australia
+Österreich (n)	Austria
+Aymara (n)	Aymara
+Aserbaidschan (n)	Azerbaijan
+Aserbaidschanisch (n)	Azeri
+Bahamas (p)	Bahamas
+Bahrain	Bahrain
+Baku	Baku
+Balearische Inseln	Balearic Islands
+Ostsee (f); Baltisches Meer (n)	Baltic Sea
+Bambara (n)	Bambara
+Bangkok (n)	Bangkok
+Bangladesch (n); Bangladesh (n)	Bangladesh
+Barbados (n)	Barbados
+Baschkirisch (n)	Bashkir
+Peking	Beijing
+Beirut	Beirut
+Weißrussland (n); Belarus (f)	Belarus
+Weißrussisch (n)	Belarusian
+Belgien (n)	Belgium
+Belgrad (n); Weißenburg (n) 	Belgrade
+Weißrussisch	Belorussian
+Berlin (n)	Berlin
+Bermudas	Bermuda
+Bhutan	Bhutan
+Bibel (f)	Bible
+Schwarzes Meer (n)	Black Sea
+Bolivien	Bolivia
+Bosnien	Bosnia
+Bosnien und Herzegowina (n)	Bosnia and Herzegovina
+Bosporus (m)	Bosphorus
+Botsuana	Botswana
+Brasilien (n)	Brazil
+Bretonisch (n)	Breton
+Brunei Darussalam	Brunei
+Brüssel (n)	Brussels
+Bukarest (n)	Bucharest
+Buddha (m)	Buddha
+Buddhismus (m)	Buddhism
+Bulgarien (n)	Bulgaria
+Bulgarisch (n)	Bulgarian
+Burkina Faso (n)	Burkina Faso
+Byzantinisches Reich (n)	Byzantine Empire
+Kambodscha (n)	Cambodia
+Kamerun	Cameroon
+Kanada (n)	Canada
+Kap Verde	Cape Verde
+Karthago (n)	Carthage
+Kaspisches Meer (n)	Caspian Sea
+Katalanisch (n)	Catalan
+Kaukasus (m)	Caucasus
+Zentralafrikanische Republik	Central African Republic
+Tschad	Chad
+Chicago	Chicago
+Chile	Chile
+China (n)	China
+die Chinesen (p)	Chinese
+Kischinau (n); Chișinău (n)	Chisinau
+Christus (m)	Christ
+Christ (m); Christin (f); Urchrist (m); Urchristin (f)	Christian
+Christentum (n); Urchristentum (n)	Christianity
+Weihnachten (n)	Christmas
+Christoph; Christof	Christopher
+Coca-Cola	Coca
+Kolumbien (n)	Colombia
+Konstantinopel	Constantinople
+Kopenhagen (n)	Copenhagen
+Costa Rica (n)	Costa Rica
+Kroatien (n)	Croatia
+Kroatisch	Croatian
+Kuba (n)	Cuba
+Zypern (n)	Cyprus
+Kyrillisch (n)	Cyrillic
+Tschechisch (n)	Czech
+Tschechische Republik; Tschechien (n); Tschechei (f)	Czech Republic
+Tschechien (n); Tschechei (f)	Czechia
+Tschechoslowakei (f)	Czechoslovakia
+Damaskus (n)	Damascus
+Dänisch (n)	Danish
+Donau (f)	Danube
+Totes Meer (n)	Dead Sea
+Dezember (m); Julmond (m)	December
+Dänemark (n)	Denmark
+Dominikanische Republik	Dominican Republic
+niederländisch; holländisch	Dutch
+Erde (f)	Earth
+Osttimor	East Timor
+Ostern (n)	Easter
+Osterinsel (f)	Easter Island
+Osteuropa (n)	Eastern Europe
+Edmonton	Edmonton
+Ägypten (n)	Egypt
+England (n)	England
+Engländer (m); Engländerin (f)	English
+Esperanto (n)	Esperanto
+Estland	Estonia
+Äthiopien (n)	Ethiopia
+Eurasien (n)	Eurasia
+Europa (n)	Europe
+Europäische Union (f)	European Union
+Wisent (m)	European bison
+Ferner Osten (m)	Far East
+die Färöer	Faroe Islands
+Färöisch (n)	Faroese
+Februar (m)	February
+Fidschi	Fiji
+Finnland (n)	Finland
+Finnisch (n)	Finnish
+Frankreich (n)	France
+die Franzosen (p)	French
+Freitag (m)	Friday
+BIP	GDP
+Gazastreifen (m)	Gaza Strip
+Genf (n)	Geneva
+Georg	George
+Georgien (n); Grusien (n)	Georgia
+Georgisch (n); Grusinisch (n)	Georgian
+deutsch	German
+Deutschland (n)	Germany
+Ghana	Ghana
+Gent	Ghent
+Gibraltar	Gibraltar
+Goa	Goa
+Gott (m)	God
+Großbritannien (n)	Great Britain
+Cheops-Pyramide (f)	Great Pyramid of Giza
+Griechenland (n)	Greece
+Grieche (m); Griechin (f); Griechen (m); Griechinnen (f)	Greek
+Grönland (n)	Greenland
+Guinea	Guinea
+Gujaratisch (n); Gudscharati (n)	Gujarati
+Finnischer Meerbusen (m)	Gulf of Finland
+Guyana	Guyana
+Haiti	Haiti
+frohes neues Jahr; Frohes Neues Jahr; Ein gutes neues Jahr; Fröhliches neues Jahr; Guten Rutsch; Guten Rutsch ins neue Jahr; Gutes neues Jahr	Happy New Year
+Hebräisch (n)	Hebrew
+Hisbollah	Hezbollah
+Hindi (n)	Hindi
+Hokkaido; Hokkaidō	Hokkaido
+Holland (n); Niederlande (n)	Holland
+Holocaust (m); Judenmord (m); Judenvernichtung (f); (m) Schoah (f); (f) (f)	Holocaust
+Heiliger Geist (m)	Holy Spirit
+Hongkong (n)	Hong Kong
+Ungar (m); Ungarin (f)	Hungarian
+Ungarn (n)	Hungary
+ich	I
+ich bin Engländer (m); ich bin Engländerin (f)	I am English
+ich habe eine Frage	I have a question
+Ich habe dich lieb	I love you
+ich brauche einen Dolmetscher	I need an interpreter
+Island (n)	Iceland
+Indien (n)	India
+Indischer Ozean (m)	Indian Ocean
+Indonesien (n)	Indonesia
+Interlingua	Interlingua
+Internationales Phonetisches Alphabet (n)	International Phonetic Alphabet
+Internet (n)	Internet
+Iran (m)	Iran
+Irak (m)	Iraq
+Irland (n)	Ireland
+Islam (m)	Islam
+Israel (n)	Israel
+italienisch	Italian
+Italien (n)	Italy
+Jamaika (n)	Jamaica
+Januar (m)	January
+Japan	Japan
+japanisch	Japanese
+Jerusalem	Jerusalem
+Jesus	Jesus
+Jesus Christus (m)	Jesus Christ
+Jude (m); Jüdin (f)	Jew
+jüdisch	Jewish
+Johann; Johannes	John
+Jordanien (n)	Jordan
+Josef	Joseph
+Judentum (n)	Judaism
+Juli (m); Heuert (m)	July
+Juni (m); Brachet (m)	June
+Jupiter (m)	Jupiter
+Kannada (n)	Kannada
+Karnataka	Karnataka
+Kasachstan (n)	Kazakhstan
+Kenia	Kenya
+Khartum	Khartoum
+Khmer (n)	Khmer
+Chruschtschow (m)	Khrushchev
+Kiew (n)	Kiev
+Korea (n)	Korea
+Koreanisch (n)	Korean
+Kosovo (m)	Kosovo
+Kurdisch (n)	Kurdish
+Kuwait (n)	Kuwait
+Kirgisistan (n); Kirgisien (n)	Kyrgyzstan
+Laos	Laos
+Latein (n); Lateinisch (n)	Latin
+Lettland (n)	Latvia
+Liberia	Liberia
+Libyen (n)	Libya
+Liechtenstein	Liechtenstein
+Lissabon (n)	Lisbon
+Litauen	Lithuania
+London (n)	London
+Luxemburg (n)	Luxembourg
+Ehemalige Jugoslawische Republik Mazedonien (f); EJRM (f); Mazedonien (n)	Macedonia
+Magna Carta (f)	Magna Carta
+Malayalam (n)	Malayalam
+Malaysia (n); Malaysien (n)	Malaysia
+Malediven	Maldives
+Malta	Malta
+Mensch; Mann (m)	Man
+Mandschurei (n)	Manchuria
+Maoismus (m)	Maoism
+März (m); Lenzing (m)	March
+Mars (m)	Mars
+Marshallinseln	Marshall Islands
+Maria	Mary
+Matthias	Matthew
+Mauritius (n)	Mauritius
+Mai (m); Wonnemond (m)	May
+Mittelmeer (n)	Mediterranean Sea
+Merkur (m)	Mercury
+frohe Weihnachten; fröhliche Weihnachten	Merry Christmas
+Frohe Weihnachten und ein glückliches Neues Jahr	Merry Christmas and a Happy New Year
+Mexiko (n)	Mexico
+Michael	Michael
+Naher Osten (m); Mittlerer Osten (m)	Middle East
+Minsk (n)	Minsk
+Fräulein (n) 	Miss
+Moldawien (n); Moldau (n); Moldova	Moldova
+Monaco (n)	Monaco
+Montag (m)	Monday
+Mongolei (f)	Mongolia
+Montenegro (n) 	Montenegro
+Mond (m); Erdtrabant (m); Erdsatellit (m)	Moon
+Marokko	Morocco
+Moskau (n)	Moscow
+Moses (m); (m)	Moses
+Mount Everest (m)	Mount Everest
+Mosambik	Mozambique
+Fr; Frau (f)	Mrs
+Mohammed (m)	Muhammad
+Mumbai (n)	Mumbai
+München (n)	Munich
+Muslim (m); Moslem (m); Muslimin (f); Muslima (f); Muselmane (m); Muselmanin (f)	Muslim
+Myanmar (n)	Myanmar
+NATO (f)	NATO
+Namibia	Namibia
+Pyinmana Naypyidaw	Naypyidaw
+Nepal (n)	Nepal
+Neptun (m)	Neptune
+Holland (n); (n)	Netherlands
+Neu-Delhi (n)	New Delhi
+New York City; New York	New York City
+Neuseeland (n)	New Zealand
+Nicaragua (n)	Nicaragua
+Nikolaus; Klaus	Nicholas
+Nigeria	Nigeria
+Nordamerika (n)	North America
+Nordkorea (n)	North Korea
+Nordeuropa (n)	Northern Europe
+Nordirland (n)	Northern Ireland
+Norwegen (n)	Norway
+November (m); (m)	November
+Okzitanisch (n)	Occitan
+Ozeanien (n)	Oceania
+Oktober (m)	October
+Olympische Spiele (n); Olympiade (f)	Olympic Games
+Oman (m)	Oman
+Pazifischer Ozean (m); Pazifik (m); Stiller Ozean (m); Großer Ozean (m)	Pacific Ocean
+Pakistan (n)	Pakistan
+Palästina (n)	Palestine
+Papua-Neuguinea (n)	Papua New Guinea
+Paris	Paris
+Paul (m)	Paul
+Persisch (n)	Persian
+Peru (n)	Peru
+Philippinen	Philippines
+Plejaden (f)	Pleiades
+Pluto (m)	Pluto
+Polen (n)	Poland
+Polnisch (n)	Polish
+Portugal (n)	Portugal
+Portugiesisch (n)	Portuguese
+Prag	Prague
+Pythagoras	Pythagoras
+Rotes Meer	Red Sea
+Reykjavík (n)	Reykjavik
+Rumänien (n)	Romania
+Rumänisch (n)	Romanian
+Rom (n)	Rome
+Rußland (n); (n)	Russia
+russisch 	Russian
+Russische Föderation (f); Russländische Föderation (f)	Russian Federation
+Ruanda (n)	Rwanda
+Sankt Petersburg (n)	Saint Petersburg
+Sanskrit (n)	Sanskrit
+Sankt Nikolaus (m); Weihnachtsmann (m); Christkind (n); Samichlaus (m) 	Santa Claus
+Satan (m)	Satan
+Samstag (m); Sonnabend (m); Sabbat (m)	Saturday
+Saturn (m)	Saturn
+Saudi-Arabien (n)	Saudi Arabia
+Schottland (n)	Scotland
+Senegal	Senegal
+Seoul (n)	Seoul
+September (m); Scheiding (m)	September
+Serbe (m); Serbin (f)	Serb
+Serbien (n)	Serbia
+Serbien und Montenegro	Serbia and Montenegro
+Serbe (m); Serbin (f)	Serbian
+Sibirien (n)	Siberia
+Sizilien	Sicily
+Singapur	Singapore
+Slowakei (f)	Slovakia
+Slowenisch (n); Windisch (n)	Slovene
+Slowenien (n)	Slovenia
+Schneewittchen (n)	Snow White
+Sofia	Sofia
+Sonnensystem (n)	Solar System
+Somalia (n)	Somalia
+Südafrika (n)	South Africa
+Südamerika (n)	South America
+Südasien (n)	South Asia
+Südkorea (n), officially: Republik Korea (f)	South Korea
+Südossetien (n)	South Ossetia
+Südostasien	Southeast Asia
+Sowjetunion (f)	Soviet Union
+Spanien (n)	Spain
+spanisch	Spanish
+Sparta	Sparta
+Sri Lanka	Sri Lanka
+Stalin (m)	Stalin
+Sudan (m)	Sudan
+Sueskanal (m); Suezkanal (m)	Suez Canal
+Sonntag (m)	Sunday
+Surinam	Suriname
+Schweden (n)	Sweden
+Schwedisch (n)	Swedish
+Schweiz (f)	Switzerland
+Syrien (n)	Syria
+Taipeh (n)	Taipei
+Taiwan	Taiwan
+Tadschikistan (n)	Tajikistan
+Tallinn (n); Reval (n) 	Tallinn
+Tanganjikasee	Tanganyika
+Tansania (n)	Tanzania
+Tiflis	Tbilisi
+Teheran (n)	Tehran
+Tel Aviv-Jaffa	Tel Aviv
+Telugu (n)	Telugu
+zehn Gebote (n'p)	Ten Commandments
+Thailändisch (n)	Thai
+Thailand (n)	Thailand
+Den Haag (m)	The Hague
+Donnerstag (m)	Thursday
+Transnistrien (n)	Transnistria
+Siebenbürgen (n)	Transylvania
+Dienstag (m)	Tuesday
+Tunesien (n)	Tunisia
+Türkei (f)	Turkey
+Türkisch (n)	Turkish
+Turkmenistan (n)	Turkmenistan
+UdSSR (f)	USSR
+Uganda	Uganda
+Ukraine (f)	Ukraine
+Ukrainisch (n)	Ukrainian
+Vereinigte Arabische Emirate (f)	United Arab Emirates
+Vereinigtes Königreich (n); Großbritannien (n)	United Kingdom
+USA (f); Vereinigte Staaten	United States
+Vereinigte Staaten von Amerika (m); Vereinigten Staaten (m); USA (m) 	United States of America
+Uranus (m)	Uranus
+Usbekistan (n)	Uzbekistan
+Vatikanstadt (f); Vatikan (n)	Vatican City
+Venezuela (n)	Venezuela
+Venus (f)	Venus
+Tag des Sieges (m)	Victory Day
+Wien (n)	Vienna
+Vietnam (n)	Vietnam
+Vishnu	Vishnu
+Wales (n)	Wales
+Warschau (n)	Warsaw
+Mittwoch (m); Wotanstag (m)	Wednesday
+Westeuropa (n)	Western Europe
+Westsahara (f)	Western Sahara
+Weißes Haus (n)	White House
+Weißes Meer (n)	White Sea
+Wikipedia	Wikipedia
+Wiktionary (n); Wikiwörterbuch (n)	Wiktionary
+Flagge (f); Fahne (f)	Wiktionary:Usability/flag
+Wilhelm	William
+Breslau (n); Wrocław (n)	Wroclaw
+Rangun (n)	Yangon
+Jangtse	Yangtze
+Yaoundé (n)	Yaoundé
+Jemen (n)	Yemen
+Eriwan (n)	Yerevan
+Jugoslavien (n)	Yugoslavia
+Zagreb (n) 	Zagreb
+Sambia	Zambia
+Erdferkel (n)	aardvark
+Abakus (m); Rechenbrett (n)	abacus
+aufgeben; verlassen	abandon
+Abt (m)	abbot
+Bauch (m); Unterleib (m)	abdomen
+Akkordeon (n); Ziehharmonika (f); Handharmonika (f); Handorgel (f); Quetsche (f); Quetschkommode (f); Schifferklavier (n)	accordion
+Eichel (f)	acorn
+Actinium (n)	actinium
+Schauspieler (m); Schauspielerin (f)	actor
+Adresse (f)	address
+adjektivisch	adjective
+Bewunderung (f)	admiration
+Adverb (n); Umstandswort (n)	adverb
+Anzeige (f), Werbung (f), Annonce (f), Reklameanzeige (f)	advertisement
+Flugzeug (n)	aeroplane
+nach	after
+Nachmittag (m)	afternoon
+erneut; noch einmal; nochmal; wieder; schon wieder	again
+Alter (n)	age
+aggressiv; angriffslustig	aggressive
+Landwirtschaft (f)	agriculture
+Luft (f)	air
+Flugzeug (n)	aircraft
+Flugzeug (n)	airplane
+Flughafen (m); Flugplatz (m)	airport
+Al-Qaida (f)	al
+Alkohol (m); Branntwein 	alcohol
+lebendig	alive
+all; alle; jeder (m); jede (f); jedes (n); jede	all
+alle Rechte vorbehalten	all rights reserved
+Alligator (m)	alligator
+Mandel (f)	almond
+fast	almost
+Alphabet (n)	alphabet
+bereits; schon	already
+auch	also
+Aluminium (n)	aluminium
+immer; stets	always
+bin	am
+Bernstein (m)	amber
+Rettungswagen (m); Krankenwagen (m)	ambulance
+Americium (n)	americium
+Et-Zeichen; Kaufmannsund (n)	ampersand
+ein (m); eine (f); ein (n)	an
+Analverkehr (m); Analsex (m)	anal sex
+Anarchismus (m)	anarchism
+Anker (m)	anchor
+und	and
+Engel (m)	angel
+Ärger; Zorn (m)	anger
+böse; verärgert; zornig	angry
+Tier (n)	animal
+Anime (m)	anime
+Knöchel (m); Fußknöchel (m); enkel	ankle
+Antwort (f)	answer
+Ameise (f)	ant
+Milzbrand (m)	anthrax
+Antimon (n)	antimony
+Antonym (n)	antonym
+Anus (m); After (m)	anus
+Amboss (m)	anvil
+Apfel (m)	apple
+Apfelbaum (m)	apple tree
+Aprikose (f); Marille (f) 	apricot
+Archäologie (f)	archaeology
+Architekt (m); Architektin (f)	architect
+Architektur (f)	architecture
+Silber (n)	argent
+Argon (n)	argon
+Arm (m)	arm
+Achselhöhle (f)	armpit
+Armee (f); Heer (n); Landstreitkräfte (f)	army
+Pfeil (m)	arrow
+Arsen (n)	arsenic
+Artischocke (f)	artichoke
+Artikel (m)	article
+Asche (f)	ash
+bitten	ask
+Arsch (m)	ass
+Astat (n), Astatin (n)	astatine
+Asteroid (m)	asteroid
+Astronomische Einheit (f)	astronomical unit
+Astronomie (f)	astronomy
+Astrophysik (f)	astrophysics
+an; auf; bei; in	at
+Klammeraffe (f); at-Zeichen (n); at	at sign
+Atheismus (m)	atheism
+Atom (n)	atom
+Aubergine (f), Eierfrucht (f), Melanzani (f) (Austria)	aubergine
+Tante (f)	aunt
+Herbst (m)	autumn
+Lawine (f)	avalanche
+Axt (f)	axe
+Achse (f)	axis
+Baby (n); Säugling (m); Kleinkind (n)	baby
+Babysitter (m); Kinderhüter (m); Kinderhüterin (f); Kinderbetreuer (m); Kinderbetreuerin (f)	babysitter
+Rücken (m)	back
+schlecht	bad
+Dachs (m)	badger
+Beutel (m); Tasche (f); Tüte (f); Sack (m)	bag
+Sackpfeife (f); Dudelsack (m)	bagpipes
+Bäckerei (f)	bakery
+Balkon (m)	balcony
+kahl; glatzköpfig	bald
+Ballon (m); Luftballon (m)	balloon
+Banane (f)	banana
+Bank (f)	bank
+Strichcode (m); Balkencode (m); Barcode (m)	barcode
+Barium (n)	barium
+(f) (f) Rinden	bark
+Gerste (f)	barley
+Schleiereule (f)	barn owl
+Basalt (m)	basalt
+Baseball (m)	baseball
+Korb (m)	basket
+Basketball (m)	basketball
+Fledermaus (f)	bat
+Badezimmer (n); Bad (n)	bathroom
+Batterie (f)	battery
+Schlacht (f)	battle
+Golf (m); Bucht (f); Meerbusen (m)	bay
+stattfinden	be
+Strand (m)	beach
+Schnabel (m)	beak
+Bohne (f)	bean
+Bär (m)	bear
+Bart (m)	beard
+schön	beautiful
+Schönheit (f)	beauty
+Biber (m)	beaver
+weil; denn; da	because
+werden	become
+Bett (n)	bed
+Schlafzimmer (n)	bedroom
+Biene (f); Imme (f)	bee
+Buche (f)	beech
+Rindfleisch (n); Ochsenfleisch	beef
+Bier (n)	beer
+Käfer (m)	beetle
+bevor; vor	before
+anfangen; beginnen; starten	begin
+hinter	behind
+Glocke (f)	bell
+Bauch (m)	belly
+Gürtel (m)	belt
+Berkelium (n)	berkelium
+Beryllium (n)	beryllium
+besser	better
+Fahrrad (n); Velo (n); (m)	bicycle
+groß	big
+Schnabel (m)	bill
+Milliarde (f)	billion
+Biochemie (f)	biochemistry
+Biologie (f)	biology
+bipolare Störung	bipolar disorder
+Birke (f)	birch
+Vogel (m); Vogelmännchen (n); Vogelweibchen (n); Jungvogel (m); Vögelchen (n); Vöglein (n); Vögelein (n)	bird
+Geburt (f)	birth
+Geburtstag (m)	birthday
+Keks	biscuit
+Läufer (m)	bishop
+Wismut (n); Bismut (n)	bismuth
+Hündin (f); (f) (f) (f) Schakalin (f)	bitch
+beißen	bite
+bitter	bitter
+Schwarz (n)	black
+Birkhuhn (n)	black grouse
+schwarzes Loch (n)	black hole
+Schwarzspecht	black woodpecker
+Brombeere (f)	blackberry
+Amsel (f)	blackbird
+Decke (f)	blanket
+bluten	bleed
+Gesundheit	bless you
+blind	blind
+Blog (n)	blog
+Blut (n)	blood
+Blau (n)	blue
+Wildschwein (n)	boar
+Boot (n); Schiff (n)	boat
+Körper (m)	body
+Bohrium (n)	bohrium
+Bombe (f)	bomb
+guten Appetit	bon appétit
+gute Reise	bon voyage
+Knochen (m); Gebeine (f); Bein (n)	bone
+Buch (n)	book
+Buchhandlung (f); Buchladen (m)	bookshop
+Stiefel (m)	boot
+Bor (n)	boron
+Flasche (f)	bottle
+Bogen (m)	bow
+Kasten (m); Kiste (f); Box (f)	box
+Junge (m); Knabe (m); Bub (m)	boy
+Büstenhalter (m); BH (m); Busenhalter (m)	bra
+Gehirn (n); Hirn (n)	brain
+Ast (m); Zweig (m)	branch
+tapfer; mutig	brave
+Brot (n)	bread
+Frühstück (n); Zmorge (f); Morgenessen (n)	breakfast
+Brust (f)	breast
+atmen	breathe
+Backstein; Ziegel (m)	brick
+Braut (f)	bride
+Brücke (f)	bridge
+Brom (n)	bromine
+Besen (m)	broom
+Bruder (m) 	brother
+braun	brown
+Bürste (f); (paint-) Pinsel (m)	brush
+Eimer (m)	bucket
+Büffel (m); Wisent (n)	buffalo
+Bau (m); Bauen (n)	building
+Bulle (m); Stier (m); Bummal 	bull
+Kugel (f)	bullet
+Hummel (f)	bumblebee
+brennen	burn
+Bus (m)	bus
+beschäftigt	busy
+aber 	but
+Metzger (m); Fleischer (m); Schlachter (m)	butcher
+Butter (f)	butter
+Schmetterling (m), Falter (poetic), Summervogl (Switzerland)	butterfly
+kaufen	buy
+Bussard (m)	buzzard
+Kohl (m)	cabbage
+Kaktus (m)	cactus
+Kadmium (n); Cadmium (n)	cadmium
+Cäsium (n); Zäsium (n)	caesium
+Café (n)	café
+Kuchen (m)	cake
+Kalzium (n); Calcium (n)	calcium
+Kalender (m)	calendar
+Kalb (n)	calf
+Californium (n)	californium
+Kamel (n); Trampeltier (n)	camel
+können	can
+Kanal (m)	canal
+Kanarienvogel (m)	canary
+Krebs	cancer
+Kerze (f)	candle
+Cannabis (m); Hanf (m)	cannabis
+Schlucht (f); Felsschlucht (f); Klamm (f)	canyon
+Auerhuhn (n)	capercaillie
+Kapital (n)	capital
+Hauptstadt (f)	capital city
+Kapitalismus (m)	capitalism
+Auto (n); Automobil (n); Wagen (m); PKW (m)	car
+Kohlenstoff (m)	carbon
+Zimmermann (m); (m) Tischler (m); Bauschreiner (m) 	carpenter
+Teppich (m); Teppichboden	carpet
+Möhre (f); Mohrrübe (f); Karotte (f)	carrot
+tragen	carry
+Burg (f); Festung (f); Schloss (n)	castle
+Katze (f)	cat
+Raupe (f)	caterpillar
+Blumenkohl (m); Karfiol (m)	cauliflower
+Höhle (f)	cave
+Zeder	cedar
+Decke (f)	ceiling
+Zelle (f)	cell
+Mobiltelefon (n); Funktelefon (n); Handy (n)	cell phone
+Mitte (f); Mittelpunkt (m); Zentrum (n)	center
+Zentimeter (m)	centimetre
+Hundertfüßer (m); Tausendfüßer (m)	centipede
+Jahrhundert (n)	century
+Cer (n)	cerium
+Kette (f)	chain
+Stuhl (m)	chair
+Gams (f); Gemse (f); Gämse (f)	chamois
+Änderung (f); Veränderung (f); Wandel (m)	change
+Unordnung (f); Chaos (n)	chaos
+Kapitel (n); Abschnitt (m)	chapter
+jagen; verfolgen	chase
+billig; preiswert; preisgünstig	cheap
+Wange (f), Backe (f) (informal)	cheek
+prost; servus; zum Wohl	cheers
+Käse (m), Kas (m) (Bavarian)	cheese
+Gepard (m)	cheetah
+Chemie (f)	chemistry
+Scheck (m)	cheque
+Kirsche (f)	cherry
+Schach (n)	chess
+Brust (f)	chest
+Kastanie (f); Esskastanie (f)	chestnut
+kauen	chew
+Huhn (n)	chicken
+Kind (n)	child
+Schimpanse (m)	chimpanzee
+Kinn (n)	chin
+Chlor (n)	chlorine
+Schokolade (f)	chocolate
+Wahl (f)	choice
+Chor (m)	choir
+auswählen; wählen	choose
+Akkord	chord
+Chrom (n)	chromium
+Kirche (f)	church
+Zigarette (f)	cigarette
+Kino (n)	cinema
+Kreis (m)	circle
+Stadt (f)	city
+Klarinette (f)	clarinet
+Lehm (m); Ton (m)	clay
+sauber; rein	clean
+Klitoris (f); Kitzler (m)	clitoris
+Uhr (f)	clock
+schließen; zumachen	close
+Kleidung (f); Klamotten (f)	clothes
+Wolke (f)	cloud
+Küste, Küstenland, Strand, Ufer	coast
+Kobalt (n)	cobalt
+Hahn (m)	cock
+Schabe (f); Kakerlake (m)	cockroach
+Kokosnuss (f)	coconut
+Kaffee (m)	coffee
+Sarg (m)	coffin
+Münze (f); Geldstück (n)	coin
+Erkältung (f); Verkühlung (f)	cold
+kalter Krieg (m)	cold war
+Farbe (f)	color
+Akelei (f)	columbine
+Kamm (m)	comb
+kommen	come
+Sturmmöwe (f)	common gull
+Kommunismus (m)	communism
+Kompass (m); Seekompass (m)	compass
+Computer (m); Rechner (m)	computer
+Computersprache (f); Programmiersprache (f)	computer language
+Genosse (m); Kamerad (m)	comrade
+Beton (m)	concrete
+Präservativ (n), Kondom (n), Präser, Pariser , Gummi (colloquial) (n), Fuffz´cher (East German'colloquial); Puderdose (Austria'colloquial) (f); Verhüterli (Switzerland' colloquial), Ficktüte (f) (vulgar)	condom
+Konjunktion (f); Bindewort (n)	conjunction
+Gewissen (n)	conscience
+Kontinent (m); Erdteil (m)	continent
+Konversation (f); Unterhaltung (f); Gespräch (n)	conversation
+Kupfer (n)	copper
+Mais (m)	corn
+Leiche (f); Leichnam (m)	corpse
+Korridor (m); Gang (m); Durchgang (m)	corridor
+Baumwolle (f)	cotton
+husten	cough
+zählen	count
+Land (n); (f) (f)	country
+Courage (f); Mut (m)	courage
+Kuh (f)	cow
+Krabbe (f); Krebs (m)	crab
+Kranich (m)	crane
+Sahne (f); Obers (n); Rahm (m)	cream
+Grille (f)	cricket
+Verbrechen (n)	crime
+Krokodil (n)	crocodile
+Kreuz (n)	cross
+Kreuzworträtsel (n) :de:Kreuzworträtsel'(de)	crossword
+Krähe (f)	crow
+grausam	cruel
+weinen	cry
+Kristall (m)	crystal
+Kubus (m)	cube
+Kuckuck (m)	cuckoo
+Gurke (f)	cucumber
+Kultur (f)	culture
+Fotze (f); Muschi (f); Möse (f)	cunt
+Tasse (f); Becher (m); Kelch (m)	cup
+Curium (n)	curium
+Strömung (f)	current
+Fluch (m); Verwünschung (f); Verdammnis (f)	curse
+radfahren	cycling
+tanzen	dance
+gefährlich	dangerous
+dunkel; finster	dark
+dunkle Materie (f)	dark matter
+Dunkelheit (f); Finsternis (f)	darkness
+Daten (n)	data
+Treffen (n); Verabredung (f)	date
+Dattelpalme (f)	date palm
+Schwiegertochter (f)	daughter
+Tag (m)	day
+tot (1,3), gestorben (2)	dead
+taub; gehörlos	deaf
+teuer	dear
+Tod (m)	death
+Jahrzehnt (n), (archaic) Dekade (f)	decade
+Hirsch (m)	deer
+köstlich; lecker; geschmackvoll	delicious
+Demokratie (f)	democracy
+Dämon (m)	demon
+Zahnarzt (m); Zahnärztin (f)	dentist
+Wüste (f)	desert
+Teufel (m)	devil
+Tau (m)	dew
+Dialekt (m); Mundart	dialect
+Tagebuch (n)	diary
+Schwanz (m)	dick
+Wörterbuch (n)	dictionary
+Würfel (m)	die
+schwer; schwierig	difficult
+graben	dig
+Esszimmer (n); Speisezimmer (n)	dining room
+Dinosaurier (m); Saurier (m)	dinosaur
+schmutzig; dreckig; verdreckt	dirty
+Diskussion (f)	discussion
+Krankheit (f)	disease
+tun; machen	do
+sprichst du Englisch? (informal), sprechen Sie Englisch? (formal)	do you speak English
+Doktor (m); Doktorin (f)	doctor
+Dokumentation	documentation
+Hund (m); Rüde (m); Hündin (f)	dog
+Puppe (f)	doll
+Dollar (m)	dollar
+Delphin (m); Delfin (m)	dolphin
+Abgabe (f); Spende (f)	donation
+Esel (m)	donkey
+Tür (f); Türen; Türe (f)	door
+Bilch (m); Schläfer (m); Schlafmaus (f)	dormouse
+Zweifel (m)	doubt
+Taube (f)	dove
+Dutzend (n)	dozen
+Drache (m)	dragon
+Libelle (f)	dragonfly
+träumen	dream
+Kleid :de:Kleid'(de) (n)	dress
+Trunk (m)	drink
+Dromedar (n)	dromedary
+Tropfen (m)	drop
+Trommel (f)	drum
+betrunken; besoffen	drunk
+trocken	dry
+Dubnium (n)	dubnium
+Ente (f)	duck
+Staub (m)	dust
+Pflicht (f)	duty
+Dysprosium (n)	dysprosium
+E-Mail (f); Mail (f)	e
+z. B. (zum Beispiel)	e.g.
+alle; jeder	each
+Adler (m), Aar (m) (poetic)	eagle
+Uhu (m); Uhumännchen (n); Uhuweibchen (n); Uhuküken (n); Uhubaby (n); Schuhu (m)	eagle owl
+Ohr (n)	ear
+früh	early
+Erde (f); Grund (m)	earth
+Erdbeben (n)	earthquake
+Regenwurm (m)	earthworm
+Osten (m); Ost	east
+leicht; einfach	easy
+essen, fressen (used for animals only)	eat
+Echo (n); Widerhall (m)	echo
+Öko-	eco
+Ökologie (f)	ecology
+Ökonomie (f); Wirtschaftswissenschaft (f)	economics
+Ausbildung (f); Erziehung (f); Schulung (f); Unterricht (m); Pädagogik (f)	education
+Aal (m); Aalartige	eel
+Ei (n)	egg
+acht	eight
+achtzehn	eighteen
+achte ('abbreviation' 8.)	eighth
+achtzig (f)	eighty
+Einsteinium (n)	einsteinium
+Ejakulation (f); Samenerguss (m)	ejaculation
+Ellbogen (m)	elbow
+Elektrizität (f)	electricity
+Elektromagnetismus (m)	electromagnetism
+Elektron (n)	electron
+Elektronik	electronics
+Elefant (m); Elefantin (f)	elephant
+elf	eleven
+Elf (m); Elfe (f); Elb (m); Alb (m); Alp (m)	elf
+Botschaft (f)	embassy
+Kaiser (m); Imperator (m)	emperor
+leer	empty
+Enzyklopädie (f)	encyclopedia
+Ende (n); Schluss (m)	end
+Feind (m)	enemy
+Energie (f)	energy
+guten Appetit	enjoy your meal
+hereingehen; eintreten; betreten	enter
+Epithel (n)	epithelium
+Gleichung (f)	equation
+Erbium (n)	erbium
+Erektion (f)	erection
+Hermelin (n)	ermine
+erotisch	erotic
+Etymologie (f)	etymology
+Euro (m)	euro
+Europium (n)	europium
+Abend (m)	evening
+Ereignishorizont (m)	event horizon
+jeder; jede; jedes	every
+alle; jedermann; jeder	everybody
+alle; jedermann; jeder	everyone
+alles (n)	everything
+böse; übel	evil
+teuer :de:teuer'(de)	expensive
+Ausdruck (m)	expression
+Auge (n)	eye
+Auge um Auge, Zahn um Zahn	eye for an eye, a tooth for a tooth
+Augenbraue (f)	eyebrow
+Wimper (f), Augenwimper (f)	eyelash
+Augenlid (n); Lid (n)	eyelid
+Gesicht (n)	face
+Falke (m)	falcon
+fallen	fall
+Damhirsch (m)	fallow deer
+Familie (f)	family
+Fächer (m)	fan
+fern; weit weg	far
+Bauernhof (m); Farm (f)	farm
+Bauer (m); Bäuerin (f) 	farmer
+furzen; pupsen	fart
+Fastenzeit (f)	fast
+Schwiegervater (m)	father
+fürchten	fear
+Feder (f); Vogelfeder (f)	feather
+Föderation (f); Bund (m)	federation
+weiblich	female
+Feminismus (m)	feminism
+Fermium (n)	fermium
+Frettchen (n)	ferret
+Fähre (f)	ferry
+Fieber (n)	fever
+fünfzehn	fifteen
+fünfte ('abbreviation' 5.)	fifth
+fünfzig (f)	fifty
+Feige (f)	fig
+kämpfen, fechten, streiten (archaic)	fight
+Film (m)	film
+Finger (m)	finger
+Tanne (f); Tannenbaum (m)	fir
+Feuer (n); Brand (m)	fire
+erster (m); erste (f) 	first
+Fisch (m) :de:Fisch'(de)	fish
+fünf	five
+Flagge (f); Fahne (f)	flag
+Flamme (f); Lohe	flame
+Floh (m)	flea
+Stock (m); Etage (f); Geschoß (n)	floor
+Mehl (n)	flour
+blühen	flower
+Fluor (n)	fluorine
+Flöte (f); Querflöte (f)	flute
+fliegen	fly
+Nebel (m)	fog
+Nahrung (f); Essen (n); Lebensmittel (n)	food
+Tor (m); Dummkopf (m); Narr (m); dumme Gans (f); Trottel (m)	fool
+Maul- und Klauenseuche (f); MKS (f); Aphthenseuche (f)	foot
+Fußball (m), Fussball (m) (Switzerland)	football
+zum Beispiel	for example
+Zeigefinger (m)	forefinger
+Stirn (f)	forehead
+ausländisch; fremd	foreign
+Ausländer (m); Ausländerin (f)	foreigner
+Wald (m); Forst; Gehölz (n); Hain	forest
+verlernen 	forget
+Gabel (f)	fork
+Festung (f)	fortress
+vierzig (f)	forty
+Springbrunnen	fountain
+vier	four
+vierzehn	fourteen
+vierte ('abbreviation' 4.)	fourth
+Fuchs (m)	fox
+Francium (n)	francium
+frei	free
+Freiheit (f)	freedom
+freie Meinungsäußerung (f); Redefreiheit (f)	freedom of speech
+Freund (m); Freundin (f)	friend
+Freundschaft (f)	friendship
+Frosch (m)	frog
+von (from someone), aus (from somewhere)	from
+Frucht (f)	fruit
+ficken; bügeln; bumsen; vögeln; poppen; knallen; pimpern; nageln; rammeln; stechen; stoßen	fuck
+voll	full
+Pilz (m)	fungus
+Zukunft (f)	future
+Gadolinium (m)	gadolinium
+Galaxie (f)	galaxy
+Gallenblase (f)	gall bladder
+Gallium (n)	gallium
+Spiel (n)	game
+Abfall (m)	garbage
+Garten (m)	garden
+Knoblauch (m)	garlic
+Gas (n)	gas
+Benzin (n)	gasoline
+Genitiv (m)	genitive
+Völkermord (m); Genozid (m)	genocide
+Geografie (f); Geographie (f)	geography
+Geometrie	geometry
+Germanium (n)	germanium
+Geysir (m)	geyser
+Gespenst (m); Geist (n); Phantom (n); Spuk (m); Erscheinung (f); Wahngebilde (f); Trugbild (n); Schemen	ghost
+Riese (m); Gigant (m)	giant
+Geschenk (n); Präsent (n); Spende (f)	gift
+Ingwer (m)	ginger
+Giraffe (f)	giraffe
+Mädchen (n)	girl
+geben; abgeben	give
+Gletscher (m); Ferner (m); Kees (n)	glacier
+Glas (n)	glass
+Handschuh (m)	glove
+Klebstoff (m); Leim (m); Kleber (m)	glue
+gehen; fahren 	go
+Ziege (f); Geiß (f)	goat
+Gott (m); Göttin (f); Gottheit (f); Götter	god
+Gold (n)	gold
+Steinadler (m)	golden eagle
+Golf (n)	golf
+Gonorrhoe (f)	gonorrhea
+(n)	good
+guten Tag; guten Nachmittag	good afternoon
+guten Tag	good day
+guten Abend	good evening
+viel Glück	good luck
+guten Morgen	good morning
+gute Nacht	good night
+auf Wiedersehen; auf Wiederschauen; auf Wiederhören; tschüss; tschau; bis später; bis bald	goodbye
+Gans (f)	goose
+Habicht (m)	goshawk
+Regierung (f)	government
+Grammatik (f)	grammar
+Enkelkind (n)	grandchild
+Enkelin (f)	granddaughter
+Großvater; Opa	grandfather
+Großmutter (f); Omi (f); Oma (f)	grandmother
+Weintraube (f); Weinbeere (f)	grape
+Gras (n)	grass
+Heuschrecke (f); Grashüpfer (m)	grasshopper
+Friedhof (m), Kirchhof (m), Begräbnisplatz, Gottesacker, Leichenhof	graveyard
+Buntspecht (m)	great spotted woodpecker
+Kohlmeise (f)	great tit
+Grün (n)	green
+Grünspecht (m)	green woodpecker
+grau	grey
+Graureiher (m); Fischreiher (m)	grey heron
+Graugans (f); Wildgans (f)	greylag goose
+Gänsegeier (m)	griffon vulture
+Gast (m)	guest
+Schuld (f)	guilt
+Perlhuhn (n)	guinea fowl
+Meerschweinchen (n)	guinea pig
+Gitarre (f)	guitar
+Möwe (f)	gull
+Schießpulver (n)	gunpowder
+Zigeuner (m); Zigeunerin (f)	gypsy
+Hafnium (n)	hafnium
+Hagel (m)	hail
+Haar (n)	hair
+Haddsch (m); Hadsch (m); Hadj (m)	hajj
+Hälfte (f)	half
+Hammer (m)	hammer
+Hängematte (f)	hammock
+Hamster (m)	hamster
+Hand (f)	hand
+geschehen; passieren; stattfinden	happen
+Glück (n); Glücklichkeit (f)	happiness
+glücklich	happy
+alles Gute zum Geburtstag; herzlichen Glückwunsch zum Geburtstag	happy birthday
+Festplatte (f)	hard drive
+Hase (m)	hare
+Hassium (n)	hassium
+Hut (m) 	hat
+hassen	hate
+Haß (m); Hass (m)	hatred
+haben	have
+Habicht (m)	hawk
+Heu (n)	hay
+Haselnuss (f)	hazelnut
+er	he
+Kopf (m); Haupt (n) 	head
+Gesundheit (f)	health
+hören	hear
+Herz (n)	heart
+Himmel (m)	heaven
+schwer	heavy
+Igel (m)	hedgehog
+Ferse (f)	heel
+Helikopter (m); Hubschrauber (m)	helicopter
+Helium (n)	helium
+Hölle (f)	hell
+hallo	hello
+Hilfe!	help
+Hanf (m)	hemp
+Henne (f); Legehenne (f)	hen
+ihr (m); ihre (f); ihre	her
+hierher; hierhin; her	here
+Held (m); Heldin (f)	hero
+Reiher (m)	heron
+hallo; 'n Tag	hi
+Hügel (m)	hill
+Flusspferd (n); Nilpferd (n)	hippopotamus
+sein (m); seine (f); seine	his
+Geschichtswissenschaft (f)	history
+Holmium (n)	holmium
+Heim (n); Zuhause (n); Wohnung (f)	home
+Homophobie (f)	homophobia
+Homosexualität (f)	homosexuality
+Honig (m)	honey
+Huf (m)	hoof
+hoffen	hope
+Horn (n)	horn
+Pferd (n); Ross (n); Pferdehengst (m); Pferdestute (f)	horse
+Krankenhaus (n)	hospital
+heiß	hot
+Hotel (n)	hotel
+Stunde (f)	hour
+Haus (n); Häuser	house
+wie	how
+wie geht es dir; wie geht es Ihnen; wie geht es; wie geht es euch 	how are you
+wie viel	how many
+wie viel	how much
+was kostet es; wieviel	how much does it cost
+wie alt bist du? (informal), wie alt sind Sie? (formal)	how old are you
+Umarmung (f)	hug
+Mensch (m)	human
+Mensch (m)	human being
+Menschenrechte (n)	human rights
+Humanismus (m)	humanism
+hundert; einhundert	hundred
+hungrig	hungry
+jagen	hunt
+Ehemann (m); Mann (m); Gemahl (m); Gatte (m)	husband
+Wasserstoff (m)	hydrogen
+Hyäne (f)	hyena
+Steinbock (m)	ibex
+Eis (n)	ice
+Eis (n); Eiscreme (f); Speiseeis (n)	ice cream
+Eisberg (m)	iceberg
+Idiot (m); Idiotin (f)	idiot
+wenn; falls	if
+magmatisches Gestein (n)	igneous rock
+krank	ill
+wichtig	important
+in	in
+Index (m), Verzeichnis (n), Wörterverzeichnis (n)	index
+Indium (n)	indium
+Information (f); Auskunft (f)	information
+Verletzung (f); Wunde (f); Verwundung (f)	injury
+Tinte (f)	ink
+Insekt (n); Kerbtier (n); Kerf (m)	insect
+Insulin (n)	insulin
+Intelligenz (f)	intelligence
+interessant	interesting
+Verbrennungsmotor (m)	internal combustion engine
+international	international
+Dolmetscher (m); Dolmetscherin (f)	interpreter
+Iod (n); Jod (n)	iodine
+Iridium (n)	iridium
+bügeln	iron
+ist	is
+Insel (f); Eiland (n)	island
+er (m); sie (f); es (n)	it
+Dohle (f)	jackdaw
+Häher (m)	jay
+Qualle (f)	jellyfish
+Freude (f)	joy
+Saft (m)	juice
+Wacholder (m)	juniper
+Känguru (n)	kangaroo
+Turmfalke (m)	kestrel
+Ketschup	ketchup
+Schlüssel (m)	key
+Tastatur (f)	keyboard
+Niere (f)	kidney
+töten; umbringen; ermorden	kill
+Kilometer (m)	kilometre
+König (m)	king
+Königreich (n)	kingdom
+küssen	kiss
+Küche (f)	kitchen
+Drachen (m)	kite
+Knie (n)	knee
+Messer (n)	knife
+Springer (m)	knight
+kennen	know
+Koala (m)	koala
+Krypton (n)	krypton
+Marienkäfer (m)	ladybird
+Marienkäfer (m)	ladybug
+See (m); See	lake
+Lamm (n)	lamb
+Land (n); Land	land
+Sprache (f); Sprachen	language
+Lanthan (n)	lanthanum
+groß; weit	large
+Lerche (f)	lark
+Laser (m)	laser
+letztes Jahr	last year
+lachen	laugh
+Lava (f)	lava
+Gesetz (n)	law
+Lawrencium (n)	lawrencium
+Rechtsanwalt (m)	lawyer
+faul	lazy
+Blei (n)	lead
+Blatt (n)	leaf
+lernen	learn
+Wiesel (n)	least weasel
+Leder (n)	leather
+Blutegel (m); Egel (m)	leech
+Porree (m); Lauch (m)	leek
+link	left
+Bein (n)	leg
+Zitrone (f)	lemon
+Länge (f); Längenmaß	length
+Lesbe (f); Lesbierin (f)	lesbian
+Kleinspecht (m)	lesser spotted woodpecker
+Lehrstunde (f); Stunde (f); Lektion (f)	lesson
+Brief (m)	letter
+Kopfsalat (m)	lettuce
+Bibliothek (f)	library
+lügen; täuschen	lie
+Leben (n)	life
+beleuchten; anstrahlen	light
+Lichtjahr (n) 	light year
+Feuerturm (m); Leuchtturm (m)	lighthouse
+Blitz (m)	lightning
+wie	like
+Linguistik (f); Sprachwissenschaft (f)	linguistics
+Löwe (m), Löwin (f) (gloss'lioness), Leu (m) (poetic)	lion
+Lippe (f); Lefze (f) 	lip
+lauschen	listen
+Literatur	literature
+Lithium (n)	lithium
+Liter (m)	litre
+klein; wenig	little
+Steinkauz (m)	little owl
+leben; wohnen	live
+Leber (f)	liver
+Eidechse (f)	lizard
+Hummer (m)	lobster
+Waldohreule (f)	long
+sehen; schauen; blicken; hinschauen; hinsehen; gucken; guggen; kucken	look
+suchen	look for
+Laus (f)	louse
+Liebe (f); Liebling (m); Liebes; Lieber; Schatz (m)	love
+niedrig	low
+Lunge (f)	lung
+Laute (f)	lute
+Lutetium (n); Cassiopeium (n) 	lutetium
+Luchs (m)	lynx
+Maschinensprache (f); Maschinencode (m)	machine language
+Makrele (f)	mackerel
+wahnsinnig; verrückt; toll; irre; geisteskrank	mad
+Lava (f); Magma (n)	magma
+Magnesium (n)	magnesium
+Elster (f)	magpie
+Mais (m); Kukuruz (m) 	maize
+Stockente (f)	mallard
+Säugetier (n)	mammal
+Mensch	man
+Mangan (n)	manganese
+Mango (f)	mango
+viele	many
+Landkarte (f)	map
+Ahorn (m)	maple
+Stute (f), Mähre (f) (old mare)	mare
+Marihuana (n)	marijuana
+Markt (m)	market
+Murmeltier (n)	marmot
+Marder (m)	marten
+Masturbation (f); Onanie (f); Selbstbefriedigung (f)	masturbation
+Streichholz (n); Zündholz (n)	match
+Mathematik (f)	mathematics
+Matratze (f)	mattress
+vielleicht	maybe
+Mahl (n)	meal
+Fleisch (n)	meat
+Medizin (f)	medicine
+treffen; begegnen	meet
+Meitnerium (n)	meitnerium
+Melone (f)	melon
+Gedächtnis (n)	memory
+Mendelevium (n)	mendelevium
+Quecksilber (n)	mercury
+Metall (n)	metal
+Mitternacht (f)	midnight
+Entbindungspfleger (m); Hebamme (f); Geburtshelfer (m); Geburtshelferin (f); Entbindungshelfer (m)	midwife
+melken	milk
+Milliarde (f)	milliard
+Million (f)	million
+Tausendfüßler (m)	millipede
+Verstand (m); Geist (m)	mind
+Grube (f); Mine (f); Bergwerk (n)	mine
+Mineralogie (f)	mineralogy
+Minze (f)	mint
+Minute (f)	minute
+Spiegel (m)	mirror
+Burggraben (m)	moat
+Mobiltelefon; Handy	mobile phone
+Maulwurf (m)	mole
+Molekül (n)	molecule
+Molybdän (n)	molybdenum
+Augenblick (m); Moment (m); Zeitpunkt (m)	moment
+Monarchie (f)	monarchy
+Kloster (n)	monastery
+Geld (n)	money
+Mönch (m)	monk
+Affe (m)	monkey
+Monat (m)	month
+Mond (m); Trabant (m); Satellit (m)	moon
+Morgen (m)	morning
+Moschee (f)	mosque
+Mücke (f); Moskito (m)	mosquito
+Moos (n)	moss
+Motte (f); Nachtfalter (m)	moth
+Schwiegermutter (f)	mother
+Motorrad (n)	motorcycle
+Mufflon (m)	mouflon
+Berg (m)	mountain
+Maus (f)	mouse
+Schnurrbart (m); Oberlippenbart (m)	moustache
+Mund (m); Maul (n) 	mouth
+Film (m)	movie
+viel	much
+Schlamm (m); Kot (m)	mud
+Maultier (n), Muli (n) (Southern Germany and Austria)	mule
+Mord (m)	murder
+Muskel (m)	muscle
+Museum (n)	museum
+Pilz (m)	mushroom
+Musik (f)	music
+Musikant (m); Musiker (m); Musikerin (f)	musician
+Bisamratte (f)	muskrat
+Senf (m)	mustard
+mein (m)	my
+ich heiße..., ich bin der... (m), ich bin die... (f)	my name is
+mysteriös	mysterious
+Geheimnis (n); Rätsel (n)	mystery
+Mythologie (f)	mythology
+Nagel (m)	nail
+nackt	naked
+Name (m); Ruf (m)	name
+eng; begrenzt; schmal	narrow
+Natur (f)	nature
+Bauchnabel (m); Nabel (m)	navel
+Nebel (m)	nebula
+Hals (m)	neck
+Halskette (f)	necklace
+Nadel (f)	needle
+Nachbar (m); Nachbarin (f)	neighbour
+Neodym (n)	neodymium
+Neon (n)	neon
+Neptunium (n)	neptunium
+Vogelnest (n); Nest (n)	nest
+Nessel (f); Brennnessel (f)	nettle
+nie; niemals; nimmer	never
+neu	new
+Nachricht (f); Nachrichten (f)	news
+Zeitung (f)	newspaper
+Nickel (n)	nickel
+Nichte (f)	niece
+Nacht (f)	night
+Nachtigall (f)	nightingale
+Albtraum (m), Alptraum (m), Albdruck (m) (old), Alpdruck (m) (old) Nachtmahr	nightmare
+neun	nine
+neunzehn	nineteen
+neunzig (f)	ninety
+neunte ('abbreviation' 9.)	ninth
+Niob (n)	niobium
+Nippel (m) (1, 4), Brustwarze (f) (1)	nipple
+Stickstoff (m)	nitrogen
+nein	no
+Rauchen verboten	no smoking
+Nobelium (n)	nobelium
+niemand; keiner (m)	nobody
+Nichtregierungsorganisation (f)	non
+nichttötens	nonkilling
+Mittag (m)	noon
+Norden (m); nord	north
+Nase (f)	nose
+nicht	not
+Notizbuch (n)	notebook
+nichts	nothing
+Substantiv (n)	noun
+jetzt; nun	now
+nackt	nude
+Anzahl (f); Zahl (f)	number
+Schwester (f); Krankenschwester (f); Pflegerin (f); Krankenpflegerin (f); Pfleger (m); Krankenpfleger (m)	nurse
+Nuss (f)	nut
+Eiche (f)	oak tree
+Ruder (n)	oar
+Gehorsam (m)	obedience
+Fettsucht; Übergewicht (n); Adipostas	obesity
+Oboe (f)	oboe
+Ozean (m)	ocean
+Oktopus (m); Tintenfisch (m); Krake (f)	octopus
+von 	of
+selbstverständlich; natürlich; sicher	of course
+Büro (n)	office
+häufig; oft	often
+Erdöl (n); Öl (n)	oil
+alt	old
+Olive (f)	olive
+auf	on
+es war einmal	once upon a time
+eins; ein; eine; einen; einem; einer; eines	one
+Zwiebel (f)	onion
+auf; offen	open
+Betriebssystem (n)	operating system
+Meinung (f); Ansicht (f); Anschauung (f)	opinion
+oder	or
+Apfelsinenbaum (m); Orangenbaum (m)	orange
+Organ (n)	organ
+Organismus (m)	organism
+Orgasmus (m)	orgasm
+Waise (f); Waisenkind (n)	orphan
+Osmium (n)	osmium
+Strauß (m); Straußenmännchen (n); Straußenweibchen (n); Straußenküken (n); Straußenjunges (n); Straußenbaby (n)	ostrich
+andere	other
+Otter (m)	otter
+unser	our
+Eierstock (m); Ovar (n)	ovary
+Eule (f); Uhu (m)	owl
+Ochse (m)	ox
+Sauerstoff (m)	oxygen
+Seite (f)	page
+Schmerz (m)	pain
+Farbe (f); Lack (m)	paint
+Palast (m); (n)	palace
+Palladium (n)	palladium
+Handfläche (f)	palm
+Bauchspeicheldrüse (f); Pankreas (n)	pancreas
+Hose (f)	pants
+Papaya (f)	papaya
+Papier (n)	paper
+Park (m)	park
+Parlament (n)	parliament
+Papagei (m)	parrot
+Teil (m)	part
+Rebhuhn (n)	partridge
+Reisepass (m); Pass (m)	passport
+Passwort (n)	password
+Ruhe (f); Frieden (m)	peace
+Pfirsich (m)	peach
+Pfau (m)	peacock
+Erdnuß (f); Erdnuss (f)	peanut
+Birne (f)	pear
+Kugelschreiber (m); Stift (m); Federhalter (m); Füllhalter (m)	pen
+Bleistift (m); Buntstift (m)	pencil
+Pinguin (m)	penguin
+Penicillin (n)	penicillin
+Halbinsel (f)	peninsula
+Penis (m); Glied (n); Schwanz (m) 	penis
+Volk (n) 	people
+Pfeffer (m)	pepper
+Prozent (n)	percent
+Wanderfalke (m)	peregrine falcon
+Perestroika (f); Umbau (m); Umgestaltung (f)	perestroika
+vielleicht; wohl	perhaps
+Perineum (n); Damm (m)	perineum
+Periodensystem 	periodic table
+Person (f); Personen	person
+Benzin (n)	petrol
+Erdöl (n); Petroleum (n)	petroleum
+Pharao (m); Pharaonin (f)	pharaoh
+Apotheke (f)	pharmacy
+Fasan (m)	pheasant
+Philosoph (m); Philosophin (f)	philosopher
+Phönix	phoenix
+Telefon (n); Telephon (n); Fernsprecher (m)	phone
+Phosphor (m)	phosphorus
+Fotografie (f), Fotographie (f), Foto (n), Lichtbild (n)	photograph
+Fotografie (f)	photography
+Physik (f)	physics
+Klavier (n); Piano (n)	piano
+Bild (n); Abbildung (f); Abbild (n); Gemälde (n)	picture
+Torte (f)	pie
+Stück (n)	piece
+Schwein (n); Hausschwein (n)	pig
+Taube (f); Tauber (m); Täuber (m); Tauberich (m); Täuberich (m); Täubin (f); Täubchen (n); Täublein (n); Kolumbide (m)	pigeon
+Ferkel (n)	piglet
+Kopfkissen (n); Kissen (n); (n)	pillow
+Pickel (m); Oas (n) 	pimple
+Stecknadel (f); Nadel (f)	pin
+Föhre (f); Kiefer (f)	pine
+Ananas (f)	pineapple
+pink; rosa	pink
+Pirat (m); Seeräuber (m); Korsar (m)	pirate
+Pizza (f)	pizza
+Platz (m); Ort (m); Stelle (f); Position (f)	place
+Planet (m)	planet
+Pflanze (f)	plant
+Teller (m)	plate
+Platin (n)	platinum
+Schnabeltier (n)	platypus
+spielen	play
+bitte	please
+Vergnügen (n); gern geschehen	pleasure
+Pflug (m)	plough
+Pflaume (f); Zwetschge (f)	plum
+Plutonium (n)	plutonium
+Tasche (f)	pocket
+Gedicht (n)	poem
+Gift (n); Giftstoff (m)	poison
+Eisbär (m); Polarbär (m)	polar bear
+Iltis (m)	polecat
+Polizei (f)	police
+Polizist (m); Polizistin (f)	policeman
+höflich	polite
+Politiker (m); Politikerin (f)	politician
+Politik (f)	politics
+Polonium (n)	polonium
+Vieleck (n); Polygon (n)	polygon
+Granatapfel (m); Grenadine (f)	pomegranate
+arm	poor
+Papst (m); Päpstin (f)	pope
+Pappel (f)	poplar
+Pornografie (f)	pornography
+Hafen (m)	port
+Postamt (n)	post office
+Briefmarke (f)	postage stamp
+Postkarte (f)	postcard
+PLZ; Postleitzahl (f)	postcode
+Postmoderne	postmodernism
+Kalium (n)	potassium
+Pfund (n)	pound
+Kraft (f); Stärke (f)	power
+Praseodym (n)	praseodymium
+Gebet (n)	prayer
+Schwangerschaft (f)	pregnancy
+schwanger; trächtig 	pregnant
+Präposition (f); Verhältniswort	preposition
+Präputium (m); Vorhaut (n)	prepuce
+Präsident (m)	president
+hübsch; schön	pretty
+Preis (m)	price
+Priester (m); Pfarrer (m); Pfaffe (m)	priest
+Premierminister (m); Premierministerin (f)	prime minister
+Primzahl (f)	prime number
+Gefängnis (n)	prison
+Problem (n)	problem
+Promethium (n)	promethium
+Pronomen (n)	pronoun
+Aussprache (f)	pronunciation
+Eigentum (n); Besitz (m)	property
+Prostituierte (m); Hure (f); Dirne (f)	prostitute
+Protactinium (n)	protactinium
+schützen	protect
+Proton (n)	proton
+Sprichwort (n), Denkspruch (m)	proverb
+Kürbis (m)	pumpkin
+purpur; lila; violett	purple
+Pyramide (f)	pyramid
+Wachtel (f)	quail
+Viertel (n)	quarter
+Dame (f)	queen
+Frage (f); Anfrage (f)	question
+Kaninchen (n)	rabbit
+Funk (m); Rundfunk (m); Radio (n); Hörfunk (m)	radio
+Radon (n)	radon
+Eisenbahn (f); Bahn (f)	railway
+regnen	rain
+Regenbogen (m)	rainbow
+Rechen (m); Harke (f)	rake
+(1) Schafbock (m), (1) Widder (m), (1) Schafsbock (m), (2) Rammbock (m), (2) Sturmbock (m), (2) Ramme (f)	ram
+Vergewaltigung (f)	rape
+Himbeere (f)	raspberry
+Ratte (f)	rat
+Rabe (m); Kolkrabe (m)	raven
+vorlesen	read
+jüngst; neu	recent
+Rechteck (n); Karree (n); Orthogon	rectangle
+Rot (n)	red
+Rothirsch (m)	red deer
+Kühlschrank (m), Kühlraum (m)	refrigerator
+Rentier (n)	reindeer
+Verwandter (m); Verwandte (f)	relative
+Religion (f)	religion
+erinnern	remember
+Kriechtier (n), Reptil (n), Wurm (m) (poetic)	reptile
+Republik (f)	republic
+Restaurant (n); Gaststätte (f)	restaurant
+Rache (f)	revenge
+Rhenium (n)	rhenium
+Nashorn (n)	rhinoceros
+Rhodium (n)	rhodium
+Reis (m)	rice
+reich	rich
+Gewehr (n)	rifle
+richtig	right
+Ring (m)	ring
+Ringfinger (m)	ring finger
+Fluss (m); Strom (m)	river
+Straße (f); Straßen; Weg (m); Route (f)	road
+Roboter (m)	robot
+Felsentaube (f)	rock dove
+Reh (n)	roe deer
+Dach (n)	roof
+Turm (m)	rook
+Raum (m); Zimmer (n) 	room
+Hahn (m)	rooster
+Quelle (f); Quellen	root
+Seil (n); Tau (n)	rope
+Rose (f)	rose
+Rubidium (n)	rubidium
+Rubel (m)	ruble
+rennen; laufen	run
+Ruthenium (n)	ruthenium
+Rutherfordium (n)	rutherfordium
+Roggen (m)	rye
+Speichel (m)	saliva
+Lachs (m)	salmon
+Salz (n); Kochsalz (n)	salt
+Samarium (n)	samarium
+selbe; derselbe	same
+Sand (m)	sand
+belegtes Brot (n); Sandwich (n) 	sandwich
+Soße (f)	sauce
+Wurst (f)	sausage
+Säge (f)	saw
+sagen	say
+Skandium (n), Scandium (n)	scandium
+Narbe (f)	scar
+Schizophrenie (f)	schizophrenia
+Schule (f); Fakultät	school
+Wissenschaft (f)	science
+Schere (f)	scissors
+Skorpion (m)	scorpion
+Schleiereule (f); Baumkauz (m); Waldkauz (m)	screech owl
+Skrotum (n); Hodensack (m)	scrotum
+Meer (n); See (f)	sea
+Seaborgium (n)	seaborgium
+Möwe (f); Möwenvogel (m)	seagull
+Robbe (f); Seehund (m)	seal
+Jahreszeit (f)	season
+zweiter (m) 	second
+geheim	secret
+sehen; schauen	see
+Same (m); Samen (m); Saat (f)	seed
+Selen (n)	selenium
+verkaufen	sell
+Samen (m)	semen
+senden; schicken	send
+Satz (m)	sentence
+Dienstleistung (f)	service
+sieben	seven
+siebzehn	seventeen
+siebzig (f)	seventy
+Geschlecht (n)	sex
+sexuelle Orientierung (f)	sexual orientation
+Schatten (m)	shadow
+Hai (m); Haifisch (m)	shark
+sie	she
+Schaf (n)	sheep
+Hirt (m); Hirte (m); Schafhirt (m); Schafhirte (m); Schäfer (m)	shepherd
+Schiff (n)	ship
+Hemd (n)	shirt
+scheißen	shit
+Schuh (m)	shoe
+Laden (m); Geschäft (f)	shop
+Ufer (n)	shore
+Schulter (f)	shoulder
+Spitzmaus (f)	shrew
+krank	sick
+Sichel (f)	sickle
+Stille (f)	silence
+Silizium (n); Silicium (n) 	silicon
+Seide (f)	silk
+Silber (n)	silver
+einfach; simpel	simple
+Sünde (f)	sin
+singen	sing
+Sänger (m); Sängerin (f)	singer
+Schwester (f)	sister
+sitzen	sit
+sechs	six
+sechzehn	sixteen
+sechste ('abbreviation' 6.)	sixth
+sechzig (f)	sixty
+Skelett (n); Gerippe (n)	skeleton
+Haut (f)	skin
+Rock (m)	skirt
+Schädel (m); (m)	skull
+Himmel (m)	sky
+Feldlerche (f); Lerche (f)	skylark
+Wolkenkratzer (m); Hochhaus (n)	skyscraper
+Sklave (m); Sklavin (f)	slave
+Schlaf (m)	sleep
+langsam	slow
+klein; gering	small
+Geruch (m)	smell
+lächeln	smile
+rauchen	smoke
+Schnecke (f); Gehäuseschnecke (f)	snail
+Schlange (f); Wurm (m) 	snake
+niesen	sneeze
+Snooker	snooker
+Schnee (m)	snow
+Schneeflocke (f)	snowflake
+Seife (f)	soap
+Fußball (m)	soccer
+Sozialismus (m)	socialism
+Socke (f)	sock
+Natrium (n)	sodium
+Sofa (n)	sofa
+Software (f)	software
+Sonnenwind (m)	solar wind
+Soldat (m); Soldatin (f)	soldier
+jemand	someone
+etwas	something
+manchmal	sometimes
+Sohn (m)	son
+Lied (n); Gesang (m); Song (m)	song
+bald	soon
+entschuldigen Sie bitte, verzeihen Sie bitte, es tut mir Leid, ich bitte um Entschuldigung/Verzeihung, Verzeihung, (less formal) Entschuldigung, sorry	sorry
+Seele (f)	soul
+Klang (m)	sound
+Suppe (f)	soup
+sauer	sour
+Süden (m)	south
+Raumfahrzeug; Raumschiff	spacecraft
+Raumschiff (n); Raumfahrzeug (n)	spaceship
+Spaten	spade
+Sperling (m); Spatz (m)	sparrow
+Sperber (m)	sparrow hawk
+sprechen; reden	speak
+Brille (f)	spectacles
+Kugel (f)	sphere
+Würze (f); Gewürz (n)	spice
+Spinne (f)	spider
+Geist (m); Seele (f)	spirit
+spucken	spit
+Milz (f)	spleen
+Löffel (m)	spoon
+Sport (m)	sport
+Quelle (f)	spring
+Fichte (f)	spruce
+Spion (m)	spy
+Platz (m)	square
+Kalmar (m) (1), Tintenfisch (m) (1)	squid
+Eichhörnchen (n); Hörnchen (n)	squirrel
+stehen	stand
+Prominenter (m); Prominente (f); Promi (m); Star (m)	star
+Star (m)	starling
+Bahnhof (m); Station (f)	station
+Statue (f); Standbild (n)	statue
+Stahl (m)	steel
+Magen (m)	stomach
+Stein (m)	stone
+Storch (m)	stork
+Erzählung (f); Geschichte (f)	story
+seltsam; sonderbar; komisch	strange
+Erdbeere (f)	strawberry
+Straße (f)	street
+Stärke (f)	strength
+Schnur (f); Saite (f)	string
+stark	strong
+Strontium (n)	strontium
+Student (m); Studentin (f)	student
+Unterseeboot; U-Boot (n)	submarine
+saugen	suck
+plötzlich	suddenly
+Zucker (m)	sugar
+Freitod (f); Suizid (m); Selbstmord (m)	suicide
+Schwefel (m); Sulfur (n)	sulfur
+Sommer (m)	summer
+Sonne (f)	sun
+Sonnenblume (f)	sunflower
+Nachname (m); Familienname (m)	surname
+schlucken	swallow
+Schwan (m); Schwänin (f)	swan
+süß	sweet
+Süßkartoffel (f)	sweet potato
+Süßstoff (m)	sweetener
+schwimmen	swim
+Schwimmbecken (n); Pool (m); Schwimmbad (n); Hallenbad (n); Freibad (n) 	swimming pool
+Schwert (n)	sword
+System (n); (f)	system
+Tabelle (f)	table
+Kaulquappe (f)	tadpole
+Taiga (f); Borealer Nadelwald	taiga
+Schwanz (m); Schweif (m); Sterz (m); Stert (m); Zagel (m); Bürzel (m); Rute (f)	tail
+nehmen; greifen	take
+Talent (n); Begabung (f)	talent
+reden; sprechen	talk
+Panzer (m)	tank
+Tantal (n)	tantalum
+Tätowierung (f)	tattoo
+Waldkauz (m)	tawny owl
+Taxi (n)	taxi
+Teeblatt (n), Teeblätter (p)	tea
+lehren; beibringen	teach
+Lehrer (m); Lehrerin (f); Klassenlehrer (m); Klassenlehrerin (f)	teacher
+Träne (f)	tear
+Technetium (n)	technetium
+telefonieren; anrufen	telephone
+Teleskop (n); Fernrohr (n)	telescope
+Fernsehen (n)	television
+Tellur (n)	tellurium
+Tempel (m)	temple
+zehn	ten
+Zelt (n)	tent
+zehnte ('abbreviation' 10.)	tenth
+Terbium (n)	terbium
+Territorium (n)	territory
+Terrorismus (m)	terrorism
+Terrorist (m); Terroristin (f)	terrorist
+Hoden (m); Testikel (m)	testicle
+Thallium (n)	thallium
+als	than
+danke; danke schön; vielen Dank	thank you
+danke schön; danke sehr; vielen Dank; danke vielmals	thank you very much
+danke	thanks
+jener (m); jene (f); jenes (n); jene	that
+der (m); die (f); das (n); die 	the
+ihr; ihre	their
+dort; da	there
+es/da ist, (plural) es/da sind; es gibt (singular and plural)	there is
+sie	they
+Dieb (m)	thief
+Oberschenkel (m)	thigh
+Fingerhut (m)	thimble
+Ding (n)	thing
+denken	think
+dritte ('abbreviation' 3.)	third
+Durst (m)	thirst
+durstig	thirsty
+dreizehn	thirteen
+dreißig (f)	thirty
+dieser (m); diese (f); dieses (n); diese	this
+Thorium (n)	thorium
+Dorn	thorn
+du; Du	thou
+Gedanke (m)	thought
+tausend (n)	thousand
+Faden (m); Garn (n); Zwirn (m)	thread
+drei	three
+Kehle (f)	throat
+Thulium (n)	thulium
+Daumen (m)	thumb
+Donner (m)	thunder
+Tiger (m)	tiger
+Mal (n)	time
+Zinn (n)	tin
+müde	tired
+Titan (n)	titanium
+nach; zu; in	to
+Kröte (f)	toad
+Tabak (m)	tobacco
+heutzutage	today
+Zeh (m); Zehe (f)	toe
+zusammen	together
+Klo; Toilette	toilet
+Tomate (f); Paradeiser (m)	tomato
+morgen	tomorrow
+Zunge (f)	tongue
+zu	too
+Zahn (m)	tooth
+Schildkröte (f)	tortoise
+berühren	touch
+Tourismus (m)	tourism
+Turm (m)	tower
+Gemeinde (f); Stadt (f); Ort (m); Städtchen (n)	town
+Spielzeug (n)	toy
+Tradition (f)	tradition
+Zug (m); Eisenbahn	train
+Straßenbahn (f); S-bahn (f); Tram; Trambahn (f)	tram
+übersetzen	translate
+Übersetzung (f)	translation
+Übersetzer (m); Übersetzerin (f)	translator
+reisen	travel
+Baum (m); Baum	tree
+Dreieck (n)	triangle
+Stamm (m); Volksstamm (m); Sippe (f); Volk (n); Völkchen (n); Völklein (n); Sippschaft (f); Tribus (f); Völkerschaft (f)	tribe
+Hose (f)	trousers
+Lastauto (n) 	truck
+wahr; echt	true
+Trompete (f)	trumpet
+Zar	tsar
+Tsunami (m)	tsunami
+Wolfram (n)	tungsten
+Truthahn (m); Truthenne (f); Puter (m); Pute (f)	turkey
+Schildkröte (f)	turtle
+Turteltaube (f)	turtle dove
+zwölf	twelve
+dreiundzwanzig	twenty
+Zwilling (m)	twin
+zwei; zwo	two
+Taifun (m)	typhoon
+Schirm (m); Sonnenschirm (m); Regenschirm (f)	umbrella
+Onkel (m); Oheim (m)	uncle
+verstehen; begreifen	understand
+Arbeitslosigkeit (f)	unemployment
+Universum (n); Weltall (n)	universe
+Universität (f); Hochschule (f)	university
+Uran (n)	uranium
+Harnröhre (f); Urethra (f)	urethra
+Urin (m); Harn (m)	urine
+benutzen; verwenden; gebrauchen	use
+nützlich	useful
+Scheide (f); Vagina (f)	vagina
+Senke (f); Tal (n)	valley
+Vampir (m)	vampire
+Vanadium (n)	vanadium
+Gemüse (n)	vegetable
+Zeitwort (n); Verb (n); Verbum (n)	verb
+sehr	very
+Sieg (m)	victory
+Dorf (n); Dörfer	village
+Essig (m)	vinegar
+Violett	violet
+Geige (f); Violine (f)	violin
+Virus (n)	virus
+Visum (n)	visa
+Wodka (m)	vodka
+Stimme (f)	voice
+Vulkan (m)	volcano
+Volleyball	volleyball
+Volt (n)	volt
+Geier (m)	vulture
+warten	wait
+Ober (m); Kellner (m)	waiter
+aufwachen; erwachen	wake up
+laufen; gehen; wandern; spazieren gehen	walk
+Mauer (f); Wall (m)	wall
+Walross (n)	walrus
+wollen	want
+Krieg (m)	war
+warm	warm
+Warze (f)	wart
+waschen; spülen	wash
+Wespe (f)	wasp
+Uhr (f); Armbanduhr (f)	watch
+Wasser (n)	water
+Wasserfall (m); (m)	waterfall
+Wassermelone (f)	watermelon
+Welle (f); Woge (f)	wave
+Wachs (n)	wax
+Weg (m)	way
+wir	we
+Waffe (f)	weapon
+Wetter (n)	weather
+Website (f); Webangebot (n)	web site
+Hochzeit (f)	wedding
+Woche (f)	week
+Wochenende (n)	weekend
+willkommen	welcome
+gut	well
+Werwolf (m) 	werewolf
+West (m); Westen (m)	west
+naß; feucht	wet
+Wal (m)	whale
+was	what
+wie heißen Sie 	what is your name
+wieviel Uhr ist es; wie spät ist es	what time is it
+Weizen (m)	wheat
+Rad (n)	wheel
+wann	when
+wo; woher 	where
+wo ist die Toilette	where is the toilet
+Peitsche (f)	whip
+Whisky (m)	whiskey
+Weiß; Weiss (n) 	white
+wer	who
+ganz	whole
+Dirne (f); Hure (f); Nutte (f); Schlampe (f)	whore
+warum; wieso; weshalb; weswegen	why
+breit; weit	wide
+Witwe (f)	widow
+Ehefrau (f); Frau (f); Gattin (f)	wife
+Wildschwein (n)	wild boar
+Wildkatze (f)	wildcat
+Weide (f)	willow
+Wind (m)	wind
+Fenster (n)	window
+Wein (m)	wine
+Flügel (m)	wing
+Winter (m)	winter
+weise; klug	wise
+Wisent (m)	wisent
+wünschen	wish
+Hexe (f); Hexer (m)	witch
+mit	with
+ohne	without
+Wolf (m); Wölfin (f)	wolf
+Frau (f)	woman
+Holz (n)	wood
+Specht (m)	woodpecker
+Wolle (f)	wool
+Wort (n)	word
+arbeiten	work
+Proletarier aller Länder, vereinigt euch!	workers of the world, unite
+Welt (f); Erde (f)	world
+Wurm (m)	worm
+Handgelenk (n)	wrist
+schreiben	write
+Schriftsteller (m); Schriftstellerin (f); Autor (m); Autorin (f); Schreiber (m); Schreiberin (f)	writer
+Xenon (n)	xenon
+Fremdenfeindlichkeit (f); Xenophobie (f); Fremdenhass (m)	xenophobia
+gähnen	yawn
+Jahr (n)	year
+Hefe (f)	yeast
+Gelb (n)	yellow
+ja	yes
+gestern	yesterday
+Yoga (m)	yoga
+Joghurt (m)	yoghurt
+ihr; Sie	you
+jung	young
+euer (m); Ihr (m) 	your
+Ytterbium (n)	ytterbium
+Yttrium (n)	yttrium
+Zebra (n)	zebra
+null	zero
+Zink (n)	zinc

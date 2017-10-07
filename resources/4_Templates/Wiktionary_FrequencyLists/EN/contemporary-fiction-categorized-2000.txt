@@ -1,0 +1,2673 @@
+﻿Amount
+    much
+    few / many
+    nothing
+    a lot
+    lots
+    couple
+    number
+    figure
+    several
+    pair
+    add / subtract
+    none
+    single
+    count
+    double / half
+    plus / minus
+    amount
+    math
+    times
+    multiply / divide
+    various
+    balance
+    term
+    plenty
+    dash
+    total
+Anatomy
+    back
+    eye
+    hand
+    head
+    face
+    voice
+    arm
+    hair
+    shoulder
+    body
+    mouth
+    lip
+    feet
+    finger
+    heart
+    leg
+    ear
+    chest
+    cheek
+    neck
+    stomach
+    skin
+    eyebrow
+    nose
+    foot
+    throat
+    knee
+    bottom
+    buttock
+    teeth
+    brain
+    tongue
+    forehead
+    lap
+    waist
+    wrist
+    chin
+    jaw
+    hip
+    penis / vagina
+    heel
+    brow
+    palm
+    muscle
+    wing
+    elbow
+    nail
+    tail
+    toe
+    nerve
+    bone
+    thumb
+    breast
+    thigh
+    gut
+    abdomen
+Change and Destruction
+    change
+    turn
+    get
+    death
+    fire
+    raise / cut
+    break / fix
+    clean
+    remain
+    become
+    snap
+    die / survive
+    cut / mend
+    tear
+    hurt
+    kill
+    pop
+    burst
+    crack
+    focus
+    shift
+    disappear
+    grow / shrink
+    wash
+    fade
+    rip
+    burn
+    crime
+    cook
+    switch
+    widen
+    double / halve
+    split
+    process
+    destroy / build
+    pierce
+    wound
+    scratch
+    crush
+    bruise
+    murder
+    natural / altered
+    footstep
+    rid
+    spare
+    damage
+    stain
+    tighten
+    straighten
+    tune
+    soak / dry
+    melt / freeze
+    chill / warm
+    fry
+    explode
+    blast
+    bleed
+    replace
+Clothing and Apparel
+    clothes
+    shirt
+    pocket
+    jeans
+    shoe
+    dress
+    wear
+    pants
+    jacket
+    suit
+    coat
+    button
+    underwear
+    bare
+    naked
+    hat
+    skirt
+    boot
+    sleeve
+    clothing
+    outfit
+    belt
+    uniform
+    collar
+    glove
+    sweater
+    mask
+Cognition
+    thought
+    mind
+    idea
+    sleep
+    know
+    think
+    remember / forget
+    realize
+    believe
+    wonder
+    attention
+    asleep
+    wake
+    suppose
+    understand
+    dream
+    figure
+    consider
+    learn / forget
+    familiar
+    memory
+    experience
+    emotion
+    awake
+    remind
+    trust
+    imagine
+    recognize
+    focus
+    assume
+    gather
+    image
+    information
+    lesson
+    blame
+    judge
+    lost
+    mental
+    opinion
+    nightmare
+    puzzle
+    confuse
+    suspect
+    recall
+    concentrate
+Color
+    black / white
+    blue
+    red
+    green
+    clear
+    brown
+    pink
+    grey
+    pale
+    yellow
+    orange
+    silver
+    purple
+    gold
+    tan
+    golden
+    hazel
+Nonverbal Communication
+    smile
+    laugh
+    nod
+    sigh
+    grin
+    cry
+    sign
+    movie
+    picture
+    music
+    tone
+    mark
+    expression
+    shrug
+    scream
+    glare
+    wave
+    smirk
+    frown
+    giggle
+    groan
+    art
+    laughter
+    blush
+    chuckle
+    mumble
+    gasp
+    draw
+    growl
+    gesture
+    alarm
+    image
+    hiss
+    scowl
+    sob
+    wince
+    bow
+    moan
+    grunt
+    beam
+    squeal
+    tune
+    map
+    signal
+    shriek
+    roar
+    tremble
+    pout
+    bark
+    flirt
+    grimace
+    whistle
+Verbal Communication
+    word
+    question / answer
+    ask / answer
+    say
+    tell
+    call
+    talk
+    reply
+    thank
+    read
+    story
+    conversation
+    note
+    form
+    sign
+    deal
+    promise
+    expression
+    song
+    joke
+    movie
+    music
+    book
+    whisper / shout
+    yell
+    lie
+    explain
+    speak
+    order
+    mutter
+    offer
+    agree
+    write
+    mention
+    admit / deny
+    card
+    letter
+    response
+    period
+    message
+    list
+    comment
+    type
+    respond
+    remind
+    exclaim
+    interrupt
+    excuse
+    study
+    greet
+    suggest
+    warn
+    sing
+    welcome
+    count
+    dare
+    demand
+    argue
+    swear
+    tease
+    contact
+    invite
+    convince
+    apologize
+    history
+    sentence
+    curse
+    tip
+    bill
+    math
+    station
+    address
+    lesson
+    law
+    magazine
+    report
+    hint
+    complain
+    charge
+    cheer
+    announce
+    protest
+    introduce
+    beg
+    insist
+    urge
+    threaten
+    moan
+    chat
+    inform
+    whine
+    object
+    grumble
+    squeal
+    sarcastically
+    schedule
+    statement
+    clue
+    ticket
+    argument
+    language
+    map
+    agreement
+    retort
+    interview
+    remark
+    teach
+    discuss
+    plead
+    describe
+    assure
+    claim
+    accent
+    challenge
+    command
+    forgive
+    insult
+    post
+    spell
+    inquire
+    flirt
+Comparison
+    like / unlike
+    more / less
+    than
+    same / opposite
+    most / least
+    better / worse
+    best / worst
+    different / similar
+    further
+    lower / higher
+    difference / similarity
+    various
+    compare
+Conflict and Competition
+    for / against
+    but
+    though
+    however
+    although
+    except
+    trouble
+    football
+    fight
+    attack
+    despite
+    track
+    lose / win
+    struggle
+    settle
+    race
+    bet
+    argue
+    interrupt
+    war / peace
+    battle
+    sport
+    otherwise
+    threaten
+    protest
+    object
+    court
+    argument
+    enemy / friend
+    resist
+    cheat
+Connection
+    and
+    on / off
+    with / without
+    or
+    onto
+    lean
+    pull / push
+    reach
+    grab
+    hold
+    miss
+    kiss
+    upon
+    drop / catch
+    lock
+    meet
+    arrive
+    get
+    land
+    press
+    join
+    brush
+    rub
+    touch
+    hug
+    hit
+    knock
+    kick
+    beat
+    apart
+    knot
+    handle
+    sex
+    relationship
+    married / single
+    marry / divorce
+    visit
+    tie
+    grip
+    stick
+    contact
+    wipe
+    punch
+    slap
+    bridge
+    wedding
+    mate
+    separate
+    split
+    crash
+    click
+    clutch
+    tug
+    grasp
+    clench
+    stroke
+    tap
+    pat
+    scratch
+    choke
+    smack
+    whip
+    popular
+    friendship
+    marriage / divorce
+    chain
+    embrace
+    connect
+    link
+    dial
+    hook
+    yank
+    bump
+    strike
+Consumption
+    water
+    use
+    food
+    breakfast
+    brunch
+    lunch
+    dinner
+    supper
+    coffee
+    eat
+    drink
+    cream
+    chocolate
+    orange
+    sugar
+    ingredient
+    bite
+    suck
+    sip
+    bake
+    hungry
+    honey
+    cookie
+    tap
+    beer
+    tea
+    pizza
+    drug
+    meal
+    bread
+    potato
+    fish
+    chicken
+    meat
+    fruit
+    vegetable
+    produce
+    soda
+    dessert
+    waste
+    swallow
+    cook
+    cake
+    milk
+    juice
+    sandwich
+    dish
+    apple
+    wine
+    chip
+    egg
+    alcohol
+    tray
+    candy
+    pot
+    cheese
+    dine
+    feed
+    lick
+    chew
+    gulp
+    exhaust
+    supply
+    fry
+Contraction
+    I'm
+    don't
+    didn't
+    it's
+    wasn't
+    you're
+    that's
+    I'll
+    couldn't
+    can't
+    he's
+    I'd
+    wouldn't
+    I've
+    she's
+    he'd
+    hadn't
+    doesn't
+    what's
+    we're
+    she'd
+    won't
+    there's
+    isn't
+    they're
+    you've
+    you'll
+    we'll
+    haven't
+    weren't
+    aren't
+    you'd
+    gonna
+    they'd
+    shouldn't
+    we've
+    who's
+    we'd
+    it'll
+    he'll
+    would've
+    gotta
+    she'll
+    wanna
+    they'll
+    hasn't
+    kinda
+    ain't
+    they've
+    how's
+    it'd
+    let's
+Definition
+    be
+    is
+    are
+    mean
+    name
+    am
+    class
+    kind
+    sort
+    type
+    detail
+    blank
+    term
+    character
+Direction
+    to / from
+    up / down
+    out
+    into
+    back / forward
+    right / left
+    away / toward
+    across
+    way
+    through
+    course
+    forward / backward
+    direction
+    ahead / back
+    upstairs / downstairs
+    aside
+    aim
+    north / south
+    east / west
+Emotion
+    sure
+    sorry
+    care
+    hope
+    wonder
+    worry
+    surprise
+    please
+    miss
+    bother
+    feel
+    love / hate
+    happy / sad
+    calm / nervous
+    glad
+    fun
+    angry
+    annoy
+    enjoy
+    fear
+    shock
+    trouble
+    interest
+    confuse
+    scare
+    afraid
+    mad
+    certain
+    emotion
+    relief
+    mood
+    anger
+    disgust
+    doubt
+    bore
+    embarrass
+    concern
+    amaze
+    excite
+    relax
+    upset
+    aware
+    curious
+    proud / ashamed
+    innocent / guilty
+    jealous
+    angrily
+    happily
+    excitement
+    spirit
+    nerve
+    panic
+    alarm
+    confusion
+    respect
+    frighten
+    regret
+    amuse
+    startle
+    disappoint
+    relieve
+    scary
+    tense
+    desperate
+    frustration
+    rage
+    horror
+    joy
+    nightmare
+    disbelief
+    pressure
+    stress
+    pleasure
+    content
+    ease
+    desire
+    concentrate
+    charm
+    satisfy
+    attitude
+    pity
+    surprisingly
+    pride
+    stun
+    frustrate
+    terrify
+    irritate
+    disturb
+    puzzle
+    impress
+    suffer
+    appreciate
+Extent
+    so
+    just
+    only
+    too
+    much
+    really
+    how
+    long / short
+    very
+    enough
+    almost
+    slightly / quite
+    over / under
+    pretty
+    a little / a lot
+    high / low
+    completely
+    especially
+    nearly
+    exactly
+    barely
+    serious
+    simply
+    within
+    seriously
+    further
+    totally
+    practically
+    slight
+    hardly
+    lightly
+    mostly
+    somewhat
+    extremely
+    beyond
+    bare
+    heavily
+    basically
+    fully
+    entirely
+    lack
+    kind of
+    particularly
+    plenty
+    halfway
+    badly
+    deeply
+    merely
+    fairly
+    exact
+    brief
+    mid
+Family and Friends
+    mother / father
+    mom / dad
+    parent
+    sister / brother
+    friend / enemy
+    family
+    mum / dad
+    girlfriend / boyfriend
+    daughter / son
+    aunt / uncle
+    wife / husband
+    cousin
+    grandma / grandpa
+    niece / nephew
+    great-grandmother
+    great-grandfather
+    stepchild
+    stepparent
+    in-law
+    mama / dada
+    mommy / daddy
+    mate
+    partner
+    spouse
+    baby
+    honey
+    dear
+    love
+    lover
+Focus and Origin
+    to
+    from
+    the / a
+    this / that
+    of
+    about
+    an / the
+    any
+    these / those
+    matter
+    within
+    focus
+    concern
+    center
+    main
+    subject
+    base
+    random
+    feature
+    clue
+    among
+    detail
+    local
+    distract
+    social
+    natural
+    purpose
+    issue
+    concentrate
+    mental
+    general
+    nature
+    background
+    topic
+    major
+Frequency
+    always / never
+    once
+    ever
+    sometimes
+    usually
+    happen
+    turn
+    time
+    often / rarely
+    twice
+    steady
+    constantly
+    habit
+    tend
+    occur
+Future
+    will
+    forward
+    ready
+    plan
+    expect
+    gonna
+    promise
+    ahead
+    avoid
+    ahead
+    prepare
+    warn
+    future
+    vision
+    project
+    shall
+    schedule
+    weather
+    purpose
+    bound
+    aim
+    goal
+    fate
+    design
+Geometry
+    point
+    figure
+    line
+    corner
+    angle
+    straight
+    cross
+    form
+    ring
+    round
+    edge
+    area
+    space
+    focus
+    size
+    center
+    curl
+    distance
+    narrow
+    circle
+    shape
+    plane
+    base
+    row / column
+    square
+    height
+    length
+    width
+    volume
+    triangle
+    rectangle
+Group
+    class
+    together / separate
+    family
+    set
+    couple
+    alone
+    party
+    group
+    crowd
+    pair
+    pack
+    team
+    band
+    train
+    company
+    pile
+    list
+    club
+    in
+    include
+    camp
+    load
+    member
+    bunch
+    mix
+    system
+    split
+    cast
+    gang
+    among
+    file
+    content
+    outfit
+    contain
+Interjection
+    no / yes
+    well
+    really
+    oh
+    sure
+    okay
+    yeah
+    thank you
+    sorry
+    hey
+    whatever
+    all right
+    hello / good-bye
+    hi / bye
+    huh
+    ah
+    wow
+    welcome
+    yea
+    hmm
+    ha
+    nope / yep
+    uh-uh / uh-huh
+Location
+    place
+    home
+    side
+    point
+    lot
+    seat
+    beginning / end
+    front / back
+    inside / outside
+    in / outside
+    at
+    there / here
+    over / under
+    by
+    around
+    where
+    close / far
+    ahead / behind
+    between
+    ground
+    street
+    corner
+    park
+    world
+    town
+    middle
+    edge
+    state
+    land
+    ring
+    road
+    city
+    sky
+    top / bottom
+    far / near
+    high / low
+    beside
+    above
+    field
+    center
+    trail
+    area
+    path
+    scene
+    earth
+    forest
+    hole
+    within
+    beneath / above
+    present / absent
+    surround
+    river
+    camp
+    level
+    entrance / exit
+    country
+    hill / valley
+    beach
+    stream
+    yard
+    sea
+    mountain
+    below / above
+    everywhere / nowhere
+    beyond
+    nearby
+    garden
+    address
+    surface
+    dump
+    presence / absence
+    underneath / above
+    among
+    local
+    float
+    lake
+    moon
+    bush
+    corridor
+    background
+    campus
+Method
+    quickly / slowly
+    suddenly
+    anyway
+    by
+    how
+    way
+    fast / slow
+    quietly / loudly
+    softly
+    gently
+    quick
+    tone
+    rush
+    sudden / gradual
+    somehow
+    carefully
+    easily
+    practically
+    honestly
+    perfectly
+    silently
+    hurry
+    tightly
+    nervously / calmly
+    directly
+    normally
+    careful / careless
+    system
+    pace
+    particular
+    gentle
+    direct
+    steady
+    sarcastically
+    firmly
+    casually
+    desperately
+    sadly
+    mentally
+    fairly
+    closely
+    abruptly
+    style
+    manner
+    accent
+    fashion
+Movement
+    go / stay
+    turn
+    come
+    walk
+    still
+    pull / push
+    close / open
+    put
+    move
+    get
+    leave / return
+    run
+    step
+    rest
+    roll
+    pass
+    follow / lead
+    continue / stop
+    head
+    fall
+    rain
+    shower
+    trip
+    slip
+    drop / catch
+    jump
+    raise / lower
+    lift
+    climb
+    dance
+    bring
+    carry
+    fill / empty
+    drive
+    park
+    ride
+    shake
+    enter / exit
+    cross
+    breathe
+    lay
+    throw
+    remain
+    motion
+    storm
+    wind
+    chase
+    pack
+    shove
+    drag
+    escape
+    fly
+    blink
+    settle
+    send
+    approach
+    shift
+    flip
+    jerk
+    suck / blow
+    stretch
+    toss
+    squeeze
+    spread
+    gather / scatter
+    pour
+    sink
+    circle
+    twist
+    slide
+    swing
+    wander
+    remove
+    movement
+    flight
+    pace
+    speed
+    tip
+    rise
+    travel
+    shiver
+    stumble
+    snort
+    charge
+    drift
+    faint
+    load
+    swim
+    introduce
+    spin
+    stream
+    bury
+    hop
+    cough
+    skip
+    flow
+    cast
+    ship
+    float
+    spill
+    dump
+    stall
+    collapse
+    weather
+    breeze
+    tour
+    flick
+    duck
+    flush
+    bounce
+    sneak
+    dig
+    tuck
+    tilt
+    pitch
+    tremble
+    emerge
+    shuffle
+    dash
+    shudder
+    jog
+    proceed
+    leap
+    flop
+    shoot
+Number
+    zero
+    one
+    two
+    three
+    four
+    five
+    six
+    seven
+    eight
+    nine
+    ten
+    eleven
+    twelve
+    thirteen
+    fourteen
+    fifteen
+    sixteen
+    seventeen
+    eighteen
+    nineteen
+    twenty
+    thirty
+    forty
+    fifty
+    sixty
+    seventy
+    eighty
+    ninety
+    hundred
+    thousand
+    million
+    billion
+    trillion
+    odd
+    even
+    teen
+Object
+    bed
+    car
+    table
+    phone
+    book
+    chair
+    bag
+    paper
+    desk
+    tire
+    box
+    lock
+    glass
+    case
+    couch
+    ring
+    bus
+    sun
+    gun
+    key
+    brush
+    rock
+    picture
+    card
+    bar
+    ball
+    bottle
+    mirror
+    star
+    TV
+    cup
+    computer
+    handle
+    bell
+    clock
+    plate
+    button
+    pillow
+    board
+    page
+    guitar
+    cloud
+    screen
+    truck
+    football
+    stone
+    sheet
+    van
+    blanket
+    bowl
+    camera
+    towel
+    machine
+    wheel
+    bench
+    cigarette
+    knife
+    purse
+    plane
+    screw
+    frame
+    pen
+    backpack
+    bow
+    leaf
+    bike
+    toy
+    ship
+    whip
+    nail
+    object
+    weapon
+    magazine
+    radio
+    file
+    CD
+    fan
+    rope
+    television
+    boat
+    tent
+    hook
+    ticket
+    doll
+    trap
+    tank
+    tape
+    sofa
+    pin
+    branch
+    puzzle
+    bullet
+    film
+    dish
+    jeep
+    notebook
+    string
+    pencil
+    photo
+    tray
+    chain
+    engine
+    map
+    quarter
+    pot
+    feather
+    strap
+    drawer
+    pad
+    bubble
+Organism
+    animal
+    plant
+    kid
+    tree
+    rose
+    horse
+    dog
+    human
+    cat
+    grass
+    flower
+    monster
+    fish
+    creature
+    bear
+    bird
+    chicken
+    duck
+    snake
+    pet
+    bush
+    puppy
+    spider
+Parallel
+    even
+    just
+    such
+    as
+    again
+    do-over
+    too
+    while
+    also
+    both / neither
+    each
+    another
+    reply
+    answer
+    follow / lead
+    along
+    during
+    either
+    agree
+    besides
+    peer
+    twin
+    response
+    fit
+    mirror
+    match
+    repeat
+    pretend
+    respond
+    fair
+    nor
+    image
+    reaction
+    echo
+    mock
+    record
+    similar / different
+    common
+    uniform
+    exact
+    whilst
+    photo
+    video
+    balance
+    copy
+    trace
+    react
+Past Tense
+    was
+    had
+    said
+    were
+    did
+    got
+    thought
+    made
+    knew
+    went
+    felt
+    took
+    came
+    told
+    left
+    saw
+    heard
+    found
+    began
+    stood
+    gave
+    ran
+    shook
+    would
+    could
+    sat
+    read
+    seen
+    been
+    done
+    held
+    fell
+    kept
+    caught
+    met
+    lost
+    meant
+    shot
+    rose
+    brought
+    spoke
+    threw
+    became
+    broke
+    spent
+    stuck
+    hung
+    gone
+    taken
+    known
+    gotten
+    given
+    sent
+    led
+    rang
+    drove
+    woke
+    wore
+    grew
+    slid
+    bought
+    laid
+    forgot
+    drew
+    drunk
+    broken
+    forgotten
+    lit
+    flew
+    ate
+    slept
+    paid
+    understood
+    spun
+    swung
+    bent
+    won
+    fallen
+    written
+    torn
+    born
+    grown
+    hidden
+    thrown
+    wrote
+    built
+    struck
+    chose
+    blew
+    fought
+    bound
+    froze
+    spat
+    rode
+    worn
+    drawn
+    spoken
+    eaten
+    frozen
+    begun
+Person
+    I
+    you
+    her / him
+    she / he
+    me
+    they
+    we
+    them
+    girl / boy
+    us
+    people
+    woman / man
+    guy
+    everyone
+    kid
+    Mrs. / Mr.
+    person
+    someone
+    anyone
+    women / men
+    baby
+    lady / gentleman
+    child / adult
+    children
+    teacher
+    doctor
+    student
+    human
+    jerk
+    sir
+    Ms. / Mr.
+    nobody / everybody
+    peer
+    guard
+    police
+    driver
+    idiot / genius
+    twin
+    gay / straight
+    queen / king
+    player
+    nurse
+    officer
+    princess / prince
+    stranger
+    guest
+    member
+    Dr.
+    female / male
+    judge
+    fool
+    somebody
+    dude
+    lord
+    manager
+    boss
+    local
+    fan
+    bastard
+    partner
+    leader / follower
+    cop
+    soldier
+    roommate
+    enemy / friend
+    master
+    hunter
+    character
+    principal
+    passenger
+    teenager
+    general
+    neighbor
+    anybody
+    whoever
+    captain
+    owner
+    coach
+    suspect
+    customer
+    teen
+Physical
+    little / big
+    short / long
+    small / large
+    soft / hard
+    shallow / deep
+    clean / dirty
+    tiny / huge
+    narrow / wide
+    round
+    short / tall
+    cold / hot
+    tight / loose
+    light / heavy
+    dry / wet
+    thin / thick
+    heat
+    weight
+    sharp / dull
+    smooth / rough
+    flat
+    wooden
+    thin / fat
+    height
+    length
+    width
+    golden
+    weather
+    giant
+    pure
+    physical
+    pressure
+    frozen
+Portion
+    all / none
+    some
+    bit
+    everything / nothing
+    most
+    every
+    lot
+    half
+    whole
+    part
+    rest
+    third
+    fourth
+    fifth
+    sixth
+    seventh
+    eighth
+    ninth
+    tenth
+    full / empty
+    piece
+    entire
+    complete
+    feature
+    particular
+    halfway
+    throughout
+    branch
+    chapter
+    fraction
+    percent
+    cent
+    penny
+    nickel
+    dime
+    quarter
+Position
+    open / closed
+    sit
+    stand
+    point
+    lie
+    shut / open
+    hang
+    position
+    stretch
+    fist
+    fold
+    yawn
+    balance
+    tuck
+Possession
+    her
+    his
+    my
+    your
+    their
+    our
+    its
+    own
+    give / receive
+    has
+    have
+    get
+    take
+    keep
+    mine
+    free
+    money
+    dollar
+    pound
+    euro
+    shop
+    pay
+    hers
+    yours
+    poor / rich
+    present
+    treat
+    worth
+    value
+    lose / gain
+    buy / sell
+    share
+    spend / save
+    accept / reject
+    whose
+    support
+    bill
+    exchange
+    cash
+    check
+    credit card
+    debit card
+    gift
+    property
+    tip
+    charge
+    belong
+    feature
+    include
+    cheap / expensive
+    public / private
+    master
+    owner
+    balance
+    debt
+    loan
+    borrow
+    rent
+    owe
+    steal
+    collect
+    supply
+    snatch
+    contain
+Power
+    on / off
+    life
+    head
+    can / cannot
+    live
+    let
+    able / unable
+    smart / stupid
+    alive / dead
+    possible / impossible
+    strong / weak
+    free
+    stuck
+    chance
+    power
+    sense
+    may
+    corner
+    catch / release
+    force
+    allow
+    control
+    lead / follow
+    drunk
+    possibly
+    block
+    handle
+    accept / reject
+    refuse
+    queen / king
+    president
+    prime minister
+    strength / weakness
+    energy
+    law
+    rule
+    choke
+    blind
+    deaf
+    powerful
+    leader / follower
+    captain
+    master
+    principal
+    general
+    opportunity
+    ability / disability
+    skill
+    charm
+    direct
+Private and Public
+    himself / herself
+    myself
+    show / hide
+    yourself
+    secret
+    self
+    themselves
+    itself
+    reveal
+    share
+    bare
+    naked
+    personal
+    introduce
+    public / private
+    issue
+    display
+Production
+    make
+    light / darken
+    build / demolish
+    grow
+    prepare
+    bear
+    birth
+    create
+    process
+    pregnant
+    film
+    fashion
+    design
+    issue
+Profanity
+    fuck
+    damn
+    shit
+    ass
+    piss
+    crap
+    bitch
+    bloody
+    suck
+    cock / pussy
+    balls
+    blow
+    screw
+    bang
+    dick
+Protection
+    protect
+    cover
+    wrap
+    save
+    store
+    storage
+    guard
+    police
+    safe / dangerous
+    locker
+    shade
+    shelter
+    bank
+    cop
+    security
+    risk
+    defense
+    container
+    pad
+Quality
+    well
+    good / bad
+    right / wrong
+    good / evil
+    okay
+    kind / mean
+    better / worse
+    best / worst
+    great
+    nice
+    fine
+    pretty
+    beautiful / ugly
+    perfect / flawed
+    clean / dirty
+    funny
+    smart / stupid
+    strange
+    weird
+    normal
+    easy / difficult
+    trouble
+    state
+    safe / dangerous
+    crazy
+    serious
+    dear
+    sick / well
+    healthy
+    practical
+    simple
+    awkward
+    poor
+    worthy
+    valuable
+    wonderful
+    sharp
+    cute
+    usual
+    odd
+    special
+    health
+    shape
+    fault
+    grade
+    plain
+    fair
+    horrible
+    rich
+    fresh / stale
+    ruin
+    unfortunately
+    silly
+    wild / tame
+    gorgeous
+    friendly
+    terrible
+    ridiculous
+    lovely
+    accident
+    plus
+    mistake
+    handsome
+    common
+    awesome
+    rough
+    golden
+    rude
+    pure
+    shy
+    famous
+    fancy
+    exact
+    luckily
+    insane
+    pathetic
+    cheap
+    awful
+    dull
+    charm
+    tune
+    nightmare
+    character
+    nature
+    risk
+    beauty
+    condition
+    flop
+Question
+    what
+    when
+    how
+    who
+    why
+    where
+    which
+    how many
+    how much
+    test
+    whose
+    whom
+Reality
+    no / yes
+    not
+    non
+    really
+    right / wrong
+    yeah
+    maybe
+    actually
+    probably
+    might
+    sure
+    real / fake
+    true / false
+    definitely
+    perhaps
+    fact
+    truth
+    lie
+    certain
+    absolutely
+    seriously
+    honestly
+    certainly
+    trick
+    pretend
+    honest
+    innocent / guilty
+    indeed
+    truly
+    likely
+    reality
+    fool
+    exist
+    prove
+    surely
+    correct
+    exact
+    nature
+    risk
+Reason
+    for
+    so
+    if
+    because
+    why
+    point
+    reason
+    cause
+    unless
+    effect
+    result
+    condition
+    purpose
+    sake
+    affect
+Recreation
+    point
+    out
+    run
+    home
+    play
+    fun
+    funny
+    game
+    party
+    movie
+    music
+    football
+    baseball
+    silly
+    player
+    base
+    camp
+    sport
+    toy
+    puzzle
+    home run
+    score
+    hit / strike
+Religion and Mythology
+    God
+    god
+    hell / heaven
+    cross
+    angel
+    Christmas
+    lucky
+    church
+    luck
+    monster
+    evil / good
+    magic
+    soul
+    dragon
+    spirit
+    vision
+    Lord
+    faith
+    pray
+    curse
+    giant
+    witch
+    fate
+    luckily
+Selection
+    other
+    pick
+    decide
+    which
+    guess
+    else
+    instead
+    sort
+    whether
+    choice
+    tap
+    switch
+    choose
+    decision
+    file
+    prefer
+    determine
+    option
+    dial
+Sensation
+    light / dark
+    sound
+    notice
+    glance
+    stare
+    find / lose
+    show
+    look
+    see
+    feel
+    seem
+    watch / ignore
+    hear
+    cold / hot
+    cool / warm
+    quiet / loud
+    silent
+    bright
+    sweet
+    blonde
+    obviously
+    silence
+    pain
+    color
+    shock
+    knock
+    song
+    music
+    beat
+    tone
+    fire
+    smell
+    spot
+    hide
+    listen / ignore
+    hurt
+    check
+    sense
+    gaze
+    appear
+    comfortable
+    obvious
+    apparently
+    clearly
+    sight
+    pop
+    flash
+    noise
+    shadow
+    comfort
+    darkness / light
+    murmur
+    heat
+    view
+    focus
+    experience
+    study
+    slam
+    count
+    taste
+    search
+    hungry
+    echo
+    bang
+    cough
+    vision
+    flame
+    click
+    glow
+    shine
+    discover
+    blind
+    deaf
+    painful
+    appearance
+    pleasure
+    beauty
+    warmth
+    scent
+    sensation
+    blast
+    flicker
+    trace
+    chill
+    stun
+    ache
+    sniff
+    irritate
+    examine
+    peek
+    scan
+    suffer
+    display
+Status and Progress
+    head
+    back / forward
+    previous / next
+    beginning / end
+    initially / finally
+    done
+    over
+    set
+    start / finish
+    pass / fail
+    follow
+    first / last
+    second
+    third
+    fourth
+    fifth
+    sixth
+    seventh
+    eighth
+    ninth
+    tenth
+    order
+    situation
+    matter
+    begin / end
+    important
+    favorite
+    complete
+    ahead / behind
+    main
+    grade
+    count
+    stage
+    trail
+    initial / final
+    manager
+    level
+    skip
+    condition
+    master
+    general
+    major
+    chapter
+    favor
+    proceed / regress
+Structure
+    room
+    door
+    school
+    house
+    floor / ceiling
+    wall
+    window
+    kitchen
+    stair
+    hall
+    office
+    bathroom
+    bathtub
+    shower
+    toilet
+    restroom
+    store
+    apartment
+    bedroom
+    street
+    road
+    track
+    bar
+    club
+    hallway
+    counter
+    sink
+    pool
+    locker
+    hospital
+    college
+    closet
+    slide
+    swing
+    upstairs
+    downstairs
+    church
+    stage
+    doorway
+    gate
+    station
+    tap
+    faucet
+    hotel
+    restaurant
+    base
+    frame
+    classroom
+    support
+    bridge
+    dorm
+    driveway
+    library
+    stall
+    elevator
+    cafeteria
+    porch
+    mall
+    carpet
+    court
+    bank
+    tent
+    roof
+    fence
+    sidewalk
+    curtain
+    cage
+    cabin
+    gym
+    corridor
+    garage
+    tower
+    building
+    structure
+    motel
+    university
+Substance and Material
+    water
+    breath
+    air
+    matter
+    glass
+    blood
+    paper
+    paint
+    ice
+    wood
+    smoke
+    silver
+    snow
+    sweat
+    waste
+    metal
+    gold
+    plastic
+    dirt
+    fat
+    dust
+    leather
+    exhaust
+    alcohol
+    sand
+    makeup
+Time
+    now
+    then
+    time
+    when
+    before / after
+    wait
+    early / late
+    new / old
+    young / old
+    moment
+    since / until
+    already
+    soon
+    yet
+    fast / slow
+    past / future
+    present
+    ago
+    anymore
+    immediately
+    during
+    age
+    quick
+    eventually
+    forever
+    period
+    instantly
+    till
+    whenever
+    due
+    hesitate
+    lately
+    awhile
+    used to
+    instant
+    briefly
+    brief
+    recently
+    afterward
+    sometime
+Time and Date
+    day / night
+    morning / afternoon
+    today
+    date
+    tomorrow / yesterday
+    tonight
+    spring
+    summer / winter
+    fall
+    autumn
+    evening
+    birthday
+    weekend
+    shift
+    Sunday
+    Monday
+    Tuesday
+    Wednesday
+    Thursday
+    Friday
+    Saturday
+    o'clock
+    holiday
+    January
+    February
+    March
+    April
+    May
+    June
+    July
+    August
+    September
+    October
+    November
+    December
+Time Unit
+    second
+    minute
+    hour
+    day
+    week
+    year
+    month
+    season
+    quarter
+    term
+    semester
+Unit
+    point
+    foot
+    cell
+    cup
+    inch
+    pound
+    lap
+    mile
+    dollar
+    yard
+    kilogram
+    meter
+    kilometer
+    chapter
+    gallon
+    liter
+Variable
+    it
+    something
+    thing
+    anything
+    someone
+    bit
+    place
+    stuff
+    somewhere
+    angle
+    number
+    figure
+    direction
+    date
+    area
+    size
+    distance
+    count
+    weight
+    anywhere
+    speed
+    event
+    somebody
+    length
+    volume
+    term
+    height
+    anybody
+    whoever
+    sometime
+Want and Need
+    like
+    want
+    need
+    should
+    must
+    miss
+    love / hate
+    have to
+    had better
+    rather
+    supposed to
+    wish
+    dream
+    unless
+    favorite
+    demand
+    jealous
+    extra
+    spare
+    lack / glut
+    deficit / surplus
+    vision
+    belong
+    deserve
+    gotta
+    wanna
+    desperate
+    necessary
+    hopefully
+    desperately
+    term
+    condition
+    purpose
+    goal
+    aim
+    favor
+    desire
+    require
+    prefer
+Work
+    hard / easy
+    do
+    try
+    start / stop
+    work
+    help / hinder
+    use
+    stop / continue
+    rest
+    sleep
+    easy / difficult
+    break
+    problem
+    job
+    business
+    teacher
+    student
+    doctor
+    does
+    act
+    manage
+    hire / fire
+    pause
+    busy
+    position
+    shift
+    action
+    test
+    guard
+    police
+    driver
+    attempt
+    paint
+    train
+    struggle
+    practice
+    treat
+    involve
+    homework
+    math
+    project
+    effort
+    process
+    nurse
+    officer
+    judge
+    manager
+    boss
+    cook
+    charge
+    serve
+    support
+    relieve
+    security
+    purpose
+    favor
+    service
+    ease / difficulty
+    cop
+    soldier
+    master
+    principal
+    captain
+    coach
+    teach
+    tend
+    strain
+    employ / layoff

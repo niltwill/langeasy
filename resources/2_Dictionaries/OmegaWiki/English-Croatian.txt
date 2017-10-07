@@ -1,0 +1,708 @@
+English	Croatian
+Abidjan	Abidjan
+Aegean Sea	Egejsko more
+Albania ; Republic of Albania	Albanija
+Algeria ; People's Democratic Republic of Algeria	Alžir
+American Samoa	Američka Samoa
+Angola ; Republic of Angola	Angola
+Anguilla	Angvila
+Antarctica	Antarktika
+Antigua and Barbuda	Antigva i Barbuda
+Arabic ; Standard Arabic	arapski
+Argentina ; Argentine Republic	Argentina
+Arizona	Arizona
+Armenia	Armenija
+Armenian	jermenski ; armenski
+Aruba	Aruba
+August	kolovoz
+Australia ; Commonwealth of Australia	Australija
+Austria ; Republic of Austria	Austrija
+Azerbaijan ; Republic of Azerbaijan	Azerbejdžan
+Bahrain	Bahrein
+Balearic Islands	Baleari
+Bangladesh ; People's Republic of Bangladesh	Bangladeš
+Belarus ; Republic of Belarus	Bjelorusija
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	beloruski
+Belgrade	Belgrado
+Belize	Belize
+Belmopan	Belmopan
+Bengali ; Bengali	bengalski
+Bermuda	Bermudi
+Bethlehem	Betlehem
+Bhutan ; Kingdom of Bhutan	Butan
+Birmingham	Birmingham
+Bolivia ; Republic of Bolivia	Bolivija
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosna i Hercegovina
+Botswana ; Republic of Botswana	Bocvana
+Bouvet Island	Otok Bouvet
+Bratislava	Bratislava
+Brazil	Brazil
+Breton ; Breton	bretonski
+British Indian Ocean Territory ; BIOT	Britanski indijskooceanski teritoriji
+Brunei ; Negara Brunei Darussalam	Brunej
+Bulgaria ; Republic of Bulgaria	Bugarska
+Bulgarian ; Bulgarian	bugarski
+Burundi ; Republic of Burundi	Burundi
+Cambodia ; Kingdom of Cambodia	Kambodža
+Cameroon ; Republic of Cameroon	Kamerun
+Catalan ; Catalan	katalonski
+Cayman Islands	Kajmanski otoci ; Kaiman-Insuli
+Chad ; Republic of Chad	Čad
+Chile ; Republic of Chile	Čile
+Christmas	Božić
+Christmas tree	božićno drvo
+Colombia ; Republic of Colombia	Kolumbija
+Corfu	Krf
+Croatia ; Republic of Croatia	Hrvatska ; Republika Hrvatska
+Croatian ; Croation	hrvatski
+Cyprus ; Republic of Cyprus	Cipar
+Dagestan	Dagestan
+Dakar	Dakar
+Danish	danski
+December	prosinac
+Democratic Republic of the Congo ; Congo-Kinshasa	Demokratska Republika Kongo
+Dominican Republic	Dominikanska Republika
+EU ; European Union	Europska unija
+East Timor ; Democratic Republic of Timor-Leste	Istočni Timor
+Easter	Uskrs
+Egypt ; Arab Republic of Egypt	Egipat
+El Salvador ; Republic of El Salvador	Salvador
+English	engleski
+Eritrea	Eritreja
+Estonia ; Republic of Estonia	Estonija
+Estonian	estonski ; 에스토니아어
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopija
+Fiji ; Republic of the Fiji Islands	Fidži
+Finland ; Republic of Finland	Finska
+Finnish	finski
+France	Francuska
+French ; French	francuski
+French Guiana	Francuska Gvajana
+French Polynesia	Francuska Polinezija
+French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands	Francuski južni i antarktički teritoriji
+Frisian ; Western Frisian	frizijski
+Gabon ; Gabonese Republic	Gabon
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambija
+Georgia	Gruzija
+Georgia	Georgia
+Georgian ; Georgian	gruzijski
+German	njemački jezik
+Ghana ; Republic of Ghana	Gana
+Gibraltar	Gibraltar
+Greece ; Hellenic Republic	Grčka
+Greek ; Greek	grčki
+Greenland	Grenland
+Gregorian calendar	Gregorijanski kalendar
+Grenada	Grenada
+Guadeloupe	Gvadalupa
+Guam ; Guam ; Guam	Guam
+H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)	H5N1
+Haiti ; Republic of Haiti	Haiti
+Hannukah	Hanuka
+Hebrew	hebrejski
+Hindi ; Hindi	hindi ; indijski
+Holland ; Kingdom of the Netherlands ; The Netherlands	Nizozemska
+Honduras ; Republic of Honduras	Honduras
+Hungarian	mađarski
+Hungary ; Republic of Hungary	Madžarska
+Iceland ; Republic of Iceland	Island
+Icelandic	islandski
+Iliad	Ilijada
+India ; Republic of India	Indija
+Indonesia ; Republic of Indonesia	Indonezija
+Indonesian	indonezijski
+Iran ; Islamic Republic of Iran	Iran
+Ireland ; Republic of Ireland	Irska
+Islam	islam
+Israel ; State of Israel	Izrael
+Italian ; Italian	talijanski
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Bjelokosna Obala
+Jakarta ; Djakarta ; DKI Jakarta	Jakarta
+Jamaica	Jamajka
+January	siječanj
+Japan ; State of Japan	Japan
+Japanese ; Japanese	japanski
+Javanese	javanski
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Jordan
+July	srpanj
+June	lipanj
+Karelian	karelijanski
+Kenya ; Republic of Kenya	Kenija
+Kiribati ; Republic of Kiribati	Kiribati
+Korean ; Korean	korejski
+Kyrgyzstan ; Kyrgyz Republic	Kirgistan
+Laos ; Lao People's Democratic Republic	Laos
+Latin ; Latin	latinski
+Latvia ; Republic of Latvia	Letonija
+Latvian ; Latvian	Latvijski
+Lausanne	Lausanne
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Sankt Petersburg
+Lesotho ; Kingdom of Lesotho	Lesoto
+Liberia ; Republic of Liberia	Liberija
+Lithuania ; Republic of Lithuania	Litva
+Lithuanian ; Lithuanian	litavski
+Lower Saxony	Donja Saska
+Macedonian ; Macedonian	makedonski
+Malawi ; Republic of Malaŵi	Malavi
+Malaysia	Malezija
+Martinique	Martinik
+Mauritania ; Islamic Republic of Mauritania	Mauretanija
+Mayotte	Mayotte
+Merry Christmas	Sretan Božić
+Merry Christmas and a happy New Year	Cestit Božic i sretna nova godina
+Moldova	Moldova
+Monaco	Monako
+Montenegro	Crna Gora
+Montserrat	Montserrat
+Morocco ; Kingdom of Morocco	Maroko
+Myanmar	Mianmar
+Namibia	Namibija
+Nepal	Nepal
+Neptune	Neptun
+New Caledonia	Nova Kaledonija
+New Zealand	Novi Zeland
+Nicaragua	Nikaragva
+Niue	Niue
+Norway ; Kingdom of Norway	Norveška
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Panama	Panama
+Papua New Guinea	Papua Nova Gvineja
+Paris	Pariz
+Persian ; Western Farsi ; Farsi	perzijski
+Peru ; Republic of Peru	Peru
+Phobos	Fobos
+Poland	Poljska
+Polish ; Polish	poljski
+Portugal	Portugal
+Portuguese ; Portuguese	portugalski
+Puerto Rico	Portoriko
+Qatar	Katar
+Romania	Rumunjska
+Romanian ; Romanaian	rumunski
+Rome	Rim
+Russian ; Russian	ruski
+Saint-Pierre and Miquelon	Sveti Petar i Mikelon
+Sakhalin ; Saghalien	Sahalin
+Sanskrit ; Sanskrit	sanskrt
+Saudi Arabia ; Kingdom of Saudi Arabia	Saudijska Arabija
+Saxony	Saska
+Senegal	Senegal
+Serbia	Srbija
+Serbia and Montenegro	Srbija i Crna Gora
+Slovakia	Slovačka
+Slovene ; Slovenian ; Slovenian	slovenski
+South Africa	Južnoafrička Republika ; Južna Afrika
+Spain	Španjolska
+Sri Lanka	Šri Lanka
+Sudan	Sudan
+Suriname	Surinam
+Swahili	svahili
+Sweden	Švedska
+Swedish	švedski
+Switzerland	Švicarska
+Tagalog	tagalog
+Tanzania	Tanzanija
+Thai ; Thai	tajski
+Thailand	Tajland
+Thuringia	Tiringija
+Togo	Togo
+Tonga	Tonga
+Turkey	Turska
+Turkish ; Turkish	turski
+Uganda ; Republic of Uganda	Uganda
+Ukrainian ; Ukrainian	Ukrajinski ; ukrajinski
+Utah	Utah
+Vaduz	Vaduz
+Vatican City ; The Holy See ; State of the Vatican City	Vatikan
+Venice	Venecija
+Vietnamese ; Vietnamese	vijetnamski
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Wallis i Futuna
+Walloon ; Walloon	valonski
+Welsh ; Welsh	velški
+Wikipedia	Vikipedija
+Wiktionary	Wrječnik
+Zambia ; Republic of Zambia	Zambija
+Zimbabwe ; Republic of Zimbabwe	Zimbabve
+Zulu	zulu
+abasement	ponižavanje
+abbreviation	skraćenica
+abscess	apsces
+acceleration	ubrzanje
+accordion ; squeeze box ; piano accordion	harmonika
+actinium	aktinij
+addition	zbrajanje
+adoption	posvojenje
+aggressive	agresivan
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agorafobija ; agorafobija
+air pollution	onečišćavanje zraka
+alarm clock	budilica
+albinism	albinizam
+alchemy	alkemija
+alcoholism	alkoholizam
+alloy	legura
+alongside ; amongst ; with	sa
+aluminium	aluminij
+ambassador	veleposlanik
+americium	americij
+amphetamine	amfetamin
+amphitheatre	amfiteatar
+anaconda	anakonde
+anarchism	anarhizam
+anarchy	anarhija
+anime	anime
+anise	anis
+ankle ; talocrural joint	gležanj
+anniversary	godišnjica
+ant	mrav
+anthropologist	antropolog
+antimony	antimon
+anytime	uvijek
+apartheid	apartheid
+apricot	kajsija
+archetype	arhetip
+archive	arhiv
+argon	argon
+argument	svađa
+arrange ; adapt ; adjust ; conform ; accommodate ; suit	prilagoditi
+arrow	strijela
+arsenic	arsen
+assumption ; supposition	pretpostavka
+astatine	astat
+asthenosphere	astenosfera
+bag ; pocket ; steal	krasti
+banana	banana
+barium	barij
+barley	ječam
+barometer	barometar
+bassoon	fagot
+beaver	dabar
+bee	pčele
+beer	pivo
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	pupak
+berkelium	berkelij
+beryllium ; glucinium	berilij
+beverage ; drink	napitak
+bicycle ; bike ; cycle	bicikl
+biochemistry	biokemija
+biodiversity	bioraznolikost
+bishop	biskup
+bismuth	bizmut
+blackbird	kos
+blacksmith	kovač
+blind	slijep
+blog ; weblog ; web log	blog
+boat	čamac
+bohrium	bohrij
+bonsai	bonsai
+boron	bor
+bow	luk
+broader term ; broader terms ; hypernym ; holonym	hiperonim
+bromine	brom
+bull	bik
+button ; clit ; clitoris	klitoris ; dražica
+cactus	kaktus
+cadmium	kadmij
+caesium	cezij
+calcium	kalcij
+calendar	kalendar
+californium	kalifornij
+camouflage	kamuflaža
+carbon	ugljik
+carpet	ćilim
+category	kategorija
+cauliflower	karfiol
+caviar	kavijar
+celery	celer
+celibacy	celibat
+cephalopod	Glavonošci
+cerium	cerij
+champagne	šampanjac
+cheers ; thank you ; thanks	hvala
+chemical element ; element	kemijski element
+chemist's ; chemist's shop ; pharmacy	ljekarna
+chemistry	hemija
+cherry	trešnja
+chess	šah
+chlorine	klor
+chocolate	čokolada
+chromium	krom
+cigarette	cigareta
+clarinet	klarinet
+cloud	oblak
+cobalt	kobalt
+come	doći
+communism	komunizam
+compound ; chemical compound	kemijski spojevi
+condom ; prophylactic ; rubber ; safe ; safety	kondom
+consideration	promišljanje
+copper	bakar
+cow	krava
+creativity ; inventiveness	kreativnost
+crystal	kristal
+curium	kurij
+dandelion	maslačak
+darmstadtium	darmstadij
+deaf	gluh
+death penalty ; capital punishment ; death sentence	smrtna kazna
+demography	demografija
+dengue fever	dengue groznica
+dentist	zubar
+dentistry	stomatologija
+dialect	narječje
+dictionary	rječnik
+difficult	teško
+do	činiti
+dog	pas
+dolphin	delfin
+donation	poklon
+door	vrata
+dress ; clothe	odijevati
+drink ; gulp ; quaff ; sip	piti
+dromedary	dromedar
+drum kit	bubnjevi
+dubnium	dubnij
+duck	patka f. ; patka ; patak
+dust	prah
+dysprosium	disprozij
+ear	uho
+earth ; Earth ; the world ; Blue Planet	Zemlja
+eat	jelo
+effort ; exertion	napor
+einsteinium	einsteinij
+elbow	lakat
+elder ; elderberry	bazga
+embassy ; diplomatic mission	ambasada ; 대사관
+emergency	nužda
+empty	prazan
+encephalitis	encefalitis
+endocrinology	endokrinologija
+enter	ući ; ulaziti
+ephemeral	efemeran
+epigram	epigram
+epilepsy	epilepsija
+equator	ekvator
+erbium	erbij
+ethics	etika
+europium	europij
+explosion	rasprsnuće
+eye	oko
+eyebrow	obrva
+fermium	fermij
+ferry	skela ; trajekt
+finger	prst ; prst
+fluorine	flour
+flute	flauta
+ford	gaz ; brod
+fossil	fosil
+fracture	lom
+francium	francij
+freedom ; liberty	sloboda
+full	pun
+gadolinium	gadolinij
+gallbladder	žuč
+gallium	galij
+gardener	vrtlar
+genome	genom
+geography	zemljopis
+germanium	germanij
+gold	zlato
+goose	guska
+grammer ; grammar	gramatika
+grandchild	unuče
+graviton	graviton
+guinea pig	zamorac
+gull	galeb
+hafnium	hafnij
+hair	dlaka
+handkerchief	maramica
+hard disk drive ; hard disk ; HD	tvrdi disk ; kruti disk
+harem	harem
+hassium	hassij
+hedgehog	jež
+hedonism	hedonizam
+helicopter	helikoper ; helikopter
+helium	helij
+heroin	heroin
+heron	čaplja
+historiography	historiografija
+holmium	holmij
+homeostasis	homeostaza
+homonym	homonim
+honey	med
+hope	nada
+horizon	obzor
+hour	sat
+huckleberry ; blueberry	borovnica
+hydrogen	vodik
+hyponym ; narrower terms ; narrower term	hiponim
+ideology	ideologija
+independence	neovisnost
+indium	indij
+influenza ; flu	gripa
+interpreter	tumač
+iodine	jod
+iridium	iridij
+iron	željezo
+jackal	šakal
+jaguar	jaguar
+jazz	jazz
+journalist	novinar
+judo	judo
+karate	karate
+kettle	kuhalo
+keyboard	tipkovnica
+krypton	kripton
+lanthanum	lantan
+lawrencium	lavrencij
+lead	olovo
+learn	učiti
+leg	noga
+lemon	limun
+library	knjižnica
+lifeguard	čuvar kupališta
+limestone	vapnenac
+limnology	limnologija
+lithium	litij
+liver	jetra
+logic	logika
+long	dugačko
+lottery	lutrija
+lutetium	lutecij
+lux	luks
+lynx	ris
+machine gun	mašinska puška
+mackerel	skuša
+macroscopic	makroskopsko
+magnesium	magnezij
+malaria	malarija
+manganese	mangan
+mare	kobila
+marsupial	tobolčari
+mason ; bricklayer ; stonemason	zidar
+mausoleum	mauzolej
+mayonnaise	majoneza
+meitnerium	meitnerij
+melody ; tune	melodija
+mendelevium	mendelevij
+meningitis	meningitis
+menorah	menora
+mercury	živa
+metaphysics	metafizika
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	meteor ; meteor ; meteor ; meteor ; meteor
+meteorite	meteorit
+methanol	metanol
+microphone	mikrofon
+milk	mlijeko
+millet	proso
+mistral	maestral
+mitosis	mitoza
+molybdenum	molibden
+morphine	morfin
+mosque	džamija
+mother-in-law ; mother in law	svekrva
+museum	muzej
+musical	mjuzikl
+musician	muzi ar
+musquito ; mosquito	komarci
+mysterious	tajanstven
+nadir	nadir
+nappy	pelena
+neodymium	neodimij
+neon	neon
+neptunium	neptunij
+neurology	neurologija
+nickel	nikal
+niobium	niobij
+nitrogen	dušik
+no	ne
+nobelium	nobelij
+note	note
+novel	roman
+obey	poslušati
+obstacle ; obstruction	prepreka
+oceanography	oceanografija
+octave	oktava
+official language	službeni jezik
+ohm	om
+oligarchy	oligarhija
+olive	maslina
+onion	crni
+ontology	ontologija
+opera	opera
+ophthalmology	oftalmologija
+optics	optika
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimizam
+orchestra	orkestar
+organ	organ
+orphan	siroče
+orthography	pravopis
+osmium	osmij
+ostrich	noj
+oxygen	kisik
+pacifist	mirotvorac
+paediatrician	pedijatar
+palladium	paladij
+pancreas	gušterača
+parachute	padobran
+pear	kruška
+penguin	pingvin
+peninsula	poluotok
+people	ljudi
+petition	peticija
+pheasant	fazan
+philology	filologija
+philosophy	filozofija
+phone ; telephone	telefon
+phosphorus	fosfor
+physiology	fiziologija
+pigeon ; dove	golub
+pino ; pine	pinija
+pituitary gland	hipofiza
+place ; location	mjesto
+platinum	platina
+plough	plug
+plutonium ; plutonium ; plutonium	plutonij ; plutonij ; plutonij
+pollution	zagađenje
+polonium	polonij
+porcelain	porcelan
+positron	pozitron
+possession	posjedovanje
+posterity	potomstvo
+postman	poštar
+potassium	kalij
+potato ; patato	krumpir
+praseodymium	praseodimij
+pregnancy	trudnoća ; bremenitost
+prime number ; prime	prosti broj
+problem	poteškoća
+promethium	prometij
+pronunciation	izgovor
+property ; asset	svojstvo
+prostate	prostata
+protactinium	protaktinij
+psychiatrist	psihijatar
+quadrilateral	četverokut
+rabbit	kunić
+radiology	radiologija
+radium	radij
+radon	radon
+rainbow	duga
+renaissance	renesansa
+rhenium	renij
+rhodium	rodij
+rice	riža ; pirinač
+rice	riža
+roentgenium	roentgenij
+roof ; roof ; roof	krov ; krov ; krov ; krov ; krov ; krov ; krov
+rosary	krunica ; ružarij
+rubidium	rubidij
+ruthenium	rutenij
+rutherfordium	rutherfordij
+salmon	losos
+samarium	samarij
+say	reći
+scandium	skandij
+sculptor	kipar
+seaborgium	seaborgij
+selenium	selenij
+sew	šivati
+shark	ajkula
+sheep	ovca
+shepherd	pastir
+silicon	silicij
+silk	svila
+silver	srebro
+skull	lubanja
+slipper	papuče
+smallpox	boginje
+smile	osmijeh
+soap	sapun
+sodium	natrij
+star	zvijezda
+storm ; tempest	bura ; oluja
+story	pripovijest
+strontium	stroncij
+sulphur	sumpor
+supermarket	samoposluga
+supernova	supernova
+surgeon	kirurg
+surgery	kirurgija
+sweet	sladak
+synagogue	sinagoga
+table	stol
+takeover	preuzimanje
+tantalum	tantal
+tea	čaj
+teach	učiti
+technetium	tehnecij
+tellurium	telurij
+terbium	terbij
+terrorism	strahovlada
+testosterone	testosteron
+thallium	talij
+theology	teologija
+therapy	terapija
+thirst	žeda
+thorium	torij
+thulium	tulij
+thunder	grmljavina
+timezone	vremenska zona
+tin	kositar
+titanium	titanij
+tobacco	duhan
+toe	prst ; prst ; prst
+tomorrow	sutra
+topography	topografija
+torpedo	torpedo
+train	vlak
+translate ; interpret	prevesti
+translation	prevođenje
+tree	stablo
+triangle	trokut
+trolley bus ; trolleybus	trolejbus
+trophy	trofej
+tropics ; torrid zone	tropi
+trousers	hlače
+trout	pastrva
+trumpet	truba
+tulip	lala ; tulipan
+tungsten	volfram
+turkey	puran
+twin	blizanac
+university ; university ; academy	univerzitet ; univerzitet
+ununbium	ununbij
+ununhexium	ununheksij
+ununoctium	ununoktij
+ununpentium	ununpentij
+ununquadium	ununkvadij
+ununseptium	ununseptij
+ununtrium	ununtrij
+uranium	uranij
+useful	upotrebljiv
+usurp	uzurpirati
+valuable	skupocjen
+vanadium	vanadij
+veterinarian	veterinar
+veterinarian ; veterinary	veterinar ; živinar
+vinegar	ocat
+vineyard	vinograd
+volcanism	vulkanizam
+wasp	osa
+water	voda
+water polo	vaterpolo
+web ; spider web	paukova mreža
+white	bio
+willow	vrba
+wine	vino
+wolf	vuk
+wood	drvo
+word	riječ
+xenon	ksenon
+yacht	jahta
+ytterbium	iterbij
+yttrium	itrij
+zero ; null	nula
+zinc	cink
+zirconium	cirkonij
+Åland Islands	Ålandski otoci

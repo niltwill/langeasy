@@ -1,0 +1,14 @@
+Some languages at the time of downloading were unavailable from the online dictionary database.
+These are the following:
+
+- Belarusian
+- Bengali
+- Brazilian Portuguese
+- Faroese
+- Flemish
+- Khmer
+- Nepali
+- Nynorsk
+- Serbian cyrillic
+- Xhosa
+- Zulu

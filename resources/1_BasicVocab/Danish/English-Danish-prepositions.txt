@@ -1,0 +1,15 @@
+﻿English	Danish
+against	imod
+among	midt i
+at	på
+at	på
+during	under
+for	til
+from	fra
+from	fra
+into	ned i
+of	af
+since	lige siden
+with	med
+with	med
+without	uden

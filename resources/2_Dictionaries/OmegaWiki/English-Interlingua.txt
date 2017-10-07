@@ -1,0 +1,447 @@
+English	Interlingua
+Africa	Africa
+Albania ; Republic of Albania	Albania
+Algeria ; People's Democratic Republic of Algeria	Algeria
+Andorra ; Principality of Andorra	Andorra
+Angola ; Republic of Angola	Angola
+Antarctica	Antarctica
+Antigua and Barbuda	Antigua e Barbuda
+April	april
+Aragonese ; Aragonese	aragonese
+Argentina ; Argentine Republic	Argentina
+Armenia	Armenia
+Aruba	Aruba
+Asia	Asia
+August	augusto
+Australia ; Commonwealth of Australia	Australia
+Austria ; Republic of Austria	Austria
+Azerbaijan ; Republic of Azerbaijan	Azerbaidjan
+Bahrain	Bahrein
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Belgium ; Kingdom of Belgium	Belgica
+Belize	Belize
+Bermuda	Bermuda
+Bhutan ; Kingdom of Bhutan	Bhutan
+Bolivia ; Republic of Bolivia	Bolivia
+Botswana ; Republic of Botswana	Botswana
+Brunei ; Negara Brunei Darussalam	Brunei
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Bulgarian	bulgaro
+Burundi ; Republic of Burundi	Burundi
+Cambodia ; Kingdom of Cambodia	Cambodia
+Cameroon ; Republic of Cameroon	Cameroun
+Canada	Canada
+Caribbean Sea	Mar Caribe
+Castilian ; Spanish ; Spanish	espaniol
+Chad ; Republic of Chad	Chad
+Chile ; Republic of Chile	Chile
+Cook Islands	Insulas Cook
+Cuba ; Republic of Cuba	Cuba
+Cyprus ; Republic of Cyprus	Cypro
+Czech Republic ; Czechia	Chechia
+Danish	danese
+December	decembre
+Denmark ; Kingdom of Denmark	Danmark
+Dominican Republic	Republica Dominican
+Dutch	nederlandese
+EU ; European Union	Union Europee
+East Timor ; Democratic Republic of Timor-Leste	Timor Oriental
+Egypt ; Arab Republic of Egypt	Egypto
+El Salvador ; Republic of El Salvador	El Salvador
+English	anglese
+Epiphany	Epiphania
+Eritrea	Eritrea
+Esperanto ; Esperanto	Esperanto
+Estonia ; Republic of Estonia	Estonia
+Ethiopia ; Federal Democratic Republic of Ethiopia	Ethiopia
+Europe	Europa
+Falkland Islands	Falklands ; Malvinas
+February	februario
+Finland ; Republic of Finland	Finlandia
+Flemish	flamingo
+France	Francia
+French ; French	francese
+Friday	veneri
+Gabon ; Gabonese Republic	Gabon
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambia
+Georgia	Georgia
+German	Germano ; germano
+German (Austria)	germano (Austria)
+German (Switzerland)	germano (Suissa)
+Germany ; Federal Republic of Germany	Germania
+Ghana ; Republic of Ghana	Ghana
+Greece ; Hellenic Republic	Grecia
+Greek alphabet	alphabeto grec
+Greenland	Groenlandia
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam ; Guam ; Guam	Guam
+Haiti ; Republic of Haiti	Haiti
+Holland ; Kingdom of the Netherlands ; The Netherlands	Pais Basse
+Honduras ; Republic of Honduras	Honduras
+Hungary ; Republic of Hungary	Hungaria
+Iceland ; Republic of Iceland	Islanda
+India ; Republic of India	India
+Indonesia ; Republic of Indonesia	Indonesia
+Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin	interlingua
+Iran ; Islamic Republic of Iran	Iran
+Iraq ; Republic of Iraq	Iraq
+Ireland ; Republic of Ireland	Irlanda
+Israel ; State of Israel	Israel
+Italian Republic ; Italy	Italia
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Costa de Ebore
+Jamaica	Jamaica
+January	januario
+Japan ; State of Japan	Japon
+Japanese ; Japanese	japonese
+Jordan ; Hashemite Kingdom of Jordan	Jordania
+July	julio
+June	junio
+Jupiter	Jupiter
+Kenya ; Republic of Kenya	Kenya
+Kiribati ; Republic of Kiribati	Kiribati
+Latin ; Latin	latino
+Latvia ; Republic of Latvia	Latvia
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Liechtenstein ; Principality of Liechtenstein	Liechtenstein
+Lithuania ; Republic of Lithuania	Lituania
+Luxembourg ; Grand Duchy of Luxembourg	Luxemburg
+Madagascar ; Republic of Madagascar	Madagascar
+Malta ; Republic of Malta	Malta
+March	martio
+Martinique	Martinique
+Mauritius ; Republic of Mauritius	Mauritio
+May	maio
+Mercury	Mercurio
+Monaco	Monaco
+Monday	lunedi
+Myanmar	Myanmar
+Neptune	Neptuno
+New Zealand	Nove Zelanda
+Nicaragua	Nicaragua
+North America	America del Nord
+Norway ; Kingdom of Norway	Norvegia
+November	novembre
+Novial	Novial
+October	octobre
+Palau	Palau
+Panama	Panama
+People's Republic of China ; China	China
+Phobos	Phobos
+Poland	Polonia
+Portugal	Portugal
+Portuguese ; Portuguese	portugese
+Puerto Rico	Puerto Rico
+Pyrrhic victory	victoria pyrrhic
+Romania	Romania
+San Marino	San Marino
+Sanskrit ; Sanskrit	sanscrito
+Sapir–Whorf hypothesis	hypothese de Sapir-Whorf
+Saturday	sabbato
+Saturn	Saturno
+Saudi Arabia ; Kingdom of Saudi Arabia	Arabia Saudi
+Senegal	Senegal
+September	septembre
+Serbia	Serbia
+Seychelles ; Republic of Seychelles	Seychelles
+Slovakia	Slovachia
+Slovenia	Slovenia
+South Africa	Africa del Sud
+South America	America del Sud
+Spain	Espania
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Sunday	domenica
+Sweden	Svedia
+Swedish	svedese
+Switzerland	Suissa
+Tagalog	tagalog
+Taiwan	Taiwan
+Tanzania	Tanzania
+Thursday	jovedi
+Tuesday	martedi
+Turkey	Turchia
+Uganda ; Republic of Uganda	Uganda
+United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK	Regno Unite
+Uranus	Urano
+Vatican City ; The Holy See ; State of the Vatican City	Citate del Vaticano
+Venus	Venus
+Walloon ; Walloon	vallone
+Wednesday ; quarta-feira	mercuridi
+abscess	abscesso
+acceleration	acceleration
+actinium	actinium
+addition	addition
+adjective ; describing word	adjectivo
+adverb	adverbio
+algebra	algebra
+algorithm	algorithmo
+aluminium	aluminium
+americium	americium
+anagram	anagramma
+animal	animal
+ant	formica
+antimony	antimonio
+antiparticle	antiparticula
+argon	argon
+arithmetic ; arithmetics	arithmetica
+arsenic	arsenico
+article	articulo
+astatine	astatium
+astronomer	astronomo
+astronomy	astronomia
+atmosphere	atmosphera ; atmosphera terrestre
+atom	atomo
+atomic mass	massa atomic
+autumn	autumno
+aye ; yeah ; yep ; yes	si
+barium	barium
+beatification	beatification
+berkelium	berkelium
+beryllium ; glucinium	beryllium
+biodiversity	biodiversitate
+biology ; biological science	biologia
+bismuth	bismuth
+black	nigre
+bohrium	bohrium
+boron	boro
+bromine	bromo
+bull	masculo
+butterfly	papilion
+cadmium	cadmium
+caesium	cesium
+caffeine	caffeina
+calcium	calcium
+californium	californium
+camel	camelo
+camera	camera photographic ; apparato photographic
+capital	capital
+carbon	carbon
+carbon dioxide	dioxido de carbono
+cerium	cerium
+cheers ; thank you ; thanks	gratias
+cheese	caseo
+cheetah ; chetah	gepardo
+chemical element ; element	elemento chimic
+chemistry	chimia
+chlorine	chloro
+chordate	chordato
+chromium	chromo
+cobalt	cobalt
+comet	cometa
+compound ; chemical compound	composito chemic
+computer	computator ; computer
+conductivity ; electrical conductivity	conductibilitate
+constellation	constellation
+constructed language ; artificial language	lingua artificial
+continent	continente
+copper	cupro
+cosmology	cosmologia
+curium	curium
+darmstadtium	darmstadtium
+dengue fever	dengue
+density	densitate
+dictionary	dictionario
+disease ; illness ; affliction	maladia
+division	division
+donkey ; ass	asino
+dromedary	dromedario
+dubnium	dubnium
+dysprosium	dysprosium
+earth ; Earth ; the world ; Blue Planet	Terra
+edible	comestibile
+einsteinium	einsteinium
+elbow	cubito
+electromagnetism	electromagnetismo
+electron	electron
+electronics	electronica
+encyclopaedia	encyclopedia
+energy	energia
+epigram	epigramma
+equation	equation
+erbium	erbium
+europium	europium
+fermium	fermium
+fluorine	fluor
+football	football
+francium	francium
+frog	rana
+gadolinium	gadolinium
+gallium	gallium
+gas	gas
+genome	genoma
+geometry	geometria
+germanium	germanium
+gland	glandula
+gold	auro
+goose	ansere
+grammer ; grammar	grammatica
+graviton	graviton
+hafnium	hafnium
+hassium	hassium
+health	sanitate
+helicopter	helicoptero
+helium	helium
+holmium	holmium
+horse	cavallo
+hydrogen	hydrogeno
+iceberg	iceberg
+illiterate	analphabeto
+indium	indium
+informatics ; computer science ; information science	informatica
+inorganic chemistry	chimia inorganic
+iodine	iodo
+iridium	iridium
+iron	ferro
+jaguar	jaguar
+kilogram	kilogramma
+krypton	krypton
+lanthanum	lanthano
+lawrencium	lawrencium
+lead	plumbo
+leap year	anno bissextil
+linguistics	linguistica
+lion	leon
+literature	litteratura
+lithium	lithium
+little finger ; pinkie	digito auricular
+logic	logica
+lutetium	lutetium
+magnesium	magnesium
+mammal	mammal ; mammifero
+manganese	manganese
+mass	massa
+mathematics	mathematica
+meitnerium	meitnerium
+mendelevium	mendelevium
+mercury	mercurio
+metaphysics	metaphysica
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	meteoro
+milk	lacte
+molybdenum	molybdeno
+month	mense
+moon ; Luna ; Moon	Luna
+name ; proper name ; proper noun	nomine
+natural science	scientia natural
+neodymium	neodymium
+neon	neon
+neptunium	neptunium
+nickel	nickel
+niobium	niobium
+nitrogen	nitrogeno
+no	no
+nobelium	nobelium
+noun ; substantive	substantivo
+octopus	octopode
+ohm	ohm
+ontology	ontologia
+or	o
+organic chemistry	chimia organic
+orthography	orthographia
+osmium	osmium
+oxygen	oxygeno
+palladium	palladium
+palm	palma
+parachute	paracadita
+philology	philologia
+phosphorus	phosphoro
+photon	photon
+physics	physica
+pigeon ; dove	columba
+plane	plana
+planet	planeta
+plant	planta
+platinum	platino
+plutonium ; plutonium ; plutonium	plutonium
+pollution	pollution
+polonium	polonium
+positron	positron
+potassium	potassium
+power (physics) ; power	potentia
+praseodymium	praseodymium
+preposition	preposition
+pressure	pression
+prime number ; prime	numero prime
+promethium	promethium
+protactinium	protactinium
+proverb ; saying ; maxim	dicto ; proverbio
+quadrilateral	quadrangulo ; quadrilatero
+rabbit	conilio
+radium	radium
+radon	radon
+reindeer	ren
+rhenium	rhenium
+rhodium	rhodium
+roentgenium	roentgenium
+rubidium	rubidium
+ruthenium	ruthenium
+rutherfordium	rutherfordium
+salamander	salamandra
+salary	salario
+samarium	samarium
+satellite	satellite
+scandium	scandium
+science	scientia
+seaborgium	seaborgium
+season	station del anno
+secret	secrete
+selenium	selenium
+silicon	silicium
+silver	argento
+sodium	sodium
+species	specie
+spring	primavera
+star	stella
+storm ; tempest	tempesta
+strontium	strontium
+sulphur	sulfure
+summer	estate
+supernova	supernova
+syntax	syntaxe
+tantalum	tantalium
+teacher	maestro
+technetium	technetium
+tellurium	tellurium
+terbium	terbium
+thallium	thallium
+thermodynamics	thermodynamica
+thorium	thorium
+thulium	thulium
+thumb	pollice
+tiger	tigre
+time	tempore
+timezone	fuso horari
+tin	stanno
+titanium	titanium
+tomato	tomate
+tree	arbore
+triangle	triangulo
+trigonometry	trigonometria
+tungsten	tungsten
+university ; university ; academy	universitate
+ununbium	ununbium
+ununhexium	ununhexium
+ununoctium	ununoctium
+ununpentium	ununpentium
+ununquadium	ununquadium
+ununseptium	ununseptium
+ununtrium	ununtrium
+uranium	uranium
+vanadium	vanadium
+verb	verbo
+vertebrate	vertebrato
+voltage	voltage
+water	aqua
+week	septimana
+weight	peso
+white	blanco
+white	blanc
+winter	hiberno
+xenon	xenon
+yellow	jalne
+ytterbium	ytterbium
+yttrium	yttrium
+zinc	gallium ; zinc
+zirconium	zirconium
+zoonosis	zoonose

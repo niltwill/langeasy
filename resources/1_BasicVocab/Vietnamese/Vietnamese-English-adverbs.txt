@@ -1,0 +1,56 @@
+Vietnamese	﻿English
+khắp xung quanh	about
+bên trên	above
+lại	again
+gần như	almost
+dọc theo	along
+luôn luôn	always
+khoảng chừng	approximately
+trước (khi)	before
+đằng sau	behind
+chỉ rõ sự liên quan	between
+trực tiếp	directly
+đầu	early
+cái này hay cái kia trong hai cái	either
+đủ	enough
+đúng là	exactly
+cuối cùng	finally
+trước hết	first
+nói chung	generally
+tại điểm này	here
+tuy vậy	however
+ngay lập tức	immediately
+thật vậy	indeed
+bên trong	inside
+thay vì	instead
+muộn	late
+ít nhất	least
+một ít	little
+chỉ	merely
+không	not
+rõ ràng là	obviously
+thường xuyên	often
+một lần	once
+đặc biệt	particularly
+làm ơn, xin	please
+có thể	possibly
+có khả năng	probably
+nhanh chóng	quickly
+thực sự	really
+rất	really
+gần đây	recently
+chậm	slowly
+trong thời gian ngắn	soon
+vẫn còn	still
+như thế	such
+chắc chắn	surely
+vào lúc	then
+đằng kia	there
+hôm nay	today
+cùng	together
+ngày mai	tomorrow
+đêm nay	tonight
+cũng	too
+như thường lệ	usually
+thực sự	very
+khoẻ mạnh	well

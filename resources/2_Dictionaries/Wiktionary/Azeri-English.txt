@@ -1,0 +1,1299 @@
+Azeri	English
+Axilles vətəri	Achilles tendon
+Əfqanıstan	Afghanistan
+Albaniya	Albania
+Əlcəzair	Algeria
+Əlcəzair	Algiers
+Allah	Allah
+Kiçik Asiya; Anadolu	Anatolia
+Əndəlüs	Andalusia
+aprel	April
+Dolça	Aquarius
+Misir Ərəb Respublikası	Arab Republic of Egypt
+Araz	Araks
+Argentina	Argentina
+Qoç	Aries
+Ermənistan	Armenia
+erməni	Armenian
+Asiya	Asia
+Kiçik Asiya	Asia Minor
+Həştərxan	Astrakhan
+Afina	Athens
+Atropatena; Adurbadaqan; Atropat Midiyası	Atropatene
+avqust	August
+Avstraliya	Australia
+Avstriya	Austria
+Azərbaycan; Азәрбајҹан	Azerbaijan
+azərbaycanlı	Azerbaijani
+azəri; azərbaycan dili	Azeri
+Bağdad; Бағдад; بغداد	Baghdad
+Bakı; Бакы	Baku
+Baltik dənizi	Baltic Sea
+Banqladeş	Bangladesh
+başqırdca; başqırd dili	Bashkir
+Başqırdıstan	Bashkortostan
+Batumi	Batumi
+Bitlz	Beatles
+Pekin	Beijing
+Belarus	Belarus
+беларусҹа (belarusca); белорус (belorus)	Belarusian
+Belçika	Belgium
+Белград (Belgrad)	Belgrade
+белорус (belorus)	Belorussian
+Berluskoni	Berlusconi
+Tövrat və İncil; Төврат вә Инҹил	Bible
+Qara dəniz	Black Sea
+boşnak	Bosnian
+Naxırçı	Boötes
+Brüssel	Brussels
+Buxarest	Bucharest
+Budda	Buddha
+Bolqarıstan	Bulgaria
+bolqar	Bulgarian
+Buş	Bush
+Bizans İmperiyası	Byzantine Empire
+Kamboca; Kamboçiya	Cambodia
+Kanada	Canada
+Kap şiri	Cape lion
+Oğlaq	Capricorn
+Oğlaq	Capricornus
+Karfagen	Carthage
+Xəzər dənizi	Caspian Sea
+Katalan	Catalan
+Kataloniya	Catalonia
+Qafqaz	Caucasus
+Orta Asiya	Central Asia
+Çeçenistan	Chechnya
+Çerkessk	Cherkessk
+Çikaqo	Chicago
+Çin	China
+чин (čin)	Chinese
+Kişinıu	Chisinau
+Xarəzm	Chorasmia
+xristian	Christian
+xristianlıq	Christianity
+Milad bayramı; Milad	Christmas
+çuvaş dili	Chuvash
+Kolumbiya	Colombia
+Müstəqil Dövlətlər Birliyi	Commonwealth of Independent States
+Konstantinopol	Constantinople
+Krım	Crimea
+Krımtatar dili; Krımtatarca; Krım Tatarcası	Crimean Tatar
+Xorvatiya	Croatia
+хорват (horvat)	Croatian
+Kipr	Cyprus
+Kiril əlifbası	Cyrillic alphabet
+чех (čekh)	Czech
+Çex Respublikası	Czech Republic
+Çexiya	Czechia
+Dağıstan; Дағыстан	Dagestan
+Dəməşq	Damascus
+Данимарка	Danish
+dekabr	December
+Danimarka	Denmark
+Düşənbə	Dushanbe
+Niderland dili	Dutch
+Pasxa; Fish	Easter
+Misir	Egypt
+İngiltərə	England
+ingiliscə; инҝилисҹә	English
+Estoniya	Estonia
+Efiopiya	Ethiopia
+Avrasiya	Eurasia
+Avropa	Europe
+Avropa İttifaqı; Авропа Иттифагы	European Union
+Farer adaları	Faroe Islands
+fevral	February
+Finlandiya	Finland
+фин (fin)	Finnish
+Fransa	France
+Fransız dili	French
+cümə	Friday
+GUAM	GUAM
+Qabon	Gabon
+Cəbrayıl	Gabriel
+Qaqauz dili	Gagauz
+Gəncə	Ganja
+Əkizlər	Gemini
+Çingiz xan	Genghis Khan
+Ҹорҹтаун; Corctaun	Georgetown
+Corciya	Georgia
+gürcü; gürcü dili	Georgian
+Alman dili	German
+Almaniya	Germany
+Qorki	Gorky
+Böyük Britaniya	Great Britain
+Böyük Ermənistan	Greater Armenia
+Јунан (yunan)	Greek
+Yeni İliniz mübarək	Happy New Year
+İordaniya Həşimi Krallığı	Hashemite Kingdom of Jordan
+İvrit dili	Hebrew
+hind	Hindi
+Hippokrat	Hippocrates
+Hippokrat andı	Hippocratic oath
+Hitler	Hitler
+Honq Konq	Hong Kong
+İnsan resurslarının idarə olunması	Human Resource Management
+macar; macar dili	Hungarian
+Macarıstan	Hungary
+mən	I
+bir sualım var	I have a question
+səni sevirəm	I love you
+yardımına ehtiyacım var; yardımınıza ehtiyacım var	I need your help
+İslandiya	Iceland
+Hindistan	India
+İnquşetiya	Ingushetia
+Ayova	Iowa
+İran	Iran
+İrlandiya	Ireland
+İsikava	Ishikawa
+islam	Islam
+İran İslam Respublikası	Islamic Republic of Iran
+islamofobiya	Islamophobia
+İsrail	Israel
+италјан (italjan)	Italian
+İtaliya	Italy
+İçalatçı Cek	Jack the Ripper
+Yamayka	Jamaica
+yanvar	January
+Yaponiya	Japan
+Yava pələngi	Javan tiger
+yəhudi	Jew
+İoann/	John
+iyul	July
+iyun	June
+Yupiter	Jupiter
+Qarabağ	Karabakh
+qaraçay-balkar dili	Karachay
+qaraqalpaq dili	Karakalpak
+Qars	Kars
+Qazaxıstan	Kazakhstan
+xakas dili	Khakas
+xınalıq	Khinalug
+Kosovo	Kosovo
+qumuq dili; kumık dili	Kumyk
+Kür	Kura
+Kurqan	Kurgan
+Qırğız dili; Qırğızca	Kyrgyz
+Qırğızıstan	Kyrgyzstan
+latın dili	Latin
+Latviya	Latvia
+Livan	Lebanon
+Şir	Leo
+Tərəzi	Libra
+Lixtenşteyn	Liechtenstein
+Litva	Lithuania
+Litva dili	Lithuanian
+Los-Anceles	Los Angeles
+Lüksemburq	Luxembourg
+Makedoniya	Macedonia
+Mahaçqala	Makhachkala
+Maldiv adaları; Maldivlər	Maldives
+Malta	Malta
+mart	March
+Məcdəlli Məryəm; Mariya Maqdalena	Mary Magdalene
+may	May
+Maykop	Maykop
+Mədinə	Medina
+Aralıq dənizi	Mediterranean Sea
+Үтарид (Ütarid)	Mercury
+tezze iliniz yahsi olsun	Merry Christmas
+Meksika	Mexico
+Orta Şərq	Middle East
+xanımqız	Miss
+Moldova	Moldova
+Monako	Monaco
+bazar ertəsi	Monday
+Monqolustan	Mongolia
+Moskva	Moscow
+Musa	Moses
+Məhəmməd Peyğəmbər	Muhammad
+Myanma	Myanmar
+NATO	NATO
+Dağlıq Qarabağ Respublikası	Nagorno
+Naxçıvan	Nakhichevan
+Nalçik	Nalchik
+Namibiya	Namibia
+Nepal	Nepal
+Niderland	Netherlands
+Yeni Dünya	New World
+Yeni Zelandiya	New Zealand
+Şimali Koreya	North Korea
+Şimali Kipr; Şimali Kipr Türk Respublikası; ŞKTR	Northern Cyprus
+Norveç	Norway
+noyabr	November
+Novruz (m); Novruz bayramı	Nowruz
+oktyabr	October
+Oğuz Türkləri	Oghuz
+qədim erməni dili	Old Armenian
+Olimpiya oyunları	Olympic Games
+Osmanlı İmperiyası; Osmanlı Dövləti	Ottoman Empire
+Sakit okean	Pacific Ocean
+padşah	Padishah
+Pakistan	Pakistan
+Fələstin	Palestine
+Pantürkizm; Panturançılıq	Pan
+Papua Yeni Qvineya	Papua New Guinea
+Paris	Paris
+San Paulo	Paulínia
+fars dili	Persian
+Peru	Peru
+Piçilemu	Pichilemu
+Balıqlar	Pisces
+Podqoritsa	Podgorica
+Polşa	Poland
+polyak; polyak dili	Polish
+Portuqaliya	Portugal
+Praqa	Prague
+Pirr qələbəsi	Pyrrhic victory
+Pifaqor	Pythagoras
+İntibah dövrü; Renesans	Renaissance
+Albaniya Respublikası	Republic of Albania
+Ermənistan Respublikası	Republic of Armenia
+Koreya Respublikası	Republic of Korea
+Latviya Respublikası	Republic of Latvia
+Litva Respublikası	Republic of Lithuania
+Riçard	Richard
+Rio-de-Janeyro	Rio de Janeiro
+Rumıniya	Romania
+Rusiya; Русия	Russia
+rusça; русҹа	Russian
+Rusiya Federasiyası	Russian Federation
+Oxatan	Sagittarius
+Sankt-Peterburq	Saint Petersburg
+Santa Klaus; Şaxta baba	Santa Claus
+Santyaqo	Santiago
+şənbə	Saturday
+Səudiyyə Ərəbistanı	Saudi Arabia
+Şvartsenegger	Schwarzenegger
+Əqrəb	Scorpius
+Şotlandiya	Scotland
+sentyabr	September
+Serb (Серб)	Serb
+Serbiya	Serbia
+Sevilya	Seville
+Şekspir	Shakespeare
+Sibir	Siberia
+Skopye	Skopje
+Slovakiya	Slovakia
+sloven; sloven dili	Slovene
+Sloveniya	Slovenia
+Günəş sistemi	Solar System
+Cənubi Qafqaz; Zaqafqaziya	South Caucasus
+Cənubi Osetiya	South Ossetia
+Sovet İttifaqı	Soviet Union
+İspaniya	Spain
+ispan dili	Spanish
+Şri-Lanka	Sri Lanka
+Azadlıq Heykəli	Statue of Liberty
+Xankəndi	Stepanakert
+İstfan, Stepan	Stephen
+təsəvvüf	Sufism
+bazar	Sunday
+İsveç	Sweden
+İsveçrə	Switzerland
+Təbriz	Tabriz
+Taybey	Taipei
+Tacikistan	Tajikistan
+Tallin	Tallinn
+Tanqanika Gölü	Tanganyika
+Tanzaniya	Tanzania
+Buğa	Taurus
+Тај	Thai
+cümə axşamı	Thursday
+Titanik	Titanic
+çərşənbə axşamı	Tuesday
+Türküstan	Turkestan
+Türkiyə	Turkey
+hamam	Turkish bath
+Türk qəhvəsi	Turkish coffee
+loxum	Turkish delight
+Türkmən dili	Turkmen
+Türkmənistan	Turkmenistan
+NUO; UFO	UFO
+ABŞ	USA
+Ukrayna	Ukraine
+ukrayna; ukrayna dili	Ukrainian
+Böyük Britaniya	United Kingdom
+Amerika Birləşmiş Ştatları	United States
+Amerika Birləşmiş Ştatları	United States of America
+Uruqvay	Uruguay
+Özbəkistan	Uzbekistan
+Vatikan	Vatican City
+Qələbə Günü; Гәләбә Ҝүнү	Victory Day
+Vyana	Vienna
+Vyetnam	Vietnam
+Qız	Virgo
+Uels	Wales
+çərşənbə	Wednesday
+Valli dili	Welsh
+Ağ dəniz	White Sea
+Vikipediya	Wikipedia
+bayraq	Wiktionary:Usability/flag
+Yəmən	Yemen
+İrəvan	Yerevan
+Yuqoslaviya	Yugoslavia
+Zaqreb	Zagreb
+Saraqosa	Zaragoza
+Zaza dili	Zazaki
+Zemfira	Zemfira
+yaxşı dost qara günde məlum olar	a friend in need is a friend indeed
+abbreviatura	abbreviation
+hesab	account
+akonit	aconite
+akustik gitara	acoustic guitar
+Qazanılmış İmmun Çatışmazlığı Sindromu	acquired immune deficiency syndrome
+әd hak (amaca özәl)	ad hoc
+adaptasiya; uyğunlaşma	adaptation
+sıfət	adjective
+valeh olma	admiration
+avantürist; macəraçı	adventurer
+zərf	adverb
+təyyarə	airplane
+albom	album
+alkoqol	alcohol
+cəbr	algebra
+badam	almond
+əlifba	alphabet
+alüminium	aluminium
+kəhrəba	amber
+heyvan	animal
+cavab	answer
+qarışqa	ant
+qarışqayeyən	anteater
+qarayara	anthrax
+alma	apple
+alma	apple tree
+ərik	apricot
+akuamarin	aquamarine
+akvarium	aquarium
+arxeologiya	archaeology
+arxaik	archaic
+arxaizm	archaism
+memarlıq	architecture
+qol	arm
+sənət; incəsənət	art
+artişok	artichoke
+eşşək	ass
+Əs-Səlamu əleykum	assalamu alaikum
+asteroid	asteroid
+yoxlama; təftiş	audit
+nə isə	aught
+payız	autumn
+nərd	backgammon
+porsuq	badger
+çanta	bag
+balkon	balcony
+şar; balon	balloon
+diyircəkli qələm	ballpoint pen
+banan	banana
+vəftiz	baptism
+barxan	barchan
+barkod	barcode
+zirzəmi	basement
+basketbol topu	basketball
+yarasa	bat
+vanna otağı	bathroom
+çimərlik	beach
+muncuq	bead
+dimdik	beak
+lobya	bean
+ayı	bear
+saqqal	beard
+saqqallı	bearded
+saqqalsız	beardless
+döyünmək	beat
+gözəllik	beauty
+arı	bee
+pivə; pivo	beer
+bej	beige
+göbək	belly
+əyilmək	bend over
+berillium	beryllium
+ovsunlamaq	bewitch
+bible	bible
+böyük	big
+binokl	binoculars
+biokimya	biochemistry
+biologiya	biology
+quş	bird
+biskvit	biscuit
+yepiskop	bishop
+qara	black
+qara dəlik; qara çuxur	black hole
+böyürtkən	blackberry
+dəmirçi	blacksmith
+yorğan	blanket
+sağlam ol	bless you
+qan	blood
+göy; mavi	blue
+göy balina	blue whale
+bomba	bomb
+nuş olsun	bon appétit
+yaxşı səfərlər; gülə gülə	bon voyage
+sümük	bone
+bonsay	bonsai
+Rəqəmsəl Kitab	book
+borş	borscht
+botanika	botany
+oğlan	boy
+bozbaş	bozbash
+beyin	brain
+çörək; əkmək	bread
+səhər yeməyi	breakfast
+kürəkən	bridegroom
+körpü	bridge
+bacanaq	brother
+qardaşlıq	brotherhood
+qəhvəyi; darçını	brown
+damdabaca	brownie
+köpük	bubble
+zoğ; pöhrə; cücərti	bud
+büdcə	budget
+inşaat; tikmə	building
+şamandıra	buoy
+avtobus	bus
+(unicode'məşğul)	busy
+butan	butane
+yağ	butter
+kəpənək	butterfly
+kaktus	cactus
+tort	cake
+kaloriya	calorie
+dəvə, nər	camel
+sarı bülbül	canary
+xərçəng	cancer
+kənaf; çətənə	cannabis
+baş şəhəri, paytaxt	capital city
+karamel	caramel
+karvansara	caravanserai
+karbon	carbon
+karp; sazan; çəki balığı	carp
+xalça; xalı; fərş	carpet
+kök; yerkökü	carrot
+qığırdaq	cartilage
+kašu	cashew
+pişik	cat
+katalizator	catalyst
+kateqoriya	category
+tırtıl	caterpillar
+hüceyrə	cell
+mobil telefonu	cell phone
+santimetr	centimetre
+qırxayaq	centipede
+mərkəzi	central
+əsr	century
+keramika	ceramic
+cari	chain
+stul	chair
+çempionat	championship
+hərc-mərclik	chaos
+ovsunlamaq	charm
+qovalamaq	chase
+söhbət	chat
+sağlan ol	cheers
+pendir	cheese
+şahmat	chess
+şabalıd	chestnut
+çeynəmək	chew
+toyuq	chicken
+şimpanze	chimpanzee
+çənə	chin
+xlorofil	chlorophyll
+xloroplast	chloroplast
+şokolad	chocolate
+bağ	chord
+xrom	chromium
+kilsə	church
+kinoteatr	cinema
+şəhər	city
+klinik psixologiya	clinical psychology
+saat	clock
+dolab; şkaf	closet
+bulud	cloud
+yonca	clover
+oyunbaz	clown
+sik	cock
+tarakan	cockroach
+qəhvə	coffee
+koqnitiv psixologiya	cognitive psychology
+təsadüf	coincidence
+süzgəc	colander
+kolleksiya	collection
+rəng	color
+komediya	comedy
+umumi isim	common noun
+müqayisə	comparison
+kompleks ədəd	complex number
+bəstəkar	composer
+yoldaş	comrade
+qatılaşdırılmış süd	condensed milk
+qənnadı mə'mulatı	confectionery
+konfedarasiya	confederation
+müsabiqə	contest
+qitə	continent
+mis	copper
+keşniş	coriander
+pambıq	cotton
+kənd	country
+ədələt məhkəməsi	court of law
+inək	cow
+yencək	crab
+dəli	crazy
+timsah	crocodile
+xaç	cross
+xiyar	cucumber
+mədəniyyət	culture
+am	cunt
+maraq	curiosity
+körlinq	curling
+kibernetika	cybernetics
+bisiklet; bisikletle	cycling
+sikloheksan	cyclohexane
+xəncər	dagger
+rəqs	dance
+verilənlər	data
+qız	daughter
+ölüm	death
+ləzzətli, dadlı	delicious
+demokratiya	democracy
+diş həkimi	dentist
+desert; çərəz	dessert
+inkişaf	development
+şeytan	devil
+ishal; diarreya	diarrhea
+gündəlik	diary
+ikiləpəli	dicotyledon
+lüğət	dictionary
+yemek otağı	dining room
+dinozavr	dinosaur
+xəstəlik	disease
+iyrənc	disgusting
+yardıma ehtiyacın var; yardıma ehtiyacın var; yardıma ehtiyacın vardır; yardıma ehtiyacınız vardır	do you need help
+dodekaedr	dodecahedron
+it; köpək	dog
+doj	doge
+dolma	dolma
+eşşək; ulaq	donkey
+xəmir	dough
+pişi (m); əyirdək	doughnut
+xəyali	dreamlike
+damcı	drop
+şehçiçəyi; ənbəriyə	drosera
+ördək	duck
+tütək	duduk
+barxan	dune
+xəkəndaz	dustpan
+dinamit	dynamite
+yiğit	dzhigit
+hər	each
+qartal	eagle
+qulaq	ear
+zəlzələ	earthquake
+şərq	east
+yemək	eat
+dərisitikanlı	echinoderm
+yumurta	egg
+səkkiz	eight
+səkkiz yüz	eight hundred
+səkkiz min	eight thousand
+on səkkiz	eighteen
+səksən dörd	eighty
+dirsək	elbow
+elektrik	electricity
+fil	elephant
+on bir	eleven
+min yüz	eleven hundred
+zümrüd	emerald
+ovsunlamaq	enchant
+ensiklopediya	encyclopaedia
+nuş olsun	enjoy your meal
+dastan	epic
+əzgiləbənzər cisim; epifiz	epiphysis
+bərabərlik	equality
+ereksiya	erection
+etan	ethane
+evtanaziya	euthanasia
+axşam	evening
+göz	eye
+yumuşatma	fabric softener
+fakültə	faculty
+fayans; saxsı	faience
+nağıl	fairy tale
+fəsilə	family
+azarkeş; fanat	fan
+ata	father
+federasiya	federation
+feyxoa	feijoa
+on beş	fifteen
+beşinci	fifth
+əlli doqquz	fifty
+doldurmaq	fill
+doldurmaq	fill up
+üzgəc	fin
+bulmaq	find
+barmaq	finger
+dırnaq	fingernail
+od; atəş	fire
+balıq	fish
+beş	five
+beş yüz	five hundred
+beş min	five thousand
+bayraq	flag
+un	flour
+çiçək	flower
+dibçək	flowerpot
+flüor	fluorine
+milçək	fly
+ayaq	foot
+futbol	football
+futbolçu	footballer
+əcnəbi	foreign
+xarici dil	foreign language
+meşə	forest
+Keçmiş Yuqoslaviya Makedoniya Respublikası	former Yugoslav Republic of Macedonia
+qırx dörd	forty
+dörd	four
+dörd yüz	four hundred
+dörd min	four thousand
+on dörd	fourteen
+tülkü	fox
+boş	free
+cərimə zərbəsi	free kick
+azadlıq	freedom
+dost	friend
+arxadaşlıq	friendship
+qurbağa	frog
+dalğıc	frogman
+meyvə	fruit
+siktir, sikmək, qayırmaq, soxmaq, sikişmək	fuck
+tam	full
+göbələk	fungus
+mebel	furniture
+qeyri-səlis məntiq	fuzzy logic
+bağban	gardener
+sarımsaq	garlic
+geyşa	geisha
+soyqırımı	genocide
+coğrafiya	geography
+həndəsə	geometry
+hədiyyə	gift
+qəlsəmə	gill
+zürafə	giraffe
+qız	girl
+stəkan	glass
+keçi	goat
+qızıl	gold
+şələquyruq qızıl balığı; Yapon balığı	goldfish
+qolf	golf
+yaxşı	good
+qaz	goose
+möhtəşəm	gorgeous
+dövlət; hökümət	government
+qrammatika	grammar
+nəvə	granddaughter
+nənə	grandmother
+üzüm	grape
+çəyirtkə	grasshopper
+rəndə	grater
+yaşıl	green
+boz	grey
+kürəkən	groom
+bağban	groundskeeper
+böyümək	grow
+qorumaq	guard
+qastarbayter	guest worker
+gitara	guitar
+körfəz	gulf
+barıt	gunpowder
+həcc	hajj
+halva	halva
+əl	hand
+dovşan	hare
+tələsən təndirə düşər	haste makes waste
+nifrət etmək	hate
+nifrәt	hatred
+fındıq	hazelnut
+baş	head
+qəlb; ürək	heart
+cənnət	heaven
+kirpi	hedgehog
+salam	hello
+toyuq	hen
+bura; buraya	here
+qəhrəman; qoçaq; igid	hero
+vağ	heron
+heksan	hexane
+heroqlif	hieroglyph
+begemot	hippopotamus
+tarixi; tarix	historical
+tarix	history
+alaqkeş; toxa	hoe
+dəlgəc	hole punch
+homofobiya	homophobia
+homoseksual	homosexual
+bal	honey
+qəlyan	hookah
+üfüqi	horizontal
+buynuz	horn
+at	horse
+xəstəxana	hospital
+mehmanxana; otel	hotel
+saat	hour
+ev	house
+traffikinq	human trafficking
+yüz	hundred
+yüz min	hundred thousand
+ovçu	hunter
+hidrat	hydrate
+kaftar	hyena
+hiperqlikemiya	hyperglycemia
+hipofiz; beyin artımı	hypophysis
+buz	ice
+dondurma	ice cream
+görüş	ideology
+işıqlandırmaq	illuminate
+məlumat	information
+maraq	interest
+maraqlı	interesting
+beynəlxalq	international
+təhqiqat	investigation
+[yod] [iod]	iodine
+ütüləmək	iron
+ada	island
+o	it
+çaqqal	jackal
+yaquar	jaguar
+jasmin	jasmine
+yəşəm	jasper
+sarılıq	jaundice
+şirə	juice
+ədalət	justice
+kafir	kafir
+kamança	kamancheh
+kamikadze	kamikaze
+qanun	kanoon
+kabab	kebab
+ketçup	ketchup
+klaviatura	keyboard
+öldürmək	kill
+kilometr	kilometre
+mətbəx	kitchen
+kəsmək	knife
+köçəri	kochari
+küftə	kofta
+kolxoz	kolkhoz
+laboratoriya	laboratory
+lakros	lacrosse
+parabüzən, xallı bəzək	ladybird
+parabüzən, xallı bəzək	ladybug
+göl	lake
+Toğlugötürən	lammergeyer
+dil	language
+lavaş	lavash
+qanun	law
+solaxay	left
+əfsanəvi	legendary
+məktub	letter
+kitabxanaçı	librarian
+kitabxana	library
+lisenziya	license
+qapaq	lid
+yalan	lie
+həyat	life
+işıq	light
+mayak; dəniz fənəri	lighthouse
+şimşək	lightning
+dilçilik; dilşünaslıq; linqvistika	linguistics
+aslan	lion
+dodaq	lip
+maye; sıyıq	liquid
+kiçik	little
+qara ciyər	liver
+oturma otağı	living room
+kərtənkələ	lizard
+xərçəng	lobster
+məntiq	logic
+uzun	long
+bit	louse
+eşq	love
+vəfalı; sadiq; etibarlı; sədaqətli; möhkəm; sabit	loyal
+ağciyər	lung
+maşın	machine
+mədrəsə	madrasah
+uçan xalça	magic carpet
+maqnezium	magnesium
+lupa	magnifying glass
+ana	main
+mamont	mammoth
+erkeklik	manliness
+manul#Azeri'manul	manul
+ağcaqayın	maple
+esrar	marijuana
+əməkömənçi	marshmallow
+masaj	massage
+kəfləmə; onanizm	masturbation
+kəfləməçi	masturbator
+riyaziyyat	mathematics
+yemiş; qovun	melon
+metal	metal
+metan	methane
+metr	metre
+mikrodalga	microwave
+gecə yarısı	midnight
+süd	milk
+dəyirman	mill
+millimetr	millimetre
+kırkayak	millipede
+minarə	minaret
+sevimli	minion
+nanə	mint
+dəqiqə	minute
+möcüzə	miracle
+güzgü	mirror
+mitoxondri	mitochondrion
+qarışdırıcı	mixer
+modifikasiya	modification
+molekulyar biologiya	molecular biology
+molekul	molecule
+pul	money
+meymun	monkey
+ay	month
+ay	moon
+xəstəlik	morbidity
+səhər; sabah	morning
+məscid	mosque
+ağcaqanad	mosquito
+güvə	moth
+ana	mother
+ana dili; آنا دیلی	mother tongue
+motosiklet	motorcycle
+dağ	mountain
+dağlıq	mountainous
+siçan	mouse
+bığ	moustache
+ağız	mouth
+tut	mulberry
+qatır	mule
+bələdiyyə	municipality
+mürəbbə	murabba
+muzey	museum
+göbələk	mushroom
+musiqi	music
+musiqi aləti	musical instrument
+ortaq	mutual
+mifologiya	mythology
+mıx	nail
+ad	name
+dar	narrow
+təbii	natural
+boyun	neck
+iynə	needle
+qonşu	neighbour
+sinir sistemi	nervous system
+gicitkən	nettle
+neyropsixologiya	neuropsychology
+yeni; təzə	new
+qəzet	newspaper
+gecə	night
+bülbül	nightingale
+doqquz	nine
+doqquz yüz	nine hundred
+doqquz min	nine thousand
+on doqquz	nineteen
+doxsan altı	ninety
+azot	nitrogen
+yox	no
+günorta	noon
+şimal	north
+burun	nose
+deyil	not
+dəftər	notebook
+fikir; anlayış; məfhum	notion
+isim	noun
+çılpaq	nude
+palıd	oak tree
+Avar	oar
+okean	ocean
+osminoq	octopus
+rəsmi	official
+maz	ointment
+bamya	okra
+zeytun	olive
+qayğanaq	omelette
+bir	one
+yüz səkkiz	one hundred and eight
+yüz beş	one hundred and five
+yüz dörd	one hundred and four
+yüz doqquz	one hundred and nine
+yüz bir	one hundred and one
+yüz yeddi	one hundred and seven
+yüz on	one hundred and ten
+yüz üç	one hundred and three
+yüz iki	one hundred and two
+yüz milyon	one hundred million
+yüz bir	one hundred one
+yüz altı	one hundred six
+soğan	onion
+onlayn	online
+açmaq	open
+narincı	orange
+üzvi kimya	organic chemistry
+orqanizm	organism
+oroqrafiya	orography
+yetim	orphan
+ortodontiya	orthodontics
+dəvəquşu	ostrich
+susamuru	otter
+bayquş	owl
+oksigen	oxygen
+bütpərəstlik	paganism
+səhifə	page
+rəssam	painter
+mə'dəaltı vəzi	pancreas
+kağız	paper
+tutuquşu	parrot
+hissə	part
+kəklik	partridge
+basdırma	pastirma
+sülh	peace
+şaftalı; hulu	peach
+armud ağacı	pear
+mirvari; inci	pearl
+pedaqoji	pedagogy
+karandaşyonan	pencil sharpener
+yarımada	peninsula
+penis	penis
+pentan	pentane
+pion	peony
+bibər	pepper
+faiz	percent
+dövri cədvəl	periodic table
+farmakologiya	pharmacology
+əczaçılıq	pharmacy
+filosof	philosopher
+telefon	phone
+fotoqrafiya	photography
+fotosintez	photosynthesis
+ifade	phrase
+tip	phylum
+fizika	physics
+donuz	pig
+göyərçin	pigeon
+plov; плов	pilaf
+balış; yastıq	pillow
+oğraş	pimp
+kəlbətin	pincers
+şam	pine
+dələ	pine marten
+püstə	pistachio
+planet; səyyarə	planet
+bitki; bitkilər	plant
+ördəkburun	platypus
+lojtar	player
+mizrab	plectrum
+plenar; geniş	plenary
+cib	pocket
+şeir	poem
+şeir	poetry
+polis	police
+nəzakətli	polite
+siyasi	political
+siyasət	politics
+nar	pomegranate
+kasıb; yoxsul; fağır	poor
+pornoqrafik	pornographic
+pornoqrafiya	pornography
+liman	port
+otkrıtka	postcard
+poçt indeksi	postcode
+kartof	potato
+dulus	potter
+göyçək	pretty
+keşiş	priest
+baş nazir	prime minister
+sadə ədəd; əsli ədəd	prime number
+həbsxana	prison
+imtiyaz	privilege
+əvəzlik	pronoun
+tələffüz	pronunciation
+propan	propane
+peyğəmbər	prophet
+fahişəlik	prostitution
+qorumaq	protect
+psixolinqvistika	psycholinguistics
+psixologiya	psychology
+psixoterapiya	psychotherapy
+gölməçə	puddle
+kiçik qan dövranı	pulmonary circulation
+kuklaçı	puppeteer
+bildirçin	quail
+dovşan	rabbit
+yenot	raccoon
+yağış	rain
+yağışlı	rainy
+dırmıq	rake
+moruq	raspberry
+təzə	recent
+bayaq	recently
+qırmızı	red
+qaçqın	refugee
+din	religion
+tibb	remedy
+sürünən 	reptile
+respublika	republic
+restoran	restaurant
+qisas	revenge
+kərgədan	rhinoceros
+romb	rhombus
+düyü	rice
+üzük	ring
+çay	river
+yol	road
+robot	robot
+kürü	roe
+otaq	room
+xoruz	rooster
+kök	root
+манат (manat); manat	ruble
+reqbi	rugby
+çovdar	rye
+samur	sable
+zəfəran	saffron
+aylıq	salary
+tüpürcək	saliva
+duz	salt
+qum	sand
+satira	satire
+xilas etmək	save
+saz	saz
+çapıq; yara yeri	scar
+məktəb	school
+ütmək	scorch
+əqrəb	scorpion
+dəniz; dərya	sea
+suiti	seal
+saniyə	second
+toxum; toxumlar	seed
+fədakarlıq	self
+toxum	semen
+cümlə	sentence
+ilan	serpent
+yeddi	seven
+yeddi yüz	seven hundred
+yeddi min	seven thousand
+on yeddi	seventeen
+yetmiş səkkiz	seventy
+müxtəlif	several
+kölgə	shadow
+köpək balığı	shark
+şişlik	shashlik
+şaurma	shawarma
+qoyun	sheep
+gəmi	ship
+pox	shit
+mağaza; dükan	shop
+vitrin	shop window
+çiyin	shoulder
+kiçilmək	shrink
+gümüş	silver
+simoniya	simony
+günah	sin
+səmimi	sincere
+oxumaq	sing
+təqsirsiz; qəbahətsiz; günahsız	sinless
+bacı	sister
+altı	six
+altı yüz	six hundred
+altı min	six thousand
+on altı	sixteen
+altmış yeddi	sixty
+dəri	skin
+yubka	skirt
+göydələn	skyscraper
+qul	slave
+yuxu	sleep
+kiçik	small
+tüstü	smoke
+ilbiz	snail
+ilan	snake
+bilardo	snooker
+xədicəgülü; qargülü	snowdrop
+sabun	soap
+futbol	soccer
+sosial psixologiya	social psychology
+sosializm	socialism
+sosiologiya	sociology
+corab	sock
+günəş küləyi	solar wind
+çözmək; həll etmək	solve
+mahnı	song
+şorba	soup
+qaynaq	source
+kosmik gəmi	spaceship
+kürək	spade
+sərçə	sparrow
+danışmaq	speak
+işığın sürəti	speed of light
+hörümçək	spider
+tilişkə	splinter
+idman	sport
+yaz; bahar	spring
+zoğ; pöhrə; cücərti	sprout
+ulduz	star
+dəniz ulduzu	starfish
+başlamaq	start
+heykəl	statue
+buxar gəmisi	steamship
+polad	steel
+daş	stone
+fırtına	storm
+su altı qayıq	submarine
+şəkər; qənd	sugar
+intihar	suicide
+yay	summer
+günəş	sun
+günəbaxan	sunflower
+surə	sura
+cərrah	surgeon
+gizli	surreptitiously
+qaranquş	swallow
+qu; qu quşu	swan
+dadlı	sweet
+tatlandırıcı	sweetener
+şirinlik	sweetness
+hovuz	swimming pool
+qılınc	sword
+qılınc balığı	swordfish
+şırınqa (f); şpris	syringe
+cədvəl	table
+çömçəquyruq	tadpole
+dərzi	tailor
+danışmaq	talk
+təndir	tandoor
+çay	tea
+televiziya	television
+məbəd	temple
+on	ten
+on milyon	ten million
+on min	ten thousand
+çadır; alaçıq	tent
+ərazi	territory
+xaya	testicle
+mətn	text
+təşəkkür; sağ ol; təşəkkür edirəm; çox razıyam	thank you
+yardımın üçün təşəkkürlər; yardımınız üçün təşəkkürlər	thanks for your help
+it hürər, karvan keçər	the dogs bark, but the caravan goes on
+teatr	theater
+mövzu	theme
+ilahiyyət; teologiya	theology
+təsəvvüf	theosophic
+oğru	thief
+qanuni oğru	thief in law
+oymaq	thimble
+on üç	thirteen
+otuz yeddi	thirty
+tikan	thorn
+min	thousand
+üç	three
+üç yüz	three hundred
+üç min	three thousand
+xırman	threshing floor
+timus; çəngələbənzər vəzi	thymus
+gənə	tick
+pələng	tiger
+quru qurbağası	toad
+iris	toffee
+pomidor	tomato
+dil	tongue
+etmək	too
+diş	tooth
+oyuncaq	toy
+qatar	train
+tramvay	tram
+tapdalamaq	trample
+xəzinə	treasure
+ağac	tree
+üçbucaq	triangle
+trolleybus	trolley bus
+çar	tsar
+sunami	tsunami
+tülpan	tulip
+kamerton	tuning fork
+çalma; sarıq	turban
+hinduşka	turkey
+firuzəyi	turquoise
+on iki	twelve
+iyirmi doqquz	twenty
+iki	two
+iki yüz	two hundred
+maşınka	typewriter
+cacıq	tzatziki
+ulanlar	uhlan
+na-	un
+soymaq	undress
+naməlum uçan obyekt; NUO	unidentified flying object
+universitet	university
+lazımlı	useful
+vaksin	vaccine
+vagina; uşaqlıq yolu	vagina
+fe'l	verb
+şaquli	vertical
+videokamera	video camera
+video oyun	video game
+görünüş	view
+kənd	village
+sirkə	vinegar
+skripka	violin
+bakirə	virgin
+viza	visa
+araq	vodka
+vulkan; yanardağ	volcano
+irihəcmli	voluminous
+leşyeyən	vulture
+morj	walrus
+müharibə; hərb	war
+su	water
+qarpız	watermelon
+dalğa	wave
+mum	wax
+silah	weapon
+tor	web
+toy	wedding
+həftə	week
+xoş gəlmişsiniz!	welcome
+quyu	well
+qərb	west
+balina	whale
+adınız nədir? (formal), adın nə? (informal)	what is your name
+çubuq	whip
+fit	whistle
+ağquyruq dəniz qartalı	white
+fahişə	whore
+niyə; nə üçün	why
+çiyələk	wild strawberry
+söyüd	willow
+külək; yel	wind
+pəncərə	window
+pencere camı	windowpane
+şərab; çaxır	wine
+qış	winter
+tel	wire
+ifritə	witch
+ilə	with
+canavar; qurd	wolf
+qadın	woman
+ağac	wood
+ağacdələn	woodpecker
+bütün ölkələrin proletarları, birləşin! / Бүтүн өлкәләрин пролетарлары, бирләшин!	workers of the world, unite
+qırış	wrinkle
+yazmaq	write
+ksenofobiya	xenophobia
+il	year
+sarı	yellow
+iena	yen
+bəli	yes
+qatıq; yoğurt 	yoghurt
+gənc	young
+sıfır	zero
+zurna	zurna

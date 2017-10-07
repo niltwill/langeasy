@@ -1,0 +1,6 @@
+Romanian	﻿English
+şi	and
+pentru că	because
+deoarece	for
+dacă	if
+sau	or

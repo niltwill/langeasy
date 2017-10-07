@@ -1,0 +1,962 @@
+Chinese	﻿English
+黑色 [hēi sè]	black
+蓝色 [lán sè]	blue
+褐色 [hè sè], 棕色 [zōng sè]	brown
+灰色 [huī sè]	gray
+绿色 [lǜ sè]	green
+橙色 [chéng sè]	orange
+粉红色 [fěn hóng sè]	pink
+红色 [hóng sè]	red
+紫色 [zǐ sè]	violet
+白色 [bái sè]	white
+黄色 [huáng sè]	yellow
+一对 [yī duì], 一双	couple
+八 [bā]	eight
+十八 (shíbā)	eighteen
+八十 [bā shí]	eighty
+十一 [shí yī]	eleven
+十五 (shíwǔ)	fifteen
+五十 (wǔ shí)	fifty
+第一 [dì yī]	first
+五 [wǔ]	five
+四十 [sì shí]	forty
+四 [sì]	four
+十四 [shí sì]	fourteen
+百 [bǎi]	hundred
+百万 [bǎi wàn]	million
+九 [jiǔ]	nine
+十九 [shí jiǔ]	nineteen
+九十 [jiǔ shí]	ninety
+零 [líng]	nothing
+一 [yī]	one
+七 [qī]	seven
+十七 (shíqī)	seventeen
+七十 [qī shí]	seventy
+六 [liù]	six
+十六 [shí liù]	sixteen
+六十 [liù shí]	sixty
+十 [shí]	ten
+第三 [dì sān]	third
+十三 (shísān)	thirteen
+三十 (sānshí)	thirty
+一千	thousand
+千 [qiān]	thousand
+三 [sān]	three
+二十 [èr shí]	twenty
+二 [èr], 两 [liǎng]	two
+手臂 [shǒu bì], 胳膊 [gē bo]	arm
+背 [bèi], 背部	back
+喙 [huì], 鸟嘴 [niǎo zuǐ]	beak
+血 [xuè], 血液 [xuè yè]	blood
+身体 [shēn tǐ]	body
+骨头 [gǔ tou]	bone
+脑 [nǎo], 头脑 [tóu nǎo]	brain
+呼吸 [hū xī]	breath
+细胞 [xì bāo]	cell
+胸膛 [xiōng táng], 胸部 [xiōng bù]	chest
+胸膛 [xiōng táng], 胸腔 [xiōng qiāng]	chest
+下巴 [xià ba], 下颔 [xià hàn]	chin
+耳 [ěr], 耳朵 [ěr duo]	ear
+眼睛 [yǎn jing]	eye
+脸 [liǎn]	face
+手指 [shǒu zhǐ]	finger
+脚 [jué], 足 [zú]	foot
+额头 [é tóu]	forehead
+基因 [jī yīn]	gene
+头发 [tóu fa], 毛发 [máo fà]	hair
+毛发 [máo fà]	hair
+手 [shǒu], 爪 [zhuǎ]	hand
+头 [tóu], 首 [shǒu]	head
+心 [xīn], 心脏 [xīn zàng]	heart
+膝 [xī], 膝盖 [xī gài]	knee
+腿 [tuǐ]	leg
+唇 [chún], 嘴唇 [zuǐ chún]	lip
+口 [kǒu], 嘴 [zuǐ]	mouth
+肌肉 [jī ròu]	muscle
+指甲 [zhǐ jia]	nail
+脖子 [bó zi], 颈部 [jǐng bù]	neck
+神经 [shén jīng], 神经系统 [shén jīng xì tǒng]	nerve
+鼻子 [bí zi]	nose
+皮 [pí], 皮肤 [pí fū]	skin
+胃 [wèi], 肚子 [dù zi]	stomach
+尾巴 [wěi ba]	tail
+喉咙 [hóu lóng], 咽喉 [yān hóu]	throat
+拇指 [mǔ zhǐ]	thumb
+脚趾 [jiǎo zhǐ]	toe
+舌头 [shé tou]	tongue
+牙 [yá], 牙齿 [yá chǐ]	tooth
+翅膀 [chì bǎng], 翼 [yì]	wing
+蚂蚁 [mǎ yǐ]	ant
+熊 [xióng]	bear
+蜜蜂 [mì fēng]	bee
+鸟 [niǎo]	bird
+猫 [māo]	cat
+母牛 [mǔ niú]	cow
+狗 [gǒu], 犬 [quǎn]	dog
+象 [xiàng], 大象 [dà xiàng]	elephant
+鱼 [yú]	fish
+苍蝇 [cāng ying]	fly
+山羊 [shān yáng]	goat
+马 [mǎ]	horse
+虫 [chóng], 虫子 [chóng zi]	insect
+狮子 [shī zi]	lion
+猴子 [hóu zi]	monkey
+猪 [zhū]	pig
+羊 [yáng], 绵羊 [mián yáng]	sheep
+蛇 [shé]	snake
+下午 [xià wǔ]	afternoon
+年龄 [nián líng]	age
+四月 [sì yuè]	April
+八月 [bā yuè]	August
+秋天 [qiū tiān]	autumn
+开始 [kāi shǐ], 最初 [zuì chū]	beginning
+世纪 [shì jì]	century
+日期 [rì qī]	date
+天 [tiān]	day
+十二月 [shí èr yuè]	December
+终点 [zhōng diǎn], 末端 [mò duān]	end
+傍晚 [bàng wǎn]	evening
+二月 [èr yuè]	February
+星期五 [xīng qī wǔ], 周五 [zhōu wǔ]	Friday
+将来 [jiāng lái], 未来 [wèi lái]	future
+小时 [xiǎo shí], 钟头 [zhōng tóu]	hour
+一月 [yī yuè]	January
+七月 [qī yuè]	July
+六月 [liù yuè]	June
+五月 [wǔ yuè]	May
+半夜 [bàn yè], 午夜 [wǔ yè]	midnight
+分 [fèn], 分钟 [fēn zhōng]	minute
+瞬间 [shùn jiān], 片刻 [piàn kè]	moment
+瞬间 [shùn jiān]	moment
+星期一 [xīng qī yī], 周一 [zhōu yī]	Monday
+月 [yuè]	month
+上午 [shàng wǔ]	morning
+夜晚 [yè wǎn]	night
+十一月 [shí yī yuè]	November
+现在 [xiàn zài]	now
+十月 [shí yuè]	October
+过去 [guò qu]	past
+暂停 [zàn tíng]	pause
+时期 [shí qī]	period
+现在 [xiàn zài]	present
+星期六 [xīng qī liù]	Saturday
+季节 [jì jié]	season
+秒 [miǎo]	second
+九月 [jiǔ yuè]	September
+春天 [chūn tiān]	spring
+夏天 [xià tiān]	summer
+星期天 [xīng qī tiān], 周日 [zhōu rì]	Sunday
+星期四 [xīng qī sì], 周四 [zhōu sì]	Thursday
+今天 [jīn tiān]	today
+明天 [míng tiān]	tomorrow
+星期二 [xīng qī èr]	Tuesday
+星期三 [xīng qī sān]	Wednesday
+星期 [xīng qī]	week
+周末 [zhōu mò]	weekend
+一会儿 [yī huì r], 一段时间	while
+冬天 [dōng tiān]	winter
+年 [nián]	year
+面包 [miàn bāo]	bread
+早餐 [zǎo cān]	breakfast
+黄油 [huáng yóu]	butter
+蛋糕 [dàn gāo]	cake
+奶酪 [nǎi lào]	cheese
+巧克力 [qiǎo kè lì]	chocolate
+蛋 [dàn]	egg
+食物 [shí wù]	food
+水果 [shuǐ guǒ]	fruit
+午饭 [wǔ fàn]	lunch
+一餐一顿饭	meal
+肉 [ròu]	meat
+油 [yóu]	oil
+稻 [dào], 米 [mǐ]	rice
+沙拉 [shā lā]	salad
+盐 [yán]	salt
+三明治 [sān míng zhì]	sandwich
+酱 [jiàng]	sauce
+汤 [tāng]	soup
+糖 [táng]	sugar
+甜 [tián]	sweet
+啤酒 [pí jiǔ]	beer
+咖啡 [kā fēi]	coffee
+饮料 [yǐn liào]	drink
+牛奶 [niú nǎi]	milk
+奶昔 [nǎi xī]	milkshake
+茶 [chá]	tea
+水 [shuǐ]	water
+葡萄酒 [pú tao jiǔ]	wine
+苹果 [píng guǒ]	apple
+杏 [xìng]	apricot
+香蕉 [xiāng jiāo]	banana
+黑莓 [hēi méi]	blackberry
+樱桃 [yīng táo]	cherry
+柠檬 [níng méng]	lemon
+坚果 [jiān guǒ]	nut
+橘子 [jú zi], 橙子 [chéng zi]	orange
+桃子 [táo zi]	peach
+梨子 [lí zi]	pear
+菠萝 [bō luó]	pineapple
+李子 [lǐ zi]	plum
+树莓 [shù méi]	raspberry
+草莓 [cǎo méi]	strawberry
+豆 [dòu]	bean
+卷心菜 [juǎn xīn cài]	cabbage
+胡萝卜 [hú luó bo]	carrot
+黄瓜 [huáng guā]	cucumber
+大蒜 [dà suàn]	garlic
+橄榄 [gǎn lǎn]	olive
+洋葱 [yáng cōng]	onion
+欧洲防风草	parsnip
+豌豆 [wān dòu]	pea
+土豆 [tǔ dòu], 马铃薯 [mǎ líng shǔ]	potato
+萝卜 [luó bo]	radish
+西红柿 [xī hóng shì]	tomato
+婴儿 [yīng ér]	baby
+出生 [chū shēng]	birth
+生日 [shēng rì]	birthday
+男孩 [nán hái]	boy
+兄弟 [xiōng dì]	brother
+孩子 [hái zi]	child
+女儿 [nǚ ér]	daughter
+死亡 [sǐ wáng]	death
+家庭 [jiā tíng]	family
+爸爸 [bà ba]	father
+朋友 [péng you]	friend
+小姐 [xiǎo jie]	girl
+祖父 [zǔ fù]	grandfather
+人类 [rén lèi]	human
+丈夫 [zhàng fu]	husband
+生命 [shēng mìng]	life
+男人 [nán rén]	man
+婚姻 [hūn yīn]	marriage
+母亲 [mǔ qīn]	mother
+邻居 [lín jū]	neighbor
+父亲 [fù qīn], 母亲 [mǔ qīn]	parent
+个人 [gè rén]	person
+关系 [guān xì]	relationship
+姐妹 [jiě mèi]	sister
+儿子 [ér zi]	son
+婚礼 [hūn lǐ]	wedding
+结婚 [jié hūn], 婚礼 [hūn lǐ]	wedding
+妻子 [qī zi]	wife
+女人 [nǚ rén]	woman
+地址 [dì zhǐ]	address
+浴室 [yù shì]	bathroom
+卧室 [wò shì]	bedroom
+砖 [zhuān]	brick
+门 [mén]	door
+地板 [dì bǎn]	floor
+层 [céng]	floor
+车库 [chē kù]	garage
+花园 [huā yuán]	garden
+门 [mén]	gate
+休息室 [xiū xī shì]	hall
+家 [jiā]	home
+房子 [fáng zi]	house
+厨房 [chú fáng]	kitchen
+屋顶 [wū dǐng]	roof
+房间 [fáng jiān]	room
+淋浴器	shower
+阶梯 [jiē tī], 台阶 [tái jiē]	step
+厕所 [cè suǒ]	toilet
+墙壁 [qiáng bì]	wall
+井 [jǐng]	well
+窗户 [chuāng hu]	window
+床 [chuáng]	bed
+地毯 [dì tǎn]	carpet
+椅子 [yǐ zi]	chair
+壁橱 [bì chú]	cupboard
+帘子 [lián zi], 窗帘 [chuāng lián]	curtain
+书桌 [shū zhuō]	desk
+家具 [jiā jù]	furniture
+席位 [xí wèi]	seat
+架子 [jià zi]	shelf
+盥洗盆	sink
+桌子 [zhuō zi]	table
+手提包 [shǒu tí bāo]	bag
+靴子 [xuē zi]	boot
+纺织品 [fǎng zhī pǐn], 布料 [bù liào]	cloth
+衣服 [yī fu], 服装 [fú zhuāng]	clothing
+外套 [wài tào]	coat
+衣领 [yī lǐng]	collar
+帽子 [mào zi]	hat
+夹克 [jiā kè]	jacket
+珠宝 [zhū bǎo]	jewel
+戒指 [jiè zhi]	ring
+衬衫 [chèn shān]	shirt
+鞋 [xié]	shoe
+裙子 [qún zi]	skirt
+短袜 [duǎn wà]	sock
+手提箱 [shǒu tí xiāng]	suitcase
+领带 [lǐng dài]	tie
+空气 [kōng qì]	air
+动物 [dòng wù]	animal
+分枝 [fēn zhī]	branch
+进化 [jìn huà], 发展 [fā zhǎn]	evolution
+农场 [nóng chǎng]	farm
+田地 [tián dì]	field
+燃烧 [rán shāo], 火焰 [huǒ yàn]	fire
+花 [huā]	flower
+森林 [sēn lín]	forest
+草 [cǎo]	grass
+树叶 [shù yè], 叶子 [yè zi]	leaf
+生活 [shēng huó]	life
+闪电 [shǎn diàn]	lightning
+潮湿 [cháo shī], 湿气 [shī qì]	moisture
+自然 [zì rán]	nature
+植物 [zhí wù]	plant
+根 [gēn]	root
+性别 [xìng bié]	sex
+天空 [tiān kōng]	sky
+睡眠 [shuì mián]	sleep
+气味 [qì wèi]	smell
+烟 [yān]	smoke
+泉 [quán]	spring
+茎 [jīng]	stem
+流 [liú]	stream
+树 [shù]	tree
+波浪 [bō làng]	wave
+天气 [tiān qì]	weather
+世界 [shì jiè]	world
+飞机场 [fēi jī chǎng]	airport
+银行 [yín háng]	bank
+桥 [qiáo]	bridge
+建筑物 [jiàn zhù wù]	building
+首都 [shǒu dū]	capital
+城堡 [chéng bǎo]	castle
+教堂 [jiào táng]	church
+电影院 [diàn yǐng yuàn]	cinema
+城市 [chéng shì]	city
+工厂 [gōng chǎng]	factory
+公寓 [gōng yù]	flat
+医院 [yī yuàn]	hospital
+旅馆 [lǚ guǎn]	hotel
+图书馆 [tú shū guǎn], 仓库 [cāng kù]	library
+公园 [gōng yuán]	park
+监狱 [jiān yù]	prison
+餐厅 [cān tīng], 饭店 [fàn diàn]	restaurant
+道路 [dào lù]	road
+学校 [xué xiào]	school
+火车站	station
+街道 [jiē dào]	street
+结构 [jié gòu]	structure
+地铁 [dì tiě]	subway
+超级市场 [chāo jí shì chǎng], 超市 [chāo shì]	supermarket
+剧场 [jù chǎng], 剧院 [jù yuàn]	theater
+城镇 [chéng zhèn]	town
+大学 [dà xué]	university
+乡村 [xiāng cūn], 村庄 [cūn zhuāng]	village
+事故 [shì gù]	accident
+小船 [xiǎo chuán]	boat
+公共汽车 [gōng gòng qì chē]	bus
+汽车 [qì chē]	car
+拐弯 [guǎi wān]	curve
+快车 [kuài chē]	express
+飞行 [fēi xíng]	flight
+旅游 [lǚ yóu]	journey
+乘客 [chéng kè]	passenger
+飞机 [fēi jī]	plane
+轮船 [lún chuán]	ship
+滑倒 [huá dǎo]	skid
+铁轨 [tiě guǐ]	track
+火车 [huǒ chē]	train
+运输 [yùn shū]	transport
+艺人 [yì rén]	actor
+女演员 [nǚ yǎn yuán]	actress
+商人 [shāng rén], 老板 [lǎo bǎn]	businessman
+专家 [zhuān jiā]	expert
+将军 [jiāng jūn]	general
+记者 [jì zhě]	journalist
+裁判 [cái pàn]	judge
+领导人 [lǐng dǎo rén], 首领 [shǒu lǐng]	leader
+部长 [bù zhǎng]	minister
+音乐家 [yīn yuè jiā]	musician
+摄影师 [shè yǐng shī]	photographer
+飞行员 [fēi xíng yuán]	pilot
+警察 [jǐng chá]	policeman
+政治家 [zhèng zhì jiā]	politician
+总统 [zǒng tǒng]	president
+专业人员	professional
+代表 [dài biǎo]	representative
+水手 [shuǐ shǒu]	sailor
+科学家 [kē xué jiā]	scientist
+秘书 [mì shū], 书记 [shū ji]	secretary
+仆人 [pú rén], 佣人 [yōng rén]	servant
+士兵 [shì bīng]	soldier
+作家 [zuò jiā]	writer
+堤 [dī], 岸 [àn]	bank
+沙滩 [shā tān]	beach
+水流 [shuǐ liú]	current
+方向 [fāng xiàng]	direction
+地球 [dì qiú]	Earth
+东方 [dōng fāng]	east
+海拔	height
+山丘 [shān qiū]	hill
+岛 [dǎo]	island
+湖 [hú]	lake
+土地 [tǔ dì]	land
+地图 [dì tú]	map
+月亮 [yuè liang]	Moon
+北方 [běi fāng]	north
+平原 [píng yuán]	plain
+地区 [dì qū], 区域 [qū yù]	region
+河流 [hé liú]	river
+大海 [dà hǎi]	sea
+南方 [nán fāng]	south
+空间 [kōng jiān]	space
+星 [xīng]	star
+太阳 [tài yáng]	sun
+西方 [xī fāng]	west
+云 [yún]	cloud
+露水 [lù shuǐ]	dew
+雾 [wù]	fog
+霜 [shuāng]	frost
+雨 [yǔ]	rain
+彩虹 [cǎi hóng]	rainbow
+雪 [xuě]	snow
+暴风雨 [bào fēng yǔ]	storm
+雷 [léi]	thunder
+风 [fēng]	wind
+酸 [suān]	acid
+化学物质	chemical
+element 化学元素 [huà xué yuán sù]	chemical
+煤 [méi]	coal
+棉布 [mián bù]	cotton
+灰尘 [huī chén]	dust
+土壤 [tǔ rǎng], 泥土 [ní tǔ]	earth
+脂肪 [zhī fáng]	fat
+玻璃 [bō li]	glass
+胶水 [jiāo shuǐ]	glue
+颗粒 [kē lì]	grain
+冰 [bīng]	ice
+铁 [tiě]	iron
+皮革 [pí gé]	leather
+液体 [yè tǐ]	liquid
+物质 [wù zhì]	matter
+element 金属 [jīn shǔ]	metallic
+石油 [shí yóu]	oil
+毒药 [dú yào]	poison
+粉末 [fěn mò]	powder
+沙 [shā]	sand
+丝绸 [sī chóu]	silk
+肥皂 [féi zào]	soap
+钢 [gāng]	steel
+木头 [mù tou], 木材 [mù cái]	wood
+羊毛 [yáng máo]	wool
+袋子 [dài zi]	bag
+篮子 [lán zi]	basket
+瓶子 [píng zi]	bottle
+箱子 [xiāng zi]	box
+罐头 [guàn tou], 听头 [tīng tóu]	can
+茶杯 [chá bēi]	cup
+抽屉 [chōu ti]	drawer
+信封 [xìn fēng]	envelope
+杯子 [bēi zi], 玻璃杯 [bō li bēi]	glass
+盘子 [pán zi]	plate
+钟 [zhōng]	bell
+按钮 [àn niǔ]	button
+炮 [páo], 枪 [qiāng]	gun
+锤子 [chuí zi]	hammer
+钩 [gōu]	hook
+钥匙 [yào shi]	key
+锁 [suǒ]	lock
+火柴 [huǒ chái]	match
+钉 [dīng], 钉子 [dīng zi]	nail
+针 [zhēn]	needle
+泵 [bèng]	pump
+绳子 [shéng zi]	rope
+剪刀 [jiǎn dāo]	scissors
+弹簧 [tán huáng]	spring
+印章 [yìn zhāng]	stamp
+鞭子 [biān zi]	whip
+加 [jiā]	addition
+角 [jué]	angle
+区域 [qū yù], 面积 [miàn jī]	area
+中心 [zhōng xīn]	center
+圆形 [yuán xíng]	circle
+弯曲 [wān qū]	curve
+温度 [wēn dù], 度数 [dù shù]	degree
+程度 [chéng dù], 等级 [děng jí]	degree
+差别 [chā bié], 不同 [bù tóng]	difference
+距离 [jù lí]	distance
+划分 [huà fēn]	division
+边缘 [biān yuán]	edge
+成份 [chéng fèn]	element
+功能 [gōng néng], 作用 [zuò yòng]	function
+半 [bàn], 一半 [yī bàn]	half
+限度 [xiàn dù]	limit
+线条 [xiàn tiáo]	line
+网 [wǎng]	net
+规则 [guī zé]	order
+表面 [biǎo miàn], 外面 [wài mian]	outside
+百分比 [bǎi fēn bǐ]	percent
+点 [diǎn], 圆点 [yuán diǎn]	point
+功能 [gōng néng], 用处 [yòng chu]	purpose
+结果 [jié guǒ]	result
+被乘数	root
+规则 [guī zé], 惯例 [guàn lì]	rule
+集合 [jí hé]	set
+旁边 [páng biān]	side
+正方形 [zhèng fāng xíng]	square
+平方 [píng fāng], 二次方 [èr cì fāng]	square
+替换 [tì huàn]	substitution
+表面 [biǎo miàn]	surface
+总和 [zǒng hé]	total
+行动	act
+行动	action
+活动	activity
+附加设备	addition
+数量	amount
+攻打	attack
+企图	attempt
+行为	behavior
+碎片	bit
+市场活动, 市场活动	campaign
+服务案例	case
+机会	chance
+变化	change
+选择	choice
+条件	condition
+连接器	connection
+裂缝	crack
+危险	danger
+装饰物	decoration
+防御	defense
+特殊	detail
+水滴	drop
+落下	fall
+特征	feature
+斗争	fight
+前面	front
+洞 (Mandarin: dong4, Cantonese: dong3)	hole
+生长	increase
+增加	increase
+互联网	internet
+踢	kick
+种类	kind
+结	knot
+列表	list
+多数	majority
+事件	matter
+头脑	mind
+性能	operation
+逆	opposite
+突发	outburst
+部分	part
+部分	part
+部分	piece
+地位	position
+势力	power
+工程	project
+属性	property
+品质	quality
+可靠性	responsibility
+休息	rest
+重回	return
+上升	rise
+危险	risk
+位置	seat
+安静	silence
+状态	state
+脚步	step
+滋味	taste
+物	thing
+处理	treatment
+手法	trick
+种类	type
+意志	will
+愿望	wish
+艺术 [yì shù]	art
+艺术家 [yì shù jiā]	artist
+乐队 [yue4 dui4], 伴舞乐队	band
+刷子 [shuā zi]	brush
+颜色 [yán sè], 色彩 [sè cǎi]	color
+音乐会 [yīn yuè huì]	concert
+设计 [shè jì], 规划 [guī huà]	design
+多样性 [duō yàng xìng]	diversity
+娱乐 [yú lè], 消遣 [xiāo qiǎn]	entertainment
+巨大成功	hit
+形象 [xíng xiàng], 公众形象	image
+墨水 [mò shuǐ]	ink
+发明 [fā míng], 创新 [chuàng xīn]	invention
+方式	manner
+影片 [yǐng piàn], 电影 [diàn yǐng]	movie
+博物馆 [bó wù guǎn]	museum
+音乐 [yīn yuè], 乐曲 [yuè qǔ]	music
+音符 [yīn fú]	note
+乐队 [yuè duì], 管弦乐队 [guǎn xián yuè duì]	orchestra
+颜料 [yán liào], 涂料 [tú liào]	paint
+画 [huà]	painting
+纸 [zhǐ]	paper
+钢笔 [gāng bǐ]	pen
+铅笔 [qiān bǐ]	pencil
+图象 [tú xiàng], 画面 [huà miàn]	picture
+诗歌 [shī gē], 韵文 [yùn wén]	poem
+诗 [shī], 诗歌 [shī gē]	poetry
+节奏 [jié zòu], 旋律 [xuán lǜ]	rhythm
+形像 [xíng xiàng], 外表 [wài biǎo]	shape
+歌手 [gē shǒu]	singer
+歌 [gē], 歌曲 [gē qǔ]	song
+舞台 [wǔ tái]	stage
+款式 [kuǎn shì], 样式 [yàng shì]	style
+时尚 [shí shàng], 潮流 [cháo liú]	vogue
+帐目	account
+优势 [yōu shì]	advantage
+广告 [guǎng gào]	advertisement
+提议 [tí yì], 建议 [jiàn yì]	advice
+协议 [xié yì]	agreement
+注意 [zhù yì]	attention
+权力 [quán lì], 权威 [quán wēi]	authority
+纸币 [zhǐ bì]	banknote
+协议 [xié yì]	bargain
+品牌 [pǐn pái], 标识 [biāo zhì]	brand
+生意 [shēng yi], 商务 [shāng wù]	business
+女企业家	businesswoman
+资本 [zī běn], 资金 [zī jīn]	capital
+零钱 [líng qián]	change
+支票 [zhī piào]	cheque
+委员会 [wěi yuán huì]	committee
+公司 [gōng sī]	company
+竞争 [jìng zhēng]	competition
+控告 [kòng gào], 指控 [zhǐ kòng]	complaint
+合同 [hé tong], 合约 [hé yuē]	contract
+副本 [fù běn], 备份 [bèi fèn]	copy
+费用 [fèi yòng]	cost
+理事会 [lǐ shì huì], 委员会 [wěi yuán huì]	council
+课程 [kè chéng]	course
+客户 [kè hù]	customer
+需求 [xū qiú]	demand
+部门 [bù mén]	department
+困难 [kùn nan]	difficulty
+主管 [zhǔ guǎn], 经理 [jīng lǐ]	director
+经济 [jīng jì]	economy
+环境 [huán jìng]	environment
+经历 [jīng lì]	experience
+公司 [gōng sī], 企业 [qǐ yè]	firm
+表格 [biǎo gé]	form
+集团 [jí tuán], 团体 [tuán tǐ]	group
+帮助 [bāng zhù], 协助 [xié zhù]	help
+假期 [jià qī]	holiday
+收入 [shōu rù]	income
+工业 [gōng yè], 制造业 [zhì zào yè]	industry
+保险 [bǎo xiǎn]	insurance
+利息 [lì xī]	interest
+账单 [zhàng dān], 发票 [fā piào]	invoice
+工作 [gōng zuò]	job
+法律 [fǎ lǜ]	law
+休假 [xiū jià], 缺席 [quē xí]	leave
+失去 [shī qù], 失败 [shī bài]	loss
+管理 [guǎn lǐ]	management
+标记 [biāo jì]	mark
+市场 [shì chǎng]	market
+原料 [yuán liào], 材料 [cái liào]	material
+平均数 [píng jūn shù]	mean
+会议 [huì yì]	meeting
+钱 [qián]	money
+工作 [gōng zuò], 职业 [zhí yè]	occupation
+答应提供	offer
+办公室 [bàn gōng shì], 办事处 [bàn shì chù]	office
+官员 [guān yuán], 领导 [lǐng dǎo]	officer
+行动 [xíng dòng], 操作 [cāo zuò]	operation
+所有者 [suǒ yǒu zhě], 主人 [zhǔ rén]	owner
+包 [bāo], 包裹 [bāo guǒ]	package
+付款 [fù kuǎn]	payment
+计划 [jì huà]	plan
+代价 [dài jià]	price
+问题 [wèn tí]	problem
+产品 [chǎn pǐn]	product
+利润 [lì rùn]	profit
+财产 [cái chǎn], 所有物 [suǒ yǒu wù]	property
+收费 [shōu fèi], 费率 [fèi lǜ]	rate
+剩余 [shèng yú]	rest
+报酬 [bào chóu], 酬劳 [chóu láo]	reward
+权利 [quán lì]	right
+销售 [xiāo shòu]	sale
+部门 [bù mén]	section
+阶段 [jiē duàn], 部分 [bù fèn]	section
+服务 [fú wù]	service
+股份 [gǔ fèn]	share
+商店 [shāng diàn]	shop
+表演 [biǎo yǎn]	show
+技能 [jì néng], 技巧 [jì qiǎo]	skill
+职员 [zhí yuán]	staff
+构造 [gòu zào], 结构 [jié gòu]	structure
+成功 [chéng gōng]	success
+支持 [zhī chí], 援助 [yuán zhù]	support
+表格 [biǎo gé], 列表 [liè biǎo]	table
+税 [shuì], 税收 [shuì shōu]	tax
+团队 [tuán duì]	team
+贸易 [mào yì]	trade
+价值 [jià zhí]	value
+行动 [xíng dòng], 工作 [gōng zuò]	work
+工人 [gōng rén]	worker
+公告 [gōng gào], 宣布 [xuān bù]	announcement
+回复 [huí fù]	answer
+批准 [pī zhǔn], 赞成 [zàn chéng]	approval
+论据 [lùn jù]	argument
+书 [shū]	book
+电话 [diàn huà]	call
+文字 [wén zì]	character
+争论 [zhēng lùn]	controversy
+呼喊 [hū hǎn], 叫嚷 [jiào rǎng]	cry
+数据 [shù jù], 资料 [zī liào]	data
+结论 [jié lùn], 决定 [jué dìng]	decision
+词典 [cí diǎn]	dictionary
+讨论 [tǎo lùn]	discussion
+怀疑 [huái yí], 不确定 [bù què dìng]	doubt
+经历 [jīng lì]	experience
+感觉 [gǎn jué]	feeling
+幽默 [yōu mò]	humor
+想法 [xiǎng fǎ]	idea
+信息 [xìn xī]	information
+兴趣 [xìng qu]	interest
+采访 [cǎi fǎng]	interview
+语言 [yǔ yán]	language
+自然语言 [zì rán yǔ yán]	language
+字母 [zì mǔ]	letter
+信 [xìn], 信函 [xìn hán]	letter
+谎言 [huǎng yán]	lie
+表情 [biǎo qíng]	look
+杂志 [zá zhì]	magazine
+邮政 [yóu zhèng]	mail
+记忆力 [jì yì lì]	memory
+记忆 [jì yì], 回忆 [huí yì]	memory
+错误 [cuò wù]	mistake
+名字 [míng zi]	name
+报纸 [bào zhǐ]	newspaper
+注释 [zhù shì], 备注 [bèi zhù]	note
+编号 [biān hào]	number
+观点 [guān diǎn], 看法 [kàn fǎ]	opinion
+页 [yè]	page
+发音 [fā yīn]	pronunciation
+提议 [tí yì], 建议 [jiàn yì]	proposal
+抗议 [kàng yì]	protest
+问题 [wèn tí], 咨询 [zī xún]	question
+反应 [fǎn yìng]	reaction
+理由 [lǐ yóu], 原因 [yuán yīn]	reason
+关系 [guān xì]	relation
+请求 [qǐng qiú]	request
+秘密 [mì mì]	secret
+句子 [jù zi]	sentence
+算术符号（加减乘除）	sign
+话语 [huà yǔ]	speech
+拼写 [pīn xiě]	spelling
+标准 [biāo zhǔn]	standard
+声明 [shēng míng]	statement
+主题 [zhǔ tí]	subject
+提议 [tí yì], 建议 [jiàn yì]	suggestion
+声音 [shēng yīn]	voice
+词 [cí]	word
+文字 [wén zì], 书写 [shū xiě]	writing
+regards 此致敬礼	best
+you speak English 你会说英语吗	do
+day 日安	good
+luck 祝你好运	good
+morning 早上好 [zǎo shang hǎo]	good
+birthday 生日快乐 [shēng rì kuài lè]	happy
+你好 [nǐ hǎo]	hello
+are you 你好吗 [nǐ hǎo ma]	how
+thanks 非常感谢 [fēi cháng gǎn xiè]	many
+不 [bù]	no
+抱歉 [bào qiàn], 对不起 [duì bu qǐ]	sorry
+对不起 [duì bu qǐ]	sorry
+you very much 多谢 [duō xiè]	thank
+is your name 你叫什么名字	what
+是 [shì]	yes
+welcome 不客气 [bù kè qi]	you're
+英国 [Yīng guó]	Britain
+中国 [Zhōng guó]	China
+Republic 捷克 [Jié kè]	Czech
+法国 [Fǎ guó]	France
+德国 [Dé guó]	Germany
+印度 [Yìn dù]	India
+意大利 [Yì dà lì]	Italy
+日本 [Rì běn]	Japan
+西班牙 [Xī bān yá]	Spain
+States of America 美国 [Měi guó]	United
+摄像机 [shè xiàng jī]	camera
+照相机 [zhào xiàng jī]	camera
+phone 手机 [shǒu jī]	cellular
+时钟 [shí zhōng]	clock
+计算机 [jì suàn jī], 电脑 [diàn nǎo]	computer
+电梯 [diàn tī]	elevator
+发动机 [fā dòng jī], 引擎 [yǐn qíng]	engine
+工具 [gōng jù]	instrument
+机器 [jī qì]	machine
+炉子 [lú zi]	oven
+电视 [diàn shì]	television
+手表 [shǒu biǎo]	watch
+班级 [bān jí]	class
+知识 [zhī shi], 学问 [xué wèn]	education
+教育 [jiào yù]	education
+教育 [jiào yù], 培训 [péi xùn]	education
+考试 [kǎo shì], 测试 [cè shì]	examination
+分数 [fēn shù], 成绩 [chéng jì]	grade
+知道 [zhī dao], 认识 [rèn shi]	knowledge
+学生 [xué sheng]	student
+老师 [lǎo shī], 教师 [jiào shī]	teacher
+训练 [xùn liàn], 培训 [péi xùn]	training
+害怕 [hài pà]	fear
+恨 [hèn], 憎恨 [zēng hèn]	hate
+爱 [ài]	love
+快乐 [kuài lè], 愉快 [yú kuài]	pleasure
+期望 [qī wàng]	promise
+震动	shock
+护理 [hù lǐ], 照料 [zhào liào]	care
+感冒 [gǎn mào]	cold
+咳嗽 [ké sou]	cough
+疾病 [jí bìng]	disease
+医生 [yī shēng]	doctor
+健康 [jiàn kāng]	health
+月经 [yuè jīng]	menstruation
+护士 [hù shi]	nurse
+手术 [shǒu shù]	operation
+痛苦 [tòng kǔ]	pain
+病人 [bìng rén]	patient
+针脚	stitch
+刀叶 [dāo yè]	blade
+板 [pàn]	board
+纸牌 [zhǐ pái], 卡片 [kǎ piàn]	card
+链条 [liàn tiáo]	chain
+棍棒 [gùn bàng]	club
+盖子 [gài zi]	cover
+羽毛 [yǔ máo]	feather
+旗子 [qí zi]	flag
+框架 [kuàng jià]	frame
+柄 [bǐng], 把手 [bǎ shǒu]	handle
+菜单 [cài dān]	menu
+螺母 [luó mǔ], 螺帽 [luó mào]	nut
+楔子 [xiē zi]	pin
+管子 [guǎn zi]	pipe
+邮费 [yóu fèi]	postage
+礼物 [lǐ wù]	present
+帆 [fān]	sail
+花环 [huā huán]	scroll
+种子 [zhǒng zi]	seed
+木棍 [mù gùn]	stick
+石头 [shí tou]	stone
+票 [piào]	ticket
+轮子 [lún zi]	wheel
+金属丝	wire
+平衡 [píng héng]	balance
+大量 [dà liàng]	bulk
+电荷 [diàn hé]	charge
+能量 [néng liàng]	energy
+光 [guāng]	light
+质量 [zhì liàng], 重量 [zhòng liàng]	mass
+测量 [cè liáng]	measurement
+镜子 [jìng zi]	mirror
+运动 [yùn dòng]	movement
+压力 [yā lì]	pressure
+过程 [guò chéng], 进程 [jìn chéng]	process
+大小 [dà xiǎo], 尺寸 [chǐ cun]	size
+声音 [shēng yīn]	sound
+蒸汽 [zhēng qì]	steam
+力 [lì]	strength
+时间 [shí jiān]	time
+计量单位 [jì liàng dān wèi]	unit
+重力 [zhòng lì]	weight
+男朋友 [nán péng you]	boyfriend
+约会 [yuē huì]	date
+女朋友 [nǚ péng you]	girlfriend
+客人 [kè rén]	guest
+亲爱的 [qīn ài de]	honey
+吻 [wěn]	kiss
+聚会 [jù huì], 派对 [pài duì]	party
+性行为 [xìng xíng wéi], 做爱 [zuò ài]	sex
+微笑 [wēi xiào]	smile
+惊奇 [jīng qí], 诧异 [chà yì]	surprise
+拜访 [bài fǎng], 参观 [cān guān]	visit
+生物学 [shēng wù xué]	biology
+原因 [yuán yīn]	cause
+化学 [huà xué]	chemistry
+比较 [bǐ jiào]	comparison
+结果 [jié guǒ]	consequence
+学科 [xué kē]	discipline
+发现 [fā xiàn]	discovery
+发现 [fā xiàn]	discovery
+事件	event
+证据 [zhèng jù]	evidence
+例子 [lì zi]	example
+事实 [shì shí]	fact
+问题 [wèn tí]	issue
+内核	kernel
+方法 [fāng fǎ]	method
+时期 [shí qī]	phase
+过程	procedure
+生产	production
+程序	program
+项目 [xiàng mù]	project
+范围	range
+研究 [yán jiū]	research
+调查 [diào chá]	research
+科学 [kē xué]	science
+社会 [shè huì]	society
+系统 [xì tǒng]	system
+科技 [kē jì], 工艺 [gōng yì]	technology
+理论 [lǐ lùn]	theory
+趋势 [qū shì]	trend
+问题 [wèn tí]	trouble
+用户 [yòng hù]	user
+军队 [jūn duì]	army
+军事基地 [jūn shì jī dì]	base
+俱乐部 [jù lè bù]	club
+陪伴 [péi bàn]	company
+竞争 [jìng zhēng], 竞赛 [jìng sài]	contest
+国家 [guó jiā]	country
+法院 [fǎ yuàn]	court
+犯罪 [fàn zuì]	crime
+文明 [wén míng]	culture
+民主共和国	democracy
+统治 [tǒng zhì]	dominion
+选举 [xuǎn jǔ]	election
+存在 [cún zài]	existence
+女性 [nǚ xìng]	female
+政府 [zhèng fǔ]	government
+历史 [lì shǐ]	history
+个体 [gè tǐ]	individual
+机构 [jī gòu]	institution
+国王 [guó wáng]	king
+男性 [nán xìng]	male
+成员 [chéng yuán]	member
+国民 [guó mín]	nation
+新闻 [xīn wén]	news
+噪音 [zào yīn]	noise
+命令 [mìng lìng]	order
+组织 [zǔ zhī], 机构 [jī gòu]	organization
+通行证 [tōng xíng zhèng], 许可证 [xǔ kě zhèng]	pass
+护照 [hù zhào]	passport
+和平 [hé píng]	peace
+人群 [rén qún], 群体 [qún tǐ]	people
+警方 [jǐng fāng], 警察机关	police
+政策 [zhèng cè]	policy
+人口 [rén kǒu]	population
+人民 [rén mín]	public
+惩罚 [chéng fá]	punishment
+信仰 [xìn yǎng]	religion
+宗教信仰	religion
+政区	state
+标题 [biāo tí]	title
+联合 [lián hé]	union
+战争 [zhàn zhēng]	war
+意志 [yì zhì]	will
+遗嘱 [yí zhǔ]	will
+奖品	award
+球 [qiú]	ball
+棒球 [bàng qiú]	baseball
+自行车 [zì xíng chē]	bike
+冠军 [guàn jūn]	championship
+竞争对手	competitor
+奖杯	cup
+足球 [zú qiú]	football
+比赛 [bǐ sài], 游戏 [yóu xì]	game
+球门 [qiú mén]	goal
+目的地 [mù dì dì]	goal
+黄金 [huáng jīn]	gold
+高尔夫球 [gāo ěr fū qiú]	golf
+竞赛 [jìng sài], 比赛 [bǐ sài]	match
+参赛者 [cān sài zhě]	player
+记录 [jì lù]	record
+银 [yín]	silver
+网球 [wǎng qiú]	tennis
+投 [tóu], 扔 [rēng]	throw

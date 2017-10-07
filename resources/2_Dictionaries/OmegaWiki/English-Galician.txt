@@ -1,0 +1,512 @@
+English	Galician
+Abidjan	Abidjan
+Adelaide	Adelaida
+Aegean Sea	Mar Exeo
+Albania ; Republic of Albania	Albania
+Algeria ; People's Democratic Republic of Algeria	Alxeria
+Alps	Alpes
+Andorra ; Principality of Andorra	Andorra
+Angola ; Republic of Angola	Angola
+Anguilla	Anguila
+Antarctica	Antártida
+Antigua and Barbuda	Antiga e Barbuda
+April	abril
+Argentina ; Argentine Republic	Arxentina
+Armenia	Armenia
+Aruba	Aruba
+Australia ; Commonwealth of Australia	Australia
+Austria ; Republic of Austria	Austria
+Azerbaijan ; Republic of Azerbaijan	Acerbaixán
+Bahrain	Bahrain
+Balearic Islands	Illas Baleares
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Bengali ; Bengali	bengalí
+Bermuda	Bermuda
+Berne	Berna
+Bible	Biblia
+Botswana ; Republic of Botswana	Botsuana
+Bourgogne	Borgoña
+Boötes	Boötes
+British Indian Ocean Territory ; BIOT	Territorio Británico do Océano Índico
+Brunei ; Negara Brunei Darussalam	Brunei
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Cairo	Cairo ; Cairo ; Cairo
+Cambodia ; Kingdom of Cambodia	Camboxa
+Cameroon ; Republic of Cameroon	Camerún
+Caribbean Sea	mar Caribe ; mar das Antillas
+Cayman Islands	Illas Caimán
+Chihuahua	Chihuahua
+Chihuahua ; chihuahua	chihuahua
+Chile ; Republic of Chile	Chile
+Cornish	córnico
+Cuba ; Republic of Cuba	Cuba
+Dagestan	Daguestán
+Delaware	Delaware
+Democratic Republic of the Congo ; Congo-Kinshasa	República Democrática do Congo
+Dominican Republic	República Dominicana
+Down syndrome ; Down’s syndrome	síndrome de Down
+EU ; European Union	Unión Europea
+East Timor ; Democratic Republic of Timor-Leste	Timor Leste
+Egypt ; Arab Republic of Egypt	Exipto
+El Salvador ; Republic of El Salvador	O Salvador
+English	inglés
+Estonia ; Republic of Estonia	Estonia
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopía
+Faroese ; Faeroese	feroés
+Flanders ; Flemish region	Flandres
+France	Francia
+French Polynesia	Polinesia Francesa
+Frenchman	francés
+Gabon ; Gabonese Republic	Gabón
+Galician ; Galician	galego
+Gibraltar	Xibraltar
+Greece ; Hellenic Republic	Grecia
+Gregorian calendar	calendario gregoriano
+Guadeloupe	Guadalupe
+Guam ; Guam ; Guam	Guam
+Happy New Year	feliz aninovo
+Holland ; Kingdom of the Netherlands ; The Netherlands	Países Baixos
+Honduras ; Republic of Honduras	Honduras
+Iliad	Ilíada
+India ; Republic of India	India
+Indonesia ; Republic of Indonesia	Indonesia
+Iran ; Islamic Republic of Iran	Irán
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Costa do Marfil
+Jakarta ; Djakarta ; DKI Jakarta	Iacarta
+Jamaica	Xamaica
+Japan ; State of Japan	Xapón
+June	xuño
+Karelian	carelio
+Khartoum	Khartún
+Kiribati ; Republic of Kiribati	Quiribati
+Lagos	Lagos
+Latin ; Latin	latín
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	San Petersburgo
+Lesotho ; Kingdom of Lesotho	Lesoto
+Liberia ; Republic of Liberia	Liberia
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libia
+Limburgish ; Limburgian	limburgués
+Lower Saxony	Baixa Saxonia
+Lyon	Lión
+Macedonia ; Republic of Macedonia	Macedonia
+Malawi ; Republic of Malaŵi	Malaui
+Malta ; Republic of Malta	Málta ; Malta
+Martinique	Martinica
+Mauritania ; Islamic Republic of Mauritania	Mauritania
+Mayotte	Mayotte
+Mecca	A Meca
+Merry Christmas and a happy New Year	Bo Nadal e próspero aninovo
+Monaco	Mónaco
+Montenegro	Montenegro
+Morocco ; Kingdom of Morocco	Marrocos
+Mount Fuji	Monte Fuji
+Myanmar	Myanmar
+Namibia	Namibia
+New Zealand	Nova Celandia
+Nicaragua	Nicaragua
+Niue	Niue
+Pakistan ; Islamic Republic of Pakistan	Paquistán
+Poland	Polonia
+Portugal	Portugal
+Puerto Rico	Porto Rico
+Pyrenees	Pireneos
+Pyrrhic victory	vitoria pírrica
+Qatar	Qatar
+Rhône	Ródano
+Sanskrit ; Sanskrit	sánscrito
+Seine	Sena
+Senegal	Senegal
+Slovakia	Eslovaquia
+Sochi	Sochi
+Spain	España
+Sri Lanka	Sri Lanka
+Sweden	Suecia
+Switzerland	Suíza
+Thuringia	Turinxia
+Togo	Togo
+Toronto	Toronto
+Turkey	Turquía
+Uganda ; Republic of Uganda	Uganda
+Vatican City ; The Holy See ; State of the Vatican City	Cidade do Vaticano
+Volga	Volga
+Wallis and Futuna ; Territory of the Wallis and Futuna Islands	Wallis e Futuna
+Zambia ; Republic of Zambia	Zambia
+abbreviation	abreviación
+abolitionist	abolicionista
+abscess	absceso
+absolutely	absolutamente
+acceptance ; credence	aceptación
+acorn	landra
+acquisition	adquisición
+actinium	actinio
+activist	activista
+advance	anticipar
+adventure	aventura
+agoraphobia ; agoraphobia ; agoraphobia ; agoraphobia	agorafobia ; agorafobia
+alarm clock	despertador
+alchemist	alquimista
+alchemy	alquimia
+alcoholism	alcoholismo
+allegory	alegoría
+alloy	aliaxe
+aluminium	aluminio
+ambassador	embaixador
+ambitious	ambicioso
+ambulance	ambulancia
+americium	americio
+amphetamine	anfetamina
+anaconda	anaconda
+analogous	análogo
+analogy	analoxía
+anarchism	anarquismo
+anise	anís
+anniversary	aniversario
+ant	formiga
+antiparticle	antipartícula
+antithesis	antítese
+apartheid	apartheid
+apathy	apatía
+aphorism	aforismo
+apoptosis	apoptose
+apostle	apóstolo
+aquifer	acuífero
+archduke	arquiduque
+archetype	arquetipo
+architecture	arquitectura
+argon	argono
+armistice	armisticio
+armpit	axila
+arrival	chegada
+arsenic	arsénico
+arsonist	incendiario
+artichoke	alcachofa
+asbestos	amianto
+asparagus	espárrago
+asphalt	asfalto
+aspirin	aspirina
+assumption ; supposition	suposición
+astatine	astato
+asteroid	asteroide
+asthma	asma
+asymmetric ; asymmetrical	asimétrico
+atheist	ateo
+atrazine	atrazina
+avaricious	avarento
+axiom	axioma
+baboon	babuíno
+bacon	touciño
+badminton	badminton
+bagpipes	gaita
+bankruptcy	bancarrota
+barometer	barómetro
+basement	soto
+bassoon	fagot
+beatification	beatificación
+beaver	castor
+bee	abella
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	embigo
+berkelium	berquelio
+beryllium ; glucinium	berilio
+bilateral	bilateral
+bile	bile
+biochemistry	bioquímica
+bismuth	bismuto
+blackbird	merlo
+blacksmith	ferreiro
+bohrium	bohrio
+bonsai	bonsai
+boron	boro
+botany	botánica
+botany ; phytology	botánica
+boundary	fronteira
+breakfast	almorzo
+bromine	bromo
+bureaucracy	burocracia
+button ; clit ; clitoris	clítoris
+cactus	cacto
+cadmium	cadmio
+caesium	cesio
+caffeine	cafeína
+calcium	calcio
+calendar	calendario
+caliber	calibre
+californium	californio
+calligraphy	caligrafía
+camera	cámara fotográfica
+carbon	carbono
+carbon dioxide	dióxido de carbono
+career	carreira
+category	categoría
+celibacy	celibato
+cerium	cerio
+chaos theory	teoría do caos
+chapter	capítulo
+characteristic	característico
+cheers ; thank you ; thanks	grazas
+chemist's ; chemist's shop ; pharmacy	farmacia
+cherry	cereixa
+chlorine	cloro
+chromium	cromo
+cobalt	cobalto
+comet	cometa
+communism	comunismo
+compound ; chemical compound	composto
+constructed language ; artificial language	ideolingua
+copper	cobre
+cow	vaca
+creativity ; inventiveness	creatividade
+curium	curio
+currency	moeda
+darmstadtium	darmstadtio
+deaf	døv ; xordo
+death penalty ; capital punishment ; death sentence	pena capital ; pena de morte
+debit	cargar
+decision	decisión
+defendant ; accused	acusado
+demography	demografía
+dialect	dialecto
+diarrhea	diarrea
+discount	rebaixa
+divorce	divorcio
+dog	can ; cuzo
+dromedary	dromedario
+dumb	mudo
+dyslexia	dislexia
+dysprosium	disprosio
+effort ; exertion	esforzo
+einsteinium	einstenio
+ejaculation	exaculación
+embassy ; diplomatic mission	embaixada
+emergency	emerxencia
+entrepreneur	empresario
+ephemeral	efímero
+epicentre	epicentro
+epigram	epigrama
+epilepsy	epilepsia
+equation	ecuación
+erbium	erbio
+ethics	ética
+ethnography	etnografía
+europium	europio
+exception	excepción
+explicit	explícito
+eyebrow	cella
+fermium	fermio
+fish	peixe
+fluorine	flúor
+fossil	fósil
+fracture	fractura
+francium	francio
+fraud	fraude
+freedom ; liberty	liberdade
+gadolinium	gadolinio
+gallium	galio
+garage	garaxe
+geranium	xeranio
+germanium	xermanio
+geyser	geyser
+gland	glándula
+gold	ouro
+gong	gong
+goose	ganso
+gorilla	gorila
+governor	gobernador
+grammer ; grammar	gramática
+granite	granito
+graviton	gravitón
+hafnium	hafnio
+haiku	haiku
+hallucination	alucinación
+handkerchief	pano
+hard disk drive ; hard disk ; HD	disco ríxido ; disco duro
+hassium	hassio
+heathen ; infidel ; pagan	pagán
+hedgehog	ourizo
+heroin	heroína
+hierarchy	xerarquía
+home ; home ; house	casa
+homonym	homonymie
+hope	esperanza
+horizon	horizonte
+hostage	refén
+huckleberry ; blueberry	arandeira
+hydrogen	hidróxeno
+hyena	hiena
+ideology	ideoloxía
+illiterate	analfabeto
+independence	independencia
+indium	indio
+influenza ; flu	gripe
+iodine	iodo
+iridium	iridio
+jazz	jazz
+joint ; articulation	nivelliitos
+journalist	xornalista
+judo	judo
+karate	karate
+kettle	teteira
+kidney	ril
+kokosnoot ; coconut	coco
+krypton	cripton
+lantern	lanterna
+lanthanum	lantano
+lavender ; lavander	cantroxo
+lawrencium	laurencio
+lead	chumbo
+leap year	ano bisesto
+lethargy ; sluggishness ; languor	letargo
+lithium	litio
+locomotive	locomotora
+long	longo
+lottery	lotaría
+lumberjack	leñador
+lutetium	lutecio
+magnesium	magnesi
+malaria	malaria ; paludismo
+manganese	manganeso
+mendelevium	mendelevio
+meningitis	meninxite
+mercury	mercurio
+metaphor	metáfora
+metaphysics	metafísica
+microphone	micrófono
+morphine	morfina
+motet	mottetto
+motherhood ; maternity	maternidade
+musician	músico
+musquito ; mosquito	mosquito
+nadir	nadir
+nappy	cueiro
+neodymium	neodimio
+neptunium	neptunium ; neptunioa ; neptunio
+nickel	níquel
+niobium	niobio
+nitrogen	nitróxeno
+no	non
+nobelium	nobelio
+obesity	obesidade
+obey	obedecer
+observatory	observatorio
+obsolete	obsoleto
+obstacle ; obstruction	obstáculo
+oceanography	oceanografía
+octave	oitava
+octopus	polbo
+oligarchy	oligarquía
+olive	oliva
+opium	opio
+optics	óptica
+or	ou
+orchestra	orquesta
+ornithology	ornitoloxía
+orthography	ortografía
+osmium	osmio
+ostrich	avestruz
+ovary	ovario
+oxygen	osíxeno
+ozone	ozono
+pacifist	pacifista
+palladium	paladio
+pancreas	páncreas
+penguin	pingüin
+peninsula	península
+petition	petición
+philosophy	filosofía
+phone ; telephone	teléfono
+phonetics	fonética
+phosphorus	fósforo
+photon	fotón
+pigeon ; dove	pomba
+place ; location	lugar
+platinum	platino
+plutonium ; plutonium ; plutonium	plutonio ; plutonio ; plutonio
+pollen	pole
+pollution	polución
+polonium	polonio
+porcelain	porcelana
+positron	positrón
+posterity	posteridade
+potassium	potasio
+pragmatics	pragmática
+praseodymium	praseodimio
+prelate	prelado
+prince	príncipe
+promethium	prometio
+protactinium	protactinio
+psychiatrist	psiquiatra
+rabbit	coello
+radium	radio
+radon	radon
+recipe	receita
+red kite	millafre real
+renaissance	renacemento
+rhenium	renio
+rhodium	rodio
+rubidium	rubidio
+ruby	rubí
+ruthenium	rutenio
+rutherfordium	rutherfordio
+samarium	samario
+sardine	sardiña
+scandium	escandio
+screwdriver	desaparafusador
+seaborgium	seaborxio
+sedimentology	sedimentoloxía
+semantics	semántica
+sextant	sextante
+sheep	ovella
+silicon	silicio
+silver	prata
+skin	pel
+skull	cranio
+slipper	chancleta
+sociolinguistics ; sociology of language	sociolingüística
+sulphur	xofre
+supermarket	supermercado
+supernova	supernova
+surgeon	cirurxián
+swimming pool	piscina
+syntax	sintaxe
+syringe	xiringa
+technetium	tecnecio
+tellurium	telurio
+terbium	terbio
+terrorism	terrorismo
+thallium	talio
+theocracy	teocracia
+thorium	torio
+thunder	trono
+timezone	fuso horario
+tin	estaño
+titanium	titanio
+tomato	tomate
+topography	topografía
+train	tren
+translation	tradución
+tree	árbore
+trombone	trombón
+turkey	pavo
+twin	xémeo
+ununbium	ununbio
+ununoctium	ununoctio
+ununpentium	ununpentio
+ununquadium	ununquadio
+ununseptium	ununseptio
+ununtrium	ununtrio
+uranium	uranio
+usurp	usurpar
+vacuum cleaner	aspiradora
+valuable	precioso
+vanadium	vanadio
+veteran	veterano
+viable ; viable ; feasible	factible
+vowel	vocal
+walrus	morsa
+wasp	avespa
+wizard ; sorcerer ; magician	mago
+xenon	xenon
+ytterbium	iterbio
+yttrium	itrio
+zebra	cebra
+zinc	sinc ; cinc
+Åland Islands	Åland

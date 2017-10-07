@@ -1,0 +1,171 @@
+﻿English	Vietnamese
+another	cái khác
+bad	xấu
+basic	cơ bản
+beautiful	đẹp
+best	tốt nhất
+better	thích hợp hơn
+big	to lớn
+clean	sạch
+cold	lạnh
+correct	chính xác
+dark	tối tăm
+difficult	khó khăn
+fast	nhanh
+good	ngoan
+great	lớn
+great	rất hài lòng
+happy	hạnh phúc
+healthy	khoẻ mạnh
+heavy	nặng nề
+hot	nóng
+important	quan trọng
+left	bên trái
+light	nhẹ
+near	gần
+new	mới
+nice	tốt
+real	thực sự
+right	bên phải
+sharp	tinh
+slow	chậm chạp
+soft	mềm
+strong	rõ rệt
+weak	yếu
+wrong	sai
+ago	trước đây
+automatic	tự động
+available	sẵn sàng
+bitter	đắng
+boring	sự nhạt nhẽo
+broken	bị vỡ (1, 2)
+central	quan trọng nhất
+certain	đích xác
+cheap	rẻ
+chemical	thuộc hóa học
+clear	trong trẻo
+closed	khép kín
+common	phổ biến
+complete	đầy đủ
+cruel	độc ác
+dangerous	chính là mối hiểm họa
+delicate	mịn màng
+different	khác
+different	khác nhau
+dry	khô ráo
+each	mỗi
+early	đầu
+easy	dễ dàng
+economic	thuộc về kinh tế
+economic	tiết kiệm
+electric	thuộc điện
+equal	bằng nhau
+even	chẵn
+every	mỗi
+excellent	xuất sắc
+fake	sai
+far	xa
+fat	béo mập
+fat	nhiều về số lượng
+few	không nhiều
+final	quyết định
+financial	liên quan đến tiền bạc hoặc tài chính
+firm	mạnh mẽ
+flat	bằng phẳng
+following	tiếp sau đó về thời gian
+foreign	nước ngoài
+former	trước
+fragile	mỏng manh
+free	biếu
+frequent	thường xuyên
+fresh	mới
+full	đầy
+full	tổng số
+further	xa hơn nữa
+future	thuộc hoặc xảy ra trong tương lai
+general	phổ biến
+industrial	thuộc về công nghiệp
+interesting	thú vị
+international	quốc tế
+last	cuối cùng
+legal	thuộc pháp luật
+liquid	lỏng
+loud	to
+low	thấp
+lucky	có tính may mắn
+main	chủ yếu
+major	chủ yếu
+many	nhiều
+metal	bằng kim loại
+military	quân sự
+modern	hiện đại
+narrow	hẹp
+natural	tự nhiên
+necessary	cần thiết
+next	liền kề
+normal	bình thường
+opposite	đối lập
+original	nguyên bản
+own	của chính mình
+parallel	song song
+particular	đặc biệt
+past	quá khứ
+personal	cá nhân
+political	thuộc chính trị
+poor	nghèo
+popular	bình dân
+possible	có thể
+present	có mặt
+previous	trước
+private	riêng tư
+probable	có thể
+professional	thuộc về nghề
+public	công khai
+quiet	yên lặng
+ready	đã xong
+recent	gần đây
+regular	cách đều về thời gian và khoảng cách
+responsible	có trách nhiệm
+rigid	cứng rắn
+rough	lỗ mãng
+round	tròn
+safe	có thể tin cậy
+same	như nhau
+second	thứ hai
+secret	bí mật
+separate	tách rời nhau
+serious	nghiêm trang
+set	cố định
+several	vài
+short	ngắn
+silent	tĩnh lặng
+simple	đơn giản
+single	đơn độc
+small	nhỏ bé
+smooth	nhẵn
+solid	thể rắn
+sparse	thưa thớt
+special	đặc biệt
+specific	đặc trưng
+square	vuông
+standard	thông thường
+sticky	dính như keo
+straight	thẳng
+strange	lạ thường
+stylish	đặc sắc
+sudden	thình lình
+sweet	ngọt
+tall	cao
+thick	đặc
+thin	mỏng
+tight	chật
+true	thật
+ugly	xấu xí
+under	dưới
+unusual	hiếm
+usual	thông thường
+various	đa dạng
+warm	nhiệt tình
+wet	ướt
+whole	toàn bộ
+wide	rộng

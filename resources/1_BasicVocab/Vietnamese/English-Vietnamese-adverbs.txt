@@ -1,0 +1,57 @@
+﻿English	Vietnamese
+about	khắp xung quanh
+above	bên trên
+again	lại
+almost	gần như
+along	dọc theo
+always	luôn luôn
+approximately	khoảng chừng
+before	trước (khi)
+behind	đằng sau
+between	chỉ rõ sự liên quan
+directly	trực tiếp
+early	đầu
+either	cái này hay cái kia trong hai cái
+enough	đủ
+exactly	đúng là
+finally	cuối cùng
+first	trước hết
+generally	nói chung
+here	tại điểm này
+however	tuy vậy
+immediately	ngay lập tức
+indeed	thật vậy
+inside	bên trong
+instead	thay vì
+late	muộn
+least	ít nhất
+little	một ít
+merely	chỉ
+not	không
+obviously	rõ ràng là
+often	thường xuyên
+once	một lần
+particularly	đặc biệt
+please	làm ơn, xin
+possibly	có thể
+probably	có khả năng
+quickly	nhanh chóng
+really	thực sự
+really	rất
+recently	gần đây
+slowly	chậm
+soon	trong thời gian ngắn
+still	vẫn còn
+such	như thế
+surely	chắc chắn
+then	vào lúc
+there	đằng kia
+today	hôm nay
+together	cùng
+tomorrow	ngày mai
+tonight	đêm nay
+too	cũng
+usually	như thường lệ
+very	thực sự
+well	khoẻ mạnh
+why	tại sao

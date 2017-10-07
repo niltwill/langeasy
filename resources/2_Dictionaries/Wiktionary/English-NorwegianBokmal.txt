@@ -1,0 +1,2057 @@
+﻿English	Norwegian
+AIDS	AIDS
+Abidjan	Abidjan
+Abkhaz	abkhasisk
+Abkhazia	Abkhasia
+Abraham	Abraham
+Abu Dhabi	Abu Dhabi
+Adam	Adam
+Afghanistan	Afghanistan
+Afrikaans	afrikaans
+Al Jazeera	Al-Jazeera
+Alaska	Alaska
+Albania	Albania
+Alberta	Alberta
+Alexander	Alexander; Aleksander
+Algeria	Algerie
+Allah	Allah (m)
+American	amerikaner (m); amerikanere (m)
+American bison	amerikansk bison
+Amsterdam	Amsterdam
+Amur	Amur
+Andorra	Andorra
+Andrew	Andreas; Anders
+Anglo	gammelengelsk
+Angola	Angola
+Ankara	Ankara
+Antarctica	Antarktis
+Antigua and Barbuda	Antigua og Barbuda
+April	april
+Arab	araber
+Arctic Ocean	Nordishavet
+Argentina	Argentina
+Argonaut	Argonaut
+Arkhangelsk	Arkhangelsk
+Armenia	Armenia
+Asclepius	Asklepios
+Asia	Asia
+Athena	Athene (f)
+Athens	Aten; Athen
+August	august
+Australia	Australia
+Austria	Østerrike; Austerrike 
+Aymara	aymara
+Azerbaijan	Aserbajdsjan
+Bahamas	Bahamas
+Bahrain	Bahrain
+Baku	Baku
+Balearic Islands	Balearene
+Bambara	bambara
+Bangladesh	Bangladesh
+Barbados	Barbados
+Bashkir	basjkirsk
+Basque	baskisk
+Beijing	Beijing; Peking; Pekin
+Beirut	Beirut
+Belarus	Hviterussland; Kviterussland; Belarus
+Belarusian	hviterussisk
+Belgium	Belgia
+Belgrade	Beograd; Belgrad
+Belize	Belize
+Belorussian	hviterussisk
+Benin	Benin
+Berlin	Berlin
+Bermuda	Bermuda
+Bhutan	Bhutan
+Bible	bibel (m)
+Black Death	svartedauden 
+Black Sea	Svartehavet (n)
+Bolivia	Bolivia
+Bosnia and Herzegovina	Bosnia-Hercegovina
+Bosphorus	Bosporos
+Botswana	Botswana
+Brazil	Brasil
+Breton	Bretonsk; Bretangsk
+British Columbia	Britisk Columbia
+Brunei	Brunei
+Brussels	Brussel
+Bulgaria	Bulgaria
+Burkina Faso	Burkina Faso
+Burma	Burma
+Burundi	Burundi
+Byzantine Empire	Østromerriket
+Cambodia	Kambodsja
+Canada	Canada
+Cape Verde	Kapp Verde 
+Caracalla	Caracalla
+Carthage	Karthago
+Caspian Sea	Kaspihavet
+Catalan	katalansk
+Caucasus	Kaukasia
+Central African Republic	Den sentralafrikanske republikk
+Chad	Tsjad
+Chechen	tsjetsjensk
+Chernobyl	Tsjernobyl
+Chile	Chile
+China	Kina
+Chinese	kineser
+Chisinau	Chișinău
+Christ	Kristus (m)
+Christadelphian	kristadelfianer (m)
+Christianity	Kristendom (n)
+Christmas	jul
+Christmas tree	juletre (n)
+Christopher	Kristoffer
+Cinderella	Askepott
+Coca	Coca-Cola
+Cold War	Den kalde krigen
+Colombia	Colombia
+Constantinople	Konstantinopel
+Copenhagen	København
+Costa Rica	Costa Rica
+Crimea	Krim
+Croatia	Kroatia
+Cuba	Cuba
+Cyprus	Kypros
+Czech Republic	Tsjekkia; Den tsjekkiske republikk
+Czechia	Tsjekkia
+Czechoslovakia	Tsjekkoslovakia
+Damascus	Damaskus
+David	David
+Dead Sea	Dødehavet
+December	desember
+Denmark	Danmark 
+Diaspora	diaspora
+Dominica	Dominica
+Dominican Republic	Den dominikanske republikk
+Donald Duck	Donald Duck
+Earth	jorden (m)
+East Timor	Øst-Timor 
+Easter	påske
+Easter Island	Påskeøya
+Eastern Europe	Øst-Europa
+Ecuador	Ecuador
+Edmonton	Edmonton
+Egypt	Egypt
+El Salvador	El Salvador
+England	England
+Englishman	engelskmann (m)
+Equatorial Guinea	Ekvatorial-Guinea 
+Esperanto	esperanto
+Estonia	Estland
+Ethiopia	Etiopia 
+Eurasia	Eurasia (n)
+Europe	Europa
+European	europeer (m)
+European Union	Europeiske Union
+European bison	europeisk bison
+Eve	Eve
+Far East	Det fjerne østen
+Faroe Islands	Færøyene
+February	februar
+Fiji	Fiji
+Finland	Finland
+France	Frankrike 
+Francis	Frans
+Frederick	Fredrik
+French	franskmenn (m)
+Friday	fredag
+Gabon	Gabon
+Gambia	Gambia
+Ganges	Ganges
+Gaza Strip	Gazastripen (m)
+George	Georg; Jørgen
+Georgia	Georgia
+German Shepherd	schäferhund (m)
+Germany	Tyskland; Føderale Republikken Tyskland
+Ghana	Ghana
+Ghent	Gent
+Gibraltar	Gibraltar
+Gnosticism	gnostisisme (m)
+Goa	Goa
+God	Gud (m); Herre
+Good Friday	langfredag
+Great Britain	Storbritannia
+Great Pyramid of Giza	Kheopspyramiden
+Greece	Hellas; Grekenland
+Greek	Gresk; Hellenesk
+Grenada	Grenada
+Guatemala	Guatemala
+Guinea	Guinea-Bissau
+Gulf of Finland	Finskebukta
+Guyana	Guyana
+Haiti	Haiti
+Happy Easter	God Påske
+Happy New Year	godt nytt år
+Hebrew	hebraisk
+Hertzsprung	Hertzsprung-Russel-diagram (n)
+Hezbollah	Hizbollah
+Hindi	hindi
+Hokkaido	Hokkaido
+Holland	Holland
+Holocaust	holocaust
+Honduras	Honduras
+Hong Kong	Hongkong
+Hungary	Ungarn
+I am English	jeg er engelsk
+I love you	jeg er glad i deg
+I need a doctor	jeg trenger en lege
+I think therefore I am	Jeg tenker, derfor er jeg
+Iceland	Island
+India	India
+Indian Ocean	Indiahavet; Det indiske hav; Det indiske havet
+Indonesia	Indonesia
+Interlingua	Interlingua
+Internet	Internett
+Iran	Iran
+Iraq	Irak
+Ireland	Irland 
+Islamophobia	islamofobi
+Israel	Israel
+Italy	Italia
+Izhevsk	Izjevsk
+Jamaica	Jamaica
+James	Jakob
+January	januar
+Japan	Japan
+Jerusalem	Jerusalem
+Jesus	Jesus
+Jesus Christ	Jesus Kristus
+Jew	jøde (m)
+Jewish	jødisk
+John	Johan; Jon
+Jordan	Jordan
+Joseph	Josef
+July	juli
+June	juni
+Kannada	kannada
+Karnataka	Karnataka
+Kazakhstan	Kasakhstan
+Kenya	Kenya
+Khartoum	Khartoum
+Khmer	khmer
+Khrushchev	Khrusjtsjov (m)
+Kosovo	Kosovo
+Kurdish	kurdisk
+Kuwait	Kuwait
+Kyoto	Kyoto
+Kyrgyzstan	Kirgisistan
+LGBT	LHBT
+Laocoön	Laokoon
+Laos	Laos
+Latvia	Latvia
+Lebanon	Libanon
+Leninism	leninisme
+Leo	Leo
+Lesotho	Lesotho
+Liberia	Liberia
+Libya	Libya
+Liechtenstein	Liechtenstein
+Lisbon	Lisboa; Lissabon
+Lithuania	Litauen
+Luxembourg	Luxembourg; Luxemburg
+Macedonia	Makedonia
+Madagascar	Madagaskar
+Madrid	Madrid
+Magna Carta	Magna Carta
+Malawi	Malawi
+Malayalam	malayalam
+Malaysia	Malaysia
+Maldives	Maldivene
+Malta	Malta
+Man	menneske
+Manchuria	Mandsjuria
+Maoism	maoisme
+March	mars
+Marshall Islands	Marshalløyene
+Mary	Maria
+Matthew	Mathias
+Mauritania	Mauritania
+Mauritius	Mauritius
+May	mai
+Mediterranean Sea	Middelhavet
+Mercury	Merkur
+Merry Christmas	god jul
+Merry Christmas and a Happy New Year	God Jul og Godt Nytt Aar
+Mexico	Mexico
+Mexico City	Mexico by
+Michael	Mikael
+Miss	frøken 
+Moldova	Moldova
+Monaco	Monaco
+Monastir	Bitola
+Mongolia	Mongolia
+Moon	måne (m)
+Moscow	Moskva
+Moses	Moses
+Mrs	Fr
+Muhammad	Muhammed
+Munich	München
+Myanmar	Myanmar; Burma
+NATO	NATO
+Namibia	Namibia
+Naypyidaw	Naypyidaw
+Nepal	Nepal
+Neptune	Neptun
+Netherlands	Nederland; Holland
+New Guinea	Ny-Guinea
+New South Wales	New South Wales
+New Zealand	New Zealand; Ny-Zealand
+Nicaragua	Nicaragua
+Nicholas	Nils
+Niger	Niger
+Nigeria	Nigeria
+North Korea	Nord-Korea
+North Sea	Nordsjøen
+Northern Europe	Nord-Europa
+Northern Ireland	Nord-Irland
+November	november
+October	oktober
+Olympic Games	Olympiske leker
+Oman	Oman
+Ouagadougou	Ouagadougou
+Pacific Ocean	Stillehavet (n)
+Pakistan	Pakistan
+Palestine	Palestina
+Panama	Panama
+Papua New Guinea	Papua Ny-Guinea
+Paraguay	Paraguay
+Paris	Paris
+Paul	Pål; Paul
+Persephone	Persephone
+Peru	Peru
+Philippines	Filippinene
+Pleiades	Pleiadene
+Podgorica	Podgorica
+Poland	Polen
+Portugal	Portugal
+Prague	Praha; Prag
+Pythagoras	Pythagoras
+Qatar	Qatar
+Quidditch	Rumpeldunk
+Republic of Albania	Republikken Albania
+Reykjavik	Reykjavík; Reykjavik
+Richard	Rikard; Richard
+Roma	Romafolket; Romanifolk
+Roman Empire	Romerriket
+Romania	Romania
+Rome	Roma
+Russia	Russland
+Russian Federation	russiske føderasjon; russiske føderasjon
+Rwanda	Rwanda
+San Marino	San Marino
+Sanskrit	sanskrit
+Santa Claus	julenissen
+Satan	Satan
+Saturn	Saturn (m)
+Saudi Arabia	Saudi-Arabia
+Scotland	Skottland
+Senegal	Senegal
+September	september
+Serb	serber (m)
+Serbia and Montenegro	Serbia og Montenegro
+Seychelles	Seychellene
+Sheremetyevo	Sjeremetjevo
+Siberia	Sibir
+Sicily	Sicilia
+Singapore	Singapore
+Slav	slav
+Slavic	slavisk
+Slovakia	Slovakia
+Slovenia	Slovenia
+Snow White	Snøhvit
+Sochi	Sotsji
+Socrates	Sokrates
+Sofia	Sofia
+Solomon Islands	Salomonøyene
+Somalia	Somalia
+Sophocles	Sofokles (m)
+Sorbian	sorbisk
+South Africa	Sør-Afrika; Republikken Sør-Afrika
+South Asia	Sør-Asia
+South Korea	Sør-Korea; Republikken Korea
+South Ossetia	Sør-Ossetia
+South Sudan	Sør-Sudan
+Southeast Asia	Sørøst-Asia
+Southern Europe	Syd-Europa
+Soviet Union	Sovjetunionen
+Spain	Spania
+Sparta	Sparta
+Sri Jayawardenepura Kotte	Kotte
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Suez Canal	Suezkanalen
+Sunday	søndag
+Suriname	Surinam
+Swaziland	Swaziland
+Sweden	Sverige
+Switzerland	Sveits
+Syria	Syria
+Taiwan	Taiwan
+Tajikistan	Tadsjikistan
+Tallinn	Tallinn
+Tanganyika	Tanganyika
+Tanzania	Tanzania
+Tbilisi	Tbilisi
+Tel Aviv	Tel Aviv
+Telugu	telugu
+Ten Commandments	de ti bud (p)
+Thailand	Thailand
+Thames	Themsen
+Thanatos	Thanatos
+The Hague	Haag
+Thomas	Thomas
+Thursday	torsdag
+Togo	Togo
+Tokyo	Tokyo
+Transnistria	Transnistria (n)
+Transylvania	Transilvania (n)
+Trinidad and Tobago	Trinidad og Tobago
+Trotskyism	trotskisme (m)
+Tunisia	Tunisia
+Turkey	Tyrkia
+Turkmenistan	Turkmenistan
+USA	USA
+USSR	Sovjetunionen
+Uganda	Uganda
+Ukraine	Ukraina
+Ulyanovsk	Uljanovsk
+United Arab Emirates	De forente arabiske emirater
+United Kingdom	Storbritannia; Det forente kongerike Storbritannia og Nord-Irland
+United States	De Forente Stater (m)
+United States of America	Amerikas forente stater; De forente stater
+Uruguay	Uruguay
+Uzbekistan	Usbekistan
+Vatican City	Vatikanstaten; Vatikanet
+Venezuela	Venezuela
+Venice	Venezia
+Victory Day	Seiersdagen
+Vietnam	Vietnam
+Vishnu	Vishnu
+Volga	Volga
+Warsaw	Warszawa
+Western Sahara	Vest-Sahara
+White House	Det hvite hus
+White Sea	Kvitsjøen (m)
+Wikipedia	Wikipedia
+Wiktionary:Usability/flag	flagg (n)
+William	Vilhelm
+World War I	første verdenskrig (m)
+World War II	andre verdenskrig (m)
+Wroclaw	Wrocław
+Yalta	Jalta
+Yangtze	Chang Jiang
+Yekaterinburg	Jekaterinburg
+Yellow Sea	Gulehavet
+Yemen	Jemen
+Yerevan	Jerevan
+Yiddish	jiddisch; jiddisk
+Zambia	Zambia
+Zealand	Sjælland
+Zoroastrianism	Zoroastrisme
+a lot	mange
+aardvark	jordsvin (n)
+abandon	forlate
+abbot	abbed
+abbreviation	forkortelse (m)
+abdomen	mage; buk
+abundance	overflod
+accordion	trekkspill
+acid	sur
+acorn	kongle (m)
+actinium	actinium
+actor	skuespiller (m); skuespillerinne (m)
+actress	skuespillerinne
+acupuncture	akupunktur (m)
+address	adresse
+admiration	beundring
+adverb	adverb (n)
+advertisement	reklame; annonse
+after	etter
+afternoon	ettermiddag (m)
+again	igjen
+aggressive	aggressiv
+ago	siden
+agriculture	landbruk (n); jordbruk (n)
+air	luft (f)
+airport	flyplass (m)
+al	al-Qaida
+alchemist	alkymist
+algebra	algebra
+algorithm	algoritme (m)
+alkyne	alkyn
+all	hele
+all rights reserved	alle rettigheter er forbeholdt
+almond	mandel (m)
+almost	nesten
+alphabet	alfabet (n)
+alpine chough	alpekaie
+already	allerede
+altar	alter; altar
+aluminium	aluminium
+always	alltid; bestandig
+am	er
+amber	rav (n)
+americium	americium
+amoeba	amøbe
+anagram	anagram
+anarchism	anarkisme
+anarchy	anarki (n)
+anchor	anker (n)
+anger	sinne (n)
+animal	dyr
+anime	anime
+ankle	ankel (m)
+answer	svare
+ant	maur
+antelope	antilope
+anthrax	miltbrann
+antimony	antimon
+antonym	antonym
+anvil	ambolt (m); ste (n)
+apartment	leilighet
+ape	ape
+apple	eple (n)
+apple tree	epletre
+apricot	aprikos (m)
+archaeology	arkeologi
+archer	bueskytter (m)
+architecture	arkitektur
+argent	sølv
+argon	argon (n)
+arm	arm
+arrow	pil
+arsenic	arsen
+artist	artist
+ashtray	askebeger
+ask	be; om
+ass	esel (n); asen (n)
+asshole	rasshøl
+astatine	astat
+asteroid	asteroide
+astronomy	astronomi (m)
+astrophysics	astrofysikk (m); astrofysikk
+at	på
+at sign	krøllalfa; alfakrøll
+atmosphere	atmosfære (m)
+atrocity	grusomhet
+aubergine	aubergine
+aunt	tante (m); faster (m); (m)
+autumn	høst (m)
+avalanche	lavine; snøras; snøskred (n)
+axe	øks (m)
+axis	akse (m)
+baby	spebarn (n) 
+babysitter	barnevakt; kenguru
+back	rygg (m); bak (m)
+backgammon	backgammon (n)
+bad	dårlig; ond
+badger	grevling (m)
+bag	veske; pose (m)
+bagpipes	sekkepipe
+bakery	bakeri
+balloon	ballong (m)
+banana	banan (m)
+bank	bank (m)
+barcode	strekkode
+barium	barium
+bark	bjeff (n)
+barley	bygg (n)
+barn owl	tårnugle
+basalt	basalt
+basket	kurv (m)
+basketball	basketball (m)
+bassoon	fagott (m)
+bat	flaggermus; skinnvengja (f)
+bath	badekar (n)
+bay	bukt (f)
+bayonet	bajonett
+be prepared	vær beredt
+beach	strand
+beak	nebb
+bean	bønne
+bear	bære; fram; føde
+beard	skjegg (n)
+beat	slå
+beaver	bever (m)
+because	fordi; ettersom; det kommer av
+become	bli
+bed	seng (m)
+bedbug	veggdyr
+bedroom	soverom (n)
+bee	bie (m)
+beech	bøk (m)
+beef	storfekjøtt (n)
+beer	øl
+beetle	bille (m)
+before	før
+begin	begynne
+behind	bak
+being	tilværelse; det å være 
+believe	tro
+bell	bjelle
+belt	belte (n)
+berkelium	berkelium
+berry	bær (n)
+beryllium	beryllium
+better	bedre
+between	mellom
+bicycle	sykkel (m)
+big	stor
+bill	nebb
+billion	milliard
+bipolar disorder	nipolar lidelse
+birthday	bursdag (m); fødselsdag (m)
+birthmark	føflekk; fødselsmerke (n)
+biscuit	kjeks (m); småkake (m)
+bishop	løper (m)
+bismuth	vismut
+bitch	tispe (f)
+bite	bite
+black	svart
+black grouse	orrfugl
+blackberry	bjørnebær (n)
+blackbird	svarttrost
+blade	blad (n)
+blanket	dyne (m); teppe (n)
+bless you	prosit
+blog	blogg
+blood	blod (n)
+blue	blåfarge
+blueberry	blåbær (n)
+boar	villsvin (n)
+boat	båt (m)
+bohrium	bohrium
+bomb	bombe
+bon voyage	god reise
+book	reservere
+bookshop	bokhandel (m)
+boot	støvel (m)
+border	grense (m)
+boron	bor
+both	begge; båe
+bottle	flaske (m)
+bow	bue; boge (m)
+bowl	bolle (m); skål (m)
+box	kasse (m); boks (m)
+boxing	boksing
+bra	brystholder; bysteholder
+brain	hjerne
+branch	gren (m); grein (m)
+bread	brød (n)
+breast	bryst (n)
+breathe	puste; ånde
+bridge	bro (m); bru (m)
+bright	lys
+bromine	brom
+bronze	bronse (m)
+brother	bror (m)
+brown	brun
+buffalo	bison
+building	bygge; konstruere
+bull	okse (m)
+bullet	kule
+bumblebee	humle
+burn	brenne
+bus	buss (m)
+bush	busk (m)
+busy	travel; opptatt
+but	enn; bortsett fra; unntatt; foruten
+butterfly	sommerfugl; sommarfugl 
+buy	kjøpe
+buzzard	musvåk
+by the way	forresten
+cabbage	hodekål
+cacao	kakaotre
+cadmium	cadmium
+caesium	cesium
+café	kafé (m); café (m)
+cake	kake (m)
+calcium	kalsium
+calf	kalv (m)
+californium	californium
+camel	kamel (m)
+camouflage	kamuflasje (m)
+can	kunne
+canal	kanal
+canary	kanarifugl
+cancer	kreft
+candidate	kandidat
+candle	lys
+cannabis	hamp
+canyon	canyon
+capercaillie	storfugl; tiur
+capital city	hovedstad
+capitalism	kapitalisme (m)
+car	vogn (m)
+caramel	karamell
+carbon	karbon (n)
+carp	karpe
+carrot	gulrot
+cash	kontanter; penger
+caste	kaste (m)
+castle	borg
+cat	kattedyr (n); katt (m)
+caterpillar	larve (m)
+cattle	krøtter; storfe; kveg
+caviar	kaviar (m)
+cedar	seder
+ceiling	tak (n)
+celery	selleri
+cell phone	mobiltelefon
+center	midt; midtpunkt (n)
+centipede	skolopender (m)
+cerium	cerium
+chain	kjede (n); kjetting (m); lenke
+chamois	gemse
+chase	løpe; forfølge
+cheers	skål
+cheese	ost (m)
+cheetah	gepard (m)
+chemistry	kjemi
+cherry	kirsebær (n); morell (m)
+chess	sjakk (m)
+chest	brystkasse
+chestnut	kastanje (m)
+child	barn (n); mindreårig (m)
+chin	hake
+chisel	meisel
+chlorine	klor
+chocolate	sjokolade (m)
+choice	valg
+choir	kor (n)
+chord	akkord; note; noter
+chromium	krom
+church	kirke (f)
+cigarette	sigarett (m)
+cinema	kino (m)
+cinnamon	kanel
+circle	sirkel
+city	by
+clarinet	klarinett (m)
+clean	gjøre; rent
+clitoris	klitoris (m)
+close	lukke; stenge
+clothes	bekledning (f)
+clown	klovn (m)
+club	klubb (m)
+coast	kyst
+cobalt	kobolt
+cock	hane (m)
+cockroach	kakerlakk (m)
+coconut	kokosnøtt (f'm)
+cod	torsk (m)
+coffin	kiste (m); gravkiste (m)
+cognitive psychology	kognitiv psykologi
+coin	mynt (m)
+cold	forkjølelse (m)
+cold war	kald krig (n)
+colon	kolon (n)
+colonel	oberst (m)
+combat	slagsmål
+come	komme
+comedy	komedie
+common gull	fiskemåke
+communism	kommunisme (m)
+communist	kommunist (m)
+compass	kompass
+computer	datamaskin (m)
+computer language	programmeringsspråk (n)
+concentration camp	konsentrasjonsleir (m)
+concrete	betong (m)
+condom	kondom (m); gummi (m)
+congratulations	gratulerer; gratulasjoner (m)
+conjunction	konjunksjon (m); bindeord (n)
+connective tissue	støttevev
+constitution	grunnlov (m)
+continent	kontinent (n)
+continental drift	kontinentaldrift
+conversation	samtale (m); konversasjon (m)
+cook	kokk (m)
+copper	kobber
+corn	mais
+corpse	lik (n)
+corridor	korridor (m)
+count	greve (m)
+country	landsens
+cousin	fetter (m); kusine (f); søskenbarn (n) 
+cow	ku (f)
+crab	krabbe
+crane	trane (m)
+cream	fløte
+create	skape
+cricket	cricket (m)
+cross	kryss (n)
+crossword	kryssord
+crow	kråke (f)
+crowd	flokk (m); mengde (m); folkehav (n)
+crown	krone
+cruel	grusom
+crystal	krystall
+cuckoo	gjøk
+cucumber	agurk (m)
+culture	kultur (m)
+cunt	fitte; kuse; mus
+curium	curium
+currency	valuta
+curse	forbannelse (m)
+curtain	gardin (m)
+cute	søt
+dad	pappa
+daily	daglig
+dandelion	løvetann (m)
+dandruff	flass (n)
+dangerous	farlig
+dark matter	mørk materie
+darkness	mørke (n)
+date	stevnemøte (n); date (m)
+date palm	daddelpalme
+dative case	dativ (m)
+daughter	datter
+day	dag (m)
+deaf	døv
+dear	kjær
+death	død (m)
+decade	tiår (n); årti (n); dekade (m); decennium (n); desennium (n)
+deer	hjort
+degree	grad (m)
+democracy	demokrati (n); folkestyre (n)
+demon	demon
+dentist	tannlege
+desert	ørken
+dessert	dessert
+devil	djevel (m)
+dialect	dialekt (m)
+diarrhea	diaré (m)
+diary	dagbok (m)
+dick	kuk; pikk (m)
+die	terning
+difficult	vanskelig
+digit	siffer
+dinosaur	dinosaur (m); dinosaurus (m)
+dirty	skitten
+discussion	diskusjon; debatt (m)
+disease	sjukdom (m)
+divorce	skillsmisse (m)
+do	gjøre
+do you speak English	Snakker du engelsk?
+do you speak something	snakker du norsk 
+dobra	dobra
+dog	hund (m); bikkje (f)
+doll	dukke
+dollar	dollar (m)
+dolphin	delfin (m)
+donation	donasjon
+donkey	esel (n)
+door	dør (m)
+dormouse	syvsover; sovemus
+doubt	tvil (m)
+doughnut	smultring (m)
+dove	due (m)
+down	ned
+dragon	drage (m); lindorm; linnorm; sjøslange
+dragonfly	øyenstikker (m)
+draw	tegne
+dream	drøm (m)
+dress	kle
+drink	drikke
+dromedary	dromedar
+drunk	full
+dry	tørr
+dubnium	dubnium
+duck	and (f)
+duke	hertug
+dust	støv (n); dust (f)
+duty	plikt (m)
+dynamite	dinamitt (n)
+dyslexia	dysleksi
+dysprosium	dysprosium
+e	e-post (m); e-brev (n)
+e.g.	f.eks.; t.d. 
+each	alle; alt; enhver; hver; hver enkelt
+eagle	ørn (m)
+eagle owl	hubro
+ear	øre
+earth	jord (m)
+earthquake	jordskjelv (n)
+east	øst; aust
+easy	lett (m); lette; enkel (m); enkelt (n); enkle
+echo	ekko (n)
+eco	øko-
+ecology	økologi (m)
+economics	økonomi
+ecosystem	økosystem (n)
+edible	spiselig
+edit	redigere
+education	utdanning
+eel	ål (m)
+egg	egg (n)
+eggplant	aubergine; eggfrukt
+eight	åtte
+eighteen	atten
+eighty	åtti
+einsteinium	einsteinium
+ejaculation	ejakulasjon
+elbow	albue
+electricity	elektrisitet (m)
+electromagnetism	elektromagnetisme (m)
+electron	elektron
+electronics	elektronikk
+elephant	elefant (m)
+eleven	elleve
+elf	alv (m)
+embassy	ambassade (m)
+emperor	keiser (m)
+empty	tom
+encyclopedia	encyklopedi
+end	slutte
+enemy	fiende (m); uvenn (m)
+energy	energi
+engine	motor (m)
+engineer	ingeniør (m)
+enter	komme inn
+entomology	entomologi
+epicentre	episenter
+epithelium	epitel
+equation	likning
+erbium	erbium
+erection	ereksjon (m); stå; reisning (m)
+ermine	røyskatt
+etymology	etymologi (m) 
+eukaryote	eukaryoter
+euro	euro
+europium	europium
+euthanasia	eutanasi; dødshjelp
+evening	kveld
+event horizon	hendelseshorisont
+every	hver
+everybody	alle
+everything	alt
+evil	ond; slem
+example	eksempel; døme
+exclamation mark	utropstegn (n)
+existence	eksistens (m); tilværelse (m)
+expression	uttrykk (n); (m)
+eyelash	øyenvipper
+eyelid	øyelokk (n)
+face	ansikt (n); fjes (n)
+factory	fabrikk (m)
+fairy	fe
+fairy tale	eventyr (n)
+falcon	falk (m)
+fall	falle
+fallow deer	dåhjort; dådyr
+family	familie (m)
+fan	vifte
+far	langt borte; fjern
+farm	gård (m); gard (m); bondegård (m)
+farmer	bonde (m); gårdbruker (m)
+fart	fise; fjerte; proppe; prompe; slippe en vind
+fascism	fasisme (m); fascisme (m)
+fashion	mote (m)
+fast	faste (m)
+fat	fett (n)
+father	far; pappa; fader
+federation	føderasjon
+female	kvinne
+fermium	fermium
+ferret	frett
+ferry	ferje
+fever	feber (m)
+field	åker (m) 
+fifteen	femten
+fifth	femte 
+fifty	femti
+fig	fiken (m)
+fight	slåss; kjempe
+fighter plane	jagerfly
+find	finne
+finger	finger (m)
+finish	fullføre; avslutte
+fir	edelgran
+fire	ovn (m)
+first	først
+fish	fiske
+fist	neve (m); knyttneve (m)
+five	fem
+five hundred	fem hundre
+flag	flagg (n)
+flea	loppe (f)
+floor	(n)
+flour	mjøl
+flower	blomst (m)
+fluorine	fluor
+flute	fløyte (f)
+fly	fly
+foal	føll (n); fole (m)
+fog	tåke; skodde
+follow	følge
+food	mat (m); føde (m); næring (m)
+fool	tosk (m); dust (m)
+foot	pote; labb
+football	amerikansk fotball
+for	for; fordi
+for example	for eksempel; til dømes
+forefinger	pekefinger (m)
+foreign	utenlandsk
+foreigner	utlending (m)
+forest	skog (m)
+forget	glemme
+fortress	festning
+forty	førti
+fountain	fontene; springvann
+four	fire
+fourteen	fjorten
+fox	rev (m)
+francium	francium
+free	åpen; fri
+freedom	fridom
+freedom of speech	ytringsfrihet (m)
+friend	venn (m); venninne (f)
+friendship	vennskap
+frog	frosk (m)
+from	fra
+fruit	frukt (m)
+fuck	pule; knulle; jokke
+fuck you	faen ta deg; føkk deg
+full	full
+function	funksjon (m)
+funeral	begravelse (m); jordfestelse (m)
+fungus	sopp
+funnel	trakt
+furniture	møbel
+future	framtid (m)
+gadolinium	gadolinium
+galaxy	galakse (m)
+gall bladder	galleblæren
+gallium	gallium
+game	spill 
+garbage	avfall (n); søppel (n); boss (n)
+garden	hage (m); have (m)
+gasoline	bensin
+gay	bøg (m)
+genocide	folkemord
+geography	geografi
+geometry	geometri (f)
+germanium	germanium
+geyser	geysir
+ghost	spøkelse (n); gjenferd; gjenganger; fantom (n); ånd; dauding; skrømt; gespenster; draug; sjel
+ginger	ingefær (m)
+give	gi 
+glacier	isbre (m)
+global warming	global oppvarming
+glove	vante (m); hanske (m)
+go	reise; fare; dra
+goalkeeper	målvakt (m)
+goblin	nisse
+god	gud (m)
+gold	gull (n)
+golden eagle	kongeørn
+goldfish	gullfisk
+golf	golf
+gondola	gondol
+gonorrhea	gonoré
+good	god; godt
+good day	god dag
+good luck	lykke til
+good night	god natt
+goodbye	adjø; farvel; avskjed; hadet bra; hadet; ses; snakkes; hei 
+google	google; googla 
+goose	gås
+gooseberry	stikkelsbær (n)
+goshawk	hønsehauk
+government	regjering
+grammar	grammatikk
+grandchild	barnebarn
+granddaughter	sønnedatter 
+grandfather	bestefar; morfar 
+grandmother	bestemor; mormor (m); farmor (m) 
+grandson	sønnesønn 
+grape	drue (m)
+grass	gress (n)
+grasshopper	gresshoppe (f)
+graveyard	kirkegård (m); gravlund; leggplass
+great spotted woodpecker	flaggspett
+great tit	kjøttmeis; talgmeis; talgokse (m)
+green	grønn
+green tea	grønn te
+green woodpecker	grønnspett
+grey	grå
+grey heron	gråhegre
+greylag goose	grågås
+griffon vulture	gåsegribb
+guava	guava
+guilt	skyld
+guinea fowl	perlehøne
+guinea pig	marsvin (n)
+guitar	gitar
+gull	måke (f)
+gypsy	sigøyner (m); sigøynerske (f)
+hafnium	hafnium
+hail	hagl (n)
+hair	hår
+hajj	hadj (m) 
+hammock	hengekøye (f)
+hamster	hamster (m)
+hand	hand; hånd (m)
+hangover	bakrus (m)
+happen	foregå; inntreffe; skje
+happiness	lykke (m); glede (m)
+happy	heldig
+happy birthday	gratulerer med dagen
+hard drive	platelager
+hare	hare (m)
+hashish	hasj
+hassium	hassium
+hat	hatt (m); lue
+hate	hate
+hatred	hat (n)
+have	ha
+hay	høy (n)
+he	han
+head	leder (m); sjef (m)
+health	helse
+hear	høre
+heart	hjerter (n)
+heaven	himmel (m); sky (m)
+hedgehog	piggsvin (n); pinnsvin (n)
+heel	hel (m)
+helicopter	helikopter (n)
+helium	helium
+hell	helvete (n)
+hello	hallo
+help	hjelpe
+hemp	hamp
+hen	høne
+her	henne 
+here	hit
+hero	helt (m)
+heron	hegre; heire (m)
+hi	hei
+hill	ås (m)
+his	hans; sin 
+history	historie (f)
+hit	slå
+holmium	holmium
+home	hjem (n); heim (n)
+homophobia	homofobi
+honey	honning (m)
+hoof	hov (m)
+hope	håpe
+hornet	geithams (m)
+horse	hest (m)
+horseshoe	hestesko (m)
+hospital	sykehus (n)
+hot	varm; het
+hotel	hotell
+hour	time
+house	hus (n)
+how are you	hvordan har du det
+how much does it cost	hvor mye koster det?; hva koster det?
+hug	klem (m)
+human	menneske
+human being	menneske (n)
+human rights	menneskerettigheter
+humanism	humanisme
+hundred	hundre
+hungry	sulten
+hunt	jakt
+hurricane	orkan
+husband	ektemann; husbond
+hydrate	hydrat (n)
+hydrogen	hydrogen; vannstoff
+hyena	hyene (m)
+ibex	steinbukk
+ice cream	iskrem (m); is (m)
+iceberg	isfjell; isberg
+icebreaker	isbryter
+idea	idé (m)
+idiom	idiom
+idiot	idiot (m)
+if	hvis; om; når
+igneous rock	magmatisk bergart
+ill	syk
+immigration	innvandring
+important	alvorlig; betydelig; viktig
+in	i
+index	innhold (m); indeks (m); innholdsfortegnelse (m)
+indium	indium
+infection	infeksjon (m)
+inflation	inflasjon
+information	informasjon (m)
+injury	skade (m)
+ink	blekk (n)
+insanity	sinnssykdom
+insect	insekt (n)
+insulin	insulin
+intelligence	intelligens (m)
+interest	interesse (m)
+interesting	interessant
+internal combustion engine	forbrenningsmotor
+interpreter	tolk
+intestine	tarm (m); tarmer
+iodine	jod
+iridium	iridium
+iron	strøk (f)
+is	er
+island	øy (m)
+it	det
+ivory	elfenben
+jackdaw	kaie
+jay	nøtteskrike 
+jellyfish	manet
+jihad	jihad (m)
+joule	joule
+journalism	journalistikk
+journey	reise
+judge	dommer (m)
+juice	juice; jus
+jump	hoppe
+juniper	einer (m)
+kangaroo	kenguru (m)
+kestrel	falk; hauk
+key	nøkkel (m)
+keyboard	tastatur (n)
+kill	drepe
+king	konge (m)
+kingdom	kongerike (n); kongedømme (n); kongeriket
+kiss	kysse
+kitchen	kjøkken (n)
+kitten	kattunge (m)
+knee	kne (n)
+knife	kniv (m)
+knight	ridder
+know	kjenne
+knowledge	kunnskap
+koala	koala (m)
+krypton	krypton
+ladybird	marifly; marihøne
+ladybug	marifly; marihøne
+lamb	lam (n)
+land	land (n)
+language	språk 
+lanthanum	lantan
+larch	lerk
+large	stor
+laser	laser (m)
+last	sist
+laugh	latter (m); lått (m)
+lava	lava
+law	lov (m)
+lawrencium	lawrencium
+lead	bly
+leaf	ark (n)
+leap	sprang; hopp; hoppe
+leap year	skuddår (n)
+learn	lære
+least weasel	snømus
+leave	forlate
+leek	purre; purreløk
+left	venstre
+leg	bein (n)
+lemon	sitron (m)
+lemon balm	hjertensfryd, sitronmelisse
+length	lengde
+leopard	leopard (m)
+lesbian	lesbe (m)
+lesser spotted woodpecker	dvergspett
+lesson	lekse, lærepenge, undervisningstime
+letter	brev (n)
+liar	løgner (m); løgnhals (m)
+library	bibliotek (n)
+lie	lyve; ljuge
+life	liv (n)
+light	lett
+light bulb	lyspære (m)
+light year	lysår
+lightning	lynglimt; blink
+like	lik; som
+limestone	kalkstein
+linguistics	lingvistikk
+lion	løve (m)
+lioness	løvinne
+lip	leppe
+lipstick	leppestift
+listen	høre
+literature	litteratur
+lithium	litium
+little	liten; liten
+little finger	lillefinger (m)
+little owl	kirkeugle
+live	bo
+lizard	øgle (f); firfisle
+lobster	hummer
+logic	logikk (m)
+long	hornugle
+look	se; skue
+louse	lus
+love	elske med
+lukewarm	lunken
+lunch	lunsj
+lung	lunge; lunga (f)
+lute	lutt (m)
+lutetium	lutetium
+lynx	gaupe
+machine gun	maskingevär
+machine language	maskinkode
+mackerel	makrell
+mad	gal; sprø
+magma	magma
+magnesium	magnesium
+maize	mais (m)
+mallard	stokkand
+mammal	pattedyr (n)
+man	menneske (n)
+manganese	mangan
+many thanks	tusen takk
+maple	lønn
+mare	hoppe (f)
+market	marked (n); markedsplass (m)
+marmot	murmeldyr
+marriage	ekteskap (n); giftemål (n)
+marsh	mersk (m)
+marten	mår
+masturbate	masturbere
+masturbation	onanering
+match	fyrstikk (m)
+maternal aunt	tante (m); moster (m)
+maternal grandfather	bestefar; morfar
+mathematics	matematikk
+maybe	kanskje
+me	meg
+meal	måltid
+meat	kjøtt (n)
+medicine	medisin (m)
+meitnerium	meitnerium
+melon	melon
+memory	hukommelse (m); minne (n)
+mendelevium	mendelevium
+meow	mjau
+mercury	kvikksølv
+mermaid	havfrue (m)
+message	melding (m)
+metal	metall (n)
+meter	meter (m)
+metre	meter (m)
+middle finger	langfinger (m)
+midwife	jordmor (m),(f)
+mill	mølle (m); mylna (f)
+million	million (m)
+millipede	tusenbein
+mind	forstand (m); intellekt (n)
+mine	mine (m)
+mineralogy	mineralogi
+mint	mynt
+minute	minutt (n)
+miracle	mirakel (n); under (n); underverk (n)
+mistake	feil (m); tabbe (m)
+moat	vollgrav
+mobile phone	mobiltelefon (m); mobil (m)
+mole	føflekk (m)
+molecule	molekyl (n)
+molybdenum	molybden
+monarchy	kongedømme (n); monarki (n)
+monastery	kloster (n)
+money	penger
+monk	munk (m)
+monster	monster (n); uhyre (n)
+month	måned
+moon	månen (m)
+mosque	moské (m)
+mosquito	mygg (m)
+moth	nattsvermer (m)
+mother	svigermor (f)
+mother tongue	morsmål (n)
+motorcycle	motorsykkel
+mouflon	mufflon
+mouse	mus (m); datamus (m)
+moustache	bart (m); mustasje (m)
+mouth	munn (m); kjeft
+much	mye
+mud	søle (f); gjørme (f); leire (m)
+mule	muldyr (n)
+murder	overlagt; drap (n)
+murderer	morder (m)
+muscle	muskel
+museum	museum
+mushroom	sopp
+music	musikk (m)
+musical instrument	musikkinstrument (n)
+muskrat	bisamrotte
+must	måtte
+mustard	sennep 
+my	min (m); mi (f); mitt (n); mine
+my name is	jeg heter...; mitt navn er...
+mystery	mysterium (n)
+nail	spiker (m)
+naked	naken
+name	navn (n); ry (n)
+narrow	smal
+nation	nasjon (m)
+nationalism	nasjonalisme
+nature	natur (f)
+navel	navle (m)
+navy	marine (m)
+necessary	nødvendig
+neck	hals (m)
+necklace	halsbånd (n)
+necktie	slips (n)
+need	trenge
+needle	nål (m); strikkepinne (m) 
+neighbour	nabo (m)
+neodymium	neodym
+neon	neon
+neptunium	neptunium
+neutrino	neutrino (m)
+never	aldri
+new	ny
+newspaper	avis
+next	neste
+nickel	nikkel
+night	natt (m)
+nightingale	sørnattergal
+nightmare	mareritt (n)
+nine	ni
+nineteen	nitten
+ninety	nitti
+niobium	niob
+nipple	patte (f)
+nit	gnett
+nitrogen	nitrogen
+no	forbudt (preceded by a verbal noun)
+no one	ingen
+no smoking	røyking forbudt
+nobelium	nobelium
+nobody	ingen
+non	ikke-statlig organisasjon
+nonkilling	ikkedrap
+north	nord
+notebook	skrivebok
+nothing	ingenting; inget
+noun	substantiv (n)
+nude	naken
+number	antall; tall
+nurse	sykesøster (f); pleier (m); pleierske (m)
+nut	nøtt; nòt (f)
+nutcracker	nøtteknekker
+oak	eik (f)
+oak tree	eik (f)
+oar	åre
+oat	havre (m)
+oath	ed (m)
+obedience	lydighet
+obesity	fedme
+object	objekt (n); ting (m); gjenstand (m)
+oboe	obo (m)
+octopus	blekksprut (m); akkar (m)
+oesophagus	øsofag (m)
+of	av; til; -s
+of course	selvsagt; naturligvis; selvfølgelig
+office	kontor (n)
+often	ofte; hyppig
+oil	olje (m); petroleum (m)
+old	gammel
+olive	oliven
+omelette	omelett (m)
+once upon a time	det var en gang
+onion	løk (m)
+open	åpne; lukke opp
+operating system	operativsystem
+opinion	mening; synspunkt (n)
+or	eller
+orange	appelsintre (n)
+order	ordre (m)
+ore	malm
+organ	organ
+orgasm	orgasme
+orphan	foreldreløst barn
+osmium	osmium
+other	annen (m); anna (f); annet (n); andre
+otter	oter
+our	vår
+ovary	eggstokk
+owl	ugle
+oxygen	oksygen; surstoff
+oyster	østers (m)
+paint	maling; lakk
+palace	palass (n)
+palladium	palladium
+palm	håndflate
+pancake	pannekake
+pancreas	bukspyttkjertel (m)
+paper	papir; ark
+paradox	paradoks
+parents	foreldre
+park	park
+parliament	Stortinget
+parrot	papegøye (m)
+part	del (m)
+particle physics	partikkelfysikk
+partridge	rapphøne
+party	parti (n)
+password	passord
+paternal aunt	tante (m); faster (m)
+paternal grandfather	bestefar; farfar
+patient	pasient (m)
+pawn	bonde (m)
+peace	fred; stillhet (n); ro
+peach	fersken (m)
+peacock	påfugl (m)
+peanut	peanøtt (f); jordnøtt (f)
+pear	pæretre (n)
+pearl	perle
+pen	penn (m)
+pencil	blyant
+penguin	pingvin (m)
+penicillin	penicillin
+peninsula	halvøy (f)
+penis	penis; pikk
+people	folk (n)
+peregrine falcon	vandrefalk
+perestroika	perestrojka
+perhaps	kanskje; muligens
+perineum	mellomkjøtt (n); perineum
+periodic table	periodesystemet (n)
+person	person (m); menneske (n)
+petrol	bensin (m)
+pharaoh	farao (m)
+pharmacy	apotek (n)
+pheasant	fasan (m)
+philosopher	filosof (m)
+phoenix	føniks (m); ildfugl (m)
+phosphorus	fosfor
+photography	fotografi
+physics	fysikk (m)
+piano	piano (n)
+picture	maleri (n)
+pie	pai (m)
+piece	stykke (n)
+pig	svin (n); gris (m)
+piglet	grisunge (m); pattegris (m)
+pillow	pute
+pimp	hallik (m)
+pimple	kvise
+pin	knappenål
+pineapple	ananas (m)
+pink	rosa
+pirate	pirat (m)
+pizza	pizza
+place	sted (n)
+planet	planet (m)
+plant	plante (f)
+platinum	platina
+platypus	nebbdyr
+please	vær så snill
+pleasure	fornøyelse (m)
+plough	pløye
+plutonium	plutonium
+pocket	lomme
+poem	dikt 
+poison	gift (m)
+polar bear	isbjørn (m)
+polecat	ilder
+police	politi (m)
+polite	høflig
+politician	politiker (m)
+politics	politikk (m)
+polonium	polonium
+polygon	polygon
+poor	fattig; blakk 
+pope	pave (m)
+poppy	valmue (m)
+porcupine	hulepinnsvin
+pornographic	pornografisk
+pornography	pornografi (m)
+positron	#Norwegian'positron
+post office	postkontor (n); posthus (n)
+postcard	brevkort
+postcode	postnummer
+postmodernism	postmodernisme
+potassium	kalium
+potato	potet (m)
+pound	pund (n)
+poverty	fattigdom
+power	makt; innflytelse
+praseodymium	praseodym
+pray	be
+prayer	bønn
+pregnancy	svangerskap
+pregnant	gravid; svanger 
+preposition	preposisjon (m)
+prepuce	forhud (m)
+president	president (m)
+pretty	pen; vakker
+price	pris
+priest	prest
+prime minister	statsminister (m)
+prime number	primtall
+prince	prins (m)
+prison	fengsel (n)
+problem	problem (n)
+programming language	programmeringsspråk (n)
+promethium	promethium
+pronoun	pronomen
+pronunciation	uttale (m)
+property	eiendom (m); løsøre (n); lausøyre (m)
+prophet	profet (m)
+prostitute	prostituert (m)
+protactinium	protactinium
+protect	sikre; dekke; gardere
+proton	proton
+proverb	ordtak
+pulsar	pulsar (m)
+pumice	pimpstein
+pupil	elev (m)
+purgatory	skjærsilden; purgatoriet
+purple	lilla; fiolett
+push	dytte; skubbe
+pussy	fitte; kuse; mus
+quail	vaktel (m)
+queen	dronning (f)
+question	spørsmål
+question mark	spørsmålstegn (n)
+quickly	fort
+quiet	stille
+quotation marks	anførselstegn, gåseauge [«◌»] 'or' [„◌”]
+rabbit	kanin (m)
+raccoon	vaskebjørn (m)
+racism	rasisme (m)
+radon	radon (n)
+railway	jernbane (m)
+rain	regne
+rainbow	regnbue
+rake	rake (m)
+ram	saubukk (m) 
+rape	voldtekt
+raspberry	bringebærbusk (m)
+rat	rotte (f)
+raven	ravn
+read	lese
+reason	grunn
+recent	nylig
+recipe	oppskrift
+red	rød
+red deer	hjort
+refrigerator	kjøleskap (n)
+reindeer	reinsdyr (n)
+religion	religion (m); trosretning (m)
+reptile	reptil (n); krypdyr
+republic	republikk (m)
+respect	respekt
+restaurant	restaurant (m)
+revenge	hevn
+rhenium	rhenium
+rhodium	rhodium
+rice	ris (m)
+rich	rik
+right	rett; rettighet
+ring	ring (m)
+ring finger	ringfinger (m)
+river	flod (m); elv (m); å (m)
+road	vei (m); veg (m)
+robot	robot
+rock	stein (m)
+rock dove	klippedue
+rodent	gnager (m)
+roe deer	rådyr (n)
+roof	tak (n)
+rook	tårn
+room	rom (n); plass (m)
+rooster	hane (m)
+root	rot
+rope	tau (n)
+rose	rose (f)
+rubidium	rubidium
+run	løpe; springe
+ruthenium	ruthenium
+rutherfordium	rutherfordium
+rye	rug (m)
+sack	sekk (m); pose (m)
+sacrifice	offer (n)
+sad	trist; lei seg
+sailing ship	seilskip (n)
+sailor	matros (m), sjømann (m), seiler (m)
+salary	lønn
+saliva	spytt (n)
+salmon	laks (m)
+salt	salt (n); bordsalt (n)
+samarium	samarium
+same	samme
+sand	sand (m)
+sandwich	sandwich; smørbrød
+sapphire	safir (m)
+sauce	saus (m)
+sausage	pølse
+save	redde
+scales	vekt (f)
+scandium	scandium
+scar	arr (n)
+scarlet	skarlagen (n)
+schizophrenia	schizofreni
+school	fakultet (n)
+science	vitenskap
+scissors	saks
+scorpion	skorpion (m)
+screech owl	tårnugle
+screwdriver	skrujern; skrutrekker
+scythe	ljå (m)
+sea	hav (n)
+seaborgium	seaborgium
+seagull	måke (m)
+seal	sel (m)
+season	årstid; sesong (m)
+second	andre (n)
+secret	hemmelig; skjult
+sect	sekt (m)
+see	se
+selenium	selen
+sell	selge
+semen	sæd (m)
+send	sende
+sentence	setning
+seven	sju; syv
+seventeen	sytten
+seventy	sytti
+sex	kjønn (n)
+sexual intercourse	kjønnslig omgang (m); samleie (n)
+sexual orientation	seksuell orientering
+shadow	skygge (m)
+shark	hai (m)
+sharp	skarp
+she	hun (f)
+sheep	sau (m); får (n)
+shield	skjold (n)
+shit	dritt (m); skitt (m); avføring (m); bæsj (m); skit (m); møkk; ekskrement (n); lort (m)
+shoe	sko
+shop	butikk (m); forretning (m)
+shop window	butikkvindu (n)
+shout	rope
+show	vise
+shower	dusj
+shrew	spissmus
+shrine	skrin; helgenskrin
+sick	syk
+sickle	sigd (m)
+sieve	sikt 
+signature	underskrift (f)
+silence	stillhet (m); ro (m); taushet (m); togn
+silicon	silisium
+silkworm	silkeorm
+silver	sølv
+sin	synd
+sing	synge
+singer	sanger (m); sangerinne (m)
+sister	søster; storesøster; lillesøster 
+sit	sitte
+six	seks
+sixteen	seksten
+sixth	sjette
+sixty	seksti
+skeleton	skjelett
+skin	hud (m); skinn (n); ham (m)
+skirt	skjørt (n)
+sky	himmel (m)
+skyscraper	skyskraper
+slave	slave; trell
+sleep	søvn (m)
+slow	langsom (m); langsomt (n); langsomme
+small	liten; ung
+smell	lukte
+smile	smil (n)
+smoke	røyk (m)
+snail	snegle (f)
+snake	slange (m); orm (m)
+snow leopard	snøleopard
+snowflake	snøfnugg
+soap	såpe; såpa
+soccer	fotball (m)
+socialism	sosialisme (m)
+sock	sokk (m)
+sodium	natrium
+sofa	sofa
+software	programvare (m)
+solar wind	solvind (m)
+solitude	ensomhet 
+something	noe
+sometimes	av og til; noen ganger; tidvis
+son	svigersønn; måg
+sonnet	sonett
+soon	snart
+sorry	unnskyld; beklager
+soul	sjel (m)
+sound	lyd (m)
+sour	sur
+spacecraft	romskip
+spaceship	romskip (n)
+spacetime	romtid
+spade	spade (m)
+sparrow	spurv; gråspurv (m)
+sparrow hawk	spurvehauk
+speak	snakke
+spectacles	briller (m)
+speech	tale (m); stemme (m)
+sphere	sfære (m)
+spice	krydder
+spider	edderkopp (m); edderkopper (m)
+spiderweb	edderkoppsilke
+spleen	milt (m)
+spouse	ektefelle (m); ektemake (m)
+spring	fjær (m)
+spy	spion (m)
+squid	akkar (m)
+squirrel	ekorn (n)
+stairs	trapp
+stallion	hingst (m)
+stand	stå; standa
+star	stjerne (m); kjendis (m)
+starling	stær
+state	tilstand
+statistics	statistikk
+steel	stål (n)
+stepfather	stefar (m)
+stepmother	stemor (f)
+stick	kjepp (m)
+stomach	mage (m); buk (m)
+stone	stein (m)
+stork	stork
+storm	storm
+strange	merkelig; sær; rar
+strawberry	jordbærplante (m)
+street	gate
+string	streng
+strontium	strontium
+stupid	dum
+submarine	ubåt (m)
+suck	suge
+sugar	sukker (n)
+suicide	selvmord (n); selvdrap (n)
+suitcase	koffert (m)
+sulfur	svovel (m)
+summer	sommer
+sun	sol
+superstition	overtru
+swallow	svelge
+swastika	hakekors (n); svastika (m)
+sweet	søt
+sweet potato	søtpotet
+sweetener	søtningsmiddel
+swim	bade; svømme
+swimming pool	svømmebasseng, basseng
+swordfish	sverdfisk
+system	system (n)
+table	tabell (m)
+tadpole	Rumpetroll
+taiga	taiga
+tail	hale (m)
+take	ta; gripe
+talent	talent (m)
+talk	snakke; preke
+tank	stridsvogn
+tantalum	tantal
+taste	smak (m)
+tattoo	tatovering (m)
+tawny owl	kattugle
+tax	skatt (m); (m)
+taxi	taxi; (m) drosje
+tea	te
+teacher	lærer (m); lærerinne (f); (m)
+tear	tårer
+technetium	technetium
+teenager	tenåring
+telepathy	telepati, tankeoverføring, tankelesning
+telephone	telefon (m)
+telescope	teleskop (n)
+tellurium	tellur
+temperature	temperatur (m)
+ten	ti
+tent	telt
+terbium	terbium
+terrorism	terrorisme
+textbook	lærebok
+thallium	thallium
+than	enn
+thank you	takk
+thank you very much	mange takk
+thanks	takk
+the	det (n); den (m); de; -en (m); -a (f); -i (f); -et (n); -ene (m); -ane (m); -one (f); -a (n); -i (n); -ene (n)
+theater	teater (n)
+theft	tyveri (n)
+their	deres; sin; sine 
+then	da; den gang
+theology	teologi
+there	der
+there is	det er
+they	de
+thigh	lår (n)
+thing	ting; dings; greie (m)
+think	tenke
+third	tridje 
+thirst	tørste
+thirsty	tørst
+thirteen	tretten
+thirty	tredve
+this	denne (m); dette (n); disse
+thorium	thorium
+thorn	torn (m)
+thou	du
+thousand	tusen
+thread	tråd (m)
+three	tre; tri
+throat	hals (m)
+throne	trone
+thulium	thulium
+thumb	tommel (m)
+tick	flått (m)
+tiger	tiger (m)
+time	tid
+tin	tinn
+tit	meis 
+titanium	titan
+to	til
+toad	padder
+today	i dag
+toe	tå
+together	sammen; i lag
+toilet	bad (n)
+tomorrow	i morgen
+tongue	tunge
+tonight	i kveld
+too	for; altfor
+tool	verktøy (n)
+tooth	tann
+tortoise	skilpadde; skjelpadde
+touch	berøre
+tourism	turisme
+town	by
+train	tog
+tram	trikk; sporvogn (f)
+translate	oversette
+travel	reise (m)
+treasure	skatt (m); skatt (m)
+tree	tre (n)
+tricycle	trehjulssykkel
+trousers	bukser; brok
+trumpet	trompet (m)
+try	prøve; forsøke
+tungsten	wolfram
+turban	turban
+turkey	kalkun (m)
+turtle dove	turteldue
+twelve	tolv
+twenty	tjueen
+two	to
+typhoon	tyfon (m)
+tyre	dekk
+ugly	stygg; frastøtende
+understand	forstå; skjønne; kunne
+unemployment	arbeidsledighet
+unicorn	enhjørning (m)
+universe	univers (n)
+university	universitet (n)
+uranium	uran
+urethra	urinrør
+useful	nyttig
+vagina	skjede (m)
+valley	dal (m)
+value added tax	merverdiavgift
+vampire	vampyr (m)
+vanadium	vanadium
+vandalism	hærverk
+verb	verb
+very	veldig
+video game	videospill
+village	landsby; torp (n)
+vinegar	eddik
+violin	fiolin (m)
+virgin	jomfru (f)
+virus	virus
+visa	visum
+vocative case	vokativ (m)
+vodka	vodka
+voice	stemme (m)
+volcano	vulkan (m)
+vomit	kaste opp; spy; brekke seg
+vulture	gribb (m)
+wait	vente med
+waiter	kelner (m)
+wake up	våkne
+walk	gå; spasere
+wall	voll (m)
+wallet	lommebok (m)
+want	ville; ønske
+war	krig (m)
+warship	orlogsfartøy (n)
+wart	vorte
+wash	tvette; vaske
+wasp	veps (m)
+watch	klokke; ur
+water	vanne
+waterfall	foss (m)
+watermelon	vannmelon
+wave	bølge (m)
+wax	voks
+weather	vær (n); vêr (n)
+web site	nettside (m)
+wedding	bryllup (n)
+weed	ugress (n)
+weep	grett (f)
+welcome	velkommen
+well	bra
+werewolf	varulv (m)
+wet	våt; bløt
+whale	hval (m)
+what	hva
+what time is it	hvor meget er klokken 
+when	når
+where	hvor
+where is the toilet	hvor er toalettet 
+whip	pisk
+whiskey	whisky
+whisky	whisky
+who	hvem
+whole	hel
+whore	hore (f)
+wide	vid; bred
+wife	hustru; kone; frue
+wig	parykk
+wiki	wiki
+wild boar	villsvin
+wildcat	villkatt; skogkatt
+willow	vier (m); vierslekt (m); viere
+win	vinne
+wind	vind (m)
+wine	vin
+wire	ledning (m)
+wise	vis
+wisent	europeisk bison
+witch	heks (f); heksa (f)
+with	med
+without	uten
+wolf	ulv (m); varg (m); (f) ulvinne (f) 
+woman	kvinne; dame
+wood	tre (n); treverk (n)
+woodpecker	hakkespett (m)
+word	ord (n)
+world	verden (m)
+worm	mark (m); makk (m); orm (m)
+wound	sår (n); skade (m)
+wrist	håndledd (n)
+write	skrive
+writer	forfatter (m); skribent (m)
+xenon	xenon
+xenophobia	xenofobi; fremmedfrykt (m)
+year	år (n)
+yeast	gjær (m)
+yellow	gul
+yes	ja
+yesterday	i går
+yew	barlind
+yoghurt	jogurt (m); yoghurt (m)
+young	ung
+your	dine
+ytterbium	ytterbium
+yttrium	yttrium
+zebra	sebra (m)
+zero	null
+zinc	sink
+zirconium	zirkonium

@@ -1,0 +1,8 @@
+﻿English	Indonesian
+and	dan
+because	karena
+for	sebab
+if	kalau
+or	atau
+than	daripada
+until	sampai

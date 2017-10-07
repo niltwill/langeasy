@@ -1,0 +1,17 @@
+﻿English	Italian
+against	contro
+among	in mezzo a
+at	a
+at	a
+beside	a fianco di
+during	durante
+for	per
+into	in
+of	da
+on	a
+on	a
+since	da
+to	verso
+with	con
+with	con
+without	senza

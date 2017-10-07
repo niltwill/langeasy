@@ -1,0 +1,7 @@
+Hungarian	﻿English
+és	and
+mert	because
+ugyanis	for
+ha	if
+vagy	or
+mint	than

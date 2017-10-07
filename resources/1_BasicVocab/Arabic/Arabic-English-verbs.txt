@@ -1,0 +1,244 @@
+Arabic	﻿English
+كان	be
+بدأ	begin
+كسر	break
+اشترى	buy
+أغلق	close
+جاء	come
+قطع	cut
+رقص	dance
+يرسم	draw
+شرب	drink
+أكل	eat
+سقط	fall
+شعر	feel
+وجد	find
+أطلق النار	fire
+طار	fly
+تبع	follow
+ينسى، لا يتذكر	forget
+حصل	get
+أعطى	give
+ملك	have
+يسمع	hear
+ساعد	help
+رجا	hope
+قفز	jump
+قبل	kiss
+ضحك	laugh
+تعلم	learn
+يضطجِع، يتمدد	lie
+أحب	like
+استمع	listen
+رأى	look
+يفقِد، يخسر	lose
+أحب	love
+جعل	make
+يصادِف، يلتقي صدفةً	meet
+حرك	move
+احتاج	need
+أهدى	offer
+فتح	open
+لعب	play
+سحب	pull
+دفع	push
+وضع	put
+يقرأ	read
+يتذكر	remember
+جرى	run
+قال	say
+باع	sell
+غنى	sing
+جلس	sit
+ابتسم	smile
+سبح	swim
+أخذ	take
+تحدث	talk
+يفهم	understand
+استخدم	use
+ينتظِر	wait
+كتب	write
+وافق	accept
+يتهِم	accuse
+يتِم ، يحقِق، ينجِز	achieve
+تحرك	act
+يعترِف بِ	admit
+يتفِق مع	agree
+يعلِن حضور شخص	announce
+جدال	argue
+وصل	arrive
+يسأل	ask
+هاجم	attack
+تجنب	avoid
+يعيش	be
+يحمِل	bear
+انتصر	beat
+أصبح	become
+يفيد، ينفع	benefit
+عض	bite
+يبني	build
+أشعل	burn
+اتصل	call
+اهتم	care
+النقل	carry
+أمسك	catch
+دفع	cause
+غير	change
+يحدد	choose
+رتب	classify
+نظف	clean
+يقارِن	compare
+يحتوي	contain
+يستمِر	continue
+تحكم	control
+طبخ	cook
+نسخ	copy
+سعل	cough
+حطم	crush
+سحق, ضغط	crush
+بكى	cry
+يقرِر	decide
+يصِف	describe
+صمم	design
+أراد	desire
+يموت	die
+يكتشِف	discover
+يناقِش، يبحث، يتباحث	discuss
+فصل	divide
+شك	doubt
+يسوق	drive
+احتوى	embrace
+يشجِع	encourage
+أنهى	end
+يعزِز، يزيد جمال الشيء	enhance
+يستمتِع بِ	enjoy
+يدخل	enter
+يؤسِس، يقيم، ينشِئ	establish
+خمن	estimate
+جاوز	exceed
+يوجد	exist
+ينتظِر	expect
+شرح، فسر	explain
+قاتل	fight
+الملء	fill
+يكتشِف	find
+أكمل	finish
+سوى	flush
+حرر	free
+up استسلم (istáslama)	give
+ينمو	grow
+يحدث لِ	happen
+كره	hate
+تقنع	hide
+القبضة	hold
+يتعرف على ، يثبِت هوية	identify
+يشمل، يشتمِل	include
+زاد	increase
+جرح	injure
+قدم	introduce
+جمع	join
+حافظ	keep
+ركل	kick
+يقتل	kill
+حط	land
+دام	last
+قاد	lead
+يترك، يدع	leave
+ترك	let
+رفع, ارتفع	lift
+حدد	limit
+يشحن ، يحشو سِلاحا نارياً	load
+أقفل	lock
+بدا	look
+يخسر	lose
+يدير شؤون	manage
+يتزوج	marry
+طابق	match
+يعني	mean
+ينوي، يعتزِم	mean
+قاسي	measure
+يشير إلى	mention
+يفوته، لا يلحق	miss
+الرمية الخاطئة	miss
+سمى	name
+أمر	order
+ملك	own
+قشر	peel
+يقرِر على ، ينوي، يعتزِم	plan
+حرث	plow
+سمم	poison
+لمع	polish
+جهز	prepare
+يضغط بإصبعِه	press
+يمنع	prevent
+طبع	print
+أجرى	process
+استفاد	profit
+احتج	protest
+يبرهِن	prove
+ينشر، يصدِر	publish
+ربى	raise
+قيم	rate
+وصل	reach
+يستلِم	receive
+سجل	record
+يقلِل	reduce
+يعكِس	reflect
+رفض	refuse
+يزيل، يبعِد	remove
+أعاد	render
+أجاب	reply
+يقدِم تقريرا	report
+يمثِل	represent
+طلب	request
+احترم	respect
+ارتاح	rest
+يظهِر، يفشي، يكشِف	reveal
+يخاطِر، يجازِف	risk
+off دور	round
+حكم	rule
+يوفِر، يدخِر	save
+الإنقاذ	save
+شاهد	see
+أرسل	send
+يخدم في الجيش	serve
+عقد	sew
+يتشارك	share
+صرخ	shout
+عرض	show
+اصطدم	smash
+أصدر رائحة طيبة	smell
+أصدر رائحة بشعة	smell
+شم	smell
+دخن	smoke
+يقضي	spend
+يقِف	stand
+يبقى، يمكث	stay
+سرق	steal
+توقف	stop
+درس	study
+تألم (ta’állama)	suffer
+يقترِح	suggest
+يزوِد، يعطي	supply
+دعم	support
+فاجأ	surprise
+تذوق	taste
+علم	teach
+جرب	test
+يشكر	thank
+رمى	throw
+تاجر	trade
+درب	train
+ذهب	travel
+يعالِج	treat
+خدع	trick
+حاول	try
+التف	turn
+يزور	visit
+مشى	walk
+سخن	warm
+غسل	wash
+شاهد	watch
+يلبِس، يرتدي	wear
+وزن (wázana)	weigh
+ربح	win

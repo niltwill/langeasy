@@ -1,0 +1,215 @@
+﻿English	Dutch
+another	ander
+bad	slecht
+basic	basis-
+beautiful	mooi
+best	best
+better	beter
+big	groot
+clean	schoon
+cold	koud
+correct	correct, juist
+dark	donker
+deep	diep
+difficult	moeilijk
+dirty	onrein
+fast	snel, vlug
+good	goed
+great	0
+great	mieters
+happy	gelukkig, blij
+healthy	gezond
+heavy	zwaar, zware
+high	hoog
+hot	heet
+important	0
+left	links
+light	licht, lichte
+little	gering
+long	lang, lange
+near	dichtbij
+new	nieuw
+nice	aardig
+open	open, geopend
+real	echt
+right	rechts, rechtse
+sharp	scherp
+similar	gelijk
+slow	langzaam
+soft	zacht
+strong	sterk
+weak	zwak
+wrong	onjuist
+acid	zuur
+after	aan
+ago	geleden
+all	al, alle
+any	een
+automatic	automatisch
+available	beschikbaar
+bitter	bitter
+boring	vervelend
+both	beide, allebei
+bright	helder
+broken	gebroken
+central	centraal
+certain	zeker
+cheap	goedkoop, goedkope
+chemical	chemisch
+clear	duidelijk
+closed	gesloten
+color	kleur
+common	gewoon
+common	gemeen, overeenkomst
+complete	volledig, compleet
+conscious	welbewust
+cruel	barbaars
+current	tegenwoordig
+dangerous	gevaarlijk, gevaarlijke
+delicate	fijn
+deplorable	0
+different	anders
+different	0
+different	anders
+down	onder
+dry	droog
+each	elk
+early	vroeg
+easy	makkelijk
+economic	economisch
+economic	economisch
+electric	elektrisch
+equal	gelijke
+even	even
+even	vlak
+every	ieder, elk
+excellent	uitstekend
+fake	vals
+false	vals
+far	ver, ver
+fat	vet, vette
+fat	vettig
+few	weinig
+final	finaal
+financial	financieel
+firm	stevig
+first	eerst
+fixed	vast
+flat	vlak, plat
+following	volgende
+foreign	buitenlands, vreemd
+former	vroegere
+fragile	broos
+free	gratis
+frequent	frequent, frequente
+fresh	fris
+front	voorste
+full	vol
+full	totaal
+further	verder
+future	toekomstig
+general	algemeen
+good	0
+industrial	industrieel
+interesting	interessant
+international	internationaal, internationale
+last	laatste
+late	laat
+legal	wettig
+light	dieet
+liquid	vloeistof, vloeibaar
+local	plaatselijk
+loud	luid, luide
+low	laag
+lucky	gelukkig
+main	hoofdzakelijk, hoofdzakelijke
+major	0
+many	velen
+metal	metalen
+military	militair
+minute	nietig
+modern	0
+more	meer
+much	veel
+narrow	nauw
+national	vaderlands
+natural	natuurlijk
+necessary	nodig
+next	aangrenzend
+no	geen
+normal	normaal
+off	van
+on	tot
+opposite	tegenovergesteld
+original	origineel
+other	ander
+own	eigen
+parallel	parallel
+particular	bijzonder
+past	voorbij
+personal	persoonlijk
+physical	lichamelijk
+political	politiek
+poor	arm
+popular	0
+possible	mogelijk, mogelijke
+present	tegenwoordig
+previous	vorig
+private	besloten
+probable	waarschijnlijk
+professional	professioneel
+public	[het] publiek
+quiet	stil, zwijgzaam
+ready	klaar
+recent	0
+regular	regelmatig, regelmatige
+responsible	verantwoordelijk, verantwoordelijke
+rigid	onbuigzaam
+rough	onbehouwen
+round	rondschrijven, ronde
+safe	veilig
+same	hetzelfde
+second	tweede
+secret	geheim
+separate	afzonderlijk
+serious	ernstig, degelijk
+set	vastgesteld
+several	verscheidene
+short	kort, korte
+silent	stil
+silver	zilverkleurig, zilverkleurige
+simple	eenvoudig
+single	enkel
+small	klein, een beetje
+smooth	glad
+social	0
+solid	solide
+sparse	dun
+special	bijzonder
+specific	specifiek
+square	vierkant
+squeamish	teer
+standard	normaal
+sticky	kleverig
+straight	recht, rechte
+strange	raar
+stylish	modieus
+sudden	plotseling, plotselinge
+sweet	zoet
+tall	(thing) hoog, (person) lang
+thick	dicht
+thin	dun
+tight	dicht
+true	waar, echt
+ugly	lelijk
+under	onder
+unusual	ongewoon
+used	0
+useful	0
+usual	0
+usual	gewoon
+various	divers
+warm	hartelijk
+wet	nat, natte
+whole	geheel
+wide	wijd

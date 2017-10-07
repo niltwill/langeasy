@@ -1,0 +1,516 @@
+Hindi	English
+अफ़र	Afar ; Afar
+अफ्रीकांस	Afrikaans
+अल्बानिया	Albania ; Republic of Albania
+अल्जीरिया	Algeria ; People's Democratic Republic of Algeria
+आल्प्स	Alps
+अन्डोरा	Andorra ; Principality of Andorra
+ऐंगुइला	Anguilla
+एन्टिगुवा और बर्बुडा	Antigua and Barbuda
+अप्रैल	April
+अरबी	Arabic ; Standard Arabic
+अर्जेन्टीना	Argentina ; Argentine Republic
+आर्मीनिया	Armenia
+आरमीनियन	Armenian
+असमिया ; אסאמית ; आसामी	Assamese ; Assamese
+अगस्त	August
+ऑस्ट्रेलिया	Australia ; Commonwealth of Australia
+ऑस्ट्रिया	Austria ; Republic of Austria
+अज़रबैजान	Azerbaijan ; Republic of Azerbaijan
+बहरीन	Bahrain
+बांग्लादेश	Bangladesh ; People's Republic of Bangladesh
+बेल्जियम	Belgium ; Kingdom of Belgium
+बैलग्रेड	Belgrade
+बेलीज़	Belize
+बंगाली	Bengali ; Bengali
+बेर्मूडा द्वीपसमूह	Bermuda
+भूटान	Bhutan ; Kingdom of Bhutan
+बोलीविया	Bolivia ; Republic of Bolivia
+बोत्सवाना	Botswana ; Republic of Botswana
+ब्रास़ील	Brazil
+ब्रुनेई	Brunei ; Negara Brunei Darussalam
+बुल्गारिया	Bulgaria ; Republic of Bulgaria
+बुलगारी	Bulgarian ; Bulgarian
+बुरुन्डी	Burundi ; Republic of Burundi
+क़ाहिरा	Cairo
+कम्बोडिया	Cambodia ; Kingdom of Cambodia
+कैनेडा	Canada
+स्पैनिश	Castilian ; Spanish ; Spanish
+केमन द्वीप-समूह	Cayman Islands
+चैड	Chad ; Republic of Chad
+चेचेन	Chechen ; Chechen
+चिली	Chile ; Republic of Chile
+क्रोएशिया	Croatia ; Republic of Croatia
+क्रोऐशयन	Croatian ; Croation
+क्यूबा	Cuba ; Republic of Cuba
+साइप्रस	Cyprus ; Republic of Cyprus
+चेक	Czech ; Czech
+डेनिश	Danish
+दिसम्बर	December
+डोमिनिकन गणराज्य	Dominican Republic
+डच	Dutch
+यूरोपीय संघ	EU ; European Union
+पूर्वी टीमोर	East Timor ; Democratic Republic of Timor-Leste
+मिस्र	Egypt ; Arab Republic of Egypt
+एल-साल्वाडोर	El Salvador ; Republic of El Salvador
+अंग्रेज़ी	English
+एरिट्रेया	Eritrea
+एस्पेरान्तो	Esperanto ; Esperanto
+एस्टोनिया	Estonia ; Republic of Estonia
+इथियोपिया	Ethiopia ; Federal Democratic Republic of Ethiopia
+फ़ौल्कलैन्ड द्वीपसमूह	Falkland Islands
+फ़िजी	Fiji ; Republic of the Fiji Islands
+फ़िनलैंड	Finland ; Republic of Finland
+फ़्राँस	France
+फ़्राँसीसी	French ; French
+फ़्रांसिसी	Frenchman
+फ़्रीज़ियन	Frisian ; Western Frisian
+गैबौन	Gabon ; Gabonese Republic
+गाम्बिया	Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia
+जोर्जिया	Georgia
+जिर्योजियन	Georgian ; Georgian
+घाना	Ghana ; Republic of Ghana
+ग्रीस	Greece ; Hellenic Republic
+ग्रीक	Greek ; Greek
+ग्रीनलैन्ड	Greenland
+ग्रेगोरी कैलंडर	Gregorian calendar
+गुआदेलूप	Guadeloupe
+गौम	Guam ; Guam ; Guam
+गौटेमाला	Guatemala ; Republic of Guatemala
+गुजराती	Gujarati ; Gujarati
+हइती	Haiti ; Republic of Haiti
+नव वर्ष मंगलमय हो	Happy New Year
+हीर्बूउ	Hebrew
+हिंदी ; हिन्दी	Hindi ; Hindi
+हॉण्डुरास	Honduras ; Republic of Honduras
+हन्गेरियन	Hungarian
+हंगरी	Hungary ; Republic of Hungary
+आइसलैन्ड	Iceland ; Republic of Iceland
+इंडिया	India ; Republic of India
+इंडोनिशया	Indonesia ; Republic of Indonesia
+इंडोनीशियन	Indonesian
+इंटरलिंगुआ	Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin
+ईरान	Iran ; Islamic Republic of Iran
+इराक़	Iraq ; Republic of Iraq
+आयरलैंड	Ireland ; Republic of Ireland
+इस्लाम	Islam
+इतालवी	Italian ; Italian
+इटली	Italian Republic ; Italy
+जकार्ता	Jakarta ; Djakarta ; DKI Jakarta
+जनवरी	January
+जापान	Japan ; State of Japan
+जापानी	Japanese ; Japanese
+यार्दन	Jordan ; Hashemite Kingdom of Jordan
+जूलाई	July
+जून	June
+कन्नड	Kannada ; Kannada
+क़ाज़ाक़	Kazakh ; Kazakh
+कज़ाख़स्तान	Kazakhstan ; Republic of Kazakhstan
+ख्मेर	Khmer ; Central Khmer
+कोरियन	Korean ; Korean
+लागोस	Lagos
+लाओस	Laos ; Lao People's Democratic Republic
+लातविया	Latvia ; Republic of Latvia
+लातवी	Latvian ; Latvian
+लाइबेरिया	Liberia ; Republic of Liberia
+लिस्बन	Lisbon
+लिथुएनिया	Lithuania ; Republic of Lithuania
+मैसिडोनिया	Macedonia ; Republic of Macedonia
+मैसेडोनियन	Macedonian ; Macedonian
+मैडागास्कर	Madagascar ; Republic of Madagascar
+मलावी	Malawi ; Republic of Malaŵi
+मलयालम	Malayalam ; Malayalam
+मलेशिया	Malaysia
+माल्टा	Malta ; Republic of Malta
+माओरी	Maori
+मायोत	Mayotte
+शुभ बड़ा दिन ; शुभ क्रिस्मस	Merry Christmas
+मिलानो	Milan
+मोल्दाविया	Moldova
+मोनैको	Monaco
+मोंट्सेराट	Montserrat
+मुम्बई	Mumbai ; Bombay
+म्यान्मार	Myanmar
+नैमीबिया	Namibia
+नेपाली	Nepali ; Nepali
+नया साल	New Year ; New Year's Day
+न्यूज़ीलैंड	New Zealand
+निकारागुआ	Nicaragua
+नॉर्वे	Norway ; Kingdom of Norway
+पाकिस्तान	Pakistan ; Islamic Republic of Pakistan
+चीन	People's Republic of China ; China
+फ़ारसी	Persian ; Western Farsi ; Farsi
+पेरू	Peru ; Republic of Peru
+पोलैंड	Poland
+पोलिश	Polish ; Polish
+पुर्तगाल	Portugal
+पोरच्युगीज	Portuguese ; Portuguese
+प्युर्तोरिको	Puerto Rico
+क़तर	Qatar
+रोमनी	Romanian ; Romanaian
+रोम	Rome
+रशियन	Russian ; Russian
+साँ-प्येर और मीकेलों	Saint-Pierre and Miquelon
+समोआ	Samoa
+संस्कृत	Sanskrit ; Sanskrit
+शनि	Saturn
+सऊदी अरब	Saudi Arabia ; Kingdom of Saudi Arabia
+सेनेगल	Senegal
+सिएरा लिओने	Sierra Leone
+सिन्धी	Sindhi ; Sindhi
+स्लोवाक	Slovak ; Slovak
+स्लोवाकिया	Slovakia
+स्लोवानी	Slovene ; Slovenian ; Slovenian
+सोमाली	Somali ; somali
+स्पेन	Spain
+श्रीलंका	Sri Lanka
+सूडान	Sudan
+स्वाहिली	Swahili
+स्वीडन	Sweden
+स्वीडिश	Swedish
+स्विट्ज़रलैंड	Switzerland
+टैगालौग	Tagalog
+ताइवान	Taiwan
+ताजिकिस्तान	Tajikistan
+तमिल	Tamil ; Tamil
+तंज़ानिया	Tanzania
+तातार	Tatar ; Tatar
+तेहरान	Tehran
+तेलुगु	Telugu ; Telugu
+थाई	Thai ; Thai
+थाईलैंड	Thailand
+टोगो	Togo
+तांगा	Tonga
+तुर्की	Turkey
+तुर्की	Turkish ; Turkish
+युगांडा	Uganda ; Republic of Uganda
+अमरीकी संयुक्त राष्ट्र	United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States
+उर्दू भाषा	Urdu ; Urdu
+वैटिकन शहर	Vatican City ; The Holy See ; State of the Vatican City
+वियेतनामी	Vietnamese ; Vietnamese
+वाशिंगटन	Washington
+विकिपीडिया	Wikipedia
+विकीशब्दकोश ; विक्षनरी	Wiktionary
+ज़ाम्बिया	Zambia ; Republic of Zambia
+ज़ूलू	Zulu
+संक्षिप्तीकरण	abbreviation
+घृणा करना	abhor ; loathe ; detest
+उन्मूलनवादी	abolitionist
+त्वरण	acceleration
+स्वीकृति	acceptance ; credence
+बंजुफल	acorn
+प्राप्ति ; उपार्जन	acquisition
+सक्रियतावादी	activist
+विशेषण	adjective ; describing word
+दत्तक ग्रहण	adoption
+पेशगी	advance
+साहसिक कार्य	adventure
+अलार्म घड़ी	alarm clock
+साथ से	alongside ; amongst ; with
+एलुमिनियम	aluminium
+राजदूत	ambassador
+एम्बुलैंस	ambulance
+समान	analogous
+अंधेर	anarchy
+चींटी	ant
+मानव-विज्ञानी	anthropologist
+मानव-विज्ञान	anthropology
+एन्टिमोनी	antimony
+हमेशा	anytime
+सेब	apple
+वास्तुकार	architect
+आर्गॉन	argon
+झगड़ा	argument
+युद्धविराम	armistice
+ढालना	arrange ; adapt ; adjust ; conform ; accommodate ; suit
+आगमन	arrival
+बाण	arrow
+संखिया	arsenic
+धमनी	artery
+कलाकार	artist ; creative person
+शतावरी	asparagus
+ऐस्पिरिन	aspirin
+अनुमान	assumption ; supposition
+दमा	asthma
+ज्योतिषी	astrologer
+खगोलशास्त्री	astronomer
+असममित	asymmetric ; asymmetrical
+अस्पर्शी उपगामी रेखा	asymptote
+अनीश्वरवादी ; नास्तिक	atheist
+नीलामी	auction
+लोलुप ; लालची	avaricious
+स्वयंसिद्ध	axiom
+बैबून	baboon
+निर्वाचन	ballot
+दिवालियापन	bankruptcy
+बेसबॉल	baseball ; baseball game
+तहख़ाना	basement
+बिस्तर	bed
+नाभि	belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus
+बेरिलियम	beryllium ; glucinium
+पेय	beverage ; drink
+सायकिल	bicycle ; bike ; cycle
+पित्त	bile
+जैवरसायनिकी	biochemistry
+ऊँट	bishop
+अंधा	blind
+छाला	blister
+ब्लॉग	blog ; weblog ; web log
+बोरोन	boron
+वनस्पति-विज्ञान	botany
+वनस्पति-विज्ञान	botany ; phytology
+नाश्ता	breakfast
+ब्रोमिन	bromine
+गोली	bullet
+काडमियम	cadmium
+काल्सियम	calcium
+कैलेन्डर	calendar
+लिखाई	calligraphy
+छद्यावरण	camouflage
+राजधानी	capital
+कार्बन	carbon
+व्यवसाय	career
+बिल्ली	cat
+परिच्छेद	chapter
+औषधकारक	chemist ; pharmacist
+केमिस्ट की दुकान	chemist's ; chemist's shop ; pharmacy
+शतरंज	chess
+चिम्पांज़ी	chimpanzee
+क्रोमियम	chromium
+शहनाई	clarinet
+कोबाल्ट	cobalt
+View lemma information ; जाल	cobweb
+आना	come
+पुच्छल तारा	comet
+साम्यवाद	communism
+सोच-विचार	consideration
+व्यंजन	consonant
+नक्षत्र	constellation
+ताम्र	copper
+भ्रष्टाचार	corruption
+गाय	cow
+बहरा	deaf
+मृत्युदंड	death penalty ; capital punishment ; death sentence
+नामे लिखना	debit
+निर्णय	decision
+एलान	declaration ; statement
+हरिण	deer
+अभियुक्त	defendant ; accused
+मरुस्थल	desert
+दस्त	diarrhea
+शब्दकोश ; कोश	dictionary
+हाजमा	digestion
+राजनयिक	diplomat
+छूट	discount
+करना	do
+कुत्ता	dog
+डॉल्फ़िन	dolphin
+दान	donation
+दरवाज़ा	door
+पीना ; सोखना	drink ; gulp ; quaff ; sip
+धूल	dust
+खाना	eat
+खाद्य	edible
+प्रयत्न	effort ; exertion
+दूतावास	embassy ; diplomatic mission
+आपत्काल	emergency
+रीता ; ख़ाली	empty
+अंदाज़ा	estimate
+अपवाद	exception
+मुखर	explicit
+विस्फोट	explosion
+आंख	eye
+भौंह	eyebrow
+सुविधा	facility
+गर्भाधान	fertilisation ; fecundation
+उंगली	finger
+फ्लोरिन	fluorine
+फव्वारा	fountain
+ढोंग	fraud
+स्वतंत्रता	freedom ; liberty
+बुनियादी	fundamental
+गालियम	gallium
+गैराज	garage
+वंशावली	genealogy
+जर्मेनियम	germanium
+गीजर	geyser
+सोना	gold
+हंसी	goose
+गुरिल्ला	gorilla
+राज्यपाल	governor
+व्याकरण	grammer ; grammar
+भ्रांति	hallucination
+रुमाल	handkerchief
+महल-सरा ; हरम-सरा	harem
+धान्य	harvest
+हीलियम	helium
+घर	home ; home ; house
+आशा	hope
+क्षितिज	horizon
+घोड़ा	horse
+घंटा	hour
+हाइड्रोजन	hydrogen
+जाहिल	illiterate
+आज़ादी	independence
+इण्डियम	indium
+औपसर्गिक रोग	infectious disease ; communicable diseases
+नज़ला	influenza ; flu
+लोहम्	iron
+सियार	jackal
+केतली	kettle
+गुर्दा	kidney
+नारियल	kokosnoot ; coconut
+क्रिप्टन	krypton
+लालटेन	lantern
+लीप वर्ष	leap year
+पांव ; पैर ; पाया	leg
+दाल	lentil
+आलस्य	lethargy ; sluggishness ; languor
+लाइब्रेरियन	librarian
+लिथियम	lithium
+रेल-इंजन	locomotive
+लकड़हारा	lumberjack
+मलेरिया	malaria
+मंगनीज	manganese
+आम	mango
+महापौर	mayor
+पारद	mercury
+माइक्रोफ़ोन	microphone
+दूध	milk
+नाबालिग	minor
+मोलिब्डेनम	molybdenum
+मसजिद	mosque
+सास	mother-in-law ; mother in law
+प्रसूति	motherhood ; maternity
+नैपकिन	napkin
+कलोट	nappy
+पड़ोसी	neighbour ; vecino
+नियोन	neon
+निकेल	nickel
+नाइट्रोजन	nitrogen
+नहीं	no
+नथुना	nostril
+संज्ञा	noun ; substantive
+कथा	novel
+सरौता	nutcracker
+मेदुरता	obesity
+प्रेक्षण	observation
+जंतर-मंतर	observatory
+अप्रचलित	obsolete
+बाधा	obstacle ; obstruction
+जैतून	olive
+प्याज़	onion
+अहिफेन	opium
+आशावाद	optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism
+תזמורת ; गानवाद्य-मंडली	orchestra
+अनाथ ; यतीम	orphan
+ओषजन	oxygen
+ओजोन	ozone
+पलाडियम	palladium
+पैराशूट	parachute
+पेन्गुइन	penguin
+निराशावाद	pessmism
+याचिका	petition
+दर्शन	philosophy
+दूरभाष ; टेलीफ़ोन	phone ; telephone
+फास्फोरस	phosphorus
+तस्वीर	photo ; photograph
+कबूतर	pigeon ; dove
+स्थान	place ; location
+खेडी	placenta
+प्लुटोनियम ; प्लुटोनियम ; प्लुटोनियम	plutonium ; plutonium ; plutonium
+प्रदुषण	pollution
+अनार	pomegranate
+क़ब्ज़ा	possession
+डाकखाना	post office
+पोटासियम	potassium
+आलू	potato ; patato
+राजकुमार	prince
+समस्या	problem
+उच्चारण	pronunciation
+परिसंपति	property ; asset
+मनोविज्ञान	psychology
+ख़रगोश	rabbit
+रेडन	radon
+धर्म	religion
+चावल	rice
+रुबिडियम	rubidium
+माणिक्य	ruby
+रुथेनियम	ruthenium
+पाल-नौका	sailing ship
+नीलम	sapphire
+स्काण्डियम	scandium
+पेच	screw
+सेलेनियम	selenium
+सीना	sew
+भेड़	sheep
+गड़ेरिया	shepherd
+सिलिकन	silicon
+रेशम	silk
+रूप्यम्	silver
+अस्थि-पंजर	skeleton
+चप्पल	slipper
+मसूरिका	smallpox
+साबुन	soap
+सोडियम	sodium
+तिल्ली	spleen
+सामरिक	strategic
+स्ट्रोन्सियम	strontium
+गन्धक	sulphur
+सुपर मार्केट	supermarket
+शल्य चिकित्सक	surgeon
+चाय	tea
+टेक्निशियम	technetium
+टेलुरियम	tellurium
+आतंकवाद	terrorism
+आतंकवादी	terrorist
+धन्यवाद	thank you
+धर्मतंत्र	theocracy
+उष्मागतिशास्त्र	thermodynamics
+थोरियम	thorium
+हज़ार	thousand
+अंगूठा	thumb
+कड़क	thunder
+त्रपु	tin
+टाइटानियम	titanium
+टमाटर	tomato
+परंपरागत	traditional
+रेलगाड़ी	train
+अनुवाद	translation
+सफर करना ; यात्रा करना	travel
+पेड़	tree
+ट्रॉफी	trophy
+ट्यूलिप	tulip
+सुरंग	tunnel
+टर्की	turkey
+जुडवाँ	twin
+पेशाब ; मूत	urine
+हड़पना	usurp
+वैक्क्यूम क्लीनर	vacuum cleaner
+क़ीमती ; अमोल	valuable
+वनडियम	vanadium
+सब्ज़ी	vegetable
+क्रिया	verb
+वयोवृद्ध	veteran
+पशुचिकित्सक	veterinarian
+पशुचिकित्सक	veterinarian ; veterinary
+शक्य	viable ; viable ; feasible
+वालरस	walrus
+ततैया	wasp
+जाला	web ; spider web
+सप्ताहांत	weekend
+व्हेल	whale
+गेहूँ	wheat
+व्हील चेयर	wheelchair
+खिड़की	window
+गवाह	witness
+जादूगर	wizard ; sorcerer ; magician
+लक्डी	wood
+विश्व युद्	world war
+जेनन	xenon
+यॉट	yacht
+इत्रियम	yttrium
+शुञ	zero ; null
+वङ्गम्	zinc
+जर्कोनियम	zirconium
+राशिचक्र	zodiac

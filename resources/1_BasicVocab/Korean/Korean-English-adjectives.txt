@@ -1,0 +1,174 @@
+Korean	﻿English
+또 하나의 [tto hanaui]	another
+서투른 [seotureun]	bad
+기초의 [gichoui]	basic
+아름다운 [areumdaun]	beautiful
+최상의 [choesangui]	best
+더 나은 [deo naeun]	better
+큰 [keun]	big
+깨끗한 [kkaekkeuthan]	clean
+차가운 [chagaun]	cold
+틀림이 없는 [teulrimi eoptneun]	correct
+어두운 [eoduun]	dark
+어려운 [eoryeoun]	difficult
+부정한 [bujeonghan]	dirty
+빠른 [ppareun]	fast
+얌전한 [yamjeonhan]	good
+위대한 [widaehan]	great
+유쾌한 [yukwaehan]	great
+행복한 [haengbokhan]	happy
+건강한 [geonganghan]	healthy
+무거운 [mugeoun]	heavy
+뜨거운 [tteugeoun]	hot
+중요한 [jungyohan]	important
+왼쪽의 [oenjjokui]	left
+가벼운 [gabyeoun]	light
+가까운 [gakkaun]	near
+새로운 [saeroun]	new
+좋은 [joheun]	nice
+실재하는 [siljaehaneun]	real
+오른쪽의 [oreunjjokui]	right
+예민한 [yeminhan]	sharp
+느린 [neurin]	slow
+부드러운 [budeureoun]	soft
+뚜렷한 [tturyeothan]	strong
+힘이 없는 [himi eoptneun]	weak
+잘못된 [jalmotdoen]	wrong
+전에 [jeone]	ago
+어느 [eoneu]	any
+자동의 [jadongui]	automatic
+이용할 수 있는 [iyonghal su itneun]	available
+괴로운 [goeroun]	bitter
+지루한 [jiruhan]	boring
+깨진 [kkaejin]	broken
+중심적인 [jungsimjeokin]	central
+틀림 없는 [teulrim eoptneun]	certain
+싼 [ssan]	cheap
+맑은 [malkeun]	clear
+닫힌 [dathin]	closed
+흔한 [heunhan]	common
+공통의 [gongtongui]	common
+완전한 [wanjeonhan]	complete
+알고 있는 [algo itneun]	conscious
+잔인한 [janinhan]	cruel
+위험한 [wiheomhan]	dangerous
+섬세한 [seomsehan]	delicate
+슬픈 [seulpeun]	deplorable
+다른 [dareun]	different
+닮지 않은 [dalmji anheun]	different
+아래로 [araero]	down
+마른 [mareun]	dry
+각각의 [gakgakui]	each
+이른 [ireun]	early
+쉬운 [swiun]	easy
+경제상의 [gyeongjesangui]	economic
+검소한 [geomsohan]	economic
+전기의 [jeongiui]	electric
+똑같은 [ttokgateun]	equal
+대등한 [daedeunghan]	even
+어느 것이나 모두 [eoneu geotina modu]	every
+뛰어난 [ttwieonan]	excellent
+거짓의 [geojitui]	fake
+먼 [meon]	far
+뚱뚱한 [ttungttunghan]	fat
+큰 [keun]	fat
+소수의 [sosuui]	few
+최종의 [choejongui]	final
+단단한 [dandanhan]	firm
+평평한 [pyeongpyeonghan]	flat
+그 다음의 [geu daeumui]	following
+외국의 [oegukui]	foreign
+이전의 [ijeonui]	former
+주의를 요하는 [juuireul yohaneun]	fragile
+무료의 [muryoui]	free
+잦은 [jateun]	frequent
+싱싱한 [singsinghan]	fresh
+가득 찬 [gadeuk chan]	full
+전체의 [jeoncheui]	full
+미래의 [miraeui]	future
+일반적인 [ilbanjeokin]	general
+산업의 [saneopui]	industrial
+국제적인 [gukjejeokin]	international
+마지막의 [majimakui]	last
+늦다, 지각하다	late
+합법적인 [hapbeopjeokin]	legal
+지역의 [jiyeokui]	local
+큰 소리를 내는 [keun sorireul naeneun]	loud
+적은 [jeokeun]	low
+운이 좋은 [uni joheun]	lucky
+제1위의	main
+큰 쪽의 [keun jjokui]	major
+많은 [manheun]	many
+금속(질)의	metal
+군인의 [guninui]	military
+미소한 [misohan]	minute
+현대적인 [hyeondaejeokin]	modern
+여분의 [yeobunui]	more
+많은 [manheun]	much
+좁은 [jopeun]	narrow
+자연의 [jayeonui]	natural
+필요한 [pilyohan]	necessary
+인접한 [injeophan]	next
+정상적인 [jeongsangjeokin]	normal
+반대쪽의 [bandaejjokui]	opposite
+본래의 [bonraeui]	original
+평행의 [pyeonghaengui]	parallel
+특별한 [teukbyeolhan]	particular
+방금 지난 [banggeum jinan]	past
+개인의 [gaeinui]	personal
+육체의 [yukcheui]	physical
+가난한 [gananhan]	poor
+이해하기 쉬운 [ihaehagi swiun]	popular
+있을 수 있는 [iteul su itneun]	possible
+있는 [itneun]	present
+이전의 [ijeonui]	previous
+개인적인 [gaeinjeokin]	private
+있음직한 [iteumjikhan]	probable
+직업적인 [jikeopjeokin]	professional
+대중의 [daejungui]	public
+조용한 [joyonghan]	quiet
+준비된 [junbidoen]	ready
+최근의 [choegeunui]	recent
+일정한 [iljeonghan]	regular
+책임을 지는 [chaekimeul jineun]	responsible
+굳은 [guteun]	rigid
+난폭한 [nanpokhan]	rough
+둥근 [dunggeun]	round
+안심할 수 있는 [ansimhal su itneun]	safe
+동일한 [dongilhan]	same
+두번째의 [dubeonjjaeui]	second
+비밀의 [bimilui]	secret
+분리된 [bunridoen]	separate
+엄숙한 [eomsukhan]	serious
+몇몇의 [myeocmyeocui]	several
+짧은 [jjalpeun]	short
+조용한 [joyonghan]	silent
+은빛의 (eunbichui)	silver
+쉬운 [swiun]	simple
+단 하나의 [dan hanaui]	single
+작은 [jakeun]	small
+매끄러운 [maekkeureoun]	smooth
+고체의 [gocheui]	solid
+성긴 [seonggin]	sparse
+특별한 [teukbyeolhan]	special
+특정의 [teukjeongui]	specific
+모난 [monan]	square
+표준의 [pyojunui]	standard
+점착성의 [jeomchakseongui]	sticky
+곧은 [goteun]	straight
+생소한 [saengsohan]	strange
+우아한 [uahan]	stylish
+돌연한 [dolyeonhan]	sudden
+단 [dan]	sweet
+키가 큰 [kiga keun]	tall
+걸쭉한 [geoljjukhan]	thick
+얇은 [yalpeun]	thin
+꽉 끼는 [kkwak kkineun]	tight
+진실의 [jinsilui]	true
+추악한 (chuakhan)	ugly
+아래에 (araee)	under
+흔한 [heunhan]	usual
+다른 [dareun]	various
+따뜻한 [ttatteuthan]	warm
+젖은 [jeoteun]	wet
+전...	whole

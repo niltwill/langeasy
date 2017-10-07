@@ -1,0 +1,2061 @@
+English	Czech
+AIDS	AIDS
+Abidjan	Abidžan
+Abkhaz	abcházština (f)
+Abkhazia	Abcházie (f)
+Abraham	Abrahám (m)
+Adam	Adam
+Afghanistan	Afgánistán (m); Afghánistán (m)
+Africa	Afrika (f)
+Afrikaans	afrikánština (f)
+Alaska	Aljaška (f)
+Albania	Albánie
+Alberta	Alberta (f)
+Alexander	Alexandr (m)
+Algeria	Alžírsko (n)
+Algiers	Alžír (m)
+Allah	Alláh (m)
+Alps	Alpy
+America	Amerika (f)
+American	Američan (m); Američanka (f)
+American bison	bizon
+Amsterdam	Amsterdam (m)
+Amur	Amur (f)
+Andorra	Andorra (f)
+Andrew	Ondřej (m); Andrej (m)
+Anglo	anglosaština (f)
+Angola	Angola (f)
+Ankara	Ankara
+Antarctica	Antarktida (f)
+Antigua and Barbuda	Antigua a Barbuda
+April	duben (m)
+Arabic	arabština (f); arabský jazyk (m)
+Arctic Ocean	Severní ledový oceán (m)
+Argentina	Argentina (f)
+Argonaut	Argonauti
+Arkhangelsk	Archangelsk (m)
+Armenia	Arménie (f)
+Armenian	arménština (f)
+Asclepius	Asklépios
+Asia	Asie (f)
+Athena	Athéna (f)
+Athens	Atény (f); Athény (f)
+Atlantic Ocean	Atlantský oceán (m)
+August	srpen (m)
+Australia	Austrálie (f)
+Austria	Rakousko (n)
+Aymara	ajmarština
+Azerbaijan	Ázerbájdžán (m)
+Azeri	ázerbájdžánština (f); azerština (f)
+Bahamas	Bahamy (f)
+Bahrain	Bahrajn (m)
+Baku	Baku
+Balearic Islands	Baleáry (p)
+Baltic Sea	Baltské moře (n)
+Bambara	bambarština
+Bangladesh	Bangladéš (m)
+Barbados	Barbados (m)
+Bashkir	baškirský; baškirština (f)
+Beijing	Peking (m)
+Beirut	Bejrút
+Belarus	Bělorusko (n)
+Belarusian	běloruština (f)
+Belgium	Belgie (f)
+Belgrade	Bělehrad (m)
+Belize	Belize (n)
+Belorussian	běloruština
+Berlin	Berlín (m)
+Bermuda	Bermudy
+Bhutan	Bhútán (m)
+Bible	Bible (f)
+Black Sea	Černé moře (n)
+Bolivia	Bolívie (f)
+Bosnia	Bosna
+Bosnia and Herzegovina	Bosna a Hercegovina (f)
+Bosphorus	Bospor (m)
+Botswana	Botswana (f)
+Brazil	Brazílie (f)
+Breton	bretonština (f)
+Brunei	Brunej (f)
+Brussels	Brusel
+Bucharest	Bukurešť (f)
+Buddha	Buddha (m)
+Buddhism	buddhismus (m)
+Bulgaria	Bulharsko (n)
+Bulgarian	bulharština
+Burkina Faso	Burkina Faso (n)
+Byzantine Empire	Byzantská říše (f)
+Cambodia	Kambodža (f)
+Cameroon	Kamerun (m)
+Canada	Kanada (f)
+Cape Verde	Kapverdy (m)
+Carthage	Kartágo (n)
+Caspian Sea	Kaspické moře (n)
+Catalan	katalánsky
+Caucasus	Kavkaz (m)
+Central African Republic	Středoafrická republika (f)
+Chad	Čad (m)
+Chile	#English'Chile (n)
+China	Čína (f)
+Chinese	Číňané (m)
+Chisinau	Kišiněv (m)
+Christ	Kristus (m)
+Christian	křesťan (m)
+Christianity	křesťanství (n)
+Christmas	Vánoce (f)
+Christopher	Kryštof
+Coca	Coca-Cola (f)
+Colombia	Kolumbie (f)
+Commonwealth of Independent States	Společenství nezávislých států (n); SNS (n)
+Constantinople	Konstantinopol
+Copenhagen	Kodaň (f)
+Costa Rica	Kostarika (f)
+Croatia	Chorvatsko (n)
+Croatian	charvátština (f)
+Cuba	Kuba (f)
+Cyprus	Kypr (m)
+Cyrillic	cyrilice (f)
+Cyrillic alphabet	cyrilice (f)
+Czech	čeština (f)
+Czech Republic	Česká republika (f); Česko (n); Čechy
+Czechia	Česko (n); Čechy (f) 
+Czechoslovakia	Československo (n)
+Damascus	Damašek (m)
+Danish	dánština (f); dánský jazyk (m)
+Danube	Dunaj (f)
+Dead Sea	Mrtvé moře (n)
+December	prosinec (m)
+Denmark	Dánsko (n)
+Djibouti	Džibutsko (n)
+Dominican Republic	Dominikánská republika (f)
+Dutch	holandský (m); nizozemský (m)
+Earth	Země (f)
+East Timor	Východní Timor (m)
+Easter	Velikonoce (f)
+Easter Island	Velikonoční ostrov (m)
+Eastern Europe	východní Evropa (f)
+Edmonton	Edmonton
+Egypt	Egypt (m)
+England	Anglie (f)
+English	Angličan (m); Angličanka (f)
+Esperanto	esperanto (n)
+Estonia	Estonsko
+Ethiopia	Etiopie (f)
+Eurasia	Eurasie (f)
+Europe	Evropa (f)
+European Union	Evropská unie (f)
+European bison	zubr
+Far East	Dálný východ (m)
+Faroe Islands	Faerské ostrovy (m)
+Faroese	faerština
+February	únor (m)
+Fiji	Fidži
+Finland	Finsko (n)
+Finnish	finština
+France	Francie
+French	Francouzi (m)
+Friday	pátek (m)
+GDP	HDP
+Ganges	Ganga (f)
+Gaza Strip	Pásmo Gazy (n)
+Geneva	Ženeva (f)
+George	Jiří (m)
+Georgia	Gruzie (f)
+Georgian	gruzínština (f)
+German	německý (m)
+Germany	Německo (n)
+Ghana	Ghana (f)
+Ghent	Gent
+Gibraltar	Gibraltar (m)
+Goa	Goa
+Great Britain	Velká Británie (f)
+Great Pyramid of Giza	Chufuova pyramida (f)
+Greece	Řecko (n)
+Greek	Řek (m); Řekyně (f)
+Greenland	Grónsko (n)
+Guatemala	Guatemala (f)
+Guinea	Guinea (f)
+Gujarati	gudžarátština
+Gulf of Finland	Finský záliv (m)
+Guyana	Guyana (f)
+Haiti	Haiti (n)
+Happy New Year	šťastný nový rok
+Hebrew	hebrejština (f)
+Hezbollah	Hizballáh
+Hindi	hindština (f)
+Hokkaido	Hokkaidó
+Holland	Holandsko (n)
+Holocaust	holocaust
+Holy Spirit	Duch Svatý
+Honduras	Honduras (f)
+Hong Kong	Hongkong
+Hungarian	Maďar (m); Maďarka (f)
+Hungary	Maďarsko (n); Uhry 
+I	já
+I am English	jsem Angličan (m); jsem Angličanka (f)
+I have a question	mám otázku
+I love you	Mám tě rád (informal)
+I need an interpreter	potřebuji tlumočníka
+Iceland	Island (m)
+India	Indie (f)
+Indian Ocean	Indický oceán (m)
+Indonesia	Indonésie (f)
+Interlingua	interlingua
+International Phonetic Alphabet	mezinárodní fonetická abeceda (f)
+Internet	internet (m); Internet (m)
+Iran	Írán
+Iraq	Irák (m)
+Ireland	Irsko
+Irish	irština (f)
+Islam	islám (m)
+Israel	Izrael
+Italian	italský
+Italy	Itálie (f)
+Jamaica	Jamajka (f)
+January	leden (m)
+Japan	Japonsko
+Japanese	japonský (m)
+Jerusalem	Jeruzalém (m)
+Jesus	Ježíš (m)
+Jesus Christ	Ježíš Kristus
+Jew	Žid (m); Židovka (f)
+Jewish	židovský (m)
+John	Jan
+Jordan	Jordánsko (n)
+Joseph	Josef (m)
+Judaism	židovství (n); judaismus (m)
+July	červenec (m)
+June	červen (m)
+Jupiter	Jupiter (m)
+Kannada	kannadština
+Karnataka	Karnátaka (f)
+Kazakhstan	Kazachstán (m)
+Kenya	Keňa (f)
+Khartoum	Chartúm (m)
+Khrushchev	Chruščov (m)
+Kiev	Kyjev (m)
+Korea	Korea (f)
+Korean	korejština (f)
+Kosovo	Kosovo (n)
+Kurdish	kurdština (f)
+Kuwait	Kuvajt (m)
+Kyrgyzstan	Kyrgyzstán (m)
+Laos	Laos (m)
+Latin	latina (f)
+Latvia	Lotyšsko (n)
+Lebanon	Libanon (m)
+Liberia	Libérie (f)
+Libya	Libye (f)
+Liechtenstein	Lichtenštejnsko (n)
+Lisbon	Lisabon (m)
+Lithuania	Litva
+London	Londýn (m)
+Luxembourg	Lucembursko (n); (m)
+Lyons	Lyon
+Macedonia	Makedonie (f)
+Magna Carta	Magna charta libertatum (f)
+Malayalam	malajálamština (f); malajalámský
+Malaysia	Malajsie (f)
+Maldives	Maledivy
+Malta	Malta (f)
+Manchuria	Mandžusko (n)
+Maoism	maoismus (m)
+March	březen (m)
+Mars	Mars (m)
+Marshall Islands	Marshallovy ostrovy (m)
+Mary	Marie (f)
+Matthew	Matěj; Matyáš (m)
+Mauritius	Mauricius (m)
+May	květen (m)
+Mediterranean Sea	Středozemní moře (n)
+Mercury	Merkur (m)
+Merry Christmas	Veselé Vánoce
+Merry Christmas and a Happy New Year	Veselé Vánoce a šťastný nový rok 
+Mexico	Mexiko (n)
+Michael	Michal
+Middle East	Blízký východ (m); Střední východ (m)
+Minsk	Minsk (m)
+Miss	slečna (f)
+Moldova	Moldavsko (n)
+Monaco	Monako (n)
+Monday	pondělí (n)
+Mongolia	Mongolsko (n)
+Montenegro	Černá Hora (f)
+Moon	Měsíc (m)
+Morocco	Maroko (m)
+Moscow	Moskva (f)
+Moses	Mojžíš (m)
+Mozambique	Mozambik (m); Mosambik (m)
+Mrs	paní (f)
+Muhammad	Mohamed (m)
+Munich	Mnichov (m)
+Muslim	muslim (m)
+Myanmar	Myanmar (m)
+NATO	NATO (n)
+Namibia	Namibie (f)
+Naypyidaw	Naypyidaw
+Nepal	Nepál (m)
+Neptune	Neptun (m)
+Netherlands	Nizozemsko (n); Holandsko (n)
+New Delhi	Nové Dillí (n)
+New York City	New York
+New Zealand	Nový Zéland (m)
+Nicaragua	Nikaragua (f)
+Nicholas	Mikuláš (m), Mikoláš, Nikola (m)
+Niger	Niger (m)
+Nigeria	Nigérie (f)
+North America	Severní Amerika (f)
+North Korea	Severní Korea (f)
+Northern Europe	severní Evropa (f)
+Northern Ireland	Severní Irsko (n)
+Norway	Norsko (n)
+November	listopad (m)
+Occitan	okcitánština (f)
+Oceania	Oceánie (f)
+October	říjen (m)
+Olympic Games	olympijské hry (f)
+Oman	Omán (m)
+Ottoman Empire	Otomanská říše (f)
+Pacific Ocean	Tichý oceán (m)
+Pakistan	Pákistán (m)
+Palestine	Palestina (f)
+Panama	Panama (f)
+Papua New Guinea	Papua-Nová Guinea (f)
+Paris	Paříž (f)
+Paul	Pavel (m)
+Persian	perština (f)
+Peru	Peru (n)
+Philippines	Filipíny (f)
+Pisces	Ryby
+Pleiades	Plejády
+Pluto	Pluto
+Poland	Polsko (n)
+Polish	polština (f)
+Portugal	Portugalsko (n)
+Portuguese	portugalština (f)
+Prague	Praha (f)
+Pythagoras	Pythagoras (m)
+Red Sea	Rudé moře (n)
+Reykjavik	Reykjavík (m)
+Roman	římský (m)
+Romania	Rumunsko (n)
+Romanian	rumunština (f)
+Rome	Řím (m)
+Russia	Rusko (n)
+Russian	ruský (m)
+Russian Federation	Ruská federace (f)
+Rwanda	Rwanda (f)
+Saint Petersburg	Sankt Petěrburg (m); Petrohrad (m)
+San Marino	San Marino (n)
+Sanskrit	sanskrt (m)
+Santa Claus	Santa Claus (m), Ježíšek (m)
+Saturday	sobota (f)
+Saturn	Saturn (m)
+Saudi Arabia	Saúdská Arábie (f)
+Scotland	Skotsko
+Senegal	Senegal (m)
+Seoul	Soul (m)
+September	září (n)
+Serb	Srb (m); Srbka (f)
+Serbia	Srbsko (n)
+Serbia and Montenegro	Srbsko a Černá Hora
+Serbian	Srb (m); Srbka (f)
+Shanghai	Šanghaj
+Shinto	šintoismus
+Siberia	Sibiř (f)
+Sicily	Sicílie (f)
+Singapore	Singapur (m)
+Slovakia	Slovensko (n)
+Slovene	slovinština (f)
+Slovenia	Slovinsko (n)
+Snow White	Sněhurka (f)
+Sochi	Soči (n)
+Sofia	Sofie
+Solar System	sluneční soustava (f)
+Somalia	Somálsko (n)
+South Africa	Jihoafrická republika (f)
+South America	Jižní Amerika (f)
+South Asia	Jižní Asie (f)
+South Korea	Jižní Korea (f), oficially: Korejská republika (f)
+South Ossetia	Jižní Osetie (f)
+South Sudan	Jižní Súdán (m)
+Southeast Asia	Jihovýchodní Asie (m)
+Soviet Union	Sovětský svaz (m)
+Spain	Španělsko (n)
+Spanish	španělský (m)
+Sparta	Sparta
+Sri Lanka	Srí Lanka (f)
+Stalin	Stalin (m)
+Sudan	Súdán (m)
+Suez Canal	Suezský průplav (m)
+Sunday	neděle (f)
+Suriname	Surinam (m)
+Sweden	Švédsko (n)
+Swedish	švédština (f)
+Switzerland	Švýcarsko (n)
+Syria	Sýrie (f)
+Taipei	Tchaj-pej (m)
+Taiwan	Tchaj-wan (m); Taiwan (m)
+Tajikistan	Tádžikistán (m)
+Tallinn	Tallinn (m)
+Tanganyika	Tanganika
+Tanzania	Tanzanie (f); Tanzánie (f)
+Tbilisi	Tbilisi
+Tehran	Teherán (m)
+Tel Aviv	Tel Aviv
+Telugu	telugština
+Ten Commandments	Desatero (n)
+Thai	thajština (f)
+Thailand	Thajsko (n)
+The Hague	Haag (m)
+Thursday	čtvrtek (m)
+Transnistria	Podněstří
+Transylvania	Sedmihradsko (n); Transylvánie (f)
+Tuesday	úterý (n)
+Tunisia	Tunisko (n)
+Turkey	Turecko (n)
+Turkish	turecký jazyk (m), turečtina (f)
+Turkmenistan	Turkmenistán (m)
+USA	USA
+USSR	SSSR
+Uganda	Uganda (f)
+Ukraine	Ukrajina (f)
+Ukrainian	ukrajinština (f)
+United Arab Emirates	Spojené arabské emiráty (m)
+United Kingdom	Velká Británie (f); Spojené království (n)
+United States	Spojené státy (m)
+United States of America	Spojené státy americké (m); Spojené státy (m)
+Uranus	Uran (m)
+Uruguay	Uruguay
+Uzbekistan	Uzbekistán (m)
+Valkyrie	valkýra (f)
+Vatican City	Vatikán (m)
+Venezuela	Venezuela (f)
+Venus	Venuše (f)
+Victory Day	Den vítězství (m)
+Vienna	Vídeň (f)
+Vietnam	Vietnam (m)
+Vishnu	Višnu
+Wales	Wales (m)
+Warsaw	Varšava (f)
+Wednesday	středa (f)
+Western Europe	západní Evropa (f)
+Western Sahara	Západní Sahara (f)
+White House	Bílý dům (m)
+White Sea	Bílé moře
+Wikipedia	Wikipedie (f)
+Wiktionary	Wikislovník (m); Wikcionář (m)
+Wiktionary:Usability/flag	vlajka (f); prapor (m); praporek (m)
+William	Vilém (m)
+Wroclaw	Vratislav
+Yangon	Rangún (m)
+Yangtze	Jang-c'-ťiang
+Yaoundé	Yaoundé
+Yellow Sea	Žluté moře (n)
+Yemen	Jemen (m)
+Yerevan	Jerevan
+Yugoslavia	Jugoslávie (f)
+Zagreb	Záhřeb (m)
+Zambia	Zambie (f)
+Zoroastrianism	Zoroastrismus
+aardvark	hrabáč kapský (hrabáč takaru) (m)
+abandon	opustit
+abbot	opat (m)
+abbreviation	zkratka (f)
+abdomen	břicho (n)
+accordion	akordeon; harmonika
+acid	kyselina (f)
+acorn	žalud (m)
+actinium	aktinium
+actor	herec (m); herečka (f)
+address	adresa (f)
+adjective	přídavné jméno (n)
+admiration	obdiv (m)
+adverb	příslovce (n)
+advertisement	reklama (f)
+aeroplane	letoun (m) ('plural:' letouny), letadlo (n)
+after	po
+afternoon	odpoledne (n)
+again	zase; opět; znova
+age	věk (m)
+aggressive	útočný (m); agresivní
+agriculture	zemědělství (n)
+air	vzduch (m)
+aircraft	letadlo (n)
+airplane	letadlo (n)
+airport	letiště (n)
+alcohol	alkohol (m)
+algorithm	algoritmus (m)
+alive	živý (m)
+all	všichni
+all rights reserved	všechna práva vyhrazena
+alligator	aligátor (m)
+almond	mandle (f)
+almost	skoro; téměř
+alphabet	abeceda (f)
+already	už; již
+also	také
+aluminium	hliník (m)
+always	vždy
+am	jsem; jsu
+amber	jantar (m)
+ambulance	sanitka (f)
+americium	americium
+ampersand	ampersand
+an	'not used'
+anal sex	anální sex (m)
+anarchism	anarchismus (m)
+anchor	kotva (f)
+and	a
+angel	anděl (m)
+anger	vztek (m)
+animal	živočich (m); zvíře (n)
+anime	anime
+ankle	kotník (m)
+answer	odpověď (f)
+ant	mravenec (m)
+anthrax	anthrax
+antimony	antimon (m)
+antonym	antonymum (n); opozitum (n)
+anus	řiť (f); řitní otvor (m)
+anvil	kovadlina (f)
+apple	jablko (n)
+apple tree	jabloň (f)
+apricot	meruňka (f)
+archaeology	archeologie (f)
+architect	architekt (m), architektka (f)
+architecture	architektura (f)
+argent	stříbro
+argon	argon (m)
+arm	paže (f); ruka (f)
+armpit	podpaží (n); podpažní jamka (f)
+army	armáda (f); vojsko (n)
+arrow	šíp (m)
+arsenic	arzen
+artichoke	artyčok (m)
+article	článek (m)
+ash	popel (m)
+ask	žádat
+ass	prdel (f)
+astatine	astat
+asteroid	asteroid (m)
+astronomical unit	astronomická jednotka (f)
+astronomy	astronomie (f)
+astrophysics	astrofyzika (f)
+at	u
+at sign	zavináč (m)
+atheism	ateismus (m)
+atom	atom (m)
+aunt	teta (f)
+autumn	podzim (m)
+avalanche	lavina (f)
+axe	sekera (f)
+axis	osa (f)
+baby	děťátko (n); miminko (n)
+babysitter	dozor#Czech'dozor u#Czech'u dítěte
+back	záda
+bad	špatný (m)
+badger	jezevec (m)
+bag	taška (f); pytel (m)
+bagpipes	dudy
+bakery	pekárna (f)
+balcony	balkón (m)
+bald	plešatý -á / -é (plešatější, nejplešatější)
+balloon	balón (m)
+banana	banán (m)
+bank	banka (f)
+barcode	čárový kód
+barium	baryum (n)
+bark	kůra (f)
+barley	ječmen (m)
+barn owl	sova pálená (f)
+basalt	čedič (m)
+baseball	baseball
+basket	koš (m); košík (m)
+basketball	basketbal (m)
+bat	netopýr (m)
+bathroom	koupelna (f)
+battery	baterie (f); baterka (f)
+battle	bitva (f); boj (m)
+bay	záliv (m); zátoka (f)
+be	být
+beach	pláž (f)
+beak	zobák (m)
+bean	fazole
+bear	medvěd (m)
+beard	brada (f); vous (m)
+beautiful	krásný; pěkný
+beauty	krása (f)
+beaver	bobr (m)
+because	protože
+become	stát se
+bed	postel (f); lůžko (n)
+bedroom	ložnice
+bee	včela (f)
+beech	buk (m)
+beef	hovězí (n)
+beer	pivo (n)
+beetle	brouk (m)
+before	před
+begin	začít; začínat 
+behind	za
+bell	zvon (m); zvonek (m); zvonec (m); zvoneček (m) 
+belly	břicho (n)
+belt	pásek (m); opasek (m); pás (m)
+berkelium	berkelium
+berry	bobule (f)
+beryllium	beryllium
+better	lepší
+bicycle	kolo (n); jizdní kolo (n)
+big	velký
+bill	zobák (m)
+billion	miliarda (f)
+biochemistry	biochemie (f)
+biology	biologie (f)
+bipolar disorder	bipolární afektivní porucha (f)
+birch	bříza (f)
+bird	pták (m)
+birth	porod (m)
+birthday	narozeniny (f)
+bishop	střelec (m)
+bismuth	bismut
+bitch	fena (f); vlčice 
+bite	kousat
+bitter	hořký (m)
+black	čerň (f)
+black grouse	tetřívek
+black hole	černá díra (f)
+black woodpecker	datel
+blackberry	ostružina (f)
+blackbird	kos
+blanket	deka (f)
+bleed	krvácet
+bless you	na zdraví
+blind	slepý (m)
+blog	blog (m)
+blood	krev (f)
+blue	modř (f)
+boar	divočák (m)
+boat	loď (f); člun (m)
+body	tělo (n)
+bohrium	bohrium
+bomb	bomba (f)
+bon appétit	dobrou chuť
+bon voyage	šťastnou cestu
+bone	kost (f)
+book	kniha (f)
+bookshop	knihkupectví (n)
+boot	bota (f)
+boron	bor (m); bór (m)
+bottle	láhev (f); flaška
+bow	luk (m)
+box	schránka (f); krabice (f); bedna (f)
+boy	chlapec (m); hoch (m); kluk (m)
+bra	podprsenka (f)
+brain	mozek (m)
+branch	větev (f)
+brave	odvážný (m); statečný (m)
+bread	chléb (m); chleba (m)
+break	rozbít 
+breakfast	snídaně (f)
+breast	prs (m); ňadro (n)
+breathe	dýchat
+brick	cihla (f)
+bride	nevěsta (f)
+bridge	most (m)
+bromine	brom (m)
+broom	koště (n); smeták (m)
+brother	bratr (m)
+brown	hnědý (m)
+brush	štětec (m) (painting), štětka (f) (painting), kartáč (m) (cleaning)
+bucket	kýbl (m)
+buffalo	buvol (m)
+building	stavba (f), budování (n), výstavba (f)
+bull	býk (m)
+bullet	kulka (f)
+bumblebee	čmelák (m)
+burn	hořet
+bus	autobus (m)
+busy	zaměstnaný (m), zaneprázděný (m) ('of person')
+but	ale
+butcher	řezník (m)
+butter	máslo (n)
+butterfly	motýl (m)
+buy	kupovat
+buzzard	káně (n)
+cabbage	zelí (n)
+cactus	kaktus (m)
+cadmium	kadmium
+caesium	cesium
+café	kavárna (f)
+cake	dort (m)
+calcium	vápník
+calendar	kalendář (m)
+calf	tele (n)
+californium	kalifornium
+camel	velbloud (m)
+can	moci; umět
+canal	kanál (m); průplav (m)
+canary	kanár; kanárek (m)
+cancer	rakovina (f)
+candle	svíce (f); svíčka (f)
+cannabis	konopí (n)
+canyon	kaňon (m)
+capercaillie	tetřev
+capital	kapitál
+capital city	hlavní město
+capitalism	kapitalismus; kapitalizmus
+car	auto (n); automobil (m)
+carbon	uhlík (m)
+carpenter	tesař (m); truhlář (m)
+carpet	koberec (m)
+carrot	mrkev (f)
+carry	nést (by foot), vézt (on a wheeled vehicle)
+castle	hrad (m)
+cat	šelma kočkovitá (f)
+caterpillar	housenka (f)
+cauliflower	květák (m); karfiól (m)
+cave	jeskyně (f)
+cedar	cedr (m)
+ceiling	strop (m)
+cell	buňka (f)
+cell phone	mobilní telefon (m)
+center	střed (m)
+centimetre	centimetr (m)
+centipede	stonožka (f)
+century	století (n)
+cerium	cér (m); cer (m)
+chain	řetěz (m)
+chair	židle (f)
+chamois	kamzík
+change	změna (f)
+chapter	kapitola (f)
+chase	honit; pronásledovat
+cheap	levný (m)
+cheek	líčko (n)
+cheers	na zdraví
+cheese	sýr (m)
+cheetah	gepard (m)
+chemistry	chemie (f)
+cheque	šek (m)
+cherry	třešně (f)
+chess	šachy (m)
+chest	hruď (f)
+chestnut	kaštan (m)
+chew	žvýkat
+chicken	slepice (f), kur (m), kuře (n) (italbrac'young)
+child	dítě (n)
+chimpanzee	šimpanz (m)
+chin	brada (f)
+chlorine	chlór (m)
+chocolate	čokoláda (f)
+choice	volba (f)
+choir	sbor (m); chór (m)
+choose	volit; zvolit
+chord	akord (m)
+chromium	chrom
+church	církev (f)
+cigarette	cigareta (f)
+cinema	kino (n)
+circle	kružnice (f)
+city	město (n), velkoměsto (n)
+clarinet	klarinet (m)
+clay	jíl (m)
+clean	čistý (m)
+clitoris	poštěváček (m); klitoris (m)
+clock	hodiny (f)
+close	zavřít
+cloud	mrak (m); oblak (m)
+coast	pobřeží (n); břeh (m)
+cobalt	kobalt (m)
+cock	kohout (m)
+cockroach	šváb (m)
+coconut	kokos (m)
+coffee	káva (f)
+coffin	rakev (f)
+coin	mince (f)
+cold	nachlazení (n)
+cold war	studená válka (f)
+color	barva (f)
+columbine	orlíček
+comb	hřeben (m)
+come	přijít
+common gull	racek bouřní
+communism	komunismus (m)
+company	společnost (f)
+compass	kompas (m); buzola (f)
+computer	počítač (m)
+computer language	programovací jazyk (m)
+comrade	soudruh (m); soudružka (f)
+concrete	beton (m)
+condom	kondom (m)
+conjunction	spojka (f)
+connective tissue	pojivová tkáň (f)
+conscience	svědomí (n)
+continent	kontinent (m); světadíl (m)
+conversation	konverzace (f); rozhovor (m)
+copper	měď (f)
+corn	kukuřice
+corpse	mrtvola (f)
+corridor	chodba (f)
+cough	kašlat
+count	počítat
+country	venkov (m)
+courage	odvaha (f); kuráž (f)
+cow	kráva (f)
+crab	krab (m)
+crane	jeřáb (m)
+cream	smetana (f)
+cricket	cvrček (m)
+crime	zločin (m); trestný čin (m)
+crocodile	krokodýl (m)
+cross	kříž (m)
+crossword	křížovka (f)
+crow	vrána (f)
+cruel	krutý (m)
+cry	plakat; brečet
+crystal	krystal (m)
+cube	krychle (f)
+cuckoo	kukačka (f)
+cucumber	okurka (f)
+culture	kultura (f)
+cunt	píča (f); kunda (f)
+cup	šálek (m); hrnek (m)
+curium	curium
+current	proud (m)
+curse	kletba (f); prokletí (n)
+cycling	cyklistika (f)
+dance	tančit; tancovat
+dangerous	nebezpečný (m)
+dark	tmavý (m); temný (m)
+dark matter	temná hmota (f)
+darkness	tma (f); temnota (f)
+data	data (n)
+date	schůzka (f)
+date palm	datlovník (m)
+daughter	snacha (f)
+day	den (m)
+dead	mrtvý
+deaf	hluchý (m)
+dear	drahý (m)
+death	smrt (f)
+deer	jelen (m); laň (f)
+delicious	lahodný (m)
+democracy	demokracie (f)
+demon	démon
+dentist	zubař (m)
+desert	poušť (f)
+devil	ďábel (m); čert (m)
+dew	rosa (f)
+dialect	nářečí (n); dialekt (m)
+diary	deník (m)
+dick	čurák (m); šulin (m)
+dictionary	slovník (m)
+die	kostka (f)
+difficult	obtížný (m)
+dig	kopat; rýt
+dining room	jídelna (f)
+dinosaur	dinosaurus (m)
+dirty	špinavý (m)
+discussion	diskuse (f); diskuze (f)
+disease	nemoc (f)
+do	dělat
+do you speak English	mluvíte anglicky?
+doctor	doktor (m)
+documentation	dokumentace (f)
+dog	pes (m); fena (f)
+doll	panenka (f); panna (f)
+dollar	dolar (m)
+dolphin	delfín (m)
+donation	dar (m)
+donkey	osel (m)
+door	dveře (f)
+dormouse	plch
+doubt	pochybnost (f); pochyba (f)
+dove	holub (m)
+dozen	tucet (m)
+dragon	drak (m)
+dragonfly	vážka (f)
+dream	snít
+dress	šaty
+drink	drink (m); pití (n)
+dromedary	dromedár
+drop	kapka (f)
+drum	buben (m)
+drunk	opilý (m)
+dry	suchý (m)
+duck	kachna (f)
+dust	prach (m)
+duty	povinnost (f)
+dynamite	dynamit (n)
+dyslexia	dyslexie (f)
+dysprosium	dysprosium
+e	e-mail (m)
+e.g.	např.
+each	každý (m)
+eagle	orel (m)
+eagle owl	výr (m)
+ear	ucho (n)
+early	brzy
+earth	země (f); hlína (f)
+earthquake	zemětřesení (n)
+earthworm	žížala (f), dešťovka (f)
+east	východ (m)
+easy	snadný; jednoduchý
+eat	jíst; sníst
+echo	ozvěna (f)
+eco	eko-
+ecology	ekologie (f)
+economics	ekonomie (f)
+education	vzdělávání (n)
+eel	úhoř (m)
+egg	vejce (n)
+eight	osm
+eighteen	osmnáct
+eighth	osmý ('abbreviation' 8.)
+eighty	osmdesát
+einsteinium	einsteinium
+ejaculation	ejakulace (f)
+elbow	loket (m)
+electricity	elektřina (f)
+electromagnetism	elektřina a magnetismus (m)
+electron	elektron (m)
+electronics	elektronika (f)
+elephant	slon (m)
+eleven	jedenáct
+elf	elf (m)
+embassy	velvyslanectví (n); ambasáda (f)
+emperor	císař (m)
+empty	prázdný (m)
+encyclopedia	encyklopedie (f)
+end	konec (m)
+enemy	nepřítel (m)
+energy	energie (f)
+enjoy your meal	dobrou chuť
+enter	vstoupit 
+epithelium	výstelka (f); epitel (m); epitelová tkáň
+equation	rovnice (f)
+erbium	erbium
+erection	ztopoření (n); erekce (f)
+ermine	hranostaj (m)
+erotic	erotický
+etymology	etymologie (f)
+euro	euro (n)
+europium	europium
+euthanasia	eutanazie (f)
+evening	večer (m)
+event horizon	horizont událostí (m)
+every	každý (m) (1) (2)
+everybody	každý (m); všichni (m)
+everyone	všichni (m); každý (m)
+everything	všechno (n); (m)
+evil	zlý (m)
+expensive	drahý (m); nákladný (m)
+expression	výraz (m)
+eye	oko (n)
+eye for an eye, a tooth for a tooth	oko za oko, zub za zub
+eyebrow	obočí (n)
+eyelash	řasa (f)
+eyelid	oční víčko (n); víčko (n)
+face	tvář (f); obličej (m)
+falcon	sokol (m)
+fall	padat; padnout 
+fallow deer	daněk
+family	rodina (f)
+fan	vějíř (m)
+far	daleký
+farm	farma (f); statek (m)
+farmer	rolník (m), sedlák (m), zemědělec (m), farmář (m)
+fart	prdět (italbrac'frequentative or continuative) / prdnout si (italbrac'semelfactive); pšoukat / pšouknout(si) (italbrac'to fart silently)
+fast	půst (m)
+fat	tlustý
+father	tchán (m)
+fear	se
+feather	péro (n)
+federation	federace (f)
+feminism	feminismus (m)
+fermium	fermium
+ferret	fretka (f)
+ferry	trajekt (m)
+fever	horečka (f)
+fifteen	patnáct
+fifth	pátý ('abbreviation' 5.)
+fifty	padesát
+fig	fík (m)
+fight	bojovat; zápasit
+film	film (m)
+finger	prst (m)
+fir	jedle (f)
+fire	požár (m)
+first	první (m'f'n) <!-- abbreviation:' 1.)-->
+fish	ryba (f)
+fist	pěst (f)
+five	pět
+flag	vlajka (f); prapor (m); praporek (m)
+flame	plamen (m)
+flea	blecha (f)
+floor	patro; podlaží (n)
+flour	mouka (f)
+flower	kvést
+fluorine	fluor (m)
+flute	flétna (f)
+fly	letět; létat
+fog	mlha (f)
+food	potrava (f); jídlo (n)
+fool	hlupák (m); blázen (m); šašek; pošetilec (m); blbec (m); blb (m); blboun (m); pitomec (m)
+foot	slintavka a kulhavka
+football	fotbal (m), kopaná (f)
+for example	například
+forefinger	ukazovák (m); ukazováček (m)
+forehead	čelo (n)
+foreign	cizí; zahraniční
+foreigner	cizinec (m), cizinka (f)
+forest	les (m)
+forget	zapomenout; zapomínat 
+fork	vidlička (f)
+fortress	pevnost (f)
+forty	čtyřicet
+fountain	fontána
+four	čtyři
+fourteen	čtrnáct
+fourth	čtvrtý ('abbreviation' 4.)
+fox	liška (f)
+francium	francium
+free	volný (m)
+freedom	svoboda (f)
+freedom of speech	svoboda slova (f); svoboda projevu (f); svoboda vyjadřování (f)
+friend	přítel (m); kamarád (m); přítelkyně (f)
+friendship	přátelství (n)
+frog	žába (f)
+from	z; ze; od
+fruit	ovoce (n); plod (m)
+fuck	mrdat; prcat; šukat; šoustat; jebat
+fungus	houba (f)
+future	budoucnost (f)
+gadolinium	gadolinium
+galaxy	galaxie (f)
+gall bladder	žlučník (m)
+gallium	gallium
+game	hra (f)
+garden	zahrada (f)
+garlic	česnek (m)
+gas	plyn (m)
+gasoline	benzín (m)
+genitive	genitiv (m); druhý pád (m)
+genocide	genocida (f)
+geography	zeměpis (m); geografie (f)
+geometry	geometrie (f)
+germanium	germanium
+geyser	gejzír (m)
+ghost	duch (m); přízrak; strašidlo 
+giant	obr (m)
+gift	dar (m)
+ginger	zázvor (m)
+giraffe	žirafa (f)
+girl	holka (f); děvče (n); dívka (f)
+give	darovat; dát
+glacier	ledovec (m)
+glass	sklenice (f)
+glove	rukavice (f)
+glue	lepidlo (n)
+go	jet ('by vehicle'), jít ('by walking')
+goat	koza (f); kozel (m)
+god	bůh (m)
+gold	zlato (n)
+golden eagle	orel skalní (m)
+golf	golf
+gonorrhea	kapavka (f)
+good	dobro (n)
+good afternoon	dobrý den
+good day	dobrý den
+good evening	dobrý večer
+good luck	hodně štěstí 
+good morning	dobré ráno
+good night	dobrou noc
+goodbye	na shledanou; sbohem
+goose	husa (f)
+gooseberry	angrešt (m)
+goshawk	jestřáb
+government	vláda (f)
+grammar	mluvnice (f); gramatika (f)
+grandchild	vnouče (n)
+grandfather	děda (m); děd (m)
+grandmother	babička (f)
+grape	hrozen (m)
+grass	tráva (f)
+grasshopper	kobylka (f)
+graveyard	hřbitov (m) 
+great spotted woodpecker	strakapoud velký
+great tit	sýkora koňadra
+green	zelená (f)
+green woodpecker	žluna
+grey	šedý (m)
+grey heron	volavka popelavá
+greylag goose	husa velká
+griffon vulture	sup bělohlavý
+guest	host (m)
+guilt	vina (f)
+guinea fowl	perlička (f)
+guinea pig	morče (n)
+guitar	kytara (f)
+gull	racek
+gunpowder	střelný prach (m)
+gypsy	cikán (m)
+hafnium	hafnium
+hail	kroupy; krupobití (n)
+hair	srst (f); ochlupení (n)
+hajj	hadždž (m)
+hammer	kladivo (n)
+hammock	houpací síť (f)
+hamster	křeček (m)
+hand	ruka (f)
+hangover	kocovina (f)
+happen	stát se
+happiness	štěstí (n)
+happy	šťastný
+happy birthday	všechno nejlepší; všechno nejlepší k narozeninám
+hard drive	pevný disk (m)
+hare	zajíc (m); zaječice (f)
+hat	klobouk (m)
+hate	nenávidět
+hatred	nenávist (f), zášť (f)
+have	mít
+hawk	jestřáb (m)
+hay	seno (n)
+hazelnut	lískový ořech (m)
+he	on 
+head	hlava (f)
+health	zdraví (n)
+hear	slyšet
+heart	srdce (n)
+heaven	nebe (n); obloha (f)
+heavy	těžký
+hedgehog	ježek (m)
+heel	pata (f)
+helicopter	vrtulník (m); helikoptéra (f)
+helium	helium (n)
+hell	peklo (n)
+hello	haló
+help	pomoc!
+hemp	konopí (n)
+hen	slepice (f)
+her	její
+here	sem; tady
+hero	hrdina (m)
+heron	volavka (f)
+hi	ahoj
+hill	kopec (m); vrch (m); pahorek (m)
+hippopotamus	hroch (m)
+his	jeho; svůj 
+history	dějepis (m)
+holmium	holmium
+home	domov (m)
+homophobia	homofobie (f)
+homosexuality	homosexualita (f)
+honey	med (m)
+hoof	kopyto (n)
+hope	doufat
+horn	roh (m)
+horse	kůň
+hospital	nemocnice (f)
+hot	horký (m)
+hotel	hotel (m)
+hour	hodina (f)
+house	dům (m)
+how	jak
+how are you	jak se máš 
+how many	kolik
+how much	kolik
+how much does it cost	kolik stojí
+how old are you	kolik je vám let; kolik je tobě let
+hug	objetí (n)
+human	člověk (m)
+human being	lidská bytost (f)
+human rights	lidská práva (n)
+humanism	humanismus (m); humanizmus (m)
+hundred	sto
+hungry	hladový (m)
+hunt	lovit
+husband	manžel (m); muž (m)
+hydrogen	vodík (m)
+hyena	hyena (f)
+ibex	kozorožec
+ice	led (m)
+ice cream	zmrzlina (f)
+iceberg	kra (f)
+idiot	idiot (m)
+if	jestliže, pokud (1), zda (2)
+igneous rock	magmatická hornina (f)
+ill	nemocný
+important	důležitý (m)
+in	v; ve
+index	rejstřík (m)
+indium	indium
+information	informace (f)
+injury	urážka, (f), zranění (n), úraz (m)
+ink	inkoust (m)
+insect	hmyz (m) 
+insulin	inzulin; inzulín (m)
+intelligence	inteligence (f)
+interesting	zajímavý (m)
+internal combustion engine	motor s vnitřním spalováním (m)
+international	mezinárodní (m)
+interpreter	tlumočník (m)
+iodine	jód (m)
+iridium	iridium
+iron	žehlit
+is	je
+island	ostrov (m)
+it	to
+jackdaw	kavka (f)
+jay	sojka (f)
+jellyfish	medůza (f)
+joy	radost (f)
+juice	šťáva (f)
+juniper	jalovec (m)
+kangaroo	klokan (m)
+kestrel	poštolka obecná (f)
+ketchup	kečup (m)
+key	klíč (m)
+keyboard	klávesnice (f)
+kidney	ledvina (f)
+kill	zabít
+kilometre	kilometr (m)
+king	král (m)
+kingdom	království (n)
+kiss	líbat
+kitchen	kuchyně (f)
+kite	drak (m)
+knee	koleno (n)
+knife	nůž (m)
+knight	jezdec (m)
+know	znát
+koala	koala, medvídek koala, (m)
+krypton	krypton
+ladybird	slunéčko (n), sluníčko (n), beruška (f) (colloquial)
+ladybug	slunéčko (n), sluníčko (n), beruška (f) (colloquial)
+lake	jezero (n)
+lamb	jehně (n)
+land	země (f)
+language	jazyk (m)
+lanthanum	lanthan
+large	velký
+lark	skřivan (m)
+laser	laser (m)
+last year	loni; vloni
+laugh	smát 
+lava	láva (f)
+law	zákon (m)
+lawrencium	lawrencium
+lawyer	právník (m); advokát (m)
+lazy	líný (m)
+lead	olovo
+leaf	list (m)
+learn	uči se
+least weasel	lasice, kolčava
+leather	kůže (f)
+leech	pijavice (f)
+leek	pórek (m); pór zahradní
+left	levý (m)
+leg	noha (f)
+lemon	citrón (m); citron
+length	délka (f)
+lesbian	lesbička (f)
+lesser spotted woodpecker	strakapoud malý
+letter	dopis (m)
+lettuce	hlávkový salát (m)
+library	knihovna (f)
+lie	lhát
+life	život (m)
+light	osvětlit, osvítit
+light year	světelný rok (m)
+lighthouse	maják (m)
+lightning	blesk (m)
+like	jako; jak
+lily	lilie (f)
+linguistics	jazykověda (f); lingvistika (f)
+lion	lev (m)
+lip	ret (m)
+listen	naslouchat
+literature	literatura
+lithium	lithium (m)
+litre	litr (m)
+little	malý
+little owl	sýček (m)
+live	žít; bydlet
+liver	játra (n)
+lizard	ještěrka (f)
+lobster	humr (m)
+long	kalous
+look	dívat 
+look for	hledat
+louse	veš (f)
+love	lásko (f)
+low	nízký
+lung	plíce (f)
+lute	loutna (f)
+lutetium	lutecium
+lynx	rys (m)
+machine language	strojový kód (m)
+mackerel	makrela (f)
+mad	šílený (m)
+magma	magma (f)
+magnesium	hořčík
+magpie	straka
+maize	kukuřice (f)
+mallard	kachna divoká
+mammal	savec (m)
+man	člověk (m)
+manganese	mangan
+mango	mango (n)
+many	mnoho
+map	mapa (f)
+maple	javor (m)
+mare	klisna (f); kobyla (f)
+marijuana	marihuana (f)
+market	tržnice (f); trh (m)
+marmot	svišť (m)
+marten	kuna (f)
+masturbation	masturbace (f); onanie (f)
+match	zápalka (f); sirka (f)
+maternal grandfather	děda (m); děd (m)
+mathematics	matematika (f)
+mattress	matrace (f)
+maybe	asi; možná
+meal	jídlo (n)
+meat	maso (n)
+medicine	lékařství (n)
+meet	potkat
+melon	meloun (m)
+memory	paměť (f)
+mendelevium	mendelevium
+mercury	rtuť
+metal	kov (m)
+microscope	mikroskop (m)
+midnight	půlnoc (f)
+midwife	porodní bába (f)
+milk	dojit, podojit
+milliard	miliarda
+million	milión (m)
+millipede	stonožka
+mind	mysl (f); rozum
+mine	důl (m)
+mineralogy	mineralogie (f)
+mint	máta (f)
+minute	minuta (f)
+mirror	zrcadlo (n); zrcátko (n)
+moat	vodní příkop (m)
+mobile phone	mobilní telefon (m)
+mole	krt (m); (m)
+molecule	molekula (f)
+molybdenum	molybden
+moment	okamžik (m); moment (m)
+monarchy	monarchie (f)
+monastery	klášter (m)
+money	peníze
+monk	mnich (m)
+monkey	opičák (m), opice (f)
+month	měsíc (m)
+moon	měsíc
+morning	ráno (n) ('shortly after sunrise'), dopoledne (n)
+mosque	mešita (f)
+mosquito	komár (m)
+moss	mech (m)
+moth	mol (m)
+mother	tchýně (f); tchyně (f)
+mother tongue	mateřský jazyk (m)
+motorcycle	motocykl (m)
+mouflon	muflon
+mountain	hora (f)
+mouse	myš (f)
+moustache	knír (m)
+mouth	ústa (n); (f) tlama (f) 
+movie	film (m)
+much	mnoho
+mule	mula (f)
+murder	vražda (f)
+muscle	sval (m)
+museum	muzeum (n)
+mushroom	houba (f)
+music	hudba (f); muzika (f)
+musician	hudebník (m); muzikant (m)
+muskrat	ondatra
+mustard	hořčice (f)
+my	můj (m)
+my name is	jmenuji se...
+mysterious	tajemný (m); záhadný (m)
+mystery	záhada (f)
+mythology	mytologie (f); mythologie (f)
+nail	hřebík (m)
+naked	nahý (m)
+name	jméno (n)
+narrow	úzký (m)
+nature	příroda (f)
+navel	pupek (m)
+nebula	mlhovina (f)
+neck	krk (m); šíje (f)
+necklace	náhrdelník (m)
+needle	jehla (f)
+neighbour	soused (m)
+neodymium	neodym
+neon	neon
+neptunium	neptunium
+nest	hnízdo (n)
+nettle	kopřiva (f)
+neutrino	neutrino (n)
+never	nikdy
+new	nový (m)
+news	noviny (f)
+newspaper	noviny (f)
+nickel	nikl (m)
+niece	neteř (f)
+night	noc (f)
+nightingale	slavík (m)
+nightmare	noční můra (f)
+nine	devět
+nineteen	devatenáct
+ninety	devadesát
+ninth	devátý 
+niobium	niob
+nipple	bradavka (f), prsní bradavka (f)
+nitrogen	dusík (m)
+no	ne
+no smoking	zákaz kouření
+nobelium	nobelium
+nobody	nikdo
+non	nevládní nezisková organizace
+nonkilling	nezabíjení
+noon	poledne (n)
+north	sever (m); půlnoc (f) 
+nose	nos (m)
+not	ne
+notebook	zápisník (m); blok (m); notes (m)
+nothing	nic
+noun	podstatné jméno (n); substantivum (n)
+now	teď; nyní
+nude	nahý
+number	číslo (n)
+nurse	ošetřovatel (m); ošetřovatelka (f)
+nut	ořech (m)
+oak tree	dub (m)
+oar	veslo (n)
+obedience	poslušnost (f)
+obesity	obezita (f); otylost (f)
+oboe	hoboj
+ocean	oceán (m)
+octopus	chobotnice (f)
+of	z; ze
+of course	samozřejmě
+office	kancelář (f) ('room')
+often	často
+oil	nafta (m)
+old	starý
+olive	oliva (f)
+on	na
+one	jeden (m)
+onion	cibule (f)
+open	otevřený (m)
+operating system	operační systém (m)
+opinion	názor (m)
+or	nebo
+orange	oranžový
+organ	orgán (m)
+organism	organismus (m)
+orgasm	orgasmus (m)
+orphan	sirotek (m)
+osmium	osmium
+ostrich	pštros
+other	druhý (m); jiný (m); ostatní
+otter	vydra
+our	náš (m)
+ovary	vaječník (m)
+owl	sova (f)
+ox	vůl (m)
+oxygen	kyslík
+page	strana (f); stránka (f)
+pain	bolest (f)
+paint	barva (f)
+painter	malíř (m)
+palace	palác (m)
+palladium	palladium
+palm	dlaň (f)
+pancreas	slinivka břišní (f); pankreas (m)
+pants	kalhoty (f)
+paper	papír (m)
+paradox	paradox (m)
+parliament	parlament (m)
+parrot	papoušek (m)
+part	část (f)
+partridge	koroptev (f)
+passport	pas (m); cestovní pas (m)
+password	heslo (n)
+paternal aunt	teta (f)
+paternal grandfather	děda (m); děd (m)
+peace	klid (m); pokoj
+peach	broskev (f)
+peacock	páv (m)
+peanut	arašíd (m); burský oříšek (m)
+pear	hruška (f)
+pen	pero (n)
+pencil	tužka (f), olůvko (hist.) (n)
+penguin	tučňák (m)
+penicillin	penicilín (m)
+peninsula	poloostrov (m)
+penis	pyj (m); penis (m); úd (m)
+people	lid (m); lidé; národ (m)
+pepper	pepř (m)
+percent	procento (n)
+peregrine falcon	sokol stěhovavý (m)
+perestroika	přestavba (f); perestrojka (f)
+perhaps	možná; snad
+perineum	hráz (f)
+periodic table	periodická tabulka (f)
+person	osoba (f); člověk (m)
+petrol	benzín (m)
+petroleum	ropa (f); nafta (f)
+pharaoh	faraon (m); farao (m)
+pharmacy	lékárna (f)
+pheasant	bažant (m)
+philosopher	filozof (m); mudrc (m)
+phone	telefon (m)
+phosphorus	fosfor (m)
+photograph	fotografie (f)
+photography	fotografie
+physics	fyzika (f)
+piano	klavír (m); piáno (n)
+picture	obraz (m)
+pie	koláč (m)
+piece	kus (m)
+pig	prase (n)
+pigeon	holub (m)
+piglet	sele (n)
+pillow	polštář (m)
+pimple	uher (m)
+pin	špendlík (m)
+pine	borovice (f); sosna (f)
+pineapple	ananasovník (m)
+pink	růžový
+pirate	pirát (m)
+pizza	pizza (f)
+place	místo (n)
+planet	planeta (f)
+plant	rostlina (f)
+plate	talíř (m)
+platinum	platina (f)
+platypus	ptakopysk (m)
+play	hrát si
+please	prosím
+pleasure	potěšení (m)
+plough	pluh (m)
+plum	švestka (f); slíva (f)
+plutonium	plutonium (n)
+pocket	kapsa (f)
+poem	báseň (f)
+poetry	poezie (f)
+poison	jed (m)
+polar bear	medvěd lední, polární medvěd (m)
+polecat	tchoř (m)
+police	policie (f)
+policeman	policista (m)
+polite	zdvořilý (m); slušný
+politician	politik (m); politička (f)
+politics	politika (f)
+polonium	polonium
+polygon	mnohoúhelník (m); polygon
+pomegranate	granátové jablko (n)
+poor	chudý (m)
+pope	papež (m)
+poplar	topol (m)
+pornography	pornografie (f)
+port	přístav (m)
+post office	pošta (f)
+postage stamp	poštovní známka (f)
+postcard	pohlednice (f); pohled (m)
+postcode	směrovací číslo (n); poštovní směrovací číslo (n); PSČ (n)
+postmodernism	postmoderna (f)
+potassium	draslík
+pound	libra (f)
+power	síla (f)
+praseodymium	praseodym
+prayer	modlitba (f)
+pregnancy	těhotenství (n)
+pregnant	těhotná (f)
+preposition	předložka (f)
+prepuce	předkožka (f)
+president	prezident (m)
+pretty	hezký
+price	cena (f)
+priest	kněz (m)
+prime minister	premiér (m)
+prime number	prvočíslo (n)
+prison	vězení (n)
+problem	problém (m)
+promethium	promethium
+pronoun	zájmeno (n)
+pronunciation	výslovnost (f)
+property	majetek (m); vlastnictví (n)
+prostitute	prostitutka (f)
+protactinium	protaktinium
+protect	chránit
+proton	proton (m)
+proverb	přísloví (n)
+purple	purpurový; fialový
+pyramid	pyramida (f)
+quail	křepelka (f)
+quarter	čtvrt
+queen	dáma (f)
+question	otázka (f)
+quotation marks	uvozovky (f) 
+rabbit	králík (m)
+radio	rádio (n); rozhlas (m)
+radon	radon (m)
+railway	železnice (f)
+rain	pršet
+rainbow	duha (f)
+rake	hrábě
+ram	beran (m)
+rape	znásilnění (n)
+raspberry	malina (f)
+rat	krysa; potkan
+raven	krkavec
+read	číst; předčítat
+recent	nedávný (m)
+rectangle	obdélník (m)
+red	červený
+refrigerator	lednice (f); chladnička (f)
+reindeer	sob (m)
+relative	příbuzný (m)
+religion	náboženství (n)
+remember	pamatovat
+reptile	plaz (m)
+republic	republika (f)
+restaurant	restaurace (f)
+revenge	pomsta (f)
+revolution	revoluce (f)
+rhenium	rhenium
+rhodium	rhodium
+rice	rýže (f)
+rich	bohatý (m)
+rifle	puška (f)
+right	správný
+ring	prsten (m)
+ring finger	prsteník (m); prsteníček (m)
+river	řeka (f)
+road	silnice (f); ulice (f)
+robot	robot (m)
+rock dove	holub skalní
+roe deer	srna (f); srnec (m)
+roof	střecha (f)
+rook	věž (f)
+room	pokoj (m); místnost (f)
+rooster	kohout (m)
+root	kořen (m)
+rope	lano (n)
+rose	růže (f)
+rubidium	rubidium
+ruble	rubl (m)
+run	běžet; běhat
+ruthenium	ruthenium
+rutherfordium	rutherfordium
+rye	žito (n)
+saliva	slina (f)
+salmon	losos (m)
+salt	sůl (f)
+samarium	samarium
+same	tentýž (m)
+sand	písek (m)
+sandwich	sendvič (m)
+sausage	klobása (f)
+saw	pila (f)
+say	říct; povědět
+scandium	skandium
+scar	jizva (f)
+schizophrenia	schizofrenie (f)
+school	škola (f)
+science	věda (f)
+scissors	nůžky (f)
+scorpion	štír
+screech owl	sova pálená (f)
+scrotum	šourek (m)
+sea	moře (n)
+seagull	racek (m)
+seal	lachtan (m); tuleň (m)
+season	roční období (n)
+second	druhý
+secret	tajný (m)
+see	vidět
+seed	semeno (n)
+selenium	selen
+sell	prodávat; prodat 
+semen	semeno (n); ejakulát (m)
+send	poslat
+sentence	věta (f); sentence (f)
+service	práce (f)
+seven	sedm
+seventeen	sedmnáct
+seventh	sedmý ('abbreviation' 7.)
+seventy	sedmdesát
+sex	pohlaví (n)
+sexual orientation	sexuální orientace
+shadow	stín (m)
+shark	žralok (m)
+she	ona
+sheep	ovce (f)
+shepherd	pastýř (m)
+ship	loď (f)
+shirt	košile (f)
+shit	srát
+shoe	bota (f)
+shop	obchod (m); prodejna (f)
+shore	břeh (m)
+shoulder	rameno (n)
+sick	nemocný
+sickle	srp (m)
+silence	ticho (n); mlčení (n)
+silicon	křemík
+silk	hedvábí (n)
+silver	stříbro (n)
+simple	jednoduchý (m)
+sin	hřích (m)
+sing	zpívat
+singer	zpěvák (m); zpěvačka (f)
+sister	sestra (f)
+sit	sedět
+six	šest
+sixteen	šestnáct
+sixth	šestý ('abbreviation' 6.)
+sixty	šedesát
+skeleton	kostra (f)
+skin	kůže (f)
+skirt	sukně (f)
+skull	lebka (f)
+sky	nebe (n); obloha (f)
+skylark	skřivan polní
+skyscraper	mrakodrap (m)
+slave	otrok (m)
+sleep	spánek (m)
+slow	pomalý (m)
+small	malý (m)
+smell	vůně (f)
+smile	usmívat; usmát 
+smoke	kouřit
+snail	hlemýžď (m); šnek (m)
+snake	had (m)
+sneeze	kýchat
+snooker	kulečník
+snow	sníh (m)
+snowflake	sněhová vločka (f)
+soap	mýdlo (n)
+soccer	fotbal (m); kopaná (f)
+socialism	socialismus (m); socializmus (m)
+sock	ponožka (f) (ponožky (p))
+sodium	sodík
+sofa	pohovka (f); gauč (m)
+software	software (m)
+solar wind	sluneční vítr (m)
+soldier	voják (m)
+someone	někdo
+something	něco
+sometimes	někdy
+son	syn (m)
+song	píseň (f); písnička (f)
+soon	brzy; zanedlouho
+sorry	promiň 
+soul	duše (f)
+sound	zvuk (m)
+soup	polévka (f)
+sour	kyselý
+south	jih (m); poledne (n) 
+spacetime	časoprostor (m)
+spade	rýč (m)
+sparrow	vrabec (m)
+sparrow hawk	krahujec obecný (m)
+speak	mluvit; hovořit
+spectacles	brýle (f)
+sphere	koule (f)
+spice	koření (n)
+spider	pavouk (m)
+spirit	duch (m)
+spit	plivnout; plivat
+spleen	slezina (f)
+spoon	lžíce (f)
+sport	sport (m)
+spring	pružina (f)
+spruce	smrk (m)
+spy	vyzvědač (m); špión (m)
+square	náměstí (n)
+squid	krakatice (f)
+squirrel	veverka (f)
+stand	stát
+star	hvězda (f)
+starling	špaček
+station	nádraží (n)
+statue	socha (f)
+steel	ocel (f)
+stomach	žaludek (m)
+stone	kámen (m)
+stork	čáp (m)
+story	příběh (m)
+strange	zvláštní (m); divný (m); podivný (m)
+strawberry	jahoda (f)
+street	ulice (f)
+strength	síla (f)
+string	provázek (m); šňůra (f)
+strong	silný (m)
+strontium	stroncium
+student	student (m)
+submarine	ponorka (f)
+suck	sát
+suddenly	náhle
+sugar	cukr (m)
+suicide	sebevražda (f)
+sulfur	síra (f)
+summer	léto (n)
+sun	slunce (n)
+sunflower	slunečnice (f)
+surname	příjmení (n)
+swallow	polknout; spolknout
+swan	labuť (f)
+sweet	sladký (m)
+sweet potato	povijnice batátová
+sweetener	sladidlo (m)
+swim	plavat
+swimming pool	bazén (m)
+sword	meč (m)
+system	systém (m); soustava (f)
+table	tabulka (f)
+tadpole	pulec (m)
+taiga	tajga
+tail	ocas (m)
+take	vzít 
+talent	talent
+talk	mluvit
+tank	tank (m)
+tantalum	tantal
+tattoo	tetování (n)
+tawny owl	puštík
+taxi	taxík (m)
+tea	čaj (m)
+teach	učit
+teacher	učitel (m)
+tear	slza (f)
+technetium	technecium
+telephone	telefonovat; volat
+telescope	dalekohled (m)
+television	televizor (m)
+tellurium	tellur
+temple	chrám (m)
+ten	deset
+tent	stan (m)
+tenth	desátý ('abbreviation' 10.)
+terbium	terbium
+territory	území (n)
+terrorism	terorismus (m)
+terrorist	terorista (m)
+testicle	varle (n)
+thallium	thallium
+than	než
+thank you	děkuji; děkuji vám; děkuji ti
+thank you very much	děkuji mnohokrát
+thanks	díky
+that	tamten (m); tamta (f); tamto (n)
+the	(not used'cs)
+their	jejich
+there	tam
+there is	je
+they	oni; ony
+thief	zloděj (m)
+thigh	stehno (n)
+thimble	náprstek (m)
+thing	věc (f)
+think	přemýšlet
+third	třetí ('abbreviation' 3.)
+thirst	žízeň (f)
+thirsty	žíznivý (m)
+thirteen	třináct
+thirty	třicet
+this	tento (m); tato (f); toto (n)
+thorium	thorium
+thorn	trn (m); osten
+thou	ty
+thought	myšlenka (f)
+thousand	tisíc (m)
+thread	nit (f); vlákno (n)
+three	tři
+throat	hrdlo (n)
+thulium	thulium
+thumb	palec (m)
+thunder	hrom (m), zahřmění (n)
+tiger	tygr (m)
+time	čas (m)
+tin	cín (m)
+tired	unavený (m)
+titanium	titan (m)
+to	k; ke; ku; do
+toad	ropucha (f)
+tobacco	tabák (m)
+today	dnešek (m)
+toe	prst (m)
+together	společně; spolu
+toilet	toaleta (f); záchod (m)
+tomato	rajče (n)
+tomorrow	zítřek (m)
+tongue	jazyk (m)
+too	příliš
+tooth	zub (m)
+toothbrush	zubní kartáček (m)
+tortoise	želva
+tourism	turistika (f); turismus (m)
+tower	věž (f)
+town	město (n)
+toy	hračka (f)
+tradition	tradice (f)
+train	vlak (m)
+tram	tramvaj (f)
+translate	přeložit
+translation	překlad (m)
+translator	překladatel (m)
+travel	cestovat
+tree	strom (m)
+triangle	trojúhelník (m)
+tribe	kmen (m)
+trousers	kalhoty (f)
+truck	kamión (m); kamion (m)
+true	pravdivý (m)
+trumpet	trubka (f); trumpeta (f)
+tsar	car (m)
+tsunami	tsunami#Czech'tsunami (f) (indeclinable)
+tungsten	wolfram (m)
+turkey	krocan (m); krůta (f)
+turtle	želva (f)
+turtle dove	hrdlička (f)
+twelve	dvanáct
+twenty	dvacet tři, třiadvacet,
+twin	dvojče (n)
+two	dva; dvě
+two hundred	dvě stě
+typhoon	tajfun (m)
+umbrella	deštník (m) ('rain'), slunečník (m) ('sun')
+uncle	strýc (m)
+understand	rozumět
+unemployment	nezaměstnanost (f)
+universe	vesmír (m)
+university	univerzita (f)
+uranium	uran (m)
+urethra	močová trubice (f)
+urine	moč (f)
+use	použít
+useful	užitečný (m)
+vagina	pochva (f); vagína (f)
+valley	údolí (n); dolina (f)
+vampire	upír (m) 
+vanadium	vanad
+vegetable	zelenina
+verb	sloveso (n)
+very	velmi
+victory	vítězství (n)
+village	vesnice (f), ves (f), dědina (f)
+vinegar	ocet
+violet	fialový
+violin	housle (f)
+virus	virus (m)
+visa	vízum (n)
+vodka	vodka (f)
+voice	hlas (m)
+volcano	sopka (f); vulkán
+volleyball	odbíjená, volejbal
+volt	volt (m)
+vulture	sup
+wait	čekat
+waiter	číšník (m)
+wake up	probudit se; vzbudit se
+walk	jít
+wall	zeď (f)
+walrus	mrož (m)
+want	chtít
+war	(m)
+warm	teplý
+wart	bradavice (f)
+wash	mýt ('dishes'), prát ('laundry')
+wasp	vosa (f)
+watch	hodinky (f)
+water	voda (f)
+waterfall	vodopád (m)
+wave	vlna (f)
+wax	vosk (m)
+way	cesta (f)
+we	my
+weapon	zbraň (f)
+weather	počasí (n)
+wedding	svatba (f)
+week	týden (m)
+weekend	konec týdne (m); víkend (m)
+welcome	vítáme tě, vítej '(sg/informal)', vítáme vás, vítejte '(pl/formal)'
+well	dobře
+werewolf	vlkodlak (m)
+west	západ (m)
+wet	mokrý; vlhký
+whale	velryba (f)
+what	co
+what is your name	jak se jmenuješ?; jak se jmenujete?
+what time is it	kolik je hodin?
+wheat	pšenice (f)
+wheel	kolo (n)
+when	kdy
+where	kde; odkud 
+where is the toilet	kde je zachód
+whip	bič (m)
+whiskey	whisky (f)
+white	bílá
+who	kdo
+whole	celý (m)
+whore	děvka (f); kurva (f); běhna (f); nevěstka (f); šlapka (f)
+why	proč
+wide	široký
+widow	vdova
+wife	manželka (f); žena (f)
+wild boar	divočák (m), kanec (m), prase divoké
+wildcat	kočka divoká
+willow	vrba (f)
+wind	vítr (m)
+window	okno (n)
+wine	víno (n)
+wing	křídlo (n)
+winter	zima (f)
+wise	moudrý (m)
+wisent	zubr
+wish	přát si, přát
+witch	čarodějnice (f)
+with	s; se
+without	bez; beze
+wolf	vlk (m)
+woman	žena (f)
+wood	dřevo (n)
+woodpecker	datel (m); strakapoud (m)
+word	slovo (n)
+work	pracovat
+workers of the world, unite	proletáři všech zemí, spojte se!
+world	svět (m)
+worm	červ (m)
+wrist	zápěstí (n)
+write	psát
+writer	spisovatel (m)
+xenon	xenon (m)
+xenophobia	xenofobie (f)
+yawn	zívnout 
+year	rok (m)
+yeast	kvasinka (f)
+yellow	žlutá (f)
+yes	ano; jo 
+yesterday	včerejšek (m)
+yoga	jóga (f)
+yoghurt	jogurt (m)
+yolk	žloutek (m)
+you	vy
+young	mladý (m)
+your	váš
+ytterbium	ytterbium
+yttrium	yttrium
+zebra	zebra (f)
+zero	nula (f)
+zinc	zinek (m)

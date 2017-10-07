@@ -1,0 +1,989 @@
+﻿English	German
+black	schwarz
+blue	blau
+brown	braun
+gray	grau
+green	grün
+orange	orange
+pink	rosa, rosarot
+red	rot
+violet	lila, violett
+white	weiß
+yellow	gelb
+couple	Paar
+eight	acht
+eighteen	achtzehn
+eighty	achtzig
+eleven	elf
+fifteen	fünfzehn
+fifty	fünfzig
+five	fünf
+forty	vierzig
+four	vier
+fourteen	vierzehn
+million	Million
+nine	neun
+nineteen	neunzehn
+ninety	neunzig
+nothing	Nichts, Null
+one	ein, eins
+seven	sieben
+seventy	siebzig
+six	sechs
+sixteen	sechzehn
+sixty	sechzig
+ten	zehn
+third	dritte, dritter
+thirteen	dreizehn
+thirty	dreißig
+thousand	tausend
+thousand	tausend
+three	drei
+twenty	zwantig
+two	zwei
+arm	Arm
+back	Rücken
+beak	Schnabel
+blood	Blut
+body	Rumpf
+bone	Knochen
+brain	Gehirn
+breath	Atem, Atemzug
+cell	Zelle
+chest	Brust
+chest	Brust
+chin	Kinn
+ear	Ohr
+eye	Auge
+face	Gesicht
+finger	Finger
+foot	Fuß, Fuss
+forehead	Stirn
+gene	Gen
+hair	Haare
+hair	Haar
+hand	Hand
+head	Kopf, Haupt
+heart	Herz
+knee	Knie
+leg	Bein
+lip	Lippe
+mouth	Mund
+muscle	Muskel
+nail	Nagel
+neck	Hals
+nerve	Nerv
+nose	Nase
+skin	Haut
+stomach	Magen
+tail	Schwanz
+throat	Kehle
+thumb	Daumen
+toe	Zehe
+tongue	Zunge
+tooth	Zahn
+wing	Flügel
+ant	Ameise
+bear	Bär
+bee	Biene, Honigbiene
+bird	Vogel
+cat	Katze
+cow	Kuh
+dog	Hund
+elephant	Elefant
+fish	Fisch
+fly	Fielge, Fliege
+goat	Geiß, Ziege
+horse	Pferd, Ross
+insect	Insekt
+lion	Löwe
+monkey	Affe
+pig	Schwein
+sheep	Schaf
+snake	Schlange
+baby	Baby
+birth	Geburt
+birthday	Geburtstag
+boy	Junge
+brother	Bruder
+child	Kind
+daughter	Tochter
+death	Tod
+family	Familie
+father	Vater
+friend	Freund, Freundin
+girl	Fräulein, Mädchen
+grandfather	Großvater, Opa
+human	Individuum, Einzelperson
+husband	Ehemann, Mann
+life	Leben
+man	Mann
+marriage	Ehe, Ehegemeinschaft
+mother	Mutter
+neighbor	Nachbar
+parent	der Elternteil
+person	Individuum, Einzelperson
+relationship	Verwandtschaft, Beziehung
+sister	Schwester
+son	Sohn
+wedding	Hochzeit
+wedding	Eheschliessung, Heirat
+wife	Ehefrau, Frau
+woman	Frau
+beer	Bier
+coffee	Kaffe, Kaffee
+drink	Getränk, Trank
+milk	Milch
+milkshake	Milchshake
+tea	Tee
+water	Wasser
+wine	Wein
+bread	Brot
+breakfast	Frühstück
+butter	Butter
+cake	Kuchen
+cheese	Käse
+chocolate	Schokolade
+egg	Ei
+food	Essen, Nahrungsmittel
+fruit	Frucht, Obst
+lunch	Lunch, Mittagessen
+meal	Essen, Mahlzeit
+meat	Fleisch, Fleish
+oil	Öl
+rice	Reis
+salad	Salat
+salt	Salz
+sandwich	Sandwich
+sauce	Sauce, Soße
+soup	Suppe
+sugar	Zucker
+sweet	Süßigkeit
+apple	Apfel
+apricot	Aprikose, Marille
+banana	Banane
+blackberry	Brombeere
+cherry	Kirsche
+lemon	Zitrone, Limone
+nut	Schalenfrucht
+orange	Orange, Apfelsine
+peach	Pfirsich
+pear	Birne
+pineapple	Ananas
+plum	Pflaume
+raspberry	Himbeere
+strawberry	Erdbeere
+bean	Bohne
+cabbage	Kohl
+carrot	Möhre, Mohrrübe
+cucumber	Gurke
+garlic	Knoblauch
+olive	Olive
+onion	Zwiebel
+parsnip	Pastinak
+pea	Erbse
+potato	Kartoffel
+radish	Radieschen
+tomato	Tomate
+address	Adresse
+bathroom	badezimmer
+bedroom	Schlafzimmer
+brick	Backstein, Ziegel
+door	Tür
+floor	Fußboden
+floor	Geschoss, Etage
+garage	Garage
+garden	Garten
+gate	Tor, Pforte
+hall	Diele, Halle
+home	Heim, Heimat
+house	Haus
+kitchen	küche
+roof	Dach
+room	Zimmer
+shower	Dusche
+step	Stufe, Treppe
+toilet	Toilette
+wall	Mauer
+well	Brunnen
+window	Fenster
+bed	Bett
+carpet	Teppich, Vorleger
+chair	Stuhl
+cupboard	Schrank
+curtain	Gardine, Vorhang
+desk	Schreibtisch
+furniture	Möbel
+seat	Sitz
+shelf	Regal
+sink	Spültisch
+table	Tisch
+bag	Handtasche
+boot	Stiefel
+cloth	Stoff
+clothing	die Kleidung
+coat	Mantel
+collar	Kragen
+hat	Hut
+jacket	Jacke, Sakko
+jewel	Edelstein, Juwel
+ring	Ring
+shirt	Hemd
+shoe	Schuh
+skirt	Rock
+sock	Socke
+suitcase	Koffer, Handkoffer
+tie	Krawatte, Schlips
+actor	Akteur, Schauspieler
+actress	Schauspielerin
+businessman	Geschäftsmann
+expert	Experte
+general	General
+journalist	Journalist
+judge	Richter
+leader	Führer
+minister	Minister
+musician	Musikant, Musiker
+photographer	Fotograf, Photograph
+pilot	Pilot
+policeman	Polizist
+politician	Politiker
+president	Präsident
+professional	Fachmann, Profi
+representative	Stellvertreter
+sailor	Matrose, Seemann
+scientist	Wissenschaftler
+secretary	Sekretär
+servant	Diener
+soldier	Soldat
+writer	Schriftsteller
+airport	Flughafen, Flugplatz
+bank	Bank
+bridge	Brücke
+building	Bau, Bauwerk
+capital	die Hauptstadt
+castle	Burg
+church	Kirche
+cinema	Kino
+city	Metropole, Stadt
+factory	Fabrik, Fertigungsanlage
+flat	Appartement, Wohnung
+hospital	Behandlungsraum, Krankenhaus
+hotel	Hotel, Gasthaus
+library	Bücherei
+park	Park
+prison	Gefängnis
+restaurant	das Restaurant
+road	Straße, Strecke
+school	Schule
+station	Station
+street	Straße
+structure	Konstruktion, Struktur
+subway	Metro, U-Bahn
+supermarket	Supermarkt
+theater	Schauspielhaus, Theater
+town	Stadt
+university	Universität
+village	Dorf
+accident	Unfall, Unglück
+boat	Boot
+bus	Autobus, Bus
+car	Auto, Kraftwagen
+curve	Kurve
+express	Schnellzug
+flight	Fliegen, Flug
+journey	Fahrt, Reise
+passenger	Fahrgast, Passagier
+plane	Flugzeug
+ship	Schiff
+skid	Schleudern
+track	Gleis, Schiene
+train	Zug
+transport	Transport
+air	Luft
+animal	Kreatur, Tier
+branch	Ast
+evolution	Entwicklung
+farm	Bauernhof
+field	Feld
+fire	Feuer, Flamme
+flower	Blume
+forest	Gehölz, Holz
+grass	Gras, Ried
+leaf	Blatt, Laub
+life	Leben
+lightning	Blitz
+moisture	Feuchtigkeit
+nature	Natur
+plant	Gewächs, Pflanze
+root	Wurzel
+sex	Geschlecht
+sky	Himmel
+sleep	Schlaf, Schlummer
+smell	Aroma, Geruch
+smoke	Dunst, Qualm
+spring	Brunnen, Quelle
+stem	Stängel
+stream	Strom
+tree	Baum
+wave	Welle
+weather	Wetter
+world	Welt
+bank	Ufer
+beach	Strand
+current	Strömung
+direction	Richtung
+Earth	Erde
+east	Osten
+height	Höhe
+hill	Hügel
+island	Eiland, Insel
+lake	See
+land	Boden, Erdboden
+map	Karte
+Moon	Mond
+north	Nord, Norden
+plain	Ebene
+region	Bereich, Region
+river	Fluss
+sea	Meer
+south	Süd, Süden
+space	Weltraum
+star	Stern
+sun	Sonne
+west	westen, Westen
+acid	Säure
+chemical	die Chemikalie
+chemical element	Element
+coal	Kohle
+cotton	Baumwolle
+dust	Staub
+earth	Erde
+fat	Fett
+glass	Glas
+glue	Leim
+grain	Korn
+ice	Eis
+iron	Eisen
+leather	Leder
+liquid	Flüssigkeit
+matter	Materie, Stoff
+metallic element	Metall
+oil	Erdöl, Rohöl
+poison	Gift
+powder	Pulver, Staub
+sand	Sand
+silk	Seide
+soap	Seife
+steel	Stahl
+wood	Holz
+wool	Wolle
+bag	Beutel
+basket	Korb
+bottle	Flasche
+box	Kiste
+can	dose
+cup	Tasse
+drawer	Schublade
+envelope	Briefumschlag, Umschlag
+glass	Glas
+plate	Teller
+camera	Kamera
+camera	Fotoapparat
+cellular phone	das Handy
+clock	Uhr
+computer	Computer, Rechner
+elevator	Aufzug, Fahrstuhl
+engine	Motor
+instrument	Instrument
+machine	Maschine
+oven	Backofen, Ofen
+television	Fernseher
+watch	Uhr
+addition	Addition
+angle	Winkel
+area	Fläche
+center	Mitte, Mittelpunkt
+circle	Kreis
+curve	Kurve
+degree	Grad
+degree	Grad, Niveau
+difference	Unterschied
+distance	Abstand, Distanz
+division	Segmentierung, Teilung
+edge	Kante, Rand
+element	Element
+function	die Funktion
+half	Hälfte
+limit	Grenze
+line	Linie, Zeile
+net	Netz
+order	Reihenfolge
+outside	Äußere
+percent	Prozent, Prozente
+point	Punkt
+purpose	Funktion, Zweck
+result	Ergebnis
+root	Wurzel
+rule	Regel
+set	Satz
+side	Seite
+square	Quadrat
+square	Quadrat
+substitution	Ersatz
+surface	Oberfläche
+total	Summe
+ability	Fähigkeit
+act	Tat
+action	Akt, Tat
+activity	Aktivität
+addition	Ergänzung, Zugabe
+amount	Menge
+attack	Angriff, Anfall
+attempt	Anstrengung, Bemühung
+attitude	Standpunkt, Stellung
+back	Rückseite
+behavior	Benehmen, Verhalten
+bit	Stückchen
+blow	Schlag
+break	Pause
+campaign	Kampagne
+case	Fall
+chance	Chance, Gelegenheit
+change	Abwechslung, Abänderung
+choice	Wahl
+condition	Zustand, Status
+connection	Anschlussstück, Stecker
+connection	Verbindung
+crack	Kluft, Riss
+crush	Zerquetschung
+cut	Schnitt
+damage	Beschädigung, Schaden
+danger	Gefahr
+death	Tod, tod
+decoration	Verzierung
+defense	Verteidigung, Abwehr
+destruction	Vernichtung
+detail	Einzelheit
+dominance	Vorherrschaft, Oberherrschaft
+drop	Tropfen
+duty	Pflicht, Verpflichtung
+effort	Kraftanstrengung
+fall	Fall, Sturz
+feature	Charakteristik, Eigenschaft
+fight	Bekämpfung, Kampf
+front	Front, Vorderseite
+hit	Schlag, Hieb
+hole	Höhle
+increase	Wachstum
+increase	Zunahme, Zuwachs
+internet	Internet
+jolt	Ruck
+kick	Tritt
+kind	Art, Gattung
+knot	Knoten
+list	Liste
+majority	Mehrheit
+matter	Affäre, Geschäft
+mind	Geist, Verstand
+operation	Betrieb
+opposite	Gegenteil
+outburst	Ausbruch, Eruption
+part	Anteil, Teil
+part	Teil
+personality	Charakter
+piece	Stück, Teil
+place	Platz
+position	Stelle, Position
+power	Energie, Kraft
+practice	Praxis
+project	Projekt, Aufgabe
+property	Eigenschaft
+quality	Qualität
+quiet	Gelassenheit, Ruhe
+reach	Reichweite
+report	Bericht
+responsibility	Verantwortung
+rest	Rest
+return	Rückkehr, Wiederkehr
+rise	Aufstieg
+risk	Gefahr, Risiko
+seat	Platz
+serial	Serie
+set	Satz, Set
+silence	Stille
+situation	Lage
+slice	Stück
+state	Zustand
+step	Schritt
+stop	Halt
+taste	Geschmack
+thing	Ding, Sache
+top	Gipfel, Höhepunkt
+touch	Berührung
+treatment	Behandlung
+tremble	Zittern
+trick	Kniff, List
+type	Art, Gattung
+use	Anwendung, Nutzung
+way	Art und Weise
+wear	die Abnutzung
+whole	Ganze
+will	Wille
+wish	Wunsch
+afternoon	Nachmittag
+age	Alter
+April	April
+August	der August
+autumn	Herbst
+beginning	Anfang, Beginn
+century	Jahrhundert
+date	Datum
+day	tag, Tag
+December	Dezember
+end	Eind, Ende
+evening	Abend
+February	Februar
+Friday	Freitag
+future	Zukunft
+hour	Stunde
+January	Januar
+July	Juli
+June	Juni
+May	Mai
+midnight	Mitternacht
+minute	Minute
+moment	Moment
+moment	Augenblick
+Monday	Montag
+month	Monat
+morning	Morgen, Vormittag
+night	Nacht, Nachtzeit
+November	November
+now	jetzt, nun
+October	Oktober
+past	Vergangenheit
+pause	Pause, Unterbrechung
+period	Periode
+present	Gegenwart
+Saturday	Samstag
+season	Saison
+second	Sekunde
+September	September
+spring	Frühjahr, Frühling
+summer	Sommer, Sommerzeit
+Sunday	Sonntag
+Thursday	Donnerstag
+today	Heute
+tomorrow	Morgen
+Tuesday	Dienstag
+Wednesday	Mittwoch
+week	Woche
+weekend	Wochenende
+while	Weile
+winter	Winter
+year	Jahr
+art	Kunst, Arte
+artist	Artist
+band	Kapelle
+brush	Bürste
+color	Farbe
+concert	Konzert
+design	Entwurf
+diversity	Diversität, Verschiedenheit
+entertainment	Unterhaltung, Belustigung
+hit	Schlager
+image	das Image
+ink	Tinte
+invention	Erfindung
+manner	Art, Weise
+movie	Film
+museum	Museum
+music	Musik
+note	Note
+orchestra	Orchester
+paint	Farbe
+painting	Gemälde
+paper	Papier
+pen	Füller
+pencil	Bleistift
+picture	Bild
+poem	Poem
+poetry	Poesie
+rhythm	Rhythmus
+shape	Form
+singer	Sänger
+song	Song
+stage	Bühne
+style	Stil
+vogue	Mode
+account	Konto
+advantage	Vorteil
+advertisement	Inserat, Reklame
+advice	Rat
+agreement	Abkommen, Vertrag
+attention	Aufmerksamkeit
+authority	Autorität, Berechtigung
+banknote	Banknote
+bargain	Handel
+brand	Ausführung, Marke
+business	Geschäft
+businesswoman	Geschäftsfrau, Kauffrau
+capital	Kapital
+change	Kleingeld, Wechselgeld
+cheque	Scheck
+committee	Ausschuss, Komitee
+company	Firma
+competition	Konkurrenzkampf
+complaint	Anklage, Beanstandung
+contract	Vertrag, Kontrakt
+copy	Kopie
+cost	Kosten
+council	Kollegium, Rat
+course	Lehrgang, Kurs
+customer	Kunde
+demand	Bedarf, Bedürfnis
+department	Abteilung
+difficulty	Schwierigkeit
+director	Direktor, Verwalter
+economy	Wirtschaft, Wirtschaftssystem
+environment	Milieu, Umgebung
+experience	Erfahrung
+firm	Firma, Betrieb
+form	Formblatt, Formular
+group	Gruppe, Gruppierung
+help	Hilfe, Mithilfe
+holiday	Urlaub, Ferien
+income	Einkommen
+industry	Industrie
+insurance	Versicherung
+interest	Zins
+invoice	Faktur, Nota
+job	Arbeit, Aufgabe
+law	Gesetz
+leave	Urlaub
+loss	Verlust
+management	Führung, Management
+mark	Marke, Zeichen
+market	Markt
+material	Material, materiell
+mean	Mittel, Mittelwert
+meeting	Treffen
+money	Geld
+occupation	Arbeit, Beruf
+offer	Angebot, Antrag
+office	Büro
+officer	Beamter
+operation	Operation
+owner	Besitzer
+package	Bündel, Packung
+payment	Bezahlung, Zahlung
+plan	Plan
+price	Preis
+problem	Problem
+product	Produkt, Erzeugnis
+profit	Gewinn, Verdienst
+property	Eigentum, Besitz
+rate	Satz, Tarif
+rest	Rest, Relikt
+reward	Belohnung
+right	Recht
+sale	Verkauf, Vertrieb
+section	Abteilung
+section	Abteilung, Sektion
+service	Dienst, Bedienung
+share	Aktie
+shop	Geschäft
+show	Show
+skill	das Geschick
+staff	Belegschaft, Personal
+structure	Struktur
+success	Erfolg
+support	Hilfe, Stütze
+table	Tabelle
+tax	Besteuerung, Steuer
+team	Mannschaft
+trade	Handel
+value	Wert
+work	Arbeit
+worker	Arbeiter
+announcement	Ankündigung, Bekanntmachung
+answer	Antwort
+approval	Genehmigung, Billigung
+argument	Argument
+book	Buch
+call	der Anruf
+character	Schriftzeichen, Zeichen
+controversy	Streit, Kontroverse
+cry	Aufschrei, Geschrei
+data	Angaben
+decision	Beschluss, Entscheidung
+dictionary	Lexikon, Wörterbuch
+discussion	Diskussion
+doubt	Ungewissheit, Zweifel
+experience	Erlebnis
+feeling	Gefühl
+humor	der Humor
+idea	Gedanke, Idee
+information	Information, Auskunft
+interest	Interesse
+interview	Interview
+language	Sprache
+language	die Sprache
+letter	Schriftzeichen
+letter	Brief
+lie	Lüge
+look	Blick
+magazine	Zeitschrift
+mail	Post
+memory	das Gedächtnis
+memory	Andenken, Erinnerung
+mistake	Fehler, Irrtum
+name	Name
+newspaper	Zeitung
+note	Anmerkung, Note
+number	Nummer, Zahl
+opinion	Meinung, Ansicht
+page	Seite
+pronunciation	Aussprache
+proposal	Vorschlag
+protest	Einspruch
+question	Abfrage, Erkundigung
+reaction	Reaktion
+reason	Grund
+relation	Verhältnis
+request	Anforderung, Bitte
+secret	Geheimnis
+sentence	Satz
+sign	Zeichen
+speech	Sprache, Rede
+spelling	Orthographie, Rechtschreibung
+standard	Kriterium, Maß
+statement	Aussage, Behauptung
+subject	Subjekt, Thema
+suggestion	Vorschlag
+voice	Stimme
+word	Wort
+writing	die Schrift
+good day	guten Tag
+good luck	viel Glück
+hello	hallo, tschüss
+how are you	wie geht es dir, wie geht es Ihnen
+many thanks	vielen Dank, besten Dank
+no	Nein, nein
+thank you very much	danke schön, danke sehr
+yes	ja
+Britain	Britannien
+China	China
+Czech Republic	Tschechische Republik
+France	Frankreich
+Germany	Deutschland
+India	Indien
+Italy	Italien
+Japan	Japan
+Spain	Spanien
+United States of America	Vereinigte Staaten
+class	Klasse
+education	Ausbildung, Bildung
+education	Erziehung
+education	Bildung, Unterrichtswesen
+examination	Examen, Prüfung
+grade	Note, Zensur
+knowledge	Kenntnis
+student	Schüler, Student
+teacher	Instrukteur, Lehrer
+training	Ausbildung
+fear	Angst, Furcht
+hate	Hass
+love	Liebe
+pleasure	Vergnügen
+promise	Hoffnung
+shock	Schock
+care	Sorge, Pflege
+cold	Erkältung
+cough	Husten
+disease	Krankheit
+doctor	Arzt, Doktor
+health	Gesundheit
+menstruation	Menorrhö, Menstruation
+nurse	Krankenschwester
+operation	Operation
+pain	Schmerz
+patient	Patient
+stitch	Nadelstich
+blade	Blatt, Klinge
+board	Brett
+card	Karte
+chain	Kette
+club	Keule, Knüppel
+cover	Deckel, Hülle
+feather	Feder
+flag	Flagge
+frame	Rahmen
+handle	Henkel, Stiel
+menu	Menü, Speisekarte
+nut	Schraubenmutter
+pin	Nadel, Stecknadel
+pipe	Rohre, Rohrleitung
+postage	Porto
+present	Geschenk
+sail	Segel
+scroll	Rolle
+seed	Same, Samen
+stick	Stock
+stone	Gestein, Stein
+ticket	Fahrkarte, Fahrschein
+wheel	Rad
+wire	Draht
+balance	Gleichgewicht
+bulk	Masse
+charge	die Ladung
+energy	Energie
+light	Licht
+mass	Masse
+measurement	Messen, Messung
+mirror	Spiegel
+movement	Bewegung
+pressure	Druck
+process	Verfahren
+size	Größe
+sound	Ton
+steam	Dampf
+strength	Kraft, Gewalt
+time	die Zeit
+unit	Einheit
+weight	Gewicht
+boyfriend	Freund
+date	Verabredung
+girlfriend	Freundin
+guest	Gast
+honey	Liebling
+kiss	Kuß
+party	Party
+sex	Sex
+smile	Lächeln, Grinsen
+surprise	Überraschung
+visit	Visite
+alternative	Alternative, Mehrfachmöglichkeit
+biology	Biologie
+cause	Grund, Ursache
+chemistry	Chemie
+comparison	Vergleich
+consequence	Effekt, Ergebnis
+control	Kontrolle
+discipline	Disziplin
+discovery	Entdeckung
+event	Ereignis, Begebenheit
+evidence	Beweis
+example	Beispiel
+fact	Tatsache
+issue	Problem
+kernel	Essenz, Kern
+method	Methode
+model	Modell
+phase	Phase, Stufe
+procedure	Verfahren, Prozess
+production	Produktion
+program	Programm
+project	Projekt
+range	Reichweite, Rahmen
+research	Forschung
+research	Erhebung
+science	Wissenschaft
+society	Gesellschaft
+system	system, System
+technology	Technologie
+theory	Theorie
+trend	Tendenz, Trend
+trouble	Problem, Schwierigkeit
+user	Benutzer
+army	Armee
+base	Basis, Stützpunkt
+club	Club, Klub
+company	Gesellschaft
+contest	Wettbewerb, Wettkampf
+country	Land
+court	Gericht
+crime	Kriminalität, Verbrechen
+culture	Kultur
+democracy	Demokratie, Republik
+dominion	Oberherrschaft
+election	Wahl
+existence	Dasein, Existenz
+female	Frau
+government	Regierung, Regime
+history	Geschichte
+individual	das Individuum
+institution	Institution, Niederlassung
+king	König
+male	Mann
+member	Mitglied
+nation	Nation
+news	Nachrichten
+noise	Geräusch, Lärm
+order	Auftrag, Befehl
+organization	Gesellschaft
+pass	Ausweis
+passport	Reisepass
+peace	Frieden
+people	Leute
+police	Polizei
+policy	Politik
+population	Bevölkerung
+public	Volk, Leute
+punishment	Bestrafung, Strafe
+religion	Glaube, Religion
+religion	Religion
+state	Staat
+title	Titel
+union	Verein, Bund
+war	Krieg
+will	Wille
+will	Testament
+award	Auszeichnung
+ball	Ball
+baseball	Baseball
+bike	Fahrrad
+championship	Meisterschaft, Titel
+competitor	Gegenspieler, Gegner
+cup	Pokal
+football	Fußball
+game	Spiel
+goal	Tor
+goal	Bestimmung
+gold	Gold
+golf	Golf
+jump	Sprung
+match	Spiel
+player	Spieler
+record	Rekord
+silver	Silber
+tennis	Tennis
+throw	Wurf
+win	Gewinn, Sieg
+bell	Glocke
+button	Knopf, Taste
+gun	Gewehr
+hammer	Hammer
+hook	Haken
+key	Schlüssel
+lock	Schloss, Schloß
+match	Zündholz
+nail	Nagel
+needle	Nadel
+pump	Pumpe
+rope	Seil, Tau
+scissors	Schere
+spring	Feder
+stamp	Stempel
+whip	Peitsche
+cloud	Wolke
+dew	Tau
+fog	der Nebel
+frost	Raureif, Reif
+rain	Regen
+rainbow	Regenbogen
+snow	der Schnee
+storm	Sturm
+thunder	Donner
+wind	Wind

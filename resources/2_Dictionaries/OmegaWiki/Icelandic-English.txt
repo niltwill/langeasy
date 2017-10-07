@@ -1,0 +1,617 @@
+Icelandic	English
+Abraham Lincoln	Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln
+Adelaide	Adelaide
+Adríahaf	Adriatic Sea
+Eyjahaf	Aegean Sea
+afríkanska	Afrikaans
+Alsír	Algeria ; People's Democratic Republic of Algeria
+Samóaeyjar	American Samoa
+Andorra	Andorra ; Principality of Andorra
+Angóla	Angola ; Republic of Angola
+Angvilla	Anguilla
+Suðurskautslandið	Antarctica
+Antígva og Barbúda	Antigua and Barbuda
+arabíska	Arabic ; Standard Arabic
+aragónska	Aragonese ; Aragonese
+Argentína	Argentina ; Argentine Republic
+Armenía	Armenia
+armenska	Armenian
+Arúba	Aruba
+Körfublómaætt	Asteraceae ; sunflower family ; Compositae ; daisy family ; aster family
+astúríska	Astur-Leonese ; Asturian ; Asturian-Leonese ; Astur
+ágúst	August
+Ástralía	Australia ; Commonwealth of Australia
+Austurríki	Austria ; Republic of Austria
+Aserbaídsjan	Azerbaijan ; Republic of Azerbaijan
+Asóreyjar	Azores
+Barein	Bahrain
+Bangladess	Bangladesh ; People's Republic of Bangladesh
+baskneska	Basque ; Basque
+Hvíta-Rússland	Belarus ; Republic of Belarus
+hvítarússneska	Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian
+Belize	Belize
+Bermúda	Bermuda
+Biblían	Bible
+Bolivia	Bolivia ; Republic of Bolivia
+Borneó	Borneo ; Kalimantan
+Bosnía og Hersegóvína ; Bosnía-Hersegóvína	Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina
+Botsvana	Botswana ; Republic of Botswana
+Bouveteyja	Bouvet Island
+bretónska	Breton ; Breton
+Bresku Indlandshafseyjar	British Indian Ocean Territory ; BIOT
+Brúnei	Brunei ; Negara Brunei Darussalam
+Búlgaría	Bulgaria ; Republic of Bulgaria
+Búrúndí	Burundi ; Republic of Burundi
+Kambódía	Cambodia ; Kingdom of Cambodia
+Kamerún	Cameroon ; Republic of Cameroon
+Karíbahaf ; Karabíska hafið	Caribbean Sea
+Caymaneyjar	Cayman Islands
+Tsjad	Chad ; Republic of Chad
+téténska	Chechen ; Chechen
+Chile	Chile ; Republic of Chile
+Jól	Christmas
+Jólaeyja	Christmas Island
+jólatré	Christmas tree
+Kólumbía	Colombia ; Republic of Colombia
+Cookeyjar	Cook Islands
+Kostaríka	Costa Rica ; Republic of Costa Rica
+Króatía	Croatia ; Republic of Croatia
+króatíska	Croatian ; Croation
+Kúba	Cuba ; Republic of Cuba
+Kýpur	Cyprus ; Republic of Cyprus
+kýrillískt letur	Cyrillic alphabet
+tékkneska	Czech ; Czech
+Tékkland	Czech Republic ; Czechia
+Dakar	Dakar
+Kongó alþýðulýðveldi	Democratic Republic of the Congo ; Congo-Kinshasa
+Danmörk	Denmark ; Kingdom of Denmark
+Djíbútí	Djibouti ; Republic of Djibouti
+Dóminíka	Dominica ; Commonwealth of Dominica
+Dóminíska lýðveldið	Dominican Republic
+hollenska ; tékkneska	Dutch
+Evrópusambandið ; ESB ; ES	EU ; European Union
+Austur-Tímor	East Timor ; Democratic Republic of Timor-Leste
+Ekvador	Ecuador ; Republic of Ecuador
+Egiptaland ; Egyptaland	Egypt ; Arab Republic of Egypt
+Eiffelturninn	Eiffel Tower
+El Salvador	El Salvador ; Republic of El Salvador
+enska	English
+Miðbaugs-Gínea	Equatorial Guinea ; Republic of Equatorial Guinea
+Erítrea	Eritrea
+Eistland	Estonia ; Republic of Estonia
+eistneska	Estonian
+Eþíópía	Ethiopia ; Federal Democratic Republic of Ethiopia
+Falklandseyjar	Falkland Islands
+Færeyjar	Faroe Islands
+færeyska	Faroese ; Faeroese
+Fídjieyjar	Fiji ; Republic of the Fiji Islands
+Финлянди ; Finnland	Finland ; Republic of Finland
+finnska	Finnish
+Flaemingjaland	Flanders ; Flemish region
+flæmska	Flemish
+Frakkland	France
+franska	French ; French
+Franska Gvæjana	French Guiana
+Franska Pólýnesía	French Polynesia
+franska byltingin	French Revolution
+Frönsku suðlægu landsvæðin	French Southern Territories ; French Southern and Antarctic LandsA ; French Southern and Antarctic Lands ; Territory of the French Southern and Antarctic Lands
+frísneska	Frisian ; Western Frisian
+Gabon	Gabon ; Gabonese Republic
+Gambía	Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia
+Georgía	Georgia
+þýska	German
+Þjóðverji ; Þjóðverji	German
+þýskur ; þýskur	German
+þýska (Austurríki)	German (Austria)
+þýska (Sviss)	German (Switzerland)
+Þýskaland	Germany ; Federal Republic of Germany
+Gana	Ghana ; Republic of Ghana
+Gíbraltar	Gibraltar
+Grikkland	Greece ; Hellenic Republic
+gríska	Greek ; Greek
+grískt stafróf	Greek alphabet
+Grænland	Greenland
+Gregoríska tímatalið	Gregorian calendar
+Grenada	Grenada
+Gvadelúp	Guadeloupe
+Gvam	Guam ; Guam ; Guam
+Gvatemala	Guatemala ; Republic of Guatemala
+Gínea	Guinea ; Republic of Guinea
+Gvæjana	Guyana ; Republic of Guyana
+H5N1	H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)
+Haítí	Haiti ; Republic of Haiti
+gleðilegt nýtt ár	Happy New Year
+hebreska	Hebrew
+hindí	Hindi ; Hindi
+Holland	Holland ; Kingdom of the Netherlands ; The Netherlands
+Hondúras	Honduras ; Republic of Honduras
+Ungverjaland	Hungary ; Republic of Hungary
+ég	I
+Ísland ; Lyðveldið Ísland	Iceland ; Republic of Iceland
+íslenska	Icelandic
+Indland	India ; Republic of India
+Indónesía	Indonesia ; Republic of Indonesia
+Íran	Iran ; Islamic Republic of Iran
+Írak	Iraq ; Republic of Iraq
+Ísrael	Israel ; State of Israel
+ítalska	Italian ; Italian
+Ítalía	Italian Republic ; Italy
+Fílabeinsströndin	Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire
+Djakarta	Jakarta ; Djakarta ; DKI Jakarta
+Jamaíka	Jamaica
+Japan	Japan ; State of Japan
+japanska	Japanese ; Japanese
+Jersey	Jersey ; Bailiwick of Jersey
+Jórdanía	Jordan ; Hashemite Kingdom of Jordan
+Gyðingdómur	Judaism
+júní	June
+grænlenska	Kalaallisut
+Kasakstan	Kazakhstan ; Republic of Kazakhstan
+Kenía	Kenya ; Republic of Kenya
+Kartúm	Khartoum
+khmer	Khmer ; Central Khmer
+Kíribatí	Kiribati ; Republic of Kiribati
+Kúveit	Kuwait ; State of Kuwait
+Kirgistan	Kyrgyzstan ; Kyrgyz Republic
+Lettland	Latvia ; Republic of Latvia
+lettneska	Latvian ; Latvian
+Líbanon	Lebanon ; Lebanese Republic
+Lesótó	Lesotho ; Kingdom of Lesotho
+Líbería	Liberia ; Republic of Liberia
+Líbýa	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+Litháen	Lithuania ; Republic of Lithuania
+Lúxemborg	Luxembourg ; Grand Duchy of Luxembourg
+Makedónía	Macedonia ; Republic of Macedonia
+Madagaskar	Madagascar ; Republic of Madagascar
+Malaví	Malawi ; Republic of Malaŵi
+Malasía	Malaysia
+Maldíveyjar	Maldives ; Republic of the Maldives
+Malí	Mali ; Republic of Mali
+Marshalleyjar	Marshall Islands ; Republic of the Marshall Islands
+Martinique	Martinique
+Máritanía	Mauritania ; Islamic Republic of Mauritania
+Mayotte	Mayotte
+Mekka	Mecca
+gleðileg jól	Merry Christmas
+Mexíkó	Mexico ; United Mexican States
+Míkrónesía	Micronesia ; Federated States of Micronesia
+Mílanó	Milan
+Mónakó	Monaco
+Svartfjallaland	Montenegro
+Montserrat	Montserrat
+Marokkó	Morocco ; Kingdom of Morocco
+Mjanmar	Myanmar
+Naíróbí	Nairobi
+Namibía	Namibia
+Nýja-Kaledónía	New Caledonia
+nýtt ár	New Year ; New Year's Day
+Nýja-Sjáland	New Zealand
+Níkaragva	Nicaragua
+Niue	Niue
+Noregur	Norway ; Kingdom of Norway
+nýnorska	Nynorsk
+Óman	Oman ; Sultanate of Oman
+Pakistan	Pakistan ; Islamic Republic of Pakistan
+Palá	Palau
+Panama	Panama
+persneska	Persian ; Western Farsi ; Farsi
+Perú	Peru ; Republic of Peru
+Pólland	Poland
+pólska	Polish ; Polish
+Portúgal	Portugal
+portúgalska	Portuguese ; Portuguese
+Púertó Ríkó	Puerto Rico
+Katar	Qatar
+Vestur-Kongó	Republic of the Congo ; Congo-Brazzaville
+rúmenska	Romanian ; Romanaian
+Róm	Rome
+rússneska	Russian ; Russian
+Saint-Pierre og Miquelon	Saint-Pierre and Miquelon
+Sádí-Arabía	Saudi Arabia ; Kingdom of Saudi Arabia
+Senegal	Senegal
+Serbía	Serbia
+Serbía og Svartfjallaland	Serbia and Montenegro
+Slóvakía	Slovakia
+sómalska	Somali ; somali
+Spánn	Spain
+Sri Lanka ; Srí Lanka	Sri Lanka
+Svíþjóð	Sweden
+sænska	Swedish
+Sviss	Switzerland
+Sýrland	Syria ; Syrian Arab Republic
+Tævan	Taiwan
+tamílska	Tamil ; Tamil
+Tansanía	Tanzania
+tatarska	Tatar ; Tatar
+Tógó	Togo
+Tyrkland	Turkey
+tyrkneska	Turkish ; Turkish
+Úganda	Uganda ; Republic of Uganda
+úrdú	Urdu ; Urdu
+Vatíkanið	Vatican City ; The Holy See ; State of the Vatican City
+víetnamíska	Vietnamese ; Vietnamese
+Volga	Volga
+Wallis- og Fútúnaeyjar	Wallis and Futuna ; Territory of the Wallis and Futuna Islands
+velska	Welsh ; Welsh
+Wikiorðabók	Wiktionary
+Sambía	Zambia ; Republic of Zambia
+Simbabve	Zimbabwe ; Republic of Zimbabwe
+zulu	Zulu
+agndofa	aback
+árangurslaus	abortive
+stytta	abridge
+bókhald	accountancy
+akarn	acorn
+rammur	acrid
+áablýál	actinium
+bæ	adieu ; bye ; cheerio ; farewell ; good day ; goodbye
+ævintÿri	adventure
+árásarmaður	aggressor ; assailant ; attacker ; assaulter
+flugpóstur	airmail
+vekjaraklukka	alarm clock
+gullgerðarmaður	alchemist
+alkóhólismi	alcoholism
+málmblanda	alloy
+almanak	almanac
+ál	aluminium
+ambasciatore	ambassador
+sjúkrabíll	ambulance
+ameríkín	americium
+stjórnleysisstefna	anarchism
+akkeri	anchor
+engill	angel
+anime	anime
+maur	ant
+antilópa	antelope
+antimon	antimony
+spakmæli	aphorism
+epli	apple
+erkibiskup	archbishop
+húsameistari	architect
+argon	argon
+deila ; rifrildi	argument
+aðalsveldi	aristocracy
+vopnabúr	armoury
+handarkriki	armpit
+örvaroddur	arrowhead
+arsen	arsenic
+íkveikja	arson
+slagæð	artery
+kænn	artful
+liðagigt	arthritis
+yfirráð	ascendancy
+uppganga ; brekka	ascent
+brekka	ascent
+náfölur	ashen
+að landi	ashore
+öskubakki	ashtray
+sofandi	asleep
+asfalt	asphalt
+metnaðarlöngun	aspiration
+safna saman	assemble ; get together ; gather
+samþykki	assent
+samþykkja	assent
+staðhæfa	assert
+standa fast á	assert
+ákveðinn	assertive
+tilnefna	assign
+verkefni	assignment
+melta	assimilate
+aðstoða	assist
+astat	astatine
+stjörnumerki	asterisk
+furðulegur	astonishing
+undrun	astonishment
+gera forviða	astound
+stórfurðulegur	astounding
+klofvega	astride
+stjörnuspeki	astrology ; star divination
+stjörnufræði	astronomy
+ósamhæft	asymmetric ; asymmetrical
+hringrif	atoll
+atóm	atom
+atómmassi	atomic mass
+aðlaðandi	atractive
+grimmdarverk	atrocity
+hændur	attached
+væntumþykja	attachment
+fylgihlutur	attachment
+annast	attend
+sækja	attend
+sÿna athygli	attend
+sinna	attend
+umsjónarmaður	attendant
+umhyggjusamur	attentive
+rishæð	attic
+klæðnaður	attire
+klæða	attire
+stelling	attitude
+draga að sér	attract
+djarfur	audacious
+auka	augment
+heillavænlegur	auspicious
+opinber	authoritative
+ritstörf	authorship
+einveldi	autocracy
+líkskoðun	autopsy
+tiltækur	available
+beina burt	avert
+fuglasafn	aviary
+ákafur	avid
+stundarkorn	awhile
+já	aye ; yeah ; yep ; yes
+beikon	bacon
+bakarí	baker ; bakery
+lyftiduft	baking powder
+ballaða	ballad
+danssalur	ballroom
+barín	barium
+bygg	barley
+loftvog	barometer
+barón	baron
+hafnarbolti	baseball ; baseball game
+bifur	beaver
+nafli	belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus
+beryllín	beryllium ; glucinium
+reiðhjól	bicycle ; bike ; cycle
+lífefnafræði	biochemistry
+bismút	bismuth
+svartþröstur	blackbird
+blogg	blog ; weblog ; web log
+blóðvökvi	blood plasma
+blár	blue
+bór	boron
+landamæri	boundary
+bogi	bow
+bróm	bromine
+byssukúla	bullet
+slátrari	butcher
+fiðrildi	butterfly
+kadmín	cadmium
+sesín	caesium
+kaffín	caffeine
+kalsín	calcium
+tímatal	calendar
+dulbúningur ; dulklæði	camouflage
+kolefni	carbon
+koldíoxíð	carbon dioxide
+skírlífi	celibacy
+smokkar	cephalopod
+lyfjabúð	chemist's ; chemist's shop ; pharmacy
+klór	chlorine
+súkkulaði	chocolate
+króm	chromium
+sígaretta ; vindlingur	cigarette
+kóbalt	cobalt
+koma	come
+halastjarna	comet
+efnasamband	compound ; chemical compound
+kopar	copper
+kýr	cow
+fífill	dandelion
+blinda	dazzle
+dauðarefsing	death penalty ; capital punishment ; death sentence
+lýðræði	democracy
+mállýska	dialect
+diplómati	diplomat
+skilnaður	divorce
+hundur	dog
+höfrungur	dolphin
+framlag	donation
+drekka	drink ; gulp ; quaff ; sip
+drómedari	dromedary
+lesblinda	dyslexia
+drekka	eat
+áreynsla	effort ; exertion
+einsteinín	einsteinium
+rafeind	electron
+neyðarástand	emergency
+skjálftamiðja	epicentre
+miðbaugur	equator
+siðfræði	ethics
+evropín	europium
+sprenging	explosion
+flúor	fluorine
+franska ; fransín	francium
+gadólín	gadolinium
+gallblaðra	gallbladder
+gallín	gallium
+bílskúr	garage
+meltingarkerfið	gastrointestinal tract ; alimentary canal
+german	germanium
+gull	gold
+gæs	goose
+górilla	gorilla
+naggrís	guinea pig
+máfur	gull
+blóðfræði	haematology
+hafnín	hafnium
+vasaklútur	handkerchief
+hann	he
+þyrla	helicopter
+helín	helium
+heróín	heroin
+holmín	holmium
+hús	home ; home ; house
+hunang	honey
+von	hope
+hormón	hormone
+hestur	horse
+hungur	hunger ; hunger ; hunger
+vetni	hydrogen
+hreinlæti	hygiene
+íshokkí	ice hockey
+sjálfstæði	independence
+indín	indium
+flensa ; inflúensa	influenza ; flu
+rist	instep
+hljóðfæri	instrument ; musical instrument
+joð	iodine
+jón	ion
+iridín	iridium
+járn	iron
+júdó	judo
+krypton	krypton
+lampi	lantern
+lanþan	lanthanum
+lög	law
+blý	lead
+sítróna	lemon
+kalksteinn	limestone
+vatnalíffræði	limnology
+varalitur	lipstick
+eimreið	locomotive
+lottó	lottery
+skógarhöggsmaður	lumberjack
+lútetín	lutetium
+gaupa	lynx
+magnín	magnesium
+mangan	manganese
+leghöll	mausoleum
+majónes	mayonnaise
+borgarstjóri	mayor
+mendelevín	mendelevium
+heilahimnubólga	meningitis
+kvikasilfur	mercury
+myndhverfing	metaphor
+hljóðnemi	microphone
+mjólk	milk
+pínupils	miniskirt ; mini-skirt
+ólögráða	minor
+mólýbden	molybdenum
+mánuður	month
+morfín	morphine
+tónlist	music
+mýfluga	musquito ; mosquito
+bleyja	nappy
+neodým	neodymium
+neon	neon
+neptún	neptunium
+nikkel	nickel
+níóbín	niobium
+nitur	nitrogen
+nei	no
+nóbelín	nobelium
+við	nosotros ; we
+nóta	note
+nafnorð	noun ; substantive
+hlýða	obey
+haffræði	oceanography
+kolkrabbi	octopus
+opinbert tungumál	official language
+laukur	onion
+verufræði	ontology
+ljósfræði	optics
+hljómsveit	orchestra
+fuglafræði	ornithology
+osmín	osmium
+súrefni	oxygen
+friðarsinni	pacifist
+steingervingafræði	palaeontology
+palladín	palladium
+fallhlíf	parachute
+mörgæs	penguin
+bænarskjal	petition
+fashani	pheasant
+textafræði	philology
+talsími	phone ; telephone
+fosforo ; fosfór	phosphorus
+lífeðlisfræði	physiology
+dúfa	pigeon ; dove
+heiladingull	pituitary gland
+pizza ; pítsa	pizza
+platína	platinum
+plógur	plough
+pólon	polonium
+postulín	porcelain
+pósthús	post office
+afkomendur	posterity
+kalín	potassium
+kartafla	potato ; patato
+praseódým	praseodymium
+vandamál	problem
+prómetín	promethium
+eign	property ; asset
+protaktín	protactinium
+geðlæknir	psychiatrist
+drottning	queen
+kanína	rabbit
+radín	radium
+radon	radon
+regnbogi	rainbow
+þjóðaratkvæðagreiðsla	referendum ; plebiscite
+hreindýr	reindeer
+renín	rhenium
+ródín	rhodium
+hrísgrjón	rice
+rós	rose
+rúbidín	rubidium
+rúþen	ruthenium
+rutherfordín	rutherfordium
+fórn	sacrifice
+samarín	samarium
+skandín	scandium
+setbergsfræði	sedimentology
+selen	selenium
+kyn	sex ; gender
+fé	sheep
+skór	shoe
+kísill	silicon
+silfur	silver
+höfuðkúpa	skull
+slátra	slaughter
+sláturhús	slaughter-house
+sláturhús	slaughterhouse ; slaughter-house ; abattoir ; butchery ; shambles
+inniskór	slipper
+natrín	sodium
+stjarna	star
+saga	story
+strontín	strontium
+efni	subject ; topic
+sjálfsmorð	suicide
+brennisteinn	sulphur
+vörumarkaður	supermarket
+sundlaug	swimming pool
+yfirtaka	takeover
+tantal	tantalum
+teknesium	technetium
+tellúr	tellurium
+hryðjuverk	terrorism
+þallín	thallium
+guðfræði	theology
+meðferð	therapy
+varmafræði	thermodynamics
+þúsund	thousand
+þruma	thunder
+tímabelti	timezone
+tin	tin
+títan	titanium
+tá	toe
+grannfræði	topology
+járnbrautarlest	train
+þýðing	translation
+tré	tree
+silungur	trout
+freðmýri	tundra
+volfram	tungsten
+kalkúni	turkey
+úran	uranium
+ryksuga	vacuum cleaner
+vampíra	vampire
+vanadín	vanadium
+sagnorð	verb
+dýralæknir	veterinarian
+dýralæknir	veterinarian ; veterinary
+rostungur	walrus
+kóngulóarvefur	web ; spider web
+hvalur	whale
+víðir	willow
+gluggi	window
+sár	wound
+xenon	xenon
+ytterbín	ytterbium
+yttrín	yttrium
+núll	zero ; null
+sink	zinc
+sirkon	zirconium
+Álandseyjar	Åland Islands

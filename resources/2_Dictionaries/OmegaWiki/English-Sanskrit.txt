@@ -1,0 +1,117 @@
+English	Sanskrit
+Algeria ; People's Democratic Republic of Algeria	अल्जीरिया
+Angola ; Republic of Angola	अंगोला
+Argentina ; Argentine Republic	अर्जन्टीना
+Armenia	आर्मीनिया
+Assamese ; Assamese	असमिया
+Azerbaijan ; Republic of Azerbaijan	अजर्बैजान
+Bahrain	बहरैन
+Bengali ; Bengali	बाङगला
+Bolivia ; Republic of Bolivia	बोलिविया
+Botswana ; Republic of Botswana	बोत्सवाना
+Brunei ; Negara Brunei Darussalam	ब्रूनै
+Bulgaria ; Republic of Bulgaria	बुल्गारिया
+Burundi ; Republic of Burundi	बुरुंडी
+Cameroon ; Republic of Cameroon	केमेरून
+Canada	केनडा
+Chile ; Republic of Chile	चिले
+Ecuador ; Republic of Ecuador	एक्वाडोर
+El Salvador ; Republic of El Salvador	एल-साल्वाडोर
+Eritrea	एरिट्रिया
+Ethiopia ; Federal Democratic Republic of Ethiopia	ईथ्योपिया
+France	फ्रांस
+Gabon ; Gabonese Republic	गाबोन
+Haiti ; Republic of Haiti	हेटी
+Honduras ; Republic of Honduras	हांडूरस
+Hungary ; Republic of Hungary	हंगरी
+Iceland ; Republic of Iceland	आइसलैंड
+Indonesia ; Republic of Indonesia	इन्दोनेशिया
+Jamaica	जमैका
+Kazakhstan ; Republic of Kazakhstan	कजाकस्थान
+Kiribati ; Republic of Kiribati	किरिबाटी
+Liberia ; Republic of Liberia	लायबीरिया
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	लिबिया
+Madagascar ; Republic of Madagascar	मडगास्कर
+Malawi ; Republic of Malaŵi	मलावी
+Malayalam ; Malayalam	मलयाळम्‌
+Malaysia	मलयेशिया
+Mali ; Republic of Mali	माली
+Moldova	मोल्दोवा
+Morocco ; Kingdom of Morocco	मोराको
+Mozambique	मोजम्बीक
+Mumbai ; Bombay	बम्बई
+Myanmar	म्यन्मार
+Namibia	नमीबिया
+Nicaragua	निकारगुवा
+Norway ; Kingdom of Norway	नार्वे
+Oklahoma	ओक्‍लाहोमा
+Panama	पानामा
+People's Republic of China ; China	चीन
+Portugal	पुर्तगाल
+Samoa	समोआ
+Sanskrit ; Sanskrit	संस्कृतम्
+Slovakia	स्लोवाकिया
+Sri Lanka	श्रीलङ्का
+Tanzania	टंजानिया
+Togo	टोगो
+Zambia ; Republic of Zambia	जाम्बिया
+acceptance ; credence	अंगीकरणं
+acquisition	अर्जनम्
+advance	प्राग्दत्तमूल्यं
+alarm clock	घटिका
+ambulance	रुग्णवाहनं
+ant	पिपीलिका
+anthropologist	नृवंशसास्त्री
+arrival	आगति
+arsenic	फेनाश्मन
+atheist	अनीश्वरवादिन्
+ballot	निर्वाचनं
+bankruptcy	ऋणशोधनासमर्थ्य
+basement	भूमिगृहं
+belly button ; bellybutton ; navel ; omphalos ; omphalus ; umbilicus	नाभि
+capital	राजधानी
+chapter	अध्याय
+cloud	मेघ
+cobweb	जालं
+corruption	भ्रष्टाचारः
+cow	गौ
+defendant ; accused	प्रत्यर्थिन्
+diplomat	राजनयिक
+estimate	अनुमानं
+exception	अपवाद
+explicit	वाचाल
+facility	सुगमता
+freedom ; liberty	स्वतंत्रता
+goose	हंसी
+illiterate	अज्ञानिन्
+independence	स्वातंत्र्य
+lethargy ; sluggishness ; languor	तन्द्रिका
+milk	दुग्ध
+nappy	वरकं
+nostril	नासिका
+observatory	वेधशाला
+obsolete	अप्रचलित
+opium	अफेनं
+parachute	परिष्यूतम्
+petition	याचिका
+place ; location	स्थानं
+plough	हल
+possession	स्वामित्वं
+prince	राजपुत्र
+property ; asset	परिसंपति
+ruby	माणिक्यं
+silver	रजतं
+spleen	प्लीहन्
+strategic	समर संबंधिन्
+sulphur	गंधिकः
+terrorism	आतङ्कवाद
+thousand	सहस्र
+traditional	परंपरीण
+usurp	ग्रस्
+vaccination	रोगद्रव्यनिवेशनं
+volleyball	अपातकन्दुक
+water	जल
+web ; spider web	जालं
+witness	साक्षिन्
+yacht	क्रीड़ानौका
+zodiac	राशिचक्रं

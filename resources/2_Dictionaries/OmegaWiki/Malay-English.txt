@@ -1,0 +1,162 @@
+Malay	English
+Abraham Lincoln	Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln
+Albania	Albania ; Republic of Albania
+Algeria	Algeria ; People's Democratic Republic of Algeria
+Samoa Amerika	American Samoa
+Anguilla	Anguilla
+Antartika	Antarctica
+Antigua dan Barbuda	Antigua and Barbuda
+Argentina	Argentina ; Argentine Republic
+Armenia	Armenia
+Australia	Australia ; Commonwealth of Australia
+Austria	Austria ; Republic of Austria
+Azerbaijan	Azerbaijan ; Republic of Azerbaijan
+Bahrain	Bahrain
+Bhutan	Bhutan ; Kingdom of Bhutan
+Borneo	Borneo ; Kalimantan
+Bourgogne	Bourgogne
+Brunei	Brunei ; Negara Brunei Darussalam
+Bulgaria	Bulgaria ; Republic of Bulgaria
+Burundi	Burundi ; Republic of Burundi
+Kaherah	Cairo
+Kemboja	Cambodia ; Kingdom of Cambodia
+Cameroon	Cameroon ; Republic of Cameroon
+Kanada	Canada
+Chile	Chile ; Republic of Chile
+Pulau Krismas	Christmas Island
+Cyprus	Cyprus ; Republic of Cyprus
+Timor Leste	East Timor ; Democratic Republic of Timor-Leste
+El Salvador	El Salvador ; Republic of El Salvador
+Habsyah	Ethiopia ; Federal Democratic Republic of Ethiopia
+Gabon	Gabon ; Gabonese Republic
+Yunani	Greece ; Hellenic Republic
+Honduras	Honduras ; Republic of Honduras
+India	India ; Republic of India
+Indonesia	Indonesia ; Republic of Indonesia
+Iran	Iran ; Islamic Republic of Iran
+Israel	Israel ; State of Israel
+Itali	Italian Republic ; Italy
+Jepun	Japan ; State of Japan
+jun	June
+Kiribati	Kiribati ; Republic of Kiribati
+Kyrgyzstan	Kyrgyzstan ; Kyrgyz Republic
+Lesotho	Lesotho ; Kingdom of Lesotho
+Liberia	Liberia ; Republic of Liberia
+Libya	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+Malawi	Malawi ; Republic of Malaŵi
+Monaco	Monaco
+Montenegro	Montenegro
+Maghribi	Morocco ; Kingdom of Morocco
+Myanmar	Myanmar
+Namibia	Namibia
+New York	New York
+Nicaragua	Nicaragua
+Norway	Norway ; Kingdom of Norway
+Pakistan	Pakistan ; Islamic Republic of Pakistan
+Panama	Panama
+Portugal	Portugal
+Qatar	Qatar
+Zuhal	Saturn
+Arab Saudi	Saudi Arabia ; Kingdom of Saudi Arabia
+Senegal	Senegal
+Serbia	Serbia
+Slovakia	Slovakia
+Sepanyol	Spain
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Switzerland	Switzerland
+Tanzania	Tanzania
+Togo	Togo
+Turki	Turkey
+Uganda	Uganda ; Republic of Uganda
+Kota Vatican	Vatican City ; The Holy See ; State of the Vatican City
+Zambia	Zambia ; Republic of Zambia
+pecutan	acceleration
+aktinium	actinium
+aloi	alloy
+aluminium	aluminium
+amerisium	americium
+amfetamina	amphetamine
+semut	ant
+antitesis	antithesis
+argon	argon
+arsenik	arsenic
+lebah	bee
+berilium	beryllium ; glucinium
+basikal	bicycle ; bike ; cycle
+bismut	bismuth
+boron	boron
+rama-rama	butterfly
+kadmium	cadmium
+sesium	caesium
+kafeina	caffeine
+kalsium	calcium
+penyamaran	camouflage
+karbon	carbon
+klorin	chlorine
+kromium	chromium
+makan	consume ; eat ; swallow
+boneka	doll
+hahnium	dubnium
+einsteinium	einsteinium
+khatulistiwa	equator
+europium	europium
+gadolinium	gadolinium
+gallium	gallium
+germanium	germanium
+emas	gold
+hafnium	hafnium
+hassium	hassium
+helium	helium
+holmium	holmium
+homeostasis	homeostasis
+ais	ice
+ideologi	ideology
+iodin	iodine
+iridium	iridium
+besi	iron
+kripton	krypton
+lanthanum	lanthanum
+plumbum	lead
+lutetium	lutetium
+magnesium	magnesium
+mangan	manganese
+mendelevium	mendelevium
+merkuri	mercury
+molibdenum	molybdenum
+morfina	morphine
+neodimium	neodymium
+neptunium	neptunium
+niobium	niobium
+nitrogen	nitrogen
+nobelium	nobelium
+obesiti	obesity
+candu ; madat	opium
+organel	organelle
+osmium	osmium
+oksigen	oxygen
+kerang	oyster
+paladium	palladium
+കലപ്പ	plough
+plutonium	plutonium ; plutonium ; plutonium
+polonium	polonium
+praseodimium	praseodymium
+prometium	promethium
+protaktinium	protactinium
+pengangkutan awam	public transport
+radon	radon
+renium	rhenium
+rodium	rhodium
+ruterfordium	rutherfordium
+samarium	samarium
+silikon	silicon
+perak	silver
+strontium	strontium
+sulfur ; belerang	sulphur
+tantalum	tantalum
+teknetium	technetium
+talium	thallium
+teologi	theology
+ribu	thousand
+xenon	xenon
+zirkonium	zirconium

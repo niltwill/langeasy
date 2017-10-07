@@ -1,0 +1,9 @@
+﻿English	Korean
+and	그리고 [geurigo]
+because	-이기 때문에 (-igi ttaemune)
+for	왜냐하면 [waenyahamyeon]
+if	...인 때에는
+or	또는 [ttoneun]
+than	...보다
+until	까지 (...kaji)
+whenever	언제나 (eonjena)

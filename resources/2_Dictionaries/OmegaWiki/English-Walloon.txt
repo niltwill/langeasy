@@ -1,0 +1,98 @@
+English	Walloon
+Algeria ; People's Democratic Republic of Algeria	Aldjereye
+Antarctica	Antartike
+Armenian	Årmenyin
+Asteraceae ; sunflower family ; Compositae ; daisy family ; aster family	compôzêyes ; Stoelacêyes
+August	awousse
+Bulgaria ; Republic of Bulgaria	Bulgåreye
+Cairo	El Caire
+Chad ; Republic of Chad	Tchad
+Chechen ; Chechen	Tchetchene
+Cornish	Cornike
+Czech ; Czech	Tcheke
+EU ; European Union	Union Uropeyinne
+Easter	Påke
+Faroese ; Faeroese	Faerowès
+Finland ; Republic of Finland	Finlande
+Finnish	Finwès
+France	France
+Galician ; Galician	Galicyin
+Gibraltar	Djibraltar
+Greek alphabet	alfabet grek
+Gujarati ; Gujarati	Goudjarati
+Happy New Year	bone annèye
+Holland ; Kingdom of the Netherlands ; The Netherlands	Bas Payis
+India ; Republic of India	Inde
+Italian Republic ; Italy	Itåleye
+January	djanvî
+June	djun
+Karelian	Carelyin
+Khmer ; Central Khmer	Xhmer
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Sint Petersbork
+Lithuania ; Republic of Lithuania	Litwaneye
+Luxembourgish ; Luxemburgish ; Luxembourgian	lussimbordjwès
+Malayalam ; Malayalam	Malayalam
+Malta ; Republic of Malta	Male
+Maltese	Maltès
+Maori	Mawori
+Mauritania ; Islamic Republic of Mauritania	Moritanreye
+Morocco ; Kingdom of Morocco	Marok
+New Zealand	Nouve Zelande
+Norway ; Kingdom of Norway	Norvedje
+Polish ; Polish	Polonès
+Senegal	Senegal
+Somali ; somali	Somalyin
+Tajik	Tadjik
+Tatar ; Tatar	Tatår
+Telugu ; Telugu	Telougou
+Turkish ; Turkish	Turk
+Vietnamese ; Vietnamese	Vietnamyin
+Walloon ; Walloon	walon
+Welsh ; Welsh	Walès
+abbreviation	racoûtî
+ant	furmi
+apple	peme
+astronomy	astronomeye
+auction	håsse
+barley	oidje
+beverage ; drink	bwèsson
+calligraphy	caligrafeye
+carbon	carbone
+cobweb	aréncrén
+dog	tchén
+francium	franciom
+gangrene	grangrin
+handkerchief	norèt
+hope	èspwêr
+hydrogen	idrodjinne
+influenza ; flu	gripe
+journal ; mag ; magazine ; periodical	rivowe
+lithium	litiom
+milk	laecea
+music	muzike
+neologism	noûmot
+obesity	fornourixhaedje
+obstacle ; obstruction	aroke
+official language	lingaedje oficire
+onion	ognon
+optimism ; optimism ; optimism ; optimism ; optimism ; optimism ; optimism	optimisme
+orthography	ortografeye
+petition	pètichon
+phone ; telephone	telefone
+potassium	potassiom
+rice	riz
+rubidium	rubidiom
+slipper	pantoufe
+sociolinguistics ; sociology of language	sociolinwince
+sodium	sodiom
+story	istwêre
+terrorism	terrorisse
+train	trin
+translation	traduk'sion
+vowel	voyale
+wasp	wesse
+water	aiwe
+web ; spider web	aréncrén
+whale	balinne
+wizard ; sorcerer ; magician	macrea
+zoonosis	zonôze

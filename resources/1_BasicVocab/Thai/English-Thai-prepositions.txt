@@ -1,0 +1,12 @@
+﻿English	Thai
+against	ต่อต้าน
+among	ท่ามกลาง
+during	ในระหว่าง
+from	จาก (jàak)
+from	จาก (jàak)
+into	เกี่ยวกับ
+on	บน (bon)
+on	บน (bon)
+since	ตั้งแต่
+with	กับ (kàp), ด้วย (dûay)
+with	กับ (kàp), ด้วย (dûay)

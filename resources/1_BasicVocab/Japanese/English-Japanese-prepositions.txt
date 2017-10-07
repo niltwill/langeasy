@@ -1,0 +1,16 @@
+﻿English	Japanese
+against	対 [tsui]
+among	中 [uchi]
+at	で [de]
+at	で [de]
+beside	のそばに (no soba ni)
+for	ため (...-no tame-ni)
+from	から [kara]
+from	から [kara]
+on	上 (…-no ue ni)
+on	上 (…-no ue ni)
+since	此の方 [konokata]
+to	へ [he]
+with	共に [tomoni]
+with	共に [tomoni]
+without	...なしで (...nashide), ...無し (...なし, ...nashi)

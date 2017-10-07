@@ -1,0 +1,19 @@
+﻿English	Czech
+against	proti
+among	uprostřed, mezi
+at	na
+at	na
+beside	vedle
+during	během
+for	pro
+from	z, od
+from	z, od
+into	do
+of	vyjádření druhého pádu
+on	na
+on	na
+since	od té doby
+to	k
+with	s
+with	s
+without	bez

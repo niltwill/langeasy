@@ -1,0 +1,28 @@
+﻿English	Vietnamese
+everybody	mọi người
+everything	mọi thứ
+he	anh ấy, ông ấy
+her	của nó
+herself	tự nó
+him	nó
+his	của nó
+it	nó
+me	tôi
+my	của tôi
+our	của chúng ta
+she	nó
+that	đó, cái đó
+their	của họ
+them	chúng nó
+they	người vật đã được đề cập đến
+this	này
+us	chúng tôi
+we	chúng tôi
+what	gì
+when	khi nào
+who	ai
+whom	với ai
+whose	của ai
+you	bạn
+your	của bạn,
+yourself	chính mình

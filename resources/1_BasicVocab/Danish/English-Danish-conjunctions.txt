@@ -1,0 +1,8 @@
+﻿English	Danish
+and	og
+because	fordi
+for	for
+if	hvis
+or	eller
+than	end
+until	indtil

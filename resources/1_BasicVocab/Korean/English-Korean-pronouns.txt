@@ -1,0 +1,26 @@
+﻿English	Korean
+everybody	누구든지 [nugudeunji]
+everything	모든 것 [modeun geot]
+he	그 (geu), 그이 (geu-i)
+her	그녀의 (geunyeo-ui)
+him	그를 [geureul]
+his	그의 [geuui]
+it	그것 [geugeot]
+me	나를 [nareul]
+my	나의 [naui]
+our	우리의 [uriui]
+she	그녀 [geunyeo]
+that	그 (gu), 저 (jeo)
+their	그들의 [geudeului]
+them	그들을 [geudeuleul]
+these	이것들 [igeotdeul]
+they	그들 [geudeul]
+this	이 [i]
+we	우리 [uri]
+what	무엇 [mueot]
+when	언제 (eonje)
+which	어느 [eoneu]
+which	어느 [eoneu]
+who	누구 [nugu]
+whose	누구의 [nuguui]
+you	당신 (dangsin), (neo)네 (ne)

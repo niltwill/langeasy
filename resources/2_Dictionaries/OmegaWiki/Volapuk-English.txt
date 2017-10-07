@@ -1,0 +1,563 @@
+Volapuk	English
+zül	9 ; nine
+fijesiped	AIDS
+Labkasänapük	Abkhaz ; Abkhazian ; Abkhazian
+Lafganistän	Afghanistan ; Transitional Islamic State of Afghanistan
+Frikop	Africa
+Frikopänapük	Afrikaans
+Lalbanän	Albania ; Republic of Albania
+Laljerän	Algeria ; People's Democratic Republic of Algeria
+Landorän	Andorra ; Principality of Andorra
+Langolän	Angola ; Republic of Angola
+Lantigeän e Barbudeän	Antigua and Barbuda
+prilul	April
+Larabänapük	Arabic ; Standard Arabic
+Largäntän	Argentina ; Argentine Republic
+Larmenän ; Larmeniyän	Armenia
+Larmeniyän ; Larmeniyänapük	Armenian
+Siyop	Asia
+gustul	August
+Laustralän	Australia ; Commonwealth of Australia
+Lösterän	Austria ; Republic of Austria
+Lasärbaycän	Azerbaijan ; Republic of Azerbaijan
+Lasärbäcänapük	Azerbaijani ; Azeri ; Azerbaijani Cluster
+Bahamuäns	Bahamas ; Commonwealth of the Bahamas ; Bahama Islands
+Bahruäns	Bahrain
+Bängalän ; Bangladejän	Bangladesh ; People's Republic of Bangladesh
+Barbadeän	Barbados
+Baskänapük ; bask	Basque ; Basque
+Belarusän	Belarus ; Republic of Belarus
+Belarusänapük	Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian
+Belgän	Belgium ; Kingdom of Belgium
+Belisän	Belize
+Beninän	Benin ; Benin ; Republic of Benin
+Butän	Bhutan ; Kingdom of Bhutan
+Mel Blägik	Black Sea
+Bolivän	Bolivia ; Republic of Bolivia
+Bosnän e Härzegovän	Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina
+Bosnänapük	Bosnian ; Bosnian
+Zvanän	Botswana ; Republic of Botswana
+Brasilän	Brazil
+Brunän	Brunei ; Negara Brunei Darussalam
+Bulgarän	Bulgaria ; Republic of Bulgaria
+Bulgaränapük	Bulgarian ; Bulgarian
+Burkinän	Burkina Faso
+Rundiyän	Burundi ; Republic of Burundi
+Kahirä	Cairo
+Kambocän	Cambodia ; Kingdom of Cambodia
+Kamerunän	Cameroon ; Republic of Cameroon
+Kanadän	Canada
+Kabovärduäns	Cape Verde ; Republic of Cape Verde
+Spanyänapük	Castilian ; Spanish ; Spanish
+Katalänapük	Catalan ; Catalan
+Zänoda-Frikop ; Repüblikän Zänoda-Frikopa	Central African Republic
+Tjadän	Chad ; Republic of Chad
+Cilän	Chile ; Republic of Chile
+Tjinänapük ; Tsyinänapük	Chinese
+Kritidazäl	Christmas
+Kolumbän	Colombia ; Republic of Colombia
+Komoruäns	Comoros ; Union of the Comoros
+Kostarikän	Costa Rica ; Republic of Costa Rica
+Kroasän	Croatia ; Republic of Croatia
+Kroasänapük	Croatian ; Croation
+Kubeän	Cuba ; Republic of Cuba
+Sipreän	Cyprus ; Republic of Cyprus
+Tsyegänapük	Czech ; Czech
+Tsyegän	Czech Republic ; Czechia
+Danänapük	Danish
+dekul	December
+Repüblikän Demokratik Kongoäna	Democratic Republic of the Congo ; Congo-Kinshasa
+Danän	Denmark ; Kingdom of Denmark
+Cibutän	Djibouti ; Republic of Djibouti
+Dominikeän	Dominica ; Commonwealth of Dominica
+Repüblikän Dominiganik	Dominican Republic
+Nedänapük	Dutch
+Lofüda-Timoreän	East Timor ; Democratic Republic of Timor-Leste
+Lekvadorän	Ecuador ; Republic of Ecuador
+Lägüptän	Egypt ; Arab Republic of Egypt
+Salvadorän	El Salvador ; Republic of El Salvador
+Linglänapük	English
+Kveatora-Gineyän	Equatorial Guinea ; Republic of Equatorial Guinea
+Lerüträn	Eritrea
+Sperantapük	Esperanto ; Esperanto
+Lestiyän	Estonia ; Republic of Estonia
+Lestiyänapük	Estonian
+Lätiopän	Ethiopia ; Federal Democratic Republic of Ethiopia
+Yurop	Europe
+Falkluäns	Falkland Islands
+febul	February
+Ficiyuäns	Fiji ; Republic of the Fiji Islands
+Suomiyän	Finland ; Republic of Finland
+Suomiyänapük	Finnish
+Fransän	France
+Fransänapük	French ; French
+Frisänapük	Frisian ; Western Frisian
+Gabunän	Gabon ; Gabonese Republic
+Galisänapük	Galician ; Galician
+Gambiyän	Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia
+Grusiyän	Georgia
+Georgän	Georgia
+Grusiyänapük	Georgian ; Georgian
+Deutänapük	German
+Deutän	Germany ; Federal Republic of Germany
+Ganän	Ghana ; Republic of Ghana
+Grikän	Greece ; Hellenic Republic
+Grikänapük	Greek ; Greek
+Gröneän	Greenland
+Grenadeän	Grenada
+Gvadelupeän	Guadeloupe
+Gvatemän	Guatemala ; Republic of Guatemala
+Gineyän	Guinea ; Republic of Guinea
+Bisava-Gineyän ; Gineyän-Bisauän	Guinea-Bissau ; Republic of Guinea-Bissau
+Gvayän	Guyana ; Republic of Guyana
+Haitiyän	Haiti ; Republic of Haiti
+hebrey	Hebrew
+hindiy	Hindi ; Hindi
+Nedän	Holland ; Kingdom of the Netherlands ; The Netherlands
+Hondurän	Honduras ; Republic of Honduras
+Macaränapük	Hungarian
+Macarän	Hungary ; Republic of Hungary
+ob	I
+Lisladeän	Iceland ; Republic of Iceland
+Lisladeänapük	Icelandic
+India ; Lindän	India ; Republic of India
+Lindean	Indian Ocean
+Lindäna-Seänuäns	Indonesia ; Republic of Indonesia
+Linterlinguapük	Interlingua ; Interlingua, "Simplified" Latin ; Interlingua, "Simplified" Latin
+vüretod ; Vüresod	Internet
+Lirän	Iran ; Islamic Republic of Iran
+Lirakän	Iraq ; Republic of Iraq
+Lireyän	Ireland ; Republic of Ireland
+Yisraelän	Israel ; State of Israel
+Litaliyänapük	Italian ; Italian
+Litaliyän	Italian Republic ; Italy
+Viorajolän	Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire
+Camekeän	Jamaica
+yanul	January
+Yapän	Japan ; State of Japan
+Yapänapük	Japanese ; Japanese
+Lurdunän ; Yordän	Jordan ; Hashemite Kingdom of Jordan
+yulul	July
+yunul	June
+Kasakistän ; Kazakistän	Kazakhstan ; Republic of Kazakhstan
+Kenyän	Kenya ; Republic of Kenya
+Kiribasuäns	Kiribati ; Republic of Kiribati
+Koreyänapük	Korean ; Korean
+Kovätän	Kuwait ; State of Kuwait
+Kirgisän ; Kirgistän	Kyrgyzstan ; Kyrgyz Republic
+Laosänapük	Lao ; Lao
+Laosän	Laos ; Lao People's Democratic Republic
+Latinapük	Latin ; Latin
+Latviyän	Latvia ; Republic of Latvia
+Latviyänapük	Latvian ; Latvian
+Lubnän	Lebanon ; Lebanese Republic
+Sankt-Peterburg	Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg
+Sutuvän	Lesotho ; Kingdom of Lesotho
+Liberän	Liberia ; Republic of Liberia
+Lübän	Libya ; Great Socialist People's Libyan Arab Jamahiriya
+Ligtänstän	Liechtenstein ; Principality of Liechtenstein
+Limburgänapük	Limburgish ; Limburgian
+Lietuvän	Lithuania ; Republic of Lithuania
+Lietuvänapük	Lithuanian ; Lithuanian
+Dona-Saxän	Lower Saxony
+Luxämburgän	Luxembourg ; Grand Duchy of Luxembourg
+Luxämburgänapük	Luxembourgish ; Luxemburgish ; Luxembourgian
+Repüblik Makedonän ; Makedoniyän	Macedonia ; Republic of Macedonia
+Makedonänapük ; Makedoniyänapük	Macedonian ; Macedonian
+Malagaseän	Madagascar ; Republic of Madagascar
+Malaviyän	Malawi ; Republic of Malaŵi
+Malaysiyän	Malaysia
+Maldivuäns	Maldives ; Republic of the Maldives
+Maliyän	Mali ; Republic of Mali
+Malteän	Malta ; Republic of Malta
+Malteänapük	Maltese
+mäzul	March
+Marjaluäns	Marshall Islands ; Republic of the Marshall Islands
+Mauritän	Mauritania ; Islamic Republic of Mauritania
+Maurizeän	Mauritius ; Republic of Mauritius
+mayul	May
+Mäxikän	Mexico ; United Mexican States
+Smalaseänuäns ; Tats Fedik Smalaseänuänas	Micronesia ; Federated States of Micronesia
+Moldovän	Moldova
+Monakän	Monaco
+Mongolän	Mongolia
+Montenegrän	Montenegro
+Marokän	Morocco ; Kingdom of Morocco
+Mosambikän	Mozambique
+Myanmän ; Mianmarän	Myanmar
+Namibän ; Namibiyän	Namibia
+Naureän	Nauru ; Republic of Nauru
+Nepalän	Nepal
+Nula-Seleäns	New Zealand
+Nikaraguvän	Nicaragua
+Nigerän	Niger
+Nigeriyän	Nigeria
+Nolüda-Koreyän	North Korea ; Democratic People's Republic of Korea
+Norgän	Norway ; Kingdom of Norway
+novul	November
+Seanop	Oceania
+tobul	October
+Lomän	Oman ; Sultanate of Oman
+Pasifean	Pacific Ocean
+Pakistän	Pakistan ; Islamic Republic of Pakistan
+Palauvuäns	Palau
+Panamän	Panama
+Papuveän Nula-Gineyän	Papua New Guinea
+Paragvän	Paraguay
+Tjinän	People's Republic of China ; China
+Pärsänapük	Persian ; Western Farsi ; Farsi
+Peruvän	Peru ; Republic of Peru
+Filipuäns	Philippines
+Polän	Poland
+Polänapük	Polish ; Polish
+Portugän	Portugal
+Portugänapük	Portuguese ; Portuguese
+Puertorikeäns	Puerto Rico
+Katarän	Qatar
+Repüblikän Kongoäna	Republic of the Congo ; Congo-Brazzaville
+Rumän	Romania
+Rumänapük	Romanian ; Romanaian
+Rusän	Russia ; Russian Federation
+Rusänapük	Russian ; Russian
+Samovuäns	Samoa
+Saluda-Marinän	San Marino
+zädel	Saturday
+Saturnus	Saturn
+Sauda-Larabän	Saudi Arabia ; Kingdom of Saudi Arabia
+Senegalän	Senegal
+setul	September
+Särbän	Serbia
+Särbänapük	Serbian ; Serbian
+Sejeluäns ; Säceluäns	Seychelles ; Republic of Seychelles
+Sieraleonän	Sierra Leone
+Singapurän	Singapore
+Slovakänapük ; Slovakiyänapük	Slovak ; Slovak
+Slovakän ; Slovakiyän	Slovakia
+Slovenänapük ; Sloveniyänapük	Slovene ; Slovenian ; Slovenian
+Slovenän ; Sloveniyän	Slovenia
+Salomonuäns	Solomon Islands
+Sulüda-Frikopän	South Africa
+Sulüda-Koreyän	South Korea ; Republic of Korea
+Spanyän	Spain
+Sri-Lankän	Sri Lanka
+Sudän	Sudan
+sudel	Sunday
+Surinän	Suriname
+suaheliy	Swahili
+Svedän	Sweden
+Svedänapük	Swedish
+Jveizän	Switzerland
+Süriyän	Syria ; Syrian Arab Republic
+Tayvän	Taiwan
+Tacikistänapük	Tajik
+Tacikistän	Tajikistan
+Tansanän	Tanzania
+Tataränapük	Tatar ; Tatar
+Tayänapük	Thai ; Thai
+Tayän	Thailand
+Türinän	Thuringia
+Togoän	Togo
+Tonguäns	Tonga
+Toronto	Toronto
+Tunisän	Tunisia
+Türkän	Turkey
+Türkänapük	Turkish ; Turkish
+Turkmenän	Turkmenistan
+Lugandayän	Uganda ; Republic of Uganda
+Lukrayän	Ukraine
+Lukrayänapük	Ukrainian ; Ukrainian
+Lemiräns Pebalöl Larabänik	United Arab Emirates
+Regän Pebalöl ; Regän Pebalöl Greta-Britäna e Nolüda-Lireyeäna	United Kingdom ; United Kingdom of Great Britain and Northern Ireland ; UK
+Lamerikän ; Tats-Pebalöl Meropa	United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States
+Vatikän	Vatican City ; The Holy See ; State of the Vatican City
+Venesolän	Venezuela
+Venezia	Venice
+Vietnamänapük	Vietnamese ; Vietnamese
+volapük ; Volapük	Volapük
+Velsän	Wales
+Velsänapük	Welsh ; Welsh
+Vükiped	Wikipedia
+Yämän	Yemen ; Republic of Yemen
+Sambän ; Zambiyän	Zambia ; Republic of Zambia
+Simbabvän ; Zimbabiyän	Zimbabwe ; Republic of Zimbabwe
+bakud	abacus
+adyö	adieu ; bye ; cheerio ; farewell ; good day ; goodbye
+ladyek	adjective ; describing word
+ladvärb	adverb
+flitöm	aeroplane ; bird ; plane
+lutapof	airport
+lalkohol	alcohol
+lalgorit	algorithm
+laliad	alloy
+lafab	alphabet
+lalumin	aluminium
+maetüt	amethyst
+silanan	angel
+nim	animal
+stibin	antimony
+pod	apple
+fitavatiär	aquarium
+ragiv	archive
+largonin	argon
+larsenin	arsenic
+lekan	art
+ratär	artery
+tijod	artichoke
+lartig	article
+lutem	atmosphere
+masad	attic
+fluküp	autumn
+si	aye ; yeah ; yep ; yes
+bakterav	bacteriology
+bakan	baker
+benen	banana
+barin	barium
+hod	barley
+mud	beak ; mouth
+bien	bee
+bir	beer
+berilin	beryllium ; glucinium
+saikul	bicycle ; bike ; cycle
+gretik	big ; large
+lifav	biology ; biological science
+böd	bird
+bismutin	bismuth
+bleinik	blind
+buk	book
+borin	boron
+hipul	boy
+bod	bread
+bromin	bromine
+bör	butter
+pab	butterfly
+kadmin	cadmium
+zäsin	caesium
+kalsin	calcium
+cifazif	capital
+tood	car ; automobile
+karbin	carbon
+zerin	cerium
+danö	cheers ; thank you ; thanks
+fromad	cheese
+lömin ; lömin kiemavik	chemical element ; element
+kiemav	chemistry
+klorin	chlorine
+kromin	chromium
+kromosom	chromosome
+zigar	cigar
+zigarül	cigarette
+taim	clay
+klifavöl ; skapajol	cliff
+lefog	cloud
+kobaltin	cobalt
+kömön	come
+steläd	constellation
+fidön	consume ; eat ; swallow
+kuprin	copper
+län	country ; nation ; state
+völäd	currency
+del	day ; daytime
+vödabuk	dictionary
+dog	dog
+disprosin	dysprosium
+jöl	eight
+leefad	elephant
+züklopäod	encyclopaedia
+lerbin	erbium
+löropin	europium
+log	eye
+fat	father
+plüm	feather
+vom	female ; woman
+balid	first
+lul	five
+flib	flea
+flor	flower ; bloom ; blossom
+fluorin	fluorine
+fog	fog
+fut	foot
+futaglöpäd	football
+fot	forest
+fol	four
+lib	freedom ; liberty
+fluk	fruit
+gadolin	gadolinium
+galin	gallium
+gärmin	germanium
+jipul	girl
+goldin	gold
+golf	golf
+gan	goose
+klop	harvest
+om	he
+lad	heart
+hit	heat
+sil	heaven ; sky
+tovaskrubian	helicopter
+helin	helium
+glidis	hello ; hey ; hi ; howdy
+holmin	holmium
+dom	home ; home ; house
+miel	honey
+jevod	horse
+malädanöp	hospital ; clinic
+hidrin	hydrogen
+hüen	hyena
+glad	ice
+gladabel	iceberg
+lindin	indium
+grip	influenza ; flu
+näsäk	insect
+musigöm	instrument ; musical instrument
+yodin	iodine
+liridin	iridium
+fer ; ferin	iron
+roin	kidney
+kokot	kokosnoot ; coconut
+kriptin	krypton
+pük	language
+lantanin	lanthanum
+plumbin	lead
+tonat	letter
+lipastafül	lipstick
+litin	lithium
+foad	liver
+löf	love
+löfön	love
+lueg	lung
+magnesin	magnesium
+manganin	manganese
+märkurin ; hidrargin	mercury
+mikrofon	microphone
+molibdin	molybdenum
+mul	month
+mot	mother
+mugaparat	mouse
+mug	mouse
+släm	mud
+musig	music
+musigan	musician
+muskit	musquito ; mosquito
+neodümin	neodymium
+neonin	neon
+nulik	new ; novel
+delagased	newspaper
+nikelin	nickel
+niobin	niobium
+nitrin	nitrogen
+no	no
+nud	nose
+subsat	noun ; substantive
+sean	ocean ; sea ; body of water ; bounding main
+seanakaedav	oceanography
+polüd	octopus
+pük calöfik	official language
+bal	one
+losmin	osmium
+strut	ostrich
+loxin	oxygen
+pad	page
+fösilav	palaeontology
+paladin	palladium
+pam	palm
+namakev	palm
+pankreat	pancreas
+stib	pencil
+nimül	pet
+filosop	philosophy
+fosfin	phosphorus
+fotografot	photo ; photograph
+füsüd	physics
+planet	planet
+plan	plant
+platin	platinum
+kalin	potassium
+pötet	potato ; patato
+praseodin	praseodymium
+präpod	preposition
+prostat	prostate
+protein	protein ; poly peptide
+spiket	proverb ; saying ; maxim
+krolig	rabbit
+radin	radium
+radonin	radon
+rel	religion
+rodin	rhodium
+risat	rice
+flumed	river
+rubidin	rubidium
+rutenin	ruthenium
+sal	salt
+samarin	samarium
+safirain	sapphire
+skandin	scandium
+jul	school
+nolav	science
+nolavan	scientist
+mel	sea
+logön	see
+sid	seed
+selenin	selenium
+gen	sex ; gender
+juk	shoe
+silikin	silicon
+largentin	silver
+skin	skin
+pantuf	slipper
+smok	smoke
+snek	snake
+nif	snow
+natrin	sodium
+splen	spleen
+spot	sport
+florüp	spring
+stal	steel
+stomäg	stomach
+strontin	strontium
+sulfin	sulphur
+hitüp	summer
+frogalarvat	tadpole ; polliwog
+tantalin	tantalum
+kaenav	technology
+telurin	tellurium
+deg	ten
+terbin	terbium
+talin	thallium
+danö	thank you
+torin	thorium
+mil	thousand
+kil	three
+tulin	thulium
+türeoid	thyroid
+stanin	tin
+titanin	titanium
+lineg	tongue
+tradutod	translation
+bim	tree
+trigonomet	trigonometry
+volframin	tungsten
+tönul	tunnel
+tel	two
+rif	tyre
+luranin	uranium
+vampir	vampire
+vanadin	vanadium
+värb	verb
+virud	virus
+vat	water
+vig	week
+vuit	wheat
+vietik	white
+vin	wine
+nifüp	winter
+vöd	word
+vol	world
+xenonin	xenon
+ols	y'all ; you ; you lot ; yous
+yel	year ; solar year
+yelovik	yellow
+lüterbin	ytterbium
+lütrin	yttrium
+sebrad	zebra
+zinkin	zinc
+zirkonin	zirconium

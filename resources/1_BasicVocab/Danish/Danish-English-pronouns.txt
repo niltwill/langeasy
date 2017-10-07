@@ -1,0 +1,29 @@
+Danish	﻿English
+hvad som helst	anything
+alle	everybody
+alt	everything
+han	he
+hendes	her
+sig selv	herself
+ham	him
+hans	his
+det onde	it
+selv	itself
+mig	me
+min	my
+vores	our
+hun	she
+den	that
+deres	their
+dem	them
+de	they
+dette	this
+os	us
+vi	we
+hvad	what
+hvornår	when
+hvem	who
+hvem	whom
+hvis	whose
+du, De	you
+din, dit (n)	your

@@ -1,0 +1,80 @@
+Greek	﻿English
+γύρω	about
+πάνω από	above
+πάλι	again
+σχεδόν	almost
+κατά μήκος	along
+ήδη	already
+πάντα	always
+περίπου	approximately
+καθώς	as
+πριν	before
+προτού	before
+πίσω	behind
+μεταξύ	between
+πέραν	beyond
+μπροστά από	by
+σαφής	clearly
+κατευθείαν	directly
+κάτω	down
+νωρίς	early
+είδε ... είδε	either
+αρκετά	enough
+ακόμα	even
+ακριβώς	exactly
+τελευταίος	finally
+πρώτα	first
+μπροστά	forward
+γενικά	generally
+εδώ	here
+εδώ	here
+ωστόσο	however
+αμέσως	immediately
+σε	in
+πραγματικός	indeed
+μέσα	inside
+αντί	instead
+αργός	late
+μετά	later
+ο λιγότερος	least
+λίγο	little
+μόνο	merely
+περισσότερος	more
+ποτέ	never
+δεν	not
+τώρα	now
+προφανώς	obviously
+συχνά	often
+κάποτε	once
+έξω	outside
+ιδιαίτερα	particularly
+παρακαλώ	please
+ίσως	possibly
+ο πιο αγαπημένος	preferably
+μάλλον	probably
+γρήγορος	quickly
+πραγματικά	really
+πραγματικά	really
+πρόσφατα	recently
+αργά	slowly
+έτσι	so
+μόνος	solely
+μερικές φορές	sometimes
+σύντομα	soon
+ακόμη	still
+τέτοιος	such
+ξαφνικός	suddenly
+σίγουρα	surely
+μετά	then
+εκεί	there
+άρα	therefore
+μέσα από	through
+σήμερα	today
+μαζί	together
+αύριο	tomorrow
+απόψε	tonight
+και	too
+πάνω	up
+κανονικά	usually
+πολύ	very
+καλά	well

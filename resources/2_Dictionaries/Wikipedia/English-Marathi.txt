@@ -1,0 +1,1411 @@
+English	Marathi
+1	इ.स. १
+10	इ.स. १०
+100	इ.स. १००
+1000	इ.स. १०००
+1000	वर्ग:इ.स. १०००
+1000 (number)	सहस्र
+101	इ.स. १०१
+105	इ.स. १०५
+11	इ.स. ११
+110	इ.स. ११०
+115	इ.स. ११५
+12	इ.स. १२
+12	वर्ग:इ.स. १२
+120	इ.स. १२०
+125	इ.स. १२५
+13	इ.स. १३
+130	इ.स. १३०
+135	इ.स. १३५
+14	इ.स. १४
+14	वर्ग:इ.स. १४
+140	इ.स. १४०
+144	इ.स. १४४
+145	इ.स. १४५
+15	इ.स. १५
+150	इ.स. १५०
+1530s	इ.स.चे १५३० चे दशक
+155	इ.स. १५५
+16	इ.स. १६
+16	वर्ग:इ.स. १६
+160	इ.स. १६०
+165	इ.स. १६५
+17	इ.स. १७
+17	वर्ग:इ.स. १७
+170	इ.स. १७०
+1728	इ.स. १७२८
+175	इ.स. १७५
+1750s	इ.स.चे १७५० चे दशक
+1750s	वर्ग:इ.स.चे १७५० चे दशक
+1760s	इ.स.चे १७६० चे दशक
+1760s	वर्ग:इ.स.चे १७६० चे दशक
+1770s	इ.स.चे १७७० चे दशक
+1770s	वर्ग:इ.स.चे १७७० चे दशक
+1780s	इ.स.चे १७८० चे दशक
+1780s	वर्ग:इ.स.चे १७८० चे दशक
+1790s	इ.स.चे १७९० चे दशक
+1790s	वर्ग:इ.स.चे १७९० चे दशक
+18	इ.स. १८
+180	इ.स. १८०
+1820s	इ.स.चे १८२० चे दशक
+1820s	वर्ग:इ.स.चे १८२० चे दशक
+1830s	इ.स.चे १८३० चे दशक
+1830s	वर्ग:इ.स.चे १८३० चे दशक
+1840s	इ.स.चे १८४० चे दशक
+1840s	वर्ग:इ.स.चे १८४० चे दशक
+1850s	इ.स.चे १८५० चे दशक
+1860s	इ.स.चे १८६० चे दशक
+1860s	वर्ग:इ.स.चे १८६० चे दशक
+1870s	इ.स.चे १८७० चे दशक
+1870s	वर्ग:इ.स.चे १८७० चे दशक
+1880s	इ.स.चे १८८० चे दशक
+1880s	वर्ग:इ.स.चे १८८० चे दशक
+1890s	इ.स.चे १८९० चे दशक
+1890s	वर्ग:इ.स.चे १८९० चे दशक
+19	इ.स. १९
+190	इ.स. १९०
+1900s	इ.स.चे १९०० चे दशक
+1900s	वर्ग:इ.स.चे १९०० चे दशक
+1920s	इ.स.चे १९२० चे दशक
+1920s	वर्ग:इ.स.चे १९२० चे दशक
+1930s	इ.स.चे १९३० चे दशक
+1930s	वर्ग:इ.स.चे १९३० चे दशक
+1940s	इ.स.चे १९४० चे दशक
+1940s	वर्ग:इ.स.चे १९४० चे दशक
+1950s	इ.स.चे १९५० चे दशक
+1950s	वर्ग:इ.स.चे १९५० चे दशक
+1960s	इ.स.चे १९६० चे दशक
+1960s	वर्ग:इ.स.चे १९६० चे दशक
+1970s	इ.स.चे १९७० चे दशक
+1970s	वर्ग:इ.स.चे १९७० चे दशक
+1980s	इ.स.चे १९८० चे दशक
+1980s	वर्ग:इ.स.चे १९८० चे दशक
+1990s	इ.स.चे १९९० चे दशक
+1990s	वर्ग:इ.स.चे १९९० चे दशक
+2	इ.स. २
+20	इ.स. २०
+200	इ.स. २००
+21	इ.स. २१
+22	इ.स. २२
+23	इ.स. २३
+24	इ.स. २४
+25	इ.स. २५
+26	इ.स. २६
+27	इ.स. २७
+28	इ.स. २८
+29	इ.स. २९
+3	इ.स. ३
+30	इ.स. ३०
+300	इ.स. ३००
+31	इ.स. ३१
+32	इ.स. ३२
+33	इ.स. ३३
+34	इ.स. ३४
+35	इ.स. ३५
+36	इ.स. ३६
+37	इ.स. ३७
+38	इ.स. ३८
+39	इ.स. ३९
+4	इ.स. ४
+40	इ.स. ४०
+400	इ.स. ४००
+41	इ.स. ४१
+42	इ.स. ४२
+43	इ.स. ४३
+44	इ.स. ४४
+45	इ.स. ४५
+46	इ.स. ४६
+47	इ.स. ४७
+48	इ.स. ४८
+49	इ.स. ४९
+5	इ.स. ५
+5 (number)	५
+50	इ.स. ५०
+500	इ.स. ५००
+500	वर्ग:इ.स. ५००
+51	इ.स. ५१
+52	इ.स. ५२
+53	इ.स. ५३
+54	इ.स. ५४
+55	इ.स. ५५
+56	इ.स. ५६
+57	इ.स. ५७
+58	इ.स. ५८
+59	इ.स. ५९
+6	इ.स. ६
+60	इ.स. ६०
+61	इ.स. ६१
+62	इ.स. ६२
+63	इ.स. ६३
+64	इ.स. ६४
+65	इ.स. ६५
+66	इ.स. ६६
+67	इ.स. ६७
+68	इ.स. ६८
+69	इ.स. ६९
+7	इ.स. ७
+70	इ.स. ७०
+71	इ.स. ७१
+72	इ.स. ७२
+73	इ.स. ७३
+74	इ.स. ७४
+75	इ.स. ७५
+76	इ.स. ७६
+77	इ.स. ७७
+78	इ.स. ७८
+79	इ.स. ७९
+8	इ.स. ८
+80	इ.स. ८०
+81	इ.स. ८१
+82	इ.स. ८२
+83	इ.स. ८३
+84	इ.स. ८४
+85	इ.स. ८५
+86	इ.स. ८६
+87	इ.स. ८७
+88	इ.स. ८८
+89	इ.स. ८९
+9	इ.स. ९
+90	इ.स. ९०
+91	इ.स. ९१
+92	इ.स. ९२
+93	इ.स. ९३
+94	इ.स. ९४
+95	इ.स. ९५
+96	इ.स. ९६
+97	इ.स. ९७
+98	इ.स. ९८
+99	इ.स. ९९
+AIDS	एड्स
+Abraham Lincoln	अब्राहम लिंकन
+Accra	आक्रा
+Achilles	अकिलिस
+Addis Ababa	अदिस अबाबा
+Aden	एडन
+Adolescence	पौगंडावस्था
+Adolf Hitler	एडॉल्फ हिटलर
+Afghanistan	अफगाणिस्तान
+Afghanistan	वर्ग:अफगाणिस्तान
+Africa	आफ्रिका
+Agatha Christie	अगाथा ख्रिस्ती
+Airport	विमानतळ
+Alabama	अलाबामा
+Alabama	वर्ग:अलाबामा
+Alan Shepard	ऍलन शेपर्ड
+Alan Turing	ऍलन ट्युरिंग
+Alaska	अलास्का
+Alaska	वर्ग:अलास्का
+Albania	आल्बेनिया
+Albert Einstein	अल्बर्ट आइनस्टाइन
+Alberta	आल्बर्टा
+Alchemy	अल्केमी
+Aleksandr Solzhenitsyn	अलेक्सांद्र सोल्झेनित्झिन
+Alexander Graham Bell	अलेक्झांडर ग्रॅहॅम बेल
+Alexander Pope	अलेक्झांडर पोप
+Alexander Pushkin	अलेक्झांडर पुश्किन
+Alexander the Great	अलेक्झांडर द ग्रेट
+Alfred Nobel	आल्फ्रेड नोबेल
+Algebra	बीजगणित
+Algeria	अल्जीरिया
+Algeria	वर्ग:अल्जीरिया
+Algiers	अल्जीयर्स
+Almaty	अल्माटी
+Alps	आल्प्स
+Aluminium	ऍल्युमिनियम
+American Civil War	अमेरिकन गृहयुद्ध
+American Samoa	अमेरिकन सामोआ
+American football	अमेरिकन फुटबॉल
+Amman	अम्मान
+Ampere	अँपियर
+Amsterdam	ऍम्स्टरडॅम
+Amun	अमुन रा
+Amur	आमुर नदी
+Anatole France	अनतोल फ्रांस
+Anders Celsius	अँडर्स सेल्सियस
+Andes	अँडीझ पर्वतरांग
+Andhra Pradesh	आंध्र प्रदेश
+Andorra	आंदोरा
+Andrei Sakharov	आंद्रेई सखारोव्ह
+Andrew Jackson	अँड्रु जॅक्सन
+Andrew Johnson	अँड्रु जॉन्सन
+Andromeda Galaxy	देवयानी दीर्घिका
+Angle	कोन
+Angola	अँगोला
+Anguilla	अँग्विला
+Ankara	अंकारा
+Annapurna	अन्नपूर्णा १
+Anne Boleyn	ऍन बोलेन
+Antarctica	अंटार्क्टिका
+Antigua and Barbuda	अँटिगा आणि बार्बुडा
+Antimony	अँटिमोनी
+Anton Chekhov	आंतोन चेखव
+Antonio Vivaldi	अँतोनियो विवाल्डी
+Antwerp	अँटवर्प
+Apollo program	अपोलो मोहीम
+April	एप्रिल
+April 14	एप्रिल १४
+April Fools' Day	एप्रिल फूल्स दिन
+Arabian Sea	अरबी समुद्र
+Arctic Ocean	आर्क्टिक महासागर
+Argentina	आर्जेन्टीना
+Argentina	वर्ग:आर्जेन्टीना
+Argon	आर्गॉन
+Aristotle	ऍरिस्टोटल
+Arithmetic	अंकगणित
+Arizona	ऍरिझोना
+Arizona	वर्ग:ऍरिझोना
+Arkansas	आर्कान्सा
+Arkansas	वर्ग:आर्कान्सा
+Armenia	आर्मेनिया
+Armenia	वर्ग:आर्मेनिया
+Arsenic	आर्सेनिक
+Artemis	आर्टेमिस
+Arthur Conan Doyle	आर्थर कोनन डॉयल
+Arthur Miller	आर्थर मिलर
+Arthur Wellesley	आर्थर वेलेस्ली, ड्युक ऑफ वेलिंग्टन
+Artificial intelligence	कृत्रिम बुद्धिमत्ता
+Asia	आशिया
+Asmara	अस्मारा
+Assam	आसाम
+Assyria	असिरिया
+Astana	अस्ताना
+Astronomical unit	खगोलीय एकक
+Athena	अथेना
+Athens	अथेन्स
+Atlanta	अटलांटा
+Atlantic Ocean	अटलांटिक महासागर
+Atom	अणू
+Atomic mass	अणुभार
+Atomic number	अणुक्रमांक
+August	ऑगस्ट
+August 1	ऑगस्ट १
+August 15	ऑगस्ट १५
+August 6	ऑगस्ट ६
+Austin	ऑस्टिन, टेक्सास
+Australia	ऑस्ट्रेलिया
+Australia	वर्ग:ऑस्ट्रेलिया
+Australian dollar	ऑस्ट्रेलियन डॉलर
+Austria	ऑस्ट्रिया
+Austria	वर्ग:ऑस्ट्रिया
+Ayn Rand	आयन रँड
+Azerbaijan	अझरबैजान
+Azerbaijan	वर्ग:अझरबैजान
+Aztec	ऍझटेक
+Bacteria	जीवाणू
+Baghdad	बगदाद
+Baltic Sea	बाल्टिक समुद्र
+Baltimore	बाल्टिमोर
+Bangalore	बंगळूर
+Bangkok	बँगकॉक
+Bangladesh	बांगलादेश
+Bangladesh	वर्ग:बांगलादेश
+Barcelona	बार्सिलोना
+Baseball	बेसबॉल
+Basel	बासेल
+Basketball	बास्केटबॉल
+Bastille	बॅस्टिल तुरुंग
+Battle of Britain	बॅटल ऑफ ब्रिटन
+Battle of Thermopylae	थर्मोपिलाईचे युद्ध
+Battle of Trafalgar	ट्रफाल्गरची लढाई
+Battle of Waterloo	वॉटर्लूचे युद्ध
+Bay of Bengal	बंगालचा उपसागर
+Beijing	बीजिंग
+Beirut	बैरुत
+Belarus	बेलारूस
+Belgium	बेल्जियम
+Belgium	वर्ग:बेल्जियम
+Belgrade	बेलग्रेड
+Benghazi	बेंगाझी
+Benjamin Disraeli	बेंजामिन डिझरायेली
+Berlin	बर्लिन
+Berne	बर्न
+Bertrand Russell	बर्ट्रांड रसेल
+Bhutan	वर्ग:भूतान
+Bible	बायबल
+Bihar	बिहार
+Bill Clinton	विल्यम जेफरसन क्लिंटन
+Bill Gates	बिल गेट्स
+Binoculars	द्विनेत्री
+Biodiversity	जैविक विविधता
+Bismuth	बिस्मथ
+Black Forest	श्वार्त्सवाल्ड
+Black Kite	घार
+Blaise Pascal	ब्लेस पास्कल
+Bloemfontein	ब्लूमफाँटेन
+Blood	रक्त
+Bolivia	बोलिव्हिया
+Bolivia	वर्ग:बॉलिव्हिया
+Bologna	बोलोन्या
+Boris Pasternak	बोरिस पास्तरनाक
+Bosnia and Herzegovina	वर्ग:बॉस्निया-हर्झगोव्हेना
+Boston	बॉस्टन
+Brazil	वर्ग:ब्राझिल
+Brazzaville	ब्राझाव्हिल
+Bremen	ब्रेमेन
+British Columbia	ब्रिटिश कोलंबिया
+Broccoli	ब्रोकली
+Bromine	ब्रोमिन
+Brussels	ब्रसेल्स
+Budapest	बुडापेस्ट
+Buddhism	बौद्ध धर्म
+Buddy Holly	बडी हॉली
+Buenos Aires	बोयनोस एर्स
+Bulgaria	वर्ग:बल्गेरिया
+Burma	म्यानमार
+Burma	वर्ग:म्यानमार
+Caesium	सिझियम
+Cairo	कैरो
+California	कॅलिफोर्निया
+California	वर्ग:कॅलिफोर्निया
+Californium	कॅलिफोर्नियम
+Caligula	कालिगुला
+Callisto (moon)	कॅलिस्टो उपग्रह
+Calvin Coolidge	कॅल्विन कूलिज
+Cambodia	कंबोडिया
+Cambodia	वर्ग:कंबोडिया
+Cameroon	कामेरून
+Cameroon	वर्ग:कामेरून
+Canada	कॅनडा
+Canada	वर्ग:कॅनडा
+Canadian dollar	केनेडियन डॉलर
+Canberra	कॅनबेरा
+Cannes	कान, फ्रांस
+Cannon	तोफ
+Cape Verde	केप व्हर्दे
+Cape Verde	वर्ग:केप व्हर्दे
+Capitalism	भांडवलशाही
+Caracas	काराकास
+Carbon	कार्बन
+Carbon dioxide	कार्बन डायॉक्साइड
+Carbon monoxide	कार्बन मोनॉक्साईड
+Carl Jung	कार्ल गुस्टाफ युंग
+Cartesian coordinate system	कार्टेशियन गुणक पद्धती
+Caspian Sea	कॅस्पियन समुद्र
+Cat	मांजर
+Cattle Egret	गाय बगळा
+Cavalry	घोडदळ
+Celsius	सेल्सियस
+Chad	चाड
+Charles Darwin	चार्ल्स डार्विन
+Charles Dickens	चार्ल्स डिकन्स
+Charles de Gaulle	चार्ल्स दि गॉल
+Charles the Bald	टकल्या चार्ल्स
+Charlie Chaplin	चार्ली चॅप्लिन
+Cheetah	चित्ता
+Chemical bond	रासायनिक बंध
+Chennai	चेन्नई
+Chess	बुद्धिबळ
+Chess	वर्ग:बुद्धिबळ
+Chester A. Arthur	चेस्टर ए. आर्थर
+Chicago	शिकागो
+Chicken	कोंबडी
+Chihuahua	शिवावा
+Childbirth	प्रसूती
+Chile	चिली
+Chile	वर्ग:चिली
+China	वर्ग:चीन
+Christchurch	क्राइस्टचर्च
+Christianity	ख्रिश्चन धर्म
+Christopher Columbus	ख्रिस्तोफर कोलंबस
+Classical mechanics	अभिजात यामिक
+Claude Monet	क्लोद मोने
+Claudius	क्लॉडियस
+Clement Attlee	क्लेमेंट ऍटली
+Cleveland	क्लीव्हलँड
+Cobalt	कोबाल्ट
+Coffee	कॉफी
+Cologne	क्योल्न
+Colombo	कोलंबो
+Color	रंग
+Colorado	कॉलोराडो
+Colorado	वर्ग:कॉलोराडो
+Colorado River	कॉलोराडो नदी
+Columbia River	कोलंबिया नदी
+Comet	धूमकेतू
+Commonwealth of Nations	राष्ट्रकुल परिषद
+Communism	साम्यवाद
+Communism	वर्ग:साम्यवाद
+Comoros	कोमोरोस
+Comoros	वर्ग:कोमोरोस
+Compass	होकायंत्र
+Computer	संगणक विज्ञान
+Congo River	काँगो नदी
+Connecticut	कनेक्टिकट
+Connecticut	वर्ग:कनेक्टिकट
+Copenhagen	कोपनहेगन
+Copper	तांबे
+Crane (bird)	क्रौंच
+Cricket	क्रिकेट
+Croatia	वर्ग:क्रोएशिया
+Curling	कर्लिंग
+Cyprus	वर्ग:सायप्रस
+Cyrus the Great	सायरस द ग्रेट
+Czech Republic	चेक प्रजासत्ताक
+Czech Republic	वर्ग:चेक प्रजासत्ताक
+D. H. Lawrence	डी.एच. लॉरेन्स
+Dalai Lama	दलाई लामा
+Dance	नृत्य
+Danish krone	डॅनिश क्रोन
+Darjeeling	दार्जीलिंग
+Davis Cup	डेव्हिस करंडक
+Death	मृत्यू
+December	डिसेंबर
+December 31	डिसेंबर ३१
+December 8	डिसेंबर ८
+Deco	डेको
+Deer	सारंग हरीण
+Delaware	डेलावेर
+Delaware	वर्ग:डेलावेर
+Delhi	दिल्ली
+Democracy	लोकशाही
+Denmark	डेन्मार्क
+Denmark	वर्ग:डेन्मार्क
+Dennis Gabor	डेनिस गॅबॉर
+Denver	डेन्व्हर
+Desert	वाळवंट
+Detroit	डेट्रॉईट
+Dhaka	ढाका
+Diameter	व्यास
+Diamond	हिरा
+Dimension	मिती
+Dire Straits	डायर स्ट्रेट्स
+Dmitri Mendeleev	दिमित्री मेंडेलीव
+Dnieper River	ड्नाइपर नदी
+Dodoma	डोडोमा
+Dog	कुत्रा
+Doha	दोहा
+Dominican Republic	डॉमिनिकन प्रजासत्ताक
+Dominican Republic	वर्ग:डॉमिनिकन प्रजासत्ताक
+Domitian	डोमिशियन
+Dortmund	डॉर्टमुंड
+Dresden	ड्रेस्डेन
+Dubai	दुबई
+Dublin	डब्लिन
+Dubnium	डब्नियम
+Dwight D. Eisenhower	ड्वाइट डी. आयझेनहॉवर
+E-mail	ईमेल
+Ear	कान
+Earth	पृथ्वी
+East Germany	पूर्व जर्मनी
+East Timor	पूर्व तिमोर
+East Timor	वर्ग:पूर्व तिमोर
+Eclipse	ग्रहण
+Economics	अर्थशास्त्र
+Ecuador	इक्वेडोर
+Ecuador	वर्ग:इक्वेडोर
+Edgar Allan Poe	एडगर ऍलन पो
+Edgar Degas	एदगा दगा
+Edgar Rice Burroughs	एडगर राइस बरोज
+Edinburgh	एडिनबरा
+Edmonton	एडमंटन
+Edmund Hillary	एडमंड हिलरी
+Eduard Buchner	एडुआर्ड बुखनेर
+Education	शिक्षण
+Edward Jenner	एडवर्ड जेनर
+Egypt	इजिप्त
+Egypt	वर्ग:इजिप्त
+El Salvador	एल साल्वाडोर
+El Salvador	वर्ग:एल साल्वाडोर
+Electricity	विद्युत
+Electron	विजाणू
+Elizabeth Taylor	एलिझाबेथ टेलर
+Energy	ऊर्जा
+Engineering	अभियांत्रिकी
+England	इंग्लंड
+English language	इंग्लिश भाषा
+Enrico Fermi	एन्रिको फर्मी
+Equation	समीकरण
+Equator	विषुववृत्त
+Eritrea	वर्ग:एरिट्रिया
+Ernest Hemingway	अर्नेस्ट हेमिंग्वे
+Estonia	वर्ग:एस्टोनिया
+Ethiopia	इथियोपिया
+Eucalyptus	निलगिरी, वनस्पती
+Euphrates	युफ्रेटिस नदी
+Euro	युरो
+Europa (moon)	युरोपा उपग्रह
+Europe	युरोप
+European Union	युरोपियन संघ
+February	फेब्रुवारी
+February 12	फेब्रुवारी १२
+February 14	फेब्रुवारी १४
+February 2	फेब्रुवारी २
+February 22	फेब्रुवारी २२
+February 29	फेब्रुवारी २९
+Feces	विष्ठा
+Felidae	मार्जार कुळ
+Fermium	फर्मियम
+Fertilizer	खते
+Fidel Castro	फिदेल कास्त्रो
+Field hockey	हॉकी
+Finland	फिनलंड
+Finland	वर्ग:फिनलंड
+Flamingo	रोहित (पक्षी)
+Flood	पूर
+Florence	फ्लोरेन्स
+Florida	फ्लोरिडा
+Florida	वर्ग:फ्लोरिडा
+Food	अन्न
+Football (soccer)	फुटबॉल
+France	फ्रांस
+France	वर्ग:फ्रान्स
+Francisco Goya	फ्रांसिस्को गोया
+Francisco Pizarro	फ्रांसिस्को पिझारो
+Frankfurt	फ्रांकफुर्ट
+Franz Kafka	फ्रांत्स काफ्का
+Frederick II	फ्रेडरिक दुसरा, पवित्र रोमन सम्राट
+French Revolution	फ्रेंच राज्यक्रांती
+French franc	फ्रेंच फ्रँक
+Fundamental	वर्ग:Categories
+Fyodor Dostoevsky	फ्योदर दस्तयेवस्की
+Galileo Galilei	गॅलिलियो
+Gamal Abdel Nasser	अब्दल गमाल नासर
+Ganges	गंगा नदी
+Ganymede (moon)	गॅनिमीड उपग्रह
+Gas constant	वैश्विक वायू एकक
+Gaza	गाझा
+Geneva	जिनिव्हा
+Geoffrey Chaucer	जेफरी चॉसर
+Geography	भूगोल
+George Bernard Shaw	जॉर्ज बर्नार्ड शॉ
+George Harrison	जॉर्ज हॅरिसन
+George Orwell	जॉर्ज ओरवेल
+George W. Bush	जॉर्ज डब्ल्यू. बुश
+George Washington	जॉर्ज वॉशिंग्टन
+Georgia (U.S. state)	जॉर्जिया
+Georgia (country)	वर्ग:जॉर्जिया
+Gerald Ford	जेराल्ड फोर्ड
+German language	जर्मन भाषा
+German mark	जर्मन मार्क
+Germany	जर्मनी
+Germany	वर्ग:जर्मनी
+Ghana	घाना
+Ghana	वर्ग:घाना
+Gibraltar	जिब्राल्टर
+Girolamo Savonarola	गिरोलामो साव्होनारोला
+Glasgow	ग्लासगो
+Goa	गोवा
+Gold	सोने
+Golda Meir	गोल्डा मायर
+Google	गूगल
+Gottlieb Daimler	गोटलिब डाइमलर
+Grace Kelly	ग्रेस केली
+Grammar	मराठी व्याकरण
+Greece	ग्रीस
+Greece	वर्ग:ग्रीस
+Green	हिरवा
+Greenhouse effect	हरितगृह परिणाम
+Grenoble	ग्रेनोबल
+Guam	गुआम
+Guatemala City	ग्वाटेमाला सिटी
+Guglielmo Marconi	गुलियेल्मो मार्कोनी
+Gujarat	गुजरात
+Gulf of Mexico	मेक्सिकोचे आखात
+Gustav Klimt	गुस्टाफ क्लिम्ट
+Gustav Ludwig Hertz	गुस्ताव लुडविग हेर्ट्झ
+H. G. Wells	एच.जी. वेल्स
+HIV	एच.आय.व्ही.
+Hadith	हादिथ
+Hafnium	हाफ्नियम
+Haiti	हैती
+Haiti	वर्ग:हैती
+Hamburg	हांबुर्ग
+Han Dynasty	हान राजवंश
+Hannah Arendt	हॅना अरेंट
+Hanover	हॅनॉव्हर
+Hanseatic League	हॅन्सियाटिक लीग
+Hanuman	हनुमान
+Hawaii	हवाई
+Head	डोके
+Health	आरोग्य
+Heinrich Hertz	हाइनरिक हेर्ट्झ
+Helium	हेलियम
+Helmut Schmidt	हेल्मुट श्मिट
+Helsinki	हेलसिंकी
+Herat	हेरत
+Herbert Hoover	हर्बर्ट हूवर
+Hermann Hesse	हेर्मान हेस
+Hesse	हेसेन
+Himalayas	हिमालय
+Hindu Kush	हिंदुकुश
+Hinduism	हिंदू धर्म
+Hinduism	वर्ग:हिंदू धर्म
+Hispaniola	हिस्पॅनियोला
+History	इतिहास
+Ho Chi Minh City	हो चि मिन्ह सिटी
+Hollywood	हॉलिवूड
+Holmium	होल्मियम
+Holy Roman Empire	पवित्र रोमन साम्राज्य
+Homer	होमर
+Homo erectus	आदिमानव
+Honduras	होन्डुरास
+Honey	मध
+Hong Kong	हाँगकाँग
+Horatio Nelson	होरेशियो नेल्सन
+Horse	घोडा
+Hosni Mubarak	होस्नी मुबारक
+Houston	ह्यूस्टन
+Human	मानव
+Hungary	हंगेरी
+Hungary	वर्ग:हंगेरी
+Hydrogen	हायड्रोजन
+Ian Fleming	इयान फ्लेमिंग
+Iberian Peninsula	इबेरिया द्वीपकल्प
+Ice hockey	आइस हॉकी
+Iceberg	हिमनग
+Iceland	आइसलँड
+Idaho	आयडाहो
+Idaho	वर्ग:आयडाहो
+Igloo	ईग्‍लू
+Iliad	इलियड
+Illinois	इलिनॉय
+Illinois	वर्ग:इलिनॉय
+Incheon	इंचेवॉन
+India	भारत
+India	वर्ग:भारत
+Indian Ocean	हिंदी महासागर
+Indiana	इंडियाना
+Indiana	वर्ग:इंडियाना
+Indira Gandhi	इंदिरा गांधी
+Indium	इंडियम
+Indonesia	इंडोनेशिया
+Indonesia	वर्ग:इंडोनेशिया
+Indra	इंद्र
+Indus River	सिंधु नदी
+Infantry	पायदळ सैनिक
+Infinity	अनंत
+Innsbruck	इन्सब्रुक
+Integer	पूर्ण संख्या
+International System of Units	आंतरराष्ट्रीय गणना पद्धती
+Internet	इंटरनेट
+Io (moon)	आयो उपग्रह
+Iodine	आयोडिन
+Ionia	आयोनिया
+Iowa	आयोवा
+Iowa	वर्ग:आयोवा
+Iran	इराण
+Iran	वर्ग:इराण
+Iraq	इराक
+Iraq	वर्ग:इराक
+Iridium	इरिडियम
+Iron	लोखंड
+Irrational number	अपरिमेय संख्या
+Isaac Newton	आयझॅक न्यूटन
+Islam	इस्लाम धर्म
+Islamabad	इस्लामाबाद
+Israel	इस्रायल
+Israel	वर्ग:इस्रायल
+Istanbul	इस्तंबूल
+Italy	इटली
+Italy	वर्ग:इटली
+Ithaca	इथाका
+Ivan Lendl	इव्हान लेंडल
+Jacksonville	जॅक्सनविल
+Jacques Cartier	जॉक कार्टिये
+Jainism	जैन धर्म
+Jakarta	जकार्ता
+Jamaica	जमैका
+Jamaica	वर्ग:जमैका
+James A. Garfield	जेम्स गारफील्ड
+James Bond	जेम्स बॉँड
+James Joyce	जेम्स जॉइस
+James K. Polk	जेम्स पोक
+James Madison	जेम्स मॅडिसन
+James Monroe	जेम्स मन्रो
+James Prescott Joule	जेम्स प्रेस्कॉट जूल
+James Watt	जेम्स वॅट
+Jammu and Kashmir	जम्मू आणि काश्मीर
+Jane Austen	जेन ऑस्टेन
+Jane Fonda	जेन फोंडा
+January	जानेवारी
+January 1	जानेवारी १
+January 19	जानेवारी १९
+January 20	जानेवारी २०
+January 6	जानेवारी ६
+Japan	जपान
+Japan	वर्ग:जपान
+Jawaharlal Nehru	जवाहरलाल नेहरू
+Jean-Paul Sartre	ज्यॉँ-पॉल सार्त्र
+Jew	ज्यू
+Jimi Hendrix	जिमी हेंड्रिक्स
+Jimmy Carter	जिमी कार्टर
+Joan of Arc	जोन ऑफ आर्क
+Johann Bernoulli	योहान बर्नोली
+Johann Wolfgang von Goethe	योहान वोल्फगांग फॉन ग्यॉटे
+Johannes Diderik van der Waals	योहान्स डिडरिक व्हान डेर वाल्स
+Johannes Kepler	योहानेस केप्लर
+John Adams	जॉन ऍडम्स
+John Herschel	जॉन हर्षल
+John Lennon	जॉन लेनन
+John Major	जॉन मेजर
+John Milton	जॉन मिल्टन
+John Quincy Adams	जॉन क्विन्सी ऍडम्स
+John Ruskin	जॉन रस्किन
+John Steinbeck	जॉन स्टाइनबेक
+John Tyler	जॉन टायलर
+John von Neumann	जॉन फोन न्यूमन
+Johnny Cash	जॉनी कॅश
+Jordan	जॉर्डन
+Jordan	वर्ग:जॉर्डन
+Joseph McCarthy	जोसेफ मॅककार्थी
+Joseph Priestley	जोसेफ प्रिस्टली
+Joseph Stalin	जोसेफ स्टालिन
+Judea	जुदेआ
+Jules Verne	जुल्स व्हर्न
+Julian the Apostate	ज्युलियन, रोमन सम्राट
+July	जुलै
+July 1	जुलै १
+July 4	जुलै ४
+June	जून
+June 14	जून १४
+June 21	जून २१
+June 23	जून २३
+June 24	जून २४
+June 29	जून २९
+June 3	जून ३
+Jupiter	गुरू ग्रह
+K2	के२
+Kabul	काबुल
+Kampala	कंपाला
+Kandahar	कंदहार
+Kansas	कॅन्सस
+Kansas	वर्ग:कॅन्सस
+Kansas City	कॅन्सस सिटी, मिसूरी
+Karachi	कराची
+Karl Marx	कार्ल मार्क्स
+Karnataka	कर्नाटक
+Katharine Hepburn	कॅथरीन हेपबर्न
+Kathmandu	काठमांडू
+Katowice	केटोविच
+Kazakhstan	कझाकस्तान
+Kazakhstan	वर्ग:कझाकस्तान
+Kentucky	केंटकी
+Kentucky	वर्ग:केंटकी
+Kenya	केन्या
+Kharkiv	खार्कीव्ह
+Kiev	क्यीव
+Kilogram	किलोग्रॅम
+Kinetic energy	गतीज ऊर्जा
+King (chess)	राजा (बुद्धिबळ)
+Kingston	किंग्स्टन
+Kiribati	किरिबाटी
+Kiribati	वर्ग:किरिबाटी
+Knesset	क्नेसेट
+Kobe	कोबे
+Kolkata	कोलकाता
+Kosovo	वर्ग:कोसोव्हो
+Krishna	कृष्ण
+Kuala Lumpur	क्वालालंपूर
+Kublai Khan	कुब्लाई खान
+Kuwait	कुवैत
+Kuwait	वर्ग:कुवैत
+Lakshmi	लक्ष्मी
+Language	भाषा
+Laptop	लॅपटॉप
+Latin	लॅटिन भाषा
+Latitude	अक्षांश
+Latvia	लात्व्हिया
+Latvia	वर्ग:लात्व्हिया
+Lead	शिसे
+League of Nations	लीग ऑफ नेशन्स
+Lebanon	वर्ग:लेबेनॉन
+Leonardo da Vinci	लिओनार्दो दा विंची
+Leonid Brezhnev	लियोनिद ब्रेझनेव्ह
+Leopard	बिबट्या
+Lesotho	वर्ग:लेसोथो
+Letter (alphabet)	अक्षर
+Liberia	लायबेरिया
+Liberia	वर्ग:लायबेरिया
+Libya	वर्ग:लिब्या
+Liechtenstein	लिश्टनस्टाइन
+Light	प्रकाश
+Lima	लिमा
+Lincoln	लिंकन, नेब्रास्का
+Linux	लिनक्स
+Lion	सिंह
+Lisbon	लिस्बन
+Lithography	लिथोग्राफ
+Lithuania	लिथुएनिया
+Lithuania	वर्ग:लिथुएनिया
+London	लंडन
+London	वर्ग:लंडन
+Los Angeles	लॉस एंजेल्स
+Louisiana	लुईझियाना
+Luanda	लुआंडा
+Ludwig Boltzmann	लुडविग बोल्ट्झमन
+Luxembourg	लक्झेंबर्ग
+Lyon	ल्योन
+Madonna (entertainer)	मॅडोना
+Madrid	माद्रिद
+Magna Carta	मॅग्ना कार्टा
+Maharashtra	महाराष्ट्र
+Mahatma Gandhi	महात्मा मोहनदास करमचंद गांधी
+Main	माइन नदी
+Maine	मेन
+Maine	वर्ग:मेन
+Malawi	वर्ग:मलावी
+Malaysia	मलेशिया
+Malaysia	वर्ग:मलेशिया
+Maldives	मालदीव
+Mali	माली
+Mallard	मलार्ड बदक
+Mammal	सस्तन प्राणी
+Manchester	मँचेस्टर
+Mango	आंबा
+Manipur	मणिपूर
+Manitoba	मॅनिटोबा
+Mannheim	मानहाइम
+March	मार्च
+March 17	मार्च १७
+March 19	मार्च १९
+March 2	मार्च २
+March 25	मार्च २५
+Margaret Thatcher	मार्गारेट थॅचर
+Marie Curie	मेरी क्युरी
+Mark Twain	मार्क ट्वेन
+Marseille	मार्सेल
+Martina Navratilova	मार्टीना नवरातिलोव्हा
+Marxism	मार्क्सिझम-लेनिनिझम
+Maryland	मेरीलँड
+Maryland	वर्ग:मेरीलँड
+Massachusetts	मॅसेच्युसेट्स
+Mathematics	गणित
+Mauritius	मॉरिशियस
+Mauritius	वर्ग:मॉरिशियस
+Max Planck	माक्स प्लांक
+May	मे
+May 1	मे १
+May 24	मे २४
+Mediterranean Sea	भूमध्य समुद्र
+Mel Gibson	मेल गिब्सन
+Menachem Begin	मेनाकेम बेगिन
+Mercury (planet)	बुध ग्रह
+Meryl Streep	मेरिल स्ट्रीप
+Mesopotamia	मेसोपोटेमिया
+Metre	मीटर
+Mexico	मेक्सिको
+Mexico	वर्ग:मेक्सिको
+Mexico City	मेक्सिको सिटी
+Miami	मायामी
+Mica	अभ्रक
+Michigan	मिशिगन
+Microscope	सूक्ष्मदर्शक
+Miguel de Cervantes	मिगेल सर्व्हान्तेस
+Mikhail Gorbachev	मिखाईल गोर्बाचेव्ह
+Milan	मिलान
+Miles Davis	माइल्स डेव्हिस
+Milky Way	आकाशगंगा
+Millard Fillmore	मिलार्ड फिलमोर
+Million	नियुत
+Ming Dynasty	मिंग राजवंश
+Minneapolis	मिनीयापोलिस
+Minnesota	मिनेसोटा
+Minsk	मिन्‍स्‍क
+Mississippi	वर्ग:मिसिसिपी
+Missouri	मिसूरी
+Missouri	वर्ग:मिसूरी
+Molecule	रेणू
+Molybdenum	मॉलिब्डेनम
+Monaco	मोनॅको
+Mongolia	मंगोलिया
+Mongolia	वर्ग:मंगोलिया
+Monica Seles	मोनिका सेलेस
+Monosodium glutamate	मोनोसोडियम ग्लुटामेट
+Montana	मॉँटाना
+Montana	वर्ग:मॉँटाना
+Montenegro	मॉन्टेनिग्रो
+Montreal	माँत्रियाल
+Moon	चंद्र
+Morocco	मोरोक्को
+Morocco	वर्ग:मोरोक्को
+Moscow	मॉस्को
+Mosque	मशीद
+Mother	आई
+Mother Teresa	मदर तेरेसा
+Mount Everest	एव्हरेस्ट
+Mount Vesuvius	व्हेसुव्हियस
+Mumbai	मुंबई
+Museum	संग्रहालय
+Music	संगीत
+Myanmar	वर्ग:म्यानमार
+N'Djamena	न्द्जामेना
+Nagasaki	नागासाकी
+Nagoya	नागोया
+Nairobi	नैरोबी
+Namibia	नामिबिया
+Namibia	वर्ग:नामिबिया
+Nanotechnology	अतिसूक्ष्मतंत्रज्ञान
+Nature	निसर्ग
+Nauru	नौरू
+Nauru	वर्ग:नौरू
+Nazi Party	नाझी पक्ष
+Nebraska	नेब्रास्का
+Nebraska	वर्ग:नेब्रास्का
+Nelson Mandela	नेल्सन मंडेला
+Neon	नियॉन
+Nepal	नेपाळ
+Nepal	वर्ग:नेपाळ
+Neptune	नेपच्यून ग्रह
+Nero	नीरो
+Nerva	नर्व्हा
+Netherlands	नेदरलँड्स
+Netherlands	वर्ग:नेदरलँड्स
+Neuron	चेतापेशी
+Nevada	नेव्हाडा
+Neville Chamberlain	नेव्हिल चेम्बरलेन
+New Hampshire	न्यू हॅम्पशायर
+New Hampshire	वर्ग:न्यू हॅम्पशायर
+New Jersey	न्यू जर्सी
+New Jersey	वर्ग:न्यू जर्सी
+New Mexico	न्यू मेक्सिको
+New Mexico	वर्ग:न्यू मेक्सिको
+New World	नवे जग
+New Zealand	न्यू झीलँड
+New Zealand	वर्ग:न्यू झीलँड
+Newfoundland and Labrador	न्यू फाउंडलंड
+Niamey	नॅय्मे
+Nicaragua	वर्ग:निकाराग्वा
+Nickel	निकेल
+Nicolaus Copernicus	निकोलस कोपर्निकस
+Niels Bohr	नील्स बोर
+Niels Henrik Abel	नील्स हेन्रिक एबेल
+Nigeria	वर्ग:नायजेरिया
+Nike	नाईके
+Nikita Khrushchev	निकिता ख्रुश्चेव्ह
+Nikola Tesla	निकोला टेसला
+Nile	नाईल नदी
+Nitrogen	नायट्रोजन
+Nobel Prize	नोबेल पुरस्कार
+Nobelium	नोबेलियम
+North	उत्तर दिशा
+North America	उत्तर अमेरिका
+North America	वर्ग:उत्तर अमेरिका
+North Carolina	नॉर्थ कॅरोलिना
+North Dakota	नॉर्थ डकोटा
+North Dakota	वर्ग:नॉर्थ डकोटा
+North Korea	उत्तर कोरिया
+North Korea	वर्ग:उत्तर कोरिया
+North Sea	उत्तर समुद्र
+Northern Hemisphere	उत्तर गोलार्ध
+Northern Mariana Islands	नॉर्दर्न मेरियाना आयलँड्स
+Norway	नॉर्वे
+Norwegian krone	नॉर्वेजियन क्रोन
+Noun	नाम
+November	नोव्हेंबर
+November 1	नोव्हेंबर १
+November 11	नोव्हेंबर ११
+November 2	नोव्हेंबर २
+November 5	नोव्हेंबर ५
+Nuremberg	न्युरेंबर्ग
+Ocean	महासागर
+October	ऑक्टोबर
+October 12	ऑक्टोबर १२
+October 24	ऑक्टोबर २४
+Oder River	ओडर नदी
+Odyssey	ओडिसी
+Ohio	ओहायो
+Ohio	वर्ग:ओहायो
+Oklahoma	ओक्लाहोमा
+Oklahoma	वर्ग:ओक्लाहोमा
+Oklahoma City	ओक्लाहोमा सिटी
+Oliver Cromwell	ऑलिव्हर क्रॉमवेल
+Oliver Stone	ऑलिव्हर स्टोन
+Olympic Games	ऑलिंपिक
+Oman	वर्ग:ओमान
+Omsk	ओम्स्क
+Onion	कांदा
+Ontario	ऑन्टारियो
+Oregon	ओरेगॉन
+Oregon	वर्ग:ओरेगॉन
+Orissa	ओरिसा
+Ornithology	पक्षीशास्त्र
+Osaka	ओसाका
+Osama bin Laden	ओसामा बिन लादेन
+Oscar Wilde	ऑस्कर वाइल्ड
+Oslo	ऑस्लो
+Ottawa	ओटावा
+Otto Hahn	ऑट्टो हान
+Otto von Bismarck	ओटो फॉन बिस्मार्क
+Oxygen	ऑक्सिजन
+Pablo Picasso	पाब्लो पिकासो
+Pacific Ocean	प्रशांत महासागर
+Pakistan	पाकिस्तान
+Pakistan	वर्ग:पाकिस्तान
+Palermo	पालेर्मो
+Palladium	पॅलॅडियम
+Panama	पनामा
+Panama	वर्ग:पनामा
+Panama Canal	पनामा कालवा
+Panama City	पनामा सिटी
+Pangaea	पँजिआ
+Paraguay	पेराग्वे
+Paraguay	वर्ग:पेराग्वे
+Paris	पॅरिस
+Parvati	पार्वती
+Paul McCartney	पॉल मॅककार्टनी
+Penicillin	पेनिसिलिन
+Pennsylvania	पेनसिल्व्हेनिया
+Pennsylvania	वर्ग:पेनसिल्व्हेनिया
+People's Republic of China	चीन
+Percy Bysshe Shelley	पर्सी शेली
+Perth	पर्थ
+Peru	पेरू देश
+Peru	वर्ग:पेरू देश
+Philipp Lenard	फिलिप लेनार्ड
+Philippines	फिलिपाईन्स
+Philippines	वर्ग:फिलिपाईन्स
+Philosophy	तत्त्वज्ञान
+Phnom Penh	फ्नॉम पेन्ह
+Phosphorus	फॉस्फरस
+Photosynthesis	प्रकाशसंश्लेषण
+Physics	वर्ग:भौतिकशास्त्र
+Pi	पाय, अव्यय राशी (π)
+Pierre Curie	पियरे क्युरी
+Pineapple	अननस
+Pittsburgh	पिट्सबर्ग
+Planet	ग्रह
+Pluto	प्लूटो ग्रह
+Plutonium	प्लुटोनियम
+Po River	पो नदी
+Poland	पोलंड
+Poland	वर्ग:पोलंड
+Politics	वर्ग:राजकारण
+Pollution	प्रदूषण
+Polo	पोलो
+Pope Alexander VI	पोप अलेक्झांडर सहावा
+Port-au-Prince	पोर्ट-औ-प्रिन्स
+Portugal	पोर्तुगाल
+Portugal	वर्ग:पोर्तुगाल
+Potato	बटाटा
+Pound sterling	ब्रिटिश पाउंड
+Precipitation (meteorology)	वर्षाव (वायुचक्रशास्त्र)
+Promethium	प्रोमेथियम
+Psychology	मानसशास्त्र
+Puerto Rico	पोर्तोरिको
+Punctuation	विरामचिन्हे
+Punjab (India)	पंजाब
+Pyongyang	प्याँगयांग
+Qin Dynasty	छिन् राजवंश
+Qing Dynasty	छिंग राजवंश
+Quantum mechanics	पुंज यामिक
+Queen (chess)	वजीर (बुद्धिबळ)
+Quito	क्विटो
+Ra	रा
+Rabindranath Tagore	रवींद्रनाथ टागोर
+Rain	पाऊस
+Rainbow	इंद्रधनुष्य
+Rama	राम
+Ramayana	रामायण
+Rawalpindi	रावळपिंडी
+Red	निळा
+Religion	धर्म
+Rembrandt	रेम्ब्राँ फान रेन
+Republic of Ireland	वर्ग:आयर्लंड
+Rhine	र्‍हाइन नदी
+Rhinoceros	गेंडा
+Rhode Island	र्‍होड आयलंड
+Rhode Island	वर्ग:र्‍होड आयलंड
+Rhodes	र्‍होड्स
+Rhodium	र्‍होडियम
+Richard Feynman	रिचर्ड फाइनमन
+Richard Nixon	रिचर्ड निक्सन
+Richard Wagner	रिचर्ड वॅग्नर
+Richmond	रिचमंड
+Riga	रिगा
+Ringo Starr	रिंगो स्टार
+Rio Grande	रियो ग्रांदे
+Rio de Janeiro	रियो दि जानेरो
+Riyadh	रियाध
+Robert Burns	रॉबर्ट बर्न्स
+Robert Louis Stevenson	रॉबर्ट लुई स्टीवन्सन
+Robert Redford	रॉबर्ट रेडफोर्ड
+Romania	रोमेनिया
+Romania	वर्ग:रोमेनिया
+Rome	रोम
+Ronald Reagan	रोनाल्ड रेगन
+Rook (chess)	हत्ती (बुद्धिबळ)
+Rotterdam	रॉटरडॅम
+Royal Air Force	रॉयल एर फोर्स
+Rudyard Kipling	रुड्यार्ड किप्लिंग
+Russia	रशिया
+Russia	वर्ग:रशिया
+Rutherford B. Hayes	रदरफोर्ड बी. हेस
+Rwanda	र्‍वान्डा
+Rwanda	वर्ग:र्‍वांडा
+Saint Kitts and Nevis	सेंट किट्स आणि नेविस
+Saint Petersburg	सेंट पीटर्सबर्ग
+Salman Rushdie	सलमान रश्दी
+Salt Lake City	सॉल्ट लेक सिटी
+Samuel F. B. Morse	सॅम्युएल मॉर्स
+Samurai	सामुराई
+San Antonio	सान अँटोनियो
+San Francisco	सान फ्रांसिस्को
+San Marino	सान मारिनो
+Sanskrit	संस्‍कृत भाषा
+Sapporo	सप्पोरो, होक्कियाडो
+Sarah Bernhardt	सारा बर्नहार्ट
+Saskatchewan	सास्काचेवान
+Saturn	शनी ग्रह
+Saudi Arabia	सौदी अरेबिया
+Saudi Arabia	वर्ग:सौदी अरेबिया
+Scandium	स्कॅन्डियम
+Scotland	स्कॉटलंड
+Scotland	वर्ग:स्कॉटलंड
+Season	ऋतू
+Seattle	सिअॅटल, वॉशिंग्टन
+Second	सेकंद
+Selenium	सेलेनियम
+Seleucus I Nicator	सेल्युकस निकेटर
+Senegal	सेनेगाल
+Senegal	वर्ग:सेनेगाल
+Seoul	सोल
+September	सप्टेंबर
+September 11	सप्टेंबर ११
+September 29	सप्टेंबर २९
+Serbia	वर्ग:सर्बिया
+Set theory	संचप्रवाद
+Sex	कामजीवन
+Sex organ	गुप्तांग
+Sherlock Holmes	शेरलॉक होम्स
+Shiva	शिव
+Siberia	सायबेरिया
+Sierra Leone	सियेरा लिओन
+Sierra Leone	वर्ग:सियेरा लिओन
+Sigrid Undset	सिग्रिड उंडसेट
+Sikhism	शीख धर्म
+Sikkim	सिक्किम
+Silicon	सिलिकॉन
+Silver	चांदी
+Singapore	सिंगापूर
+Singapore	वर्ग:सिंगापूर
+Sleep	झोप
+Slovakia	वर्ग:स्लोव्हेकिया
+Slovenia	स्लोव्हेनिया
+Slovenia	वर्ग:स्लोव्हेनिया
+Small intestine	लहान आतडे
+Snake	साप
+Socialism	समाजवाद
+Sodium	सोडियम
+Softball	सॉफ्टबॉल
+Solar System	सूर्यमाला
+Solomon Islands	वर्ग:सोलोमन द्वीपे
+Somalia	सोमालिया
+Somalia	वर्ग:सोमालिया
+Sophia Loren	सोफिया लॉरेन
+Soul	आत्मा
+Sound	आवाज (ध्वनी)
+South Africa	वर्ग:दक्षिण आफ्रिका
+South America	दक्षिण अमेरिका
+South America	वर्ग:दक्षिण अमेरिका
+South Carolina	साउथ कॅरोलिना
+South Carolina	वर्ग:साउथ कॅरोलिना
+South Dakota	साउथ डकोटा
+South Dakota	वर्ग:साउथ डकोटा
+South Korea	दक्षिण कोरिया
+South Korea	वर्ग:दक्षिण कोरिया
+Soviet Union	सोवियेत संघ
+Soviet Union	वर्ग:सोवियेत संघ
+Spain	स्पेन
+Spain	वर्ग:स्पेन
+Sport	खेळ
+Square (geometry)	चौरस
+Sri Lanka	श्रीलंका
+Sri Lanka	वर्ग:श्रीलंका
+Star	तारा
+Statistics	संख्याशास्त्र
+Steam	बाष्प
+Steffi Graf	स्टेफी ग्राफ
+Stephen Hawking	स्टीफन हॉकिंग
+Steven Spielberg	स्टीव्हन स्पीलबर्ग
+Stockholm	स्टॉकहोम
+Stomach	जठर
+Stress (medicine)	तणाव
+Stuttgart	श्टुटगार्ट
+Sudoku	सुडोकू
+Suharto	सुहार्तो
+Sukarno	सुकर्णो
+Sulfur	सल्फर
+Sumatra	सुमात्रा
+Summer	उन्हाळा
+Sun	सूर्य
+Supreme Court of the United States	अमेरिकेचे सर्वोच्च न्यायालय
+Suriname	वर्ग:सुरिनाम
+Sweden	स्वीडन
+Sweden	वर्ग:स्वीडन
+Swedish krona	स्वीडिश क्रोना
+Swiss franc	स्विस फ्रँक
+Switzerland	स्वित्झर्लंड
+Switzerland	वर्ग:स्वित्झर्लंड
+Syllable	साहाय्य:संपादन
+Syria	सिरीया
+Syria	वर्ग:सिरीया
+T. S. Eliot	टी.एस. इलियट
+Tagus	ताहो नदी
+Taj Mahal	ताजमहाल
+Tajikistan	ताजिकिस्तान
+Tajikistan	वर्ग:ताजिकिस्तान
+Tamil Nadu	तामीळनाडू
+Tanzania	टांझानिया
+Tanzania	वर्ग:टांझानिया
+Tasmania	तास्मानिया
+Taste	चव
+Tehran	तेहरान
+Telephone	दूरध्वनी
+Tellurium	टेलरियम
+Temple of Artemis	आर्टेमिसचे मंदिर
+Tennessee	टेनेसी
+Tennessee	वर्ग:टेनेसी
+Tennis	वर्ग:टेनिस
+Tenzing Norgay	तेनझिंग नॉर्गे
+Texas	टेक्सास
+Texas	वर्ग:टेक्सास
+Thailand	थायलंड
+Thailand	वर्ग:थायलंड
+The Gambia	गांबिया
+The Hague	हेग
+Theodosius I	थियोडोसियस पहिला
+Theory of relativity	सापेक्षतावादाचा सिद्धांत
+Thomas Edison	थॉमस अल्वा एडिसन
+Thomas Jefferson	थॉमस जेफरसन
+Tiber	ऍनियेन नदी
+Tiberius	तिबेरियस
+Tibet	वर्ग:तिबेट
+Tiger	वाघ
+Tigris	तैग्रिस नदी
+Time	काळ
+Time	वर्ग:काळ
+Time zone	आंतरराष्ट्रीय कालविभाग
+Tin	टिन
+Tirana	तिराना
+Titania (moon)	टायटेनिया
+Titanium	टायटॅनियम
+Titus	टायटस
+Tokyo	टोक्यो
+Tom Hanks	टॉम हँक्स
+Tony Blair	टोनी ब्लेर
+Toronto	टोरोंटो
+Toulouse	तुलू
+Toyota	टोयोटा मोटर कंपनी
+Trajan	ट्राजान
+Triangle	त्रिकोण
+Tributary	उपनदी
+Trinidad	त्रिनिदाद
+Trinidad and Tobago	त्रिनिदाद व टोबॅगो
+Trinidad and Tobago	वर्ग:त्रिनिदाद
+Tripoli	ट्रिपोली
+Troy	ट्रॉय
+Tsunami	त्सुनामी
+Tuberculosis	क्षय रोग
+Tungsten	टंग्स्टन
+Tunis	ट्युनिस
+Tunisia	ट्युनिसिया
+Tunisia	वर्ग:ट्युनिसीया
+Turin	तोरिनो
+Turkey	तुर्कस्तान
+Turkey	वर्ग:तुर्कस्तान
+Turkmenistan	वर्ग:तुर्कमेनिस्तान
+Turmeric	हळद
+UNESCO	युनेस्को
+Uganda	वर्ग:युगांडा
+Ukraine	वर्ग:युक्रेन
+Ulan Bator	उलानबातर
+Ultraviolet	अतीनील किरणे
+Ulysses S. Grant	युलिसिस एस. ग्रँट
+United Arab Emirates	संयुक्त अरब अमिराती
+United Arab Emirates	वर्ग:संयुक्त अरब अमीराती
+United Kingdom	वर्ग:युनायटेड किंग्डम
+United Nations	संयुक्त राष्ट्रे
+United States	अमेरिकेची संयुक्त संस्थाने
+United States	वर्ग:अमेरिकेची संयुक्त संस्थाने
+United States Congress	अमेरिकन कॉँग्रेस
+United States dollar	अमेरिकन डॉलर
+Upanishad	उपनिषदे
+Ural Mountains	उरल पर्वत
+Urdu	उर्दू भाषा
+Utah	युटा
+Utah	वर्ग:युटा
+Uterus	गर्भाशय
+Uttar Pradesh	उत्तर प्रदेश
+Uzbekistan	उझबेकिस्तान
+Uzbekistan	वर्ग:उझबेकिस्तान
+Vanadium	व्हेनेडियम
+Vancouver	व्हॅनकुवर
+Vatican City	व्हॅटिकन सिटी
+Venezuela	व्हेनेझुएला
+Venezuela	वर्ग:व्हेनेझुएला
+Venice	व्हेनिस
+Venus	शुक्र ग्रह
+Vermont	व्हरमाँट
+Vermont	वर्ग:व्हर्मॉँट
+Vertebrate	पृष्ठवंशी प्राणी
+Victor Hugo	व्हिक्टर ह्युगो
+Vienna	व्हियेना
+Vietnam	व्हियेतनाम
+Vietnam	वर्ग:व्हियेतनाम
+Vilnius	व्हिल्नियस
+Vincent van Gogh	फिन्सेंत फां गोघ
+Violin	व्हायोलिन
+Virginia	व्हर्जिनिया
+Virginia	वर्ग:व्हर्जिनिया
+Virginia Woolf	व्हर्जिनिया वूल्फ
+Virus	विषाणू
+Vishnu	विष्णु
+Vistula	व्हिस्चुला नदी
+Vitamin	जीवनसत्त्व
+Vitamin A	अ-जीवनसत्त्व
+Vitamin D	ड-जीवनसत्त्व
+Vladimir Lenin	व्लादिमिर इलिच लेनिन
+Volleyball	वॉलीबॉल
+Voltaire	व्होल्तेर
+W. Somerset Maugham	सॉमरसेट मॉम
+Wales	वेल्स
+Walter Scott	वॉल्टर स्कॉट
+Warsaw	वॉर्सो
+Washington	वॉशिंग्टन डी.सी.
+Washington	वॉशिंग्टन राज्य
+Washington	वर्ग:वॉशिंग्टन राज्य
+Water	पाणी
+Water polo	वॉटर पोलो
+Watermelon	टरबूज
+Weather	हवामान
+Web browser	इंटरनेट ब्राउझर
+West	पश्चिम दिशा
+West Bengal	पश्चिम बंगाल
+West Virginia	वेस्ट व्हर्जिनिया
+West Virginia	वर्ग:वेस्ट व्हर्जिनिया
+White House	व्हाइट हाउस
+Wildcat	रानमांजर
+Wilhelm Ostwald	विल्हेल्म ओस्टवाल्ड
+William Golding	विल्यम गोल्डिंग
+William Howard Taft	विल्यम हॉवार्ड टाफ्ट
+William McKinley	विल्यम मॅककिन्ली
+William Rowan Hamilton	विल्यम रोवन हॅमिल्टन
+William Shakespeare	विल्यम शेक्सपियर
+Windhoek	विंडहोक
+Wine	ग्रेप वाईन
+Winnipeg	विनिपेग
+Winston Churchill	विन्स्टन चर्चिल
+Winter	हिवाळा
+Wisconsin	विस्कॉन्सिन
+Wisconsin	वर्ग:विस्कॉन्सिन
+Woodrow Wilson	वूड्रो विल्सन
+Woody Allen	वूडी ऍलन
+World Bank	जागतिक बँक
+World Trade Organization	जागतिक व्यापार संघटना
+World War I	पहिले महायुद्ध
+World War II	दुसरे महायुद्ध
+Wyoming	वायोमिंग
+Wyoming	वर्ग:वायोमिंग
+X-ray	क्ष-किरण
+Xenon	झेनॉन
+Yangon	रंगून
+Yemen	यमनचे प्रजासत्ताक
+Yerevan	येरेवान
+Yoga	योग
+Yokohama	योकोहामा
+Yuan Dynasty	युआन राजवंश
+Yuri Gagarin	युरी गागारिन
+Zeus	झ्यूस
+Zimbabwe	झिम्बाब्वे
+Zimbabwe	वर्ग:झिम्बाब्वे
+Zinc	झिंक

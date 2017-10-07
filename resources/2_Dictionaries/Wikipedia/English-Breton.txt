@@ -1,0 +1,2245 @@
+English	Breton
+1	1
+10	10
+100	Rummad:100
+1000	1000
+101	101
+105	105
+11	11
+110	110
+115	115
+12	12
+12	Rummad:12
+120	120
+125	125
+13	13
+130	130
+135	135
+14	14
+14	Rummad:14
+140	140
+144	144
+145	145
+15	15
+150	150
+1530s	Bloavezhioù 1530
+155	155
+16	16
+16	Rummad:16
+160	160
+165	165
+17	17
+17	Rummad:17
+170	170
+1728	1728
+175	175
+1750s	Bloavezhioù 1750
+1750s	Rummad:Bloavezhioù 1750
+1760s	Bloavezhioù 1760
+1760s	Rummad:Bloavezhioù 1760
+1770s	Bloavezhioù 1770
+1770s	Rummad:Bloavezhioù 1770
+1780s	Bloavezhioù 1780
+1780s	Rummad:Bloavezhioù 1780
+1790s	Bloavezhioù 1790
+1790s	Rummad:Bloavezhioù 1790
+18	18
+180	180
+1820s	Bloavezhioù 1820
+1820s	Rummad:Bloavezhioù 1820
+1830s	Bloavezhioù 1830
+1830s	Rummad:Bloavezhioù 1830
+1840s	Bloavezhioù 1840
+1840s	Rummad:Bloavezhioù 1840
+1850s	Bloavezhioù 1850
+1860s	Bloavezhioù 1860
+1860s	Rummad:Bloavezhioù 1860
+1870s	Bloavezhioù 1870
+1870s	Rummad:Bloavezhioù 1870
+1880s	Bloavezhioù 1880
+1880s	Rummad:Bloavezhioù 1880
+1890s	Bloavezhioù 1890
+1890s	Rummad:Bloavezhioù 1890
+19	19
+190	190
+1900s	Bloavezhioù 1900
+1900s	Rummad:Bloavezhioù 1900
+1920s	Bloavezhioù 1920
+1920s	Rummad:Bloavezhioù 1920
+1930s	Bloavezhioù 1930
+1930s	Rummad:Bloavezhioù 1930
+1940s	Bloavezhioù 1940
+1940s	Rummad:Bloavezhioù 1940
+1950s	Bloavezhioù 1950
+1950s	Rummad:Bloavezhioù 1950
+1960s	Bloavezhioù 1960
+1960s	Rummad:Bloavezhioù 1960
+1970s	Bloavezhioù 1970
+1970s	Rummad:Bloavezhioù 1970
+1980s	Bloavezhioù 1980
+1980s	Rummad:Bloavezhioù 1980
+1990s	Bloavezhioù 1990
+1990s	Rummad:Bloavezhioù 1990
+2	2
+20	20
+200	200
+21	21
+22	22
+23	23
+24	24
+25	25
+26	26
+27	27
+28	28
+29	29
+3	3
+30	30
+300	300
+31	31
+32	32
+33	33
+34	34
+35	35
+36	36
+37	37
+38	38
+39	39
+4	4
+40	40
+41	41
+42	42
+43	43
+44	44
+5	5
+6	6
+7	7
+8	8
+83	83
+84	84
+9	9
+A	A (lizherenn)
+A (Cyrillic)	A (kirillek)
+Aachen	Aachen
+Aar	Aar
+Aaron	Aaron (Bibl)
+Abel Tasman	Abel Tasman
+Abidjan	Abidjan
+Absolute zero	Zero klok
+Accordion	Bouest an diaoul
+Accra	Accra
+Acheron	Ac'heron
+Achilles	Akilles
+Acre (state)	Acre (stad)
+Acropolis	Akropolis
+Ad hominem	Ad hominem
+Adam Smith	Adam Smith
+Addis Ababa	Addis Abeba
+Adige	Adige
+Adjective	Anv-gwan
+Adolf Hitler	Adolf Hitler
+Adonis	Adonis
+Adriatic Sea	Mor Adria
+Adverb	Adverb
+Advertising	Bruderezh
+Aegean Sea	Mor Egea
+Aeolus	Aiolos (doue)
+Aeschylus	Aesc'hulos
+Aesop	Aisopos
+Affix	Kenger
+Afghanistan	Afghanistan
+Afghanistan	Rummad:Afghanistan
+Africa	Afrika
+Africa	Rummad:Afrika
+Afrikaans	Afrikaneg
+Agamemnon	Agamemnon
+Agora	Agora
+Agriculture	Gounezerezh
+Agriculture	Rummad:Gounezerezh
+Agrigento	Agrigento
+Ain	Ain (departamant)
+Ajax	Aias
+Ajax (mythology)	Aias Telamonios
+Akhenaten	Ac'henaton
+Akira Kurosawa	Akira Kurosawa
+Alabama	Alabama (stad)
+Alan Turing	Alan Turing
+Alaska	Alaska
+Albania	Albania
+Albania	Rummad:Albania
+Albert Camus	Albert Camus
+Albert Einstein	Albert Einstein
+Albert Schweitzer	Albert Schweitzer
+Albert Speer	Albert Speer
+Alberta	Alberta
+Alder	Gwern (gwez)
+Aleppo	Aleppo
+Alexander Graham Bell	Alexander Graham Bell
+Alexander Pushkin	Alexander Sergeyevich Pouchkin
+Alexander the Great	Aleksandr Veur
+Alexandria	Aleksandria (Egipt)
+Alexis de Tocqueville	Alexis de Tocqueville
+Alfred Dreyfus	Alfred Dreyfus
+Alfred Hitchcock	Alfred Hitchcock
+Alfred Nobel	Alfred Nobel
+Algeria	Aljeria
+Algeria	Rummad:Aljeria
+Allah	Allah
+Allophone	Alofonenn
+Alpha (letter)	Alpha (lizherenn)
+Alphabet	Lizherenneg
+Alps	Alpoù
+Alsace	Elzas
+Aluminium	Aluminiom
+Alvar Aalto	Alvar Aalto
+Amazon River	Amazon
+Ambrose	Ambroaz a vMilano
+American Revolutionary War	Brezel dieubidigezh ar Stadoù Unanet
+American Samoa	Samoa Amerikan
+Amharic	Amhareg
+Ampere	Amper
+Amphitheatre	Amfiteatr
+Amphora	Añforenn
+Amsterdam	Amsterdam
+Anagram	Anagramm
+Anal sex	Revrfouzherezh
+Anarchism	Rummad:Anarkouriezh
+Andes	Andoù
+Andhra Pradesh	Andhra Pradesh
+Andorra	Andorra
+Andorra	Rummad:Andorra
+Andromeda (mythology)	Andromeda
+Andy Warhol	Andy Warhol
+Angel	Ael
+Angola	Angola
+Angola	Rummad:Angola
+Animal	Loen
+Ankara	Ankara
+Ant	Merien
+Antakya	Antakya
+Antalya	Antalya
+Antarctica	Antarktika
+Anthrax	Serk
+Anthropology	Antropologiezh
+Antigua and Barbuda	Antigua ha Barbuda
+Antipope	Roll an enep-pibien
+Antisemitism	Enepyuzevegezh
+Anton Bruckner	Anton Bruckner
+Anton Chekhov	Anton Tchec'hov
+Antonio Vivaldi	Antonio Vivaldi
+Antwerp	Antwerpen
+Antwerp (province)	Antwerpen (proviñs)
+Anubis	Anubis
+Anus	Fraezh
+Apache	Apacheed
+Aphorism	Pennlavar
+Aphrodite	Afrodite
+Apollo (disambiguation)	Apollo
+April	Ebrel
+April 14	14 Ebrel
+Apulia	Puglia
+Arabic alphabet	Lizherenneg arabek
+Archaeology	Arkeologiezh
+Archaeopteryx	Arkaeopteryks
+Archean	Arkean
+Archimedes	Arc'himedes
+Archipelago	Enezeg
+Architecture	Arkitektouriezh
+Archive	Diell
+Arctic Circle	Kelc'h Arktika
+Arctic Ocean	Meurvor skornek Arktika
+Ardennes	Ardenne
+Ardennes (department)	Ardennes (departamant)
+Ares	Ares
+Argentina	Arc'hantina
+Argentina	Rummad:Arc'hantina
+Ariadne	Ariadne
+Aristophanes	Aristofanes
+Aristotle	Aristoteles
+Arithmetic	Aritmetik
+Arizona	Arizona
+Arkansas	Arkansas
+Arles	Arle
+Armenia	Armenia
+Armenia	Rummad:Armenia
+Arminius	Arminius
+Arno River	Arno
+Art	Arz
+Artemis	Artemis
+Artemisia absinthium	Huelenn-c'hwerv
+Arthur Conan Doyle	Arthur Conan Doyle
+Arthur Rimbaud	Arthur Rimbaud
+Arts	Rummad:Arz
+Aruba	Aruba
+Asclepius	Asklepios
+Asexuality	Amrevelezh
+Asia	Azia
+Asia	Rummad:Azia
+Asmara	Asmara
+Astronomical unit	Unanenn astronomek
+Astronomy	Steredoniezh
+Astronomy	Rummad:Astronomiezh
+Athena	Athena
+Athens	Aten
+Atlantic Ocean	Meurvor Atlantel
+Atlantic Ocean	Rummad:Meurvor Atlantel
+Atlas (moon)	Atlas (loarenn)
+Atlas (mythology)	Atlas (mitologiezh)
+Atmosphere	Atmosfer (planedennoù)
+Atom	Atom
+Atomic mass	Mas atomek
+Atomic mass unit	Unanenn tolz atomek
+Atomic number	Niver atomek
+Atreus	Atreüs
+Attica	Attika
+August	Eost
+August 1	1añ Eost
+August 15	15 Eost
+August 6	6 Eost
+August Strindberg	August Strindberg
+Auguste Comte	Auguste Comte
+Augustine of Hippo	Aogustin Hippo
+Augustus	Aogust (impalaer)
+Australia	Aostralia
+Australia	Rummad:Aostralia
+Austria	Aostria
+Austria	Rummad:Aostria
+Austria-Hungary	Aostria-Hungaria
+Autobiography	Emvuhezskrid
+Avicenna	Avisenna
+Azerbaijan	Azerbaidjan
+Azerbaijan	Rummad:Azerbaidjan
+B	B (lizherenn)
+Babylonia	Babilonia
+Bacteria	Bakteri
+Baghdad	Baghdad
+Bahrain	Bahrein
+Baja California	Kalifornia-Izel
+Baku	Bakou
+Balkans	Balkanioù
+Ballet	Barrez
+Ballet	Rummad:Barrez
+Baltic Sea	Mor Baltel
+Baltimore	Baltimore (Maryland)
+Banana republic	Republik ar Bananez
+Bangalore	Bangalore
+Bangladesh	Bangladesh
+Bangladesh	Rummad:Bangladesh
+Bangui	Bangui
+Barbarian	Barbared
+Barcelona	Barcelona
+Bari	Bari
+Barley	Heiz
+Barn Swallow	Gwennili
+Basel	Basel
+Basilicata	Basilicata
+Bass guitar	Gitar-boud
+Basse-Normandie	Normandi-Izel
+Bath	Bath
+Battle of Marathon	Emgann Marathon
+Battle of Midway	Emgann Midway
+Battle of the Somme	Emgann ar Somme
+Bauhaus	Bauhaus
+Bavaria	Bavaria
+Bayonne	Baiona
+Bed	Gwele
+Beer	Bier
+Beetle	C'hwil
+Beijing	Beijing
+Beirut	Beirout
+Belarus	Belarus
+Belfast	Béal Feirste
+Belgium	Belgia
+Belgium	Rummad:Belgia
+Belgrade	Beograd
+Belize	Belize
+Belize	Rummad:Belize
+Bellerophon	Bellerofon
+Benin	Benin
+Benito Mussolini	Benito Mussolini
+Bergen	Bergen (Norvegia)
+Bering Strait	Strizh-mor Bering
+Berlin	Berlin
+Berne	Bern
+Berry	Hugenn
+Bertolt Brecht	Bertolt Brecht
+Beta (letter)	Beta (lizherenn)
+Bethlehem	Betlehem
+Bhutan	Bhoutan
+Bible	Bibl
+Bible	Rummad:Bibl
+Bibliography	Levrlennadur
+Bikini	Bikini (dilhad)
+Bill Clinton	Bill Clinton
+Bill Gates	Bill Gates
+Biography	Buhezskrid
+Biography	Porched:Tud
+Biology	Bevoniezh
+Biology	Rummad:Skiantoù ar Vuhez
+Biosphere	Biosferenn
+Bisexuality	Divrevelezh
+Bishop	Eskob
+Bissau	Bissau
+Bit	Bit
+Bithynia	Bithynia
+Black Sea	Mor Du
+Black hole	Toull du
+Blackbird	Moualc'h du
+Blaise Pascal	Blaise Pascal
+Bloemfontein	Bloemfontein
+Blog	Blog
+Bob Marley	Bob Marley
+Bobby Fischer	Bobby Fischer
+Bohemia	Bohemia
+Bolivia	Bolivia
+Bologna	Bologna
+Bolzano	Bozen-Bolzano
+Bone	Askorn
+Bonn	Bonn
+Book	Levr
+Bordeaux	Bourdel
+Boris Spassky	Boris Spassky
+Bosnia and Herzegovina	Bosnia-ha-Herzegovina
+Bosporus	Bosfor
+Boston	Boston
+Bot	Patrom:Bot
+Botany	Louzawouriezh
+Botany	Rummad:Botanik
+Botswana	Botswana
+Botswana	Rummad:Botswana
+Bourgeoisie	Bourc’hizelezh
+Bourgogne	Bourgogn
+Brassiere	Brennidenn
+Bratislava	Bratislava
+Brazil	Brazil
+Brazil	Rummad:Brazil
+Brazzaville	Brazzaville
+Bremerhaven	Bremerhaven
+Brescia	Brescia
+Brest	Brest
+Brest	Brest (heñvelstumm)
+Bretagne	Rannvro Breizh
+Bridge	Pont
+Brighton	Brighton
+British Columbia	Kolombia Vreizhveuriat
+Brno	Brno
+Bronze Age	Oadvezh an arem
+Bruges	Brugge
+Brunei	Brunei
+Brussels	Brusel
+Bubonic plague	Bosenn werblus
+Bucharest	Bukarest
+Buckwheat	Gwinizh-du
+Budapest	Budapest
+Buddhism	Boudaegezh
+Buenos Aires	Buenos Aires
+Buffalo	Buffalo (New York)
+Bujumbura	Bujumbura
+Bulgaria	Bulgaria
+Burkina Faso	Burkina Faso
+Burkina Faso	Rummad:Burkina Faso
+Burma	Myanmar
+Burundi	Rummad:Burundi
+Bus (computing)	Bus stlennegel
+Businesspeople	Rummad:Tud a afer
+Butter	Amanenn
+C	C (lizherenn)
+C (programming language)	Areg C
+C. S. Lewis	C.S. Lewis
+Cadmus	Kadmos
+Cairo	Kaero
+Calabria	Calabria
+California	Kalifornia
+Caligula	Caligula
+Calliope	Kalliope
+Callisto (moon)	Kallisto (loarenn)
+Callisto (mythology)	Kallisto
+Calvados	Calvados (departamant)
+Calvin Coolidge	Calvin Coolidge
+Cambodia	Kambodja
+Cambrian	Kambrian
+Cambridge	Cambridge
+Cambridge	Cambridge (Massachusetts)
+Cameroon	Kameroun
+Cameroon	Rummad:Kameroun
+Campania	Campania
+Canada	Kanada
+Canal	Kanol (dour)
+Canary Islands	Kanariez
+Canberra	Canberra
+Candela	Candela
+Cantonese (linguistics)	Kantoneg
+Cape Horn	Kab Horn
+Cape Town	Kêr ar C'hab
+Cape Verde	Kab Glas
+Cape of Good Hope	Kab ar Spi Mat
+Capital	Kêr-benn
+Caracal	Karakal
+Caracas	Caracas
+Caravaggio	Caravaggio
+Carbonic acid	Trenkenn garbonek
+Carboniferous	Karbonifer
+Cardiff	Kerdiz
+Cardinal (Catholicism)	Kardinal
+Caribbean Sea	Mor Karib
+Carolingian dynasty	Karolingidi
+Carolus Linnaeus	Carl von Linné
+Carpathian Mountains	Karpatoù
+Carthage	Kartago
+Caspian Sea	Mor Kaspia
+Cat	Kazh
+Catalonia	Katalonia
+Catherine Parr	Katherine Parr
+Catherine of Aragon	Catalina de Aragón
+Catholicism	Katoligiezh
+Cauliflower	Kaol-bleuñv
+Cayenne	Cayenne
+Cecil Rhodes	Cecil Rhodes
+Cell (biology)	Kellig
+Celsius	Derez Celsius
+Cenozoic	Senozoeg
+Centaur	Tud-kezeg
+Centimetre	Kantimetr
+Central African Republic	Republik Kreizafrikan
+Central African Republic	Rummad:Republik Kreizafrikan
+Central Intelligence Agency	CIA
+Century	Kantved
+Ceres (dwarf planet)	Keres (planedenn-gorr)
+Cesare Borgia	Cesare Borgia
+Chad	Tchad
+Chair	Kador
+Chalcedony	Kalkedon (Maenad)
+Charlemagne	Karl Veur
+Charleroi	Charleroi
+Charles Baudelaire	Charles Baudelaire
+Charles Darwin	Charles Darwin
+Charles Dickens	Charles Dickens
+Charles de Gaulle	Charles de Gaulle
+Charles the Bald	Charlez ar Moal
+Charlie Chaplin	Charlie Chaplin
+Charon (moon)	C'haron (loarenn)
+Charon (mythology)	C'haron
+Chartres	Chartrez
+Che Guevara	Che Guevara
+Cheetah	Kazh-ki
+Chemical element	Elfenn gimiek
+Chemical formula	Formulenn gimiek
+Chemistry	Kimiezh
+Chemistry	Rummad:Kimiezh
+Chennai	Chennai
+Chess	Echedoù
+Chess	Rummad:Echedoù
+Chi (letter)	Khi (lizherenn)
+Chicago	Chicago
+Childbirth	Gwilioud
+Chile	Chile
+China	Rummad:Sina
+Chiron	C'heiron
+Chocolate	Chokolad
+Choir	Laz-kanañ
+Cholera	Kolera
+Christianity	Kristeniezh
+Christmas	Nedeleg
+Christmas	Rummad:Nedeleg
+Christopher Columbus	Kristol Goulm
+Chuck Berry	Chuck Berry
+Cider	Sistr
+Cinderella	Luduennig
+Circe	Kirke
+Circumcision	Trodroc'hañ
+Civil war	Brezel diabarzh
+Class	Klas (digejañ)
+Class (biology)	Kevrennad
+Classical music	Sonerezh klasel
+Claudius	Glaoda Iañ
+Climatology	Hinouriezh
+Clio	Kleio
+Clitoris	Ellig
+Clothing	Dilhad
+Cloud	Koumoul
+Clovis I	Hlodwig Iañ
+Coast	Aod
+Coffee	Kafe
+Colchis	Kolkida
+Cold War	Brezel yen
+Colombia	Kolombia
+Colombia	Rummad:Kolombia
+Colorado	Colorado
+Colossus of Rhodes	Keurzelwenn Rodos
+Communication	Kemennadur
+Comoros	Komorez
+Comoros	Rummad:Komorez
+Compass	Nadoz-vor
+Computer	Urzhiataer
+Computer display	Unvez gwereañ
+Computer file	Restr stlennegel
+Computer hardware	Periant
+Computer science	Urzhiataerezh
+Computer software	Meziant
+Conakry	Conakry
+Condom	Stevell
+Congo	Kongo
+Congo River	Kongo (stêr)
+Connecticut	Connecticut
+Consonant	Kensonenn
+Constantine I	Kustentin Iañ (impalaer roman)
+Constantinople	Kergustentin
+Constellation	Steredeg
+Constitution (political)	Bonreizh
+Continent	Kevandir
+Continental drift	Dilec'hiadur ar c'hevandiroù
+Continental shelf	Plateiz kevandirel
+Cooking	Keginañ
+Cooperative	Kevelouri
+Coordinated Universal Time	UTC
+Copenhagen	Kopenhagen
+Cork (city)	Korkig
+Cormorant	Morvran
+Cornwall	Kernev-Veur
+Corporation	Embregerezh
+Corsica	Korsika
+Cougar	Puma
+Coulomb	Coulomb
+Country	Bro
+Court	Lez (roue)
+Coventry	Coventry
+Coyote	Koyot
+Cremona	Cremona
+Cretaceous	Kretase
+Crete	Kreta
+Croatia	Kroatia
+Croatia	Rummad:Kroatia
+Cronus	Kronos
+Crust (geology)	Pluskenn (planedenn)
+Crux	Kroaz ar Su
+Cuba	Kuba
+Cuba	Rummad:Kuba
+Cubic metre	Metr kub
+Curitiba	Curitiba
+Cybele	Kybele
+Cyprus	Republik Kiprenez
+Cyrillic alphabet	Lizherenneg kirillek
+Cyrus the Great	Kirus II
+Czech Republic	Republik Tchek
+Czechoslovakia	Tchekoslovakia
+D	D (lizherenn)
+D. H. Lawrence	D.H. Lawrence
+DNA	Trenkenn dezoksiribonukleek
+Daedalus	Daidalos
+Dakar	Dakar
+Dam	Stankell
+Damascus	Damask
+Dance	Dañs
+Daniel Ortega	Daniel Ortega
+Dante Alighieri	Dante Alighieri
+Danube	Danav
+Daphne	Dafne
+Dar es Salaam	Dar es Salaam
+Dardanelles	Dardanelloù (strizh-mor)
+Database	Stlennvon
+David	David
+David Hume	David Hume
+Days	Rummad:Deizioù ar bloaz
+Deadly nightshade	Benede
+Death	Marv
+December	Kerzu
+December 31	31 Kerzu
+December 8	8 Kerzu
+Decius (emperor)	Decius
+Delaware	Delaware (stad)
+Delft	Delft
+Delta (letter)	Delta (lizherenn)
+Demeter	Demeter
+Democracy	Demokratelezh
+Democratic Republic of the Congo	Republik Demokratel Kongo
+Democratic Republic of the Congo	Rummad:Republik Demokratel Kongo
+Demography	Poblañsouriezh
+Denmark	Danmark
+Denmark	Rummad:Danmark
+Denver	Denver
+Desert	Dezerzh
+Detroit	Detroit (Michigan)
+Deuterium	Deuteriom
+Devonian	Devonian
+Diacritic	Sinoù diakritek
+Dialect	Rannyezh
+Dictatorship	Diktatouriezh
+Dictionary	Geriadur
+Diego Rivera	Diego Rivera
+Dijon	Dijon
+Dinosaur	Dinosaor
+Diocese	Diosez
+Diocletian	Diokletian
+Diphthong	Diftongenn
+Diplodocus	Diplodokus
+Disambiguation	Rummad:Heñvelstummoù
+Disease	Kleñved
+Divorce	Torr-dimeziñ
+Dmitri Mendeleev	Dmitri Mendeleiev
+Dmitri Shostakovich	Dmitriy Chostakovitch
+Document	Teul
+Dodoma	Dodoma
+Dog	Ki
+Doha	Doha
+Dollar	Dollar
+Dominican Republic	Republik Dominikan
+Domitian	Domitian
+Donald Duck	Donald Duck
+Donatello	Donatello
+Donkey	Azen
+Door	Dor
+Doppler effect	Efed Doppler
+Dortmund	Dortmund
+Drainage basin	Diazad doureier
+Dresden	Dresden
+Druid	Drouiz
+Drum	Taboulin
+Dublin	Dulenn
+Dune	Tevenn
+Dunkirk	Dukark
+Dwight D. Eisenhower	Dwight D. Eisenhower
+Dynamite	Dinamit
+Dynasty	Tierniezh
+E	E (lizherenn)
+E-mail	Anvonerezh elektronek
+ETA	ETA
+Ear	Skouarn
+Earth	Douar (planedenn)
+Earth science	Skiantoù an douar
+Earthquake	Kren-douar
+East	Reter
+East Germany	Republik Demokratel Alamagn
+East Sussex	East Sussex
+Ebro	Ebre
+Ecclesiastes	Ekleziastez
+Economics	Armerzh
+Economy	Armerzh
+Ecosystem	Ekosistem
+Ecuador	Ecuador
+Ecuador	Rummad:Ecuador
+Edgar Allan Poe	Edgar Allan Poe
+Edgar Degas	Edgar Degas
+Edgar Rice Burroughs	Edgar Rice Burroughs
+Edinburgh	Dinedin
+Edo	Edo (kêr)
+Education	Desaverezh
+Edvard Grieg	Edvard Grieg
+Egypt	Egipt
+Egypt	Rummad:Egipt
+Elbe	Elbe
+Electricity	Tredan
+Electron	Elektron
+Elegy	Klemmgan
+Elvis Presley	Elvis Presley
+Emilia-Romagna	Emilia-Romagna
+Emperor	Impalaer
+Empire	Impalaeriezh
+Encyclopedia	Holloueziadur
+Energy	Energiezh
+Energy (society)	Energiezh
+Engineering	Ijinerezh
+England	Bro-Saoz
+English Channel	Mor Breizh
+English language	Saozneg
+Enrico Fermi	Enrico Fermi
+Entomology	Amprevanoniezh
+Entropy	Entropiezh
+Environment	Endro
+Eocene	Eosen
+Eon (geology)	Eon (douarouriezh)
+Eos	Eos
+Epic poetry	Meurgan
+Epicenter	Epikreizenn
+Epicurus	Epikuros
+Epilepsy	Drougsant
+Epiphany (Christian)	Gouel ar Rouaned
+Epsilon	Epsilon (lizherenn)
+Equator	Keheder
+Equatorial Guinea	Ginea ar C'heheder
+Equatorial Guinea	Rummad:Ginea ar C'heheder
+Equinox	Kedez
+Erasure	Erasure
+Erato	Erato
+Erebus	Erebos
+Erik Axel Karlfeldt	Erik Axel Karlfeldt
+Eris (dwarf planet)	136199 Eris
+Eris (mythology)	Eris (doueez)
+Eritrea	Rummad:Eritrea
+Ernest Hemingway	Ernest Hemingway
+Ernest Rutherford	Ernest Rutherford
+Eros (mythology)	Eros
+Erosion	Krignerezh
+Erwin Rommel	Erwin Rommel
+Esperanto	Esperanteg
+Esperanto	Rummad:Esperanteg
+Estonia	Rummad:Estonia
+Eta (letter)	Eta (lizherenn)
+Ethernet	Ethernet
+Ethics	Rummad:Etik
+Ethiopia	Etiopia
+Etymology	Etimologiezh
+Euclid	Euklides
+Eurasia	Eurazia
+Eurasian Badger	Broc'h
+Euripides	Euripides
+Euro	Euro
+Europa (moon)	Europa (loarenn)
+Europa (mythology)	Europa, merc'h Agenor
+Europe	Europa (kevandir)
+Europe	Rummad:Europa
+European Magpie	Pig
+European Union	Unaniezh Europa
+European Union	Rummad:Unaniezh Europa
+Eusebius of Caesarea	Eusebius Kaesarea
+Euterpe	Euterpe
+Excalibur	Kaledvoulc'h
+Excommunication	Eskumunugenn
+Eye	Lagad
+F	F (lizherenn)
+Fable	Fablenn
+Falkland Islands	Inizi Maloù
+Fallopian tube	Trompilhoù Fallopia
+Falun Gong	Falun Gong
+Family (biology)	Kerentiad
+Family name	Anv-familh
+Fauna	Fauna
+Fax	Pelleiler
+Feather	Plu
+February	C'hwevrer
+February 12	12 C'hwevrer
+February 14	14 C'hwevrer
+February 2	2 C'hwevrer
+February 22	22 C'hwevrer
+February 29	29 C'hwevrer
+Federico Fellini	Federico Fellini
+Ferdinand Magellan	Fernão de Magalhães
+Ferrara	Ferrara
+Fertilisation	Speriañ
+Fidel Castro	Fidel Castro
+Film	Rummad:Sinema
+Film	Sinema
+Finland	Finland
+Finland	Rummad:Finland
+Firefighter	Pomper
+First language	Yezh vamm
+Fishing	Peskerezh
+Fjord	Fjord
+Flag	Banniel
+Flanders	Flandrez
+Flea	C'hwen
+Flemish (linguistics)	Flandrezeg
+Florence	Firenze
+Florida	Florida
+Fluorite	Fluorit
+Folklore	Folklor
+Football (soccer)	Mell-droad
+Football (soccer)	Rummad:Mell-droad
+Fortification	Kreñvlec'h
+Fox	Louarn
+France	Bro-C'hall
+France	Rummad:Frañs
+Francis Drake	Francis Drake
+Francis of Assisi	Frañsez a Asiz
+Franciscan	Urzh ar Vreudeur minor
+Francisco Goya	Francisco de Goya
+Frank Lloyd Wright	Frank Lloyd Wright
+Frankfurt	Frankfurt am Main
+Frankfurt (Oder)	Frankfurt (Oder)
+Frankfurt (disambiguation)	Frankfurt
+Frans Hals	Frans Hals
+Franz Kafka	Franz Kafka
+Franz Schubert	Franz Schubert
+Freetown	Freetown
+French Revolution	Dispac'h Gall
+Friday	Gwener (deiz)
+Friedrich Engels	Friedrich Engels
+Friesland	Friz
+Fritz Haber	Fritz Haber
+Friuli-Venezia Giulia	Friuli-Venezia Giulia
+Fundamental	Rummad:Rummad pennañ
+Furniture	Arrebeuri
+Fyodor Dostoevsky	Fyodor Dostoyevskiy
+G	G (lizherenn)
+Gabon	Gabon
+Gabon	Rummad:Gabon
+Gaborone	Gaborone
+Gaia (mythology)	Gaia (doueez)
+Galatia	Galatia
+Galaxy	Galaksienn
+Galicia (Central Europe)	Galitsia
+Galicia (Spain)	Galiza
+Galileo Galilei	Galileo Galilei
+Galway	Gaillimh
+Game	C'hoarioù
+Gamma	Gamma (lizherenn)
+Ganges	Ganga
+Ganymede (moon)	Ganymede (loarenn)
+Gap	Gap
+Garonne	Garona
+Gaul	Galia
+Gay	Gae
+Geb	Geb
+Geisha	Geisha
+Genealogy	Lignezouriezh
+General relativity	Relativelezh hollek
+Genesis	Geneliezh
+Genoa	Genova
+Genocide	Gouennlazh
+Genus	Genad
+Geoffrey Chaucer	Geoffrey Chaucer
+Geography	Douaroniezh
+Geology	Douarouriezh
+Geometry	Mentoniezh
+Geomorphology	Rummad:Geomorfologiezh
+Geophysics	Geofizik
+Geopolitics	Douarbolitikerezh
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+George Frideric Handel	Georg Friedrich Händel
+George Lucas	George Lucas
+George Marshall	George Marshall
+George Orwell	George Orwell
+George Sand	George Sand
+George W. Bush	George Walker Bush
+George Washington	George Washington
+Georges Simenon	Georges Simenon
+Georgia (U.S. state)	Georgia
+Georgia (country)	Jorjia (bro)
+Georgia (country)	Rummad:Jorjia
+German language	Alamaneg
+Germany	Alamagn
+Germany	Rummad:Alamagn
+Ghana	Ghana
+Ghent	Gent
+Ghetto	Ghetto
+Giacomo Puccini	Giacomo Puccini
+Gibraltar	Jibraltar
+Giordano Bruno	Giordano Bruno
+Giorgio Vasari	Giorgio Vasari
+Giotto di Bondone	Giotto
+Giovanni Boccaccio	Giovanni Boccaccio
+Girolamo Savonarola	Girolamo Savonarola
+Gironde	Jironda
+Giuseppe Verdi	Giuseppe Verdi
+Giza	Gizah
+Glasgow	Glasc'ho
+Gloucestershire	Gloucestershire
+Go (board game)	Go (c'hoari)
+Goat	Gavr (loen)
+God	Doue
+Googol	Gogol
+Gospel	Aviel
+Gospel of Luke	Aviel Lukaz
+Gothenburg	Göteborg
+Gothic architecture	Arkitektouriezh c'hotek
+Grace Kelly	Grace Kelly
+Grammar	Yezhadur
+Grammar	Rummad:Yezhadur
+Gravitation	Gravitadur
+Gray Wolf	Bleiz gris
+Graz	Graz
+Great Wall of China	Moger Vras Sina
+Greece	Gres (bro)
+Greece	Rummad:Gres
+Greek alphabet	Lizherenneg c'hresianek
+Greek mythology	Rummad:Mojennoù Hellaz
+Greenland	Greunland
+Gregor Mendel	Gregor Mendel
+Gregorian calendar	Deiziadur gregorian
+Guadeloupe	Gwadaloup
+Guatemala City	Ciudad de Guatemala
+Guernsey	Gwernenez
+Guinea	Ginea
+Guinea	Rummad:Ginea
+Guinea-Bissau	Ginea-Bissau
+Gulf of Aden	Pleg-mor Aden
+Gulf of Bothnia	Pleg-mor Botnia
+Gulf of Finland	Pleg-mor Finland
+Gulf of Guinea	Pleg-mor Ginea
+Gulf of Riga	Pleg-mor Riga
+Gull	Gouelan
+Gustav Klimt	Gustav Klimt
+Gustav Mahler	Gustav Mahler
+Gustave Courbet	Gustave Courbet
+H	H (lizherenn)
+HTML	HTML
+Hadean	Hadean
+Hades	Haides
+Hadith	Hadith
+Hadrian's Wall	Moger Hadrian
+Hail Mary	Ave Maria
+Haiti	Republik Haiti
+Haiti	Rummad:Haiti
+Hamas	Hamas
+Hamburg	Hamburg
+Hampshire	Hampshire
+Han Dynasty	Tierniezh Han
+Hanging Gardens of Babylon	Liorzhoù a-istribilh Babilon
+Hannah Arendt	Hannah Arendt
+Hannibal	Hannibal
+Harare	Harare
+Harp	Telenn
+Harpy	Harpied
+Hatred	Kasoni
+Haute-Normandie	Normandi-Uhel
+Havana	La Habana
+Hawaii	Hawaii
+Head	Penn
+Health	Yec'hed
+Hebrew alphabet	Lizherenneg hebraek
+Hebrew calendar	Deiziadur hebraek
+Hebrides	Inizi Gall
+Hecate	Hekate
+Hectare	Hektar
+Hector Berlioz	Louis Hector Berlioz
+Heinrich Himmler	Heinrich Himmler
+Helen	Elena
+Helios	Helios
+Helium	Heliom
+Hell	Ifern
+Helsinki	Helsinki
+Henri Matisse	Henri Matisse
+Henrik Ibsen	Henrik Ibsen
+Henry Ford	Henry Ford
+Hephaestus	Hefaistos
+Hera	Hera
+Heraldry	Ardamezouriezh
+Herbert Hoover	Herbert C. Hoover
+Herman Melville	Herman Melville
+Hermann Hesse	Hermann Hesse
+Hermaphrodite	Divreizhadezh
+Hermes	Hermes
+Hero	Haroz
+Herod the Great	Herodez Veur
+Herodotus	Herodotos
+Herring Gull	Gouelan gris
+Hertz	Hertz
+Hesiod	Hesiodos
+Hesperides	Hesperidezed
+Hesse	Hessen
+Hesse	Rummad:Hessen
+Hestia	Hestia
+Heterosexuality	Arallrevelezh
+Hexadecimal	Diazez c'hwezekred
+Hezbollah	Hezbollah
+Hideki Yukawa	Hideki Yukawa
+Hieronymus Bosch	Hieronymus Bosch
+Hippocrates	Hippokrates
+Hiroshima	Hiroshima
+History	Istor
+History	Rummad:Istor
+History	Porched:Istor
+Ho Chi Minh	Hồ Chí Minh
+Hollywood	Hollywood
+Holocene	Holosen
+Holy Roman Empire	Impalaeriezh santel roman german
+Homer	Homeros
+Homophobia	Homofobiezh
+Homosexuality	Heñvelrevelezh
+Honduras	Honduras
+Honey	Mel
+Hong Kong	Hong Kong
+Honolulu	Honolulu, Hawaii
+Horace	Quintus Horatius Flaccus
+Horn (anatomy)	Korn (korfadurezh)
+Horse	Marc'h
+Hotel	Leti
+House	Ti
+House Sparrow	Golvan
+Human	Den
+Hummingbird	Trochilidae
+Humor	Rummad:Fent
+Humphrey Bogart	Humphrey Bogart
+Hungary	Hungaria
+Hungary	Rummad:Hungaria
+Hydrogen	Hidrogen
+Hydrosphere	Hidrosferenn
+Hymen	Lienenn-gourzh
+Hyperion (mythology)	Hyperion (Titan)
+Hypertext	Hypertext
+Hypnos	Hypnos
+I	I (lizherenn)
+Iapetus (mythology)	Iapetos
+Iberian Peninsula	Ledenez iberek
+Iceland	Island
+Idaho	Idaho
+Igor Stravinsky	Igor Stravinsky
+Iliad	Ilias
+Illinois	Illinois
+Image scanner	Skanner
+Immanuel Kant	Immanuel Kant
+India	India
+India	Rummad:India
+Indian Ocean	Meurvor Indez
+Indian Ocean	Rummad:Meurvor Indez
+Indiana	Indiana
+Indonesia	Indonezia
+Industry	Greanterezh
+Inflation	Monc’hwezh
+Ingmar Bergman	Ingmar Bergman
+Inner Mongolia	Mongolia an Diabarzh
+Innsbruck	Innsbruck
+Insect	Amprevan
+International System of Units	Sistem etrevroadel unanennoù ar fizik
+Internet	Internet
+Internet	Rummad:Internet
+Internment	Konzentrationslager
+Io (moon)	Io (loarenn)
+Io (mythology)	Io (Hellaz)
+Ionian Sea	Mor Ionian
+Iota	Iota (lizherenn)
+Iowa	Iowa
+Iran	Iran
+Iran	Rummad:Iran
+Iraq	Irak
+Ireland	Iwerzhon
+Irish Republican Army	Irish Republican Army
+Irish Sea	Mor Iwerzhon
+Iron	Houarn
+Iron Age	Oadvezh an houarn
+Iron Curtain	Rideoz houarn
+Iron Maiden	Iron Maiden
+Irony	Flemmerezh
+Isaac Asimov	Isaac Asimov
+Isaac Newton	Isaac Newton
+Isis	Isis
+Islam	Islam
+Islam	Rummad:Islam
+Islamabad	Islamabad
+Islamic calendar	Deiziadur muzulmat
+Island	Enez (douar)
+Isle of Man	Manav
+Isoroku Yamamoto	Isoroku Yamamoto
+Isotope	Izotop
+Israel	Israel
+Istanbul	Istanbul
+Isthmus	Strizh-douar
+Italy	Italia
+Ithaca	Itaka
+Ivan Pavlov	Ivan Pavlov
+J	J (lizherenn)
+Jackson Pollock	Jackson Pollock
+Jacob	Jakob
+Jacques Cartier	Jakez Karter
+Jakarta	Jakarta
+James	Jakez, mab Zebede (abostol)
+James Clerk Maxwell	James Clerk Maxwell
+James Cook	James Cook
+James Joyce	James Joyce
+James Prescott Joule	James Prescott Joule
+James Watt	James Watt
+Jammu and Kashmir	Jammu ha Kachmir
+January	Genver
+January 1	1añ Genver
+January 19	19 Genver
+January 20	20 Genver
+January 6	6 Genver
+Janus (moon)	Janus (loarenn)
+Japan	Japan
+Jason	Iason
+Jazz	Jazz
+Jean Auguste Dominique Ingres	Dominique Ingres
+Jean Racine	Jean Racine
+Jean Sibelius	Jean Sibelius
+Jean de La Fontaine	Jean de La Fontaine
+Jean-Jacques Rousseau	Jean-Jacques Rousseau
+Jean-Philippe Rameau	Jean-Philippe Rameau
+Jeddah	Jeddah
+Jeremy Bentham	Jeremy Bentham
+Jersey	Jerzenez
+Jerusalem	Jeruzalem
+Jesus	Jezuz Nazaret
+Jimi Hendrix	Jimi Hendrix
+Johann Sebastian Bach	Johann Sebastian Bach
+Johann Wolfgang von Goethe	Johann Wolfgang von Goethe
+Johannes Brahms	Johannes Brahms
+Johannes Gutenberg	Johannes Gutenberg
+Johannes Kepler	Johannes Kepler
+Johannes Vilhelm Jensen	Johannes Vilhelm Jensen
+John Keats	John Keats
+John Lennon	John Lennon
+John Locke	John Locke
+John Maynard Keynes	John Maynard Keynes
+John Milton	John Milton
+John Napier	John Napier
+John Steinbeck	John Steinbeck
+John the Baptist	Yann ar Badezour
+John von Neumann	John von Neumann
+Joint	Mell (korf)
+Jordan	Jordania
+Jorge Luis Borges	Jorge Luis Borges
+Joseph Goebbels	Joseph Goebbels
+Joseph Stalin	Jozef Stalin
+Josephus	Flavius Josephus
+Jovian	Flavius Claudius Jovianus
+Judaism	Yuzevegezh
+Judaism	Rummad:Yuzevegezh
+Jules Verne	Jules Verne
+Julian calendar	Deiziadur juluan
+Julius Caesar	Caius Julius Caesar
+July	Gouere
+July 1	1añ Gouere
+July 4	4 Gouere
+June	Mezheven
+June 14	14 Mezheven
+June 21	21 Mezheven
+June 23	23 Mezheven
+June 24	24 Mezheven
+June 29	29 Mezheven
+June 3	3 Mezheven
+Jupiter	Yaou (planedenn)
+Jurassic	Juraseg
+K	K (lizherenn)
+KGB	KGB
+Kansas	Kansas
+Kappa	Kappa (lizherenn)
+Karachi	Karachi
+Karen Blixen	Karen Blixen
+Karl Marx	Karl Marx
+Karnataka	Karnataka
+Kaunas	Kaunas
+Kazakhstan	Kazakstan
+Kazakhstan	Rummad:Kazakstan
+Kelvin	Kelvin
+Kentucky	Kentucky
+Kenya	Kenya
+Kenya	Rummad:Kenya
+Keyboard (computing)	Klaouier kompoder
+Kharkiv	C'harkiv
+Khufu	C'houfou
+Kiev	Kyiv
+Kigali	Kigali
+Kilogram	Kilogram
+King Arthur	Roue Arzhur
+Kingdom (biology)	Riezad
+Kinshasa	Kinshasa
+Knut Hamsun	Knut Hamsun
+Kosovo	Kosovo
+Krishna	Krishna
+Ku Klux Klan	Ku Klux Klan
+Kuiper belt	Gouriziad Kuiper
+Kurdistan	Kurdistan
+Kurt Waldheim	Kurt Waldheim
+Kuwait	Koweit
+Kyrgyzstan	Kirgizstan
+L	L (lizherenn)
+L'Aquila	L'Aquila
+La Paz	La Paz (Bolivia)
+La Spezia	La Spezia
+Lady Jane Grey	Jane Grey
+Lake	Lenn (dour)
+Lake Baikal	Lenn Baikal
+Lake Balaton	Lenn Balaton
+Lake Constance	Lenn Konstanz
+Lake Geneva	Lenn Geneva
+Lambda	Lambda (lizherenn)
+Lancashire	Lancashire
+Language	Yezh
+Laos	Laos
+Latin	Latin
+Latin America	Amerika Latin
+Latin alphabet	Lizherenneg latin
+Latitude	Led
+Latvia	Latvia
+Latvia	Rummad:Latvia
+Laurasia	Laurazia
+Law	Gwir (lezenn)
+Lazio	Lazio
+Le Corbusier	Le Corbusier
+Leaf	Deil
+Lebanon	Liban
+Leda (mythology)	Leda
+Legend	Richennoù
+Leiden	Leiden
+Leipzig	Leipzig
+Lena River	Lena
+Leon Trotsky	Lyev Trotsky
+Leonardo da Vinci	Leonardo da Vinci
+Leonhard Euler	Leonhard Euler
+Lesbian	Lesbianelezh
+Lesotho	Lesotho
+Lesotho	Rummad:Lesotho
+Leto	Leto
+Letter (alphabet)	Lizherenn
+Liberia	Liberia
+Liberia	Rummad:Liberia
+Library	Levraoueg
+Library science	Skiantoù an Ditour hag al Levraouegoù
+Libreville	Libreville
+Libya	Libia
+Lie	Gaou
+Liechtenstein	Liechtenstein
+Liechtenstein	Rummad:Liechtenstein
+Light-year	Bloavezh-gouloù
+Lighthouse	Tour-tan
+Liguria	Liguria (Rannvro)
+Lille	Lille
+Lima	Lima
+Limerick	Luimneach
+Line (mathematics)	Eeunenn (geometriezh)
+Linguistics	Yezhoniezh
+Linz	Linz
+Lion	Leon (loen)
+Liquid crystal display	Skramm strinkennoù liñvel
+Lisbon	Lisbon
+Literature	Lennegezh
+Literature	Rummad:Lennegezh
+Literature	Porched:Lennegezh
+Lithuania	Lituania
+Lithuania	Rummad:Lituania
+Litre	Litr
+Liverpool	Liverpool
+Livy	Titus Livius
+Ljubljana	Ljubljana
+Loanword	Amprest (yezhoniezh)
+Loire River	Liger (stêr)
+Lombardy	Lombardia
+London	Londrez
+Lord's Prayer	Pater noster
+Los Angeles	Los Angeles
+Lot (department)	Lot (departamant)
+Louis Pasteur	Louis Pasteur
+Louis the Pious	Loeiz an Deol
+Louis the Stammerer	Loeiz II (Bro-C'hall)
+Louisiana	Louisiana
+Louvre	Louvre
+Luanda	Luanda
+Lublin	Lublin
+Luciano Pavarotti	Luciano Pavarotti
+Lucrezia Borgia	Lucrezia Borgia
+Ludwig Mies van der Rohe	Ludwig Mies van der Rohe
+Ludwig van Beethoven	Ludwig van Beethoven
+Lusaka	Lusaka
+Lusitania	Lusitania
+Luxembourg	Luksembourg (bro)
+Luxembourg	Rummad:Luksembourg
+Lyon	Lyon
+M	M (lizherenn)
+Macedonia	Makedonia
+Macedonia (Greece)	Makedonia (Gres)
+Machine code	Areg ijinenn
+Madagascar	Madagaskar
+Madagascar	Rummad:Madagaskar
+Madonna (entertainer)	Madonna
+Madrid	Madrid
+Magnetism	Gwarellegezh
+Magnoliopsida	Rummad:Magnoliopsida
+Maharashtra	Maharashtra
+Mahatma Gandhi	Mahatma Gandhi
+Main	Main
+Maine	Maine (SUA)
+Malabo	Malabo
+Malachite	Malakit
+Malawi	Rummad:Malawi
+Malaysia	Malaysia
+Malcolm X	Malcolm X
+Mali	Mali
+Malta	Malta
+Malta	Rummad:Malta
+Maltese language	Malteg
+Mammal	Bronneged
+Mammoth	Mammout
+Manchester	Manchester (Bro-Saoz)
+Manila	Manila
+Manitoba	Manitoba
+Mannerism	Orbidouriezh
+Mantua	Mantova
+Manuscript	Dornskrid
+Mao Zedong	Mao Zedong
+Maoism	Maoouriezh
+Maputo	Maputo
+Marcel Proust	Marcel Proust
+March	Meurzh (miz)
+March 17	17 Meurzh
+March 19	19 Meurzh
+March 2	2 Meurzh
+March 25	25 Meurzh
+Marche	Marche
+Marco Polo	Marco Polo
+Marie Curie	Marie Curie
+Marilyn Monroe	Marilyn Monroe
+Mark Twain	Mark Twain
+Marlene Dietrich	Marlene Dietrich
+Marquis de Sade	Markiz Sade
+Marriage	Priedelezh
+Mars (disambiguation)	Meurzh.
+Mars (mythology)	Meurzh (doue)
+Marseille	Marselha
+Martin Heidegger	Martin Heidegger
+Martin Luther	Martin Luther
+Martin Luther King	Martin Luther King, Jr.
+Martinique	Martinik
+Marx Brothers	Ar Vreudeur Marx
+Marxism	Rummad:Marksouriezh
+Mary Shelley	Mary Shelley
+Maryland	Maryland
+Mass	Mas
+Mass number	Niver mas
+Massachusetts	Massachusetts
+Materialism	Danvezelouriezh
+Mathematics	Matematikoù
+Mathematics	Rummad:Jedoniezh
+Maundy Thursday	Yaou-Gamblit
+Maurice Ravel	Maurice Ravel
+Mauritania	Maouritania
+Mauritius	Maoris
+Max Planck	Max Planck
+Max Weber	Max Weber
+May	Mae
+May 1	1añ Mae
+May 24	24 Mae
+Mayenne	Mayenne (departamant)
+Mead	Mez
+Measurement	Muzul
+Mecca	Mekka
+Medea	Medea
+Medici	Medici
+Medicine	Mezegiezh
+Medicine	Rummad:Medisinerezh
+Mediterranean	Rummad:Mor Kreizdouar
+Mediterranean Sea	Mor Kreizdouar
+Medusa	Medousa
+Melpomene	Melpomene
+Memphis	Menfis
+Menelaus	Menelaos
+Mentha	Bent
+Mercury	Merc'her
+Mercury (planet)	Merc'her (planedenn)
+Mesopotamia	Mezopotamia
+Mesozoic	Mezozoeg
+Metal	Metal
+Metis (moon)	Metis (loarenn)
+Metre	Metr
+Meuse	Meuse (departamant)
+Meuse River	Meuse (stêr)
+Mexico	Mec'hiko
+Mexico City	Kêr-Vec'hiko
+Michael Faraday	Michael Faraday
+Michelangelo	Michelangelo Buonarroti
+Michigan	Michigan
+Mickey Mouse	Mickey Mouse
+Microprocessor	Mikroprosesor
+Middle Ages	Krennamzer
+Miguel de Cervantes	Miguel de Cervantes
+Mikhail Bakunin	Mic'hail Bakounin
+Milan	Milano
+Milk	Laezh
+Milwaukee	Milwaukee
+Minerva	Minerva
+Mining	Mengleuz
+Minnesota	Minnesota
+Minotaur	Minotaoros
+Minsk	Minsk
+Miocene	Miosen
+Missouri	Missouri (Stad)
+Mogadishu	Muqdisho
+Moirae	Moira
+Moldova	Moldova
+Moldova	Rummad:Moldova
+Mole (unit)	Mol
+Molise	Molise
+Mombasa	Mombasa
+Monaco	Monako
+Monarchy	Rouantelezh
+Monday	Lun (deiz)
+Monrovia	Monrovia
+Mons	Mons (Wallonia)
+Montana	Montana
+Montenegro	Montenegro
+Montreal	Montreal
+Moon	Loar
+Moravia	Moravia
+Morocco	Maroko
+Morpheme	Morfem
+Morphology (linguistics)	Morfologiezh
+Morse code	Lizherenneg Morse
+Mosaic	Marelladur (arz)
+Moscow	Moskva
+Moses	Moizez
+Mother	Mamm
+Mount Olympus	Olympos
+Mountain	Menez
+Mouse (computing)	Logodenn (stlenneg)
+Mozambique	Mozambik
+Mozambique	Rummad:Mozambik
+Muhammad	Mohammed
+Mumbai	Mumbai
+Munich	München
+Muse	Muzezed
+Museum	Mirdi
+Music	Sonerezh
+Music	Rummad:Sonerezh
+Musical instrument	Benveg-seniñ
+Mycenae	Mikenai
+Mycology	Foueoniezh
+Mysticism	Kevrinelezh
+Mythology	Mitologiezh
+N	N (lizherenn)
+N'Djamena	Ndjamena
+NATO	Aozadur Feur-emglev Norzh-Atlantel
+Nagasaki	Nagasaki
+Nahuatl	Nahouatleg
+Nairobi	Nairobi
+Namibia	Namibia
+Namibia	Rummad:Namibia
+Namur (city)	Namur
+Nantes	Naoned
+Naples	Napoli
+Narcissus (mythology)	Narkissos
+Nathaniel Hawthorne	Nathaniel Hawthorne
+National Security Agency	NSA
+National anthem	Kan broadel
+Nationalism	Broadelouriezh
+Nature	Endro
+Naturism	Naturegezh
+Navy	Morlu
+Nazareth	Nazaret
+Nazi Party	Strollad Broadel Sokialour al Labourerien Alaman
+Nebraska	Nebraska
+Neil Armstrong	Neil Armstrong
+Nelson Mandela	Nelson Mandela
+Nemean Lion	Leon Nemea
+Neolithic	Neolitik
+Neologism	Nevezc'her
+Nepal	Nepal
+Nephthys	Neftis
+Neptune	Neizhan (planedenn)
+Netherlands	Izelvroioù
+Netherlands	Rummad:Izelvroioù
+Netherlands Antilles	Antilhez Nederlandat
+Network topology	Topologiezh rouedad
+Neutron	Neutron
+Nevada	Nevada
+New Brunswick	New Brunswick
+New England	Bro-Saoz Nevez
+New Guinea	Ginea Nevez
+New Hampshire	New Hampshire
+New Jersey	New Jersey
+New Mexico	New Mexico
+New Testament	Testamant Nevez
+New York	New York (Stad)
+New York (disambiguation)	New York (digejañ)
+New York City	New York
+New Zealand	Zeland-Nevez
+Newfoundland (island)	Douar-Nevez
+Newfoundland and Labrador	Douar-Nevez ha Labrador
+Newton	Newton
+Nicaragua	Nicaragua
+Nice	Nisa
+Nicolaus Copernicus	Nicolaus Copernicus
+Niels Bohr	Niels Bohr
+Niels Henrik Abel	Niels Henrik Abel
+Niger	Niger
+Nigeria	Nigeria
+Nightingale	Eostig
+Nijmegen	Nijmegen
+Nike (mythology)	Nike
+Nikita Khrushchev	Nikita C'hrouchtchov
+Nikola Tesla	Nikola Tesla
+Nile	Nil
+Nitric acid	Trenkenn nitrek
+Nix (moon)	Nix
+Noam Chomsky	Noam Chomsky
+Nobel Prize	Priz Nobel
+Normandy	Normandi
+North	Norzh
+North Africa	Norzhafrika
+North America	Norzhamerika
+North Carolina	North Carolina
+North Dakota	North Dakota
+North Korea	Republik Poblel ha Demokratel Korea
+North Sea	Mor an Hanternoz
+Northern Ireland	Norzhiwerzhon
+Norway	Norvegia
+Norwegian Sea	Mor Norvegia
+Nose	Fri
+Noun	Anv-kadarn
+Nova Scotia	Skos Nevez
+November	Du
+November 1	1añ Du
+November 11	11 Du
+November 2	2 Du
+November 5	5 Du
+Nu (letter)	Nu (lizherenn)
+Nucleon	Nukleon
+Number	Niver
+Numbers	Rummad:Niveroù
+Nymph	Nimfezed
+Nyx (mythology)	Nyks
+O	O (lizherenn)
+Ocean	Meurvor
+Ocean current	Kasenn
+Oceania	Okeania
+Oceanid	Okeanidezed
+Oceanus	Okeanos
+October	Here
+October 12	12 Here
+October 24	24 Here
+Ode	Meulgan
+Odysseus	Odysseüs
+Odyssey	Odysseia
+Ohio	Ohio
+Ohm	Ohm
+Ohm's law	Lezenn Ohm
+Oklahoma	Oklahoma
+Old Norse	Norseg
+Old Testament	Testamant Kozh
+Oligocene	Oligosen
+Oliver Cromwell	Oliver Cromwell
+Olympia	Olimpia
+Olympic Games	C'hoarioù Olimpek
+Oman	Oman
+Omega	Omega (lizherenn)
+Omicron	Omikron (lizherenn)
+Onomastics	Anvadurezh
+Ontario	Ontario
+Oort cloud	Koumoulennad Oort
+Operating system	Reizhiad korvoiñ
+Order (biology)	Urzhiad
+Ordovician	Ordovisian
+Oregon	Oregon
+Orestes (mythology)	Orestes (mab Agamemnon)
+Organ (anatomy)	Benvegad
+Origami	Origami
+Ornithology	Evnoniezh
+Orson Welles	Orson Welles
+Orthography	Reizhskrivadur
+Oscar Wilde	Oscar Wilde
+Osiris	Osiris
+Oslo	Oslo
+Ostrava	Ostrava
+Otto I	Otto Iañ
+Otto von Bismarck	Otto von Bismarck
+Ottoman Empire	Impalaeriezh otoman
+Ovary	Vigell
+Ovid	Ovidius
+Ovum	Viell
+Oxford	Oxford
+Oxygen	Oksigen
+Ozone	Ozon
+P	P (lizherenn)
+Pablo Picasso	Pablo Picasso
+Pacific Ocean	Meurvor Habask
+Padua	Padova
+Painting	Rummad:Livouriezh
+Pakistan	Pakistan
+Paleocene	Paleosen
+Paleontology	Paleontologiezh
+Paleozoic	Paleozoeg
+Palermo	Palermo
+Palestine	Rummad:Palestina
+Palestinian National Authority	Palestina
+Pan (mythology)	Pan
+Pangaea	Pangea
+Papua New Guinea	Papoua Ginea-Nevez
+Paraguay	Paraguay
+Paraguay	Rummad:Paraguay
+Paris	Pariz
+Paris (mythology)	Paris, mab Priam
+Pascal (unit)	Pascal
+Pasteurization	Pasteurekaat
+Pathology	Patologiezh
+Paul Gauguin	Paul Gauguin
+Paul the Apostle	Paol Tarsos
+Pays de la Loire	Broioù al Liger
+Pea	Piz bihan
+Peafowl	Paün
+Pearl Harbor	Pearl Harbor
+Peat	Taouarc'h
+Pedagogy	Pedagogiezh
+Pedophilia	Pedofiliezh
+Peloponnese	Peloponnez
+Penelope	Penelope
+Pennsylvania	Pennsylvania
+People	Rummad:Tud
+People's Republic of China	Republik Pobl Sina
+Pepin the Short	Pepin Grenn
+Percy Bysshe Shelley	Percy B. Shelley
+Pericles	Perikles
+Periodic table	Taolenn beriodek an elfennoù
+Perm	Perm
+Permian	Permian
+Persephone	Persefone
+Perseus	Perseüs
+Peru	Perou
+Peru	Rummad:Perou
+Pesticide	Dilastezer
+Peter Paul Rubens	Pieter Paul Rubens
+Phanerozoic	Fanerozoeg
+Pharaoh	Faraon
+Phi (letter)	Phi (lizherenn)
+Philately	Rummad:Timbrouriezh
+Philippines	Filipinez
+Philosophy	Prederouriezh
+Philosophy	Rummad:Prederouriezh
+Philosophy	Porched:Prederouriezh
+Phoneme	Fonem
+Phonetics	Fonetik
+Phonology	Fonologiezh
+Photography	Luc'hskeudennerezh
+Phylum	Skourrad
+Physics	Fizik
+Physics	Rummad:Fizik
+Physics	Porched:Fizik
+Pi (letter)	Pi (lizherenn)
+Picardie	Pikardi
+Pidgin	Pidjin
+Piedmont	Piemonte
+Pindar	Pindaros
+Pisa	Pisa
+Planet	Planedenn
+Plant	Plant
+Plato	Platon
+Platypus	Ornitorink
+Pleistocene	Pleistosen
+Pleven	Pleven (Bulgaria)
+Pliny the Elder	Plinius kozh
+Pliocene	Pliosen
+Plovdiv	Plovdiv
+Plutarch	Ploutarc'hos
+Pluto	Ploudon (planedenn-gorr)
+Pluto (disambiguation)	Pluton
+Po River	Po
+Point (geometry)	Poent (geometriezh)
+Poitou-Charentes	Poatev-Charant
+Poland	Polonia
+Poland	Rummad:Polonia
+Politics	Politikerezh
+Polyhymnia	Polymnia
+Pop art	Pop Art
+Pope	Pab
+Pope Alexander VI	Alesant VI
+Population	Poblañs
+Port	Porzh (evit listri)
+Port-au-Prince	Port-au-Prince
+Portland	Portland
+Portsmouth	Portsmouth
+Portugal	Portugal
+Poseidon	Poseidon
+Positron	Pozitron
+Postal code	Kod post
+Prague	Praha
+Prehistory	Ragistor
+President of the United States	Prezidant Stadoù-Unanet Amerika
+Priam	Priam
+Price	Priz
+Prime number	Niveroù kentael
+Prince Edward Island	Enez ar Priñs Edward
+Prism (optics)	Kengereg
+Prison	Toull-bac'h
+Programming language	Areg
+Prokaryote	Prokariot
+Prometheus	Prometheüs
+Pronoun	Raganv
+Prophet	Profed
+Prose	Komz-plaen
+Proterozoic	Proterozoeg
+Proton	Proton
+Prunus	Prunus
+Prussia	Prusia
+Psi (letter)	Psi (lizherenn)
+Psychology	Bredoniezh
+Ptolemaic dynasty	Tierniezh ar Ptolemeed
+Ptolemy	Klaudios Ptolemaios
+Puberty	Kaezouregezh
+Punk rock	Punk rock
+Pyrenees	Pireneoù
+Pythagoras	Pitagoras
+Q	Q (lizherenn)
+Qatar	Katar
+Quebec	Kebek
+Quechua	Ketchwaeg
+Queensland	Queensland
+R	R (lizherenn)
+RNA	Trenkenn ribonukleek
+Ra	Ra
+Racism	Gouennelouriezh
+Rain	Glav
+Rainer Maria Rilke	Rainer-Maria Rilke
+Rama	Rama
+Ramadan	Ramadan
+Ramayana	Ramayana
+Ramesses II	Ramses II
+Random access memory	Memor bresk
+Raphael	Raffaello Sanzio
+Ravenna	Ravenna
+Rawalpindi	Rawalpindi
+Recife	Recife
+Rectangle	Skouergorneg
+Recycling	Adaoz
+Red Army Faction	Tuad an Arme Ruz
+Red Sea	Mor Ruz
+Religion	Relijion
+Religion	Rummad:Relijion
+Rembrandt	Rembrandt van Rijn
+Renaissance	Azginivelezh arzel
+Republic	Republik
+Republic of Ireland	Republik Iwerzhon
+Republic of the Congo	Republik Kongo
+Rhea (mythology)	Rea (doueez)
+Rhine	Roen
+Rho (letter)	Rho (lizherenn)
+Rhode Island	Rhode Island
+Rhodes	Enez Rodos
+Rhyme	Klotenn
+Rib	Kostezenn
+Richard Wagner	Richard Wagner
+Riga	Riga
+Rio de Janeiro	Rio de Janeiro
+River	Stêr
+River Thames	Tavoez
+Riyadh	Riyadh
+Roald Amundsen	Roald Amundsen
+Robert Koch	Robert Koch
+Robert Louis Stevenson	Robert Louis Stevenson
+Robert Schumann	Robert Schumann
+Rock music	Sonerezh rock
+Roman Catholic Church	Iliz katolik roman
+Roman Empire	Impalaeriezh roman
+Roman legion	Lejion roman
+Romania	Roumania
+Romansh	Romañcheg
+Rome	Roma
+Rook (bird)	Frav
+Rosary	Juzu
+Rotterdam	Rotterdam
+Router	Routaer
+Rugby football	Rugbi
+Russia	Rusia
+Russia	Rummad:Rusia
+Rwanda	Rwanda
+Rwanda	Rummad:Rwanda
+Saddam Hussein	Saddam Husain
+Sail	Gouel (bageal)
+Saint	Sant
+Saint Martin	Sant-Martin (enez)
+Saint Nicholas	Nikolaz a vMyra
+Saint Peter	Pêr (abostol)
+Saint Petersburg	Sankt-Peterbourg
+Saladin	Saladin
+Salvador	Salvador da Bahia
+Salzburg	Salzburg
+Salzburg (state)	Salzburg (stad)
+Samara	Samara (kêr Rusia)
+Samarkand	Samarkand
+Samuel Beckett	Samuel Beckett
+Samurai	Samourai
+San Francisco	San Francisco (Kalifornia)
+San Marino	San Marino
+San Marino	Città di San Marino
+Sand	Traezh
+Sandro Botticelli	Sandro Botticelli
+Sandwich	Sandwich
+Sanskrit	Sañskriteg
+Santiago	Santiago de Chile
+Santiago	Santiago
+Santiago de Cuba	Santiago de Cuba
+Santo Domingo	Santo Domingo (kêr)
+Sappho	Sapfo
+Sapporo	Sapporo
+Sarah Bernhardt	Sarah Bernhardt
+Sarajevo	Sarajevo
+Sarcophagus	Sarkofagenn
+Sardinia	Sardigna
+Saturday	Sadorn (deiz)
+Saturn	Sadorn (planedenn)
+Saturn (disambiguation)	Sadorn
+Saturn (mythology)	Sadorn (doue)
+Satyr	Satir
+Saudi Arabia	Arabia Saoudat
+Saudi Arabia	Rummad:Arabia Saoudat
+Scandinavia	Skandinavia
+Scandinavia	Rummad:Skandinavia
+Scheldt	Escaut
+Schutzstaffel	SS
+Science	Skiant
+Science fiction	Skiant-faltazi
+Scorpion	Krug
+Scotland	Skos
+Scotland	Rummad:Bro-Skos
+Scottish Gaelic	Gouezeleg Skos
+Scrabble	Skrabell
+Sculpture	Kizellañ
+Sculpture	Rummad:Kizellerezh
+Sea	Mor
+Sea Otter	Ki-dour mor
+Sea of Marmara	Mor Marmara
+Sea urchin	Teureuged
+Seine	Saena
+Seismology	Seismologiezh
+Semantics	Semantik
+Senegal	Senegal
+September	Gwengolo
+September 11	11 Gwengolo
+September 17	17 Gwengolo
+September 29	29 Gwengolo
+Serbia	Serbia
+Set (mythology)	Seth
+Seychelles	Sechelez
+Shanghai	Shanghai
+Shogun	Shogun
+Siberia	Siberia
+Sicily	Sikilia
+Sicily	Rummad:Sikilia
+Sierra Leone	Sierra Leone
+Sierra Leone	Rummad:Sierra Leone
+Sigma	Sigma (lizherenn)
+Sigmund Freud	Sigmund Freud
+Sigrid Undset	Sigrid Undset
+Sikhism	Sikhegezh
+Silesia	Silezia
+Silk Road	Hent ar seiz
+Silurian	Silurian
+Simone de Beauvoir	Simone de Beauvoir
+Singapore	Singapour
+Skepticism	Amgredoni
+Slavery	Sklaverezh
+Slayer	Slayer
+Slovakia	Slovakia
+Slovakia	Rummad:Slovakia
+Slovenia	Slovenia
+Snake	Naer
+Socialist Party (France)	Strollad Sokialour Gall
+Sociolinguistics	Sokioyezhoniezh
+Socrates	Sokrates
+Sofia	Sofia
+Software	Rummad:Meziantoù
+Solar System	Koskoriad an Heol
+Solidarity	Solidarność
+Somalia	Somalia
+Somerset	Somerset
+Somme	Somme (departamant)
+Sophocles	Sofokles
+South	Su
+South America	Suamerika
+South America	Rummad:Suamerika
+South Carolina	South Carolina
+South Dakota	South Dakota
+South Korea	Republik Korea
+Soviet Union	Unaniezh ar Republikoù Sokialour ha Soviedel
+Soviet Union	Rummad:Unaniezh ar Republikoù Sokialour Soviedel
+Spain	Spagn
+Spain	Rummad:Spagn
+Sparta	Sparta (kêr)
+Species	Spesad
+Speed of light	Tizh ar gouloù
+Spice	Spis (temz)
+Sport	Sport
+Spree	Spree
+Spring (season)	Nevezamzer
+Sri Lanka	Sri Lanka
+Stalinism	Stalinouriezh
+Stanley Kubrick	Stanley Kubrick
+Star of David	Steredenn David
+State	Stad
+Statistics	Statistikoù
+Statue of Liberty	Delwenn ar frankiz
+Stefan Zweig	Stefan Zweig
+Stegosaurus	Stegosaor
+Stendhal	Stendhal
+Steven Spielberg	Steven Spielberg
+Stockholm	Stockholm
+Stoicism	Stoikegezh
+Storm	Korventenn
+Strait	Strizh-mor
+Strait of Gibraltar	Strizh-mor Jibraltar
+Strait of Magellan	Strizh-mor Magalhaes
+Stuttgart	Stuttgart
+Styx	Styx River
+Submarine	Lestr-spluj
+Subtraction	Lamadur
+Sucre	Sucre
+Sudan	Soudan
+Sudoku	Sudoku
+Suez Canal	Kanol Suez
+Suffix	Lostger
+Sulfur mustard	Iperit
+Sulfuric acid	Trenkenn sulfurek
+Sultan	Sultan
+Sumer	Sumer
+Summer	Hañv
+Sun	Heol
+Sunday	Sul (deiz)
+Suriname	Surinam
+Surrey	Kontelezh Surrey
+Svalbard	Svalbard
+Swaziland	Swaziland
+Sweden	Sveden
+Sweden	Rummad:Sveden
+Switzerland	Suis
+Sword	Kleze
+Sydney	Sydney
+Syllable	Silabenn
+Syndicate	Sindikad
+Syntax	Kevreadurezh
+Syracuse	Sirakuza
+Syria	Siria
+T	T (lizherenn)
+T. E. Lawrence	Thomas Edward Lawrence
+Table (furniture)	Taol (arrebeuri)
+Tacitus	Tacitus
+Tai chi chuan	Taichichuan
+Tajikistan	Tadjikistan
+Tajikistan	Rummad:Tadjikistan
+Tallinn	Tallinn
+Tamil Nadu	Tamil Nadu
+Tanakh	Tanac'h
+Tanzania	Tanzania
+Tanzania	Rummad:Tanzania
+Tarn	Tarn (departamant)
+Tarragon	Stragon
+Tartarus	Tartaros
+Tartu	Tartu
+Tattoo	Tatouadur
+Tau	Tau (lizherenn)
+Taxonomy	Taksinomiezh
+Tbilisi	Tbilisi
+Tea	Te
+Techno	Tekno
+Technology	Greanterezh
+Telecommunication	Pellgehenterezhioù
+Temperature	Gwrezverk
+Tennessee	Tennessee (stad)
+Tennis	Rummad:Tennis
+Termite	Laou-koad
+Terpsichore	Terpsic'hora
+Terrorism	Sponterezh
+Tethys (mythology)	Tethys
+Texas	Texas
+Thailand	Thailand
+Thales	Thales Miletos
+Thanatos	Thanatos
+The Gambia	Gambia
+Theatre	C'hoariva
+Thebe (moon)	Thebe (loarenn)
+Thebes	Thebai
+Thebes	Teba (Egipt)
+Theia	Theia
+Themis	Themis
+Themistocles	Themistokles
+Theodosius I	Teodosius Iañ
+Theology	Doueoniezh
+Theseus	Theseüs
+Theta	Theta (lizherenn)
+Third Crusade	Trede kroaziadeg
+Thirty Years' War	Brezel Tregont Vloaz
+Thomas Aquinas	Tommaso d'Aquino
+Thomas Edison	Thomas Edison
+Thomas Hobbes	Thomas Hobbes
+Thomas More	Thomas More
+Thoth	Tot
+Thrace	Trakia
+Thucydides	Thoukydides
+Thursday	Yaou (deiz)
+Tianjin	Tianjin
+Tiber	Tiber (stêr)
+Tiberius	Tiber
+Tibet	Tibet
+Ticino	Kanton Ticino
+Tide	Tre ha lanv
+Tiger	Tigr
+Titan (moon)	Titan (loarenn)
+Titan (mythology)	Titaned
+Titian	Tizian
+Titus	Titus (impalaer)
+Tivoli	Tivoli
+Togo	Togo
+Tonga	Tonga
+Tony Blair	Tony Blair
+Topeka	Topeka, Kansas
+Torah	Torah
+Toronto	Toronto
+Totalitarianism	Hollveliouriezh
+Tourism	Touristerezh
+Tours	Teurgn
+Trade union	Sindikad
+Tradition	Hengoun
+Train station	Porzh-houarn
+Transliteration	Treuzlizherennadur
+Transmission Control Protocol	TCP
+Transsexualism	Treuzrevelezh
+Transylvania	Treuzsilvania
+Trento	Trento
+Triassic	Triaseg
+Triceratops	Triseratops
+Trier	Trier
+Trinity	An Dreinded
+Tripoli	Tripoli (Libia)
+Tritium	Tritiom
+Triumphal arch	Bolz-enor
+Trojan War	Brezel Troia
+Troll (Internet)	Roñfl (kenrouedad)
+Tropics	Trovan
+Trotskyism	Trotskiouriezh
+Troy	Troia
+Trumpet	Trompilh (sonerezh)
+Tsunami	Tsunami
+Tuesday	Meurzh (deiz)
+Tunis	Tuniz
+Tunisia	Tunizia
+Tunnel	Riboul
+Turin	Torino
+Turkey	Turkia
+Turkey	Rummad:Turkia
+Turkmenistan	Turkmenistan
+Tuscany	Toskana
+Tuvalu	Tuvalu
+Tuvalu	Rummad:Tuvalu
+Tycho Brahe	Tycho Brahe
+Tyrannosaurus	Tiranosaor
+Tyre	Tir (kêr)
+Tyrol (state)	Tirol (Aostria)
+Tyrrhenian Sea	Mor Tirrenia
+U	U (lizherenn)
+UNESCO	UNESCO
+Ufa	Oufa (kêr)
+Uganda	Ouganda
+Uganda	Rummad:Ouganda
+Ukraine	Ukraina
+Ukraine	Rummad:Ukraina
+Ulster	Cúige Uladh
+Ultraviolet	Uslimestra
+Umbria	Umbria
+United Arab Emirates	Emirelezhioù Arab Unanet
+United Kingdom	Rouantelezh Unanet Breizh-Veur ha Norzhiwerzhon
+United Nations	Aozadur ar Broadoù Unanet
+United Nations	Rummad:ABU
+United States	Stadoù-Unanet Amerika
+United States	Rummad:Stadoù-Unanet Amerika
+Unix	Unix
+Uppsala	Uppsala
+Upsilon	Upsilon (lizherenn)
+Urania	Ourania
+Uranus	Ouran (planedenn)
+Uranus (mythology)	Ouranos
+Urdu	Ourdoueg
+Uruguay	Uruguay
+Utah	Utah
+Utrecht (city)	Utrecht (kêr)
+Uttar Pradesh	Uttar Pradesh
+Uzbekistan	Ouzbekistan
+Uzbekistan	Rummad:Ouzbekistan
+V	V (lizherenn)
+Vagina	Gouhin
+Valletta	Valletta
+Valley	Traoñienn
+Vandalism	Vandalerezh
+Var (department)	Var (departamant)
+Varna	Varna
+Vatican City	Keoded ar Vatikan
+Velociraptor	Velosiraptor
+Veneto	Veneto
+Venezuela	Venezuela
+Venezuela	Rummad:Venezuela
+Venice	Venezia
+Venus	Gwener (planedenn)
+Venus (mythology)	Gwener (doueez)
+Verb	Verb
+Vermont	Vermont
+Verona	Verona
+Vertebral column	Gwalenn ar c'hein
+Vertebrate	Vertebrata
+Vespasian	Vespasian
+Vesta (mythology)	Vesta
+Victor Hugo	Victor Hugo
+Video game	C'hoari video
+Vienna	Vienna
+Vienne	Vienne (departamant)
+Vietnam	Viêt Nam
+Vietnam	Rummad:Viêt Nam
+Viking	Vikinged
+Vilnius	Vilnius
+Vincent van Gogh	Vincent van Gogh
+Violin	Biolin
+Virgil	Publius Vergilius Maro
+Virginia	Virginia
+Virginity	Gwerc'hded
+Vishnu	Vichnou
+Vitus Bering	Vitus Bering
+Vladimir Lenin	Vladimir Lenin
+Vladimir Nabokov	Vladimir Nabokov
+Vladimir Putin	Vladimir Poutin
+Volcano	Menez-tan
+Volcanology	Volkanegezh
+Volga River	Volga
+Volgograd	Volgograd
+Volt	Volt
+Voltaire	Voltaire
+Vowel	Vogalenn
+Vulgate	Vulgat
+Vulva	Kourzh
+W	W (lizherenn)
+Wales	Kembre
+Wales	Rummad:Kembre
+Walt Disney	Walt Disney
+Walter Gropius	Walter Gropius
+Walter Scott	Walter Scott
+War	Brezel
+Warsaw	Varsovia
+Washington	Washington D.C.
+Washington	Washington (stad)
+Washington (disambiguation)	Washington
+Wassily Kandinsky	Vassily Kandinsky
+Water	Dour
+Water	Rummad:Dour
+Watt	Watt
+Wavelength	Hirder gwagenn
+Web browser	Merdeer
+Wednesday	Merc'her (deiz)
+Week	Sizhun
+Wellington	Wellington (Zeland-Nevez)
+Weser River	Weser
+West	Kornôg
+West Sussex	West-Sussex
+West Virginia	West Virginia
+Western Roman Empire	Impalaeriezh roman ar C'hornôg
+Western Sahara	Sahara ar C'hornôg
+Wheel	Rod
+Wicca	Wicca
+Wiesbaden	Wiesbaden
+William Butler Yeats	William Butler Yeats
+William Faulkner	William Faulkner
+William Harvey	William Harvey
+William I	Gwilherm Iañ Alamagn
+William Rowan Hamilton	William Rowan Hamilton
+William Shakespeare	William Shakespeare
+Willy Brandt	Willy Brandt
+Windhoek	Windhoek
+Window	Prenestr
+Wine	Gwin
+Winston Churchill	Winston Churchill
+Wisconsin	Wisconsin (stad)
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Woman	Maouez
+Woodrow Wilson	Woodrow Wilson
+Woody Allen	Woody Allen
+Word	Ger
+World War I	Brezel-bed kentañ
+World War I	Rummad:Brezel bed kentañ
+World War II	Eil brezel-bed
+World War II	Rummad:Eil Brezel Bed
+World Wide Web	World Wide Web
+Writing system	Doare-skrivañ
+Wyoming	Wyoming (stad)
+X	X (lizherenn)
+X-ray	Skinoù X
+Xi	Xi (lizherenn)
+Xinjiang	Xinjiang
+Y	Y (lizherenn)
+Yakuza	Yakuza
+Yalta Conference	Kendalc'h Yalta
+Year	Bloaz
+Years	Rummad:Bloavezhioù
+Yemen	Yemen
+Yerevan	Yerevan
+York	York
+Yugoslavia	Yougoslavia
+Yuri Gagarin	Youriy Gagarin
+Z	Z (lizherenn)
+Zambia	Zambia
+Zambia	Rummad:Zambia
+Zanzibar	Zanzibar
+Zeta	Zeta (lizherenn)
+Zeus	Zeus
+Zimbabwe	Zimbabwe
+Zimbabwe	Rummad:Zimbabwe
+Zoology	Loenoniezh
+Zoology	Rummad:Loenoniezh

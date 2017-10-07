@@ -1,0 +1,31 @@
+﻿English	Romanian
+anything	orice
+everybody	toată lumea
+everything	tot
+he	dumnealui, el
+her	ei
+herself	ea însăşi
+him	îl
+his	ai
+it	it
+me	mă
+my	meu
+our	nostru
+she	ea
+that	acea
+their	lor
+them	lor
+they	ei
+this	acest (m), această (f)
+us	pe noi
+we	noi
+what	ce
+when	când
+which	care
+which	care
+who	cine
+whom	pe cine
+whose	cui
+you	tu, dumneata
+your	tău
+yourself	tu însuţi

@@ -1,0 +1,210 @@
+Vietnamese	﻿English
+Bắt đầu	begin
+chia ra	break
+mua	buy
+đóng	close
+đi đến	come
+cắt	cut
+khiêu vũ	dance
+sử dụng	do
+vẽ	draw
+uống	drink
+ăn	eat
+rơi	fall
+tìm thấy	find
+bắn	fire
+bay	fly
+theo sau	follow
+quên	forget
+cho	give
+nghe	hear
+giúp	help
+hy vọng	hope
+nhảy lên	jump
+hôn	kiss
+cười	laugh
+học	learn
+nằm	lie
+thích	like
+lắng nghe	listen
+nhìn	look
+mất	lose
+thích	love
+bắt gặp	meet
+di chuyển	move
+cần đến	need
+mời	offer
+mở ra	open
+trả tiền	pay
+nô đùa	play
+rút ra	pull
+đẩy	push
+đặt	put
+đọc	read
+nhớ lại	remember
+chạy	run
+nói	say
+bán	sell
+hát	sing
+ngồi	sit
+mỉm cười	smile
+bơi, tắm (lit. "to bathe")	swim
+cầm	take
+nói	talk
+hiểu được ý	understand
+áp dụng	use
+đợi	wait
+chấp nhận	accept
+buộc tội	accuse
+đạt được	achieve
+hành động	act
+công nhận	admit
+đồng tình	agree
+cho phép	allow
+công bố	announce
+cãi nhau	argue
+đến	arrive
+hỏi	ask
+tấn công	attack
+tránh	avoid
+có sự sống	be
+mang vác	bear
+đánh bại	beat
+trở thành	become
+cắn	bite
+làm cho	bring
+xây dựng	build
+gọi điện	call
+mang	carry
+thay đổi	change
+chọn	choose
+xếp hạng	classify
+làm sạch	clean
+ví	compare
+chứa đựng	contain
+tiếp tục	continue
+nấu ăn	cook
+bản sao	copy
+ho	cough
+khóc	cry
+quyết định	decide
+mô tả	describe
+thiết kế	design
+muốn	desire
+chết	die
+khám phá	discover
+thảo luận	discuss
+phân chia	divide
+nghi ngờ	doubt
+lái xe	drive
+bao gồm	embrace
+khuyến khích	encourage
+kết thúc	end
+nâng cao	enhance
+đi vào	enter
+xây dựng	establish
+ước tính	estimate
+vượt quá	exceed
+tồn tại	exist
+đợi	expect
+giải thích	explain
+đấu tranh	fight
+đổ đầy	fill
+phát hiện	find
+tha thứ	forgive
+giải phóng	free
+phát triển	grow
+xảy ra	happen
+ghét	hate
+che đậy	hide
+cầm	hold
+nhận ra	identify
+bao gồm	include
+làm bị thương	injure
+giới thiệu	introduce
+nối	join
+giữ trong tình trạng	keep
+đá	kick
+giết	kill
+hạ cánh	land
+còn đủ	last
+hướng dẫn	lead
+bỏ lại	leave
+cho phép	let
+nâng lên	lift
+hạn chế	limit
+nạp điện	load
+dường như	look
+mất	lose
+lãnh đạo	manage
+cưới	marry
+định	mean
+đo lường	measure
+đề cập	mention
+gọi	name
+sở hữu	own
+on nộp	pass
+gọt vỏ	peel
+đầu độc	poison
+đánh bóng	polish
+chuẩn bị	prepare
+nhấn	press
+ngăn chặn	prevent
+in	print
+xử lý	process
+phản đối	protest
+chứng minh	prove
+xuất bản	publish
+giáo dục	raise
+đánh giá	rate
+đến được	reach
+nhận được	receive
+thu thanh	record
+cắt giảm	reduce
+phản xạ	reflect
+từ chối	refuse
+di chuyển	remove
+trả lại	render
+trả lời	reply
+thông báo	report
+đại diện	represent
+yêu cầu	request
+thể hiện sự kính trọng	respect
+vạch trần	reveal
+liều	risk
+cai trị	rule
+để dành	save
+cứu hộ	save
+nhìn thấy	see
+coi như	see
+gửi	send
+may	sew
+kêu gào	shout
+cho xem	show
+trải qua	spend
+đứng	stand
+tiếp tục tồn tại	stay
+ăn cắp	steal
+chặn lại	stop
+học	study
+đề nghị	suggest
+cung cấp	supply
+truyền sức mạnh	support
+làm ngạc nhiên	surprise
+dạy	teach
+thử nghiệm	test
+cảm ơn	thank
+ném	throw
+đặt tiêu đề	title
+kinh doanh	trade
+đào tạo	train
+đi	travel
+đối xử	treat
+cố gắng	try
+xoay	turn
+đến thăm	visit
+đi bộ	walk
+nhìn	watch
+mặc	wear
+cân nặng	weigh
+thắng	win

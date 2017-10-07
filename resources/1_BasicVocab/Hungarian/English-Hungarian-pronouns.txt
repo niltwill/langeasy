@@ -1,0 +1,26 @@
+﻿English	Hungarian
+anything	bármi
+everybody	mindenki
+everything	minden
+he	ő
+her	-a/-e/-ja/-je
+his	-a/-e/-ja/-je
+it	az
+me	engem
+my	-m, -om
+our	-nk/-unk/-ünk
+she	ő
+that	ez
+their	-uk/-ük/-juk/-jük
+they	ők
+this	ez a (s), ezek a (p)
+us	mi
+we	mi
+what	mi
+when	mikor
+which	melyik
+which	melyik
+who	ki, kik
+whose	kié, kinek
+you	(familiar) ti, (polite) önök
+your	-d/-od/-ad/-ed/-öd (informal), -a/-e/-ja/-je (formal)

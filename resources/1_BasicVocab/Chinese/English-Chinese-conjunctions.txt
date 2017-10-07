@@ -1,0 +1,9 @@
+﻿English	Chinese
+and	和 [hé], 与 [yǔ]
+because	因为 [yīn wèi]
+for	为了 [wèi le], 对于 [duì yú]
+if	如果 [rú guǒ]
+or	或 [huò]
+than	比 [bǐ]
+until	直到 [zhí dào]
+whenever	无论何时 [wú lùn hé shí]

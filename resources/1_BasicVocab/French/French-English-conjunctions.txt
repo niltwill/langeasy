@@ -1,0 +1,7 @@
+French	﻿English
+et	and
+parce que	because
+car	for
+si	if
+ou	or
+que	than

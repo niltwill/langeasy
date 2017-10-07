@@ -1,0 +1,2057 @@
+English	Dutch
+AIDS	aids (m)
+Abidjan	Abidjan
+Abkhaz	Abchazisch (n)
+Abkhazia	Abchazië
+Abraham	Abraham
+Adam	Adam
+Afghanistan	Afghanistan
+Africa	Afrika
+Afrikaans	Afrikaans (n)
+Alaska	Alaska
+Albania	Albanië
+Alberta	Alberta
+Alexander	Alexander (m)
+Algeria	Algerije
+Algiers	Algiers
+Allah	Allah (m)
+Alps	Alpen (m)
+America	Amerika (n)
+American	Amerikaan (m); Amerikaanse (f)
+American bison	bizon (m)
+Amsterdam	Amsterdam (n)
+Andorra	Andorra (n)
+Andrew	Andreas; Andries
+Anglo	Oudengels
+Angola	Angola
+Ankara	Ankara
+Antarctica	Antarctica (n)
+Antigua and Barbuda	Antigua en Barbuda
+April	april (m)
+Arabic	Arabisch (n)
+Arctic Ocean	Arctische Oceaan; Noordelijke IJszee
+Argentina	Argentinië
+Argonaut	Argonaut
+Arkhangelsk	Archangelsk
+Armenia	Armenië
+Armenian	Armeniër (m), Armeense (f)
+Asclepius	Asclepius
+Asia	Azië (n)
+Athena	Athene (f)
+Athens	Athene
+Atlantic Ocean	Atlantische Oceaan
+August	augustus
+Australia	Australië
+Austria	Oostenrijk (n)
+Aymara	Aymara (n)
+Azerbaijan	Azerbeidzjan
+Bahamas	Bahama's
+Bahrain	Bahrein
+Baku	Bakoe
+Balearic Islands	de Balearen (p)
+Baltic Sea	Baltische zee (f), Oostzee (f)
+Bambara	Bambara (n)
+Bangladesh	Bangladesh
+Barbados	Barbados
+Bashkir	Basjkiers (n)
+Beijing	Peking
+Beirut	Beiroet
+Belarus	Wit-Rusland; Belaroes
+Belarusian	Wit-Russisch (n); Belarussisch (n)
+Belgium	België (n)
+Belgrade	Belgrado
+Berlin	Berlijn (n)
+Bermuda	Bermuda
+Bhutan	Bhutan
+Bible	bijbel (m)
+Black Sea	Zwarte Zee (f)
+Bolivia	Bolivia; Bolivië
+Bosnia	Bosnië
+Bosnia and Herzegovina	Bosnië en Herzegovina
+Bosphorus	Bosporus
+Botswana	Botswana (n)
+Brazil	Brazilië
+Breton	Bretons
+Brunei	Brunei
+Brussels	Brussel (n)
+Bucharest	Boakarest
+Buddha	Boeddha (m)
+Buddhism	boeddhisme (n)
+Bulgaria	Bulgarije
+Bulgarian	Bulgaars (n)
+Burkina Faso	Burkina Faso
+Byzantine Empire	Byzantijnse Keizerrijk
+Cambodia	Cambodja
+Cameroon	Kameroen
+Canada	Canada
+Cape Verde	Kaapverdië
+Carthage	Carthago
+Caspian Sea	Kaspische Zee
+Catalan	Catalaans
+Caucasus	Kaukasus
+Central African Republic	Centraal-Afrikaanse Republiek
+Chad	Tsjaad
+Chicago	Chicago
+Chile	Chili
+China	China (n)
+Chinese	Chinezen
+Chisinau	Chisinau
+Christ	Christus (m)
+Christian	christen (m)
+Christianity	Christendom (n)
+Christmas	Kerstmis; kerst (m)
+Christopher	Christoffel, Kristof(Kristoffel'fel)
+Coca	Coca-Cola
+Colombia	Colombia; Colombië
+Commonwealth of Independent States	Gemenebest van Onafhankelijke Staten (n); GOS (n)
+Constantinople	Constantinopel (n)
+Copenhagen	Kopenhagen
+Costa Rica	Costa Rica
+Croatia	Kroatië
+Croatian	Kroatisch (n)
+Cuba	Cuba
+Cyprus	Cyprus
+Cyrillic	cyrillisch
+Czech Republic	Tsjechische Republiek
+Czechia	Tsjechië (n)
+Czechoslovakia	Tsjecho-Slowakije
+Damascus	Damascus
+Danish	Deens
+Danube	Donau
+Dead Sea	Dode Zee (f)
+December	december (m)
+Denmark	Denemarken
+Dominican Republic	Dominicaanse Republiek
+Dutch	Nederlands
+Earth	de Aarde (c), aarde (f)
+East Timor	Oost-Timor
+Easter	Pasen (n); Paasfeest (n)
+Easter Island	Paaseiland (n)
+Eastern Europe	Oost-Europa (n)
+Edmonton	Edmonton
+Egypt	Egypte
+England	Engeland (n)
+English	Engelsman (m); Engelse (f); Engelsen
+Esperanto	Esperanto (n)
+Estonia	Estland
+Ethiopia	Ethiopië
+Eurasia	Eurazië (n)
+Europe	Europa (n)
+European Union	Europese Unie (f)
+European bison	wisent (m)
+Faroe Islands	Faeröer
+Faroese	Faeröers (n)
+February	februari (m)
+Fiji	Fiji
+Finland	Finland
+Finnish	Fins (n)
+France	Frankrijk (n)
+French	fransozen
+Friday	vrijdag (m)
+GDP	BBP
+Gaza Strip	Gazastrook
+Geneva	Genève (n)
+George	Joris, Jurriaan, Sjors, Jurgen, George, Goris
+Georgia	Georgië
+Georgian	Georgisch (n)
+German	Duits; Duitse
+Germany	Duitsland (n)
+Ghana	Ghana
+Ghent	Gent (n)
+Gibraltar	Gibraltar
+Goa	Goa
+Great Britain	Groot-Brittannië (n)
+Great Pyramid of Giza	piramide van Cheops (f)
+Greece	Griekenland
+Greek	Griek (m); Griekse (f)
+Greenland	Groenland
+Guinea	Guinee
+Gulf of Finland	Finse Golf
+Guyana	Guyana
+Haiti	Haïti
+Happy New Year	Gelukkig Nieuwjaar
+Hebrew	Hebreeuws (n)
+Hezbollah	Hezbollah
+Hindi	Hindi (n)
+Hokkaido	Hokkaido
+Holland	Nederland (n)
+Holocaust	jodenvervolging (f)
+Holy Spirit	Heilige Geest (m)
+Hong Kong	Hongkong
+Hungarian	Hongaar (m); Hongaarse (f)
+Hungary	Hongarije (n)
+I	ik; 'k
+I am English	ik ben Engelsman (m); ik ben Engelse (f)
+I have a question	ik heb een vraag
+I love you	Ik hou van je, Ik hou van jou (both romantic and platonic)
+Iceland	IJsland (n)
+India	India
+Indian Ocean	Indische Oceaan
+Indonesia	Indonesië (f)
+Interlingua	Interlingua
+International Phonetic Alphabet	Internationaal Fonetisch Alfabet
+Internet	internet (n)
+Iran	Iran (n)
+Iraq	Irak
+Ireland	Ierland
+Islam	islam (m)
+Israel	Israël (n)
+Italian	Italiaans; Italiaanse
+Italy	Italië
+Jamaica	Jamaica
+January	januari (m)
+Japan	Japan
+Japanese	Japans, Japanse
+Jerusalem	Jeruzalem
+Jesus	Jezus
+Jesus Christ	Jezus Christus (m)
+Jew	jood (m)
+Jewish	joods [an exceptional non-capitalization], Israëlitisch
+John	Jan; Johan; Johannes
+Jordan	Jordanië
+Joseph	Jozef; Josef
+Judaism	jodendom (n)
+July	juli
+June	juni
+Jupiter	Jupiter
+Kannada	Kannada
+Karnataka	Karnataka
+Kazakhstan	Kazachstan
+Kenya	Kenia; Kenya
+Khartoum	Khartoem
+Khmer	Khmer (n)
+Khrushchev	Chroesjtsjov
+Kiev	Kiëv; Kiev
+Korea	Korea
+Korean	Koreaans (n)
+Kosovo	Kosovo
+Kurdish	Koerdisch (n)
+Kuwait	Koeweit
+Kyrgyzstan	Kirgizië; Kirgizstan
+Laos	Laos (n)
+Latin	Latijn
+Latvia	Letland (n)
+Liberia	Liberia (n)
+Libya	Libië
+Liechtenstein	Liechtenstein
+Lisbon	Lissabon
+Lithuania	Litouwen
+London	Londen (n)
+Luxembourg	Luxemburg (n)
+Lyons	Lyon
+Macedonia	Macedonië (n)
+Magna Carta	Magna Carta (f)
+Malayalam	Malayalam (n)
+Malaysia	Maleisië
+Maldives	Maladiven
+Malta	Malta
+Man	de mens (m)
+Manchuria	Mantsjoerije
+Maoism	maoïsme
+March	maart
+Mars	Mars (m)
+Marshall Islands	Marshalleilanden
+Mary	Maria
+Matthew	(m) Thijs (m)
+Mauritius	Mauritius
+May	mei
+Mediterranean Sea	Middellandse Zee (f)
+Mercury	Mercurius (m)
+Merry Christmas	vrolijk kerstfeest; prettig kerstfeest
+Merry Christmas and a Happy New Year	Vrolijk Kerstfeest en een Gelukkig Nieuwjaar
+Mexico	Mexico
+Michael	Michiel, Michaël, Michel, Maikel
+Middle East	Midden-Oosten (n)
+Minsk	Minsk
+Miss	mejuffrouw (f); (f)
+Moldova	Moldavië
+Monaco	Monaco
+Monday	maandag (m)
+Mongolia	Mongolië
+Morocco	Marokko
+Moscow	Moskou (n)
+Moses	Mozes
+Mount Everest	Mount Everest (m)
+Mozambique	Mozambique
+Mrs	Mevr, Mw
+Muhammad	Mohammed
+Munich	Munchen
+Muslim	moslim (m)
+Myanmar	Myanmar
+NATO	NAVO
+Namibia	Namibië
+Naypyidaw	Naypyidaw
+Nepal	Nepal
+Neptune	Neptunus (n)
+Netherlands	Nederland
+New York City	New York
+New Zealand	Nieuw-Zeeland
+Nicaragua	Nicaragua
+Nicholas	Nicolaas
+Nigeria	Nigeria
+North America	Noord-Amerika (n)
+North Korea	Noord-Korea
+Northern Europe	Noord-Europa
+Northern Ireland	Noord-Ierland (n)
+Norway	Noorwegen
+November	november
+Occitan	Occitaans (n); Provençaals (n)
+Oceania	Oceanië (n)
+October	oktober
+Olympic Games	Olympische Spelen
+Oman	Oman
+Ottoman Empire	Ottomaanse Rijk; Osmaanse Rijk
+Pacific Ocean	Grote Oceaan (m); Stille Oceaan (m); Stille Zuidzee (f) 
+Pakistan	Pakistan
+Palestine	Palestina, Palestijnse Gebieden (plural)
+Papua New Guinea	Papoea-Nieuw-Guinea
+Paris	Parijs
+Paul	Paul; Pol
+Persian	Perzisch (n)
+Peru	Peru (n)
+Philippines	Filipijnen
+Pisces	Vissen
+Pleiades	Zevengesternte
+Pluto	Pluto
+Poland	Polen (n)
+Polish	Pools (n)
+Portugal	Portugal
+Portuguese	Portugees (n)
+Prague	Praag (n)
+Pythagoras	Pythagoras
+Red Sea	Rode Zee
+Roman	Romeins; Romeinse
+Romania	Roemenië
+Romanian	Roemeens (n)
+Rome	Rome (n)
+Russia	Rusland (n)
+Russian	Russisch; Russische
+Russian Federation	Russische Federatie
+Rwanda	Rwanda
+Saint Petersburg	Sint-Petersburg
+Sanskrit	Sanskriet
+Santa Claus	Kerstman (m) '(Christmas)', Sinterklaas (m) '(5-6 December)', Sint-Nicolaas (m) '(5-6 December)'
+Satan	Satan
+Saturday	zaterdag (m)
+Saturn	Saturnus (m)
+Saudi Arabia	Saudi-Arabië; Saoedi-Arabië
+Scotland	Schotland
+Senegal	Senegal
+Seoul	Seoul, Seoel (Flemish)
+September	september
+Serb	Serviër (m); Servische (f)
+Serbia	Servië (f)
+Serbia and Montenegro	Servië en Montenegro
+Serbian	Serviër (m); Servische (f)
+Shanghai	Sjanghai
+Shinto	Shintoïsme (n)
+Siberia	Siberië (n)
+Sicily	Sicilië (n)
+Singapore	Singapore
+Slovakia	Slowakije, Slovakije
+Slovene	Sloveens (n)
+Slovenia	Slovenië (n)
+Snow White	Sneeuwwitje
+Sochi	Sotsji
+Sofia	Sofia
+Solar System	zonnestelsel (n)
+Somalia	Somalië
+South Africa	Zuid-Afrika
+South America	Zuid-Amerika (n)
+South Korea	Zuid-Korea
+South Ossetia	Zuid-Ossetië
+South Sudan	Zuid-Soedan (n)
+Southeast Asia	Zuidoost-Azië
+Soviet Union	Sovjet-Unie
+Spain	Spanje
+Spanish	Spaans
+Sparta	Sparta
+Sri Lanka	Sri Lanka
+Stalin	Stalin (m)
+Sudan	Sudan; Soedan
+Suez Canal	Suezkanaal (n)
+Sun	Zon
+Sunday	zondag (m)
+Suriname	Suriname
+Sweden	Zweden
+Swedish	Zweeds (n)
+Switzerland	Zwitserland
+Syria	Syrië
+Taiwan	Taiwan
+Tajikistan	Tadzjikistan
+Tallinn	Tallinn
+Tanganyika	Tanganyikameer (n)
+Tanzania	Tanzania
+Tbilisi	Tbilisi
+Tehran	Teheran (n)
+Tel Aviv	Tel Aviv
+Telugu	Telugu (n)
+Ten Commandments	tien geboden (n'p)
+Thailand	Thailand
+The Hague	Den Haag; 's-Gravenhage
+Thursday	donderdag (m)
+Transnistria	Trans-Nistrië
+Transylvania	Transsylvanië (n); Zevenburgen (n)
+Tuesday	dinsdag (m)
+Tunisia	Tunesië
+Turkey	Turkije
+Turkish	Turks (n)
+Turkmenistan	Turkmenistan
+USA	VSA
+USSR	USSR
+Uganda	Uganda; Oeganda
+Ukraine	Oekraïne
+Ukrainian	Oekraïens (n)
+United Arab Emirates	Verenigde Arabische Emiraten
+United Kingdom	Verenigd Koninkrijk
+United States	Verenigde Staten
+United States of America	Verenigde Staten van Amerika (f); Verenigde Staten; VS
+Uranus	Uranus (n)
+Uzbekistan	Oezbekistan
+Valkyrie	walkure
+Vatican City	Vaticaanstad (f), het Vaticaan (n)
+Venezuela	Venezuela
+Venus	Venus
+Victory Day	Dag van de Overwinning
+Vienna	Wenen
+Vietnam	Vietnam
+Vishnu	Vishnoe
+Wales	Wales (n)
+Warsaw	Warschau
+Wednesday	woensdag (m)
+Western Europe	West-Europa (n)
+Western Sahara	Westelijke Sahara
+White House	Witte Huis
+White Sea	Witte Zee (f)
+Wikipedia	Wikipedia
+Wiktionary	WikiWoordenboek (n)
+Wiktionary:Usability/flag	vlag (f); vaandel (n)
+William	Willem; Wim
+Wroclaw	Wrocław
+Yangtze	Blauwe Rivier (f)
+Yaoundé	Yaoundé
+Yellow Sea	Gele Zee
+Yemen	Jemen
+Yerevan	Jerevan
+Yugoslavia	Joegoslavië
+Zagreb	Zagreb
+Zambia	Zambia
+Zoroastrianism	Zoroastrisme
+aardvark	aardvarken (n)
+abacus	telraam (n); abacus (m)
+abandon	achterlaten; in de steek laten
+abbot	abt
+abbreviation	afkorting (f)
+abdomen	onderbuik (m); abdomen (n)
+accordion	accordeon (n); harmonica (m)
+acorn	eikel (m)
+actinium	actinium (n)
+actor	acteur (m); actrice (f); toneelspeler (m); toneelspeelster (f)
+address	adres (n)
+adjective	bijvoeglijk, adjectivisch
+admiration	bewondering (f)
+adverb	bijwoord (n)
+advertisement	reclame (f) (m), advertentie (f)
+aeroplane	vliegtuig (n)
+after	na
+afternoon	namiddag (m)
+again	opnieuw; nogmaals; weer; alweer; wederom
+age	leeftijd (m); ouderdom (m)
+aggressive	agressief
+agriculture	landbouw (f)
+air	lucht (f)
+aircraft	vliegtuig (n)
+airplane	vliegtuig (n)
+airport	luchthaven
+al	Al Qaida
+alcohol	#Dutch'alcohol (m), alcoholische drank (m), sterke drank (m)
+algorithm	algoritme (n)
+alive	levend
+all	al; alle
+all rights reserved	alle rechten voorbehouden
+alligator	alligator (m)
+almond	amandel (f)
+almost	bijna, nagenoeg, vrijwel, zo goed als
+alphabet	alfabet
+already	al; reeds; alreeds
+also	ook, eveneens (formal), tevens (formal)
+aluminium	aluminium (n)
+always	altijd
+am	ben
+amber	barnsteen (m'n)
+ambulance	ziekenwagen (m); ambulance (m)
+americium	americium (n)
+ampersand	en-teken ('also' et-teken), ampersand
+an	een
+anal sex	anaalseks (n)
+anarchism	anarchisme
+anchor	anker (n)
+and	en
+anger	boosheid; woede
+angry	kwaad; boos
+animal	dier (n); beest (n)
+anime	anime
+ankle	enkel (m)
+answer	antwoord (n)
+ant	mier (f)
+anthrax	miltvuur
+antimony	antimonium (n); antimoon (n); stibium
+antonym	tegendeel (n); tegengestelde (n); antoniem (n)
+anus	anus (m)
+anvil	aambeeld (n); aanbeeld (n)
+apple	appel (m)
+apple tree	appelboom (m); appelaar (m)
+apricot	abrikoos (f)
+archaeology	archeologie (f); oudheidkunde (f)
+architect	architect (m); bouwmeester (m)
+architecture	architectuur (f)
+argent	zilver (n)
+argon	argon (n)
+arm	arm (m)
+armpit	oksel (m)
+army	leger (n) 
+arrow	pijl (m)
+arsenic	arseen (n); arsenicum (n)
+artichoke	artisjok (m)
+article	artikel (n)
+ash	as (f); asse (f)
+ask	vragen
+ass	kont (m); reet (m)
+astatine	astatium (n); astaat (n)
+asteroid	planetoïde; asteroïde
+astronomy	astronomie (f); sterrenkunde (f)
+astrophysics	astrofysica
+at	op; bij
+at sign	apenstaartje (n)
+atheism	atheïsme (n)
+atom	atoom (n)
+aubergine	aubergine#Dutch'aubergine (m), eierplant (m), eiervrucht (f)
+aunt	tante (f)
+autumn	herfst (m); najaar (n)
+avalanche	lawine (f)
+axe	bijl, hakbijl
+axis	as
+baby	#Dutch'baby (m'f), zuigeling (m'f), pasgeborene (m'f)
+babysitter	babyoppas; kinderoppas; oppas; wiegewacht
+back	rug (m)
+bad	slecht
+badger	das (m)
+bag	zak (m); tas (f)
+bagpipes	doedelzak (m)
+bakery	bakkerij (f)
+balcony	balkon (n)
+bald	kaal
+balloon	ballon (m)
+banana	banaan (f)
+bank	bank (f)
+barcode	streepjescode (f); barcode (f)
+barium	barium (n)
+bark	schors (f); bast (f)
+barley	gerst (m)
+barn owl	kerkuil (m)
+basalt	basalt
+baseball	honkbal
+basket	mand (m); korf (m)
+basketball	basketbal (n)
+bat	vleermuis (f)
+bathroom	badkamer (f)
+battery	batterij (f)
+battle	slag (m); veldslag (m); gevecht (n)
+bay	baai (f)
+be	zijn
+beach	strand (n)
+beak	snavel; bek
+bean	boon (f)
+bear	beer (m); berin (f)
+beard	baard (m)
+beautiful	mooi
+beauty	schoonheid (f)
+beaver	bever (m)
+because	omdat; aangezien; daar 
+become	worden
+bed	bed (n); sponde
+bedroom	slaapkamer (f)
+bee	bij (f); honingbij (f)
+beech	beuk
+beef	bief; biefstuk; rundvlees (n)
+beer	bier (n)
+beetle	kever (m)
+before	voor
+begin	beginnen; aanvangen
+behind	achter; achteraan
+bell	bel (m); klok (f)
+belly	buik
+belt	gordel (m), riem, broeksband, ceintuur (m)
+berkelium	berkelium (n)
+berry	bes (f)
+beryllium	beryllium (n)
+better	beter
+bicycle	fiets (m)
+big	groot; omvangrijk
+bill	snavel; bek
+billion	miljard (n)
+biochemistry	biochemie (f)
+biology	biologie
+bipolar disorder	bipolaire stoornis
+birch	berk (m)
+bird	vogel (m)
+birth	geboorte (f)
+birthday	verjaardag (m)
+biscuit	koekje; biscuit
+bishop	loper (m)
+bismuth	bismut (n)
+bitch	teef (f); wolvin 
+bite	bijten
+bitter	bitter
+black	zwart
+black grouse	korhoen (n)
+black hole	zwart gat (n)
+black woodpecker	zwarte specht (m)
+blackberry	braam (m) or (f), braambes (m) or (f)
+blackbird	merel (m)
+blanket	deken (n)
+bleed	bloeden
+bless you	gezondheid; proost 
+blind	blind
+blood	bloed (n)
+blue	blauw (n)
+boar	everzwijn (m)
+boat	boot (m); schip (n)
+body	lichaam (n)
+bohrium	bohrium (n)
+bomb	bom (f)
+bon appétit	smakelijk eten; eet smakelijk
+bon voyage	goede reis
+bone	been (n)
+book	boek (n)
+bookshop	boekwinkel (m); boekhandel (m)
+boot	laars (f); bot (f); hoge; schoen (m)
+boron	boor (n); borium (n)
+bottle	fles (f)
+bow	boog (m)
+box	doos (f)
+boy	jongen (m); knaap (m)
+bra	bustehouder (m); beha (m)
+brain	hersenen; hersens; brein (n)
+branch	tak
+brave	moedig
+bread	brood (n)
+break	breken
+breakfast	ontbijt (n)
+breast	borst (f)
+breathe	ademen; ademhalen
+brick	baksteen
+bride	bruid (f)
+bridge	brug
+bromine	broom (n)
+broom	bezem
+brother	broer (m), broeder (m) (formal)
+brown	bruin
+brush	borstel (m); (paint-) verfborstel; (hair-) haarborstel; (tooth-) tandenborstel
+bucket	emmer (m)
+buffalo	buffel (m), kafferbuffel (m) ('Syncerus caffer'), karbouw (m) ('Bubalus bubalis'), waterbuffel (m) ('Bubalus bubalis')
+building	bouwen (n); bouw (m)
+bull	stier (m)
+bullet	kogel (m)
+bumblebee	hommel (m)
+burn	branden; verbranden; verteren
+bus	bus (m); autobus (m)
+busy	bezig
+but	maar
+butcher	slager (m); beenhouwer (m)
+butter	boter (f)
+butterfly	vlinder (m)
+buy	kopen; aanschaffen
+buzzard	buizerd (m)
+cabbage	kool (m)
+cactus	cactus (m)
+cadmium	cadmium (n)
+caesium	cesium (n)
+café	café (n)
+cake	taart; cake (m); gebak (n)
+calcium	calcium (n)
+calendar	kalender (m)
+calf	kalf (n)
+californium	californium (n)
+camel	kameel (m)
+can	kunnen
+canal	kanaal (n); vaart (f); gracht (f) 
+canary	kanarie (m); kanarievogel (m)
+cancer	kanker
+candle	kaars (f)
+cannabis	hennep
+canyon	kloof
+capercaillie	auerhoen (n)
+capital	kapitaal (n)
+capital city	hoofdstad (m)
+capitalism	kapitalisme (n)
+car	auto (m); wagen (m); automobiel (m) 
+carbon	koolstof (n)
+carpenter	timmerman (m)
+carpet	tapijt (n); vloerkleed (n)
+carrot	wortel (m); peen (m)
+carry	dragen
+castle	kasteel (n); fort (n); burcht (f); slot (n)
+cat	kat
+caterpillar	rups (f)
+cauliflower	bloemkool
+cave	hol (n); grot (f)
+cedar	ceder (m)
+ceiling	plafond (n)
+cell	cel (f)
+cell phone	mobiele telefoon (m), mobieltje (n) (italbrac'Holland), gsm (m) (italbrac'Flanders)
+center	midden
+centimetre	centimeter
+centipede	duizendpoot (m)
+century	eeuw (f)
+cerium	cerium (n)
+chain	ketting (f), keten (f), aaneenrijging (f)
+chair	stoel (m); zetel (m)
+chamois	gems (f)
+change	verandering (f); aanpassing (f)
+chaos	chaos (m)
+chapter	hoofdstuk (n)
+chase	achtervolgen, achternazitten, achternajagen
+cheap	goedkoop; betaalbaar 
+cheek	wang (f)
+cheers	proost; gezondheid; santé; schol; prut; cheers
+cheese	kaas (m)
+cheetah	jachtluipaard (m)/(n), cheeta (m)
+chemistry	chemie (f); scheikunde (f)
+cheque	cheque (m)
+cherry	kers (f); kriek (f)
+chess	schaakspel (n) <!--"schaken" = “to play chess”-->, schaken <!--it's a verb, but it's still the standard name of the sport/game-->
+chest	romp (m); torso (m); thorax (m); borst (f)
+chestnut	kastanje (f); tamme kastanje (f)
+chew	kauwen
+chicken	kip (f); hen (f); hoen (n)
+child	kind (n)
+chimpanzee	chimpansee (m)
+chin	kin
+chlorine	chloor (m)
+chocolate	chocolade (m)
+choice	keuze (f), keuzemogelijkeheid (f)
+choir	koor (n)
+choose	kiezen; uitkiezen
+chord	akkoord (n)
+chromium	chroom (n)
+church	kerk (f)
+cigarette	sigaret (m); saffiaantje
+cinema	cinema (m); bioscoop (m)
+circle	cirkel (m); kring (m)
+city	stad (f)
+clarinet	klarinet
+clay	klei (m)
+clean	proper; schoon
+clitoris	clitoris (m); kittelaar (m)
+clock	klok (f'm)
+close	sluiten; dichtdoen
+clothes	kleren
+cloud	wolk (f)
+coast	kust, kustlijn, zeekant, zeekust
+cobalt	kobalt (n)
+cock	haan (m)
+cockroach	kakkerlak (f); sissende kakkerlak (f)
+coconut	kokosnoot (f)
+coffee	koffie (m)
+coffin	doodskist
+coin	munt (m); muntstuk (n); geldstuk (n)
+cold	verkoudheid (f)
+cold war	koude oorlog (m)
+color	kleur (f)
+columbine	akelei
+comb	kam (m)
+come	komen
+common gull	stormmeeuw (f)
+communism	communisme (n)
+compass	kompas (n)
+computer	computer (m)
+computer language	programmeertaal (f)
+comrade	kameraad (m)
+concrete	beton (n)
+condom	condoom (m), capotje (n), regenjasje (n) '(jocular)'
+conjunction	voegwoord (n)
+connective tissue	bindweefsel
+conscience	geweten (n)
+continent	werelddeel (n); continent (n)
+conversation	gesprek
+copper	koper (n)
+corn	maïs (m); Turkse tarwe (m)
+corpse	lijk (n)
+corridor	gang; hal
+cotton	katoen (m), katoenplant (m)
+cough	hoesten; kuchen
+count	tellen
+country	platteland, open veld
+courage	moed (m)
+cow	koe (f)
+crab	krab (m)
+crane	kraanvogel
+cream	room (m)
+cricket	krekel (m)
+crime	misdaad (f)
+crocodile	krokodil
+cross	kruis (n)
+crossword	kruiswoordraadsel (n); kruiswoordpuzzel (m)
+crow	kraai (m)
+cruel	wreed; wrede; gemeen; gemene
+cry	huilen; wenen; janken
+crystal	kristal (n)
+cube	kubus (m)
+cuckoo	koekoek (m)
+cucumber	komkommer (m)
+culture	cultuur (f)
+cunt	kut (f)
+cup	beker (m); kop
+curium	curium (n)
+current	stroming (f); stroom (m)
+curse	vloek (m)
+cycling	wielrennen
+dance	dansen
+dangerous	gevaarlijk, gevaarlijke
+dark	donker; duister
+dark matter	donkere materie (f)
+darkness	duisternis (f); donkerheid (f)
+data	gegeven
+date	afspraakje (n); afspraak (f)
+date palm	dadelpalm (m)
+daughter	schoondochter (f)
+day	dag (m)
+dead	dood; dode; overleden; gestorven
+deaf	doof; dove
+dear	kostbaar; duur; kostelijk; prijzig; waardevol
+death	dood (m); overlijden (n)
+decade	decade; decennium (n)
+deer	hert (n)
+delicious	heerlijk; lekker; smakelijk
+democracy	democratie (f)
+demon	(l'nl'demon), demoon
+dentist	tandarts
+desert	woestijn (f)
+devil	duivel (m)
+dew	dauw (m)
+dialect	dialect (n)
+diary	dagboek
+dick	lul (m); pik (m); piemel (m); leuter
+dictionary	woordenboek (n)
+die	dobbelsteen (m); teerling (m) 
+difficult	lastig; moeilijk
+dig	graven; delven
+dining room	eetkamer 'de'
+dinosaur	dinosaurus (m)
+dirty	vuil; smerig; vies
+discussion	bespreking (f); discussie (f)
+disease	ziekte (f)
+do	doen
+do you speak English	spreek je Engels; spreekt u Engels 
+doctor	doctor (m'f)
+documentation	documentatie
+dog	hond (m)
+doll	pop (f)
+dollar	dollar (m)
+dolphin	dolfijn (m)
+donation	schenking (f)
+donkey	ezel (m)
+door	deur (f)
+dormouse	relmuis (f), hazelmuis (f)
+doubt	twijfel (f)
+dove	duif (f)
+dozen	dozijn (n)
+dragon	draak (m) 
+dragonfly	libel (f)
+dream	dromen
+dress	jurk (m), gewaad (n) (formal), kleed (n) (Flemish)
+drink	drank (m); drankje (n); drankske (n) 
+dromedary	dromedaris (m)
+drop	druppel (m)
+drum	drum (m); trom (f)
+drunk	dronken; zat; bezopen; blauw; beschonken
+dry	droog; droge
+dubnium	dubnium (n)
+duck	eend (f)
+dust	stof (n)
+duty	plicht (f)
+dynamite	dynamiet (n)
+dysprosium	dysprosium (n)
+e	mail (m), e-mail (m), e-mailbericht (n)
+e.g.	bv.; bijv. 
+each	elke
+eagle	arend; adelaar
+eagle owl	ehoe (m)
+ear	oor (n)
+earth	aarde (f)
+earthquake	aardbeving (f); aardschok (m)
+earthworm	aardworm; regenworm
+east	oosten (n)
+easy	makkelijk; gemakkelijk
+eat	eten; vreten 
+echo	echo (m)
+eco	eco-
+ecology	ecologie (f)
+economics	economie (f)
+education	onderwijs (n)
+eel	paling (m); aal (m) 
+egg	ei (n)
+eight	acht
+eighteen	achttien (f)
+eighth	achtste ('abbreviations' 8ste, 8e)
+eighty	tachtig (f)
+einsteinium	einsteinium (n)
+ejaculation	ejaculatie
+elbow	elleboog (m)
+electricity	elektriciteit
+electromagnetism	elektromagnetisme
+electron	elektron (n)
+electronics	elektronica (m)
+elephant	olifant (m)
+eleven	elf
+elf	#Dutch'elf (1), alf
+embassy	ambassade (f)
+emperor	keizer (m)
+empty	leeg
+encyclopedia	encyclopedie (m)
+end	einde (n); uiteinde (n)
+enemy	vijand (m)
+energy	energie (f)
+enjoy your meal	smakelijk eten; eet smakelijk
+enter	binnengaan
+epithelium	epitheel
+equation	vergelijking
+erbium	erbium (n)
+erection	erectie
+ermine	hermelijn (m)
+erotic	erotisch
+etymology	etymologie (f)
+euro	euro
+europium	europium (n)
+euthanasia	euthanasie (f)
+evening	avond
+event horizon	waarnemingshorizon
+every	elk; ieder
+everybody	iedereen; allen
+everyone	iedereen, elkeen
+everything	alles
+evil	kwaadaardig; boosaardig; kwaad; slecht
+expensive	duur
+expression	uitdrukking (f); gelaatsuitdrukking (f)
+eye	oog (n); kijker
+eye for an eye, a tooth for a tooth	oog om oog, tand om tand
+eyebrow	wenkbrauw (m)
+eyelash	wimper (m)
+eyelid	ooglid (n)
+face	gezicht (n); aangezicht (n); gelaat (n)
+falcon	valk (m)
+fall	vallen
+fallow deer	damhert (n)
+family	familie (f)
+fan	waaier
+far	ver
+farm	boerderij (f)
+farmer	boer (m), boerin (f), landbouwer (m) (crops), veehouder (m) (livestock)
+fart	een wind laten, scheet laten
+fast	vasten (m)
+fat	vet; dik; gezet; corpulent; volslank
+father	schoonvader (m)
+fear	vrezen
+feather	veer (f); veder (f); pluim (f)
+federation	federatie (f)
+female	vrouwelijk
+feminism	feminisme (n)
+fermium	fermium (n)
+ferret	fret (m)
+ferry	veer (n); veerpont
+fever	verhoging (f); koorts (f)
+fifteen	vijftien (f)
+fifth	vijfde ('abbreviations' 5de, 5e)
+fifty	vijftig (f)
+fig	vijg (f)
+fight	strijden; vechten
+film	film (m)
+finger	vinger (m)
+fir	spar (m)
+fire	brand (m)
+first	eerst<!-- , eerste ('abbreviations:' 1ste, 1e)-->
+fish	vis (m)
+fist	vuist (f)
+five	vijf
+flag	vlag (f); vaandel (n)
+flame	vlam (f)
+flea	vlo (f)
+floor	etage; verdieping
+flour	meel; bloem
+flower	bloeien; openbloeien
+fluorine	fluor (n)
+flute	fluit
+fly	vliegen
+fog	mist (m); nevel (m)
+food	voedsel (n); eten (n)
+fool	dwaas (m)
+foot	mond-en-klauwzeer
+football	voetbal (n)
+for example	bijvoorbeeld
+forefinger	wijsvinger (m)
+forehead	voorhoofd (n)
+foreign	buitenlands, allochtoon ('modern usage')
+foreigner	buitenlander (m), buitenlandse (f), vreemdeling (m), vreemdelinge (f)
+forest	woud (n); bos (n)
+forget	vergeten
+fork	vork (f)
+fortress	vesting
+forty	veertig (f)
+fountain	fontein (f)
+four	vier
+fourteen	veertien (f)
+fourth	vierde ('abbreviations' 4de, 4e)
+fox	vos (m)
+francium	francium (n)
+free	vrij; los; loslopend
+freedom	vrijheid
+freedom of speech	vrijheid van meningsuiting (f)
+friend	vriend, vriendje (m), vriendin, vriendinnetje (f), maatje (m'f)
+friendship	vriendschap (f)
+frog	kikker (m); kikvors (m)
+from	van; uit
+fruit	fruit (n); vrucht (f)
+fuck	neuken; naaien
+full	vol
+fungus	zwam (m)
+future	toekomst (f)
+gadolinium	gadolinium (n)
+galaxy	sterrenstelsel (n)
+gall bladder	galblaas
+gallium	gallium (n)
+game	spel (n), spelleke (n) (Flemish)
+garbage	huisvuil (n)
+garden	tuin (m)
+garlic	knoflook (m)/(n)
+gas	gas (n)
+gasoline	benzine (f), naft (Belgium'slang)
+genitive	tweede naamval (m); genitief (m)
+genocide	genocide#Dutch'genocide, volkerenmoord
+geography	geografie (f); aardrijkskunde (f)
+geometry	geometrie
+germanium	germanium (n)
+geyser	geiser (m)
+ghost	geest (m); spook (n) 
+giant	reus (m)
+gift	#Dutch'gift, geschenk (n), presentje (n)
+ginger	gember (m)
+giraffe	giraf (f)
+girl	meisje (n); meid (f); meidje (n); griet (f); grietje (n)
+give	geven; overhandigen
+glacier	gletsjer (m)
+glass	glas (n)
+glove	handschoen (f)
+glue	lijm (m)
+go	gaan
+goat	geit (f); bok (m)
+god	god (m)
+gold	goud (n)
+golden eagle	steenarend (m)
+golf	golf
+gonorrhea	gonorroe
+good	goed; goede
+good afternoon	goedemiddag; goeiemiddag
+good day	goedendag; goeiedag
+good evening	goedenavond
+good luck	veel geluk; succes
+good morning	goedemorgen; goeiemorgen
+good night	goedenacht; goeienacht; trusten 
+goodbye	tot ziens; doei; dag; houdoe
+goose	gans (f)
+goshawk	havik (m)
+government	regering
+grammar	spraakkunst (f); grammatica (f)
+grandchild	kleinkind (n)
+granddaughter	kleindochter (f)
+grandfather	grootvader (m); opa (m); bompa (m) 
+grandmother	grootmoeder; oma
+grape	druif (f)
+grass	gras (n)
+grasshopper	sprinkhaan (m)
+graveyard	kerkhof (n); begraafplaats (f)
+great spotted woodpecker	grote bonte specht (m)
+great tit	koolmees (f)
+green	groen (n)
+green woodpecker	groene specht (m)
+grey	grijs; grijze
+grey heron	blauwe reiger (m)
+greylag goose	grauwe gans
+griffon vulture	vale gier (m)
+guest	gast (m)
+guilt	schuld
+guinea fowl	parelhoen (n), poelepetaat (n)
+guinea pig	guinees biggetje (n), cavia (m)
+guitar	gitaar (f)
+gull	meeuw (f)
+gunpowder	buskruit (n)
+gypsy	zigeuner (m); zigeunerin (f)
+hafnium	hafnium (n)
+hail	hagel (m)
+hair	haar (n)
+hajj	hadj (m)
+half	helft
+hammer	hamer (m)
+hammock	hangmat (f)
+hamster	hamster (m)
+hand	hand (f)
+hangover	kater (m)
+happen	gebeuren
+happiness	blijheid (f); blijdschap; geluk (n); vreugde (f)
+happy	gelukkig; blij
+happy birthday	gelukkige verjaardag (standard), gefeliciteerd met je verjaardag, gefeliciteerd, proficiat, fijne verjaardag
+hard drive	harde schijf (f)
+hare	haas (m)
+hassium	hassium (n)
+hat	hoed (m)
+hate	haten
+hatred	haat (m)
+have	hebben
+hawk	havik (m)
+hay	hooi (n)
+hazelnut	hazelnoot (f)
+he	hij; ie
+head	hoofd (n); kop (m)
+health	gezondheid (f); welzijn (n)
+hear	horen
+heart	hart (n)
+heaven	hemel (m); lucht (f); firmament (n); uitspansel (n)
+heavy	zwaar; zware
+hedgehog	egel (m)
+heel	hiel (m)
+helicopter	helikopter (m)
+helium	helium (n)
+hell	hel
+hello	hallo
+help	help; hulp
+hemp	hennep (m)
+hen	hen (f); kip (f); leghen (f); legkip (f)
+her	haar (f)
+here	hierheen
+hero	held (m); heldin (f)
+heron	reiger (m)
+hi	hallo; hoi
+hill	heuvel (m)
+hippopotamus	nijlpaard (n)
+his	zijn (m)
+history	geschiedenis (f)
+holmium	holmium (n)
+home	huis (m); heem (n)
+homosexuality	homoseksualiteit (f)
+honey	honing (m)
+hoof	hoef (m)
+hope	hopen
+horn	hoorn (m)
+horse	paard (n); (n)
+hospital	ziekenhuis (n); hospitaal (n); gasthuis (n)
+hot	heet
+hotel	hotel (n)
+hour	uur (n); stonde (f)
+house	huis (n); onderkomen (n)
+how	hoe
+how are you	hoe gaat het; alles goed 
+how many	hoeveel
+how much	hoeveel
+how much does it cost	hoe duur is het? hoeveel kost het?
+how old are you	hoe oud ben je? (informal), hoe oud bent u? (formal)
+hug	knuffel; knuffelen
+human	mens (m)
+human being	menselijk wezen (n)
+human rights	rechten van de mens
+humanism	humanisme (n)
+hundred	honderd (f)
+hungry	hongerig ('see usage notes on that page')
+hunt	jagen
+husband	man (m); echtgenoot (m)
+hydrate	hydraat (n)
+hydrogen	waterstof (n)
+hyena	hyena (m)
+ibex	steenbok (m); ibex (m)
+ice	ijs (n)
+ice cream	roomijs (n); ijs (n)
+iceberg	ijsberg (m)
+idiot	idioot (m)
+if	als; indien
+igneous rock	stollingsgesteente (n)
+ill	ziek
+illness	ziekte (f); aandoening (f)
+important	belangrijk
+in	in
+index	inhoud (m); index (m)
+indium	indium (n)
+information	informatie (f)
+injury	verwonding (f)
+ink	inkt (m)
+insect	insect (n)
+insulin	insuline (m)
+intelligence	intelligentie (f)
+interesting	interessant; belangwekkend
+internal combustion engine	verbrandingsmotor (m)
+international	internationaal
+interpreter	tolk (m); vertolker (m)
+iodine	jood (n); jodium (n)
+iridium	iridium (n)
+iron	strijken
+is	is
+island	eiland (n)
+it	het; hij 
+jackdaw	kauw (m)
+jay	gaai (m); Vlaamse gaai (m)
+jellyfish	kwal (f)
+jihad	jihad (m)
+joy	vreugde (f)
+juice	sap (n)
+kangaroo	kangoeroe (m)
+kestrel	torenvalk (m)
+ketchup	tomatenketchup
+key	sleutel (m)
+keyboard	toetsenbord (n); klavier (n)
+kidney	nier
+kill	doden; vermoorden
+kilometre	kilometer
+king	koning (m); heer (m)
+kingdom	koninkrijk (n)
+kiss	kussen; zoenen
+kitchen	keuken
+kite	vlieger
+knee	knie (f)
+knife	mes (n)
+knight	paard (n)
+know	kennen
+koala	koala (m); koalabeer (m); koalabeertje (n)
+krypton	krypton (n)
+ladybird	lieveheersbeestje (n)
+ladybug	lieveheersbeestje (n)
+lake	meer (n)
+lamb	lam (n); lammetje (n)
+land	land (n)
+language	taal (f); code (f)
+lanthanum	lanthaan (n); lanthanium (n)
+large	groot
+lark	leeuwerik (m)
+laser	laser
+last year	vorig jaar
+laugh	lachen
+lava	lava (f)
+law	wet (m)
+lawrencium	lawrencium (n)
+lawyer	jurist (m), raadsman (m); informally also advocaat (m), advocate (f)
+lazy	lui
+lead	lood (n)
+leaf	blad (n)
+learn	leren
+least weasel	wezel (m)
+leather	leer (n); leder (n) 
+leech	bloedzuiger (m)
+leek	prei (m); porrei (m)
+left	links; linkse
+leg	been (n)
+lemon	citroen (f)
+length	lengte (f)
+lesbian	lesbienne (f)
+lesser spotted woodpecker	kleine bonte specht (m)
+lesson	les
+letter	brief (m)
+lettuce	sla; salade
+library	bibliotheek (f); boekerij (f)
+lie	liegen
+life	leven (n)
+light	lichten; bijlichten
+light year	lichtjaar (n) 
+lighthouse	vuurtoren (m)
+lightning	bliksem (m)
+like	zoals; als; lijkend op; gelijk 
+lily	lelie (m)
+linguistics	linguïstiek (f); taalkunde (f); taalwetenschappen (f)
+lion	leeuw (m)
+lip	lip (f)
+listen	luisteren; naar; wachten; op; opletten
+literature	literatuur
+lithium	lithium (n)
+litre	liter
+little	klein
+little owl	steenuil (m)
+live	wonen
+liver	lever (m) 
+lizard	hagedis (m)
+lobster	zeekreeft (m); kreeft (m)
+long	ransuil (m)
+look	kijken
+look for	zoeken
+louse	luis (f)
+love	schat
+low	laag; lage
+lung	long (f)
+lute	luit (f)
+lutetium	lutetium (n)
+lynx	lynx (m)
+machine language	machinetaal (f)
+mackerel	makreel (m)
+mad	waanzinnig; gek; zot
+magma	magma (n)
+magnesium	magnesium (n)
+magpie	ekster (m)
+maize	maïs (m)
+mallard	wilde eend (f)
+mammal	zoogdier (n)
+man	mens
+manganese	mangaan (n); manganium (n)
+mango	mango (m)
+many	veel; vele
+map	kaart (f); landkaart (f)
+mare	merrie (f)
+marijuana	marihuana
+market	markt (m), marktplein (n)
+marmot	marmot
+marten	marter (m)
+masturbation	zelfbevrediging (f), masturbatie (f)
+match	lucifer (m); zwavelstokje (n) 
+maternal grandfather	grootvader; (m)
+mathematics	wiskunde (f)
+mattress	matras (m)
+maybe	misschien, wellicht, mogelijkerwijs, (slightly informal) mogelijk
+meal	maaltijd (m)
+meat	vlees (n)
+medicine	geneeskunde (f) 
+meet	ontmoeten; treffen
+meitnerium	meitnerium (n)
+melon	meloen
+memory	geheugen (n)
+mendelevium	mendelevium (n)
+mercury	kwik (n)
+metal	metaal (n)
+microscope	microscoop (m)
+midnight	middernacht (m)
+midwife	verloskundige (m'f), vroedvrouw (f)
+milk	melken
+milliard	miljard (n)
+million	miljoen (n)
+millipede	miljoenpoot (m)
+mind	verstand, geest, psyche, denkvermogen
+mine	mijn (f)
+mineralogy	mineralogie (f)
+mint	munt (m)
+minute	minuut
+mirror	spiegel
+moat	slotgracht (m); gracht (m)
+mobile phone	mobiele telefoon, GSM, mobieltje (colloquial'diminutive)
+mole	mol (m)
+molecule	molecuul (n)
+molybdenum	molybdeen (n)
+moment	ogenblik (n); moment (n); oogwenk (m); tijdstip (f)
+monarchy	monarchie (f)
+monastery	klooster (n)
+money	geld (n)
+monk	monnik
+monkey	aap (m); apin (f)
+month	maand (f)
+moon	maan (m'f) (1,2)
+morning	ochtend; morgen
+mosque	moskee (f)
+mosquito	mug (f)
+moss	mos
+moth	mot (f)
+mother	schoonmoeder (f)
+mother tongue	moedertaal (f)
+motorcycle	motorfiets (f)
+mouflon	moeflon (m)
+mountain	berg (m)
+mouse	muis (f); computermuis (f)
+moustache	snor (f)
+mouth	mond (m); bek (m)
+movie	film (m)
+much	veel
+mud	modder (m); slijk (n) 
+mule	muildier (n)
+murder	moord (f)
+muscle	spier
+museum	museum (n)
+mushroom	paddenstoel (m); zwam (m)
+music	muziek (f)
+musician	muzikant (m), muzikante (f), musicus (m'f)
+muskrat	muskusrat (f)
+mustard	mosterd (m)
+my	mijn
+my name is	ik heet...
+mysterious	geheimzinnig
+mystery	mysterie (n)
+mythology	mythologie (f)
+nail	spijker; nagel (m)
+naked	naakt, bloot, ongekleed
+name	naam (m); roep (m)
+narrow	nauw
+nature	natuur (f)
+navel	navel (m)
+nebula	nevelvlek (f)
+neck	nek; hals (m)
+necklace	halssnoer (n); halsketting (m)
+needle	naald (f)
+neighbour	buur; buurman (m), buurvrouw (f), buren (p)
+neodymium	neodymium (n)
+neon	neon (n)
+neptunium	neptunium (n)
+nest	nest (n)
+nettle	netel (m); brandnetel (m)
+neutrino	neutrino (m)
+never	nooit
+new	nieuw
+news	journaal (n) (on television), nieuws (n)
+newspaper	krant (f); nieuwsblad (n); dagblad (n)
+nickel	nikkel (n)
+niece	nicht (f); nichtje (n)
+night	nacht (m)
+nightingale	nachtegaal (m)
+nightmare	nachtmerrie (f)
+nine	negen
+nineteen	negentien (f)
+ninety	negentig (f)
+ninth	negende ('abbreviations' 9de, 9e)
+niobium	niobium (n)
+nipple	tepel (m) (1), speen (m) (2), nippel (m) (3, 4)
+nitrogen	stikstof (f)
+no	nee#Dutch'nee, neen (formal)
+no smoking	verboden te roken
+nobelium	nobelium (n)
+nobody	niemand
+non	niet-gouvernementele organisatie (f)
+nonkilling	niet-doding
+noon	middag (m)
+north	noorden (n)
+nose	neus (m)
+not	niet
+notebook	schrift (n); cahier (n)
+nothing	niets; niks
+noun	zelfstandig naamwoord (n); substantief (n)
+now	nu; nou
+nude	bloot; naakt
+number	aantal (n); hoeveelheid (f)
+nurse	verpleegster (f)
+nut	noot (f)
+oak tree	eik (m); eikenboom (m)
+oar	riem; roeiriem
+obedience	gehoorzaamheid (f)
+obesity	obesitas
+oboe	hobo (m)
+ocean	oceaan
+octopus	octopus, kraak (m'f)
+of	van ('the car of Peter' = 'de auto van Peter')
+of course	natuurlijk; tuurlijk 
+office	bureau (n); kantoor (n)
+often	vaak; dikwijls
+oil	olie (f); aardolie (f)
+old	oud
+olive	olijf (m)
+on	op
+once upon a time	er was eens
+one	één (f); een 
+onion	ui (m), ajuin (m)
+open	open
+operating system	besturingssysteem (n)
+opinion	mening (f), opinie (f), visie (f), zienswijze (f), gedachte (f)
+or	of
+orange	sinaasappelboom (m); appelsienenboom (m)
+organ	orgaan (n)
+organism	organisme (n)
+orgasm	orgasme (m); klaarkomen (n) 
+orphan	wees
+osmium	osmium (n)
+ostrich	struisvogel (m)
+other	ander
+otter	otter (m)
+our	ons; onze
+ovary	eierstok (m); ovarium (n)
+owl	uil (m)
+ox	os
+oxygen	zuurstof (f)
+page	pagina; bladzijde
+pain	pijn (m)
+paint	verf (f); tjet (m)
+painter	schilder (m); kunstschilder (m)
+palace	paleis (n)
+palladium	palladium (n)
+palm	palm (m); handpalm (m)
+pancreas	alvleesklier; buikspeekselklier; pancreas
+pants	broek (f)
+paper	papier (n)
+paradox	paradox (m)
+park	park (m)
+parliament	parlement (n)
+parrot	papegaai (m)
+part	deel (n)
+partridge	patrijs (f)
+passport	paspoort (m)
+password	wachtwoord (n)
+paternal aunt	tante (f)
+paternal grandfather	grootvader; (m)
+peace	rust (f)
+peach	perzik (m)
+peacock	pauw (m)
+peanut	pinda (m), aardnoot (f), apennoot (f), arachidenoot (f), grondnoot (f), olienoot (f)
+pear	peer (f)
+pen	pen (f)
+pencil	potlood (n)
+penguin	pinguïn (m)
+penicillin	penicilline
+peninsula	schiereiland (n)
+penis	penis; lid (n); mannelijk lid (n)
+people	volk (n)
+pepper	peper
+percent	procent (n); percent (n)
+peregrine falcon	slechtvalk (m)
+perestroika	perestrojka
+perhaps	misschien
+perineum	perineum (n)
+periodic table	periodiek systeem
+person	persoon (m)
+petrol	benzine (f)
+petroleum	petroleum (m)
+pharaoh	farao (m)
+pharmacy	apotheek (m)
+pheasant	fazant (m)
+philosopher	filosoof (m); filosofe (f); wijsgeer (m)
+phoenix	feniks (m)
+phone	telefoon (m)
+phosphorus	fosfor (n)
+photograph	foto (f)
+photography	fotografie (f)
+physics	natuurkunde (f); fysica (f)
+piano	piano (m)
+picture	afbeelding (f), prent (f), portret (n), illustratie (f), plaatje, figuur
+pie	taart (f); pastei (f)
+piece	stuk (n)
+pig	zwijn (n); varken (n)
+pigeon	duif (f); doffer (m); mannetjesduif (m); duivin (f); vrouwtjesduif (f); duifje (n)
+piglet	big#Dutch'big (n); biggetje (n)
+pillow	kussen (n)
+pimple	puist (f); pukkel
+pin	pin (f)
+pine	pijnboom; den
+pineapple	ananas (m)
+pink	roze, rooskleurig, rooskleurige
+pirate	piraat (m) 
+pizza	pizza (m)
+place	plaats (f)
+planet	planeet (f)
+plant	plant (m)
+plate	bord (n); dienblad (f)
+platinum	platina (n)
+platypus	vogelbekdier (n)
+play	spelen
+please	alstublieft (polite), alsjeblieft (casual), a.u.b.
+pleasure	genoegen (n); welbehagen (n); plezier (n)
+plough	ploeg (f)
+plum	pruim
+plutonium	plutonium (n)
+pocket	zak (m)
+poem	gedicht (n)
+poetry	poëzie, dichtkunst
+poison	gif (n); vergif (n); vergift (n)
+polar bear	ijsbeer (m)
+polecat	bunzing (m)
+police	politie (f)
+polite	beleefd
+politician	politicus (m); politica (f)
+politics	politiek (f)
+polonium	polonium (n)
+polygon	veelhoek (m); polygoon (m)
+pomegranate	granaatappel (m)
+poor	arm; berooid
+pope	paus (m)
+poplar	populier (m)
+pornography	pornografie (f)
+port	haven (f)
+post office	postkantoor (n); posterij (f)
+postage stamp	postzegel (m)
+postcard	briefkaart
+postcode	postcode
+postmodernism	postmodernisme
+potassium	kalium (n); potas (f)
+pound	pond (n)
+power	kracht (f)
+praseodymium	praseodymium (n)
+prayer	gebed (n)
+pregnancy	zwangerschap (f)
+pregnant	zwanger 
+preposition	voorzetsel (n)
+prepuce	voorhuid (f)
+president	president (m)
+pretty	mooi
+price	prijs (m)
+priest	priester (m); pastoor (m)
+prime minister	premier (m)
+prime number	priemgetal (n)
+prison	gevangenis (f)
+problem	probleem (n)
+promethium	promethium (n)
+pronoun	voornaamwoord (n)
+pronunciation	uitspraak (f)
+property	eigendom (n); bezitting; goed (n); bezit (n)
+prostitute	prostituee (f); hoer (f)
+protactinium	protactinium (n)
+protect	beschermen; beveiligen
+proton	proton (n)
+proverb	spreekwoord (n); gezegde (n)
+pumpkin	pompoen (f)
+purple	purper, paars
+pyramid	piramide (f)
+quail	kwartel (m), kwakkel (m)
+quarter	kwart
+queen	dame (f), koningin (f) (unofficial)
+question	vraag (f)
+quotation marks	aanhalingsteken (n) [„◌”]
+rabbit	konijn (n)
+radon	radon (n)
+rain	regenen
+rainbow	regenboog (m)
+rake	riek (m), gritsel (m), hark#Dutch'hark (m)
+ram	ram (m)
+rape	verkrachting (f)
+raspberry	framboos (m)
+rat	rat (f), bruine rat (f), rioolrat (f), zwarte rat (f)
+raven	raaf (m)
+read	voorlezen
+recent	recent
+rectangle	rechthoek (m)
+red	rood
+red deer	edelhert (n)
+refrigerator	koelkast (f); ijskast (f); frigo (m)
+reindeer	rendier (n)
+relative	familielid, bloedverwant
+religion	godsdienst (m), geloofsovertuiging (f), religie (f)
+remember	zich herinneren; herinneren; gedenken
+reptile	reptiel (n)
+republic	republiek (f)
+restaurant	restaurant (n)
+revenge	wraak (f)
+revolution	revolutie (f)
+rhenium	renium (n)
+rhinoceros	neushoorn (m)
+rhodium	rhodium (n)
+rice	rijst (m)
+rich	rijk
+rifle	geweer (n); karabijn (f)
+right	correct, juist
+ring	ring (m)
+ring finger	ringvinger (m)
+river	rivier (m); stroom (m)
+road	baan (f); weg (m); straat (f)
+robot	robot
+rock dove	rotsduif (f)
+roe deer	ree (m)
+roof	dak (n)
+rook	toren (m)
+room	ruimte (f); kamer (f); zaal (m); vertrek (n)
+rooster	haan (m)
+root	wortel (m)
+rope	touw (n)
+rose	roos (f)
+rubidium	rubidium (n)
+ruble	roebel (m)
+run	rennen; lopen
+ruthenium	ruthenium (n)
+rutherfordium	rutherfordium (n)
+rye	rogge (m)
+saliva	speeksel (n)
+salmon	zalm (m)
+salt	zout (n); keukenzout (n)
+samarium	samarium (n)
+same	dezelfde; hetzelfde
+sand	zand (n); zavel (m)
+sandwich	boterham (m); sandwich (m)
+sauce	saus
+sausage	worst (m)
+saw	zaag (f)
+say	zeggen; luiden; opzeggen
+scandium	scandium (n)
+scar	litteken (n)
+schizophrenia	schizofrenie
+school	school (f); universiteit (f)
+science	wetenschap (f)
+scissors	schaar (f)
+scorpion	schorpioen (m)
+screech owl	kerkuil
+scrotum	scrotum (n)
+sea	zee (f)
+seaborgium	seaborgium (n)
+seagull	meeuw
+seal	zeehond (m)
+season	seizoen (n); jaargetijde (f)
+second	tweede; (abbreviations) 2<sup>de</sup>, 2<sup>e</sup>
+secret	geheim
+see	zien; aanschouwen; ZIEN; bekijken; bezien
+seed	zaad (n)
+selenium	seleen (n); selenium (n)
+sell	verkopen
+semen	sperma
+send	zenden, verzenden, sturen, opsturen,
+sentence	zin (m)
+service	dienst (m); bediening (f)
+seven	zeven
+seventeen	zeventien (f)
+seventh	zevende ('abbreviations' 7de, 7e)
+seventy	zeventig (f)
+sex	geslacht (n); sekse (f)
+sexual orientation	seksuele geaardheid (f)
+shadow	schaduw (m)
+shark	haai (m)
+she	zij
+sheep	schaap (n); schapen
+shepherd	herder (m); schaapherder (m)
+ship	schip (n)
+shirt	hemd (n); overhemd (n); shirt
+shit	schijten
+shoe	schoen (m)
+shop	winkel (m)
+shore	kust; oever (m)
+shoulder	schouder (m)
+shrew	spitsmuis (f)
+sick	ziek; zieke
+sickle	sikkel (f)
+silence	stilte (f)
+silicon	silicium (n)
+silk	zijde (f)
+silver	zilver (n)
+simple	eenvoudig; simpel
+sin	zonde
+sing	zingen
+singer	zanger (m); zangeres (f)
+sister	zus (f); zuster (f)
+sit	zitten
+six	zes
+sixteen	zestien (f)
+sixth	zesde ('abbreviations' 6de, 6e)
+sixty	zestig (f)
+skeleton	skelet (n); geraamte (n)
+skin	huid (f); vel (n)
+skirt	rok (m)
+skull	schedel (m)
+sky	hemel (m); lucht
+skylark	veldleeuwerik (m)
+skyscraper	wolkenkrabber (m)
+slave	slaaf
+sleep	slaap (m)
+slow	traag; langzaam; sloom
+small	klein; nietig; minuscuul
+smell	geur (m); reuk (m); stank (m) 
+smile	glimlachen; smuilen
+smoke	roken
+snail	slak (f); huisjesslak (f)
+snake	slang (f); serpent (n)
+sneeze	niezen
+snooker	potspel
+snow	sneeuw (m)
+snowflake	sneeuwvlok (f)
+soap	zeep
+soccer	voetbal (n)
+socialism	socialisme (n)
+sock	sok (f)
+sodium	natrium (n)
+sofa	bank (f) (m) in Holland, zetel (m), sofa (m)
+software	software (m); programmatuur (m)
+solar wind	zonnewind (m)
+soldier	soldaat (m)
+someone	iemand
+something	iets
+sometimes	soms
+son	zoon (m)
+song	lied (n); liedje (n); nummer
+soon	zo; spoedig; binnenkort
+soul	ziel (f)
+soup	soep (f)
+sour	zuur
+south	zuiden (n)
+spacecraft	ruimtetuig (n); ruimtevaartuig
+spaceship	ruimteschip (n)
+spacetime	ruimte-tijd; ruimtetijd; tijd-ruimte; tijdruimte
+spade	schep (f)
+sparrow	mus (f); huismus (f)
+sparrow hawk	sperwer (m)
+speak	spreken
+spectacles	bril (m)
+sphere	bol (m)
+spice	kruid (n); specerij (f)
+spider	spin (m)
+spirit	geest (m)
+spit	spuwen; spugen
+spleen	milt (m)
+spoon	lepel (m)
+sport	sport (m)
+spring	bron (f); wel (f)
+spruce	spar (m)
+spy	spion (m), spionne (f)
+square	plein (n); markt (f); plaats (f); square (m)
+squid	inktvis (m)
+squirrel	eekhoorn (m)
+stand	staan
+star	ster (f); vedette (m) 
+starling	spreeuw (m)
+station	station
+statue	standbeeld
+steel	staal (n)
+stomach	maag (f)
+stone	steen (m); steentje (n)
+stork	ooievaar (m)
+story	verhaal
+strange	vreemd; vreemde; raar; rare
+strawberry	aardbei (f)
+street	straat
+strength	kracht (f); sterkte (f)
+string	draad (m)
+strong	sterk; krachtig
+strontium	strontium (n)
+student	student (m); studente (f)
+submarine	onderzeeër (m)
+suck	zuigen
+suddenly	plotseling; plots
+sugar	suiker (m)
+suicide	zelfmoord (m); zelfdoding (f)
+sulfur	zwavel (m)
+summer	zomer (m)
+sun	zon (f)
+sunflower	zonnebloem (f)
+surname	achternaam (m); familienaam (m)
+swallow	slikken; doorslikken
+swan	zwaan (f)
+sweet	zoet
+sweet potato	zoete aardappel; bataat
+sweetener	zoetstof
+swim	zwemmen
+swimming pool	zwembad (n); zwemdok (n) 
+sword	zwaard (n)
+system	systeem (n); stelsel (n)
+table	tabel (m)
+tadpole	dikkopje (m) '(dim)', dikkop (m), kikkervisje '(dim)'
+taiga	taiga
+tail	staart (m)
+take	pakken
+talent	talent
+talk	praten; spreken; overleggen
+tank	tank (m)
+tantalum	tantaal (n); tantalium (n)
+tattoo	tatoeage (f)
+tawny owl	bosuil (m)
+taxi	taxi
+tea	thee (m)
+teach	aanleren; leren; onderwijzen; lesgeven
+teacher	leraar (m); lerares (f); onderwijzer (m); onderwijzeres (f); docent (m); docente (f); leerkracht (m)
+tear	traan 'de'
+technetium	technetium (n)
+telephone	telefoneren
+telescope	telescoop (m); kijker (m)
+television	televisie (m)
+tellurium	telluur (n); tellurium (n)
+temple	tempel (m)
+ten	tien
+tent	tent (m)
+tenth	tiende ('abbreviations' 10de, 10e)
+terbium	terbium (n)
+territory	grondgebied (n); territorium (n)
+terrorism	terrorisme
+terrorist	terrorist (m)
+testicle	teelbal (m), testikel (n)
+thallium	thallium (n)
+than	dan
+thank you	dank u, dank je, dankjewel, bedankt
+thank you very much	dank u wel; dank je wel; vriendelijk bedankt
+thanks	bedankt; dank je; dank u
+that	dat (n), die (m)/(f)/(p)
+the	de (m); het (n)
+their	hun
+there	daar; ginder; ginds
+there is	er is, (plural) er zijn
+they	zij; ze
+thief	dief (m); dievegge (f)
+thigh	dij (f)
+thimble	vingerhoed
+thing	ding (n)
+think	denken
+third	derde ('abbreviations' 3de, 3e)
+thirst	dorst
+thirsty	dorstig
+thirteen	dertien (f)
+thirty	dertig (f)
+this	deze (m); dit (n)
+thorium	thorium (n)
+thorn	doorn
+thou	gij 
+thought	gedachte (f); idee (n)
+thousand	duizend (f)
+thread	draad (m); garen (n)
+three	drie
+throat	keel
+thulium	thulium (n)
+thumb	duim (m)
+thunder	donder (m)
+tiger	tijger (m)
+time	keer (m)
+tin	tin (n)
+tired	moe; vermoeid
+titanium	titanium (n); titaan (n)
+to	naar
+tobacco	tabak (m)
+today	tegenwoordig; vandaag de dag; heden ten dage; vandaag
+toe	teen (m)
+together	samen; tezamen
+toilet	badkamer
+tomato	tomaat (f)
+tomorrow	morgen (m)
+tongue	tong (f)
+too	te
+tooth	tand (m)
+toothbrush	tandenborstel (m)
+tortoise	schildpad (f)
+touch	aanraken; beroeren; raken
+tourism	toerisme (n)
+tower	toren (m)
+town	gemeente (f); stad (f); nederzetting (f)
+toy	speelgoed (n)
+tradition	traditie (f)
+train	trein (m)
+tram	tram (m)
+translate	vertalen, overzetten (archaic)
+translation	vertaling (f)
+translator	vertaler (m); vertaalster (f)
+travel	reizen
+tree	boom (m)
+triangle	driehoek
+tribe	stam (m)
+trousers	broek (f)
+truck	vrachtauto (m); vrachtwagen (m)
+true	echt; waar
+trumpet	trompet (f)
+tsar	tsaar
+tsunami	tsunami (m); vloedgolf (m)
+tungsten	wolfraam (n)
+turkey	kalkoen (m)
+turtle	schildpad (f)
+turtle dove	tortelduif (f)
+twelve	twaalf
+twenty	drieëntwintig
+twin	tweeling (m)
+two	twee
+two hundred	tweehonderd
+typhoon	tyfoon (m); taifoen (m)
+umbrella	paraplu; regenscherm
+uncle	oom (m); nonkel (m)
+understand	begrijpen, snappen (italbrac'“verstaan” usually means “to hear clearly”. You “verstaan” an utterance)
+unemployment	werkloosheid (f)
+universe	heelal (n); universum (n)
+university	universiteit (f); universitair
+uranium	uranium (n); uraan (n)
+urethra	urinebuis
+urine	urine
+use	gebruiken
+useful	nuttig; bruikbaar; dienstig
+vagina	vagina (f); schede (f) 
+valley	vallei; dal (n)
+vampire	vampier
+vanadium	vanadium (n)
+vegetable	groente (f); gewas (n)
+verb	werkwoord (n)
+very	zeer; heel; erg
+victory	overwinning (f); zege (f)
+village	dorp (n)
+vinegar	azijn (m)
+violet	violet
+violin	viool
+virus	virus (n)
+visa	visum (n)
+vodka	wodka (m)
+volcano	vulkaan (m); vuurberg (m)
+volleyball	volleybal (n)
+volt	volt
+vulture	gier (m)
+wait	wachten; afwachten
+waiter	ober (m); kelner (m)
+wake up	wakker worden; ontwaken
+walk	lopen; wandelen
+wall	muur
+walrus	walrus (m)
+want	willen
+war	oorlog (m); krijg
+warm	warm
+wart	wrat (f)
+wash	wassen
+wasp	wesp (f)
+watch	horloge (n)
+water	water (n)
+waterfall	waterval (f)
+watermelon	watermeloen (f)
+wave	golf (m)
+wax	was (m)
+way	weg
+we	wij; we
+weapon	wapen (n)
+weather	weer (n)
+web site	website (f)
+wedding	bruiloft
+week	week (f)
+weekend	weekend (n); weekeinde (n)
+welcome	welkom!
+well	bron (m); put (m)
+werewolf	weerwolf (m)
+west	westen (n)
+wet	nat; vochtig
+whale	walvis (m)
+what	wat
+what is your name	hoe heet u 
+what time is it	Hoe laat is het 
+wheat	tarwe (m)
+wheel	wiel (n)
+when	wanneer
+where	waar; waarvan, waarvandaan
+whip	zweep
+whiskey	whisky (m)
+white	wit (n)
+who	wie
+whole	heel
+whore	hoer (f)
+why	waarom
+wide	wijd; breed
+widow	weduwe (f)
+wife	vrouw (f); echtgenote (f)
+wild boar	everzwijn (n); wild zwijn (n)
+wildcat	wilde kat (f), wilde staking
+willow	wilg (m)
+wind	wind (m)
+window	raam (n); venster (n); ruit (f)
+wine	wijn
+wing	vleugel
+winter	winter (m)
+wise	wijs
+wisent	wisent (m)
+wish	wensen; willen
+witch	heks (f); kol (f)
+with	met; bij
+without	zonder
+wolf	wolf (m)
+woman	vrouw (f)
+wood	hout (n)
+woodpecker	specht (m); groene specht (m)
+wool	wol (m)
+word	woord (n)
+work	werken
+workers of the world, unite	proletariërs aller landen, verenigt U!
+world	aarde (f); wereld (m)
+worm	worm (m); pier (m); wurm (m)
+wrist	pols (m)
+write	schrijven
+writer	schrijver (m); schrijfster (f); auteur (m)
+xenon	xenon (n)
+xenophobia	xenofobie
+yawn	geeuwen; gapen
+year	jaar (n)
+yeast	gist (m)
+yellow	geel
+yes	ja
+yesterday	gisteren
+yoghurt	yoghurt (m)
+yolk	dooier (m); eidooier (m); eigeel (n)
+you	jullie; gijlie; gijle; gulder; gijlieden; u; jullie
+young	jong; jeugdig
+your	jullie (informal), uw (formal)
+ytterbium	ytterbium (n)
+yttrium	yttrium (n)
+zebra	zebra (m)
+zero	nul
+zinc	zink (n)

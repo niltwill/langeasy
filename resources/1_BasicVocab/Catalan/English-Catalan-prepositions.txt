@@ -1,0 +1,14 @@
+﻿English	Catalan
+against	contra
+at	a
+at	a
+during	durant
+for	per, per a
+into	a, dins de
+on	sobre
+on	sobre
+since	de, des de
+to	a, cap a
+with	amb
+with	amb
+without	sense

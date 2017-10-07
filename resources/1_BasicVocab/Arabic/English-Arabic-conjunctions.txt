@@ -1,0 +1,9 @@
+﻿English Arabic
+and	و
+because	لأن
+for	لأجل
+if	إذا
+or	أو
+than	من
+until	حتى
+whenever	كلما

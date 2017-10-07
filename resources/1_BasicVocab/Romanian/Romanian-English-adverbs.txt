@@ -1,0 +1,60 @@
+Romanian	﻿English
+deasupra	above
+din nou	again
+aproape	almost
+de-a lungul	along
+deja	already
+mereu	always
+aproximativ	approximately
+ca	as
+înainte	before
+în spatele	behind
+între	between
+pe	by
+direct	directly
+jos	down
+destul	enough
+chiar	even
+exact	exactly
+în final	finally
+mai întâi	first
+în general	generally
+aici	here
+aici	here
+totuşi	however
+imediat	immediately
+în	in
+în	inside
+în loc	instead
+târziu	late
+cel mai puţin	least
+puţin	little
+numai	merely
+mai mult	more
+nu	not
+evident	obviously
+adesea	often
+afară	outside
+mai ales	particularly
+poate	possibly
+probabil	probably
+repede	quickly
+într-adevăr	really
+cu adevărat	really
+în ultimul timp	recently
+încet	slowly
+asa	so
+câteodată	sometimes
+devreme	soon
+încă	still
+la fel	such
+brusc	suddenly
+sigur	surely
+atunci	then
+deci	therefore
+azi	today
+împreună	together
+de asemenea	too
+de obicei	usually
+foarte	very
+bine	well

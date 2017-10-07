@@ -1,0 +1,208 @@
+Bulgarian	﻿English
+съм	be
+чупя	break
+купувам	buy
+затварям	close
+пристигам	come
+срязвам	cut
+танцувам	dance
+упражнявам	do
+рисувам	draw
+пия	drink
+ям	eat
+изпадам	fall
+намирам	find
+изстрелвам	fire
+пилотирам	fly
+вървя след	follow
+забравям	forget
+давам	give
+чувам	hear
+помагам	help
+надявам се	hope
+подскачам	jump
+целувам	kiss
+смея се	laugh
+уча	learn
+лежа	lie
+лъжа	lie
+харесвам	like
+слушам	listen
+гледам	look
+загубвам	lose
+обичам	love
+срещам	meet
+премествам	move
+нуждая се от	need
+предлагам	offer
+отварям	open
+плащам	pay
+играя си	play
+дърпам	pull
+бутам	push
+поставям	put
+чета	read
+спомням си	remember
+бягам	run
+казвам	say
+продавам	sell
+пея	sing
+седя	sit
+усмихвам се	smile
+плувам (pluvam)	swim
+вземам	take
+говоря	talk
+разбирам	understand
+използвам	use
+чакам	wait
+пиша	write
+приемам	accept
+обвинявам	accuse
+постигам	achieve
+действам	act
+признавам	admit
+съгласен съм	agree
+допускам	allow
+обявявам	announce
+споря	argue
+пристигам	arrive
+питам	ask
+нападам	attack
+отбягвам	avoid
+живея	be
+нося	bear
+побеждавам	beat
+ставам	become
+предизвиквам	bring
+градя	build
+обаждам се	call
+пренасям	carry
+променям	change
+избирам	choose
+класифицирам	classify
+сравнявам	compare
+простирам се	continue
+готвя	cook
+копирам	copy
+кашлям	cough
+плача	cry
+решавам	decide
+описвам	describe
+проектирам	design
+желая	desire
+проявявам	develop
+умирам	die
+откривам	discover
+разисквам	discuss
+деля	divide
+съмнявам се	doubt
+карам	drive
+обхващам	embrace
+насърчавам	encourage
+повишавам	enhance
+влизам	enter
+учредявам	establish
+преценявам	estimate
+надвишавам	exceed
+съществувам	exist
+очаквам	expect
+обяснявам	explain
+бия се	fight
+пълня догоре	fill
+откривам	find
+прощавам на някой	forgive
+освобождавам	free
+израствам	grow
+мразя	hate
+прикривам	hide
+държа	hold
+идентифицирам	identify
+включвам	include
+наранявам	injure
+запознавам	introduce
+свързвам	join
+държа	keep
+ритам	kick
+убивам	kill
+приземявам се	land
+оставам	last
+съпровождам	lead
+оставям	leave
+позволявам	let
+вдигам	lift
+ограничавам	limit
+зареждам	load
+изглеждам	look
+губя	lose
+ръководя	manage
+възнамерявам	mean
+измервам	measure
+говоря за	mention
+наричам	name
+собствен	own
+on предавам	pass
+беля	peel
+отравям	poison
+полирам	polish
+приготвям	prepare
+натискам	press
+предотвратявам	prevent
+печатам	print
+обработвам	process
+протестирам	protest
+доказвам	prove
+издавам	publish
+отглеждам	raise
+изчислявам	rate
+достигам	reach
+получавам	receive
+правя запис	record
+съкращавам	reduce
+отразявам	reflect
+отказвам	refuse
+махам	remove
+връщам	render
+отговарям	reply
+съобщавам	report
+представям	represent
+моля	request
+почитам	respect
+разкривам	reveal
+рискувам	risk
+управлявам	rule
+пестя	save
+спасявам от унищожение	save
+имам зрение	see
+считам	see
+пращам	send
+шия	sew
+викам	shout
+показвам	show
+прекарвам	spend
+стоя прав	stand
+оставам	stay
+крада	steal
+спирам (spiram)	stop
+уча	study
+предлагам	suggest
+снабдявам	supply
+подкрепям	support
+сварвам неподготвен	surprise
+обучавам	teach
+изпробвам	test
+благодаря	thank
+хвърлям	throw
+озаглавявам	title
+търгувам	trade
+тренирам	train
+вървя	travel
+отнасям се	treat
+опивам се	try
+завивам	turn
+посещавам	visit
+вървя	walk
+пера	wash
+съзерцавам	watch
+нося	wear
+тежа	weigh
+печеля	win

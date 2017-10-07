@@ -1,0 +1,227 @@
+English	Asturian
+Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln	Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln
+Aegean Sea	mar Exéu ; mar Exea
+Algeria ; People's Democratic Republic of Algeria	Arxelia
+Angola ; Republic of Angola	Angola
+Arabic ; Standard Arabic	árabe
+Aragonese ; Aragonese	aragonés
+Argentina ; Argentine Republic	Arxentina
+Aries	Aries
+Armenia	Armenia
+Assamese ; Assamese	asamés
+Astur-Leonese ; Asturian ; Asturian-Leonese ; Astur	asturianu
+August	agostu
+Austria ; Republic of Austria	Austria
+Azerbaijan ; Republic of Azerbaijan	Azerbaiyán
+Bahrain	Bahrein
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Basque ; Basque	vascu ; eusquera
+Belize	Belice
+Bengali ; Bengali	bengalí
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosnia-Herzegovina
+Bosnian ; Bosnian	bosniu
+Botswana ; Republic of Botswana	Botsuana
+Breton ; Breton	bretón
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Burundi ; Republic of Burundi	Burundi
+Cameroon ; Republic of Cameroon	Camerún
+Canada	Canadá
+Cancer	Cáncer
+Caribbean Sea	Mar Caribe ; Mar de les Antilles
+Castilian ; Spanish ; Spanish	castellanu
+Catalan ; Catalan	catalán
+Chad ; Republic of Chad	Chad
+Chile ; Republic of Chile	Chile
+Corfu	Corfú
+Croatia ; Republic of Croatia	Croacia
+Cuba ; Republic of Cuba	Cuba
+Cyprus ; Republic of Cyprus	Chipre
+Czech Republic ; Czechia	República Checa
+Definition ; definition	definición
+Delaware	Delaware
+Democratic Republic of the Congo ; Congo-Kinshasa	República Democrática del Congo
+EU ; European Union	Xunión Europea
+East Timor ; Democratic Republic of Timor-Leste	Timor Oriental
+Egypt ; Arab Republic of Egypt	Exipto
+English	inglés
+Esperanto ; Esperanto	esperanto
+Estonia ; Republic of Estonia	Estonia
+Ethiopia ; Federal Democratic Republic of Ethiopia	Etiopía
+Faroe Islands	Islles Feroe
+Finland ; Republic of Finland	Finlandia
+France	Francia
+French ; French	francés
+French Revolution	Revolución Francesa
+Friday	vienres
+Gabon ; Gabonese Republic	Gabón
+Galician ; Galician	gallegu
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambia
+Gemini	Xéminis
+Georgia	Xorxa
+Gibraltar	Xibraltar
+Greece ; Hellenic Republic	Grecia
+Happy New Year	bon añu nuevu
+Holland ; Kingdom of the Netherlands ; The Netherlands	Holanda
+Hungary ; Republic of Hungary	Hungría
+Iceland ; Republic of Iceland	Islandia
+Iliad	Ilíada
+India ; Republic of India	India
+Indonesia ; Republic of Indonesia	Indonesia
+Iran ; Islamic Republic of Iran	Irán
+Israel ; State of Israel	Israel
+Italian ; Italian	italianu
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Costa de Marfil
+Jamaica	Xamaica
+January	xineru
+Japan ; State of Japan	Xapón
+Jersey ; Bailiwick of Jersey	Jersey
+Jordan ; Hashemite Kingdom of Jordan	Xordania
+July	xunetu
+June	xunu
+Kazakhstan ; Republic of Kazakhstan	Kazakhistán
+Latvia ; Republic of Latvia	Letonia
+Leo	Lleo
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Libra	Llibra
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libia
+Lithuania ; Republic of Lithuania	Lituania
+Lower Saxony	Baxa Saxonia
+Macedonia ; Republic of Macedonia	Macedonia
+Malawi ; Republic of Malaŵi	Malaui
+Malaysia	Malasia
+Malta ; Republic of Malta	Malta
+Maltese	maltés
+Mauritania ; Islamic Republic of Mauritania	Mauritania
+Merry Christmas and a happy New Year	Bon Nadal y feliz añu nuevu
+Monaco	Mónaco
+Monday	llunes
+Montenegro	Montenegru
+Morocco ; Kingdom of Morocco	Marruecos
+Mumbai ; Bombay	Mumbai
+Myanmar	Myanmar
+Namibia	Namibia
+Norway ; Kingdom of Norway	Noruega
+Pakistan ; Islamic Republic of Pakistan	Paquistán
+Piedmontese ; Piedmontese ; Piemontese ; Piemontese	piamontés
+Poland	Polonia
+Portugal	Portugal
+Portuguese ; Portuguese	portugués
+Qatar	Qatar
+Sanskrit ; Sanskrit	sánscritu
+Saturn	Saturnu
+Saudi Arabia ; Kingdom of Saudi Arabia	Arabia Saudina
+Scorpio	Escuripión
+Senegal	Senegal
+Serbia	Serbia
+Serbia and Montenegro	Serbia y Montenegru
+Sicilian ; Sicilian	sicilianu
+Slovakia	Eslovaquia
+Sri Lanka	Sri Lanka
+Sudan	Sudán
+Sunday	domingu
+Sweden	Suecia
+Switzerland	Suiza
+Tagalog	tagalu
+Thursday	xueves
+Togo	Togo
+Tswana	tsuana
+Tuesday	martes
+Turkey	Turquía
+Uganda ; Republic of Uganda	Uganda
+Vatican City ; The Holy See ; State of the Vatican City	Vaticano
+Wednesday ; quarta-feira	miércoles
+Zambia ; Republic of Zambia	Zambia
+adjective ; describing word	axetivu
+aluminium	aluminiu
+anarchism	anarquismu
+anime	anime
+aquarium	acuariu
+argon	argón
+astronomy	astronomía
+bagpipes	gaita
+barley	cebada
+barometer	barómetru
+bee	abeya
+beryllium ; glucinium	beriliu
+bicycle ; bike ; cycle	bicicleta
+biochemistry	bioquímica
+bird	páxaru
+boron	boru
+broader term ; broader terms ; hypernym ; holonym	hiperónimu
+bumblebee	babarón
+butterfly	pumarina
+calcium	calciu
+champagne	xampán
+chromium	cromu
+clothing ; apparel	ropa
+deaf	sordu
+dolphin	golfín
+fluorine	flúor
+handkerchief	moqueru
+helium	heliu
+horse	caballu
+hunger ; hunger ; hunger	fame
+hydrogen	hidróxenu
+hyponym ; narrower terms ; narrower term	hipónimu
+iron	fierro
+jackal	chacal
+judo	judo
+law	llei
+linguistics	llingüística
+lithium	litiu
+magnesium	magnesiu
+mass	masa
+mill	molín
+monopoly	monopoliu
+moon ; Luna ; Moon	lluna
+morphine	morfina
+musician	músicu
+nadir	nadir
+nappy	pañal
+neon	neón
+nitrogen	nitróxenu
+official language	idioma oficial
+ontology	ontoloxía
+oxygen	oxíxenu
+part of speech ; lexical category	categoría gramatical
+peninsula	península
+philosophy	filosofía
+phone ; telephone	teléfonu
+phonetics	fonética
+phosphorus	fósforu
+physiology	fisioloxía
+pigeon ; dove	palomba
+polonium	poloniu
+potassium	potasiu
+pragmatics	pragmática
+rice	arroz
+scandium	escandiu
+semantics	semántica
+siemens	siemens
+silicon	siliciu
+silver	plata
+sociolinguistics ; sociology of language	sociollingüística
+sock	calcetu
+sodium	sodiu
+spring	primavera
+strange ; odd	estrañu
+sulphur	azufre
+surgery	ciruxía
+theocracy	teocracia
+timezone	fusu horariu
+tin	estañu
+topography	topografía
+tundra	tundra
+turkey	pavu
+ununbium	ununbiu
+ununhexium	ununhexiu
+ununoctium	ununoctiu
+ununpentium	ununpentiu
+ununquadium	ununquadiu
+ununseptium	ununseptiu
+ununtrium	ununtriu
+vanadium	vanadiu
+water	agua
+zinc	cinc
+Åland Islands	Åland

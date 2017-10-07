@@ -1,0 +1,42 @@
+﻿English	Hebrew
+begin	לאתחל
+buy	לקנות (liknot)
+close	סגור
+come	לבוא (le-vó)
+drink	שתה (shatah)
+find	לימצו (limtzo)
+give	נתן (nātān)
+kiss	לנשק (Lenashek)
+laugh	צחק
+learn	(ללמוד, leel-mod)
+lie	לשכב (Lish'kav)
+lie	לשקר (Le'sha'ker)
+listen	להאזין
+love	לאהוב
+read	לקרוא (le-kára’a)
+run	לרוץ (leráts)
+sit	לשבת
+talk	לדבר (le-dabér)
+use	החל
+wait	לחכות (lehakot), להמתין (lehamtin)
+write	לכתוב (lihtov)
+ask	לשאול
+build	לבנות'לבנות /livnot/
+call	התקשר
+choose	בחר
+classify	למיין
+compare	השווה
+copy	להעתיק
+divide	פצל
+happen	הלך'הָלַךְ
+hate	שנאה
+publish	פרסום
+reply	עונה (m) - Oné), (f) - Ona)
+save	שמר
+see	לראות (li-rót)
+send	שלח
+steal	גנב (ganav)
+stop	עצר
+suggest	להציע (li-hitsi‘a)
+travel	הלך'הָלַךְ (halákh)
+wash	לרחוץ (lirhotz) (1), לשטוף (lishtof) (1,2)

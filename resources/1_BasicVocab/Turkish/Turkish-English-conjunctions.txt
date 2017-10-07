@@ -1,0 +1,5 @@
+Turkish	﻿English
+ve	and
+çünkü	because
+çünkü	for
+eğer	if

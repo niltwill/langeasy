@@ -1,0 +1,19 @@
+﻿English	Bosnian
+against	protiv
+among	među
+at	na
+at	na
+beside	pored, osim
+during	tokom, za vrijeme
+for	za
+from	od, iz
+from	od, iz
+into	u
+of	od
+on	na
+on	na
+since	otkad
+to	za
+with	sa
+with	sa
+without	bez

@@ -1,0 +1,72 @@
+﻿English	Portuguese
+about	em
+above	sobre
+again	de novo
+almost	quase
+along	ao longo de
+already	já
+always	sempre
+approximately	aproximadamente
+as	como
+before	antes
+behind	atrás de
+between	entre
+beyond	além de
+by	por
+directly	directamente
+down	para baixo
+early	cedo
+either	cada
+enough	suficiente
+exactly	justamente
+finally	por fim
+first	primeiro
+forward	adiantado
+generally	geralmente
+here	aqui
+here	aqui
+however	contudo
+immediately	imediatamente
+in	em
+indeed	realmente
+inside	por dentro
+instead	em vez de
+late	tarde
+least	menos
+little	pequeno
+merely	só
+never	nunca
+not	não
+now	actualmente
+obviously	evidentemente
+often	frequentemente
+once	uma vez
+outside	fora
+particularly	particularmente
+possibly	talvez
+probably	provavelmente
+quickly	rapidamente
+really	na realidade
+really	muito
+recently	recentemente
+slowly	lentamente
+so	assim
+solely	unicamente
+sometimes	por vezes
+soon	logo
+still	ainda
+such	tal
+surely	de certeza
+then	depois
+there	aí
+therefore	portanto
+today	hoje
+together	juntos
+tomorrow	amanhã
+tonight	esta noite
+too	também
+up	acima
+usually	normalmente
+very	muito
+well	bem
+why	porque

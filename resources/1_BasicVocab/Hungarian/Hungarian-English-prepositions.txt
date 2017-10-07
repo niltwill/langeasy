@@ -1,0 +1,18 @@
+Hungarian	﻿English
+ellen	against
+között	among
+-re	at
+-re	at
+mellett	beside
+alatt	during
+-nak	for
+-ból/-ből (elative case) -tól/-től (ablative case)	from
+-ból/-ből (elative case) -tól/-től (ablative case)	from
+-ba	into
+-tól	of
+-n/-on/-en/-ön (superessive case)	on
+-n/-on/-en/-ön (superessive case)	on
+óta	since
+-hoz/-höz/-hez (allative, arriving at), felé (postposition, in the direction of)	to
+-val	with
+-val	with

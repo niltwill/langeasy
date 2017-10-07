@@ -1,0 +1,136 @@
+Yiddish	English
+נײַן	9 ; nine
+אַפּריל	April
+אַראַביש	Arabic ; Standard Arabic
+אױגוסט	August
+בולגאַריש	Bulgarian ; Bulgarian
+כינעזיש	Chinese
+טשעכיש	Czech ; Czech
+דעצעמבער	December
+האָלענדיש	Dutch
+אײראָפּע	Europe
+פֿעברואַר	February
+פֿראַנקרײַך	France
+פֿראַנצײזיש	French ; French
+פֿרײַטיק	Friday
+דײַטש	German
+גריכיש	Greek ; Greek
+העברעיִש	Hebrew
+איטאַליעניש	Italian ; Italian
+יאַנואַר	January
+יאַפּאַניש	Japanese ; Japanese
+ייִדישקײט	Judaism
+יולי	July
+יוני	June
+מאַרץ ; יוני	March
+מײַ	May
+מאָנטיק	Monday
+מינכן	Munich
+נאָװעמבער	November
+אָקטאָבער	October
+כינע	People's Republic of China ; China
+שבת	Saturday
+סעפּטעמבער	September
+סערביש	Serbian ; Serbian
+זונטיק	Sunday
+טײַלענדיש	Thai ; Thai
+דאָנערשטיק	Thursday
+דינסטיק	Tuesday
+טערקיש	Turkish ; Turkish
+די פֿאַראײניקטע פֿעלקער	UN ; United Nations
+פֿ׳ש ; פֿש׳אַ ; די פֿאַראײניקטע שטאַטן	United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States
+מיטװאָך	Wednesday ; quarta-feira
+ɛntˢɪklɔpɛdyɛ ; װיקיפּעדיע	Wikipedia
+ייִדיש	Yiddish
+אַדיעקטיװ	adjective ; describing word
+אָנפֿירונג ; אַדמיניסטראַציע	administration ; direction ; management
+אַדװערב	adverb
+אלף־בית	alphabet
+אַנאַטאָמיע	anatomy
+און	and
+און	and ; as well as ; in addition to ; together with ; too
+אַרטיקל	article
+אַש	ash
+יאָ	aye ; yeah ; yep ; yes
+שנאָבל	beak ; mouth
+גרױס	big ; large
+פֿױגל	bird
+געבורטסטאָג ; געבױרן־טאָג	birthday
+שװאַרץ	black
+שמיד ; קאָװעל	blacksmith
+בלוט	blood
+בוך	book
+באָטאַניק	botany ; phytology
+ייִנגל ; בחור	boy
+פּוטער	butter
+פֿלאַטערל	butterfly
+הױפּטשטאָט	capital
+קעז	cheese
+קינד	child
+קאָמפּיוטער	computer
+מלוכה ; מדינה ; מדינה ; שטאַט	country ; nation ; state
+טאָכטער	daughter
+טאָג	day ; daytime
+װערטערבוך	dictionary
+הונט	dog
+אַכט	eight
+טועכץ ; פּראָפֿעסיע ; פֿאַך	employment ; employment ; job ; job ; occupation ; work ; work
+ענציקלאָפּעדיע	encyclopaedia
+משפּחה	family
+טאַטע	father
+פֿרױ	female ; woman
+פֿילם	film
+פֿינעף ; פֿינף	five
+בלי ; צװיט	flower ; bloom ; blossom
+פֿיר	four
+אַלגעמײן	general
+גענעראַל	general
+געאָגראַפֿיע	geography
+מײדל	girl
+זײדע	grandfather
+גראָז	grass
+שװער	heavy
+דאָ	here
+ידיעה ; אינפֿאָרמאַציע	info ; information
+זאַץ	judgement (sentence) ; sentence ; judgement
+קילאָ ; קילאָגראַם	kilogram
+שפּראַך ; לשון ; מוטערשפּראַך ; מאַמע־לשון	language
+אות	letter
+ליטעראַטור	literature
+מאַנספּאַרשױן ; מאַנצביל	male ; man
+מענטש	man
+מאַטעמאַטיק	mathematics
+מילך	milk
+מיל	mill
+חודש	month
+מאַמע	mother
+נײן	no
+באַמערק	notice
+סובסטאַנטיוו	noun ; substantive
+אײנס	one
+פֿיזיק	physics
+דערבאַרעמען ; רחמנות	pity ; compassion
+פּאָליטיק	policy
+פּאָליטיק	politics
+פֿרעג	question
+ראַיאָן ; קאַנט ; געגנט	region
+פֿאָרשונג	research
+װיסנשאַפֿט	science
+קלײן	short ; small
+סאָציאָלאָגיע	sociology
+מילץ	spleen
+ספּאָרט	sport
+טעכנאָלאָגיע	technology
+טעמפּעראַטור	temperature
+צען	ten
+פּראָבע ; פּרוּװ	test
+דרײַ	three
+צײַט	time
+צװײ	two
+װערב	verb
+װערטער־אוצר ; װאָקאַבולאַר	vocabulary
+vɔx ; װאָך	week
+געװיכט	weight
+װײַס	white
+װאָרט	word
+נול	zero ; null

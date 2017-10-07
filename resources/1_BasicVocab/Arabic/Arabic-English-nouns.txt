@@ -1,0 +1,969 @@
+Arabic	﻿English
+أسود	black
+أزرق	blue
+بني	brown
+رمادي	gray
+أخضر	green
+برتقالي	orange
+وردي	pink
+أحمر	red
+بنفسجي	violet
+أبيض	white
+أصفر	yellow
+ثمانية	eight
+ثمانية عشر	eighteen
+ثمانون	eighty
+أحد عشر	eleven
+خمسة عشر	fifteen
+خمسون	fifty
+خمسة	five
+أربعون	forty
+أربعة	four
+أربعة عشر	fourteen
+مائة	hundred
+مليون	million
+تسعة	nine
+تسعة عشر	nineteen
+تسعون	ninety
+صِفر، لا شيء	nothing
+واحد	one
+سبعة	seven
+سبعة عشر (sábʕaʈ ʕášar)	seventeen
+سبعون	seventy
+ستة	six
+ستة عشر	sixteen
+ستون	sixty
+عشرة	ten
+ثلاثة عشر	thirteen
+ثلاثون	thirty
+ألف	thousand
+ألف	thousand
+ثلاثة	three
+عشرون	twenty
+اثنان	two
+ذراع	arm
+ظهر	back
+منقار	beak
+دم	blood
+جسم, جسد	body
+عظم	bone
+دماغ	brain
+نفس	breath
+خلية	cell
+صدر	chest
+صدر	chest
+ذقن	chin
+أذن	ear
+عين	eye
+وجه	face
+إسبع, إصبع	finger
+قدم	foot
+جبهة	forehead
+مورثه	gene
+شعر	hair
+وبر	hair
+يد, كف	hand
+رأس	head
+قلب	heart
+ركبة	knee
+ساق	leg
+شفة	lip
+فم	mouth
+عضلة	muscle
+ظفر	nail
+عنق	neck
+عصب	nerve
+أنف	nose
+جلد	skin
+معدة	stomach
+ذيل	tail
+بلعوم	throat
+إبهام	thumb
+إبهام الرجل	toe
+لسان	tongue
+سن	tooth
+جناح	wing
+نملة	ant
+دب	bear
+نحلة	bee
+طائر	bird
+قط	cat
+بقرة	cow
+كلب	dog
+فيل	elephant
+سمك	fish
+ذبابة	fly
+عنزة	goat
+حصان	horse
+حشرة	insect
+أسد	lion
+قرد	monkey
+خنزير	pig
+خروف	sheep
+أفعى	snake
+رضيع	baby
+ولادة	birth
+يوم ميلاد, عيد ميلاد	birthday
+ولد, صبي	boy
+أخ	brother
+ولد	child
+ابنة	daughter
+موت	death
+عائلة	family
+أب	father
+صديق	friend
+بنت	girl
+جد	grandfather
+رجل, إنسان	human
+زوج	husband
+حياه	life
+رجل	man
+زواج، حياة الزواج	marriage
+أم	mother
+جار	neighbor
+أحد الوالِدين	parent
+شخص	person
+قرابة	relationship
+أخت	sister
+ابن	son
+زواج (zawá:j) (m)	wedding
+عرس	wedding
+زوجة	wife
+امرأة	woman
+بيرة	beer
+قهوة	coffee
+شراب	drink
+حليب	milk
+كوكتيل	milkshake
+شاي	tea
+ماء	water
+نبيذ	wine
+خبز	bread
+إفطار	breakfast
+زبدة	butter
+كعك	cake
+جبن	cheese
+شوكولا	chocolate
+بيضة	egg
+طعام	food
+فاكهة	fruit
+غداء	lunch
+وجبة	meal
+لحم	meat
+زيت	oil
+أرز	rice
+سلطة	salad
+ملح	salt
+السندويتش	sandwich
+صلصة	sauce
+حساء	soup
+سكر	sugar
+حلاوة	sweet
+تفاحة	apple
+مشمش	apricot
+موز	banana
+تُوت	blackberry
+كرز	cherry
+ليمون	lemon
+جوز	nut
+برتقال	orange
+دراق	peach
+إجاص	pear
+أناناس	pineapple
+خوخ	plum
+توت أحمر, توت العليق	raspberry
+فراولة	strawberry
+فاصولياء	bean
+ملفوف	cabbage
+جزر	carrot
+خيار	cucumber
+ثوم	garlic
+زيتون	olive
+بصل	onion
+جزر أبيض	parsnip
+البازلاء	pea
+بطاطس	potato
+الفجل	radish
+طماطم	tomato
+عنوان	address
+الحمّام	bathroom
+غرفة نوم	bedroom
+قرميد	brick
+باب	door
+أرضية	floor
+طابق	floor
+مرآب	garage
+بستان	garden
+بوابة	gate
+صاله، ردهه	hall
+مسكن	home
+بيت	house
+مطبخ	kitchen
+سقف	roof
+غرفة	room
+حمام, دش	shower
+سلم	step
+مرحاض	toilet
+جدار	wall
+بئر	well
+نافذة	window
+سرير	bed
+سجادة	carpet
+كرسي	chair
+خِزانه	cupboard
+ستارة	curtain
+مكتب	desk
+أثاث	furniture
+مقعد للجلوس	seat
+رف	shelf
+المغسلة	sink
+طاولة	table
+الحقيبة	bag
+جزمة	boot
+ثوب	cloth
+ملابِس، ألبِسه، أغطِيه	clothing
+معطف	coat
+ياقة	collar
+قبعة	hat
+السترة	jacket
+مجوهرات	jewel
+خاتم	ring
+قميص	shirt
+حذاء	shoe
+تنورة	skirt
+جورب	sock
+الحقيبة	suitcase
+ربطة عنق	tie
+ممثل	actor
+الممثّلة	actress
+رجل أعمال	businessman
+خبير	expert
+لواء	general
+صحفي	journalist
+قاضي	judge
+زعيم	leader
+وزير	minister
+موسيقي	musician
+مصور	photographer
+قبطان	pilot
+شرطي	policeman
+سياسي، رجل سياسه	politician
+رئيس الدوله	president
+محترف	professional
+ممثل	representative
+بحار	sailor
+العالم	scientist
+سكرتير	secretary
+خادم	servant
+جندي	soldier
+كاتب ؛ مؤلف	writer
+مطار	airport
+مصرف	bank
+جسر	bridge
+بناء	building
+عاصمة	capital
+قلعة	castle
+كنيسة	church
+سينما	cinema
+مدينة	city
+مصنع	factory
+شقة	flat
+مستشفى	hospital
+فُندق	hotel
+مكتبة	library
+حديقة	park
+سجن	prison
+المطعم	restaurant
+طريق	road
+مدرسة	school
+محطة	station
+شارع	street
+بنية	structure
+المترو	subway
+سوبرماركِت: متجر كبير تباع فيه السِلع بطريقة ال	supermarket
+مسرح	theater
+مدينة	town
+الجامعة	university
+قرية	village
+حادث	accident
+قارب	boat
+باص, حافلة ؛ باص	bus
+سيارة	car
+منحنى	curve
+قِطار سريع	express
+طيران	flight
+رحلة	journey
+راكب	passenger
+طائرة	plane
+سفينة	ship
+قسيمة	skid
+سكة, سكة حديدية	track
+قطار	train
+نقل	transport
+هواء	air
+حيوان	animal
+فرع	branch
+تطوير, تطور	evolution
+مزرعة	farm
+حقل	field
+نار	fire
+زهرة	flower
+غابة	forest
+عشب	grass
+ورق	leaf
+حياة	life
+برق	lightning
+رطوبة	moisture
+الطبيعه	nature
+نبات	plant
+جذر	root
+جنس	sex
+سماء	sky
+نوم	sleep
+رائحة	smell
+دخان	smoke
+نبع	spring
+جذع	stem
+تيار	stream
+شجرة	tree
+موجة	wave
+طقس	weather
+عالم	world
+ضفة ضِفة النهر	bank
+شاطئ, شّاطئ	beach
+تيار	current
+اتجاه	direction
+الأرض	Earth
+شرق	east
+مِقياس الإرتِفاع	height
+تل	hill
+جزيرة	island
+بحيرة	lake
+أرض	land
+خريطة	map
+قمر	Moon
+شمال	north
+حقل	plain
+نهر	river
+بحر	sea
+جنوب	south
+فضاء	space
+نجمة	star
+شمس	sun
+غرب	west
+حامض	acid
+كيميائي	chemical
+element عنصر	chemical
+فحم	coal
+قطن	cotton
+غبار	dust
+أرض	earth
+دهن	fat
+زجاج	glass
+صمغ	glue
+حبيبة, بذرة	grain
+جليد	ice
+حديد	iron
+جلد	leather
+سائل	liquid
+ماده	matter
+element معدن	metallic
+نفط	oil
+سم	poison
+مسحوق	powder
+رمل	sand
+حرير	silk
+صابون	soap
+فولاذ	steel
+خشب	wood
+صوف	wool
+حقيبة	bag
+سلة	basket
+قارورة	bottle
+صندوق	box
+صفيحة	can
+قدح	cup
+درج	drawer
+مغلف	envelope
+كأس	glass
+صحن	plate
+آلة تصوير	camera
+آلة تصوير	camera
+phone هاتف نقال	cellular
+ساعة	clock
+حاسوب	computer
+مصعد	elevator
+محرك	engine
+أداة	instrument
+آلة	machine
+فرن	oven
+التلفاز	television
+ساعة	watch
+إضافة, جمع	addition
+زاوية	angle
+مساحه	area
+دائرة	circle
+منحنى	curve
+درجة	degree
+مستوى	degree
+إختِلاف	difference
+مسافة	distance
+تقسيم	division
+حافة	edge
+عنصر	element
+وظيفه، عمل	function
+نصف	half
+حد	limit
+خط	line
+شبكة	net
+حكم	order
+خارِج، الجِهة الخارجِيه	outside
+نسبة مئوية	percent
+نقطة	point
+غاية	purpose
+نتيجة	result
+جذر	root
+قاعدة	rule
+مجموعة	set
+جانب	side
+مربع	square
+مربع	square
+استبدال	substitution
+سطح خارِجي	surface
+مبلغ	total
+مقدِرة	ability
+تصرف	act
+عمل، إجراء	action
+فعل	activity
+إضافة	addition
+مقدار	amount
+هجوم	attack
+محاولة	attempt
+موقِف	attitude
+خلف	back
+سلوك	behavior
+قطعة	bit
+ضربة	blow
+استراحة	break
+حملةٌ عسكرِيه	campaign
+حاله	case
+فرصة	chance
+تغيير	change
+اختيار	choice
+شرط	condition
+اتصال	connection
+اتصال	connection
+شق	crack
+سحق	crush
+قطع	cut
+أذية, ضرر	damage
+خطر	danger
+زخرفة	decoration
+تدمير	destruction
+تفصيل	detail
+تحكم	dominance
+قطرة	drop
+واجب	duty
+جهد	effort
+سقوط	fall
+ميزة	feature
+قتال	fight
+أمام	front
+ضرب، إصابه	hit
+ثقب, فجوة	hole
+نمو	increase
+زيادة	increase
+إنترنت	internet
+ارتجاج	jolt
+ركلة	kick
+نوع	kind
+عقدة	knot
+ﻻئحة	list
+أغلبية	majority
+أمر	matter
+عقل	mind
+إجراء	operation
+مضاد	opposite
+مباغتة	outburst
+جزء	part
+جزء	part
+قِطعه	piece
+موقع	place
+موضع	position
+قوة	power
+تمرين	practice
+واجب	project
+خاصية	property
+جودة	quality
+مسؤولِيه	responsibility
+راحة	rest
+عوده	return
+صعود	rise
+مخاطرة	risk
+مقعد	seat
+'طقم	set
+سكون	silence
+حاله، وضع	situation
+حاله	state
+خطوة	step
+توقف	stop
+مذاق	taste
+شيء	thing
+قمة	top
+لمس	touch
+تدبير	treatment
+اهتزاز	tremble
+خدعة	trick
+نوع، طِراز، نموذج	type
+استخدام	use
+وسيلة	way
+البِلى بالإستِعمال العادي	wear
+وحده كامِله	whole
+إرادة	will
+رغبة	wish
+عصر	afternoon
+عمر	age
+نيسان % أبريل	April
+آب % أغسطس	August
+خريف	autumn
+بداية	beginning
+مِئة سنه	century
+تاريخ	date
+يوم	day
+كانون الأول % ديسمبر	December
+نهاية	end
+أمسية	evening
+شباط % فبراير	February
+الجمعة	Friday
+مستقبل	future
+ساعة	hour
+كانون الثاني % يناير	January
+تموز % يوليو	July
+حزيران % يونيو	June
+أيار % مايو	May
+منتصف الليل	midnight
+دقيقة	minute
+لحظه	moment
+الاثنين	Monday
+شهر	month
+صباح	morning
+ليل	night
+تشربن الثاني % نوفمبر	November
+الآن	now
+تشرين الأول % أكتوبر	October
+ماضي	past
+إستِراحه، فترة إستِراحه	pause
+فتره	period
+حاضر	present
+السبت	Saturday
+موسِم	season
+ثانية	second
+أيلول % سبتمبر	September
+ربيع	spring
+صيف	summer
+الأحد	Sunday
+الخميس	Thursday
+غد	tomorrow
+الثلاثاء	Tuesday
+الأربعاء	Wednesday
+أسبوع	week
+نهاية الأسبوع	weekend
+فترة	while
+شتاء	winter
+سنة	year
+فن	art
+فنان، رسام، نحات	artist
+فرقة	band
+فرشاة	brush
+لون, مادة تلوين	color
+جوقة موسيقية, حفلة موسيقية	concert
+تصميم	design
+الاختلاف	diversity
+استمتاع	entertainment
+ضربة ناجِحه، عمل ناجِح	hit
+رأي، فِكره عامه	image
+حبر	ink
+اختراع	invention
+سلوك	manner
+فيلم	movie
+متحف	museum
+موسيقى	music
+نوتة	note
+أوركسترا	orchestra
+طلاء	paint
+الصورة	painting
+ورق	paper
+قلم	pen
+قلم رصاص	pencil
+صورة	picture
+قصيده	poem
+شعر	poetry
+إيقاع	rhythm
+شكل	shape
+مغنٍ	singer
+أغنية	song
+منصة	stage
+نمط	style
+زي، موضه	vogue
+حساب	account
+فائِده	advantage
+إعلان	advertisement
+نصِيحه	advice
+موافقة, اتفاق	agreement
+انتباه	attention
+سلطة	authority
+ورقة نقدية	banknote
+إتفاق على بيع وشِراء	bargain
+نمط	brand
+أعمال	business
+عاصمة	capital
+فكة	change
+شيك مصرفي	cheque
+مبعوث	committee
+شركة	company
+منافسة	competition
+تهمه، إتِهام	complaint
+عقد، إلتِزام، تعهد، إتِفاقِيه	contract
+نسخة	copy
+مجلِـس (استِشاري)	council
+زبون	customer
+حاجة	demand
+قسم	department
+صعوبه	difficulty
+مدير	director
+إقتِصاد الدوله	economy
+بيئة	environment
+خبرة	experience
+شركة	firm
+نموذج	form
+مجموعة	group
+مساعدة	help
+عطلة	holiday
+دخل، إيراد شهري	income
+مصنع	industry
+تأمين	insurance
+فائدة	interest
+حساب	invoice
+عمل	job
+قانون	law
+في إجازه، في عطله	leave
+فقدان	loss
+إرشاد، توجيه	management
+رمز	mark
+سوق	market
+مادة	material
+متوسِط	mean
+اجتماع	meeting
+مال	money
+مِهنه، وظيفه	occupation
+تقديم	offer
+مكتب	office
+ضابِط شرطه	officer
+عملية	operation
+مالك	owner
+حزمة	package
+دفع	payment
+مشروع	plan
+ثمن	price
+مشكلة	problem
+منتوج	product
+صافي	profit
+ملكية	property
+نسبة	rate
+باقي	rest
+مكافأة	reward
+حق	right
+بيع	sale
+قسم	section
+خِدمه	service
+سهم	share
+دكان	shop
+براعه، حِذق	skill
+هيئه، طاقم	staff
+هيكلية	structure
+نجاح	success
+دعم	support
+مصفوفة	table
+ضريبة	tax
+فريق	team
+تجارة	trade
+قيمة	value
+عمل	work
+عامل	worker
+إعلان	announcement
+جواب	answer
+استحسان	approval
+برهان	argument
+كتاب	book
+مكالمه هاتفيه، إتِصال هاتفي	call
+غرافيم	character
+حجة	controversy
+صياح	cry
+معطيات، بيانات	data
+قرار	decision
+قاموس, قاموس ؛ معجم	dictionary
+مناقشة	discussion
+شك	doubt
+تجربة	experience
+شعور	feeling
+دعابة	humor
+فكرة	idea
+معلومة، معلومات	information
+اهتمام	interest
+مقابلة	interview
+لغة	language
+لغه	language
+حرف	letter
+رسالة	letter
+بهتان	lie
+منظر, مظهر	look
+مجلة	magazine
+بريد	mail
+ذاكرة	memory
+ذكرى	memory
+خطأ	mistake
+اسم	name
+صحيفة	newspaper
+تعليق	note
+عدد	number
+رأي	opinion
+صفحة	page
+لفظ	pronunciation
+إقتِراح، عرض	proposal
+احتجاج	protest
+سؤال	question
+ردة فعل	reaction
+سبب	reason
+علاقة	relation
+طلب	request
+سر	secret
+جملة	sentence
+إشارة	sign
+حديث	speech
+تهجِئه	spelling
+مقدار معين من	standard
+تصريح	statement
+موضوع	subject
+اقتراح	suggestion
+صوت	voice
+كلمة	word
+كتابة	writing
+day نهارك سعيد (naharak saeed)	good
+luck حظ سعيد (HaZZ sa3iid!), حظا سعيدا (HáZZan sa3iidan!)	good
+morning صباح الخير (ʂabá:ħ al-χéir)	good
+مرحبا'مرحبًا (márħaban)	hello
+are you كيف حالك (kayf Haalak? m., kayf Haalik? f.)	how
+لا	no
+you very much شكرا جزيلا (shúkran jaziilan!), ألف شكر ('alf shukr!)	thank
+نعم	yes
+المملكة المتحدة	Britain
+الصين	China
+Republic تشيكيا	Czech
+فرنسا	France
+ألمانيا	Germany
+الهند	India
+إيطاليا	Italy
+اليابان	Japan
+إسبانيا	Spain
+States of America الولايات المتحدة الأمريكية	United
+صنف	class
+تعليم	education
+تعليم	education
+تعليم	education
+امتحان	examination
+علامة	grade
+معرفة	knowledge
+تلميذ	student
+معلم	teacher
+تدريب	training
+خوف	fear
+كره	hate
+حب	love
+سرور	pleasure
+أمل	promise
+صدمة	shock
+انتباه	care
+زكام	cold
+سعال	cough
+مرض	disease
+طبيب	doctor
+صحة	health
+حيض	menstruation
+ممرض	nurse
+عملية, عملية جراحية	operation
+ألم	pain
+مريض	patient
+غرزة	stitch
+نصل	blade
+لوح	board
+بطاقة	card
+سلسلة	chain
+النادي	club
+غطاء	cover
+ريش	feather
+علم	flag
+إطار	frame
+مقبض	handle
+قائمة (qā'imâ'''	menu
+علبة مجوفة	nut
+دبوس	pin
+أنبوب	pipe
+طابع بريد	postage
+هدية	present
+شراع, حاجز معدني	sail
+لفافة	scroll
+بذرة	seed
+عود	stick
+حجر	stone
+تذكرة	ticket
+عجلة	wheel
+سلك	wire
+ميزان	balance
+حجم	bulk
+شحنةٌ كهربائِيه	charge
+طاقة	energy
+ضوء	light
+وزن	mass
+قياس	measurement
+مرآة	mirror
+حركة	movement
+ضغط	pressure
+إجراء	process
+حجم	size
+صوت	sound
+بخار	steam
+قوة	strength
+وقت	time
+وحدة	unit
+وزن	weight
+صديق، رفيق، خليل	boyfriend
+موعد	date
+ضيف ؛ مدعو	guest
+عزيز	honey
+تقبيل	kiss
+عِيْد	party
+جنس	sex
+ابتسامة	smile
+مفاجأة	surprise
+زيارة	visit
+خيار بين إثنين	alternative
+علم الأحياء	biology
+سبب	cause
+كيمياء	chemistry
+مقارنة	comparison
+تأثير	consequence
+سيطرة	control
+مجال	discipline
+اكتشاف	discovery
+حدث	event
+برهان	evidence
+أنموذج	example
+حقيقة	fact
+قضِيه	issue
+نواة فكرة	kernel
+منهج	method
+طِراز	model
+مرحلة	phase
+إجراء	procedure
+الإنتاج	production
+برنامج	program
+مشروع، خطه	project
+مجال	range
+بحث	research
+علم	science
+مجمتع	society
+نظام	system
+تكنولوجيا	technology
+نظرية	theory
+مَيْل	trend
+صعوبة	trouble
+المستعمل	user
+جيش	army
+قاعدة	base
+نادٍ	club
+رفقة	company
+منافسة	contest
+دولة	country
+محكمة	court
+جريمة	crime
+حضاره	culture
+جمهورية	democracy
+حكم	dominion
+انتخابات	election
+وجود	existence
+أنثى	female
+حكومة	government
+تاريخ	history
+فرد	individual
+مؤسسه	institution
+ملك	king
+ذكر	male
+عضو	member
+وطن	nation
+خبر	news
+ضجيج	noise
+أمر	order
+منظمة	organization
+جواز مرور	pass
+جواز سفر	passport
+سلام	peace
+أشخاص	people
+شرطه	police
+سِياسه	policy
+شعب	population
+جمهور	public
+عقاب	punishment
+إيمان	religion
+دين	religion
+دوله، وِلايه	state
+عنوان	title
+نِقابه، منظمة	union
+حرب	war
+إرادة	will
+وصية	will
+جائزة	award
+كرة	ball
+كرة القاعدة, كرة القاعدة ؛ بيسبول	baseball
+دراجة	bike
+بطولة	championship
+منافِس	competitor
+كأس	cup
+لعبة كرة القدم	football
+لعبه للإستِمتاع	game
+هدف	goal
+الغاية	goal
+ذهب	gold
+غولف	golf
+قفزة	jump
+مباراة	match
+لاعب	player
+رقم قياسي	record
+فضة	silver
+كرة المضرب	tennis
+طرح، إلقاء، رمي	throw
+الفوز	win
+جرس	bell
+زر	button
+سلاح	gun
+مطرقة	hammer
+خطاف	hook
+مفتاح	key
+قفل	lock
+عيدان كبريت	match
+مسمار	nail
+إبرة	needle
+مضخة	pump
+حبل	rope
+مقص	scissors
+نابض	spring
+دمغة	stamp
+سوط	whip
+سحاب	cloud
+ندى	dew
+ضباب	fog
+صقيع	frost
+مطر	rain
+قوس قزح	rainbow
+ثلج	snow
+عاصفة	storm
+برق	thunder

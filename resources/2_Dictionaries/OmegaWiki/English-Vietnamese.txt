@@ -1,0 +1,526 @@
+English	Vietnamese
+Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln ; Abraham Lincoln	Abraham Lincoln
+Adelaide	Adelaide
+Afrikaans	Tiếng Hà lan ở Kếp
+Albania ; Republic of Albania	Albania
+American Samoa	Samoa thuộc Mỹ
+Angola ; Republic of Angola	Angola
+Antarctica	Châu Nam Cực
+Apus	Thiên Yến
+Aquarius	Bảo Bình
+Aquila	Thiên Ưng
+Arabic ; Standard Arabic	tiếng A-rập
+Argentina ; Argentine Republic	Argentina
+Aries	Bạch Dương
+Arizona	Arizona
+Armenian	Tiếng Ac-mê-ni
+Asteraceae ; sunflower family ; Compositae ; daisy family ; aster family	Họ Cúc
+August	tháng tám
+Austria ; Republic of Austria	Áo
+Azerbaijan ; Republic of Azerbaijan	Ai-déc-bai-gian
+Azores	Azores
+Bahrain	Bahrain
+Bangladesh ; People's Republic of Bangladesh	Bangladesh
+Beijing	Bắc Kinh
+Belarus ; Republic of Belarus	Belarus
+Belarusan ; Belarusan ; Belarusian ; Belorussian ; Byelorussian	tiếng Bê-la-rút
+Belgium ; Kingdom of Belgium	Bỉ
+Belize	Belize
+Bible	Kinh Thánh
+Borneo ; Kalimantan	Borneo
+Bosnia and Herzegovina ; Republic of Bosnia and Herzegovina	Bosna và Hercegovina
+Botswana ; Republic of Botswana	Botswana
+Boötes	Mục Phu
+Brazil	Brasil
+Brunei ; Negara Brunei Darussalam	Brunei
+Bulgaria ; Republic of Bulgaria	Bulgaria
+Bulgarian ; Bulgarian	Tiếng Bun-ga-ri
+Burundi ; Republic of Burundi	Burundi
+California	Ca Li ; California
+Cambodia ; Kingdom of Cambodia	Campuchia
+Cameroon ; Republic of Cameroon	Cameroon
+Canes Venatici	Lạp Khuyển
+Canis Major	Đại Khuyển
+Canis Minor	Tiểu Khuyển
+Capricorn	Ma Kiết
+Castilian ; Spanish ; Spanish	tiếng Tây Ban Nha
+Chad ; Republic of Chad	Tchad
+Chile ; Republic of Chile	Chile
+Chinese	tiếng Trung Quốc
+Colombia ; Republic of Colombia	Colombia
+Croatian ; Croation	Tiếng Cro-xi-an
+Cyprus ; Republic of Cyprus	Kypros
+Czech ; Czech	Tiếng Séc
+Danish	Tiếng Đan-mạch
+December	tháng mười
+Democratic Republic of the Congo ; Congo-Kinshasa	Cộng hoà Dân chủ Congo
+Dutch	Tiếng Hà-Lan
+EU ; European Union	Liên minh châu Âu
+East Timor ; Democratic Republic of Timor-Leste	Đông Timor
+Easter	Lễ Phục Sinh
+Eiffel Tower	Tháp Eiffel
+El Salvador ; Republic of El Salvador	El Salvador
+English	Tiếng Anh
+Eritrea	Eritrea
+Esperanto ; Esperanto	tiếng Etperantô ; Quốc tế ngữ
+Estonia ; Republic of Estonia	Estonia
+Ethiopia ; Federal Democratic Republic of Ethiopia	Ethiopia
+Finland ; Republic of Finland	Phần Lan
+Finnish	tiếng Phần-lant
+France	Pháp
+French ; French	Tiếng Pháp
+Gabon ; Gabonese Republic	Gabon
+Gambia ; Gambia ; Gambia ; Gambia ; The Gambia ; Republic of The Gambia	Gambia
+Gemini	Song Tử
+Georgia	Gruzia
+Georgia	Georgia
+Georgian ; Georgian	Tiếng Geor-gi-an
+German	tiếng Đức
+Ghana ; Republic of Ghana	Ghana
+Greece ; Hellenic Republic	Hy Lạp
+Greek ; Greek	Tiếng Hy Lạp
+Greenland	Greenland
+Gregorian calendar	lịch Gregory
+Grenada	Grenada
+Guadeloupe	Guadeloupe
+Guam ; Guam ; Guam	Guam
+H5N1 ; Influenza A virus subtype H5N1 ; A(H5N1)	H5N1
+Haiti ; Republic of Haiti	Haiti
+Hebrew	tiếng Hê-brơ
+Hindi ; Hindi	tiếng Hin-đi
+Holland ; Kingdom of the Netherlands ; The Netherlands	Hà Lan
+Honduras ; Republic of Honduras	Honduras
+Hungarian	Tiếng Hung-ga-ri
+Iceland ; Republic of Iceland	Iceland
+Icelandic	Tiếng Băng đảo
+Iliad	Iliad
+India ; Republic of India	Ấn Độ
+Indonesia ; Republic of Indonesia	Indonesia
+Indonesian	Tiếng In-đô-nê-xi-a
+Indre	Indre
+Internet	Internet
+Iran ; Islamic Republic of Iran	Iran
+Irish ; Irish ; Irish Gaelic ; Irish	tiếng Xen-tơ Ai-len
+Israel ; State of Israel	Israel
+Italian ; Italian	Tiếng Ý
+Ivory Coast ; Cote d'Ivoire ; Republic of Cote d'Ivoire	Bờ Biển Ngà
+Jakarta ; Djakarta ; DKI Jakarta	Jakarta
+Jamaica	Jamaica
+January	tháng giêng
+Japan ; State of Japan	Nhật Bản
+Japanese ; Japanese	Tiếng Nhật
+Jordan ; Hashemite Kingdom of Jordan	Jordan
+June	tháng sáu
+Kazakhstan ; Republic of Kazakhstan	Kazakhstan
+Kenya ; Republic of Kenya	Kenya
+Khmer ; Central Khmer	tiếng Khơ-Me
+Kiribati ; Republic of Kiribati	Kiribati
+Korean ; Korean	tiếng Triều tiên ; tiếng Triều Tiên ; tiếng Hàn Quốc ; tiếng Đại Hàn ; tiếng Hàn
+Kyrgyzstan ; Kyrgyz Republic	Kyrgyzstan
+Lagos	Lagos
+Latvia ; Republic of Latvia	Latvia
+Leningrad ; Petrograd ; Saint Petersburg ; St. Petersburg	Xanh Pê-téc-bua ; Xanh Pêtécbua ; Xanh Pêtecbua
+Leo	Sư Tử
+Lesotho ; Kingdom of Lesotho	Lesotho
+Liberia ; Republic of Liberia	Liberia
+Libra	Thiên Xứng
+Libya ; Great Socialist People's Libyan Arab Jamahiriya	Libya
+London	Luân Đôn
+Lower Saxony	Niedersachsen
+Luxembourg ; Grand Duchy of Luxembourg	Lục Xâm Bảo
+Malawi ; Republic of Malaŵi	Malawi
+Markov chain ; Markoff chain	xích Markov
+Mauritania ; Islamic Republic of Mauritania	Mauritanie
+Merry Christmas	chúc mừng Giáng sinh
+Milan	Milano
+Milky Way ; Galaxy	Ngân Hà
+Monaco	Monaco
+Montenegro	Montenegro
+Morocco ; Kingdom of Morocco	Maroc
+Moscow	Mạc Tư Khoa ; Moskva ; Mát-xcơ-va ; Mátxcơva ; Matxcơva
+Mount Fuji	Núi Phú Sĩ
+Mumbai ; Bombay	Mumbai ; Bombay
+Myanmar	Myanma
+Namibia	Namibia
+Neptune	Sao Hải Vương ; Hải Vương Tinh
+New Year ; New Year's Day	năm mới, tết
+New York	New York ; Nữu Ước
+New Zealand	New Zealand
+Nicaragua	Nicaragua
+Norway ; Kingdom of Norway	Na Uy
+Orleans	Orléans
+Pakistan ; Islamic Republic of Pakistan	Pakistan
+Panama	Panama
+Papua New Guinea	Papua Tân Guinea
+Paris	Paris ; Ba Lê ; Pa-ri ; Pari
+Persian ; Western Farsi ; Farsi	tiếng Ba Tư
+Peru ; Republic of Peru	Peru
+Poland	Ba Lan
+Polish ; Polish	Tiếng Ba-lan
+Portugal	Bồ Đào Nha
+Portuguese ; Portuguese	tiếng Bồ Đào Nha
+Puerto Rico	Puerto Rico
+Qatar	Qatar
+Republic of the Congo ; Congo-Brazzaville	Cộng hoà Congo
+Romanian ; Romanaian	Tiếng Ru-ma-ni
+Rome	La Mã ; Rôma ; Roma
+Russian ; Russian	tiếng Nga
+Saturn	Thổ Tinh
+Scorpio	Thiên Hạt
+Senegal	Sénégal
+Slovakia	Slovakia
+South Africa	Cộng hòa Nam Phi
+Sri Lanka	Sri Lanka
+Sudan	Sudan
+Suriname	Suriname
+Swedish	Tiếng Thuỵ-điển
+Switzerland	Thụy Sĩ
+Taiwan	Đài Loan
+Tanzania	Tanzania
+Taurus	Kim Ngưu
+Tennessee	Tennessee
+Thai ; Thai	Tiếng Thái-lan
+Thailand	Thái Lan
+The Hague	La Hay
+Thuringia	Thüringen
+Togo	Togo
+Tokyo	Tokyo ; Đông Kinh
+Tonga	Tonga
+Uganda ; Republic of Uganda	Uganda
+Ukrainian ; Ukrainian	Tiếng U-kren
+United States ; United States of America ; America ; US ; U.S. ; U.S.A. ; U.S. of A. ; States	Hoa Kỳ ; nước Mỹ ; Hợp Chúng Quốc Hoa Kỳ ; Mỹ
+Utah	Utah
+Vatican City ; The Holy See ; State of the Vatican City	Thành Vatican
+Venezuela	Venezuela
+Venice	Venezia
+Vienna	Viên
+Vietnamese ; Vietnamese	Tiếng Việt ; tiếng Việt ; Việt ngữ
+Volga	Volga
+Walloon ; Walloon	Tiếng Oa-lon
+Washington	Washington ; Hoa Thịnh Đốn
+Wikipedia	Wikipedia
+World Wide Web ; WWW	Web
+Wyoming	Wyoming
+Zambia ; Republic of Zambia	Zambia
+Zulu	Tiếng Zulu
+abbreviation	từ viết tắt
+accordion ; squeeze box ; piano accordion	đàn xếp
+adjective ; describing word	tính từ
+adverb	phó từ ; trạng từ
+aggressive	xâm lược
+algebra	đại số học
+almost	gần
+aluminium	nhốm
+anarchy	vô chính phû
+anime	anime
+ant	kiến
+anthropology	nhân loại học
+apartheid	apacthai
+apple	quả táo
+apple ; apple tree	táo
+apricot	mơ
+aquamarine	ngọc berin
+archaeology ; archeology ; archæology	khảo cổ học ; khảo cổ
+argon	agon
+arsenic	asen
+article	mạo từ
+astatine	astatin
+asthenosphere	quyển astheno
+astronomy	thiên văn học
+badminton	cầu lông
+baker ; bakery	tiệm bánh mì
+banana	chuối
+barium	bari
+bassoon	kèn dăm kép
+bed	giường
+beer	bia
+beryllium ; glucinium	berili
+better	tốt hơn
+bicycle ; bike ; cycle	xe đạp
+binary star	sao đôi
+biochemistry	hóa sinh học ; hoá sinh học
+biology ; biological science	sinh vật học ; sinh học
+biophysics	lý sinh học
+bird	chim
+bismuth	bismut
+blog ; weblog ; web log	blog
+boron	bo
+botany ; phytology	thực vật học
+bread	bánh mì
+brick	gạch
+bromine	brôm
+button ; clit ; clitoris	âm vật ; hột le ; mồng đốc
+cadmium	cađimi
+caesium	xêzi
+caffeine	caffein
+calcium	canxi
+calendar	lịch
+camera	máy chụp hình
+capital	đô ; thủ đô ; kinh đô ; thủ phủ
+carbon	cacbon
+cardinal	đức hồng-y
+carpet	thảm
+cat	mèo
+cauliflower	hoa lơ
+celery	cần tây
+champagne	sâm panh
+chaos theory	lý thuyết hỗn loạn
+chapter	chương
+chemistry	hóa học ; hoá học
+cherry	anh đào
+chicken	gà
+chlorine	clo
+cholesterol	cholesterol ; côlexterola
+chromium	crom
+city	thành phố
+cobalt	coban
+coffee	cà phê
+colony	thuộc địa
+comet	sao chổi
+communism	chủ nghĩa cộng sản
+compound ; chemical compound	hợp chất
+consonant	phụ âm
+copper	đồng
+county	xứ ; xứ ; quận ; hạt ; quận hạt
+crucifix	Thánh Giá
+crystal	tinh thể
+currency	tiền tệ
+dandelion	bồ công anh
+database	cơ sở dữ liệu ; CSDL
+death penalty ; capital punishment ; death sentence	tử hình
+deflation	giảm phát
+dengue fever	sốt Dengue
+dictionary	từ điển
+difficult	khó khăn
+diocese ; diocese	giáo phận
+dog	chó
+donation	sự tặng
+dress	áo dài
+drink ; gulp ; quaff ; sip	uống
+dubnium	ninsbori
+dyslexia	loạn năng đọc
+ear	tai
+earthquake	sự động đất
+einsteinium	ensteni
+electronic mail ; email ; e-mail	thư điện tử
+encephalitis	viêm não
+encyclopaedia	bách khoa toàn thư ; từ điển bách khoa
+engineer	kĩ sư
+epicentre	chấn tâm
+europium	europi
+eye	mắt
+family	gia đình
+father	cha
+finger	ngón tay
+flint ; flintstone	đá lửa
+fluorine	flo
+flute	sáo ngang
+football	bóng đá
+fork	nĩa
+francium	franxi
+freedom of speech ; freedom of speech	tự do ngôn luận
+fuel cell	Tế bào nhiên liệu
+gadolinium	gađolini
+gallium	gali
+gastrointestinal tract ; alimentary canal	hệ tiêu hóa
+genome	bộ gene
+geography	địa lý học ; địa lý ; địa lí học ; địa lí
+geology	địa lý học ; địa lý ; địa chất học ; địa chất
+geometry	hình học
+geomorphology	địa mạo học
+germanium	gecmani
+gold	vàng
+gonorrhea	lậu mủ
+grape	nho
+grass	cỏ
+guitar	cây đàn ; ghi-ta ; ghi ta ; ghita
+hafnium	hafini
+haiku	haiku
+heart	tim
+heroin	bạch phiến
+holmium	holmi
+home ; home ; house	nhà
+homeostasis	cân bằng nội môi
+hope	hy vọng
+hospital ; clinic	bệnh viện ; nhà thương
+hour	giờ ; tiếng đồng hồ ; tiếng hồ
+hydrogen	hiđrô
+indium	indi
+iodine	iốt
+iridium	iriđi
+iron	sắt
+island ; isle	hòn đảo ; đảo
+jaguar	báo đốm Mỹ
+journal ; mag ; magazine ; periodical	tạp chí
+karate	karate
+keyboard	bàn phím ; bàn chữ
+kilogram	kilôgam
+knife	dao
+kokosnoot ; coconut	dừa
+krypton	krypton
+language	ngôn ngữ ; tiếng
+lanthanum	lantan
+lavender ; lavander	oải hương
+lead	chì
+lemon	chanh
+library	thư viện
+lime	chanh xanh
+linguistics	ngôn ngữ học
+lithium	liti
+lithography	in thạch bản
+liver	gan
+lunch ; lunch ; lunch ; lunch ; luncheon	bữa ăn trưa ; bữa ăn trưa ; bữa ăn trưa ; bữa ăn trưa ; bữa ăn trưa
+lung	Phổi ; phổi
+lutetium	luteti
+lux	lux
+magnesium	magiê
+malaria	bệnh sốt rét ; sốt rét ; sốt cơn
+manganese	mangan
+mathematics	toán học ; toán
+mayonnaise	mayonnaise
+mayor	thị trưởng
+megabyte	mêgabyte
+mendelevium	menđelevi
+meningitis	viêm màng não
+mercury	thuỷ
+metaphysics	siêu hình học
+meteor ; meteor ; meteor ; meteor ; meteor ; shooting star ; falling star	sao băng ; sao băng ; sao băng ; sao băng ; sao băng
+milk	sữa
+minute	phút
+molybdenum	molypđen
+mouse	chuột
+mysterious	thần bí
+neodymium	neođim
+neon	neon
+neptunium	neptuni
+newsgroup	nhóm tin ; nhóm tin tức
+newspaper	báo ; tờ báo
+nickel	niken
+niobium	niobi
+nitrogen	nitơ
+nobelium	nobeli
+noun ; substantive	danh từ
+novel	tiểu thuyết
+obesity	béo phì
+oceanography	hải dương học
+ohm	ohm ; ôm
+oligarchy	oligarchy
+optics	quang học
+orange	cam
+organelle	bào quan
+organisation (law)	tổ chức
+orphan	đứa trẻ mồ côi
+osmium	osimi
+oxygen	ô-xy
+palaeontology	cổ sinh vật học
+palladium	palađi
+pancreas	tụy
+part of speech ; lexical category	loại từ
+pear	lê
+peninsula	bán đảo
+perineum	hội âm
+pharmacology	dược lý học
+philology	văn hiến học
+philosophy	triết học ; triết lý học
+phone ; telephone	điện thoại
+phosphorus	phốtpho
+physics	vật lý học ; vật lí học
+piano ; pianoforte	pianô ; đàn
+plane	mặt
+politics	chính trị
+polymer	polyme
+pomegranate	thạch lựu ; lựu
+postman	người đưa thư
+potassium	kali
+potato ; patato	khoai tây
+poverty	nghèo
+praseodymium	prazeođim
+pregnancy	sự có thai
+president	tổng thống ; chủ tịch ; hiệu trưởng
+prime number ; prime	số nguyên tố
+prisoner of war ; POW ; PoW ; PW	tù binh
+promethium	prometi
+protactinium	protactini
+public transport	giao thông công cộng
+pump	máy bơm
+pyrolysis	chưng khô
+queen	nữ hoàng
+radon	radon
+rhenium	reni
+rhodium	rođi
+rhombus ; rhomb	hình thoi
+rice	lúa
+rubidium	rubidi
+ruby	hồng ngọc
+ruthenium	ruteni
+rutherfordium	kusatovi ; kusatovi
+sahara	sa mạc Sahara
+samarium	samari
+sardine	cá mòi
+scandium	scandi
+secret	bí mật
+server	chương trình phục vụ ; chương trình phục vụ ; máy chủ
+sexology	tình dục học
+shop	tiệm
+siemens	siemens
+silicon	silic
+silk	tơ
+silver	bạc
+skin	da
+snow	tuyết
+sodium	natri
+species	loài
+sphinx	nhân sư
+spider	nhện
+spoon	thìa
+stomach	bụng
+story	chuyện
+strawberry	dâu tây
+strontium	stronti
+surgery	ngoại khoa
+sword	kiếm
+syndrome	hội chứng
+syphilis	giang mai
+syringe	ống tiêm
+tantalum	tantali
+teach	dạy ; dạy học ; dạy bảo ; dạy dỗ
+technetium	tecnexi
+television	máy truyền hình
+tellurium	telua
+terminology	thuật ngữ
+thallium	tali
+theology	theology
+thermodynamics	nhiệt động lực học
+thyroid	giáp trạng
+time	giờ
+timezone	múi giờ
+tin	thiếc
+titanium	titan
+tomato	cà chua
+tongue	lưỡi
+topology	tô pô ; tô pô học
+torpedo	thủy lôi
+trade	thương mại
+trade	buôn bán
+translate ; interpret	dịch
+tree	cây
+trombone	trombone
+trophy	cúp
+tungsten	volfram
+university ; university ; academy	trường đại học ; trường đại học ; đại học
+ununoctium	ununocti
+uranium	urani
+useful	có ích
+user	người dùng
+valley	thung lũng
+vanadium	Vanađi
+veteran	cuu chien binh
+water	nước
+wheat	lúa mì
+wheelchair	xe lăn
+wood	rừng
+xenon	xenon
+zero ; null	số không ; zêrô
+zinc	kẽm
+zirconium	ziriconi
+zoology	động vật học

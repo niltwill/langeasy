@@ -1,0 +1,209 @@
+﻿English	Bulgarian
+be	съм
+break	чупя
+buy	купувам
+close	затварям
+come	пристигам
+cut	срязвам
+dance	танцувам
+do	упражнявам
+draw	рисувам
+drink	пия
+eat	ям
+fall	изпадам
+find	намирам
+fire	изстрелвам
+fly	пилотирам
+follow	вървя след
+forget	забравям
+give	давам
+hear	чувам
+help	помагам
+hope	надявам се
+jump	подскачам
+kiss	целувам
+laugh	смея се
+learn	уча
+lie	лежа
+lie	лъжа
+like	харесвам
+listen	слушам
+look	гледам
+lose	загубвам
+love	обичам
+meet	срещам
+move	премествам
+need	нуждая се от
+offer	предлагам
+open	отварям
+pay	плащам
+play	играя си
+pull	дърпам
+push	бутам
+put	поставям
+read	чета
+remember	спомням си
+run	бягам
+say	казвам
+sell	продавам
+sing	пея
+sit	седя
+smile	усмихвам се
+swim	плувам (pluvam)
+take	вземам
+talk	говоря
+understand	разбирам
+use	използвам
+wait	чакам
+write	пиша
+accept	приемам
+accuse	обвинявам
+achieve	постигам
+act	действам
+admit	признавам
+agree	съгласен съм
+allow	допускам
+announce	обявявам
+argue	споря
+arrive	пристигам
+ask	питам
+attack	нападам
+avoid	отбягвам
+be	живея
+bear	нося
+beat	побеждавам
+become	ставам
+bring	предизвиквам
+build	градя
+call	обаждам се
+carry	пренасям
+change	променям
+choose	избирам
+classify	класифицирам
+compare	сравнявам
+continue	простирам се
+cook	готвя
+copy	копирам
+cough	кашлям
+cry	плача
+decide	решавам
+describe	описвам
+design	проектирам
+desire	желая
+develop	проявявам
+die	умирам
+discover	откривам
+discuss	разисквам
+divide	деля
+doubt	съмнявам се
+drive	карам
+embrace	обхващам
+encourage	насърчавам
+enhance	повишавам
+enter	влизам
+establish	учредявам
+estimate	преценявам
+exceed	надвишавам
+exist	съществувам
+expect	очаквам
+explain	обяснявам
+fight	бия се
+fill	пълня догоре
+find	откривам
+forgive	прощавам на някой
+free	освобождавам
+grow	израствам
+hate	мразя
+hide	прикривам
+hold	държа
+identify	идентифицирам
+include	включвам
+injure	наранявам
+introduce	запознавам
+join	свързвам
+keep	държа
+kick	ритам
+kill	убивам
+land	приземявам се
+last	оставам
+lead	съпровождам
+leave	оставям
+let	позволявам
+lift	вдигам
+limit	ограничавам
+load	зареждам
+look	изглеждам
+lose	губя
+manage	ръководя
+mean	възнамерявам
+measure	измервам
+mention	говоря за
+name	наричам
+own	собствен
+pass	on предавам
+peel	беля
+poison	отравям
+polish	полирам
+prepare	приготвям
+press	натискам
+prevent	предотвратявам
+print	печатам
+process	обработвам
+protest	протестирам
+prove	доказвам
+publish	издавам
+raise	отглеждам
+rate	изчислявам
+reach	достигам
+receive	получавам
+record	правя запис
+reduce	съкращавам
+reflect	отразявам
+refuse	отказвам
+remove	махам
+render	връщам
+reply	отговарям
+report	съобщавам
+represent	представям
+request	моля
+respect	почитам
+reveal	разкривам
+risk	рискувам
+rule	управлявам
+save	пестя
+save	спасявам от унищожение
+see	имам зрение
+see	считам
+send	пращам
+sew	шия
+shout	викам
+show	показвам
+spend	прекарвам
+stand	стоя прав
+stay	оставам
+steal	крада
+stop	спирам (spiram)
+study	уча
+suggest	предлагам
+supply	снабдявам
+support	подкрепям
+surprise	сварвам неподготвен
+teach	обучавам
+test	изпробвам
+thank	благодаря
+throw	хвърлям
+title	озаглавявам
+trade	търгувам
+train	тренирам
+travel	вървя
+treat	отнасям се
+try	опивам се
+turn	завивам
+visit	посещавам
+walk	вървя
+wash	пера
+watch	съзерцавам
+wear	нося
+weigh	тежа
+win	печеля
+wish	желая

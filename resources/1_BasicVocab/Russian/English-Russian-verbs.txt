@@ -1,0 +1,274 @@
+﻿English	Russian
+be	быть
+begin	начинаться
+break	разбить
+buy	купить
+close	закрывать
+come	приходить
+cut	резать
+dance	танцевать
+do	проводить, практиковать
+draw	рисовать
+drink	пить
+eat	есть
+fall	падать, упасть
+feel	чувствовать
+find	находить
+fire	стрелять
+fly	летать
+follow	следовать
+forget	забыть, забывать
+get	получить
+give	давать
+have	иметь
+hear	слышать
+help	помочь
+hope	надеяться
+jump	прыгать, скакать
+kiss	целовать
+know	знать
+laugh	смеяться
+learn	учить(ся)
+lie	лежать
+lie	лгать
+like	нравиться, любить
+listen	слушать
+look	смотреть
+lose	терять
+love	любить
+make	делать
+meet	встречать(ся)
+move	двигать
+need	требовать
+offer	предложить
+open	открыть
+pay	платить
+play	играть
+pull	тянуть
+push	толкнуть
+put	класть
+read	читать
+remember	помнить
+run	бежать
+say	говорить
+sell	продать
+sing	петь
+sit	сидеть
+smile	улыбаться
+swim	плавать
+take	взять, брать
+talk	говорить
+understand	понимать
+use	использовать
+wait	ждать
+write	писать
+accept	принять
+accuse	обвинить
+achieve	достигать
+act	действовать
+add	придать
+add	сосчитать
+admit	припустить, признать
+affect	поблиять
+agree	согласиться
+allow	разрешить
+announce	сообщить
+argue	спорить
+arrive	приехать
+ask	спрашивать
+attack	атаковать
+avoid	уклониться, избежать
+be	жить
+bear	нести
+beat	победить
+become	стать
+behave	относиться
+believe	верить
+benefit	преуспевать
+bite	куснуть
+bring	принести
+build	строить
+burn	спалить
+call	звонить
+care	заботиться
+carry	перенести
+catch	схватить
+cause	побудить
+change	изменить
+choose	выбрать
+classify	сортировать
+clean	чистить
+compare	сравнивать
+connect	соединить
+contain	заключать в себе, охватывать
+continue	продолжать
+control	контролировать
+cook	варить
+copy	копировать
+cough	кашлять
+count	считать, пересчитывать
+crush	разгромить
+crush	смять
+cry	плакать
+decide	решить
+deliver	вручить
+describe	описать
+design	предложить
+desire	хотеть
+develop	развиваться
+die	умереть
+discover	узнавать
+discuss	дискутировать
+dislike	не любить
+divide	разделить
+doubt	сомневаться
+drive	водить
+embrace	заключать в себе, охватывать
+encourage	ободрить
+end	кончать
+enhance	увеличить
+enjoy	радоваться
+enter	вступить
+establish	основать
+estimate	оценить
+exceed	преодолеть
+exist	быть
+expect	ждать
+explain	объяснять
+express	выразить
+fight	драться
+fill	наполнить
+find	обнаружить
+find	out определить, узнать
+finish	закончить, докончить
+flush	выравнить
+forgive	простить
+free	освободить
+give	up поддаться
+grow	расти
+happen	случиться
+hate	ненавидеть
+hide	скрывать
+hold	держать
+identify	опознать
+imply	включать
+include	включить
+increase	увеличивать(ся)
+injure	ранить
+introduce	привести
+introduce	представить
+join	соединить(ся)
+keep	сохранить
+kick	лягнуть
+kill	убить
+land	приземлиться
+last	обойтись
+lead	завести
+leave	оставить
+let	оставить
+lift	поднять
+limit	ограничивать
+load	зарядить
+lock	замкнуть
+look	казаться
+lose	проиграть
+manage	вести
+marry	жениться
+match	сходиться
+mean	обозначать
+mean	замышлять
+measure	мерить
+mention	цитировать
+miss	упустить
+miss	промахнуться
+name	назвать
+operate	управлять
+order	приказать
+own	владеть
+pass	on передавать
+peel	чистить
+plan	наметить
+please	обрадовать
+plow	пахать
+poison	отравить
+polish	глянцевать
+prepare	приготовить
+press	сжать, нажать
+prevent	предотвратить
+print	напечатать
+process	выработать
+profit	нажива, получать доход
+protest	возражать, протестовать
+prove	доказать
+publish	издать
+raise	воспитать
+rate	оценивать
+reach	достичь
+receive	получить
+record	записать
+reduce	сократить
+reflect	отражать
+refuse	отказаться
+remove	убрать
+render	вернуть
+replace	заменить
+reply	отвечать, ответить
+report	сообщать
+represent	символизировать
+request	просить
+respect	учитывать
+rest	отдыхать
+reveal	разоблачить, открыть
+risk	рисковать
+round	off округлять(ся)
+rule	править
+save	копить
+save	спасти
+see	видеть
+see	считать
+send	послать, отправить
+serve	служить
+sew	шить
+share	разделять
+shout	кричать
+show	показать
+smash	ударить
+smell	пахнуть
+smell	вонять
+smell	чуять
+smoke	курить
+spend	проходить
+stand	стоять
+stay	остаться
+steal	красть, воровать
+stop	останавить
+study	изучать
+suffer	терпеть
+suggest	предложить
+supply	предоставить
+support	поддерживать
+suppose	предполагать
+surprise	удивить
+taste	poпробовать
+teach	обучать
+test	испытать
+thank	благодарить
+think	думать
+throw	бросать, кидать
+title	назвать
+trade	торговать
+train	дрессировать
+travel	ходить
+treat	лечить
+trick	обмануть
+try	попробовать
+turn	повернуть
+visit	посетить
+walk	идти
+warm	нагревать
+wash	вымыть
+watch	смотреть
+wear	носить
+weigh	взвешивать(ся)
+win	выиграть, победить
+wish	пожелать, хотеть

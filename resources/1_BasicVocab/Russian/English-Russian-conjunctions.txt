@@ -1,0 +1,8 @@
+﻿English	Russian
+and	и
+because	потому что
+for	так как
+if	если
+or	или
+than	чем
+until	до

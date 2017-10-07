@@ -1,0 +1,501 @@
+English	Sanskrit
+1	१
+10	१०
+100	१००
+1000	१०००
+101	१०१
+105	१०५
+11	११
+110	११०
+115	११५
+12	१२
+120	१२०
+125	१२५
+13	१३
+130	१३०
+135	१३५
+14	१४
+140	१४०
+144	१४४
+145	१४५
+15	१५
+150	१५०
+155	१५५
+16	१६
+160	१६०
+165	१६५
+17	१७
+170	१७०
+1728	१७२८
+175	१७५
+18	१८
+180	१८०
+19	१९
+190	१९०
+2	२
+20	२०
+200	२००
+21	२१
+22	२२
+23	२३
+24	२४
+25	२५
+26	२६
+27	२७
+28	२८
+29	२९
+3	३
+30	३०
+300	३००
+31	३१
+32	३२
+33	३३
+34	३४
+35	३५
+36	३६
+37	३७
+38	३८
+39	३९
+4	४
+40	४०
+400	४००
+41	४१
+42	४२
+43	४३
+44	४४
+45	४५
+46	४६
+47	४७
+48	४८
+49	४९
+5	५
+50	५०
+500	५००
+51	५१
+52	५२
+53	५३
+54	५४
+55	५५
+56	५६
+57	५७
+58	५८
+59	५९
+6	६
+60	६०
+61	६१
+62	६२
+63	६३
+64	६४
+65	६५
+66	६६
+67	६७
+68	६८
+69	६९
+7	७
+70	७०
+71	७१
+72	७२
+73	७३
+74	७४
+75	७५
+76	७६
+77	७७
+78	७८
+79	७९
+8	८
+80	८०
+81	८१
+82	८२
+83	८३
+84	८४
+85	८५
+86	८६
+87	८७
+88	८८
+89	८९
+9	९
+90	९०
+91	९१
+92	९२
+93	९३
+94	९४
+95	९५
+96	९६
+97	९७
+98	९८
+99	९९
+Adam Smith	एडम स्मिथ
+Adolf Hitler	एडोल्फ हिटलर
+Afghanistan	अफगानस्थान
+Africa	अफ्रीका
+Akira Kurosawa	अकिरा कुरोसावा
+Alan Turing	एलेन ट्यूरिंग
+Alaska	अलास्‍का
+Albania	अल्बानिया
+Alexander the Great	अलेक्ज़ांडर महान
+Alfred Hitchcock	अल्फ्रेड हिच्कक्
+Alfred Nobel	अल्फ्रेड नोबेल
+Algeria	अल्जीरिया
+Amur	अमूर
+Andorra	अंडोरा
+Angola	अंगोला
+Anthropology	मानवविज्ञानं
+Antigua and Barbuda	अंटीग्वा
+Archaeology	पुरातत्त्व
+Architecture	वास्तुशास्त्रम्
+Argentina	अर्जन्टीना
+Aristotle	अरस्तु
+Arkansas	आर्कन्‍सा
+Armenia	आर्मीनिया
+Asia	एशिया
+Assam	असाम
+Astrology	फलज्योतिषं
+Astronomy	ज्योतिष
+Australia	आस्ट्रेलिया
+Austria	आस्ट्रिया
+Azerbaijan	अजर्बैजान
+Badminton	पिच्छकन्दुक
+Bahrain	बहरैन
+Bali	बाली
+Bangalore	बंगलोर
+Bangladesh	बंगलादेश
+Barbados	बार्बाडोस
+Basketball	शिक्यकन्दुक
+Belarus	बेलारूस
+Belgium	बेल्जियम
+Belize	बेलीज
+Benin	बेनिन
+Bernhard Riemann	बर्न्हार्ड रीमन
+Bihar	बिहार
+Bill Gates	बिल गेट्स
+Biography	जीवनी
+Biology	जीवशास्त्रं
+Blue	नील
+Bolivia	बोलिविया
+Boron	बोरान
+Bosnia and Herzegovina	बास्निया
+Botany	वनस्पति विज्ञानं
+Botswana	बोत्सवाना
+Brahma	ब्रह्मा
+Brahmaputra River	ब्रह्मपुत्र
+Brazil	ब्रासील
+Brunei	ब्रूनै
+Bulgaria	बुल्गारिया
+Burkina Faso	बुर्कीना-फासो
+Burma	म्यन्मार
+Californium	कालिफोर्नियम
+Cameroon	केमेरून
+Canada	केनडा
+Cape Verde	केप वर्डी
+Central African Republic	केन्द्रीय अफ्रीका गणराज्य
+Chad	चाड
+Charlemagne	चार्लेमन
+Charles Darwin	चार्ल्स डार्विन
+Charles de Gaulle	चार्ल्स डे गौल
+Che Guevara	चे ग्वेएरा
+Chemistry	रसायनशास्त्रं
+Chennai	चेन्नै
+Chile	चिले
+China	चीन
+Colombia	कोलोम्बिया
+Comoros	कोमोरोस
+Cooking	पाकशास्त्रं
+Copenhagen	कोपनहागन
+Copper	ताम्रम्
+Costa Rica	कोस्टा रीका
+Cricket	क्रिकेट
+Croatia	क्रोएशिया
+Cuba	क्यूबा
+Czech Republic	चेक रिपब्लिक
+Dance	नृत्य
+David Hilbert	डेविड हिल्बर्ट
+Delhi	दिल्ली
+Denmark	डेनमार्क
+Dennis Gabor	डेनिस गाबोर
+Diana	डायना राजकुमारी
+Dominica	डोमोनिका
+Dominican Republic	डोमोनिकन रिपब्लिक
+Drama	नाट्यकला
+Economics	अर्थशास्त्रं
+Economy	अर्थशास्त्रं
+Ecuador	एक्वाडोर
+Edward Gibbon	एडवार्ड गिबन
+Egypt	ईजिप्ट
+El Salvador	एल-साल्वाडोर
+Eleanor Roosevelt	एलेनोर रोज़वेल्ट
+Electronics	ऋणाणुशास्त्र
+Enrico Fermi	एन्रीको फर्मी
+Ethiopia	ईथ्योपिया
+Europe	यूरोप
+Fidel Castro	फिदेल कास्ट्रो
+Fiji	फिजी
+Finland	फिन्लैंड
+Florence Nightingale	फ्लोरेन्स नैटिन्गेल
+Florida	फ्‍लोरिडा
+France	फ्रांस
+Gabon	गाबोन
+Ganges	गङ्गा
+George Paget Thomson	जार्ज पेजेट थामसन
+George W. Bush	जार्ज डबल्यु बुश
+George Washington	जार्ज वाशिंगटन
+Germany	जर्मनी
+Ghana	घाना
+Goa	गोवा
+Gold	सुवर्णम्
+Golf	द्रुगुलिका
+Grammar	व्‍याकरण
+Greece	ग्रीस (यूनान)
+Guinea	गिनी
+Gujarat	गुजरात
+Gymnastics	दाक्षम्
+Hammurabi	हाम्मुरबी
+Hannibal	हान्निबल
+Hans Bethe	हान्स बेथे
+Helen Keller	हेलेन केलर
+Helium	हीलियम
+Henry Ford	हेन्री फोर्ड
+Herodotus	हेरोडोटस
+Hideki Yukawa	हिदेकी युकावा
+Himalayas	हिमालय
+Hinduism	सनातन धर्म
+Hippocrates	हिप्पोक्रेटस
+Hirohito	हिरोहितो
+History	इतिहास
+Ho Chi Minh	हो चि मिन्ह
+Honduras	हांडूरस
+Hungary	हंगरी
+Hydrogen	हाइड्रोजन
+Iceland	आइसलैंड
+Immanuel Kant	इमान्युएल काण्ट
+India	भारत
+Indian Ocean	सिन्धु महासागर
+Indira Gandhi	इन्दिरा गान्धी
+Indonesia	इन्दोनेशिया
+Indus River	सिन्‍धु नदी
+Ingmar Bergman	इंगमार बर्गमान
+Internet	आन्तरजालं
+Iowa	आयोवा
+Iran	ईरान
+Iraq	ईराक
+Iron	लोहम्
+Islam	इस्लाम
+Israel	इस्रेल
+Italy	इटली
+Jainism	जैन धर्म:
+Jakarta	जकार्ता
+Jamaica	जमैका
+Japan	जापान
+Jawaharlal Nehru	जवाहरलाल नेहरू
+Johann Wolfgang von Goethe	जोहान वुल्फगांग गेटे
+John Keats	जान कीट्स
+Jordan	जार्डन
+Jordan River	जार्दन नदी
+Joseph Stalin	जोसेफ स्टालिन
+Julius Caesar	जुलियस कैसर
+Kansas	केन्‍सास
+Karl Marx	कार्ल मार्क्स
+Karnataka	कर्णाटक
+Kazakhstan	कजाकस्थान
+Kenya	केन्या
+Kiribati	किरिबाटी
+Kolkata	कलकाता
+Korea	कोरिया
+Krishna	कृष्णः
+Kuwait	कुवैत
+Kyrgyzstan	किरगिस्थान
+Lahore	लाहोर
+Laos	लाओस
+Latvia	लाट्विया
+Lead	सीसम्
+Leap year	अधिवर्ष
+Lebanon	लेबनान
+Leon Trotsky	लीयो ट्रोट्स्की
+Leonhard Euler	लियोनार्ड ओइलर
+Lesotho	लेसोथो
+Liberia	लायबीरिया
+Libya	लिबिया
+Liechtenstein	लिक्टनस्टैन
+Lisbon	लिस्बन
+Literature	प्राचीन साहित्यम्
+Lithium	लिथियम
+Lithuania	लिथ्वानिया
+Los Angeles	लास एंजलस
+Louisiana	लुईजियाना
+Lucrezia Borgia	लुक्रेजिया बोर्गिया
+Luxembourg	लक्सम्बर्ग
+Madagascar	मडगास्कर
+Madrid	माद्रिद
+Maharashtra	महाराष्ट्र
+Mahatma Gandhi	मोहनदास करमचन्द गान्धी
+Maine	मेन
+Malaysia	मलयेशिया
+Maldives	मालदीव
+Mali	माली
+Malta	माल्टा
+Mantra	मन्त्र
+Mao Zedong	माओ ज़े डुंग
+Margaret Thatcher	मार्गरेट थाचर
+Martin Luther	मार्टिन लूथर
+Martin Scorsese	मार्टिन स्कोर्सेसे
+Mathematics	गणितं
+Mauritania	मारिटेनिया
+Mauritius	मारिशस
+Max Planck	माक्स प्लान्क
+Medicine	आयुर्विज्ञान
+Micronesia	मैक्रोनीशिया
+Mikhail Gorbachev	मिखाइल गोर्बाचोफ
+Missouri	मिसूरी
+Moldova	मोल्दोवा
+Monaco	मोनाको
+Mongolia	मंगोलिया
+Morocco	मोराको
+Mother Teresa	मदर टेरेसा
+Mozambique	मोजम्बीक
+Muhammad	मुहम्मद
+Mumbai	बम्बई
+Murray Gell-Mann	मरे गेलमन
+Music	गानं
+Namibia	नमीबिया
+Nauru	नौरु
+Nebraska	नेब्रास्‍का
+Nefertiti	नेफेरतिति
+Nelson Mandela	नेल्सन मन्डेला
+Nepal	नेपाल
+Netherlands	नेदरलैंड्स
+New Jersey	न्‍यू जर्सी
+New Zealand	न्यू-जीलैंड
+Nicaragua	निकारगुवा
+Nicolaus Copernicus	निकोलस कपरनिकस
+Niels Bohr	नील्स बोह्र
+Niger	नीजे
+Nigeria	नैजीरिया
+Nikola Tesla	निकोला टेस्ला
+North Dakota	नार्थ डेकोटा
+Norway	नार्वे
+Oklahoma	ओक्‍लाहोमा
+Oman	ओमान
+Orissa	उड़ीसा
+Pakistan	पाकिस्तान
+Palau	पलाऊ
+Panama	पानामा
+Papua New Guinea	पपुवा न्यू गिनी
+Paraguay	पेरेग्वाय
+Percy Bysshe Shelley	पर्सी बिश शेली
+Peru	पेरु
+Philippines	फिलिपीन्स
+Philosophy	दर्शनशास्त्रम्
+Physics	भौतिकशास्त्रं
+Plato	प्लातोन्
+Poetry	कविता
+Poland	पोलैंड
+Portugal	पुर्तगाल
+Pythagoras	पैथागोरस्
+Qatar	कतार
+Rabindranath Tagore	रवीन्द्रनाथ ठाकुर
+Rama	राम
+Ramayana	रामायण
+Religion	धर्म
+Republic of China	तैवान
+Richard Feynman	रिचार्ड फैनमन
+Robert Andrews Millikan	रोबर्ट ए मिल्लिकन
+Romania	रोमानिया
+Rome	रोमा
+Rosa Parks	रोजा पार्क्स
+Rwanda	रवाण्डा
+Saddam Hussein	सद्दाम हुसेन
+Saint Kitts and Nevis	सेंट किट्
+Saint Lucia	सेंट लूसिया
+Saladin	सलादीन
+Salman Rushdie	सलमान रश्दी
+Samoa	समोआ
+Samuel Taylor Coleridge	सेम्येल टेलर कोलरिज
+San Marino	सान मरीनो
+Sanskrit	संस्कृत
+Saturn	शनि
+Saudi Arabia	सऊदी अरब
+Senegal	सेनेगल
+Serbia	सर्बिया
+Sergei Eisenstein	सेर्गे आइसेन्स्टाइन
+Seychelles	सेशेल
+Sierra Leone	सियारा-लियोन
+Sigmund Freud	सिग्मंड फ्रायड
+Sikkim	सिक्किम
+Silver	रूप्यम्
+Singapore	सिंगापोर
+Sitting Bull	सिटिंग बुल
+Slovakia	स्लोवाकिया
+Slovenia	स्लोवीनिया
+Socrates	सुकरात
+Softball	मृदुकन्दुक
+Solomon Islands	सोलोमन-द्वीप
+Somalia	सोमालिया
+South Korea	दक्षिण कोरिया
+Spain	स्पेन
+Sri Lanka	श्रीलङ्का
+Star	तारा
+Steven Spielberg	स्टीवन स्पीलबर्ग
+Sudan	सूडान
+Suharto	सुहार्तो
+Sukarno	सुकर्णो
+Suriname	सुरिनाम
+Swaziland	स्वाजीलैंड
+Sweden	स्वीडन
+Switzerland	स्विटजरलैंड
+Syria	सिरिया
+T. S. Eliot	टी. एस. एलियट
+Table tennis	पटलानम्
+Tajikistan	ताजिकिस्थान
+Tamil Nadu	तमिलनाडु
+Tanzania	टंजानिया
+Television	दूरदर्शन
+Temple	देवमन्दिरम्
+Tennis	लानम्
+Thailand	थाइलैंड
+The Gambia	गाम्बिया
+Thomas Aquinas	थामस एक्विनास
+Thomas Edison	थामस एडिसन
+Thomas Jefferson	थामस जेफरसन
+Tiger	व्‍याघ्र:
+Timor	टिमोर
+Timur	तैमूरलंग
+Tin	त्रपु
+Togo	टोगो
+Tonga	टोंगा
+Tony Blair	टोनी ब्लेयर
+Trinidad	ट्रिनिडाड
+Tunisia	टुनिशिया
+Turkey	तुर्किये
+Turkmenistan	तुर्कमिनिस्थान
+Tuvalu	टुवालु
+United States	संयुक्त राज्‍य अमेरिका
+Upanishad	उपनिषद
+Uranium	यूरानियम
+Uruguay	उरुग्वाय
+Uzbekistan	उजबेकिस्थान
+Venezuela	वेनेज्वेला
+Venus	शुक्र
+Vermont	वर्मांट
+Victor Hugo	विक्टर ह्यूगो
+Vietnam	वियेतनाम
+Virginia	वर्जिनिया
+Vishnu	विष्णु
+Vladimir Lenin	व्लाडिमिर लेनिन
+Vladimir Putin	व्लाडिमिर पुटिन
+Volleyball	अपातकन्दुक
+Walt Disney	वाल्ट डिज्नी
+Washington	वाशिंगटन नगर
+West Bengal	पश्चिम बंगाल
+West Virginia	वेस्‍ट वर्जिनिया
+William Shakespeare	विलियम शेक्सपीयर
+William Shockley	विलियम शाक्ली
+William Wordsworth	विलियम वर्ड्सवर्थ
+Winston Churchill	विन्स्टन चर्चिल
+Wolfgang Pauli	वुल्फगांग पौली
+Wyoming	वायोमिंग
+Yellow River	हुआंग हे नदी
+Yemen	यमन
+Yerevan	येरेवान
+Yoga	योग
+Zambia	जाम्बिया
+Zimbabwe	जिम्बाबवे
+Zinc	वङ्गम्

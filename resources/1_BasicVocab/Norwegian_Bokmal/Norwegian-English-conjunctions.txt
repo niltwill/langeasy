@@ -1,0 +1,6 @@
+Norwegian	﻿English
+og	and
+fordi	because
+hvis	if
+eller	or
+enn	than
