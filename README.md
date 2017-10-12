@@ -4,6 +4,10 @@
 
 Please make sure you have the [.NET Framework 4.0](https://www.microsoft.com/en-US/download/details.aspx?id=17851) (or later) installed.
 
+## Download
+
+* [LangEasy - v1.0.2.1](https://www.mediafire.com/file/5phte6daqc8eqcz/LangEasy-v1.0.2.1.zip)
+
 ## Introduction
 
 LangEasy is a language learning helper application (for Windows). It can be used to memorize vocabulary, expressions or 
