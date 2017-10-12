@@ -1,6 +1,0 @@
-﻿English	Turkish
-and	ve
-because	çünkü
-for	çünkü
-if	eğer
-or	veya

@@ -1,9 +1,0 @@
-﻿English	Czech
-and	a
-because	poněvadž, protože
-for	protože
-if	jestli, když
-or	nebo
-than	než
-until	dokud
-whenever	kdykoli, kdykoliv

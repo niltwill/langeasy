@@ -1,9 +1,0 @@
-﻿English	Esperanto
-and	ja
-because	ĉar
-for	cxar
-if	se
-or	aŭ
-than	ol
-until	gxis
-whenever	kiam ajn

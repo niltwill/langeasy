@@ -1,8 +1,0 @@
-﻿English	Thai
-and	และ
-because	เพราะว่า
-for	เพราะว่า
-if	ถ้า
-or	หรือ
-than	กว่า (gwàa)
-until	จนกระทั่ง

@@ -1,8 +1,0 @@
-﻿English	Japanese
-and	そして [soshite]
-because	なぜならば [nazenaraba]
-for	なぜなら [nazenara]
-if	もし [moshi]
-or	または [mataha]
-than	より (yori)
-until	まで (...made)

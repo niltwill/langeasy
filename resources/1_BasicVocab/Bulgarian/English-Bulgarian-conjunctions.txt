@@ -1,8 +1,0 @@
-﻿English	Bulgarian
-and	плюс
-because	защото
-for	защото
-if	ако
-or	или
-than	отколкото
-until	до

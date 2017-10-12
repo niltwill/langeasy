@@ -1,7 +1,0 @@
-﻿English	Romanian
-and	şi
-because	pentru că
-for	deoarece
-if	dacă
-or	sau
-than	ca, decât

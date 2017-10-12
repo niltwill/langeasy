@@ -1,7 +1,0 @@
-Norwegian	﻿English
-mot	against
-imellom	among
-til	into
-siden	since
-å	to
-med	with

@@ -1,9 +1,0 @@
-﻿Englis	Greek
-and	και
-because	επειδή
-for	γατί
-if	εάν, αν
-or	ή
-than	από
-until	έως
-whenever	όποτε

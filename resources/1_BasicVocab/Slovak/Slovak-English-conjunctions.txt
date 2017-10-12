@@ -1,7 +1,0 @@
-Slovak	﻿English
-a	and
-pretože	because
-pretože	for
-ak	if
-alebo	or
-ako	than

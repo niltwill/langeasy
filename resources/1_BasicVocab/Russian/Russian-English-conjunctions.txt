@@ -1,7 +1,0 @@
-Russian	﻿English
-и	and
-потому что	because
-так как	for
-если	if
-или	or
-чем	than

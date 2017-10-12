@@ -1,8 +1,0 @@
-﻿English	Norwegian
-against	mot
-among	imellom
-into	til
-since	siden
-to	å
-with	med
-with	med

@@ -1,9 +1,0 @@
-﻿English	Bosnian
-big	veliki, veliki (m)
-cold	hladan, hladan (m)
-after	posle
-general	generalni, generalni (m)
-lucky	sretan (m)
-military	vojska
-narrow	uski, uski (m)
-wet	mokar, mokar (m)

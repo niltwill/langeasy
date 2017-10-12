@@ -1,9 +1,0 @@
-﻿English	Spanish
-and	más
-because	porque
-for	ya que
-if	si
-or	o
-than	que
-until	hasta
-whenever	cuando quiera

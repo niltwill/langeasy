@@ -1,9 +1,0 @@
-﻿English	Dutch
-and	en
-because	omdat
-for	want
-if	als
-or	of
-than	dan
-until	tot
-whenever	wanneer ook

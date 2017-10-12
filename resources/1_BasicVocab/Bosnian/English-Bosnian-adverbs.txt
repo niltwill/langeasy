@@ -1,5 +1,0 @@
-﻿English	Bosnian
-never	nikad, nikad
-not	ne, ne
-now	sad, sad
-why	zašto

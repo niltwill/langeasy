@@ -1,8 +1,0 @@
-Czech	﻿English
-a	and
-poněvadž, protože	because
-protože	for
-jestli, když	if
-nebo	or
-než	than
-dokud	until

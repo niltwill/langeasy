@@ -1,9 +1,0 @@
-﻿English	German
-and	und
-because	weil
-for	weil
-if	wenn
-or	oder
-than	als
-until	bis
-whenever	wann immer

@@ -1,8 +1,0 @@
-﻿English	Serbian
-again	opet
-early	ran
-in	unutra
-merely	jedini
-not	ne
-still	miran
-then	onda

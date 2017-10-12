@@ -1,1002 +1,0 @@
-English	English
-
-black	black
-blue	blue
-brown	brown
-gray, grey	gray
-green	green
-orange, orangish	orange
-pink, pinkish	pink
-red, ruddy	red
-violet, purple	violet
-white	white
-yellow	yellow
-couple, pair	couple
-eight	eight
-eighteen	eighteen
-eighty, fourscore	eighty
-eleven	eleven
-fifteen	fifteen
-fifty	fifty
-first, 1st	first
-five	five
-forty	forty
-four	four
-fourteen	fourteen
-hundred	hundred
-million	million
-nine	nine
-nineteen	nineteen
-ninety	ninety
-nothing, nil	nothing
-one	one
-seven	seven
-seventeen	seventeen
-seventy	seventy
-six	six
-sixteen	sixteen
-sixty, threescore	sixty
-ten	ten
-third, 3rd	third
-thirteen	thirteen
-thirty, xxx	thirty
-thousand	thousand
-thousand	thousand
-three	three
-twenty	twenty
-two	two
-arm	arm
-back, dorsum	back
-beak, bill	beak
-blood	blood
-body, torso	body
-bone, os	bone
-brain, encephalon	brain
-breath	breath
-cell	cell
-chest, breast	chest
-chest, thorax	chest
-chin, mentum	chin
-ear	ear
-eye	eye
-face, human face	face
-finger	finger
-foot	foot
-forehead, brow	forehead
-gene	gene
-hair	hair
-hair, pilus	hair
-hand	hand
-head, caput	head
-heart, ticker	heart
-knee	knee
-leg	leg
-lip	lip
-mouth	mouth
-muscle, musculus	muscle
-nail	nail
-neck, cervix	neck
-nerve, nervus	nerve
-nose, olfactory organ	nose
-skin	skin
-stomach	stomach
-tail	tail
-throat, pharynx	throat
-thumb, pollex	thumb
-toe	toe
-tongue, lingua	tongue
-tooth	tooth
-wing	wing
-ant, emmet	ant
-bear	bear
-bee	bee
-bird	bird
-cat, true cat	cat
-cow, moo-cow	cow
-dog	dog
-elephant	elephant
-fish	fish
-fly	fly
-goat, caprine animal	goat
-horse, Equus caballus	horse
-insect	insect
-lion	lion
-monkey	monkey
-pig, hog	pig
-sheep	sheep
-snake, serpent	snake
-baby, babe	baby
-birth, nativity	birth
-birthday	birthday
-boy, male child	boy
-brother, blood brother	brother
-child, kid	child
-daughter, girl	daughter
-death	death
-family, family unit	family
-father	father
-friend	friend
-girl, miss	girl
-grandfather, gramps	grandfather
-human, man	human
-husband	husband
-life	life
-man, adult male	man
-marriage, matrimony	marriage
-mother, female parent	mother
-neighbor, neighbour	neighbor
-parent	parent
-person, individual	person
-relationship, human relationship	relationship
-sister, sis	sister
-son, boy	son
-wedding	wedding
-wedding, marriage	wedding
-wife, married woman	wife
-woman, adult female	woman
-beer	beer
-coffee, java	coffee
-drink, beverage	drink
-milk	milk
-milkshake, milk shake	milkshake
-tea	tea
-water, H2O	water
-wine, vino	wine
-bread	bread
-breakfast	breakfast
-butter	butter
-cake	cake
-cheese	cheese
-chocolate	chocolate
-egg	egg
-food, nutrient	food
-fruit	fruit
-lunch, luncheon	lunch
-meal, repast	meal
-meat	meat
-oil	oil
-rice	rice
-salad	salad
-salt	salt
-sandwich	sandwich
-sauce	sauce
-soup	soup
-sugar, refined sugar	sugar
-sweet, sweetness	sweet
-apple	apple
-apricot	apricot
-banana	banana
-blackberry	blackberry
-cherry	cherry
-lemon	lemon
-nut	nut
-orange	orange
-peach	peach
-pear	pear
-pineapple, ananas	pineapple
-plum	plum
-raspberry	raspberry
-strawberry	strawberry
-bean, edible bean	bean
-cabbage, chou	cabbage
-carrot	carrot
-cucumber, cuke	cucumber
-garlic, ail	garlic
-olive	olive
-onion	onion
-parsnip, Pastinaca sativa	parsnip
-pea	pea
-potato, spud	potato
-radish	radish
-tomato	tomato
-address	address
-bathroom, bath	bathroom
-bedroom	bedroom
-brick	brick
-door	door
-floor, flooring	floor
-floor, level	floor
-garage	garage
-garden	garden
-gate	gate
-hall, anteroom	hall
-home, place	home
-house	house
-kitchen	kitchen
-roof	roof
-room	room
-shower	shower
-step, stair	step
-toilet, lavatory	toilet
-wall	wall
-well	well
-window	window
-bed	bed
-carpet, rug	carpet
-chair	chair
-cupboard, closet	cupboard
-curtain, drape	curtain
-desk	desk
-furniture	furniture
-seat	seat
-shelf	shelf
-sink	sink
-table	table
-bag, handbag	bag
-boot	boot
-cloth, fabric	cloth
-clothing, wear	clothing
-coat	coat
-collar, neckband	collar
-hat	hat
-jacket	jacket
-jewel, gem	jewel
-ring, band	ring
-shirt	shirt
-shoe	shoe
-skirt	skirt
-sock	sock
-suitcase	suitcase
-tie, necktie	tie
-actor, player	actor
-actress	actress
-businessman, man of affairs	businessman
-expert	expert
-general, full general	general
-journalist	journalist
-judge, justice	judge
-leader	leader
-minister, government minister	minister
-musician	musician
-photographer, lensman	photographer
-pilot, airplane pilot	pilot
-policeman, officer	policeman
-politician, politico	politician
-president	president
-professional, professional person	professional
-representative	representative
-sailor, crewman	sailor
-scientist	scientist
-secretary, secretarial assistant	secretary
-servant, retainer	servant
-soldier	soldier
-writer, author	writer
-airport, airdrome	airport
-bank	bank
-bridge, span	bridge
-building, edifice	building
-capital	capital
-castle	castle
-church, church building	church
-cinema	cinema
-city, metropolis	city
-factory, mill	factory
-flat, apartment	flat
-hospital, infirmary	hospital
-hotel	hotel
-library	library
-park	park
-prison, prison house	prison
-restaurant, eatery	restaurant
-road, route	road
-school, schoolhouse	school
-station	station
-street	street
-structure, construction	structure
-subway, metro	subway
-supermarket	supermarket
-theater, theatre	theater
-town	town
-university	university
-village	village
-accident	accident
-boat	boat
-bus, coach	bus
-car, auto	car
-curve, bend	curve
-express, limited	express
-flight, flying	flight
-journey, journeying	journey
-passenger, rider	passenger
-plane, airplane	plane
-ship	ship
-skid, slip	skid
-track, rail	track
-train, railroad train	train
-transport, shipping	transport
-air	air
-animal, beast	animal
-branch	branch
-evolution, development	evolution
-farm	farm
-field	field
-fire, flame	fire
-flower	flower
-forest, wood	forest
-grass	grass
-leaf, leafage	leaf
-life	life
-lightning	lightning
-moisture, wet	moisture
-nature	nature
-plant	plant
-root	root
-sex	sex
-sky	sky
-sleep, slumber	sleep
-smell, aroma	smell
-smoke, fume	smoke
-spring, fountain	spring
-stem, stalk	stem
-stream, current	stream
-tree	tree
-wave, moving ridge	wave
-weather	weather
-world	world
-bank	bank
-beach	beach
-current, stream	current
-direction	direction
-Earth	Earth
-east	east
-height, altitude	height
-hill	hill
-island	island
-lake	lake
-land, earth	land
-map	map
-Moon, moon	Moon
-north	north
-plain, champaign	plain
-region, part	region
-river	river
-sea	sea
-south	south
-space, infinite	space
-star	star
-sun, Sun	sun
-west	west
-acid	acid
-chemical, chemical substance	chemical
-chemical element, element	chemical element
-coal	coal
-cotton	cotton
-dust	dust
-earth, ground	earth
-fat	fat
-glass	glass
-glue, gum	glue
-grain	grain
-ice, water ice	ice
-iron	iron
-leather	leather
-liquid	liquid
-matter	matter
-metallic element, metal	metallic element
-oil, petroleum	oil
-poison	poison
-powder	powder
-sand	sand
-silk	silk
-soap	soap
-steel	steel
-wood	wood
-wool	wool
-bag	bag
-basket, handbasket	basket
-bottle	bottle
-box	box
-can, tin	can
-cup	cup
-drawer	drawer
-envelope	envelope
-glass, drinking glass	glass
-plate	plate
-camera	camera
-camera, photographic camera	camera
-cellular phone, mobile phone	cellular phone
-clock	clock
-computer	computer
-elevator, lift	elevator
-engine	engine
-instrument	instrument
-machine	machine
-oven	oven
-television, telly	television
-watch, ticker	watch
-addition	addition
-angle	angle
-area, expanse	area
-center, centre	center
-circle	circle
-curve, curved shape	curve
-degree	degree
-degree, grade	degree
-difference	difference
-distance	distance
-division, partition	division
-edge, border	edge
-element	element
-function, office	function
-half, one-half	half
-limit, bound	limit
-line	line
-net, network	net
-order	order
-outside, exterior	outside
-percent, percentage	percent
-point, dot	point
-purpose, function	purpose
-result, outcome	result
-root	root
-rule, regulation	rule
-set	set
-side	side
-square, foursquare	square
-square, second power	square
-substitution	substitution
-surface	surface
-total, sum	total
-ability, power	ability
-act, deed	act
-action	action
-activity, action	activity
-addition	addition
-amount	amount
-attack, onslaught	attack
-attempt, effort	attempt
-attitude, mental attitude	attitude
-back	back
-behavior, demeanor	behavior
-bit, scrap	bit
-blow	blow
-break, recess	break
-campaign, drive	campaign
-case, instance	case
-chance, opportunity	chance
-change, alteration	change
-choice, selection	choice
-condition, status	condition
-connection, connector	connection
-connection, connexion	connection
-crack, cleft	crack
-crush	crush
-cut, cutting	cut
-damage, harm	damage
-danger	danger
-death	death
-decoration, ornament	decoration
-defense, defence	defense
-destruction, devastation	destruction
-detail, particular	detail
-dominance, ascendancy	dominance
-drop	drop
-duty	duty
-effort, exertion	effort
-fall, tumble	fall
-feature, characteristic	feature
-fight, fighting	fight
-front, forepart	front
-hit, striking	hit
-hole	hole
-increase, growth	increase
-increase, increment	increase
-internet	internet
-jolt	jolt
-kick, boot	kick
-kind, sort	kind
-knot	knot
-list, listing	list
-majority, bulk	majority
-matter, affair	matter
-mind	mind
-operation, functioning	operation
-opposite, reverse	opposite
-outburst, burst	outburst
-part, portion	part
-part, share	part
-personality	personality
-piece	piece
-place	place
-position, place	position
-power, powerfulness	power
-practice	practice
-project, task	project
-property	property
-quality	quality
-quiet, repose	quiet
-reach, range	reach
-report	report
-responsibility, responsibleness	responsibility
-rest, repose	rest
-return, homecoming	return
-rise, ascent	rise
-risk, hazard	risk
-seat, place	seat
-serial, series	serial
-set	set
-silence, quiet	silence
-situation, state of affairs	situation
-slice, piece	slice
-state	state
-step, pace	step
-stop, halt	stop
-taste, gustation	taste
-thing	thing
-top, peak	top
-touch, touching	touch
-treatment, handling	treatment
-tremble, shiver	tremble
-trick	trick
-type	type
-use, usage	use
-way	way
-wear	wear
-whole	whole
-will, volition	will
-wish, wishing	wish
-afternoon	afternoon
-age	age
-April, Apr	April
-August, Aug	August
-autumn, fall	autumn
-beginning, commencement	beginning
-century	century
-date, day of the month	date
-day	day
-December, Dec	December
-end, terminal	end
-evening, even	evening
-February, Feb	February
-Friday, Fri	Friday
-future, futurity	future
-hour	hour
-January, Jan	January
-July	July
-June	June
-May	May
-midnight	midnight
-minute, min	minute
-moment, minute	moment
-moment, minute	moment
-Monday, Mon	Monday
-month, calendar month	month
-morning, morn	morning
-night, nighttime	night
-November, Nov	November
-now	now
-October, Oct	October
-past	past
-pause, intermission	pause
-period	period
-present, nowadays	present
-Saturday	Saturday
-season	season
-second, sec	second
-September	September
-spring, springtime	spring
-summer, summertime	summer
-Sunday	Sunday
-Thursday, Th	Thursday
-today	today
-tomorrow	tomorrow
-Tuesday, Tues	Tuesday
-Wednesday	Wednesday
-week, calendar week	week
-weekend	weekend
-while	while
-winter, wintertime	winter
-year, twelvemonth	year
-art, fine art	art
-artist, creative person	artist
-band	band
-brush	brush
-color, colour	color
-concert	concert
-design, designing	design
-diversity, variety	diversity
-entertainment, amusement	entertainment
-hit	hit
-image	image
-ink	ink
-invention	invention
-manner, mode	manner
-movie, film	movie
-museum	museum
-music	music
-note	note
-orchestra	orchestra
-paint, pigment	paint
-painting, picture	painting
-paper	paper
-pen	pen
-pencil	pencil
-picture, image	picture
-poem, verse form	poem
-poetry, verse	poetry
-rhythm, beat	rhythm
-shape, form	shape
-singer, vocalist	singer
-song, vocal	song
-stage	stage
-style	style
-vogue, style	vogue
-account, business relationship	account
-advantage, vantage	advantage
-advertisement, ad	advertisement
-advice	advice
-agreement, understanding	agreement
-attention, attending	attention
-authority, authorization	authority
-banknote, bill	banknote
-bargain, deal	bargain
-brand, make	brand
-business	business
-businesswoman	businesswoman
-capital, working capital	capital
-change	change
-cheque	cheque
-committee, commission	committee
-company	company
-competition	competition
-complaint, charge	complaint
-contract	contract
-copy	copy
-cost	cost
-council	council
-course, class	course
-customer, client	customer
-demand, need	demand
-department, section	department
-difficulty	difficulty
-director, manager	director
-economy, economic system	economy
-environment	environment
-experience	experience
-firm, house	firm
-form	form
-group, grouping	group
-help, aid	help
-holiday, vacation	holiday
-income	income
-industry, manufacture	industry
-insurance	insurance
-interest	interest
-invoice, bill	invoice
-job, task	job
-law	law
-leave, leave of absence	leave
-loss	loss
-management, direction	management
-mark	mark
-market	market
-material, stuff	material
-mean, mean value	mean
-meeting, coming together	meeting
-money	money
-occupation, job	occupation
-offer, offering	offer
-office, business office	office
-officer, officeholder	officer
-operation	operation
-owner, possessor	owner
-package, bundle	package
-payment	payment
-plan	plan
-price, cost	price
-problem, job	problem
-product, production	product
-profit	profit
-property, belongings	property
-rate, charge per unit	rate
-rest, remainder	rest
-reward, payoff	reward
-right	right
-sale	sale
-section, division	section
-section, subdivision	section
-service	service
-share	share
-shop, store	shop
-show	show
-skill, science	skill
-staff	staff
-structure	structure
-success	success
-support	support
-table, tabular array	table
-tax, taxation	tax
-team, squad	team
-trade	trade
-value	value
-work	work
-worker	worker
-announcement, proclamation	announcement
-answer, reply	answer
-approval, blessing	approval
-argument, statement	argument
-book, volume	book
-call, telephone call	call
-character	character
-controversy, contention	controversy
-cry, outcry	cry
-data, information	data
-decision, determination	decision
-dictionary, lexicon	dictionary
-discussion	discussion
-doubt, uncertainty	doubt
-experience	experience
-feeling	feeling
-humor, humour	humor
-idea, thought	idea
-information, info	information
-interest, involvement	interest
-interview	interview
-language, linguistic communication	language
-language, tongue	language
-letter	letter
-letter, missive	letter
-lie, prevarication	lie
-look	look
-magazine, mag	magazine
-mail, post	mail
-memory	memory
-memory	memory
-mistake, error	mistake
-name	name
-newspaper, paper	newspaper
-note, annotation	note
-number	number
-opinion, view	opinion
-page	page
-pronunciation	pronunciation
-proposal	proposal
-protest, protestation	protest
-question, inquiry	question
-reaction	reaction
-reason, ground	reason
-relation	relation
-request, asking	request
-secret	secret
-sentence	sentence
-sign	sign
-speech, language	speech
-spelling	spelling
-standard, criterion	standard
-statement	statement
-subject, topic	subject
-suggestion, proposition	suggestion
-voice, vox	voice
-word	word
-writing	writing
-best regards	best regards
-do you speak English	do you speak English
-good day	good day
-good luck	good luck
-good morning, morning	good morning
-happy birthday	happy birthday
-hello, hullo	hello
-how are you	how are you
-many thanks	many thanks
-no	no
-sorry	sorry
-sorry	sorry
-thank you very much	thank you very much
-what is your name	what is your name
-yes	yes
-you're welcome	you're welcome
-Britain	Britain
-China	China
-Czech Republic	Czech Republic
-France, French Republic	France
-Germany	Germany
-India	India
-Italy	Italy
-Japan, Nippon	Japan
-Spain	Spain
-United States of America, USA	United States of America
-class, grade	class
-education	education
-education	education
-education, instruction	education
-examination, exam	examination
-grade, mark	grade
-knowledge	knowledge
-student, pupil	student
-teacher, instructor	teacher
-training	training
-fear, fright	fear
-hate, hatred	hate
-love	love
-pleasure, pleasance	pleasure
-promise, hope	promise
-shock	shock
-care, attention	care
-cold, common cold	cold
-cough, coughing	cough
-disease	disease
-doctor, doc	doctor
-health, wellness	health
-menstruation, menses	menstruation
-nurse	nurse
-operation, surgery	operation
-pain, hurting	pain
-patient	patient
-stitch	stitch
-blade	blade
-board	board
-card	card
-chain	chain
-club	club
-cover	cover
-feather, plume	feather
-flag	flag
-frame	frame
-handle, grip	handle
-menu, bill of fare	menu
-nut	nut
-pin	pin
-pipe, piping	pipe
-postage, postage stamp	postage
-present	present
-sail, canvas	sail
-scroll, roll	scroll
-seed	seed
-stick	stick
-stone, rock	stone
-ticket	ticket
-wheel	wheel
-wire	wire
-balance	balance
-bulk, volume	bulk
-charge, electric charge	charge
-energy, free energy	energy
-light	light
-mass	mass
-measurement, measuring	measurement
-mirror	mirror
-movement, motion	movement
-pressure	pressure
-process, physical process	process
-size	size
-sound	sound
-steam	steam
-strength, force	strength
-time, fourth dimension	time
-unit, unit of measurement	unit
-weight	weight
-boyfriend, beau	boyfriend
-date, appointment	date
-girlfriend	girlfriend
-guest, invitee	guest
-honey, love	honey
-kiss	kiss
-party	party
-sex	sex
-smile, grin	smile
-surprise	surprise
-visit	visit
-alternative	alternative
-biology, biological science	biology
-cause	cause
-chemistry, chemical science	chemistry
-comparison, comparing	comparison
-consequence, effect	consequence
-control	control
-discipline, field	discipline
-discovery, find	discovery
-discovery, find	discovery
-event	event
-evidence	evidence
-example, instance	example
-fact	fact
-issue	issue
-kernel, substance	kernel
-method	method
-model	model
-phase, stage	phase
-procedure, process	procedure
-production	production
-program, programme	program
-project, projection	project
-range, scope	range
-research	research
-research, inquiry	research
-science, scientific discipline	science
-society	society
-system, scheme	system
-technology, engineering	technology
-theory	theory
-trend, tendency	trend
-trouble, problem	trouble
-user	user
-army	army
-base, base of operations	base
-club, society	club
-company, companionship	company
-contest, competition	contest
-country, land	country
-court	court
-crime, offense	crime
-culture, civilization	culture
-democracy, republic	democracy
-dominion, rule	dominion
-election	election
-existence, being	existence
-female, female person	female
-government, regime	government
-history	history
-individual	individual
-institution, establishment	institution
-king	king
-male, male person	male
-member, fellow member	member
-nation	nation
-news, tidings	news
-noise, racket	noise
-order	order
-organization, organisation	organization
-pass, laissez passer	pass
-passport	passport
-peace	peace
-people	people
-police, constabulary	police
-policy	policy
-population	population
-public, populace	public
-punishment, penalty	punishment
-religion, faith	religion
-religion, faith	religion
-state	state
-title	title
-union	union
-war, state of war	war
-will	will
-will, testament	will
-award, accolade	award
-ball	ball
-baseball, baseball game	baseball
-bike, bicycle	bike
-championship, title	championship
-competitor, rival	competitor
-cup, loving cup	cup
-football, football game	football
-game	game
-goal	goal
-goal, destination	goal
-gold	gold
-golf, golf game	golf
-jump, leap	jump
-match	match
-player, participant	player
-record	record
-silver	silver
-tennis, lawn tennis	tennis
-throw	throw
-win	win
-bell	bell
-button, push button	button
-gun	gun
-hammer	hammer
-hook, claw	hook
-key	key
-lock	lock
-match	match
-nail	nail
-needle	needle
-pump	pump
-rope	rope
-scissors, pair of scissors	scissors
-spring	spring
-stamp	stamp
-whip	whip
-cloud	cloud
-dew	dew
-fog	fog
-frost, hoar	frost
-rain, rainfall	rain
-rainbow	rainbow
-snow	snow
-storm, violent storm	storm
-thunder	thunder
-wind	wind

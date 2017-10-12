@@ -1,8 +1,0 @@
-﻿English	Hindi
-and	और [aur]
-because	क्योंकि [kyonki]
-for	क्योंकि [kyonki]
-if	अगर [agar]
-or	या [yaa]
-than	से [se]
-until	तक [tak]

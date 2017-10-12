@@ -1,8 +1,0 @@
-﻿English	Portuguese
-and	e
-because	porque
-for	pois
-if	se
-or	ou
-than	do que
-until	até

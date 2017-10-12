@@ -1,7 +1,0 @@
-Lithuanian	﻿English
-ir	and
-kadangi	because
-nes	for
-jei	if
-ar	or
-nei	than

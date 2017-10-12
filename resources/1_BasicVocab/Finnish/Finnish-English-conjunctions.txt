@@ -1,7 +1,0 @@
-Finnish	﻿English
-ja	and
-koska	because
-sillä	for
-jos	if
-vai	or
-kuin	than

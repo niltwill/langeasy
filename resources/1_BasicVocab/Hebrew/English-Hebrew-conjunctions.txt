@@ -1,8 +1,0 @@
-﻿English	Hebrew
-and	(ve-)
-because	כי (kí), בגלל (biglál)
-for	בגלל (biglál)
-if	אם (im)
-or	או ('o)
-than	מאשר
-until	עד

@@ -1,10 +1,0 @@
-English	English
-
-and	and
-because	because
-for	for
-if	if
-or	or
-than	than
-until	until
-whenever	whenever

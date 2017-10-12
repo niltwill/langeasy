@@ -1,7 +1,0 @@
-﻿English	Norwegian
-and	og
-because	fordi
-if	hvis
-or	eller
-than	enn
-until	til

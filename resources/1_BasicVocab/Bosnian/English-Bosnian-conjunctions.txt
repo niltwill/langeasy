@@ -1,9 +1,0 @@
-﻿English	Bosnian
-and	i
-because	zato što
-for	za
-if	ako
-or	ili
-than	od
-until	dok
-whenever	bilo kada

@@ -1,8 +1,0 @@
-Arabic	﻿English
-و	and
-لأن	because
-لأجل	for
-إذا	if
-أو	or
-من	than
-حتى	until

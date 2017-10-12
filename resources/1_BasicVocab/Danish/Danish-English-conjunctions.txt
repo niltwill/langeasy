@@ -1,7 +1,0 @@
-Danish	﻿English
-og	and
-fordi	because
-for	for
-hvis	if
-eller	or
-end	than

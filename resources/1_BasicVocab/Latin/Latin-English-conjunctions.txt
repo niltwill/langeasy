@@ -1,7 +1,0 @@
-Latin	﻿English
-et	and
-quod	because
-pro, propter	for
-si	if
-aut	or
-quam	than

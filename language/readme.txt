@@ -3,4 +3,5 @@ Just copy the desired language folder to the root directory of the executable fi
 If you want to translate this software, then please use LSACreator:
 http://www.tbs-apps.com/lsacreator/download/
 
-Next, send your translate DLL to a new issue on the project's website.
+Next, send your translate DLL (and your language code) into a new issue on the project's website:
+https://github.com/niltwill/langeasy/issues

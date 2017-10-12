@@ -1,7 +1,0 @@
-Bulgarian	﻿English
-плюс	and
-защото	because
-защото	for
-ако	if
-или	or
-отколкото	than
