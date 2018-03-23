@@ -1,4 +1,12 @@
 ========
+v1.0.3.0
+========
+* Re-added Picture Viewer (no longer using an API now)
+* Fixed some annoying bugs
+* Removed unnecessary bundled resources
+* Updated help file
+
+========
 v1.0.2.1
 ========
 * Moved auto-update function to sync with GitHub
