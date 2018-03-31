@@ -1,4 +1,10 @@
 ========
+v1.0.3.1
+========
+* The main application cannot be run multiple times now
+* Sub-GUI windows can no longer be run more than once
+
+========
 v1.0.3.0
 ========
 * Re-added Picture Viewer (no longer using an API now)
