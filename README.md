@@ -6,9 +6,12 @@ Please make sure you have the [.NET Framework 4.0](https://www.microsoft.com/en-
 
 ## Download
 
-**Latest release: [v1.0.3.0](http://www.mediafire.com/file/8vthay7ts87kbyu/LangEasy-v1.0.3.0.zip)**
+**Latest release: [v1.0.3.1](http://www.mediafire.com/file/isr9i87205ifdy1/LangEasy-v1.0.3.1.zip)**
 
-Previous release (not recommended): [v1.0.2.1](https://www.mediafire.com/file/5phte6daqc8eqcz/LangEasy-v1.0.2.1.zip)
+Previous releases (not recommended, kept only for archive purposes):
+
+* [v1.0.3.0](http://www.mediafire.com/file/8vthay7ts87kbyu/LangEasy-v1.0.3.0.zip)
+* [v1.0.2.1](https://www.mediafire.com/file/5phte6daqc8eqcz/LangEasy-v1.0.2.1.zip)
 
 ## Introduction
 
